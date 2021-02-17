@@ -1,0 +1,44 @@
+module nile_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Games **
+//**    (C)opyright 2002,2003 by MDO Games			           **
+//**                                                                       **
+//***************************************************************************
+
+translate Silt to german masculinecollective
+{
+swa "Schlick";
+  sn "Schlick"; sg "Schlicks"; sd "Schlick"; sa "Schlick";
+  pn "Schlick"; pg "Schlick"; pd "Schlick"; pa "Schlick";
+}
+translate PapyrusPlant to german feminine
+{
+swa "Papyruspflanze";
+  sn "Papyruspflanze"; sg "Papyruspflanze"; sd "Papyruspflanze"; sa "Papyruspflanze";
+  pn "Papyruspflanzen"; pg "Papyruspflanzen"; pd "Papyruspflanzen"; pa "Papyruspflanzen";
+}
+translate PapyrusSeeds to german femininecollective
+{
+swa "Papyrussaat";
+  sn "Papyrussaat"; sg "Papyrussaat"; sd "Papyrussaat"; sa "Papyrussaat";
+  pn "Papyrussaaten"; pg "Papyrussaaten"; pd "Papyrussaaten"; pa "Papyrussaaten";
+}
+translate Papyrus to german masculinecollective
+{
+swa "Papyrus";
+  sn "Papyrus"; sg "Papyrus"; sd "Papyrus"; sa "Papyrus";
+  pn "Papyrus"; pg "Papyrus"; pd "Papyrus"; pa "Papyrus";
+}
+
+
+translate "Range at N1 N2 is N3"
+to german "Entfernung bei N1 N2 ist N3";
+
+translate "Papyrus"
+to german "Papyrus";
+
+translate "Gather these plants"
+to german "Pflücke diese Pflanzen";

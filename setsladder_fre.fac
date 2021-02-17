@@ -1,0 +1,208 @@
+module setsladder_fre;
+
+translate setsladdermechanics to french feminine
+{
+	ns "Échelle de Set"; np "Échelles de Set";
+	}
+
+translate "Sets Ladder Mechanics"
+to french "Échelle de Set";
+
+translate "Play a round of Set's Ladder"
+to french "Jouer à l'échelle de Set";
+
+translate "You must first remove all O1 from the pyramid."
+to french "Vous devez d'abord dégager tous les O1(np) de la pyramide .";
+
+translate "Set's Ladder"
+to french "Échelle de Set";
+
+translate "Ante type"
+to french "Miser";
+
+translate "tokens"
+to french "jetons";
+
+translate "Hide the Bank Balance"
+to french "Cacher le montant en banque";
+
+translate "Ladder's Bank contains N1 O1"
+to french "La banque de l'échelle contient N1 O1(N1?np:ns)";
+
+translate "Ladder's Bank contains N1"
+to french "La banque de l'échelle contient N1";
+
+translate "This ladder was designed by U1"
+to french "Cette échelle a été construite par U1(name)";
+
+translate "Playing for O1"
+to french "Jouer pour O1(dns) O1(ns)";
+
+translate "Claim your rights as an Initiate of Thought!"
+to french "Réclamez vos droits en tant qu'initié de la Pensée !";
+
+translate "Reset this Pyramid's Configuration"
+to french "Réinitialiser la configuration de cette pyramide";
+
+translate "Stash O1 for paying jackpots"
+to french "Déposer O1(ns) pour payer les cagnottes";
+
+translate "Configure"
+to french "Configurer";
+
+translate "Reconfiguring the ladder will reset all statistics and/or test progress. Proceed?"
+to french "Reconfigurer l'échelle va effacer tous les résultats et/ou les tests en cours. Procéder ?";
+
+translate "You can't play while the owner is configuring the game."
+to french "Vous ne pouvez jouer pendant la configuration de l'échelle.";
+
+translate "There is not enough O1 to cover a win."
+to french "Il n'y a pas assez de O1(ns) pour couvrir un gain.";
+
+translate "Ante of N1 O1 required."
+to french "Une mise de N1 O1(N1?np:ns) est nécessaire.";
+
+translate "Edit Instructions"
+to french "Modifier les instructions";
+
+translate "Describe your Set's Ladder"
+to french "Décrivez votre échelle de Set";
+
+translate "Top color wins/100"
+to french "Couleurs gagnantes/100";
+
+translate "Ant"
+to french "Mise de départ";
+
+translate "Jackpot Top"
+to french "Jackpot gagnant";
+
+translate "First face"
+to french "Premier côté";
+translate "Second face"
+to french "Deuxième côté";
+translate "Third face"
+to french "Troisième côté";
+translate "Fourth face"
+to french "Quatrième côté";
+
+translate "Who is playing?"
+to french "Voir qui joue.";
+
+translate "Pyramid isn't playing you!"
+to french "Ce n'est pas votre partie !";
+
+translate "You are not playing!"
+to french "Vous n'avez pas commencé de partie !";
+
+translate "You don't have any of those Arks left!"
+to french "Il ne vous en reste plus!";
+
+translate "You are near N1 N2"
+to french "Vous êtes près de N1 N2";
+
+translate "You are not positioned right."
+to french "Vous n'êtes pas bien positionné.";
+
+translate "Zero length pyramid list. Call a developer."
+to french "Liste vide. Appelez un développeur.";
+
+translate "You have climbed Set's Ladder - Jackpot is N1 O1"
+to french "Vous avez réussi à résoudre l'échelle de Set\n     Vous remportez N1 O1(ns)\n";
+
+translate "You have cleared the first set of rungs! Jackpot is N1 O1"
+to french "Vous avez vidé le premier étage! Vous remportez N1 O1(N1?np:ns) O1(ns)";
+
+translate "You have cleared the second set of rungs! Jackpot is N1 O1"
+to french "Vous avez vidé le deuxième étage ! Vous remportez N1 O1(N1?np:ns) O1(ns)";
+
+translate "You have cleared the third set of rungs! Jackpot is N1 O1"
+to french "Vous avez vidé le troisième étage ! Vous remportez N1 O1(N1?np:ns) O1(ns)";
+
+translate "You have cleared the entire ladder! Jackpot is N1 O1"
+to french "Vous avez vidé tous les étages ! Vous remportez N1 O1(N1?np:ns) O1(ns)";
+
+translate "Game over!"
+to french "Fin de partie!";
+
+translate "Keep playing..."
+to french "Continuer à jouer...";
+
+translate "initiation"
+to french "initiation";
+
+translate "Start the Initiation into Thought"
+to french "Débuter l'initiation de la Pensée";
+
+translate "To prove your potential in the discipline of Thought, "
+to french "Pour prouver vos capacités dans la discipline de la Pensée, ";
+translate "you must know the pulse of the Egyptian people. You "
+to french "vous devez connaître le pouls du peuple égyptien. Vous ";
+translate "will create a Set's Ladder, a mechanical gambling "
+to french "devez créer une Échelle de Set, un jeu de hasard mécanique ";
+translate "device, and invent a set of rules for it that others want to play."
+to french "et inventer des règles qui feront que les autres voudront y jouer.";
+translate "You will first need ownership of a pyramid, although it is not necessary to have "
+to french "Vous devez tout d'abord posséder une pyramide bien qu'il ne soit pas nécessaire ";
+translate "had a hand in it's construction. You'll then need to build a set of Arks at the "
+to french "que vous l'ayez construite vous-même. Vous devrez ensuite construire un ensemble d'arcs";
+translate "pyramid, or have someone else do that for you, and you'll have to fund the Ladder "
+to french "sur la pyramide, ou demander à quelqu'un de les construire pour vous. Vous devrez remplir ";
+translate "and configure it."
+to french "l'échelle et la configurer.";
+
+translate "To prove your potential in the discipline of Thought, you must know the pulse of the Egyptian people. You will create a Set's Ladder, a mechanical gambling device, and invent a set of rules for it that others want to play."
+to french "Pour prouver vos capacités dans la discipline de la Pensée, vous devez connaître le pouls du peuple égyptien. Vous devez créer une Échelle de Set, un jeu de hasard mécanique et inventer des règles qui feront que les autres voudront y jouer.";
+
+translate "You will first need ownership of a pyramid, although it is not necessary to have had a hand in it's construction. You'll then need to build a set of Arks at the pyramid, or have someone else do that for you, and you'll have to fund the Ladder and configure it."
+to french "Vous devez tout d'abord posséder une pyramide. Il n'est pas nécessaire que vous l'ayez construite vous-même. Vous devrez ensuite construire des blocs de couleur, ou demander à quelqu'un de les construire pour vous. Vous devrez remplir la pyramide et la configurer.";
+
+//When one of your Ladders acheives popularity 100, you will initiate into the Discipline of Thought."
+//to french "Pour prouver vos capacités dans la discipline de la Pensée, vous devez connaître le pouls du peuple égyptien. Vous devez créer une Échelle de Set, //un jeu de hasard mécanique et inventer des règles qui feront que les autres voudront y jouer. Vous devez tout d'abord posséder une pyramide. Il n'est pas //nécessaire que vous l'ayez construite vous-même. Vous devrez ensuite construire des blocs de couleur, ou demander à quelqu'un de les construire pour vous. //Vous devrez remplir la pyramide et la configurer. Quand une de vos pyramides atteint une popularité de 100, vous deviendrez initié de la Pensée.";
+
+translate "Set's Ladder: U1"
+to french "Échelle de Set : U1(name)";
+
+translate "Rig this O1 for Set's Ladder"
+to french "Installer une échelle de Set sur O1(cns) O1(ns).";
+
+translate "Show the Bank Balance"
+to french "Montrer le solde bancaire";
+translate "To rig this Pyramid for Set's Ladder, you need:"
+to french "Pour équiper cette pyramide pour l'Échelle de Set, vous avez besoin de :";
+
+translate "N1 O1"
+to french "N1 O1(N1?np:ns)";
+
+translate "You may now configure Set's Ladder."
+to french "Vous pouvez maintenant configurer l'Échelle de Set.";
+
+translate "Configure a Set's Ladder and have 7 people play it."
+to french "Configurez une échelle de Set et obtenez que 7 personnes y jouent";
+translate "Create glass rod"
+to french "Créer une tige de verre";
+translate "Dig up a limestone block"
+to french "Creuser un block de calcaire";
+translate "Create gold wire"
+to french "Créer du fil d'or";
+translate "Design a Set's Ladder Puzzle and Solve it"
+to french "Dessinez un puzzle d'échelle de Set et résolvez-le";
+translate "Have 7 Judges solve and rate your Set's Ladder Puzzle, at least good"
+to french "Obtenez que 7 juges résolvent et notent au moins BON votre échelle";
+translate "All of the above, OR solve three recently recognized Set's Ladders"
+to french "Tout ce qui est ci-dessus OU résolvez 3 échèlles récemment gratifiées";
+
+translate "Open Set's Ladder for players"
+to french "Permettre de jouer à cette Échelle de Set";
+
+translate "Players must have at least one Ark to play with."
+to french "Les joueurs doivent disposer d'au moins un bloc de couleur pour jouer.";
+
+translate "You must pay out some sort of jackpot."
+to french "Vous devez mettre de quoi payer la cagnotte.";
+
+translate "View Instructions"
+to french "Lire les instructions.";
+
+
+

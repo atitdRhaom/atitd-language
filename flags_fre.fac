@@ -1,0 +1,36 @@
+module flags_fre;
+
+translate "Log in anytime?"
+to french "Vous connecter n'importe quand ?";
+translate "Build during builder sessions?"
+to french "Construire durant les sessions de construction ?";
+translate "Programmer?"
+to french "Programmeur ?";
+translate "Account is banned?"
+to french "Le compte est-il banni ?";
+translate "Translator"
+to french "Traducteur";
+translate "Can use /TestGraphic command?"
+to french "Possibilité d'utiliser / Commande de tests graphiques ?";
+translate "Build during live sessions?"
+to french "Construire durant les sessions live ?";
+translate "Conjure during builder sessions?"
+to french "Invoquer pendant les sessions de construction ?";
+translate "Conjure during live sessions?"
+to french "Invoquer durant les sessions live ?";
+translate "Warp during live sessions?"
+to french "Se téléporter durant les sessions live ?";
+translate "Game Master - Commands"
+to french "Animateur - Commandes";
+translate "Game Master - Chats"
+to french "Animateur - Canaux";
+translate "Game Master - Warps"
+to french "Animateur - Téléportation";
+translate "Game Master - Special Event Commands"
+to french "Animateur - Commandes spéciales events";
+translate "Banned from Mentoring"
+to french "Banni du mentorat";
+translate "Invisibility?"
+to french "Invisibilité ?";
+translate "Game Master?"
+to french "Animateur ?";

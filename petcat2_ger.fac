@@ -1,0 +1,248 @@
+Module petcat2_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**            German Version: Astrid "Infinyti" Werner                   **
+//**                            2012                                       **
+//**                                                                       **
+//***************************************************************************
+
+translate Cat to german feminine
+{
+swa "Katze";
+  sn "Katze"; sg "Katze"; sd "Katze"; sa "Katze";
+  pn "Katzen"; pg "Katzen"; pd "Katzen"; pa "Katzen";
+}
+
+translate CatHouse to german feminine
+{
+swa "Katzenfarm";
+  sn "Katzenfarm"; sg "Katzenfarm"; sd "Katzenfarm"; sa "Katzenfarm";
+  pn "Katzenfarmen"; pg "Katzenfarmen"; pd "Katzenfarmen"; pa "Katzenfarmen";
+}
+
+translate "This is Freckles, belonging to U1"
+  to german "Dies ist Freckles und gehört U1(name)";
+
+translate "cat-run"
+  to german "Katzensprint";
+
+translate "cat-walk"
+  to german "Katzenschlendern";
+
+translate "Pet"
+  to german "Streicheln";
+
+translate "Breed a Cat"
+  to german "Züchte eine Katze";
+
+translate "Mackeral Tabby"
+  to german "gestreift tabby";
+
+translate "Havana"
+  to german "havannabraun";
+
+translate "Ginger"
+  to german "fuchsrot";
+
+translate "Tuxedo +1"
+  to german "Tuxedo +1";
+
+translate "Bengal +4"
+  to german "Bengal +4";
+
+translate "Color Point"
+  to german "farbig";
+
+translate "Marbled"
+  to german "marmoriert";
+
+translate "River +1"
+  to german "Fluss +1";
+
+translate "Desert"
+  to german "Wüste";
+
+translate "Woodland +1"
+  to german "Waldgebiet +1";
+
+translate "Grassland +2"
+  to german "Wiese +2";
+
+translate "Savanah +4"
+  to german "Savanne +4";
+
+translate "Coastal +7"
+  to german "Küste +7";
+
+translate "Jungle +10"
+  to german "Dschungel +10";
+
+translate "Silent"
+  to german "leise";
+
+translate "Exotic"
+  to german "exotisch";
+
+translate "Angry"
+  to german "zornig";
+
+translate "Threatning"
+  to german "bedrohlich";
+
+translate "Playful"
+  to german "verspielt";
+
+translate "Hopeful"
+  to german "erwartungsvoll";
+
+translate "Timid"
+  to german "zaghaft";
+
+translate "Pleading"
+  to german "flehendlich";
+
+translate "Crying"
+  to german "weinend";
+
+translate "Whining"
+  to german "wimmernd";
+
+translate "Hissy"
+  to german "wütend";
+
+translate "Helpful"
+  to german "hilflos";
+
+translate "Questioning"
+  to german "fragend";
+
+translate "Sad"
+  to german "traurig";
+
+translate "Depressed"
+  to german "schwermütig";
+
+translate "Howl"
+  to german "schreiend";
+
+translate "Accusing"
+  to german "anklagend";
+
+translate "Objecting"
+  to german "widersprechend";
+
+translate "Bitchy"
+  to german "zickig";
+
+translate "Why Me?"
+  to german "Warum ich?";
+
+translate "Go Away"
+  to german "Geh weg";
+
+translate "Do Not Use"
+  to german "Nicht benutzen";
+
+translate "You're Not!"
+  to german "Bist du nicht!";
+
+translate "It's Mine"
+  to german "Das ist meins";
+
+translate "Hello!"
+  to german "Hallo!";
+
+translate "Size of Cat"
+  to german "Katzengröße";
+
+translate "Pattern of Cat"
+  to german "Fellmuster";
+
+translate "Color of Cat"
+  to german "Fellfarbe";
+
+translate "Meow Type"
+  to german "Art des Miauens";
+
+translate "Groan Type"
+  to german "Art des Stöhnens";
+
+translate "Exclamation (Moan) Type"
+  to german "Art des Aufschreis";
+
+translate "That cat is too rare. Only developers can price such cats. Rarity is: N1"
+  to german "Diese Katze ist zu selten. Nur Entwickler können solche Katzen vergeben. Der Seltenheitsfaktor ist: N1";
+
+translate "That's a $N1.N2 Cat"
+  to german "Dies ist eine $N1.N2 Katze";
+
+translate "Adopt this cat for $N1.N2"
+  to german "Adoptiere diese Katze für $N1.N2";
+
+translate "Is this cat for you, or for someone else?"
+  to german "Ist diese Katze für dich oder jemanden anders?";
+
+translate "For Me"
+  to german "Für mich";
+
+translate "For a Friend"
+  to german "Für einen Freund";
+
+translate "Who is the cat for?"
+  to german "Für wen ist die Katze?";
+
+translate "To buy this cat for $N1.N2 using N3.N4 from your balance, and charging N5.N6 to the credit card on file, type KITTY"
+  to german "Für den Kauf dieser Katze für $ N1.N2 mithilfe N3.N4 von deinem Saldo und dem Aufladen von N5.N6 auf die angegebene Kreditkarte, schreibe KITTY";
+
+translate "To buy this cat for $N1.N2 using the credit card on file, type KITTY"
+  to german "Um diese Katze per Kreditkarte für $N1.N2 zu haufen, schreibe KITTY";
+
+translate "Cancelled order."
+  to german "Kauf abgebrochen.";
+
+translate "Oops, someone else is trying to buy this cat."
+  to german "Ups, jemand anders versucht, diese Katze zu kaufen.";
+
+translate "Charge did not go through, result code was: "
+  to german "Kartenbelastung ging nicht durch, Code war:";
+
+translate "Charge successful."
+  to german "Kartenbelastung erfolgreich.";
+
+translate "Aww, what a cute pet!"
+  to german "Oooohh, was für ein süßes Tier!";
+
+translate "A new cat is adopted! Congratulate U1 on his new friend."
+  to german "Eine neue Katze wurde adoptiert! Gratuliere U1(name) zu seinem neuen Freund.";
+
+translate "A new cat is adopted! Congratulate U1 on her new friend."
+  to german "Eine neue Katze wurde adoptiert! Gratuliere U1(name) zu ihrem neuen Freund.";
+
+translate "Unnamed"
+  to german "Unbenannt";
+
+translate "Name your Cat"
+  to german "Benenne deine Katze";
+
+translate "Name of your cat?"
+  to german "Name deiner Katze?";
+
+translate "Rename this Cat"
+  to german "Diese Katze umbenennen";
+
+translate "New name of the cat?"
+  to german "Neuer Name der Katze?";
+
+translate "Reward with Catnip"
+  to german "Belohne mit Katzenminze";
+
+translate "Rescue a Cat"
+  to german "Rette eine Katze";
+
+translate "Warning: If you use this on a cat that is not lost, it will screw things up. Continue?"
+  to german "Warnung: Wenn du das an einer Katze anwendest, die nicht verloren gegangen ist, wird es schiefgehen. Weitermachen?";
+
+translate "Cat Name?"
+  to german "Katzenname?";

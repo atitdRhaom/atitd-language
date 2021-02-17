@@ -1,0 +1,197 @@
+module chariotstop_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment	        	   **
+//**                                                                       **
+//***************************************************************************
+translate "N1: K1 - K2"
+to german "N1: K1 - K2";
+
+translate ChariotStop to german femininecollective
+{
+swa "Streitwagenhaltebucht";
+  sn "Streitwagenhaltebucht"; sg "Streitwagenhaltebucht"; sd "Streitwagenhaltebucht"; sa "Streitwagenhaltebucht";
+  pn "Streitwagenhaltebuchten"; pg "Streitwagenhaltebuchten"; pd "Streitwagenhaltebuchten"; pa "Streitwagenhaltebuchten";
+  }
+  
+translate "Update all links"
+to german "Aktualisiere alle Links";
+
+translate "Links"
+to german "Links";
+  
+translate "Travel to "
+to german "Reise nach ";
+
+translate "Travel to Karnak is FREE for the next K1"
+to german "Die Reise nach Karnak ist für die nächste K1 kostenlos";
+translate "Travel to Lower Egypt is FREE for the next K1"
+to german "Die Reise nach Lower Egypt ist für die nächste K1 kostenlos";
+translate "Travel to Cradle of the Sun is FREE for the next K1"
+to german "Die Reise nach Cradle of the Sun ist für die nächste K1 kostenlos";
+translate "Travel to Kush is FREE for the next K1"
+to german "Die Reise nach Kush ist für die nächste K1 kostenlos";
+translate "Travel to Seven Lakes is FREE for the next K1"
+to german "Die Reise nach Seven Lakes ist für die nächste K1 kostenlos";
+translate "Travel to Khartoum is FREE for the next K1"
+to german "Die Reise nach Khartoum ist für die nächste K1 kostenlos";
+translate "Travel to Sinai is FREE for the next K1"
+to german "Die Reise nach Sinai ist für die nächste K1 kostenlos";
+translate "Travel to Upper Egypt is FREE for the next K1"
+to german "Die Reise nach Upper Egypt ist für die nächste K1 kostenlos";
+translate "Travel to Fool's Paradise is FREE for the next K1"
+to german "Die Reise nach Fools Paradise ist für die nächste K1 kostenlos";
+translate "Travel to Desert of Shades is FREE for the next K1"
+to german "Die Reise nach Desert of Shades ist für die nächste K1 kostenlos";
+translate "Travel to Qatara is FREE for the next K1"
+to german "Die Reise nach Qatara ist für die nächste K1 kostenlos";
+translate "Travel to Tanis is FREE for the next K1"
+to german "Die Reise nach Tanis ist für die nächste K1 kostenlos";
+
+
+translate "Travel now for free"
+to german "Reise nun kostenlos";
+
+translate "Travel to Karnak requires K1 of travel time"
+to german "Die Reise nach Karnak kostet K1 Reisezeit.";
+translate "Travel to Lower Egypt requires K1 of travel time"
+to german "Die Reise nach Lower Egypt kostet K1 Reisezeit.";
+translate "Travel to Cradle of the Sun requires K1 of travel time"
+to german "Die Reise nach Cradle of the Sun kostet K1 Reisezeit.";
+translate "Travel to Kush requires K1 of travel time"
+to german "Die Reise nach Kush kostet K1 Reisezeit.";
+translate "Travel to Seven Lakes requires K1 of travel time"
+to german "Die Reise nach Seven Lakes kostet K1 Reisezeit.";
+translate "Travel to Khartoum requires K1 of travel time"
+to german "Die Reise nach Khartoum kostet K1 Reisezeit.";
+translate "Travel to Sinai requires K1 of travel time"
+to german "Die Reise nach Sinai kostet K1 Reisezeit.";
+translate "Travel to Upper Egypt requires K1 of travel time"
+to german "Die Reise nach Upper Egypt kostet K1 Reisezeit.";
+translate "Travel to Fool's Paradise requires K1 of travel time"
+to german "Die Reise nach Fools Paradise kostet K1 Reisezeit.";
+translate "Travel to Desert of Shades requires K1 of travel time"
+to german "Die Reise nach Desert of Shades kostet K1 Reisezeit.";
+translate "Travel to Qatara requires K1 of travel time"
+to german "Die Reise nach Qatara kostet K1 Reisezeit.";
+translate "Travel to Tanis requires K1 of travel time"
+to german "Die Reise nach Tanis kostet K1 Reisezeit.";
+
+
+translate "Travel will be free in K1"
+to german "Die Reise wird in K1 kostenlos sein.";
+
+translate "Travel using Travel Time"
+to german "Nutze deine angesammelte Reisezeit für diese Strecke.";
+
+translate "You are all sweaty from your recent waypoint run. Wait another K1 to board a chariot."
+to german "Du bist vom letzten Wegpunktrennen verschwitzt. Warte weitere K1, bevor du den Streitwagen besteigst.";
+
+translate "You only have K1 of travel time."
+to german "Du hast nur K1 Reisezeit.";
+
+translate "Use K1 of travel time?"
+to german "Nutze K1 Reisezeit??";
+
+translate "You can't chariot-travel if you can't walk!"
+to german "Du kannst keinen Streitwagen besteigen, wenn du nicht laufen kannst!";
+
+translate "Destination: Lower Egypt"
+to german "Ziel: Lower Egypt";
+translate "Destination: Cradle of the Sun"
+to german "Ziel: Cradle of the Sun";
+translate "Destination: Karnak"
+to german "Ziel: Karnak";
+translate "Destination: Kush"
+to german "Ziel: Kush";
+translate "Destination: Seven Lakes"
+to german "Ziel: Seven Lakes";
+translate "Destination: Khartoum"
+to german "Ziel: Khartoum";
+translate "Destination: Sinai"
+to german "Ziel: Sinai";
+translate "Destination: Upper Egypt"
+to german "Ziel: Upper Egypt";
+translate "Destination: Fool's Paradise"
+to german "Ziel: Fools Paradise";
+translate "Destination: Desert of Shades"
+to german "Ziel: Desert of Shades";
+translate "Destination: Qatara"
+to german "Ziel: Qatara";
+translate "Destination: Tanis"
+to german "Ziel: Tanis";
+
+
+///Tale3
+
+translate "Repair the link to Cradle of the Sun (N1 More Needed)"
+to german "Repariere den Weg nach Cradle of the Sun (N1 weitere Leute benötigt)";
+translate "Repair the link to Fool's Paradise (N1 More Needed)"
+to german "Repariere den Weg nach Fools Paradise (N1 weitere Leute benötigt)";
+translate "Repair the link to Kush (N1 More Needed)"
+to german "Repariere den Weg nach Kush (N1 weitere Leute benötigt)";
+translate "Repair the link to Seven Lakes (N1 More Needed)"
+to german "Repariere den Weg nach Seven Lakes (N1 weitere Leute benötigt)";
+translate "Repair the link to Desert of Shades (N1 More Needed)"
+to german "Repariere den Weg nach Desert of Shades (N1 weitere Leute benötigt)";
+translate "Repair the link to Khartoum (N1 More Needed)"
+to german "Repariere den Weg nach Khartoum (N1 weitere Leute benötigt)";
+translate "Repair the link to Upper Egypt (N1 More Needed)"
+to german "Repariere den Weg nach Upper Egypt (N1 weitere Leute benötigt)";
+translate "Repair the link to Qatara (N1 More Needed)"
+to german "Repariere den Weg nach Qatara (N1 weitere Leute benötigt)";
+translate "Repair the link to Lower Egypt (N1 More Needed)"
+to german "Repariere den Weg nach Lower Egypt (N1 weitere Leute benötigt)";
+translate "Repair the link to Sinai (N1 More Needed)"
+to german "Repariere den Weg nach Sinai (N1 weitere Leute benötigt)";
+translate "Repair the link to Tanis (N1 More Needed)"
+to german "Repariere den Weg nach Tanis (N1 weitere Leute benötigt)";
+translate "Repair the link to Karnak (N1 More Needed)"
+to german "Repariere den Weg nach Karnak (N1 weitere Leute benötigt)";
+
+translate "You have already used your alloted chariot stop repairs"
+  to german "Du hast bereits alle deine möglichen Haltestellenreparaturen genutzt";
+
+translate "Only permanent residents (paid accounts) may use the Chariot Repair skill."
+to german "Nur dauerhafte Siedler (Zahlaccounts) dürfen den Haltebuchtreparaturskill verwenden.";
+
+translate "You may only use this ability once, ever. To repair the route to Cradle of the Sun, type REPAIR:"
+to german "Du darfst diese Fähigkeit nur ein einziges Mal nutzen. Um diesen Weg nach Cradle of the Sun zu reparieren, schreibe REPAIR:";
+translate "You may only use this ability once, ever. To repair the route to Fool's Paradise, type REPAIR:"
+to german "Du darfst diese Fähigkeit nur ein einziges Mal nutzen. Um diesen Weg nach Fool's Paradise zu reparieren, schreibe REPAIR:";
+translate "You may only use this ability once, ever. To repair the route to Kush, type REPAIR:"
+to german "Du darfst diese Fähigkeit nur ein einziges Mal nutzen. Um diesen Weg nach Kush zu reparieren, schreibe REPAIR:";
+translate "You may only use this ability once, ever. To repair the route to Seven Lakes, type REPAIR:"
+to german "Du darfst diese Fähigkeit nur ein einziges Mal nutzen. Um diesen Weg nach Seven Lakes zu reparieren, schreibe REPAIR:";
+translate "You may only use this ability once, ever. To repair the route to Desert of Shades, type REPAIR:"
+to german "Du darfst diese Fähigkeit nur ein einziges Mal nutzen. Um diesen Weg nach Desert of Shades zu reparieren, schreibe REPAIR:";
+translate "You may only use this ability once, ever. To repair the route to Khartoum, type REPAIR:"
+to german "Du darfst diese Fähigkeit nur ein einziges Mal nutzen. Um diesen Weg nach Khartoum zu reparieren, schreibe REPAIR:";
+translate "You may only use this ability once, ever. To repair the route to Upper Egypt, type REPAIR:"
+to german "Du darfst diese Fähigkeit nur ein einziges Mal nutzen. Um diesen Weg nach Upper Egypt zu reparieren, schreibe REPAIR:";
+translate "You may only use this ability once, ever. To repair the route to Qatara, type REPAIR:"
+to german "Du darfst diese Fähigkeit nur ein einziges Mal nutzen. Um diesen Weg nach Qatara zu reparieren, schreibe REPAIR:";
+translate "You may only use this ability once, ever. To repair the route to Lower Egypt, type REPAIR:"
+to german "Du darfst diese Fähigkeit nur ein einziges Mal nutzen. Um diesen Weg nach Lower Egypt zu reparieren, schreibe REPAIR:";
+translate "You may only use this ability once, ever. To repair the route to Sinai, type REPAIR:"
+to german "Du darfst diese Fähigkeit nur ein einziges Mal nutzen. Um diesen Weg nach Sinai zu reparieren, schreibe REPAIR:";
+translate "You may only use this ability once, ever. To repair the route to Tanis, type REPAIR:"
+to german "Du darfst diese Fähigkeit nur ein einziges Mal nutzen. Um diesen Weg nach Tanis zu reparieren, schreibe REPAIR:";
+translate "You may only use this ability once, ever. To repair the route to Karnak, type REPAIR:"
+to german "Du darfst diese Fähigkeit nur ein einziges Mal nutzen. Um diesen Weg nach Karnak zu reparieren, schreibe REPAIR:";
+
+// translate ""
+
+///translate "Repairs needed from O1 to O2 is K1"
+
+translate "Warning: The return route is in disrepair. This trip is one way! If you are sure, type ONEWAY:"
+to german "Warnung: Der Rückweg ist zerfallen. Diese Reise geht nur in eine Richtung! Bist du sicher, schreibe ONEWAY:";
+
+translate "Linking from O1 to O2"
+to german "Verbinde von O1(sn) zu O2(sn)";
+
+translate "This Chariot Stop crumbled ages ago"
+to german "Diese Streitwagenhaltebuchtt ist vor vielen Jahren zerfallen";

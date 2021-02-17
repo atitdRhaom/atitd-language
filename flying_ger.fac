@@ -1,0 +1,28 @@
+module flying_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2007 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+
+translate HotAirBalloon to german masculine
+{
+  swa "Heiﬂluftballon";
+  sn "Heiﬂluftballon"; sg "Heiﬂluftballons"; sd "Heiﬂluftballon"; sa "Heiﬂluftballon";
+  pn "Heiﬂluftballons"; pg "Heiﬂluftballons"; pd "Heiﬂluftballons"; pa "Heiﬂluftballons";
+}
+
+translate "Ride"
+to german "Fahrt";
+
+translate "Launch the Balloon"
+to german "Steige in den Ballon";
+
+translate "Land"
+to german "Landen";
+
+translate "Landing..."
+to german "Landeanflug...";

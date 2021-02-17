@@ -1,0 +1,229 @@
+module utility_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** 					German Version: Astrid "Infinyti" Werner 		            **
+//**    		                      2011                                     **
+//**                                                                       **
+//***************************************************************************
+
+translate "Zero"
+	to german "Null";
+
+translate "One"
+	to german "Eins";
+
+translate "Two"
+	to german "Zwei";
+
+translate "Three"
+	to german "Drei";
+
+translate "Four"
+	to german "Vier";
+
+translate "Five"
+	to german "Fünf";
+
+translate "Six"
+	to german "Sechs";
+
+translate "Seven"
+	to german "Sieben";
+
+translate "Eight"
+	to german "Acht";
+
+translate "Nine"
+	to german "Neun";
+
+translate "Ten"
+	to german "Zehn";
+
+translate "1 day"
+	to german "1 Tag";
+
+translate "N1 second"
+to german "N1 Sekunde";
+translate "N1 seconds"
+to german "N1 Sekunden";
+translate "N1 minute"
+to german "N1 Minute";
+translate "N1 minutes"
+to german "N1 Minuten";
+translate "N1 hour"
+to german "N1 Stunde";
+translate "N1 hours"
+to german "N1 Stunden";
+translate "N1 days"
+to german "N1 Tagen";
+
+translate "N1 minute N2 second"
+to german "N1 Minute N2 Sekunde";
+translate "N1 minute N2 seconds"
+to german "N1 Minute N2 Sekunden";
+translate "N1 minutes N2 second"
+to german "N1 Minuten N2 Sekunde";
+translate "N1 minutes N2 seconds"
+to german "N1 Minuten N2 Sekunden";
+
+translate "N1 hour N2 second"
+to german "N1 Stunde N2 Sekunde";
+translate "N1 hour N2 seconds"
+to german "N1 Stunde N2 Sekunden";
+translate "N1 hours N2 second"
+to german "N1 Stunden N2 Sekunde";
+translate "N1 hours N2 seconds"
+to german "N1 Stunden N2 Sekunden";
+
+translate "N1 hour N2 minute"
+to german "N1 Stunde N2 Minute";
+translate "N1 hour N2 minutes"
+to german "N1 Stunde N2 Minuten";
+translate "N1 hours N2 minute"
+to german "N1 Stunden N2 Minute";
+translate "N1 hours N2 minutes"
+to german "N1 Stunden N2 Minuten";
+
+translate "N1 hour N2 minute N3 second"
+to german "N1 Stunde N2 Minute N3 Sekunde";
+translate "N1 hour N2 minutes N3 second"
+to german "N1 Stunde N2 Minuten N3 Sekunde";
+translate "N1 hour N2 minute N3 seconds"
+to german "N1 Stunde N2 Minute N3 Sekunden";
+translate "N1 hour N2 minutes N3 seconds"
+to german "N1 Stunde N2 Minuten N3 Sekunden";
+translate "N1 hours N2 minute N3 second"
+to german "N1 Stunden N2 Minute N3 Sekunde";
+translate "N1 hours N2 minutes N3 second"
+to german "N1 Stunden N2 Minuten N3 Sekunde";
+translate "N1 hours N2 minute N3 seconds"
+to german "N1 Stunden N2 Minute N3 Sekunden";
+translate "N1 hours N2 minutes N3 seconds"
+to german "N1 Stunden N2 Minuten N3 Sekunden";
+
+
+
+translate "N1 day N2 second"
+to german "N1 Tag N2 Sekunde";
+translate "N1 day N2 seconds"
+to german "N1 Tag N2 Sekunden";
+translate "N1 day N2 minute"
+to german "N1 Tag N2 Minute";
+translate "N1 day N2 minutes"
+to german "N1 Tag N2 Minuten";
+translate "N1 day N2 hour"
+to german "N1 Tag N2 Stunde";
+translate "N1 day N2 hours"
+to german "N1 Tag N2 Stunden";
+
+translate "N1 day N2 minute N3 second"
+to german "N1 Tag N2 Minute N3 Sekunde";
+translate "N1 day N2 minute N3 seconds"
+to german "N1 Tag N2 Minute N3 Sekunden";
+translate "N1 day N2 minutes N3 second"
+to german "N1 Tag N2 Minuten N3 Sekunde";
+translate "N1 day N2 minutes N3 seconds"
+to german "N1 Tag N2 Minuten N3 Sekunden";
+
+translate "N1 day N2 hour N3 second"
+to german "N1 Tag N2 Stunde N3 Sekunde";
+translate "N1 day N2 hour N3 seconds"
+to german "N1 Tag N2 Stunde N3 Sekunden";
+translate "N1 day N2 hours N3 second"
+to german "N1 Tag N2 Stunden N3 Sekunde";
+translate "N1 day N2 hours N3 seconds"
+to german "N1 Tag N2 Stunden N3 Sekunden";
+
+translate "N1 day N2 hour N3 minute"
+to german "N1 Tag N2 Stunde N3 Minute";
+translate "N1 day N2 hour N3 minutes"
+to german "N1 Tag N2 Stunde N3 Minuten";
+translate "N1 day N2 hours N3 minute"
+to german "N1 Tag N2 Stunden N3 Minute";
+translate "N1 day N2 hours N3 minutes"
+to german "N1 Tag N2 Stunden N3 Minuten";
+
+translate "N1 day N2 hour N3 minute N4 second"
+to german "N1 Tag N2 Stunde N3 Minute N4 Sekunde";
+translate "N1 day N2 hour N3 minutes N4 second"
+to german "N1 Tag N2 Stunde N3 Minuten N4 Sekunde";
+translate "N1 day N2 hour N3 minute N4 seconds"
+to german "N1 Tag N2 Stunde N3 Minute N4 Sekunden";
+translate "N1 day N2 hour N3 minutes N4 seconds"
+to german "N1 Tag N2 Stunde N3 Minuten N4 Sekunden";
+translate "N1 day N2 hours N3 minute N4 second"
+to german "N1 Tag N2 Stunden N3 Minute N4 Sekunde";
+translate "N1 day N2 hours N3 minutes N4 second"
+to german "N1 Tag N2 Stunden N3 Minuten N4 Sekunde";
+translate "N1 day N2 hours N3 minute N4 seconds"
+to german "N1 Tag N2 Stunden N3 Minute N4 Sekunden";
+translate "N1 day N2 hours N3 minutes N4 seconds"
+to german "N1 Tag N2 Stunden N3 Minuten N4 Sekunden";
+
+
+
+translate "N1 days N2 second"
+to german "N1 Tage N2 Sekunde";
+translate "N1 days N2 seconds"
+to german "N1 Tage N2 Sekunden";
+translate "N1 days N2 minute"
+to german "N1 Tage N2 Minute";
+translate "N1 days N2 minutes"
+to german "N1 Tage N2 Minuten";
+translate "N1 days N2 hour"
+to german "N1 Tage N2 Stunde";
+translate "N1 days N2 hours"
+to german "N1 Tage N2 Stunden";
+
+translate "N1 days N2 minute N3 second"
+to german "N1 Tage N2 Minute N3 Sekunde";
+translate "N1 days N2 minute N3 seconds"
+to german "N1 Tage N2 Minute N3 Sekunden";
+translate "N1 days N2 minutes N3 second"
+to german "N1 Tage N2 Minuten N3 Sekunde";
+translate "N1 days N2 minutes N3 seconds"
+to german "N1 Tage N2 Minuten N3 Sekunden";
+
+translate "N1 days N2 hour N3 second"
+to german "N1 Tage N2 Stunde N3 Sekunde";
+translate "N1 days N2 hour N3 seconds"
+to german "N1 Tage N2 Stunde N3 Sekunden";
+translate "N1 days N2 hours N3 second"
+to german "N1 Tage N2 Stunden N3 Sekunde";
+translate "N1 days N2 hours N3 seconds"
+to german "N1 Tage N2 Stunden N3 Sekunden";
+
+translate "N1 days N2 hour N3 minute"
+to german "N1 Tage N2 Stunde N3 Minute";
+translate "N1 days N2 hour N3 minutes"
+to german "N1 Tage N2 Stunde N3 Minuten";
+translate "N1 days N2 hours N3 minute"
+to german "N1 Tage N2 Stunden N3 Minute";
+translate "N1 days N2 hours N3 minutes"
+to german "N1 Tage N2 Stunden N3 Minuten";
+
+translate "N1 days N2 hour N3 minute N4 second"
+to german "N1 Tage N2 Stunde N3 Minute N4 Sekunde";
+translate "N1 days N2 hour N3 minutes N4 second"
+to german "N1 Tage N2 Stunde N3 Minuten N4 Sekunde";
+translate "N1 days N2 hour N3 minute N4 seconds"
+to german "N1 Tage N2 Stunde N3 Minute N4 Sekunden";
+translate "N1 days N2 hour N3 minutes N4 seconds"
+to german "N1 Tage N2 Stunde N3 Minuten N4 Sekunden";
+translate "N1 days N2 hours N3 minute N4 second"
+to german "N1 Tage N2 Stunden N3 Minute N4 Sekunde";
+translate "N1 days N2 hours N3 minutes N4 second"
+to german "N1 Tage N2 Stunden N3 Minuten N4 Sekunde";
+translate "N1 days N2 hours N3 minute N4 seconds"
+to german "N1 Tage N2 Stunden N3 Minute N4 Sekunden";
+translate "N1 days N2 hours N3 minutes N4 seconds"                    -- Josh: This doesn't work.
+to german "N1 Tage N2 Stunden N3 Minuten N4 Sekunden";
+
+translate "Less than a minute"
+	to german "Weniger als eine Minute";
+
+translate "None"
+	to german "Nichts";
+

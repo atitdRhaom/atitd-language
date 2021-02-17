@@ -1,0 +1,54 @@
+module flags_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Games **
+//**    (C)opyright 2002,2003 by MDO Games				   **
+//**                                                                       **
+//***************************************************************************
+
+//menues
+
+//objects
+
+//texts
+
+translate "Log in anytime?"
+to german "Darf jederzeit einloggen?";
+translate "Build during builder sessions?"
+to german "Bauen in Builder-Sitzungen?(building session-build)";
+translate "Programmer?"
+to german "Programmierer/Admin?";
+translate "Account is banned?"
+to german "Account ist gebannt?";
+translate "Translator"
+to german "Übersetzer";
+translate "Can use /TestGraphic command?"
+to german "Darf /TestGrafik-Kommando nutzen";
+translate "Build during live sessions?"
+to german "Bauen in Live-Sitzungen?(live session-build)";
+translate "Conjure during builder sessions?"
+to german "Zaubern in Builder-Sitzungen?(building session-conjure)";
+translate "Conjure during live sessions?"
+to german "Zaubern in Live-Sitzungen?(live session-conjure)";
+translate "Game Master - Commands"
+to german "Gamemaster (GM) - Kommandos";
+translate "Game Master - Chats"
+to german "Gamemaster (GM) - Chats";
+translate "Game Master - Warps"
+to german "Gamemaster (GM) - Warps";
+translate "Game Master - Special Event Commands"
+to german "Gamemaster (GM) - Spezial Event Kommandos";
+translate "Senior GM"
+to german "Senior-Gamemaster";
+translate "Banned from Mentoring"
+to german "Als Mentor gebannt";
+translate "Agent of The Stranger"
+to german "Agent des Fremden";
+translate "Content Advisor"
+to german "Spielinhalt-Berater";
+translate "Browse Databases and Secret Fields"
+to german "Datenbanksuche und geheime Bereiche";
+translate "Event Character"
+to german "Eventcharakter";

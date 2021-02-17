@@ -1,0 +1,80 @@
+module video_fre;
+
+translate "Options: Video"
+to french "Options : Vidéo";
+translate "Options: Camera"
+to french "Options : Caméra";
+translate "Options: Audio"
+to french "Options : Audio";
+translate "Terrain Horizon:"
+to french "Terrain-Horizon :";
+
+translate "Video"
+to french "Vidéo";
+
+translate "Texture Detail:"
+to french "Détails de texture:";
+
+translate "Number of Objects:"
+to french "Nombre d'objets:";
+
+translate "Tufts of Grass:"
+to french "Touffes d'herbe:";
+
+translate "Shadow Quality:"
+to french "Qualité des ombres:";
+
+translate "General Purpose Cam [F5]"
+to french "Caméra basique (F5)";
+
+translate "Explorer's Cam [F6]"
+to french "Caméra exploration (F6)";
+
+translate "Cartographer's Cam"
+to french "Caméra cartographe";
+
+translate "Dueling Cam [F8]"
+to french "Caméra duel (F8)";
+
+translate "Newbie Cam"
+to french "Caméra débutant (défaut)";
+
+translate "Wheel-in-the-Sky Cam [F8 F8]"
+to french "Caméra divine [F8x2]";
+
+translate "Builder's Cam [F7]"
+to french "Caméra construction (F7)";
+
+translate "Reloading graphics.  Please wait."
+to french "Actualisation des graphismes - Veuillez patienter.";
+
+translate "Wind and Water:"
+to french "Eau et herbe :";
+
+translate "Footsteps:"
+to french "Pas :";
+
+translate "Wildlife:"
+to french "Nature :";
+
+translate "Buildings:"
+to french "Bâtiments :";
+
+translate "Interface:"
+to french "Interface :";
+
+translate "Camera"
+to french "Caméra";
+
+translate "Parameters"
+to french "Paramètres";
+
+translate "School / University Theme:"
+to french "Thèmes Ecole / Université";
+
+translate "Regional Themes:" 
+to french "Thèmes régionaux";
+
+translate "Regional Theme Interval:"
+to french "Interval pour les thèmes régionaux";
+

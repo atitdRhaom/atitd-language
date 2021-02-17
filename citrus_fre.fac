@@ -1,0 +1,308 @@
+module citrus_fre;
+
+translate IndonesianBeeCare to french masculine
+{
+  ns "Elevage d'abeilles indonésiennes"; np "Elevage d'abeilles indonésiennes";
+}
+
+translate IndonesianBeeHive to french feminine
+{
+  ns "Ruche à abeilles indonésiennes"; np "Ruches à abeilles indonésiennes";
+}
+
+translate CitrusTree to french masculine
+{
+  ns "Citronnier"; np "Citronniers";
+}
+
+translate Citrus to french masculinecollective
+{
+  ns "Agrume"; np "Agrumes";
+}
+
+translate AromaticHoney to french masculine
+{
+  ns "Miel aromatique"; np "Miels aromatiques";
+}
+
+translate CVCitron to french masculine
+{
+  ns "Citron"; np "Citrons";
+}
+
+translate CVCoralfruit to french masculine
+{
+  ns "Fruit de corail"; np "Fruits de corail";
+}
+
+translate CVCorian to french masculine
+{
+  ns "Corian"; np "Corians";
+}
+
+translate CVGrapefruit to french masculine
+{
+  ns "Pamplemousse"; np "Pamplemousses";
+}
+
+translate CVLemon to french masculine
+{
+  ns "Limon"; np "Limons";
+}
+
+translate CVLenat to french masculine
+{
+  ns "Lenat"; np "Lenats";
+}
+
+translate CVLime to french masculine
+{
+  ns "Citron vert"; np "Citrons verts";
+}
+
+translate CVMandarin to french feminine
+{
+  ns "Mandarine"; np "Mandarines";
+}
+
+translate CVOrange to french feminine
+{
+  ns "Orange"; np "Oranges";
+}
+
+translate CVPummelo to french masculine
+{
+  ns "Pomelo"; np "Pomelos";
+}
+
+translate CVSummerbell to french feminine
+{
+  ns "Cloche d'été"; np "Cloches d'été";
+}
+
+translate CVTangelo to french masculine
+{
+  ns "Tangelo"; np "Tangelos";
+}
+
+translate CVTangerine to french feminine
+{
+  ns "Clémentine"; np "Clémentines";
+}
+
+translate CASweet to french masculine
+{
+  ns "Doux"; np "Doux";
+}
+
+translate CATangy to french feminine
+{
+  ns "Acide"; np "Acides";
+}
+
+translate CALarge to french masculine
+{
+  ns "Gros"; np "Gros";
+}
+
+translate CASmall to french masculine
+{
+  ns "Petit"; np "Petits";
+}
+
+translate CALong to french masculine
+{
+  ns "Allongé"; np "Allongés";
+}
+
+translate CAFlat to french masculine
+{
+  ns "Aplati"; np "Aplatis";
+}
+translate CAReddish to french neuter
+{
+  ns "Rougeâtre"; np "Rougeâtres";
+}
+
+translate CAGreenish to french neuter
+{
+  ns "Verdâtre"; np "Verdâtres";
+}
+translate "O1 O2"
+to french "O2(ns) O1(ns)";
+
+translate "Citrus"
+to french "Citronnier";
+
+translate "IndonesianBeeCare (Completed)"
+to french "Elevage d'abeilles indonésiennes (Achevé)";
+
+translate Perfuming to french feminine
+{
+ns "Parfumerie"; np "Parfumerie";
+}
+
+translate "Perfuming"
+to french "Parfumerie";
+
+translate "Perfuming (Completed)"
+to french "Parfumerie (Achevé)";
+
+translate "Indonesian Bee Care (Completed)"
+to french "Elev. d'abeilles indonésiennes (Achevé)";
+
+translate "color:"
+to french "Couleur :";
+translate "Sweet:"
+to french "Douceur :";
+translate "Size:"
+to french "Taille :";
+translate "Length:"
+to french "Longueur :";
+
+translate "Indonesian Bees are hard to care for, we can only train people in this skill if they have already demonstrated skill in handling other kinds of insects.  One way to demonstrate this skill is to successfully raise and exhibit a beetle."
+to french "Les abeilles indonésiennes sont difficiles à élever, et nous n'enseignons cette technique qu'aux personnes qui ont déjà fait preuve de leurs capacités dans l'élevage d'autres insectes. Pour nous prouver que vous maîtrisez ces techniques, vous devez élever un scarabée et remporter un concours avec celui-ci.";
+
+translate "You have learned the skill of Indonesian Bee care.  Note that these bees are symbiotic with Citrus trees: where Indonesian Bees go, citrus trees will soon be found."
+to french "Vous avez appris à élever des abeilles indonésiennes. Notez que ces abeilles vivent en symbiose avec les citronniers. Lorsque vous trouvez des abeilles indonésiennes, il y a souvent un citronnier non loin de là.";
+
+translate "Indonesian Bee Hive"
+to french "Ruche à abeilles indonésiennes";
+
+translate "To build an Indonesian Bee Hive, you need:"
+to french "Pour construire une ruche à abeilles indonésiennes, il vous faut :";
+
+translate "Wake up the Bees"
+to french "Réveiller les abeilles";
+
+translate "You do not have the skill of Indonesian Bee Care"
+to french "Vous n'avez pas les connaissances nécessaires pour élever des abeilles indonésiennes.";
+
+translate "The tree has N1 fruit."
+to french "Cet arbre porte N1 fruits.";
+
+translate "Gather the Fruit [key=T]"
+to french "Cueillir les fruits [key=T]";
+
+translate "[Extra]Gather the Fruit [key=T]"
+to french "[Extra]Cueillir les fruits [key=T]";
+
+translate "The tree is growing."
+to french "L'arbre pousse.";
+
+translate "[Extra]The tree is growing."
+to french "[Extra]L'arbre pousse";
+
+translate "The fruit was taken."
+to french "Le fruit a déjà été cueilli.";
+
+translate "Without bees to keep it healthy, the tree was sick.  You tear it out."
+to french "Sans abeilles pour l'entretenir, l'arbre était malade. Vous l'arrachez.";
+
+translate "Cut Down and Mulch"
+to french "Couper et recouvrir de paille";
+
+translate "The bees have made N1 honey."
+to french "Les abeilles ont donné N1 doses de miel.";
+
+translate "[Extra]The bees have made N1 honey."
+to french "[Extra]Les abeilles ont donné N1 doses de miel.";
+
+translate "Gather the Honey"
+to french "Récolter le miel";
+
+translate "Gather the Honey [key=T]"
+to french "Récolter le miel [key=T]";
+
+translate "The bees are making honey."
+to french "Les abeilles sont en train de faire du miel.";
+
+translate "[Extra]The bees are making honey."
+to french "[Extra]Les abeilles sont en train de faire du miel.";
+
+translate "The honey was taken"
+to french "Le miel a déjà été récolté.";
+
+translate "The bees produced bland, ordinary honey.  To get aromatic honey, the bees must be close to two species of citrus tree."
+to french "Les abeilles ont fait du miel ordinaire. Pour obtenir du miel aromatisé, elles doivent être à proximité de deux variétés de citronnier.";
+
+translate "Random Honey"
+to french "Miel commun";
+
+translate "Random Citrus"
+to french "Citronnier commun";
+
+translate "Lemon-Pummelo Honey"
+to french "Miel limon-pomelo";
+
+translate "Color:"
+to french "Couleur";
+
+translate "Sweet:"
+to french "Douceur";
+
+translate "Size:"
+to french "Taille";
+
+translate "Length:"
+to french "Longueur";
+
+translate Simpleperfume to french masculine
+{
+ns "Parfum simple"; np "Pafums simples";
+}
+
+translate "Making simple perfume from the extract of Citrus peels"
+to french "Fabrication de parfum basique à partir de zestes de citron";
+
+translate "Perfuming"
+to french "Parfumerie";
+
+
+translate "You learn the art of Perfuming. You can now make simple perfumes. All you need is a kitchen and some citrus fruit."
+to french "Vous apprenez l'art de la parfumerie.Vous pouvez maintenant faire des parfums basiques. Tout ce dont vous avez besoin est une cuisine et quelques citrons.";
+
+translate "Simple Perfume"
+to french "Parfum simple";
+
+translate "Recipe"
+to french "Recette";
+
+translate "Choose a citrus fruit (You will need 10):"
+to french "Choisissez un citron (il vous en faut 10)";
+
+translate "You need to choose a citrus fruit."
+to french "Vous devez choisir un citron.";
+
+translate "You do not have ten of them."
+to french "Vous n'en avez pas 10.";
+
+translate "The perfume will be ready in 10 minutes. Note: simple perfume only lasts 5 minutes. You will need to study more advanced perfumes for longer-term effect."
+to french "Le parfum sera prêt dans 10 minutes. Remarque : les parfums basiques ne durent que 5 minutes. Vous devrez étudier des formules plus avancées pour obtenir des effets durables.";
+
+translate "Perfume"
+to french "Parfum";
+
+translate "Simple Perfume of K1"
+to french "Parfum simple de K1";
+
+translate "You do not have any O1:K1"
+to french "Vous n'avez pas de O1(ns):K1";
+
+translate "You will be scented for the next 5 minutes."
+to french "Vous dégagerez ce parfum pendant les 5 prochaines minutes.";
+
+translate "Gather the Fruit"
+to french "Cueillir les fruits";
+
+translate "Permission for Harvest"
+to french "Permission de cueillir";
+
+translate "Are you sure you wish to cut down and mulch this tree?"
+to french "Souhaitez-vous vraiment couper cet arbre?";
+
+translate "Aromatic Honey"
+to french "Miel aromatique";
+
+translate "Gathering honey..."
+to french "Collecte du miel...";

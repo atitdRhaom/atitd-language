@@ -1,0 +1,107 @@
+module deepwell_fre;
+
+translate Oil to french feminine
+{
+  ns "Huile"; np "Huiles";
+}
+translate Leather to french masculine
+{
+  ns "Cuir"; np "Cuirs";
+}
+translate Granite to french masculine
+{
+  ns "Granit"; np "Granits";
+}
+translate DeepWell to french masculine
+{
+  ns "Puits de forage"; np "Puits de forage";
+}
+translate DeepWell2 to french masculine
+{
+  ns "Puits de forage"; np "Puits de forage";
+}
+
+translate Tar to french masculine
+{
+  ns "Goudron"; np "Goudrons";
+}
+translate OilyWater to french feminine
+{
+  ns "Eau huileuse"; np "Eaux huileuses";
+}
+translate Petroleum to french masculine
+{
+  ns "Pétrole"; np "Pétroles";
+}
+
+translate "Build a Deep Well"
+to french "Creuser un puits de forage";
+
+translate "Spring Tension is N1"
+to french "La tension du ressort est de N1";
+
+translate "Depth is N1"
+to french "La profondeur est de N1";
+
+translate "Water Level is N1"
+to french "Le niveau d'eau est de N1";
+
+translate "Fill jugs with water"
+to french "Remplir les seaux d'eau";
+
+translate "Deep wells not allowed in dev sessions."
+to french "Les puits de forage ne sont pas autorisés en sessions dev.";
+
+translate "To build a Deep Well, you need: "
+to french "Pour creuser un puits de forage, il vous faut : ";
+
+translate "Wind the well spring"
+to french "Remonter le ressort du puits";
+
+translate "Repair this Deep Well"
+to french "Réparer le puits de forage";
+
+//translate "Convert this Deep Well into a shaft"
+//Problem of translation for SHAFT
+
+translate "You don't have the strength to wind the deep well any further."
+to french "Vous n'avez plus la force de remonter le mécanisme du puits.";
+
+translate "Drilling deep into the ground"
+to french "En train de creuser dans le sol";
+
+translate "To repair a deep well, you need: "
+to french "Pour réparer un puits de forage, il vous faut : ";
+
+//translate "To convert this deep well to a shaft, you need: ";
+//Problem of translation for SHAFT
+
+translate "Are you sure you want to tear down this Deep Well?"
+to french "Voulez-vous vraiment détruire ce puits de forage ?";
+
+translate "The well spring is as tight as you can get it."
+to french "Le ressort est aussi remonté que possible.";
+
+translate "With your strength, you wind the well spring by N1."
+to french "De toutes vos forces, vous réussissez à remonter le ressort de N1.";
+
+translate "The deep well brought up a scrap of gold."
+to french "Vous venez de remonter un peu d'or du puits.";
+
+translate "The deep well brought up a Large Sapphire."
+to french "Vous venez de remonter un gros saphir du puits.";
+
+translate "The deep well brought up a Huge Ruby."
+to french "Vous venez de remonter du puits un énorme rubis.";
+
+translate "How many jugs? (max N1)"
+to french "Combien de jarres ? (Max N1)";
+
+translate "You don't have that many jugs."
+to french "Vous n'avez pas assez de jarres.";
+
+translate "Not enough water in the tank."
+to french "Pas assez d'eau dans le réservoir.";
+
+translate "The high pressure of the water spigot causes a huge spray of water to soak the surrounding area!"
+to french "La pression trop élevée entraîne un énorme jeu d'eau qui asperge toute la zone !";

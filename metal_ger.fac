@@ -1,0 +1,337 @@
+module metal_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment		           **
+//**                                                                       **
+//***************************************************************************
+
+
+translate SmeltingPot to german masculine
+{
+swa "Schmelztopf";
+  sn "Schmelztopf"; sg "Schmelztopfes"; sd "Schmelztopf"; sa "Schmelztopf";
+  pn "Schmelztöpfe"; pg "Schmelztöpfe"; pd "Schmelztöpfen"; pa "Schmelztöpfe";
+}
+translate RasFurnace to german masculine
+{
+swa "Ofen des Ra";
+  sn "Ofen des Ra"; sg "Ofens des Ra"; sd "Ofen des Ra"; sa "Ofen des Ra";
+  pn "Öfen des Ra"; pg "Öfen des Ra"; pd "Öfen des Ra"; pa "Öfen des Ra";
+}
+translate DirtySmeltingPot to german masculine
+{
+swa "schmutziger Schmelztopf";
+  sn "schmutzige Schmelztopf"; sg "schmutzigen Schmelztopfes"; sd "schmutzigen Schmelztopf"; sa "schmutzigen Schmelztopf";
+  pn "schmutzigen Schmelztöpfe"; pg "schmutzigen Schmelztöpfe"; pd "schmutzigen Schmelztöpfen"; pa "schmutzigen Schmelztöpfe";
+}
+
+translate CraftFurnace to german masculine
+{
+swa "Handwerksofen";
+  sn "Handwerksofen"; sg "Handwerksofens"; sd "Handwerksofen"; sa "Handwerksofen";
+  pn "Handwerksöfen"; pg "Handwerksöfen"; pd "Handwerksöfen"; pa "Handwerksöfen";
+}
+translate AmalgamationFurnace to german masculine
+{
+swa "Amalgamofen";
+  sn "Amalgamofen"; sg "Amalgamofens"; sd "Amalgamofen"; sa "Amalgamofen";
+  pn "Amalgamöfen"; pg "Amalgamöfen"; pd "Amalgamöfen"; pa "Amalgamöfen";
+}
+translate BlastFurnace to german masculine
+{
+swa "Hochofen";
+  sn "Hochofen"; sg "Hochofens"; sd "Hochofen"; sa "Hochofen";
+  pn "Hochöfen"; pg "Hochöfen"; pd "Hochöfen"; pa "Hochöfen";
+}
+translate PreciousFurnace to german masculine
+{
+swa "Edelmetallofen";
+  sn "Edelmetallofen"; sg "Edelmetallofens"; sd "Edelmetallofen"; sa "Edelmetallofen";
+  pn "Edelmetallöfen"; pg "Edelmetallöfen"; pd "Edelmetallöfen"; pa "Edelmetallöfen";
+}
+translate OreInferno to german neutercollective
+{
+swa "Erzinferno";
+  sn "Erzinferno"; sg "Erzinfernos"; sd "Erzinferno"; sa "Erzinferno";
+  pn "Erzinferno"; pg "Erzinferno"; pd "Erzinferno"; pa "Erzinferno";
+}
+translate FragileFurnace to german masculine
+{
+swa "Zerbrechlicher Ofen";
+  sn "Zerbrechliche Ofen "; sg "Zerbrechlichen Ofens"; sd "Zerbrechlichen Ofen"; sa "Zerbrechliche Ofen";
+  pn "Zerbrechlichen Öfen"; pg "Zerbrechlichen Öfen"; pd "Zerbrechlichen Öfen"; pa "Zerbrechlichen Öfen";
+}
+translate FineFurnace to german masculine
+{
+swa "Stabiler Ofen";
+  sn "Stabile Ofen"; sg "Stabilen Ofens"; sd "Stabilen Ofen"; sa "Stabile Ofen";
+  pn "Stabilen Öfen"; pg "Stabilen Öfen"; pd "Stabilen Öfen"; pa "Stabilen Öfen";
+}
+translate IntermixChamber to german feminine
+{
+swa "Mischkammer";
+  sn "Mischkammer"; sg "Mischkammer"; sd "Mischkammer"; sa "Mischkammer";
+  pn "Mischkammern"; pg "Mischkammern"; pd "Mischkammern"; pa "Mischkammern";
+}
+translate DrossFurnace to german masculine
+{
+swa "Schlackeofen";
+  sn "Schlackeofen"; sg "Schlackeofen"; sd "Schlackeofen"; sa "Schlackeofen";
+  pn "Schlackeöfen"; pg "Schlackeöfen"; pd "Schlackeöfen"; pa "Schlackeöfen";
+}
+translate FleetFurnace to german masculine
+{
+swa "Leichter Ofen";
+  sn "Leichte Ofen"; sg "Leichten Ofens"; sd "Leichten Ofen"; sa "Leichte Ofen";
+  pn "Leichten Öfen"; pg "Leichten Öfen"; pd "Leichten Öfen"; pa "Leichten Öfen";
+}
+translate RedSand to german masculinecollective
+{
+swa "Roter Sand";
+  sn "Rote Sand"; sg "Roten Sands"; sd "Roten Sand"; sa "Rote Sand";
+  pn "Roten Sand"; pg "Roten Sand"; pd "Roten Sand"; pa "Roten Sand";
+}
+translate Quicksilver to german neutercollective
+{
+swa "Quecksilber";
+  sn "Quecksilber"; sg "Quecksilbers"; sd "Quecksilber"; sa "Quecksilber";
+  pn "Quecksilber"; pg "Quecksilber"; pd "Quecksilber"; pa "Quecksilber";
+}
+translate Brass to german masculinecollective
+{
+swa "Messing";
+  sn "Messing"; sg "Messings"; sd "Messing"; sa "Messing";
+  pn "Messing"; pg "Messing"; pd "Messing"; pa "Messing";
+}
+translate Bronze to german femininecollective
+{
+swa "Bronze";
+  sn "Bronze"; sg "Bronze"; sd "Bronze"; sa "Bronze";
+  pn "Bronze"; pg "Bronze"; pd "Bronze"; pa "Bronze";
+}
+translate Steel to german masculinecollective
+{
+swa "Stahl";
+  sn "Stahl"; sg "Stahles"; sd "Stahl"; sa "Stahl";
+  pn "Stahl"; pg "Stahl"; pd "Stahl"; pa "Stahl";
+}
+translate WaterMetal to german neuter
+{
+swa "Wassermetall";
+  sn "Wassermetall"; sg "Wassermetalls"; sd "Wassermetall"; sa "Wassermetall";
+  pn "Wassermetalle"; pg "Wassermetalle"; pd "Wassermetallen"; pa "Wassermetall";
+}
+translate MetalBlue to german masculinecollective
+{
+swa "Blaues Metall";
+  sn "Blaue Metall"; sg "Blauen Metalls"; sd "Blauen Metall"; sa "Blaue Metalle";
+  pn "Blauen Metalle"; pg "Blauen Metalle"; pd "Blauen Metallen"; pa "Blauen Metalle";
+}
+translate CopperStrap to german feminine
+{
+swa "Kupferschlaufe";
+  sn "Kupferschlaufe"; sg "Kupferschlaufe"; sd "Kupferschlaufe"; sa "Kupferschlaufe";
+  pn "Kupferschlaufen"; pg "Kupferschlaufen"; pd "Kupferschlaufen"; pa "Kupferschlaufen";
+}
+
+
+translate "Furnaces"
+to german "Schmelzöfen";
+
+translate "Smelting pot"
+to german "Schmelztopf";
+
+translate "Ra's Furnace"
+to german "Ofen des Ra";
+
+translate "Dirty Smelting pot"
+to german "Schmutziger Schmelztopf";
+
+translate "Craft furnace"
+to german "Handwerksofen";
+
+translate "Amalgamation Furnace"
+to german "Amalgamofen";
+
+translate "Precious furnace"
+to german "Edelmetallofen";
+
+translate "Blast furnace"
+to german "Hochofen";
+
+translate "Ore Inferno"
+to german "Erzinferno";
+
+translate "Fragile Furnace"
+to german "Zerbrechlicher Ofen";
+
+translate "Fine Furnace"
+to german "Stabiler Ofen";
+
+translate "Intermix Chamber"
+to german "Mischkammer";
+
+translate "Dross Furnace"
+to german "Schlackeofen";
+
+translate "Fleet Furnace"
+to german "Leichter Ofen";
+
+translate "To build a Smelting Pot, you need: "
+to german "Um einen Schmelztopf zu bauen benötigst Du:";
+
+translate "To build a Craft Furnace, you need: "
+to german "Um einen Handwerksofen zu bauen benötigst Du: ";
+
+translate "To build a Fragile Furnace, you need: "
+to german "Um einen Zerbrechlichen Ofen zu benötigst brauchst Du: ";
+
+translate "To build a Amalgamation Furnace, you need: "
+to german "Um einen Amalgamofen zu bauen brauchst Du: ";
+
+translate "To build a Precious Furnace, you need: "
+to german "Um einen Edelmetallofen zu bauen benötigst Du: ";
+
+translate "To build an Ore Inferno you need:"
+to german "Um ein Eiseninferno zu bauen benötigst Du:";
+
+translate "To build a Fleet Furnace, you need: "
+to german "Um ein Leichten Ofen zu bauen benötigst Du: ";
+
+translate "To build a Dirty Smelting Pot, you need: "
+to german "Um einen schmutzigen Schmelztopf zu bauen benötigst Du:";
+
+translate "To build an Precious Furnace you need:"
+to german "Um einen Edelmetallofen zu bauen benötigst Du:";
+
+translate "To build an Blast Furnace you need:"
+to german "Um einen Hochofen zu bauen benötigst Du:";
+
+translate "To build an Fine Furnace you need:"
+to german "Um einen Stabilen Ofen zu bauen benötigst Du:";
+
+translate "To build an Intermix Chamber you need:"
+to german "Um eine Mischkammer zu bauen benötigst Du:";
+
+translate "To build an Dross Furnace you need:"
+to german "Um einen Schlackeofen zu bauen benötigst Du:";
+
+translate "Allows construction of a curious sort of furnace known as the Fragile Furnace"
+to german "Erlaubt den Bau von einer seltsamen Ofenart, bekannt als Zerbrechlicher Ofen";
+
+translate "Advances Egypt from the Metal Age to the Cultural Age"
+to german "Die Weiterentwicklung vom Metallzeitalter zum Kulturzeitalter";
+
+translate "Fill the furnace with O1"
+to german "Befülle den Ofen mit O1(sn)";
+
+translate "Empty the O1 before filling it with fuel."
+to german "Leere O1(tsn) O1(sn), bevor Du Treibstoff zufügst.";
+
+translate "You don't have any O1"
+to german "Du hast keine O1(pn)";
+
+translate "The O1 still needs N1 deben of O2 to fire."
+to german "O1(^tsn) O1(sn) benötigt immer noch N1 Deben O2(pn) zum Befeuern.";
+//Josh: This doesen't work:
+translate "The O1 is ready to fire."
+to german "O1(^dsn) O1(sn) ist zur Befeuerung bereit.";
+
+translate "The O1 contains N1 ore stones."
+to german "O1(^dsn) O1(sn) enthält N1 Erzsteine.";
+
+translate "Dump this Ore Cart into the O1"
+to german "Leere die Lore in O1(dsn) O1(sn)";
+
+translate "You don't have permission to use the O1.  Please move the cart to another O2."
+to german "Du hast keine Erlaubnis O1(tsn) O1(sn) zu benutzen. Schiebe die Lore zu O2(asd) anderen O2(sn).";
+
+translate "The nearest O1 is busy.  Please move the cart to another O2"
+to german "O1(^dsn) O1(sn) in der Nähe ist beschäftigt. Schiebe die Lore zu O2(asd) anderen O2(sn).";
+
+translate "The O1 can only hold N1 ore stones, so N2 fell out as you were loading it."
+to german "O1(^dsn) O1(sn) can nur N1 Erzsteine aufnehmen, darum fallen N2 während des Beladens heraus.";
+
+translate "Smelting will complete in N1"
+to german "Der Schmelzvorgang benötigt N1";
+
+translate "Make vial of Quicksilver (Takes 24 hours)"
+to german "Stelle eine Phiole Quecksilver her (Benötigt 24 Std)";
+
+translate "Fire the O1!"
+to german "Befeuere O1(tsd) O1(sd)!";
+
+translate "Before firing, you must remove any metal left in the furnace."
+to german "Entferne das Metall, das noch im Ofen ist, bevor Du ihn neu befeuerst.";
+
+translate "You need to fill the furnace with ore in order to fire it."
+to german "Du musst den Ofen erst einmal mit Erz füllen, um ihn zu befeuern.";
+
+translate "There isn't enough ore in the furnace to produce any metal."
+to german "Es ist nicht genug Erz im Ofen um Metall zu produzieren.";
+
+translate "This O1 takes N1 seconds to fire... Firing now."
+to german "O1(tsn) O1(sn) benötigt N1 Sekunden zur Befeuerung...Befeuere nun.";
+
+translate "Firing"
+to german "Befeuern";
+
+translate "Your O1 has finished smelting."
+to german "O1(^tsn) O1(sn) hat den Schmelzvorgang beendet.";
+
+translate "Your O1 didn't produce anything. This unusual furnace design seems very quirky."
+to german "O1(^tsn) O1(sn) hat nichts produziert. Diese ungewöhnliche Ofenart scheint sehr eigenartig zu sein.";
+
+translate "Drop just one Ra's Furnace to set it up to use. Piles of multiple furnaces can be picked up by anyone!"
+to german "Stelle zur Benutzung nur einen Ofen des Ra auf. Teile verschiedener Öfen können von Jedermann aufgehoben werden!";
+
+translate "Disassemble this furnace"
+to german "Baue diesen Ofen auseinander";
+
+translate "Your O1 didn't produce anything. Perhaps you should smelt more ore at once, or vary the source of the ore."
+to german "O1(^tsn) O1(sn) hat nichts produziert. Vielleicht solltest Du mehr Erz in einer Fuhre schmelzen oder die Quelle des Erzes wechseln.";
+
+translate "Your O1 didn't produce anything. Perhaps you should try other recipes."
+to german "O1(^tsn) O1(sn) hat nichts produziert. Vielleicht solltest Du andere Rezepte probieren.";
+
+translate "Your O1 produced N1 deben of O2"
+to german "Dein O1(sn) hat N1 Deben O2(sn) produziert.";
+
+translate ", and N1 deben of clinker."
+to german ", und N1 Deben Klinker.";
+
+translate "Your furnace produced a mess! Try firing a single kind of ore, or learning about alloys."
+to german "Dein Ofen hat fehlerhaft produziert! Versuche, nur eine Art von Erzen zu schmelzen oder lerne mehr über Legierungen.";
+
+translate "Load the furnace with O1"
+to german "Belade den Ofen mit O1(sn)";
+
+translate "Load chamber with how much O1? (Max N1)"
+to german "Mit wieviel O1(sn) willst Du die Kammer beladen? (Max N1)";
+
+translate "Not enought fuel."
+to german "Nicht genug Brennstoff.";
+
+translate "The O1 must be clean before starting a recipe."
+to german "O1(sn) muss gereinigt sein, um ein Rezept zu starten.";
+
+translate "This O1 is Firing"
+to german "O1(^tsn) O1(sn) wird befeuert";
+
+translate "Analyze the contents of this cart"
+to german "Analysiere den Inhalt dieser Lore";
+
+translate "In order to analyze an ore cart you need:"
+to german "Um den Inhalt einer Lore zu analysieren benötigst Du:";
+
+translate "Ore cart contains:\n\n"
+to german "Die Lore beinhaltet:";
+
+translate "O1, N1 clusters"
+to german "O1(sn), N1 Klumpen";
+
+translate "This True Kiln is Firing"
+to german "Dieser Schmelztopf wird befeuert";

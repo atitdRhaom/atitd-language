@@ -1,0 +1,27 @@
+module warplist_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**            German Version: Astrid "Infinyti" Werner                   **
+//**                            2012                                       **
+//**                                                                       **
+//***************************************************************************
+
+translate "Not a valid warp point"
+  to german "Kein gültiger Warppunkt";
+
+translate "Not a Physical: O1."
+  to german "Nicht materiell: O1(sn).";
+
+translate "You cannot rescuelist O1."
+  to german "Du kannst O1(sn) nicht auf die rescuelist setzen.";
+
+translate "You MUST enter an owner."
+  to german "Du MUSST einen Eigentümer eintragen.";
+
+translate "Could not find: U1."
+  to german "Kann U1(name) nicht finden.";
+
+translate "Barrier Paths"
+  to german "Grenzwege";

@@ -1,0 +1,655 @@
+module leadership_fre;
+
+translate MentorShrine to french masculine
+{
+  ns "sanctuaire de mentor"; np "sanctuaires de mentor";
+}
+
+translate "Where am I?"
+to french "Où suis-je ?";
+
+translate "Award a day of offline travel time"
+to french "Accorder une journée de temps de voyag déconnecté";
+
+translate "Show progress"
+to french "Montrer les progrès";
+
+translate "Check this student's progress."
+to french "Vérifier la progression de cet étudiant.";
+
+translate "Vote for U1"
+to french "Voter pour U1(name)";
+
+translate "Ancient Map"
+to french "Vieille carte";
+
+translate "Your World Coordinate position is egypt at N1,N2."
+to french "Vos coordonnées en terre d'égypte sont N1,N2.";
+translate "Your World Coordinate position is egypt at -N1,N2."
+to french "Vos coordonnées en terre d'égypte sont -N1,N2.";
+translate "Your World Coordinate position is egypt at N1,-N2."
+to french "Vos coordonnées en terre d'égypte sont N1,-N2.";
+translate "Your World Coordinate position is egypt at -N1,-N2."
+to french "Vos coordonnées en terre d'égypte sont -N1,-N2.";
+
+translate "Your World Coordinate position is oz at N1,N2."
+to french "Vos coordonnées en Oz sont N1,N2.";
+translate "Your World Coordinate position is oz at -N1,N2."
+to french "Vos coordonnées en Oz -N1,N2.";
+translate "Your World Coordinate position is oz at N1,-N2."
+to french "Vos coordonnées en Oz N1,-N2.";
+translate "Your World Coordinate position is oz at -N1,-N2."
+to french "Vos coordonnées en Oz -N1,-N2.";
+
+translate "Your World Coordinate position is builder at N1,N2."
+to french "Vos coordonnées sur l'île des constructeurs sont N1,N2.";
+translate "Your World Coordinate position is builder at -N1,N2."
+to french "Vos coordonnées sur l'île des constructeurs sont -N1,N2.";
+translate "Your World Coordinate position is builder at N1,-N2."
+to french "Vos coordonnées sur l'île des constructeurs sont N1,-N2.";
+translate "Your World Coordinate position is builder at -N1,-N2."
+to french "Vos coordonnées sur l'île des constructeurs sont -N1,-N2.";
+
+translate "By order of the Official Region Place Names law, passed by Surp, the region you are standing in is named:"
+to french "Conformément à la loi sur la nomenclature des régions, proposée par Surp, la région dans laquelle vous vous trouvez s'appelle :";
+
+translate "A true leader encourages others to follow in their path. To offer assistance to a new immigrant to Egypt, You must first ask if they would like a mentor. If they accept, you must see that they accomplish a number of tasks. Once they have completed these basic tasks, they are given the option to build a small shrine to ONE of their mentors. Accumulate seven such shrines, and you have passed the test of Mentorship..."
+to french "Un véritable chef sait encourager les autres à le suivre. Pour offrir votre assistance à un nouvel émigrant d'égypte, vous devez d'abord lui demander s'il souhaite un mentor. S'il accepte, vous devez vous assurer qu'il accomplisse un certain nombre de tâches. Lorsque ces tâches basiques sont accomplies, l'élève reçoit l'option de construire un sanctuaire pour UN de ses mentors. Ayez sept sanctuaires construits en votre honneur, et vous passerez l'épreuve de Mentor.";
+
+translate "Tasks of Mentorship are:"
+to french "Les tâches à accomplir pour l'instruction sont :";
+
+translate "  - Gather Sand, Mud, and Grass"
+to french "  - Prendre du sable, de la boue et de l'herbe";
+
+translate "  - Dry Grass into Straw"
+to french "  - Faire sécher de l'herbe en paille";
+
+translate "  - Make bricks"
+to french "  - Fabriquer des briques";
+
+translate "  - Gather Slate and make a stone blade"
+to french "  - Récolter de l'ardoise et faire une lame d'ardoise";
+
+translate "  - Harvest wood from a tree"
+to french "  - Prendre du bois sur un arbre";
+
+translate "  - Build a Wood Plane"
+to french "  - Construire un plan de bois";
+
+translate "  - Experience Egypt for 90 minutes"
+to french "  - Etre en égypte depuis 90 minutes";
+
+translate "You are already U1's mentor."
+to french "Vous êtes déjà le mentor de U1(name).";
+
+translate "U1 has to have been in Egypt for 5 minutes to accept a mentor. You can certainly talk in the mean time, and explain mentorship."
+to french "U1(name) doit être présent en égypte depuis 5 minutes pour accepter un mentor. Vous pouvez en attendant discuter un peu, et lui expliquer en quoi consiste un mentor.";
+
+translate "Someone has already offered mentorship within the last 5 minutes. In order to prevent new arrivals from getting overwhelmed, mentorships can only be offered every 3 minutes."
+to french "Quelqu'un a déjà proposé son aide à cette personne au cours des 5 minutes précédentes. Pour éviter aux nouveaux arrivants de recevoir de multiples demandes, les propositions ne peuvent être envoyées que toutes les 3 minutes.";
+
+translate "Asked if U1 would like you as a mentor. You'll be notified."
+to french "Vous avez demandé à U1(name) s'il vous accepte comme mentor. Vous serez tenu au courant de sa décision.";
+translate "Asked if he would like you as a mentor. You'll be notified."
+to french "Vous lui avez demandé s'il aimerait vous avoir comme mentor. Vous serez tenu au courant de sa décision.";
+translate "Asked if she would like you as a mentor. You'll be notified."
+to french "Vous lui avez demandé si elle aimerait vous avoir comme mentor. Vous serez tenu au courant de sa décision.";
+
+translate "U1 is offering to become your mentor. Would you like him to become your mentor instead of U2?"
+to french "U1(name) vous propose de devenir votre mentor. Voulez-vous le suivre au lieu de U2(name) ?";
+
+translate "U1 is offering to become your mentor. Would you like her to become your mentor instead of U2?"
+to french "U1(name) vous propose de devenir votre mentor. Voulez-vous la suivre au lieu de U2(name) ?";
+
+translate "U1 is offering to become your mentor, and help you get started in Egypt. If he is helpful, you will have the option of building a small shrine to honor him."
+to french "U1(name) vous propose de devenir votre mentor pour vous aider dans votre nouvelle vie. Si vous le trouvez efficace, vous aurez la possibilité de construire un petit sanctuaire pour l'honorer.";
+
+translate "U1 is offering to become your mentor, and help you get started in Egypt. If she is helpful, you will have the option of building a small shrine to honor her."
+to french "U1(name) vous propose de devenir votre mentor pour vous aider dans votre nouvelle vie. Si vous la trouvez efficace, vous aurez la possibilité de construire un petit sanctuaire pour l'honorer.";
+
+translate "U1 accepted your offer. You are now his mentor."
+to french "U1(name) a accepté votre offre. Vous êtes maintenant son mentor.";
+
+translate "U1 accepted your offer. You are now her mentor."
+to french "U1(name) a accepté votre offre. Vous êtes maintenant son mentor.";
+
+translate "U1 rejected your offer."
+to french "U1(name) a refusé votre offre.";
+
+translate "Citizen *U1"
+to french "Citoyen *U1(name)";
+translate "Peasant *U1"
+to french "Paysan *U1(name)";
+translate "U1:N1 "
+to french "U1(name):N1 ";
+
+
+translate "Mentor Shrine at egypt N1 N2 U1"
+to french "Sanctuaire de Mentor en égypte N1 N2 U1(name)";
+translate "Mentor Shrine at egypt -N1 N2 U1"
+to french "Sanctuaire de Mentor en égypte -N1 N2 U1(name)";
+translate "Mentor Shrine at egypt N1 -N2 U1"
+to french "Sanctuaire de Mentor en égypte N1 -N2 U1(name)";
+translate "Mentor Shrine at egypt -N1 -N2 U1"
+to french "Sanctuaire de Mentor en égypte -N1 -N2 U1(name)";
+
+translate "Mentor Shrine at oz N1 N2 U1"
+to french "Sanctuaire de Mentor à Oz N1 N2 U1(name)";
+translate "Mentor Shrine at oz -N1 N2 U1"
+to french "Sanctuaire de Mentor à Oz -N1 N2 U1(name)";
+translate "Mentor Shrine at oz N1 -N2 U1"
+to french "Sanctuaire de Mentor à Oz N1 -N2 U1(name)";
+translate "Mentor Shrine at oz -N1 -N2 U1"
+to french "Sanctuaire de Mentor à Oz -N1 -N2 U1(name)";
+
+translate "Mentor Shrine at builder N1 N2 U1"
+to french "Sanctuaire de Mentor sur l'île des Constructeurs N1 N2 U1(name)";
+translate "Mentor Shrine at builder -N1 N2 U1"
+to french "Sanctuaire de Mentor sur l'île des Constructeurs -N1 N2 U1(name)";
+translate "Mentor Shrine at builder N1 -N2 U1"
+to french "Sanctuaire de Mentor sur l'île des Constructeurs N1 -N2 U1(name)";
+translate "Mentor Shrine at builder -N1 -N2 U1"
+to french "Sanctuaire de Mentor sur l'île des Constructeurs -N1 -N2 U1(name)";
+
+translate "No change to U1: "
+to french "Aucun changement à U1(name): ";
+
+translate "Has U1 helpfully answered your questions?"
+to french "Est-ce que U1(name) a répondu à vos questions de manière satisfaisante ?";
+
+translate "Do you know where to find the Schools and Universities?"
+to french "Savez-vous où trouver les écoles et les universités ?";
+
+translate "Do you know how to Initiate into the Disciplines?"
+to french "Savez-vous comment vous initier aux Disciplines ?";
+
+translate "Have you met several of the local Guilds?"
+to french "Avez-vous pu localiser plusieurs guildes locales ?";
+
+translate "It sounds like you had a good mentor.  Are you ready to build a shrine in his honor?"
+to french "On diraît que vous avez eu un bon mentor. Voulez-vous construire un sanctuaire en son honneur ?";
+
+translate "Shrine construction aborted."
+to french "Construction du sanctuaire interrompue.";
+
+translate "To build a shrine honoring your mentor, you must be out of your free trial period."
+to french "Pour construire un sanctuaire à votre mentir, votre période d'essai gratuite doit être achevée.";
+
+translate "Can't find your mentor. Report this to the developers."
+to french "Impossible de trouver votre mentor. Veuillez le signaler aux développeurs.";
+
+translate "To build a mentor shrine to U1 you need:"
+to french "Pour construire un sactuaire de mentor en l'honneur de U1(name), il vous faut :";
+
+translate "U1 has built a shrine of mentorship in your honor. You now have N1 shrine(s) built for you. You have visited N2 of them."
+to french "U1(name) a construit un sanctuaire de mentor en votre honneur. Vous avez à présent N1 sanctuaire(s) construits en votre honneur. Vous en avez visité N2.";
+
+translate "CreditHonored warning: N1 N2"
+to french "Alerte honneur : N1 N2";
+translate "CreditHonored warning: -N1 N2"
+to french "Alerte honneur : -N1 N2";
+translate "CreditHonored warning: N1 -N2"
+to french "Alerte honneur : N1 -N2";
+translate "CreditHonored warning: -N1 -N2"
+to french "Alerte honneur : -N1 -N2";
+
+translate "This Mentor Shrine was built by U1 to honor U2."
+to french "Ce sanctuaire de mentir a été construit par U1(name) en l'honneur de U2(name).";
+
+translate "Meditate on this shrine"
+to french "Méditer auprès de ce sanctuaire";
+
+translate "You have visited N1 out of N2 shines built in your honor."
+to french "Vous avez visité N1 sanctuaires sur les N2 construits en votre honneur.";
+
+translate "U1 has visited your mentor shrine."
+to french "U1(name) a visité votre sanctuaire de mentor.";
+
+translate "Bad Mentorship: U1"
+to french "Mauvais mentor : U1(name)";
+
+translate "You have been blessed with a day of offline travel time."
+to french "Vous avez reçu la possibilité de voyager une journée en étant déconnecté.";
+
+translate "Are you sure you want to reset the ENTIRE mentorship system???"
+to french "Voulez-vous vraiment réinitialiser TOUT le système des mentors ???";
+
+translate "You are not U1's Mentor."
+to french "Vous n'êtes pas le mentor de U1(name).";
+
+translate "Tasks of Mentorship progress:"
+to french "Tâches pour la progression de l'instruction :";
+
+translate "  - Gather Sand, Mud, and Grass (ok)"
+to french "  - Récolter du sable, de la boue et de l'herbe (ok)";
+
+translate "  - Gather Sand, Mud (ok), and Grass"
+to french "  - Récolter du sable, de la boue (ok) et de l'herbe";
+
+translate "  - Gather Sand (ok), Mud, and Grass"
+to french "  - Récolter du sable (ok), de la boue et de l'herbe";
+
+translate "  - Gather Sand, Mud, and Grass"
+to french "  - Récolter du sable, de la boue et de l'herbe";
+
+translate "  - Gather Sand (ok), Mud (ok), and Grass"
+to french "  - Récolter du sable (ok), de la boue (ok) et de l'herbe";
+
+translate "  - Gather Sand (ok), Mud, and Grass (ok)"
+to french "  - Récolter du sable (ok), de la boue et de l'herbe (ok)";
+
+translate "  - Gather Sand, Mud (ok), and Grass (ok)"
+to french "  - Récolter du sable, de la boue (ok) et de l'herbe (ok)";
+
+translate "  - Gather Sand (ok), Mud (ok), and Grass (ok)"
+to french "  - Récolter du sable (ok), de la boue (ok) et de l'herbe (ok)";
+
+translate "  - Dry Grass into Straw"
+to french "  - Faire sécher l'herbe en paille";
+
+
+translate "  - Dry Grass into Straw (ok)"
+to french "  - Faire sécher l'herbe en paille (ok)";
+
+translate "  - Make bricks"
+to french "  - Fabriquer des briques";
+
+translate "  - Make bricks (ok)"
+to french "  - Fabriquer des briques (ok)";
+
+translate "  - Gather Slate and Make a stone blade"
+to french "  - Récolter de l'ardoise et fabriquer une lame d'ardoise";
+
+translate "  - Gather Slate (ok) and Make a stone blade"
+to french "  - Récolter de l'ardoise (ok) et fabriquer une lame d'ardoise";
+
+translate "  - Gather Slate (ok) and Make a stone blade (ok)"
+to french "  - Récolter de l'ardoise (ok) et fabriquer une lame d'ardoise (ok)";
+
+translate "  - Gather Slate and Make a stone blade (ok)"
+to french "  - Récolter de l'ardoise et fabriquer une lame d'ardoise (ok)";
+
+translate "  - Harvest wood from a tree"
+to french "  - Prendre du bois sur un arbre";
+
+translate "  - Harvest wood from a tree (ok)"
+to french "  - Prendre du bois sur un arbre (ok)";
+
+translate "  - Build a Wood Plane"
+to french "  - Construire un plan de bois";
+
+translate "  - Build a Wood Plane (ok)"
+to french "  - Construire un plan de bois (ok)";
+
+translate "  - Experience Egypt for 90 minutes"
+to french "  - Vivre en égypte pendant 90 minutes";
+
+translate "  - Experience Egypt for 90 minutes (N1 minutes so far)"
+to french "  - Vivre en égypte pendant 90 minutes (N1 minutes jusqu'ici)";
+
+translate "  - Experience Egypt for 90 minutes (ok)"
+to french "  - Vivre en égypte pendant 90 minutes (ok)";
+
+translate "N1 minutes so far"
+to french "N1 minutes jusqu'ici";
+
+translate "Welcome U1."
+to french "Bienvenue U1(name).";
+translate "Welcome N1."
+to french "Bienvenue N1.";
+
+translate "More information can be found at voting booths."
+to french "Vous trouverez plus d'informations sur les stands de vote.";
+
+translate "Make sure Pharaoh is around to test this. Type /chat Pharaoh"
+to french "Assurez-vous que Pharaoh est présent pour tester ceci. Tapez /chat Pharaoh";
+
+translate "Normally, all of Egypt would be notified of your action. For now, ask Pharaoh to do this. Type /chat Pharaoh"
+to french "En temps normal, toute l'égypte est prévenue de votre décision. Pour l'instant, contactez Pharaoh pour cela. Tapez /chat Pharaoh";
+
+translate "You changed your vote from U1 to U2."
+to french "Vous avez reporté votre voix de U1(name) sur U2(name).";
+
+translate "U1 votes for U2"
+to french "U1(name) vote pour U2(name)";
+
+translate "U1 voted for U2"
+to french "U1(name) a voté pour U2(name)";
+
+translate "No votes were cast, so your group elevates nobody."
+to french "Personne n'a voté, votre groupe n'a donc proposé personne.";
+
+translate "N1 people each received N2 votes. Since nobody got a majority, your group elevates nobody."
+to french "N1 personnes ont reçu N2 votes. Comme personne n'a reçu de majorité, votre groupe n'a proposé personne.";
+
+translate "Voting was as follows: "
+to french "Le résultat du vote est le suivant : ";
+
+translate "U1 received N1 votes. "
+to french "U1(name) a reçu N1 voix. ";
+
+translate "U1 is elevated to the next election. "
+to french "U1(name) passe au tour suivant. ";
+
+translate "Tasks"
+to french "Tâches";
+
+translate "Scholarship"
+to french "Apprentissage";
+
+translate "Fellow teachers will recognize you as one of their own. (Next skill is half-price.)"
+to french "Les autres professeurs vous reconnaîtront comme l'un des leurs (Prochaine compétence à la moitié du prix)";
+
+translate "Full Scholarship"
+to french "Apprentissage complet";
+
+translate "Fellow teachers honor you as a peer. (Any skill, free)"
+to french "Les autres professeurs vous reconnaissent comme un professeur à part entière (Toutes les compétences sont gratuites)";
+
+translate "Back Roads"
+to french "Raccourcis";
+
+translate "Learn of back roads and seldom used paths that will speed your journeys. (24 hours offline travel.)"
+to french "Apprenez à utiliser les raccourcis et chemins de traverse qui vous permettront de voyager plus rapidement (24 heures de déplacement non connecté)";
+
+translate "Dinner with Pharaoh"
+to french "Dîner avec Pharaoh";
+
+translate "An elegant meal of the finest meats and rarest vegetables, seasoned with the most exotic spices in Egypt. (+7 Perception for two hours, Limited Availability based on Pharaoh's Schedule.)"
+to french "Un repas somptueux composé des légumes et viandes les plus rares, assaisonnés avec les épices les plus exotiques (Perception +7 pendant 2 heures, disponibilité limitée selon l'emploi du temps de Pharaoh)";
+
+
+translate "Fountain of Knowledge"
+to french "Fontaine de Connaissance";
+
+translate "A quick tutorial in effective methods of instruction. (Teach one skill or level, instantly.)"
+to french "Un tutorial rapide sur des méthodes efficaces pour l'enseignement (enseignez une compétence ou un niveau instantanément).";
+
+translate "Thirst for Knowledge"
+to french "Soif de Connaissances";
+
+translate "A method of concentrating intensely on a single subject. (Learn one skill from another player, instantly.)"
+to french "Une méthode pour se concentrer intensément sur un sujet (apprenez une compétence d'un autre joueur instantanément).";
+
+translate "Homeward Bound"
+to french "Retour au foyer";
+
+translate "With careful study of Egypt's geography, you will learn to recognize even obscure landmarks. (One additional waypoint.)"
+to french "En étudiant avec soin la géographie égyptienne, vous pourrez reconnaître même les particularités peu visibles du terrain (un point de passage supplémentaire).";
+
+translate "Ancient Map"
+to french "Ancienne carte";
+
+translate "You will be given 3 map fragments from an ancient tome on ores and minerals. (600 foot radius mineral map, any locations.)"
+to french "Vous avez reçu 3 fragments d'une ancienne carte de minerai et de minéraux (600 pieds de rayon, tout emplacement)";
+
+translate "Bringer of Knowledge"
+to french "Source de Connaissances";
+
+translate "You will have the chance to work side by side with researchers at a University. (A single contribution to University research is doubled.)"
+to french "Vous avez la chance de travailler main dans la main avec les chercheurs de l'université (une de vos contributions aux recherche de l'université sera doublée)";
+
+translate "Tenure"
+to french "Tenure";
+
+translate "You are accepted as one of Egypt's finest teachers. (Half price skills for life.)"
+to french "Vous êtes reconnu comme l'un des meilleurs professeurs d'égypte (Réduction de moitié du prix des compétences à vie).";
+
+translate "Headmaster"
+to french "Directeur";
+
+translate "Your skill as a teacher becomes legendary. (Double speed teaching forever.)"
+to french "Vos compétences d'enseignement sont légendaires. (Vitesse d'enseignement doublée à vie)";
+
+translate "Mentor Shrine Bonuses"
+to french "Avantages de sanctuaires de mentor";
+
+translate "You have N1 mentor shrine points"
+to french "Vous avez N1 points de sanctuaire de mentor";
+
+translate "Scholarship (N1 points)"
+to french "Apprentissage (N1 Points)";
+
+translate "Full Scholarship (N1 points)"
+to french "Apprentissage complet (N1 Points)";
+
+translate "Back Roads (N1 points)"
+to french "Raccourcis (N1 Points)";
+
+translate "Dinner with Pharaoh (N1 points)"
+to french "Dîner avec Pharaon (N1 Points)";
+
+translate "Fountain of Knowledge (N1 points)"
+to french "Fontaine de Connaissance (N1 Points)";
+
+translate "Thirst for Knowledge (N1 points)"
+to french "Soif de Connaissance (N1 Points)";
+
+translate "Homeward Bound (N1 points)"
+to french "Retour au foyer (N1 Points)";
+
+translate "Ancient Map (N1 points)"
+to french "Ancienne carte (N1 Points)";
+
+translate "Bringer of Knowledge (N1 points)"
+to french "Source de Connaissances (N1 Points)";
+
+translate "Tenure (N1 points)"
+to french "Tenure (N1 Points)";
+
+translate "Scholarship for N1 points:"
+to french "Apprentissage pour N1 points :";
+translate "Full Scholarship for N1 points:"
+to french "Scolarité complète pour N1 points :";
+translate "Back Roads for N1 points:"
+to french "Raccourcis pour N1 points :";
+translate "Dinner with Pharaoh for N1 points:"
+to french "Dîner avec Pharaon pour N1 points :";
+translate "Fountain of Knowledge for N1 points:"
+to french "Fontaine de Connaissance pour N1 points :";
+translate "Thirst for Knowledge for N1 points:"
+to french "Soif de Connaissances pour N1 points :";
+translate "Homeward Bound for N1 points:"
+to french "Retour au foyer pour N1 points :";
+translate "Ancient Map for N1 points:"
+to french "Ancienne carte pour N1 points :";
+translate "Bringer of Knowledge for N1 points:"
+to french "Source de Connaissances pour N1 points :";
+translate "Tenure for N1 points:"
+to french "Tenure pour N1 points ";
+
+translate "Buy this bonus?"
+to french "Acheter ce bonus?";
+
+translate "You only have N1 points."
+to french "Vous n'avez que N1 points.";
+
+translate "You already have Tenure. There's no need to ask for it again."
+to french "Vous avez déjà une tenure. En demander un autre est inutile.";
+
+translate "Notifying Pharaoh. You won't be charged any points until Pharaoh shows up serves the exotic meal."
+to french "Notification envoyée à Pharaoh. Vous ne dépenserez pas d'autre point jusqu'à ce que Pharaoh se montre avec un repas exotique.";
+
+translate "Dinner with Pharaoh is requested by U1"
+to french "Un dîner avec Pharaoh a été requis par U1(name)";
+
+translate "Not yet implemented. No points have been used."
+to french "L'option n'existe pas encore. Aucun point dépensé.";
+
+translate "You receive the bonus \"Scholarship\" in honor of your hard work."
+to french "Vous avez reçu le bonus \"Apprentissage\" pour honorer votre dur labeur.";
+translate "You receive the bonus \"Scolarité complète\" in honor of your hard work."
+to french "Vous avez reçu le bonus \"Volles Stipendium\" pour honorer votre dur labeur.";
+translate "You receive the bonus \"Back Roads\" in honor of your hard work."
+to french "Vous avez reçu le bonus \"Raccourcis\" pour honorer votre dur labeur.";
+translate "You receive the bonus \"Dinner with Pharaoh\" in honor of your hard work."
+to french "Vous avez reçu le bonus \"Dîner avec Pharaon\" pour honorer votre dur labeur.";
+translate "You receive the bonus \"Fountain of Knowledge\" in honor of your hard work."
+to french "Vous avez reçu le bonus \"Fontaine de Connaissance\" pour honorer votre dur labeur.";
+translate "You receive the bonus \"Thirst for Knowledge\" in honor of your hard work."
+to french "Vous avez reçu le bonus \"Soif de Connaissances\" pour honorer votre dur labeur.";
+translate "You receive the bonus \"Homeward Bound\" in honor of your hard work."
+to french "Vous avez reçu le bonus \"Retour au foyer\" pour honorer votre dur labeur.";
+translate "You receive the bonus \"Ancient Map\" in honor of your hard work."
+to french "Vous avez reçu le bonus \"Ancienne carte\" pour honorer votre dur labeur.";
+translate "You receive the bonus \"Bringer of Knowledge\" in honor of your hard work."
+to french "Vous avez reçu le bonus \"Source de Connaissances\" pour honorer votre dur labeur.";
+translate "You receive the bonus \"Tenure\" in honor of your hard work."
+to french "Vous avez reçu le bonus \"Tenure\" pour honorer votre dur labeur.";
+
+translate "Only N1 MentorS hrine Points."
+to french "Seulement N1 points de mentor.";
+translate "Only N1 MentorShrine Points."
+to french "Seulement N1 points de mentor.";
+
+translate "You eat the most flavorful, exotic dish you have ever tasted. Check your statistics."
+to french "Vous mangez les plats les plus exotiques et les plus savoureux de votre vie. Consultez vos statistiques..";
+
+translate "The + indicates your position. Each square is N1 feet."
+to french "Le + indique votre position. Chaque carré représente N1 pieds.";
+
+translate "Unfolding the map..."
+to french "Vous dépliez la carte...";
+
+translate "You have N1 map(s) remaining. Each fragment will crumble as you unfold it, meaning you can display each fragment only once. You may take screenshots with the ALT-C command - this is recommended. You will have to use the scroll bar to see all of the map. Stand where you want the map centered. Proceed?"
+to french "Il vous reste N1 carte(s). Chaque fragment se dégrade lorsque vous l'ouvrez, ce qui signifie que vous ne pouvez le consulter qu'une fois. Vous pouvez prendre une impression d'écran avec la commande Alt-C - c'est même recommandé. Vous devrez utiliser la barre de défilement pour voir toute la carte. Tenez-vous à l'endroit où vous voulez centrer la carte. Voulez-vous continuer ?";
+
+translate "Type in my Mentor's name"
+to french "Entrer le nom de mon mentor";
+
+translate "Name of mentor?"
+to french "Nom du mentor ?";
+
+translate "U1 is now registered as your mentor."
+to french "U1(name) est à présent enregistré(e) comme votre mentor.";
+
+translate "Mentor Shrine"
+to french "Sanctuaire de mentor";
+
+translate "Mentor Shrine Instructions"
+to french "Instructions du sanctuaire de mentor";
+
+translate "You can now build a Mentor Shrine."
+to french "Vous pouvez maintenant construire un sanctuaire dédié à votre mentor.";
+
+translate "You can reread these instructions at any time using your Projects/Mentor Shrine menu."
+to french "Vous pouvez relire ces instructions à tout moment en utilisant votre menu Projets/Sanctuaire de mentor.";
+
+translate "A mentor is a person who goes out of their way to make you feel welcome in Egypt.  A mentor is a true friend, a lifelong friend. A mentor shrine is the traditional way to repay their kindness."
+to french "Un mentor est une personne qui se consacre à faciliter votre arrivée en égypte. Un mentor est un véritable ami, parfois pendant toute votre vie. Un sanctuaire de mentor est la manière traditionnelle de récompenser votre mentir pour son dévouement.";
+
+translate "You can only ever build one shrine, and the power it grants its recipient is substantial, so it is a priceless item. No amount of money can ever repay its value.  You should give your shrine only to one who is truly deserving, a person who through their kindness has become your friend forever."
+to french "Vous ne pouvez construire qu'un seul sanctuaire, et les bénéfices qu'il donne à son destinataire sont substantiels. C'est donc un bien inestimable. Aucune somme d'argent ne pourra jamais l'acheter. Vous ne devriez consacrer ce sanctuaire qu'à quelqu'un de vraiment méritant, qu'à une personne qui par son dévouement est devenu votre ami pour la vie.";
+
+translate "If there is no such person yet, then reserve your shrine.  A time will come when you meet somebody who is truly worthy.  At that time, you can grant the shrine."
+to french "Si vous n'avez pas encore rencontré cette personne, ne construisez pas votre sanctuaire. Le temps viendra où vous rencontrerez une personne qui en sera réellement digne. Et alors, vous pourrez le construire et le lui dédier.";
+
+translate "The actual construction of the shrine is trivial. You must first type in the name of a person you wish to honor.  Then you start construction: a few boards, some bricks, a couple odds and ends. It is the honor implicit in them which makes shrines special."
+to french "La construction de ce sanctuaire est très simple. Vous devez d'abord entrer le nom de la personne que vous désirez honorer. Ensuite, vous commencez la construction : quelques planches, des briques, deux ou trois petites choses, et voilà. C'est l'honneur que vous mettez dans ce sanctuaire qui le rend spécial.";
+
+translate "Mentorship has changed with Welcoming Island. Experienced players should play the part of game elders here, gently guiding students, and only when they have questions. Mentorship happens after a student leaves the Island, and there are no formal requirements."
+to french "Le mentorat a changé avec l'Ile de Bienvenue. Les joueurs expérimentés y remplissent ici le rôle d'anciens, qui guident leurs étudiants et répondent à leurs questions. Le mentoral commence une fois que l'étudiant quitte l'île, et il n'y a pas de pré-requis officiels.";
+
+translate " U1:N1"
+to french " U1(name):N1";
+
+translate "U1:N1 "
+to french "U1(name):N1 ";
+
+translate "U1:N1"
+to french "U1(name):N1";
+
+translate "U1:K1 "
+to french "U1(name):K1 ";
+
+translate "U1:K1 "
+to french "U1(name):K1 ";
+
+translate "U1:K1"
+to french "U1(name):K1";
+
+translate "Dinner with Pharaoh was enjoyed here "
+to french "Un dîner avec Pharaon a été apprécié ici même ";
+
+translate "Eat Dinner with Pharaoh"
+to french "Partager un dîner avec Pharaon";
+
+translate "You eat the most flavorful, exotic dish you have ever tasted. Check your statistics."
+to french "Vous dégustez le mêt le plus délicat et exotique de votre vie. Jetez un coup d'oeil à vos statistiques.";
+
+translate "U1, U2, U3, U4 and U5"
+to french "U1(name), U2(name), U3(name), U4(name) and U5(name)";
+
+translate "U1, U2, and U3"
+to french "U1(name), U2(name), and U3(name)";
+
+translate "Advance past the first round"
+to french "Passer le premier tour";
+
+translate "No Opinion. Click to Vote."
+to french "Pas d'Opinion. Cliquez ici pour voter.";
+
+translate "U1 (K1.K2), "
+to french "U1(name) (K1.K2)";
+
+translate "K1 (N1.N2), "
+to french "K1 (N1.N2), ";
+
+translate "You record your vote for U1"
+to french "Vous donnez votre voix à U1(name)";
+
+translate "Examine my status"
+to french "Examiner mon statut";
+
+translate "You are signed up for the Test, and registered for this election."
+to french "Vous êtes inscrit à l'épreuve, ainsi qu'à la prochaine élection.";
+
+translate "You have signed up for the Test, but not for this election."
+to french "Vous êtes inscrit à l'épreuve, mais pas pour la prochaine élection.";
+
+translate "Change my Signup Status"
+to french "Modifier mon statut";
+
+translate "Don't include me unless I sign up again"
+to french "Ne m'incluez pas sauf si je m'inscris à nouveau";
+
+translate "Participate in just this next election"
+to french "Participer juste à cette élection";
+
+translate "Participate as a candidate until I say otherwise"
+to french "Participez jusqu'à ce que je change d'avis";
+
+translate "Skip just this next election"
+to french "Ne pas participer à la prochaine";
+
+translate "Count me in!"
+to french "Comptez sur moi!";
+
+translate "Claim Principles Advancement"
+to french "Revendiquer votre progression dans les principes";
+
+translate "You will be a candidate in the next election, but not the ones after that."
+to french "Vous serez candidat à la prochaine élection, mais pas aux suivantes.";
+
+translate "Enter an Expectation"
+to french "Effectuer une prédiction";
+
+translate "Could not find that candidate."
+to french "Candidat introuvable.";
+
+translate "Review my Expectations and Status"
+to french "Passer en revue mes prédictions";
+
+translate "   N1 for selecting U1 K1 ahead. (Selection #O1)"
+to french "   N1 pour avoir prédit U1(name), K1 en avance. (Sélection #O1(ns))";
+
+translate "You have made a total of N1 expectations. Correct past expectations, and all future expectations are shown below."
+to french "Vous avez effectué un total de N1 prédictions. Les prédictions passées correctes ainsi que les futures sont affichées ci-dessous.";
+
+translate "Total of N1 points."
+to french "Total de N1 points.";
+
+translate "No Future Expectations have been made."
+to french "Vous n'avez effectué aucune prédiction pour les élections à venir.";
+

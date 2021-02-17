@@ -1,0 +1,66 @@
+module transferownership_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Games **
+//**    (C)opyright 2002,2003 by MDO Games			           **
+//**                                                                       **
+//***************************************************************************
+//menues
+translate "Give to another player"
+to german "Einem anderen Spieler übertragen";
+
+
+translate "Ownership"
+to german "Eigentum";
+
+translate "Give this building to Selected player"
+to german "Einem anderen Spieler übertragen";
+
+translate "Give this guild building to another player"
+to german "Gib dieses Gildengebäude einem anderen Spieler";
+
+
+translate "Give this building to Named player"
+to german "Einem ausgewählten Spieler übertragen";
+
+translate "Give this guild building to another player"
+to german "Gib dieses Gildengebäude einem anderen Spieler";
+
+//translate "Click another player to bring up their \"Receive Ownership\" menu."
+//to german "Klicke einen anderen Spieler an, um das 'Erhalte Eigentum' Menü zu öffnen.";
+
+translate "Receive ownership of the O1"
+to german "Erhalte als Eigentum: O1(sn)";
+
+translate "U1 has given you a O1."
+to german "U1(name) hat dir folgendes übergeben: O1(sn).";
+
+translate "Donate to the public"
+to german "Der Öffentlichkeit spenden";
+
+translate "Click another player to bring up their 'Receive Ownership' menu."
+to german "Klicke auf einen anderen Spieler, um ihr 'Erhalte Eigentum' Menü zu öffnen.";
+
+//translate "Receive ownership of the O1"
+//to german "Erhalte als Eigentum: O1(sn)";
+
+translate "That building is no longer available to tranfer."
+to german "Dieses Gebäude steht für einen Transfer nicht mehr zur Verfügung.";
+
+translate "No such user U1(name)"
+to german "Kein solcher Spieler U1(name)";
+
+translate "Who do you want to transfer it to?"
+to german "Wem willst du das Gebäude übertragen?";
+
+translate "Transfer the O1 to U1?"
+to german "Transferiere O1(sn) an U1(name)?";
+
+translate "Transferring..."
+to german "Transferiere...";
+
+translate " U1 has given you a O1."
+to german "U1(name) hat Dir übertragen: O1(sn).";
+

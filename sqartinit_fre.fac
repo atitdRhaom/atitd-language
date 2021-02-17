@@ -1,0 +1,308 @@
+Module SQArtInit_fre;
+
+//Objects
+
+translate Sculpture to french feminine
+{
+  ns "sculpture"; np "sculptures";
+}
+
+//menues
+translate "Build a Sculpture that others find interesting."
+to french "Edifiez une sculpture que les autres jugeront intéressante.";
+translate "You have completed Principles of Art and Music."
+to french "Vous avez terminé les Principes des Arts et Musique.";
+translate "Make Rope"
+to french "Faire des cordes";
+translate "Make Linen"
+to french "Faire du tissu";
+translate "Build a Sculpture Base"
+to french "Construire une Base de sculpture";
+translate "Add first item to sculpture"
+to french "Ajouter un premier objet à la sculpture";
+translate "Add 2nd item"
+to french "Ajouter un deuxième objet";
+translate "Add 3rd and more items"
+to french "Ajouter un troisième objet";
+translate "Open for judging"
+to french "Ouvrir aux votes";
+translate "Receive 21 Interesting Votes"
+to french "recevoir 21 votes intéressants";
+translate "Claim Rights as an Initiate of Art & Music"
+to french "Réclamez vos droits d'Initié en Art & Musique";
+
+translate "So far: "
+to french "Jusqu'à présent: ";
+
+translate "No"
+to french "Non";
+
+translate "To prove your potential in the discipline of Art, you must build a sculpture and exhibit it.  Then, 21 people must proclaim the sculpture to be interesting."
+to french "Pour prouver que vous avez du potentiel artistique, vous devez édifier une sculpture et l'exposer. Ensuite, 21 personnes doivent dire que cette sculpture est intéressante.";
+
+translate "To prove your potential in the discipline of Art, you must build a "
+to french "Pour prouver que vous avez du potentiel artistique vous devez édifier ";
+translate "sculpture and exhibit it.  Then, 21 people must proclaim the "
+to french "une sculpture et l'exposer. Ensuite, 21 personnes doivent juger ";
+translate "sculpture to be interesting."
+to french "cette sculpture intéressante.";
+
+translate "To build a sculpture, look in your Projects/Decorative menu."
+to french "Pour édifier une sculpture, allez dans votre menu Projets/Décoration";
+
+translate "Equipment needed: 100 Boards, 10 Rope, and 4 Linen."
+to french "Matériaux nécessaires : 100 planches, 10 cordes et 4 tissus.";
+
+translate "Decorative"
+to french "Décoration";
+
+translate "Build a Sculpture"
+to french "Edifier une sculpture";
+
+translate "To build a Sculpture, you need: "
+to french "Pour édifier une sculpture, il vous faut : ";
+
+translate "Note: All materials that you use in a sculpture are ruined by the rods used to attach them. Don't sculpt with materials that you can not replace."
+to french "Remarque: Tous les matériaux que vous utilisez pour votre sculpture sont degradés par les bâtons qui les soutiennent. N'utilisez pas des objets que vous ne pouvez pas remplacer.";
+
+translate "Sculpture at N1 N2 with N3 by U1"
+to french "Sculpture à N1 N3 avec N3 par U1(name)";
+
+translate "Proclaim this to be Interesting!"
+to french "Cette sculpture est intéressante!";
+
+translate "You register your vote of approval."
+to french "Vous signalez votre approbation.";
+
+translate "Open this for judging"
+to french "Ouvrir aux votes";
+
+translate "Open your work for judging? This can not be undone, although it is possble to continue work after judging has started."
+to french "Soumettre votre oeuvre à l'évaluation? Cette action est irréversible, mais il est possible de continuer à l'améliorer après le début de l'évaluation.";
+
+translate "Only the owner of a sculpture may open it for judging."
+to french "Seul le propriétaire de la sculpture peut l'ouvrir aux votes.";
+
+//translate "Open this Sculpture for...",<<"Principles of Art and Music","The current Sculpture Contest"
+//to french 
+
+translate "Proclaim this to be an Eyesore!"
+to french "Cette sculpture est affreuse!";
+
+translate "You register your vote of disapproval."
+to french "Vous signalez votre désapprobation.";
+
+translate "Claim your rights as an Initiate of Art!"
+to french "Réclamez vos droits d'Initié en Art!";
+
+translate "Because this sculpture was claimed under the DPPRA, you can't use it to initiate into the Discipline of Art."
+to french "Cette sculpture a été aquise grâce au DPPRA, vous ne pouvez l'utiliser pour l'initiation à la Discipline de l'Art.";
+
+translate "You have completed the Initiation into the Discipline of Art and Music."
+to french "Vous avez réussi l'initiation à la Discipline d'Art et Musique.";
+
+translate "You, or someone with a similar signature already voted on this sculpture."
+to french "Vous, ou quelqu'un avec une signature similaire, avez déjà jugé cette sculpture";
+
+translate "Title: K1"
+to french "Titre : K1";
+
+translate "Votes so far, at least:"
+to french "Jusqu'à présent, au moins:";
+
+translate "* N1 Eyesore"
+to french "* N1 Affreux";
+
+translate "* N1 Interesting"
+to french "* N1 Intéressants";
+
+translate "This sculpture is condemned, and will collapse in K1"
+to french "Cette sculpture est condamnée, et s'écroulera dans K1";
+
+translate "Title this Piece"
+to french "Nommer cette oeuvre";
+
+translate "Enter the Title:"
+to french "Donner un titre:";
+
+translate "My Sculpture"
+to french "Ma sculpture";
+
+translate "Enter the Title: My Sculpture"
+to french "Entrez un titre : Ma sculpture";
+
+translate "The maximum length for a title is 80 characters"
+to french "Le titre peut comporter au maximum 80 caractères";
+
+translate "Slashes are not allowed"
+to french "Les barres obliques ne sont pas autorisées";
+
+translate "Brackets are not allowed"
+to french "Les parenthèses ne sont pas autorisées";
+
+translate "Empty"
+to french "Vide";
+
+translate "Move Object"
+to french "Déplacer un objet";
+ 
+translate "Move "
+to french "Déplacer ";
+
+translate "Move N1 (empty)"
+to french "Emplacement N1: (vide)";
+
+translate "Move N1 (O1)"
+to french "Emplacement N1: O1(ns)";
+
+translate "Clear Object"
+to french "Supprimer un objet";
+
+translate "Clear N1 (O1)"
+to french "Emplacement N1: O1(ns)";
+
+translate "Clear N1 (Empty)"
+to french "Emplacement N1: (vide)";
+
+translate "Really remove O1 from the sculpture? You will not get the item back."
+to french "Voulez-vous vraiment supprimer O1(cns) O1(ns) de la sculpture ? Vous ne récupèrerez pas l'objet.";
+
+translate "Load Object"
+to french "Ajouter un objet";
+
+translate "Load "
+to french "Ajouter ";
+
+translate "Load N1 (O1)"
+to french "Emplacement N1: O1(ns)";
+
+translate "Load N1 (Empty)"
+to french "Emplacement N1: (vide)";
+
+translate "Item to Add to Sculpture:"
+to french "Elément à ajouter à la sculpture:";
+
+translate "Adding a model to a sculpture would violate your artistic integrity."
+to french "Ajouter un modèle à une sculpture violerait votre intégrité artistique.";
+
+translate "Unique items cannot be used in a sculpture."
+to french "Les objets uniques ne peuvent pas être utilisés dans une sculpture.";
+
+translate "This particular unique item cannot be used in a sculpture."
+to french "Cet objet unique ne peut pas être utilisé dans une sculpture.";
+
+translate "You can only have one color of Raeli tile per sculpture. Remove all tiles to change the color."
+to french "Vous ne pouvez utiliser qu'une seule couleur de tuile par sculpture. Supprimer toutes les tuiles pour changer de couleur.";
+
+translate "That item cannot be placed onto a sculpture."
+to french "Cet élément ne peut pas être ajouté à une sculpture.";
+
+translate "You don't have any O1"
+to french "Vous n'avez pas de O1(ns)";
+
+translate "Movement"
+to french "Mouvement";
+
+translate "Rotation"
+to french "Rotation";
+
+translate "Editing Slot N1 (empty)"
+to french "N1 (vide)";
+
+translate "Editing Slot N1 (O1)"
+to french "N1 (O1(ns))";
+
+translate "Editing Slot N1"
+to french "N1";
+
+translate "Judge"
+to french "Juger";
+
+translate "Score="
+to french "Score=";
+
+translate "[Extra]Your score for this piece is N1"
+to french "Votre score pour cette oeuvre est N1";
+
+translate "[Extra]So far, N1 judges have voted."
+to french "Jusqu'à présent, N1 juges se sont prononcés.";
+
+//translate "Set Sculpture Count to 2"
+//to french "Setze Skulpturzähler auf 2";
+
+//translate "Set Sculpture Count to 4"
+//to french "Setze Skulpturzähler auf 4";
+
+//translate "Sculpture Judging Podium"
+//to french "Skulpturen Wertungspodium";
+
+//translate " Warning: Not all judges have voted!"
+//to french " Warnung: Nicht alle Richter haben gewertet!";
+
+//translate Count: ",Place.SculptureCount," Points: ",total," ",warn," By: ",Place.Sculptor," At: ",Place->LocStr())
+//to french "
+
+translate "Slot N1:Empty"
+to french "Emplacement N1:vide";
+
+translate "Slot N1:O1"
+to french "Emplacement N1:O1(ns)";
+
+translate "This is a Monument of Egypt, as passed into law by Talies"
+to french "ceci est un Monument d'Egypte, d'après la loi de Talies";
+
+translate "Votes so far: At least N1"
+to french "Votes jusqu'à présent: au moins N1";
+
+translate "Condemn this sculpture"
+to french "Condamner cette sculpture";
+
+translate "sculpture construction"
+to french "Edif. de sculptures";
+
+translate "Start the Initiation into Art"
+to french "Commencer l'Initiation de l'Art";
+
+translate "You have been taught the skill of Sculpture Construction."
+to french "Vous avez appris à édifier des sculptures";
+
+translate "You already registered your vote of 'interesting.'"
+to french "Vous avez déjà dit que cette sculpture était 'intéressante'.";
+translate "That item cannot be placed onto a sculpture."
+to french "Cet objet ne peut pas être utilisé dans une sculpture.";
+
+translate "Slot N1:Empty"
+to french "Espace N1 : Vide";
+
+translate "Slot N1:O1"
+to french "Espace N1 : O1(ns)";
+
+translate "Rotate"
+to french "Faire tourner";
+
+translate "You don't have any "
+to french "Vous n'avez pas de ";
+
+translate "Tear down your sculpture, OR do the following:"
+to french "Détruisez votre sculpture, OU suivez ces étapes :";
+
+translate "Tear down this Sculpture"
+to french "Détruire cette sculpture";
+
+translate "Are you sure you want to tear down your Sculpture?"
+to french "Etes-vous certain de vouloir détruire cette sculpture ?";
+
+translate "Claim my rights as an Initiate of Art!"
+to french "Revendiquer mes progrès en tant qu'initié à l'Art !";
+
+translate "It looks like you are trying to tear down your sculpture to complete Principles of Art and Music. Is this correct?"
+to french "Il semble que vous essayiez de détruire votre sculpture pour terminer les principes d'Art et Musiques. Est-ce correct ?";
+
+translate "It seems that you are trying to tear down your sculpture to complete Principles pf Art and Music, but at least one item remains incomplete. Tear it down anyway?"
+to french "Il semble que vous essayiez de détruire votre sculpture pour terminer les principes d'Art et Musiques, mais au moins une des tâches n'est pas effectuée. Détruire la sculpture ne vous fera pas passer les principes. Continuer ?";
+
+translate "Check under the Bad Art Removal Act"
+to french "Vérifier selon le Bad Art Removal Act";
+
+translate "As defined by the Bad Art Removal Act, introduced by Jax, This sculpture is not Bad Art."
+to french "D'après la loi Bad Art Removal, promulguée par Jax, cette sculpture n'est pas de l'art médiocre.";

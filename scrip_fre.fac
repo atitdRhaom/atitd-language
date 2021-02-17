@@ -1,0 +1,252 @@
+module scrip_fre;
+
+translate Scrip to french feminine
+{
+  ns "monnaie scripturale"; np "monnaie scripturale"; 
+}
+translate papermaking to french feminine
+{
+  ns "Fabrication de papier à base de bois"; np "Fabrication de papier à base de bois"; 
+}
+
+translate Minting to french feminine
+{
+  ns "Création monétaire"; np "Création monétaire";
+}
+translate mint to french masculine
+{
+  ns "Hôtel de la monnaie"; np "Hôtels de la monnaie";
+}
+
+translate CertificatePress to french feminine
+{
+  ns "presse à certificats"; np "presses à certificats";
+}
+
+translate OracleOfArchitecture to french masculine
+{
+  ns "oracle d'architecture"; np "oracles d'architecture";
+}
+
+translate MediumHydraulicCylinders to french masculine
+{
+  ns "cylindres hydrauliques moy."; np "cylindres hydrauliques moy.";
+}
+
+translate MediumStonemetalGears to french masculine
+{
+  ns "engrenages en pierre moy."; np "engrenages en pierre moy.";
+}
+
+translate Certification to french feminine
+{
+  ns "certification"; np "certifications";
+}
+
+translate "Take Plates"
+to french "Retirer les plaques";
+
+translate "minting"
+to french "Création monétaire";
+
+translate "Remove Plate"
+to french "Enlever les plaques";
+
+translate "Are you sure you want to remove the imprint plate?"
+to french "Etes-vous sûr de vouloir retirer les plaques préimprimées ?";
+
+translate "You remove the plate, breaking the bolts that hold it in."
+to french "Vous avez retiré les plaques et cassé les boulons qui les maintenaient";
+
+translate "Install Deckle and Plate"
+to french "Installez un cadre et des plaques";
+
+translate "Allows anyone to print money."
+to french "Permettre à tout le monde de frapper de la monnaie.";
+
+translate "Allows the creation of wood-based paper."
+to french "Permet la création de papier à base de bois";
+
+translate "Allows anyone to print unique, serialized certificates."
+to french "Permet à tout le monde d'imprimer des certificats uniques et sérialisés";
+
+translate "Projects/Mint"
+to french "Projets/Machine à monnaie";
+
+translate "Mint"
+to french "Machine à monnaie";
+
+translate "To build a Mint, you need:"
+to french "Pour construire une machine à monnaie, il vous faut :";
+
+translate "Set Currency Name"
+to french "Donner un nom à la monnaie";
+
+
+translate "Name of currency? Note: This can never be changed."
+to french "Voulez-vous donner un nom à la monnaie ? Notez que cela ne pourra pas être changé";
+
+translate "Your currency name will be: <K1> Check for capitalization or other typos. Proceed?"
+to french "Votre monnaie s'appellera <K1>. Vérifiez l'orthographe et les majuscules. Valider ?";
+
+translate "Currency type for this mint has been permanently set to K1."
+to french "Le nom de cette monnaie a été définitivement enregistré : K1.";
+
+translate "The name K1 is already taken."
+to french "Le nom K1 est déjà pris.";
+
+translate "Reset the Mint's counter"
+to french "Réinitialiser le conteur de pièces";
+
+translate "Reset the currency"
+to french "Réinitialiser le compte";
+
+translate "Are you sure you want to reset the mint's counter?"
+to french "Voulez-vous vraiment réinitialiser le compteur de pièces ?";
+
+translate "Load the Mint's hopper with Papyrus Paper"
+to french "Mettre du papier de papyrus dans le réservoir de la machine à pièces.";
+
+translate "Cut and Load how much paper? Each sheet makes 6 notes"
+to french "Couper et charger combien de feuilles ? Chaque feuille permet de faire 6 billets";
+
+translate "Load how much papayrus paper? (Max N1)"
+to french "Charger combien de feuilles ? (Max N1)";
+
+translate "You don't have enough."
+to french "Vous n'en avez pas assez.";
+
+translate "Fill the well with Ink"
+to french "Remplir le creuset de la machine avec de l'encre";
+
+translate "Fill with how much ink? (Max N1)"
+to french "Quelle quantité d'encre ? (Max N1)";
+
+translate "This mint has issued N1 K1 scrip."
+to french "Cette machne vient de sortir N1 K1.";
+
+translate "This press has issued N1 K1 certificates."
+to french "Cette presse a sorti N1 certificats de K1.";
+
+translate "Configure"
+to french "Configurer";
+
+translate "Set Certificate Name"
+to french "Définir le nom du certificat";
+
+translate "Name of certificates? Note: This can never be changed."
+to french "Nom du certificat ? Note: Ceci ne pourra jamais être changé";
+
+translate "Your certificate name will be: <K1> Check for capitalization or other typos. Proceed?"
+to french "Le nom de votre certificat sera: <K1> Vérifiez les lettres capitales et autres typo. On procède ?";
+
+
+//translate "Take Plates by O1"
+//to french "Prendre les plaques par O1(ns)";
+
+translate "Supplies: N1 Papyrus Paper, N2 Ink"
+to french "Fournitures: N1 papier de papyrus, N2 encres";
+
+translate "Load the hopper with paper"
+to french "Charger la trémie avec du papier";
+
+translate "Load the hopper with papyrus paper"
+to french "Charger la trémie avec du papier de papyrus";
+
+translate "This press does not have a plate installed."
+to french "Cette presse n'a pas de plaque installée";
+
+translate "Print a Certificate"
+to french "Imprimer un certificat";
+
+translate "Choose a type of ink:"
+to french "Choisissez un type d'encre";
+
+translate "Choose a type of paper:"
+to french "Choisissez un type de papier:";
+
+translate "You require four Bolts to fasten the Aluminum Plate to the mechanism, as well as twelve washers to provide proper spacing. It also requires a Deckle to hold the wood pulp."
+to french "Vous avez besoin de 4 boulons pour sécuriser la plaque en aluminium au mécanisme ainsi que 12 rondelles pour fournir l'espace approprié. Il vous faut aussi un tamis pour la pulpe de bois";
+translate "Certificate type for this press has been permanently set to K1."
+to french "Le type de certificat pour cette presse a été défini de façon permanente comme K1.";
+
+translate "Certificates require Papyrus Paper. Please load the press with Papyrus Paper."
+to french "Les certificats nécessitent du papier de papyrus. Merci de charger la press avec ce type de papier";
+
+translate "This press has been outfitted to make wood paper."
+to french "Cette presse a été configurée pour fabriquer du papier de bois";
+
+translate "Fill the Deckle with Water"
+to french "Remplir le tamis avec de l'eau";
+
+translate "Press the Plate into the Deckle"
+to french "Appuyer les plaques contre le tamis";
+
+translate "Put Paper Pulp into the Deckle"
+to french "Mettez de la pulpe de papier dans le tamis";
+
+translate "Remove Deckle and Plate"
+to french "Enlever le tamis et les plaques";
+
+translate "Are you sure you want to remove the Deckle and Aluminum Plate?"
+to french "Etes-vous sûr de vouloir enlever le tamis et la plaque d'aluminium ?";
+
+translate "The Deckle is already full of water!"
+to french "Le tamis est déjà saturé d'eau !";
+
+translate "You must fill the Deckle with Paper Pulp to press into Wet Paper."
+to french "Vous devez remplir le tamis avec de la pulpe de papier afin d'en faire du papier humide";
+
+translate "You must fill the Deckle with water before pressing the plate into the Paper Pulp."
+to french "Vous devez saturer le tamis d'eau avant d'appliquer les plaques sur la pulpe de papier";
+
+translate "You must remove the Wet Paper from the Deckle before loading it with any more Water"
+to french "Vous devez retirer le papier humide du tamis avant de le saturer d'eau à nouveau";
+
+translate "You need to place four deben of Paper Pulp into the Deckle to make one sheet of Wet Paper."
+to french "Vous avez besoin de 4 mesures de pulpe de papier dans le tamis pour faire une feuille de papier humide";
+
+translate "This O1 is Making Wood Paper"
+to french "O1(cns) O1(ns) fabrique du papier de bois";
+
+translate "Permission for K1"
+to french "Permission pour K1";
+
+translate "Set Denomimation to N1"
+to french "Mettre la dénomination à N1";
+
+translate "Set Denomimation to other"
+to french "Mettre la dénomination à une autre valeur";
+
+translate "Enter a denomination, up to 1 million:"
+to french "Entrer une dénomination, jusqu'à 1 million:";
+
+translate "Denomination is set to N1."
+to french "La dénomination est paramétrée à N1.";
+
+translate "Print a N1 K1 note"
+to french "Imprimer un billet de N1 K1";
+
+translate "There is no paper in the hopper."
+to french "Il vous manque du papier.";
+
+translate "There is no ink in the well."
+to french "Il vous manque de l'encre.";
+
+translate "Ink Supply: N1"
+to french "Réserve d'encre : N1";
+
+translate "Paper Supply: N1"
+to french "Réserve de papier : N1";
+
+translate "Accounting: N1"
+to french "Compteur : N1";
+
+translate "Currency: K1"
+to french "Monnaie : K1";
+
+translate "Print N1"
+to french "Imprimer N1";
+
+translate "Shred"
+to french "Déchirer";

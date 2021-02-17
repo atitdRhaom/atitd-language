@@ -1,0 +1,109 @@
+Module TestOfTheMessenger_fre;
+
+translate tmessenger to french feminine
+{ ns "L'épreuve du messager"; np "L'épreuve du messager"; }
+
+translate "Test of the Messenger"
+to french "Epreuve du messager";
+
+translate "Properly interpret the will of the gods."
+to french "Interprétez correctement la volonté des dieux.";
+
+translate "Make papyrus paper" to french "Fabriquer du papier à base de papyrus";
+
+translate "Make ink" to french "Fabriquer de l'encre";
+
+translate "Meditate on an altar" to french "Méditer sur un autel";
+
+translate "Collect your first message fragment" to french "Récupérer votre premier fraguement de message";
+
+translate "Complete a Ritual" to french "Completez un rituel";
+
+translate "You have completed Principles for the O1.  If you choose, you may now find others and try to interprete the will of the gods."
+to french "Vous avez complété les principes de O1(ns). Si vous le souhaitez, vous pouvez en trouver d'autres et essayer d'interpréter la volonté des dieux.";
+
+translate "Players across Egypt must work together to assemble messages from the gods.  These holy messages describe ancient and long-forgotten rituals used to pacify and please various gods. The goal of this test is to fully assemble a message and carry out the instructions therein, which describe a complex ritual that must be completed with a partner. Complete five such rituals to pass the test.  Beware, the gods will quickly become bored with each ritual and will only honor the first seven pairs that complete it."
+to french "Les joueurs à travers l'Egypte doivent se regrouper pour assembler les messages des dieux. Ces messages sacrés décrivent d'anciens rituels oubliés depuis longtemps et utilisés pour appaiser et complaire les différents dieux. Le but de cette épreuve est d'assembler entièrement un message afin de retranscrire les instructions qui permettent de réaliser un rituel complexe avec un partenaire. Commpléter 5 de ces rituels pour passer l'épreuve. Attention, les dieux se lassent très vite de ces rituels et n'honoreront que les 7 premiers couples les ayants réalisés.";
+
+translate "Ritual of Messages"
+to french "Rituel du message";
+
+translate "The ritual of messages is used to partially reveal messages from the gods"
+to french "Le rituel du message est utilisé pour révéler partiellement les messages des dieux";
+
+translate "Ask U1 to perform the ritual with you"
+to french "Demander à U1(name) de réaliser le rituel avec vous";
+
+translate "N1 successful rituals" to french "N1 rituels réussis";
+translate "U1 would like to perform the O1 ritual with you."
+to french "U1(name) voudrait réaliser le rituel avec vous.";
+translate "Do you want to perform the ritual with U1?"
+to french "Voulez-vous réaliser le rituel avec U1(name) ?";
+
+// to be deleted if typing mistake is corrected (wnat instead of want)
+translate "U1 does not wnat to perform the ritual with you"
+to french "U1(name) ne veut pas réaliser le rituel avec vous";
+
+translate "U1 does not wnat to perform the ritual with you"
+to french "U1(name) ne veut pas réaliser le rituel avec vous";
+translate "You are now performing the ritual with U1"
+to french "Vous effectuez maintenant le rituel avec U1(name)";
+translate "It is a simple ritual:"
+to french "C'est un rituel simple :";
+translate "Place a papyrus paper on the left focus."
+to french "Placez un papier de papyrus sur le plateau à gauche de l'autel";
+translate "Place an ink on the right focus."
+to french "Placez une encre sur le plateau à droite de l'autel.";
+translate "Meditate on the altar."
+to french "Méditez sur l'autel";
+
+translate "Amun, King of the Gods"
+to french "Amun, Roi des Dieux";
+translate "Anubis, god of the dead"
+to french "Anubis, dieu des morts";
+translate "Atum, creator god, first one"
+to french "Atum, dieu de la création et des premiers nés";
+translate "Babi, he who controls the darkness"
+to french "Babi, celui qui contrôle la noirceur";
+translate "Bastet, the protector"
+to french "Bastet, le protecteur";
+translate "Bes, protector of family"
+to french "Bes, protecteur de la famille";
+translate "Geb, god of the earth"
+to french "Geb, dieu de la Terre";
+translate "Hathor, goddess of love and joy"
+to french "Hator, déesse de l'amour et de la joie";
+translate "Horus, god of the sky"
+to french "Horus, dieu du ciel";
+translate "Isis, protector of those in need"
+to french "Isis, protecteur de ceux qui sont dans le besoin";
+translate "Khnum, creator god, god of the innundation"
+to french "Khnum, dieu de la création et des innondations";
+translate "Maat, goddess of truth, justice and harmony"
+to french "Maat, déesse de la vérité, de la justice et de l'harmonie";
+translate "Nut, goddess who is the sky"
+to french "Nut, déesse qui est le ciel";
+translate "Osiris, god of the dead, ruller of the underworld"
+to french "Osiris, dieu des morts, maître des enfers";
+translate "Ptah, god of craftsmen"
+to french "Ptah, dieu des artisans";
+translate "Ra, the everlasting sun"
+to french "Ra, le soleil éternel";
+translate "Sekhmet, goddess of war"
+to french "Sekhmet, déesse de la guerre";
+translate "Seshat, goddess of writing and measurement"
+to french "Seshat, déesse de l'écriture et de la mesure";
+translate "Shu, god of the air"
+to french "Shu, dieu des airs";
+translate "Sobek, god of the nile"
+to french "Sobek, Dieu du Nil";
+translate "Tayet, goddess of weaving"
+to french "Tayet, déesse du tissage";
+translate "Thoth, god of writing and knowledge"
+to french "Thoth, dieu de l'écriture et de la connaissance";
+translate "Tefnut, goddess of moisture"
+to french "Tefnut, déesse de l'humidité";
+translate "Kheper, god of beetles"
+to french "Kheper, dieu des scarabés";
+
+

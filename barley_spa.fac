@@ -1,0 +1,90 @@
+module Barley_spa;
+
+
+translate WeedKiller to spanish masculine
+{
+ns "Pesticida"; np "Pesticida";
+}
+
+translate GrainFertilizer to spanish masculine
+{
+ns "Fertilizante"; np "Fertilizante";
+}
+
+translate BarleyBed to spanish masculine
+{
+ns "Plantío de Cebada"; np "Plantíos de Cebada";
+}
+
+translate BarleyRaw to spanish feminine
+{
+ns "Cebada"; np "Cebada";
+}
+
+translate MaltingTray to spanish feminine
+{
+ns "Bandeja de Malteado"; np "Bandejas de Malteado";
+}
+
+translate "Supplies"
+to spanish "Surtido";
+
+translate "Request a packet of Barley"
+to spanish "Solicita un paquete de Cebada";
+
+translate "You already got a packet of barley."
+to spanish "Ya solicitaste un paquete de cebada anteriormente.";
+
+translate "We can only give barley to people with paid accounts."
+to spanish "Solo podemos dar paquetes de cebada a aquellos con una cuenta pagada";
+
+translate "You don't have any grain fertilizer."
+to spanish "No tienes fertilizante para usar.";
+
+translate "You don't have any water."
+to spanish "No tienes agua para usar.";
+
+translate "You don't have any weed killer."
+to spanish "No cuentas con pesticida para usar.";
+
+translate "You harvested N1 Barley"
+to spanish "Haz cosechado N1 Cebada";
+
+translate "Harvest"
+to spanish "Cosecha";
+
+translate "Plant"
+to spanish "Siembra";
+
+translate "Barley"
+to spanish "Cebada";
+
+translate "To plant barley, you need: "
+to spanish "Para sembrar cebada necesitas: ";
+
+translate "Farming"
+to spanish "Cultivo";
+
+translate "Build a Malting Tray"
+to spanish "Construye una Bandeja de Malteado";
+
+translate "To build a Malting Tray, you need: "
+to spanish "Para construir una Bandeja de Malteado necesitas: ";
+
+translate "Malt Barley"
+to spanish "Malta Cebada";
+
+translate "To malt barley, you need: "
+to spanish "Para maltar cebada, necesitas: ";
+
+translate "The Malt"
+to spanish "La Malta";
+
+translate "The barley is germinating..."
+to spanish "La Malta está germinando...";
+
+translate "Barley: Growing"
+to spanish "Cebada: Creciendo";
+
+translate "Barley: Ready to Harvest"
+to spanish "Cebada: Listo para Cosechar";

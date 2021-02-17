@@ -1,0 +1,252 @@
+module bricks_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**            German Version: Astrid "Infinyti" Werner                   **
+//**                            2011                                       **
+//**                                                                       **
+//***************************************************************************
+
+
+translate BrickMachine to german feminine
+{
+  swa "Ziegelmaschine";
+  sn "Ziegelmaschine"; sg "Ziegelmaschine"; sd "Ziegelmaschine"; sa "Ziegelmaschine";
+  pn "Ziegelmaschinen"; pg "Ziegelmaschinen"; pd "Ziegelmaschinen"; pa "Ziegelmaschinen";
+}
+translate BrickRackAlignment to german feminine
+{
+  swa "Ziegelformausrichtung";
+  sn "Ziegelformausrichtung"; sg "Ziegelformausrichtung"; sd "Ziegelformausrichtung"; sa "Ziegelformausrichtung";
+  pn "Ziegelformausrichtung"; pg "Ziegelformausrichtung"; pd "Ziegelformausrichtung"; pa "Ziegelformausrichtung";
+}
+
+translate ImpBrickRack to german feminine
+{
+  swa "stabile Ziegelform";
+  sn "stabile Ziegelform"; sg "stabilen Ziegelform"; sd "stabilen Ziegelform"; sa "stabile Ziegelform";
+  pn "stabilen Ziegelformen"; pg "stabilen Ziegelformen"; pd "stabilen Ziegelformen"; pa "stabilen Ziegelformen";
+}
+translate BrickRackBuilding to german feminine
+{
+  swa "zerbrechliche Ziegelform";
+  sn "zerbrechliche Ziegelform"; sg "zerbrechlichen Ziegelform"; sd "zerbrechliche Ziegelform"; sa "zerbrechliche Ziegelform";
+  pn "zerbrechlichen Ziegelformen"; pg "zerbrechlichen Ziegelformen"; pd "zerbrechlichen Ziegelformen"; pa "zerbrechlichen Ziegelformen";
+}
+
+translate Grass to german neutercollective
+{
+  swa "Gras";
+  sn "Gras"; sg "Grases"; sd "Gras"; sa "Gras";
+  pn "Gräser"; pg "Gräser"; pd "Gräsern"; pa "Gräser";
+}
+translate Mud to german masculinecollective
+{
+  swa "Schlamm";
+  sn "Schlamm"; sg "Schlammes"; sd "Schlamm"; sa "Schlamm";
+  pn "Schlamm"; pg "Schlamm"; sd "Schlamm"; pa "Schlamm";
+}
+translate Sand to german masculinecollective
+{
+  swa "Sand";
+  sn "Sand"; sg "Sandes"; sd "Sand"; sa "Sand";
+  pn "Sand"; pg "Sand"; pd "Sand"; pa "Sand";
+}
+translate Bricks to german masculinecollective
+{
+  swa "Ziegel";
+  sn "Ziegel"; sg "Ziegels"; sd "Ziegel"; sa "Ziegel";
+  pn "Ziegel"; pg "Ziegel"; pd "Ziegeln"; pa "Ziegel";
+}
+translate WetFireBricks to german masculinecollective
+{
+  swa "feuchter Feuerziegel";
+  sn "feuchte Feuerziegel"; sg "feuchten Feuerziegels"; sd "feuchten Feuerziegel"; sa "feuchten Feuerziegel";
+  pn "feuchten Feuerziegel"; pg "feuchten Feuerziegel"; pd "feuchten Feuerziegel"; pa "feuchten Feuerziegel";
+}
+translate FireBricks to german masculinecollective
+{
+  swa "Feuerziegel";
+  sn "Feuerziegel"; sg "Feuerziegels"; sd "Feuerziegel"; sa "Feuerziegel";
+  pn "Feuerziegel"; pg "Feuerziegel"; pd "Feuerziegeln"; pa "Feuerziegel";
+}
+
+translate WetClayBricks to german masculinecollective
+{
+  swa "feuchter Tonziegel";
+  sn "feuchte Tonziegel"; sg "feuchten Tonziegels"; sd "feuchten Tonziegel"; sa "feuchten Tonziegel";
+  pn "feuchten Tonziegel"; pg "feuchten Tonziegel"; pd "feuchten Tonziegel"; pa "feuchten Tonziegel";
+}
+translate ClayBricks to german masculinecollective
+{
+  swa "Tonziegel";
+  sn "Tonziegel"; sg "Tonziegels"; sd "Tonziegel"; sa "Tonziegel";
+  pn "Tonziegel"; pg "Tonziegel"; pd "Tonziegeln"; pa "Tonziegel";
+}
+
+translate BrickRack to german feminine
+{
+  swa "zerbrechliche Ziegelform";
+  sn "zerbrechliche Ziegelform"; sg "zerbrechlichen Ziegelform"; sd "zerbrechliche Ziegelform"; sa "zerbrechliche Ziegelform";
+  pn "zerbrechlichen Ziegelformen"; pg "zerbrechlichen Ziegelformen"; pd "zerbrechlichen Ziegelformen"; pa "zerbrechlichen Ziegelformen";
+}
+
+translate ImpBrickRack to german feminine
+{
+  swa "Ziegelform";
+  sn "Ziegelform"; sg "Ziegelform"; sd "Ziegelform"; sa "Ziegelform";
+  pn "Ziegelformen"; pg " Ziegelformen"; pd "Ziegelformen"; pa "Ziegelformen";
+}
+
+translate RedSand to german masculinecollective
+{
+  swa "roter Sand";
+  sn "rote Sand"; sg "roten Sandes"; sd "roten Sand"; sa "roten Sand";
+  pn "roten Sand"; pg "roten Sand"; pd "roten Sand"; pa "roten Sand";
+}
+translate WhiteSand to german masculinecollective
+{
+  swa "weißer Sand";
+  sn "weiße Sand"; sg "weißen Sandes"; sd "weißen Sand"; sa "weiße Sand";
+  pn "weiße Sand"; pg "weißen Sandes"; pd "weißen Sand"; pa "weiße Sand";
+}
+
+translate "Reset!"
+	to german "Zurücksetzen!";
+
+translate "Build a Brick Rack"
+	to german "Baue eine Ziegelform";
+
+translate "Projects/Build a Brick Rack"
+	to german "Projekte/Baue eine Ziegelform";
+
+translate "To build a Brick Rack, you need: "
+	to german "Um eine Ziegelform zu bauen, brauchst du: ";
+
+translate "Make Bricks"
+	to german "Mache Ziegel";
+
+translate "It's confusing which brick rack you are pointing at. (Don't stack brick racks)"
+	to german "Es ist verwirrend, auf welche Ziegelform du deutest. (Staple keine Ziegelformen)";
+
+translate "To make Bricks, you need: "
+	to german "Um Ziegel zu machen, brauchst du: ";
+
+translate "The flimsy Brick Rack has fallen apart due to heavy use. Research more technology to find a sturdier Brick Rack."
+	to german "Die zerbrechliche Ziegelform zerbrach aufgrund zu starker Belastung. Forsche nach besserer Technologie, um stabilere Ziegelformen herstellen zu können.";
+
+translate "Make Firebricks"
+	to german "Mache Feuerziegel";
+
+translate "To make Firebricks, you need: "
+	to german "Um Feuerziegel zu machen, brauchst du: ";
+
+translate "Make Clay Bricks"
+	to german "Mache Tonziegel";
+
+translate "To make Clay Bricks, you need: "
+	to german "Um Tonziegel zu machen, brauchst du: ";
+
+translate "Brick Rack Alignment"
+	to german "Ziegelformausrichtung";
+
+translate "Allows one to drop brick racks so they align to a grid."
+	to german "Erlaubt die Anordnung von Ziegelformen an einem Raster.";
+
+translate "Drop & Align a Brick Rack"
+	to german "Ziegelform ablegen und ausrichten";
+
+translate "Pick up the Brick Rack"
+	to german "Hebe die Ziegelform auf";
+
+translate "The bricks are drying..."
+	to german "Die Ziegel trocknen...";
+
+translate "Build an Improved Brick Rack"
+	to german "Baue eine verbesserte Ziegelform";
+
+translate "To build an Improved Brick Rack, you need: "
+	to german "Um eine verbesserte Ziegelform zu bauen, benötigst du: ";
+
+translate "Gather how much O1?"
+	to german "Sammle wieviel O1(pn)?";
+
+translate "You moved! To gather, you must stand in one place."
+	to german "Du hast dich bewegt! Zum Sammeln musst du stehen.";
+
+translate "Gather: Sand[hidden]"
+	to german "Sammle: Sand[hidden]";
+
+translate "Note: White sand is made of small, hard crystals, like coarsely ground quartz. Due to it's weight, you won't be able to carry much."
+	to german "Anmerkung: weißer Sand besteht aus kleinen, harten Kristallen, wie grober erdiger Quarz. Da er schwerer ist, wirst du nicht viel tragen können.";
+
+translate "Gather: Mud[hidden]"
+to german "Sammle: Schlamm[hidden]";
+
+translate "Upgrade the base and hopper"
+  to german "Fundament und Behälter verbessern";
+
+translate "To upgrade this building you need:"
+  to german "Um dieses Gebäude zu verbessern, benötigsts du:";
+
+translate "Further Upgrade the base and hopper"
+  to german "Fundament und Behälter weiter verbessern";
+
+translate "Build a Brick Machine"
+	to german "Baue eine Ziegelmaschine";
+
+translate "To build a Brick Machine, you need:"
+	to german "Um eine Ziegelmaschine zu bauen, benötigst du: ";
+
+translate "Load the Brick Machine with Mud"
+	to german "Belade die Ziegelmaschine mit Schlamm";
+
+translate "Load how much mud? (Max N1)"
+	to german "Wieviel Schlamm einladen? (Max N1)";
+
+translate "Load the Brick Machine with Sand"
+	to german "Belade die Ziegelmaschine mit Sand";
+
+translate "Load how much sand? (Max N1)"
+	to german "Wieviel Sand einladen? (Max N1)";
+
+translate "Load the Brick Machine with Straw"
+	to german "Belade die Ziegelmaschine mit Stroh";
+
+translate "Load how much Straw? (Max N1)"
+	to german "Wieviel Stroh einladen? (Max N1)";
+
+translate "Load the Brick Machine with Silt"
+	to german "Belade die Ziegelmaschine mit Schlick";
+
+translate "Load how much Silt? (Max N1)"
+	to german "Wieviel Schlick einladen? (Max N1)";
+
+translate "Load the Brick Machine with Clay"
+	to german "Belade die Ziegelmaschine mit Ton";
+
+translate "Load how much Clay? (Max N1)"
+	to german "Wieviel Ton einladen? (Max N1)";
+
+translate "Start the machine making Bricks"
+to german "Starte die Maschine, um Ziegel herzustellen.";
+
+translate "Start the machine making Fire Bricks"
+to german "Starte die Maschine, um Feuerziegel herstellen.";
+
+translate "Start the machine making Clay Bricks"
+to german "Starte die Maschine, um Tonziegel herzustellen.";
+
+translate "The brick machine must first be filled with at least:"
+to german "Die Ziegelmaschine muss zuerst mit Folgendem befüllt sein:";
+
+translate "This O1 is making Bricks"
+	to german "O1(^tsn) O1(sn) produziert Ziegel";
+translate "This O1 is making Firebricks"
+	to german "O1(^tsn) O1(sn) produziert Feuerziegel";
+translate "This O1 is making Clay Bricks"
+	to german "O1(^tsn) O1(sn) produziert Tonziegel";
+
+translate "Stop the Brick Machine"
+	to german "Stoppe die Ziegelmaschine.";

@@ -1,0 +1,45 @@
+module LimeKiln_fre;
+
+
+translate ScienceOfLime to french feminine
+{
+  ns "Science de la chaux"; np "Science de la chaux"; 
+}
+translate Crematory to french masculine
+{
+  ns "Crématorium"; np "Crématorium"; 
+}
+
+
+translate "Crematory"
+to french "Crématorium";
+
+translate "To build a Crematory, you need:"
+to french "Pour construire un crématorium, il vous faut:";
+
+translate "Greyish Raeli Tiles"
+to french "Tuiles Raeli Grisâtres";
+
+translate "Lime: N1"
+to french "Chaux: N1";
+translate "Ash: N1"
+to french "Cendre: N1";
+
+translate "The temperature in part of the chamber exceeded the working limit, ruining the batch."
+to french "La température de la chambre du four a dépassée la limite, saccageant la fournée.";
+
+translate "Load the Crematory"
+to french "Charger le crématorium";
+
+translate "Load how much O1 (Max: N1)"
+to french "Combien de O1(np) ? (Max: N1)";
+
+translate "Fire the Crematory"
+to french "Allumer le crématorium";
+
+translate "This Crematory requires at least N1 Wood to fire."
+to french "L'allumage de ce crématorium nécessite au moins N1 bois.";
+
+translate "You must remove all Lime and Ash before you can fire the Creamatory."
+to french "Vous devez retirer la chaux et la cendre avant d'allumer le four.";
+

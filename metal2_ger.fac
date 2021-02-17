@@ -1,0 +1,235 @@
+Module metal2_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**            German Version: Astrid "Infinyti" Werner                   **
+//**                            2012                                       **
+//**                                                                       **
+//***************************************************************************
+
+
+translate Quicksilver to german neutercollective
+{
+swa "Quecksilber";
+  sn "Quecksilber"; sg "Quecksilbers"; sd "Quecksilber"; sa "Quecksilber";
+  pn "Quecksilber"; pg "Quecksilber"; pd "Quecksilber"; pa "Quecksilber";
+}
+
+translate BulletFurnace to german masculine
+{
+swa "Kugelschmelztopf";
+  sn "Kugelschmelztopf"; sg "Kugelschmelztopf"; sd "Kugelschmelztopf"; sa "Kugelschmelztopf";
+  pn "Kugelschmelztöpfe"; pg "Kugelschmelztöpfe"; pd "Kugelschmelztöpfen"; pa "Kugelschmelztöpfe";
+}
+
+translate CompressionFurnace to german masculine
+{
+swa "Druckofen";
+  sn "Druckofen"; sg "Druckofens"; sd "Druckofen"; sa "Druckofen";
+  pn "Drucköfen"; pg "Drucköfen"; pd "Drucköfen"; pa "Drucköfen";
+}
+translate AmalgamationFurnace to german masculine
+{
+swa "Amalgamofen";
+  sn "Amalgamofen"; sg "Amalgamofens"; sd "Amalgamofen"; sa "Amalgamofen";
+  pn "Amalgamöfen"; pg "Amalgamöfen"; pd "Amalgamöfen"; pa "Amalgamöfen";
+}
+translate PreciousFurnace to german masculine
+{
+swa "Edelmetallofen";
+  sn "Edelmetallofen"; sg "Edelmetallofens"; sd "Edelmetallofen"; sa "Edelmetallofen";
+  pn "Edelmetallöfen"; pg "Edelmetallöfen"; pd "Edelmetallöfen"; pa "Edelmetallöfen";
+}
+translate BlastFurnace to german masculine
+{
+swa "Hochofen";
+  sn "Hochofen"; sg "Hochofens"; sd "Hochofen"; sa "Hochofen";
+  pn "Hochöfen"; pg "Hochöfen"; pd "Hochöfen"; pa "Hochöfen";
+}
+translate OreInferno to german neutercollective
+{
+swa "Erzinferno";
+  sn "Erzinferno"; sg "Erzinfernos"; sd "Erzinferno"; sa "Erzinferno";
+  pn "Erzinferno"; pg "Erzinferno"; pd "Erzinferno"; pa "Erzinferno";
+}
+translate FragileFurnace to german masculine
+{
+swa "zerbrechlicher Ofen";
+  sn "zerbrechliche Ofen "; sg "zerbrechlichen Ofens"; sd "zerbrechlichen Ofen"; sa "zerbrechliche Ofen";
+  pn "zerbrechlichen Öfen"; pg "zerbrechlichen Öfen"; pd "zerbrechlichen Öfen"; pa "zerbrechlichen Öfen";
+}
+translate FineFurnace to german masculine
+{
+swa "stabiler Ofen";
+  sn "stabile Ofen"; sg "stabilen Ofens"; sd "stabilen Ofen"; sa "stabile Ofen";
+  pn "stabilen Öfen"; pg "stabilen Öfen"; pd "stabilen Öfen"; pa "stabilen Öfen";
+}
+translate IntermixChamber to german feminine
+{
+swa "Mischkammer";
+  sn "Mischkammer"; sg "Mischkammer"; sd "Mischkammer"; sa "Mischkammer";
+  pn "Mischkammern"; pg "Mischkammern"; pd "Mischkammern"; pa "Mischkammern";
+}
+translate DrossFurnace to german masculine
+{
+swa "Schlackeofen";
+  sn "Schlackeofen"; sg "Schlackeofen"; sd "Schlackeofen"; sa "Schlackeofen";
+  pn "Schlackeöfen"; pg "Schlackeöfen"; pd "Schlackeöfen"; pa "Schlackeöfen";
+}
+translate FleetFurnace to german masculine
+{
+swa "Leichter Ofen";
+  sn "Leichte Ofen"; sg "Leichten Ofens"; sd "Leichten Ofen"; sa "Leichte Ofen";
+  pn "Leichten Öfen"; pg "Leichten Öfen"; pd "Leichten Öfen"; pa "Leichten Öfen";
+}
+translate SmeltingPot to german masculine
+{
+swa "Schmelztopf";
+  sn "Schmelztopf"; sg "Schmelztopfs"; sd "Schmelztopf"; sa "Schmelztopf";
+  pn "Schmelztöpfe"; pg "Schmelztöpfe"; pd "Schmelztöpfen"; pa "Schmelztöpfe";
+}
+translate SmeltingBlock to german masculine
+{
+swa "Schmelzblock";
+  sn "Schmelzblock"; sg "Schmelzblocks"; sd "Schmelzblock"; sa "Schmelzblock";
+  pn "Schmelzblöcke"; pg "Schmelzblöcke"; pd "Schmelzblöcken"; pa "Schmelzblöcke";
+}
+translate OreMangle to german feminine
+{
+swa "Erzpresse";
+  sn "Erzpresse"; sg "Erzpresse"; sd "Erzpresse"; sa "Erzpresse";
+  pn "Erzpressen"; pg "Erzpresse"; pd "Erzpressen"; pa "Erzpresse";
+}
+translate PigbackKiln to german masculine
+{
+swa "Doppelkammerofen";
+  sn "Doppelkammerofen"; sg "Doppelkammerofens"; sd "Doppelkammerofen"; sa "Doppelkammerofen";
+  pn "Doppelkammeröfen"; pg "Doppelkammeröfen"; pd "Doppelkammeröfen"; pa "Doppelkammeröfen";
+}
+translate VitiationKiln to german masculine
+{
+swa "Gusseiserner Ofen";
+  sn "Gusseiserner Ofen"; sg "Gusseisernen Ofens"; sd "Gusseisernen Ofen"; sa "Gusseiserne Ofen";
+  pn "Gusseisernen Öfen"; pg "Gusseisernen Öfen"; pd "Gusseisernen Öfen"; pa "Gusseisernen Öfen";
+}
+translate VitiationFurnace to german masculine
+{
+swa "gusseiserner Spezialofen";
+  sn "gusseiserner Spezialofen"; sg "gusseisernen Spezialofens"; sd "gusseisernen Spezialofen"; sa "gusseiserne Spezialofen";
+  pn "gusseisernen Spezialöfen"; pg "gusseisernen Spezialöfen"; pd "gusseisernen Spezialöfen"; pa "gusseisernen Spezialöfen";
+}
+translate OscillationKiln to german masculine
+{
+swa "Oszillationsofen";
+  sn "Oszillationsofen"; sg "Oszillationsofens"; sd "Oszillationsofen"; sa "Oszillationsofen";
+  pn "Oszillationsöfen"; pg "Oszillationsöfen"; pd "Oszillationsöfen"; pa "Oszillationsöfen";
+}
+
+translate "Furnaces"
+	to german "Öfen";
+
+translate "Bullet Furnace"
+	to german "Kugelschmelztopf";
+
+translate "To build a Bullet Furnace, you need: "
+	to german "Um ein Kugelschmelztopf zu bauen, benötigst du: ";
+
+translate "Compression Furnace"
+	to german "Druckofen";
+
+translate "To build a Compression Furnace, you need: "
+	to german "Um einen Druckofen zu bauen, benötigst du: ";
+
+translate "Fleet Furnace"
+	to german "Leichter Ofen";
+
+translate "To build a Fleet Furnace, you need: "
+	to german "Um ein leichten Ofen zu bauen, benötigst du: ";
+
+translate "Smelting will complete in K1"
+	to german "Der Schmelzvorgang benötigt K1";
+
+translate "Make a vial of Quicksilver (Takes 24 hours)"
+	to german "Stelle eine Phiole Quecksilber her (Benötigt 24 Std)";
+
+translate "To make a vial of Quicksilver you need:"
+	to german "Um eine Phiole Quecksilber herzustellen, benötigst du:";
+
+translate "Fire the O1!"
+to german "Befeuere O1(tsa) O1(sd)!";
+
+translate "Fire the O1"
+to german "Befeuere O1(tsa) O1(sd)";
+
+translate "There is no Ore in the O1."
+to german "Es ist kein Erz in O1(tsd) O1(sd).";
+
+translate "Remove all metal before firing the O1."
+	to german "Entferne alles Metall, bevor du O1(tsa) O1(sd) erneut befeuerst.";
+
+translate"To start a O1 requires N1 O2, plus K1."
+	to german "Um O1(tsa) O1(sn) zu starten, benötigst du N1(?pn:sn) O2(pn), plus K1.";
+
+translate "The O1 has no O2."
+	to german "O1(^tsn) O1(sn) hat keine O2(pn).";
+
+translate "Load the O1 with O2"
+	to german "Belade O1(tsa) O1(sn) mit O2(pn)";
+
+translate "Load how much O1? (Max N1)"
+	to german "Wieviel O1(sn) laden? (Max N1)";
+
+translate "Load the O1 with K1"
+	to german "Belade O1(tsa) O1(sn) mit K1";
+
+translate "Load how much K1? (Max N1)"
+	to german "Wieviel K1 laden? (Max N1)";
+
+translate "Smelting Block"
+	to german "Schmelzblock";
+
+translate "To build a Smelting Block, you need: "
+	to german "Um einen Schmelzblock zu bauen benötigst du:";
+
+translate "Vitiation Kiln"
+	to german "Gusseiserner Ofen";
+
+translate "To build a Vitiation Kiln, you need: "
+	to german "Um einen gusseisernen Ofen zu bauen, benötigst du: ";
+
+translate "Pigback Kiln"
+	to german "Doppelkammerofen";
+
+translate "To build a Pigback Kiln, you need: "
+	to german "Um einen Doppelkammerofen zu bauen, benötigst du:";
+
+translate "Oscillation Kiln"
+	to german "Oszillationsofen";
+
+translate "To build a Oscillation Kiln, you need: "
+	to german "Um einen Oszillationsofen zu bauen benötigst du:";
+
+translate "Max Runtime: K1"
+	to german "Max. Laufzeit: K1";
+
+translate "FireTime: K1"
+	to german "Brenndauer: K1";
+
+translate "FireTime: Less than a minute"
+	to german "Brenndauer: Weniger als eine Minute";
+
+translate "Max Fuel Used: N1"
+	to german "Verbrauchter Brennstoff: N1";
+
+translate "Reaction Chamber: N1 O1"
+	to german "Reaktionskammer: N1 O1(pn)";
+
+translate "Fuel Remaining: N1"
+	to german "restl. Brennstoff: N1";
+
+translate "Open the Chamber"
+	to german "Öffne die Kammer";
+    
+translate "Ore Conversion not present. Call a developer."
+	to german "Keine Erzkonvertierung. Rufe einen Entwickler.";

@@ -1,0 +1,1160 @@
+module player_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** 				 German Version: Astrid "Infinyti" Werner                   **
+//**                             2011                                      **
+//**                                                                       **
+//***************************************************************************
+
+translate "Choose a New Starting Spot"
+to german "Wähle einen neuen Startpunkt";
+
+translate "Choose Starting Spot near a Friend"
+to german "Wähle einen Startpunkt in der Nähe eines Freundes";
+
+translate Shirt to german neuter
+{
+swa "Hemd"; sn "Hemd";
+}
+translate Hair to german neuter
+{
+swa "Haar"; sn "Haar";
+}
+translate Shawl to german neuter
+{
+swa "Schultertuch"; sn "Schultertuch";
+}
+translate Blouse to german feminine
+{
+swa "Bluse"; sn "Bluse";
+}
+translate Dress to german neuter
+{
+swa "Kleid"; sn "Kleid";
+}
+translate Anklet to german neuter
+{
+swa "Fußkettchen"; sn "Fußkettchen";
+}
+translate Headdress to german feminine
+{
+swa "Kopfbedeckung"; sn "Kopfbedeckung";
+}
+translate AbsNeck to german masculine
+{
+swa "Hals und Nacken"; sn "Hals und Nacken";
+}
+translate Breastplate to german feminine
+{
+swa "Brustplatte"; sn "Brustplatte";
+}
+translate Elbows to german masculine
+{
+swa "Ellenbogenwickel"; sn "Ellenbogenwickel";
+}
+translate Knees to german feminine
+{
+swa "Kniewickel"; sn "Kniewickel";
+}
+translate Hands to german feminine
+{
+swa "Handwickel"; sn "Handwickel";
+}
+translate Feet to german feminine
+{
+swa "Fußwickel"; sn "Fußwickel";
+}
+translate Belt to german masculine
+{
+swa "Gürtel"; sn "Gürtel";
+}
+translate Pleats to german feminine
+{
+swa "Faltenrock"; sn "Faltenrock";
+}
+translate Halter to german neuter
+{
+swa "Trägeroberteil"; sn "Trägeroberteil";
+}
+translate Skirt to german masculine
+{
+swa "Rock"; sn "Rock";
+}
+translate BodySuit to german masculine
+{
+swa "Anzug"; sn "Anzug";
+}
+translate Gauntlets to german masculine
+{
+swa "Stulpenhandschuh"; sn "Stulpenhandschuh";
+}
+translate Bracelets to german neuter
+{
+swa "Armreif"; sn "Armreif";
+}
+translate Collar to german
+{
+swa "Kragen"; sn "Kragen";
+}
+translate LowerCollar to german
+{
+swa "Unterer Kragen"; sn "Unterer Kragen";
+}
+translate UpperCollar to german
+{
+swa "Oberer Kragen"; sn "Oberer Kragen";
+}
+translate Shoes to german masculine
+{
+swa "Schuhe"; sn "Schuhe";
+}
+translate SkirtHem to german masculine
+{
+swa "Rocksaum"; sn "Rocksaum";
+}
+translate SkirtTrim to german feminine
+{
+swa "Rockverzierung"; sn "Rockverzierung";
+}
+translate SkirtTrimLow to german feminine
+{
+swa "Untere Rockverzierung"; sn "Untere Rockverzierung";
+}
+translate SkirtTrimMid to german feminine
+{
+swa "Mittige Rockverzierung"; sn "Mittige Rockverzierung";
+}
+translate Legwarmers to german masculine
+{
+swa "Beinwärmer"; sn "Beinwärmer"; pn "Beinwärmer";
+}
+translate Gloves to german masculine
+{
+swa "Handschuhe"; sn "Handschuhe"; pn "Handschuhe";
+}
+translate Sleeves to german masculine
+{
+swa "Ärmel"; sn "Ärmel"; pn "Ärmel";
+}
+translate Bandages to german feminine
+{
+swa "Bandagen"; sn "Bandage"; pn "Bandagen";
+}
+translate HatBand to german neuter
+{
+swa "Hutband"; sn "Hutband";
+}
+translate Hat to german masculine
+{
+swa "Hut"; sn "Hut";
+}
+translate Pants to german feminine
+{
+swa "Hose"; sn "Hose"; pn "Hosen";
+}
+translate HairTie to german neuter
+{
+swa "Haarband"; sn "Haarband"; pn "Haarband";
+}
+translate Necklace to german neuter
+{
+swa "Halsband"; sn "Halsband"; pn "Halsband";
+}
+translate Boots to german feminine
+{
+swa "Stiefel"; sn "Stiefel"; pn "Stiefel";
+}
+translate Armband to german neuter
+{
+swa "Armbinde"; sn "Armbinde";
+}
+translate Cap to german feminine
+{
+swa "Kappe"; sn "Kappe";
+}
+translate Cuffs to german feminine
+{
+swa "Schellen"; sn "Schellen";
+}
+translate Earrings to german feminine
+{
+swa "Ohrringe"; sn "Ohrringe";
+}
+translate Eyes to german feminine
+{
+swa "Augen"; sn "Augen";
+}
+translate Forearmband to german feminine
+{
+swa "Unterarmbinde"; sn "Unterarmbinde";
+}
+translate ForearmGuard to german feminine
+{
+swa "Unterarmstulpe"; sn "Unterarmstulpe";
+}
+translate Hood to german feminine
+{
+swa "Haube"; sn "Haube";
+}
+translate Loincloth to german masculine
+{
+swa "Lendenschurz"; sn "Lendenschurz";
+}
+translate PantCuff to german neuter
+{
+swa "Hosenband"; sn "Hosenband";
+}
+translate PleatsTrim to german feminine
+{
+swa "Zierfalten"; sn "Zierfalten";
+}
+translate Sash to german feminine
+{
+swa "Schärpe"; sn "Schärpe";
+}
+translate Slippers to german feminine
+{
+swa "Pantoffeln"; sn "Pantoffeln";
+}
+translate Vest to german feminine
+{
+swa "Weste"; sn "Weste";
+}
+translate Midsection to german masculine
+{
+swa "mittlerer Bereich"; sn "mittlerer Bereich";
+}
+translate InnerDress to german neuter
+{
+swa "Unterkleid"; sn "Unterkleid";
+}
+translate Dress to german neuter
+{
+swa "Kleid"; sn "Kleid";
+}
+translate DressMiddle to german neuter
+{
+swa "Kleid, Mittelteil"; sn "Kleid, Mittelteil";
+}
+translate Headband to german neuter
+{
+swa "Stirnband"; sn "Stirnband";
+}
+translate Veil to german masculine
+{
+swa "Schleier"; sn "Schleier";
+}
+translate RopeClothing to german neuter
+{
+swa "Seil"; sn "Seil"; pn "Seile";
+}
+translate Bandana to german neuter
+{
+swa "Kopftuch"; sn "Kopftuch";
+}
+translate Goatee to german masculine
+{
+swa "Spitzbart"; sn "Spitzbart";
+}
+translate BagClothing to german masculine
+{
+swa "Stoffbeutel"; sn "Stoffbeutel";
+}
+translate Sandals to german feminine
+{
+swa "Sandalen"; sn "Sandalen";
+}
+translate BlouseTrim to german feminine
+{
+swa "Blusenverzierung"; sn "Blusenverzierung";
+}
+translate HeaddressJewelry to german masculine
+{
+swa "Edelsteinkopfschmuck"; sn "Edelsteinkopfschmuck";
+}
+translate Gemholder to german feminine
+{
+swa "Edelsteinfassung"; sn "Edelsteinfassung";
+}
+translate HairClip to german feminine
+{
+swa "Haarspange"; sn "Haarspange";
+}
+translate Armor to german masculine
+{
+swa "Harnisch"; sn "Harnisch";
+}
+translate undershirt to german neuter
+{
+swa "Unterhemd"; sn "Unterhemd";
+}
+translate WaistAndThighs to german feminine
+{
+swa "Hüft-und Oberschenkelklamotten"; sn "Hüft-und Oberschenkelklamotten";
+}
+translate Shins to german feminine
+{
+swa "Schienbeinschoner"; sn "Schienbeinschoner";
+}
+translate Tunic to german feminine
+{
+swa "Tunika"; sn "Tunika";
+}
+translate Bikini to german masculine
+{
+swa "Bikini"; sn "Bikini";
+}
+translate Armbands to german feminine
+{
+swa "Armbänder"; sn "Armbänder";
+}
+translate Wristbands to german feminine
+{
+swa "Manschetten"; sn "Manschetten";
+}
+translate Wristband to german feminine
+{
+swa "Manschette"; sn "Manschette";
+}
+
+translate "Shirt"
+to german "Hemd";
+translate "Hair"
+to german "Haar";
+translate "Shawl"
+to german "Schultertuch";
+translate "Blouse"
+to german "Bluse";
+translate "Dress"
+to german "Kleid";
+translate "Anklet"
+to german "Fußkettchen";
+translate "Headdress"
+to german "Kopfbedeckung";
+translate "Abs and Neck"
+to german "Hals und Nacken";
+translate "Breastplate"
+to german "Brustplatte";
+translate "Elbows"
+to german "Ellenbogenwickel";
+translate "Knees"
+to german "Kniewickel";
+translate "Hands"
+to german "Handwickel";
+translate "Feet"
+to german "Fußwickel";
+translate "Belt"
+to german "Gürtel"; 
+translate "Pleats"
+to german "Faltenrock";
+translate "Halter"
+to german "Trägeroberteil";
+translate "Skirt"
+to german "Rock"; 
+translate "Body Suit"
+to german "Anzug";
+translate "Gauntlets"
+to german "Stulpenhandschuh";
+translate "Bracelets"
+to german "Armreif"; 
+translate "Collar"
+to german "Kragen"; 
+translate "Lower Collar"
+to german "Unterer Kragen";
+translate "Upper Collar"
+to german "Oberer Kragen"; 
+translate "Shoes"
+to german "Schuhe"; 
+translate "Skirt Hem"
+to german "Rocksaum"; 
+translate "Skirt Trim"
+to german "Rockverzierung"; 
+translate "Skirt Trim (Lower)"
+to german "Untere Rockverzierung";
+translate "Skirt Trim (Middle)"
+to german "Mittige Rockverzierung"; 
+translate "Legwarmers"
+to german "Beinwärmer";
+translate "Gloves"
+to german "Handschuhe"; 
+translate "Sleeves"
+to german "Ärmel"; 
+translate "Bandages"
+to german "Bandagen";
+translate "Hat Band"
+to german "Hutband"; 
+translate "Hat"
+to german "Hut";
+translate "Pants"
+to german "Hose"; 
+translate "Hair Tie"
+to german "Haarband";
+translate "Necklace"
+to german "Halsband"; 
+translate "Boots"
+to german "Stiefel"; 
+translate "Armband"
+to german "Armband"; 
+translate "Cap"
+to german "Kappe"; 
+translate "Cuffs"
+to german "Schellen";
+translate "Earrings"
+to german "Ohrringe"; 
+translate "Eyes"
+to german "Augen"; 
+translate "Forearmband"
+to german "Unterarmbinde";
+translate "Forearm Guard"
+to german "Unterarmstulpe";
+translate "Hood"
+to german "Haube";
+translate "Loincloth"
+to german "Lendenschurz"; 
+translate "Pant Cuff"
+to german "Hosenband"; 
+translate "Pleats Trim"
+to german "Zierfalten";
+translate "Sash"
+to german "Schärpe"; 
+translate "Slippers"
+to german "Pantoffeln";
+translate "Vest"
+to german "Weste"; 
+translate "Midsection"
+to german "Mittlerer Bereich"; 
+translate "Inner Dress"
+to german "Unterkleid"; 
+translate "Dress"
+to german "Kleid"; 
+translate "Dress, Middle"
+to german "Kleid, Mittelteil"; 
+translate "Headband"
+to german "Stirnband"; 
+translate "Veil"
+to german "Schleier"; 
+translate "RopeClothing"
+to german "Seil";
+translate "Bandana"
+to german "Kopftuch"; 
+translate "Goatee"
+to german "Spitzbart"; 
+translate "BagClothing"
+to german "Stoffbeutel"; 
+translate "Sandals"
+to german "Sandalen"; 
+translate "Blouse Trim"
+to german "Blusenverzierung"; 
+translate "Headdress Jewelry"
+to german "Edelsteinkopfschmuck"; 
+translate "Gem Holder"
+to german "Edelsteinfassung"; 
+translate "Hair Clip"
+to german "Haarspange"; 
+translate "Armor"
+to german "Harnisch"; 
+translate "Undershirt"
+to german "Unterhemd"; 
+translate "Waist and Thigh Rags"
+to german "Hüft-und Oberschenkelklamotten";
+translate "Shin Wraps"
+to german "Schienbeinschoner"; 
+translate "Tunic"
+to german "Tunika"; 
+translate "Bikini"
+to german "Bikini"; 
+translate "Armbands"
+to german "Armbinden";
+translate "Wristbands"
+to german "Manschetten"; 
+translate "Legbands"
+to german "Beinmanschetten";
+
+
+
+translate "Guild: U1"
+to german "Gilde: U1(name)";
+
+translate "Build"
+to german "Baue";
+
+translate "Plant"
+to german "Säen";
+
+translate "Gather"
+to german "Sammle";
+
+translate "Drop"
+to german "Ablegen";
+
+translate "Put"
+to german "Verstauen";
+
+translate "Legal"
+to german "Rechtliches";
+
+translate "Give"
+to german "Geben";
+
+translate "Everything"
+to german "Alles";
+
+translate "Misc"
+to german "Diverses";
+
+translate "Projects"
+to german "Projekte";
+
+translate "Mentor"
+to german "Mentor";
+
+translate "Bless"
+to german "Ehre";
+
+translate "Legal"
+to german "Gesetz";
+
+translate "Navigation"
+to german "Navigation";
+
+translate "Navigation Tools"
+to german "Navigationswerkzeuge";
+
+translate "Show the Map (F3)"
+	to german "Zeige die Karte (F3)";
+
+translate "Show the Compass (F4)"
+	to german "Zeige den Kompass (F4)";
+
+translate "Free Transport for Newcomers"
+	to german "Freier Transport für Neulinge";
+
+translate "Utility"
+	to german "Nützliches";
+
+translate "Billing"
+	to german "Abrechnung";
+
+translate "Learn"
+	to german "Lerne";
+
+translate "Ownership"
+	to german "Eigentum";
+
+translate "Utility Menu"
+	to german "Menü \"Nützliches\"";
+
+translate "Bug Reports"
+	to german "Bugberichte";
+
+translate "Log Out"
+	to german "Ausloggen";
+
+translate "Quit"
+	to german "Beenden";
+
+translate "Utility/Utility Menu"
+	to german "Nützliches/Menü \"Nützliches\"";
+translate "Utility/-"
+	to german "Nützliches/-";
+translate "Utility/*"
+	to german "Nützliches/*";
+
+translate "Utility/Bug Reports"
+	to german "Nützliches/Bug Reports";
+translate "Utility/Bug Reports/Bug Reports"
+	to german "Nützliches/Bug Reports/Bug Reports";
+translate "Utility/Bug Reports/-"
+	to german "Nützliches/Bug Reports/-";
+translate "Utility/Bug Reports/*"
+	to german "Nützliches/Bug Reports/*";
+translate "Utility/Bug Reports/Filter"
+	to german "Nützliches/Bug Reports/Filter";
+translate "Utility/Bug Reports/Log Out"
+	to german "Nützliches/Bug Reports/Ausloggen";
+translate "Utility/-"
+	to german "Nützliches/-";
+translate "Utility/Options:"
+	to german "Nützliches/Optionen:";
+translate "Utility/-"
+	to german "Nützliches/-";
+translate "Utility/Log Out"
+	to german "Nützliches/Ausloggen";
+translate "Utility/Quit"
+	to german "Nützliches/Beenden";
+
+translate "Options:"
+	to german "Optionen:";
+
+translate "Trade"
+to german "Handel";
+
+translate "Configure"
+to german "Einstellungen";
+
+translate "Cheat"
+to german "Cheat";
+translate "Discipline"
+to german "Disziplin";
+translate "Goals"
+to german "Ziele";
+translate "Learn"
+to german "Lerne";
+translate "Statistic"
+to german "Statistik";
+
+translate "Debug Info"
+to german "Debug Info";
+
+translate "Debug Misc"
+to german "Debug Misc";
+
+translate "Debug Ecosys"
+to german "Debug Ökosys";
+
+translate "Debug"
+to german "Debug";
+
+translate "James"
+to german "James";
+
+translate "Someone you don't recognize"
+to german "Jemand, den Du nicht kennst";
+
+translate "Public"
+to german "Öffentlich";
+
+translate "Appearance"
+to german "Aussehen";
+
+translate "Special"
+to german "Spezial";
+
+translate "Tests"
+to german "Tests";
+
+translate "Ranks"
+to german "Ränge";
+
+translate "Ownership"
+to german "Eigentum";
+
+translate "Setup"
+to german "Einstellungen";
+
+translate "Inventory"
+to german "Inventar";
+
+translate "Study"
+to german "Studiere";
+
+translate "Character Appearance"
+to german "Charakteraussehen";
+
+translate "Character Selection"
+to german "Charakterauswahl";
+
+translate "Character Height"
+to german "Charakterhöhe";
+
+translate "Chat Bubble"
+to german "Sprechblase";
+
+translate "Chat Color"
+to german "Chatfarbe";
+
+translate "Black"
+to german "Schwarz"; 
+
+translate "Red"
+to german "Rot"; 
+
+translate "Appearance"
+to german "Aussehen";
+
+translate "Default"
+to german "Standard"; 
+
+translate "Green"
+to german "Grün"; 
+
+translate "Blue"
+to german "Blau"; 
+
+translate "Purple"
+to german "Lila";
+
+translate "Orange"
+to german "Orange";
+
+translate "Yellow"
+to german "Gelb";
+
+translate "Grey"
+to german "Grau";
+
+translate "Blonde"
+to german "Blond";
+
+translate "Brown"
+to german "Braun";
+
+translate "Whites"
+to german "Weiß";
+
+translate "Black"
+to german "Schwarz";
+
+translate "Greys"
+to german "Grau";
+
+translate "Blues"
+to german "Blau";
+
+translate "Pure White"
+to german "Pures Weiß";
+
+translate "Faded White"
+to german "Verblasstes Weiß";
+
+translate "Smoky White"
+to german "Rauchiges Weiß";
+
+translate "Light Grey"
+to german "Helles Grau";
+
+translate "Slate Grey"
+to german "Schiefergrau";
+
+translate "Dark Grey"
+to german "Dunkelgrau";
+
+translate "Sky Blue"
+to german "Himmelblau";
+
+translate "Navy Blue"
+to german "Marineblau";
+
+translate "Deep Blue"
+to german "Dunkelblau";
+
+translate "Reds"
+to german "Rot";
+
+translate "Bright Red"
+to german "Hellrot";
+
+translate "Brick Red"
+to german "Ziegelrot";
+
+translate "Reddish Grey"
+to german "rötliches Grau";
+
+translate "Burgundy Red"
+to german "Burgunderrot";
+
+translate "Deep Red"
+to german "Dunkelrot";
+
+translate "Very Deep Red"
+to german "Dunkles Dunkelrot";
+
+translate "Greens"
+to german "Grün";
+
+translate "Forest Green"
+to german "Waldgrün";
+
+translate "Bright Green"
+to german "Leuchtendes Grün";
+
+translate "Olive Green"
+to german "Olivgrün";
+
+translate "Faded Green"
+to german "Verblasstes Grün";
+
+translate "Deep Green"
+to german "Dunkles Grün";
+
+translate "Golden Yellow"
+to german "Goldgelb";
+
+translate "Bright Yellow"
+to german "Leuchtendes Gelb";
+
+translate "Yellows"
+to german "Gelb";
+
+translate "Faded Yellow"
+to german "Verblasstes Gelb";
+
+translate "Light Tan"
+to german "Leichte Bräune";
+
+translate "Browns"
+to german "Braun";
+
+translate "Muddy Brown"
+to german "Matschbraun";
+
+translate "Chocolate"
+to german "Schokoladenbraun";
+
+translate "Deep Purple"
+to german "Dunkles Violett";
+
+translate "Purples"
+to german "Violett";
+
+translate "Light Pink"
+to german "Helles Pink";
+
+translate "Purples"
+to german "Violett";
+
+translate "Faded Purple"
+to german "Verblasstes Violett";
+
+
+translate "The following Chat Bubbles are"
+to german "Die folgenden Sprechblasen sind"; 
+
+translate "available to somebody of your rank:"
+to german "für Jemanden deines Ranges verfügbar:";
+
+translate "Standard Chat Bubble"
+to german "Standardsprechblase";
+
+translate "Military Swords Bubble"
+to german "Militärsprechblase";
+
+translate "Presence of Horus"
+to german "Stimme des Horus";
+
+translate "Presence of Isis"
+to german "Stimme der Isis";
+
+translate "Presence of Osiris"
+to german "Stimme der Osiris";
+
+translate "Scholar of the Land"
+to german "Schüler des Landes";
+
+translate "Game Master"
+to german "Gamemaster";
+
+translate "GAME MASTER"
+to german "GAMEMASTER";
+
+translate "This person is a known criminal."
+to german "Diese Person ist ein bekannter Krimineller.";
+
+translate "Pharaoh Bubble"
+to german "Pharaohsprechblase";
+
+translate "Scarlet Bubble"
+to german "Scharlachrot";
+
+translate "Blank Bubble"
+to german "Leere Sprechblase";
+
+translate "Scholar of the 2nd Age"
+to german "Schüler des 2. Zeitalters";
+
+translate "Patron of the Land"
+to german "Patron des Landes";
+
+translate "Bless"
+to german "Segen";
+
+translate "O1 Color"
+to german "O1(sn)-Farbe";
+
+translate "Character Height"
+to german "Charaktergröße";
+
+translate "Gigantic"
+to german "Gigantisch";
+
+translate "Very Tall"
+to german "Sehr Groß";
+
+translate "Tall"
+to german "Groß";
+
+translate "Average"
+to german "Durchschnittlich";
+
+translate "Short"
+to german "Klein";
+
+translate "Very Short"
+to german "Sehr Klein";
+
+translate "Razak Size"
+to german "Groß wie Razak";
+
+translate "Miniscule"
+to german "Winzig";
+
+translate "Debug Highlight"
+to german "Debug-Highlight";
+
+translate "Hilight N1"
+to german "Hervorheb. N1";
+
+translate "Hilight Off"
+to german "Hervorheb. aus";
+
+translate "Character Selection"
+to german "Charakterauswahl";
+
+translate "Male Character N1"
+to german "Männl. Charakter N1";
+
+translate "Female Character N1"
+to german "Weibl. Charakter N1";
+
+translate "Skin Color"
+to german "Hautfarbe";
+
+translate "Light"
+to german "Hell";
+
+translate "Medium Light"
+to german "Mittelhell";
+
+translate "Medium"
+to german "Mittel";
+
+translate "Medium Dark"
+to german "Mitteldunkel";
+
+translate "Dark"
+to german "Dunkel";
+
+
+translate "You may only create new characters during an official play session. Register for the beta at www.egenesis.com to be notified of play sessions."
+to german "Du kannst nur während des offiziellen Spielbetriebs neue Chars erschaffen. Registriere Dich auf www.kemet-deutschland.de für die Beta, Du wirst bei neuen Spielsessions benachrichtigt.";
+
+translate "male"
+to german "männlich";
+translate "female"
+to german "weiblich";
+translate "cancel"
+to german "abbrechen";
+translate "password1"
+to german "Passwort1";
+translate "Passwort2"
+to german "Passwort2";
+translate "You must select a gender"
+to german "Wähle ein Geschlecht aus";
+translate "Your passwords must match."
+to german "Deine Passwörter müssen übereinstimmen.";
+translate "The Username U1 is already taken."
+to german "Der Benutzername U1(name) ist bereits vergeben.";
+
+translate "NEW USER: U1"
+to german "Neuer Spieler: U1(name)";
+translate "Character U1 created. You may now log in."
+to german "Charakter U1(name) erschaffen. Du kannst nun einloggen.";
+translate "That username is already taken."
+to german "Dieser Benutzername ist bereits vergeben.";
+
+translate "The server is up in Development Mode. Unless you are a World Builder, or have been specially asked by one of the development team members to log in, plase wait until the next play session."
+to german "Der Server ist im Entwicklermodus. Wenn Du kein Weltenschaffer bist, oder nicht von einem Entwickler zum Einloggen eingeladen wurdest, warte bitte bis zur nächsten Spielsession.";
+
+translate "Although the server is up, this isn't an official play session. If you have already played in an official session you may log in and explore if you'd like, but be aware that nothing you do will be saved."
+to german "Auch wenn der Server am Netz ist, läuft momentan keine offizielle Spielsession. Wenn Du bereits in einer offiziellen Sitzung gespielt hast, kannst Du, wenn du willst, einloggen und die Welt erkunden, aber Nichts davon wird gespeichert.";
+
+translate "The developers are preparing the server for the upcoming official session. Only developers may log in right now. "
+to german "Die Entwickler bereiten den Server für eine angehende offizielle Sitzung vor. Nur Entwickler können jetzt einloggen.";
+
+translate "Although the server is up, this isn't an official play session. You may log in if you want, and but THIS GAME IS NOT FUN unless it's during an official session when there are other people around. Also, nothing you do will be saved."
+to german "Auch wenn der Server am Netz ist, ist keine offizielle Spielsession. Du kannst einloggen, wenn du willst, ABER NICHT ZUM SPASS, wie es bei einer offiziellen Sitzung mit anderen Leuten ist. Auch wird Nichts, was Du jetzt tust gespeichert.";
+
+translate "Player Identification: U1"
+to german "Spieler-Identifikation: U1(name)";
+
+translate "You must type in a name for your player."
+to german "Du musst einen Namen für deinen Spieler eintippen.";
+
+translate "Privileged users must use a password"
+to german "Priviligierte Nutzer müssen ein Passwort verwenden";
+
+translate "No such player."
+to german "Spieler unbekannt.";
+
+translate "That's the wrong password."
+to german "Dies ist ein falsches Passwort.";
+
+translate "Your character has been banned."
+to german "Dein Charakter wurde verbannt.";
+
+translate "Your character account is suspended for the next N1"
+to german "Dein Charakter ist für die Zeit von N1 suspendiert.";
+
+translate "The Server is open for Developers only."
+to german "Der Server ist nur für Entwickler offen.";
+
+translate "Emote"
+to german "Verhalten";
+
+translate "thrash1"
+to german "Niederwerfen1";
+
+translate "thrash2"
+to german "Niederwerfen2";
+
+translate "thrash3"
+to german "Niederwerfen3";
+
+translate "thrash4"
+to german "Niederwerfen4";
+
+translate "thrash5"
+to german "Niederwerfen5";
+
+translate "thrash"
+to german "Niederwerfen";
+
+translate "bend"
+to german "Bücken";
+
+translate "gesture"
+to german "Gestikulieren";
+
+translate "reach"
+to german "Zum Himmel deuten";
+
+translate "cardiac"
+to german "Krümmen";
+
+translate "bless"
+to german "Anbeten";
+
+translate "backflip"
+to german "Rückwärtssalto";
+
+translate "hambone"
+to german "Tanzen";
+
+translate "wave"
+to german "Winken";
+
+translate "What time is it?"
+to german "Uhrzeit?";
+
+translate "It is day N1: N2 O1"
+to german "Heute ist Tag N1: N2 O1(sn)";
+
+
+translate "Enter credit card# and expiration date (mm/yy) below, or the word PayByCash if you plan to use that option. During Beta, use credit card"
+to german "Gib die Kreditkarten-Nr. und das Ablaufdatum (MM/JJ) unten ein, oder die Option BarZahlung, wenn du diese Optoion nutzt. In der Beta, nutze Kreditkarte";
+
+translate "for free play."
+to german "für freies Spielen.";
+
+translate "That name is not allowed."
+to german "Dieser Name ist nicht erlaubt.";
+
+translate "Attempt to connect from blocked port."
+to german "Versuch, dich über einen gesperrten Port anzumelden.";
+
+translate "Banned character U1 tried to log in."
+to german "Gebannter Charakter U1(name) versuchte einzuloggen.";
+
+translate "Your character has been banned."
+to german "Dein Charakter wurde verbannt.";
+
+
+translate "Doing a redirect"
+to german "Versuche Wieder-Verbindung";
+
+
+translate "Choose your gender:"
+to german "Wähle dein Geschlecht:";
+
+translate "That's the wrong password."
+to german "Das ist das falsche Passwort.";
+
+translate "The Server is open for Developers only."
+to german "Der Server ist nur für Entwickler geöffnet.";
+
+translate "The Server is open for Builders only."
+to german "Der Server ist nur für Weltenschaffer geöffnet.";
+
+translate "Your character account is suspended for the next N1."
+to german "Dein Account wurde für N1 suspendiert. Bitte wende dich an support@kemet-deutschland.de";
+
+translate "Guest Account"
+to german "Gastaccount";
+
+translate "Guild Affiliations"
+to german "Gildenzugehörigkeit";
+
+translate "Mentored by "
+to german "Mentor war ";
+
+translate "Son of Heka"
+to german "Sohn des Heka";
+translate "Son of Sobek"
+to german "Sohn des Sobek";
+translate "Son of Amun"
+to german "Sohn des Amun";
+translate "Son of Baal"
+to german "Sohn des Baal";
+translate "Son of As"
+to german "Sohn des As";
+translate "Son of Horus"
+to german "Sohn des Horus";
+translate "Son of Apophis"
+to german "Sohn des Apophis";
+translate "Son of Levin"
+to german "Sohn des Levin";
+translate "Son of Tefnakht"
+to german "Sohn des Tefnakht";
+translate "Daughter of Tayet"
+to german "Tochter der Tayet";
+translate "Daughter of Anuket"
+to german "Tochter der Anuket";
+translate "Daughter of Mafdet"
+to german "Tochter der Mafdet";
+translate "Daughter of Mut"
+to german "Tochter der Mut";
+translate "Daughter of Wadjet"
+to german "Tochter der Wadjet";
+translate "Daughter of Pakhet"
+to german "Tochter der Pakhet";
+translate "Daughter of Bes"
+to german "Tochter der Bes";
+translate "Daughter of Nodjmet"
+to german "Tochter der Nodjmet";
+translate "Daughter of Amira"
+to german "Tochter der Amira";
+translate "Daughter of The Stranger"
+to german "Tochter des Fremden";
+translate "Daughter of Other"
+to german "Tochter eines Anderen ";
+translate "Skin Color"
+to german "Gesichtsfarbe";
+translate "Style"
+to german "Stil";
+translate "O1 Style 0"
+to german "O1(sn) Stil 0";
+translate "O1 Style 1"
+to german "O1(sn) Stil 1";
+translate "O1 Style 2"
+to german "O1(sn) Stil 2";
+translate "Skin Style 0"
+to german "Gesichtsstil 0";
+translate "Skin Style 1"
+to german "Gesichtsstil 1";
+translate "Skin Style 2"
+to german "Gesichtsstil 2";
+
+translate "Color"
+to german "Farbe";

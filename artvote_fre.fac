@@ -1,0 +1,44 @@
+module artvote_fre;
+
+
+translate "Ask for my Compound Judging Assignment"
+to french "Demander à juger des ateliers";
+
+translate "Check Compound Judging Assignment"
+to french "Vérifier les votes d'ateliers";
+
+translate "Total of N1 compounds to judge:\n"
+to french "Total d'ateliers à juger: N1\n";
+
+translate "    Compound at N1 owned by U1 rated N2\n"
+to french "    Atelier de U1(name) situé à N1: évalué à N2\n";
+
+translate "    Compound at N1 (Not Rated)\n"
+to french "    Atelier situé à N1 (pas évalué)\n";
+
+translate "Compound Judging/Rate this Compound "
+to french "Évaluation d'atelier/Évaluer cet atelier";
+
+translate "Compound Judging/"
+to french "Évaluation d'atelier/";
+
+translate "Rate this Compound "
+to french "Évaluer cet atelier";
+
+translate "You rated this Compound N1."
+to french "Vous avez donné à cet atelier une note de N1.";
+
+translate "Compound got N1 from N2 judges at N3 U1"
+to french "L'atelier de U1(name) a obtenu une note de N1 par N2 juges, coordonnées N3.";
+
+translate "[Extra]Nominations for Art Contest: "
+to french "[Extra]Nominations pour le concours d'art: ";
+
+translate "Nominate this compound"
+to french "Voter pour cet atelier";
+
+translate "You nominate the compound owned by U1, removing your previous nomination."
+to french "Vous votez pour l'atelier de U1(name), retirant ainsi votre vote précédent.";
+
+translate "You nominate the compound owned by U1."
+to french "Vous votez pour l'atelier de U1(name).";

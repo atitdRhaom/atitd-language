@@ -1,0 +1,33 @@
+module grass_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment    f 	           **
+//**                                                                       **
+//***************************************************************************
+
+
+translate Scythe to german feminine
+{
+  swa "Sense";
+  sn "Sense"; sg "Sense"; sd "Sense"; sa "Sense";
+  pn "Sensen"; pg "Sensen"; pd "Sensen"; pa "Sensen";
+}
+
+translate "Gather: Grass"
+to german "Sammle: Gras";
+
+
+translate "Your muscle memory seems to be improving: Your skill in Rhythmic Strength is now N1 out of N2"
+to german "Deine Muskeln scheinen sich aufzubauen: Deine Fertigkeit in Rhythmischer St‰rke ist nun N1 von N2";
+
+translate "U1 may be speedhacking Grass (Collected 10 in N1 seconds.)"
+to german "U1(name) nutzt evtl. Speedhack (!0 Gras in N1 Sekunden.)";
+
+translate "This area has been picked clean."
+to german "Diese Gegend ist abgegrast.";
+
+translate "Note: Big piles of grass take longer to dry."
+to german "Anmerkung: Groﬂe Grasgarben brauchen l‰nger zum Trocknen.";

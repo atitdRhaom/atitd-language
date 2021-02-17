@@ -1,0 +1,54 @@
+module maps_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**           German Version by Astrid "Infinyti" Werner                  **
+//**                             2011                                      **
+//***************************************************************************
+//menues
+
+translate "SArch"
+	to german "SArch";
+
+translate "UArch"
+	to german "UArch";
+
+translate "SArt"
+	to german "SKünste";
+
+translate "UArt"
+	to german "UKünste";
+
+translate "SBody"
+	to german "SKörper";
+
+translate "UBody"
+	to german "UKörper";
+
+translate "SConf"
+	to german "SKonf";
+
+translate "UConf"
+	to german "UKonf";
+
+translate "SThought"
+	to german "SGedanken";
+
+translate "UThought"
+	to german "UGedanken";
+
+translate "SWorship"
+	to german "SVerehrung";
+
+translate "UWorship"
+	to german "UVerehrung";
+
+translate "SLead"
+	to german "SFührung";
+
+translate "ULead"
+	to german "UFührung";
+
+translate "Chariot"
+	to german "Haltebucht";

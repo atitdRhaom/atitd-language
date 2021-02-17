@@ -1,0 +1,267 @@
+module fireworks_fre;
+
+translate SmallMortar to french masculine
+{
+  ns "Petit mortier"; np "Petits mortiers";
+}
+
+translate Gunpowder to french feminine
+{
+  ns "Poudre à canon"; np "Poudres à canon";
+}
+
+translate star to french feminine
+{
+  ns "Etoile"; np "Etoiles";
+}
+
+translate Mortar to french masculine
+{
+  ns "Mortier"; np "Mortiers";
+}
+
+translate RedGlower to french feminine
+{
+  ns "Lumière rouge"; np "Lumières rouges";
+}
+
+translate OrangeGlower to french feminine
+{
+  ns "Lumière orange"; np "Lumières oranges";
+}
+
+translate YellowGlower to french feminine
+{
+  ns "Lumière jaune"; np "Lumières jaunes";
+}
+
+translate GreenGlower to french feminine
+{
+  ns "Lumière verte"; np "Lumières vertes";
+}
+
+translate BlueGlower to french feminine
+{
+  ns "Lumière bleue"; np "Lumières bleues";
+}
+
+translate VioletGlower to french feminine
+{
+  ns "Lumière violette"; np "Lumières violettes";
+}
+
+translate NightGlower to french feminine
+{
+  ns "Lumière noire"; np "Lumières noires";
+}
+
+translate WhiteGlower to french feminine
+{
+  ns "Lumière blanche"; np "Lumières blanches";
+}
+
+translate CyanGlower to french feminine
+{
+  ns "Lumière cyan"; np "Lumières cyan";
+}
+
+translate MagentaGlower to french feminine
+{
+  ns "Lumière magenta"; np "Lumières magenta";
+}
+
+translate StrangeGlower to french feminine
+{
+  ns "Lumière étrange"; np "Lumières étranges";
+}
+
+translate "None"
+to french "Aucun";
+translate "Stage-1" 
+to french "Etape 1";
+translate "Stage-2" 
+to french "Etape 2";
+translate "Stage-3"
+to french "Etape 3";
+translate "Stage-4" 
+to french "Etape 4";
+translate "Stage-5"
+to french "Etape 5";
+translate "Stage-6" 
+to french "Etape 6";
+translate "Stage-7"
+to french "Etape 7";
+translate "Stage-8" 
+to french "Etape 8";
+translate "Stage-9" 
+to french "Etape 9";
+translate "Stage-10"
+to french "Etape 10";
+translate "Stage-11" 
+to french "Etape 11";
+translate "Stage-12" 
+to french "Etape 12";
+translate "Stage-13"
+to french "Etape 13";
+translate "Stage-14" 
+to french "Etape 14";
+translate "Stage-15"
+to french "Etape 15";
+translate "Stage-16" 
+to french "Etape 16";
+translate "Stage-17"
+to french "Etape 17";
+translate "Stage-18" 
+to french "Etape 18";
+translate "Stage-19" 
+to french "Etape 19";
+translate "Stage-20"
+to french "Etape 20";
+
+translate "Right"
+to french "A droite";
+translate "Left"
+to french "A gauche";
+translate "Upward"
+to french "En haut";
+translate "Downward"
+to french "En bas";
+translate "Funnel"
+to french "Entonnoir";
+translate "Boom"
+to french "Grondement";
+translate "Bang"
+to french "Détonation";
+translate "Thud"
+to french "Bruit sourd";
+
+translate "NonGlowing"
+to french "Non brillant";
+
+translate "Pyrotechnics"
+to french "Pyrotechnie";
+
+translate "Build a Small Mortar"
+to french "Fabriquer un petit mortier";
+
+translate "To build a Small Mortar, you need: "
+to french "Pour fabriquer un petit mortier, il vous faut : ";
+
+translate "prev"
+to french "préc";
+translate "next"
+to french "suiv";
+translate "reset"
+to french "réinit";
+
+translate "Duration in Seconds:"
+to french "Durée en secondes:";
+
+translate "Rotation in Degrees:"
+to french "Rotation en degrés:";
+
+translate "Thrust Force:"
+to french "Force de poussée:";
+
+translate "Rotation Axis:"
+to french "Axe de rotation:";
+
+translate "Star Type:"
+to french "Type d'étoile :";
+
+translate "Final Sound:"
+to french "Bruit final :";
+
+translate "Launch Direction:"
+to french "Direction de lancement :";
+
+translate "Number of Rockets:"
+to french "Nombre de roquettes:";
+
+translate "Launch Repetitions:"
+to french "Répétitions du lancement:";
+
+translate "Launch Offset in Seconds:"
+to french "Retardement du lancement en secondes :";
+
+translate "View Arming Requirements"
+to french "Voir les pré-requis d'armement";
+
+translate "To arm this mortar you need:"
+to french "Pour armer ce mortier, il vous faut :";
+
+translate "Presets"
+to french "Paramètres d'origine";
+
+translate "Green Break"
+to french "Rupture verte";
+
+translate "Blue Ring"
+to french "Anneau bleu";
+
+translate "Camel's Collar"
+to french "Collier de chameau";
+
+translate "Triple Sun"
+to french "Triple soleil";
+
+translate "Yellow Hoop"
+to french "Cercle jaune";
+
+translate "Tear down this mortar"
+to french "Détruire ce mortier";
+
+translate "Do you really want to tear down your O1?"
+to french "Voulez-vous vraiment détruire votre O1(ns) ?";
+
+translate "Edit Design"
+to french "Modifier la conception";
+
+translate "Arm"
+to french "Armer";
+
+translate "Disarm"
+to french "Désarmer";
+
+translate "Fire!"
+to french "Feu !";
+translate "Fire"
+to french "Feu";
+
+translate "To arm this mortar, you need: "
+to french "Pour armer ce mortier, il vous faut : ";
+
+translate "Your K1 mortar has been disarmed."
+to french "Votre mortier K1 a été désarmé.";
+translate "Your O1 mortar has been disarmed."
+to french "Votre mortier O1(ns) a été désarmé.";
+
+translate "This magic Mortar is only level N1"
+to french "Ce mortier magique est seulement de niveau N1";
+
+translate "It's not your turn to fire yet."
+to french "Ca n'est pas encore votre tour de lancer.";
+
+translate "You can't fire near a Pyrotechnics Stadium Headquarters when you are not a contestant."
+to french "Vous ne pouvez pas lancer près d'un centre de Pyrotechnie si vous ne participez pas à la compétition.";
+
+translate "Capture this effect"
+to french "Capturer cet effet";
+
+translate "No effect saved."
+to french "Aucun effet sauvegardé.";
+
+translate "Name?"
+to french "Nom ?";
+
+translate "Saved effect as K1"
+to french "Sauvegarder l'effet sous K1";
+
+translate "Re-Fire"
+to french "Nouveau tir";
+
+translate "Check Status"
+to french "Voir mes progrès";
+
+translate "You may commit to times at a School or University of Art and Music:"
+to french "Vous pouvez vous inscrire aux dates suivantes aux Universités ou Ecoles d'Art & Musique:";

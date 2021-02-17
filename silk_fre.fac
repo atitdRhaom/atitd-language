@@ -1,0 +1,192 @@
+Module silk_fre;
+
+translate RawSilk to french feminine
+{
+	ns "Soie"; np "Soies";
+	}
+
+translate SilkCloth to french feminine
+{
+	ns "Pièce de soie"; np "Pièces de soie";
+	}
+
+translate SilkwormFarm to french masculine
+{
+	ns "Elevage de vers à soie"; np "Elevages de vers à soie";
+	}
+
+translate "Silkworm Unguent"
+to french "Onguent de vers à soie";
+
+translate "Allows you to mix a solution that will force silkworms to change their diet"
+to french "Permet de mélanger une solution pour obliger les élevages de vers à soie à changer leur régime";
+
+translate "Silkworms are hard to care for, we can only train people in this skill if they have already demonstrated skill in handling other kinds of insects.  One way to demonstrate this skill is to successfully raise and exhibit a beetle at Level 2."
+to french "Les vers à soie sont difficiles à élever, nous ne pouvons apprendre cette technique qu'aux personnes qui ont déjà fait preuve de leurs talents dans l'élevage d'autres insectes. Une manière de nous prouver que vous en êtes capable est d'élever et d'exposer un scarabée de niveau 2 au moins.";
+
+translate "Silkworm Farms"
+to french "Elevages de vers à soie";
+
+translate "Silkworm Farm"
+to french "Elevage de vers à soie";
+
+translate "You have learned the skill of Silkworm Farming. You can now build and tend a silkworm farm."
+to french "Vous avez appris à élever des vers à soie. Vous pouvez maintenant constuire un élevage de vers à soie.";
+
+translate "Non-Toxic treated boards, for the table."
+to french "Planches traitées non toxiques pour la base.";
+
+translate "Papyrus Paper, for the bedding."
+to french "Papier de papyrus pour les niches.";
+
+translate "Iron, for the frame."
+to french "Fer pour le cadre.";
+
+translate "Sheet Glass, for the enclosure."
+to french "Feuille de verre pour la cloisons.";
+
+translate "Copper Sheeting, for the icons."
+to french "Revêtement de cuivre pour les icônes.";
+
+translate "Thermometers, for climate control."
+to french "Thermomètres pour le contrôle de la température.";
+
+translate "Turquoise Paint, for the decor."
+to french "Peinture turquoise pour la décoration.";
+
+translate "Pale Turquoise Paint, for the decor."
+to french "Peinture turquoise pâle pour la décoration.";
+
+translate "To build a Silkworm Farm, you need:"
+to french "Pour construire un élevage de vers à soie, il vous faut :";
+
+translate "Info: Read about Silkworm Farms"
+to french "Info : Au sujet des élevages de vers à soie";
+
+translate "Silk Moths lay eggs which turn into caterpillars called silkworms.  The silkworms weave cocoons made of silk. You can then unravel the cocoon, and you have a thread of raw silk."
+to french "Les papillons pondent des oeufs qui se transforment en chenilles, les vers à soie. Ces vers tissent des cocons en soie. Vous pouvez ensuite dérouler le cocon et obtenir un fil de soie.";
+
+translate "Silkworms are picky eaters.  They say that some of the worms in the east eat mulberry leaves, but the ones in Egypt eat thistle.  The thistle must be tended very carefully, or it won't be just right for the silkworms.  If they don't "
+to french "Les vers à soie sont très exigeants sur leur alimentations. On dit que certains vers de l'est mangent des feuilles de mûrier, mais ceux d'égypte préfèrent les charadons. Les chardons doivent être cultivés avec la plus grande attention, ou bien les vers à soie les dédaigneront. S'ils n'ont pas ";
+
+translate "get the right kind of thistle, the cocoons will be unusable."
+to french "les bons chardons à disposition, les cocons de soie seront inutilisables.";
+
+translate "Each generation of silkworms is slightly different than the previous generation.  Sometimes the worms need a little more of one vitamin, sometimes they need a little less of another. Fortunately, silkworm farmers can predict exactly what the silkworms are going to need.  Only silkworm farmers can do this, and only silkworm farmers can tend the silkworms."
+to french "Chaque génération de vers à soie est légèrement différente de la précédente. Parfois, les vers ont besoin d'un peu plus d'une certaine vitamine, parfois moins d'une autre. Heureusement, les éleveurs de vers à soie peuvent prédire exactement quels seront les besoin de leurs vers. Seuls lers éleveurs de vers à soie peuvent le deviner, et seuls eux peuvent pratiquer cet élevage complexe.";
+
+translate "Permission for Feeding"
+to french "Permission pour nourrir les vers";
+
+translate "The next generation of eggs will be laid in K1."
+to french "La prochaine génération d'oeuf seront pondus dans K1.";
+
+translate "The eggs have been laid. They will hatch in K1."
+to french "Des oeufs ont été pondus. Ils écloront dans K1. .";
+
+translate "There is N1 thistle inside."
+to french "Il y a N1 chardons à l'intérieur.";
+
+translate "They will need thistle that is:"
+to french "Ils auront besoin du type de chardons suivant :";
+
+translate "Supply Thistle"
+to french "Donner des chardons";
+
+translate "The silkworms were not given any good thistle."
+to french "Les vers à soie n'ont pas reçu de bons chardons.";
+
+translate "They will survive, but will not produce any"
+to french "Ils survivront, mais ne produiront pas de ";
+
+translate "silk.  This generation will be over in K1."
+to french "soie. Cette génération aura disparu dans K1.";
+
+translate "There is N1 silk stored."
+to french "Il y a N1 soies à récupérer.";
+
+translate "Select a bundle of thistle:"
+to french "Choisir une variété de chardon:";
+
+translate "That is not thistle."
+to french "Ca n'est pas du chardon.";
+
+translate "How many do you want to load?"
+to french "Combien de chardons voulez-vous mettre?";
+
+translate "That thistle does not have the right vitamin levels."
+to french "Ce chardon ne possède pas les vitamines requises.";
+
+translate "You do not have that much."
+to french "Vous n'en avez pas autant.";
+translate "Apply SilkWorm Unguent"
+to french "Appliquer de l'onguent de vers à soie";
+
+translate " - High in Ascorbin"
+to french " - Trés concentré en Ascorbine";
+translate " - High in Biotin"
+to french " - Trés concentré en Biotine";
+translate " - High in Carotene"
+to french " - Trés concentré en Carotène";
+translate " - High in Folin"
+to french " - Trés concentré en Foline";
+translate " - High in Niacin"
+to french " - Trés concentré en Niacine";
+translate " - High in Pyroxidine"
+to french " - Trés concentré en Pyroxidine";
+translate " - High in Thiamine"
+to french " - Trés concentré en Thiamine";
+
+translate " - Low in Ascorbin"
+to french " - Peu concentré en Ascorbine";
+translate " - Low in Biotin"
+to french " - Peu concentré en Biotine";
+translate " - Low in Carotene"
+to french " - Peu concentré en Carotène";
+translate " - Low in Folin"
+to french " - Peu concentré en Foline";
+translate " - Low in Niacin"
+to french " - Peu concentré en Niacine";
+translate " - Low in Pyroxidine"
+to french " - Peu concentré en Pyroxidine";
+translate " - Low in Thiamine"
+to french " - Peu concentré en Thiamine";
+
+translate " - Average in Ascorbin"
+to french " - Moyennement concentré en Ascorbine";
+translate " - Average in Biotin"
+to french " - Moyennement concentré en Biotine";
+translate " - Average in Carotene"
+to french " - Moyennement concentré en Carotène";
+translate " - Average in Folin"
+to french " - Moyennement concentré en Foline";
+translate " - Average in Niacin"
+to french " - Moyennement concentré en Niacine";
+translate " - Average in Pyroxidine"
+to french " - Moyennement concentré en Pyroxidine";
+translate " - Average in Thiamine"
+to french " - Moyennement concentré en Thiamine";
+
+translate "Ascorbin"
+to french "Ascorbine";
+
+translate "Biotin"
+to french "Biotine";
+
+translate "Carotene"
+to french "Carotène";
+
+translate "Folin"
+to french "Foline";
+
+translate "Niacin"
+to french "Niacine";
+
+translate "Pyroxidine"
+to french "Pyroxidine";
+
+translate "Thiamine"
+to french "Thiamine";
+
+translate "The silkworms are eating, growing, and weaving cocoons. They will be done in K1"
+to french "Les vers mangent, se reproduisent et tissent des cocons. Ils auront terminé dans K1";

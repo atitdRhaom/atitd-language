@@ -1,0 +1,433 @@
+Module swimming_fre;
+
+translate oystercatcher to french feminine
+{
+ns "L'épreuve du Pêcheur d'huîtres"; np "L'épreuve du Pêcheur d'huîtres";
+}
+translate OysterMeat to french feminine
+{
+ns "Chair d'huître"; np "Chairs d'huître";
+}
+translate Pearl to french feminine
+{
+ns "Perle"; np "Perles"; 
+}
+translate swimming to french feminine
+{
+ns "Natation"; np "Natation"; 
+}
+
+translate "You install the new pearl" to french "Vous avez installé la nouvelle perle";
+
+translate "There is already a pearl in that Setting - remove it first." to french "Il y a déjà une perle à cet emplacement. Enlevez-la d'abbord";
+
+translate "To learn the swimming skill, Egypt must show that is comfortable around water.  Do this by demonstrating knowledge in the O1 Once demonstrated, the skill will cost N1 linen."
+to french "Pour apprendre la natation, l'Egypte doit avoir démontré qu'elle est à l'aise avec l'eau. Pour faire ceci, démontrez les compétences en O1(ns). Une fois démontrée, la compétence coûtera N1 tissus";
+
+translate "You are too tired to swim any further.  Rest another N1 seconds before continuing on.  Higher Endurance will help you recover faster."
+to french "Vous êtes trop fatigué pour nager plus loin. Reposez vous encore N1 secondes avant de continuer. Une endurance plus importante aide à récupérer plus rapidement.";
+
+translate "You have learned the skill of Swimming.  Please note that swimming is exhausting work.  Swimming soon after eating is not suggested."
+to french "Vous avez appris la compétence de Natation. Notez que la natation est très fatiguante.  Nager rapidement après avoir manger n'est pas conseillé.";
+translate "your pearl necklace is empty."
+to french "Votre collier de perles est vide.";
+
+translate "White Pearl"
+to french "Perle blanche";
+
+translate "Coral Pearl"
+to french "Perle corail";
+
+translate "Smoke Pearl"
+to french "Perle fumée";
+
+translate "Aqua Pearl"
+to french "Perle turquoise";
+
+translate "Pink Pearl"
+to french "Perle rose";
+
+translate "Beige Pearl"
+to french "Perle beige";
+
+translate "Black Pearl"
+to french "Perle noire";
+
+translate "Dive for Oysters, searching for pearls. By fitting the correct color of Pearl to each setting in your necklace, your endurance will increase."
+to french "Plongez à la recherche d'huîtres, trouvez des perles. Si vous placez les perles de la bonne couleur dans chaque emplacement de votre collier, votre endurance augmentera.";
+
+translate "Use the swimming skill to catch Oysters in Egypt's waterways. Assemble pearls from Oysters into a necklace. Visit Schools and Universities of The Human Body so that instructors may assist in your design."
+to french "Utilisez votre compétence en natation pour ramasser des huitres dans les eaux égyptiennes. Assemblez les perles trouvées en collier. Vistitez les écoles et universités du corps humain afin que les instructeurs vous aident dans votre dessin";
+
+translate "Learn the swimming skill"
+to french "Apprennez la compétence en natation";
+ 
+translate "Go for a swim"
+to french "Aller nager";
+translate "Return to dry land"
+to french "Retourner sur la terre ferme";
+translate "Locate an Oyster bed and Dive"
+to french "Localiser un band d'huîtres et y plonger";
+translate "Retrieve three Pearls"
+to french "Récupérer trois perles";
+translate "Show your Necklace to the Instructors"
+to french "Montrer votre collier aux Professeurs";
+
+translate "You have completed the Principles of the Oyster Catcher."
+to french "Vous avez terminé les principes du Pêcheur d'huîtres.";
+
+translate "You learn to swim! Use this skill to catch Oysters in Egypt's waterways. Assemble pearls from Oysters into a necklace. Visit Schools and Universities of The Human Body so that instructors may assist in your design."
+to french "Vous apprenez à nager! Utilisez cette capacité pour attraper des huîtres dans les fonds marins d'Egypte. Assemblez les perles provenant des huïtres pour en faire un collier. Visitez les écoles et universités du Corps Humain, peut-être les formateurs pourront-ils vous aider dans votre tâche.";
+
+translate "White"
+to french "Blanche";
+translate "Coral"
+to french "Corail";
+translate "Smoke"
+to french "Fumée";
+translate "Aqua"
+to french "Turquoise";
+translate "Pink"
+to french "Rose";
+translate "Beige"
+to french "Beige";
+translate "Black"
+to french "Noire";
+translate "Small"
+to french "Petite";
+translate "Medium"
+to french "Moyenne";
+translate "Large"
+to french "Grosse";
+translate "Huge"
+to french "Enorme";
+
+translate "Medium Smoke"
+to french "Moyenne, Fumée";
+translate "Medium White"
+to french "Moyenne, Blanche";
+translate "Medium Coral"
+to french "Moyenne, Corail";
+translate "Medium Aqua"
+to french "Moyenne, Turquoise";
+translate "Medium Pink"
+to french "Moyenne, Rose";
+translate "Medium Beige"
+to french "Moyenne, Beige";
+translate "Medium Black"
+to french "Moyenne, Noire";
+
+translate "Large Smoke"
+to french "Grosse, Fumée";
+translate "Large White"
+to french "Grosse, Blanche";
+translate "Large Coral"
+to french "Grosse, Corail";
+translate "Large Aqua"
+to french "Grosse, Turquoise";
+translate "Large Pink"
+to french "Grosse, Rose";
+translate "Large Beige"
+to french "Grosse, Beige";
+translate "Large Black"
+to french "Grosse, Noire";
+
+translate "Small Smoke"
+to french "Petite, Fumée";
+translate "Small White"
+to french "Petite, Blanche";
+translate "Small Coral"
+to french "Petite, Corail";
+translate "Small Aqua"
+to french "Petite, Turquoise";
+translate "Small Pink"
+to french "Petite, Rose";
+translate "Small Beige"
+to french "Petite, Beige";
+translate "Small Black"
+to french "Petite, Noire";
+
+translate "Huge Smoke"
+to french "Enorme, Fumée";
+translate "Huge White"
+to french "Enorme, Blanche";
+translate "Huge Coral"
+to french "Enorme, Corail";
+translate "Huge Aqua"
+to french "Enorme, Turquoise";
+translate "Huge Pink"
+to french "Enorme, Rose";
+translate "Huge Beige"
+to french "Enorme, Beige";
+translate "Huge Black"
+to french "Enorme, Noire";
+
+translate "Show off my Necklace to the Scientists"
+to french "Montrer mon collier aux Scientifiques";
+
+translate "Your necklace has..."
+to french "Votre collier a...";
+
+translate "N1 Small pearls, of which N2 are the right color, and N3 are in the correct settings."
+to french "N1 Petites Perles, dont N2 de la bonne couleur, et N3 au bon emplacement.";
+
+translate "N1 Medium pearls, of which N2 are the right color, and N3 are in the correct settings."
+to french "N1 Perles Moyennes, dont N2 de la bonne couleur, et N3 au bon emplacement.";
+
+translate "N1 Large pearls, of which N2 are the right color, and N3 are in the correct settings."
+to french "N1 Grosses Perles, dont N2 de la bonne couleur, et N3 au bon emplacement.";
+
+translate "A Huge pearl."
+to french "Une perle énorme.";
+
+translate "No Huge pearl."
+to french "Pas de perle énorme.";
+
+translate "Show off my Necklace to the Instructors"
+to french "Montrer mon collier aux Formateurs";
+
+translate "Admire Pearl Necklace"
+to french "Admirer le Collier de Perles";
+
+translate "Admiring..."
+to french "Vous admirez...";
+
+//translate "A ",World.PearlSize[nth(sd,5)]," ",World.PearlColor[nth(sd,6)]," pearl, found by ",nth(sd,0)," ",TimeString(time()-nth(sd,1))," ago at ",nth(sd,2)," ",nth(sd,3)/16," ",nth(sd,4)/16,"."
+//to french "";
+
+translate "Install Pearl"
+to french "Installer une perle";
+
+translate "Small Pearl, Setting N1"
+to french "Petite Perle, Emplacement N1";
+
+translate "Medium Pearl, Setting N1"
+to french "Moyenne Perle, Emplacement N1";
+
+translate "Large Pearl, Setting N1"
+to french "Grosse Perle, Emplacement N1";
+
+translate "Huge Pearl, Setting N1"
+to french "Enorme Perle, Emplacement N1";
+
+translate "Remove Pearl"
+to french "Retirer une Perle";
+
+translate "When you remove a pearl, there is a chance that it will be destroyed. Do you want to remove the K1 pearl in K2 Setting N1?"
+to french "Quand vous retirez une perle, il se peut qu'elle soit détruite. Voulez-vous retirer la perle K1 de l'emplacement K2 N1?";
+
+//translate "Pick a Pearl to install..."
+//to french "";
+
+translate "Installing..."
+to french "Installation...";
+
+translate "You must instal only pearls that you found."
+to french "Vous ne pouvez installer que des perles que vous avez vous-même trouver.";
+
+translate "That pearl is the wrong size."
+to french "Cette perle n'est pas de la bonne taille.";
+
+translate "That pearl is the same color as the one you're replacing."
+to french "Cette perle est de la même couleur que celle que vous remplacez.";
+
+translate "Your Endurance went up!"
+to french "Votre Endurance augmente!";
+
+translate "Stop Swimming"
+to french "Arrêter de nager";
+
+translate "Swim"
+to french "Nager";
+
+translate "Could not find a swimming spot."
+to french "Impossible de trouver un endroit pour nager.";
+
+translate "Make an Oyster Grid"
+to french "Créer une grille d'huÎtre";
+
+translate "Size of Grid?"
+to french "Taille de la grille?";
+
+translate "Difficulty 1-28"
+to french "Difficulté 1-28";
+
+translate "Merlin"
+to french "Merlin";
+translate "Henning"
+to french "Henning";
+translate "Slydini"
+to french "Slydini";
+translate "Blaine"
+to french "Blaine";
+translate "Copperfield"
+to french "Copperfield";
+translate "Teller"
+to french "Teller";
+translate "Houdini"
+to french "Houdini";
+
+//translate "Flip Rule?"
+//to french "";
+
+//translate "Could not invert FlipRule. Call a Developer."
+//to french "";
+
+translate "Dive"
+to french "Plonger";
+
+translate "You got an Oyster - it contains some tasty meat, and a Pearl!"
+to french "Vous avez attraper une huïtre - à l'intérieur, vous trouvez de la chair délicieuse, et une Perle!";
+
+translate "Your Pearl Necklace has..."
+to french "Votre collier de perles contient...";
+
+translate "A Small Black pearl in Small setting N1"
+to french "Une Petite Perle Noire dans le petit emplacement N1";
+
+translate "A Medium Black pearl in Medium setting N1"
+to french "Une Perle Moyenne Noire dans l'emplacement moyen N1";
+
+translate "A Large Black pearl in Large setting N1"
+to french "Une Grosse Perle Noire dans le gros emplacement N1";
+
+translate "A Huge Black pearl in Huge setting N1"
+to french "Une Enorme Perle Noire dans l'énorme emplacement N1";
+
+translate "A Small White pearl in Small setting N1"
+to french "Une Petite Perle Blanche dans le petit emplacement N1";
+
+translate "A Medium White pearl in Medium setting N1"
+to french "Une Perle Moyenne Blanche dans l'emplacement moyen N1";
+
+translate "A Large White pearl in Large setting N1"
+to french "Une Grosse Perle Blanche dans le gros emplacement N1";
+
+translate "A Huge White pearl in Huge setting N1"
+to french "Une Enorme Perle Blanche dans l'énorme emplacement N1";
+
+translate "A Small Coral pearl in Small setting N1"
+to french "Une Petite Perle Corail dans le petit emplacement N1";
+
+translate "A Medium Coral pearl in Medium setting N1"
+to french "Une Perle Moyenne Corail dans l'emplacement moyen N1";
+
+translate "A Large Coral pearl in Large setting N1"
+to french "Une Grosse Perle Corail dans le gros emplacement N1";
+
+translate "A Huge Coral pearl in Huge setting N1"
+to french "Une Enorme Perle Corail dans l'énorme emplacement N1";
+
+translate "A Small Smoke pearl in Small setting N1"
+to french "Une Petite Perle Fumée dans le petit emplacement N1";
+
+translate "A Medium Smoke pearl in Medium setting N1"
+to french "Une Perle Moyenne Fumée dans l'emplacement moyen N1";
+
+translate "A Large Smoke pearl in Large setting N1"
+to french "Une Grosse Perle Fumée dans le gros emplacement N1";
+
+translate "A Huge Smoke pearl in Huge setting N1"
+to french "Une Enorme Perle Fumée dans l'énorme emplacement N1";
+
+translate "A Small Aqua pearl in Small setting N1"
+to french "Une Petite Perle Turquoise dans le petit emplacement N1";
+
+translate "A Medium Aqua pearl in Medium setting N1"
+to french "Une Perle Moyenne Turquoise dans l'emplacement moyen N1";
+
+translate "A Large Aqua pearl in Large setting N1"
+to french "Une Grosse Perle Turquoise dans le gros emplacement N1";
+
+translate "A Huge Aqua pearl in Huge setting N1"
+to french "Une Enorme Perle Turquoise dans l'énorme emplacement N1";
+
+translate "A Small Pink pearl in Small setting N1"
+to french "Une Petite Perle Rose dans le petit emplacement N1";
+
+translate "A Medium Pink pearl in Medium setting N1"
+to french "Une Perle Moyenne Rose dans l'emplacement moyen N1";
+
+translate "A Large Pink pearl in Large setting N1"
+to french "Une Grosse Perle Rose dans le gros emplacement N1";
+
+translate "A Huge Pink pearl in Huge setting N1"
+to french "Une Enorme Perle Rose dans l'énorme emplacement N1";
+
+translate "A Small Beige pearl in Small setting N1"
+to french "Une Petite Perle Beige dans le petit emplacement N1";
+
+translate "A Medium Beige pearl in Medium setting N1"
+to french "Une Perle Moyenne Beige dans l'emplacement moyen N1";
+
+translate "A Large Beige pearl in Large setting N1"
+to french "Une Grosse Perle Beige dans le gros emplacement N1";
+
+translate "A Huge Beige pearl in Huge setting N1"
+to french "Une Enorme Perle Beige dans l'énorme emplacement N1";
+
+translate "The oyster had some tasty meat, and a K1 Pearl!"
+to french "Vous récupérez sur l'huitre un peu de chair succulante ainsi qu'une perle K1 !";
+
+translate "The oyster had some tasty meat, and a Medium Smoke Pearl!"
+to french "Vous récupérez sur l'huitre un peu de chair succulante ainsi qu'une moyenne perle fumée !";
+translate "The oyster had some tasty meat, and a Medium White Pearl!"
+to french "Vous récupérez sur l'huitre un peu de chair succulante ainsi qu'une moyenne perle blanche !";
+translate "The oyster had some tasty meat, and a Medium Coral Pearl!"
+to french "Vous récupérez sur l'huitre un peu de chair succulante ainsi qu'une moyenne perle corail !";
+translate "The oyster had some tasty meat, and a Medium Aqua Pearl!"
+to french "Vous récupérez sur l'huitre un peu de chair succulante ainsi qu'une moyenne perle turquoise !";
+translate "The oyster had some tasty meat, and a Medium Pink Pearl!"
+to french "Vous récupérez sur l'huitre un peu de chair succulante ainsi qu'une moyenne perle rose !";
+translate "The oyster had some tasty meat, and a Medium Beige Pearl!"
+to french "Vous récupérez sur l'huitre un peu de chair succulante ainsi qu'une moyenne perle beige !";
+translate "The oyster had some tasty meat, and a Medium Black Pearl!"
+to french "Vous récupérez sur l'huitre un peu de chair succulante ainsi qu'une moyenne perle noire !";
+
+translate "The oyster had some tasty meat, and a Large Smoke Pearl!"
+to french "Vous récupérez sur l'huitre un peu de chair succulante ainsi qu'une grosse perle fumée !";
+translate "The oyster had some tasty meat, and a Large White Pearl!"
+to french "Vous récupérez sur l'huitre un peu de chair succulante ainsi qu'une grosse perle blanche !";
+translate "The oyster had some tasty meat, and a Large Coral Pearl!"
+to french "Vous récupérez sur l'huitre un peu de chair succulante ainsi qu'une grosse perle corail !";
+translate "The oyster had some tasty meat, and a Large Aqua Pearl!"
+to french "Vous récupérez sur l'huitre un peu de chair succulante ainsi qu'une grosse perle turquoise !";
+translate "The oyster had some tasty meat, and a Large Pink Pearl!"
+to french "Vous récupérez sur l'huitre un peu de chair succulante ainsi qu'une grosse perle rose !";
+translate "The oyster had some tasty meat, and a Large Beige Pearl!"
+to french "Vous récupérez sur l'huitre un peu de chair succulante ainsi qu'une grosse perle beige !";
+translate "The oyster had some tasty meat, and a Large Black Pearl!"
+to french "Vous récupérez sur l'huitre un peu de chair succulante ainsi qu'une grosse perle noire !";
+
+translate "The oyster had some tasty meat, and a Small Smoke Pearl!"
+to french "Vous récupérez sur l'huitre un peu de chair succulante ainsi qu'une petite perle fumée !";
+translate "The oyster had some tasty meat, and a Small White Pearl!"
+to french "Vous récupérez sur l'huitre un peu de chair succulante ainsi qu'une petite perle blanche !";
+translate "The oyster had some tasty meat, and a Small Coral Pearl!"
+to french "Vous récupérez sur l'huitre un peu de chair succulante ainsi qu'une petite perle corail !";
+translate "The oyster had some tasty meat, and a Small Aqua Pearl!"
+to french "Vous récupérez sur l'huitre un peu de chair succulante ainsi qu'une petite perle turquoise !";
+translate "The oyster had some tasty meat, and a Small Pink Pearl!"
+to french "Vous récupérez sur l'huitre un peu de chair succulante ainsi qu'une petite perle rose !";
+translate "The oyster had some tasty meat, and a Small Beige Pearl!"
+to french "Vous récupérez sur l'huitre un peu de chair succulante ainsi qu'une petite perle beige !";
+translate "The oyster had some tasty meat, and a Small Black Pearl!"
+to french "Vous récupérez sur l'huitre un peu de chair succulante ainsi qu'une petite perle noire !";
+
+translate "The oyster had some tasty meat, and a Huge Smoke Pearl!"
+to french "Vous récupérez sur l'huitre un peu de chair succulante ainsi qu'une énorme perle fumée !";
+translate "The oyster had some tasty meat, and a Huge White Pearl!"
+to french "Vous récupérez sur l'huitre un peu de chair succulante ainsi qu'une énorme perle blanche !";
+translate "The oyster had some tasty meat, and a Huge Coral Pearl!"
+to french "Vous récupérez sur l'huitre un peu de chair succulante ainsi qu'une énorme perle corail !";
+translate "The oyster had some tasty meat, and a Huge Aqua Pearl!"
+to french "Vous récupérez sur l'huitre un peu de chair succulante ainsi qu'une énorme perle turquoise !";
+translate "The oyster had some tasty meat, and a Huge Pink Pearl!"
+to french "Vous récupérez sur l'huitre un peu de chair succulante ainsi qu'une énorme perle rose !";
+translate "The oyster had some tasty meat, and a Huge Beige Pearl!"
+to french "Vous récupérez sur l'huitre un peu de chair succulante ainsi qu'une énorme perle beige !";
+translate "The oyster had some tasty meat, and a Huge Black Pearl!"
+to french "Vous récupérez sur l'huitre un peu de chair succulante ainsi qu'une énorme perle noire !";
+
+translate "The edge of the water is too steep - find a more shallow spot to exit."
+to french "La rive est trop abrupte - trouvez un endroit moins profond pour sortir de l'eau.";

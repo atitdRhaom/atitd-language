@@ -1,0 +1,228 @@
+Module Beer_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent   **
+//**    (C)opyright 2002,2003,2004,2005 by MDO Entertainment	           **
+//**                                                                       **
+//***************************************************************************
+//menues
+
+translate "Projects"
+to german "Projekte";
+
+translate "Farming"
+to german "Landwirtschaft";
+
+translate "Build a Grain Oven"
+to german "Baue einen Getreideofen";
+
+translate "To construct a Grain Oven, you need:"
+to german "Um einen Getreideofen zu bauen benötigst Du:";
+
+translate "Beer Brewing"
+to german "Bierbrauen";
+
+
+//objects
+translate GrainOven to german masculine
+{
+swa "Getreideofen";
+sn "Getreideofen"; sg "Getreideofens"; sd "Getreideofen"; sa "Getreideofen";
+pn "Getreideöfen"; pg "Getreideöfen"; pd "Getreideöfen"; sa "Getreideöfen";
+}
+
+translate Beer to german neuter
+{
+swa "Bier";
+sn "Bier"; sg "Bieres"; sd "Bier"; sa "Bier";
+pn "Biere"; pg "Biere"; pd "Bieren"; sa "Biere";
+}
+
+translate Beer to german neuter
+{
+swa "Bier";
+sn "Bier"; sg "Biers"; sd "Buer"; sa "Bier";
+pn "Bier"; pg "Bier"; pd "Bier"; sa "Bier";
+}
+
+translate BarleyRaw to german femininecollective
+{
+swa "Gerste (roh)";
+sn "Gerste (roh)"; sg "Gerste (roh)"; sd "Gerste (roh)"; sa "Gerste (roh)";
+pn "Gerste (roh)"; pg "Gerste (roh)"; pd "Gersten (roh)"; pa "Gerste (roh)";
+}
+translate BarleyLightRoasted to german femininecollective
+{
+swa "Gerste (leicht geröstet)";
+sn "Gerste (leicht geröstet)"; sg "Gerste (leicht geröstet)"; sd "Gerste (leicht geröstet)"; sa "Gerste (leicht geröstet)";
+pn "Gerste (leicht geröstet)"; pg "Gerste (leicht geröstet)"; pd "Gersten (leicht geröstet)"; pa "Gerste (leicht geröstet)";
+}
+translate BarleyMediumRoasted to german femininecollective
+{
+swa "Gerste (medium geröstet)";
+sn "Gerste (medium geröstet)"; sg "Gerste (medium geröstet)"; sd "Gerste (medium geröstet)"; sa "Gerste (medium geröstet)";
+pn "Gerste (medium geröstet)"; pg "Gerste (medium geröstet)"; pd "Gersten (medium geröstet)"; pa "Gerste (medium geröstet)";
+}
+translate BarleyDarkRoasted to german femininecollective
+{
+swa "Gerste (dunkel geröstet)";
+sn "Gerste (dunkel geröstet)"; sg "Gerste (dunkel geröstet)"; sd "Gerste (dunkel geröstet)"; sa "Gerste (dunkel geröstet)";
+pn "Gerste (dunkel geröstet)"; pg "Gerste (dunkel geröstet)"; pd "Gersten (dunkel geröstet)"; pa "Gerste (dunkel geröstet)";
+}
+translate BarleyBurnt to german femininecollective
+{
+swa "Gerste (verbrannt)";
+sn "Gerste (verbrannt)"; sg "Gerste (verbrannt)"; sd "Gerste (verbrannt)"; sa "Gerste (verbrannt)";
+pn "Gerste (verbrannt)"; pg "Gerste (verbrannt)"; pd "Gersten (verbrannt)"; pa "Gerste (verbrannt)";
+}
+translate WheatRaw to german masculinecollective
+{
+swa "Weizen (roh)";
+sn "Weizen (roh)"; sg "Weizens (roh)"; sd "Weizen (roh)"; sa "Weizen (roh)";
+pn "Weizen (roh)"; pg "Weizen (roh)"; pd "Weizen (roh)"; pa "Weizen (roh)";
+}
+translate WheatLightRoasted to german masculinecollective
+{
+swa "Weizen (leicht geröstet)";
+sn "Weizen (leicht geröstet)"; sg "Weizens (leicht geröstet)"; sd "Weizen (leicht geröstet)"; sa "Weizen (leicht geröstet)";
+pn "Weizen (leicht geröstet)"; pg "Weizen (leicht geröstet)"; pd "Weizen (leicht geröstet)"; pa "Weizen (leicht geröstet)";
+}
+translate WheatMediumRoasted to german masculinecollective
+{
+swa "Weizen (medium geröstet)";
+sn "Weizen (medium geröstet)"; sg "Weizens (medium geröstet)"; sd "Weizen (medium geröstet)"; sa "Weizen (medium geröstet)";
+pn "Weizen (medium geröstet)"; pg "Weizen (medium geröstet)"; pd "Weizen (medium geröstet)"; pa "Weizen (medium geröstet)";
+}
+translate WheatDarkRoasted to german masculinecollective
+{
+swa "Weizen (dunkel geröstet)";
+sn "Weizen (dunkel geröstet)"; sg "Weizens (dunkel geröstet)"; sd "Weizen (dunkel geröstet)"; sa "Weizen (dunkel geröstet)";
+pn "Weizen (dunkel geröstet)"; pg "Weizen (dunkel geröstet)"; pd "Weizen (dunkel geröstet)"; pa "Weizen (dunkel geröstet)";
+}
+translate WheatBurnt to german masculinecollective
+{
+swa "Weizen (verbrannt)";
+sn "Weizen (verbrannt)"; sg "Weizens (verbrannt)"; sd "Weizen (verbrannt)"; sa "Weizen (verbrannt)";
+pn "Weizen (verbrannt)"; pg "Weizen (verbrannt)"; pd "Weizen (verbrannt)"; pa "Weizen (verbrannt)";
+}
+translate MaltRaw to german neutercollective
+{
+swa "Malz (roh)";
+sn "Malz (roh)"; sg "Malzes (roh)"; sd "Malz (roh)"; sa "Malz (roh)";
+pn "Malz (roh)"; pg "Malz (roh)"; pd "Malz (roh)"; pa "Malz (roh)";
+}
+translate MaltLightRoasted to german neutercollective
+{
+swa "Malz (leicht geröstet)";
+sn "Malz (leicht geröstet)"; sg "Malzes (leicht geröstet)"; sd "Malz (leicht geröstet)"; sa "Malz (leicht geröstet)";
+pn "Malz (leicht geröstet)"; pg "Malz (leicht geröstet)"; pd "Malz (leicht geröstet)"; pa "Malz (leicht geröstet)";
+}
+translate MaltMediumRoasted to german neutercollective
+{
+swa "Malz (medium geröstet)";
+sn "Malz (medium geröstet)"; sg "Malzes (medium geröstet)"; sd "Malz (medium geröstet)"; sa "Malz (medium geröstet)";
+pn "Malz (medium geröstet)"; pg "Malz (medium geröstet)"; pd "Malz (medium geröstet)"; pa "Malz (medium geröstet)";
+}
+translate MaltDarkRoasted to german neutercollective
+{
+swa "Malz (dunkel geröstet)";
+sn "Malz (dunkel geröstet)"; sg "Malzes (dunkel geröstet)"; sd "Malz (dunkel geröstet)"; sa "Malz (dunkel geröstet)";
+pn "Malz (dunkel geröstet)"; pg "Malz (dunkel geröstet)"; pd "Malz (dunkel geröstet)"; pa "Malz (dunkel geröstet)";
+}
+translate MaltBurnt to german neutercollective
+{
+swa "Malz (verbrannt)";
+sn "Malz (verbrannt)"; sg "Malzes (verbrannt)"; sd "Malz (verbrannt)"; sa "Malz (verbrannt)";
+pn "Malz (verbrannt)"; pg "Malz (verbrannt)"; pd "Malz (verbrannt)"; pa "Malz (verbrannt)";
+}
+translate GrainOven to german masculine
+{
+swa "Getreidebrennofen";
+sn "Getreidebrennofen"; sg "Getreidebrennofens"; sd "Getreidebrennofen"; sa "Getreidebrennofen";
+pn "Getreidebrennöfen"; pg "Getreidebrennöfen"; pd "Getreidebrennöfen"; pa "Getreidebrennöfen";
+}
+
+translate QuickBrewing to german neuter
+{
+swa "Schnelles Brauen";
+sn "Schnelles Brauen"; sg "Schnelles Brauen"; sd "Schnelles Brauen"; sa "Schnelles Brauen";
+pn "Schnelles Brauen"; pg "Schnelles Brauen"; pd "Schnelles Brauen"; pa "Schnelles Brauen";
+}
+
+translate "QuickBrewing (Completed)"
+to german "Schnelles Brauen (Komplett)";
+
+translate "To learn quick brewing, you must already know beer brewing, and you must have a great deal of experience with festivals.  Your standing with the festival gods must add up to N1.  The skill costs 500 barley."
+to german "Um Schnelles Brauen zu lernen, musst du bereits Bierbrauen beherrschen. Außerdem brauchst Du große Erfahrungen mit Festen. Dein Ruf bei den Festivalgöttern muß über N1 betragen. Die Fertigkeit kostet 500 Gerste.";
+
+//texts
+translate "The grain oven contains nothing to take."
+to german "Im Getreidebrennofen ist nichts, was du nehmen kannst.";
+
+translate "You must select an item in the list before pressing 'Take'."
+to german "Du musst etwas aus der Liste auswählen, bevor du 'Nehmen' drückst.";
+
+translate "Select Wood, or a Grain:"
+to german "Wähle Holz oder Getreide:";
+
+translate "You can only put wood and grain into the grain oven."
+to german "Du kannst nur Holz und Getreide in den Getreideofen legen.";
+
+translate "How many O1 should I put in?"
+to german "Wieviel O1(sn) soll ich hineinlegen?";
+
+translate "You do not have N1 O1"
+to german "Du hast keine N1 O1(N1?pd:sd)";
+
+translate "The oven is overloaded.  It will do nothing until you remove some bulk."
+to german "Der Ofen ist überladen. Er wird nichts tun, bis Du eine kleine Menge herausgenommen hast.";
+
+translate "The oven uses N1 wood every 10 seconds. It does not have enough."
+to german "Der Ofen benötigt N1 Holz alle 10 Sekunden. Er hat nicht genug.";
+
+translate "Allows one to brew beer of many flavors"
+to german "Erlaubt die Bierherstellung in vielen Geschmacksrichtungen";
+
+translate " (Completed)"
+to german " (Komplett)";
+
+translate "Wheat"
+to german "Weizen";
+
+translate "Malt"
+to german "Malz";
+
+translate "Raw:"
+to german "Roh:";
+
+translate "Light:"
+to german "Leicht:";
+
+translate "Med:"
+to german "Medium";
+
+translate "Dark:"
+to german "Dunkel:";
+
+translate "Burnt:"
+to german "Verbrannt";
+
+translate "Grain (Abstract)"
+to german "Getreide (Allgemein)";
+
+translate "Wheat (Abstract)"
+to german "Weizen (Allgemein)";
+
+translate "Malt (Abstract)"
+to german "Malz (Allgemein)";
+
+translate "Wood"
+to german "Holz";
+
+translate "Allows one to brew beer of many flavors"
+to german "Erlaubt einem Biere in vielen verschiedenen Geschmacksrichtungen zu brauen";
+
+
+

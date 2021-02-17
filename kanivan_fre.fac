@@ -1,0 +1,161 @@
+module Kanivan_fre;
+
+
+translate "                                        The Rules of Kanivan Tak"
+to french "                                       Les règles du Kanivan Tak";
+translate "Each player takes turns moving their Taks."
+to french "Chaque joueur déplace ses Taks à leur tour";
+translate "Egg Taks can move in any direction within 120 degrees from straight forward."
+to french "Les Oeufs Taks peuvent se déplacer dans toutes les directions à 120° vers l'avant.";
+translate "Phoenix Taks can move in any direction."
+to french "Les Phoenix Taks peuvent se déplacer dans toutes les directions.";
+translate "A Tak can capture an opponent's tak by jumping over it."
+to french "Un Tak peut capturer son adversaire en sautant par dessus.";
+translate "   This can only be done if it would otherwise be a legal move for the Tak."
+to french "   Ceci ne sera possible que si cela représente un déplacement légal pour le Tak";
+translate "When a Player moves an Egg Tak to the other end of the board it hatches into a Phoenix Tak."
+to french "Lorsqu'un joueur pose un oeuf de Tak à l'autre bout du plateau, il éclôt en un Phoenix Tak";
+translate "Win the game by capturing all the opposing Player's Taks."
+to french "Gagnez le jeu en capturant tous les Taks de votre adversaire.";
+translate "If all the Taks in play are Phoenix Taks and no Taks have been captured for 4 moves then the game ends in a Stalemate."
+to french "Si tous les Taks du jeu sont des Phoenix Taks et qu'aucun Tak n'a été capturé en 4 mouvements, le jeu fini en match null.";
+
+
+translate KanivanDesk to french masculine
+{
+ns "Plateau du Kanivan Tak"; np "Plateaux du Kanivan Tak";
+}
+
+translate "Stalemate!"
+to french "Echec!";
+
+translate "Kanivan Tak Tournament"
+to french "Tournoi du Kanivan Tak";
+
+translate "Switch to Tournament Mode"
+to french "Passer en mode Tournoi";
+
+translate "Switch to Practice Mode"
+to french "Passer en mode Entrainement";
+
+translate "Match between U1 and U2"
+to french "Duel entre U1(name) et U2(name)";
+
+translate "U1 is waiting for an opponent."
+to french "U1(name) est en attente d'un adversaire.";
+
+translate "You must first sign up for the Test of Kanivan Tak at any Great University of Conflict."
+to french "Vous devez d'abord vous inscrire à l'épreuve du Kanivan Tak, à n'importe quelle prestigieuse Université de Conflit.";
+
+translate "You must first sign up at any Great University of Conflict."
+to french "Vous devez d'abord vous inscrire à n'importe quelle prestigieuse Université de Conflit.";
+
+translate "Reset Board"
+to french "Réinitialiser";
+
+translate "Jump"
+to french "Sauter";
+
+translate "Move"
+to french "Déplacer";
+
+translate "King"
+to french "Roi";
+
+translate "Attack by Jumping"
+to french "Attaquet en sautant";
+
+translate "Too far away."
+to french "Trop éloigné.";
+
+translate "You must move no more than N1 degrees away from straight."
+to french "Vous ne pouvez pas déplacer le Tak de plus de N1 degrés.";
+
+translate "That jump would put your Tak out of bounds"
+to french "Ce mouvement enverrait votre Tak en dehors du terrain de jeu.";
+
+translate "You can't make it over that Tak."
+to french "Vous ne pouvez pas atteindre ce Tak.";
+
+translate "The attacking Tak would land on another Tak."
+to french "Le Tak attaquant se retrouverait sur un autre Tak.";
+
+translate "Left"
+to french "Gauche";
+
+translate "Right"
+to french "Droite";
+
+translate "Start the Test of Kanivan Tak"
+to french "Lancer l'épreuve du Kanivan Tak";
+
+translate "Sanity Check"
+to french "Gesundheitsprüfung";
+
+translate "Insanity: "
+to french "Krankheit: ";
+
+translate "Your turn."
+to french "A vous de jouer.";
+
+translate "Your tak."
+to french "Votre Tak.";
+
+translate "Opponent is moving"
+to french "A votre adversaire.";
+
+translate "Opponent's Tak."
+to french "Tak de l'adversaire.";
+
+translate "Done Jump"
+to french "Terminer";
+
+translate "Complete your Jump"
+to french "Terminez votre attaque";
+
+translate "Extra-Attack!"
+to french "Attaque supplémentaire!!";
+
+translate "Attack!"
+to french "Attaquer!";
+
+translate "Click Opponent's"
+to french "Cliquez sur un Tak de votre adversaire";
+
+translate "JUMP:"
+to french "SAUTER:";
+
+translate "MOVE:"
+to french "DEPLACER:";
+
+translate "With no progress, game ends in: N1"
+to french "Avec aucun progrès, le jeu se terminera dans N1";
+
+translate "Game ends in N1"
+to french "La partie prendra fin dans N1";
+translate "Game ends in K1"
+to french "La partie prendra fin dans K1";
+
+translate "Describe the game of Kanivan Tak"
+to french "Décrire le jeu du Kanivan Tak";
+
+translate "U1 already knows about Kanivan Tak."
+to french "U1(name) sait déjà tout ce qu'il faut savoir sur le Kanivan Tak.";
+
+translate "U1 has described the game of Kanivan Tak to you."
+to french "U1(name) vous a expliqué le jeu du Kanivan Tak.";
+
+translate "You teach the game of Kanivan Tak to U1"
+to french "Vous expliquez le jeu du Kanivan Tak à U1(name)";
+
+translate "Waiting for Opponent"
+to french "En attente d'un adversaire";
+
+translate "Resign from this game"
+to french "Abandonner ce jeu";
+
+translate "No valid moves"
+to french "Aucun mouvement valide";
+
+translate "In Progress"
+to french "En cours";

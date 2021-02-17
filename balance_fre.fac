@@ -1,0 +1,132 @@
+module Balance_fre;
+
+translate OfferingVault to french feminine
+{
+ns "Chapelle à offrande"; np "Chapelles à offrande";
+}
+translate offeringvaultconstruction to french feminine
+{
+ns "Construction de Chapelle à offrande"; np "Construction de Chapelles à offrande";
+}
+
+translate honorvault to french feminine
+{
+ns "Chapelle consacrée"; np "Chapelles consacrées";
+}
+
+translate balance to french feminine
+{
+ns "L'épreuve des marchandises"; np "L'épreuve des marchandises";
+}
+
+
+translate "Offering Vault Construction"
+to french "Construction d'une chapelle à offrande";
+
+translate "Offering Vault"
+to french "Chapelle à offrande";
+
+
+translate "Build an Offering Vault"
+to french "Construisez une chappelle à offrande";
+
+translate "Place an item in the Vault"
+to french "Placez un objet dans la chapelle";
+
+translate "Place a second item in the Vault"
+to french "Placez un deuxième objet dans la chapelle";
+
+translate "Check your Vault's contents"
+to french "Vérifiez le contenu de votre chapelle";
+
+translate "Score at least one point"
+to french "Faites un score d'au moins 1 point";
+
+translate "Check Score Details"
+to french "Vérifiez le détail de vos scores";
+
+translate "Allows construction of Offering Vaults by those that are pursuing the Balance of Goods."
+to french "Permet la construction d'une chapelle à offrande à ceux qui se lance dans le test de la balance des marchandises";
+
+translate "Open the Vault (begin filling it)"
+to french "Ouvrir la chapelle à offrande (Commencer à la remplir)";
+
+translate "You have completed Principles of the Balance of Goods."
+  to french "Vous avez terminé le principe de la Balance des marchandises.";
+
+translate "Build an Offering Vault and fill it with those goods that few others have offered."
+  to french "Construisez une chapelle à offrande et remplissez là avec des offrandes que peu d'autres ont offert.";
+
+translate "Build an Offering Vault"
+  to french "COnstruction d'une chapelle à offrande";
+
+translate "Place an item in the Vault"
+  to french "Déposer un objet dans la chapelle";
+
+translate "Place a second item in the Vault"
+  to french "Déposer un deuxième objet dans la chapelle";
+
+translate "Check the Vault Contents"
+  to french "Vérifier le contenu de la chapelle";
+
+translate "Score at least one point"
+  to french "Faites au moins 1 point";
+
+translate "Check Score Detail"
+  to french "Vérifier le détail du score";
+
+translate "You start the Balance of Goods. Build an Offering Vault and fill it with rare goods. The fewer other people use the same goods, the higher your score. Each week, N1 advance."
+  to french "Vous avez commencé la Balance des Marchandises. Construisez une chapelle à offrande et remplissez la avec des marchandises rares. \nMoins de gens utilisent les mêmes marchandises, plus votre score sera important. Chaque semaine N1 avancent.";
+
+translate "You already have an Offering Vault at N1 N2."
+  to french "Vous avez déjà une chapelle à offrande en N1 N2.";
+
+translate "You already have an Offering Vault at K1."
+  to french "Vous avez déjà une chapelle à offrande en K1.";
+
+translate "To build an Offering Vault you need:"
+  to french "Pour construire une chapelle à offrande, vous avez besoin de:";
+
+translate "Add to Vault"
+  to french "Ajouter à la chapelle";
+
+translate "Your vault didn't contain any scoring offerings last week."
+to french "Votre chapelle ne contenait aucun objet avec un score la semaine dernière";
+
+translate "Your vault already contains N1 items."
+to french "Votre chapelle contient déjà N1 objets.";
+
+translate "You have already offered a O1."
+  to french "Vous avez déjà offert O1(ns).";
+
+translate "Really add a O1 to your vault?"
+  to french "Voulez-vous vraiment ajouter O1(ns) dans votre chapelle ?";
+
+translate "You place in the vault: O1."
+  to french "Vous avez déposé dans la chapelle: O1(ns)";
+
+translate "Vault contains:"
+  to french "La chapelle contient:";
+
+translate "Most Recent Score Detail:"
+  to french "Détails des scores les plus récents:";
+
+translate "Points shown above: "
+  to french "Points ci-dessous: ";
+
+translate "Points from previous weeks: N1"
+  to french "Points des semaines précédentes: N1";
+
+translate "Total Score: "
+  to french "Score total:";
+
+
+//--- This works, but how do I know in advance how many people will pass and how many people are runners-up ? ... 
+translate "Egypt recognizes U1 (N1), U2 (N2) and U3 (N3) for passing the Balance of Goods. Runners-up include  U4 (N4) and U5 (N5)."
+to french "L'égypte reconnait U1(name) (N1), U2(name) (N2) and U3(name) (N3) pour avoir passé l'épreuve de la balance des marchandises. En lice: U4(name) (N4) et U5(name) (N5)";
+
+
+
+translate "No winners in Balance of Goods."
+to french "Aucun passage dans l'épreuve de la balance des marchandises";
+

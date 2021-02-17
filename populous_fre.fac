@@ -1,0 +1,4 @@
+module populous_fre;
+
+translate "Rescue Me!"
+to french "Sauvez-moi !";

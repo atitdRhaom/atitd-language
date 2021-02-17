@@ -1,0 +1,303 @@
+module phoenix_fre;
+
+translate "N1 Canvas" 
+to french "N1 tissages";
+
+translate PhoenixStadium to french masculine
+{
+  ns "Parc à phoenix"; np "Parcs à phoenix";
+}
+
+translate PhoenixBeingBorn to french masculine
+{
+  ns "Phoenix naissant"; np "Phoenix naissants";
+}
+
+translate PhoenixGrowingOld to french masculine
+{
+  ns "Phoenix en croissance"; np "Phoenix en croissance";
+}
+
+translate PhoenixInHisPrime to french masculine
+{
+  ns "Phoenix à l'apogée"; np "Phoenix à l'apogée";
+}
+
+translate PhoenixOnTheHunt to french masculine
+{
+  ns "Phoenix en chasse"; np "Phoenix en chasse";
+}
+
+translate PhoenixTakingShelter to french masculine
+{
+  ns "Phoenix se protégeant"; np "Phoenix se protégeant";
+}
+
+translate PhoenixPartingWays to french masculine
+{
+  ns "Phoenix en déclin"; np "Phoenix en déclin";
+}
+
+translate PhoenixTwistingFate to french masculine
+{
+  ns "Phoenix agonisant"; np "Phoenix agonisants";
+}
+
+translate PhoenixBeingBornModel to french feminine 
+{
+  ns "Réplique de Phoenix naissant"; np "Répliques de Phoenix naissants";
+}
+translate PhoenixGrowingOldModel to french feminine 
+{
+  ns "Réplique de Phoenix en croissance"; np "Répliques de Phoenix en croissance";
+}
+translate PhoenixInHisPrimeModel to french feminine 
+{
+  ns "Réplique de Phoenix à l'apogée"; np "Répliques de Phoenix à l'apogée";
+}
+translate PhoenixOnTheHuntModel to french feminine 
+{
+  ns "Réplique de Phoenix en chasse"; np "Répliques de Phoenix en chasse";
+}
+translate PhoenixTakingShelterModel to french feminine 
+{
+  ns "Réplique de Phoenix se protégeant"; np "Répliques de Phoenix se protégeant";
+}
+translate PhoenixPartingWaysModel to french feminine 
+{
+  ns "Réplique de Phoenix en déclin"; np "Répliques de Phoenix en déclin";
+}
+translate PhoenixTwistingFateModel to french feminine 
+{
+  ns "Réplique de Phoenix agonisant"; np "Répliques de Phoenix agonisants";
+}
+
+translate totalscore to french masculine
+{
+  ns "Pointage total"; np "Pointage total";
+}
+
+
+
+translate Tomato to french feminine 
+{
+  ns "Peinture tomate"; np "Peintures tomate";
+}
+
+translate "To build a O1:"
+to french "Pour édifier O1(uns) O1(ns), il vous faut : ";
+
+translate "To build a O1, you need: "
+to french "Pour édifier O1(uns) O1(ns), il vous faut :";
+
+translate "One flax. That's not right! Call a Developer."
+to french "Un lin. Ceci n'est pas normal! Appelez un développeur.";
+
+translate "Welcome to U1"
+to french "Bienvenue au U1(name)";
+translate "Welcome to K1"
+to french "Bienvenue à K1";
+translate "Welcome to O1"
+to french "Bienvenue à O1(ns)";
+
+translate "Name this Park"
+to french "Nommez ce parc";
+
+translate "You may only build one Phoenix per Phoenix Hour."
+to french "Vous pouvez construire seulement un phoenix par heure des phoenix.";
+
+translate "You may not build Phoenix if you have waypoint traveled during the Hour of the Phoenix."
+to french "Vous ne pouvez construire de phoenix si vous vous êtes téléporté durant l'heure des phoenix";
+
+translate "Flax - this is for testing only!!!"
+to french "Du lin - pour fin de test seulement!!";
+
+translate "Build a Useful Phoenix for Someone Else"
+to french "Construisez un Phoenix utile à quelqu'un d'autre";
+
+translate "Have a Phoenix built for You"
+to french "Ayez un Phoenix construit pour vous";
+
+translate "Warning: You are not building close enough to the Stadium Headquarters to register."
+to french "Attention: Vous construisez trop loin du parc pour pouvoir valider votre phoenix.";
+
+translate "Test of Seven Phoenix"
+to french "Épreuve des Sept Phoenix";
+
+translate "Start the Test of the Seven Phoenix"
+to french "Commencer l'épreuve des Sept Phoenix";
+
+translate "The Test of Seven Phoenix will challenge your skills as a contractor, not a laborer. When the Hour of the Phoenix arrives, you'll be given a number of glorious Phoenix statues that you must ensure get built at specific Phoenix parks throughout Egypt. Complete all seven within a (game) hour for maximum score. If you waypoint travel during the Hour, you will be disqualified from that hour. No Egyptian may build more than a single statue in a given hour, and no Egyptian who has travelled during the hour may build.  A minimum score of 21 is required to have the possibility of advancement."
+
+to french "L'épreuve des sept phoenix testera vos capacités d'entrepreneur, et non de travailleur. Pendant l'heure du phoenix, vous devrez faire construire un nombre donné de statues de phoenix dans les différents parcs à phoenix situés en égypte. Construisez les sept statues en une heure (heure du jeu) pour obtenir le score maximum. Si vous utilisez la téléportation durant cette heure, vous serez disqualifié et votre statue ne comptera pas. Chaque joueur ne peut construire qu'une seule statue par heure du Phoenix, et quiconque s'est téléporté durant cette heure ne peut construire.  Un score minimum de 21 est requis pour avoir la possibilité d'un avancement.";
+
+translate "Reporting O1 at N1 owned by U1"
+to french "O1(^uns) O1(ns) a été construit en N1 appartenant à U1(name)";
+
+translate "Review Sites"
+to french "Passer les sites en revue.";
+
+translate "Construction goal for U1"
+to french "Nombre de statues requises pour U1(name): ";
+
+translate "    O1 at U1, Egypt N1 N2."
+to french "    O1(ns) à U1(name), en Egypte N1, N2";
+translate "    O1 at K1, Egypt N1 N2."
+to french "    O1(ns) à K1, en Egypte N1, N2";
+translate "    O1 at O2, Egypt N1 N2."
+to french "    O1(ns) à O2(ns)(name), en Egypte N1, N2";
+
+translate "O1 at U1: Already got credit for this park."
+to french "O1(ns) à U1(name) : Déjà crédité pour ce parc";
+translate "O1 at K1: Already got credit for this park."
+to french "O1(ns) à K1 : Déjà crédité pour ce parc";
+translate "O1 at O2: Already got credit for this park."
+to french "O1(ns) à O2(ns) : Déjà crédité pour ce parc";
+
+translate "O1 at U1: Credited."
+to french "O1(ns) à U1(name) : Crédité.";
+translate "O1 at K1: Credited."
+to french "O1(ns) à K1 : Crédité.";
+translate "O1 at O2: Credited."
+to french "O1(ns) à O2(ns) : Crédité.";
+
+translate "O1 at U1: Too far away, or built at the wrong Stadium."
+to french "O1(ns) à U1(name) : Trop éloigné, ou dans le mauvais stadium.";
+translate "O1 at K1: Too far away, or built at the wrong Stadium."
+to french "O1(ns) à K1 : Trop éloigné, ou dans le mauvais stadium.";
+translate "O1 at O2: Too far away, or built at the wrong Stadium."
+to french "O1(ns) à O2(ns) : Trop éloigné, ou dans le mauvais stadium.";
+
+translate "Locations to be Determined"
+to french "Localisation non encore définie";
+translate "Review Status"
+to french "Pointage";
+
+translate "You haven't done any Hours of the Phoenix yet."
+to french "Vous n'avez participé à aucune heure des phoenix.";
+
+translate "Score from last Hour: N1\nTotal Score: "
+to french "Points de la dernière heure: N1\nPointage total:";
+
+translate "The Hour of the Phoenix has begun."
+to french "L'heure des phoenix est commencée.";
+
+translate "The Hour of the Phoenix has ended."
+to french "L'heure des phoenix est terminée.";
+
+translate "Go Up In Flames"
+to french "S'emflamme";
+
+translate "Egypt recognizes the following for passing the Test of Seven Phoenix: "
+to french "L'égypte reconnaît les joueurs suivants pour la réussite de l'épreuve des sept phoenix: ";
+
+translate "Egypt recognizes the following for passing the Test of Seven Phoenix: U1(N1)"
+to french "L'égypte reconnaît les joueurs suivants pour la réussite de l'épreuve des sept phoenix: U1(name)(N1)";
+
+translate "Display the Schedule"
+to french "Montrer l'horaire";
+
+translate "Schedule for the next N1 Hours of the Phoenix:\n"
+to french "Horaire pour les N1 prochaines heures du phoenix:\n";
+
+translate "    Hour of the Phoenix is NOW, and ends in K1.\n"
+to french "    Nous sommes pendant l'heure du phoenix, qui se termine dans K1.\n";
+
+translate "    Hour of the Phoenix in K1 RT."
+to french "    Heure du phoenix dans K1 Temps réel.";
+
+translate "Review Building Requirements"
+to french "Voir les pré-requis";
+
+translate "Total Score: "
+to french "Pointage total: ";
+
+translate "Total Score: "
+to french "Pointage total: ";
+
+translate "Total Score"
+to french "Pointage total";
+
+translate "Copper Wire"
+to french "fils de cuivre";
+
+translate "Hard, Rigid Boards"
+to french "Planches dures, rigides";
+
+translate "Hard, Rigid, Fireproof Boards"
+to french "Planches rigides, ignifugée";
+
+translate "Gold Raeli Tiles"
+to french "Tuiles raeli or";
+
+translate "Grain Spirits of Fire"
+to french "Extraits de grain du Feu";
+
+translate "Soft, Pliable Boards"
+to french "Planches tendres, flexibles";
+
+translate "Tan Raeli Tiles"
+to french "Tuiles raeli brunâtres";
+
+translate "Wood Spirits of Fire"
+to french "Extraits de bois de feu";
+
+translate "Soft, Rotproof Boards"
+to french "Planches tendres, imputrescibles";
+
+translate "Soft, Rotproof, Fireproof Boards"
+to french "Planches tendres, imputrescibles, inifugées";
+
+translate "Rosy Brown Raeli Tiles"
+to french "Tuiles Raeli marron rosé";
+
+translate "Mineral Spirits of Fire"
+to french "Extraits de minéral de feu";
+
+translate "Pliable, Fireproof Boards"
+to french "Planches flexibles, ignifugées";
+
+translate "Slate Grey Raeli Tiles"
+to french "Tuiles Raeli gris ardoise";
+
+translate "Vegetable Spirits of Fire"
+to french "Extraits de végétal de feu";
+
+translate "Pewter Sheeting: Hard Corrosion Resistant"
+to french "Revêtement en étain : Dur, résistant à la corrosion";
+
+translate "Hard, Fireproof Boards"
+to french "Planches dures, ignifugées";
+
+translate "Wheat Raeli Tiles"
+to french "tuiles Raeli blé";
+
+translate "Fish Spirits of Fire"
+to french "Extraits de poisson de feu";
+
+translate "Soft, Nontoxic Boards"
+to french "Planches tendres, non toxiques";
+
+translate "Ghost White Raeli Tiles"
+to french "Tuiles Raeli blanc spectral";
+
+translate "Worm Spirits of Fire"
+to french "Extraits de ver de feu";
+
+translate "Hard, Volatile Boards"
+to french "Planches dures, légères";
+
+translate "Dark Green Raeli Tiles"
+to french "Tuiles Raeli vert foncé";
+
+translate "Grass Spirits of Fire"
+to french "Extrait d'herbe de feu";
+
+translate "Soft, Pliable, White Boards"
+to french "Planches flexibles, blanches";
+
+translate "Soft, Rotproof Boards"
+to french "Planches tendres, imputrescibles";
+
+translate "Pliable, Fireproof Boards"
+to french "Planches flexibles, ignifugées";

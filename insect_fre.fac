@@ -1,0 +1,314 @@
+module insect_fre;
+
+translate InWater to french masculine //Water Dwelling
+{
+	ns "aquatique"; np "aquatiques";
+}
+translate Needleworm to french masculine
+{
+	ns "Ver aiguille"; np "Vers aiguille";
+}
+translate Nippleworm to french masculine
+{
+	ns "Ver téton"; np "Vers téton";
+}
+translate Bloodworm to french masculine
+{
+	ns "Annélide"; np "Annélides";
+}
+translate Footworm to french masculine
+{
+	ns "Ver à pieds"; np "Vers à pieds";
+}
+translate Bristleworm to french feminine
+{
+	ns "Polychète"; np "Polychètes";
+}
+translate GlassWorm to french masculine
+{
+	ns "Chaoborus"; np "Chaoborus";
+}
+translate OysterMite to french masculine
+{
+	ns "Acarien huître"; np "Acariens huître";
+}
+translate InEarth to french masculine //Ground Dwelling
+{
+	ns "terrestre"; np "terrestres";
+}
+translate PickleSlug to french feminine
+{
+	ns "Limace vinaigrée"; np "Limaces vinaigrées";
+}
+translate BlisterBeetle to french feminine
+{
+	ns "Cantharide"; np "Cantharides";
+}
+translate WhiteMealybug to french feminine
+{
+	ns "Cochenille blanche"; np "Cochenilles blanches";
+}
+translate QueenMaggot to french masculine
+{
+	ns "Asticot reine"; np "Asticots reine";
+}
+translate MudAsp to french masculine
+{
+	ns "Aspic de boue"; np "Aspics de boue";
+}
+translate ClaySlug to french feminine
+{
+	ns "Limace d'argile"; np "Limaces d'argile";
+}
+translate CorkscrewAsp to french masculine
+{
+	ns "Aspic tire-bouchon"; np "Aspics tire-bouchon";
+}
+translate InCrop to french masculine //Crop Dwelling
+{
+	ns "de récoltes"; np "de récoltes";
+}
+translate CornMaggot to french masculine
+{
+	ns "Asticot du maïs"; np "Asticots du maïs";
+}
+translate LeafSnapper to french masculine
+{
+	ns "Claqueur de feuilles"; np "Claqueurs de feuilles";
+}
+translate RaspberryMoth to french feminine
+{
+	ns "Mite des framboises"; np "Mites des framboises";
+}
+translate RoseSwallowtail to french masculine
+{
+	ns "Machaon des roses"; np "Machaons des roses";
+}
+translate DewFly to french feminine
+{
+	ns "Mouche de rosée"; np "Mouches de rosée";
+}
+translate Leafhopper to french feminine
+{
+	ns "Sauterelle"; np "Sauterelles";
+}
+translate Spittlebug to french masculine
+{
+	ns "Cercope"; np "Cercopes";
+}
+translate RubyHornborer to french masculine
+{
+	ns "Foreur à corne rubis"; np "Foreurs à corne rubis";
+}
+translate FruitMaggot to french masculine
+{
+	ns "Asticot des fruits"; np "Asticots des fruits";
+}
+translate SnowberryButterfly to french masculine
+{
+	ns "Papillon de symphorine"; np "Papillons de symphorine";
+}
+translate Clearwing to french masculine
+{
+	ns "Papillon à ailes translucides"; np "Papillons à ailes translucides";
+}
+translate OrchidHopper to french feminine
+{
+	ns "Sauterelle des orchidées"; np "Sauterelles des orchidées";
+}
+translate Nightwing to french feminine
+{
+	ns "Ailes-de-nuit"; np "Ailes-de-nuit";
+}
+translate Woodmoth to french feminine
+{
+	ns "Mite de bois"; np "Mites de bois";
+}
+translate InTree to french masculine //Tree Dwelling
+{
+	ns "arboricole"; np "arboricoles";
+}
+translate RedCricket to french masculine
+{
+	ns "Grillon rouge"; np "Grillons rouges";
+}
+translate RingedWasp to french feminine
+{
+	ns "Guêpe annelée"; np "Guêpes annelées";
+}
+translate GoldenAsp to french masculine
+{
+	ns "Aspic doré"; np "Aspics dorés";
+}
+translate AshCentipede to french masculine
+{
+	ns "Mille-pattes des frênes"; np "Mille-pattes des frênes";
+}
+translate HornedHookworm to french masculine
+{
+	ns "Ankylostome cornu"; np "Ankylostomes cornus";
+}
+translate WoollyAphid to french masculine
+{
+	ns "Puceron laineux"; np "Pucerons laineux";
+}
+translate DesertMillipede to french masculine
+{
+	ns "Mille-pattes du désert"; np "Mille-pattes du désert";
+}
+translate InHerb to french masculine //Herb Dwelling
+{
+	ns "des herbes"; np "des herbes";
+}
+translate HoneyFly to french feminine
+{
+	ns "Mouche à miel"; np "Mouches à miel";
+}
+translate SaltMite to french masculine
+{
+	ns "Acarien du sel"; np "Acariens du sel";
+}
+translate CamelWeevel to french masculine
+{
+	ns "Charançon du chameau"; np "Charançons du chameau";
+}
+translate SandMite to french masculine
+{
+	ns "Acarien des sables"; np "Acariens des sables";
+}
+translate FeatherMidge to french masculine
+{
+	ns "Aoûtat plume"; np "Aoûtats plume";
+}
+translate GrassSlug to french feminine
+{
+	ns "Limace d'herbe"; np "Limaces d'herbe";
+}
+translate SlimeMoth to french feminine
+{
+	ns "Mite de mucus"; np "Mites de mucus";
+}
+translate InAnimal to french masculine //Livestock Dwelling
+{
+	ns "parasite"; np "parasites";
+}
+translate Skinlicker to french masculine
+{
+	ns "Lécheur de peau"; np "Lécheurs de peau";
+}
+translate StoneFly to french feminine
+{
+	ns "Mouche de pierre"; np "Mouches de pierre";
+}
+translate ToadSawfly to french feminine
+{
+	ns "Symphyte crapaud"; np "Symphytes crapaud";
+}
+translate HairySlug to french feminine
+{
+	ns "Limace velue"; np "Limaces velues";
+}
+translate BatMite to french masculine
+{
+	ns "Acarien chauve-souris"; np "Acariens chauve-souris";
+}
+translate RoseMite to french masculine
+{
+	ns "Acarien des roses"; np "Acariens des roses";
+}
+translate WhiteSawfly to french feminine
+{
+	ns "Symphyte blanche"; np "Symphytes blanches";
+}
+translate FlyTying to french feminine
+{
+	ns "Confection d'appât"; np "Confection d'appâts";
+}
+translate FishingLure to french masculine
+{
+	ns "appât de pêche"; np "appât de pêche";
+}
+translate Arthropodology to french feminine
+{
+	ns "Arthropodologie"; np "Arthropodologie";
+}
+translate Insect to french masculine
+{
+	ns "Insecte"; np "Insectes";
+}
+
+translate "You are currently using a O1 (Hardened) lure" 
+to french " Vous utilisez actuellement un appât O1(ns) durci";
+translate "You are currently using a O1 (Fresh) lure"
+to french "Vous utilisez actuellement un appât O1(ns) (Frais)";
+translate "You are currently using a O1 (Glazed) lure"
+to french "Vous utilisez actuellement un appât O1(ns) (Glacé)";
+translate "You are currently using a O1 (Preserved) lure"
+to french "Vous utilisez actuellement un appât O1(ns) (Conservé)";
+translate "You are currently using a O1 (Mummified) lure"
+to french "Vous utilisez actuellement un appât O1(ns) (Embaumé)";
+translate "You are currently using a O1 (Petrified) lure"
+to french "Vous utilisez actuellement un appât O1(ns) (Pétrifié)";
+translate "You are currently using a O1 (Glassified) lure"
+to french "Vous utilisez actuellement un appât O1(ns) (Vitrifié)";
+
+translate "Stash All O1"
+to french "Entreposer O1(tnp) O1(np)";
+
+translate "Insect"
+to french "Insecte";
+
+translate "Inspect Current Lure"
+to french "Examiner l'appât courant";
+
+translate "You find a clutch of N1 O1."
+to french "Vous avez découvert N1 O1(N1?np:ns)";
+
+translate "Found all N1 O1 insects."
+to french "Vous avez trouvé les N1 insectes O1(N1?np:ns).";
+
+translate "Found all N1 insects in Egypt."
+to french "Vous avez trouvé les N1 insectes qu'il y a en Egypte.";
+
+
+//Types d'appâts :
+translate "Fresh"
+to french "Frais";
+translate "Glazed"
+to french "Glacé";
+translate "Preserved"
+to french "Conservé";
+translate "Hardened"
+to french "Durci";
+translate "Mummified"
+to french "Embaumé";
+translate "Petrified"
+to french "Pétrifié";
+translate "Glassified"
+to french "Vitrifié";
+
+translate "O1 (Fresh)"
+to french "O1(ns) (Frais)";
+translate "O1 (Glazed)"
+to french "O1(ns) (Glacé)";
+translate "O1 (Preserved)"
+to french "O1(ns) (Conservé)";
+translate "O1 (Hardened)"
+to french "O1(ns) (Durci)";
+translate "O1 (Mummified)"
+to french "O1(ns) (Embaumé)";
+translate "O1 (Petrified)"
+to french "O1(ns) (Pétrifié)";
+translate "O1 (Glassified)"
+to french "O1(ns) (Vitrifié)";
+
+translate "To make a K1 O1 Lure you need:"
+to french "Pour fabriquer un appât K1 O1(ns), il vous faut :";
+translate "To make a Fresh O1 Lure you need:"
+to french "Pour fabriquer un appât O1(ns) Frais, il vous faut :";
+
+translate "Use Lure"
+to french "Utiliser un appât";
+
+translate "Using a O1 lure."
+to french "Vous utilisez un appât O1(ns)";

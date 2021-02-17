@@ -1,0 +1,320 @@
+module aqueduct_fre;
+
+translate Life to french feminine
+{
+  ns "L'épreuve de la Vie"; np "L'épreuve de la Vie";
+}
+
+translate AqueductConstructionSite to french masculine
+{
+  ns "Site de construction d'aqueduc"; np "Sites de construction d'aqueduc";
+}
+
+translate AqueductPumpConstructionSite to french masculine
+{
+  ns "Site de construction de station de pompage"; np "Sites de construction de station de pompage";
+}
+
+translate AqueductPumpingStation to french feminine
+{
+  ns "Station de pompage"; np "Station de pompage";
+}
+
+translate AqueductWet to french masculine
+{
+  ns "Aqueduc (contenant de l'eau)"; np "Aqueducs (contenant de l'eau)";
+}
+
+translate AqueductDry to french masculine
+{
+  ns "Aqueduc (à sec)"; np "Aqueducs (à sec)";
+}
+
+translate AqueductPump to french feminine
+{
+  ns "Station de pompage"; np "Station de pompage";
+}
+
+translate Barometer to french masculine
+{
+  ns "Baromètre"; np "Baromètres";
+}
+
+translate Cistern to french feminine
+{
+  ns "Réservoir"; np "Réservoirs";
+}
+
+translate WaterTower to french feminine
+{
+  ns "Chateau d'eau"; np "Chateaux d'eau";
+}
+
+translate "White Raeli Tiles"
+to french "Tuiles Raeli blanches";
+
+translate "Greenish Raeli Tiles"
+to french "Tuiles Raeli verdâtres";
+
+translate "Yellowish Raeli Tiles"
+to french "Tuiles Raeli jaunâtres";
+
+translate "Pinkish Raeli Tiles"
+to french "Tuiles Raeli rosâtres";
+
+translate "Black Raeli Tiles"
+to french "Tuiles Raeli noires";
+
+translate "Reddish Raeli Tiles"
+to french "Tuiles Raeli rougeâtres";
+
+translate "Bluish Raeli Tiles"
+to french "Tuiles Raeli bleuâtres";
+
+translate "Rotproof, Rigid, Nontoxic Boards"
+to french "Planches traitées: Rigide, Non toxique, Imputrescibles";
+
+translate "Build an Aqueduct that provides life-giving water to the arid desert. Vegetable growth assistance is tallied weekly."
+to french "Edifiez un Aqueduc emmenant l'eau, source de vie, dans le désert aride. Chaque semaine, la quantité de légumes cultivés grâce aux aqueducs est calculée.";
+
+translate "Build an Aqueduct Tower"
+to french "Construire une Tour d'Aqueduc";
+translate "Raise the height of any Aqueduct Tower"
+to french "Elever n'importe quel Aqueduc";
+translate "Pump an Aqueduct"
+to french "Pomper pour un Aqueduc";
+translate "Use an Aqueduct to fill Jugs"
+to french "Remplir des cruches grâce à un Aqueduc";
+translate "Use an Aqueduct to grow Vegetables"
+to french "Cultiver des légumes grâce à un Aqueduc";
+translate "Assist in growing 1000 Vegetables (Updated Weekly)"
+to french "Aider à la culture de 1000 légumes (mis à jour chaque semaine)";
+
+translate "You have completed the Prinicples of Life."
+to french "Vous avez terminé les Principes de la Vie.";
+
+translate "Start the Test of Life"
+to french "Commencer l'Épreuve de la Vie";
+
+translate "Check the most recent advances."
+to french "Vérifier les derniers résultats.";
+
+translate "Barometer"
+to french "Baromètre";
+
+translate "Special Projects"
+to french "Projets spéciaux";
+
+translate "Aqueduct Construction Site"
+to french "Site de construction d'aqueduc";
+
+translate "Last Aqueduct: K1"
+to french "Derniers Aqueducs: K1";
+
+translate "Inconsistant Aqueduct: K1 at "
+to french "Aqueduc Incohérent: K1 à ";
+
+translate "inconsistant"
+to french "Incohérent";
+
+translate "Aqueduct"
+to french "Aqueduc";
+
+translate "Would be in water"
+to french "Serait immergé";
+
+translate "Create a system of aqueducts, starting with a pumping station in deep water. Areas around some aqueduct towers will be hospitable to growing certain vegetables. Accumulate points based on which towers are most used for such agriculture, and which towers supply those with water."
+to french "Créez un système d'aqueducs, en commençant par une station de pompage en eaux profondes. Les zones près d'une tour d'aqueduc seront propices à la pousse de certains légumes. Votre score est basé sur l'utilisation de votre tour, et sur le score des tours qui alimentent la votre.";
+
+translate "You must place an Aqueduct Construction Site within 8 feet of where a water tower will go. The locator tool is now active. It will vanish in 2 minutes."
+to french "Vous devez ériger un site de construction d'aqueduc à, au maximum, 8 pieds de l'endroit où la tour sera construite. L'outil de localisation est maintenant avtivé. Il disparaîtra dans 2 minutes.";
+
+translate "To start construction on an Aqueduct Pumping Station you need:"
+to french "Pour lancer la construire d'une station de pompage, vous avez besoin de:";
+
+translate "To build an Aqueduct Pumping Station you need:"
+to french "Pour construire une station de pompage, vous avez besoin de:";
+
+translate "To start construction on an Aqueduct Water Tower you need:"
+to french "Pour construire une tour d'Aqueduc, vous avez besoin de:";
+
+translate "There is already a O1 here."
+to french "Il existe déjà O1(uns) O1(ns) ici.";
+
+translate "Overlaping aqueduct, or other problem. If you think this is an error, do a DevCall: "
+to french "Aqueducs empiétant sur une autre construction, ou autre problème. Si vous croyez que c'est une erruer, appelez un développeur.";
+
+translate "Aqueduct Panels not initialized."
+to french "Panneaux d'aqueduc non-initialisés.";
+
+translate "Aqueduct Pumping Station"
+to french "Station de pompage";
+
+translate "pump"
+to french "Pomper";
+
+translate "Water Tower"
+to french "Chateau d'eau";
+
+translate "East"
+to french "Est";
+
+translate "Northeast"
+to french "Nord-Est";
+
+translate "Northwest"
+to french "Nord-Ouest";
+
+translate "West"
+to french "Ouest";
+
+translate "Southwest"
+to french "Sud-Ouest";
+
+translate "Southeast"
+to french "Sud-Est";
+
+translate "Aqueduct, Link to the "
+to french "Aqueduc, relier à ";
+
+translate "Aqueduct, Link to the O1 on N1 N2 N3 N4"
+to french "Aqueduc, relier au O1(ns) situé à N1 N2 N3 N4";
+
+translate "Why can't I build a water tower here?"
+to french "Pourquoi ne puis-je pas construire une tour d'eau ici?";
+
+translate "Although the construction site is positioned correctly, there are no adjoining aqueducts to hook into."
+to french "Même si le site de construction est bien installé, il n'y a pas d'aqueducs à proximité pour s'y relier.";
+
+translate "To build here, the aqueduct feeding this must be N1 feet higher."
+to french "Pour construire ici, l'aqueduc auquel cette construction sera reliée doit etre plus élevée de N1 pieds.";
+
+translate "To build an Aqueduct you need:"
+to french "Pour construire un aqueduc, vous avez besoin de:";
+
+translate "Raise the Aqueduct"
+to french "Élever l'Aqueduc";
+
+translate "There is no source feeding this aqueduct."
+to french "Aucune source n'alimente cet aqueduc.";
+
+translate "You must first increase the height of the Aqueduct that feeds this one. Height of this is N1, Delta is N2, Max Height is N3, Height of feed is "
+to french "Vous devez d'abord augmenter la hauteur de l'aqueduc qui alimente celui-ci. Hauteur: N1, delta: N2, hauteur maximum: N3, Hauteur de l'alimentation:";
+
+translate "You must first increase the height of the Aqueduct that feeds this one."
+to french "Vous devez d'abord augmenter la hauteur de l'aqueduc qui alimente celui-ci.";
+
+translate "To add N1 feet to this Aqueduct requires:"
+to french "Ajouter N1 pieds à cet aqueduc nécessite:";
+
+translate "Raise the Aqueduct's Pumping Station"
+to french "Élever la station de pompage";
+
+translate "There is no pump feeding this aqueduct."
+to french "Aucune pompe n'alimente cet aqueduc";
+
+translate "Raise by how much? (max N1)"
+to french "Augmenter de combien? (max N1)";
+
+translate "Upgrade"
+to french "Améliorer";
+
+translate "Abandon Upgrade"
+to french "abandonner les modifications";
+
+translate "Upgrade Abandoned."
+to french "Modifications abandonnées";
+
+translate "Complete Upgrade of Aqueduct: "
+to french "Terminez l'amélioration de l'Aqueduc: ";
+
+translate "Upgrade the Cistern"
+to french "Améliorer le réservoir";
+
+translate "Checking..."
+to french "Vérification ...";
+
+translate "To upgrade the Cistern you need:"
+to french "Pour modifier le réservoir, vous avez besoin de:";
+
+translate "Pump the Aqueduct"
+to french "Pomper";
+
+translate "You are too much of a weakling to even move the pump. Water level remains at "
+to french "Vous êtes trop fatigué pour pomper l'aqueduc. Le niveau d'eau est resté à ";
+
+translate "The pumping station's fill level is N1."
+to french "Le niveau de remplissage de la station de pompage est de N1.";
+
+translate "Fill all jugs with water"
+to french "Remplir toutes les cruches d'eau";
+
+translate "Water level is now N1."
+to french "Le niveau d'eau est maintenant de N1.";
+
+translate "Height: N1, Fill Level: N2"
+to french "Hauteur: N1, Niveau: N2";
+
+translate "To raise the Pumping Station to size N1 requires:"
+to french "Elever la station de pompage à la valeur N1 requiert:";
+
+translate "[Extra1]Veggies Grown Here: N1, Including downstream: N2, Pushed: N3"
+to french "[Extra1]Légumes cultivés ici: N1, Incluant en aval: N2, Pushed: N3";
+
+translate "[Extra2]You can grow ANY herb here."
+to french "[Extra2]Vous ne pouvez cultiver aucune herbe ici.";
+
+translate "[Extra3]Cursed for N1 more seconds"
+to french "[Extra3]Infertile pour N1 secondes";
+
+translate "[Extra4]Height: N1, Fill Level: N2"
+to french "[Extra4]Élévation: N1, Niveau de remplissage: N2";
+
+translate "Never Click This. Make Pluribus Remove it. #1"
+to french "Ne jamais cliquer sur ceci. Demandez à TPluribus de l'enlever. #1";
+
+translate "Never Click This. Make Pluribus Remove it. #2"
+to french "Ne jamais cliquer sur ceci. Demandez à TPluribus de l'enlever. #2";
+
+translate "Never Click This. Make Pluribus Remove it. #3"
+to french "Ne jamais cliquer sur ceci. Demandez à TPluribus de l'enlever. #3";
+
+translate "Barometer"
+to french "Baromètre";
+
+translate "To make a Barometer, you need a glass pipe, water, lead, and three Barometric Spheres. Though the quality of spheres is important, it is more important that their qualities be about equally matched."
+to french "Pour faire un baromètre, vous avez besoin d'un tube de verre, d'eau, de plomb, et trois sphères barométriques. Même si la qualité de ces sphères est importante, il est encore plus important que ces sphères soient de qualité équivalente.";
+
+translate "Select the K1 Barometric Sphere"
+to french "Choisir la sphère barométrique K1";
+
+translate "You must select a Barometric Sphere."
+to french "Vous devez choisir une sphere barométrique.";
+
+translate "You already selected that one."
+to french "Vous avez déjà choisi celle-ci.";
+
+translate "Measure Altitude"
+to french "Mesurer l'altitude";
+
+translate "Elevation reads N1 feet, N2 inches. Higher quality barometers allow greater accuracy."
+to french "Elevation: N1 pieds , N2 pouces. Des baromètres de meilleure qualité donnent des mesures plus précises.";
+
+translate "Test of Life"
+to french "L'épreuve de la Vie";
+
+translate "Most recently, your best tower at N1 N2 helped grow N3 crops of vegetables."
+to french "Récemment, votre meilleure tour située en N1 N2 a contribué à N3 récoltes de légumes.";
+
+translate "Most recently, your best tower helped grow N1 crops of vegetables."
+to french "Récemment, votre meilleure tour a contribué à N1 récoltes de légumes.";
+
+translate "Check Integrity of this O1"
+to french "Vérifier l'intégrité de O1(cns) O1(ns)";
+
+translate "The pumping station's fill level is N1/N2."
+to french "Le niveau d'eau dans la station de pompage est de N1/N2.";
+
+translate "Egypt recognizes K1 for bringing life-giving water to our land, and passing the Test of Life."
+to french "L'égypte reconnaît K1 pour avoir alimenté nos terres en eau, source de vie, et avoir ainsi réussi l'Épreuve de la Vie.";
+

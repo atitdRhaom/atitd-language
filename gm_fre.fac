@@ -1,0 +1,285 @@
+module gm_fre;
+
+translate "Work as a Game Master"
+to french "Travailler en animateur";
+
+translate "Take a break from Game Master"
+to french "Quitter le mode animateur";
+
+translate "Developer Call"
+to french "Appeler un développeur";
+
+translate "Call a Game Master"
+to french "Appeler un animateur";
+
+translate "Normal GM"
+to french "Animateur normal";
+
+translate "Normal GM Call"
+to french "Appeler un animateur normal";
+
+translate "Developer"
+to french "Développeur";
+
+translate "World Builder Call"
+to french "Appeler un modélisateur";
+
+translate "Chatting with U1"
+to french "En discussion avec U1(name)";
+
+translate "Complain about a previous call"
+to french "Se plaindre à propos d'un appel précédent";
+
+translate "You are about to enter a complaint about about how a previous call was handled.  Do not use this to report bugs, terrain issues, billing issues.  Please use the correct queues for that.  PLEASE INCLUDE FULL DETAILS IN THE NEXT PROMPT.  LACK OF DETAILS WILL CAUSE THE CALL TO BE IGNORED.  Proceed with Help Request?"
+to french "Vous êtes sur le point de vous plaindre à propos de la façon dont un appel précédent a été traité. N'utilisez pas ceci pour remonter des bugs, des problèmes de terrain, ou des problèmes de facturation. Merci d'utiliser la bonne option pour ça. INCLURE TOUS LES DETAILS LORSQUE DEMANDE. UN MANQUE DE DETAIL ABOUTIRA A L ANNULATION DE CETTE PLAINTE. Voulez-vous continuer ?";
+
+translate "Welcome to today's event. I'd like to chat with players who are pursuing paths that have no known direct in-game reward. Does this describe you?"
+to french "Bienvenue à l'animation d'aujourd'hui. J'aimerais discuter avec les personnes qui poursuivent des objectifs n'entraînant pas de récompense directe en jeu. Est-ce que ceci s'applique à vous ?";
+
+translate "You are about to call for Pluribus, who is trying to finish coding beer. Unless this is something very critical like a billing problem or an exploit, please call a normal GM. Proceed with Developer Call?"
+to french "Vous êtes sur le point de contacter Pluribus, qui est en train de finaliser le système de fabrication de la bière. Si votre problème n'est pas critique, par exemple un problème de paiement, veuillez contacter un animateur. Voulez-vous vraiment contacter un développeur ?";
+
+translate "You are about to call for a Game Master. We tend to be pretty busy, so only call if you're actually having a bug or a problem figuring out the game. Proceed with Help Request?"
+to french "Vous êtes sur le point d'appeler un animateur. Nous sommes habituellement très occupés, veuillez ne nous contacter que si vous avez un bug réel ou un problème de compréhension du jeu. Voulez-vous continuer ?";
+translate "Cancel GM Request"
+to french "Annuler votre demande";
+
+translate "You are about to call for a World Builder.  We are generally busy building the world you see around you.  Don't call us if you can't reach an item in the world.  Please call us if you across a terrain related oddity though.  Proceed with Help Request?"
+to french "Vous êtes sur le point d'appeler un modélisateur. Nous sommes habituellement très occupés à construire le monde qui vous entoure. Veuillez ne nous contacter que si ne pouvez vraiment pas trouver un item dans le monde. Appelez-nous si vous rencontrez une anomalie de terrain. Voulez-vous continuer ?";
+
+translate "Cancel previous Game Master call"
+to french "Annuler l'appel précédent";
+
+translate "Tell a developer to initialize the GM Panel"
+to french "Demander à un développeur d'initialiser la fenêtre GM";
+
+translate "Game Master"
+to french "Animateur";
+
+translate "Respond #N1 from U1"
+to french "Réponse #N1 de U1(name)";
+
+translate "Responding to U1"
+to french "En train de répondre à U1(name)";
+
+translate "Traveling to U1"
+to french "En déplacement vers U1(name)";
+
+translate "U1 is logged out now. GM request cleared."
+to french "U1(name) s'est déconnecté. Requête GM annulée.";
+
+translate "Player is on the nowhere plane. Try this ticket again in a minute or so."
+to french "Le joueur n'est nulle part. Essayez de traiter ce ticket dans une minute environ.";
+
+translate "GM Queue: N1 people ahead of you."
+to french "File d'attente : N1 personnes devant vous.";
+
+translate "There are only 2 developers on ATITD, and so there's not a lot of time to go around. Unless this is something very critical like an exploit or a bug effect most of the game, please call a normal GM first. Proceed with Developer Call?"
+to french "Il n'y a que 2 développeurs sur ATITD, et ils sont très occupés. À moins d'une situation critique tel un exploit ou un bogue qui affectela majeure partie du jeu, faites appel à un animateur en premier lieu. Continuer ?"; 
+
+translate "You are about to call for a GM or a developer. We tend to be pretty busy, so only call if you're actually having a bug or a problem figuring out the game. Proceed with Help Request?"
+to french "Vous êtes sur le point d'appeler un animateur. Nous sommes habituellement très occupés, veuillez ne nous contacter que si vous avez un bug réel ou un problème de compréhension du jeu. Voulez-vous continuer ?";
+
+translate "Please note that the game is currently Free to Play and NO regular billing operations are being done. Proceed with Billing Call?"
+to french "Merci de noter que le jeu est actuellement gratuit et qu'aucune opération de facturation n'est faite. Voulez-vous tout de même faire un appel Facturation ?";
+
+
+translate "Game Master U1 has arrived."
+to french "L'animateur U1(name) vient d'arriver.";
+
+translate "Tell Pharaoh to initialize the GM Panel"
+to french "Demander à Pharaoh d'initialiser la fenêtre GM";
+
+translate "Game Master U1 wants to chat with you. Click the chat tab."
+to french "L'animateur U1(name) veut vous parlez. Cliquez sur l'onglet de discussion.";
+
+translate "Game Master"
+to french "Animateur";
+translate "Change ownership of the snag-list"
+to french "Modifier la propriété de la snag-list";
+translate "Allow reposition"
+to french "Permettre le repositionnement";
+translate "Remove this from the Snag List"
+to french "Retirer cet objet de la snag-list";
+
+translate "Change buildings owner to player U1?"
+to french "Transférer la propriété de la construction au joueur U1(name)?";
+
+translate "Changing ownership of N1 buildings to:"
+to french "Transférer la propriété de N1 constructions à :";
+
+translate "U1 is both a player and a guild. GMs can't do this yet."
+to french "U1(name) est à la fois un joueur et une guilde. Les animateurs ne peuvent pas encore faire cela.";
+
+translate "U1 is neither a player nor a guild."
+to french "U1(name) n'est ni un joueur ni une guilde.";
+
+translate "Change buildings owner to guild U1?"
+to french "Transférer la propriété de la construction à la guilde U1(name)?";
+
+translate "Cancel Game Master Request"
+to french "Annuler la demande GM";
+
+translate "Invite U1 to log in as me"
+to french "Inviter U1(name) à se brancher sur mon avatar";
+
+translate "Are you sure you want to allow U1 to log in as you?"
+to french "Êtes-vous certain de vouloir permettre à U1(name) de se brancher sur votre avatar?";
+
+translate "U1 is inviting you to log in as U2. Log in now?"
+to french "U1(name) vous invite à vous brancher sur U2(name). Accepter ?";
+
+translate "Disconnect this player"
+to french "Déconnecter ce joueur";
+
+translate "Really disconnect "
+to french "Déconnecter réellement?";
+
+translate "Disconnected "
+to french "Déconnecté ";
+
+translate "Disconnected by U1"
+to french "Déconnecté par U1(name)";
+
+translate "Force this client to quit"
+to french "Forcer ce client à quitter";
+
+translate "Client exit forced on U1"
+to french "Sortie forcée du client pour U1(name)";
+
+translate "Client exit forced by U1"
+to french "Sortie forcée du client par U1(name)";
+
+translate "Print GM Log"
+to french "Imprimer les logs GM";
+
+translate "Could not find player"
+to french "Joueur introuvable";
+
+translate "Total GM Notes: "
+to french "Total de notes GM: ";
+
+translate "Notes for U1"
+to french "Notes pour U1(name)";
+
+translate "Sorry, but you are not developer flagged and cannot respond to developer calls."
+to french "Désolé, vous n'avez pas les droits de développeur et ne pouvez répondre.";
+
+translate "Sorry, but you are not flagged for GM Warp."
+to french "Désolé, vous n'avez pas les droits pour utiliser la téléportation GM.";
+
+translate "Game Master U1 has arrived."
+to french "L'animateur U1(name) est arrivé.";
+
+translate "Developer U1 has arrived."
+to french "Le développeur U1(name) est arrivé.";
+
+translate "eGenesis U1 has arrived."
+to french "U1(name)de eGenesis est arrivé.";
+
+translate "Game Master U1 wants to chat with you. Click the chat tab."
+to french "L'animateur U1(name) désire vous parler. Ouvrez la fenêtre de discussion.";
+
+translate "Developer U1 wants to chat with you. Click the chat tab."
+to french "Le développeur U1(name) désire vous parler. Ouvrez la fenêtre de discussion.";
+
+translate "eGenesis U1 wants to chat with you. Click the chat tab."
+to french "U1(name) de eGenesis désire vous parler. Ouvrez la fenêtre de discussion.";
+
+translate "U1 is not an active username."
+to french "U1(name) introuvable.";
+
+translate "No such guild or player."
+to french "Aucun joueur ou guilde ne correspond à ce nom.";
+
+translate "U1 is both a player and guild name:"
+to french "U1(name) est à la fois un nom de joueur et de guilde:";
+
+translate "Show the player"
+to french "Montrer le joueur";
+
+translate "Show the guild"
+to french "Montrer la guilde";
+
+translate "Cancel"
+to french "Abbrechen";
+
+translate "That guild's information is secret!"
+to french "Diese Gildeninformation ist geheim!";
+
+translate "Guild U1(name) at N1 is: U2"
+to french "Gilde U1(name) bei N1 ist: U2(name)";
+
+translate " (expired or closed account) "
+to french " (compte expiré ou fermé) ";
+
+translate "trial account"
+to french "compte d'essai";
+
+translate "K1 (Buildings have been removed)"
+to french "K1 (Les bâtiments ont été retirés)";
+
+translate "U1 K1 N1 is connected"
+to french "U1(name) K1 N1 est connecté";
+
+translate "U1 K1 N1 is disconnected"
+to french "U1(name) K1 N1 n'est pas connecté";
+
+translate "Gender: "
+to french "Sexe: ";
+
+translate "Language: "
+to french "Langue: ";
+
+translate "Location: "
+to french "Emplacement: ";
+
+translate "Married to "
+to french "Marié à ";
+
+translate "Married to U1"
+to french "Marié à U1(name)";
+
+translate "No problem entered, call aborted."
+to french "Aucun problème décrit, appel annulé.";
+
+translate "Billing Related Call"
+to french "Appel concernant la facturation";
+
+translate "Report a Billing Problem"
+to french "Signaler un problème de facturation";
+
+translate "These are for billing related issues ONLY. These calls are handled by Desert Nomad Studios direct employees only.  If you need immediate assistance please contact Desert Nomad Studios at billing@desert-nomad.com."
+to french "Ceci est réservé UNIQUEMENT aux problèmes de facturation. Ces appels sont gérés uniquement par les employés des Studios Desert Nomad. Si vous avez besoin d'aide immédiate, contactez les Studios Nomad Desert sur \n billing@desert-nomad.com\n";
+
+translate "Proceed with Billing Call?" to french "Procédez à cet appel ?";
+
+translate "Disconnected "
+to french "Déconnecté ";
+
+translate "Disconnected by "
+to french "Déconnecté par ";
+
+translate "GM Message for U1 cleared."
+to french "Message GM pour U1(name) effacé.";
+
+translate "eGenesis U1(name) has arrived."
+to french "U1(name), de eGenesis est arrivé.";
+
+translate "Chatting with U1."
+to french "En train de parler à U1(name).";
+
+translate "Billing Related Calls"
+to french "Appel relié à la facturation";
+
+translate "DEV Queue: N1 people ahead of you."
+to french "File d'attente: N1 personne(s) devant vous.";
+
+translate "GAME DEVELOPER"
+to french "DEVELOPPEUR";
+
+translate "Describe the problem you are having in as much detail as possible:"
+to french "Décrivez le problème que vous avez en donnant autant de détails que possible:";
+
+translate "Describe the billing problem you are having:"
+to french "Décrivez le problème de facturation que vous avez:";

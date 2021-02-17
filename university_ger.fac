@@ -1,0 +1,220 @@
+module university_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**           German Version by Astrid "Infinyti" Werner                  **
+//**                             2011                                      **
+//**                                                                       **
+//***************************************************************************
+
+
+translate UThought to german feminine
+{
+	sn "Gedanken";
+}
+translate UWorship to german feminine
+{
+	sn "Verehrung";
+}
+translate UTheHumanBody to german feminine
+{
+	sn "Menschlicher Körper";
+}
+translate UArchitecture to german feminine
+{
+	sn "Architektur";
+}
+translate UConflict to german feminine
+{
+	sn "Konflikt";
+}
+translate UArt to german feminine
+{
+	sn "Kunst&Musik";
+}
+translate UProgress to german feminine
+{
+	sn "Fortschritt";
+}
+translate UTesting to german feminine
+{
+	sn "Test";
+}
+
+translate SThought to german feminine
+{
+	sn "Gedanken";
+}
+translate SWorship to german feminine
+{
+	sn "Verehrung";
+}
+translate STheHumanBody to german feminine
+{
+	sn "Menschlicher Körper";
+}
+translate SArchitecture to german feminine
+{
+	sn "Architektur";
+}
+translate SConflict to german feminine
+{
+	sn "Konflikt";
+}
+translate SArt to german feminine
+{
+	sn "Künste";
+}
+
+
+translate UProgressConstruction to german feminine
+{
+	sn "Universität des Fortschritts - Im Bau";
+}
+
+translate "eGenesis made a mistake: tuition not specified correctly."
+	to german "eGenesis hat einen Fehler gemacht: Unterricht nicht korrekt angezeigt.";
+
+translate "You must be a citizen to learn that skill."
+	to german "Du musst ein Bürger sein, um diese Fertigkeit erlernen zu können.";
+
+translate "Mentors cannot learn skills on Welcoming Island."
+	to german "Mentoren können keinen Fertigkeiten auf der Willkommensinsel erlernen.";
+
+translate "Before you can learn O1 you must learn:\n"
+	to german "Bevor du O1(sn) erlernen kannst, musst du dies lernen:";
+
+translate "To learn this skill, you must achieve level N1 or above."
+	to german "Um diese Fertigkeit zu erlernen, musst du Level N1 oder höher sein.";
+
+translate "Cancel"
+	to german "Abbruch";
+
+translate "Learn O1 for..."
+	to german "Lerne O1(sn) um...";
+
+translate "No tuition specificed. DevCall now - this is a bug."
+	to german "Kein Unterricht dargestellt. Rufe einen Dev, dies ist ein Bug.";
+
+translate "You already know more about O1 as this school does."
+	to german "Du weißt bereits mehr über O1(sn) als diese Schule.";
+
+translate "You already know as much about O1 as this school does."
+	to german "Du weißt bereits ebensoviel über O1(sn) als diese Schule.";
+
+translate "To learn O1, you need:\n"
+	to german "Um O1(sn) zu erlernen, benötigst du:";
+
+translate "school"
+	to german "Schule";
+translate "university"
+	to german "Universität";
+
+translate "You have already learned all you can about O1 from a school of O2. Visit other kinds of schools to expand your knowledge."
+	to german "Du hast bereits alles über O1(sn) von der Schule O2(dsn) O2(sn) gelernt. Besuche andere Schularten, um dein Wissen zu erweitern.";
+translate "You have already learned all you can about O1 from a university of O2. Visit other kinds of schools to expand your knowledge."
+	to german "Du hast bereits alles über O1(sn) von der Universität O2(dsn) O2(sn) gelernt. Besuche andere Schularten, um dein Wissen zu erweitern.";
+
+translate "To learn O1 from a school of O2, you need:"
+	to german "Um O1(sn) an einer Schule O2(dsn) O2(sn) zu lernen benötigst du:";
+
+translate "To learn O1 from a university of O2, you need:"
+	to german "Um O1(sn) von einer Universität O2(dsn) O2(sn) zu lernen benötigst du:";
+
+translate "Pay Half Price"
+	to german "Zahle den halben Preis";
+
+translate "Pay Tuition"
+	to german "Zahle Lehrgeld";
+
+translate "Use a Half Price"
+	to german "Nutze den halben Preis";
+
+translate "Use a Free Skill"
+	to german "Nutze einen Freiskill";
+
+translate "Your skill level has changed."
+	to german "Dein Fertigkeitslevel hat sich geändert.";
+
+translate "You do not have unlimited half-price skills"
+	to german "Du hast keine unbegrenzten 50% Fertigkeiten";
+
+translate "You are out of free skills"
+	to german "Du hast keine freien Fertigkeiten mehr";
+
+translate "You no longer have the materials."
+	to german "Du hast keine Materialien mehr.";
+
+translate "You will have use of O1 for the next N1"
+	to german "Du kannst O1(sn) für die nächsten N1 nutzen";
+
+translate "You have learned O1:"
+	to german "Du hast O1(sn) gelernt:";
+
+translate "You have learned O1"
+	to german "Du hast O1(sn) gelernt";
+
+translate "You have upgraded your skill in O1:"
+	to german "Du hast deine Fertigkeit in O1(sn) verbessert:";
+
+translate "Old Level: N1 New Level: N2"
+	to german "Alter Level: N1, Neuer Level: N2";
+
+translate "The Great University of O1"
+	to german "Die Große Universität O1(dsg) O1(sn)";
+
+translate "The Stranger's University of O1"
+	to german "Des Fremden Universität O1(dsg) O1(sn)";
+
+translate "The People's School of O1"
+	to german "Die Volksschule O1(dsg) O1(sn)";
+
+translate "Learn"
+	to german "Lerne";
+
+translate "Skills Available:"
+	to german "Verfügbare Fertigkeiten:";
+
+translate "no skills currently available"
+	to german "Zur Zeit keine Fertigkeiten verfügbar";
+
+translate "Unknown"
+	to german "Unbekannt";
+
+translate "check all"
+	to german "Alle prüfen";
+
+translate "egypt"
+	to german "Ägypten";
+
+translate "N1 O1 (missing)"
+	to german "N1 O1(N1?sn:pn) (fehlen)";
+
+translate "(You do not have the tuition)"
+	to german "(Du hast diese Ausbildung nicht)";
+
+translate "O1 (missing)"
+	to german "O1(pn) (fehlt)";
+
+translate "Donate how much O1? (Max N1)"
+	to german "Wieviel O1(sn) spenden? (Max N1)";
+
+translate "O1 (tech level N1 of N2)"
+	to german "O1(sn) (Tech. Level N1 von N2)";
+
+translate "Use Bringer of Knowledge?"
+	to german "Nutze Bringer des Wissens?";
+
+translate "Research Donate"
+	to german "Forschungsspende";
+
+translate "Research Complete"
+	to german "Abgeschlossene Forschungen";
+
+translate "Research has commenced on O1"
+	to german "Die Forschung für O1(sn) hat begonnen";
+
+translate "Complete"
+	to german "Vollständig";
+

@@ -1,0 +1,298 @@
+module Acrobat_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** 				 German Version: Astrid "Infinyti" Werner                   **
+//**                            2011							                  **
+//**                                                                       **
+//***************************************************************************
+
+translate Acrobat to german masculine
+{
+	swa "Test der Akrobatik"; sn "Test der Akrobatik"; sg "Test der Akrobatik"; sd "Test der Akrobatik"; sa "Test der Akrobatik";
+		pn "Test der Akrobatik"; pg "Test der Akrobatik"; pd "Test der Akrobatik"; pa "Test der Akrobatik";
+}
+
+translate "Test of the Acrobat"
+	to german "Test der Akrobatik";
+
+translate "Start the O1"
+	to german "Beginne den O1(sn)";
+
+translate "The Test of the Acrobat must be petitioned by one with Dexterity of at least Seven, even fleetingly."
+	to german "Der Test der Akrobatik muss von jemandem mit einer Geschicklichkeit von mindestens 7 beantragt werden.";
+
+translate "Push-Ups"
+to german "Liegestütze(PU)";
+
+translate "Clapping Push-Ups"
+	to german "Klatschliegestütze(CPU)";
+
+translate "Squats"
+	to german "Kniebeuge(SQ)";
+
+translate "Kick-Up"
+	to german "Kick-Up(KU)";
+
+translate "Squat Thrust"
+	to german "Stützbeuge(ST)";
+
+translate "Lunge"
+	to german "Ausfallschritt(LU)";
+
+translate "Side Bends"
+	to german "Seitbeuge(SB)";
+
+translate "Jumping Jacks"
+	to german "Hampelmann(JJ)";
+
+translate "Toe Touches"
+	to german "Rumpfbeuge(TT)";
+
+translate "Crunches"
+	to german "Bauchpresse(CR)";
+
+translate "Cartwheels"
+	to german "Radschlagen(CW)";
+
+translate "Roundoff"
+	to german "Seitsalto(RO)";
+
+translate "Run in Place"
+	to german "Im Stand laufen(RIP)";
+
+translate "Rear Squat"
+	to german "Beinstrecken(RS)";
+
+translate "Handstand"
+	to german "Handstand(HS)";
+
+translate "Jump Split"
+	to german "Spreizsprung(JS)";
+
+translate "Pinwheel"
+	to german "Armkreisen(PW)";
+ 
+translate "Windmill"
+	to german "Windmühle(WM)";
+
+translate "Handplant"
+	to german "Einhandstütze(HP)";
+
+translate "Wide Squat"
+	to german "Spreizbeuge(WS)";
+
+translate "Leg Stretch"
+	to german "Beinstretching(LS)";
+
+translate "Broad Jump"
+	to german "Weitsprung(BJ)";
+
+translate "Inverted Pushups"
+	to german "Handstandstütze(IP)";
+
+translate "Asian Influence"
+	to german "Asiatische Kampfkunst(AI)";
+
+//translate "Greek Bridge"
+//	to german "Griechenbrücke(GB)";
+
+translate "Cat Stretch"
+	to german "Katzenbuckel(CS)";
+
+translate "Somersault"
+	to german "Purzelbaum(SS)";
+
+translate "Spin Flip"
+	to german "Salto(SF)";
+
+translate "Front Tuck"
+	to german "Thai Chi(FT)";
+
+//translate "Bicycle Kick"
+//	to german "Radfahren(BK)";
+
+
+translate "Principles of the Acrobat will show you how to perform your acrobatic move, how to teach facets of that move to others, and how to learn facets of other moves."
+	to german "Die Grundlagen der Akrobatik zeigen dir, wie du deine Übung vorführst, wie du Facetten dieser Übung lehrst und wie du Facetten von anderen Übungen erlernen kannst.";
+
+translate "Practice your move"
+	to german "Turne";
+
+translate "Practice your move with another Acrobat"
+	to german "Turne einem anderen Akrobaten vor";
+
+translate "Watch another Acrobat practice"
+	to german "Beobachte die Übung eines anderen Akrobaten";
+
+translate "Learn a Facet from another Acrobat"
+	to german "Lerne eine Facette eines anderen Akrobaten";
+
+translate "Learn the 2nd facet of any move"
+	to german "Lerne eine 2. Facette irgendeiner Bewegung";
+
+translate "Teach a Facet to another Acrobat"
+	to german "Lehre einen anderen Akrobaten eine Facette";
+
+translate "Teach seven facets"
+	to german "Lehre 7 Facetten";
+
+translate "Instant Acrobat Teach"
+	to german "Lehre sofort Turnen";
+
+translate "U1 has already Insta-Learned N1 moves."
+	to german "U1(name) hat schon N1 Bewegungen sofort gelernt.";
+
+translate "You teach U1 K1."
+	to german "Du lehrst U1(name) K1.";
+
+translate "U1 dazzles you with the K1 move - you learn it instantly."
+	to german "U1(name) Überwältigt dich mit der Bewegung K1 - du lernst sie sofort.";
+
+translate "Get out of the water first."
+	to german "Komme zuerst aus dem Wasser heraus.";
+
+translate "Though you can demonstrate acrobatic moves here, to truly know a move a student must be in Egypt proper."
+	to german "Auch wenn du hier deine Turnkünste vorführen kannst, muss der Schüler sich in Ägypten befinden, um etwas lernen zu können";
+
+translate "You perform your first Acrobatic move! You have just taken the first step toward mastering the Test of the Acrobat. Watch your progress on the Acrobat tab in the lower-left corner of the screen."
+	to german "Du führst deine 1. Turnbewegung vor! Damit hast du den 1. Schritt zum Bestehen des Tests der Akrobatik getan. Beobachte deinen Fortschritt in deinem Akrobatik-Tab in der linken unteren Ecke deines Bildschirmes.";
+
+translate "An impressive display, but the master and student need seclusion."
+	to german "Eine eindrucksvolle Vorführung, aber Meister und Schüler brauchen mehr Abgeschiedenheit.";
+
+translate "Your technique is impeccable, but you need solitude to teach (N1 in range)."
+	to german "Deine Technik ist makellos, aber du brauchst Abgeschiedenheit um zu lehren (N1 in der N‰he).";
+
+translate "This is a good area, but the people in the distance are a distraction (N1 in range)."
+	to german "Dies ist ein gutes Gebiet, aber die umstehenden Leute sind eine Ablenkung (N1 in Reichweite).";
+
+translate "Impressive, but U1 has not started the Test of the Acrobat."
+	to german "Eindrucksvoll, aber U1(name) hat den Test der Akrobatik nicht begonnen.";
+
+translate "Your student doesn't seem to be paying attention."
+	to german "Dein Schüler zollt dir keine Aufmerksamkeit.";
+
+translate "You're going too fast - your student can't keep up."
+	to german "Du bist zu schnell - dein Schüler kann dir nicht folgen.";
+
+translate "U1 is going too fast - you can't follow the action!"
+	to german "U1(name) turnt zu schnell - du kannst der Bewegung nicht folgen!";
+
+translate "That's it! Practicing acrobatic moves in seclusion - teacher and student alone - is the key to advancing in the Test of the Acrobat."
+	to german "Das ist es! Turnen in Abgeschiedenheit - Lehrer und Schüler sind alleine - das ist der Schlüssel, um im Test der Akrobatik voranzukommen.";
+
+translate "Yes, studying the moves of other Acrobats is the key to success. As you watch other Acrobats, you'll find that you can learn more easily from some. Watch your Main window for hints."
+	to german "Ja, andere Akrobaten beim Turnen zu beobachten ist der Schlüssel zum Erfolg. Während du zusiehst, wirst du herausfinden, dass du von manchen Leuten wesentlich einfacher lernen kannst. Beachte den Hauptkanal für Hinweise.";
+
+translate "You are totally confused by the moves that U1 is showing you. You probably won't pick anything up."
+to german "Du bist völlig verwirrt von den Bewegungen, die U1(name) dir zeigt. Du wirst wohl nichts davon lernen.";
+
+translate "Although you don't pick anything up, U1 is your perfect teacher - a master. You soak in every nuance of what you see. You pick up nothing new, but should come back for other moves."
+	to german "Auch wenn du nichts lernst, ist U1(name) ist ein perfekter Lehrer - ein Meister. Du verfolgst jedes Detail, das du siehst. Du lernst nichts neues, aber du solltest wieder kommen, um andere Bewegungen zu lernen.";
+
+translate "Although you don't pick anything up, U1 seems to be a great teacher for you. Come back often."
+	to german "Auch wenn du nichts lernst, scheint U1(name) ein großartiger Lehrer für dich zu sein (gt). Komme häufig zurück.";
+
+translate "Although you don't pick anything up, U1 seems to be a pretty good teacher for you. You should return."
+	to german "Auch wenn du nichts lernst, scheint U1(name) ein recht guter Lehrer für dich zu sein (pgt)). Du solltest wieder kommen.";
+
+translate "You are having trouble following what you are seeing. Learn from U1 as a last resort."
+	to german "Du hast Probleme zu verfolgen, was du siehst. Lerne von U1(name) als letzte Möglichkeit (lr).";
+
+translate "You follow a bit of what U1 is showing you, but it's mostly a blur. Find a better teacher."
+	to german "Du verfolgst ein wenig von dem, was dir U1(name) zeigt, aber es ist zumeist unverständlich (blur). Suche einen besseren Lehrer.";
+
+translate "Your student is in fact a master of K1, and doesn't pick up anything new."
+	to german "Dein Schüler ist tatsächlich ein Meister von K1 und kann nichts Neues mehr lernen.";
+
+translate "Your student follows your move, but doesn't pick up anything new."
+	to german "Dein Schüler verfolgt deine Bewegungen, lernt aber nichts Neues.";
+
+translate "Although you don't pick up anything new, you do follow the move: K1"
+	to german "Auch wenn du nichts neues lernst, beobachtest du die Übung K1.";
+
+translate "You pick up a new facet of: K1"
+	to german "Du hast eine neue Facette erlernt: K1";
+
+translate "You were successful at teaching! You have taught a total of N1 facets."
+	to german "Du warst als Lehrer erfolgreich! Du hast insgesamt N1 Facetten gelehrt.";
+
+translate "You've learned your first facet! When you learn all 7 Facets of a move, you'll be able to perform the move and teach it to others."
+	to german "Du hast deine 1. Facette gelernt! Wenn du alle 7 Facetten einer Bewegung lernst, kannst du diese Übung selbst turnen und Andere lehren.";
+
+translate "Aha! You've now learned a second facet of K1. By learning, you also help your instructor: The more facets an instructor teaches, the more quickly they can pick up new moves."
+	to german "AHA! Du hast nun die 2. Facette von K1 gelernt. Durch das Lernen hilfst du auch deinen Lehrern: Je mehr Facetten Lehrer anderen beibringen, desto schneller können sie neue Bewegungen erlernen.";
+
+translate "You've just taught your first facet! Next, see if you can teach a total of seven facets. Hint: teaching one student many facets of the same move is hard. It's easier to teach one or two facets to several students."
+	to german "Du hast eben deine 1. Facette gelehrt! Versuche nun, insgesamt 7 Facetten zu lehren. Tipp: Jemandem viele Facetten einer Bewegung beizubringen ist sehr schwer. Es ist einfacher, 1 oder 2 Facetten verschiedenen Schülern beizubringen.";
+
+translate "You've taught your seventh facet! When you have taught fourteen facets, you'll find that it's twice as easy to learn."
+	to german "Du hast deine 7. Facette gelehrt! Wenn du 14 Facetten gelehrt hast, wirst du feststellen, dass es doppelt so einfach ist etwas zu lernen.";
+
+translate "You have completed Principles of the Acrobat."
+	to german "Du hast die Grundlagen der Akrobatik absolviert.";
+
+translate "Your student doesn't follow your move."
+	to german "Dein Schüler folgt deiner Bewegung nicht.";
+
+translate "Ask to Acro"
+	to german "Lust auf Turnen?";
+
+translate "U1 does not want to acro with you."
+	to german "U1(name) möchte nicht mit dir turnen.";
+
+translate "U1 wants to acro with you, OK?"
+	to german "U1(name) möchte mit dir turnen, ok?";
+
+translate "Show Moves"
+	to german "Zeige Bewegungen";
+
+translate "(N1 Facets Taught)"
+	to german "(N1 gelehrte Facetten)";
+
+translate "Known Moves: (N1 Facets Taught)"
+	to german "Bewegungen: (N1 Facetten gelehrt)";
+
+translate "Partial Moves"
+	to german "Anteil. Bewegungen";
+
+translate "Partially learned K1 (N1 of 7)"
+	to german "Teilweise gelernt K1 (N1 von 7)";
+
+translate "Last Moves"
+	to german "Letzte Bewegungen";
+
+translate "After careful instruction, you master: K1 Instruct students in total solitude - for best concentration, nobody else should be around."
+	to german "Nach sorgf‰ltiger Anleitung meisterst du: K1. Lehre deine Schüler in absoluter Abgeschiedenheit - niemand sonst darf in der Nähe sein.";
+
+translate "After careful instruction, you master:"
+	to german "Nach sorgfältiger Anleitung meisterst du:";
+
+translate "Instruct students in total solitude - for best concentration, nobody else should be around."
+	to german "Lehre deine Schüler in absoluter Abgeschiedenheit - niemand sonst darf in der Nähe sein.";
+
+translate "You already started this Test."
+	to german "Du hast diesen Test bereits gestartet.";
+
+translate "Demonstrate Masterful Dexterity"
+	to german "Demonstriere deine meisterhafte Geschicklichkeit";
+
+translate "Acrobat: N1 facets learned, N2 taught, N3 moves started, N4 is highest, N5 mastered. (U1)"
+	to german "Akrobatik: N1 Facetten gelernt, N2 gelehrt, N3 Bewegungen eröffnet, N4 ist die höchste, N5 gemeistert. (U1(name))";
+
+translate "Let it be known that U1 shall now be known as Pharaoh's Acrobat, with N1 facets taught."
+	to german "Es wird bekanntgegeben, dass U1(name) mit N1 gelehrten Facetten den Titel Pharaoh’s Akrobat tragen wird!";
+
+translate "Pharaoh's Acrobat"
+	to german "Pharaohs Akrobat";
+
+translate "Your student is too far away to see you."
+	to german "Dein Schüler ist zu weit weg, um dich sehen zu können.";
+
+translate "Acrobatics"
+	to german "Akrobatik";
+
+translate "N1 facets taught"
+	to german "N1 Facetten gelehrt";

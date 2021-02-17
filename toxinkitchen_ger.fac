@@ -1,0 +1,201 @@
+module toxinkitchen_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment GmbH		           **
+//**                                                                       **
+//***************************************************************************
+
+//menue
+
+translate Toxinkitchen to german feminine
+{
+swa "Giftküche";
+  sn "Giftküche"; sg "Giftküche"; sd "Giftküche"; sa "Giftküche";
+  pn "Giftküchen"; pg "Giftküchen"; pd "Giftküchen"; pa "Giftküchen";
+}
+
+translate "Learn Botanical Identification for new recipes"
+to german "Lerne Botanische Identifikation für neue Rezepte";
+
+translate ToxinExtraction to german feminine
+{
+swa "Giftgewinnung";
+  sn "Giftgewinnung"; sg "Giftgewinnung"; sd "Giftgewinnung"; sa "Giftgewinnung";
+  pn "Giftgewinnung"; pg "Giftgewinnung"; pd "Giftgewinnung"; pa "Giftgewinnung";
+}
+
+translate CobraVenom to german neutercollective
+{
+  swa "Kobragift";
+  sn "Kobragift"; sg "Kobragifts"; sd "Kobragift"; sa "Kobragift";
+  pn "Kobragift"; pg "Kobragift"; pd "Kobragift"; pa "Kobragift";
+}
+
+translate CobrasBiteExtract to german neuter
+{
+  swa "Kobragiftextrakt";
+  sn "Kobragiftextrakt"; sg "Kobragiftextrakt"; sd "Kobragiftextrakt"; sa "Kobragiftextrakt";
+  pn "Kobragiftextrakt"; pg "Kobragiftextrakt"; pd "Kobragiftextrakt"; pa "Kobragiftextrakt";
+}
+
+translate CabbageJuice to german masculine
+{
+  swa "Kohlsaft";
+  sn "Kohlsaft"; sg "Kohlsafts"; sd "Kohlsaft"; sa "Kohlsaft";
+  pn "Kohlsaft"; pg "Kohlsaft"; pd "Kohlsaft"; pa "Kohlsaft";
+}
+translate FaceOfGodSerum to german neuter
+{
+  swa "Gottesblickserum";
+  sn "Gottesblickserum"; sg "Gottesblickserums"; sd "Gottesblickserum"; sa "Gottesblickserum";
+  pn "Gottesblickseren"; pg "Gottesblickseren"; pd "Gottesblickseren"; pa "Gottesblickseren";
+}
+translate "Ability to efficiently refine pure arsenic from certain mushrooms."
+to german "Die Gabe, auf effiziente Art reines Arsen von verschiedenen Pilzen zu gewinnen.";
+
+translate "Laboratories"
+to german "Labore";
+
+translate "Toxin Kitchen"
+to german "Giftküche";
+
+translate "To build a Toxin Kitchen you need:"
+to german "Um eine Giftküche zu bauen benötigst du:";
+
+translate "Reset this kitchen"
+to german "Küche zurücksetzen";
+
+translate "The solution dried up, ruining the K1"
+to german "Die Lösung trocknete aus und ruiniert K1";
+
+translate "Start a batch of Nut's Essence"
+to german "Produziere Nussessenz";
+
+translate "Start a batch of Cobra's Bite Extract"
+to german "Produziere Kobragiftextrakt";
+
+translate "Start a batch of Revelation Solvent (Milky)"
+to german "Mache eine Ladung Enthüllungslösemittel (Milchig)";
+
+translate "Start a batch of Revelation Solvent (Clear)"
+to german "Mache eine Ladung Enthüllungslösemittel (Klar)";
+
+translate "Start a batch of Revelation Solvent (Glass)"
+to german "Mache eine Ladung Enthüllungslösemittel (Glasig)";
+
+translate "Start a batch of Revelation Solvent (Crystal)"
+to german "Mache eine Ladung Enthüllungslösemittel (Kristall)";
+
+translate "Start a batch of Revelation Solvent (Diamond)"
+to german "Mache eine Ladung Enthüllungslösemittel (Diamant)";
+
+translate "You need three jugs of water to start the recipe."
+to german "Du brauchst 3 Krüge mit Wasser um das Rezept zu beginnen.";
+
+translate "Ingredient: Drop of cobra venom"
+to german "Zutat: Tropfen Kobragift";
+
+translate "You don't have any cobra venom."
+to german "Du hast kein Kobragift.";
+
+translate "At stage one, the venom must be added at at least 750 degrees."
+to german "Auf Stufe 1 muss das Gift bei mindestens 750°C hinzugefügt werden.";
+
+translate "At stage one, you must add the venum when the acidity is between 0.30 and 0.60. Acidity must be tested using cabbage juice."
+to german "Auf Stufe 1 musst Du das Gift hinzufügen wenn der Säuregehalt zwischen 0.30 und 0.60 liegt. Der Säuregehalt muss mit Kohlsaft getestet werden.";
+
+translate "At stage two, the venom must be added at no more than 200 degrees."
+to german "Auf Stufe 2 muss das Gift bei unter 200°C hinzugefügt werden.";
+
+translate "At stage three, the venom must be added at no more than 100 degrees."
+to german "Auf Stufe 3 muss das Gift bei unter 100°C hinzugefügt werden.";
+
+translate "At stage three, you must add the venom when the acidity is between 4.00 and 4.25. Acidity must be tested using cabbage juice."
+to german "Auf Stufe 3 musst du das Gift hinzufügen wenn der Säuregehalt zwischen 4.00 und 4.25 ist. Der Säuregehalt muss mit Kohlsaft getestet werden.";
+
+translate "Ingredient: O1"
+to german "Zutat: O1(sn)";
+
+translate "You don't have a O1"
+to german "Du hast O1(ksn) O1(swa)";
+
+translate "Acidity must be just right... Mixing..."
+to german "Der Säuregehalt müsste gleich gut sein... Mische...";
+
+translate "At stage one, you must add a O1 between 600 and 800 degrees."
+to german "Auf Stufe 1 musst du O1(asn) O1(swa) hinzufügen zwischen 600 und 800°C.";
+
+translate "At stage two, you must add a O1 when the acidity is between 3.40 and 3.80. Acidity must be tested using cabbage juice."
+to german "Auf Stufe 2 musst Du O1(asn) O1(swa) hinzufügen wenn der Säuregehalt zwischen 3.40 und 3.80 liegt. Der Säuregehalt muss mit Kohlsaft getestet werden.";
+
+translate "At stage three, you must add a O1 between 200 and 400 degrees."
+to german "Auf Stufe 2 mußt Du einen O1(swa) hinzufügen zwischen 200 und 400°C.";
+
+translate "Ingredient: Nature's Jug Mushroom"
+to german "Zutat: Naturkrugpilz";
+
+translate "Ingredient: Cobra's Bite Extract"
+to german "Zutat: Kobrabissextrakt";
+
+translate "You don't have any charcoal."
+to german "Du hast keine Holzkohle.";
+
+translate "At stage one, you must add a Nature's Jug mushroom between 625 and 775 degrees."
+to german "Auf Stufe 1 musst du einen Naturkrug hinzufügen zwischen 625 und 775°C.";
+
+translate "At stage two, you must add Cobra's Bite Extract when the acidity is between 3.10 and 3.60. Acidity may be tested using cabbage juice."
+to german "Auf Stufe 2 musst du Kobragiftextrakt hinzufügen wenn der Säuregehalt zwischen 3.10 und 3.60 liegt. Der Säuregehalt muss mit Kohlsaft getestet werden.";
+
+translate "At stage three, you must add a Nature's Jug mushroom between 190 and 385 degrees."
+to german "Auf Stufe 3 musst du einen Naturkrugpilz hinzufügen zwischen 190 und 385°C.";
+
+translate "At stage N1 you must add N2 O1 between N3 and N4 degrees."
+to german "Auf Stufe N1 musst du N2 O1(pn) hinzufügen zwischen N3 und N4°C.";
+
+translate "At stage N1 you must add N2 O1 when the Acidity is between N3.N4 and N5.N6."
+to german "Auf Stufe N1 musst du N2 O1(N2?pn:sn)) hinzufügen, wenn der Säuregehalt zwischen N3.N4 und N5 und N6 liegt.";
+
+translate "Heat with Charcoal"
+to german "Heize mit Holzkohle";
+
+translate "Dilute with Water"
+to german "Verdünne mit Wasser";
+
+translate "You don't have any water."
+to german "Du hast kein Wasser.";
+
+translate "Catalyze with Cactus Sap"
+to german "Katalysiere mit Kaktussaft";
+
+translate "You don't have any Cactus Sap."
+to german "Du hast keinen Kaktussaft.";
+
+translate "Check Acidity"
+to german "Prüfe Säuregehalt";
+
+translate "You don't have any Cabbage Juice."
+to german "Du hast keinen Kohlsaft.";
+
+translate "Acidity: N1.N2"
+to german "Säuregehalt: N1.N2";
+
+translate "Select a recipe"
+to german "Wähle ein Rezept";
+
+translate "Temperature: N1"
+to german "Temperatur: N1";
+
+translate "Volume: N1.N2"
+to german "Inhalt: N1N2";
+
+translate "Precipitate: N1.N2"
+to german "Ablagerungen: N1.N2";
+
+translate "Take the O1"
+to german "Nimm O1(sn)";
+
+
+

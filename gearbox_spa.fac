@@ -1,0 +1,149 @@
+module gearbox_spa;
+
+translate GearBoxTable to spanish feminine
+{
+ns "Mesa de ensamblaje de caja a piñones"; np "Mesa de ensamblaje de caja a piñones";
+}
+
+translate GearBox to spanish feminine
+{
+ns "caja a piñones"; np "cajas a piñones";
+}
+
+translate GearboxDesign to spanish feminine
+{
+ns "Diseño de cajas a piñones"; np "Diseños de cajas a piñones";
+}
+
+translate "Modular components like gearboxes are the first step toward advanced engineering."
+to spanish "Los componentes modulables como las cajas de piñones son la primera etapa hacia las técnicas de ingeniería avanzada";
+
+translate "Gearbox Design (Completed)"
+to spanish "Diseño de cajas a piñones (Terminado)";
+
+translate "You learn the art of Gearbox Design. You can now build a gearbox assembly table"
+to spanish "Usted se enteró del arte del diseño de una caja a piñones. Usted puede ahora fabricar una mesa de ensamblaje de cajas a piñones";
+
+translate "Engineering"
+to spanish "Ingenirera";
+
+translate "Gearbox Assembly Table"
+to spanish "Mesa de ensamblaje de cajas a piñones";
+
+translate "To build a Gearbox Assembly Table, you need: "
+to spanish "Para construir una mesa de ensamblaje de cajas a piñones, usted hace falta : ";
+
+translate "Clear the Table"
+to spanish "Limpier la mesa";
+
+translate "Cursor Up"
+to spanish "Subir el eje";
+
+translate "Cursor Down"
+to spanish "Bajar el eje";
+
+translate "Cursor Left"
+to spanish "Eje a la izquierda";
+
+translate "Cursor Right"
+to spanish "Eje a la derecha";
+
+translate "Add a spacer"
+to spanish "Añadir un casquillo";
+
+translate "Add a 3-tooth"
+to spanish "Piñón a 3 dientes";
+
+translate "Add a 4-tooth"
+to spanish "Piñón a 4 dientes";
+
+translate "Add a 5-tooth"
+to spanish "Piñón a 5 dientes";
+
+translate "Add a 6-tooth"
+to spanish "Piñón a 6 dientes";
+
+translate "Add a 7-tooth"
+to spanish "Piñón a 7 dientes";
+
+translate "You need the skill of Gearbox Design to design a gearbox."
+to spanish "Usted debe enterarse del Diseño de cajas a piñones.";
+
+translate " Gear Limit exceeded"
+to spanish " Límite pasado de piñones";
+
+translate "Limit of N1 shafts exceeded."
+to spanish "Límite de N1 Ejes sobrepasada.";
+
+translate "Limit of N1 gears per shaft exceeded."
+to spanish "Límite de N1 piñones por eje sobrepasada."; 
+
+translate "Remove Gear"
+to spanish "Retirar un piñón";
+
+translate "There are no gears under the cursor"
+to spanish "No hay piñón bajo su cursor";
+
+translate "Not a valid design: this gearbox will jam"
+to spanish "Diseño erróneo: Esta caja en pigons se bloqueará";
+
+translate "Not a valid design: two gears are too close to each other (see cursor)"
+to spanish "Diseño erróneo: Dos piñones son demasiado próximos uno del otro (ver cursor)";
+
+translate "Analyze[key=q]"
+to spanish "Analizar[key=q]";
+
+translate "Build This Gearbox[key=b]"
+to spanish "Construir esta caja a piñones[key=b]";
+
+translate "Not a legal design: there must be an input shaft at 1A"
+to spanish "Diseño erróneo: El movimiento debe ser iniciado de allí 1A";
+
+translate "Shaft N1A rotating at N2%"
+to spanish "Eje N1A gira a N2%";
+translate "Shaft N1B rotating at N2%"
+to spanish "Eje N1B gira a N2%";
+translate "Shaft N1C rotating at N2%"
+to spanish "Eje N1C gira a N2%";
+translate "Shaft N1D rotating at N2%"
+to spanish "Eje N1D gira a N2%";
+translate "Shaft N1E rotating at N2%"
+to spanish "Eje N1E gira a N2%";
+translate "Shaft N1F rotating at N2%"
+to spanish "Eje N1F gira a N2%";
+translate "Shaft N1G rotating at N2%"
+to spanish "Eje N1G gira a N2%";
+translate "Shaft N1H rotating at N2%"
+to spanish "Eje N1H gira a N2%";
+
+
+translate "Not a valid design: there must be at least one shaft in the output row."
+to spanish "El diseño no es buen: Debe tener allí por lo menos un eje para el movimiento de salida.";
+
+translate "Not a valid design: there must be at most three shafts in the output row."
+to spanish "El diseño no es buen: Debe tener allí por lo menos tres ejes para el movimiento de salida.";
+
+translate "To build a Gearbox model K1, you need:"
+to spanish "Para fabricar una caja a piñones de modelo K1, Usted hace falta :";
+
+translate "You need to learn mechanics at level 2 before we can teach you Gearbox Design."
+to spanish "Vous devez apprendre le niveau 2 de la conception mécanique avant d'apprendre comment fabriquer une boîte à pignons.";
+
+translate "You need the skill of Automation to design a gearbox."
+to spanish "Usted debe enterarse de la competencia 'Automatización' para poder concebir una caja a piñones.";
+
+translate "Build one?"
+to spanish "Ensamblar ?";
+
+translate "Specific Gearbox"
+to spanish "Caja a piñones específico";
+
+translate "Reset"
+to spanish "Reinicializar";
+
+translate "Analyze"
+to spanish "Analizar";
+
+translate "Build this GearBox"
+to spanish "Ensamblar esta caja a piñón";
+

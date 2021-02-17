@@ -1,0 +1,313 @@
+module pottery_spa;
+
+// Updated 2015/09/09
+// Translated by Armanhotep
+
+translate pottery to spanish feminine
+{ns "Cerámica"; np "Cerámica";}
+
+translate PotteryWheel to spanish masculine
+{
+  ns "Torno para Cerámica"; np "Tornos para Cerámica";
+}
+translate PotteryDeck to spanish masculine
+{
+  ns "Tablero para Cerámica"; np "Tableros para Cerámica";
+}
+translate ClayDome to spanish masculine
+{
+  ns "Domo de Arcilla"; np "Domos de Arcillas";
+}
+translate reinforcedkiln to spanish masculine
+{
+  ns "Horno Reforzado"; np "Hornos Reforzados";
+}
+
+translate Clay to spanish feminine
+{
+  ns "Arcilla"; np "Arcilla";
+}
+translate WetJugs to spanish feminine
+{
+  ns "Jarra (Húmeda)"; np "Jarras (Húmedas)";
+}
+translate jugs to spanish feminine
+{ns "Jarra"; np "Jarras";}
+
+translate WetClayMortars to spanish masculine
+{
+  ns "Mortero de Archilla (Húmedo)"; np "Mortero de Arcilla (Húmedo)";
+}
+translate ClayMortars to spanish masculine
+{
+  ns "Mortero de Arcilla"; np "Morteros de Arcilla";
+}
+translate BoxKiln to spanish masculine
+{
+  ns "Horno Cuadrado"; np "Hornos Cuadrados";
+}
+
+translate kiln to spanish masculine
+{
+  ns "Horno"; np "Hornos";
+}
+
+translate VaultKiln to spanish masculine
+{
+  ns "Horno de Bóveda"; np "Hornos de Bóveda";
+}
+translate WetGrainMortars to spanish masculine
+{
+  ns "Mortero para Granos (Húmedo)"; np "Morteros para Granos (Húmedo)";
+}
+translate GrainMortars to spanish masculine
+{
+  ns "Morteros para Grano"; np "Mortero para Granos";
+}
+
+translate WetClayDome to spanish masculine
+{
+  ns "Domo de Arcilla (Húmedo)"; np "Domos de Arcilla (Húmedos)";
+}
+translate WetPipeSegment to spanish masculine
+{
+  ns "Segmento de Tubería (Húmedo)"; np "Segmentos de Tubería (Húmedos)";
+}
+translate PipeSegment to spanish masculine
+{
+  ns "Segmento de Tubería"; np "Segmentos de Tubería";
+}
+translate WetCistern to spanish feminine
+{
+  ns "Cisterna (Húmeda)"; np "Cisternas (Húmedas)";
+}
+translate "Gather: Clay"
+to spanish "Recolectar: Arcilla";
+
+translate "Pottery"
+to spanish "Cerámica";
+
+translate "True Kiln"
+to spanish "Horno";
+
+translate "Build a Pottery Wheel"
+to spanish "Contruye un Torno para Cerámica";
+
+translate "Projects/Build a Pottery Deck"
+to spanish "Proyectos/Construye un Tablero para Cerámica";
+
+translate "Projects/Build a Pottery Wheel"
+to spanish "Projets/Contruye un Torno para Cerámica";
+
+translate "Build a Box Kiln"
+to spanish "Construye un Horno Cuadrado";
+
+translate "Build a True Kiln"
+to spanish "Construye un Horno";
+
+translate "Build a Vault Kiln"
+to spanish "Construye un Horno de Bóveda";
+
+translate "Build a Pottery Deck"
+to spanish "Construye un Tablero para Cerámica";
+
+translate "You'll have to pour some water on the packed earth to soften it."
+to spanish "Necesitas vertir agua en el suelo para ablandar la arcilla.";
+
+translate "Hmm... It seems that all the clay in this area has been gathered."
+to spanish "Mmm... parece que toda la arcilla en este lugar ha sido recogida.";
+
+translate "As you gather the clay, you also find a small hard piece of flint."
+to spanish "Al recoger arcilla, también encontraste un pedazo de pedernal.";
+
+translate "To build a Pottery Wheel, you need: "
+to spanish "Para construir un Torno de Cerámica necesitas: ";
+translate "N1 O1"
+to spanish "N1 O1(N1?np:ns)";
+
+translate "To build a Pottery Deck, you need: "
+to spanish "Para construir un Tablero de Cerámica necesitas: ";
+
+translate "Make a water jug"
+to spanish "Moldea una Jarra";
+
+translate "Make a jug"
+to spanish "Moldea una Jarra";
+
+translate "It takes 1 deben of clay to make a water jug"
+to spanish "Ocupas 1 deben de Arcilla para hacer un Jarro.";
+
+translate "Make a Clay Dome"
+to spanish "Moldea un Domo de Arcilla";
+
+translate "It takes 400 deben of clay to make a Clay Dome"
+to spanish "Ocupas 400 deben de Arcilla para moldear un Domo de Arcilla.";
+
+translate "Clay dome will be ready in 60 minutes."
+to spanish "El Domo de Arcilla estará listo en 60 minutos.";
+
+translate "Make a Pipe Segment"
+to spanish "Fabrica un Segmento de Tubería";
+
+translate "It takes 100 deben of clay to make a Pipe Segment"
+to spanish "Se necesitan 100 deben de Arcilla para fabricar un Segmento de Tubería";
+
+translate "Make a Cistern"
+to spanish "Fabricar una Cisterna";
+
+translate "It takes 350 deben of clay to make a Cistern"
+to spanish "Se necesitan 350 deben de Arcilla para fabricar una Cisterna";
+
+translate "Cistern will be ready in One Hour."
+to spanish "La Cisterna estará lista en una hora.";
+
+translate "Pipe Segment will be ready in one hour."
+to spanish "El Segmento de Tubería estará lista en una hora.";
+
+translate "To build a Box Kiln, you need: "
+to spanish "Para construir un Horno Cuadrado necesitas: ";
+
+translate "N1 O1"
+to spanish "N1 O1(N1?np:ns)";
+
+translate "To build a True Kiln, you need: "
+to spanish "Para construir un Horno necesitas: ";
+translate "N1 O1"
+to spanish "N1 O1(N1?np:ns)";
+
+translate "To build a Vault Kiln, you need: "
+to spanish "Para construir un Horno de Bóveda necesitas: ";
+translate "N1 O1"
+to spanish "N1 O1(N1?np:ns)";
+
+translate "Load the kiln with wet firebricks."
+to spanish "Carga el horno con Ladrillos Refracatrios Húmedos";
+
+translate "You don't have any wet firebricks."
+to spanish "No cuentas con Ladrillos Refractarios Húmedos.";
+
+translate "The kiln is already fully loaded."
+to spanish "El horno ya se encuentra cargado.";
+
+translate "Load the kiln with wet jugs."
+to spanish "Cargar el horno con Jarras Húmedas.";
+
+translate "You don't have any wet jugs."
+to spanish "No cuentas con Jarras Húmedas.";
+
+translate "Load the kiln with wet grain mortars."
+to spanish "Carga el horno con Morteros para Grano Húmedos.";
+
+translate "You don't have any wet grain mortars."
+to spanish "No cuentas con Morteros para Grano Húmedos.";
+
+translate "Load the kiln with wood."
+to spanish "Carga el horno con leña.";
+
+translate "The chamber is already filled with wood."
+to spanish "La cámara ya esta lleno con leña.";
+
+translate "You don't have any wood."
+to spanish "No cuentas con leña.";
+
+translate "Fire the Box Kiln."
+to spanish "Enciende este Horno Cuadrado.";
+
+translate "You must first remove any completed firebricks from your box kiln."
+to spanish "Tienes que primero retirar los Ladrillos Refracatrios que ya están listos.";
+
+translate "You haven't placed any wet firebricks in your box kiln."
+to spanish "No haz puesto Ladrillos Refracatrios Húmedos en el Horno";
+
+translate "You haven't placed any wet items in your kiln."
+to spanish "No haz puesto articulos húmedos en el horno.";
+
+translate "This Kiln requires N1 pieces of wood to fire."
+to spanish "Tu Horno requiere N1 piezas de leña para encender.";
+
+translate "Box kilns are inefficient, and require N1 pieces of wood to fire."
+to spanish "Los Hornos Cuadrados son ineficientes, y requiren N1 piezas de leña para encender.";
+
+translate "The Box Kiln has worn out and crumbled to dust."
+to spanish "Tu Horno Cuadrado se ha derrumbado por desgaste.";
+
+translate "Mould a Grain Mortar from Clay"
+to spanish "Moldea un Mortero para Grano usando Arcilla";
+
+translate "You need 4 clay to mould a Grain Mortar"
+to spanish "Necesitas 4 Archilla para moldear un Mortero para Grano.";
+
+translate "Your Kiln has worn out and crumbled to dust."
+to spanish "Tu horno se ha derrumbado por desgaste.";
+
+translate "Fill with wood"
+to spanish "Llena con Leña";
+
+translate "Load how much Wood? (Max N1)"
+to spanish "Cuanta Leña ? (Max N1)";
+
+translate "Load a Wet Clay Dome into the kiln"
+to spanish "Carga el horno con un Domo de Arcilla";
+
+translate "You aren't carrying a Wet Clay Dome."
+to spanish "No cuentas con un Domo de Arcilla Húmedo.";
+
+translate "Fire the Kiln"
+to spanish "Enciende el Horno";
+
+translate "The vault kiln must be loaded with 100 wood."
+to spanish "El Horno de Bóveda necesita cargarse con 100 piezas de leña.";
+
+translate "You haven't placed a wet clay dome into the vault kiln"
+to spanish "No haz cargado el Horno de Bóveda con un Domo de Arcilla Húmedo";
+
+translate "You haven't placed anything in the Vault Kiln."
+to spanish "No haz colocado nada en el Horno de Bóveda.";
+
+translate "The Vault Kiln takes K1 to fire a O1."
+to spanish "El Horno de Bóveda toma K1 en cocer O1(uns) O1(ns).";
+
+translate "The Vault Kiln takes one hour to fire a Clay Dome"
+to spanish "El Horno de Bóveda toma una hora en cocer un Domo de Arcilla.";
+
+translate "It takes N1 deben of Clay to make a Jug"
+to spanish "Necesitas N1 deben de Arcilla para moldear una Jarra.";
+
+translate "Load the kiln with wet clay mortars."
+to spanish "Carga el horno con Morteros de Arcilla Húmedos.";
+
+translate "You don't have any wet clay mortars."
+to spanish "No cuentas con Morteros de Arcilla Húmedos.";
+
+translate "Mould a Clay Mortar"
+to spanish "Moldea un Mortero de Arcilla";
+
+translate "You need N1 clay to mould a Clay Mortar"
+to spanish "Necesitas N1 Arcilla para moldear un Mortero de Arcilla";
+
+translate "You're making progress toward building a Sacrificial Bonfire."
+to spanish "Vas progresando en tu construccion de una Hoguera Sacrificatoria.";
+
+translate "Load a O1 into the Kiln"
+to spanish "Carga O1(uns) O1(ns) en el horno";
+
+translate "Everything must be unloaded first."
+to spanish "Primeramente tienes que descargar todo.";
+
+translate "You aren't carrying a O1"
+to spanish "No estás cargando O1(ns)";
+
+translate "This O1 is Firing"
+to spanish "O1(^cns) O1(ns) está encendido";
+
+translate "Build a Reinforced Kiln"
+to spanish "Construire un four renforcé";
+
+translate "To build a Reinforced Kiln, you need: "
+to spanish "Para construir un Horno Reforzado necesitas: ";
+
+translate "Load the Kiln with Wet Clay Bricks"
+to spanish "Carga el Horno con Ladrillos de Arcilla Húmedos";
+
+translate "You don't have any Wet Clay Bricks."
+to spanish "No cuentas con Ladrillos de Arcilla Húmedos.";

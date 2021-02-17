@@ -1,0 +1,367 @@
+module sevenblade_fre;
+
+translate trybeginseven to french feminine
+{ ns "Bases des Sept Lames"; ns "Bases des Sept Lames"; }
+
+translate SevenbladeConstruction to french feminine
+{
+  ns "Construction de Sept-Lames"; np "Construction de Sept-Lames";
+}
+translate Sevenblade to french feminine
+{
+  ns "Sept-lames"; np "Sept-lames";
+}
+translate Sevenbladecp to french feminine
+{
+  ns "Sept-lames"; np "Sept-lames";
+}
+translate SevenbladeArena to french feminine
+{
+  ns "Arène des Sept-Lames"; np "Arènes des Sept-Lames";
+}
+translate Dagger to french feminine
+{
+  ns "dague"; np "dagues"; 
+}
+ 
+translate "Learn how to play Sevenblade"
+to french "Apprenez à jouer aux Sept Lames";
+
+translate "Read \"How do I play Sevenblade?\" at a Sevenblade Desk"
+to french "Lisez \"Comment jouer aux Sept Lames\" sur une table de Sept Lames";
+
+translate "Get some Sevenblades from the University of Conflict"
+to french "Obtenez un jeu de lames à une Université du Conflit";
+
+translate "Play a game of Sevenblade"
+to french "Jouer un jeu de Sept Lames";
+
+translate "Make a bid"
+to french "Faites une annonce";
+
+translate "Deny a bid"
+to french "Dénoncer une annonce";
+
+translate "Finish a game of Sevenblade"
+to french "Terminer un jeu de Sept Lames";
+
+translate "Sevenblade Season"
+to french "Saison des sept-lames";
+
+translate "Conflict"
+to french "Conflit";
+
+translate "Sevenblade"
+to french "Sept-Lame";
+
+translate "You have been given three Sevenblades. You can examine them using your 'Special' menu."
+to french "Vous avez reçu trois Sept-Lames. Vous pouvez les examiner dans le menu 'Spécial'.";
+
+translate "Sorry.  You must wait K1 before you can get more Sevenblades."
+to french "Désolé. Vous devez attendre K1 avant d'obtenir d'autres Sept-Lames.";
+
+translate "To engage in the Sevenblade Challenge, you must have a Sevenblade."
+to french "Pour commencer le chalenge des sept lames, vous devez avec un jeu de lames.";
+
+translate "Start the Initiation into Conflict"
+to french "Commencer l'initiation au conflit";
+
+translate "The Test of the Sevenblade"
+to french "L'épreuve des Sept-Lames";
+
+translate "I need some new Sevenblades"
+to french "Il me faut un nouveau jeu de Sept-Lames";
+
+translate "The Test of the Sevenblade"
+to french "L'épreuve des Sept-Lames";
+
+translate "Examine U1-N1"
+to french "Examiner U1(name)-N1";
+
+translate "Random Sevenblade"
+to french "Sept-Lames aléatoire";
+
+translate "Sign this player up for Sevenblade"
+to french "Inscrire ce joueur aux Sept-Lames";
+
+translate "Build a Sevenblade Arena"
+to french "Construire une arène des Sept-Lames";
+
+translate "                                 Initiation into Conflict - the Challenge of the Sevenblade"
+to french "                                    Initiation du Conflit - le Défi des Sept-Lames";
+
+translate "To Initiate into the Discipline of Conflict, you must build your own Sevenblade arena. Then, you must defeat seven opponents.  Building the arena requires slate, boards, and oil (in increasing order of difficulty). Once you have access to an arena, you can play."
+to french "Pour vous initier à la Discipline du Conflit, vous devez construire votre propre arène des Sept-Lames. Ensuite, vous devez vaincre sept adversaires. Construire une arène nécessite de l'ardoise, des planches et de l'huile (par ordre croissant de difficulté). Lorsque vous avez accès à une arène, vous pouvez jouer.";
+
+translate "Please wait..."
+to french "Veuillez patienter...";
+
+translate "                                                   The Rules of Sevenblade"
+to french "                                                 Les règles des Sept-Lames";
+translate "The challenge of the Sevenblade is as follows: every Citizen can request a Sevenblade from the University of Conflict.  Every Sevenblade is unique - some are bristling with axe-heads, others are heavy with spiked maces.  Two citizens meet at an arena, and both plant their Sevenblades into the ground.  A wall separates the players, so that neither can see the other's Sevenblade."
+to french "Le défi des Sept-Lames se déroule comme suit : tous les citoyens peuvent demander une Sept-Lames à l'université de Conflit. Chaque Sept-Lames est unique. Certaines possèdent des haches tranchantes, d'autres de lourdes masses. Deux citoyens se rencontrent dans une arène, et plantent leurs Sept-Lames dans le sol. un mur sépare les joueurs, afin qu'aucun des deux ne puisse voie la Sept-Lames de l'autre.";
+
+translate "One player is chosen to go first.  This person must make a claim, much like one of the following: 'our Sevenblades have 3 axe heads.' or 'our Sevenblades have 4 trident heads.' The second player must either raise the bet, or deny.  Eventually, somebody will deny. If the denial is correct, he who denied wins.  But if the Sevenblades, taken together, have the requisite number, he who denied loses. It is traditional, when playing Sevenblade, that the winner takes the loser's blade.  If necessary, you may obtain a replacement from the University of Conflict."
+to french "Un joueur est tiré au sort pour commencer. Ce joueur doit faire une déclaration, par exemple la suivante : 'notre Sept-Lames  possède 3 haches', ou 'notre Sept-Lames possède 4 tridents'. Le second joueur doit alors élever la mise, ou bien refuser. En fin de compte, un des deux joueurs finira par refuser. Si le refus est correct, celui qui a refusé gagne la partie. Mais si les deux Sept-Lames additionnées possèdent le nombre annoncé, celui qui refuse perd la partie. La tradition veut que le gagnant prenne la Sept-Lames du perdant. Vous pourrez si nécessaire en obtenir une de remplacement à l'université de Conflit. ";
+
+translate "                                                The History of Sevenblade"
+to french "                                                L'histoire des Sept-Lames";
+
+translate "The entire Assyrian army was approaching, and General Tefnakht had only a despondent band of a hundred men to repel them.  So Tefnakht called upon his blacksmiths.  On his orders, they created a hundred hideous devices, the Sevenblades. These brisling monstrosities, each held high by a courageous soldier, made his little band appear to be a churning, heavily-beweaponed force.  Fearlessly, they charged the Assyrians, who broke and fled.  In honor of that masterful bluff, and the bizarre tool that made it possible, the game of Sevenblade was created."
+to french "Toute l'armée d'Assyrie était en approche, et le général Tefnakht n'avait à disposition qu'une centaine d'hommes disparates pour les repousser. Alors, il fit appel à ses forgerons. Sur son ordre, ils créèrent une centaine d'armes étranges, les Sept-Lames. Ces monstruosités de métal maniées par de courageux soldats rendirent son armée terrifiante. Ils chargèrent sans peur contre les Assyriens, qui se désorganisèrent et prirent la fuite. En l'honneur de ce maître du bluff, et de l'arme étrange qui rendit cet exploit possible, on créa le jeu des Sept-Lames.";
+
+translate "Sorry.  We have already given you 9 blades.  If you want more, you will have to purchase them from other players."
+to french "Nous sommes désolés, mais vous avez déjà 9 lames. Si vous en voulez plus, vous devrez les aheter à d'autres joueurs.";
+
+translate "Sorry.  You must wait K1 before you can get another Sevenblade."
+to french "Vous devez attendre K1 avant de pouvoir obtenir une autre Sept-Lames.";
+
+translate "You have been given three Sevenblades.  You can examine them using your 'Tests' menu.  You will need to wait K1 to get another."
+to french "Vous avez reçu trois Sept-Lames. Vous pouvez les examiner depuis votre menu 'Epreuves'. Il vous faudra attendre K1 avant d'en obtenir d'autres.";
+
+translate "Dagger"
+to french "Dague";
+
+translate "Club"
+to french "Massue";
+
+translate "Hammer"
+to french "Marteau";
+
+translate "Mace"
+to french "Masse";
+
+translate "Trident"
+to french "Trident";
+
+translate "Axe"
+to french "Hache";
+
+translate "Sword"
+to french "Epée";
+
+translate "U1 bids N1 Dagger"
+to french "U1(name) mise N1 Dague";
+
+translate "U1 bids N1 Club"
+to french "U1(name) mise N1 Massue";
+
+translate "U1 bids N1 Hammer"
+to french "U1(name) mise N1 Marteau";
+
+translate "U1 bids N1 Mace"
+to french "U1(name) mise N1 Masse";
+
+translate "U1 bids N1 Trident"
+to french "U1(name) mise N1 Trident";
+
+translate "U1 bids N1 Axe"
+to french "U1(name) mise N1 Hache";
+
+translate "U1 bids N1 Sword"
+to french "U1(name) mise N1 Epée";
+
+translate "Select an opponent:"
+to french "Choisissez una dversaire :";
+
+translate "Choose your blade:"
+to french "Choisissez votre lame :";
+
+translate "Opponent must now select you."
+to french "Votre adveraire doit maintenant vous sélectionner.";
+
+translate "O1:U1-N1"
+to french "O1(ns) : U1(name)-N1";
+translate "O1:N1"
+to french "O1(ns) : N1";
+translate "N1 O1"
+to french "N1 O1(N1?np:ns)";
+
+translate "Duel!"
+to french "Duel !";
+translate "Your last bid: nothing"
+to french "Votre dernière offre : rien";
+translate "nothing"
+to french "rien";
+
+translate "His bid: "
+to french "Son offre : ";
+
+translate "His bid: N1"
+to french "Son offre : N1";
+
+translate "His bid: N1 O1"
+to french "Son offre : N1 O1(N1?np:ns)";
+
+translate "Deny last Bid"
+to french "Refuser la dernière offre";
+
+translate "Confirm"
+to french "Confirmer";
+
+translate "A duel is in progress, but the duelists seem to have wandered off."
+to french "Un duel est en cours, mais les deux adversaires semblent avoir disparu.";
+
+translate "A duel is in progress, please wait."
+to french "Un duel est en cours, veuillez patienter.";
+
+translate "Your opponent is selecting his blade. Please wait."
+to french "Votre adversaire est en train de choisir sa lame. Veuillez patienter.";
+
+translate "You challenged his bid:"
+to french "Vous avez répondu à la mise :";
+
+translate "Revealing the blades..."
+to french "Dévoilement des Lames...";
+
+translate "U1 challenges, revealing blades..."
+to french "U1(name) vous met au défis, dévoilement des Lames...";
+
+translate "Your bid was challenged:"
+to french "Votre mise a été défiée:";
+
+translate "Your last bid: N1 O1"
+to french "Votre dernière mise : N1 O1(N1?np:ns)";
+
+translate "Wait for your opponent to bid."
+to french "Attendez que votre adversaire annonce sa mise.";
+
+translate "Something's wrong, shouldn't be here."
+to french "Erreur, quelque chose d'irrégulier s'est produit.";
+
+translate "Before you can engage in the Sevenblade Challenge, you must read about it at the University of Conflict."
+to french "Avant de pouvoir participer à l'épreuve des Sept-Lames, vous devez vous renseigner à ce sujet à l'université de Conflit.";
+
+translate "To engage in the Sevenblade Challenge, you must get a Sevenblade from the University of Conflict (or buy one from somebody)."
+to french "Pour participer à l'épreuve des Sept-Lames, vous devez obtenir une Sept-lames à l'université de Conflit (ou en acheter une à quelqu'un).";
+
+translate "The two players must stand on opposite sides of the arena."
+to french "Les deux adversaires doivent se placer en opposition dans l'arène.";
+
+translate "Duel in progress: U1 vs U2"
+to french "Duel en cours : U1(name) contre U2(name)";
+
+translate "player U1 attaching "
+to french "U1(name) attaque";
+
+translate "So far, you have defeated: "
+to french "Jusqu'ici vous avez vaincu : ";
+
+translate "To become an initiate of conflict, you must defeat seven people."
+to french "Pour devenir un initié du Conflit, vous devez vaincre sept personnes.";
+
+translate "To become an initiate of conflict, you must build your own arena and defeat seven people."
+to french "Pour devenir un initié du Conflit, vous devez construire votre propre arène et vaincre sept personnes.";
+
+translate "To build a Sevenblade Arena, you need: "
+to french "Pour construire une arène de Sept-Lames, il vous faut : ";
+
+translate "U1 was right - U2 wins and U3 loses!"
+to french "U1(name) avait raison - U2(name) gagne et U3(name) perd !";
+
+translate "He challenged, and he was right! Since this was a friendly game, blades are returned to their previous owners."
+to french "Votre adversaire vous a défié et il avait raison ! Puisque c'est un jeu amical, les lames sont restituées à chacun";
+
+translate "You challenged, and you were right! Since this was a friendly game, blades are returned to their previous owners."
+to french "Vous l'avez défié vous aviez raison ! Puisque c'est un jeu amical, les lames sont restituées à chacun";
+
+translate "He challenged, and he was right! He took your blade."
+to french "Votre adversaire a relevé le défi, et il avait raison ! Il a pris votre lame.";
+translate "You must either increase your opponent's bid, or deny."
+to french "Vous devez soit miser plus haut que votre adversaire, soit réfuter";
+
+translate "You challenged, and you were wrong! Since this was a friendly game, blades are returned to their previous owners."
+to french "Vous l'avez défié vous aviez tort ! Puisque c'est un jeu amical, les lames sont restituées à chacun";
+
+translate "He challenged, and he was wrong! Since this was a friendly game, blades are returned to their previous owners."
+to french "Votre adversaire vous a défié et il avait tort ! Puisque c'est un jeu amical, les lames sont restituées à chacun";
+
+translate "You challenged, and you were right! You won his blade."
+to french "Vous avez relevé le défi, et vous aviez raison ! Vous avez gagné sa lame.";
+
+translate "U1 was wrong - U2 loses and U3 wins!"
+to french "U1(name) a eu tort - U2(name) perd et U3(name) gagne !";
+
+translate "He challenged, and he was wrong! You took his blade."
+to french "Il a relevé le défi, et il a eu tort ! Vous avez gagné sa lame.";
+
+translate "You challenged, and you were wrong! He took your blade."
+to french "Vous avez relevé le défi, et vous avez eu tort ! Il a gagné votre lame.";
+
+translate "U1 vs U2"
+to french "U1(name) vs U2(name)";
+
+translate "Friendly duel in progress: "
+to french "Duel amical en cours : ";
+
+translate "Friendly duel in progress: U1 vs U2"
+to french "Duel amical en cours : U1(name) vs U2(name)";
+
+translate "K1 challenges, revealing blades..."
+to french "K1 vous a défié, découverte des lames...";
+
+translate "U1 forfeited your sevenblade match by wandering off."
+to french "U1(name) a déclaré forfait dans votre affrontement en quittant les lieux.";
+
+translate "You must select a sevenblade from the list before clicking Duel."
+to french "Vous devez choisir une Sept-Lames dans la liste avant de lancer le duel.";
+
+translate "The arena is in use, you will need to wait."
+to french "L'arène est déjà occupée, vous devez attendre.";
+
+translate "U1 challenges, revealing blades..."
+to french "U1(name) accepte le défi, révélant la lame...";
+
+translate "U1 bids N1 O1"
+to french "U1(name) mise N1 O1(N1?np:ns)";
+
+translate "U1 bids N1 K1"
+to french "U1(name) bids N1 K1";
+
+translate "Pick up the O1:U1-N1"
+to french "Prenez O1(lns) O1(ns) : U1(name)-N1";
+
+translate "You must have a paid account to be given Sevenblades. If you would like to play, an experienced player may loan you one."
+to french "Vous devez posséder un compte payant pour obtenir des Sept Lames. Si vous voulez jouer, un joueur expérimenté pourra vous en prêter une.";
+
+translate "Items required:"
+to french "Objets nécessaires:";
+
+translate "You need some Sevenblades. You can get these from the University or School of Conflict in the arena."
+to french "Il vous faut quelques Sept-lames. Vous pouvez en obtenir à l'université ou école de Conflit dans l'arène.\n";
+translate "Both players choose a Sevenblade to play."
+to french "Les deux joueurs choisissent le jeu de Sept-Lames à utiliser.";
+translate "Player 1 then makes a claim about the Sevenblades in play such as 'our Sevenblades have 3 axe heads.' or 'our Sevenblades have 4 trident heads.'"
+to french "Le joueur 1 fait une annonce concernant le jeu de Sept-lames qu'il utilise pour cette partie comme par exemple 'notre Sept-lames comporte 3 têtes d'axes.' ou encore 'notre Sept-lames comporte 4 têtes de tridents'.";
+translate "Player 2 must either raise the bet, or deny."
+to french "Le joueur 2 doit soit monter la mise, ou la réfuter.";
+translate "To raise the bet a player must either choose a larger number of the same weapon or any number of a greater weapon."
+to french "Pour monter la mise, un joueur doit soit annoncer un nombre plus grand de la même arme, soir n'importe quel nombre d'une arme plus puissante.";
+translate "The weapons are graded as follows: Dagger, Club, Hammer, Mace, Trident, Axe, Sword."
+to french "Les armes sont classées ainsi dans l'ordre croissant: Poignard, Club, Marteau, Masse, Trident, Hache, Epée.";
+	       		
+translate "The game ends when one player denies."
+to french "Le jeu prend fin lorsqu'un joueur réfute la mise.";
+translate "If the last bid matches the number of weapons in both Sevenblades combined then the betting player wins."
+to french "Si la dernière mise correspond au nombre d'armes dans les deux Sept-lames combinées, le joueur qui a parié gagne.";
+translate "Otherwise the denying player wins."
+to french "Autrement, c'est le joueur qui a réfuté qui gagne.";
+
+translate "Choose a blade"
+to french "Choisir un jeu de lames";
+
+translate "Opponent's bid: nothing"
+to french "Mise de l'adversaire: Aucune";
+
+translate "Bid"
+to french "Miser";
+translate "Deny"
+to french "Refus";
+
+translate "Your last bid: "
+to french "Votre dernière mise: ";
+
+translate "Friendly Duel in progress"
+to french "Duel amical en cours";
+
+

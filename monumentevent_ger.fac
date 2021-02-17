@@ -1,0 +1,93 @@
+module monumentevent_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment	                   **
+//**                                                                       **
+//***************************************************************************
+
+translate T1MonumentOfArchitecture to german neuter
+{
+ swa "Antikes Monument der Architektur";
+  sn "Antike Monument der Architektur"; pn "Antiken Monumente der Architektur";
+}
+translate T1MonumentOfWorship to german neuter
+{
+ swa "Antikes Monument der Verehrung";
+  sn "Antike Monument der Verehrung"; pn "Antiken Monumente der Verehrung"; 
+}
+translate T1MonumentOfTheHumanBody to german neuter
+{
+ swa "Antikes Monument des menschlichen Körpers";
+  sn "Antike Monument des menschlichen Körpers"; pn "Antiken Monumente des menschlichen Körpers"; 
+}
+translate T1MonumentOfArtAndMusic to german neuter
+{
+ swa "Antikes Monument der Kunst und Musik";
+  sn "Antike Monument der Kunst und Musik"; pn "Antiken Monumente der Kunst und Musik";
+}
+translate T1MonumentOfConflict to german neuter
+{
+ swa "Antikes Monument des Konfliktes";
+  sn "Antike Monument des Konfliktes"; pn "Antiken Monumente des Konfliktes";
+}
+translate T1MonumentOfLeadership to german neuter
+{
+ swa "Antikes Monument der Führerschaft";
+  sn "Antike Monument der Führerschaft"; pn "Antiken Monumente der Führerschaft"; 
+}
+translate T1MonumentOfThought to german neuter
+{
+ swa "Antikes Monument der Gedanken";
+  sn "Antike Monument der Gedanken"; pn "Antiken Monumente der Gedanken";
+}
+
+
+translate T2MonumentOfArchitecture to german neuter
+{
+ swa "Monument der Architektur";
+  sn "Monument der Architektur"; pn "Monumente der Architektur";
+}
+translate T2MonumentOfWorship to german neuter
+{
+ swa "Monument der Verehrung";
+  sn "Monument der Verehrung"; pn "Monumente der Verehrung"; 
+}
+translate T2MonumentOfTheHumanBody to german neuter
+{
+ swa "Monument des menschlichen Körpers";
+  sn "Monument des menschlichen Körpers"; pn "Monumente des menschlichen Körpers"; 
+}
+translate T2MonumentOfLeadership to german neuter
+{
+ swa "Monument der Führerschaft";
+  sn "Monument der Führerschaft"; pn "Monumente der Führerschaft"; 
+}
+
+
+translate "Report on Our Generation's Challenges"
+to german "Liste der Herausforderungen unserer Generationen";
+
+translate "Our Generation's Challenges:"
+to german "Herausforderungen unserer Generationen:";
+
+translate "    O1 uncovered at K1"
+to german "    O1(sn) wurde freigegeben am K1";
+
+translate "Archaeologist's Dig"
+to german "Archäologengrabung";
+
+translate "Though you work carefully, you find nothing."
+to german "Obwohl du behutsam gearbeitet hast, hast du nichts gefunden.";
+
+translate "You uncover a piece of the O1 at N1x the normal speed!"
+to german "Du legst ein Stück O1(dsg) O1(sg) frei mit N1facher der normalen Geschwindigkeit!";
+
+translate "Read our Generation's Challenge"
+to german "Lese über die Herausforderung unserer Generationen";
+
+translate "Read our Ancestors' Inscriptions"
+to german "Lese die Eintragungen unserer Vorfahren";
+

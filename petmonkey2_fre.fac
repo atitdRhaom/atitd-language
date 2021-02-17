@@ -1,0 +1,27 @@
+Module Petmonkey2_fre;
+
+translate Monkey to french masculine
+{
+  ns "Singe"; np "Singe";
+}
+translate MonkeyBag to french masculine
+{
+  ns "Cage à primate"; np "Cages à primate";
+}
+translate "Open The Monkey Bag"
+to french "Ouvrir la cage à primate";
+
+translate "Are you sure you want to open the bag? Once opened, you must name the monkey, and he can never go back into the bag."
+to french "Souhaitez-vous vraiment ouvrir la cage? Une fois ouverte, vous devrez nommer le singe et il nous voudra plus retourner dans sa petite cage.";
+
+translate "What do you want to name the monkey?"
+to french "Comment voulez-vous nommer le singe?";
+
+translate "The monkey jumps out of the bag as you open it! You discard the empty bag."
+to french "Le singe jaillit de la cage au moment où vous l'ouvrez! Vous détruisez la cage vide.";
+
+translate "Type your friend's name exactly:"
+to french "Entrez le nom de votre ami:";
+
+translate "Moving monkey: N1 N2"
+to french "Déplacement du singe: N1 N2";

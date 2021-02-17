@@ -1,0 +1,448 @@
+module guilds_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment		           **
+//**                                                                       **
+//***************************************************************************
+
+translate GuildHall to german femininecollective
+{
+  swa "Gildenhalle";
+  sn "Gildenhalle"; sg "Gildenhalle"; sd "Gildenhalle"; sa "Gildenhalle";
+  pn "Gildenhallen"; pg "Gildenhallen"; pd "Gildenhallen"; pa "Gildenhallen";
+}
+
+translate "Guild Hall"
+to german "Gildenhalle";
+
+translate "Projects/Guild Hall"
+to german "Projekte/Hausbau/Gildenhalle";
+
+translate "Hide Guild Location"
+to german "Gildenstandort verstecken";
+
+translate "Keep Membership Secret"
+to german "Gildenmitgliedschaft verstecken";
+
+translate "Guild of The Stranger"
+to german "Gilde des Fremden";
+
+translate "Guild Name"
+to german "Gildenname";
+
+translate "That guild name is reserved."
+to german "Dieser Gildenname ist belegt.";
+
+translate "Number of Members"
+to german "Mitgliederanzahl";
+
+translate "Guilds can have between 1 and 250 members."
+to german "Gilden können zwischen 1 und 250 Mitgliedern haben.";
+
+translate "To build a N1 person guild hall you need."
+to german "Um eine Gildenhalle für N1 Personen zu bauen benötigst du:";
+
+translate "Demote to Member"
+to german "Degradiere Mitglied";
+
+translate "Kick out of guild"
+to german "Aus der Gilde werfen";
+
+translate "Member Applications"
+to german "Aufnahmeanträge";
+
+translate "Accept"
+to german "Akzeptieren";
+
+translate "Force my way as elder into this guildhall"
+to german "Ebne meinen Weg als Ältester in diese Gildenhalle";
+
+translate "Reject"
+to german "Ablehnen";
+
+translate "Messages"
+to german "Nachrichten";
+
+translate "Post in slot #N1"
+to german "Schreibe in Fach #N1";
+
+translate "Compose Message #N1"
+to german "Schreibe Nachricht #N1";
+
+translate "Read message #N1 'K1'"
+to german "Lese Nachricht #N1 'K1'";
+
+translate "Read message/#N1 K1"
+to german "Lese Nachricht/#N1 K1";
+
+translate "Read message #N1 K1"
+to german "Lese Nachricht #N1 K1";
+
+translate "Read message #N1"
+to german "Lese Nachricht #N1";
+
+translate "Membership"
+to german "Mitgliedschaft";
+
+translate "Set to U1"
+to german "Setze nach U1(name)";
+
+translate "Promote to Elder"
+to german "Befördere zum Ältesten";
+
+translate "Set to Initiate"
+to german "Setze auf Anwärter";
+translate "Set to Associate"
+to german "Setze auf Gefährte";
+translate "Set to Member"
+to german "Setze auf Mitglied";
+translate "Set to Kinsman"
+to german "Setze auf Angehöriger";
+translate "Set to Fellow"
+to german "Setze auf Genosse";
+translate "Set to Patriarch"
+to german "Setze auf Stammesoberhaupt";
+translate "Set to Elder"
+to german "Setze auf Stammesältester";
+
+translate "Permission for Use"
+to german "Nutzungserlaubnis";
+
+translate "Permission for Taking"
+to german "Erlaubnis zur Entnahme";
+
+translate "Permission for Stashing"
+to german "Erlaubnis zum Verstauen";
+
+translate "K1 can take"
+to german "K1 darf entnehmen";
+
+translate "Initiate"
+to german "Anwärter";
+
+translate "Associate"
+to german "Gefährte";
+
+translate "Member"
+to german "Mitglied";
+
+translate "Kinsman"
+to german "Angehöriger";
+
+translate "Fellow"
+to german "Genosse";
+
+translate "Patriarch"
+to german "Stammesoberhaupt";
+
+translate "Elder"
+to german "Stammesältester";
+
+translate "Anyone"
+to german "Jeder (auch nicht Gildenmitglieder)";
+
+translate "Useable by Initiate"
+to german "Benutzbar ab Rang 'Anwärter'";
+translate "Useable by Associate"
+to german "Benutzbar ab Rang 'Gefährte'";
+translate "Useable by Member"
+to german "Benutzbar ab Rang 'Mitglied'";
+translate "Useable by Kinsman"
+to german "Benutzbar ab Rang 'Angehöriger'";
+translate "Useable by Fellow"
+to german "Benutzbar ab Rang 'Genosse'";
+translate "Useable by Patriarch"
+to german "Benutzbar ab Rang 'Stammesoberhaupt'";
+translate "Useable by Elder"
+to german "Benutzbar ab Rang 'Stammesältester'";
+
+
+translate "Useable by Anyone"
+to german "Allen zugänglich machen";
+
+translate "an Initiate"
+to german "ein Anwärter";
+translate "an Associate"
+to german "ein Gefährte";
+translate "a Member"
+to german "ein Mitglied";
+translate "a Kinsman"
+to german "ein Angehöriger";
+translate "a Fellow"
+to german "ein Genosse";
+translate "a Patriarch"
+to german "ein Stammesoberhaupt";
+translate "a Elder"
+to german "ein Stammesältester";
+
+translate "Guild: U1"
+to german "Gilde: U1(name)";
+translate "Guild: U1 (Elder)"
+to german "Gilde: U1(name) (Ältester)";
+
+translate "GLocation: U1 N1 N2"
+to german "Gilde: U1(name) N1 N2";
+translate "Members: N1"
+to german "Gilde: N1";
+translate "Elders: N1"
+to german "Gilde: N1";
+
+translate "Cancel"
+to german "Abbruch";
+
+translate "Guild Rules"
+to german "Gildenregeln";
+
+translate "Only Elders can change ownership"
+to german "Nur Älteste können Eigentum abtreten";
+
+translate "Only Elders can tear down"
+to german "Nur Älteste können abreißen";
+
+translate "Take how many O1? (Max N1)"
+to german "Wieviel O1(pn) nehmen= (Max N1)";
+
+translate "Expand this guild hall"
+to german "Erweitere diese Gildenhalle";
+
+translate "How many members should the guild hall hold?"
+to german "Wieviele Mitglieder soll die Gilde beinhalten?";
+
+translate "The guild already has room for N1 members."
+to german "Die Gilde hat schon Platz für N1 Mitglieder.";
+
+translate "Guild halls hold a maximum of 250 members"
+to german "Gildenhallen dürfen max. 250 Mitglieder halten";
+
+translate "To upgrade from a N1 person guild hall to a N2 person hall, the guild needs:"
+to german "Um von einer Gildenhalle mit N1 Personen auf eine Gildenhalle mit N2 Personen aufzurüsten braucht die Gilde:";
+
+translate "The guild hall now holds N1 members, and N2 items."
+to german "Die Gildenhalle kann nun N1 Mitglieder und N2 Sachen aufnehmen.";
+
+translate "Guild Name?"
+to german "Gildenname?";
+
+translate "Guild hall calles U1"
+to german "Gildenhalle wird U1(name) genannt";
+
+translate "Only Elders may tear down guild halls, unless they become abandoned."
+to german "Nur Älteste  dürfen Gildenhallen abreissen, ausser sie zerfallen.";
+
+translate "You are about to tear down your guild hall. Are you absolutely positive you want to do this?"
+to german "Du willst gerade die Gildenhalle abreißen. Bist du dir absolut sicher, dass du dies tun willst?";
+
+translate "The guild hall was so well used that nothing was salvageable."
+to german "Die Gildenhalle war so gut genutzt, dass nichts zurückgeblieben ist.";
+
+translate "Guild not found."
+to german "Gilde nicht gefunden.";
+
+translate "Guild does not appear to have been torn down."
+to german "Die Gilde scheint nicht abgerissen worden zu sein.";
+
+translate "Guild has been torn down. You must reviveguild first."
+to german "Die Gilde wurde abgerissen. Du musst zuerst reviveguild durchführen.";
+
+translate "Dead Guild: U1"
+to german "Tote Gilde: U1(name)";
+
+translate "Guild Chat"
+to german "Gildenchat";
+
+translate "Nuke this guild hall!"
+to german "Vernichte diese Halle!";
+
+translate "The guild hall is busy. try again in a few seconds."
+to german "Die Gildenhalle ist beschäftigt. Versuche es gleich nochmal.";
+
+translate "All guilds must have at least one elder."
+to german "Alle Gilden müssen mindestens 1 Ältesten haben.";
+
+translate "Resign from this guild"
+to german "Aus der Gilde austreten";
+
+translate "Are you sure you want to resign?"
+to german "Bist du sicher, dass du austreten willst?";
+
+translate "At least one Elder must remain."
+to german "Mindestens ein Ältester muss in dieser Gilde bleiben.";
+
+translate "You are the last elder in this guild. Promote another before resigning."
+to german "Du bist der letzte Älteste der Gilde. Benenne einen anderes Mitglied zum Ältesten, bevor du austrittst.";
+
+translate "Remove my guild application."
+to german "Entferne meine Gildenbewerbung.";
+
+translate "Your application has been removed."
+to german "Deine Bewerbung wurde entfernt.";
+
+translate "Ask to join this guild"
+to german "Frage um Gildenaufnahme";
+
+translate "The guild is full, and can't accept any more members."
+to german "Die Gilde ist voll und kann keine neuen Mitglieder aufnehmen.";
+
+translate "A Guild elder must approve your membership application. You will be notified once they have made a decision." 
+to german "Ein Gildenältester muss deinen Antrag erst prüfen. Du wirst benachrichtigt, sobald eine Entscheidung getroffen wurde.";
+
+translate "The guild is full, and can't accept any more members."
+to german "Die Gilde ist voll und kann momentan keine Mitglieder mehr akzeptieren.";
+
+translate "Your membership in U1 was accepted. Welcome."
+to german "Deine Mitgliedschaft in der Gilde U1(name) wurde akzeptiert. Willkommen.";
+
+translate "Your membership in U1 was rejected."
+to german "Deine Mitgliedschaft in der Gilde U1(name) wurde abgelehnt.";
+
+translate "List the guild's members, by rank"
+to german "Liste der Gildenmitglieder nach Rang";
+
+translate "N1 of N2 maximum members:"
+to german "N1 von N2 maximalen Mitgliedern:";
+
+translate "U1 (Initiate)"
+to german "U1(name) (Anwärter)";
+translate "U1 (Associate)"
+to german "U1(name) (Gefährte)";
+translate "U1 (Member)"
+to german "U1(name) (Mitglied)";
+translate "U1 (Kinsman)"
+to german "U1(name) (Angehöriger)";
+translate "U1 (Fellow)"
+to german "U1(name) (Genosse)";
+translate "U1 (Patriarch)"
+to german "U1(name) (Stammesoberhaupt)";
+translate "U1 (Elder)"
+to german "U1(name) (Stammesältester)";
+
+
+translate "Open Membership Applications"
+to german "Öffne Gilde für Mitgliedsanträge";
+
+translate "Are you sure you want to open membership applications?"
+to german "Bist du sicher, dass du das du die Gilde für neue Mitglieder öffnen willst?";
+
+translate "Close Membership Applications"
+to german "Schließe Gilde für Mitgliedsanträge";
+
+translate "Message when denying applications:Membership is Closed."
+to german "Nachricht bei Ablehnung: Keine Aufnahmen möglich.";
+
+translate "Membership is Closed."
+to german "Keine Aufnahmen möglich.";
+
+translate "Set the guild's nickname"
+to german "Setze Gildenkurzname";
+
+translate "Short name for the guild?"
+to german "Kurzname für die Gilde?";
+
+translate "Made U1 K1 in U2."
+to german "Mache U1(name) K1 in der Gilde U2(name).";
+
+translate "U1 has made you K1 in U2."
+to german "Du, U1(name), bist jetzt K1 in der Gilde U2(name).";
+
+translate "List the guild's elders"
+to german "Liste der Ältesten der Gilde";
+
+translate "Help to upgrade this guild hall (Step N1 of N2)"
+to german "Hilf die Halle zu verbessern (Schritt N1 von N2)";
+
+translate "You may only do the detailed design work needed for a guild hall upgrade once per week. Do it on this guild hall?"
+to german "Detaillierte Designarbeiten an Gildenhallen können nur einmal pro Woche ausgeführt werden. Möchtest du das jetzt tun?";
+
+translate "You may not upgrade a guild hall for another K1."
+to german "Um die Gildenhalle zu verbessern, warte weitere K1.";
+
+translate "Elders of the guild are:"
+to german "Älteste der Gilde sind:";
+
+translate "Stash/O1"
+to german "Verstauen/O1(sn)";
+
+translate "Stash how many O1? (Max N1)"
+to german "Wieviel O1(pn) verstauen? (Max N1)";
+
+translate "Initiate in U1"
+to german "Anwärter in U1(name)";
+translate "Associate in U1"
+to german "Gefährte in U1(name)";
+translate "Member in U1"
+to german "Mitglied in U1(name)";
+translate "Kinsman in U1"
+to german "Angehöriger in U1(name)";
+translate "Fellow in U1"
+to german "Genosse in U1(name)";
+translate "Patriarch in U1"
+to german "Stammesoberhaupt in U1(name)";
+translate "Elder in U1"
+to german "Ältester in U1(name)";
+
+translate "Only paid accounts can build guild halls."
+to german "Nur bezahlte Accounts können Gildenhallen erbauen.";
+
+translate "Only paid accounts can be elders in a guild."
+to german "Nur bezahlte Accounts können Älteste einer Gilde sein.";
+
+translate "Designate this as my Primary Guild"
+to german "Bestimme diese Gilde zu meiner Hauptgilde";
+
+translate "Remove this as my Primary Guild"
+to german "Entferne den persönlichen Hauptgildenstatus";
+
+translate "Clear your Primary Guild designation?"
+to german "Möchtest du den Hauptgildenstatus entfernen?";
+
+translate "Primary Guild cleared."
+to german "Hauptgildenstatus entfernt.";
+
+translate "You can only switch your primary guild once per 24 hours."
+to german "Du kannst den Hauptgildenstatus nur einmal pro 24 Stunden ändern.";
+
+translate "Switch your primary guild from U1 to U2?"
+to german "Wechsel deine Hauptgilde von U1(name) zu U2(name)?";
+
+translate "Primary guild is now U1"
+to german "Hauptgilde ist nun U1(name)";
+
+translate "Guild Location is Secret"
+to german "Gildenstandort ist geheim";
+
+translate "Edit the Guild's Info Text"
+to german "Ändere den Gildeninfotext";
+
+translate "Manage Membership"
+to german "Mitgliedsverwaltung";
+
+translate "Fetching guild membership list..."
+to german "Abruf der Mitgliederliste...";
+
+translate "Set Permission for Taking"
+to german "Entnahmeerlaubnis";
+
+translate "K1 can take"
+to german "K1 darf entnehmen";
+
+translate "You can not set the permission for taking to be less than the permission for use."
+to german "Du kannst die Entnahmeerlaubnis nicht niedriger setzen als die Nutzungserlaubnis.";
+
+translate "Text to be displayed on the /info screen:"
+to german "Anzeigetext im /info Fenster:";
+
+translate "This Guild was recently checked, and won't be covered for at least K1."
+to german "Diese Gilde wurde unlängst geprüft und wird für mindestens K1 nicht mehr abgefragt werden können.";
+
+translate "The guild will not be eligible for at least K1, because U1 is K2, and is in Egypt right now!"
+to german "Die Gilde wird für mindestens K1 nicht in Frage kommen, weil U1(name) ist K2 und befindet sich grade in Ägypten!";
+
+translate "The guild will not be eligible for at least K1, because U1 is K2, and was last in Egypt K3 ago."
+to german "Die Gilde wird für mindestens K1 nicht in Frage kommen, weil U1(name) ist K2 und war vor K3 in Ägypten.";
+
+translate "You may promote yourself to Elder, since no higher ranking member has been in Egypt for at least 30 days. Proceed?"
+to german "Du kannst dich selbst als Ältesten eintragen, weil kein höherrangigeres Mitglied für mindestens 30 Tage in Ägypten war. Fortfahren?";
+

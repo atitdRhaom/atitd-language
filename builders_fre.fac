@@ -1,0 +1,404 @@
+module builders_fre;
+
+translate clay to french feminine
+{
+	ns "Argile"; np "Argiles";
+	}
+
+translate demochickencoop to french masculine { ns "Poulailler"; np "Poulaillers"; }
+
+translate demoapiary to french feminine { ns "Ruche"; np "Ruches"; }
+
+translate demorabbithutch to french masculine { ns "Clapier à lapin"; np "Clapiers à lapins"; }
+
+translate Column1 to french feminine { ns "Colonne verticale"; np "Colonnes verticales"; }
+translate Column2 to french feminine { ns "Colonne inclinée"; np "Colonnes inclinées"; }
+translate Column3 to french feminine { ns "Colonne couchée"; np "Colonnes couchées"; }
+translate Column4 to french feminine { ns "Colonne enterrée"; np "Colonnes enterrées"; }
+
+translate BlackColumn to french feminine { ns "Colonne noire"; np "Colonnes noires"; }
+translate YellowColumn to french feminine { ns "Colonne jaune"; np "Colonnes jaunes"; }
+translate GreenColumn to french feminine { ns "Colonne verte"; np "Colonnes vertes"; }
+translate BrownColumn to french feminine { ns "Colonne marron"; np "Colonnes marron"; }
+
+translate "Map of Egypt" to french "Carte de l'Egypte";
+
+translate demosmallhouse to french feminine
+{ ns "Petite maison"; np "Petites maisons"; }
+
+translate demomediumhouse to french feminine
+{ ns "Maison moyenne"; np "Maisons moyennes"; }
+
+translate demolargehouse to french feminine
+{ ns "Grande maison"; np "Grandes maisons"; }
+
+translate BlueBanner to french feminine
+{
+	ns "Bannière bleue"; np "Bannières bleues";
+	}
+
+translate GreenBanner to french feminine
+{
+	ns "Bannière verte"; np "Bannières vertes";
+	}
+
+translate OrangeBanner to french feminine
+{
+	ns "Bannière orange"; np "Bannières oranges";
+	}
+
+translate PurpleBanner to french feminine
+{
+	ns "Bannière violette"; np "Bannières violettes";
+	}
+translate BlackBanner to french feminine
+{
+	ns "Bannière noire"; np "Bannières noires";
+	}
+
+translate WhiteBanner to french feminine
+{
+	ns "Bannière blanche"; np "Bannières blanches";
+	}
+
+translate HeavyStone to french feminine
+{
+	ns "Lourde pierre"; np "Lourdes pierres";
+	}
+
+translate Campfire to french masculine
+{
+	ns "Feux de camp"; np "Feux de camp";
+	}
+
+translate Camptent to french feminine
+{
+	ns "Tente de campement"; np "Tentes de campement";
+	}	
+	
+translate Camptorch to french feminine
+{
+	ns "Torche de camp"; np "Torches  de camp";
+	}
+
+translate Memorial to french masculine
+{
+	ns "Mémorial"; np "Mémorials";
+	}
+
+translate Bench to french masculine
+{
+	ns "Banc"; np "Bancs";
+	}
+
+translate Onespout to french masculine
+{
+	ns "Jet"; np "Jet";
+	}
+
+translate manyspout to french masculine
+{
+	ns "Beaucoup de Jets"; np "Beaucoup de Jets";
+	}
+	
+translate StrangerRock to french feminine
+{
+ns "Rocher de l'Etranger"; np "Rochers de l'Etranger";
+}
+
+translate Campfire to french masculine
+{
+ns "Feu de camp"; np "Feux de camp";
+}
+
+translate Camptent to french feminine
+{
+ns "Tente"; np "Tente";
+}
+
+translate Camptorch to french feminine
+{
+ns "Torche"; np "Torche";
+}
+
+translate "Paint Reseed"
+to french "Repiquage";
+
+translate "Conjure 100 Builder Money"
+to french "Créer 100 Pièces de Construction";
+
+translate "Enter Builder Mode"
+to french "Entrer dans le mode Construction";
+
+translate "Exit Builder Mode"
+to french "Quitter le mode Constuction";
+
+translate "Populous"
+to french "Peuplement";
+
+translate "Trees"
+to french "Arbres";
+
+translate "University"
+to french "Université";
+
+translate "School"
+to french "Ecole";
+
+translate "Road Signs"
+to french "Panneaux indicateurs";
+
+translate "Major Signs"
+to french "Panneaux importants";
+
+translate "Sign to O1"
+to french "Panneau indicant O1(ns)";
+
+translate "Other"
+to french "Autre";
+
+translate "Define and Select Red Sand"
+to french "Définir et sélectionner le sable rouge";
+
+translate "Warp to Builder Island"
+to french "Se téléporter sur l'île de construction";
+
+translate "Return to Egypt"
+to french "Retourner en égypte";
+
+translate "Rip this out!"
+to french "Détruire !";
+
+translate "Recalculate walkability for Egypt"
+to french "Recalculer l'accessibilité pour l'égypte";
+
+translate "You have been commanded to stand still."
+to french "On vous a demandé de ne pas bouger.";
+
+translate "You are on a vehicle."
+to french "Vous êtes sur un véhicule.";
+
+translate "You are smoking. Get up first."
+to french "Vous êtes en train de fumer. Levez-vous d'abord.";
+
+translate "Walk"
+to french "Marcher";
+
+translate "Warp"
+to french "Se téléporter";
+
+translate "PAINTSURFACE"
+to french "Surface à peindre";
+
+translate "RAISELAND"
+to french "Accident de terrain";
+
+translate "LOWERLAND"
+to french "Dépression de terrain";
+
+translate "SMOOTH"
+to french "Lisser";
+
+translate "SMOOTHROADS"
+to french "Lisser les routes";
+
+translate "PLATEAU"
+to french "Plateau";
+
+translate "EYEDROPPER"
+to french "Regarder";
+
+translate "SURFACEREPLACE"
+to french "Surface utilisée";
+
+translate "QUICKPLACER"
+to french "Placer rapidement";
+
+translate "PAINTSLOPES"
+to french "Colorer les pentes";
+
+translate "Softness"
+to french "Douceur";
+
+//translate "HardCircle"
+//translate "HardSquare"
+
+translate "More Sand"
+to french "Plus de sable";
+
+translate "Clay"
+to french "Argile";
+
+translate "More Clay"
+to french "Plus d'argile";
+
+translate "Rocks"
+to french "Pierres";
+
+translate "More Rocks"
+to french "Plus de pierres";
+
+translate "Pebbles"
+to french "Cailloux";
+
+translate "More Pebbles"
+to french "Plus de cailloux";
+
+translate "Dirt"
+to french "Terreau";
+
+translate "More Dirt"
+to french "Plus de terreau";
+
+translate "Mud"
+to french "Boue";
+
+translate "Tiled Path"
+to french "Chemin dallé";
+
+translate "Bumpy Path"
+to french "Chemin difficile";
+
+translate "More Bumpy Path"
+to french "Plus de chemin difficile";
+
+translate "Marble"
+to french "Marbre";
+
+translate "More Marble"
+to french "Plus de marbre";
+
+translate "Temporary"
+to french "Temporaire";
+
+translate "Special"
+to french "Spécial";
+
+translate "Strength"
+to french "Force";
+
+translate "Elevation"
+to french "Elévation";
+
+translate "Tile Grid"
+to french "Grille";
+
+translate "Hide"
+to french "Masquer";
+
+translate "Show"
+to french "Montrer";
+
+translate "Are you sure you want to rip out the O1."
+to french "Voulez-vous vraiment détruire O1(cns) O1(ns) ?";
+
+translate "Select Texture"
+to french "Choisir la texture";
+
+translate "Illegal builder brush specified."
+to french "Données illégales spécifiées";
+
+translate "Page0"
+to french "Page0";
+translate "Page1"
+to french "Page1";
+translate "Page2"
+to french "Page2";
+translate "Page3"
+to french "Page3";
+translate "Page4"
+to french "Page4";
+translate "Page5"
+to french "Page5";
+translate "Close"
+to french "Fermer";
+
+translate "Illegal option to toggle"
+to french "Option inchangeable";
+
+translate "You are out of Builder Money"
+to french "Vous n'avez plus de Pièces de construction !";
+
+translate "Flag U1 as a builder"
+to french "Associer U1(name) à cette construction";
+
+translate "U1 is flagged as a builder."
+to french "U1(name) est associé à la construction.";
+
+translate "Unflag U1 as a builder"
+to french "Ne plus associer U1(name) à la construction";
+
+translate "U1 is back to normal."
+to french "U1(name) a retrouvé son statut normal.";
+
+translate "Permanently remove this O1"
+to french "Retirer définitivement O1(cns) O1(ns)";
+
+translate "Removing universities is usually not allowed, because they may have research."
+to french "Retirer une université n'est pas autorisé, car elles permettent la recherche.";
+
+translate "Are you sure you want to remove the O1?"
+to french "Voulez-vous effacer O1(cns) O1(ns) ?";
+
+translate "Did a total of N1 brushlands."
+to french "Total de N1 terrains avec buissons";
+
+translate "You cannot move. I have no idea why. Please report this bug to eGenesis."
+to french "Vous ne pouvez pas bouger. Nous ne savons pas pourquoi. Veuillez signaler ce bug à eGenesis.";
+
+translate "Hint: You can send these messages to the Console window. Use Options/Interface Options/Notifications"
+to french "Conseil: Vous pouvez envoyer ces messages dans votre fenetre de chat principale. Vous pouvez modifier ceci sous -> Options/Options d'interface/";
+
+translate "You are carrying too much weight."
+to french "Vous êtes trop chargé.";
+
+translate "You are carrying too much bulk."
+to french "Vous portez trop d'objets.";
+
+translate "You are carrying too much"
+to french "Vous êtes surchargé.";
+
+translate "You cannot move in AFK-mode. Click on yourself."
+to french "Vous ne pouvez pas bouger en mode AFK - Cliquez sur votre personnage.";
+
+translate "You are experiencing a force which you cannot understand.."
+to french "Vous éprouvez une force que vous ne pouvez pas comprendre...";
+
+translate "The water is too deep."
+to french "L'eau est trop profonde.";
+
+translate "The terrain is too steep."
+to french "Le terrain est trop pentu.";
+
+translate "The red line marks the edge of Pharaoh's lands."
+to french "La ligne rouge marque la frontière des terres de Pharaon.";
+
+translate "You can't do that when you can't move."
+to french "Vous ne pouvez faire cela quand vous ne pouvez pas bouger.";
+
+translate "Do you want to drop something?"
+to french "Voulez-vous abandonner quelque chose ?";
+
+translate "What do you want to drop?"
+to french "Que voulez-vous abandonner ?";
+
+translate "Drop how many O1?"
+to french "Abandonner combien de O1(np) ?";
+translate "Drop how many O1:K1?"
+to french "Abandonner combien de O1(np):K1 ?";
+
+translate "GM Reposition this O1"
+to french "Repositionnement O1(cns) O1(ns)";
+
+translate "You are experiencing a force which you cannot understand."
+to french "Vous êtes victime d'une force que vous ne comprenez pas.";
+
+translate "You are disoriented from the force of the explosion. You can move in a few moments."
+to french "Vous êtes désorienté par la force de l'explosion. Vous êtes immobilisé pendant quelques instants.";
+
+translate "You cannot move. This area is out of bounds"
+to french "Vous ne pouvez pas vous déplacer. Cette zone est hors des frontières";
+
+  
+  
+ 

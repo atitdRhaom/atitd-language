@@ -1,0 +1,89 @@
+module stainglass_fre;
+
+translate RaeliMosaic to french feminine
+{
+ns "L'épreuve de la Mosaïque Raeli"; np "L'épreuve de la Mosaïque Raeli";
+}
+
+translate Stainglass to french feminine
+{
+ns "Mosaïque Raeli"; np "Mosaïque Raeli";
+}
+
+translate "Sheet Glass for Backframe"
+to french "Feuilles de verre pour l'arrière plan";
+translate "Steel Wire for Backplane Tension"
+to french "Fils d'acier pour soutenir l'arrière plan";
+translate "Glossy White Boards for Frame"
+to french "Planches vernies blanches pour le cadre";
+translate "Glossy Blonde Boards for Frame"
+to french "Planches vernies blondes pour le cadre";
+translate "Carpentry Blade, 3500+ Quality"
+to french "Lame de menuiserie de qualité 3500+";
+
+translate "Raeli Mosaics are unique displays of tiles, arranged to form beautiful works of art.  You have the option of tearing your Mosaic down early, skipping the Judging steps."
+to french "Les Mosaïques Raeli sont des compositions de tuiles céramiques, agencées pour former de magnifiques motifs artistiques. Vous avez la possibilité de détruire votre mosaïque afin d'éviter les phases d'évaluation.";
+
+
+
+
+translate "Build a Raeli Oven (optional)"
+to french "Construire un Four Raeli (facultatif)";
+translate "Start the oven Dredging"
+to french "Lancer l'extraction de tuiles sur le four";
+translate "Begin the Baking Process"
+to french "Lancer le processus de cuisson sur le four";
+translate "Interrupt the Baking Process before the tiles are Black"
+to french "Interrompre le processus de cuisson avant que les tuiles deviennent noires";
+translate "Build a Raeli Mosaic"
+to french "Construire une Mosaïque Raeli";
+translate "Tear down your Raeli Mosaic OR do the following:"
+to french "Détruire votre mosaïque, OU suivez ces étapes :";
+translate "    Have Seven Judges rate your Raeli Mosaic"
+to french "    Que sept juges évaluent votre Mosaïque";
+                                
+translate "The Test of the Raeli Mosaic"
+to french "L'épreuve de la Mosaïque Raeli";
+
+translate "You have completed Principles of Raeli Mosaic."
+to french "Vous avez terminé les Principes de la Mosaïque Raeli.";
+
+translate "You sign up for the Test of the Raeli Mosaic and learn to build the stately art forms."
+to french "Vous vous lancez dans l'épreuve de la Mosaïque Raeli et apprenez les rudiments de cet art ancien.";
+
+translate "Raeli Mosaic"
+to french "Mosaïque Raeli";
+
+translate "Scribe Complexity"
+to french "Compléxité: Scribe";
+translate "Master Complexity"
+to french "Compléxité: Maître";
+translate "Sage Complexity"
+to french "Compléxité: Sage";
+translate "Oracle Complexity"
+to french "Compléxité: Oracle";
+
+translate "To build a Raeli Mosaic you need:"
+to french "Pour construire une Mosaïque Raeli, il vous faut:";
+
+translate "Your Raeli Mosaic is not complete."
+to french "Votre Mosaïque Raeli n'est pas achevée.";
+
+translate "Discard the entire tray"
+to french "Détruire la composition";
+
+translate "Are you sure you want to discard the entire tray?"
+to french "Etes-vous sur de vouloir détruire votre création?";
+
+translate "Are you sure you want to wipe out your design?"
+to french "Etes-vous sur de vouloir détruire votre création?";
+
+translate "Editor"
+to french "Editeur";
+
+translate "Editor:"
+to french "Editeur:";
+
+translate "Return to Design Mode"
+to french "Revenir en mode création";
+

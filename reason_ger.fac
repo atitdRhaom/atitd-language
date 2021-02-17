@@ -1,0 +1,99 @@
+module Reason_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment		           **
+//**                                                                       **
+//***************************************************************************
+
+translate Reason to german masculine
+{
+swa "Test des Verstandes";
+  sn "Test des Verstandes"; sg "Test des Verstandes"; sd "Test des Verstandes"; sa "Test des Verstandes";
+  pn "Test des Verstandes"; pg "Test des Verstandes"; pd "Test des Verstandes"; pa "Test des Verstandes";
+}
+
+translate Critic to german masculine
+{
+swa "Test der Kritik";
+  sn "Test der Kritik"; sg "Test der Kritik"; sd "Test der Kritik"; sa "Test der Kritik";
+  pn "Test der Kritik"; pg "Test der Kritik"; pd "Test der Kritik"; pa "Test der Kritik";
+}
+translate "Principles of Reason challenges you to solve three of each of several kinds of Thought puzzles."
+to german "Die Prinzipien des Verstandes weisen dich an, jeweils drei der verschiedenen Gedanken Puzzles zu spielen.";
+
+translate "Solve three Pathmakers, and rate them"
+to german "Spiele drei Wegbereiter und bewerte sie";
+translate "Solve three Scholar's Gemcutting Tables, and rate them"
+to german "Spiele 3 Übungs-Edelsteinschleifereien und bewerte sie";
+translate "Solve three Empty Hand Towers, and rate them"
+to german "Spiele drei Türme der Leere Hand und bewerte sie";
+translate "Run three Venery, and rate them"
+to german "Laufe drei Schnitzeljagden und bewerte sie";
+translate "Check your Judgement Hints (after Test advances)"
+to german "Prüfe deine Bewertungstipps (nach Testfortschritten)";
+
+translate "The Test of Reason must be petitioned by one who has judged a Pathmaker, a Scholar's Gemcutting Table, an Empty Hand Tower, and a Venery."
+to german "Der Test des Verstandes muss von jemandem erbeten werden, der einen Wegbereiter, eine Übungsedelsteinschleiferei, einen Turm der Leeren Hand und eine Schnitzeljagd bewertet hat.";
+
+translate "You have completed Principles of Reason."
+to german "Du hast die Prinzipien des Verstandes gemeistert.";
+
+translate "In the Test of Reason you must solve and judge as many Thought puzzles as possible. Those that judge the most advance in the Discipline of Thought."
+to german "Im Test des Verstandes musst du so viele Gedanken Puzzles spielen und bewerten wie möglich. Diejenigen mit den meisten abgegebenen Bewertungen steigen in der Disziplin der Gedanken auf.";
+
+translate "Principles of the Critic asks that you judge several types of artwork."
+to german "Die Prinzipien der Kritik erwarten, dass verschiedene Arten von Kunstwerken bewertet werden.";
+
+translate "Evaluate seven Formal Gardens"
+to german "Bewerte sieben Architektonische Gärten";
+translate "Evaluate seven Raeli Mosaics"
+to german "Bewerte sieben Raeli Mosaiken";
+translate "Judge a Scarab Garden"
+to german "Werte in einem Scarabäengarten";
+translate "Judge a Pyrotechnics Competition"
+to german "Werte einen Pyrotechnikwettbewerb";
+
+translate "The Test of Critic must be petitioned by any Initiate of Harmony, but only after the Tests of Pyrotechnics, Khefre's Children, The Raeli Mosaic, and The Formal Garden have been unlocked."
+to german "Der Test der Kritik muss von jemandem erbeten werden, der ein Eingeweihter der Harmonie ist. Dies ist erst nach Eröffnung der Tests der Pyrotechnik, der Kinder Khefres, des Raelimosaiks und des Architektonischen Gartens möglich.";
+
+translate "Egypt recognizes K1 for passing the Test of Reason."
+to german "Ägypten ehrt K1. Sie haben den Test des Verstandes bestanden.";
+
+translate "No winners in the Test of Reason."
+to german "Keine Gewinner im Test des Verstandes.";
+
+translate " Retaining N1 passes."
+to german " N1 Durchgänge gespeichert.";
+
+translate " Retaining N1 advances."
+to german " N1 Fortschritte gespeichert.";
+
+translate "Check most recent Score"
+to german "Prüfe den den aktuellsten Stand";
+
+translate "Test of the Reason:"
+to german "Test des Verstandes:";
+
+translate " Total Score is N1"
+to german " Gesamtpunktzahl ist N1";
+
+//translate "Note: Early on, points for each type of work you judged are equal to the number of distinct peer judges you had among those works. As the number of works in the world increases, maximum points per type tends to top out at around 150."
+//to german ""
+
+translate "You have completed Principles of The Critic."
+to german "Du hast die Prinzipien der Kritik gemeistert.";
+
+translate "Egypt recognizes K1 for passing the Test of the Critik."
+to german "Ägypten ehrt K1. Sie haben den Test der Kritik bestanden.";
+
+translate "No winners in the Test of the Critic."
+to german "Keine Gewinner im Test der Kritik.";
+
+translate "Check Last Week's Score"
+to german "Punktestand der letzten Woche prüfen";
+
+translate "Test of the Critic:"
+to german "Test der Kritik:";

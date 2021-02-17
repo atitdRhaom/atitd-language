@@ -1,0 +1,13 @@
+module testofthefisherman_fre;
+
+translate "The Test of the Fisherman" to french "Epreuve du Pêcheur";
+
+translate "Fishing can test of whole person, Strength, Dexterity, Endurance, Speed,"
+to french "La pêche met à l'épreuve toute la personne : Force, Dextérité, Endurance, Vitesse";
+
+translate "Focus, Perception, and Constitution.  Test your skills as a fisherman,"
+to french "Concentration, Perception et consitution. Testez vos compétences de pêcheur"; 
+
+translate "by catching and mounting at the direction of the University."
+to french "en attrapant et montant des poissons suivant les instructions de l'Université";
+

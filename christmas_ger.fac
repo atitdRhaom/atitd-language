@@ -1,0 +1,207 @@
+module christmas_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**            German Version: Astrid "Infinyti" Werner                   **
+//**                            2011                                       **
+//**                                                                       **
+//***************************************************************************
+
+
+translate XmasPresent0 to german neuter
+{
+	swa "Altes Geschenk";
+	sn "Alte Geschenk";
+	pn "Alten Geschenke";
+}
+
+translate XmasPresent1 to german neuter
+{
+	swa "Geschenk";
+	sn "Geschenk";
+	pn "Geschenke";
+}
+
+translate XmasPresent2 to german neuter
+{
+	swa "Geschenk";
+	sn "Geschenk";
+	pn "Geschenke";
+}
+
+translate XmasPresent3 to german neuter
+{
+	swa "Geschenk";
+	sn "Geschenk";
+	pn "Geschenke";
+}
+
+translate PortableSnowstorm to german masculine
+{
+	swa "tragbarer Schneesturm";
+	sn "tragbare Schneesturm";
+	pn "tragbaren Schneestürme";
+}
+
+translate Snowstorm to german masculine
+{
+	swa "Schneesturm";
+	sn "Schneesturm";
+	pn "Schneestürme";
+}
+
+translate ChocolateCaramelPyramids to german femininecollective
+{
+  swa "Schoko-Karamel-Pyramide";
+  sn "Schoko-Karamel-Pyramide"; 
+  pn "Schoko-Karamel-Pyramiden";
+}
+
+translate ChocolatePeanutClusters to german femininecollective
+{
+  swa "Erdnußschokolade";
+  sn "Erdnußschokolade"; 
+  pn "Erdnußschokolade"; 
+}
+
+translate ChocolateDateJumbles to german femininecollective
+{
+  swa "Dattelschokoladenmischung";
+  sn "Dattelschokoladenmischung";
+  pn "Dattelschokoladenmischung";
+}
+
+translate ChocolateCoconutWafers to german femininecollective
+{
+  swa "Schoko-Kokosnußwaffel";
+  sn "Schoko-Kokosnußwaffel"; 
+  pn "Schoko-Kokosnußwaffeln"; 
+}
+translate ChocolateLemonJellies to german femininecollective
+{
+  swa "Schoko-Zitronengelee";
+  sn "Schoko-Zitronengelee"; 
+  pn "Schoko-Zitronengelees"; 
+}
+translate ChocolateWineCordials to german femininecollective
+{
+  swa "Weinbrand-Praline";
+  sn "Weinbrand-Praline"; 
+  pn "Weinbrand-Pralinen"; 
+}
+translate ChocolateNougatSquares to german femininecollective
+{
+  swa "Nußnugat-Quadrat";
+  sn "Nußnugat-Quadrat"; 
+  pn "Nußnugat-Quadrate"; 
+}
+
+translate ChocolateHearts to german neuter
+{
+  swa "Schokoladenherz";
+  sn "Schokoladenherz";
+  pn "Schokoladenherzen";
+}
+
+translate ChocolateCinnamonMeltaways to german femininecollective
+{
+  swa "Zartschmelzende Zimtschokolade";
+  sn "Zartschmelzende Zimtschokolade";
+  pn "Zartschmelzende Zimtschokolade";
+}
+
+translate ChocolateMintToffees to german femininecollective
+{
+  swa "Schokoladenminztoffie";
+  sn "Schokoladenminztoffie";
+  pn "Schokoladenminztoffies";
+}
+
+translate ChocolateCoveredAnts to german femininecollective
+{
+  swa "Schokoladenüberzogene Ameise";
+  sn "Schokoladenüberzogene Ameise";
+  pn "Schokoladenüberzogene Ameisen";
+}
+
+translate ChocolateOrangeChews to german femininecollective
+{
+  swa "Schoko-Kaubonbon mit Orangengeschmack";
+  sn "Schoko-Kaubonbon mit Orangengeschmack";
+  pn "Schoko-Kaubonbons mit Orangengeschmack";
+}
+
+translate ChocolateGrapeCordials to german femininecollective
+{
+  swa "Beschwipste Schokotraube";
+  sn "Beschwipste Schokotraube";
+  pn "Beschwipste Schokotrauben";
+}
+
+translate "Add to Christmas Tree List"
+	to german "Zur Weihnachtsbaumliste hinzufügen";
+
+translate "Now N1 trees."
+	to german "Jetzt N1 Bäume.";
+	
+translate "It's a present for U1"
+	to german "Das ist ein Geschenk für U1(name)";
+
+translate "Spawning gifts for U1"
+	to german "Versteckte Geschenke für U1(name)";
+
+translate "Open the present!"
+	to german "Öffne dein Geschenk!";
+
+translate "It's a box of chocolates!"
+	to german "Es ist eine Schachtel voller Schokolade!";
+
+translate "Eat some Chocolate"
+	to german "Iss etwas Schokolade";
+
+translate "It's a bundle of fireworks!"
+	to german "Es ist eine Ladung Feuerwerk!";
+
+translate "Strangely, although the chocolate tasted good, it didn't seem to have any effect."
+	to german "Merkwürdig, auch wenn die Schokolade gut schmeckt, scheint sie keinerlei Wirkung zu haben.";
+
+translate "Wow, Santa must be in a generous mood - it's a Cornerstone!"
+	to german "WOW, der Weihnachtsmann muss in einer spendablen Laune sein - das ist ein Grundstein!";
+
+translate "Give Christmas Gifts"
+	to german "Weihnachtsgeschenke überreichen";
+
+translate "U1 should already have gifts somewhere in Egypt."
+	to german "U1(name) sollte bereits irgendwo in Ägypten Geschenke haben.";
+
+translate "Christmas ends in K1"
+	to german "Weihnachtet endet in K1";
+
+translate "There are N1 gifts remaining for N2 players"
+	to german "Es verbleiben N1 Geschenke für N2 Spieler";
+
+translate "Start Christmas Now"
+	to german "Starte Weihnachten jetzt!";
+
+translate "Start Christmas in 19 Hours"
+	to german "Starte Weihnachten in 19 Stunden";
+
+translate "Clear all Christmas data and abort"
+	to german "Lösche alle Weihnachtsdaten";
+
+translate "Start the Snowstorm"
+	to german "Schneesturm starten";
+
+translate "Presents for how many players? There are N1 players waiting for gifts."
+	to german "Geschenke für wieviele Spieler. Es warten N1 Spieler auf Weihnachtspäckchen.";
+
+translate "Snowstorm has already intensified."
+	to german "Schneesturm wurde bereits verschärft.";
+
+translate "You made it snow! You have participated in N1 snowstorms."
+	to german "Du hast es schneien lassen, damit hast du bei N1 Schneestürmen mitgemacht.";
+
+translate "Experienced an Egyptian Snowstorm"
+	to german "Einen ägyptischen Schneesturm miterlebt";
+

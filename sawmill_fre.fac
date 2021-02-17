@@ -1,0 +1,109 @@
+module SawMill_fre;
+
+translate Sawmill to french feminine
+{
+	ns "Scierie"; np "Scieries";
+	}
+translate sawdust to french feminine
+{ns "Sciure"; np "Sciures";}
+
+translate "Pinch Rollers"
+to french "Rouleaux à pression";
+translate "Steel Wire"
+to french "Fils d'acier";
+translate "Steel Blades"
+to french "Lames d'acier";
+translate "Symmetry Cut Amethyst"
+to french "Améthyste taillée : Symétrie";
+translate "Symmetry Cut Garnet"
+to french "Grenat taillé : Symétrie";
+translate "Cut Stone"
+to french "Pierres taillées";
+translate "White Raeli Tiles"
+to french "Tuiles Raeli blanches";
+translate "Black Raeli Tiles"
+to french "Tuiles Raeli Noires";
+translate "Mountain Marble"
+to french "Marbres des Montagnes";
+
+translate "Before you start a sawmill processing, you must install a new set of primary blades."
+to french "Avant de démarrer la scierie, vous devez installer une nouvelle paire de lames principales";
+translate "Are you sure you want to stop this O1"
+to french "Etes-vous sûr de vouloir arrêter O1(cns) O1(ns) ?";
+translate "Steel Wire for Guide Mechanism"
+to french "Fils d'acier pour le mécanisme";
+translate "Symmetry Cut Amethyst for Universal Joint"
+to french "Améthyste taillée : Symétrie, pour les charnières";
+translate "Symmetry Cut Garnet for Universal Joint"
+to french "Grenat taillé : Symétrie, pour les charnières";
+translate "Cut Stone for Base"
+to french "Pierres taillées pour la base";
+translate "White Raeli Tiles - Heat Shield Reflector"
+to french "Tuiles Raeli blanches - Bouclier réflecteur de chaleur";
+translate "Black Raeli Tiles - Heat Shield Absorber Surface"
+to french "Tuiles Raeli noires - Bouclier absorbateur de chaleur";
+translate "Mountain Marble - Heat Shield Absorber"
+to french "Marbres des Montagnes - Bouclier absorbateur de chaleur";
+translate "Small Gears"
+to french "Petits pignons";
+translate "Medium Gears"
+to french "Moyens pignons";
+translate "Large Gears"
+to french "Gros pignons";
+translate "Install New Primary Blades"
+to french "Installer de nouvelles lames principales";
+translate "Upgrade and enlarge the hopper"
+to french "Améliorez et élargissez la trémie";
+translate "Check Spring Box requirement"
+to french "Vérifiez les éxigences de la boîte à ressort";
+translate "Hopper Upgrade donation"
+to french "Amélioration de la trémie";
+translate "Thoth's Metal Sheeting: Hard Stainless Ductile"
+to french "Revêtements en métal de Thot: Dur, inoxydable, malléable";
+
+translate "Allows construction of powerful yet precise sawmills, which automate board production."
+to french "Permet la construction de scieries puissantes, pour la production automatique de planches."; 
+
+translate "You learn to build automatic sawmills."
+to french "Vous apprennez à construire des scieries automatisées.";
+
+translate "Automatic Sawmill"
+to french "Scierie Automatisée";
+
+translate "To construct an Automatic Sawmill you need:"
+to french "Pour construire une scierie automatisée, il vous faut :";
+
+translate "Speed-Teach Ancient Automation"
+to french "Enseigner rapidement les Automates Anciens";
+
+translate "You learn the secret to Ancient Automation!"
+to french "Le secret des automates anciens vous a été révélé !";
+
+translate "You teach Ancient Automation to U1"
+to french "Vous enseignez les automates anciens à U1(name)";
+
+translate "Start processing boards"
+to french "Lancer la production de planches";
+
+translate "When you start a sawmill processing, you must install a new set of primary blades."
+to french "Quand vous lancez une scierie, vous devez installer de nouvelles lames.";
+
+translate "You must first load the hopper with wood."
+to french "Vous devez d'abord remplir le container de bois.";
+
+translate "Are you sure you want to abandon the upgrade? Any materials donated so far will stay within the building."
+to french "Etes-vous sur de vouloir abandonner l'amélioration ? Tous les matériaux utilisés jusqu'à présent resteront dans le bâtiment";
+
+translate "The Sawmill requires two Steel Blades to act as primary blades per load."
+to french "La scierie nécessite deux lames d'acier en tant que lames primaires pour chaque chargement";
+
+
+translate "Stop the sawmill"
+to french "Arrêter la scierie";
+
+translate "Load the Sawmill with Wood"
+to french "Remplir la scierie de bois";
+
+translate "Load how much Wood? (Max N1)"
+to french "Combien de bois? (Max. N1)";
+

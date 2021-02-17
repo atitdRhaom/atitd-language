@@ -1,0 +1,233 @@
+module yokir_fre;
+
+translate trybeginyokir to french feminine
+{ ns "Bases du Yokir"; np "Bases du Yokir"; }
+
+translate yokirdesk to french feminine
+{
+	ns "Plateau de Yokir"; np "Plateaux de Yokir";
+	}
+
+translate "Learn how to play Yokir"
+to french "Apprendre à jouer au Yokir";
+translate "Read \"How do I play Yokir?\" at a Yokir Desk"
+to french "Lire \"Comment jouer au Yokir ?\" sur un plateau de Yokir";
+translate "Play a game of Yokir"
+to french "Faire une partie de Yokir";
+translate "Call a Trump"
+to french "Appeler l'Atout";
+translate "Win a trick"
+to french "Gagner un pli";
+translate "Finish a game of Yokir"
+to french "Terminer une partie de Yokir";
+
+translate "Be a Spectator"
+to french "Etre spectateur";
+ 
+translate "Read the Legend of Yokir"
+to french "Lire la Légende du Yokir";
+
+translate "Start a tournament game of Yokir"
+to french "Lancer une partie de Yokir pour un tournoi";
+
+translate "Game Over"
+to french "Partie terminée";
+
+translate "You are signed up to play a Tournament game"
+to french "Vous êtes inscrit pour une partie dans le cadre d'un tournoi";
+
+translate "Student"
+to french "Etudiant";
+
+translate "Journeyman"
+to french "Camarade";
+
+translate "Prentice"
+to french "Apprenti";
+
+translate "Master"
+to french "Maître";
+
+translate "Architecture"
+to french "Architecture";
+
+translate "Art and Music"
+to french "Art & Musique";
+
+translate "Thought"
+to french "Pensée";
+
+translate "Pass"
+to french "Passer";
+
+translate "Agree to quit"
+to french "Concéder à quitter";
+
+translate "Game has been voluntarily stopped."
+to french "La partie a été arrêtée volontairement.";
+
+translate "Discard for Trump"
+to french "Echanger avec l'atout";
+
+translate "trump"
+to french "Atout";
+
+translate "Lead"
+to french "Commandement";
+
+translate "Play"
+to french "Jouer";
+
+translate "Reset this Table"
+to french "Réinitialiser la table";
+
+translate "Resetting..."
+to french "Réinitialisation...";
+
+translate "U1 has reset the table, resulting in a loss for U2 and a win for nobody."
+to french "U1(name) a réinitialisé le plateau, entraînant la défaite de U2(name) et aucune victoire.";
+
+translate "Reset this Yokir Table"
+to french "Réinitialiser ce plateau de Yokir";
+
+translate "Are you sure you want to abort this game? This will give you a loss. Instead, it's better to have everyone Agree to Quit using the menu."
+to french "Voulez-vous vraiment mettre un terme à cette partie ? Cela entrainera votre défaite. Il est préférable que tout le monde concède à quitter via le menu du plateau.";
+
+translate "Are you sure you want to abort this practice game?"
+to french "Voulez-vous vraiment mettre un terme à la partie ?";
+
+translate "U1 has reset the table. Since it was a practice game, there is no penalty."
+to french "U1(name) a réinitalisé le plateau. C'était un entrainement, donc aucune pénalité n'en résulte.";
+
+translate "The match has been won by U1"
+to french "U1(name) remporte la partie";
+
+translate "card?"
+to french "carte?";
+
+translate "trump?"
+to french "atout?";
+
+translate "You must play a Architecture card."
+to french "Vous devez jouer une carte d'Architecture.";
+translate "You must play a Art and Music card."
+to french "Vous devez jouer une carte d'Art et Musique.";
+translate "You must play a Leadership card."
+to french "Vous devez jouer une carte de Commandement.";
+translate "You must play a Thought card."
+to french "Vous devez jouer une carte de Pensée.";
+
+translate "You are signed to play a Practice game "
+to french "Vous êtes inscrit pour une partie en mode entraînement ";
+
+translate "Play a Tournament game with U1"
+to french "Défier U1(name) dans le cadre du tournoi";
+
+translate "Play a Practice game with U1"
+to french "S'entraîner avec U1(name)";
+
+translate "Play a Tournament game with U1 and U2"
+to french "Défier U1(name) et U2(name) dans le cadre d'un tournoi";
+
+translate "Play a Practice game with U1 and U2"
+to french "S'entraîner avec U1(name) et U2(name)";
+
+translate "A Tournament game is in progress between U1, U2, and U3"
+to french "Une partie est en cours entre U1(name), U2(name) et U3(name)";
+
+translate "A Practice game is in progress between U1, U2 und U3"
+to french "Une partie est en cours entre U1(name), U2(name) et U3(name)";
+
+translate "Signing up..."
+to french "Inscription...";
+
+translate "You are already playing a game."
+to french "Vous participer déjà à une partie.";
+
+translate "Opponent U1: "
+to french "Adversaire U1(name): ";
+
+translate "                                        The Rules of Yokir"
+to french "                                          Règles du Yokir";
+
+translate "Setup:"
+to french "Installation";
+translate "Yokir is a card game played by three Players and 24 cards"
+to french "Le Yokir est un jeu de carte à trois joueurs et 24 cartes";
+translate "A dealer is selected and deals five cards to each player. The remaining 9 cards are left on the table in the Stack."
+to french "Un donneur est désigné et distribue 5 cartes à chaque joueur. Les 9 cartes restantes sont mises de côté dans la pioche.\n";
+translate "The cards:"
+to french "Les cartes:";
+translate "There are four suits: Architecture (Black), Leadership (Red), Art & Music (Black) and Thought (Red)."
+to french "Il y a 4 suites: Architecture (Noire), Commandement (Rouge), Art et musique (Noire), et Pensée (Rouge).";
+translate "There are six normal ranks: Initiate, Student, Prentice, Journeyman, Scribe and Master."
+to french "Il y a six rangs normaux : Initié, Etudiant, Apprentis, Compagnon, Scribe et Maître.";
+translate "There are two special ranks: Sage and Oracle."
+to french "Il y a deux rangs spéciaux : Sage et Oracle.\n";
+translate "Calling Trumps:"
+to french "Les atouts";
+translate "The top card of the Stack is turned face up and the player to the dealer's left is given the choice to accept or reject the card."
+to french "La carte du dessus de la pile est retournée et le joueur à gauche du donneur peut accepter cette carte ou la rejeter.";
+translate "If the card is accepted then the player must replace one of the cards in their hand with this card. The suit of this card becomes the 'Trump Suit'"
+to french "Si la carte est acceptée alors le joueur doit remplacer cette carte avec l'une de celles dans ses mains. La suite de cette carte devient la suite d'atouts.";
+translate "If the card is rejected then the next player is given the choice to accept or reject the card."
+to french "Si la carte est rejetée alors le joueur suivant peut choisir de l'accepter ou de la refuser.";
+translate "If every player rejects the card; it is discarded and play goes around again with the option of calling any of the other three suits as the 'Trump Suit'"
+to french "Si tous les joueurs rejetent la carte, elle est rejetée et le tour de table recommence avec la possibilité de choisir l'une des trois autres suites comme la suite d'atouts.";
+translate "The player who calls the 'Tump Suit' plays on his own and the other two players play as a team."
+to french "Le joueur qui appelle la suite d'atouts joue seul face aux deux autres qui forment une équipe.\n";
+translate "Tricks:"
+to french "Les plis:";
+translate "Each round the player who's turn is to go first plays any card. The suit of this card is the 'Chosen Suit'"
+to french "A chaque tour, le joueur qui joue en premier joue n'importe quelle carte. La suite de cette carte est nommée 'Suite choisie'.";
+translate "The other players must then either play a card of the 'Chosen Suit' if they are able to. If they do not have any cards of the 'Chosen Suit' they may play any card."
+to french "Les autres joueurs doivent jouer une carte de la 'Suite chosisie' si ils le peuvent. Si ils n'ont aucune carte de la 'suite choisie', ils peuvent jouer n'importe quelle carte.";
+translate "If a 'Trump Suit' card has been played then the highest ranking 'Trump Suit' card wins the trick."
+to french "Si une carte de la 'Suite d'atouts' est jouée alors la carte avec le plus haut rang remporte le pli.";
+translate "If no 'Trump Suit' cards have been played then the highest ranking 'Chosen Suit' card wins the trick."
+to french "Si aucune carte d'atout n'est jouée alors la carte de la 'suite choisie' avec le rang le plus haut remporte le pli.";
+translate "The winner of the trick goes first in the next trick."
+to french "Le gagnant du pli est celui qui jouera en premier au prochain tour.\n";
+translate "Special Rules:"
+to french "Règles spéciales:";
+translate "The Initiate card of the 'Trump Suit' is promoted to Oracle rank. This is the highest rank possible."
+to french "La carte Initié de la suite d'atouts est promue au rang d'Oracle. C'est le rang le plus haut possible.";
+translate "The Initiate card of the other suit with the same color as the 'Trump Suit' is promoted to Sage rank. This is the second highest possible rank."
+to french "La carte Initié des autres suites de la même couleur que la suite d'atouts est promue au rang de Sage. C'est le deuxième plus haut rang possible.";
+translate "The other two Initiate cards remain as Initiates. Their suits do not contain Sage or Oracle cards." 
+to french "Les deux autres cartes Initié restent au rang d'Initié. Leurs suites ne comportent aucune carte Sage ou Oracle\n";
+translate "Scoring:"
+to french "Points:";
+translate "There are 5 tricks per hand. Points are distributed when the hand ends."
+to french "Il y a 5 plis par main. Les points sont attribués lorsque la main se termine.\n";
+translate "If the lone player wins 0 tricks the opponents get 1 point each."
+to french "Si le joueur qui est seul gagne 0 plis, ses opposants gagnent chacun 1 point.";
+translate "If the lone player wins 1 tricks the opponents get 1 point each."
+to french "Si le joueur qui est seul gagne 1 plis, ses opposants gagnent 1 point chacun.";
+translate "If the lone player wins 2 tricks the opponents get 1 point each."
+to french "Si le joueur qui est seul gagne 2 plis, ses opposants gagnent 1 point chacun.";
+translate "If the lone player wins 3 tricks the lone player gets 1 point."
+to french "Si le joueur qui est seul gagne 3 plis, il gagne 1 point.";
+translate "If the lone player wins 4 tricks the lone player gets 1 point.\n"
+to french "Si le joueur qui est seul gagne 4 plis, il gagne 1 point.";
+translate "If the lone player wins 5 tricks the lone player gets 2 points.\n"
+to french "Si le joueur qui est seul gagne 5 plis, il gagne 2 point.\n";
+translate "Winning and Losing:"
+to french "Gagner et perdre:";
+translate "Win by reaching 7 Points."
+to french "Gagner en atteignant 7 points.";
+translate "In the event of a tie play continues until the tie is broken."
+to french "Dans l'éventualité d'un match nul, le jeu continue jusqu'à ce que l'égalité soit brisée.";
+
+translate "There is a story from a time now forgotten by most, when Egypt was just a fledgling community. A derelict ship, far larger than our simple ferries, became beached on Egypt's shores. Inside, the Pharaoh and his scientists found a great treasure; thousands of debens of a brilliant yet durable metal unknown to Egypt. The Priests declared the bounty a gift from the Gods, sent to help Egypt build a great society. Pharaoh asked the people to come up with uses for the metal, and when they had come to an agreement on which was the most beneficial, he would hand it over."
+to french "Il y a une histoire, datant de temps depuis longtemps oubliés, lorsque l'Egypte était juste une communauté naissante. Un navire abandonné, beaucoup plus grand que nos ferries simples, est venu s'échouer sur les côtes de l'Egypte. A l'intérieur, le Pharaon et ses scientifiques ont trouvé un grand trésor; des milliers de debens d'un métal brillant et durable inconnu en Egypte. Les prêtres ont déclaré cette trouvaille comme un cadeau des dieux, envoyée pour aider l'Egypte à construire une grande société. Pharaon a demandé aux gens de réfléchir aux utilisations pour ce métal, et quand ils seraient  parvenus à un accord sur ce qui serait le plus bénéfique, de lui faire part des suggestions.";
+
+translate "Egypt immediately broke into camps, squabbling over how the metal should be used. The Architects wanted to construct huge obelisks out of the material, believing they could use it to harness the power of lightning. The Politicians wanted to mint the metal into currency, arguing that a permanent and universal currency would usher in a new age of prosperity and trade. The Philosophers demanded the metal be turned over to them for research, so that they could better understand the lands across the waters. The Artists wanted the beautiful metal to mold and shape into great works of art, so that future generations would remember the Culture of the past."
+to french "L'Egypte s'est immédiatement divisée en camps adverses, se chamaillant sur la façon dont le métal devait être utilisé. Les architectes voulaient construire d'immenses obélisques à base de métal, croyant qu'ils pourraient ainsi exploiter la puissance de la foudre. Les politiciens voulaient fondre le métal en monnaie, en faisant valoir que la monnaie permanente et universelle permettrait d'ouvrir la voie à une nouvelle ère de prospérité et de commerce. Les philosophes exigeaient que le métal leur soit confié pour la recherche, afin qu'ils puissent mieux comprendre les terres au delà des eaux. Les artistes voulaient que façonner et former de grandes oeuvres d'art avec le beau métal, de sorte que les générations futures se souviennent de la Culture du passé.";
+
+translate "The bickering went on for many months, during which alliances between the groups rose and fell, always shifting, although more often that not it was the Architects and Politicians united against the Philosophers and Artists. As for the common people of Egypt, they went about their lives unconcerned about this controversy. In fact, they made light of it, devising a game of cards which imitated the various groups all vying for the Pharaoh's attention, and the constantly-changing alliances. The game was named 'Yokir,' after the name of the beached ship."
+to french "Les querelles ont duré plusieurs mois, au cours desquels des alliances entre les groupes se sont formées puis ont cassé, toujours changeantes, bien que le plus souvent, c'étaient les architectes et politiciens qui s'unissaient contre les philosophes et les artistes. Quant au peuple de l'Egypte, ils ont continué leur vie, indifférents à ces controverses. En fait, ils les ont banalisées, inventant un jeu de cartes qui imitait les divers groupes tous en lice pour attirer l'attention du Pharaon, et avec des alliances en constante évolution. Le jeu a été nommé 'Yokir', d'après le nom du navire échoué.";
+
+translate "What happened to the metal, we no longer know, other than that no group was able to lay claim to it. Some say the Stranger stole it during the uproar; others believe the Pharaoh became disgusted with the arguing and cast the ship back out to sea. However, the game played by the commoners remains today. Your challenge is to master this game, and get to know it well, so that the lessons of the past are not forgotten."
+to french "Ce qu'il est advenu du métal, personne n'en sait rien, si ce n'est qu'aucun groupe n'a pu y prétendre. Certains disent que l'Étranger l'a volé pendant le tumulte; d'autres croient que le Pharaon a été dégoûté par les argumentations et rejeta le navire vers le large. Cependant, le jeu joué par les roturiers est resté aujourd'hui. Votre défi est de maîtriser ce jeu, et d'apprendre à bien le connaître, de sorte que les leçons du passé ne soient pas oubliées.";
+

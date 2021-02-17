@@ -1,0 +1,233 @@
+// COMPLETED 2015/09/05
+// Updated: 2015/09/05
+
+module bricks_spa;
+
+translate BrickMachine to spanish feminine
+{
+  ns "Maquina de Ladrillos"; np "Maquinas de Ladrillo";
+}
+translate BrickRackAlignment to spanish masculine
+{
+  ns "Alienacion de Ladrillera"; np "Alineacion de Ladrilleras";
+}
+translate ImpBrickRack to spanish feminine
+{
+  ns "Ladrillera"; np "Ladrillera";
+}
+translate BrickRackBuilding to spanish feminine
+{
+  ns "Ladrillera Frágil"; np "Ladrilleras Frágiles";
+}
+translate Grass to spanish femininecollective
+{
+  ns "Césped"; np "Césped";
+}
+translate Mud to spanish masculine
+{
+  ns "Lodo"; np "Lodo";
+}
+translate Sand to spanish feminine
+{
+  ns "Arena"; np "Arena";
+}
+translate Bricks to spanish masculine
+{
+  ns "Ladrillo"; np "Ladrillos";
+}
+translate WetFireBricks to spanish masculine
+{
+  ns "Ladrillo Húmedo"; np "Ladrillos Húmedos";
+}
+translate FireBricks to spanish masculine
+{
+  ns "Ladrillo Refractario"; np "Ladrillos Refractarios"; 
+}
+translate BrickRack to spanish feminine
+{
+  ns "Ladrillera Frágil"; np "Ladrilleras Frágiles";
+}
+translate WhiteSand to spanish feminine
+{
+  ns "Arena Blanca"; np "Arenas Blancas";
+}
+translate RedSand to spanish feminine
+{
+  ns "Arena Roja"; np "Arenas Rojas";
+}
+translate Basket to spanish masculine
+{
+  ns "Canasta"; np "Canastas";
+}
+
+translate WetClayBricks to spanish masculine
+{
+  ns "Ladrillo de Arcilla Húmeda"; np "Ladrillos de Arcilla Húmedas";
+}
+
+translate ClayBricks to spanish feminine
+{
+  ns "Ladrillo de Arcilla"; np "Ladrillos de Arcilla";
+}
+
+translate "Bricks"
+to spanish "Ladrillos";
+
+translate "Improved Brick Rack Construction"
+to spanish "Construcción de Ladrilleras Mejoradas";
+
+Translate "To build a Brick Rack, you need: "
+to spanish "Para construir una Ladrillera, ocuparás : ";
+
+translate "To make Bricks, you need: "
+to spanish "Para producir ladrillos, ocuparás: ";
+
+translate "Brick Rack Alignment"
+to spanish "Alineación de Ladrilleras";
+    
+Translate "Build a Brick Rack"
+to spanish "Construye una Ladrillera";
+
+translate "The flimsy Brick Rack has fallen apart due to heavy use. Research more technology to find a sturdier Brick Rack."
+to spanish "La Ladrillera Frágil se a roto por uso.  Investiga nuevas tecnologías para construir unas más resistentes.";
+
+translate "Allows one to drop brick racks so they align to a grid."
+to spanish "Permite la alineacion de la ladrillera en una cuadrícula.";
+
+translate "To make Firebricks, you need: "
+to spanish "Para hacer ladrillos refractarios necesitarás : ";
+
+translate "You moved! To gather, you must stand in one place."
+to spanish "Te haz movido! Para recolectar, necesitas estar inmóvil.";
+
+translate "The bricks are drying..."
+to spanish "Los ladrillos están secando...";
+
+translate "This area has been picked clean."
+to spanish "Esta area ha sido completamente recogida.";
+
+translate "Note: Big piles of grass take longer to dry."
+to spanish "Nota: Lotes grandes de césped se tardan más en secar.";
+
+translate "Gather how much O1?"
+to spanish "Recoger qué cantidad de O1(ns) ?";
+
+translate "Note: White sand is made of small, hard crystals, like coarsely ground quartz. Due to it's weight, you won't be able to carry much."
+to spanish "Nota: La arena blanca esta hecha de pequeños cristales. Por la cual más que arena normal, y no podrás cargar tanto.";
+
+translate "Build a Brick Machine"
+to spanish "Contruye una Máquina Ladrillera";
+
+translate "To build a Brick Machine, you need:"
+to spanish "Para construir una Máquina Ladrillera, necesitarás :";
+
+translate "Load the Brick Machine with Mud"
+to spanish "Carga la Máquina Ladrillera con Lodo";
+
+translate "Load the Brick Machine with Sand"
+to spanish "Carga la Máquina Ladrillera con Arena";
+
+translate "Load how much mud? (Max N1)"
+to spanish "Cargar con cuanto lodo ? (Max N1)";
+
+translate "Load how much sand? (Max N1)"
+to spanish "Cargar con cuanta arena ? (Max N1)";
+
+translate "Load how much clay? (Max N1)"
+to spanish "Cargar con cuanta arcilla? (Max N1)";
+
+translate "Load how much Silt? (Max N1)"
+to spanish "Cargar con cuento cieno? (Max N1)";
+
+translate "Load the Brick Machine with Straw"
+to spanish "Cargar la Máquina Ladrillera con Paja";
+
+translate "Load how much Straw? (Max N1)"
+to spanish "Cargar con cuanta Paja ? (Max N1)";
+
+translate "Load the Brick Machine with Silt"
+to spanish "Cargar la Maquina Ladrillera con Cieno";
+
+translate "Start the machine making Bricks"
+to spanish "Inicia la fabricación de ladrillos";
+
+translate "Start the machine making Firebricks"
+to spanish "Inicia la fabricación de ladrillos refractarios";
+
+translate "Start the machine making Clay Bricks"
+to spanish "Inicia la fabricación de ladrillos de arcilla";
+
+translate "The brick machine must first be filled with at least:"
+to spanish "Se necesita cargar la máquina con al menos :";
+
+translate "Stop the Brick Machine"
+to spanish "Detén la Máquina Ladrillera";
+
+translate "Your Scythe is not high enough quality to help gather grass. You can still gather at the normal rate."
+to spanish "Votre faux n'est pas d'assez bonne qualité pour assister à récolter l'herbe. Cependant vous pouvez toujours ramasser normallement.";
+
+translate "Gather: Sand[hidden]"
+to spanish "Recolectar: Arena[hidden]";
+
+translate "Gather: Mud[hidden]"
+to spanish "Recolectar: Lodo[hidden]"; 
+
+translate "To upgrade this building you need:"
+to spanish "Pour perfectionner ce bâtiment, il vous faut :";
+
+translate "making Bricks"
+to spanish "Fabrication de briques";
+
+translate "making Firebricks"
+to spanish "Fabrication de briques refractaires";
+
+translate "O1 (completed)"
+to spanish "O1(ns) (completado)";
+
+translate "Drop & Align a Brick Rack"
+to spanish "Suelta y Alinea una Ladrillera";
+
+translate "Pick up the Brick Rack"
+to spanish "Recoge la Ladrillera";
+
+translate "Make bricks"
+to spanish "Fabrica Ladrillos";
+
+translate "Make bricks [key=B]"
+to spanish "Fabrica Ladrillos [key=B]";
+
+translate "Make firebricks [key=F]"
+to spanish "Fabrica Ladrillos Refractarios [key=F]";
+
+translate "Make firebricks"
+to spanish "Fabrica Ladrillos Refractarios";
+
+translate "Upgrade the base and hopper"
+to spanish "Mejora la base y tolva";
+
+translate "To build an Improved Brick Rack, you need: "
+to spanish "Para construir una ladrillera mejorada necesitarás: ";
+
+translate "Build an Improved Brick Rack"
+to spanish "Construye una Ladrillera Mejorada";
+
+translate "Firebricks"
+to spanish "Ladrillos Refractarios";
+
+translate "This O1 is making bricks"
+to spanish "O1(^cns) O1(ns) fabricando ladrillos";
+
+translate "This O1 is making Firebricks"
+to spanish "O1(^cns) O1(ns) fabricando ladrillos refractarios";
+
+translate "Make Clay Bricks"
+to spanish "Fabrica Ladrillos de Arcilla";
+
+translate "It's confusing which brick rack you are pointing at. (Don't stack brick racks.)"
+to spanish "Es confuso saber a que ladrillera apuntas. (No Apiles Ladrilleras.)";
+
+translate "To make Clay Bricks, you need: "
+to spanish "Para fabricar ladrillos de arcilla, necesitarás:";
+
+translate "Load the Brick Machine with Clay"
+to spanish "Carga la Máquina Ladrillera con Arcilla";

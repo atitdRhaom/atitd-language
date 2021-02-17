@@ -1,0 +1,278 @@
+module hardwood_fre;
+
+translate WoodTreatmentTank to french feminine
+{
+ns "Citerne à traitement du bois"; np "Citernes à traitement du bois";
+}
+
+translate WoodTreatment to french masculine
+{
+ns "Traitement du bois"; np "Traitements du bois";
+}
+
+translate treatedboards to french feminine
+{
+ns "Planche traitée"; np "Planches traitées";
+}
+
+translate WAColorBlonde to french masculine
+{
+ns "blonde"; np "blondes";
+}
+
+translate WAColorWhite to french masculine
+{
+ns "blanche"; np "blanches";
+}
+
+translate WAColorBlack to french masculine
+{
+ns "noire"; np "noires";
+}
+
+translate WAHard to french masculine
+{
+ns "dure"; np "dures";
+}
+
+translate WASoft to french masculine
+{
+ns "tendre"; np "tendres";
+}
+
+translate WARigid to french masculine
+{
+ns "rigide"; np "rigides";
+}
+
+translate WAPliable to french masculine
+{
+ns "flexible"; np "flexibles";
+}
+
+translate WAFireproof to french masculine
+{
+ns "ignifugée"; np "ignifugées";
+}
+
+translate WAVolatile to french masculine
+{
+ns "légere"; np "légeres";
+}
+
+translate WARotproof to french masculine
+{
+ns "imputrescible"; np "imputrescibles";
+}
+
+translate WATermiteResistant to french masculine
+{
+ns "anti-termite"; np "anti-termites";
+}
+
+translate WATermiteProne to french masculine
+{
+ns "sensible aux termites"; np "sensibles aux termites";
+}
+
+translate WANontoxic to french masculine
+{
+ns "non toxique"; np "non toxiques";
+}
+
+translate WAGlossy to french masculine
+{
+ns "vernie"; np "vernies";
+}
+
+translate WANormal to french masculine
+{
+ns "normale"; np "normales";
+}
+
+translate "You have learned the skill of Wood Treatment.  You will need a wood treatment tank."
+to french "Vous avez appris le traitement du bois. Il vous faut une citerne à traitement de bois.";
+
+translate "Engineering"
+to french "Ingérnierie";
+
+translate "wood treatment tank"
+to french "citerne à traitement de bois";
+
+translate "To build a wood Treatment Tank, you need:"
+to french "Pour fabriquer une citerne à traitement de bois, il vous faut :";
+translate "N1 O1"
+to french "N1 O1(N1?np:ns)";
+
+translate "boards"
+to french "planches";
+
+translate "You must remove the treated wood first."
+to french "Vous devez d'abord retirer le bois traité.";
+
+translate "You don't have any boards."
+to french "Vous n'avez pas de planches.";
+
+translate "Load compartment with how many Boards?"
+to french "Combien de planches dans le compartiment ?";
+translate "N1 O1"
+to french "N1 O1(N1?np:ns)";
+
+translate "You must wait for the process to finish"
+to french "Vous devez attendre la fin du processus";
+
+translate "Info/Read Instructions"
+to french "Info/Lire les instructions";
+
+translate "Info/Show what's in the Tank"
+to french "Info/Contenu de la citerne";
+
+translate "wood treatement"
+to french "Traitement du bois";
+
+translate "Each chemical has a set of effects. To see the effects of a particular chemical, use the Info menu. You must tack the menu, or you will not be able to see the info. If you soak boards in a chemical long enough, then the attributes of the boards will eventually match the ones shown in the Info readout. "
+to french "Chaque composant chimique entraîne des effets particuliers. Pour connaître les effets d'un composant chimique, utilisez le menu Info. Si vous plongez des planches assez longtemps dans un produit chimique particulier, les attributs de ces planches correspondront en fin de compte à ceux affichés dans le détail des infos.";
+
+translate "It takes quite a bit of time for a chemical to exert all its effects.  If you do not soak the boards long enough, then the effects may be partial.  This may be useful.  For example, if a chemical has some good effects and some bad effects, it may be possible to soak the boards just long enough for the good effects to take place, but not long enough for the bad effects to take place."
+to french "Il faut un certain temps avant que le produit chimique puisse appliquer tous ses effets; Si vous ne plongez pas les planches assez longtemps, les effets seront partiels. Ceci peut être utile : certains produits chimiques ont des avantages, mais aussi des inconvénients. Il est alors possible de les plonger assez longtemps pour permettre aux effets avantageux d'agir, mais pas aux effet néfastes.";
+
+translate "You will notice that the attributes of the wood tend to move slowly at first, and then speed up as they get closer and closer to their target.  To put it differently, the speed of the bar is slow if the bar is far from its final destination, it is fast if it is close to its final destination."
+to french "Vous remarquerez qu'au début les attributs du bois évoluent lentement, puis de plus en plus rapidement à mesure que le processus avance. La progression de la barre est lente si la barre est loin d'être remplie, et plus rapide si elle est presque remplie. ";
+
+translate "The tank can hold up to N1 boards.  Every N2 seconds of treatment costs N3 unit of chemical - no matter how many boards are in the tank.  You can use as many chemicals as you want, one after the other.  Once you take the boards out, the treatment is finished."
+to french "La citerne peut contenir jusqu'à N1 planches. Toutes les N2 secondes de traitement, vous dépensez N3 unités de produit chimique - peu importe la quantité de planches dans la citerne. Vous pouvez utiliser autant de produits chimiques que vous voulez, l'un après l'autre. Lorsque vous retirez les planches, le traitement est terminé.";
+
+translate "pliable"
+to french "flexible";
+
+translate "rigid"
+to french "rigide";
+
+translate "fireproof"
+to french "ignifugée";
+
+translate "volatile"
+to french "volatile";
+
+translate "rotproof"
+to french "imputrescible";
+
+translate "termite-resistant"
+to french "résistante aux termites";
+
+translate "termite-prone"
+to french "sensible aux termites";
+
+translate "nontoxic"
+to french "non toxique";
+
+translate "white"
+to french "blanche";
+
+translate "blonde"
+to french "blonde";
+
+translate "black"
+to french "noire";
+
+translate "glossy"
+to french "brillante";
+
+translate "normal"
+to french "normale";
+
+translate "Using chemicals and coatings to make wood stronger, more durable, more useful"
+to french "Utilisation de produits chimiques et de revêtements pour renforcer le bois, le rendre plus durable et plus utile";
+
+translate "Learn Woodtreatment"
+to french "Apprendre le traitement du bois";
+
+translate "(completed)"
+to french "(achevé)";
+
+translate "Projects/Engineering/Wood Treatment Tank"
+to french "Projets/Ingénierie/Citerne à traitement de bois";
+
+translate "Info/Info about"
+to french "Info/Au sujet de";
+
+translate "Treat"
+to french "Traiter";
+
+translate "Read Instructions"
+to french "Lire les instructions";
+
+translate "Show what's in the Tank"
+to french "Voir le contenu de la citerne.";
+
+translate "Info about O1-Treated Boards"
+to french "Infos sur les planches traitées avec O1(dns) O1(ns)";
+
+translate "Load Boards"
+to french "Mettre des planches";
+
+translate "Treat with O1"
+to french "Traiter avec O1(dns) O1(ns)";
+
+translate "You need the O1 skill"
+to french "Vous devez posséder la compétence O1(ns)";
+
+translate "Using chemicals and coatings to make wood stronger, more durable, more useful"
+to french "Produits chimiques et revêtements pour renforcer le bois, le rendre plus durable et lui donner de nouvelles utilisations";
+
+translate "There aren't any boards in there."
+to french "Il n'y a pas de planches";
+
+translate "You must wait for the process to finish."
+to french "Vous devez attendre la fin du processus.";
+
+translate "How many seconds do you want to treat?"
+to french "Combien de secondes pour le traitement ?";
+
+translate "Abort Process"
+to french "Terminer le processus";
+
+translate "Not processing right now."
+to french "Processus arrêté.";
+
+translate "treated boards"
+to french "planches traitées";
+
+translate "N1 O1"
+to french "N1 O1(N1?np:ns)";
+
+translate "Take everything"
+to french "Tout prendre";
+
+translate "Flexibility:"
+to french "Flexibilité :";
+translate "Cuttability:"
+to french "Facilité de taille :";
+translate "Flammability:"
+to french "Inflammabilité :";
+translate "Water Resist:"
+to french "Résistance à l'eau :";
+translate "Insect Tox:"
+to french "Poison (insectes)";
+translate "Human Tox:"
+to french "Poison (humains)";
+translate "Darkness:"
+to french "Saturation :";
+translate "Glossiness:"
+to french "Brillance :";
+
+translate "Info about K1 -Treated Boards"
+to french "Informations sur K1 - Planches traitées";
+
+translate "Boards: N1 Treated"
+to french "Planches : N1 traitées";
+
+translate "Boards: N1 Untreated"
+to french "Planches : N1 non traitées";
+
+translate "Process: K1 N1"
+to french "Processus : K1 N1";
+
+translate "Processing Complete"
+to french "Processus achevé";
+

@@ -1,0 +1,242 @@
+module tubs_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**            German Version: Astrid "Infinyti" Werner                   **
+//**                            2012                                       **
+//**                                                                       **
+//***************************************************************************
+
+
+translate BasicTub to german femininecollective
+{
+swa "Wanne";
+  sn "Wanne"; sg "Wanne"; sd "Wanne"; sa "Wanne";
+  pn "Wannen"; pg "Wannen"; pd "Wannen"; pa "Wannen";
+}
+translate SturdyTub to german femininecollective
+{
+swa "stabile Wanne";
+  sn "stabile Wanne"; sg "stabilen Wanne"; sd "stabile Wanne"; sa "stabile Wanne";
+  pn "stabilen Wannen"; pg "stabilen Wannen"; pd "stabilen Wannen"; pa "stabilen Wannen";
+}
+translate MarbleTub to german femininecollective
+{
+swa "Marmorwanne";
+  sn "Marmorwanne"; sg "Marmorwanne"; sd "Marmorwanne"; sa "Marmorwanne";
+  pn "Marmorwannen"; pg "Marmorwannen"; pd "Marmorwannen"; pa "Marmorwannen";
+}
+
+translate "The tub has crumbled to dust."
+	to german "Die Wanne ist zu Staub zerfallen.";
+
+translate "Water level is N1"
+	to german "Wasserstand ist N1";
+
+translate "Working on: Rotting Dung"
+	to german "Bearbeitet: Dungverrottung";
+
+translate "Working on: Rotting Flax"
+	to german "Bearbeitet: Flachsverrottung";
+
+translate "Working on: Making Pulp"
+	to german "Bearbeitet: Zellstoffherstellung";
+
+translate "Working on: Sulfur"
+	to german "Bearbeitet: Schwefel";
+
+translate "Working on: Drying Sulfur"
+	to german "Bearbeitet: Schwefelabscheidung";
+
+translate "Working on: Steeping"
+	to german "Bearbeitet: Einweichen";
+
+translate "Working on: Steeping Cloth"
+	to german "Bearbeitet: Tücher einweichen";
+
+translate "Working on: Evaporating Water"
+	to german "Bearbeitet: Wasserverdunstung";
+
+translate "Working on: Nothing"
+	to german "Bearbeitet: Nichts";
+
+translate " Rotting Dung"
+	to german " Dungverrottung";
+
+translate " Rotting Flax"
+	to german " Flachsverrottung";
+
+translate "Sulfur"
+	to german "Schwefel";
+
+translate "Dung"
+	to german "Dung";
+
+translate "Flax"
+	to german "Flachs";
+
+translate "Drying Sulfur"
+	to german " Schwefelabscheidung";
+
+translate "Evaporating Water"
+	to german " Wasserverdunstung";
+
+translate " Nothing"
+	to german " Nicht beschäftigt";
+
+translate "Fill with Water"
+	to german "Mit Wasser befüllen";
+
+translate "Fill Completely with Water"
+	to german "Vollständig mit Wasser befüllen";
+
+translate "Fill with Sulphurous Water"
+	to german "Schwefelwasser einfüllen";
+
+translate "Fill Completely with Sulphurous Water"
+	to german "Vollständig mit Schwefelwasser befüllen";
+
+translate "You must empty the Tub before you can add Sulphurous Water."
+	to german "Du musst die Wanne erst leeren, bevor du Schwefelwasser einfüllen kannst.";
+
+translate "How much Sulphurous Water?"
+to german "Wieviel Schwefelwasser?";
+
+translate "You don't have that much Sulphurous water."
+to german "Du hast nicht soviel Schwefelwasser.";
+
+translate "How much water?"
+	to german "Wieviel Wasser?";
+
+translate "You don't have that much water."
+	to german "Du hast nicht soviel Wasser";
+
+translate "You add N1 water to your tub."
+	to german "Du füllst N1 Wasser in deine Wanne.";
+
+translate "You don't have that much Sulphurous water."
+	to german "Du hast nicht soviel Schwefelwasser.";
+
+translate "You add N1 Sulfurous Water to your tub."
+	to german "Du füllst N1 Schwefelwasser in deine Wanne.";
+
+translate "Rot Flax"
+	to german "Rotte Flachs";
+
+translate "Rot Max Flax"
+	to german "Max Flachs verrotten";
+
+translate "How much Flax?"
+	to german "Wieviel Flachs?";
+
+translate "You must first fill the tub with water."
+	to german "Du musst die Wanne erst mit Wasser befüllen.";
+
+translate "You cannot rot both Flax and Dung at the same time."
+	to german "Du kannst nicht gleichzeitig Flachs und Dung verrotten lassen.";
+
+translate "You cannot rot both Flax and make Pulp at the same time."
+	to german "Du kannst nicht gleichzeitig Flachs verrotten lassen und zerstampfen.";
+
+translate "How much Flax? (Max N1)"
+	to german "Wieviel Flachs? (Max N1)";
+
+translate "You don't have that much Flax."
+	to german "Du hast nicht soviel Flachs.";
+
+translate "Load how much Flax? (Max N1)"
+	to german "Wieviel Flachs einfüllen? (Max N1)";
+
+translate "You add N1 Flax to your tub."
+	to german "Du füllst N1 Flachs in deine Wanne.";
+
+translate "Rot Dung"
+to german "Rotte Dung";
+
+translate "Rot Max Dung"
+	to german "Max Dung verrotten";
+
+translate "How much Dung?"
+	to german "Wieviel Dung?";
+
+translate "Load how much Dung? (Max N1)"
+to german "Wieviel Dung einfüllen? (Max N1)";
+
+translate "You don't have that much Dung."
+	to german "Du hast nicht soviel Dung.";
+
+translate "You add N1 Dung to your tub."
+	to german "Du füllst N1 Dung in deine Wanne.";
+
+translate "Make Pulp"
+to german "Stelle Zellstoff her";
+
+translate "Make Max Pulp"
+	to german "Max Zellstoff herstellen";
+
+translate "How much Sawdust?"
+	to german "Wieviel Sägemehl?";
+
+translate "You don't have that much Sawdust."
+	to german "Du hast nicht soviel Sägemehl.";
+
+translate "You add N1 Sawdust to your tub."
+	to german "Du füllst N1 Sägemehl in deine Wanne.";
+
+translate "Steep in Clay"
+	to german "In Ton einweichen";
+
+translate "Canvas"
+	to german "Tücher";
+
+translate "Wool Cloth"
+	to german "Wollstoff";
+
+translate "You must empty the Tub before you can steep cloth."
+	to german "Du musst die Wanne leeren, bevor du Stoff einweichen kannst.";
+
+translate "You don't have:"
+	to german "Dir fehlt:";
+
+translate "Your Clay Steeped Canvas will be done in K1"
+	to german "Deine tondurchtränkten Tücher sind in K1 fertig";
+
+translate "Steeping"
+	to german "Einweichen";
+
+translate "Your Clay Steeped Canvas is ready"
+	to german "Deine tondurchtränkten Tücher sind fertig.";
+
+translate "Your Clay Steeped Wool Cloth will be done in K1"
+	to german "Deine tondurchtränkten Wollstoffe sind in K1 fertig";
+
+translate "Your Clay Steeped Wool Cloth is ready"
+	to german "Deine tondurchtränkten Wollstoffe sind fertig.";
+
+translate "Tubs"
+to german "Wannen";
+
+translate "Build a Basic Tub"
+to german "Baue eine Wanne";
+
+translate "To build a Basic Tub, you need: "
+to german "Um eine Wanne zu bauen, benötigst du: ";
+
+translate "Build a Sturdy Tub"
+to german "Baue eine stabile Wanne";
+
+translate "To build a Sturdy Tub, you need: "
+to german "Um eine stabile Wanne zu bauen, benötigst du: ";
+
+translate "Build a Marble tub"
+to german "Baue eine Marmorwanne";
+
+translate "To build a Marble Tub, you need: "
+to german "Um eine Marmorwanne zu bauen, benötigst Du: ";
+
+translate "Add Water Tank to Tub"
+	to german "Baue einen Wassertank ein";
+
+translate "To add a water tank, you need:"
+	to german "Um einen Wassertank einzubauen, benötigst du:";

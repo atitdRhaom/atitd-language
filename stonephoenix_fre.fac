@@ -1,0 +1,35 @@
+module stonephoenix_fre;
+
+translate StonePhoenix to french masculine
+{
+	ns "Phoenix de pierre"; np "Phoenix de pierre";
+	}
+	
+translate stonephoenixkit to french masculine
+{ ns "Kit de Phoenix de pierre"; np "Kits de Phoenix de pierre";}
+translate "Polish the Stone Phoenix' Wings"
+to french "Lustrer les aîles de ce Phoenix de pierre !";
+
+translate "As you polish the wings, your step seems particularly light!"
+to french "Alors que vous lustrez les aîles, vos pas semblent particulièrement légers !";
+
+translate "As you polish the wings, your load seems unusually light!"
+to french "Alors que vous lustrez les aîles, vous vous sentez plus léger !";
+
+translate "As you polish the wings, your load seems especially easy to manage!"
+to french "Alors que vous lustrez les aîles, vous vous sentez plus léger !";
+
+translate "As you polish the wings, you feel full of energy!"
+to french "Alors que vous lustrez les aîles, vous vous sentez débordant d'énergie !";
+
+translate "As you polish the wings, you feel particularly healthy!"
+to french "Alors que vous lustrez les aîles, vous vous sentez revigoré !";
+
+translate "As you polish the wings, your mind seems particularly sharp!"
+to french "Alors que vous lustrez les aîles, votre esprit semble particulièrement aiguisé !";
+
+translate "As you polish the wings, you feel particularly insightful!"
+to french "Alors que vous lustrez les aîles, vous vous sentez très perspicace";
+
+translate "You polish the wings a bit. It continues to look nice."
+to french "Vous lustrez les aîles. Sa beauté s'amplifie";

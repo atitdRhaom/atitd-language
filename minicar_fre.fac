@@ -1,0 +1,161 @@
+module minicar_fre;
+
+translate MinicarDesk to french masculine
+{
+  ns "Tombeau de l'Immortel"; np "Tombeaux de l'Immortel";
+}
+
+translate Tomb to french feminine
+{
+  ns "L'épreuve du Tombeau de l'Immortel"; np "L'épreuve du Tombeau de l'Immortel";
+}
+
+translate "Test of the Tomb of the Immortal"
+to french "Epreuve du Tombeau de l'Immortel";
+
+translate "Principles of Tomb of the Immortal guides you through the creation of your Tomb, until you open it for judging."
+to french "Les Principes du Tombeau de l'Immortel vous guideront de la conception de votre tombe à son ouverture à l'évaluation.";
+
+translate "Design and Open a Tomb for Judging"
+to french "Concevoir et ouvrir un Tombeau de l'Immortel";
+translate "Tear down your Tomb, OR do the following:"
+to french "Détruire votre Tombe, OU suivez ces étapes :";
+translate "Open the Tomb for Judging"
+to french "Soumettre le Tombeau de l'Immortel à l'évaluation";
+translate "    Have Seven Judges solve and rate the puzzle"
+to french "    Que sept juges résolvent et évaluent le puzzle";
+translate "    Design rated Good by most judges"
+to french "    Obtenir une majorité de votes positifs";
+translate "All of the above, OR solve three recent winning Tombs"
+to french "OU résoudre trois Tombes ayant passé l'épreuve récemment";
+
+translate "Limestone for outer block shells"
+to french "Calcaires pour les blocs de la fondation";
+translate "Gold Foil (Gilding the Sarcophagi)"
+to french "Feuilles d'or pour les dorures des sarcophages";
+translate "Gold Wire for Framing the outside supports"
+to french "Fils d'or pour les ornementation de la pyramide";
+translate "Concrete for the Foundation Base"
+to french "Bétons pour les fondations";
+translate "Light Steel Blue Raeli Tiles"
+to french "Tuiles Raeli : Bleu acier clair";
+
+translate "Boards for Coffin Collection"
+to french "Planches pour les cercueils";
+translate "Nails for Coffins"
+to french "Clous pour les cercueils";
+translate "Papyrus Paper for retractable walls"
+to french "Feuilles de papyrus pour les murs rétractables";
+
+
+translate "You learn to construct Tombs of the Immortal, puzzles designed to thwart future generation grave robbers from plundering our treasures and secrets. By honing our skills, by challenging each other to solve and fortify these puzzles, our legacy may live."
+to french "Vous apprenez à construire un Tombeau de l'Immortel, une énigme destinée à déjouer les générations futures dans leurs tentatives de piller nos trésors et nos secrets. En honorant notre savoir et vous défiant les uns les autres pour élaborer des énigmes sans cesse plus complexes, notre héritage a des chances de perdurer.";
+
+translate "You have completed Principles of the Immortal."
+to french "Vous avez terminé les Principes du Tombeau de l'Immortel.";
+
+translate "Tomb of the Immortal"
+to french "Tombeau de l'Immortel";
+
+translate "To build a Tomb of the Immortal you need:"
+to french "Pour bâtir un Tombeau de l'Immortel, il vous faut:";
+
+translate "Designer: "
+to french "Concepteur : ";
+
+translate "Player: "
+to french "Joueur : ";
+
+translate "Done Playing, let someone else play"
+to french "Vous avez fini de jouer, laissez votre place à quelqu'un d'autre.";
+
+translate "Play Tomb of the Immortal"
+to french "Jouer au Tombeau de l'Immortel";
+
+translate "Start a new Design"
+to french "Créer une nouvelle conception";
+
+translate "You are not signed up for the Test of the Tomb of the Immortal"
+to french "Vous n'êtes pas inscrit à l'épreuve du Tombeau de l'Immortel.";
+
+translate "Are you sure you wish to erase the old Design?"
+to french "Voulez-vous vraiment effacer votre ancienne conception ?";
+
+translate "Old design preserved."
+to french "Ancienne conception conservée";
+
+translate "How big should the grid be?"
+to french "Définir la taille de la grille";
+
+translate "Size specified is outside of bounds."
+to french "La taille indiquée dépasse les limites.";
+
+translate "Coffins and/or Sarcophagi are overlapping."
+to french "Les cercueils et/ou les sarcophages se chevauchent.";
+
+translate "There are no Sarcophagi."
+to french "Il faut des sarcophages.";
+
+translate "Move this Direction"
+to french "Déplacer dans cette direction";
+
+translate "All Sarcophagi are gone: you win! You may now be able to judge this Tomb. Judging should be based on how 'pleasantly challenging' the puzzle is. You have three minutes to judge."
+to french "Vous avez sorti tous les sarcophages, vous avez gagné ! Vous pouvez maintenant évaluer ce tombeau, en estimant le plaisir créé par cette énigme. Vous avez trois minutes pour vous prononcer.";
+
+translate "Take over Design"
+to french "S'approprier la conception";
+
+translate "Are you sure you want to take over the design? This will clear any judging points."
+to french "Voulez-vous prendre possession de cette conception ? Cela effacera tous les points liés au jugement.";
+
+translate "U1 has taken over your Tomb design."
+to french "U1(name) a pris possession de votre conception de tombeau.";
+
+translate "Activate Play Mode"
+to french "Activer le mode jeu";
+
+translate " You cannot activate play mode until this problem is resolved."
+to french " Vous ne pouvez pas activer le mode jeu tant que le problème n'est pas résolu.";
+
+translate "Play Mode Activated."
+to french "Mode jeu activé";
+
+translate "Reset to Design Mode"
+to french "Repasser en mode conception";
+
+translate "N1 judges have already scored this Tomb. Going to design mode will wipe their scores. Proceed?"
+to french "N1 juges ont déjà noté ce tombeau. Si vous passez à nouveau en mode conception, vous allez tout perdre. Voulez-vous continuer?";
+
+translate "Toggle this Wall"
+to french "Modifier le niveau de ce mur";
+
+translate "You are not signed up for the Test of the Tomb of the Immortal"
+to french "Vous n'êtes pas inscrit à l'épreuve du Tombeau de l'Immortel.";
+
+translate "Only 26 Coffins plus Sarcophagi allowed."
+to french "La limite est fixée à 26 sarcophages/cercueils.";
+
+translate "Add a small Coffin"
+to french "Ajouter un petit cercueil";
+
+translate "Add a large Coffin"
+to french "Ajouter un grand cercueil";
+
+translate "Add a small Sarcophagus"
+to french "Ajouter un petit sarcophage";
+
+translate "Add a large Sarcophagus"
+to french "Ajouter un grand sarcophage";
+
+translate "There are no Sarcophagi. You cannot activate play mode until this problem is resolved"
+to french "Aucun sarcophage présent. Vous ne pouvez pas activer le mode jeu tant que le problème n'est pas résolu.";
+
+translate "Tomb of the Immortal: No winner"
+to french "Tombeau de l'Immortel : aucun gagnant";
+
+translate "In the opinion of N1 judges, and with a score of N2, Egypt recognizes U1, for passing the Test of Tomb of the Immortal for his design at N3. "
+to french "N1 juges se sont prononcés et accordent à U1(name), avec N2 points, la réussite dans l'épreuve du Tombeau de l'Immortel pour sa conception située en N3.";
+
+translate "Error: Could not find Tomb designer at N1"
+to french "Erreur : pas de Tombeau de l'Immortel en N1.";
+

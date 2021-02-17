@@ -1,0 +1,467 @@
+module horticulture_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2007 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+
+
+translate FlowerPetals to german femininecollective
+{
+  swa "Blütenblatt";
+  sn "Blütenblatt"; sg "Blütenblattes"; sd "Blütenblatt"; sa "Blütenblatt";
+  pn "Blütenblätter"; pg "Blütenblätter"; pd "Blütenblättern"; pa "Blütenblätter";
+}
+
+translate RoseofRa to german femininecollective
+{
+  swa "Rose des Ra";
+  sn "Rose des Ra"; sg "Rose des Ra"; sd "Rose des Ra"; sa "Rose des Ra";
+  pn "Rose des Ra"; pg "Rosen des Ra"; pd "Rosen des Ra"; pa "Rose des Ra";
+}
+translate LilyOfTheSea to german femininecollective
+{
+  swa "Meereslilie";
+  sn "Meereslilie"; sg "Meereslilie"; sd "Meereslilie"; sa "Meereslilie";
+  pn "Meereslilien"; pg "Meereslilien"; pd "Meereslilien"; pa "Meereslilien";
+}
+translate PetalsOfRa to german femininecollective
+{
+  swa "Blütenblatt des Ra";
+  sn "Blütenblatt des Ra"; sg "Blütenblattes des Ra"; sd "Blütenblatt des Ra"; sa "Blütenblatt des Ra";
+  pn "Blütenblätter des Ra"; pg "Blütenblätter des Ra"; pd "Blütenblättern des Ra"; pa "Blütenblätter des Ra";
+}
+translate PetalsOfTheSand to german femininecollective
+{
+  swa "Blütenblatt des Sandes";
+  sn "Blütenblatt des Sandes"; sg "Blütenblattes des Sandes"; sd "Blütenblatt des Sandes"; sa "Blütenblatt des Sandes";
+  pn "Blütenblätter des Sandes"; pg "Blütenblätter des Sandes"; pd "Blütenblättern des Sandes"; pa "Blütenblätter des Sandes";
+}
+translate PetalsOfTheSea to german femininecollective
+{
+  swa "Blütenblatt des Meeres";
+  sn "Blütenblatt des Meeres"; sg "Blütenblattes des Meeres"; sd "Blütenblatt des Meeres"; sa "Blütenblatt des Meeres";
+  pn "Blütenblätter des Meeres"; pg "Blütenblätter des Meeres"; pd "Blütenblättern des Meeres"; pa "Blütenblätter des Meeres";
+}
+
+translate FlowerFertilizer to german femininecollective
+{
+  swa "Blumendünger";
+  sn "Blumendünger"; sg "Blumendünger"; sd "Blumendünger"; sa "Blumendünger";
+  pn "Blumendünger"; pg "Blumendünger"; pd "Blumendünger"; pa "Blumendünger";
+}
+
+translate FlowerBulb to german femininecollective
+{
+  swa "Blumenzwiebel";
+  sn "Blumenzwiebel"; sg "Blumenzwiebel"; sd "Blumenzwiebel"; sa "Blumenzwiebel";
+  pn "Blumenzwiebeln"; pg "Blumenzwiebeln"; pd "Blumenzwiebeln"; pa "Blumenzwiebeln";
+}
+translate RaBulb to german femininecollective
+{
+  swa "Blumenzwiebel des Ra";
+  sn "Blumenzwiebel des Ra"; sg "Blumenzwiebel des Ra"; sd "Blumenzwiebel des Ra"; sa "Blumenzwiebel des Ra";
+  pn "Blumenzwiebeln des Ra"; pg "Blumenzwiebeln des Ra"; pd "Blumenzwiebeln des Ra"; pa "Blumenzwiebeln des Ra";
+}
+translate SBBulb to german femininecollective
+{
+  swa "Blumenzwiebel der Sandblume";
+  sn "Blumenzwiebel der Sandblume"; sg "Blumenzwiebel der Sandblume"; sd "Blumenzwiebel der Sandblume"; sa "Blumenzwiebel der Sandblume";
+  pn "Blumenzwiebeln der Sandblume"; pg "Blumenzwiebeln der Sandblume"; pd "Blumenzwiebeln der Sandblume"; pa "Blumenzwiebeln der Sandblume";
+}
+translate LSBulb to german femininecollective
+{
+  swa "Blumenzwiebel";
+  sn "Blumenzwiebel"; sg "Blumenzwiebel"; sd "Blumenzwiebel"; sa "Blumenzwiebel";
+  pn "Blumenzwiebeln"; pg "Blumenzwiebeln"; pd "Blumenzwiebeln"; pa "Blumenzwiebeln";
+}
+translate Sandbloom to german femininecollective
+{
+  swa "Sandblume";
+  sn "Sandblume"; sg "Sandblume"; sd "Sandblume"; sa "Sandblume";
+  pn "Sandblumen"; pg "Sandblumen"; pd "Sandblumen"; pa "Sandblumen";
+}
+translate Liquidsunfertilizer to german masculine
+{
+  swa "Flüssiger Sonnendünger";
+  sn "Flüssige Sonnendünger"; sg "Flüssigen Sonnendüngers"; sd "Flüssigen Sonnendünger"; sa "Flüssige Sonnendünger";
+  pn "Flüssiger Sonnendünger"; pg "Flüssiger Sonnendünger"; pd "Flüssiger Sonnendüngern"; pa "Flüssiger Sonnendünger";
+}
+translate StickySunFertilizer to german masculine
+{
+  swa "Klebriger Sonnendünger";
+  sn "Klebrige Sonnendünger"; sg "Klebrigen Sonnendünger"; sd "Klebrigen Sonnendünger"; sa "Klebrige Sonnendünger";
+  pn "Klebrigen Sonnendünger"; pg "Klebrigen Sonnendünger"; pd "Klebrigen Sonnendüngern"; pa "Klebrigen Sonnendünger";
+}
+translate BlackSyrupFertilizer to german masculine
+{
+  swa "Jauchedünger";
+  sn "Jauchedünger"; sg "Jauchedüngers"; sd "Jauchedünger"; sa "Jauchedünger";
+  pn "Jauchedünger"; pg "Jauchedünger"; pd "Jauchedüngern"; pa "Jauchedünger";
+}
+translate Harvestelixir to german neuter
+{
+  swa "Ernteelixier";
+  sn "Ernteelixier"; sg "Ernteelixiers"; sd "Ernteelixier"; sa "Ernteelixier";
+  pn "Ernteelixiere"; pg "Ernteelixiere"; pd "Ernteelixieren"; pa "Ernteelixiere";
+}
+translate OddWeed to german masculine
+{
+  swa "merkwürdiger Keimling";
+  sn "merkwürdige Keimling"; sg "merkwürdigen Keimlings"; sd "merkwürdigen Keimling"; sa "merkwürdige Keimling";
+  pn "merkwürdigen Keimlinge"; pg "merkwürdigen Keimlinge"; pd "merkwürdigen Keimlingen"; pa "merkwürdigen Keimlinge";
+}
+translate KhefresEssence to german feminine
+{
+  swa "Khefres Essenz";
+  sn "Khefres Essenz"; sg "Khefres Essenz"; sd "Khefres Essenz"; sa "Khefres Essenz";
+  pn "Khefres Essenzen"; pg "Khefres Essenzen"; pd "Khefres Essenzen"; pa "Khefres Essenzen";
+}
+translate Horticulture to german femine
+{
+  swa "Blumenzucht";
+  sn "Blumenzucht"; sg "Blumenzucht"; sd "Blumenzucht"; sa "Blumenzucht";
+  pn "Blumenzuchten"; pg "Blumenzuchten"; pd "Blumenzuchten"; pa "Blumenzuchten";
+}
+translate AdvancedHorticulture to german feminine
+{
+  swa "Erweiterte Blumenzucht";
+  sn "Erweiterte Blumenzucht"; sg "Erweiterten Blumenzucht"; sd "Erweiterten Blumenzucht"; sa "Erweiterte Blumenzucht";
+  pn "Erweiterten Blumenzuchten"; pg "Erweiterten Blumenzuchten"; pd "Erweiterten Blumenzuchten"; pa "Erweiterten Blumenzuchten";
+}
+translate BotanistsTouch to german neuter
+{
+  swa "Botanisches Gefühl";
+  sn "Botanische Gefühl";
+  pn "Botanische Gefühl";
+}
+
+translate "Permission to Fertilize"
+to german "Düngeerlaubnis";
+
+translate "Horticulture"
+to german "Blumenzucht";
+
+translate "Advanced Horticulture"
+to german "Erweiterte Blumenzucht";
+
+translate "Onion Skin"
+to german "Zwiebelhaut";
+
+translate "White Giant"
+to german "Weißer Gigant";
+
+translate "Pantomime"
+to german "Pantomime";
+
+translate "Goldenleaves"
+to german "Goldblatt";
+
+translate "Blood Heart"
+to german "Herzblut";
+
+translate "Red Dwarf"
+to german "Roter Zwerg";
+
+translate "Night Bloom"
+to german "Nachtblüte";
+
+translate "Hatch's Bud"
+to german "Bodenknospe";
+
+translate "Sunshine"
+to german "Sonnenschein";
+
+translate "Lemon Drop"
+to german "Zitronenbonbon";
+
+translate "Sacrifice"
+to german "Opfer";
+
+translate "Corona"
+to german "Krone";
+
+translate "Cookie Jar"
+to german "Keksdose";
+
+translate "Prismatic"
+to german "Regenbogen";
+
+translate "Pluribus' Folly"
+to german "Pluribus' Wahnwitzigkeit";
+
+translate "Clarity"
+to german "Reinheit";
+
+translate "Morning"
+to german "Morgengrauen";
+
+translate "Silken"
+to german "Seidig";
+
+translate "Delicate"
+to german "Zartheit";
+
+translate "Energy"
+to german "Energie";
+
+translate "Fracture"
+to german "Bruch";
+
+translate "Blush"
+to german "Röte";
+
+translate "Vampire"
+to german "Vampir";
+
+translate "Crown"
+to german "Krone";
+
+translate "Get a set of Rose of Ra bulbs"
+to german "Erhalte ein Set Zwiebeln der Rose des Ra";
+
+translate "Steal a bulb"
+to german "Stehle einen Ableger";
+
+translate "Allows cultivation of beautiful flowers."
+to german "Erlaubt die Zucht von wunderschönen Blumen";
+
+translate "Now that you know Horticulture, you may ask for a Lily of the Sea Bulb."
+to german "Nun, da du etwas über Blumenzucht weißt, erbitte eine Zwiebel der Meereslilie.";
+
+translate "Ask for a Rose of Ra Bulb"
+to german "Erbitte eine Blumenzwiebel der Rose des Ra";
+
+translate "Bulbs are extremly precious, and we must ration them. You already got a Rose of Ra Bulb"
+to german "Blumenzwiebeln sind äußerst kostbar, sodass wir sie rationieren müssen. Du hast bereits ein Zwiebel der Rose des Ra erhalten.";
+
+translate "Rose of Ra bulbs are in extremely short supply, and so we can only give them to those with paid accounts."
+to german "Zwiebeln der Rose des Ra sind äußerst selten. Daher können wir sie nur an Einwohner mit regulären Accounts ausgeben.";
+
+translate "Rose of Ra Bulbs are extremely precious, and you may only get one, regardless of how many universities you visit. "
+to german "Zwiebeln der Rose des Ra sind sehr selten. Du kannst nur Eine bekommen, egal wieviele Universitäten du aufsuchst.";
+
+translate "Other universities may, however, have different strains, so it may pay to wait. "
+to german "Andere Universitäten könnten eventuell andere Stämme besitzen. Warten könnte sich also auszahlen. ";
+
+translate "Would you like to take one from our stock?"
+to german "Möchtest du von unserem Stamm eine Zwiebel haben?";
+
+translate "Ask for a Lily-of-the-Sea Bulb"
+to german "Erbitte eine Blumenzwiebel der Meereslilie";
+
+translate "Lily-of-the-Sea Bulbs are extremly precious, and we must ration them. You already got one."
+to german "Blumenzwiebeln der Meereslilien sind äußerst kostbar, sodaß wir sie rationieren müssen. Du hast bereits Eine erhalten.";
+
+translate "Lily-of-the-Sea are in extremely short supply, and so we can only give them to those with paid accounts."
+to german "Zwiebeln der Meereslilie sind äußerst selten. Daher können wir sie nur an Einwohner mit regulären Accounts ausgeben.";
+
+translate "Lily-of-the-Sea Bulbs are extremely precious, and you may only get one, regardless of how many universities you visit. Other universities may, however, have different strains, so it may pay to wait. Would you like to take one from our stock?"
+to german "Zwiebeln der Meereslilie sind sehr selten. Du kannst nur Eine bekommen, egal wieviele Universitäten Du aufsuchst. Es kann aber sein, dass andere Universitäten unterschiedliche Arten haben und das kann Zeit kosten. Möchtest du eine Zwiebel aus unserem Sortiment haben?";
+
+translate "This O1 is of strain K1"
+to german "O1(^tsn) O1(sn) ist vom Stamm: K1";
+
+translate "Harvest for Petals"
+to german "Ernte Blütenblätter";
+
+translate "These flowers are delicate, taking the petals will kill the flower. Proceed?"
+to german "Diese Blumen sind empfindlich, das Pflücken der Blütenblätter wird die Blume töten. Fortfahren?";
+
+translate "Fertilize to encourage bulb budding"
+to german "Dünge um das Keimen anzuregen";
+
+translate "The O1 already has been fertilized. Wait another N1 to fertilize again."
+to german "O1(^tsn) O1(sn) wurde bereits gedüngt. Warte weitere N1 um sie erneut zu düngen.";
+
+translate "You need 1 unit of O1"
+to german "Du brauchst 1 Einheit O1(sn)";
+
+translate "You need 20 units of O1"
+to german "Du brauchst 20 Einheiten O1(sn)";
+
+translate "Fertilize to encourage bulb budding - Black Syrup Fertilizer"
+to german "Dünge um das Keimen anzuregen - Jauchedünger";
+
+translate "Check the bulb for signs of budding"
+to german "Überprüfe die Zwiebel nach Anzeichen der Keimung";
+
+translate "Fertilize to encourage bulb budding - Sticky Sun Fertilizer"
+to german "Dünge um das Keimen anzuregen - Klebriger Sonnendünger";
+
+translate "You need 8 units of O1"
+to german "Du brauchst 8 Einheiten O1(sn)"; 
+
+translate "Fertilize to encourage bulb budding - Harvest Elixer"
+to german "Dünge um das Keimen anzuregen - Ernteelixier";
+
+translate "The Rose of Ra already has been fertilized. Wait another N1 to fertilize again."
+to german "Die Rose des Ra wurde bereits gedüngt. Warte weitere N1, um sie erneut zu düngen.";
+
+translate "There are signs of budding, but the bulb is not yet ready to split."
+to german "Es gibt Anzeichen der Keimung, aber die Zwiebel ist noch nicht bereit sich zu teilen.";
+
+translate "You were able to delicately separate a young bulb from the parent bulb."
+to german "Du warst in der Lage eine junge Zwiebel vorsichtig von der Stammzwiebel abzutrennen.";
+
+translate "To plant a O1 you need:"
+to german "Um O1(asn) O1(swa) zu pflanzen benötigst du:";
+
+translate "To plant a Rose of Ra, you need:"
+to german "Um eine Rose des Ra zu pflanzen benötigst du:";
+
+translate "A Rose of Ra takes about N1 to bloom. Check back."
+to german "Eine Rose des Ra benötigt N1 um zu blühen. Prüfe sie später erneut.";
+
+translate "A O1 takes about N1 to bloom. Check back."
+to german "O1(^asn) O1(swa) benötigt N1 um zu blühen, Prüfe sie später erneut.";
+
+translate "Registered: K1"
+to german "Registriert: K1";
+
+translate "Get a set of Rose of Ra bulbs"
+to german "Erhalte ein Set Zwiebel der Rose des Ra";
+
+translate "Fertilize to encourage bulb budding - Liquid Sun Fertilizer"
+to german "Dünge um das Keimen anzuregen - Flüssiger Sonnendünger";
+
+translate "Breeding of non-native flowers."
+to german "Züchten komplizierter Blumen.";
+
+translate "Lily of the Sea Bulb: N1"
+to german "Zwiebel der Meereslilie: N1";
+
+translate "Cyan"
+to german "Kobaltblau";
+
+translate "Magenta"
+to german "Purpur";
+
+translate "Yellow"
+to german "Gelb";
+
+translate "Blue"
+to german "Blau";
+
+translate "Red"
+to german "Rot";
+
+translate "Green"
+to german "Grün";
+
+translate "Orange"
+to german "Orange";
+
+translate "Purple"
+to german "Violett";
+
+translate "White"
+to german "Weiß";
+
+translate "Black"
+to german "Schwarz";
+
+translate "Pink"
+to german "Rosa";
+
+translate "True Cyan"
+to german "Klares Kobaltblau";
+
+translate "True Magenta"
+to german "Klares Purpur";
+
+translate "True Yellow"
+to german "Klares Gelb";
+
+translate "Ra Bulb, Any"
+to german "Ra Zwiebel, Jede";
+
+translate "Ra Bulb, Inner Petals: K1"
+to german "Ra Zwiebel, innere Blütenblätter: K1";
+
+translate "Ra Bulb, Outer Petals: K1"
+to german "Ra Zwiebel, äußere Blütenblätter: K1";
+
+translate "Ra Bulb, Stamen: K1"
+to german "Ra Zwiebel, Stempel: K1";
+
+translate "Ra Bulb, Leaves: K1"
+to german "Ra Zwiebel, Blätter: K1";
+
+translate "Petals K1 K2"
+to german "Blütenblätter K1 K2";
+
+translate "Inspect this weed"
+to german "Untersuche dieses Unkraut";
+
+translate "Hmm, there might have been something there, but you just make a mess of it. You need Botanical Identification, preferably level-2, to avoid destroying the delicate weed."
+to german "Hmm, es könnte etwas dagewesen sein, aber du bist etwas verwirrt. Du brauchst Botanische Identifikation, vorzugsweise Level 2, um den empfindlichen Keimling nicht zu zerstören.";
+
+translate "Using your limited Botanical Identification skill, you try to inspect the plant... Interesting! What an odd Bulb!"
+to german "Du benutzt unsere beschränkte Botanische Identifikationsfähigkeit und versuchst die Pflanze zu untersuchen... Interessant! Was für eine seltene Zwiebel!";
+
+translate "Interesting plant. Too bad you don't have a higher skill level in Botanical Identification. The delicate weed wilts and dies."
+to german "Interessante Pflanze. Zu dumm, daß du keine höhere Fähigkeit in der Botanischen Identifikation hast. Der empfindliche Keimling welkt und stirbt.";
+
+translate "Using your Botanical Identification skill, you inspect the plant. What an interesting specimen!"
+to german "Du benutzt Deine Botanische Identifikationsfähigkeit und untersuchst die Pflanze. Was für ein interessantes Exemplar!";
+
+translate "Using your expert Botanical Identification skill, you inspect the plant. What an interesting specimen!"
+to german "Du benutzt Deine fachliche Botanische Identifikationsfähigkeit und untersuchst die Pflanze. Was für ein interessantes Exemplar!";
+
+translate "Interesting plant, but unfortunately just a normal weed."
+to german "Interessante Pflanze, aber leider nur ein normaler Keimling.";
+
+translate "Botanist's Touch"
+to german "Botanisches Gefühl";
+
+translate "Uproot using Botanist's Touch"
+to german "Mittls Botanischem Gefühl entwurzeln";
+
+translate "The O1 is too still fragile from its forced growth. Wait another K1 to avoid killing the flower."
+to german "O1(asn) O1(swa) ist durch das vorangetriebene Wachstum noch zu geschwächt. Warte damit weitere K1, um die Blume nicht zu töten.";
+
+translate "Are you sure you want to uproot the flower?"
+to german "Bist du sicher, dass du die Blume entwurzeln möchtest?";
+
+translate "Allows mixing of specialized and exotic fertilizers."
+to german "Erlaubt das Mischen von speziellen und ausgefallenen Düngemitteln.";
+
+translate "There is N1.N2% of a Khefre's Essence in the O1."
+to german "Es sind N1.N2% Khefres Essenz in O1(tsn) O1(sn).";
+
+translate "Mulch Beetle into Khefre's Essence"
+to german "Mulche Käfer zu Khefres Essenz";
+
+translate "All Beetles"
+to german "Alle Käfer";
+
+translate "Are you sure you want to mulch all the beetles in this chest? It will give N1 Khefre's Essence."
+to german "Bist du sicher, dass du alle Käfer in dieser Kiste mulchen möchtest? Es wird N1 Khefres Essenzen ergeben.";
+
+translate "You mulch the beetles into N1 Khefre's Essence. A bit of the sticky essense remains in the O1 and will get added to the next group of beetles you mulch."
+to german "Du mulchst die Käfer zu N1 Khefres Essenz. Ein wenig der klebrigen Essenz bleibt in O1(tsn) O1(sn) und wird zur nächsten Gruppe zu mulchender Käfer hinzugefügt werden.";
+
+translate "You mulch the beetles into N1 Khefre's Essence."
+to german "Du mulchst die Käfer zu N1 Khefres Essenz.";
+
+translate "You made one Khefre's Essence!"
+to german "Du hast eine Khefres Essenz hergestellt!";
+
+translate "Enrich Fertilizer"
+to german "Dünger anreichern";
+
+translate "Into O1"
+to german "Zu O1(sn)";
+
+///translate "Mix a batch of how many O1? (Max ///",Actor.Inventory[FlowerFertilizer],")"),1,Actor.Inventory[FlowerFertilizer]);
+///to german "
+
+translate "To make a batch of N1 O1 requires:"
+to german "Eine Ladung von N1 O1(N1?pa:sa) benötigt:";
+
+translate "You mix up a batch of N1 O1."
+to german "Du hast eine Ladung von N1 O1(N1?pa:sa) hergestellt.";

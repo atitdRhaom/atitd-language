@@ -1,0 +1,106 @@
+module zatarg_fre;
+
+translate "Old Password"
+to french "Ancien\nmot de passe";
+
+translate "New Password"
+to french" Nouveau\nmot de passe";
+
+translate "Repeat"
+to french "*";
+
+translate "Old Password was incorrect."
+to french "L'ancien mot de passe est incorrect.";
+
+translate "New Passwords don't match."
+to french "Les nouveaux mots de passe ne correspondent pas.";
+
+translate "Join Channel"
+to french "Connexion à un canal";
+
+translate "Channel Name?"
+to french "Nom du canal ?";
+
+translate "Mentor Hop Points"
+to french "Facultés de Téléportion des mentors";
+
+translate "Player Name: "
+to french "Nom du joueur :";
+
+translate "Hop point not found."
+to french "Point de téléportation introuvable.";
+
+translate "Really delete hop point K1?"
+to french "Voulez-vous réellement effacer le point de téléportation K1 ?";
+
+translate "You cannot use K1 as a hop point."
+to french "Vous ne pouvez pas utiliser K1 comme point de téléportation.";
+
+translate "to K1"
+to french "Vers K1";
+
+translate "Clock"
+to french "Horloge";
+
+translate "Clockloc"
+to french "Horloge & coordonnées";
+
+translate "FPS"
+to french "Trames/secondes";
+
+translate "Toggle Inventory"
+to french "Affichier/cacher l'inventaire";
+
+translate "Toggle Chat"
+to french "Affichier/cacher les canaux de discussion";
+
+translate "Toggle Milestones"
+to french "Affichier/cacher l'historique";
+
+translate "Milestones"
+to french "Historique";
+
+translate "Player Name?"
+to french "Nom du joueur ?";
+
+translate "Send a Message"
+to french "Envoyer un message";
+
+translate "Open a Private Chat"
+to french "Ouvrir un canal privé";
+
+translate "Player to send Message to?"
+to french "A qui voulez-vous envoyer un message ?";
+
+translate "Hide Interface"
+to french "Masquer l'interface";
+
+translate "Restore Interface"
+to french "Restaurer l'interface";
+
+translate "Show Principle Tabs"
+to french "Afficher les principes";
+
+translate "Hide Principle Tabs"
+to french "Afficher/cacher les principes";
+
+translate "Toggle Icons"
+to french "Afficher/cacher les icônes";
+
+translate "Toggle Callboards"
+to french "Afficher/cacher les panneaux de modération";
+
+translate "Drag Current Tab"
+to french "Déplacer l'onglet actuel";
+
+translate "Move Current Tab to"
+to french "Classer l'onglet actuel dans";
+
+translate "Drag Tab Left"
+to french "Déplacer l'onglet vers la gauche";
+
+translate "Drag Tab Right"
+to french "Déplacer l'onglet vers la droite";
+
+translate "Move Tab to"
+to french "Classer l'onglet dans";

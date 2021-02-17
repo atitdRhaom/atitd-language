@@ -1,0 +1,102 @@
+module Wheat_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2007 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+
+translate FungusKiller to german neuter
+{
+swa "Pilzvernichtungsmittel";
+  sn "Pilzvernichtungsmittel"; sg "Pilzvernichtungsmittels"; sd "Pilzvernichtungsmittel"; sa "Pilzvernichtungsmittel";
+  pn "Pilzvernichtungsmittel"; pg "Pilzvernichtungsmittel"; pd "Pilzvernichtungsmitteln"; pa "Pilzvernichtungsmittel";
+}
+
+translate WheatBed to german neuter
+{
+swa "Weizenfeld";
+  sn "Weizenfeld"; sg "Weizenfeldes"; sd "Weizenfeld"; sa "Weizenfeld";
+  pn "Weizenfelder"; pg "Weizenfelder"; pd "Weizenfeldern"; pa "Weizenfelder";
+}
+
+translate WheatAkhet to german neuter
+{
+swa "Aknetweizen";
+  sn "Aknetweizen"; sg "Aknetweizens"; sd "Aknetweizen"; sa "Aknetweizen";
+  pn "Aknetweizen"; pg "Aknetweizen"; pd "Aknetweizen"; pa "Aknetweizen";
+}
+translate WheatPeret to german neuter
+{
+swa "Peretweizen";
+  sn "Peretweizen"; sg "Peretweizens"; sd "Peretweizen"; sa "Peretweizen";
+  pn "Peretweizen"; pg "Peretweizen"; pd "Peretweizen"; pa "Peretweizen";
+}
+translate WheatShemu to german neuter
+{
+swa "Shemuweizen";
+  sn "Shemuweizen"; sg "Shemuweizens"; sd "Shemuweizen"; sa "Shemuweizen";
+  pn "Shemuweizen"; pg "Shemuweizen"; pd "Shemuweizen"; pa "Shemuweizen";
+}
+
+translate "Wheat"
+to german "Weizen";
+
+translate "Water this Wheat Bed"
+to german "Bewässere dieses Weizenfeld";
+
+translate "This is too close to another wheat bed."
+to german "Dieses Feld liegt zu nah an einem anderen.";
+
+translate "That type of wheat is out of season."
+to german "Diese Weizensorte ist nicht saisonal.";
+
+translate "Size of outer growth ring"
+to german "Größeres Anbaufeld";
+translate "Grows on Dirt"
+to german "Wächst auf Schmutz";
+translate "Grows on Clay"
+to german "Wächst auf Ton";
+translate "Grows on Sand"
+to german "Wächst auf Sand";
+translate "Grows on Grass"
+to german "Wächst auf Gras";
+translate "Needs less water"
+to german "Braucht kaum Wasser";
+translate "Stable Life Delta"
+to german "Solides Lebensdelta";
+translate "Impervious to soot"
+to german "Rußundurchlässig";
+translate "Impervious to heavy metal"
+to german "Schwermetallundurchlässig";
+translate "Resistant to Weed 1"
+to german "Beständig gegen Saat 1";
+translate "Resistant to Weed 2"
+to german "Beständig gegen Saat 2";
+translate "Resistant to Weed 3"
+to german "Beständig gegen Saat 3";
+translate "Resistant to Weed 4"
+to german "Beständig gegen Saat 4";
+translate "Resistant to Weed 5"
+to german "Beständig gegen Saat 5";
+translate "Resistant to Weed 6"
+to german "Beständig gegen Saat 6";
+translate "Resistant to Weed 7"
+to german "Beständig gegen Saat 7";
+
+translate "Warning: Grows on Nothing"
+to german "Warnung: Wächst auf Nichts";
+
+translate "Harvest this Wheat"
+to german "Ernte diesen Weizen";
+
+translate "For some reason, the wheat stalks were weak, and no good grain could be harvested."
+to german "Aus unerfindlichen Gründen sind die Weizenstängel zu dünn gewachsen und es konnte kein Korn geerntet werden.";
+
+
+
+
+
+

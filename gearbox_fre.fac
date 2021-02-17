@@ -1,0 +1,148 @@
+module gearbox_fre;
+
+translate GearBoxTable to french feminine
+{
+ns "Table d'assemblage de boîte à pignons"; np "Tables d'assemblage de boîtes à pignons";
+}
+
+translate GearBox to french feminine
+{
+ns "Boîte à pignons"; np "Boîtes à pignons";
+}
+
+translate GearboxDesign to french feminine
+{
+ns "Conception de boîtes à pignons"; np "Conceptions de boîtes à pignons";
+}
+
+translate "Modular components like gearboxes are the first step toward advanced engineering."
+to french "Les composants modulables comme les boîtes de pignons sont la première étape vers les techniques d'ingénierie avancée";
+
+translate "Gearbox Design (Completed)"
+to french "Conception de boîtes à pignons (Achevé)";
+
+translate "You learn the art of Gearbox Design. You can now build a gearbox assembly table"
+to french "Vous avez appris l'art de la conception d'une boîte à pignons. Vous pouvez maintenant fabriquer une table d'assemblage de boîtes à pignons";
+
+translate "Engineering"
+to french "Ingénierie";
+
+translate "Gearbox Assembly Table"
+to french "Table d'assemblage de boîtes à pignons";
+
+translate "To build a Gearbox Assembly Table, you need: "
+to french "Pour construire une table d'assemblage de boîtes à pignons, il vous faut : ";
+
+translate "Clear the Table"
+to french "Nettoyer la table";
+
+translate "Cursor Up"
+to french "Monter";
+
+translate "Cursor Down"
+to french "Descendre";
+
+translate "Cursor Left"
+to french "A gauche";
+
+translate "Cursor Right"
+to french "A droite";
+
+translate "Add a spacer"
+to french "Ajouter une entretoise";
+
+translate "Add a 3-tooth"
+to french "Pignon à 3 dents";
+
+translate "Add a 4-tooth"
+to french "Pignon à 4 dents";
+
+translate "Add a 5-tooth"
+to french "Pignon à 5 dents";
+
+translate "Add a 6-tooth"
+to french "Pignon à 6 dents";
+
+translate "Add a 7-tooth"
+to french "Pignon à 7 dents";
+
+translate "You need the skill of Gearbox Design to design a gearbox."
+to french "Vous devez apprendre la Conception de boîtes à pignons.";
+
+translate " Gear Limit exceeded"
+to french " Limite de pignons dépassée";
+
+translate "Limit of N1 shafts exceeded."
+to french "Limite de N1 axes dépassée.";
+
+translate "Limit of N1 gears per shaft exceeded."
+to french "Limite de N1 pignons par axe dépassée."; 
+
+translate "Remove Gear"
+to french "Retirer un pignon";
+
+translate "There are no gears under the cursor"
+to french "Il n'y a pas de pignon sous votre curseur";
+
+translate "Not a valid design: this gearbox will jam"
+to french "Conception erronée: cette boîte à pigons se bloquera";
+
+translate "Not a valid design: two gears are too close to each other (see cursor)"
+to french "La conception est erronée: Deux pignons sont trop proches l'un de l'autre (cf. curseur)";
+
+translate "Analyze[key=q]"
+to french "Analyser[key=q]";
+
+translate "Build This Gearbox[key=b]"
+to french "Construire cette boîte à pignons[key=b]";
+
+translate "Not a legal design: there must be an input shaft at 1A"
+to french "La conception n'est pas bonne: le mouvement doit être lancé en 1A";
+
+translate "Shaft N1A rotating at N2%"
+to french "L'axe N1A tourne à N2%";
+translate "Shaft N1B rotating at N2%"
+to french "L'axe N1B tourne à N2%";
+translate "Shaft N1C rotating at N2%"
+to french "L'axe N1C tourne à N2%";
+translate "Shaft N1D rotating at N2%"
+to french "L'axe N1D tourne à N2%";
+translate "Shaft N1E rotating at N2%"
+to french "L'axe N1E tourne à N2%";
+translate "Shaft N1F rotating at N2%"
+to french "L'axe N1F tourne à N2%";
+translate "Shaft N1G rotating at N2%"
+to french "L'axe N1G tourne à N2%";
+translate "Shaft N1H rotating at N2%"
+to french "L'axe N1H tourne à N2%";
+
+
+translate "Not a valid design: there must be at least one shaft in the output row."
+to french "La conception est erronée : il doit y avoir au moins un axe pour le mouvement de sortie.";
+
+translate "Not a valid design: there must be at most three shafts in the output row."
+to french "La conception est erronée : vous devez avoir au moins trois axes pour le mouvement de sortie.";
+
+translate "To build a Gearbox model K1, you need:"
+to french "Pour fabriquer une boîte à pignons de modèle K1, il vous faut :";
+
+translate "You need to learn mechanics at level 2 before we can teach you Gearbox Design."
+to french "Vous devez apprendre le niveau 2 de la conception mécanique avant d'apprendre comment fabriquer une boîte à pignons.";
+
+translate "You need the skill of Automation to design a gearbox."
+to french "Vous devez apprendre la compétence 'automatisation' pour pouvoir concevoir une boîte à pignons.";
+
+translate "Build one?"
+to french "Construire ?";
+
+translate "Specific Gearbox"
+to french "Boîte à pignons spécifique";
+
+translate "Reset"
+to french "Réinitialiser";
+
+translate "Analyze"
+to french "Analyser";
+
+translate "Build this GearBox"
+to french "Assembler cette boîte à pignon";

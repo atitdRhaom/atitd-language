@@ -1,0 +1,111 @@
+module raelisculpture_fre;
+
+translate FuneraryTemple to french masculine
+{
+	ns "Temple funéraire"; np "Temples funéraires";
+	}
+
+translate Funerary to french feminine
+{
+	ns "L'épreuve du Temple Funéraire"; np "L'épreuve du Temple Funéraire";
+	}
+
+translate "The Glory of Funerary Temples comes more from the range of colors used in their construction than in the number of tiles."
+to french "La gloire d'un Temple funéraire est plus influencée par la diversité des couleurs utilisées que par la quantité de tuiles.";
+translate "Any Dark color Raeli Tiles"
+to french "N'importe quelle couleur foncée de tuiles Raelis";
+translate "Any light color Raeli Tiles"
+to french "N'importe quelle couleur claire de tuiles Raelis";
+
+translate "Bake a tile color other than Black or White"
+to french "Faites cuire une couleur de tuile autre que Noire ou Blanc";
+
+translate "Build a Raeli Oven (optional)"
+to french "Construire un Four Raeli (facultatif)";
+translate "Start the oven Dredging"
+to french "Lancer l'extraction sur un four";
+translate "Begin the Baking Process"
+to french "Lancer le processus de cuisson";
+translate "Interrupt the Baking Process before the tiles are Black"
+to french "Interrompre le processus de cuisson avant que les tuiles ne deviennent noires";
+translate "Build a Funerary Temple"
+to french "Bâtir un Temple Funéraire";
+translate "Glorify the Temple with at least 7 colors of Tiles"
+to french "Glorifier le Temple avec au moins 7 couleurs de tuiles différentes";
+translate "Achieve a Glory Rating of 7000"
+to french "Atteindre une Gloire de 7000";
+
+translate "You have completed the Principles of the Funerary Tempel."
+to french "Vous avez terminé les Principes du Temple Funéraire.";
+
+translate "Start the Test of the Funerary Temple"
+to french "Se lancer dans l'épreuve du Temple funéraire";
+
+translate "Build a most glorious temple, in dazzling colors, to welcome spirits of those past back to earth. Temples' scores are heavily weighted on the variety of colors, and far less so on the quantity. The exact formula is a mystery."
+to french "Construisez des temples magnifiques aux couleurs éblouissantes pour accueillir les esprit de ceux qui ont séjourné sur terre. Les scores obtenues par les temples dépendent majoritairement de la diversité ds couleurs, et beaucoup moins de leur quantité. La formule exacte est un mystère complet.";
+
+translate "Funerary Temple"
+to french "Temple funéraire";
+
+translate "Sheet glass for the windows"
+to french "Feuilles de verre pour les fenêtres";
+
+translate "Fire bricks for the kiln shaft"
+to french "Briques réfractaires pour le four";
+
+translate "Gold for Trim"
+to french "Or pour les ornements";
+
+translate "Silver for Trim"
+to french "Argent pour les ornements";
+
+translate "Iron Bars for roof supports"
+to french "Barres de fer pour soutenir le toit";
+
+translate "Concrete for foundation"
+to french "Béton pour les fondations";
+
+translate "Cut Stone for subfoundation"
+to french "Pierre taillée pour les fondations";
+
+translate "Mirrors for the reflectory bowl"
+to french "Miroirs pour la section réfléchissante";
+
+translate "Boards for structure"
+to french "Planches pour la structure";
+
+translate "To build a Funerary Temple, you need: "
+to french "Pour construire un Temple Funéraire, il vous faut :";
+
+translate "View Raeli Tiles used"
+to french "Voir les tuiles utilisées";
+
+translate "Tiles Used:\n"
+to french "Tuiles utilisées:\n";
+translate "Tiles Used:"
+to french "Tuiles utilisées:";
+
+translate "Glorify the Temple"
+to french "Glorifier le temple";
+
+translate "Glorify with how many K1 Raeli Tiles? (Max N1)"
+to french "Glorifier le Temple avec combien de tuiles? (Max N1)";
+
+translate "This Funerary Temple's glory is N1"
+to french "La gloire de ce Temple Funéraire est de N1";
+
+translate FuneraryController to french masculine
+{
+	ns "contrôleur funéraire"; np "contrôleurs funéraires";
+	}
+
+translate "Advance winning Temple now"
+to french "Proposer un Temple gagnant";
+
+translate "FuneraryTemple: No winner"
+to french "Temple funéraire : pas de vainqueur";
+
+translate "Error: Could not find FuneraryTemple owner at N1"
+to french "Erreur : Propriétaire du temple introuvable en N1";
+
+

@@ -1,0 +1,129 @@
+module assbath_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002,2003,2004,2005 by MDO Entertainment	           **
+//**                                                                       **
+//***************************************************************************
+//menues
+
+translate AssimilationBath to german neuter
+{
+  swa "Assimilationsbad";
+  sn "Assimilationsbad"; sg "Assimilationsbades"; sd "Assimilationsbad"; sa "Assimilationsbad";
+  pn "Assimilationsbäder"; pg "Assimilationsbäder"; pd "Assimilationsbädern"; pa "Assimilationsbäder";
+}
+translate Sludge to german masculine
+{
+  swa "Klärschlamm";
+  sn "Klärschlamm"; sg "Klärschlammes"; sd "Klärschlamm"; sa "Klärschlamm";
+  pn "Klärschlämme"; pg "Klärschlämme"; pd "Klärschlämmen"; pa "Klärschlämme";
+}
+
+translate "Allows one to build and operate Assimilation Baths."
+to german "Erlaubt die Herstellung und den Betrieb von Assimilationsbädern.";
+
+translate "Glass Pipes (Main Descenders)"
+to german "Glasrohre (Hauptrohr)";
+
+translate "Thermometers (Monitoring)"
+to german "Thermometer (Kontrolle)";
+
+translate "Silver (Pot Lining)"
+to german "Silber (Topfauskleidung)";
+
+translate "Copper Straps (Base Reinforcement)"
+to german "Kupferschlaufen (Hauptverstärkung)";
+
+translate "Grain Spirits, any kind"
+to german "Getreidebranntwein, jegliche Sorte";
+
+translate "Grain Spirits of Earth"
+to german "Getreidebranntwein der Erde";
+
+translate "Grain Spirits of Water"
+to german "Getreidebranntwein des Wassers";
+
+translate "Grain Spirits of Fire"
+to german "Getreidebranntwein des Feuers";
+
+translate "Grain Spirits of Air"
+to german "Getreidebranntwein der Luft";
+
+translate "Wood Spirits, any kind"
+to german "Waldgeist, jegliche Sorte";
+
+translate "Wood Spirits of Earth"
+to german "Waldgeist der Erde";
+
+translate "Wood Spirits of Water"
+to german "Waldgeist des Wassers";
+
+translate "Wood Spirits of Fire"
+to german "Waldgeist des Feuers";
+
+translate "Wood Spirits of Air"
+to german "Waldgeist der Luft";
+
+translate "You learn to build and operate an Assimilation Bath."
+to german "Du lernst die Herstellung und den Betrieb eines Assimilationsbades.";
+
+translate "Alchemy"
+to german "Alchemie";
+
+translate "Assimilation Bath"
+to german "Assimilationsbad";
+
+translate "To build an Assimilation Bath you need:"
+to german "Um ein Assimilationsbad zu bauen benötigst du:";
+
+translate "Add component of Sun"
+to german "Füge Sonnenkomponente hinzu";
+
+translate "Components of Sun"
+to german "Sonnenkomponenten";
+
+translate "You must fill the bath with alcohol before adding components."
+to german "Du musst das Bad mit Alkohol befüllen, bevor du Komponenten hinzugibst.";
+
+translate "Add component of Star"
+to german "Füge Sternenkomponente hinzu";
+
+translate "Components of Stars"
+to german "Sternenkomponenten";
+
+translate "Add component of Moon"
+to german "Füge Mondkomponente hinzu";
+
+translate "Components of Moon"
+to german "Mondkomponenten";
+
+translate "Fill the bath with Grain Spirits"
+to german "Befülle das Bad mit Getreidebranntwein";
+
+translate "Grain Spirits"
+to german "Getreidebranntwein";
+
+translate "The bath has already been filled with spirits."
+to german "Das Bad ist schon mit Branntwein befüllt.";
+
+translate "You can only use fairly pure alcohol, at least Water Spirits of Grain."
+to german "Du kannst nur hochprozentigen Alkohol benutzen, mindestens Branntwein aus Getreide.";
+
+translate "You need 7 vials of Spirits of Grain"
+to german "Du brauchst 7 Phiolen mit Getreidebranntwein";
+
+translate "Alcohol bath is ready - add components of Sun, Moon, Stars"
+to german "Das Alkoholbad ist fertig - füge Komponenten der Sonne, Mond und Sterne hinzu";
+
+translate "Empty the bath"
+to german "Leere das Bad";
+
+translate "Seal the bath"
+to german "Dichte das Bad ab";
+
+translate "The tincture will be ready in 5 minutes."
+to german "Die Tinktur wird in 5 Minuten fertig sein.";
+

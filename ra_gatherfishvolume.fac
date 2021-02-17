@@ -1,0 +1,48 @@
+Module RAGatherFishVolume;
+
+RegionalActivity RAGatherFishVolume<"Gather Fish Volume">;
+
+default World.RQSpecificActivitySettingMin[*, RAGatherFishVolume] = 1;
+default World.RQSpecificActivitySettingMax[*, RAGatherFishVolume] = 50;
+
+subroutine GetTaskDescription(region) of RAGatherFishVolume {
+	if (IsA(World.RQSpecificActivityType[region, RAGatherFishVolume], ATFirst)) {
+		return (String("First House to catch enough fish (deben)"));
+	}
+	if (IsA(World.RQSpecificActivityType[region, RAGatherFishVolume], ATHouse)) {
+		return (String("House to catch the most fish (deben) of any type"));
+	}
+	if (IsA(World.RQSpecificActivityType[region, RAGatherFishVolume], ATCoop)) {
+		return (String("Catch enough fish (deben) of any type"));
+	}
+
+	return ("Unknown Objective [RAGatherFishVolume]");
+}
+
+subroutine PickAsActivity(region) of RAGatherFishVolume {
+	var result = TRTwister(0, 1);
+	if (result) {
+		var choice = TRTwister(1, 9);
+		if (choice <= 3) {
+			PostAssign(World.RQSpecificActivityType[region, RAGatherFishVolume], ATFirst);
+			PostAssign(World.RQWeeklyMax[region, RAGatherFishVolume], TRTwister(World.RQSpecificActivitySettingMin[region, RAGatherFishQuantity], World.RQSpecificActivitySettingMax[region, RAGatherFishQuantity]) * 100);
+		} else if (choice <= 6) {
+			PostAssign(World.RQSpecificActivityType[region, RAGatherFishVolume], ATHouse);
+			PostAssign(World.RQWeeklyMax[region, RAGatherFishVolume], -1);
+		} else {
+			PostAssign(World.RQSpecificActivityType[region, RAGatherFishVolume], ATCoop);
+			PostAssign(World.RQWeeklyMax[region, RAGatherFishVolume], TRTwister(World.RQSpecificActivitySettingMin[region, RAGatherFishQuantity], World.RQSpecificActivitySettingMax[region, RAGatherFishQuantity]) * 100);
+		}
+	}
+	return (result);
+}
+
+subroutine TriggerActivity(amount, extraData) of RAGatherFishVolume {
+	var region = Actor->GetCurrentRegion();
+
+	if (contains(World.HouseHomeRegions[Actor.House], region)) {
+		amount = amount * 2;
+	}
+
+	Actor.RAActivityBuffer[RAGatherFishVolume, region, Actor.House] += amount;
+}

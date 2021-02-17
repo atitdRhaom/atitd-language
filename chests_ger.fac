@@ -1,0 +1,151 @@
+module chests_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+//menues
+
+translate Chest to german feminine
+{
+swa "Kiste";
+sn "Kiste"; sg "Kiste"; sd "Kiste"; sa "Kiste";
+pn "Kisten"; pg "Kisten"; pd "Kisten"; pa "Kisten";
+}
+translate LargeChest to german feminine
+{
+swa "Große Kiste";
+sn "Große Kiste"; sg "Großen Kiste"; sd "Großen Kiste"; sa "Große Kiste";
+pn "Großen Kisten"; pg "Großen Kisten"; pd "Großen Kisten"; pa "Großen Kisten";
+}
+translate HugeChest to german feminine
+{
+swa "Riesige Kiste";
+sn "Riesige Kiste"; sg "Riesigen Kiste"; sd "Riesigen Kiste"; sa "Riesige Kiste";
+pn "Riesigen Kisten"; pg "Riesigen Kisten"; pd "Riesigen Kisten"; pa "Riesigen Kisten";
+}
+translate MegaChest to german feminine
+{
+swa "Megakiste";
+sn "Megakiste"; sg "Megakiste"; sd "Megakiste"; sa "Megakiste";
+pn "Megakisten"; pg "Megakisten"; pd "Megakisten"; pa "Megakisten";
+}
+
+translate "Chests"
+to german "Kisten";
+
+translate "To build a Chest you need:"
+to german "Um eine Kiste zu bauen benötigst du:";
+
+translate "Chest"
+to german "Kiste";
+
+translate "Build a Chest"
+to german "Baue eine Kiste";
+
+translate "Stash"
+to german "Verstauen";
+
+translate "Take"
+to german "Nimm";
+
+translate "Build a Large Chest"
+to german "Baue eine große Kiste";
+
+translate "To build a Large Chest you need:"
+to german "Um eine große Kiste zu bauen benötigst du:";
+
+translate "Browse Contents"
+to german "Inhalt durchsuchen";
+
+translate "Build a Huge Chest"
+to german "Baue eine riesige Kiste";
+
+translate "To build a Large Chest you need:"
+to german "Um eine riesige Kiste zu bauen benötigst du:";
+
+translate "Label this chest"
+to german "Bezeichnung der Kiste";
+
+translate "Upgrade?"
+to german "Ausbauen?";
+
+translate "You"
+to german "dir";
+
+translate "The Public"
+to german "Der Öffentlichkeit";
+
+translate "This chest belongs to U1"
+to german "Diese Kiste gehört U1(name)";
+
+translate "This chest belongs to You"
+to german "Diese Kiste gehört dir";
+
+translate "This chest belongs to The Public"
+to german "Diese Kiste gehört der Öffentlichkeit";
+
+translate "This O1 is N1% full (N2 of N3.)"
+to german "O1(^tsn) O1(sn) ist zu N1% voll (N2 von N3.)";
+translate "Your O1 is N1% full (N2 of N3.)"
+to german "O1(^tsn) O1(sn) ist zu N1% voll (N2 von N3.)";
+
+translate "Tear down this chest"
+to german "Zerstöre die Kiste";
+
+translate "It's locked."
+to german "Sie ist verschlossen!";
+
+translate "Cruelty! You can't put a sheep in a chest..."
+to german "Ra bewahre! Du kannst doch keine Schafe in Kisten sperren...";
+
+translate "Cruelty! You can't put a rabbit in a chest..."
+to german "Ra bewahre! Du kannst doch keine Hasen in Kisten sperren...";
+
+translate "Cruelty! You can't put a chicken in a chest..."
+to german "Ra bewahre! Du kannst doch keine Hühner in Kisten sperren...";
+
+translate "You can't fit any more O1 in the O2!"
+to german "Du kannst O1(kpn) O1(pn) mehr in O2(tsn) O2(sn) hineinlegen!";
+
+translate "Stash how many O1? (Max N1)"
+to german "Wieviel O1(pg) willst du hineinlegen? (Max N1)";
+
+translate "Stash how many O1?"
+to german "Wieviel O1(pg) willst du hineinlegen?";
+
+translate "O1 Label:"
+to german "Bezeichnung der O1(sn):";
+
+translate "Dump everything into the O1"
+to german "Lege all deine Habe in O1(tsn) O1(sn)";
+
+translate "Upgrade to a Large Chest"
+to german "Erweitere zu einer großen Kiste";
+
+translate "To upgrade this to a Large Chest, you need:"
+to german "Für die Erweiterung zur großen Kiste benötigst du:";
+
+translate "Upgrade to a Huge Chest"
+to german "Erweitere zu einer riesigen Kiste";
+
+translate "To upgrade this to a Huge Chest, you need:"
+to german "Für die Erweiterung zur riesigen Kiste benötigst du:";
+
+translate "Foreign Trader's Cart"
+to german "Fremder Händlerwagen";
+
+translate "Browse Contents [key=B]"
+to german "Durchsuche Inhalt [Taste=B]";
+
+translate "You must have both Use and Stash permission to browse."
+to german "Du musst Nutzungs- und Verstauerlaubnis haben um durchsuchen zu können.";
+
+translate "Copy Contents to Clipboard"
+to german "Kopiere Inhalt in die Zwischenablage";
+
+translate "O1 owned by U1 at N1 N2"
+to german "O1(swa) gehört U1(name) bei N1 N2";

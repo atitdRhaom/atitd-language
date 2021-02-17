@@ -1,0 +1,259 @@
+Module Hardwood_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 MDO Entertainment  		           **
+//**                                                                       **
+//***************************************************************************
+
+translate WoodTreatmentTank to german masculine
+{
+swa "Holzbearbeitungstank";
+sn "Holzbearbeitungstank"; sg "Holzbearbeitungstank"; sd "Holzbearbeitungstank"; sa "Holzbearbeitungstank";
+pn "Holzbearbeitungstanks"; pg "Holzbearbeitungstanks"; pd "Holzbearbeitungstanks"; sa "Holzbearbeitungstanks";
+}
+
+translate WoodTreatment to german feminine
+{
+swa "Holzbearbeitung";
+sn "Holzbearbeitung"; sg "Holzbearbeitung"; sd "Holzbearbeitung"; sa "Holzbearbeitung";
+pn "Holzbearbeitung"; pg "Holzbearbeitung"; pd "Holzbearbeitung"; sa "Holzbearbeitung";
+}
+
+translate TreatedBoards to german neuter
+{
+swa "behandeltes Brett";
+sn "behandelte Brett"; sg "behandeltes Brett"; sd "behandeltes Brett"; sa "behandeltes Brett";
+pn "behandelten Bretter"; pg "behandelten Bretter"; pd "behandelten Brettern"; sa "behandelten Bretter";
+}
+
+translate WAColorBlonde to german neuter
+{
+swa "hell";
+sn "hell"; sg "hell"; sd "hell"; sa "hell";
+pn "hell"; pg "hell"; pd "hell"; sa "hell";
+}
+
+translate WAColorWhite to german neuter
+{
+swa "weiß";
+sn "weiß"; sg "weiß"; sd "weiß"; sa "weiß";
+pn "weiß"; pg "weiß"; pd "weiß"; sa "weiß";
+}
+
+translate WAColorBlack to german neuter
+{
+swa "schwarz";
+sn "schwarz"; sg "schwarz"; sd "schwarz"; sa "schwarz";
+pn "schwarz"; pg "schwarz"; pd "schwarz"; sa "schwarz";
+}
+
+translate WAHard to german neuter
+{
+swa "hart";
+sn "hart"; sg "hart"; sd "hart"; sa "hart";
+pn "hart"; pg "hart"; pd "hart"; sa "hart";
+}
+
+translate WASoft to german neuter
+{
+swa "weich";
+sn "weich"; sg "weich"; sd "weich"; sa "weich";
+pn "weich"; pg "weich"; pd "weich"; sa "weich";
+}
+
+translate WARigid to german neuter
+{
+swa "starr";
+sn "starr"; sg "starr"; sd "starr"; sa "starr";
+pn "starr"; pg "starr"; pd "starr"; sa "starr";
+}
+
+translate WAPliable to german neuter
+{
+swa "biegsam";
+sn "biegsam"; sg "biegsam"; sd "biegsam"; sa "biegsam";
+pn "biegsam"; pg "biegsam"; pd "biegsam"; sa "biegsam";
+}
+
+translate WAFireproof to german neuter
+{
+swa "feuerfest";
+sn "feuerfest"; sg "feuerfest"; sd "feuerfest"; sa "feuerfest";
+pn "feuerfest"; pg "feuerfest"; pd "feuerfest"; sa "feuerfest";
+}
+
+translate WAVolatile to german neuter
+{
+swa "leicht entflammbar";
+sn "leicht entflammbar"; sg "leicht entflammbar"; sd "leicht entflammbar"; sa "leicht entflammbar";
+pn "leicht entflammbar"; pg "leicht entflammbar"; pd "leicht entflammbar"; sa "leicht entflammbar";
+}
+
+translate WARotproof to german neuter
+{
+swa "wasserfest";
+sn "wasserfest"; sg "wasserfest"; sd "wasserfest"; sa "wasserfest";
+pn "wasserfest"; pg "wasserfest"; pd "wasserfest"; sa "wasserfest";
+}
+
+translate WATermiteResistant to german neuter
+{
+swa "termitenresistent";
+sn "termitenresistent"; sg "termiteresistent"; sd "termiteresistent"; sa "termiteresistent";
+pn "termitenresistent"; pg "termiteresistent"; pd "termitenresistent"; sa "termitenresistent";
+}
+
+translate WATermiteProne to german neuter
+{
+swa "termitenanfällig";
+sn "termitenanfällig"; sg "termitenanfällig"; sd "termitenanfällig"; sa "termitenanfällig";
+pn "termitenanfällig"; pg "termitenanfällig"; pd "termitenanfällig"; sa "termitenanfällig";
+}
+
+translate WANontoxic to german neuter
+{
+swa "ungiftig";
+sn "ungiftig"; sg "ungiftig"; sd "ungiftig"; sa "ungiftig";
+pn "ungiftig"; pg "ungiftig"; pd "ungiftig"; sa "ungiftig";
+}
+
+translate WAGlossy to german neuter
+{
+swa "glänzend";
+sn "glänzend"; sg "glänzend"; sd "glänzend"; sa "glänzend";
+pn "glänzend"; pg "glänzend"; pd "glänzend"; sa "glänzend";
+}
+
+translate WANormal to german masculine
+{
+swa "normal";
+sn "normal"; sg "normal"; sd "normal"; sa "normal";
+pn "normal"; pg "normal"; pd "normal"; sa "normal";
+}
+
+translate "You have learned the skill of Wood Treatment.  You will need a wood treatment tank."
+to german "Du hast die Fertigkeit der Holzbearbeitung gelernt. Du benötigst einen Holzbearbeitungstank.";
+
+translate "Engineering"
+to german "Maschinenbau";
+
+translate "Wood Treatment Tank"
+to german "Holzbearbeitungstank";
+
+translate "To build a wood Treatment Tank, you need:"
+to german "Um ein Holz-Bearbeitungs Tank zu bauen benötigst Du:";
+
+translate "You must remove the treated wood first."
+to german "Du mußt die bearbeiteten Bretter erst entfernen.";
+
+translate "You don't have any boards."
+to german "Du hast keine Bretter";
+
+translate "Load compartment with how many Boards?"
+to german "Wieviele Bretter in den Bottich laden?";
+
+translate "Take Everything"
+to german "Nehme alles";
+
+translate "You must wait for the process to finish"
+to german "Du mußt warten, bis der aktuelle Prozeß abgeschloßen ist.";
+
+translate "Wood Treatment"
+to german "Holzbearbeitung";
+
+translate "Each chemical has a set of effects. To see the effects of a particular chemical, use the Info menu. You must tack the menu, or you will not be able to see the info. If you soak boards in a chemical long enough, then the attributes of the boards will eventually match the ones shown in the Info readout. "
+to german "Jede Chemikalie hat eine Reihe von Effekten. Um die Effekte im Einzelnen zu erfahren, benutze das Informationsmenü. Am Besten pinne das Menü fest, um dort nachlesen zu können. Wenn Du die Bretter lange genug in eine Chemikalie tauchst, dann wird des Holz eventuell mit den Besonderheiten aus der Information übereinstimmen. ";
+
+translate "It takes quite a bit of time for a chemical to exert all its effects.  If you do not soak the boards long enough, then the effects may be partial.  This may be useful.  For example, if a chemical has some good effects and some bad effects, it may be possible to soak the boards just long enough for the good effects to take place, but not long enough for the bad effects to take place."
+to german "Es benötigt einige Zeit, bis die Chemikalie alle Effekte auf die Bretter überträgt. Was vielleicht von Vorteil sein kann. Zum Beispiel, wenn eine Chemikalie einen guten und einen schlechten Effekt auf das Holz bewirkt, wäre es vorteilhaft, nur so lange einzutauchen, bis es die guten Eigenschaten angenommen hat und nicht so lange, bis es auch die Schlechten besitzt.";
+
+translate "You will notice that the attributes of the wood tend to move slowly at first, and then speed up as they get closer and closer to their target.  To put it differently, the speed of the bar is slow if the bar is far from its final destination, it is fast if it is close to its final destination."
+to german "Du wirst feststellen, daß sich die Effekte anfangs langsam auf das Holz übertragen und dann immer schneller werden, je näher sie dem Wert der Chemikalie kommen. Um es anders auszudrücken, die Geschwindigkeit des Balkens ist umso langsamer, je weiter er von dem Zielwert entfernt ist; es geht schneller, wenn er sich dem Zielwert der chemischen Auswirkung nähert.";
+
+translate "The tank can hold up to N1 boards.  Every N2 seconds of treatment costs N3 unit of chemical - no matter how many boards are in the tank.  You can use as many chemicals as you want, one after the other.  Once you take the boards out, the treatment is finished."
+to german "Der Tank kann N1 Bretter aufnehmen. Jede N2 Sekunden der Bearbeitung kostet N3 Einheit der Chemikalie. Du kannst soviele Chemikalien nutzen, wie Du möchtest, Eine nach der Anderen. Wenn Du die Bretter aus der Maschine nimmst, ist die Bearbeitung abgeschlossen.";
+
+translate "Info"
+to german "Information";
+
+translate "Read Instructions"
+to german "Lese die Anleitung";
+
+translate "Show what's in the Tank"
+to german "Schaue nach, was im Tank ist.";
+
+translate "Info about O1-Treated Boards"
+to german "Informationen über O1(sn)bearbeitete Bretter";
+
+translate "Treat"
+to german "Bearbeite";
+
+translate "Load Boards"
+to german "Lade Bretter";
+
+translate "Treat with O1"
+to german "Bearbeite mit O1(sn)";
+
+translate "You need the O1 skill."
+to german "Du benötigst die Fertigkeit O1(sn) dafür.";
+
+translate "Using chemicals and coatings to make wood stronger, more durable, more useful"
+to german "Benutze Chemikalien und Überzüge, um das Holz zu stärken; die Effektivität und die Haltbarkeit zu erhöhen";
+
+translate "How many seconds do you want to treat?"
+to german "Wieviele Sekunden möchtest Du bearbeiten?";
+
+translate "There aren't any boards in there."
+to german "Es sind keine Bretter geladen.";
+
+translate "You do not have N1 K1"
+to german "N1 K1 besitzt Du nicht";
+
+translate "Abort Process"
+to german "Prozeß abbrechen";
+
+translate "Not processing right now."
+to german "Es läuft kein Prozeß";
+
+//	Menü
+translate "Flexibility:"
+to german "Flexibilität:";
+
+translate "Cuttability:"
+to german "Schneidfähigkeit:";
+
+translate "Flammability:"
+to german "Entflammbarkeit:";
+
+translate "Water Resist:"
+to german "Wasserresistenz:";
+
+translate "Insect Tox:"
+to german "Insektenschädlich:";
+
+translate "Human Tox:"
+to german "Giftig (Mensch):";
+
+translate "Darkness:"
+to german "Holzfarbe";
+
+translate "Glossiness:"
+to german "Glanz";
+
+translate "Info about K1 -Treated Boards"
+to german "Information über K1 bearbeite Bretter";
+
+translate "Boards: N1 Treated"
+to german "Bretter: N1 bearbeitet";
+
+translate "Boards: N1 Untreated"
+to german "Bretter: N1 unbearbeitet";
+
+translate "Process: K1 N1"
+to german "Prozeß: K1 N1";
+
+translate "Processing Complete"
+to german "Prozeß abgeschlossen";

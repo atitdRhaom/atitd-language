@@ -1,0 +1,77 @@
+module ritual2_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Games **
+//**    (C)opyright 2002,2003 by MDO Games			           **
+//**                                                                       **
+//***************************************************************************
+//menues
+
+translate CommonAltar to german masculine
+{
+  swa "Gewöhnlicher Altar";
+  sn "Gewöhnlicher Altar"; sg "Gewöhnlicher Altar"; sd "Gewöhnlicher Altar"; sa "Gewöhnlicher Altar";
+  pn "Gewöhnlicher Altar"; pg "Gewöhnlicher Altar"; pd "Gewöhnlicher Altar"; pa "Gewöhnlicher Altar";
+}
+
+translate "This is a Common Altar"
+to german "Das ist ein Gewöhnlicher Altar";
+
+translate "Place a O1 here"
+to german "Platziere O1(sn) hier";
+
+translate "You do not have a O1"
+to german "Du hast kein O1(sn)";
+
+translate "There is already something on K1"
+to german "Es ist schon etwas auf Slot K1 ";
+
+translate "leftpillar"
+to german "Linker Pfeiler";
+
+translate "rightpillar"
+to german "Rechter Pfeiler";
+
+translate "leftfocus"
+to german "Linker Fokus";
+
+translate "rightfocus"
+to german "Rechter Fokus";
+
+translate "The Left Pillar of the Altar"
+to german "Der linke Pfeiler des Altars";
+
+translate "The Right Pillar of the Altar"
+to german "Der rechte Pfeiler des Altars";
+
+translate "The Left Focus of the Altar"
+to german "Der linke Fokus des Altars";
+
+translate "The Right Focus of the Altar"
+to german "Der rechte Fokus des Altars";
+
+translate "Take this O1"
+to german "Nimm O1(sn)";
+
+translate "Light this candle"
+to german "Zünde die Kerze an";
+
+translate "Extinguish this Candle"
+to german "Puste die Kerze aus";
+
+translate "Meditate on this altar"
+to german "Meditiere an diesem Altar";
+
+translate "Nothing happened. Maybe you didn't perform the intended ritual correctly. "
+to german "Es passiert nichts. Vielleicht hast du das vorgesehene Ritual nicht richtig ausgeführt. ";
+
+translate "Try reading up on rituals at the University of Worship."
+to german "Lies die Informationen über Rituale an der Universität der Verehrung.";
+
+translate "Check Ritual"
+to german "Prüfe Ritual";
+
+translate "Perform a Divorce"
+to german "Erzwinge eine Scheidung";

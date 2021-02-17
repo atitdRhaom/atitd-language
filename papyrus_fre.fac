@@ -1,0 +1,130 @@
+module papyrus_fre;
+
+translate PaperPress to french feminine
+{
+  ns "Presse à papier"; np "Presses à papier";
+}
+translate Papyrus to french masculine
+{
+  ns "Papyrus"; np "Papyrus";
+}
+translate PaperPapyrus to french masculine
+{
+  ns "Feuille de papyrus"; np "Feuilles de papyrus";
+}
+translate PaperWood to french masculine
+{
+  ns "Papier à base de bois"; np "Papiers à base de bois";
+}
+
+translate WetLinen to french masculine
+{
+  ns "Tissu mouillé"; np "Tissus mouillés";
+}
+translate papyrustank to french masculine
+{
+  ns "Incubateur pour Papyrus"; np "Incubateurs pour Papyrus";
+}
+translate papyrusseeds to french feminine
+{
+  ns "Graine de papyrus"; np "Graines de papyrus";
+}
+translate paperpulp to french feminine
+{
+  ns "pulpe de papier"; np "pulpes de papier";
+}
+
+translate wetpaper to french masculine
+{ ns "papier humide"; np "papiers humides";}
+
+translate wetrabbitpelt to french feminine 
+{
+	ns "fourrure de lapin mouillée"; np "fourrures de lapin mouillées";
+	}
+	
+	
+translate "Paper Press"
+to french "Presse à papier";
+
+translate "Projects/Paper Press"
+to french "Projets/Presse à papier";
+
+
+translate "Plant Papyrus"
+to french "Planter du Papyrus";
+
+translate "Plant how many seeds?"
+to french "Planter combien de graines?";
+
+translate "The Papyrus will be ready in about K1"
+to french "Le papyrus sera prêt dans environ K1";
+
+translate "To build a Paper Press, you need:"
+to french "Pour fabriquer une presse à papier, il vous faut :";
+
+translate "Make some papyrus paper (uses sterile if you have it)"
+to french "Faire des feuilles de papyrus (utilise du papy stérile si vous en avez)";
+
+translate "To make papyrus paper, you need:"
+to french "Pour faire des feuilles de papyrus, il vous faut :";
+
+translate "The linen sheets are saturated, and must be changed."
+to french "Les tissus sont saturés et doivent être changés.";
+
+translate "You need to line the press with linen before making paper."
+to french "Vous devez disposer le tissu sur la presse avant de faire du papier.";
+
+// for papyrus paper
+translate "The paper takes about 60 seconds to feed through the press."
+to french "Le papier met environ 60 secondes à passer dans la presse.";
+
+// for wood paper
+translate "The paper takes about 90 seconds to feed through the press."
+to french "Le papier met environ 90 secondes à passer dans la presse.";
+
+translate "The paper is ready."
+to french "Le papier est prêt.";
+
+translate "This O1 is making Papyrus Paper"
+to french "Cette O1(ns) tisse des feuilles de papyrus";
+
+translate "Line the press with linen."
+to french "Disposer le tissu sur la presse.";
+
+translate "You need N1 pieces of linen to line the press."
+to french "Il vous faut N1 pièces de tissu pour cette presse.";
+translate "You need N1 Rabbit Pelts to line the press."
+to french "Il vous faut N1 peaux de lapin pour cette presse.";
+
+translate "Remove the linen from the press."
+to french "Retirer le tissu de la presse.";
+
+translate "Remove the Rabbit Pelts from the press"
+to french "Enlever les peaux de lapin de la presse";
+
+translate "You must remove the Rabbit Pelts from the press first."
+to french "Vous devez d'abord enlever les peaux de lapin de la presse.";
+
+translate "To make wood paper, you need:"
+to french "Pour faire du papier à base de bois, vous avez besoin de :";
+
+translate "The rabbit pelts are saturated, and must be changed."
+to french "Les peaux de lapin sont saturées et doivent être changées.";
+
+translate "Line the press with Rabbit Pelts"
+to french "Disposez les peaux de lapin sur la presse";
+
+translate "You need to line the press with rabbit pelts before drying paper."
+to french "Vous devez aligner la presse avec les peaux de lapin avant de faire sécher du papier";
+
+translate "Make some wood paper"
+to french "Fabriquer du papier à base de bois";
+
+translate "This O1 is Drying Wood Paper"
+to french "O1(^cns) O1(ns) sèche du papier de bois";
+
+translate "Dry wet wood paper"
+to french "Sécher du papier de bois mouillé";
+
+translate "Gather these plants"
+to french "Cueillir ces pousses";

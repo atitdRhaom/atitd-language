@@ -1,0 +1,290 @@
+Module pyramids_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2007 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+
+translate PyramidConstruction to german femininecollective
+{
+swa "Pyramidenbau";  sn "Pyramidenbau"; pn "Pyramidenbau";
+}
+
+translate "With broad knowledge, allows construction of Pyramids"
+to german "Großes Wissen erlaubt den Bau von Pyramiden";
+
+translate ToothLimestoneBoreHole to german neutercollective
+{
+  swa "Bohrloch";
+  sn "Bohrloch"; sg "Bohrloch"; sd "Bohrloch"; sa "Bohrloch";
+  pn "Bohrloch"; pg "Bohrloch"; pd "Bohrloch"; pa "Bohrloch";
+}
+translate ToothLimestoneExcavationSite to german feminine
+{
+  swa "Kalksteingrube";
+  sn "Kalksteingrube"; sg "Kalksteingrube"; sd "Kalksteingrube"; sa "Kalksteingrube";
+  pn "Kalksteingrube"; pg "Kalksteingrube"; pd "Kalksteingrube"; pa "Kalksteingrube";
+}
+translate PyramidBlockRolling to german masculinecollective
+{
+  swa "Rollender Pyramidenblock";
+  sn "Rollender Pyramidenblock"; sg "Rollender Pyramidenblock"; sd "Rollender Pyramidenblock"; sa "Rollender Pyramidenblock";
+  pn "Rollender Pyramidenblock"; pg "Rollender Pyramidenblock"; pd "Rollender Pyramidenblock"; pa "Rollender Pyramidenblock";
+}
+translate PyramidConstructionSite to german feminine
+{
+  swa "Pyramidenbaustelle";
+  sn "Pyramidenbaustelle"; sg "Pyramidenbaustelle"; sd "Pyramidenbaustelle"; sa "Pyramidenbaustelle";
+  pn "Pyramidenbaustelle"; pg "Pyramidenbaustelle"; pd "Pyramidenbaustelle"; pa "Pyramidenbaustelle";
+}
+
+translate LesserPyramids to german masculine
+{
+  swa "Test der Pyramide des Volkes";
+  sn "Test der Pyramide des Volkes"; pn "Test der Pyramide des Volkes"; 
+}
+
+translate Pyramid to german feminine
+{
+  swa "Pyramide";
+  sn "Pyramide"; sg "Pyramide"; sd "Pyramide"; sa "Pyramide";
+  pn "Pyramiden"; pg "Pyramiden"; pd "Pyramiden"; pa "Pyramiden";
+}
+translate PyramidA1 to german feminine
+{
+  swa "Pyramide des Volkes";
+  sn "Pyramide des Volkes"; sg "Pyramide des Volkes"; sd "Pyramide des Volkes"; sa "Pyramide des Volkes";
+  pn "Pyramiden des Volkes"; pg "Pyramiden des Volkes"; pd "Pyramiden des Volkes"; pa "Pyramiden des Volkes";
+}
+translate PyramidA2 to german feminine
+{
+  swa "Pyramide des Fruchtbaren Landes";
+  sn "Pyramide des Fruchtbaren Landes"; sg "Pyramide des Fruchtbaren Landes"; sd "Pyramide des Fruchtbaren Landes"; sa "Pyramide des Fruchtbaren Landes";
+  pn "Pyramiden des Fruchtbaren Landes"; pg "Pyramiden des Fruchtbaren Landes"; pd "Pyramiden des Fruchtbaren Landes"; pa "Pyramiden des Fruchtbaren Landes";
+}
+translate PyramidA3 to german feminine
+{
+  swa "Pyramide des Tiefen Ozeans";
+  sn "Pyramide des Tiefen Ozeans"; sg "Pyramide des Tiefen Ozeans"; sd "Pyramide des Tiefen Ozeans"; sa "Pyramide des Tiefen Ozeans";
+  pn "Pyramiden des Tiefen Ozeans"; pg "Pyramiden des Tiefen Ozeans"; pd "Pyramiden des Tiefen Ozeans"; pa "Pyramiden des Tiefen Ozeans";
+}
+translate PyramidA4 to german feminine
+{
+  swa "Pyramide der Erneuerung";
+  sn "Pyramide der Erneuerung"; sg "Pyramide der Erneuerung"; sd "Pyramide der Erneuerung"; sa "Pyramide der Erneuerung";
+  pn "Pyramiden der Erneuerungs"; pg "Pyramiden der Erneuerung"; pd "Pyramiden der Erneuerung"; pa "Pyramiden der Erneuerung";
+}
+translate PyramidA5 to german feminine
+{
+  swa "Pyramide der Fernen Prärie";
+  sn "Pyramide der Fernen Prärie"; sg "Pyramide der Fernen Prärie"; sd "Pyramide der Fernen Prärie"; sa "Pyramide der Fernen Prärie";
+  pn "Pyramiden der Fernen Prärie"; pg "Pyramiden der Fernen Prärie"; pd "Pyramiden der Fernen Prärie"; pa "Pyramiden der Fernen Prärie";
+}
+translate PyramidA6 to german feminine
+{
+  swa "Pyramide der Vielen Wunder";
+  sn "Pyramide der Vielen Wunder"; sg "Pyramide der Vielen Wunder"; sd "Pyramide der Vielen Wunder"; sa "Pyramide der Vielen Wunder";
+  pn "Pyramiden der Vielen Wunder"; pg "Pyramiden der Vielen Wunder"; pd "Pyramiden der Vielen Wunder"; pa "Pyramiden der Vielen Wunder";
+}
+translate PyramidA7 to german feminine
+{
+  swa "Pyramide des Himmels";
+  sn "Pyramide des Himmels"; sg "Pyramide des Himmels"; sd "Pyramide des Himmels"; sa "Pyramide des Himmels";
+  pn "Pyramiden des Himmels"; pg "Pyramiden des Himmels"; pd "Pyramiden des Himmels"; pa "Pyramiden des Himmels";
+}
+
+translate "Principles of Pyramid Construction will show you how to use Glass Rods to search for Limestone Blocks, dig them up, and place them into a Pyramid Construction Site."
+to german "Die Prinzipien des Pyramidenbaus zeigen dir, wie man Glasstangen zur Suche nach Kalksteinblöcken nutzt, sie ausgräbt und sie in eine Pyramidenbaustelle einsetzt.";
+
+translate "Create a Glass Rod"
+to german "Stelle eine Glasstange her";
+translate "Create a Lead Mallet"
+to german "Stelle einen Bleiklöppel her";
+translate "Learn Pyramid Construction level 7"
+to german "Lerne Pyramidenbau Level 7";
+translate "Bore for Limestone Blocks"
+to german "Bohre nach Kalksteinblöcken";
+translate "Discover a Limestone Block"
+to german "Finde einen Kalksteinblock";
+translate "Help dig up a Limestone Block"
+to german "Helfe beim Ausgraben eines Kalksteinblockes";
+translate "Push a Limestone Block"
+to german "Schiebe einen Kalksteinblock an";
+translate "Place a Limestone Block into a Pyramid Construction Site"
+to german "Füge einen Kalksteinblock in eine Pyramidenbaustelle ein";
+
+translate "You have completed the Principles of Pyramid Construction."
+to german "Du hast die Prinzipien des Pyramidenbaus gemeistert.";
+
+translate "Beauty of Night"
+to german "Schönheit der Nacht";
+
+translate "North by N1"
+to german "N1 nördlich";
+
+translate "South by N1"
+to german "N1 südlich";
+
+translate "East by N1"
+to german "N1 östlich";
+
+translate "West by N1"
+to german "N1 westlich";
+
+translate "You should stand on Sand when performing Beauty of Night"
+to german "Du solltest auf Sand stehen, während du eine Schönheit der Nacht erbauen willst";
+
+translate "You can only do this once per day. Wait another K1"
+to german "Du dies nur einmal täglich tun. Warte weitere K1";
+
+translate "To perform Beauty of Night, you need N1 glass rods."
+to german "Um die Schönheit der Nacht zu erbauen benötist du N1 Glasstangen.";
+
+translate "Bore for Tooth Limestone"
+to german "Bohre nach Kalkstein";
+
+translate "To bore for a Tooth Limestone block, you need:"
+to german "Um nach Kalksteinblöcken zu bohren benötigst du:";
+
+translate "You have pounded a glass rod into the ground. You must now tap it gently using the Lead Mallet to discover if there is a block under the sands."
+to german "Du hast eine Glasstange in den Untergrund gebohrt. Du mussst nun vorsichtig mit einem Bleiklöppel daraufklopfen, um zu prüfen, ob sich unter dem Sand ein Kalksteinblock befindet.";
+
+translate "Retrieve the bore rod."
+to german "Bohrstange wieder aufnehmen";
+
+translate "Tap the Bore Rod"
+to german "Benutze die Bohrstange";
+
+translate "You need a soft lead mallet to tap the bore rod."
+to german "Du brauchst einen weichen Bleiklöppel, um die Bohrstange nutzen zu können.";
+
+translate "You have discovered a limestone block! Now crack the outline, and get ready to dig it up."
+to german "Du hast einen Kalksteinblock entdeckt! Bestimme nun die Außenkanten und versuche ihn auszugraben.";
+
+translate "The rod is now at the correct depth to use as a guide."
+to german "Das Bohrgewinde ist nun in der richtigen Tiefe, um als Führung zu dienen.";
+
+translate "The rod hit solid rock. Because of your keen feel of the mallet, your arm took the shock, preserving the glass rod."
+to german "Die Stange ist auf soliden Felsen gestoßen. Aufgrund deines gefühlvollen Arbeitens hast du die Erschütterung bemerkt und die Glasstange ist nicht zerbrochen.";
+
+translate "The rod hit solid rock, shattering."
+to german "Die Stange traf auf soliden Felsen und zerbrach.";
+
+translate "Crack an outline for a block"
+to german "Bestimme die Außenkanten des Blockes";
+
+translate "Dig around this block"
+to german "Grabe um diesen Block";
+
+translate "Keep digging! Soon, the block will be above the sand, and you will be able to push it to its final resting spot."
+to german "Grabe weiter! Bald wird der Block auf dem Sand liegen und du wirst in der Lage sein, ihn zu seinem Bestimmungsort zu befördern.";
+
+translate "Slide a rolling rack under the block"
+to german "Schiebe eine Rollenkonstruktion unter den Block";
+
+translate "This pyramid block is rolling East-West"
+to german "Der Prymidenblock rollt nach Osten-Westen";
+translate "This pyramid block is rolling West"
+to german "Der Prymidenblock rollt nach Westen";
+translate "This pyramid block is rolling North-South"
+to german "Der Prymidenblock rollt nach Norden-Süden";
+translate "This pyramid block is rolling South"
+to german "Der Prymidenblock rollt nach Süden";
+
+translate "Will all nearby pyramid blocks"
+to german "Alle Pyramidenblöcke in der Umgebung";
+
+translate "Push this block East"
+to german "Drücke den Block nach Osten";
+
+translate "Push this block West"
+to german "Drücke den Block nach Westen";
+
+translate "Push this block North"
+to german "Drücke den Block nach Norden";
+
+translate "Push this block South"
+to german "Drücke den Block nach Süden";
+
+translate "Pushing a block is tiring. Be sure to get friends to help with this, and get it into the Pyramid Construction site."
+to german "Einen Block zu bewegen ist ermüdend. Stelle sicher, dass du Freunde hast, die dir dabei helfen, die Blöcke in die Prymidenbaustelle zu transportieren.";
+
+translate "Turn this block to face North-South"
+to german "Drehe den Block in Richtung Norden-Süden";
+translate "Turn this block to face East-West"
+to german "Drehe den Block in Richtung Osten-Westen";
+
+translate "Fit this block to a pyramid construction site"
+to german "Baue diesen Block in eine Pyramidenbaustelle ein";
+
+translate "Click on the Pyramid construction site to place the block."
+to german "Klicke auf die Pyramidenbaustelle um den Block abzulegen.";
+
+translate "So far, N1 of N2 stone blocks have been placed."
+to german "Es wurden bisher N1 von N2 Steinblöcke eingefügt.";
+
+translate "Fit the first block to this site"
+to german "Platziere den 1. Block in dieser Baustelle";
+
+translate "Fit the last block to this site"
+to german "Platziere den letzten Block in dieser Baustelle";
+
+translate "Fit the block to this site"
+to german "Platziere den Block in dieser Baustelle";
+
+translate "The block is not close enough to the site."
+to german "Der Block ist nicht nahe genug an der Baustelle.";
+
+translate "The block has been placed into the Pyramid Construction Site. Many blocks will be required to complete the pyramid, but this is a great first step!"
+to german "Der Block wurde in die Pyramidenbaustelle eingefügt. Viele Blöcke werden noch nötig sein, um die Pyramide fertigzustellen, dies aber war der erste wichtige Schritt!";
+
+translate "Consecrate this pyramid"
+to german "Segne diese Pyramide";
+
+translate "You are about to consecrate this pyramid, and pass the test of the People's Pyramid.  Are you ready to claim this accomplishment for yourself?"
+to german "Du bist dabei diese Pyramide zu segnen und damit den Test der Pyramiden erfolgreich zu beenden. Bist du zur Durchführung bereit?";
+
+translate "You have not signed up for the Test of the People's Pyramid. You can consecrate this pyramid, but will have to consecrate another to pass that test. Proceed anyway?"
+to german "Du hast dich nicht für den Test der Pyramiden eingetragen. Du kannst diese Pyramide zwar segnen, aber musst nach Testbeginn eine Andere segnen, um den Test zu bestehen. Dennoch weitermachen?";
+
+translate "You already passed the test... are you sure you want to consecrate this pyramid, and deny somebody else the opportunity?"
+to german "Du hast den Test bereits bestanden... bist du sicher, dass du diese Pyramide segnen und jemand Anderem diese Möglichkeit nehmen willst?";
+
+translate "To Consecrate a O1 you need:"
+to german "Um eine O1(sn) segnen zu können benötigst du:";
+
+translate "A vision of the future?"
+to german "Eine Zukunftsvision?";
+
+translate "Many roles are required when building a pyramid. With skill level 1, all you may do is push blocks. At level 2, you may also dig the blocks, and so on. Those with Pyramid Construction level 7 may consecrate pyramids. To advance in the Discipline of Architecture, consecrate a pyramid of any size."
+to german "Viele Rollen sind nötig für den Bau einer Pyramide nötig. Im Level 1 kannst du Blöcke schieben. Als Level 2 kannst du Blöcke ausgraben und so weiter. Einwohner mit Level 7 können Pyramiden segnen. Um in der Disziplin der Architektur Fortschritte zu erzielen, segne eine Pyramide beliebiger Größe.";
+
+translate "Pyramid of the People"
+to german "Pyramide des Volkes";
+translate "Pyramid of the Fertile Land"
+to german "Pyramide des Fruchtbaren Landes";
+translate "Pyramid of the Deep Oceans"
+to german "Pyramide des Tiefen Ozeans";
+translate "Pyramid of Renewal"
+to german "Pyramide der Erneuerung";
+translate "Pyramid of the Distant Plains"
+to german "Pyramide der Fernen Prärie";
+translate "Pyramid of Many Wonders"
+to german "Pyramide der Vielen Wunder";
+translate "Secret6"
+to german "Pyramide des Himmels";
+
+translate "Pyramids"
+to german "Pyramiden";
+
+translate "When Egypt completes N1 more O1, new paths open."
+to german "Sobald Ägypten weitere N1 O1(pn) gebaut hat, werden sich weitere Wege eröffnen.";
+
+translate "To start a Pyramid O1 you need:"
+to german "Um eine O1(sn) zu bauen benötigst du:";
+
+
+

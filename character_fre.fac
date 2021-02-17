@@ -1,0 +1,464 @@
+module character_fre;
+
+// Numbers //
+
+translate Zeroth to french masculine
+{ ns "aucun rang"; }
+translate First to french masculine
+{ ns "premier"; np "premiers"; }
+translate Second to french masculine
+{ ns "deuxième"; np "deuxièmes"; }
+translate Third to french masculine
+{ ns "troisième"; np "troisièmes"; }
+translate Fourth to french masculine
+{ ns "quatrième"; np "quatrièmes"; }
+translate Fifth to french masculine
+{ ns "cinquième"; np "cinquièmes"; }
+translate Sixth to french masculine
+{ ns "sixième"; np "sixièmes"; }
+translate Seventh to french masculine
+{ ns "septième"; np "septièmes"; }
+translate Eighth to french masculine
+{ ns "huitième"; np "huitièmes"; }
+translate Ninth to french masculine
+{ ns "neuvième"; np "neuvièmes"; }
+translate Tenth to french masculine
+{ ns "dixième"; np "dixièmes"; }
+translate OrdOne to french masculine
+{ ns "premier"; np "premiers"; }
+translate OrdOne to french feminine
+{ ns "première"; np "premières"; }
+translate OrdTwo to french masculine
+{ ns "deuxième"; np "deuxièmes"; }
+translate OrdThree to french masculine
+{ ns "troisième"; np "troisièmes"; }
+translate OrdFour to french masculine
+{ ns "quatrième"; np "quatrièmes"; }
+translate OrdFive to french masculine
+{ ns "cinquième"; np "cinquièmes"; }
+translate OrdSix to french masculine
+{ ns "sixième"; np "sixièmes"; }
+translate OrdSeven to french masculine
+{ ns "septième"; np "septième"; }
+translate OrdEight to french masculine
+{ ns "huitième"; np "huitièmes"; }
+translate OrdNine to french masculine
+{ ns "neuvième"; np "neuvièmes"; }
+translate OrdTen to french masculine
+{ ns "dixième"; np "dixièmes"; }
+
+translate NumZero to french feminine
+{ ns "Zéro";}
+translate NumOne to french feminine
+{ ns "Un";}
+translate NumTwo to french feminine
+{ ns "Deux";}
+translate NumThree to french feminine
+{ ns "Trois";}
+translate NumFour to french feminine
+{ ns "Quatre";}
+translate NumFive to french feminine
+{ ns "Cinq";}
+translate NumSix to french feminine
+{ ns "Six";}
+translate NumSeven to french feminine
+{ ns "Sept";}
+
+
+translate "You have gone AFK."
+to french "Vous êtes en mode absent (AFK)";
+
+translate "You have returned from AFK"
+to french "Vous êtes en mode présent (vous n'êtes plus AFK)";
+
+//disciplines//
+	
+translate thought to french feminine
+{ ns "Pensée"; np "Pensée"; }
+
+translate worship to french feminine
+{ ns "Vénération"; np "Vénération"; }
+	
+translate TheHumanBody to french masculine
+{ ns "Corps humain"; np "Corps humain"; }
+
+translate architecture to french femininecollective
+{ ns "Architecture"; np "Architecture"; }
+	
+translate conflict to french masculine
+{ ns "Conflit"; np "Conflit"; 
+	}
+translate "Hambone" 
+to french "Battre le rythme";
+
+translate Art to french masculine
+{ ns "Art et Musique"; np "Art et Musique"; }
+
+translate Citizen to french masculine
+{ ns "Citoyen"; np "Citoyens"; }
+
+//menues//
+
+translate "Citizen"
+to french "Citoyen";
+
+translate "AFK-Mode"
+to french "Absence";
+
+translate "Stand up"
+to french "Se lever";
+
+translate "Thought"
+to french "Pensée";
+
+translate "Worship"
+to french "Vénération";
+
+translate "The Human Body"
+to french "Corps humain";
+
+translate "Architecture"
+to french "Architecture";
+
+translate "Conflict"
+to french "Conflit";
+
+translate "Art and Music"
+to french "Art et Musique";
+
+translate "Harmony"
+to french "Harmonie";
+
+//ranks//
+
+translate RankPeasant to french masculine
+{ ns "Paysan"; np "Paysans"; }
+
+translate Citizen to french masculine
+{ ns "Citoyen"; np "Citoyens"; }
+
+translate RankStudent to french masculinecollective
+{ ns "Etudiant"; np "Etudiants"; }
+
+translate RankPrentice to french masculine
+{ ns "Apprenti"; np "Apprentis"; }
+
+translate RankJourneyman to french masculine
+{ ns "Compagnon"; np "Compagnons"; }
+	
+translate RankScribe to french masculine
+{ ns "Scribe"; np "Scribes"; }
+
+translate RankMaster to french masculine
+{ ns "Maître"; np "Maîtres"; }
+
+translate RankSage to french masculine
+{ ns "Sage"; np "Sages"; }
+
+translate RankOracle to french masculine
+{ ns "Oracle de Pharaon"; np "Oracles de Pharaon"; }
+	
+translate rankinitiate to french masculinecollective
+{ ns "Initié"; np "Initiés"; }
+
+translate RankPeasant to french feminine
+{ ns "Paysan"; np "Paysans"; }
+
+translate RankStudent to french feminine
+{ ns "Etudiant"; np "Etudiants"; }
+
+translate RankPrentice to french feminine
+{ ns "Apprenti"; np "Apprentis"; }
+
+translate RankJourneyman to french feminine
+{ ns "Compagnon"; np "Compagnons"; }
+	
+translate RankMonumentBuilder to french masculine
+{ ns "Maître d'oeuvre d'un Monument"; np "Maîtres d'oeuvre d'un Monument"; }
+
+translate "O1 of O2:" to french
+"O1(ns) de O2(ns)";
+
+
+//caracs//
+
+translate strength to french feminine
+{ ns "Force"; np "Force"; }
+
+translate dexterity to french feminine
+{ ns "Dexterité"; np "Dexterité"; }
+
+translate endurance to french femininecollective
+{ ns "Endurance"; np "Endurance"; }
+
+translate speed to french feminine
+{ ns "Vitesse"; np "Vitesse"; }
+
+translate constitution to french feminine
+{ ns "Constitution"; np "Constitution"; }
+
+translate focus to french feminine
+{ ns "Concentration"; np "Concentration"; }
+
+translate "strength"
+to french "Force";
+translate "Str"
+to french "For";
+translate "dexterity"
+to french "Dextérité";
+translate "endurance"
+to french "Endurance";
+translate "speed"
+to french "Vitesse";
+translate "Spd"
+to french "Vit";
+translate "constitution"
+to french "Constitution";
+translate "Con"
+to french "Cons";
+translate "focus"
+to french "Concentration";
+translate "Foc"
+to french "Conc";
+translate "perception"
+to french "Perception";
+
+translate "Nuke my inventory"
+to french "Effacer mon inventaire";
+
+translate "Debug Daemons"
+to french "Routines de débuggage";
+
+translate "Connection timer"
+to french "Temps de connexion";
+
+translate "Death"
+to french "Mort";
+
+translate "Citizen U1"
+to french "Citoyen U1(name)";
+
+translate "Peasant U1"
+to french "Paysan U1(name)";
+
+translate "U1, O1 of O2"
+to french "U1(name), O1(ns) en O2(ns)";
+
+translate "You have advanced in the discipline of O1. Your title is now O2"
+to french "Vous avez progressé dans la discipline de O1(ns). Votre titre est à présent O2(ns).";
+
+translate "You have advanced in the discipline of O1. Your title is now O2."
+to french "Vous avez progressé dans la discipline de O1(ns). Votre titre est à présent O2(ns).";
+
+translate "Your husband has passed the Test of O1 within the discipline of O2. His title is now O3"
+to french "Votre mari a passé l'épreuve de O1(ns) dans la discipline de O2(ns). Son titre est à présent O3(ns).";
+
+translate "Your wife has passed the Test of O1 within the discipline of O2. Her title is now O3"
+to french "Votre femme a passé l'épreuve de O1(ns) dans la discipline de O2(ns). Son titre est à présent O3(ns).";
+
+translate "Well done! Your title is now K1."
+to french "Bien joué! Votre titre est à présent K1.";
+
+translate "You have successfully been initiated into the discipline of O1! Many new goals have opened to you."
+to french "Vous avez reçu avec succès l'initiation à la discipline O1(ns) ! De nouvelles portes s'ouvrent à vous.";
+
+translate "Hint: Read about our Legal System using your Utility/Information menu."
+to french "Conseil : Consultez notre système légal dans la section Options/Informations.";
+
+translate "Utility/Information/Legal System Information"
+to french "Options/Information/Système légal";
+
+translate "Legal system information"
+to french "Système légal";
+
+translate "You feel dizzy. Something is wrong."
+to french "Vous avez la tête qui tourne. Quelque chose ne va pas.";
+
+translate "You have become a citizen, and you have experienced Egypt for 90 minutes. You may now build a shrine to one of your mentors, using your projects menu."
+to french "Vous êtes devenu citoyen, cela fait 90 minutes que vous êtes en égypte. Vous pouvez à présent construire un sanctuaire pour vos mentors en utilisant le menu Projets.";
+
+translate "You have completed all the tasks required for citizenship!"
+to french "Vous avez réussi toutes les tâches requises pour la citoyenneté !";
+
+translate "You have a new title! Check your character menu."
+to french "Vous avez un nouveau titre! Consultez le menu de votre personnage.";
+
+translate "Many new goals are now available to you!  Check your goals by clicking the shining-star icon."
+to french "De nouveaux objectifs se proposent à vous ! Vérifiez-les en cliquant sur l'icône étoilée.";
+
+translate "You no longer need tips. The tip window is gone."
+to french "Vous n'avez plus besoin de conseils. La fenêtre de conseils a disparu.";
+
+translate "Bounty Bug on O1!"
+to french "Bug d'argent sur O1(ns)!";
+
+translate "Computed weight was N1 and recorded weight was N2."
+to french "Le poids affiché était de N1, et le poids sur le serveur il était de N2";
+
+translate "Computed bulk was N1 and recorded bulk was N2."
+to french "Le volume affiché était de N1, et sur le serveur il était de N2.";
+
+translate "Now you've got to reproduce it. If you can get this consistantly, report to eGenesis for a fun prize."
+to french "Maintenant, essayez de reproduire le bug. Si vous y arrivez constamment, veuillez le signaler à eGenesis pour gagner un prix.";
+
+translate "You are carrying more than you can manage. You need to drop some goods."
+to french "Vous transportez trop de choses. Vous devez abandonner quelques objets.";
+
+translate "You seem to be stuck. The system has moved you a bit to help."
+to french "Vous sembliez bloqué. Le système vous a déplacé pour vous aider.";
+
+translate "Consume error."
+to french "Erreur conso.";
+
+translate "Non-vector passed to eConsumeList."
+to french "Non-vecteur transféré sur eConsumeList";
+
+translate "Non-vector passed to eProduceList."
+to french "Non-vecteur transféré sur eProduceList.";
+
+translate "Consume error for O1 owned by U1."
+to french "Erreur conso pour O1(ns) propriété de U1(name).";
+
+translate "You are too dizzy to run."
+to french "Vous êtes trop faible pour courir.";
+
+translate "Emote/Gait: Walking"
+to french "Gestuelles/Allure : Marche";
+
+translate "Emote/Gait: Running"
+to french "Gestuelles/Allure : Course";
+
+translate "Gait: Jogging"
+to french "Allure : Footing";
+
+translate "Emote/Gait: Zooming"
+to french "Gestuelles/Allure : Zoom";
+
+translate "Utility/Edit my Info Text"
+to french "Options/Modifier mes infos";
+
+translate "Edit my info text"
+to french "Modifier mes infos";
+
+translate "Text to be displayed on the /info screen:"
+to french "Texte à afficher dans le panneau /info";
+
+translate weight to french masculine
+{ ns "Poids"; np "Poids"; }
+	
+translate bulk to french masculine
+{ ns "Encombrement"; np "Encombrement"; }
+
+translate "Grandson, O1 of O2"
+to french "Petit Fils, O1(ns) en O2(ns)";
+
+translate "Granddaughter, O1 of O2"
+to french "Petite Fille, O1(ns) en O2(ns)";
+
+
+translate "Emote"
+to french "Gestuelles";
+
+translate "Confident"
+to french "Confiant";
+
+translate "Calm"
+to french "calme";
+
+translate "Aggressive"
+to french "Agressif";
+
+translate "Bored"
+to french "Blasé";
+
+translate "Cute"
+to french "Joli(e)";
+
+translate "Irritated"
+to french "Irrité(e)";
+
+translate "Elderly"
+to french "Ancêtre";
+
+translate "Elderly01"
+to french "Ancêtre01";
+
+translate "Elderly02"
+to french "Ancêtre02";
+
+translate "Impatient"
+to french "Impatient";
+
+translate "Haughty"
+to french "Hautain";
+
+translate "Normal"
+to french "Normal";
+
+translate "Celebrate"
+to french "Célébrer";
+
+translate "Bow"
+to french "S'incliner";
+
+translate "Gender: Man Language: O1"
+to french "Sexe: Homme Langage: O1(ns)";
+translate "Gender: Woman Language: O1"
+to french "Sexe: Femme Langage: O1(ns)";
+
+translate "U1, Level N1 O1 of O2"
+to french "U1(name), niveau N1, O1(ns) en O2(ns)";
+
+translate "Player U1, Level N1 O1 of O2 (paid account) is connected."
+to french "U1(name), niveau N1, O1(ns) en O2(ns) (compte payant) est connecté.";
+translate "Player U1 (paid account) is disconnected."
+to french "U1(name) (compte payant) est déconnecté.";
+translate "Player U1 (expired or closed account) is disconnected."
+to french "U1(name) (compte expiré ou fermé) est déconnecté.";
+translate "Player U1 (quit) is disconnected."
+to french "U1(name) (quit) est déconnecté.";
+
+translate "Player U1, Level N1 O1 of O2 (trial account) is connected."
+to french "U1(name), niveau N1, O1(ns) en O2(ns) (compte d'essai) est connecté.";
+translate "Player U1, Level N1 O1 of O2 (trial account) is connected (but AFK)."
+to french "U1(name), niveau N1, O1(ns) en O2(ns) (compte d'essai) est connecté (mais absent).";
+translate "Player U1 (trial account) is disconnected."
+to french "U1(name) (trial account) est déconnecté.";
+
+translate "U1, K1 of O1"
+to french "U1(name), K1 en O1(ns)";
+
+translate "Well done! Your title is now O1."
+to french "Félicitations ! Votre titre est désormais O1(ns).";
+
+translate "Over weight or bulk. Call a developer."
+to french "Surplus de poids ou de volume. Appelez un développeur.";
+
+translate "Too large a quantity. Call a developer."
+to french "Trop grande quantité. Appelez un développeur.";
+
+translate "Citizen U1, Level N1"
+to french "Citoyen U1(name), niveau N1";
+
+translate "Guild Affiliations"
+to french "Appartenance aux guildes";
+
+translate "You can't go there."
+to french "Vous ne pouvez pas aller là.";
+
+translate "You jostled the explosives too much, and they exploded! You're disoriented for a few moments."
+to french "Vous avez trop secoué les explosifs, et ils ont explosés ! Vous êtes désorienté pendant quelques instants.";
+
+translate "You feel the power of the gods flow through you, but your metals don't seem to fuse. Pay for the account and try again."
+to french "Vous sentez le pouvoir des dieux couler en vous, mais les métaux ne semblent pas fusionner. Peut-être la prochaine fois !";
+
+translate "Advance"
+to french "Zap !";
+
+translate "Later"
+to french "Plus tard";
+
+translate "Message will be saved for a maximum of 7 days from when it was sent."
+to french "Le message sera sauvegardé 7 jours avant d'être supprimé.";
+
+

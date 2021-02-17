@@ -1,0 +1,129 @@
+module newcharcoal_fre;
+
+translate Charcoal to french masculine
+{
+  ns "charbon de bois";
+  np "charbons de bois";
+}
+
+translate charcoalmaker to french masculine
+{
+	ns "Fabrique à charbon"; np "Fabriques à charbon";
+	}
+	
+translate charcoalhearth to french masculine
+{
+	ns "Foyer à charbon"; np "Foyers à charbon";
+	}
+translate charcoaloven to french masculine
+{
+	ns "Four à charbon"; np "Fours à charbon";
+	}
+translate charcoalbrazier to french masculine
+{
+	ns "Brasier à charbon"; np "Brasiers à charbon";
+	}
+
+translate "To build a Charcoal Hearth, you need: "
+to french "Pour construire un foyer à charbon, il vous faut :";
+
+translate "To build a Charcoal Oven, you need: "
+to french "Pour construire un four à charbon, il vous faut :";
+
+translate "To build a Charcoal Brazier, you need: "
+to french "Pour construire un brasier à charbon, il fous faut :";
+
+	
+translate "Charcoal Brazier"
+to french "Brasier à charbon de bois";
+
+translate "Charcoal Hearth"
+to french "Foyer à charbon de bois";
+
+translate "Charcoal Oven"
+to french "Four à charbon de bois";
+
+translate "Wood in your inventory: N1"
+to french "Bois dans votre inventaire : N1";
+
+translate "Water in your inventory: N1"
+to french "Eau dans votre inventaire : N1";
+
+translate "Charcoal produced on success: N1"
+to french "Charbon de bois produit : N1";
+
+translate "Wood needed to get started: N1"
+to french "Bois nécessaire pour commencer : N1";
+
+translate "Take the leftover wood out first."
+to french "Prenez d'abord ce qui reste de bois";
+
+translate "You must know The Science of Charcoal"
+to french "Vous devez connaître la science du charbon de bois";
+
+translate "You do not have N1 wood."
+to french "Vous n'avez pas N1 bois.";
+
+translate "You successfully made a batch of charcoal."
+to french "Vous avez réussi à fabriquer du charbon de bois.";
+
+translate "The oven has cooled.  The wood in the oven did not charcoalize, take it back out."
+to french "Le four s'est refroidi. Le bois ne s'est pas transformé en charbon, reprenez-le.";
+
+translate "The charcoal burst into flames!  Everything was reduced to cinders."
+to french "Le charbon de bois a pris feu ! Tout est parti en fumée.";
+
+translate "The fire was snuffed by lack of air. The oven is cooling."
+to french "Le feu a été étouffé par manque d'air. Le four est en train de refroidir.";
+
+translate "The regulator is a training device."
+to french "Le régulateur est un dispositif d'entraînement.";
+
+translate "Turning it on lowers the randomness, but"
+to french "L'activer réduit les comportements aléatoires, mais";
+
+translate "slows down the function of the hearth."
+to french "ralentit le fonctionnement du four.";
+
+translate "Current Regulation Level: N1"
+to french "Niveau actuel paramétré : N1 ";
+
+translate "Regulator/-"
+to french "Régulateur/-";
+
+translate "Set Level 0 (unregulated, full speed)"
+to french "Niveau 0 (pas de régulation, pleine vitesse)";
+
+translate "Set Level 1"
+to french "Niveau 1";
+
+translate "Set Level 2"
+to french "Niveau 2";
+
+translate "Set Level 3"
+to french "Niveau 3";
+
+translate "Set Level 4"
+to french "Niveau 4";
+
+translate "Set Level 5 (regulated, very slow)"
+to french "Niveau 5 (régulation maximale, vitesse très lente)";
+
+translate "You cannot adjust the regulator when making a batch. You only adjust the regulator between batches."
+to french "Vous ne pouvez pas ajuster le régulateur alors que le four est en activité. Vous devez attendre entre deux fournées.";
+
+translate "You don't have any wood!"
+to french "Vous n'avez pas de bois !";
+
+translate "The wood hopper is full!"
+to french "Le foyer à bois est plein !";
+
+translate "You don't have any water!"
+to french "Vous n'avez pas d'eau !";
+
+translate "The fire is already soaked!"
+to french "Vous avez noyé le feu !";
+
+translate "Regulator"
+to french "Régulateur";
+

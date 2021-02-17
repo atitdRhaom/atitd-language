@@ -1,0 +1,4 @@
+Module Talents_fre;
+
+translate "Talent Points Awarded"
+to french "Points de talent attribués";

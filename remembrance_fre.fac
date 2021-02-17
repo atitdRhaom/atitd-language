@@ -1,0 +1,31 @@
+module Remembrance_fre;
+
+translate remembrance to french feminine
+{ns "L'épreuve de la cérémonie du souvenir"; np "Les épreuves des cérémonies du souvenir";}
+
+translate "Remembrance Ceremonies"
+to french "Cérémonies du souvenir";
+
+translate "The Principles of Remembrance will guide you through a single Ceremony. To Pass the Test of Remembrance Ceremonies, you must complete enough such ceremonies."
+to french "Les principes du souvenir vous guident vers une seule cérémonie. Pour passer le test de la cérémonie du souvenir, vous devrez compléter suffisamment de cérémonies";
+translate "  You must complete a ceremony at a monument of O1"
+to french "  Vous devez accomplir une cérémonie à un monument d'O1(ns)";
+
+translate "  Future ceremonies are: O1, O2 and O3"
+to french "  Les cérémonies suivantes se feront à: O1(ns), O2(ns) et O3(ns)";
+
+translate "  You are not currently part of a Remembrance Group. Form a group at the appropriate monument."
+to french "  Vous ne faite pas partie d'un groupe du Souvenir. Formez un groupe au bâtiment approprié";
+
+translate "Form or join a Ceremony at a Monument"
+to french "Formez ou rejoignez un groupe de cérémonie à un monument";
+
+translate "Check the requirements for your Ceremony"
+to french "Vérifiez les prérequis pour votre cérémonie";
+
+translate "Complete your Sacrifice"
+to french "Réalisez votre sacrifice";
+
+translate "All group members complete their Sacrifices"
+to french "Tous les membres du groupe réalisent leurs sacrifices";
+

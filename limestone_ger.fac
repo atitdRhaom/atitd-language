@@ -1,0 +1,58 @@
+module limestone_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment		           **
+//**                                                                       **
+//***************************************************************************
+
+translate Limestone to german masculine
+{
+  swa "Kalkstein";
+  sn "Kalkstein"; sg "Kalksteins"; sd "Kalkstein"; sa "Kalkstein";
+  pn "Kalksteine"; pg "Kalksteine"; pd "Kalksteinen"; pa "Kalksteine";
+}
+translate Dirt to german masculine
+{
+  swa "Schmutz";
+  sn "Schmutz"; sg "Schmutz"; sd "Schmutz"; sa "Schmutz";
+  pn "Schmutz"; pg "Schmutz"; pd "Schmutz"; pa "Schmutz";
+}
+translate FlintChisel to german masculine
+{
+  swa "Feuersteinmeiﬂel";
+  sn "Feuersteinmeiﬂel"; sg "Feuersteinmeiﬂel"; sd "Feuersteinmeiﬂel"; sa "Feuersteinmeiﬂel";
+  pn "Feuersteinmeiﬂel"; pg "Feuersteinmeiﬂel"; pd "Feuersteinmeiﬂel"; pa "Feuersteinmeiﬂel";
+}
+translate FlintHammer to german masculine
+{
+  swa "Feuersteinhammer";
+  sn "Feuersteinhammer"; sg "Feuersteinhammers"; sd "Feuersteinhammer"; sa "Feuersteinhammer";
+  pn "Feuersteinh‰mmer"; pg "Feuersteinh‰mmer"; pd "Feuersteinh‰mmern"; pa "Feuersteinh‰mmer";
+}
+
+translate "Gather: Dirt"
+to german "Sammle: Schmutz";
+
+translate "You need some sort of shovel to dig up the dirt."
+to german "Du brauchst eine Art Schaufel, um Schmutz zu graben.";
+
+translate "Gather: Limestone"
+to german "Sammle: Kalkstein";
+
+translate "As you chisel away some limestone, you also discover some soda."
+to german "W‰hrend du Kalkstein ausgr‰bst entdeckst du auch etwas Natron.";
+
+translate "Your lead chisel has worn away to nothing!"
+to german "Dein Meiﬂel hat sich abgenutzt und zerf‰llt!";
+
+translate "Your flint chisel has shattered!"
+to german "Dein Feuersteinmeiﬂel ist zerbrochen!";
+
+translate "Your flint chisel has shattered!"
+to german "Dein Feuersteinhammer ist zerbrochen!";
+
+translate "You must have a chisel and hammer to chip away at the limestone."
+to german "Du musst einen Meiﬂel und einen Hammer haben, um Kalkstein auszugraben.";

@@ -1,0 +1,44 @@
+module hacker_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**            German Version: Astrid "Infinyti" Werner                   **
+//**                            2011                        	            **
+//**                                                                       **
+//***************************************************************************
+
+ControlPanel SpeedHackDetector<"Speed Hack Detector">;
+
+translate "Watch for SpeedHacks"
+	to german "Speedhackkontrolle";
+
+translate "U1 is speedhacking, level N1."
+	to german "U1(name) nutzt Speedhack, Level N1.";
+
+translate "Speedhack detection: Level N1 tripped."
+	to german "Speedhack entdeckt: Level N1 ausgelöst.";
+
+translate "Possible SpeedHack Detected: U1 at N1%"
+	to german "Möglicher Speedhack entdeckt: U1(name) bei N1%";
+
+translate "Possible SpeedHack Detected: U1 at N1%"
+	to german "Möglicher Speedhack entdeckt: U1(name) bei N1%";
+
+translate "Possible SpeedHack Detected: U1 at N1%, N2%, N3%"
+	to german "Möglicher Speedhack entdeckt: U1(name) bei N1%, N2%, N3%";
+
+translate "Intense: N1% U1"
+	to german "Stärke: N1% U1(name)";
+
+translate "Round Trip Time: N1 U1"
+	to german "Rundenzeit: N1 U1(name)";
+
+translate "Restart the Daemon"
+	to german "Daemon neustarten";
+
+translate "Speedhack Detected"
+	to german "Speedhack entdeckt";
+
+translate "You are receiving this message because the server has detected a possible speedhack on your computer.\n\n"
+	to german "Du erhältst diese Nachricht, weil der Server einen möglichen Speedhack durch deinen Computer entdeckt hat.";

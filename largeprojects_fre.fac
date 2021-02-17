@@ -1,0 +1,165 @@
+module largeprojects_fre;
+
+translate ConstructionSite to french masculine
+{
+  ns "Site de construction"; np "Sites de construction";
+}
+
+translate DedicatedConstructionSite to french masculine
+{
+  ns "Site de construction consacré"; np "Sites de construction consacrés";
+}
+
+translate SmallConstructionSite to french masculine
+{
+  ns "Petit site de construction"; np "Petits sites de construction";
+}
+translate MediumConstructionSite to french masculine
+{
+  ns "Moyen site de construction"; np "Moyens sites de construction";
+}
+translate PyramidConstructionSite to french masculine
+{
+  ns "Site de construction de pyramide"; np "Sites de construction de pyramide";
+}
+translate MonumentConstructionSite to french masculine
+{
+  ns "Site de construction de monuments"; np "Sites de construction de monuments";
+}
+translate IndoorConstructionSite to french masculine
+{
+  ns "Projet d'aménagement"; np "Projets d'aménagement";
+}
+translate "Construction"
+to french "Construction";
+
+translate "Pyramids"
+to french "Pyramides";
+
+translate "Small Construction Site"
+to french "Petit site de construction";
+
+translate "Medium Construction Site"
+to french "Moyen site de construction";
+
+translate "Disassemble this Site"
+to french "Démanteler ce site";
+
+translate "Pyramid of the People Site"
+to french "Site pour une Pyramide du peuple";
+
+translate "Pyramid of the Land Site"
+to french "Site pour une pyramide";
+
+translate "Monument Construction Site"
+to french "Site de construction de monuments";
+
+
+
+translate "To start a small construction site you need:"
+to french "Pour lancer un petit site de construction, il vous faut :";
+
+translate "To start a medium construction site you need:"
+to french "Pour lancer un moyen site de construction, il vous faut :";
+
+translate "To start a Pyramid of the People you need:"
+to french "Pour commencer une Pyramide du peuple, il vous faut :";
+
+translate "To start a Pyramid of the Land you need:"
+to french "Pour commencer une pyramide, il vous faut :";
+
+translate "To start a monument construction site you need:"
+to french "Pour lancer un site de construction de monuments, il vous faut :";
+
+translate "You are already building or assisting a monument effort."
+to french "Vous faites déjà partie d'un effort de construction.";
+
+translate "Are you sure you want to tear down this construction site?"
+to french "Voulez-vous vraiment détruire ce site de construction ?";
+
+translate "Load Items"
+to french "Charger les éléments";
+
+translate "Load how many O1? (N1 needed)"
+to french "Combien de O1(np) ? (N1 nécessaires)";
+
+translate "You are now ready to build a O1. Use the projects menu to complete construction."
+to french "Vous êtes maintenant prêt à construire O1(^uns) O1(ns). Utilisez le menu de Projets pour lancer la construction.";
+
+translate "Examine this site"
+to french "Examiner ce site";
+
+translate "This is a construction site for a O1"
+to french "C'est un site de construction pour O1(^uns) O1(ns).";
+
+translate "No project has been specified."
+to french "Aucun projet spécifié.";
+
+translate "This site is abandoned in K1. It contains:"
+to french "Ce site est abandonné en K1. Il contient :";
+
+translate "  The site is empty"
+to french "  Ce site est vide";
+
+translate "This construction site is for a O1. Change it to a O2?"
+to french "Ce site de construction est dédié à O1(uns) O1(ns). Voulez-vous le changer pour O2(uns) O2(ns) ?";
+
+translate "To build a O1 you need:"
+to french "Pour construire O1(uns) O1(ns), il vous faut :";
+
+translate "N1 O1 (N2 more needed)"
+to french "N1 O1(N1?np:ns) (Il en manque N2)";
+
+translate "N1 O1 (Ok)"
+to french "N1 O1(N1?np:ns) (Ok)";
+
+translate "N1 O1:O2 (Ok)"
+to french "N1 O1(N1?np:ns):O2(ns) (Ok)";
+
+translate "Curse level error 14972. Report this to Pharaoh."
+to french "Erreur de niveau 14972. Veuillez la signaler à Pharaoh.";
+
+translate "Warning: this construction site will vanish in two hours!"
+to french "Attention : ce site de construction disparaîtra dans deux heures !";
+
+translate "Warning: this construction site will vanish in four hours!"
+to french "Attention : ce site de construction disparaîtra dans quatre heures !";
+
+translate "Loading an item will reset the timer."
+to french "Ajouter un nouvel élément réinitialisera le décompte.";
+
+translate "You can disassemble the site at no cost."
+to french "Vous pouvez démanteler ce site sans frais.";
+
+translate "Are you sure you want to disassemble this construction site?"
+to french "Voulez-vous vraiment démanteler ce site ?";
+
+translate "Self-destruct in K1"
+to french "Autodestruction dans K1";
+
+translate "Clear Current Project"
+to french "Effacer le projet actuel";
+
+translate "Load Materials"
+to french "Ajouter des éléments";
+
+translate "Building a O1"
+to french "Projet en cours : O1(ns)";
+
+translate "This construction site has already been dedicated to building a O1. You must disassemble it and gather the materials if you wish to abandon this project."
+to french "Ce site de construction est déjà consacré à O1(uns) O1(ns). Vous devez démanteler le site et rassembler les matériaux utilisés si vous voulez abandonner ce projet.";
+
+translate "This construction site already contains materials. You must disassemble it and gather the materials if you wish to abandon this project."
+to french "Ce site de construction contient déjà des éléments. Vous devez le démanteler et rassembler les éléments présents si vous souhaitez l'abandonner";
+
+translate "Donate how many? (Max N1)"
+to french "Combien ? (Max N1)";
+
+translate "That guild name was already taken and cannot be reused."
+to french "Ce nom de guilde a déjà été utilisé, et ne peut être employé à nouveau.";
+
+translate "N1 O1"
+to french "N1 O1(N1?np:ns)";
+
+translate "N1 K1"
+to french "N1 K1";

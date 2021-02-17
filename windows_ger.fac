@@ -1,0 +1,48 @@
+Module windows_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002,2003,2004,2005 by MDO Entertainment	           **
+//**                                                                       **
+//***************************************************************************
+//menues
+translate "Inventory"
+to german "Inventar";
+
+translate "Skills"
+to german "Fähigkeiten";
+
+translate "View Goals"
+to german "Ziele anzeigen";
+
+translate "Toggle Help"
+to german "Umschalten Hilfe";
+
+translate "Gather: Sand"
+to german "Sammeln: Sand";
+
+translate "Gather: Grass"
+to german "Sammeln: Gras";
+
+translate "Gather: Clay"
+to german "Sammeln: Ton";
+
+translate "Gather: Mud"
+to german "Sammeln: Schlamm";
+
+translate "Gather: Slate"
+to german "Sammeln: Schiefer";
+
+translate "Gather: Pan for Gold"
+to german "Sammeln: Wanne für Gold";
+
+translate "Gather: Water"
+to german "Sammeln: Wasser";
+
+//string(TimeStringCompact(time()-nth(chat,1))," \z",text)
+//
+
+translate "Press Enter to Chat"
+to german "Drücke Enter, um zu chatten";

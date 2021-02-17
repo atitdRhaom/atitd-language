@@ -1,0 +1,85 @@
+Module Rituals_fre;
+
+translate RitualOfPlantGrowthSkill to french masculine
+{
+ns "Rituel de croiss. des plantes"; np "Rituel de croiss. des plantes";
+}
+
+translate ExplorerRitual to french masculine
+{
+ns "Rituel d'exploration"; np "Rituel d'exploration";
+}
+
+translate MarriageRitual to french masculine
+{
+ns "Rituel de mariage"; np "Rituel de mariage";
+}
+
+translate "You receive a vision: You see yourself on on the point of Symphony Ridge, peering down at Jacob's Field."
+to french "Vous avez une vision : vous vous voyez au bord de la Crête de la Symphonie, perché sur l'Echelle de Jabon, et regardant en contrebas.";
+
+translate "You feel very confused. More digging? Uh, which way is home?"
+to french "Vous êtes très troublé. Voulez-vous construire encore ? Euh... Où habitez-vous ?";
+
+translate "You feel confused. Which way is home?"
+to french "Vous êtes troublé. Où habitez-vous, déjà ";
+
+translate "Feeling a Connection on U1"
+to french "Vous sentez une connexion s'établir avec U1(name)";
+
+translate "You feel a spiritual connection."
+to french "Vous sentez une connexion spirituelle s'établir.";
+
+translate "A feeling of emptiness comes over you."
+to french "Un sentiment de vide vous submerge.";
+
+translate "Ritual of Plant Growth"
+to french "Rituel de croissance des plantes";
+
+translate "The Ritual of Plant Growth: a fragile ritual to greatly boost the fertility of certain plants."
+to french "Le rituel de croissance des plantes est une opération délicate destinée à augmenter le rendement de certaines plantes.";
+
+translate "Ritual Of Plant Growth (completed)"
+to french "Rituel de croiss. des plantes (Achevé)";
+
+translate "The ritual of plant growth is as follows: you place cabbage seeds, barley (raw), onion seeds, and leek seeds onto an altar, left-to-right, then meditate.  You must know the Ritual of Plant Growth skill (which you do).  When successful, it will notify you that you have a fertile aura, that lasts eight hours.  There is only one problem: the altar must not be used for anything else but the ritual of plant growth.  If the altar has been used for anything else in the past week, the ritual of plant growth will not work."
+to french "Le rituel de croissance des plantes se déroule comme suit : placez des graindes de choux, d'orge (crue), d'oignons et de poireaux sur un autel, de gauche à droite, puis méditez. Vous devez connaître le rituel de croissance des plantes (ce qui est le cas). Lorsque vous réussissez, vous êtes prévenu que vous dégagez une aura de fertilité. Il n'y a qu'un seul problème : l'autel ne doit être utilisé que pour ce rituel de croissance. Si l'autel a été utilisé pour autre chose au cours de la semaine passée, ce rituel n'aura aucun effet.";
+
+translate "An aura of fertility surrounds you! It will be with you for about 8 hours."
+to french "Vous dégagez une aura de fertilité ! Elle sera présente pendant environ huit heures.";
+
+translate "You meditate, thinking back on your explorations..."
+to french "Vous méditez, repensant à vos explorations...";
+
+translate "You must BOTH visit the Great University of Worship to become familiar with the customs of marriage."
+to french "Vous devez tous les deux visiter la Grande Université de Vénération pour vous familiariser avec les préceptes du mariage.";
+
+translate "In Egypt, only marriages between a man and a woman are considered holy."
+to french "En égypte, seuls les mariages entre un homme et une femme sont reconnus.";
+
+translate "U1 does not have a paid account."
+to french "U1(name) ne possède pas de compte payé.";
+
+translate "U1 is already married to U2"
+to french "U1(name) est déjà marié à U2(name)";
+
+translate "U1 has only been awake in Egypt for N1. To marry, first experience the land for 24 hours."
+to french "U1(name) n'est en égypte que depuis N1. Pour vous marier, il faut d'abord que vous ayez 24 heures d'expérience.";
+
+translate "Asking U1 if she really wants to be your wife."
+to french "Vous demandez à U1(name) si elle veut être votre femme.";
+
+translate "Do you really wish to marry U1 ? Remember, in Egypt, marriage really is permanent, with no possibility for divorce."
+to french "Voulez-vous vraiment épouser U1(name) ? Rappelez-vous qu'en égypte le mariage est définitif, sans possibilité de divorce.";
+
+translate "Asking U1 if he really wants to be your husband."
+to french "Vous demandez à U1(name) s'il veut être votre mari.";
+
+translate "U1 said yes to your offer of marriage. Do you really wish to marry U2? Remember, in Egypt, marriage really is permanent, with no possibility for divorce."
+to french "U1(name) a accepté votre demande en mariage. Voulez-vous vraiment épouser U2(name) ? Souvenez-vous que le mariage en égypte est définitif, et qu'il n'existe pas de divorce.";
+
+translate "Marriage!"
+to french "Mariage !";
+
+translate "U1 declined the marriage."
+to french "U1(name) a refusé votre demande en mariage.";

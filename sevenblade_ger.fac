@@ -1,0 +1,252 @@
+module sevenblade_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+
+translate SevenbladeArena to german feminine
+{
+swa "Siebenklingenarena";
+  sn "Siebenklingenarena"; sg "Siebenklingenarena"; sd "Siebenklingenarena"; sa "Siebenklingenarena";
+  pn "Siebenklingenarenen"; pg "Siebenklingenarenen"; pd "Siebenklingenarenen"; pa "Siebenklingenarenen";
+}
+translate Sevenblade to german feminine
+{
+swa "Siebenklinge";
+  sn "Siebenklinge"; sg "Siebenklinge"; sd "Siebenklinge"; sa "Siebenklinge";
+  pn "Siebenklingen"; pg "Siebenklingen"; pd "Siebenklingen"; pa "Siebenklingen";
+}
+translate SevenbladeConstruction to german feminine
+{
+swa "Siebenklingenkonstruktion";
+  sn "Siebenklingenkonstruktion";
+  pn "Siebenklingenkonstruktion";
+}
+translate Dagger to german masculine
+{
+swa "Dolch";
+  sn "Dolch"; 
+  pn "Dolche"; 
+}
+
+translate "Hours per Period"
+to german "Stunden pro Periode";
+translate "Blades per Period"
+to german "Klingen pro Periode";
+translate "Wins to Advance"
+to german "Aufstiegssiege";
+translate "Losses for Knockout"
+to german "Ausscheidungsniederlagen";
+translate "Games per Match"
+to german "Spiele pro Turnier";
+
+translate "Start the Initiation into Conflict"
+to german "Starte die Einführung in den Konflikt";
+
+translate "Dagger"
+to german "Dolch";
+translate "Club"
+to german "Keule";
+translate "Hammer"
+to german "Hammer";
+translate "Mace"
+to german "Streitkolben";
+translate "Trident"
+to german "Dreizack";
+translate "Axe"
+to german "Axt";
+translate "Sword"
+to german "Schwert";
+
+translate "Sevenblade"
+to german "Siebenklinge";
+
+translate "The Test of the Sevenblade"
+to german "Der Test der Siebenklingen";
+
+translate "I need some new Sevenblades"
+to german "Ich brauche neue Siebenklingen";
+
+translate "The Test of the Sevenblade"
+to german "Der Test der Siebenklingen";
+
+translate "Examine U1-N1"
+to german "Betrachte U1(name)-N1";
+
+translate "Random Sevenblade"
+to german "Verschiedene Siebenklingen";
+
+translate "Sign this player up for Sevenblade"
+to german "Schreibe diesen Spieler für Siebenklingen ein";
+
+translate "Build a Sevenblade Arena"
+to german "Baue eine Siebenklingenarena";
+
+
+translate "                                 Initiation into Conflict - the Challenge of the Sevenblade"
+to german "                               Einführung in den Konflikt - Der Wettbewerb der Siebenklinge";
+
+translate "To Initiate into the Discipline of Conflict, you must build your own Sevenblade arena. Then, you must defeat seven opponents.  Building the arena requires slate, boards, and oil (in increasing order of difficulty). Once you have access to an arena, you can play."
+to german "Um in die Disziplin des Konfliktes eingeführt zu werden, musst du eine eigene Siebenklingen-Arena bauen. Dann musst du sieben Gegner schlagen. Für dem Bau der Arena brauchst du, Schiefer, Bretter und Öl(in steigender Schwierigkeit). Wenn du einmal Zugang zur Arena bekommst, kannst du spielen.";
+
+
+translate "                                                   The Rules of Sevenblade"
+to german "                                              Die Regeln von Siebenklingen";
+translate "The challenge of the Sevenblade is as follows: every Citizen can request a Sevenblade from the University of Conflict.  Every Sevenblade is unique - some are bristling with axe-heads, others are heavy with spiked maces.  Two citizens meet at an arena, and both plant their Sevenblades into the ground.  A wall separates the players, so that neither can see the other's Sevenblade."
+to german "Der Wettbewerb der Siebenklingen geht wie folgt: Jeder Bürger kann von der Universität des Konfliktes eine Siebenklinge einfordern. Jede Siebenklinge ist einmalig - einige strotzen vor Axtklingen, andere haben gespickte Keulen. Zwei Bürger treffen sich in einer Arena und beide pflanzen ihre Siebenklingen in den Boden. Eine Mauer trennt die Spieler, so das sie die Klingen des anderen nicht sehen können.";
+
+translate "One player is chosen to go first.  This person must make a claim, much like one of the following: 'our Sevenblades have 3 axe heads.' or 'our Sevenblades have 4 trident heads.' The second player must either raise the bet, or deny.  Eventually, somebody will deny. If the denial is correct, he who denied wins.  But if the Sevenblades, taken together, have the requisite number, he who denied loses. It is traditional, when playing Sevenblade, that the winner takes the loser's blade.  If necessary, you may obtain a replacement from the University of Conflict."
+to german "Ein Spieler wird als Beginner ausgelost. Dieser Spieler muss eine Behauptung aufstellen, wie zum Beispiel: 'unsere Siebenklingen haben 3 Axtklingen' oder 'unsere Siebenklingen haben 4 Dreizack-Köpfe'. Der 2. Spieler muss den Einsatz erhöhen oder den anderen als Lügner enttarnen. Eventuell wird jemand schummeln. Wenn die Lüge aufgedeckt wurde, gewinnt der Entdecker. Aber, wenn die zusammengezählten Siebenklingen die richtige Anzahl hatten, verliert der Kläger. Traditionell erhält der Gewinner die Siebenklingen des Verlierers. Wenn nötig, erhält man Ersatz von der Universität des Konfliktes.";
+
+translate "                                                The History of Sevenblade"
+to german "                                         Die Geschichte der Siebenklingen";
+
+translate "The entire Assyrian army was approaching, and General Tefnakht had only a despondent band of a hundred men to repel them.  So Tefnakht called upon his blacksmiths.  On his orders, they created a hundred hideous devices, the Sevenblades. These brisling monstrosities, each held high by a courageous soldier, made his little band appear to be a churning, heavily-beweaponed force.  Fearlessly, they charged the Assyrians, who broke and fled.  In honor of that masterful bluff, and the bizarre tool that made it possible, the game of Sevenblade was created."
+to german "Die gesamte Asyrische Armee rückte an und General Tefnakht hatte nur eine mutlose Truppe von 100 Mann entgegenzustellen. So rief Tefnakht seine Schmiede. Auf sein Geheiss hin schmiedeten sie hunderte abscheuliche Hilfsmittel, die Siebenklingen. Diese mönströsen Waffen, jedes von einem couragierten Soldaten gehalten, liess diese kleine Truppe wie eine gefährliche, schwerbewaffnete Streitmacht erscheinen. Die Asyrer verloren die Moral und flohen. Zu Ehren dieser meisterhaften Täuschung und dem bizarren Mittel, das dies möglich machte, wurde das Spiel der Siebenklingen geschaffen.";
+
+translate "Sorry.  We have already given you 9 blades.  If you want more, you will have to purchase them from other players."
+to german "Entschuldige, wir haben dir bereits 9 Klingen gegeben. Wenn du mehr willst, musst du sie von anderen Spielern kaufen.";
+
+translate "Sorry.  You must wait K1 before you can get another Sevenblade."
+to german "Entschuldige, aber du musst K1 warten, bevor du weitere Siebenklingen bekommen kannst.";
+
+translate "You have been given three Sevenblades.  You can examine them using your 'Tests' menu.  You will need to wait K1 to get another."
+to german "Dir wurden drei Siebenklingen gegeben. Du kannst sie dir unter deinem 'Tests'-Menü betrachten. Du musst K1 warten, um neue zu bekommen.";
+
+translate "Select an opponent:"
+to german "Wähle einen Gegner:";
+
+translate "Choose your blade:"
+to german "Wähle deine Klinge:";
+
+translate "Opponent must now select you."
+to german "Gegner muss nun dich wählen";
+
+translate "O1:U1-N1"
+to german "O1(sn):U1(name)-N1";
+translate "O1:N1"
+to german "O1(sn):N1";
+translate "N1 O1"
+to german "N1 O1(N1?pn:sn)";
+translate "Clear"
+to german "Lösche";
+
+translate "Duel!"
+to german "Duell!";
+translate "Your last bid: nothing"
+to german "dein letzer Einsatz: nichts";
+translate "nothing"
+to german "nichts";
+
+translate "His bid: "
+to german "Sein Einsatz: ";
+
+translate "His bid: N1"
+to german "Sein Einsatz: N1";
+
+translate "His bid: N1 O1"
+to german "Sein Einsatz: N1 O1(N1?pn:sn)";
+
+translate "Deny last Bid"
+to german "Zweifle letzten Einsatz an";
+
+translate "Confirm"
+to german "Bestätige";
+
+translate "A duel is in progress, but the duelists seem to have wandered off."
+to german "Ein Duell ist im Gange, aber die Duellisten scheinen weggegangen zu sein.";
+
+translate "A duel is in progress, please wait."
+to german "Ein Duell ist im Gange, bitte warten.";
+
+translate "Your opponent is selecting his blade. Please wait."
+to german "Dein Gegner wählt seine Klinge. Bitte warte.";
+
+translate "You challenged his bid:"
+to german "Du hast den Einsatz angezweifelt:";
+
+translate "Revealing the blades..."
+to german "Decke die Klingen auf...";
+
+translate "Your bid was challenged:"
+to german "Dein Einsatz wurde angezweifelt:";
+
+translate "Your last bid: N1 O1"
+to german "Dein letzter Einsatz: N1 O1(N1?pn:sn)";
+
+translate "Wait for your opponent to bid."
+to german "Warte auf den Einsatz deines Gegners.";
+
+translate "Something's wrong, shouldn't be here."
+to german "Etwas ist falsch, sollte nicht hier sein.";
+
+translate "Before you can engage in the Sevenblade Challenge, you must read about it at the University of Conflict."
+to german "Bevor du am Wettbewerb der Siebenklingen teilnehmen kannst, musst du darüber an der Universität des Konfliktes lesen.";
+
+translate "To engage in the Sevenblade Challenge, you must get a Sevenblade from the University of Conflict (or buy one from somebody)."
+to german "Bevor du am Wettbewerb der Siebenklingen teilnehmen kannst, musst du eine Siebenklinge bei der Universität des Konfliktes holen(oder von jemandem kaufen).";
+
+translate "The two players must stand on opposite sides of the arena."
+to german "Die beiden Spieler müssen auf den gegenüberliegenden Seiten der Arena stehen.";
+
+translate "Duel in progress: U1 vs U2"
+to german "Duell im Gange: U1(name) gegen U2(name)";
+
+translate "player U1 attaching "
+to german "Spieler U1(name) fügt an";
+
+translate "So far, you have defeated: "
+to german "Bisher hast du besiegt: ";
+
+translate "To become an initiate of conflict, you must defeat seven people."
+to german "Um ein Anwärter des Konfliktes zu werden, musst du 7 Leute besiegen.";
+
+translate "To become an initiate of conflict, you must build your own arena and defeat seven people."
+to german "Um ein Anwärter des Konfliktes zu werden, musst du eine Arena bauen und 7 Leute besiegen.";
+
+translate "To build a Sevenblade Arena, you need: "
+to german "Um eine Siebenklingen-Arena zu bauen, brauchst du: ";
+
+translate "U1 was right - U2 wins and U3 loses!"
+to german "U1(name) hatte recht - U2(name) gewinnt und U3(name) verliert!";
+
+translate "He challenged, and he was right! He took your blade."
+to german "Dein Gegner hat angezweifelt und hatte recht! Er hat deine Klinge genommen.";
+
+translate "You challenged, and you were right! You won his blade."
+to german "Du hast angezweifelt und hattest recht! Du hast die Klinge des Gegners gewonnen.";
+
+translate "U1 was wrong - U2 loses and U3 wins!"
+to german "U1(name) hat falsch gelegen - U2(name) verliert und U3(name) gewinnt!";
+
+translate "He challenged, and he was wrong! You took his blade."
+to german "Dein Gegner hat angezweifelt und lag damit falsch! Du nimmst seine Klinge.";
+
+translate "You challenged, and you were wrong! He took your blade."
+to german "Du hast angezweifelt und lagst damit falsch! Der Gegner hat deine Klinge genommen.";
+
+translate "U1 forfeited your sevenblade match by wandering off."
+to german "U1(name) lässt dein Siebenklingen-Spiel durch Weggehen verfallen.";
+
+translate "You must select a sevenblade from the list before clicking Duel."
+to german "Du musst eine Siebenklinge von der Liste wählen, bevor du Duellieren klickst.";
+
+translate "The arena is in use, you will need to wait."
+to german "Die Arena ist in Benutzung, du wirst warten müssen.";
+
+translate "U1 challenges, revealing blades..."
+to german "U1(name) nimmt die Herausforderung an, decke die Klingen auf...";
+
+translate "U1 bids N1 O1"
+to german "U1(name) bietet N1 O1(N1?pn:sn)";
+
+translate "Pick up the O1:U1-N1"
+to german "Hebe O1(sn):U1(name)-N1 auf";
+
+translate "You must have a paid account to be given Sevenblades. If you would like to play, an experienced player may loan you one."
+to german "Du musst einen regulären Account haben, um Siebenklingen zu erhalten. Wenn Du spielen willst, kann dir vielleicht ein erfahrener Spieler eine Klinge leihen.";
+

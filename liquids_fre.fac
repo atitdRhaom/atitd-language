@@ -1,0 +1,63 @@
+module water_fre;
+
+translate Tadpoles to french masculine
+{
+  ns "Têtard"; np "Têtards";
+}
+translate Jugs to french feminine
+{
+  ns "Cruche"; np "Cruches";
+}
+
+translate Water to french feminine
+{
+  ns "Cruche d'eau"; np "Cruches d'eau";
+}
+
+translate SulphurousWater to french feminine
+{
+  ns "Eau sulfurée"; np "Eau sulfurée";
+}
+
+translate "Empty jugs"
+to french "Vider les cruches";
+
+translate "Empty one jug of water"
+to french "Vider une cruche d'eau";
+
+translate "Empty all jugs of water"
+to french "Vider toutes les cruches d'eau";
+
+translate "Empty one jug of sulphurous water"
+to french "Vider une cruche d'eau sulfurée";
+
+translate "Empty all jugs of sulphurous water"
+to french "Vider toutes les cruches d'eau sulfurée";
+
+translate "Gather how much O1?"
+to french "Quelle quantité de O1(ns)?";
+
+translate "You moved! To gather, you must stand in one place."
+to french "Vous avez bougé ! Pour récolter, vous devez rester immobile.";
+
+translate "You can't carry any more O1."
+to french "Vous ne pouvez plus porter de O1(ns).";
+
+translate "You don't have that many jugs."
+to french "Vous n'avez pas autant de cruches.";
+
+translate "While scooping up water, you got some tadpoles! They're really cute, and weigh practically nothing. Maybe you'll find a use for them."
+to french "En prenant de l'eau, vous capturez des têtards ! Ils sont très mignons et ne pèsent pratiquement rien. Ils vous serviront peut-être plus tard.";
+
+
+translate "If you want to gather clay, use the action icon. Did you really mean to just discard the water?"
+to french "Si vous voulez récolter de l'argile, utilisez l'icône d'action. Vouliez-vous juste jeter l'eau ?";
+
+translate "Jugs of Water"
+to french "Cruches d'eau";
+
+translate "Jugs"
+to french "Cruches";
+
+translate "tadpoles"
+to french "Têtards";

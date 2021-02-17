@@ -1,0 +1,278 @@
+Module Prismatic_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+
+translate OpticonConstruction to german feminine
+{
+  swa "Optikonkonstruktion";
+  sn "Optikonkonstruktion"; sg "Optikonkonstruktion"; sd "Optikonkonstruktion"; sa "Optikonkonstruktion";
+  pn "Optikonkonstruktion"; pg "Optikonkonstruktion"; pd "Optikonkonstruktion"; pa "Optikonkonstruktion";
+}
+
+translate PrismaticOpticonBuilding to german neuter
+{
+  swa "Optikon Prisma";
+  sn "Optikon Prisma"; sg "Optikon Prisma"; sd "Optikon Prisma"; sa "Optikon Prisma";
+  pn "Optikon Prismen"; pg "Optikon Prismen"; pd "Optikon Prismen"; pa "Optikon Prismen";
+}
+
+translate PrismaticOpticon to german neuter
+{
+  swa "Test des Optikon Prismas";
+  sn "Test des Optikon Prismas"; pn "Test des Optikon Prismas";
+}
+
+translate "Ra's Lantern cut Sunstone"
+to german "Sonnenstein: Ras Laterne";
+translate "Hile's Chevrons cut Sunstone"
+to german "Sonnenstein: Hiles Wappen";
+translate "Bastet cut Sunstone"
+to german "Sonnenstein: Bastet";
+translate "Amanti cut Jade"
+to german "Jadestein: Amati";
+translate "Choronzon cut Jade"
+to german "Jadestein: Choronzon";
+translate "Khufu's Ship cut Jade"
+to german "Jadestein: Khufus Schiff";
+translate "Appolonia cut Garnet"
+to german "Granat: Appolonia";
+translate "Full Eye cut Gem (any type)"
+to german "Alle Edelsteinarten: Volles Auge";
+
+translate "Prismatic Opticons are moving sculptures of light. Color, motion, and design all play into your art."
+to german "Optikon Prismen sind sich bewegende Skulpturen aus Licht. Die Farbe, die Bewegung und das Design gemeinsam machen dein Kunstwerk aus.";
+
+translate "Build a Prismatic Opticon"
+to german "Baue ein Optikon Prisma";
+translate "Create at least 3 Rays"
+to german "Entwerfe mindestens 3 Strahlen";
+translate "Create at least 3 Targets"
+to german "Erstelle mindestens 3 Ziele";
+translate "Create at least 3 Phases"
+to german "Entwerfe mindestens 3 Phasen";
+translate "Start the Opticon"
+to german "Starte dein Prisma";
+translate "Have Seven Judges rate your Prismatic Opticon"
+to german "Sieben Richter haben dein Optikon Prisma bewertet";
+
+translate "You have completed Principles of the Prismatic Opticon."
+to german "Du hast die Prinzipien des Optikon Prismas vervollständigt.";
+
+translate "You sign up for the Test of the Prismatic Opticon and learn the art of Opticon Construction.  You can build an opticon using a small construction site.  Caution: after you build the opticon, you will need a custom gearbox to activate it."
+to german "Du schreibst dich für den Test des Optikon Prismas ein und erlernst den Bau eines Optikons. Du kannst Optikons mit einer kleinen Baustelle erbauen. Achtung: Nachdem du das Optikon gebaut hast, brauchst du Getriebe um es zu aktivieren.";
+
+translate "Prismatic Opticon"
+to german "Optikon Prisma";
+
+translate "To build a Prismatic Opticon, you need: "
+to german "Um ein Optikon Prisma zu bauen benötigst du: ";
+
+translate "Title: "
+to german "Titel: ";
+
+translate "Title this Prismatic Opticon"
+to german "Gib diesem Optikon Prisma einen Titel";
+
+translate "Title..."
+to german "Betiteln...";
+
+translate "Install Gearbox"
+to german "Getriebe einbauen";
+
+translate "Remove Gearbox K1"
+to german "Getriebe K1 entfernen";
+
+translate "You took the gearbox model K1."
+to german "Du hast das Getriebe K1 genommen.";
+
+translate "Select a gearbox:"
+to german "Wähle ein Getriebe:";
+
+translate "That is not a gearbox."
+to german "Dies ist kein Getriebe.";
+
+translate "Reconfigure"
+to german "Rekonfiguriere";
+
+translate "Note: total complexity is limited:"
+to german "Hinweis: Komplexibilität ist limitiert auf:";
+
+translate "(Rays + Targets) * Phases <= N1"
+to german "(Strahlen + Ziele) * Phasen <= N1";
+
+translate "Clear the Optikon"
+to german "Setze das Optikon zurück";
+
+translate "Add a Ray (max N1)"
+to german "Füge einen Strahl hinzu (max N1)";
+
+translate "Add a Target (max N1)"
+to german "Füge ein Ziel hinzu (max N1)";
+
+translate "Add a Phase (max N1)"
+to german "Füge eine Phase hinzu (max N1)";
+
+translate "Delete last Ray"
+to german "Lösche den letzten Strahl";
+
+translate "Delete last Target"
+to german "Lösche das letzte Ziel";
+
+translate "Delete last Phase"
+to german "Lösche die letzte Phase";
+
+translate "Are you sure you want to discard all data?"
+to german "Sicher, dass alle Daten gelöscht werden sollen?";
+
+translate "You cannot delete the last ray."
+to german "Du kannst den letzten Strahl nicht löschen";
+
+translate "You cannot delete the last target."
+to german "Du kannst das letzte Ziel nicht löschen.";
+
+translate "You cannot delete the last phase."
+to german "Du kannst die letzte Phase nicht unterbrechen";
+
+translate "You can have at most N1 rays."
+to german "Du kannst maximal N1 Stahlen haben.";
+
+translate "That would exceed the total complexity limit"
+to german "Das würde das Limit übersteigen";
+
+translate "You can have at most N1 targets."
+to german "Du kannst maximal N1 Ziele haben.";
+
+translate "You can have at most N1 phases."
+to german "Du kannst maximal N1 Phasen haben.";
+
+translate "This only has one phase.  It cannot be run."
+to german "Dies hat nur eine Phase.  Es kann nicht in Betrieb genommen werden.";
+
+translate "To activate an opticon with this configuration, you must install a gearbox K1."
+to german "Um das Optikon mit dieser Konfiguration zu aktivieren, musst du ein Getriebe K1 installieren.";
+
+translate "At least one Judge has rated your Prismatic Opticon.  If you stop the Opticon, you will discard any votes.  Are you sure you want to start the voting over?"
+to german "Mindestens ein Richter hat dein Prisma bewertet.  Wenn du das Optikon Prisma anhältst, wirst du alle Stimmen verlieren.  Bist du sicher, dass du die Bewertung neu beginnen möchtest?";
+
+translate "Select Phase"
+to german "Wähle Phase";
+
+translate "Phase N1"
+to german "Phase N1";
+
+translate "Copy Phase Full"
+to german "Kopiere Phase";
+
+translate "Copy Phase Rays"
+to german "Kopiere Stahlenphase";
+
+translate "Copy Phase Targets"
+to german "Kopiere Zielphase";
+
+translate "Phase N1 Full"
+to german "Phase N1 Voll";
+
+translate "Phase N1 Rays"
+to german "Phase N1 Strahlen";
+
+translate "Phase N1 Targets"
+to german "Phase N1 Ziele";
+
+translate "Select Target"
+to german "Ziel wählen";
+
+translate "You can also click on"
+to german "Du kannst auch auf das";
+translate "the Target itself."
+to german "Ziel selbst klicken.";
+
+translate "Target N1"
+to german "Ziel N1";
+
+translate "Select Ray"
+to german "Strahl wählen";
+
+translate "You can also click on"
+to german "Du kannst auch auf die";
+translate "the Ray Aperature itself."
+to german "Strahlenapperatur selbst klicken.";
+
+translate "Ray N1"
+to german "Strahl N1";
+
+translate "Select Rod"
+to german "Stange wählen";
+
+translate "You can also click on"
+to german "Du kannst auch auf die";
+translate "the Rod itself."
+to german "Stange selbst klicken.";
+
+translate "Rod N1"
+to german "Stange N1";
+
+translate "Note: Mouse must point at body to use hot-keys."
+to german "Hinweis: Um Hotkeys zu nutzen, muss die Maus auf den zu benutzenden Abschnitt zeigen.";
+
+translate "Piece signed by: U1"
+to german "Signiert von: U1(name)";
+
+translate "Target Movement"
+to german "Zieleinstellung";
+
+translate "Speed: Fast"
+to german "Geschwindigkeit: Schnell";
+
+translate "Speed: Medium"
+to german "Geschwindigkeit: Mittel";
+
+translate "Speed: Slow"
+to german "Geschwindigkeit: Langsam";
+
+translate "Ray Color"
+to german "Farbe des Strahls";
+
+translate "Ray N1"
+to german "Strahl N1";
+
+translate "Ray N1 White"
+to german "Strahl N1 Weiß";
+
+translate "Ray N1 Green"
+to german "Strahl N1 Grün";
+
+translate "Ray N1 Red"
+to german "Strahl N1 Rot";
+
+translate "Ray N1 Blue"
+to german "Strahl N1 Blau";
+
+translate "Ray N1 Yellow"
+to german "Strahl N1 Gelb";
+
+translate "Ray N1 Purple"
+to german "Strahl N1 Lila";
+
+translate "Move up."
+to german "Nach oben.";
+
+translate "Move down."
+to german "Nach unten.";
+
+translate "Move left."
+to german "Nach links.";
+
+translate "Move right."
+to german "Nach rechts.";
+
+translate "Move in."
+to german "Verkürzen.";
+
+translate "Move out."
+to german "Verlängern.";

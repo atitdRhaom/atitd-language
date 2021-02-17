@@ -1,0 +1,185 @@
+module assbath_fre; -- Assimilation Bath
+
+translate assimilationbath to french masculine
+{
+	ns "Bain d'assimilation"; np "Bains d'assimilation";
+	}
+
+translate Sludge to french feminine
+{
+	ns "Précipité"; np "Précipités";
+	}
+
+translate scrying to french feminine
+{
+	ns "Analyse"; np "Analyses";
+	}
+
+translate "Allows one to build and operate Assimilation Baths."
+to french "Permet de construire et d'utiliser des bains d'assimilation";
+
+translate "Glass Pipes (Main Descenders)"
+to french "Tuyaux de verre (Vecteurs principaux)";
+
+translate "Thermometers (Monitoring)"
+to french "Thermomètres (Surveillance)";
+
+translate "Silver (Pot Lining)"
+to french "Argent (Bordure du récipient)";
+
+translate "Copper Straps (Base Reinforcement)"
+to french "Bandes de cuivre (Renforts de base)";
+
+translate "Grain Spirits, any kind"
+to french "Extraits de grain, toutes sortes";
+
+translate "Grain Spirits of Earth"
+to french "Extraits de grain de la Terre";
+
+translate "Grain Spirits of Water"
+to french "Extraits de grain de l'Eau";
+
+translate "Grain Spirits of Fire"
+to french "Extraits de grain du Feu";
+
+translate "Grain Spirits of Air"
+to french "Extraits de grain de l'Air";
+
+translate "Wood Spirits, any kind"
+to french "Extraits de bois, toutes sortes";
+
+translate "Wood Spirits of Earth"
+to french "Extraits de bois de Terre";
+
+translate "Wood Spirits of Water"
+to french "Extraits de bois d'Eau";
+
+translate "Wood Spirits of Fire"
+to french "Extraits de bois de Feu";
+
+translate "Wood Spirits of Air"
+to french "Extraits de bois de l'Air";
+
+translate "You learn to build and operate an Assimilation Bath."
+to french "Vous apprenez à construire et à utiliser un bain d'assimilation";
+
+translate "Alchemy"
+to french "Alchimie";
+
+translate "Assimilation Bath"
+to french "Bain d'assimilation";
+
+translate "To build an Assimilation Bath you need:"
+to french "Pour construire un bain d'assimilation, il vous faut :";
+
+translate "Add component of Sun"
+to french "Ajouter un composant du Soleil";
+
+translate "Components of Sun"
+to french "Composants de soleil";
+
+translate "You must fill the bath with alcohol before adding components."
+to french "Vous devez remplir le bain d'alcool avant d'ajouter les éléments.";
+
+translate "Add component of Star"
+to french "Ajouter un composant d'Etoile";
+
+translate "Components of Stars"
+to french "Composants d'Etoile";
+
+translate "Components of Moon"
+to french "Composants de Lune";
+
+translate "Add component of Moon"
+to french "Ajouter un composant de Lune";
+
+translate "Fill the bath with Grain Spirits/Grain Spirits"
+to french "Mettre de l'extrait de grain/Extrait de grain";
+
+translate "Fill the bath with Grain Spirits/-"
+to french "Mettre de l'extrait de grain/-";
+
+translate "Fill the bath with Grain Spirits/*"
+to french "Mettre de l'extrait de grain/*";
+
+translate "Fill the bath with Grain Spirits"
+to french "Mettre de l'extrait de grain";
+
+translate "Grain Spirits"
+to french "Extraits de Grain";
+
+translate "The bath has already been filled with spirits."
+to french "Le bain est déjà rempli d'extraits";
+
+translate "You can only use fairly pure alcohol, at least Water Spirits of Grain."
+to french "Vous ne pouvez utiliser que de l'alcool très pur, au minimum de l'extrait de grain d'Eau.";
+
+translate "You need 7 vials of Spirits of Grain"
+to french "Il vous faut 7 fioles d'extrait de grain";
+
+translate "Alcohol bath is ready - add components of Sun, Moon, Stars"
+to french "Le bain d'alcool est prêt - ajoutez les composants du Soleil, de la Lune et des Etoiles.";
+
+translate "Empty the bath"
+to french "Vider le bain";
+
+translate "Built up list: "
+to french "Liste personnelle : ";
+
+translate "Seal the bath"
+to french "Sceller le bain";
+
+translate "The tincture will be ready in 5 minutes."
+to french "La teinture sera prête dans 5 minutes.";
+
+translate "Alchemical Maceration"
+to french "Macération alchimique";
+
+translate "Egypt now has "
+to french "L'égypte possède maintenant ";
+
+translate "Projects/Laboratories/Assimilation Bath"
+to french "Projets/Laboratories/Bain d'assimilation";
+
+translate "N1 O1"
+to french "N1 O1(N1?np:ns)";
+
+translate "Load how much O1?"
+to french "Quelle quantité de O1(ns) ?";
+
+translate "You already know "
+to french "Vous connaissez déjà ";
+
+translate "scrying"
+to french "Analyse";
+
+translate "Scrying..."
+to french "Analyse...";
+
+translate "You don't scy any useful properties to Tincture "
+to french "Vous ne percevez aucune propriété utile dans la teinture ";
+
+translate "You scry the property of Tincture K1 and discern:\k"
+to french "Vous vous concentrez sur les propriétés de la teinture K1 et discernez :\k";
+
+translate "Note: You'll need the Alchemy Skill to apply this."
+to french "Note : Vous avez besoin de connaître l'Alchimie pour effectuer cette action.";
+
+translate "You assemble a Scry Piece, which you now wear around your neck. "
+to french "Vous assemblez un pendentif d'analyse, que vous portez à présent autour du cou.";
+
+translate "You learn Scrying, the technique of peering thru a Scry Piece, and through an alchemical tincture to determine it's properties."
+to french "Vous apprenez les techniques d'analyse en regardant à travers un cristal d'analyse, et vous pouvez déterminer les propriétés d'une teinture alchimique.";
+
+translate "To learn Scrying you nead one Full Eye Lapis, Garnet, Amethyst, and Turquoise."
+to french "Pour apprendre les techniques d'analyse, il vous faut un Lapis, un Grenat, une Améthyste et une Turquoise.";
+
+translate "Secret of Hemmingway Prize is: FountainOfGems"
+to french "Le secret du Prix Hemingway est : une fontaine de joyaux";
+
+translate "Sludge"
+to french "Précipité";
+
+translate "Secret of Opus Prize is: MagicPonyMortar"
+to french "Le secret du Prix Opus est : un mortier Poney magique";
+

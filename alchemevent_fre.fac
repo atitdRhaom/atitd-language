@@ -1,0 +1,144 @@
+module alchemevent_fre;
+
+translate PotteryShard to french masculine
+{
+	ns "Fragment de poterie"; np "Fragments de poterie";
+	}
+
+translate tincturerecipe to french feminine
+{
+	ns "Formule de teinture"; np "formules de teintures";
+	}
+
+translate Dm to french masculine
+{
+	ns "Dm"; np "Dm";
+	}
+
+translate "Dm"
+to french "Dm";
+
+translate "shard"
+to french "Fragment";
+
+translate "Dig under the roots of the tree"
+to french "Creuser sous les racines de l'arbre";
+
+translate "Would consume all K1 from U1(name)"
+to french "Consumerait tout K1 de U1(name)";
+
+translate "Would consume all K1 from a O1 owned by U1(name)"
+to french "Consumerait tout K1 d'O1(uns) O1(ns) possédé par U1(name)";
+
+translate "You inspect the soil and roots and, while you do find evidence of digging, find no evidence of clay shards."
+to french "Vous inspectez le sol et les racines, et voyez que quelqu'un a déjà creusé ici. Mais vous ne trouvez pas de fragments de tablettes.";
+
+translate "You inspect the virgin soil and see no sign of clay shards."
+to french "Vous inspectez le sol vierge, et ne trouvez pas de fragments de tablettes";
+
+translate "Although there are signs of clay shards, you are quite sure that the root system has been thoroughly searched, and all shards retrieved."
+to french "Bien qu'il y ait des traces de présence de fragments de tablettes, vous êtes certain que les racines ont été fouillées, et tous les fragments de tablettes récupérés";
+
+translate "You look carefully, but can't find any shards. Perhaps others would have more luck?"
+to french "Vous fouillez avec attention, mais ne trouvez pas de fragments. D'autres personnes auront peut-être plus de chance ?";
+
+translate "You find shard N1 of clay tablet number N2"
+to french "Vous avez trouvé le fragment N1 de la tablette N2";
+
+translate "tablet N1 shard N2"
+to french "Tablette N1 Fragment N2";
+
+translate "reading..."
+to french "Lecture...";
+
+translate "Can't read the recipe - call a developer."
+to french "Impossible de lire la recette - Appelez un développeur";
+
+translate "Assemble Tablet"
+to french "Assembler une tablette";
+
+translate "Number N1"
+to french "Numéro N1";
+
+translate "Recipe for Tincture N1:"
+to french "Formule pour la teinture N1:";
+
+translate "7 Grain Spirits of Water (or better)"
+to french "7 Extraits de grain d'eau (ou mieux)";
+
+translate "Read assembled recipe/"
+to french "Lire la formule reconstituée/";
+
+translate "N1 O1 (Component of Sun)"
+to french "N1 O1(ns) (Composant du Soleil)";
+
+translate "N1 O1 (Component of Stars)\n"
+to french "N1 O1(ns) (Composant des Etoiles)";
+
+translate "N1 O1 (Component of Moon)"
+to french "N1 O1(ns) (Composant de la Lune)";
+
+translate "You did it! You assembled tablet number N1 which gives detailed instructions for making Tincture O1"
+to french "Vous avez réussi ! Vous avez assemblé la tablette N1, qui vous donne des instructions détaillées pour fabriquer la teinture O1(ns).";
+
+translate "In an assimilation bath, place 7 drops of Water Spirits of Grain (or better), and add components as follows: Sun: K1(K2)"
+to french "Dans un bain d'assimilation, utilisez 7 gouttes d'extraits de grain d'eau (ou mieux), et ajoutez les ingrédients comme suit: Soleil: K1(K2)";
+
+translate "In an assimilation bath, place 7 drops of Water Spirits of Grain (or better), and add components as follows: Stars: K1(K2)"
+to french "Dans un bain d'assimilation, utilisez 7 gouttes d'extraits de grain d'eau (ou mieux), et ajoutez les ingrédients comme suit: Etoiles: K1(K2)";
+
+translate "In an assimilation bath, place 7 drops of Water Spirits of Grain (or better), and add components as follows: Moon: K1(K2)"
+to french "Dans un bain d'assimilation, utilisez 7 gouttes d'extraits de grain d'eau (ou mieux), et ajoutez les ingrédients comme suit: Lune: K1(K2)";
+
+translate "You don't have all N1 shards of tablet N2"
+to french "Vous n'avez pas les N1 fragments de la tablette N2.";
+
+translate "Recipe for Tincture "
+to french "Formule pour la teinture ";
+
+translate "you find shard N1 of clay tablet N2"
+to french "Vous trouvez le fragment N1 de la tablette N2";
+
+translate "Assemble Tablet/Number N1"
+to french "Assembler la tablette/Numéro N1";
+
+translate "Would consume all K1 from U1(name)"
+to french "Consumerait tout K1 de U1(name)";
+
+translate "Would consume all K1 from a O1 owned by U1(name)"
+to french "Consumerait tout K1 d'O1(uns) O1(ns) possédé par U1(name)";
+
+translate "Dig under the roots of the tree"
+to french "Creuser sous les racines de la plante";
+
+translate "You inspect the soil and roots and, while you do find evidence of digging, find no evidence of clay shards."
+to french "Vous inspectez le sol et les racines, et voyez que quelqu'un a déjà creusé ici. Mais vous ne trouvez pas de fragments de tablettes.";
+
+translate "You inspect the virgin soil and see no sign of clay shards."
+to french "Vous inspectez le sol vierge, et ne trouvez pas de fragments de tablettes";
+
+translate "Although there are signs of clay shards, you are quite sure that the root system has been thoroughly searched, and all shards retrieved."
+to french "S'il y a des traces de présence de fragments de tablettes, vous êtes certain que les racines ont été fouillées, et tous les fragments de tablettes récupérés";
+
+translate "You look carefully, but can't find any shards. Perhaps others would have more luck?"
+to french "Vous fouillez avec attention, mais ne trouvez pas de fragments. D'autres personnes auront peut-être plus de chance.";
+
+translate "tablet N1 shard N2"
+to french "Tablette N1 Fragment N2";
+
+translate "you find shard N1 of clay tablet N2"
+to french "Vous trouvez le fragment N1 de la tablette N2";
+
+translate "Assemble Tablet/Number N1"
+to french "Assembler la tablette numéro N1";
+
+translate "You did it! You assembled tablet number N1 which gives detailed instructions for making Tincture O1"
+to french "Vous avez réussi ! Vous avez assemblé la tablette N1, qui vous donne des instructions détaillées pour fabriquer la teinture O1(ns).";
+
+translate "You don't have all N1 shards of tablet N2"
+to french "Vous n'avez pas les N1 fragments de la tablette N2.";
+
+
+
+
+

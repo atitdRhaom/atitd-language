@@ -1,0 +1,23 @@
+Module EventFishing_fre;
+
+
+translate "Biggest-O1"
+to french "O1(^lns) O1(ns) de plus grande taille";
+
+translate "Most-O1"
+to french "Le plus grand nombre de O1(ns)";
+
+translate "Show my Fishing Statistics"
+to french "Montrer mes statistiques de p�che";
+
+translate "Biggest Fish Caught: N1 deben. Total Fish Caught: N2 deben."
+to french "Plus grosse prise: poids de N1. Poids total des poissons attrapp�s: N2.";
+
+//translate "\n    Biggest O1: N1 deben"
+//to french "\n    Poids du plus gros O1(ns): N1";
+
+//translate "\n    Total O1: N1 deben"
+//to french "\n    Poids total O1(dns) O1(ns): N1";
+
+translate ""
+to french "";

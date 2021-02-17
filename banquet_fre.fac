@@ -1,0 +1,364 @@
+Module Banquet_fre;
+
+translate flavor to french masculine
+{
+ns "Arôme"; np "Arômes";
+}
+
+translate perception to french feminine
+{
+ns "Perception"; np "Perception";
+}
+
+translate BanquetTable to french feminine
+{
+ns "Table de banquet"; np "Tables de banquet";
+}
+
+translate BanquetTableConstruction to french feminine
+{
+	ns "Const. table de banquet"; np "Const. table de banquet";
+	}
+
+translate banquetmenu to french masculine
+{
+	ns "Menu de Banquet"; np "Menus de Banquet";
+	}
+
+translate "transfer the O1 to "
+to french "Transférer O1(lns) O1(ns) à ";
+
+translate "The Banquet"
+to french "Le Banquet";
+
+translate "This Test is only open to those with permanent Perception of at least 7."
+to french "Cette épreuve n'est accessible qu'à ceux qui possèdent une Perception permanente de 7.";
+
+translate "Are you sure you want to clear your menu and have a new one written?"
+to french "Voulez-vous vraiment effacer le menu et en composer un nouveau ?";
+
+translate "Your Banquet Menu has been written. Review it under your Tests menu, or by clicking on a Banquet Table."
+to french "Le menu de votre banquet vient d'être composé. Vous pouvez le voir dans votre menu d'épreuves, ou en cliquant sur la table de banquet.";
+
+translate "Projects/The Human Body/"
+to french "Projets/Corps Humain";
+
+translate "The Human Body/"
+to french "Corps Humain";
+
+translate "Glossy White Boards for Trim"
+to french "Planches de bois blanc verni pour la protection";
+
+translate "Glossy Blonde Boards for Inlay"
+to french "Planches de bois blond verni pour l'intérieur";
+
+translate "Glossy Black Boards for Frame"
+to french "Planches de bois noir verni pour le cadre";
+
+translate "Nails for structure"
+to french "Clous pour la structure";
+
+translate "White Travertine for Inlay"
+to french "Travertins blancs pour l'intérieur";
+
+translate "Linen for Tablecloth"
+to french "Tissus pour les nappes";
+
+translate "Cook Pots, one for cooking, seven for serving"
+to french "Récipients, un pour la cuisson, sept pour le service";
+
+translate "To build a Banquet Table you need:"
+to french "Pour fabriquer une table de banquet, il vous faut :";
+
+translate "Review Assigned Menu"
+to french "Contrôler le menu";
+
+translate "Your Menu has been written:"
+to french "Votre menu a été composé :";
+
+translate "  First course:"
+to french "  Premier plat :";
+
+translate "  Second course:"
+to french "  Deuxième plat :";
+
+translate "  Third course:"
+to french "  Troisième plat :";
+
+translate "  Fourth course:"
+to french "  Quatrième plat :";
+
+translate "  Fifth course:"
+to french "  Cinquième plat :";
+
+translate "  Sixth course:"
+to french "  Sixième plat :";
+
+translate "  Seventh course:"
+to french "  Septième plat :";
+
+translate "    Dish with O1 at least one seventh by item, duration at least K1"
+to french "    Un plat avec O1(dns) O1(ns), au moins un septième par portion, durée d'au moins K1";
+
+translate "    Wine with: Alcohol at least N1 percent. Residual Sugar at least N2 percent. "
+to french "    Vin : N1 N2";
+
+translate "    Beer that is: O1 O2 O3"
+to french "    Bière : O1(ns) O2(ns) O3(ns)";
+
+translate "Set the Table"
+to french "Mettre la table";
+
+translate "Course N1 - O1"
+to french "Service N1 - O1(ns)";
+
+
+translate "That beer doesn't meet the requirements: K1 K2 K3"
+to french "Cette bière ne satisfait pas les exigences : K1 K2 K3";
+
+translate "The beer is acceptable for this course."
+to french "La bière choisie convient à ce plat.";
+
+translate "That wine doesn't meet the requirements: O1"
+to french "Le vin choisi ne satisfait pas les exigences : O1(ns)";
+
+translate "You need three identical bottles of wine for a banquet course."
+to french "Vous avez besoin de trois bouteilles de vin identiques pour un service.";
+
+translate "The wine is acceptable for this course."
+to french "Le vin choisi correspond à ce plat.";
+
+translate "Recipe K1 flavor O1"
+to french "Recette K1 saveur O1(ns)";
+
+translate "Alcohol at least N1 percent. "
+to french "Alcool N1 degrés minimum. ";
+
+translate "Alcohol at most N1 percent. "
+to french "Alcool N1 degrés maximum. ";
+
+translate "Age at least N1 vintages. "
+to french "Au moins N1 vintages d'âge. ";
+
+translate "Age at most N1 vintages. "
+to french "Au maximum N1 vintages d'âge. ";
+
+translate "Tannin at least N1. "
+to french "Au moins N1 de tannin. ";
+
+translate "Tannin at most N1. "
+to french "Au maximum N1 de tannin. ";
+
+translate "Residual Sugar at least N1 percent. "
+to french "Sucre résiduel au moins N1%. ";
+
+translate "Residual Sugar at most N1 percent. "
+to french "Sucré résiduel au maximum N1%. ";
+
+translate "Concentration at least N1. "
+to french "Concentration d'au moins N1. ";
+
+translate "Concentration at most N1. "
+to french "Concentration d'au maximum N1. ";
+
+translate "Flavor of O1. "
+to french "Arôme de O1(ns). ";
+
+translate "Course N1 - O1/Dish: K1"
+to french "Service N1 - O1(ns)/Plat : K1";
+
+translate "Course N1 - O1/You must cook a dish!"
+to french "Service N1 - O1(ns)/Vous devez cuisiner un plat !";
+
+translate "Course N1 - O1/K1"
+to french "Service N1 - O1(ns)/K1";
+
+translate "You need at least N1 servings of each dish."
+to french "Il vous faut au moins N1 portions de chaque plat";
+
+translate "Only very fresh food can be served at a Banquet."
+to french "Seulement de la nourriture très fraîche peut être servie lors d'un banquet.";
+
+translate "Checking flavors..."
+to french "Voyons si les saveurs s'accordent...";
+
+translate "O1 must comprise one seventh of the servings in this dish. It only comprises N1 percent."
+to french "O1(ns) doit comporter au moins un septième des portions de ce plat. Vous n'en avez actuellement que N1%.";
+
+translate "This dish must have an effect duration of at least N1, and must have some positive effect."
+to french "Les effets de ce plat doivent avoir une durée d'au moins N1, et doivent avoir un effet positif.";
+
+translate "With an effect duration of N1, K1 is an acceptable dish for course O1."
+to french "Avec un effet d'une durée de N1, K1 est un plat qui convient au plat O1(ns).";
+
+translate "Clear the Table"
+to french "Nettoyer la table";
+
+translate "Are you SURE you want to clear the table? Type CLEAR to clear it."
+to french "Voulez-vous vraiment nettoyer la table ? Tapez CLEAR pour la nettoyer.";
+
+translate "Review Dishes Served, Open the banquet"
+to french "Voir les plats servis, Ouvrir le banquet";
+
+translate "Table is set as follows: "
+to french "La table est dressée comme suit : ";
+
+translate "    Dish: None Served"
+to french "    Plat : Aucun";
+
+translate "    Food: O1: (Spoiled)"
+to french "    Plat : O1(ns) (Avarié)";
+
+translate "    Food: O1 (Ok) (Not Acceptable)"
+to french "    Plat : O1(ns) (Ok) (Ne convient pas)";
+
+translate "    Wine: None Served"
+to french "    Vin : Aucun";
+
+translate "    Wine: O1 (Ok) (Not Acceptable)\n"
+to french "    Vin : O1(ns) (Ok) (Ne convient pas)\n";
+
+translate "    Beer: None Served\n"
+to french "    Bière : Aucun\n";
+
+translate "    Beer: K1 (Ok) (Not Acceptable)\n"
+to french "    Bière : K1 (Ok) (Ne convient pas)\n";
+translate "    Beer: O1 (Ok) (Not Acceptable)\n"
+to french "    Bière : O1(ns) (Ok) (Ne convient pas)\n";
+
+translate "Course N1 - Featuring O1:"
+to french "Service N1 - Avec O1(ns) :";
+
+translate "The banquet is perfect! Open it for your friends? You'll have two hours for all the guests to eat."
+to french "Le banquet est parfait ! Voulez-vous accueillir vos amis ? Vous aurez deux heures pour délecter vos invités.";
+
+translate "You must have at least N1 people on your guest list to open the banquet."
+to french "Vous devez avoir au moins N1 personnes sur votre liste d'invitation pour ouvrir le banquet.";
+
+translate "You are truly bleeding edge, but Teppy wants to be here for this."
+to french "Nous savons que vous mourez d'impatience, mais Teppy voudrait vraiment y assister.";
+
+translate "Guest list/"
+to french "Liste d'invités/";
+
+translate "Review the Guest List"
+to french "Afficher la liste";
+
+translate "Guest list is:"
+to french "La liste de vos invités :";
+
+translate "Add someone to the Guest List"
+to french "Ajouter à la liste";
+
+translate "Name to add to the list?"
+to french "Qui voulez-vous ajouter ?";
+
+translate "Could not find U1"
+to french "U1(name) est introuvable.";
+translate "Could not find K1"
+to french "Introuvable: K1";
+
+translate "U1 is already on the guest list."
+to french "U1(name) est déjà sur vote liste.";
+
+translate "Remove someone from the Guest List"
+to french "Retirer un invité";
+
+translate "Name to remove from the list?"
+to french "Qui retirer de la liste ?";
+
+translate "U1 is not on the list."
+to french "U1(name) n'est pas sur la liste.";
+
+translate "Guest List"
+to french "Liste d'invités";
+
+translate "U1 eats your generously offered banquet meal, and marvels at the selection of Egypt's finest foods."
+to french "U1(name) savoure votre banquet généreusement offert, et s'émerveille de ce fabuleux choix de mets égyptiens.";
+
+translate "You eat U1's generously offered banquet meal, and marvel at the selection of Egypt's finest foods."
+to french "Vous vous délectez du banquet généreusement offert par U1(name), et le fabuleux choix de mets égyptiens vous emplit d'émerveillement.";
+
+translate "Load the Souveneir Menus"
+to french "Afficher les menus souvenirs";
+
+translate "Clear Banquet Time"
+to french "Effacer la date du banquet";
+
+translate "Special/Read/Banquet Menu K1"
+to french "Spécial/Lire/Menu du banquet K1";
+
+translate "Commemorative Banquet Menu, K1, served on N1"
+to french "Menu de banquet commémoratif, K1, servi le N1";
+
+translate "Commemorative Banquet Menu, K1, served on K2"
+to french "Menu de banquet commémoratif, K1, servi le K2";
+
+translate "You must cook a dish!"
+to french "Vous devez cuisiner un plat !";
+
+translate "Set the Table/Course O1"
+to french "Mettre la table/Service O1(ns)";
+
+translate "Food: O1 (Spoiled)"
+to french "Plat : O1(ns) (Avarié)";
+
+translate "Course O1 - Featuring O2: (Complete): "
+to french "Service O1(ns) - Avec O2(ns): (Achevé): ";
+
+translate "Course O1 - Served with Wine O2 and Beer O3"
+to french "Service O1(ns) - Servi avec vin O2(ns) und Bier O3(ns)";
+
+translate "    Course N1: K1 Served with Wine K2 and Beer K3"
+to french "    Plat N1: K1 Servi avec vin K2 et bière K3";
+
+translate "Principles of the Banquet will guide you through those things that advance your Perception character statistic."
+to french "Les principes du banquet vont vous guider dans les étapes qui font progresser votre perception.";
+
+translate "Enjoy a meal at a Kitchen"
+to french "Goûter un mets d'une cuisine";
+
+translate "Enjoy a Masterpiece at a Kitchen"
+to french "Goûter un chef d'oeuvre d'une cuisine";
+
+translate "Smoke a simple bowl of herbs in a Hookah"
+to french "Fumer un bol d'herbes simple dans un narguillé";
+
+translate "Smoke a complex bowl of 2 or more herbs"
+to french "Fumer un bol d'herbe complexe composé de deux types herbes ou plus";
+
+translate "Enjoy a glass of Wine"
+to french "Appréciez un verre de vin";
+
+translate "Enjoy a mug of Beer"
+to french "Appréciez une chope de bière";
+
+translate "Raise your Perception Statistic"
+to french "Augmentez votre perception";
+
+translate "You have completed Principles of the Banquet."
+to french "Vous avez terminé les principes du banquet.";
+
+translate "Dish with O1, at least one seventh by item, duration at least K1"
+to french "Plat contenant au moins un septième O1(dns) O1(ns), durant au moins K1";
+
+translate "O1 must comrise one seventh of the servings in this dish. It only comprises N1 percent."
+to french "Ce plat doit contenir un septième de O1(ns). Il en contient seulement N1%.";
+
+translate "O1 must comprise one fourth of the servings in this dish. It only comprises N1 percent."
+to french "Ce plat doit contenir un quart de O1(ns). Il en contient seulement N1%.";
+
+translate "This dish must have flavor of at least N1. The flavor of the O1 is N2"
+to french "Ce plat doit avoir un arôme d'au moins N1. L'arôme de O1(cns) O1(ns) est de N2";
+
+translate "With a flavor of N1, K1 is an acceptable dish for course O1."
+to french "Avec un arôme de N1, K1 est un plat acceptable pour le service O1(ns).";
+
+translate "You must have at least 21 people on your guest list to open the banquet."
+to french "Votre liste doit contenie au moins 21 invités pour pouvoir ouvrir le banquet.";
+
+translate "Banquet Menu: U1"
+to french "Menu de Banquet: U1(name)";
+
+translate "Eat the Banquet Meal by U1"
+to french "Déguster le met de ce banquet organisé par U1(name)";

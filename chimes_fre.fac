@@ -1,0 +1,505 @@
+Module chimes_fre;
+
+
+translate ChimeTower to french masculine
+{
+  ns "Support à carillon"; np "Support à carillon";
+}
+translate Chime to french masculine
+{
+  ns "Carillon"; np "Carillons";
+}
+
+translate Eagle to french masculine
+{
+  ns "Aigle"; np "Aigle";
+}
+
+translate Nightingale to french masculine
+{
+  ns "Rossignol"; np "Rossignol";
+}
+
+translate Lark to french masculine
+{
+  ns "Alouette"; np "Alouette";
+}
+
+translate Hummingbird to french masculine
+{
+  ns "Colibri"; np "Colibri";
+}
+
+translate hawk to french masculine
+{
+  ns "Faucon"; np "Faucon";
+}
+
+translate parrot to french masculine
+{
+  ns "Perroquet"; np "Perroquet";
+}
+
+translate buzzard to french masculine
+{
+  ns "Busard"; np "Busard";
+}
+
+translate condor to french masculine
+{
+  ns "Condor"; np "Condor";
+}
+
+translate finch to french masculine
+{
+  ns "Pinson"; np "Pinson";
+}
+
+translate sparrow to french masculine
+{
+  ns "Moineau"; np "Moineau";
+}
+translate osprey to french masculine
+{
+  ns "Balbusard"; np "Balbusard";
+}
+
+translate raven to french masculine
+{
+  ns "Corbeau"; np "Corbeau";
+}
+
+translate albatross to french masculine
+{
+  ns "Albatros"; np "Albatros";
+}
+translate pheasant to french masculine
+{
+  ns "Faisan"; np "Faisan";
+}
+
+translate gull to french masculine
+{
+  ns "Mouette"; np "Mouette";
+}
+
+translate owl to french masculine
+{
+  ns "Hibou"; np "Hibou";
+}
+
+translate crane to french masculine
+{
+  ns "Grue"; np "Grue";
+}
+
+translate warbler to french masculine
+{
+  ns "Fauvette"; np "Fauvette";
+}
+
+translate puffin to french masculine
+{
+  ns "Macareux"; np "Macareux";
+}
+
+translate waxwing to french masculine
+{
+  ns "Jaseur"; np "Jaseur";
+}
+
+translate "Windsong Towers let you sequence Pure Chimes into delicate melodies. You have the option of tearing your Windsong Tower down early, skipping the Judging steps."
+to french "Les supports à carillons vous permettent de séquencer les carillons en de délicates mélodies. Vous pouvez détruire votre oeuvre prématurément afin de passer le principe sans avoir besoin des votes.";
+
+translate "Build a Windsong Tower"
+to french "Eriger un Support à carillons";
+translate "Create at least 7 distinct type of Pure Chimes"
+to french "Créez au moins 7 types distincs de carillons";
+translate "Install at least 3 Pure Chimes"
+to french "Installer au moins 3 carillons";
+translate "Open your Chime Tower for Judging"
+to french "Ouvrir votre support à carillons à l'évaluation";
+translate "Tear down your Chime Tower, OR do the following:"
+to french "Détruisez votre support à carillons, OU suivez ces étapes :";
+translate "    Have Seven Judges rate your Windsong Tower"
+to french "    Que sept juges évaluent votre support à carillons";
+translate "    Design rated Good by most judges"
+to french "    Obtenir une majorité de votes positifs";
+
+translate "Diving Eagle"
+to french "Aigle plongeant en piquet";
+translate "Diving Nightingale"
+to french "Rossignol plongeant en piquet";
+translate "Diving Hawk"
+to french "Faucon plongeant en piquet";
+translate "Diving Lark"
+to french "Alouette plongeant en piquet";
+translate "Diving Hummingbird"
+to french "Oiseau-mouche plongeant en piquet";
+translate "Diving Parrot"
+to french "Perroquet plongeant en piquet";
+translate "Diving Buzzard"
+to french "Busard plongeant en piquet";
+translate "Diving Condor"
+to french "Condor plongeant en piquet";
+translate "Diving Finch"
+to french "Pinson plongeant en piquet";
+translate "Diving Sparrow"
+to french "Moineau plongeant en piquet";
+translate "Diving Osprey"
+to french "Balbuzard plongeant en piquet";
+translate "Diving Raven"
+to french "Corbeau plongeant en piquet";
+translate "Diving Albatross"
+to french "Albatros plongeant en piquet";
+translate "Diving Pheasant"
+to french "Faisan plongeant en piquet";
+translate "Diving Gull"
+to french "Mouette plongeant en piquet";
+translate "Diving Owl"
+to french "Hibou plongeant en piquet";
+translate "Diving Crane"
+to french "Grue plongeant en piquet";
+translate "Diving Warbler"
+to french "Fauvette plongeant en piquet";
+translate "Diving Puffin"
+to french "Macareux plongeant en piquet";
+translate "Diving Waxwing"
+to french "Jaseur plongeant en piquet";
+
+
+translate "Soaring Eagle"
+to french "Aigle s'envolant";
+translate "Soaring Nightingale"
+to french "Rossignol s'envolant";
+translate "Soaring Hummingbird"
+to french "Colibri s'envolant";
+translate "Soaring Lark"
+to french "Alouette s'envolant";
+translate "Soaring Hummingbird"
+to french "Oiseau-mouche s'envolant";
+translate "Soaring Hawk"
+to french "Faucon s'envolant";
+translate "Soaring Parrot"
+to french "Perroquet s'envolant";
+translate "Soaring Buzzard"
+to french "Busard s'envolant";
+translate "Soaring Condor"
+to french "Condor s'envolant";
+translate "Soaring Finch"
+to french "Pinson s'envolant";
+translate "Soaring Sparrow"
+to french "Moineau s'envolant";
+translate "Soaring Osprey"
+to french "Balbuzard s'envolant";
+translate "Soaring Raven"
+to french "Corbeau s'envolant";
+translate "Soaring Albatross"
+to french "Albatros s'envolant";
+translate "Soaring Pheasant"
+to french "Faisan s'envolant";
+translate "Soaring Gull"
+to french "Mouette s'envolant";
+translate "Soaring Owl"
+to french "Hibou s'envolant";
+translate "Soaring Crane"
+to french "Grue s'envolant";
+translate "Soaring Warbler"
+to french "Fauvette s'envolant";
+translate "Soaring Puffin"
+to french "Macareux s'envolant";
+translate "Soaring Waxwing"
+to french "Jaseur s'envolant";
+
+translate "Hovering Eagle"
+to french "Aigle volant sur place";
+translate "Hovering Nightingale"
+to french "Rossignol volant sur place";
+translate "Hovering Hummingbird"
+to french "Colibri volant sur placet";
+translate "Hovering Hawk"
+to french "Faucon volant sur place";
+translate "Hovering Lark"
+to french "Alouette volant sur place";
+translate "Hovering Parrot"
+to french "Perroquet volant sur place";
+translate "Hovering Buzzard"
+to french "Busard volant sur place";
+translate "Hovering Condor"
+to french "Condor volant sur place";
+translate "Hovering Finch"
+to french "Pinson volant sur place";
+translate "Hovering Sparrow"
+to french "Moineau volant sur place";
+translate "Hovering Osprey"
+to french "Balbuzard volant sur place";
+translate "Hovering Raven"
+to french "Corbeau volant sur place";
+translate "Hovering Albatross"
+to french "Albatros volant sur place";
+translate "Hovering Pheasant"
+to french "Faisan volant sur place";
+translate "Hovering Gull"
+to french "Mouette volant sur place";
+translate "Hovering Owl"
+to french "Hibou volant sur place";
+translate "Hovering Crane"
+to french "Grue volant sur place";
+translate "Hovering Warbler"
+to french "Fauvette volant sur place";
+translate "Hovering Puffin"
+to french "Macareux volant sur place";
+translate "Hovering Waxwing"
+to french "Jaseur volant sur place";
+
+translate "Gliding Eagle"
+to french "Aigle planant";
+translate "Gliding Nightingale"
+to french "Rossignol planant";
+translate "Gliding Hummingbird"
+to french "Colibri planant";
+translate "Gliding Hawk"
+to french "Faucon planant";
+translate "Gliding Lark"
+to french "Alouette planant";
+translate "Gliding Parrot"
+to french "Perroquet planant";
+translate "Gliding Buzzard"
+to french "Busard planant";
+translate "Gliding Condor"
+to french "Condor planant";
+translate "Gliding Finch"
+to french "Pinson planant";
+translate "Gliding Sparrow"
+to french "Moineau planant";
+translate "Gliding Osprey"
+to french "Balbuzard planant";
+translate "Gliding Raven"
+to french "Corbeau planant";
+translate "Gliding Albatross"
+to french "Albatros planant";
+translate "Gliding Pheasant"
+to french "Faisan planant";
+translate "Gliding Gull"
+to french "Mouette planant";
+translate "Gliding Owl"
+to french "Hibou planant";
+translate "Gliding Crane"
+to french "Grue planant";
+translate "Gliding Warbler"
+to french "Fauvette planant";
+translate "Gliding Puffin"
+to french "Macareux planant";
+translate "Gliding Waxwing"
+to french "Jaseur planant";
+
+
+translate "Floating Eagle"
+to french "Aigle flottant dans les airs";
+translate "Floating Nightingale"
+to french "Rossignol flottant dans les airs";
+translate "Floating Hummingbird"
+to french "Colibri flottant dans les airs";
+translate "Floating Hawk"
+to french "Faucon flottant dans les airs";
+translate "Floating Lark"
+to french "Alouette flottant dans les airs";
+translate "Floating Parrot"
+to french "Perroquet flottant dans les airs";
+translate "Floating Buzzard"
+to french "Busard flottant dans les airs";
+translate "Floating Condor"
+to french "Condor flottant dans les airs";
+translate "Floating Finch"
+to french "Pinson flottant dans les airs";
+translate "Floating Sparrow"
+to french "Moineau flottant dans les airs";
+translate "Floating Osprey"
+to french "Balbuzard flottant dans les airs";
+translate "Floating Raven"
+to french "Corbeau flottant dans les airs";
+translate "Floating Albatross"
+to french "Albatros flottant dans les airs";
+translate "Floating Pheasant"
+to french "Faisan flottant dans les airs";
+translate "Floating Gull"
+to french "Mouette flottant dans les airs";
+translate "Floating Owl"
+to french "Hibou flottant dans les airs";
+translate "Floating Crane"
+to french "Grue flottant dans les airs";
+translate "Floating Warbler"
+to french "Fauvette flottant dans les airs";
+translate "Floating Puffin"
+to french "Macareux flottant dans les airs";
+translate "Floating Waxwing"
+to french "Jaseur flottant dans les airs";
+
+translate "You can't do this while the Chime Tower is open for judging."
+to french "Vous ne pouvez faire ceci quand le support à carillon est en évaluation.";
+
+translate "Eagle"
+to french "Aigle";
+
+translate "Nightingale"
+to french "Rossignol";
+
+translate "Lark"
+to french "Alouette";
+
+translate "Hummingbird"
+to french "Oiseau-mouche";
+
+translate "Hawk"
+to french "Faucon";
+
+translate "Parrot"
+to french "Perroquet";
+
+translate "Buzzard"
+to french "Busard";
+
+translate "Condor"
+to french "Condor";
+
+translate "Finch"
+to french "Pinson";
+
+translate "Sparrow"
+to french "Moineau";
+
+translate "Osprey"
+to french "Balbuzard";
+
+translate "Raven"
+to french "Corbeau";
+
+translate "Albatross"
+to french "Albatros";
+
+translate "Pheasant"
+to french "Faisan";
+
+translate "Gull"
+to french "Mouette";
+
+translate "Owl"
+to french "Hibou";
+
+translate "Crane"
+to french "Grue";
+
+translate "Warbler"
+to french "Fauvette";
+
+translate "Puffin"
+to french "Macareux";
+
+translate "Waxwing"
+to french "Jaseur";
+
+translate "Soaring"
+to french "S'envolant";
+
+translate "Diving"
+to french "Plongeant en piquet";
+
+translate "Hovering"
+to french "Volant sur place";
+
+translate "Gliding"
+to french "planant";
+
+translate "Floating"
+to french "Flottant dans les airs";
+
+translate "The track listing has changed.  Try again."
+to french "La liste de pistes a changé, essayez de nouveau.";
+
+translate "You can't do this while the Chime Tower is open for judging."
+to french "Vous ne pouvez faire cela pendant que le support à carillon est ouvert au jugement.";
+
+translate "The tower supports a maximum of N1 tracks."
+to french "Le support peut porter un maximum de N1 pistes.,";
+
+translate "Install Chime"
+to french "Installer le carillon";
+translate "Install Chime:"
+to french "Installer le carillon:";
+
+translate "Track Editor:"
+to french "Editeur de pistes:";
+
+translate "Track Editor"
+to french "Editeur de pistes";
+
+translate "Delicately touch the Windsong Tower"
+to french "Effleurer le carillon.";
+
+translate "Open Judging"
+to french "Soumettre à l'évaluation";
+
+translate "Close Judging"
+to french "Terminer l'évaluation";
+
+translate "Are you sure you want to close this? Doing so will wipe out all judgment points."
+to french "Voulez-vous vraiment fermer l'évaluation? Le faire effacera tous les votes accumulés.";
+
+translate "Start the Test of the Windsong"
+to french "Commencer l'Épreuve de la Mélodie du Vent";
+
+translate "You sign up for the Test of the Windsong and learn to build a Windsong Tower."
+to french "Vous vous inscrivez à l'Épreuve de la Mélodie du Vent et apprenez comment construire un support à carillon.";
+
+translate "Chime Tower"
+to french "Support à carillon";
+
+translate "Copper Wire (Chime Attachments)"
+to french "Fils de cuivre (pour suspendre le carillon)";
+
+translate "Steel Wire (Chime support)"
+to french "Fils d'acier (Pour supporter le carillon)";
+
+translate "Iron Bars (Main Support Rod)"
+to french "Barre de fer (Tige de support principal)";
+
+translate "Cut Stone (Counterweight for base)"
+to french "Pierre taillée (Contrepoids pour la base)";
+
+translate "Concrete (Base)"
+to french "Bétons (Base)";
+
+translate "Amanti Turquoise (Decoration)"
+to french "Turquoises Pierre des amants (Decoration)";
+
+translate "Amanti Garnet (Decoration)"
+to french "Grenats Pierre des amants (Decoration)";
+
+translate "Dragyn's Eye"
+to french "Oeils de Dragyn";
+
+translate "Dragyn's Eye Amethyst (Decoration)"
+to french "Améthystes Oeil de Dragyn (Decoration)";
+
+translate "Dragyn's Eye Lapis (Decoration)"
+to french "Lapis Oeil de Dragyn (Decoration)";
+
+translate "Appolonia gem of any type (Decoration)"
+to french "Pierres quelconques de type Appolonia (Decoration)";
+
+translate "To build a Chime Tower you need:"
+to french "Pour construire un support à carillon, vous avez besoin de:";
+
+translate "Delete track "
+to french "Effacer la piste ";
+
+
+
+
+
+
+
+
+
+
+

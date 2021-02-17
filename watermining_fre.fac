@@ -1,0 +1,62 @@
+module watermining_fre;
+
+translate WaterMining to french masculine
+{
+  ns "Forage à l'eau"; np "Forage à l'eau";
+}
+
+translate WaterMine to french feminine
+{
+  ns "Mine à eau"; np "Mines à eau";
+}
+
+translate "A novel method of extracting gems from the mud near shorelines."
+to french "Une méthode innovante d'extraction de pierres précieuses dans la boue pres des côtes.";
+
+translate "WaterMining (Completed)"
+to french "Forage à l'eau (Achevé)";
+
+translate "You study a method for shaping glass tubes into a giant spring-loaded glass helix to churn the mud, and look for gems."
+to french "Vous étudiez une méthode pour monter une hélice d'arrosage à partir de tubes en verre pour ramollir la beau et découvrir des pierres précieuses.";
+
+translate "Water Mine"
+to french "Mine à eau";
+
+translate "To build a Water Mine, you need: "
+to french "Pour construire une mine à eau, il vous faut :";
+
+translate "Water Mines must be built directly adjacent to water."
+to french "Les mines à eau doivent être construites juste à côté de l'eau.";
+
+translate "No good place to build."
+to french "L'endroit ne convient pas.";
+
+translate "You're close enough to another water mine that they may interfere with each other. Build here anyway?"
+to french "Vous êtes trop près d'une autre mine, les deux peuvent se nuire mutuellement. Voulez-vous tout de même continuer ?";
+
+translate "Wind the collar spring"
+to french "Remonter le ressort";
+
+translate "Pitch Angle is N1"
+to french "Angle d'arrosage : N1";
+
+translate "Listen to the mechanism"
+to french "Ecouter dans les tuyaux";
+
+translate "It sounds like the seashore. Wind the spring, and then listen."
+to french "Vous entendez la mer. Remontez le ressort, et écoutez à nouveau.";
+
+translate "You hear the telltale tinkling of gems striking the mechanism."
+to french "Vous entendez le tintement caractéristique des pierres précieuses contre le verre.";
+
+translate "Aside from the unwinding of the spring in the collar, you hear nothing."
+to french "A part le bruit du ressort qui se déroule, vous n'entendez rien.";
+
+translate "Set the Pitch"
+to french "Déterminer l'angle";
+
+translate "Angle of N1"
+to french "Angle de N1";
+
+translate "Pitch is now set to N1"
+to french "L'angle est maintenant de N1";

@@ -1,0 +1,127 @@
+module interface_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**             German Version: Astrid "Infinyti" Werner                  **
+//**                             2011                                      **
+//**                                                                       **
+//***************************************************************************
+
+//Ingame Inventar / Fähigkeiten (Anfang)-----------------------------------------------------
+
+translate "Inventory"
+to german "Inventar";
+	
+translate "Skills"
+to german "Fertigkeiten";
+
+translate "Weight: N1"
+	to german "Last: N1";
+
+translate "Bulk: N1"
+	to german "Volumen: N1";
+
+//Ingame Inventar / Fähigkeiten (Ende)-------------------------------------------------------
+
+translate "Cicadas"
+	to german "Zikaden";
+
+translate "Cicada Cages"
+	to german "Zikadenkäfige";
+
+translate "Hit Points"
+	to german "Trefferpunkte";
+
+translate "Experience"
+	to german "Erfahrung";
+
+translate "Attack"
+	to german "Angriff";
+
+translate "Oenology"
+	to german "Weinkunde";
+
+translate "Fumeology"
+	to german "Rauchkunde";
+
+translate "You don't have any O1."
+	to german "Du hast keine O1(pn).";
+
+translate "You can't add any more O1."
+	to german "Du kannst nicht noch mehr O1(pn) hinzufügen.";
+
+translate "You couldn't put any more O1 in the O2."
+	to german "Du kannst nicht mehr O1(pn) in O2(tsn) O2(sn) tun.";
+
+translate "You don't have N1 O1."
+	to german "Du hast keine N1 O1(N1?pd:sd).";
+
+translate "You couldn't put any more O1 in the O2."
+to german "Du kannst nicht mehr O1(pn) in O2(tsn) O2(sn) tun.";
+
+translate "You could only put N1 of the O1 in the O2."
+to german "Du kannst nur N1 O1(N1?tpn:tsn) O1(N1?pn:sn) in O2(tsn) O2(sn) tun.";
+
+translate "You have acquired your first item.\n"
+	to german "Du hast deinen ersten Gegenstand erhalten.";
+
+translate "You can see what items you are carrying by clicking the `Items` tab now at the bottom left of your screen.\n"
+	to german "Jetzt kannst du sehen, welche Gegenstände du mit dir trägst, indem du auf den 'Inventar' Tab in deinem linken, unteren Screen drückst.";
+
+translate "You have learned your first skill.\n"
+	to german "Du hast deine erste Fähigkeit erlernt.";
+
+translate "You can learn different skills at the different Schools and Universities of Egypt.\n"
+	to german "Du kannst verschiedene Fertigkeiten an unterschiedlichen Schulen und Universitäten Ägyptens erlernen.";
+
+translate "Stats determine how quickly you recover from hard tasks.\n"
+	to german "Werte wie Stärke, Ausdauer usw. entscheiden, wie schnell du dich von harter Arbeit erholst.";
+
+translate "By passing Tests in the Discipline of the Human Body you can permanently increase them, and there are numerous ways to temporarily increase them.\n"
+	to german "Indem man Test in der Disziplin des menschlichen Körpers absolviert, kann man Werte dauerhaft erhöhen. Es gibt aber auch viele Wege, dies nur für kurze Zeit zu erhöhen.";
+
+translate "You can view your skills and stats by clicking on the `Skills` tab now at the bottom left of your screen.\n"
+	to german "Du findest deine Fertigkeiten und Werte, indem auf auf den `Fertigkeiten` Tab in der linken unteren Bildschirmecke klickst.";
+
+translate "Options"
+	to german "Optionen";
+
+translate "Utility"
+	to german "Nützliches";
+
+translate "Little Window"
+	to german "Kleines Fenster";
+
+translate "Show Principle Tabs"
+	to german "Zeige Prinzipien-Tabs";
+
+translate "Hide Principle Tabs"
+	to german "Verberge Prinzipien-Tabs";
+
+translate "Clock"
+	to german "Uhr";
+
+translate "Clockloc"
+	to german "Uhr-Koords";
+
+translate "Hide"
+	to german "Verbergen";
+
+translate "Toggle UI"
+	to german "Oberfläche wechseln";
+
+translate "Toggle Inventory"
+	to german "Inventar wechseln";
+
+translate "Toggle Chat"
+	to german "Chat wechseln";
+
+translate "Toggle Icons"
+	to german "Icons wechseln";
+
+translate "Hide Interface"
+	to german "Oberfläche verbergen";
+
+translate "F12 Hides the interface. You can press F12 again to restore it. Are you sure you wish to hide the interface?"
+	to german "F12 verbirgt die Oberfläche. Um es rückgängig zu machen, kannst du erneut F12 drücken. Bist du sicher, dass du die Oberfläche verbergen möchtest?";

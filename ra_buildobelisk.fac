@@ -1,0 +1,56 @@
+Module RABuildObelisk;
+
+RegionalActivity RABuildObelisk<"Build Obelisks">;
+
+default World.RQSpecificActivitySettingMin[*, RABuildObelisk] = 5;
+default World.RQSpecificActivitySettingMax[*, RABuildObelisk] = 50;
+
+subroutine GetTaskDescription(region) of RABuildObelisk {
+	if (IsA(World.RQSpecificActivityType[region, RABuildObelisk], ATFirst)) {
+		return (String("First House to build a size ", World.RQWeeklyMax[region, RABuildObelisk], " Event Obelisk"));
+	}
+	if (IsA(World.RQSpecificActivityType[region, RABuildObelisk], ATHouse)) {
+		return (String("House with the tallest Event Obelisk"));
+	}
+	if (IsA(World.RQSpecificActivityType[region, RABuildObelisk], ATCoop)) {
+		return (String("Build a size ", World.RQWeeklyMax[region, RABuildObelisk], " Event Obelisk"));
+	}
+
+	return ("Unknown Objective [RABuildObelisk]");
+}
+
+subroutine PickAsActivity(region) of RABuildObelisk {
+	--Only allow a yes if at least can make a Cut Stone Obelisk
+	if (World.MaxSkillLevel[ObeliskConstruction] >= 2) {
+		var result = TRTwister(0, 1);
+		if (result) {
+
+			var choice = TRTwister(1, 9);
+			if (choice <= 3) {
+				PostAssign(World.RQSpecificActivityType[region, RABuildObelisk], ATFirst);
+				PostAssign(World.RQWeeklyMax[region, RABuildObelisk], TRTwister(World.RQSpecificActivitySettingMin[region, RABuildObelisk], World.RQSpecificActivitySettingMax[region, RABuildObelisk]));
+			} else if (choice <= 6) {
+				PostAssign(World.RQSpecificActivityType[region, RABuildObelisk], ATHouse);
+				PostAssign(World.RQWeeklyMax[region, RABuildObelisk], -1);
+			} else {
+				PostAssign(World.RQSpecificActivityType[region, RABuildObelisk], ATCoop);
+				PostAssign(World.RQWeeklyMax[region, RABuildObelisk], TRTwister(World.RQSpecificActivitySettingMin[region, RABuildObelisk], World.RQSpecificActivitySettingMax[region, RABuildObelisk]));
+			}
+
+			return (1);
+		}
+	}
+
+	return (0);
+}
+
+subroutine TriggerActivity(amount, extraData) of RABuildObelisk {
+--This routine is not required as the onbuildcomplete trigger will set the tallest for the event
+--	var region = Actor->GetCurrentRegion();
+
+--	if (contains(World.HouseHomeRegions[Actor.House], region)) {
+--		amount = amount * 2;
+--	}
+
+--	Actor.RAActivityBuffer[RABuildObelisk, region, Actor.House] += amount;
+}

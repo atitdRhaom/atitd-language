@@ -1,0 +1,16 @@
+module eventdig_fre;
+
+
+translate "Unearthed N1 items during the event"
+to french "N1 items d�terr�s pendant l'�v�nement";
+
+translate "Score N1 from N2 peers, N3 items."
+to french "R�sultats N1 de N2 �quipiers, N3 items.";
+
+translate "Show my Dig Score"
+to french "Montrer mes r�sultats de creusage";
+
+translate "Score: N1 (N2 items, N3 peers)"
+to french "Score: N1 (N2 items, N3 co�quipiers)";
+translate "Founder Points: N4"
+to french "Points d'organisateur: N4";

@@ -1,0 +1,400 @@
+Module testofka_fre;
+
+translate Ka to french feminine
+{
+	ns "L'épreuve du Kâ"; np "L'épreuve du Kâ";
+	}
+
+translate KaTomb to french feminine
+{
+	ns "Tombe du Kâ"; np "Tombes du Kâ";
+	}
+	
+translate KaBabi to french feminine
+{
+	ns "Boîte de Kâ : Babi"; np "Babi";
+	}
+translate KaNunet to french feminine
+{
+	ns "Boîte de Kâ : Nunet"; np "Nunet";
+	}
+translate KaSopdu to french feminine
+{
+	ns "Boîte de Kâ : Sopdu"; np "Sopdu";
+	}
+translate KaKheper to french feminine
+{
+	ns "Boîte de Kâ : Kheper"; np "Kheper";
+	}
+translate KaMafdet to french feminine
+{
+	ns "Boîte de Kâ : Mafdet"; np "Mafdet";
+	}
+translate KaMeret to french feminine
+{
+	ns "Boîte de Kâ : Meret"; np "Meret";
+	}
+translate KaAker to french feminine
+{
+	ns "Boîte de Kâ : Aker"; np "Aker";
+	}
+
+translate KaShrine to french masculine
+{
+	ns "Autel du Kâ"; np "Autels du Kâ";
+	}
+	
+translate FragileCog to french masculine
+{
+	ns "Rouage fragile"; np "Rouages fragiles";
+	}
+
+translate GoldenCog to french masculine
+{
+	ns "Rouage doré"; np "Rouages dorés";
+	}
+	
+translate UnfinishedSarcophagus to french masculine
+{
+	ns "Sarcophage inachevé"; np "Sarcophages inachevés";
+	}
+	
+translate Sarcophagus to french masculine
+{
+	ns "Sarcophage"; np "Sarcophages";
+	}
+	
+translate silkpanels to french masculine
+{
+	ns "Panneau de soie"; np "Panneaux de soie";
+	}
+
+translate KaBoxPanel to french masculine
+{
+	ns "Refuge du Kâ"; np "Refuges du Kâ";
+	}
+	
+translate HolyOil to french feminine
+{
+	ns "Huile sainte"; np "Huiles saintes";
+	}
+	
+translate RitualOfHolyOil to french masculine
+{
+	ns "Rituel de l'huile sainte"; np "Rituels de l'huile sainte";
+	}
+
+translate "Sealed" to french "Scellée";
+
+translate kavice to french masculine
+{ ns "Support pour boîte de Kâ"; np "Supports pour boîtes de Kâ";}
+
+translate "To build this Ka Box Vice, you need:"
+to french "Pour construire ce support pour boîte de Kâ, il vous faut :";
+
+translate "To build this Ka Box, you need:"
+to french "Pour construire cette boîte de Kâ, il vous faut :";
+
+translate "This Ka Box was built prior to the current requirements."
+to french "Cette boîte de Ka a été construite avant les demandes actuelles";
+translate "O1: O2 O3"
+to french "O1(ns): O2(ns) O3(ns)";
+
+translate "Ka"
+to french "L'épreuve du Kâ";
+translate "Double Scoring for all boxes Built, Sealed and Saved during this Holy Hour"
+to french "Double score pour toutes les boîtes construites scellées et sauvées pendant cette heure sainte";
+
+translate "The ritual of Holy Oil requires two priests who are well versed in the acts of worship.  Failing this will be met with displeasure by the gods."
+to french "Le rituel de l'huile sainte nécessite 2 prêtres qui soient bien versés dans les actes d'adoration. Ce pré-requis non remplis serait reçu avec déplaisir par les dieux.";
+
+translate "Fill this Ka Box"
+to french "Remplir cette boîte de Kâ";
+
+translate "Examining the Ka Box..."
+to french "Inspection de la boîte de Ka...";
+
+translate "Dedicate this box to O1"
+to french "Dédier cette boîte à O1(ns)";
+
+translate "K1 O1"
+to french "K1 O1(ns)";
+
+translate "Pledge for next week: N1"
+to french "Promesse pour la prochaine semaine : N1";
+
+translate "Look inside the Tomb"
+to french "Regarder à l'intérieur de la tombe";
+
+translate "Make a pledge for next week"
+to french "Faire une promesse pour la prochaine semaine";
+
+translate "N1 O1: O2: O3 O4"
+to french "N1 O1(ns): O2(ns): O3(ns) O4(ns)";
+
+translate "You have placed N1 Ka Boxes in your Tomb this week:"
+to french "Vous avez placé N1 boîtes de Ka dans votre tombe cette semaine : ";
+
+translate "Pledge how many boxes to the gods?"
+to french "Promettre combien de boîtes pour les dieux ?";
+
+translate "N1 for O1"
+to french "N1 pour O1(ns)";
+
+translate "You have pledged at least N1 total Boxes this week."
+to french "Vous aviez promis un total d'au moins N1 boîtes pour cette semaine";
+
+translate "You have pledged at least N1 Boxes for next week."
+to french "Vous avez promis un total d'au moins N1 boîtes pour la semaine prochaine.";
+
+translate "Your score, not counting boxes placed this week, is N1"
+to french "Votre score, sans compter les boîtes placées cette semaine est de N1.";
+
+translate "You have made N1 progressions in the Test of Ka."
+to french "Vous avez avancé N1 fois dans l'épreuve du Kâ.";
+
+translate "Save a Ka Box for the Afterlife"
+to french "Stocker une boîte de Kâ pour la Vie après la Mort";
+
+translate "Gently placing the Box in your Tomb"
+to french "Vous placez la boîte délicatement dans votre tombe";
+
+translate "Priest #1 will require 500 oil to convert into Holy Oil."
+to french "Le prêtre 1 aura besoin de 500 huiles à transformer en Huile sainte.";
+
+translate "To consecrate Holy Oil:\n"
+to french "Pour consacrer de l'huile sainte:\n";
+
+translate "    Priest #1: Small Diamond on Left Pillar"
+to french "    Prêtre n°1: Petit diamant sur pillier gauche";
+
+translate "    Priest #2: Small Emerald on Right Pillar"
+to french "    Prêtre n°2: Petite émeraude sur pillier droit";
+translate "    Priest #1: Oil on Left Focus"
+to french "    Prêtre n°1: huile sur plateau gauche";
+translate "    Priest #2: Oil on Right Focus"
+to french "    Prêtre n°2: Huile sur plateau droit";
+translate "    Priest #1: Meditate on Altar"
+to french "    Prêtre n°1: Méditer sur l'autel";
+translate "    Priest #2: Meditate on Altar"
+to french "    Prêtre n°2: Méditer sur l'autel";
+
+translate "Test of Ka"
+to french "L'épreuve du Kâ";
+
+translate "Ritual of Holy Oil"
+to french "Rituel de l'huile sainte";
+
+translate "Rituals"
+to french "Rituels";
+
+translate "Prepare your place in the afterlife."
+to french "Préparez votre vie dans l'au delà.";
+
+translate "Make a fragile cog"
+to french "Forger un rouage fragile";
+translate "Make a Sarcophagus"
+to french "Forger un sarcophage";
+translate "Make any treated metal"
+to french "Traiter n'importe quel métal";
+translate "Make a papyrus basket"
+to french "Tisser un panier en papyrus";
+translate "Build a Ka Tomb"
+to french "Edifier une Tombe du Kâ";
+translate "Meditate on your Ka Tomb"
+to french "Méditer sur votre tombe";
+translate "Make Colored Silk Panels"
+to french "Fabriquer des panneaux de soie colorée";
+translate "Make a Ka Box"
+to french "Fabriquer un Refuge du Kâ";
+translate "Place a Ka Box in your Ka Tomb"
+to french "Placer le Refuge du Kâ dans la tombe";
+
+translate "You have completed Principles of Ka.  If you choose, you may now work to prepare your place in the afterlife by competing in the Test of Ka."
+to french "Vous avez terminé les Principes du Ka. Si vous le désirez, vous pouvez dès à présent commencer à préparer votre vie dans l'au delà en accomplissant l'épreuve du Ka.";
+
+translate "Ka is the Egyptian life-force. You must prepare a place for Ka in order to secure your place in the afterlife. This will be achieved by building your tomb and filling it with the required materials to sustain your Ka until it can be reunited with the gods. Only the most prepared will be guaranteed a place with the gods. Don't be prideful lest the gods punish you."
+to french "Le Kâ représente la force de la vie à l'égyptienne. Il vous faut en prendre soin pour être sûr d'avoir une place dans le royaume de l'au-delà. Pour ce faire, édifiez votre tombe et entreposez-y les matériaux requis pour subvenir aux besoin de votre Kâ jusqu'à ce qu'il puisse rejoindre les dieux. Seuls les mieux préparés auront leur place parmi les divinités. Ayez crainte, faire preuve d'un orgueil démesuré pourrait attirer les foudres des dieux.";
+
+translate "Expand this Ka Tomb"
+to french "Agrandir cette Tombe du Kâ";
+
+translate "Ka Tomb"
+to french "Tombe du Kâ";
+
+translate "Ka Tombs must be built in the desert."
+to french "Les tombes du Kâ doivent être situées en plein désert.";
+
+translate "Ka Tombs must be isolated from the distractions of the living.  There are too many things nearby."
+to french "Les Tombes du Kâ doivent être situées dans un endroit isolé. Il y a trop de signes de vie aux alentours.";
+
+translate "Ka Tombs must be isolated from the distractions of the living.  There are too many things nearby.  A:"
+to french "Les Tombes du Kâ doivent être situées dans un endroit isolé. Il y a trop de signes de vie aux alentours. A:";
+
+translate "Ka Tombs must be isolated from the distractions of the living.  There are too many things nearby.  B:"
+to french "Les Tombes du Kâ doivent être situées dans un endroit isolé. Il y a trop de signes de vie aux alentours. B:";
+
+translate "To build a Ka Tomb you need:"
+to french "Pour édifier une Tombe du Kâ, il vous faut :";
+
+translate "Ka Shrine"
+to french "Autel du Kâ";
+
+translate "To build a Ka Shrine you need:"
+to french "Pour construire un autel du Kâ, il vous faut :";
+
+translate "Make a Fragile Cog"
+to french "Forger un rouage fragile";
+translate "To make a Fragile Cog, you need:"
+to french "Pour forger un rouage fragile, il vous faut :";
+translate "This O1 is Making a Fragile Cog"
+to french "O1(^cns) O1(ns) fabrique un rouage fragile";
+translate "Fragile Cog will be done in K1"
+to french "Votre rouage fragile sera prêt dans K1";
+translate "Your fragile cog is ready."
+to french "Votre rouage fragile est prêt.";
+
+translate "Make an Unfinished Sarcophagus"
+to french "Forger un sarcophage inachevé";
+translate "To make an unfinished sarcophagus, you need:"
+to french "Pour fabriquer un sarcophage inachevé, il vous faut :";
+translate "This O1 is Making an unfinished sarcophagus"
+to french "O1(^cns) O1(ns) fabrique un sarcophage fragile";
+translate "Unfinished Sarcophagus will be done in K1"
+to french "Votre sarcophage inachevé sera prêt dans K1";
+translate "Your unfinished sarcophagus is ready."
+to french "Votre sarcophage inachevé est prêt.";
+
+translate "Finish a Sarchophagus"
+to french "Finaliser un sarcophage";
+translate "You need 200 Gold Foil to complete your Sarcophagus."
+to french "Il vous faut 200 feuilles d'or pour finaliser votre sarcophage.";
+translate "This O1 is Inlaying Gold Foil on Sarcophagus"
+to french "O1(^cns) O1(ns) incruste les feuilles d'or sur le sarcophage.";
+translate "Sarcophagus will be done in K1"
+to french "Votre sarcophage sera prêt dans K1";
+translate "Your sarcophagus is ready."
+to french "Votre sarcophage est prêt.";
+
+translate "Make a set of 10 Fragile Cogs"
+to french "Forger une série de 10 rouages fragiles";
+translate "Your fragile cogs are ready."
+to french "Vos rouages fragiles sont prêts.";
+
+translate "You must let the bonfire burn out on it's own."
+to french "Vous devez laisser le bûcher se consummer de lui-même.";
+
+translate "Capacity: N1 Ka Boxes."
+to french "Capacité : N1 refuges du Kâ.";
+
+translate "Meditate on my Ka Box Requirements"
+to french "Méditer sur les pré-requis pour mon Refuge du Kâ";
+
+translate "Boxes for O1 must be made from: "
+to french "Les refuges dédiés à O1(ns) doivent être faits de : ";
+
+translate "     N1 O1: O2"
+to french "     N1 O1(N1?np:ns) : O2(ns)";
+
+translate "     N1 O1"
+to french "     N1 O1(N1?np:ns)";
+
+translate "      Each box must contain: N1 O1"
+to french "      Chaque refuge doit contenir : N1 O1(N1?np:ns)";
+
+translate "To expand this Ka Tomb, you need:"
+to french "Pour agrandir cette Tombe du Kâ, il vous faut :";
+
+translate "Terrain isn't flat enough to build a Ka Tomb"
+to french "Le terrain n'est pas suffisament plat pour y construire une Tombe du Kâ";
+
+translate "Cut Ribbons into Colored Silk Panels:"
+to french "Tailler des rubans en panneaux de soie colorée :";
+
+translate "You do not have any O1:K1"
+to french "Vous n'avez pas de O1(ns) : K1";
+
+translate "Unknown God specified.  Please contact a developer."
+to french "Dieu inconnu. Veuillez contacter un développeur.";
+
+translate "Invalid god passed to GetKaBoxReqs.  Contact a Developer."
+to french "GetKaBoxReqs non valable. Veuillez contacter un développeur.";
+
+translate "Anoint a Fragile Cog"
+to french "Enduire un rouage fragile";
+translate "You need a Fragile Cog to annoint"
+to french "Il vous faut un rouage fragile à enduire";
+translate "There isn't a Fragile Cog on the Ka Shrine to anoint."
+to french "Il n'y a aucun rouage fragile à enduire sur l'Autel du Kâ";
+
+translate "You need Holy Oil in order to anoint Fragile Cogs"
+to french "Il vous faut de l'huile sainte pour enduire un rouage fragile";
+
+translate "You can only anoint one cog for every K1 Ka Boxes that you create and store in your Ka Tomb.  You need K2 more."
+to french "Vous ne pouvez enduire qu'un rouage pour chaque K1 refuges du Kâ que vous créez et entreposez dans votre Tombe du Kâ. Il vous en faut K2 de plus.";
+
+translate "N1"
+to french "N1";
+
+translate "Evaluate spot for a Ka Shrine"
+to french "Jauger si cet endroit est convenable pour un Autel du Kâ";
+
+translate "This location is a good spot for a Ka Shrine"
+to french "Cet endroit est idéal pour y ériger un Autel du Kâ";
+
+translate "The area is not suitable to build a Ka Shrine:"
+to french "Cet endroit ne convient pas à l'édification d'un Autel du Kâ :";
+
+translate "You must build a Ka Shrine on a mountain top"
+to french "Vous devez bâtir l'Autel du Kâ au sommet d'une montagne";
+translate "Ka Shrines must be built on rock or sand."
+to french "Les Autels du Kâ doivent être bâtits sur un sol rocheux ou sablonneux.";
+translate "Terrain isn't flat enough to build a Ka Shrine"
+to french "Le terrain n'est pas assez plat pour y ériger un Autel du Kâ";
+translate "Ka Shrines must be built in the desert."
+to french "Les Autels du Kâ doivent être construits dans le désert.";
+
+translate "The area is not suitable to build a Ka Shrine: You must build a Ka Shrine on a mountain top"
+to french "Cet endroit ne convient pas à l'édification d'un Autel du Kâ : Vous devez bâtir l'Autel du Kâ au sommet d'une montagne";
+translate "The area is not suitable to build a Ka Shrine: Ka Shrines must be built on rock or sand."
+to french "Cet endroit ne convient pas à l'édification d'un Autel du Kâ : Les Autels du Kâ doivent être bâtits sur un sol rocheux ou sablonneux.";
+translate "The area is not suitable to build a Ka Shrine: Terrain isn't flat enough to build a Ka Shrine"
+to french "Cet endroit ne convient pas à l'édification d'un Autel du Kâ : Le terrain n'est pas assez plat pour y ériger un Autel du Kâ";
+translate "The area is not suitable to build a Ka Shrine: Ka Shrines must be built in the desert."
+to french "Cet endroit ne convient pas à l'édification d'un Autel du Kâ : Les Autels du Kâ doivent être construits dans le désert.";
+
+translate "Place a Fragile Cog on the Ka Shrine"
+to french "Placer un rouage fragile sur l'Autel du Kâ";
+
+translate "Make an Ka Box"
+to french "Forger un Refuge du Kâ";
+
+translate "Box dedicated to O1"
+to french "Refuge dédié à O1(ns)";
+
+translate "Tongs Require 18 Gold Plated Titanium,"
+to french "Les pincettes nécessite 18 titanes plaqués d'or,";
+translate "(Stainless, Insulative, and Non Toxic),"
+to french "(Inoxydable, Isolant et Non-toxique),";
+translate " of Purity 3 or higher"
+to french " avec une pureté de 3 ou plus";
+
+translate "That item does not have the correct requirements."
+to french "Cet objet ne possède pas les caractéristiques requises.";
+
+translate "No progressions in the Test of Ka. Egypt recognizes K1 for passing the Test of Ka."
+to french "Aucune progression dans le Test de Ka. L'Egypte reconnait K1 pour avoir passé l'épreuve du Ka";
+translate "No progressions in the Test of Ka. No advances in the test of Ka"
+to french "Aucune progression dans l'épreuve du Ka. Aucun avancement dans cette épreuve";
+
+translate "Egypt recognizes K1 for making progress in the Test of Ka."
+to french "L'Egypte reconnait la progression de K1 dans l'épreuve du Kâ.";
+translate "No passes in the Test of Ka."
+to french "Aucun passage pour l'épreuve du Kâ.";
+
+translate "You have now honored O1 with N1 offering, or the equivalent thereof."
+to french "Vous avez maintenant honoré O1(ns) avec N1 offrandes ou équivalent.";
+
+translate "Note: Be sure to always build Ka Vices only when you need them. Ka Vices collapse when the Gods change their Ka requirements."
+to french "Note : Assurez vous de toujours construire les boites de Ka uniquement lorsque vous en avez besoin. Les boites de Ka disparaissent lorsque les dieux changent leurs exigences.";
+

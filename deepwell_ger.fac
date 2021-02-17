@@ -1,0 +1,136 @@
+module deepwell_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment		           **
+//**                                                                       **
+//***************************************************************************
+//menues
+
+translate "Build a Deep Well"
+to german "Baue einen Tiefenbohrer";
+
+translate "Spring Tension is N1"
+to german "Federspannung ist N1";
+
+translate "Depth is N1"
+to german "Tiefe ist N1";
+
+translate "Water Level is N1"
+to german "Wasserhöhe ist N1";
+
+translate "Fill jugs with water"
+to german "Fülle Krüge mit Wasser";
+
+//objects
+translate Oil to german neutercollechtive
+{
+  swa "Öl";
+  sn "Öl"; sg "Öls"; sd "Öl"; sa "Öl";
+  pn "Öle"; pg "Öle"; pd "Ölen"; pa "Öle";
+}
+translate Leather to german neutercollective
+{
+  swa "Leder";
+  sn "Leder"; sg "Leders"; sd "Leder"; sa "Leder";
+  pn "Leder"; pg "Leder"; pd "Ledern"; pa "Leder";
+}
+translate Granite to german neutercollective
+{
+  swa "Granit";
+  sn "Granit"; sg "Granites"; sd "Granit"; sa "Granit";
+  pn "Granit"; pg "Granit"; pd "Graniten"; pa "Granit";
+}
+translate DeepWell to german masculine
+{
+  swa "Tiefenbohrer";
+  sn "Tiefenbohrer"; sg "Tiefenbohrers"; sd "Tiefenbohrer"; sa "Tiefenbohrer";
+  pn "Tiefenbohrer"; pg "Tiefenbohrer"; pd "Tiefenbohrern"; pa "Tiefenbohrer";
+}
+translate DeepWell2 to german masculine
+{
+  swa "Tiefenbohrer";
+  sn "Tiefenbohrer"; sg "Tiefenbohrers"; sd "Tiefenbohrer"; sa "Tiefenbohrer";
+  pn "Tiefenbohrer"; pg "Tiefenbohrer"; pd "Tiefenbohrern"; pa "Tiefenbohrer";
+}
+
+translate Tar to german masculinecollective
+{
+  swa "Teer";
+  sn "Teer"; sg "Teeres"; sd "Teer"; sa "Teer";
+  pn "Teer"; pg "Teer"; pd "Teeren"; pa "Teer";
+}
+translate OilyWater to german neutercollective
+{
+  swa "öliges Wasser";
+  sn "ölige Wasser"; sg "öligen Wassers"; sd "öligen Wasser"; sa "öligen Wasser";
+  pn "öligen Wasser"; pg "öligen Wasser"; pd "öligen Wassern"; pa "öligen Wasser";
+}
+translate Petroleum to german neutercollective
+{
+  swa "Petroleum";
+  sn "Petroleum"; sg "Petroleums"; sd "Petroleum"; sa "Petroleum";
+  pn "Petroleum"; pg "Petroleum"; pd "Petroleum"; pa "Petroleum";
+}
+
+//texts
+
+translate "Deep wells not allowed in dev sessions."
+to german "Tiefenbohrer sind in Entwicklungs-Sessions nicht erlaubt.";
+
+translate "To build a Deep Well, you need: "
+to german "Um einen Tiefenbohrer zu bauen benötigst du: ";
+
+translate "Wind the well spring"
+to german "Ziehe die Bohrfeder auf";
+
+translate "Repair this Deep Well"
+to german "Repariere den Tiefenbohrer";
+
+translate "Convert this Deep Well into a shaft"
+to german "Passe diesen Tiefenbohrer in einen Schacht ein";
+
+translate "You don't have the strength to wind the deep well any further."
+to german "Du hast nicht die Kraft, den Tiefenbohrer weiter aufzuziehen.";
+
+translate "Drilling deep into the ground"
+to german "Drehe tief in den Boden hinein";
+
+translate "To repair a deep well, you need: "
+to german "Um den Tiefenbohrer zu reparieren benötigst du: ";
+
+translate "To convert this deep well to a shaft, you need: "
+to german "Um den Tiefenbohrer in einen Schacht anzupassen benötigst du: ";
+
+translate "Are you sure you want to tear down this Deep Well?"
+to german "Bist du sicher, dass du diesen Tiefenbohrer abreißen willst?";
+
+translate "The well spring is as tight as you can get it."
+to german "Du hast die Bohrfeder so weit aufgezogen, wie du konntest.";
+
+translate "With your strength, you wind the well spring by N1."
+to german "Mit deiner Kraft ziehst du die Bohrfeder um N1 auf.";
+
+translate "The deep well brought up a scrap of gold."
+to german "Der Tiefenbohrer hat Gold gefördert.";
+
+translate "The deep well brought up a Large Sapphire."
+to german "Der Tiefenbohrer hat einen großen Saphir gefördert.";
+
+translate "The deep well brought up a Huge Ruby."
+to german "Der Tiefenbohrer hat einen riesigen Rubin gefördert.";
+
+translate "How many jugs? (max N1)"
+to german "Wieviele Krüge? (Max N1)";
+
+translate "You don't have that many jugs."
+to german "Du hast nicht soviele Krüge.";
+
+translate "Not enough water in the tank."
+to german "Nicht genug Wasser im Tank.";
+
+translate "The high pressure of the water spigot causes a huge spray of water to soak the surrounding area!"
+to german "Der hohe Druck auf den Wasserhahn verursacht einen riesigen Wasserausbruch und tränkt die umliegende Gegend!";
+

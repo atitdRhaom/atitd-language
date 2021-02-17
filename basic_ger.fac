@@ -1,0 +1,200 @@
+Module Basic_Ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** 				German Version: Astrid "Infinyti" Werner 							**
+//**    								 2011                                        **
+//**                                                                       **
+//***************************************************************************
+
+//Nominativ: wer oder was?
+//Genitiv: wessen?
+//Dativ: wem?
+//Akkusativ: wen oder was?
+
+
+// Entity masculine, feminine, neuter, masculinecollective, femininecollective, neutercollective;
+
+Translate masculine to German
+{
+  dsn "der"; dsg "des"; dsd "dem"; dsa "den"; 
+  dpn "die"; dpg "der"; dpd "den"; dpa "die";
+
+  tsn "dieser"; tsg "dieses"; tsd "diesem"; tsa "diesen";
+  tpn "diese"; tpg "dieser"; tpd "diesen"; tpa "diese";
+
+  asn "ein"; asg "eines"; asd "einem"; asa "einen";
+
+  ksn "kein";   kpn "keine";
+}
+
+Translate feminine to German
+{
+  dsn "die"; dsg "der"; dsd "der"; dsa "die"; 
+  dpn "die"; dpg "der"; dpd "den"; dpa "die";
+
+  tsn "diese"; tsg "dieser"; tsd "dieser"; tsa "diese";
+  tpn "diese"; tpg "dieser"; tpd "diesen"; tpa "diese";
+
+  asn "eine"; asg "einer"; asd "einer"; asa "eine";
+
+  ksn "keine";  kpn "keine";
+}
+
+Translate neuter to German
+{
+  dsn "das"; dsg "des"; dsd "dem"; dsa "das"; 
+  dpn "die"; dpg "der"; dpd "den"; dpa "die";
+
+  tsn "dieses"; tsg "diesem"; tsd "diesem"; tsa "dieses";
+  tpn "diese"; tpg "dieser"; tpd "diesen"; tpa "diese";
+
+  asn "ein"; asg "eines"; asd "einem"; asa "ein";
+
+  ksn "kein"; kpn "keine";
+}
+
+Translate masculinecollective to German // For words like 'clay'
+{
+  dsn "der"; dsg "des"; dsd "dem"; dsa "den"; 
+  dpn "die"; dpg "der"; dpd "den"; dpa "die";
+
+  tsn "dieser"; tsg "dieses"; tsd "diesem"; tsa "diesen";
+  tpn "diese"; tpg "dieser"; tpd "diesen"; tpa "diese";
+
+  asn "ein"; asg "eines"; asd "einem"; asa "einen";
+  
+  ksn "kein"; kpn "keinen";
+}
+
+Translate femininecollective to German // For words like 'carrot'
+{
+  dsn "die"; dsg "der"; dsd "der"; dsa "die"; 
+  dpn "die"; dpg "der"; dpd "den"; dpa "die";
+
+  tsn "diese"; tsg "dieser"; tsd "dieser"; tsa "diese";
+  tpn "diese"; tpg "dieser"; tpd "diesen"; tpa "diese";
+
+  asn "eine"; asg "einer"; asd "einer"; asa "eine";
+
+  ksn "keine"; kpn "keine";
+}
+
+Translate neutercollective to German // For words like 'water'
+{
+  dsn "das"; dsg "des"; dsd "dem"; dsa "das"; 
+  dpn "die"; dpg "der"; dpd "den"; dpa "die";
+
+  tsn "dieses"; tsg "diesem"; tsd "diesem"; tsa "dieses";
+  tpn "diese"; tpg "dieser"; tpd "diesen"; tpa "diese";
+
+  asn "ein"; asg "eines"; asd "einem"; asa "einem";
+
+  ksn "kein"; kpn "keine";
+}
+
+translate "Cancel"
+to german "Abbruch";
+
+translate "Main"
+to german "Hauptkanal";
+
+translate "Immigrants"
+to german "Immigranten";
+
+translate "inventory"
+to german "Inventar";
+
+translate "This is your O1"
+to german "O1(^tsn) O1(sn) gehört dir.";
+
+translate "Do you really want to tear down the O1?"
+to german "Willst du O1(^tsn) O1(sn) wirklich abreißen?";
+
+translate "Tear this down by order of the Special Salvage law."
+to german "Reiße dies aufgrund des speziellen Bergungsgesetzes ab.";
+
+translate "U1 has left the channel."
+to german "U1(name) hat den Kanal verlassen!";
+
+translate "Take/O1 (N1)"
+to german "Nimm/O1(N1?pn:sn) (N1)";
+
+translate "Stash/O1 (N1)"
+to german "Lagere ein/O1(N1?pn:sn) (N1)";
+
+translate "O1 (N1)"
+to german "O1(N1?pn:sn) (N1)";
+
+translate "O1 N1"
+to german "O1(N1?pn:sn) N1";
+
+translate "N1 O1"
+to german "N1 O1(N1?pn:sn)";
+
+translate "N1 O1:K1"
+to german "N1 O1(N1?pn:sn):K1";
+
+translate "U1: N1"
+to german "U1(name): N1";
+
+translate "U1-N1"
+to german "U1(name)-N1";
+
+translate "  * N1 O1"
+to german "  * N1 O1(N1?pa:sa)";
+
+translate "O1:K1"
+to german "O1(sn):K1";
+
+translate "O1 O2"
+to german "O1(pn) O2(pn)";
+ 
+translate "O1 O2 O3"
+to german "O1(pn) O2(pn) O3(pn)";
+ 
+translate "O1 O2 O3 O4"
+to german "O1(pn) O2(pn) O3(pn) O4(pn)";
+ 
+translate "O1 O2 O3 O4 O5"
+to german "O1(pn) O2(pn) O3(pn) O4(pn) O5(pn)";
+ 
+translate "U1"
+to german "U1(name)";
+
+translate "O1:Nile Green"
+to german "O1(sn): Nilgrün";
+
+translate "O1:Old Egypt"
+to german "O1(sn): Altägypten";
+
+translate "Downloading N1kb"
+to german "Lade N1kb";
+
+translate "Downloading N1k"
+to german "Lade N1k";
+
+translate "Patching N1 files"
+to german "Erneuere N1 Dateien";
+
+translate "Processing..."
+to german "Bearbeite...";
+
+translate "O1"
+to german "O1(^swa)";
+
+translate "Pick up the O1"
+to german "Hebe O1(tsa) O1(sa) auf";
+
+translate "O1 (Completed)"
+to german "O1(sn) (Komplett)";
+
+translate "O1 (Current Level: N1)"
+to german "O1(sn) (Aktuelles Level: N1)";
+
+translate "O1 (Level N1)"
+to german "O1(sn) (Level N1)";
+
+translate "O1 (Level: N1)"
+to german "O1(sn) (Level: N1)";

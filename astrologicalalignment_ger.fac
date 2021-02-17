@@ -1,0 +1,153 @@
+module AstrologicalAlignment_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment	                   **
+//**                                                                       **
+//***************************************************************************
+//menues
+
+translate "Study/Astrological Rituals/Ritual of Astrological Alignment"
+to german "Lerne/Astrologische Rituale/Ritual der astrologischen Ausrichtung";
+
+translate "alignment"
+to german "Ausrichtung";
+
+translate "Global Astro Count is now "
+to german "Globaler Astro Stand ist nun ";
+
+translate "Running CheckAstro on CommonAltar"
+to german "Astro wird vom Gewöhnlichen Altar geprüft";
+
+translate "Running CheckAstro on UWorship"
+to german "Astro wird von der UVerehrung geprüft";
+
+translate "Astrological Alignment/Verify alignment with U1's group"
+to german "Astrologische Ausrichtung/Prüfe die Ausrichtung mit U1(name)'s Gruppe";
+
+translate "Astrological Alignment/Verify alignment of your group"
+to german "Astrologische Ausrichtung/Prüfe die Ausrichtung Deiner Gruppe";
+
+translate "Tests/Start the Test of Astrological"
+to german "Tests/Beginne den Test der Astrologie";
+
+translate "remote view"
+to german "entfernter Blick";
+
+translate "Astrological Alignment"
+to german "Astrologische Ausrichtung";
+
+translate "Verify alignment with U1's group"
+to german "Prüfe die Ausrichtung mit U1(name)'s Gruppe";
+
+translate "Reset Astro"
+to german "Astro zurücksetzen";
+
+translate "Verify alignment of your group"
+to german "Prüfe die Ausrichtung Deiner Gruppe";
+
+translate "Start the Test of Astrological Alignment"
+to german "Starte den Test der astrologischen Ausrichtung";
+
+translate "Study"
+to german "Studieren";
+
+translate "Astrological Rituals"
+to german "Astrologische Rituale";
+
+translate "Ritual of Astrological Alignment"
+to german "Ritual der astrologischen Ausrichtung";
+
+
+//texts
+
+translate Alignment to german maculine
+{
+  swa "Test der Astrologischen Ausrichtung";
+  sn "Test der Astrologischen Ausrichtung"; sg "Test der Astrologischen Ausrichtung"; sd "Test der Astrologischen Ausrichtung"; sa "Test der Astrologischen Ausrichtung";
+  pn "Test der Astrologischen Ausrichtung"; pg "Test der Astrologischen Ausrichtung"; pd "Test der Astrologischen Ausrichtung"; pa "Test der Astrologischen Ausrichtung";
+}
+translate Candle to german feminine
+{
+  swa "Kerze";
+  sn "Kerze"; sg "Kerze"; sd "Kerze"; sa "Kerze";
+  pn "Kerzen"; pg "Kerzen"; pd "Kerzen"; pa "Kerzen";
+}
+
+translate "Principles of Astrological Alignment shows you the basics on how align yourself with others."
+to german "Die Prinzipien der Astrologischen Ausrichtung erklären Dir die Grundlagen, wie Du Dich mit anderen in Einklang bringen kannst.";
+
+translate "Learn how to perform the ritual of Alignment"
+to german "Lerne, wie das Ritual der Ausrichtung vollzogen wird";
+
+translate "You have completed Principles of Astrological Alignment."
+to german "Du hast die Prinzipien der Astrologischen Ausrichtung erfüllt.";
+
+translate "Global Astro Count is now N1"
+to german "Globaler Astro-Stand ist nun N1";
+
+translate "Running CheckAstro on CommonAltar "
+to german "Astroprüfung an einem gewöhnlichen Altar ";
+
+translate "Running CheckAstro on UWorship "
+to german "Astroprüfung an einer UWorsh ";
+
+translate "To verify alignment, you must donate one medium quartz to the school."
+to german "Um die Ausrichtung zu prüfen, musst Du der Schule einen mittleren Quarz spenden.";
+//Same as in line 99  in astrologicalalignment.fac
+
+
+translate "Your group is not fully aligned. You may try again, but another medium quartz will be required of each member."
+to german "Deine Gruppe ist nicht ganz ausgerichtet. Du kannst es wieder versuchen, aber ein weiterer mittlerer Quarz wird für jedes Mitglied von Nöten sein.";
+
+translate "Your Astrological Alignment group failed to gather N1 members. You may try again, but another medium quartz will be required of each member."
+to german "Deine Gruppe der astrologischen Ausrichtung scheiterte daran, N1 Mitglieder zu erhalten. Du kannst es wieder versuchen, aber ein weiterer mittlerer Quarz wird für jedes Mitglied von Nöten sein.";
+
+translate "You have already completed this test."
+to german "Du hast diese Aufgabe bereits erfüllt.";
+
+translate "The ritual of Astrological Alignment has been known for as long as anyone can remember. As the ritual is completed, the two participants will immediately sense a special bond, or lack thereof."
+to german "Das Ritual der astrologischen Ausrichtung ist schon seit Menschengedenken bekannt. Wenn das Ritual beendet ist, nehmen beide Teilnehmer sofort eine spezielle Bindung wahr, oder einen Mangel daran.";
+translate "The test of Astrological Alignment is to find a group of N1 people, each aligned with every other. Details of the ritual may be studied here."
+to german "Die Aufgabe der astrologischen Ausrichtung besteht darin, eine Gruppe von N1 Leuten zu finden, die aneinander ausgerichtet sind. Details des Rituals können hier studiert werden.";
+
+translate "Ritual of Astrological Alignment:"
+to german "Ritual der astrologischen Ausrichtung:";
+
+translate "Person #1: Candle on L Pillar"
+to german "Person #1: Kerze auf L Säule";
+
+translate "Person #1: Candle on L Focus"
+to german "Person #1: Kerze auf L Schale";
+
+translate "Person #2: Candle on R Focus"
+to german "Person #2: Kerze auf R Schale";
+
+translate "Person #2: Candle on R Pillar"
+to german "Person #2: Kerze auf R Säule";
+
+translate "Finally: Candles are lit in the order placed, by the person who placed each one."
+to german "Zum Schluss: Kerzen in der Reihenfolge der Aufstellung anzünden, von der jeweiligen Person, die sie hingestellt hat.";
+
+translate "You can't seem to get a good fix on U1's inventory."
+to german "Du scheinst keinen guten Blick in U1(sn)'s Inventar werfen zu können.";
+
+translate "You are too mentally exhaused to remote view. Wait another N1 seconds."
+to german "Du bist mental zu erschöpft, um einen entfernten Blick zu machen. Warte noch N1 Sekunden.";
+
+
+translate "You are quite sure that U1 is empty handed."
+to german "Du bist Dir einigermaßen sicher, dass U1(sn) leere Hände hat.";
+
+translate "At least "
+to german "Zumindestens ";
+translate "N1 O1"
+to german "N1 O1(N1?pa:sa)";
+
+translate "You sense that U1 is carrying:"
+to german "Du fühlst, das U1(sn) Folgendes bei sich trägt:";
+translate "N1 O1"
+to german "N1 O1(N1?pa:sa)";
+

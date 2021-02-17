@@ -1,0 +1,28 @@
+Module eventsculpture_fre;
+
+translate "Read the Message"
+to french "Lire le message";
+
+translate "Inspect"
+to french "Inspecter";
+
+translate "This is "
+to french "C'est : ";
+
+translate "Item to Add to Sculpture"
+to french "Eléments à ajouter à la sculpture";
+
+translate "Take/"
+to french "Prendre/";
+
+
+
+translate "You have already taken "
+to french "Vous avez déjà pris ";
+
+
+
+
+
+
+

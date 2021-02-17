@@ -1,0 +1,74 @@
+module command3_fre;
+
+translate "Public"
+to french "Public";
+
+translate "K1 is not an Entity."
+to french "K1 n'est pas un objet.";
+
+translate "Name not found."
+to french "Impossible de trouver ce nom.";
+
+translate "Owners list is "
+to french "La liste des propriétaires est ";
+
+translate "Vote Status: "
+to french "Statut de jugement: ";
+
+translate "U1 voted for U2 "
+to french "U1(name) a voté pour U2(name)";
+
+translate "U1 doesn't seem to be part of a DPD Chat Channel."
+to french "U1(name) ne semble pas faire parti d'un canal de discussion DPD.";
+
+translate "yes"
+to french "oui";
+
+translate " (connected)\n"
+to french " (connecté)\n";
+
+translate " (disconnected)\n"
+to french " (déconnecté)\n";
+
+translate "Not a player: "
+to french "Pas un joueur: ";
+
+translate "Channel not found: "
+to french "Impossible de trouver ce canal:";
+
+translate "Could not find "
+to french "Impossible de trouver ";
+
+translate "Man"
+to french "Homme";
+
+translate "Woman"
+to french "Femme";
+
+translate "Male"
+to french "Homme";
+
+translate "Female"
+to french "Femme";
+
+translate "Not a skill."
+to french "Ce n'est pas une compétence";
+
+translate "Your account is now paid."
+to french "Vous possédez désormais un compte payant.";
+
+translate "Not a valid player"
+to french "Ce n'est pas un un nom de joueur valable";
+
+translate "U1 is already blacklisted."
+to french "U1(name) est déjà sur votre liste noire.";
+
+translate "U1 has been added to the blacklist."
+to french "U1(name) a été ajouté sur votre liste noire.";
+
+translate "U1 is not blacklisted."
+to french "U1(name) n'est aps sur votre liste noire.";
+
+translate "U1 has been removed from the blacklist."
+to french "U1(name) a été retiré de votre liste noire.";
+

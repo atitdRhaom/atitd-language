@@ -1,0 +1,511 @@
+module glass_fre;
+
+
+translate "Make a Reagent Bottle"
+to french "Assembler une bouteille à réactif";
+
+translate "Make an Alcohol Lamp"
+to french "Assembler une lampe à Alcool";
+
+translate "To make an Alcohol Lamp, you need:"
+to french "Pour assembler une lampe à Alcool, il vous faut:";
+
+translate "To make a Reagent Bottle you need:"
+to french "Pour assembler une bouteille à réactif, il vous faut:";
+
+translate glaziersbench to french feminine
+{
+  ns "Table de vitrier"; np "Tables de vitrier";
+}
+
+translate CampDecoration to french feminine
+{
+  ns "Décoration de camp"; np "Décoration de camp";
+}
+
+translate SheetGlassFabrication to french feminine
+{
+  ns "Fabrication de feuilles de verre"; np "Fabrication de feuilles de verre";
+}
+
+translate GlassPipe to french masculine
+{
+  ns "Tuyau de verre"; np "Tuyaux de verre";
+}
+
+translate Soda to french feminine
+{
+ns "Soude"; np "Soudes";
+}
+
+translate FineGlassPipe to french masculine
+{
+  ns "Tuyau de verre précieux"; np "Tuyaux de verre précieux";
+}
+
+translate ReagentBottle to french feminine
+{
+  ns "bouteille à reactif"; np "bouteilles à reactif";
+}
+
+translate NormalGlass to french masculine
+{
+  ns "Verre normal"; np "Verre normal";
+}
+
+translate JewelGlass to french masculine
+{
+  ns "Verre précieux"; np "Verre précieux";
+}
+
+translate SodaGlass to french masculine
+{
+  ns "Verre sodique"; np "Verre sodique";
+}
+
+translate Thermometer to french masculine
+{
+  ns "Thermomètre"; np "Thermomètre";
+}
+
+translate WineBottles to french feminine
+{
+  ns "Bouteille de vin vide"; np "Bouteilles de vin vides";
+}
+
+translate WhiteSand to french masculine
+{
+  ns "Sable blanc"; np "Sables blancs";
+}
+
+translate SheetGlass to french feminine
+{
+  ns "Feuille de verre"; np "Feuilles de verre";
+}
+
+translate GlassRod to french feminine
+{
+  ns "Tige de verre"; np "Tiges de verre";
+}
+
+translate FineGlassRod to french feminine
+{
+  ns "Tige de verre précieux"; np "Tiges de verre précieux";
+}
+
+translate GlassScytheBlade to french masculine
+{
+  ns "Lame de faux en verre"; np "Lames de faux en verre";
+}
+
+translate FineGlassScytheBlade to french masculine
+{
+  ns "Lame de faux en verre précieux"; np "Lames de faux en verre précieux";
+}
+translate BasicTorch to french feminine
+{
+  ns "Torche"; np "Torches";
+}
+
+translate RubyGlassTorch to french feminine
+{
+  ns "Torche de verre incrustée de rubis"; np "Torches de verre incrustées de rubis";
+}
+
+translate SapphireGlassTorch to french feminine
+{
+  ns "Torche de verre incrustée de saphirs"; np "Torches de verre incrustées de saphirs";
+}
+
+translate EmeraldGlassTorch to french feminine
+{
+  ns "Torche de verre incrustée d'émeraudes"; np "Torches de verre incrustées d'émeraudes";
+}
+
+translate GlassTorch to french feminine
+{
+  ns "Torche de verre"; np "Torches de verre";
+}
+
+translate LightBox to french masculine
+{
+  ns "Luminaire"; np "Luminaires";
+}
+
+translate RubyLightBox to french masculine
+{
+  ns "Luminaire rubis"; np "Luminaires rubis";
+}
+
+translate EmeraldLightBox to french masculine
+{
+  ns "Luminaire émeraude"; np "Luminaires émeraude";
+}
+
+translate TopazLightBox to french masculine
+{
+  ns "Luminaire topaze"; np "Luminaires topaze";
+}
+
+translate SapphireLightBox to french masculine
+{
+  ns "Luminaire saphir"; np "Luminaires saphir";
+}
+
+translate AmethystLightBox to french masculine
+{
+  ns "Luminaire améthyste"; np "Luminaires améthyste";
+}
+
+translate DiamondLightBox to french masculine
+{
+  ns "Luminaire diamant"; np "Luminaires diamant";
+}
+
+translate mirror to french masculine
+{
+ ns "Miroir"; np "Miroirs";
+}
+
+translate BarometricSphere to french feminine
+{
+ns "Sphère barométrique"; np "Sphères barométriques";
+}
+
+translate DiamondGlassTorch to french feminine
+{
+ns "Torche de verre incrustée de diamants"; np "Torches de verre incrustées de diamants";
+}
+
+translate TopazGlassTorch to french feminine
+{
+ns "Torche de verre incrustée de topazes"; np "Torches de verre incrustées de topazes";
+}
+
+translate "Ruby Lightbox"
+to french "Luminaire rubis";
+
+translate "To build a Ruby Lightbox, you need: "
+to french "Pour fabriquer un luminaire rubis, il vous faut :";
+
+translate "Emerald Lightbox"
+to french "Luminaire émeraude";
+
+translate "To build a Emerald Lightbox, you need: "
+to french "Pour fabriquer un luminaire émeraude, il vous faut :";
+
+translate "Sapphire Lightbox"
+to french "Luminaire saphir";
+
+translate "To build a Sapphire Lightbox, you need: "
+to french "Pour fabriquer un luminaire saphir, il vous faut :";
+
+translate "Diamond Lightbox"
+to french "Luminaire diamant";
+
+translate "To build a Diamond Lightbox, you need: "
+to french "Pour fabriquer un luminaire diamant, il vous faut :";
+
+translate "Glass"
+to french "Verre";
+
+translate "Glazier's Bench"
+to french "Table de vitrier";
+
+translate "To build a Glazier's Bench, you need: "
+to french "Pour fabriquer une table de vitrier, il vous faut : ";
+
+translate "Your sheet of glass cracked and fell, but you were nearly able to save it. At least your skill is improving. It is now N1 out of 7."
+to french "Votre feuille de verre s'est fendue et est tombée, mais vous avez presque été en mesure de la sauver. Au moins, votre compétence s'améliore. Vous êtes maintenant à N1 sur 7.";
+
+translate "You lost your focus, and the delicate sheet of glass cracked and fell. Your skill is N1 out of 7."
+to french "Vous avez été déconcentré, et la délicate feuille de verre s'et fendue et est tombée. Votre compétence est maintenant de N1 sur 7.";
+
+translate "Success! You made a O1. You can take it from the Glazier's Bench once it cools."
+to french "Réussite ! Vous avez fabriqué O1(uns) O1(ns). Vous pouvez recupérer le résultat sur la table de vitrier une fois refroidie.";
+
+translate "Your O1 didn't properly form because the temperature dropped too low."
+to french "Votre O1(ns) ne s'est pas correctement formée, car la température est tombée trop bas.";
+
+translate "Your O1 didn't properly form because the temperature got too high."
+to french "Votre O1(ns) ne s'est pas correctement formée, car la température est montée trop haut.";
+
+translate "Your O1 melted and dropped off because the temperature got too high."
+to french "Votre O1(ns) a fondu et s'est désagregé car la température a trop augmenté.";
+
+translate "You need at least 20 deben of molten glass to work a new piece."
+to french "Il vous faut au moins 20 mesures de verre fondu pour travailler sur une nouvelle pièce.";
+
+translate "Add 2 charcoal"
+to french "Ajouter 2 charbons de bois";
+
+translate "Add 6 charcoal"
+to french "Ajouter 6 charbons de bois";
+
+translate "Add 12 charcoal"
+to french "Ajouter 12 charbons de bois";
+
+translate "You don't have N1 charcoal."
+to french "Vous n'avez pas N1 charbons de bois";
+
+translate "You need at least 20 deben of molten glass to work a new piece."
+to french "La table doit contenir au moins 20 debens de verre fondu pour être fonctionnelle.";
+
+translate "Your bench needs to be loaded with Normal Glass for this project."
+to french "Vous devez mettre du verre normal sur votre table pour ce projet.";
+
+translate "Your bench needs to be loaded with Jewel Glass for this project."
+to french "Vous devez mettre du verre précieux sur votre table pour ce projet.";
+
+translate "Your bench needs to be loaded with Soda Glass for this project."
+to french "Vous devez mettre du verre sodique sur votre table pour ce projet.";
+
+translate "Melt materials"
+to french "Fondre les matériaux";
+translate "Into Normal Glass"
+to french "En verre normal";
+translate "Into Jewel Glass"
+to french "En verre précieux";
+translate "Into Soda Glass"
+to french "En verre sodique";
+
+translate "You can only have one kind of glass in your crucible."
+to french "Vous ne pouvez avoir qu'une seule sorte de verre dans votre creuset.";
+
+translate "Normal glass must be melted at 3200 degrees or higher."
+to french "Le verre normal doit être fondu à 3200 degrés ou plus.";
+
+translate "How many batches of glass?"
+to french "Combien d'unités de verre ?";
+
+translate "You don't have enough to make N1 batches of glass. You need:"
+to french "Vous n'avez pas assez pour faire N1 unités de verre. Il vous faut :";
+
+translate "The crucible holds a maximum of 50 deben of glass."
+to french "Ce creuset contient un maximum de 50 mesures de verre.";
+
+translate "Soda glass must be melted at 3200 degrees or higher."
+to french "Le verre sodique doit être fondu à 3200 degrés ou plus.";
+
+translate "Jewel glass must be melted at 4400 degrees or higher."
+to french "Le verre précieux fond à 4400 degrés ou plus.";
+
+translate "You don't have enough to make N1 batches of jewel glass. You need:"
+to french "Vous n'avez pas assez pour N1 fournées de verre précieux. Il vous faut :";
+
+translate "Permission for Emptying Glass"
+to french "Permission pour vider la table";
+
+translate "Can be emptied by Elder"
+to french "Peut être vidé par un Sage";
+translate "Can be emptied by Initiate"
+to french "Peut être vidé par les Initiés";
+translate "Can be emptied by Associate"
+to french "Peut être vidé par les Associés";
+translate "Can be emptied by Member"
+to french "Peut être vidé par les Membres";
+translate "Can be emptied by Kinsman"
+to french "Peut être vidé par les Frères";
+translate "Can be emptied by Fellow"
+to french "Peut être vidé par les Camarades";
+translate "Can be emptied by Patriarch"
+to french "Peut être vidé par les Patriarches";
+translate "Can be emptied by Elder"
+to french "Peut être vidé par les Sages";
+translate "Can be emptied by Anyone"
+to french "Peut être vidé par n'importe qui";
+
+translate "Empty ALL the glass from the bench"
+to french "Vider la table de TOUT le verre qu'elle contient";
+
+translate "You don't have permission to empty the glass."
+to french "Vous n'avez pas la permission de vider la table.";
+
+translate "By the Melted Glass Preservation Act, introduced by Ptenkhet, only the original builder of a Glaziers Bench may empty the glass."
+to french "En vertu de la loi de préservation du verre fondu, promulgué par Ptenkhet, seul le constructeur d'une table de vitrier peut la vider de son contenu.";
+
+translate "Are you sure you want to pour all the O1 on the ground?"
+to french "Voulez-vous vraiment verser tout le O1(ns) par terre ?";
+
+translate "The glass drops to the ground in a molten lump, then shatters."
+to french "Le verre tombe sur le sol en masse informe, puis se brise.";
+
+translate "Make a Glass Jar (90 sec)"
+to french "Fabriquer une jarre de verre (90 Sec.)";
+
+translate "Make a Glass Pipe (90 sec)"
+to french "Fabriquer un tuyau de verre (90 Sec.)";
+
+translate "Make a Fine Glass Pipe (90 sec)"
+to french "Fabriquer un tuyau de verre précieux (90 Sec.)";
+
+translate "Make a sheet of Glass (120 sec)"
+to french "Fabriquer une feuille de verre (120 Sec.)";
+
+translate "Fuse silver powder to sheet glass"
+to french "Mélanger de la poudre d'argent au verre pur";
+
+translate "There is only room on the bench for a single mirror."
+to french "Il n'y a de place sur cette table que pour un seul miroir.";
+
+translate "To make a mirror, you must sprinkle 200 pinches of silver powder on a sheet of glass, in a sufficiently hot glazier's bench."
+to french "Pour fabriquer un miroir, vous devez saupoudrer 200 pincées de poudre d'argent sur une feuille de verre, alors que la table de verrier est suffisamment chaude.";
+
+translate "The silver will take about 30 seconds to fuse to the glass."
+to french "L'argent prend environ 30 secondes à se fondre dans le verre.";
+
+translate "The wind blows the silver powder away before it has time to fuse. Try a hotter bench."
+to french "Le vent souffle au loin la poudre d'argent avant qu'elle ait le temps de fusionner. Essayez avec une table plus chaude.";
+
+translate "You made a mirror."
+to french "Vous avez fabriqué un miroir.";
+
+translate "Make a thermometer"
+to french "Fabriquer un thermomètre";
+
+translate "You are already working a thermometer."
+to french "Vous travaillez déjà sur un thermomètre.";
+
+translate "Your bench temperature must be at least 1600 to begin a thermometer."
+to french "La température de votre table doit être d'au moins 1600 degrés pour fabriquer un thermomètre.";
+
+translate "To make a thermometer, you must weld three glass rods into a tube, and fill with 10 units of quicksilver."
+to french "Pour fabriquer un thermomètre, vous devez souder trois tiges de verre pour en faire un tube, puis le remplir de dix mesures de vif-argent.";
+
+translate "The thermometer will take about 60 seconds to set."
+to french "Le thermomètre sera paramétré dans environ une minute.";
+
+translate "The thermometer cracked when it was setting. Try finishing the thermometer as close as possible to N1 degrees."
+to french "Le thermomètre s'est fendu alors que vous étiez en train de le paramétrer. Essayez d'atteindre une température aussi proche que possible de N1 degées.";
+
+translate "You made a thermometer."
+to french "Vous avez fabriqué un thermomètre.";
+
+translate "Make a Glass Rod (60 sec)"
+to french "Fabriquer une tige de verre (60 Sec.)";
+
+translate "Make a Reagent Bottle (120 sec)"
+to french "Fabriquer une bouteille à reactif";
+
+translate "Make a Glass Scythe Blade (30 sec)"
+to french "Fabriquer une lame de faux en verre (30 sec)";
+
+translate "Make a Fine Glass Scythe Blade (60 sec)"
+to french "Fabriquer une lame de faux en verre précieux (60 sec)";
+
+translate "Make a Decorative Torch (180 sec)"
+to french "Fabriquer une torche décorative (180 Sec.)";
+
+translate "Make a decorative Glass Torch (180 sec)"
+to french "Fabriquer une torche décorative en verre (180 Sec.)";
+
+translate "Make a Fine Glass Rod (90 sec)"
+to french "Fabriquer une tige de verre précieux (90 Sec.)";
+
+translate "Light this torch"
+to french "Allumer cette torche";
+
+translate "You need 10 oil to light the torch."
+to french "Il vous faut 10 mesures d'huile pour allumer cette torche.";
+
+translate "Refill this torch with oil"
+to french "Remplir cette torche d'huile";
+
+translate "You need N1 oil."
+to french "Il vous faut N1 mesures d'huile.";
+
+translate "Decorative"
+to french "Décoration";
+
+translate "Ruby Red Glass Torch"
+to french "Torche de verre incrustée de rubis";
+
+translate "Sapphire Blue Glass Torch"
+to french "Torche de verre incrustée de saphirs";
+
+translate "Emerald Green Glass Torch"
+to french "Torche de verre incrustée d'émeraudes";
+
+translate "To build a Emerald Green Glass Torch, you need: "
+to french "Pour fabriquer une torche de verre incrustée d'émeraudes, il vous faut : ";
+
+translate "To build a Sapphire Blue Glass Torch, you need: "
+to french "Pour fabriquer une torche de verre incrustée de saphisr, il vous faut : ";
+
+translate "To build a Ruby Red Glass Torch, you need: "
+to french "Pour fabriquer une torche de verre incrustée de rubis, il vous faut : ";
+
+translate "Melted Glass: N1"
+to french "Verre fondu : N1";
+
+translate "Temperature:N1"
+to french "Température : N1";
+
+translate "No melted glass"
+to french "Pas de verre fondu";
+
+translate "Charcoal Avail: N1"
+to french "Charbon de bois disponible : N1";
+
+translate "Normal Glass: N1"
+to french "Verre normal: N1";
+
+translate "Jewel Glass: N1"
+to french "Verre précieux: N1";
+
+translate "Soda Glass: N1"
+to french "Verre sodique: N1";
+
+translate "Glass must be worked between N1 and N2 degrees"
+to french "Le verre doit être travaillé entre N1 et N2 degrés.";
+
+translate "N1 O1"
+to french "N1 O1(N1?np:ns)";
+
+translate "N1 O1"
+to french "N1 O1(N1?np:ns)";
+
+translate "Melt materials into jewel glass"
+to french "Fondre vos ingrédients en verre précieux";
+
+translate "By the Public Buildings Enabling Act, passed into law by FaceAnkh on 3/28/2003, Public Glaziers Benches may only be emptied by the person who donated them, or by Fellows in the case of a guild donated bench."
+to french "En vertu de la loi sur l'accès aux bâtiments publics, promulguée par FaceAnkh le 28 mars 2003, les tables de vitrier publiques peuvent être vidées seulement par leur propriétaire originel, ou par les membres d'une guilde si ce propriétaire est une guilde.";
+
+translate "Melt Materials into Soda Glass"
+to french "Fondre la matière en verre sodique";
+
+translate "Fill with Normal Glass"
+to french "Remplir de verre normal";
+
+translate "Fill with Jewel Glass"
+to french "Remplir de verre précieux";
+
+translate "Fill with Soda Glass"
+to french "Remplir de verre sodique";
+
+translate "O1: N1"
+to french "O1(ns): N1";
+
+translate "Make a batch of 12 Wine Bottles (90 sec)"
+to french "Fabriquer un lot de 12 bouteilles de vin (90 sec)";
+
+translate "Empty Wine Bottles"
+to french "Bouteilles de vin vides";
+
+translate "O1 in N1"
+to french "O1(ns) dans N1 secondes";
+
+translate "Diamond White Glass Torch"
+to french "Torche de verre incrustée de diamants";
+
+translate "To build a Diamond White Glass Torch, you need: "
+to french "Pour fabriquer une torche de verre incrustée de diamants, il vous faut :";
+
+translate "Topaz Yellow Glass Torch"
+to french "Torche de verre incrustée de topazes";
+
+translate "To build a Topaz Yellow Glass Torch, you need: "
+to french "Pour fabriquer une torche de verre incrustée de topazes, il vous faut :";
+
+translate "Glass must be melted at N1 degrees or higher in order to removed from the bench."
+to french "Le verre doit être à N1 degrès ou plus pour pouvoir être retiré de la table.";

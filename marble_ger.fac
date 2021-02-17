@@ -1,0 +1,392 @@
+module marble_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2007 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+
+translate StoneQuarry to german masculine
+{
+  swa "Steinbruch";
+  sn "Steinbruch"; sg "Steinbruchs"; sd "Steinbruch"; sa "Steinbruch";
+  pn "Steinbrüche"; pg "Steinbrüche"; pd "Steinbrüchen"; pa "Steinbrüche";
+}
+translate Onyx to german masculine
+{
+  swa "Onyx";
+  sn "Onyx"; sg "Onyxes"; sd "Onyx"; sa "Onyx";
+  pn "Onyxe"; pg "Onyxe"; pd "Onyxen"; pa "Onyxe";
+}
+translate Jade to german feminine
+{
+  swa "Jade";
+  sn "Jade"; sg "Jade"; sd "Jade"; sa "Jade";
+  pn "Jade"; pg "Jade"; pd "Jade"; pa "Jade";
+}
+translate YellowAlabaster to german masculine
+{
+  swa "Gelber Alabaster";
+  sn "Gelbe Alabaster"; sg "Gelben Alabasters"; sd "Gelben Alabaster"; sa "Gelbe Alabaster";
+  pn "Gelben Alabaster"; pg "Gelben Alabaster"; pd "Gelben Alabastern"; pa "Gelben Alabaster";
+}
+
+translate RoseAlabaster to german masculine
+{
+  swa "Rosenalabaster";
+  sn "Rosenalabaster"; sg "Rosenalabasters"; sd "Rosenalabaster"; sa "Rosenalabaster";
+  pn "Rosenalabaster"; pg "Rosenalabaster"; pd "Rosenalabastern"; pa "Rosenalabaster";
+}
+
+translate WhiteAlabaster to german masculine
+{
+  swa "Weißer Alabaster";
+  sn "Weiße Alabaster"; sg "Weißen Alabasters"; sd "Weißen Alabaster"; sa "Weiße Alabaster";
+  pn "Weißen Alabaster"; pg "Weißen Alabaster"; pd "Weißen Alabastern"; pa "Weißen Alabaster";
+}
+
+translate CherryTravertine to german masculine
+{
+  swa "Kirschtravertin";
+  sn "Kirschtravertin"; sg "Kirschtravertins"; sd "Kirschtravertin"; sa "Kirschtravertin";
+  pn "Kirschtravertine"; pg "Kirschtravertine"; pd "Kirschtravertinen"; pa "Kirschtravertine";
+}
+
+translate WhiteTravertine to german masculine
+{
+  swa "Weißer Travertin";
+  sn "Weiße Travertin"; sg "Weißen Travertins"; sd "Weißen Travertin"; sa "Weiße Travertin";
+  pn "Weißen Travertine"; pg "Weißen Travertine"; pd "Weißen Travertinen"; pa "Weißen Travertine";
+}
+
+translate CanaryGranite to german masculine
+{
+  swa "Kanarischer Granit";
+  sn "Kanarische Granit"; sg "Kanarischen Granits"; sd "Kanarischer Granit"; sa "Kanarischer Granit";
+  pn "Kanarischer Granit"; pg "Kanarischer Granit"; pd "Kanarischer Granit"; pa "Kanarischer Granit";
+}
+
+translate HornetsWingGranite to german masculine
+{
+  swa "Hornissengranit";
+  sn "Hornissengranit"; sg "Hornissengranits"; sd "Hornissengranit"; sa "Hornissengranit";
+  pn "Hornissengranit"; pg "Hornissengranit"; pd "Hornissengranit"; pa "Hornissengranit";
+}
+
+translate MudGranite to german masculine
+{
+  swa "Schlammgranit";
+  sn "Schlammgranit"; sg "Schlammgranits"; sd "Schlammgranit"; sa "Schlammgranit";
+  pn "Schlammgranite"; pg "Schlammgranite"; pd "Schlammgraniten"; pa "Schlammgranite";
+}
+
+translate NightGranite to german masculine
+{
+  swa "Nachtgranit";
+  sn "Nachtgranit"; sg "Nachtgranits"; sd "Nachtgranit"; sa "Nachtgranit";
+  pn "Nachtgranite"; pg "Nachtgranite"; pd "Nachtgraniten"; pa "Nachtgranite";
+}
+
+translate TigersEyeGranite to german masculine
+{
+  swa "Tigeraugengranit";
+  sn "Tigeraugengranit"; sg "Tigeraugengranits"; sd "Tigeraugengranit"; sa "Tigeraugengranit";
+  pn "Tigeraugengranite"; pg "Tigeraugengranite"; pd "Tigeraugengraniten"; pa "Tigeraugengranite";
+}
+
+translate BluePearlMarble to german masculine
+{
+  swa "Blauperlenmarmor";
+  sn "Blauperlenmarmor"; sg "Blauperlenmarmors"; sd "Blauperlenmarmor"; sa "Blauperlenmarmor";
+  pn "Blauperlenmarmore"; pg "Blauperlenmarmore"; pd "Blauperlenmarmoren"; pa "Blauperlenmarmore";
+}
+
+translate GreenSunMarble to german masculine
+{
+  swa "Grüner Marmor";
+  sn "Grüne Marmor"; sg "Grünen Marmors"; sd "Grünen Marmor"; sa "Grüne Marmor";
+  pn "Grünen Marmore"; pg "Grünen Marmore"; pd "Grünen Marmoren"; pa "Grünen Marmore";
+}
+
+translate BlueMoonMarble to german masculine
+{
+  swa "Blauer Marmor";
+  sn "Blaue Marmor"; sg "Blauen Marmors"; sd "Blauen Marmor"; sa "Blaue Marmor";
+  pn "Blauen Marmore"; pg "Blauen Marmore"; pd "Blauen Marmoren"; pa "Blauen Marmore";
+}
+
+translate MonkeyMarble to german masculine
+{
+  swa "Meerkatzenmarmor";
+  sn "Meerkatzenmarmor"; sg "Meerkatzenmarmors"; sd "Meerkatzenmarmor"; sa "Meerkatzenmarmor";
+  pn "Meerkatzenmarmore"; pg "Meerkatzenmarmore"; pd "Meerkatzenmarmoren"; pa "Meerkatzenmarmore";
+}
+
+translate LeopardsPawMarble to german masculine
+{
+  swa "Leopardenmarmor";
+  sn "Leopardenmarmor"; sg "Leopardenmarmors"; sd "Leopardenmarmor"; sa "Leopardenmarmor";
+  pn "Leopardenmarmore"; pg "Leopardenmarmore"; pd "Leopardenmarmoren"; pa "Leopardenmarmore";
+}
+
+translate SerpentineMarble to german masculine
+{
+  swa "Ophiolitmarmor";
+  sn "Ophiolitmarmor"; sg "Ophiolitmarmors"; sd "Ophiolitmarmor"; sa "Ophiolitmarmor";
+  pn "Ophiolitmarmore"; pg "Ophiolitmarmore"; pd "Ophiolitmarmoren"; pa "Ophiolitmarmore";
+}
+
+translate GreyStarMarble to german masculine
+{
+  swa "Graustarmarmor";
+  sn "Graustarmarmor"; sg "Graustarmarmors"; sd "Graustarmarmor"; sa "Graustarmarmor";
+  pn "Graustarmarmore"; pg "Graustarmarmore"; pd "Graustarmarmoren"; pa "Graustarmarmore";
+}
+
+translate OysterShellMarble to german masculine
+{
+  swa "Austernmarmor";
+  sn "Austernmarmor"; sg "Austernmarmors"; sd "Austernmarmor"; sa "Austernmarmor";
+  pn "Austernmarmore"; pg "Austernmarmore"; pd "Austernmarmore"; pa "Austernmarmore";
+}
+
+translate IslandBlueMarble to german masculine
+{
+  swa "Blauer Inselmarmor";
+  sn "Blaue Inselmarmor"; sg "Blauen Inselmarmors"; sd "Blauen Inselmarmor"; sa "Blaue Inselmarmor";
+  pn "Blauen Inselmarmore"; pg "Blauen Inselmarmore"; pd "Blauen Inselmarmoren"; pa "Blauen Inselmarmore";
+}
+
+translate MountainMarble to german masculine
+{
+  swa "Bergmarmor";
+  sn "Bergmarmor"; sg "Bergmarmors"; sd "Bergmarmor"; sa "Bergmarmor";
+  pn "Bergmarmore"; pg "Bergmarmore"; pd "Bergmarmoren"; pa "Bergmarmore";
+}
+
+translate TangerineMarble to german masculine
+{
+  swa "Mandarinenmarmor";
+  sn "Mandarinenmarmor"; sg "Mandarinenmarmors"; sd "Mandarinenmarmor"; sa "Mandarinenmarmor";
+  pn "Mandarinenmarmore"; pg "Mandarinenmarmore"; pd "Mandarinenmarmoren"; pa "Mandarinenmarmore";
+}
+
+translate FireRock to german masculine
+{
+  swa "Feuerfels";
+  sn "Feuerfels"; sg "Feuerfelses"; sd "Feuerfels"; sa "Feuerfels";
+  pn "Feuerfelsen"; pg "Feuerfelsen"; pd "Feuerfelsen"; pa "Feuerfelsen";
+}
+
+translate BloodGranite to german masculine
+{
+  swa "Blutgranit";
+  sn "Blutgranit"; sg "Blutgranits"; sd "Blutgranit"; sa "Blutgranit";
+  pn "Blutgranite"; pg "Blutgranite"; pd "Blutgraniten"; pa "Blutgranite";
+}
+
+translate GhostGranite to german masculine
+{
+  swa "Geistgranit";
+  sn "Geistgranit"; sg "Geistgranits"; sd "Geistgranit"; sa "Geistgranit";
+  pn "Geistgranite"; pg "Geistgranite"; pd "Geistgraniten"; pa "Geistgranite";
+}
+
+translate AngelsStone to german masculine
+{
+  swa "Engelsstein";
+  sn "Engelsstein"; sg "Engelssteines"; sd "Engelsstein"; sa "Engelsstein";
+  pn "Engelssteine"; pg "Engelssteine"; pd "Engelssteinen"; pa "Engelssteine";
+}
+
+translate PuzzleGranite to german masculine
+{
+  swa "Puzzlegranit";
+  sn "Puzzlegranit"; sg "Puzzlegranits"; sd "Puzzlegranit"; sa "Puzzlegranit";
+  pn "Puzzlegranite"; pg "Puzzlegranite"; pd "Puzzlegraniten"; pa "Puzzlegranite";
+}
+
+translate MarbleMechanics to german feminine
+{
+swa "Marmormechanik";
+sn "Marmormechanik"; pn "Marmormechnik";
+}
+
+translate "Rocks of the Ages"
+to german "Felsen der Ewigkeit";
+
+translate "Your Perception must be at least 1 to learn this"
+to german "Deine Empfindung muss mindestens 1 sein, um dies lernen zu können";
+
+translate "Specially attune yourself to O1"
+to german "Stelle dich besonders ein auf O1(sn)";
+
+translate "Tuition is 10 slate. Attend the class?"
+to german "Schulgeld beträgt 10 Schiefer. Die Klasse besuchen?";
+
+translate "You don't have the tuition."
+to german "Du hast nicht das nötige Schulgeld.";
+
+translate "You attend class in a hall filled with beautiful stone walls of every color. With much handwaving, the instructors describe a method whereby a team of two people can smash small bundles of slate to locate deposits of O1. Their instruction is not complete though, leading you to believe this to be more conjecture than science. Perhaps you will further knowledge in the little-understood Rocks of the Ages skill."
+to german "Du betrittst die Klasse in einer Halle, ausgestattet mit wunderschönen Steinwänden jeglicher Farbe. Mit ausladenden Handbewegungen beschreiben die Lehrer eine Methode, wonach eine Gruppe von 2 Leuten kleine Bündel von Schiefer zerschmettert um so Vorkommen von O1(sn) zu orten. Ihre Erklärung ist jedoch nicht vollständig und veranlasst dich zu denken, dass dies mehr eine Vermutung als eine Wissenschaft ist. Vielleicht erhältst du mehr Wissen in der schwer verständlichen Fähigkeit 'Felsen der Ewigkeit'";
+
+translate "Your Perception must be at least O1 to prospect for O2."
+to german "Deine Wahrnehmung muss mindestens O1(sn) beinhalten, um nach O2(sn) suchen zu können.";
+
+translate "Prospecting..."
+to german "Suche...";
+
+translate "You don't have 2 slate."
+to german "Du hast keine 2 Schiefer.";
+
+translate "Prospect for O1"
+to german "Suche nach O1(sd)";
+
+translate "Two slate shattered!"
+to german "2 Schiefer sind gebrochen!";
+
+translate "One slate shattered!"
+to german "1 Schiefer ist gebrochen!";
+
+translate "The bundle of slate remained intact."
+to german "Das Bündel Schiefer bleibt intakt.";
+
+translate "Quarry panels not initialized."
+to german "Steinbruchpanel nicht initialisiert.";
+
+translate "Allocate: "
+to german "Anweisen: ";
+
+translate "Build a Stone Quarry"
+to german "Baue einen Steinbruch";
+
+translate "Although enough remenants of stone remain to confuse you, the area has already been stripped by someone else."
+to german "Obwohl noch zahlreiche Steinvorkommen übrig sind, wurde das Gebiet bereits von Jemandem ausgeplündert.";
+
+translate "To dig a Quarry you need:"
+to german "Um einen Steinbruch zu errichten benötigst du:";
+
+translate "Your quarry hit nothing but dirt."
+to german "Dein Steinbruch trifft nur auf Dreck.";
+
+translate "You hit a vein of O1! You can begin working the quarry immediately."
+to german "Du hast eine O1(sn) Ader getroffen! Du kannst sofort mit der Steinbrucharbeit beginnen.";
+
+translate "This Quarry has collapsed. It should be salvaged."
+to german "Der Steinbruch ist kollabiert. Das Material sollte geborgen werden.";
+
+translate "This useless quarry is filled with dirt."
+to german "Dieser unnütze Steinbruch ist mit Dreck gefüllt.";
+
+translate "A piece of O1 has been raised by N1 span."
+to german "Ein Stück O1(sn) von N1 Spannweite wurde gehoben.";
+
+translate "A total of N1 lift point(s) have been fitted with winches."
+to german "Insgesamt N1 Hebepunkte wurden mit Winden ausgestattet.";
+
+translate "Northern-Left"
+to german "Nord-Links";
+
+translate "Northern-Right"
+to german "Nord-Rechts";
+
+translate "Northern-Up"
+to german "Nord-Oben";
+
+translate "Northern-Down"
+to german "Nord-Unten";
+
+translate "Eastern-Left"
+to german "Osten-Links";
+
+translate "Eastern-Right"
+to german "Osten-Rechts";
+
+translate "Eastern-Up"
+to german "Osten-Oben";
+
+translate "Eastern-Down"
+to german "Nord-Unten";
+
+translate "Western-Left"
+to german "Westen-Links";
+
+translate "Western-Right"
+to german "Westen-Rechts";
+
+translate "Western-Up"
+to german "Westen-Oben";
+
+translate "Western-Down"
+to german "Westen-Unten";
+
+translate "Southern-Left"
+to german "Süden-Links";
+
+translate "Southern-Right"
+to german "Süden-Rechts";
+
+translate "Southern-Up"
+to german "Süden-Oben";
+
+translate "Southern-Down"
+to german "Süden-Unten";
+
+translate "Work the Quarry, K1"
+to german "Bediene den Steinbruch, K1";
+
+translate "You stumbled over U1 while working the quary, and the stone slid. You each must work a different corner of the stone."
+to german "Du stolperst über U1(name) und der Stein entgleitet. Jeder von euch muss an einer anderen Ecke des Steins arbeiten.";
+
+translate "You stumbled over U1 while working the quary. You each must work a different corner of the stone."
+to german "Du stolperst über U1(name). Jeder von euch muss an einer anderen Ecke des Steins arbeiten.";
+
+translate "You change positions."
+to german "Du änderst die Positionen.";
+
+translate "You have successfully removed a piece of O1."
+to german "Du hast erfolgreich ein Stück O1(sn) entfernt.";
+
+translate "The Quarry has collapsed!"
+to german "Der Steinbruch ist eingestürzt!";
+
+translate "Replaces a single worker with a mechanical winch"
+to german "Ersetze einen einzelnen Arbeiter durch eine mechanische Winde";
+
+translate "You learn the science of Marble Mechanics. Quarrys outfitted with a single gearbox winch require only three workers, and the winch is removeable."
+to german "Du erlernst die Wissenschaft der Marmormechanik. Steinbrüche, die mit einem einfachen Getriebe ausgestattet sind benötigen nur noch 3 Arbeiter und die Winde ist austauschbar.";
+
+translate "Replaces a second worker with a mechanical winch"
+to german "Ersetzt einen weiteren Arbeiter durch eine mechanische Winde";
+
+translate "You learn Advanced Marble Mechanics. This allows you to replace a second worker with a more complex (2-output) gearbox winch."
+to german "Du erlernst Erweiterte Marmormechanik. Dies erlaut dir einen zweiten Arbeiter durch eine weitere komplexe (2-Ausgangs-) Getriebewinde zu ersetzen.";
+
+translate "Primary winch requires a Gearbox "
+to german "Hauptwinde benötigt ein Getriebe ";
+
+translate "Fit this quarry with a primary winch/"
+to german "Statte diesen Steinbruch mit einer Hauptwinde aus/";
+
+translate "Use Gearbox K1"
+to german "Benutze Getriebe K1";
+
+translate "The gearbox you selected does not fit this quarry."
+to german "Das von dir gewählte Getriebe passt nicht in diesen Steinbruch.";
+
+translate "Primary winch requires a Gearbox K1"
+to german "Hauptwinde benötigt ein Getriebe K1";
+
+translate "Secondary winch requires a Gearbox K1"
+to german "Zweite Winde benötigt ein Getriebe K1";
+
+translate "Fit this quarry with a secondary winch/"
+to german "Statte diesen Steinbruch mit einer zweiten Winde aus/";
+
+translate "Remove the primary winch"
+to german "Entferne die Hauptwinde";
+
+translate "Remove the secondary winch"
+to german "Entferne die zweite Winde";

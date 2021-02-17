@@ -1,0 +1,318 @@
+module template_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2007 by MDO Entertainment		           **
+//**                                                                       **
+//***************************************************************************
+//menues
+
+translate MovableType to german neuter
+{
+  swa "Austauschbarer Buchstabensatz";
+  sn "Austauschbarer Buchstabensatz";  pn "Austauschbarer Buchstabensatz";
+}
+translate Instruction to german femininecollective
+{
+ swa "Anleitung";
+  sn "Anleitung"; sg "Anleitung"; sd "Anleitung"; sa "Anleitung";
+  pn "Anleitungen"; pg "Anleitungen"; pd "Anleitungen"; pa "Anleitungen";
+}
+translate Instruction to german femininecollective
+{
+ swa "Anleitung";
+  sn "Anleitung"; sg "Anleitung"; sd "Anleitung"; sa "Anleitung";
+  pn "Anleitungen"; pg "Anleitungen"; pd "Anleitungen"; pa "Anleitungen";
+}
+translate DeadInst to german neuter
+{
+ swa "Verschmiertes Papier";
+  sn "Verschmierte Papier"; sg "Verschmierten Papiers"; sd "Verschmierten Papier"; sa "Verschmierte Papier";
+  pn "Verschmierten Papiere"; pg "Verschmierten Papiere"; pd "Verschmierten Papieren"; pa "Verschmierten Papiere";
+}
+translate PressPlate to german femininecollective
+{
+ swa "Druckplatte";
+  sn "Druckplatte"; sg "Druckplatte"; sd "Druckplatte"; sa "Druckplatte";
+  pn "Druckplatten"; pg "Druckplatten"; pd "Druckplatten"; pa "Druckplatten";
+}
+translate CertPlate to german femininecollective
+{
+ swa "Zertifikatplatte";
+  sn "Zertifikatplatte"; sg "Zertifikatplatte"; sd "Zertifikatplatte"; sa "Zertifikatplatte";
+  pn "Zertifikatplatten"; pg "Zertifikatplatten"; pd "Zertifikatplatten"; pa "Zertifikatplatten";
+}
+translate SteelPlate to german femininecollective
+{
+ swa "Platte";
+  sn "Platte"; sg "Platte"; sd "Platte"; sa "Platte";
+  pn "Platten"; pg "Platten"; pd "Platten"; pa "Platten";
+}
+translate TitaniumPlate to german femininecollective
+{
+ swa "Platte";
+  sn "Platte"; sg "Platte"; sd "Platte"; sa "Platte";
+  pn "Platten"; pg "Platten"; pd "Platten"; pa "Platten";
+}
+translate IronPlate to german femininecollective
+{
+ swa "Platte";
+  sn "Platte"; sg "Platte"; sd "Platte"; sa "Platte";
+  pn "Platten"; pg "Platten"; pd "Platten"; pa "Platten";
+}
+translate LeadPlate to german femininecollective
+{
+ swa "Platte";
+  sn "Platte"; sg "Platte"; sd "Platte"; sa "Platte";
+  pn "Platten"; pg "Platten"; pd "Platten"; pa "Platten";
+}
+translate Wrench to german feminine
+{
+ swa "Unterlagsscheibe";
+  sn "Unterlagsscheibe"; sg "Unterlagsscheibe"; sd "Unterlagsscheibe"; sa "Unterlagsscheibe";
+  pn "Unterlagsscheiben"; pg "Unterlagsscheiben"; pd "Unterlagsscheiben"; pa "Unterlagsscheiben";
+}
+translate BasicInk to german feminine
+{
+ swa "Tinte";
+  sn "Tinte"; sg "Tinte"; sd "Tinte"; sa "Tinte";
+  pn "Tinten"; pg "Tinten"; pd "Tinten"; pa "Tinten";
+}
+translate InstInk0 to german feminine
+{
+ swa "Minderwertige Tinte";
+  sn "Minderwertige Tinte"; sg "Minderwertige Tinte"; sd "Minderwertige Tinte"; sa "Minderwertige Tinte";
+  pn "Minderwertigen Tinten"; pg "Minderwertigen Tinten"; pd "Minderwertigen Tinten"; pa "Minderwertigen Tinten";
+}
+translate InstInk1 to german feminine
+{
+ swa "Standardtinte";
+  sn "Standardtinte"; sg "Standardtinte"; sd "Standardtinte"; sa "Standardtinte";
+  pn "Standardtinten"; pg "Standardtinten"; pd "Standardtinten"; pa "Standardtinten";
+}
+translate InstInk2 to german feminine
+{
+ swa "Gute Tinte";
+  sn "Gute Tinte"; sg "Guten Tinte"; sd "Gute Tinte"; sa "Gute Tinte";
+  pn "Guten Tinten"; pg "Guten Tinten"; pd "Guten Tinten"; pa "Guten Tinten";
+}
+translate InstInk3 to german feminine
+{
+ swa "Pharaohs Tinte";
+  sn "Pharaohs Tinte"; sg "Pharaohs Tinte"; sd "Pharaohs Tinte"; sa "Pharaohs Tinte";
+  pn "Pharaohs Tinten"; pg "Pharaohs Tinten"; pd "Pharaohs Tinten"; pa "Pharaohs Tinten";
+}
+translate MetalHorn to german masculine
+{
+ swa "Wolframtrichter";
+  sn "Wolframtrichter"; sg "Wolframtrichters"; sd "Wolframtrichter"; sa "Wolframtrichter";
+  pn "Wolframtrichter"; pg "Wolframtrichter"; pd "Wolframtrichtern"; pa "Wolframtrichter";
+}
+translate ThothsMetalSheeting to german neuter
+{
+ swa "Thots Metallblech";
+  sn "Thots Metallblech"; sg "Thots Metallblechs"; sd "Thots Metallblech"; sa "Thots Metallblech";
+  pn "Thots Metallbleche"; pg "Thots Metallbleche"; pd "Thots Metallblechen"; pa "Thots Metallbleche";
+}
+translate Hopper to german masculine
+{
+ swa "Rundbehälter";
+  sn "Rundbehälter"; sg "Rundbehälters"; sd "Rundbehälter"; sa "Rundbehälter";
+  pn "Rundbehälter"; pg "Rundbehälter"; pd "Rundbehältern"; pa "Rundbehälter";
+}
+translate SecretDig to german masculine
+{
+ swa "Merkwürdiger Schlammhaufen";
+  sn "Merkwürdige Schlammhaufen"; sg "Merkwürdigen Schlammhaufens"; sd "Merkwürdige Schlammhaufen"; sa "Merkwürdige Schlammhaufen";
+  pn "Merkwürdigen Schlammhaufen"; pg "Merkwürdigen Schlammhaufen"; pd "Merkwürdigen Schlammhaufen"; pa "Merkwürdigen Schlammhaufen";
+}
+translate SecretDig1 to german masculine
+{
+ swa "Merkwürdiger Schlammhaufen";
+  sn "Merkwürdige Schlammhaufen"; sg "Merkwürdigen Schlammhaufens"; sd "Merkwürdige Schlammhaufen"; sa "Merkwürdige Schlammhaufen";
+  pn "Merkwürdigen Schlammhaufen"; pg "Merkwürdigen Schlammhaufen"; pd "Merkwürdigen Schlammhaufen"; pa "Merkwürdigen Schlammhaufen";
+}
+translate SecretDig2 to german masculine
+{
+ swa "Merkwürdiger Schlammhaufen";
+  sn "Merkwürdige Schlammhaufen"; sg "Merkwürdigen Schlammhaufens"; sd "Merkwürdige Schlammhaufen"; sa "Merkwürdige Schlammhaufen";
+  pn "Merkwürdigen Schlammhaufen"; pg "Merkwürdigen Schlammhaufen"; pd "Merkwürdigen Schlammhaufen"; pa "Merkwürdigen Schlammhaufen";
+}
+translate SecretDig3 to german masculine
+{
+ swa "Merkwürdiger Schlammhaufen";
+  sn "Merkwürdige Schlammhaufen"; sg "Merkwürdigen Schlammhaufens"; sd "Merkwürdige Schlammhaufen"; sa "Merkwürdige Schlammhaufen";
+  pn "Merkwürdigen Schlammhaufen"; pg "Merkwürdigen Schlammhaufen"; pd "Merkwürdigen Schlammhaufen"; pa "Merkwürdigen Schlammhaufen";
+}
+translate SecretDig4 to german masculine
+{
+ swa "Merkwürdiger Schlammhaufen";
+  sn "Merkwürdige Schlammhaufen"; sg "Merkwürdigen Schlammhaufens"; sd "Merkwürdige Schlammhaufen"; sa "Merkwürdige Schlammhaufen";
+  pn "Merkwürdigen Schlammhaufen"; pg "Merkwürdigen Schlammhaufen"; pd "Merkwürdigen Schlammhaufen"; pa "Merkwürdigen Schlammhaufen";
+}
+
+translate SecretCrate to german feminine
+{
+ swa "Angeschwemmte Kiste";
+  sn "Angeschwemmte Kiste"; sg "Angeschwemmten Kiste"; sd "Angeschwemmte Kiste"; sa "Angeschwemmte Kiste";
+  pn "Angeschwemmten Kisten"; pg "Angeschwemmten Kisten"; pd "Angeschwemmten Kisten"; pa "Angeschwemmten Kisten";
+}
+translate SecretCrate1 to german feminine
+{
+ swa "Angeschwemmte Kiste";
+  sn "Angeschwemmte Kiste"; sg "Angeschwemmten Kiste"; sd "Angeschwemmte Kiste"; sa "Angeschwemmte Kiste";
+  pn "Angeschwemmten Kisten"; pg "Angeschwemmten Kisten"; pd "Angeschwemmten Kisten"; pa "Angeschwemmten Kisten";
+}
+translate SecretCrate2 to german feminine
+{
+ swa "Angeschwemmte Kiste";
+  sn "Angeschwemmte Kiste"; sg "Angeschwemmten Kiste"; sd "Angeschwemmte Kiste"; sa "Angeschwemmte Kiste";
+  pn "Angeschwemmten Kisten"; pg "Angeschwemmten Kisten"; pd "Angeschwemmten Kisten"; pa "Angeschwemmten Kisten";
+}
+translate SecretCrate3 to german feminine
+{
+ swa "Angeschwemmte Kiste";
+  sn "Angeschwemmte Kiste"; sg "Angeschwemmten Kiste"; sd "Angeschwemmte Kiste"; sa "Angeschwemmte Kiste";
+  pn "Angeschwemmten Kisten"; pg "Angeschwemmten Kisten"; pd "Angeschwemmten Kisten"; pa "Angeschwemmten Kisten";
+}
+translate SecretCrate4 to german feminine
+{
+ swa "Angeschwemmte Kiste";
+  sn "Angeschwemmte Kiste"; sg "Angeschwemmten Kiste"; sd "Angeschwemmte Kiste"; sa "Angeschwemmte Kiste";
+  pn "Angeschwemmten Kisten"; pg "Angeschwemmten Kisten"; pd "Angeschwemmten Kisten"; pa "Angeschwemmten Kisten";
+}
+
+translate "Allows the construction of printing presses with changeable plates."
+to german "Erlaubt den Bau von Druckpressen mit austauschbaren Platten.";
+
+translate "Recipe"
+to german "Rezept";
+translate "Formula"
+to german "Formel";
+translate "Pattern"
+to german "Schnittmuster";
+translate "Template"
+to german "Matrize";
+translate "Blueprint"
+to german "Blaupause";
+
+//"Your ",ComplexType(secret),":",ComplexName(secret),"'s ink has become faded a bit with use."
+
+//"Your ",ComplexType(secret),":",ComplexName(secret),"'s ink fades out completely."
+
+translate "There are no bulbs left. Let a Dev know about this."
+to german "Es sind keine Zwiebeln mehr übrig. Sage einem Dev Bescheid.";
+
+translate "This Crate has been opened"
+to german "Diese Kiste wurde geöffnet";
+
+translate "Examine this open crate"
+to german "Untersuche die offene Kiste";
+
+translate "This crate bears the mark of U1."
+to german "Diese Kiste trägt das Zeichen von U1(name).";
+
+translate "Unseal this crate"
+to german "Breche das Siegel dieser Kiste";
+
+translate "Are you sure you wish to unseal this crate? If you do so, the action cannot be taken back, and you must mark your name upon the crate to let others know who did this."
+to german "Bist du sicher, dass du das Siegel dieser Kiste brechen möchtest? Tust du dies, gibt es keinen Weg mehr zurück und du musst der Kiste mit deinem Siegel versehen, um anderen zu zeigen, wer dies getan hat.";
+
+translate "It requires a Heavy Mallet and Wide Tungsten Chisel to break the seal on this crate."
+to german "Man benötigt einen Großen Holzhammer und einen Wolframmeißel um das Siegel dieser Kiste zu brechen.";
+
+translate "There is a loud hiss as the seal on the crate is broken. You are struck in the face with a blast of some sort of dust. After coughing a bit, you look inside."
+to german "Du öffnest das Siegel und die Kiste öffnet sich mit einem lauten Zischen. Eine Art Staub trifft dein Gesicht, du hustest etwas und wirfst einen Blick hinein.";
+
+translate "You find a strange parchment with instructions on it, and what appears to be an odd bulb of some kind. There are also the remains of several glass bottles, smashed by the rough treatment the crate has received."
+to german "Du findest ein fremdartiges Pergament mit einer Anleitung und etwas das aussieht wie eine seltsame Zwiebelart. Weiterhin siehst du Überreste verschiedener Glasflaschen, die durch das Rütteln, als die Kiste an Land geschwemmt wurde, vermutlich zerbrachen.";
+
+translate "You scratch your sigil upon the crate with the pointed end of your chisel before you leave."
+to german "Du kratzt mit der dem spitzen Ende deines Meißels dein Siegel auf die Kiste, bevor du gehst.";
+
+translate "Trial Accounts cannot open chests."
+to german "Testaccounts können keine Kisten öffnen.";
+
+translate "You feel too weak to open the chest, with this strange malady you have."
+to german "Aufgrund deiner schweren Erkrankung fühlst du dich zu schwach, diese Kiste zu öffnen.";
+
+translate "You find a large plate, that seems to be inscribed with strange symbols. It has several threaded boltholes that seem to indicate that it should be attached to something. You also find a strange recipe that you cannot decipher. Perhaps you should take it to the School of Art."
+to german "Du findest eine große Platte, die mit fremdartigen Symbolen beschriftet zu sein scheint. Sie hat mehrere gewundene Bolzenlöcher, die vermuten lassen, dass sie an irgendetwas angebracht werden könnte. Außerdem findest du ein seltsames Rezept, das du nicht entziffern kannst. Möglicherweise kann dir eine Schule der Kunst weiterhelfen?";
+
+translate "You find a large plate, that seems to be inscribed with strange symbols. It has several threaded boltholes that seem to indicate that it should be attached to something. The crate also holds a few bars of various metals, part of a larger shipment."
+to german "Du findest eine große Platte, die mit fremdartigen Symbolen beschriftet zu sein scheint. Sie hat mehrere gewundene Bolzenlöcher, die vermuten lassen, dass sie an irgendetwas angebracht werden könnte. Die Kiste beinhaltet außerdem ein paar Barren verschiedenartiger Metalle, Teil eine größeren Schiffsladung.";
+
+translate "Dig into Pile"
+to german "Grabe in diesem Haufen";
+
+translate "You must have an Archaeologist's Shovel to dig into this, in order not to disturb the contents."
+to german "Du brauchst eine Archäologenschaufen um hierin zu graben, damit du den Inhalt nicht störst."; 
+
+translate "Your digging moves the dirt at N1x the normal speed."
+to german "Deine Grabung fördert den Schmutz in N1x facher Geschwindigkeit.";
+
+translate "This dig has already been completed."
+to german "Diese Grabung wurde bereits abgeschlossen.";
+
+translate "Reset Dig"
+to german "Grabung zurücksetzen";
+
+translate "Template"
+to german "Vorlage";
+
+translate "Make a Tungsten Horn"
+to german "Stelle einen Wolframtrichter her";
+
+translate "To make a Tungsten Horn you need:"
+to german "Um einen Wolframtrichter herzustellen zu können benötigst du:";
+
+translate "This project used: "
+to german "Diese Projekt braucht: ";
+
+translate "making a Tungsten Horn"
+to german "Herstellung eines Wolframtrichters";
+
+translate "Tungsten Horn will be done in K1"
+to german "Das Wolframtrichter wird in K1 fertig sein";
+
+translate "Your Tungsten Horn is ready."
+to german "Dein Wolframtrichter ist fertig.";
+
+translate "Make a Spanner Wrench"
+to german "Stelle einen Ringschlüssel her";
+
+translate "To make a Spanner Wrench you need:"
+to german "Um einen Ringschlüssel herzustellen benötigst du:";
+
+translate "making a Spanner Wrench"
+to german "Herstellung eines Ringschlüssels";
+
+translate "Spanner Wrench will be done in K1"
+to german "Der Ringschlüssel wird in K1 fertig sein";
+
+translate "Your Spanner Wrench is ready."
+to german "Dein Ringschlüssel ist fertig.";
+
+//"Create Complex
+
+//"What quality will this piece be?"
+
+//"Tools
+
+//"This is a high quality tool - Name it"
+
+//"Gems
+
+//"How many of this cut?"
+
+//"Raeli
+
+//"How many of this tile?"
+
+//"Herb Seeds
+
+//"How many of this seed?"
+
+//"Not an herb in the world list: "

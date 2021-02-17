@@ -1,0 +1,459 @@
+module mega_fre;
+
+translate Megalopolis to french feminine
+{
+	ns "L'épreuve de la Mégalopole"; np "L'épreuve de la Mégalopole";
+	}
+	
+translate megalopolisbuilding to french feminine
+{ ns "Mégalopole"; np "Mégalopole";}
+
+translate MegalopolisPiece to french feminine
+{
+	ns "Section de mégalopole"; np "Sections de mégalopole";
+	}
+
+translate MegalopolisRamp to french feminine
+{
+	ns "Rampe de mégalopole"; np "Rampes de mégalopole";
+	}
+
+translate MegalopolisTower to french masculine
+{
+	ns "Tour de mégalopole"; np "Tours de mégalopole";
+	}
+
+translate MegalopolisWall to french masculine
+{
+	ns "Rempart de mégalopole"; np "Remparts de mégalopole";
+	}
+
+translate MegalopolisGate to french feminine
+{
+	ns "Porte de mégalopole"; np "Portes de mégalopole";
+	}
+
+translate MegalopolisBridge to french masculine
+{
+	ns "Pont de mégalopole"; np "Ponts de mégalopole";
+	}
+
+translate MegalopolisEdge to french feminine
+{
+	ns "Limite de mégalopole"; np "Limites de mégalopole";
+	}
+
+translate MegalopolisSide to french masculine
+{
+	ns "Bas-côté de mégalopole"; np "Bas-côtés de mégalopole";
+	}
+	
+	
+translate "Test of Megalopolis"
+to french "L'épreuve de la Mégalopole";
+
+translate "Take part in the construction of a truly enormous structure, one that blesses its neighbors with a truly wondrous form of communication."
+to french "Prenez part à l'édification d'une immense structure, qui apportera la bénédiction sur le voisinage avec un exceptionnel moyen de communication.";
+
+translate "Make Concrete"
+to french "Faire du béton";
+translate "Cut a Choronzon shape Gem"
+to french "Tailler une gemme en forme de Choronzone";
+translate "Cut a Thistle shape Gem"
+to french "Tailler une gemme en forme de Chardon";
+translate "Mix some Dodger Blue Paint"
+to french "Préparer de la peinture bleu Dodger";
+translate "Mix some Saddle Brown Paint"
+to french "Préparer de la peinture brun selle";
+translate "Mix some Spring Green Paint"
+to french "Préparer de la peinture vert tendre";
+translate "Make a batch of Rotproof Treated Boards"
+to french "Fabriquer des planches traitées imputrescibles";
+translate "Mix some Indigo Paint"
+to french "Préparer de la peinture indigo";
+
+translate "You have completed Principles of the Megalopolis."
+to french "Vous avez terminé les Principes de la Mégalopole.";
+
+translate "To use the megalopolis,"
+to french "Pour utiliser une mégalopole, ";
+
+translate "click on the central pyramid."
+to french "cliquez sur la pyramide centrale.";
+
+translate "Sign up for test of megalopolis"
+to french "S'inscrire à l'épreuve de la Légalopole";
+
+translate "The Megalopolis"
+to french "La Mégalopole";
+translate "Section 1 (Megalopolis Center) completed by U1"
+to french "Section 1 (Centre de la mégalopole) complété par U1(name)";
+
+translate "Section N1 (O1) completed by U1"
+to french "Section N1 (O1(ns)) complété par U1(name)";
+
+translate "Section N1 (O1) not finished."
+to french "Section N1 (O1(ns)) non terminée.";
+
+translate "The test of the megalopolis is simple: you must build a megalopolis. When you finish, up to 49 people will pass the test."
+to french "L'épreuve de la mégalopole est simple : vous devez construire une mégalopole. Lorsque vous avez terminé, toutes les personnes qui ont participé à sa construction passent l'épreuve (49 max).";
+
+translate "The first step to building a megalopolis is to click on your small construction site and select 'Build a Megalopolis Construction Site'. Note: you aren't building the megalopolis yet.  You're just building the construction site."
+to french "La première étape de la construction d'une mégalopole est de cliquer sur un petit site de construction et de choisir 'Dresser un site de construction de mégalopole'.";
+
+translate "The megalopolis construction site consists of one central structure surrounded by 48 smaller construction sites. Each of these smaller sites will be used to build a piece of the megalopolis."
+to french "Le site de construction de mégalopole consiste en une grande structure encourée de 48 structures plus petites. Chacun de ces petits sites de construction est utilisé pour construire un segment de la mégalopole.";
+
+translate "You are the owner of all 48 smaller construction sites. You can give them to different people individually, or make some of them guild owned, or even grant some to the public."
+to french "Vous êtes le proporiétaire des 48 petits sites de construction. Vous pouvez les donner à différents individus, ou bien à des guildes, ou encore en offrir au public.";
+
+translate "When all 48 pieces are finished, you will pass the test. Whomever completed a piece will pass the test along with you. Note that starting a piece doesn't count - it it whomever finishes the piece that gets credit for the test.  You yourself automatically get credit for the center piece, so you do not need to finish one of the 48 pieces yourself."
+to french "Lorsque les 48 sections sont achevées, vous réussissez l'épreuve. Toute personne ayant terminée une section réussira cette épreuve elle aussi. Notez que le fait de commencer une section ne compte pas - c'est le fait de la terminer qui est pris en compte pour l'épreuve. Vous recevez automatiquement l'usage de la section centrale, et vous n'avez donc pas besoin d'achever les 48 autres sections vous-même.";
+
+translate "A single person can finish more than one piece.  But of course, a single person cannot pass the test twice, so this is very inefficient.  You would be wise to seek out a full complement of forty-nine players."
+to french "Une personne peut achever plusieurs sections. Mais évidemment, une seule personne ne peut pas passer deux fois la même épreuve, et cette solution est très inefficace. Il est donc conseillé de mobiliser quarante-neuf personnes différentes pour cette oeuvre";
+
+translate "WARNING: from the time that the megalopolis construction site is built, you have one real-world week to finish the megalopolis.  If all 48 pieces are not finished by the end of the week, the megalopolis will crumble to dust, taking all your labors with it.  Because of this, it is wise to gather all the people and materials before you raise the construction site."
+to french "ATTENTION : A partir du moment où le site de construction de mégalopole est en place, vous avez une semaine de temps réel pour mener le projet à bien. Si les 48 sections ne sont pas achevées dans un délai d'une semaine, la mégalopole tombera en poussière, détruisant du même coup tous les efforts qui ont été consacrés à son édification. Il est donc conseillé de réunir tous les éléments et toutes les personnes avant de lancer le chantier.";
+
+translate "The first step in the process is to build a small construction site, and click on Projects/Architecture/Megalopolis."
+to french "La première étape est de dresser un petit site de construction, et de cliquer sur Projets/Architecture/Mégalopole.";
+
+translate "Here are the requirements for a typical megalopolis."
+to french "Voici les coûts de construction pour une mégalopole traditionnelle.";
+
+translate "CAUTION: Every megalopolis is different.  Prices may range from one quarter of those listed to as much as three times higher. "
+to french "ATTENTION : Chaque mégalopole est différente.  Les prix peuvent varier de un quart à trois fois ceux listés ici. ";
+
+translate "The central structure:"
+to french "La structure centrale :";
+
+translate "    Exactly 600 Rope (sub-construction sites)"
+to french "    Exactement 600 cordes (sites de construction secondaires)";
+translate "    Exactly 1800 Boards (scaffolding)"
+to french "    Exactement 1800 planches (échafaudage)";
+translate "    Exactly 4 Brass Plates (central pyramid cap)"
+to french "    Exactement 4 plaques de laiton (sommet de la pyramide centrale)";
+translate "    Exactly 1200 Gold Foil (central pyramid cap gilding)"
+to french "    Exactement 1200 feuilles d'or (dorure du sommet de la pyramide centrale)";
+translate "    Exactly 48 Eyelet cut Amethyst (Reflection Box)"
+to french "    Exactement 48 améthystes taillées Oeil-de-pie (partie réflechissante)";
+translate "    Exactly 24 Corner Heart cut Garnet (Reflection Box)"
+to french "    Exactement 24 grenats taillés Coeur anguleux (partie réflechissante)";
+translate "    Exactly 12 Bridge cut Lapis (Reflection Box)"
+to french "    Exactement 12 lapis taillés Pont (partie réflechissante)";
+translate "    Exactly 6 Sprocket cut Sunstone (Reflection Box)"
+to french "    Exactement 6 héliolites taillées Ergot (partie réflechissante)";
+translate "    Exactly 360 Cut Stone (Central Structure)"
+to french "    Exactement 360 pierres taillées (structure centrale)";
+
+translate "Each ramp (there are four):"
+to french "Chaque rampe (il y en a quatre) :";
+
+translate "    Approx 5000 Brick"
+to french "    Approximativement 5000 briques";
+translate "    Approx 500 Cut Stone"
+to french "    Approximativement 500 pierres taillées";
+translate "    Approx 50 Concrete"
+to french "    Approximativement 50 bétons";
+translate "    Approx 400 Hard + Pliable Treated Boards"
+to french "    Approximativement 400 planches taillées : dures et flexibles";
+translate "    Approx 450 Nails"
+to french "    Approximativement 450 clous";
+
+translate "Each tower: (there are twelve)"
+to french "Chaque tour (il y en a douze) :";
+
+translate "    Approx 60 Concrete"
+to french "    Approximativement 60 bétons";
+translate "    Approx 300 Rigid + Rotproof Treated Boards"
+to french "    Approximativement 300 planches traitées : rigides et imputrescibles";
+translate "    Approx 120 Nails"
+to french "    Approximativement 120 clous";
+translate "    Approx 350 Cut Stone"
+to french "    Approximativement 350 pierres taillées";
+translate "    Approx 200 Gold Wire"
+to french "    Approximativement 200 fils d'or";
+translate "    Approx 2 Looking Glass cut Jade"
+to french "    Approximativement 2 jades taillés Lunette";
+translate "    Approx 500 Dark Golden Rod Paint"
+to french "    Approximativement 500 peintures : Solidage foncé";
+translate "    Approx 500 Orange Paint"
+to french "    Approximativement 500 peintures : Orange";
+translate "    Approx 400 Indigo Paint"
+to french "    Approximativement 400 peintures : Indigo";
+translate "    Approx 250 Saddle Brown Paint"
+to french "    Approximativement 250 peintures : Brun selle";
+translate "    Approx 100 Forest Green Paint"
+to french "    Approximativement 100 peintures : vert forêt";
+
+translate "Each wall segment: (there are eight)"
+to french "Chaque segment de rempart (il y en a huit) :"; 
+
+translate "    Approx 100 Concrete"
+to french "    Approximativement 100 bétons";
+translate "    Approx 400 White + Glossy + Fireproof Treated Boards"
+to french "    Approximativement 400 planches traitées : blanches, vernies et ignifugées";
+translate "    Approx 200 Nails"
+to french "    Approximativement 200 clous";
+translate "    Approx 500 Cut Stone"
+to french "    Approximativement 500 pierres taillées";
+translate "    Approx 800 Feldspar Paint"
+to french "    Approximativement peintures : Feldspath";
+translate "    Approx 700 Indigo Paint"
+to french "    Approximativement 700 peintures : Indigo";
+translate "    Approx 500 Orange Paint"
+to french "    Approximativement 500 peintures : Orange";
+translate "    Approx 300 Forest Green Paint"
+to french "    Approximativement 300 peintures : Vert forêt";
+translate "    Approx 150 Dark Golden Rod Paint"
+to french "    Approximativement 150 peintures : Solidage foncé";
+
+translate "Each bridge: (there are four)"
+to french "Chaque pont (il y en a quatre) :";
+
+translate "    Approx 5000 Bricks"
+to french "    Approximativement 5000 briques";
+translate "    Approx 60 Concrete"
+to french "    Approximativement 60 bétons";
+translate "    Approx 2000 Pliable + Soft + Rotproof Treated Boards"
+to french "    Approximativement 2000 planches traitées : flexibles, tendres et imputrescibles";
+translate "    Approx 700 Nails"
+to french "    Approximativement 700 clous";
+translate "    Approx 250 Cut Stone"
+to french "    Approximativement 250 pierres taillées";
+translate "    Approx 200 Iron Bars"
+to french "    Approximativement 200 barres de fer";
+
+translate "Each gate section: (there are four)"
+to french "Chaque section de porte (il y en a quatre) :";
+
+translate "    Approx 10000 Bricks"
+to french "    Approximativement 10000 briques";
+translate "    Approx 700 Cut Stone"
+to french "    Approximativement 700 pierres taillées";
+translate "    Approx 300 Concrete"
+to french "    Approximativement 300 bétons";
+translate "    Approx 2000 Hard + Rigid Treated Boards"
+to french "    Approximativement 2000 planches traitées : dures et rigides";
+translate "    Approx 700 Nails"
+to french "    Approximativement 700 clous";
+translate "    Approx 7 Hexas Plate cut Lapis"
+to french "    Approximativement 7 lapis taillés Plaque Hexas";
+translate "    Approx 7 Choronzon cut Turquoise"
+to french "    Approximativement 7 turquoises taillées Choronzone";
+translate "    Approx 7 Thistle cut Amethyst"
+to french "    Approximativement 7 améthystes taillées Chardon";
+translate "    Approx 2 Unity cut Lapis"
+to french "    Approximativement 2 lapis taillés Unité";
+translate "    Approx 2 Full Aidenn Mask cut Sunstone"
+to french "    Approximativement 2 héliolites taillées Masque d'Aidenn complet";
+translate "    Approx 650 Tomato Paint"
+to french "    Approximativement 650 peintures : Tomate";
+translate "    Approx 450 Forest Green Paint"
+to french "    Approximativement 450 peintures : Vert forêt";
+translate "    Approx 470 Saddle Brown Paint"
+to french "    Approximativement 470 peintures : Brun selle";
+translate "    Approx 350 Spring Green Paint"
+to french "    Approximativement 350 peintures : Vert tendre";
+
+translate "Each edge wall segment: (there are eight)"
+to french "Chaque segment de limite (il y en a huit) :";
+
+translate "    Approx 500 Concrete"
+to french "    Approximativement 500 bétons";
+translate "    Approx 15 Iron Bars"
+to french "    Approximativement 15 barres de fer";
+translate "    Approx 10 Gold Bars"
+to french "    Approximativement 10 barres d'or";
+translate "    Approx 2500 Hard + Rotproof Treated Boards"
+to french "    Approximativement 2500 planches traitées : dures et imputrescibles";
+translate "    Approx 100 Nails"
+to french "    Approximativement 100 clous";
+translate "    Approx 200 Cut Stone"
+to french "    Approximativement 200 pierres taillées";
+translate "    Approx 800 Forest Green Paint"
+to french "    Approximativement 800 peintures : Vert forêt";
+translate "    Approx 600 Dark Golden Rod Paint"
+to french "    Approximativement 600 peintures : Solidage foncé";
+translate "    Approx 300 Indigo Paint"
+to french "    Approximativement 300 peintures : Indigo";
+translate "    Approx 100 Orange Paint"
+to french "    Approximativement 100 peintures : Orange";
+
+translate "Each side wall: (there are eight)"
+to french "Chaque segment de bas-côté (il y en a huit) :";
+
+translate "    Approx 1000 Concrete"
+to french "    Approximativement 1000 bétons";
+translate "    Approx 30 Iron Bars"
+to french "    Approximativement 30 barres de fer";
+translate "    Approx 10 Silver Sheeting"
+to french "    Approximativement 10 revêtement d'argent";
+translate "    Approx 2100 Hard + Glossy + Rotproof Treated Boards"
+to french "    Approximativement 2100 planches traitées : dures, vernies et imputrescibles";
+translate "    Approx 200 Nails"
+to french "    Approximativement 200 clous";
+translate "    Approx 350 Cut Stone"
+to french "    Approximativement 350 pierres taillés";
+translate "    Approx 1500 Forest Green Paint"
+to french "    Approximativement 1500 peintures : Vert forêt";
+translate "    Approx 1200 Dark Golden Rod Paint"
+to french "    Approximativement 1200 peintures : Solidage foncé";
+translate "    Approx 700 Indigo Paint"
+to french "    Approximativement 700 peintures : Indigo";
+translate "    Approx 200 Orange Paint"
+to french "    Approximativement 200 peintures : Orange";
+
+translate "Megalopolis Instructions"
+to french "Instructions pour la Mégalopole";
+
+translate "Megalopolis Parts List"
+to french "Liste des éléments nécessaires";
+
+translate "Build a Megalopolis Construction Site"
+to french "Dresser un site de construction de mégalopole";
+
+translate "Have you read the instructions and parts lists carefully?"
+to french "Avez-vous lu les instructions et pris connaissance des éléments ?";
+
+translate "You better read those, otherwise, you might end up wasting a lot of materials."
+to french "Nous vous conseillons de les lire si vous voulez éviter de perdre du temps et beaucoup d'éléments.";
+
+translate "This construction site is already dedicated."
+to french "Ce site de construction a déjà été dédié.";
+
+translate "This spot is not flat enough for a megalopolis.  Irregularity here is N1 percent of maximum."
+to french "Ce site n'est pas assez plat pour une mégalopole. L'irrégularité est ici de N1 pourcent maximum.";
+
+translate "To build a Megalopolis Construction Site, you need: "
+to french "Pour dresser un site de construction de mégalopole, il vous faut : ";
+
+translate "The Megalopolis is complete!"
+to french "La mégalopole est terminée !";
+
+translate "Read about posting events"
+to french "Se renseigner sur la publication d'évènememts";
+
+translate "Events carry the following information:"
+to french "Les évènements doivent comporter les informations suivantes :";
+translate "Title - Shows up in BOLD on the Calendar. 30 Characters max."
+to french "Titre - S'affiche en gras sur le calendrier. Trente caractères au maximum.";
+translate "Start Date - No more than 7 days in the future. Specify in your own local time."
+to french "Date de commencement - Pas plus de sept jours dans le futur. Entrez-là dans votre propre fuseau horaire.";
+translate "Duration in Minutes - No more than 1440 (One day)"
+to french "Durée en minutes - Pas plus de 1440 (un jour)";
+translate "Location - Description of where people should show up. It is ok to leave this blank"
+to french "Lieu - Description de l'endroit où les participants devront se rendre. Facultatif.";
+translate "Start Message - Posted to the System channel when the Event starts. Ok to leave this blank."
+to french "Message d'ouverture - Est affiché sur le canal System quand l'évènement débute. Facultatif.";
+translate "End Message - Posted to the System channel when the event ends. Ok to leave this blank."
+to french "Message de clôture - Est affiché sur le canal System quand l'évènement prend fin. Facultatif.";
+
+translate "Announcement Cost: N1 Papyrus Paper"
+to french "Frais d'annonce : N1 feuilles de papyrus";
+
+translate "Post an announcement to Egypt's Calendar"
+to french "Publier un évènement sur le calendrier égyptien";
+
+translate "You need N1 Papyrus Paper to make an announcement."
+to french "Il vous faut N1 feuilles de papyrus pour publier une annonce.";
+
+translate "Title"
+to french "Titre";
+
+translate "No event title was specified."
+to french "Vous n'avez pas spécifié de titre pour l'évènement.";
+
+translate "Title must be 30 Characters or less."
+to french "Le titre doit comporter trente caractères ou moins.";
+
+translate "Start Date"
+to french "Date de commencement";
+
+translate "Duration in Minutes"
+to french "Durée en minutes";
+
+translate "Location"
+to french "Lieu";
+
+translate "Description"
+to french "Description";
+
+translate "Start Message"
+to french "Message d'ouverture";
+
+translate "End Message"
+to french "Message de clôture";
+
+translate "Date is in the wrong format."
+to french "La date n'est pas dans le bon format.";
+
+translate "Events must not be more than 7 days in the future."
+to french "Les évènements ne doivent pas être prévus pour dans plus de sept jours dans le futur.";
+
+translate "Event would have already ended."
+to french "L'évènement serait déjà terminé.";
+
+translate "Events must be no more than 24 hours in duration."
+to french "L'évènement ne peut pas durer plus de 24 heures.";
+
+translate "Megalopolis Event is Beginning: K1"
+to french "Un évènement de Mégalopole commence : K1";
+
+translate "The cost to post an event has risen. Perhaps someone just posted an event?"
+to french "Les frais d'annonce ont augmenté. Peut-être quelqu'un d'autre vient-il de publier un évènement ?";
+
+translate "Choronzon cut Turquoise"
+to french "Turquoise taillé : Choronzone";
+
+translate "Looking Glass cut Jade"
+to french "Jade taillé : Lunette";
+
+translate "Thistle cut Amethyst"
+to french "Améthyste taillé : Chardon";
+
+translate "Thoth's Knot cut Sunstone"
+to french "Noeud de Thot";
+
+translate "Dragyn's Eye cut Lapis"
+to french "Lapis taillé : Oeil de Dragyn";
+
+translate "Full Aidenn Mask cut Sunstone"
+to french "Héliolite taillé : Masque d'Aidenn complet";
+
+translate "Hexas Plate cut Lapis"
+to french "Lapis taillé : Plaque Hexas";
+
+translate "Thistle cut Lapis"
+to french "Lapis taillé : Chardon";
+
+translate "Unity cut Lapis"
+to french "Lapis taillé : Unité";
+
+translate "Hard + Rigid Treated Boards"
+to french "Planche traitée : Dure et rigide";
+
+translate "Hard + Rotproof Treated Boards"
+to french "Planche traitée : Dure et imputrescible";
+
+translate "Hard,Rotproof Treated Boards"
+to french "Planche traitée : Dure et imputrescible";
+
+translate "Hard + Pliable Treated Boards"
+to french "Planche traitée : Dure et flexible";
+
+translate "Pliable + Soft + Rotproof Treated Boards"
+to french "Planche traitée : Flexible, tendre et imputrescible";
+
+translate "Rigid + Rotproof Treated Boards"
+to french "Planche traitée : Rigide et imputrescible";
+
+translate "White + Glossy + Fireproof Treated Boards"
+to french "Planche traitée : Blanche, vernie et imputrescible";
+
+translate "Soft + Rotproof Treated Boards"
+to french "Planche traitée : Tendre et imputrescible";
+
+translate "Hard + Glossy + Rotproof Treated Boards"
+to french "Planche traitée : Dure, vernie et imputrescible";

@@ -1,0 +1,136 @@
+module rafts_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+
+translate FerryBoat to german feminine
+{
+swa "Fähre";
+	sn "Fähre"; pn "Fähren";
+	}
+	
+translate LongRangeFerry to german feminine
+{
+swa "Langstreckenfähre";
+	sn "Langstreckenfähre"; pn "Langstreckenfähren";
+	}
+	
+	
+	translate sail to german neuter
+{
+swa "Segel";
+	sn "Segel"; pn "Segel";
+}
+
+translate "The school hands you a sail, and explains that in the future, you can make sails of your own using a Loom."
+to german "Die Schule gibt dir ein Segel und erklärt, dass du zukünftig dein Segel selbst in einem Webstuhl herstellen musst.";
+	
+translate "Ferries that can go a full 500 feet."
+to german "Fähren die 500 Fuß weit fahren.";
+
+translate "Projects/Misc/Long-Range Ferry"
+to german "Projekte/Diverses/Langstreckenfähre";
+
+translate "Projects/Misc/Ferry Boat"
+to german "Projekte/Diverses/Fähre";
+
+translate "Linen (sail experiments)"
+to german "Leinen (Segelexperimente)";
+
+translate "Canvas (sail experiments)"
+to german "Tuch (Segelexperimente)";
+
+translate "Sail"
+to german "Segel";
+
+translate "Silk Cloth (sail experiments)"
+to german "Seidentuch (Segelexperimente)";
+
+translate "Rigid Rotproof boards (sail rigging)"
+to german "Starre Wasserfeste Bretter (Tackelage)";
+
+translate "Pliable Rotproof boards (sail rigging)"
+to german "Formbare Wasserfeste Bretter (Tackelage)";
+
+translate "Rope (sail rigging)"
+to german "Seil (Tackelage)";
+
+translate "Wood (flotation)"
+to german "Holz (Flotation)";
+
+translate "Tar (sealant)"
+to german "Teer (Abdichtung)";
+
+translate "You have learned the skill of Ferry Construction, Level Two."
+to german "Du hast die Fertigkeit 'Erweitere Fährenkonstruktion' gelernt.";
+
+translate "Long-Range Ferry"
+to german "Langstreckenfähre";
+
+translate "Silk Cloth for the sails."
+to german "Seidenstoffe für das Segel";
+
+translate "Rigid Rotproof Boards for rigging."
+to german "Starre Wasserfeste Bretter für die Takelage";
+
+translate "Pliable Rotproof Boards for rigging."
+to german "Formbare Wasserfeste Bretter für die Takelage";
+
+translate "Rope for the sail rigging."
+to german "Seil für die Takelage";
+
+translate "Wood for the buoyant mass."
+to german "Hölzer für die schwimmende Masse.";
+
+translate "Tar to seal it, so your feet stay dry."
+to german "Teer, um es abzudichten, damit die Füße trocken bleiben.";
+
+translate "To build a Long-Range Ferry, you need:"
+to german "Um eine Langsteckenfähre zu bauen benötigst du:";
+
+translate "Ferry Boat"
+to german "Baue eine Fähre";
+
+translate "To build a Ferry Boat, you need: "
+to german "Um eine Fähre zu bauen benötigst du: ";
+
+translate "Disassemble this Ferry Boat"
+to german "Demontiere die Fähre";
+
+translate "Ferry Range = "
+to german "Fähren Reichweite = ";
+
+translate "Ride this Ferry Boat"
+to german "Fahre mit der Fähre";
+
+translate "Either the water here is not deep enough, or you're too far from water.  Disassemble it and rebuild it closer to water."
+to german "Entweder das Wasser ist hier nicht tief genug, oder du bist zu weit vom Wasser entfernt. Demontiere die Fähre und baue sie näher am Wasser";
+
+translate "The other shore is not passable. You cannot ride from here."
+to german "Das andere Ufer ist nicht zu erreichen. Du kannst von hier aus nicht segeln.";
+
+translate "The body of water is too large.  This is just a ferry boat.  You can use it to ferry across small bodies of water."
+to german "Das Wasser ist zu tief. Dies ist keine Langsteckenfähre. Du kannst Fähren nur benutzen, um in seichten Gewässer überzusetzen.";
+
+translate "Error: Please tell Pharaoh that the mentor controller has not been installed."
+to german "Fehler: Bitte sage einem GM, dass der Mentor-Controller nicht installiert ist.";
+
+translate "Mentors cannot use ferry boats to leave. You must return via the welcome banner."
+to german "Mentoren können hier keine Fähren benutzen. Du musst über ein Willkommensbanner zurückkehren.";
+
+translate "To leave this place, you must build the ferry boat yourself.  You cannot use one built by somebody else."
+to german "Um diesen Ort zu verlassen benötigst du eine selbstgebaute Fähre. Du kannst keine benutzen, die von jemand anderem gebaut wurde!";
+
+translate "You have earned the right to enter Egypt! Caution - this is a one-way trip. If you're not ready, hit the close box on the travel dialog.  You can gather your stuff before you go. The travel dialog will show you a list of places you can go.  You should choose one.  Note: you can explore many locations, do not worry too much about which place you choose first."
+to german "Du hast die Rechte erworben, Ägypten zu betreten. Achtung - die ist eine einfache Fahrkarte. Wenn du noch nicht fertig bist, klicke auf Schließen im Reisedialog. Du kannst erst deine Sachen einsammeln, bevor du gehst. Der Reisedialog zeigt dir eine Liste mit Orten, zu denen du reisen kannst. Hinweis: Du kannst viele Orte erkunden, mache dir nicht so viele Gedanken, welchen du als erstes wählst!";
+
+translate "Hint: To silence a player that is annoying you, type /ignore playername"
+to german "Tipp: Um einen Spieler, der dich stört, ruhigzustellen, tippe /ignore Spielername";
+
+translate "Hint: To hear them again, type /unignore playername"
+to german "Tipp: Um das Ignore wieder aufzuheben, tippe /unignore Spielername";

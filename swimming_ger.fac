@@ -1,0 +1,184 @@
+Module swimming_ger;
+
+translate OysterCatcher to german masculine
+{
+swa "Test des Austernfängers";
+sn "Test des Austernfängers"; pn "Test des Austernfängers";
+}
+translate OysterMeat to german neuter
+{
+swa "Austernfleisch";
+sn "Austernfleisch"; sg "Austernfleisches"; sd "Austernfleisch"; sa "Austernfleisch";
+pn "Austernfleisch"; ph "Austernfleisch"; pd "Austernfleisch"; pa "Austernfleisch";
+}
+translate Pearl to german feminine
+{
+swa "Perle";
+sn "Perle"; sg "Perle"; sd "Perle"; sa "Perle";
+pn "Perlen"; ph "Perlen"; pd "Perlen"; pa "Perlen";
+}
+
+translate "White Pearl"
+to german "Weiße Perle";
+
+translate "Coral Pearl"
+to german "Korallenperle";
+
+translate "Smoke Pearl"
+to german "Rauchperle";
+
+translate "Aqua Pearl"
+to german "Wasserperle";
+
+translate "Pink Pearl"
+to german "Rosa Perle";
+
+translate "Beige Pearl"
+to german "Beigene Perle";
+
+translate "Black Pearl"
+to german "Schwarze Perle";
+
+translate "Dive for Oysters, searching for pearls. By fitting the correct color of Pearl to each setting in your necklace, your endurance will increase."
+to german "Tauche nach Austern und suche nach Perlen. Wenn du die Perlen nach der richtigen Farbe sortiert in deine Halskette einpasst wird deine Ausdauer steigen.";
+
+translate "Go for a swim"
+to german "Gehe eine Runde schwimmen";
+translate "Return to dry land"
+to german "Kehre auf trockenes Land zurück";
+translate "Locate an Oyster bed and Dive"
+to german "Mache ein Austernbett aus und tauche";
+translate "Retrieve three Pearls"
+to german "Finde drei Perlen";
+translate "Show your Necklace to the Instructors"
+to german "Zeige dein Halsband einem Tauchlehrer";
+
+translate "You have completed the Principles of the Oyster Catcher."
+to german "Du hast die Prinzipien des Austernfängers gemeistert.";
+
+translate "You learn to swim! Use this skill to catch Oysters in Egypt's waterways. Assemble pearls from Oysters into a necklace. Visit sSchools and Universities of The Human Body so that instructors may assist in your design."
+to german "Du hast das Schwimmen erlernt! Nutze diese Fertigkeit um in Ägyptens Gewässern nach Austern zu suchen. Füge Perlen aus Austern in eine Halskette ein. Besuche Schulen und Universitäten des Menschlichen Körpers, damit deren Tauchlehrer bei deinem Design behilflich sein können.";
+
+translate "White"
+to german "Weiß";
+translate "Coral"
+to german "Koralle";
+translate "Smoke"
+to german "Rauch";
+translate "Aqua"
+to german "Wasser";
+translate "Pink"
+to german "Rosa";
+translate "Beige"
+to german "Beige";
+translate "Black"
+to german "Schwarz";
+translate "Small"
+to german "Klein";
+translate "Medium"
+to german "Mittelgroß";
+translate "Large"
+to german "Groß";
+translate "Huge"
+to german "Riesig";
+
+translate "Show off my Necklace to the Scientists"
+to german "Zeige den Wissenschaftlern mein Halsband";
+
+translate "Your necklace has..."
+to german "Dein Halsband hat...";
+
+translate "N1 pearls, of which N2 are the right color, and N3 are in the correct settings."
+to german "N1 Perlen, von denen N2 die richtige Farbe haben und N3 in der richtigen Fassung sitzen.";
+
+translate "A K1 pearl."
+to german "Eine Perle: K1.";
+
+translate "No K1 pearl."
+to german "Keine Perle: K1.";
+
+translate "Show off my Necklace to the Instructors"
+to german "Zeige mein Halsband den Tauchlehrern";
+
+translate "Admire"
+to german "Bewundern";
+
+translate "Admiring..."
+to german "Bewundernd...";
+
+//translate "A ",World.PearlSize[nth(sd,5)]," ",World.PearlColor[nth(sd,6)]," pearl, found by ",nth(sd,0)," ",TimeString(time()-nth(sd,1))," ago at ",nth(sd,2)," ",nth(sd,3)/16," ",nth(sd,4)/16,"."
+//to german "";
+
+translate "Install Pearl"
+to german "Perle einsetzen";
+
+translate "K1 Pearl, Setting N1"
+to german "Perle K1, Platz N1";
+
+translate "When you remove a pearl, there is a chance that it will be destroyed. Do you want to remove the K1 pearl in K2 Setting N1?"
+to german "Wenn du eine Perle entfernen willst, kann es passieren, das sie kaputt geht. Möchtest du die Perle K1 K2 in der Fassung N1 entfernen?";
+
+translate "Pick a Pearl to install..."
+to german "Nimm eine Perle zum Einsetzen...";
+
+translate "Installing..."
+to german "Einsetzen...";
+
+translate "You must instal only pearls that you found."
+to german "Du darfst nur Perlen einsetzen, die du selbst gefunden hast.";
+
+translate "That pearl is the wrong size."
+to german "Diese Perle hat die falsche Größe.";
+
+translate "That pearl is the same color as the one you're replacing."
+to german "Diese Perle hat dieselbe Farbe wie jene, die du nun ersetzen möchtest.";
+
+translate "Your Endurance went up!"
+to german "Deine Ausdauer ist gestiegen!";
+
+translate "Stop Swimming"
+to german "Schwimmen stoppen";
+
+translate "Swim"
+to german "Schwimmen";
+
+translate "Could not find a swimming spot."
+to german "Kein Platz zum Schwimmen gefunden.";
+
+translate "Make an Oyster Grid"
+to german "Stelle ein Austerngitter her";
+
+translate "Size of Grid?"
+to german "Größe des Gitters?";
+
+translate "Difficulty 1-28"
+to german "Schwierigkeitsgrad 1-28";
+
+translate "Merlin"
+to german "Merlin";
+translate "Henning"
+to german "Henning";
+translate "Slydini"
+to german "Slydini";
+translate "Blaine"
+to german "Blaine";
+translate "Copperfield"
+to german "Copperfield";
+translate "Teller"
+to german "Teller";
+translate "Houdini"
+to german "Houdini";
+
+translate "Flip Rule?"
+to german "Wenderegel?";
+
+translate "Could not invert FlipRule. Call a Developer."
+to german "Kann keine Wenderegel umändern. Rufe einen Entwickler.";
+
+translate "Dive"
+to german "Tauchen";
+
+translate "You got an Oyster - it contains some tasty meat, and a Pearl!"
+to german "Du findest eine Auster - sie enthält etwas schmackhaftes Austernfleisch, und eine Perle!";
+
+

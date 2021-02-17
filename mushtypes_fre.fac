@@ -1,0 +1,160 @@
+module mushtypes_fre;
+
+translate Mushroom to french masculine
+{
+  ns "Champignon"; np "Champignons";
+}
+
+translate mushroompurple to french masculine
+{  ns "Champignon Bol d'Orge"; np "Champignons Bol d'Orge"; }
+
+translate MushroomAcornsCap to french masculine
+{
+  ns "Champignon Cupule de gland"; np "Champignons Cupules de gland";
+  }
+translate MushroomBleedingHand to french feminine
+{
+  ns "Champignon Main sanglante"; np "Champignons Mains sanglantes";
+}
+translate MushroomBrain to french masculine
+{
+  ns "Champignon Cervelle"; np "Champignons Cervelles";
+  }
+translate MushroomCamelsMane to french masculine
+{
+  ns "Champignon Crinière de chameau"; np "Champignons Crinières de chameau";
+  }
+translate MushroomCatNip to french masculine
+{
+  ns "Champignon Cataire"; np "Champignons Cataires";
+}
+translate MushroomCobraHood to french masculine
+{
+  ns "Champignon Crochet de serpent"; np "Champignons Crochets de serpent";
+  }
+translate MushroomColtsFoot to french masculine
+{
+  ns "Champignon Pied de cheval"; np "Champignons Pieds de cheval";
+}
+translate MushroomDeadTongue to french feminine
+{
+  ns "Champignon Langue morte"; np "Champignons Langues mortes";
+}
+translate MushroomDuelingSerpents to french masculine
+{
+  ns "Champignon Serpents combattants"; np "Champignons Serpents combattants";
+  }
+translate MushroomDungRot to french masculine
+{
+  ns "Champignon Pourriture"; np "Champignons Pourritures";
+}
+translate MushroomEarthLight to french feminine
+{
+  ns "Champignon Lumière de terre"; np "Champignons Lumières de terre";
+}
+translate MushroomEyeOfOsiris to french masculine
+{
+  ns "Champignon Oeil d'Osiris"; np "Champignons Oeil d'Osiris";
+}
+translate MushroomFishHook to french masculine
+{
+  ns "Champignon Hameçon"; np "Champignons Hameçons";
+  }
+translate MushroomHairyTooth to french feminine
+{
+  ns "Champignon Dent poilue"; np "Champignons Dents poilues";
+}
+translate MushroomHeartOfAsh to french masculine
+{
+  ns "Champignon Coeur de cendres"; np "Champignons Coeurs de cendres";
+}
+translate MushroomHeavensTorrent to french masculine
+{
+  ns "Champignon Torrent universel"; np "Champignons Torrents universel";
+  }
+translate MushroomIronKnot to french masculine
+{
+  ns "Champignon Noeud de fer"; np "Champignons Noeuds de fer";
+}
+translate MushroomNaturesJug to french masculine
+{
+  ns "Champignon Jarre de la nature"; np "Champignons Jarre de la nature";
+}
+translate MushroomNefertarisCrown to french masculine
+{
+  ns "Champignon Couronne de Nefertari"; np "Champignons Couronnes de Nefertari";
+  }
+  translate MushroomPeasantFoot to french masculine
+{
+  ns "Champignon Pied de paysan"; np "Champignons Pieds de paysan";
+  }
+  translate MushroomPoolOfTranquility to french masculine
+{
+  ns "Champignon Havre de tranquilité"; np "Champignons Havres de tranquilité";
+  }
+  translate MushroomRasAwakening to french masculine
+{
+  ns "Champignon Eveil de Râ"; np "Champignons Eveil de Râ";
+  }
+translate MushroomRazorsEdge to french masculine
+{
+  ns "Champignon Lame de résoir"; np "Champignons Lame de résoir";
+  }
+translate MushroomSaltWaterFungus to french masculine
+{
+  ns "Champignon Mousse d'eau"; np "Champignons Mousses d'eau";
+}
+translate MushroomSandSpore to french masculine
+{
+  ns "Champignon Spore des sables"; np "Champignons Spores des sables";
+}
+translate MushroomScorpionsBrood to french masculine
+{
+  ns "Champignon Couvée de scorpions"; np "Champignons Couvées de scorpions";
+  }
+translate MushroomSlavesBread to french masculine
+{
+  ns "Champignon Pain d'esclave"; np "Champignons Pains d'esclave";
+}
+translate MushroomToadSkin to french masculine
+{
+  ns "Champignon Peau de crapaud"; np "Champignons Peaux de crapauds";
+}
+
+translate MushroomFalconBait to french masculine
+{
+  ns "Champignon Appât pour faucon"; np "Champignons Appât pour faucon";
+}
+
+translate MushroomSunStar to french masculine
+{
+  ns "Champignon Etoile ensoleillée"; np "Champignons Etoile ensoleillée";
+}
+
+translate MushroomNileFire to french masculine
+{
+  ns "Champignon Nil enflammé"; np "Champignons Nil enflammé";
+}
+
+translate MushroomBeehive to french masculine
+{
+  ns "Champignon Rûche"; np "Champignons Rûche";
+}
+
+translate mushroomgoldensun to french masculine
+{
+  ns "Champignon Soleil d'or"; np "Champignons Soleil d'or";
+}
+
+translate MushroomCarrion to french masculine
+{
+  ns "Champignon Charogne"; np "Champignons Charogne";
+}
+
+translate MushroomSpiderling to french masculine
+{
+  ns "Champignon Cocon d'araignée"; np "Champignons Cocon d'araignée";
+}
+
+
+

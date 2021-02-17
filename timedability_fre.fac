@@ -1,0 +1,10 @@
+Module TimedAbility_fre;
+
+
+translate easternmeditation to french feminine
+{
+  ns "Méditation orientale"; np "Méditation orientale";
+}
+
+translate "Learn O1 for..."
+to french "Apprendre O1(ns) pour...";

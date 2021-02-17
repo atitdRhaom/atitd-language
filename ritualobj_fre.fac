@@ -1,0 +1,128 @@
+module ritualobj_fre;
+
+translate RitualTorch to french feminine
+{
+  ns "Torche rituelle"; np "Torches rituelles";
+}
+translate RitualPedestal to french masculine
+{
+  ns "Piédestal rituel"; np "Piédestals rituels";
+}
+
+translate "Ritual Items"
+to french "Objets rituels";
+
+translate "Build a Ritual Torch"
+to french "Fabriquer une torche rituelle";
+
+translate "Build a Ritual Pedestal"
+to french "Construire un piédestal rituel";
+
+translate "Recite an Incantation"
+to french "Réciter une incantation";
+
+translate "Ritually Drop an Item into the Mine"
+to french "Jeter un objet dans la mine en cérémonie";
+
+translate "Item to Ritually Drop into Mine:"
+to french "Objet à jeter dans la mine en cérémonie :";
+
+translate "You don't have that item."
+to french "Vous ne possédez pas cet objet.";
+
+translate "To build a Ritual Torch, you need: "
+to french "Pour fabriquer une torche rituelle, il vous faut : ";
+
+translate "Soak the Torch with Oil"
+to french "Tremper la torche rituelle dans de l'huile";
+
+translate "You do not have any oil."
+to french "Vous n'avez pas d'huile.";
+
+translate "The torch is ready to light."
+to french "La torche est prête à être allumée.";
+
+translate "Light the Torch"
+to french "Allumer la torche";
+
+translate "Type in the Incantation:"
+to french "Prononcez l'incantation :";
+
+translate "To build a Ritual Pedestal, you need: "
+to french "Pour construire un piédestal rituel, il vous faut : ";
+
+translate "Paint the Pedestal White"
+to french "Peindre le piédestal en blanc";
+
+translate "Paint the Pedestal Red"
+to french "Peindre le piédestal en rouge";
+
+translate "Paint the Pedestal Blue"
+to french "Peindre le piédestal en bleu";
+
+translate "Paint the Pedestal Green"
+to french "Peindre le piédestal en vert";
+
+translate "You do not have the paint."
+to french "Vous n'avez pas la peinture correspondante.";
+
+translate "Paint the Pedestal's Trim White"
+to french "Peindre la bordure du piédestal en blanc";
+
+translate "Paint the Pedestal's Trim Red"
+to french "Peindre la bordure du piédestal en rouge";
+
+translate "Paint the Pedestal's Trim Blue"
+to french "Peindre la bordure du piédestal en bleu";
+
+translate "Paint the Pedestal's Trim Green"
+to french "Peindre la bordure du piédestal en vert";
+
+translate "Place an Object on the Pedestal"
+to french "Placer un objet sur le piédestal";
+
+translate "Item to place on Pedestal:"
+to french "Objet à placer sur le piédestal :";
+
+translate "That is not one of the items you can place onto a ritual pedestal."
+to french "Ce n'est pas le genre d'objet que l'on peut placer sur un piédestal.";
+
+translate "You do not have that item."
+to french "Vous ne possédez pas cet objet.";
+
+translate "Take the O1 from the Pedestal"
+to french "Prendre O1(lns) O1(ns) du piédestal.";
+
+
+translate SpiritBrasier to french masculine
+{
+  ns "Brasier d'extraits"; np "Brasiers d'extraits";
+}
+
+translate "Build a Spirit Brasier"
+to french "Edifier un brasier d'extraits";
+
+translate "To build a Spirit Brasier, you need:"
+to french "Pour édifier un brasier d'extraits, il vous fait :";
+
+translate "Light the brasier"
+to french "Allumer le brasier";
+
+translate "Select the spirit you wish to use for fuel:"
+to french "Choisissez l'extrait que vous souhaitez utiliser comme combustible :";
+
+translate "You must select a spirit"
+to french "Vous devez choisir un extrait";
+
+translate "Too late, somebody else already lit it."
+to french "Trop tard, quelqu'un l'a déjà allumé.";
+
+translate "You need 5 K1."
+to french "Il vous faut 5 K1.";
+
+translate "The brasier is burning K1"
+to french "Le brasier brûle K1";
+
+translate "It will burn out in N1 seconds."
+to french "Il brûlera pendant N1 secondes.";
+

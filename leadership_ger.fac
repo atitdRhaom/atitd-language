@@ -1,0 +1,563 @@
+module leadership_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2007 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+
+translate MentorShrine to german masculine
+{
+  swa "Mentorenschrein";
+  sn "Mentorenschrein"; sg "Mentorenschreines"; sd "Mentorenschrein"; sa "Mentorenschrein";
+  pn "Mentorenschreine"; pg "Mentorenschreine"; pd "Mentorenschreinen"; pa "Mentorenschreine";
+}
+
+
+translate "Where am I?"
+to german "Wo bin ich?";
+
+translate "You are currently in the GM Jail.  Please contact a GM"
+to german "Du bist momentan im GM Gefängnis. Rufe einen Gamemaster";
+
+translate "Offer to mentor this person"
+to german "Biete dieser Person an sein Mentor zu sein";
+
+translate "Mentorship has changed with Welcoming Island. Experienced players should play the part of game elders here, gently guiding students, and only when they have questions. Mentorship happens after a student leaves the Island, and there are no formal requirements."
+to german "Die Unterweisung hat sich mit der Willkommensinsel verändert. Erfahrene Spieler sollten hier zurückhaltend auftreten und nur bei Fragen aktiv sein, damit Newbies selbst ihre Erfahrungen machen können. Die Unterweisung macht aber vor allem auch Sinn, wenn ein Newbie die Insel verlassen hat und vor den ersten größeren Aufgaben steht.";
+
+translate "You are prohibited by law from doing anything related to Mentoring."
+to german "Dir ist es per Gesetz verboten irgendetwas Unterweisungsbezogenes zu tun.";
+
+translate "You are already U1's mentor."
+to german "Du bist bereits der Mentor von U1(name).";
+
+translate "U1 has to have been in Egypt for fifteen minutes to accept a mentor. You can certainly talk in the mean time, and explain mentorship."
+to german "U1(name) muss für 15 Minuten in Ägypten gewesen sein, bevor er einen Mentor annehmen kann. Du kannst ihm zwischenzeitlich die Unterweisung erklären.";
+
+translate "Someone has already offered mentorship within the last 5 minutes. In order to prevent new arrivals from getting overwhelmed, mentorships can only be offered every 5 minutes."
+to german "Jemand hat in den letzten 5 Minuten bereits angeboten, Mentor zu sein. Um zu verhindern, das Neulinge 'überrannt' werden, kann man nur alle 3 Minuten Mentorenhilfe anbieten.";
+
+translate "Asked if he would like you as a mentor. You'll be notified."
+to german "Du hast gefragt, ob er dich als Mentor will. Du wirst benachrichtigt.";
+translate "Asked if she would like you as a mentor. You'll be notified."
+to german "Du hast gefragt, ob sie dich als Mentor will. Du wirst benachrichtigt.";
+
+translate "U1 is offering to become your mentor. Would you like him to become your mentor instead of U2?"
+to german "U1(name) bietet dir an, dein Mentor zu sein. Willst du ihn als deinen neuen Mentoren anstatt U2(name)?";
+
+translate "U1 is offering to become your mentor. Would you like her to become your mentor instead of U2?"
+to german "U1(name) bietet dir an, dein Mentor zu sein. Willst du sie als deiner neuen Mentorin anstatt U2(name)?";
+
+translate "U1 is offering to become your mentor, and help you get started in Egypt. If he is helpful, you will have the option of building a small shrine to honor him."
+to german "U1(name) bietet dir an, dein Mentor zu sein und dir beim Start in Ägypten zu helfen. Wenn er hilfreich ist, bekommst du die Option, ihm einen kleinen Schrein zur Ehrung zu bauen.";
+
+translate "U1 is offering to become your mentor, and help you get started in Egypt. If she is helpful, you will have the option of building a small shrine to honor her."
+to german "U1(name) bietet dir an, deine Mentorin zu sein und dir beim Start in Ägypten zu helfen. Wenn sie hilfreich ist, bekommst du die Option, ihr einen kleinen Schrein zur Ehrung zu bauen.";
+
+translate "U1 accepted your offer. You are now his mentor."
+to german "U1(name) akzeptierte dein Angebot. Du bist nun sein Mentor.";
+
+translate "U1 accepted your offer. You are now her mentor."
+to german "U1(name) akzeptierte dein Angebot. Du bist nun ihr Mentor.";
+
+translate "U1 rejected your offer."
+to german "U1(name) hat dein Angebot abgelehnt.";
+
+translate "If you're trying to become a citizen then you must pick up sand from a natural source like a desert or beach. Use the action icon in the upper-right part of the screen to do this."
+to german "Wenn du versuchst, ein Bürger zu werden, musst du Sand von einer natürlichen Quelle wie einem Strand oder der Wüste aufsammeln. Benutze das Aktionszeichen rechts oben in deinem Bildschirm";
+
+translate "To become a citizen, one of the tasks is to gather mud from a natural source, and not from a bucket left by someone else. Find a body of water and then use the action icon in the upper-right part of the screen to do this."
+to german "Eine der Aufgaben, um ein Bürger zu werden, ist das Sammeln von Schlamm aus einer natürlichen Quelle und nicht aus einem Eimer eines Anderen. Nutze das Aktionszeichen rechts oben in deinem Bildschirm."; 
+
+translate "Fix Mentor Shrine Counts"
+to german "Repariere Mentorenschrein-Zählungen";
+
+translate "Award a day of offline travel time"
+to german "Schenke 1 Tag Offline-Reisezeit";
+
+translate "Reset this person's mentorship"
+to german "Setze Mentorenschaft dieser Person zurück";
+
+translate "Reset entire mentorship system"
+to german "Setze das GESAMTE Mentorensystem zurück";
+
+translate "Check this student's progress."
+to german "Prüfe den Fortschritt dieses Lehrlings.";
+
+translate "Check Mentorship"
+to german "Prüfe Fortschritt zum werdenden Einwohner";
+
+translate "Vote for U1"
+to german "Stimme für U1(name)";
+
+translate "Dinner with Pharaoh"
+to german "Abendessen mit dem Pharaoh";
+
+translate "Ancient Map"
+to german "Alte Karte";
+
+translate "Add 1 Mentorship point"
+to german "Füge 1 Mentorenpunkt hinzu";
+
+translate "Your World Coordinate position is egypt at N1,N2."
+to german "Deine Koordinaten Ägypten sind N1,N2.";
+translate "Your World Coordinate position is egypt at -N1,N2."
+to german "Deine Koordinaten sind -N1,N2.";
+translate "Your World Coordinate position is egypt at N1,-N2."
+to german "Deine Koordinaten sind N1,-N2.";
+translate "Your World Coordinate position is egypt at -N1,-N2."
+to german "Deine Koordinaten sind  -N1,-N2.";
+
+translate "Your World Coordinate position is builder at N1,N2."
+to german "Deine Koordinaten in Builder sind N1,N2.";
+translate "Your World Coordinate position is builder at -N1,N2."
+to german "Deine Koordinaten in Builder sind -N1,N2.";
+translate "Your World Coordinate position is builder at N1,-N2."
+to german "Deine Koordinaten in Builder sind N1,-N2.";
+translate "Your World Coordinate position is builder at -N1,-N2."
+to german "Deine Koordinaten in Builder sind -N1,-N2.";
+
+translate "Citizen *U1"
+to german "Bürger *U1(name)";
+translate "Peasant *U1"
+to german "Bauer *U1(name)";
+
+translate "Mentor Shrine at egypt N1 N2 U1"
+to german "Mentorschrein in Ägypten N1 N2 U1(name)";
+translate "Mentor Shrine at egypt -N1 N2 U1"
+to german "Mentorschrein in Ägypten -N1 N2 U1(name)";
+translate "Mentor Shrine at egypt N1 -N2 U1"
+to german "Mentorschrein in Ägypten N1 -N2 U1(name)";
+translate "Mentor Shrine at egypt -N1 -N2 U1"
+to german "Mentorschrein in Ägypten -N1 -N2 U1(name)";
+
+translate "Mentor Shrine at oz N1 N2 U1"
+to german "Mentorschrein in Oz N1 N2 U1(name)";
+translate "Mentor Shrine at oz -N1 N2 U1"
+to german "Mentorschrein in Oz -N1 N2 U1(name)";
+translate "Mentor Shrine at oz N1 -N2 U1"
+to german "Mentorschrein in Oz N1 -N2 U1(name)";
+translate "Mentor Shrine at oz -N1 -N2 U1"
+to german "Mentorschrein in Oz -N1 -N2 U1(name)";
+
+translate "Mentor Shrine at builder N1 N2 U1"
+to german "Mentorschrein in Builder N1 N2 U1(name)";
+translate "Mentor Shrine at builder -N1 N2 U1"
+to german "Mentorschrein in Builder -N1 N2 U1(name)";
+translate "Mentor Shrine at builder N1 -N2 U1"
+to german "Mentorschrein in Builder N1 -N2 U1(name)";
+translate "Mentor Shrine at builder -N1 -N2 U1"
+to german "Mentorschrein in Builder -N1 -N2 U1(name)";
+
+translate "No change to U1: "
+to german "Keine Änderungen bei U1(name): ";
+
+translate "Added U1 to U2's mentor list."
+to german "U1(name) wurde in U2(name)s Mentorenliste hinzugefügt";
+
+translate "Mentor Shrine owned by U1 built by U2 honoring U3"
+to german "Dieser Mentorenschrein gehört U1(name), gebaut von U2(name) zu Ehren von U3(name)";
+
+translate "Has U1 helpfully answered your questions?"
+to german "Hat U1(name) deine Fragen hilfreich beantwortet?";
+
+translate "Do you know where to find the Schools and Universities?"
+to german "Weißt du, wie man Schulen und Universitäten findet?";
+
+translate "Do you know how to Initiate into the Disciplines?"
+to german "Weißt du, wie man in die Disziplinen eingeführt wird?";
+
+translate "Have you met several of the local Guilds?"
+to german "Hast du verschiedene lokale Gilden besucht?";
+
+translate "It sounds like you had a good mentor.  Are you ready to build a shrine in his honor?"
+to german "Es klingt, als hättest du einen guten Mentor gehabt. Bist du bereit, ihm zu Ehren einen Schrein zu bauen?";
+
+translate "This person does not deserve a shrine."
+to german "Diese Person verdient keinen Schrein.";
+
+translate "Shrine construction aborted."
+to german "Schreinkonstruktion abgebrochen.";
+
+translate "To build a shrine honoring your mentor, you must be out of your free trial period."
+to german "Um einen Schrein zur Ehrung deines Mentors zu bauen, musst du einen bezahlten Account haben.";
+
+translate "Can't find your mentor. Report this to the developers."
+to german "Du kannst deinen Mentor nicht finden. Melde dies den Admins.";
+
+translate "To build a mentor shrine to U1 you need:"
+to german "Um einen Mentorenschrein für U1(name) zu bauen, benötigst du:";
+
+translate "U1 has built a shrine of mentorship in your honor. You now have N1 shrine(s) built for you. You have visited N2 of them."
+to german "U1(name) hat dir zu Ehren einen Mentorschrein gebaut. Du hast nun N1 Schrein(e) zu deinen Ehren. Du hast N2 davon besucht.";
+
+translate "By order of the Mentor Shrines Law, introduced by Forgiving, you must wait another N1 before building a mentor shrine to U1"
+to german "Per Mentorenschreingesetz, eingeführt durch Forgiving, musst du weitere N1 warten, bevor du einen Mentorenschrein zu Ehren von U1(name) bauen kannst.";
+
+translate "Student not found."
+to german "Student nicht gefunden.";
+
+translate "Mentor not found."
+to german "Mentor nicht gefunden.";
+
+translate "CreditHonored warning: N1 N2"
+to german "KreditEhrung Warnung: N1 N2";
+translate "CreditHonored warning: -N1 N2"
+to german "KreditEhrung Warnung: -N1 N2";
+translate "CreditHonored warning: N1 -N2"
+to german "KreditEhrung Warnung: N1 -N2";
+translate "CreditHonored warning: -N1 -N2"
+to german "KreditEhrung Warnung: -N1 -N2";
+
+translate "Shrine at N1 N2 by U1 honoring U2 N3 ago."
+to german "Schrein bei N1 N3 von U1(name), zu Ehren von U2(name) vor N3.";
+
+translate "This Mentor Shrine was built by U1 to honor U2."
+to german "Dieser Mentorenschrein wurde von U1(name) zu Ehren von U2(name) erbaut.";
+
+translate "Meditate on this shrine"
+to german "Meditiere an diesem Schrein";
+
+translate "You have visited N1 out of N2 shine(s) built in your honor."
+to german "Du hast N1 von N2 dir zu Ehren erbaute Schreine besucht.";
+
+translate "U1 has visited your mentor shrine."
+to german "U1(name) hat deinen Mentorenschrein besucht.";
+
+translate "You receive the Patron Chat Bubble"
+to german "Du hast die Gönner Sprechblase erhalten.";
+
+translate "A gift from Pharaoh! Check your inventory."
+to german "Ein Geschenk von Pharaoh! Schau in dein Inventar.";
+
+translate "July 4 Shrine! Star Labs awarded to U1 and U2"
+to german "4ter Juli Schrein! U1(name) und U2(name) haben ein Starlab bekommen.";
+
+translate "Specimen Case Event Started."
+to german "Musterkoffer-Event gestartet.";
+
+translate "Bad Mentorship: U1"
+to german "Schlechtes Mentorensein: U1(name)";
+
+translate "You have been blessed with a day of offline travel time."
+to german "Dir wurde ein Tag Offline-Reisezeit geschenkt.";
+
+translate "people. You may vote for yourself, but if your group deadlocks (tie vote), the group doesn't "
+to german "Du kannst für dich selbst stimmen, aber wenn deine Gruppe sich blockiert (Unentschieden), ";
+
+translate "elevate anyone to the next lower rank election."
+to german "wählt deine Gruppe niemanden für die nächstengere Wahl.";
+
+translate "Change my Signup Status"
+to german "Ändere meinen Anmeldestatus";
+
+translate "Don't include me unless I sign up again"
+to german "Ich möchte nicht berücksichtigt werden, bis ich mich wieder eintrage";
+
+translate "Skip just this next election"
+to german "Lasse nur die nächste Wahl aus";
+
+translate "Count me in!"
+to german "Trage mich ein!";
+
+translate "Examine my Status"
+to german "Betrachte meinen Status";
+
+translate "You have signed up for the Test, but not registered for this election."
+to german "Du hast dich für den Test, aber nicht für die Wahl eingetragen.";
+
+translate "You are signed up for the Test, and registered for this election."
+to german "Du hast dich für den Test und für diese Wahl eingetragen.";
+
+translate "Welcome U1."
+to german "Willkommen U1(name).";
+translate "Welcome N1."
+to german "Willkommen N1.";
+
+translate "More information can be found at voting booths."
+to german "Mehr Informationen können in Wahlurnen eingesehen werden.";
+
+translate "Make sure Pharaoh is around the first time this is done. Type /chat Pharaoh"
+to german "Stelle sicher, dass Pharaoh dabei ist, wenn dies das erste Mal gemacht wird. Tippe /chat Pharaoh";
+
+translate "Bans Remaining: N1"
+to german "Verbleibende Banns: N1";
+
+translate "You will be disconnected in N1. Get your affairs in order, and say final goodbyes."
+to german "Du wirst in N1 ausgeloggt. Ordne deine Angelegenheiten und verabschiede dich von Deinen Freunden.";
+
+translate "You changed your vote from U1 to U2."
+to german "Du hast deine Wahl von U1(name) auf U2(name) geändert.";
+
+translate "U1 votes for U2"
+to german "U1(name) stimmt für U2(name)";
+
+translate "U1 voted for U2"
+to german "U1(name) stimmte für U2(name)";
+
+translate "No votes were cast, so your group elevates nobody."
+to german "Keine Wahlen wurden getroffen, so nominiert deine Gruppe niemanden.";
+
+translate "N1 people each received N2 votes. Since nobody got a majority, your group elevates nobody."
+to german "N1 Leute haben N2 Stimmen erhalten. Da niemand die Mehrheit erhielt, hat deine Gruppe Niemanden nominiert.";
+
+translate "Voting was as follows: "
+to german "Gewählt wurde wie folgt: ";
+
+translate "U1 received N1 votes. "
+to german "U1(name) erhielt N1 Stimmen. ";
+
+translate "U1 is elevated to the next election. "
+to german "U1(name) ist für die nächste Wahl nominiert. ";
+
+translate "Not a candidate: U1"
+to german "Kein Kandidat: U1(name)";
+
+translate "Votes for U1: "
+to german "Stimmen für U1(name): ";
+
+translate "See all votes"
+to german "Zeige alle Stimmen";
+
+translate "Votes so far:"
+to german "Stimmen bisher:";
+
+translate "Tasks"
+to german "Aufgaben";
+
+translate "Scholarship"
+to german "Stipendium";
+
+translate "Fellow teachers will recognize you as one of their own. (Next skill is half-price.)"
+to german "Befreundete Lehrer werden dich als einen der Ihren ansehen (Nächste Fertigkeit zum halben Preis.)";
+
+translate "Full Scholarship"
+to german "Volles Stipendium";
+
+translate "Fellow teachers honor you as a peer. (Any skill, free)"
+to german "Befreundete Lehrer erkennen dich als ebenbürtig an (Jede Fertigkeit kostenlos)";
+
+translate "Back Roads"
+to german "Rückweg";
+
+translate "Learn of back roads and seldom used paths that will speed your journeys. (24 hours offline travel.)"
+to german "Die Lehre über Rückweg und selten benutzte Pfade wird deine Reisen beschleunigen (24 Stunden offline Reisen.)";
+
+translate "Dinner with Pharaoh"
+to german "Abendessen mit Pharaoh";
+
+translate "An elegant meal of the finest meats and rarest vegetables, seasoned with the most exotic spices in Egypt. (+7 Perception for 24 hours, Special surprise, unique per dinner.)"
+to german "Ein elegantes Mahl aus dem feinsten Fleisch und den seltensten Gemüsen, gewürzt mit den exotischsten Aromen Ägyptens. (+7 Empfindung für 24 Stunden, besondere Überraschung, einzigartig pro Mahl.)";
+
+translate "Fountain of Knowledge"
+to german "Brunnen des Wissens";
+
+translate "A quick tutorial in effective methods of instruction. (Teach one skill or level, instantly.)"
+to german "Eine schnelle Einführung in effektive Lehrmethoden (Lehre 1 Fertigkeit oder Stufe augenblicklich.)";
+
+translate "Thirst for Knowledge"
+to german "Durst nach Wissen";
+
+translate "A method of concentrating intensely on a single subject. (Learn one skill from another player, instantly.)"
+to german "Eine Konzentrationsmethode, intensiv auf 1 Subjekt angewandt. (Lerne eine Fertigkeit von einem anderen Spieler augenblicklich.)";
+
+translate "Homeward Bound"
+to german "Auf dem Heimweg";
+
+translate "With careful study of Egypt's geography, you will learn to recognize even obscure landmarks. (One additional waypoint.)"
+to german "Mit aufmerksamen Studien von Ägyptens Geografie wirst du lernen, sogar die dunkelsten Ecken zu erkennen (Ein zusätzlicher Wegpunkt.)";
+
+translate "Ancient Map"
+to german "Alte Karte";
+
+translate "You will be given 3 map fragments from an ancient tome on ores and minerals. (600 foot radius mineral map, any locations.)"
+to german "Dir werden 3 Kartenfragmente eines alten Buches über Erze und Mineralien gegeben. (600 Fuß-Radius Mineralkarte, jeder Standort.)";
+
+translate "Bringer of Knowledge"
+to german "Überbringer des Wissens";
+
+translate "You will have the chance to work side by side with researchers at a University. (A single contribution to University research is doubled.)"
+to german "Du kannst Seite an Seite mit den Forschern einer Universität arbeiten (Ein einzelner Beitrag zu einer Universitätsforschung wird verdoppelt.)";
+
+translate "Tenure"
+to german "Anstellung auf Lebenszeit";
+
+translate "You are accepted as one of Egypt's finest teachers. (Half price skills for life.)"
+to german "Du wurdest als einer der größten Lehrer Ägyptens akzeptiert (Fertigkeiten zum halben Preis auf Lebenszeit.)";
+
+translate "Headmaster"
+to german "Schulleiter";
+
+translate "Your skill as a teacher becomes legendary. (Double speed teaching forever.)"
+to german "Deine Fähigkeiten als Lehrer sind legendär. (Doppelte Lehr-Geschwindigkeit für immer.)";
+
+translate "Mentor Shrine Bonuses"
+to german "Mentorenschrein-Boni";
+
+translate "You have N1 mentor shrine points"
+to german "Du hast N1 Mentorenschrein-Punkte";
+
+translate "Scholarship (N1 points)"
+to german "Stipendium (N1 Punkte)";
+
+translate "Full Scholarship (N1 points)"
+to german "Volles Stipendium (N1 Punkte)";
+
+translate "Back Roads (N1 points)"
+to german "Rückweg (N1 Punkte)";
+
+translate "Dinner with Pharaoh (N1 points)"
+to german "Abendessen mit Pharaoh (N1 Punkte)";
+
+translate "Fountain of Knowledge (N1 points)"
+to german "Brunnen des Wissens (N1 Punkte)";
+
+translate "Thirst for Knowledge (N1 points)"
+to german "Durst nach Wissen (N1 Punkte)";
+
+translate "Homeward Bound (N1 points)"
+to german "Auf dem Heimweg (N1 Punkte)";
+
+translate "Ancient Map (N1 points)"
+to german "Alte Karte (N1 Punkte)";
+
+translate "Bringer of Knowledge (N1 points)"
+to german "Überbringer des Wissens (N1 Punkte)";
+
+translate "Tenure (N1 points)"
+to german "Anstellung auf Lebenszeit (N1 Punkte)";
+
+translate "Scholarship for N1 points:"
+to german "Stipendium für N1 Punkte:";
+translate "Full Scholarship for N1 points:"
+to german "Volles Stipendium für N1 Punkte:";
+translate "Back Roads for N1 points:"
+to german "Rückweg für N1 Punkte:";
+translate "Dinner with Pharaoh for N1 points:"
+to german "Abendessen mit Pharaoh für N1 Punkte:";
+translate "Fountain of Knowledge for N1 points:"
+to german "Brunnen des Wissens N1 Punkte:";
+translate "Thirst for Knowledge for N1 points:"
+to german "Durst nach Wissen N1 Punkte:";
+translate "Homeward Bound for N1 points:"
+to german "Auf dem Heimweg für N1 Punkte:";
+translate "Ancient Map for N1 points:"
+to german "Alte Karte für N1 Punkte";
+translate "Bringer of Knowledge for N1 points:"
+to german "Überbringer des Wissens für N1 Punkte:";
+translate "Tenure for N1 points:"
+to german "Anstellung auf Lebenszeit für N1 Punkte";
+translate "Eye of God"
+to german "Gottes Auge";
+
+translate "The gods watch over and protect you. (A free month of gameplay.)"
+to german "Die Götter wachen über dich. (1 freier Spielmonat.)";
+
+translate "Buy this bonus?"
+to german "Diesen Bonus kaufen?";
+
+translate "You only have N1 points."
+to german "Du hast nur N1 Punkte.";
+
+translate "You already have Tenure. There's no need to ask for it again."
+to german "Du bist bereits auf Lebenszeit angestellt. Du brauchst nicht mehr hiernach fragen.";
+
+translate "Notifying Pharaoh. You won't be charged any points until Pharaoh shows up serves the exotic meal."
+to german "Pharaoh benachrichtigt. Dir werden keine Punkte abgezogen, bevor dir Pharaoh ein exotisches Mahl bereitet hat.";
+
+translate "Dinner with Pharaoh is requested by U1"
+to german "Abendessen with Pharaoh ist von U1(name) angefragt worden";
+
+translate "Not yet implemented. No points have been used."
+to german "Noch nicht implementiert. Keine Punkte verbraucht";
+
+translate "You receive the bonus \"Scholarship\" in honor of your hard work."
+to german "Du erhälst den Bonus \"Stipendium\" als Dank für deine harte Arbeit";
+translate "You receive the bonus \"Full Scholarship\" in honor of your hard work."
+to german "Du erhälst den Bonus \"Volles Stipendium\" als Dank für deine harte Arbeit";
+translate "You receive the bonus \"Back Roads\" in honor of your hard work."
+to german "Du erhälst den Bonus \"Rückweg\" als Dank für deine harte Arbeit";
+translate "You receive the bonus \"Dinner with Pharaoh\" in honor of your hard work."
+to german "Du erhälst den Bonus \"Abendessen mit Pharaoh\" als Dank für deine harte Arbeit";
+translate "You receive the bonus \"Fountain of Knowledge\" in honor of your hard work."
+to german "Du erhälst den Bonus \"Brunnen des Wissens\" als Dank für deine harte Arbeit";
+translate "You receive the bonus \"Thirst for Knowledge\" in honor of your hard work."
+to german "Du erhälst den Bonus \"Durst nach Wissen\" als Dank für deine harte Arbeit";
+translate "You receive the bonus \"Homeward Bound\" in honor of your hard work."
+to german "Du erhälst den Bonus \"Auf dem Heimweg\" als Dank für deine harte Arbeit";
+translate "You receive the bonus \"Ancient Map\" in honor of your hard work."
+to german "Du erhälst den Bonus \"Alte Karte\" als Dank für deine harte Arbeit";
+translate "You receive the bonus \"Bringer of Knowledge\" in honor of your hard work."
+to german "Du erhälst den Bonus \"Überbringer des Wissens\" als Dank für deine harte Arbeit";
+translate "You receive the bonus \"Tenure\" in honor of your hard work."
+to german "Du erhälst den Bonus \"Anstellung auf Lebenszeit\" als Dank für deine harte Arbeit";
+translate "You receive the bonus \"Eye of God\" in honor of your hard work."
+to german "Du erhälst den Bonus \"Gottes Auge\" als Dank für deine harte Arbeit";
+
+translate "Only N1 MentorShrine Points."
+to german "Nur N1 Mentorenschrein Punkte.";
+translate "Only N1 MentorShrine Points."
+to german "Nur N1 Mentorenschrein Punkte.";
+
+translate "You eat the most flavorful, exotic dish you have ever tasted. Check your statistics."
+to german "Du ißt das geschmackvollste, exotischste Essen, das du jemals probiert hast. Schaue Deine Eigenschaften nach.";
+
+translate "The + indicates your position. Each square is N1 feet."
+to german "Das + bezeichnet deine Position. Jedes Quadrat sind N1 Fuß.";
+
+translate "Unfolding the map..."
+to german "Entfalte die Karte...";
+
+translate "You have N1 map(s) remaining. Each fragment will crumble as you unfold it, meaning you can display each fragment only once. You may take screenshots with the ALT-C command - this is recommended. You will have to use the scroll bar to see all of the map. Stand where you want the map centered. Proceed?"
+to german "Du hast N1 Karte(n) übrig. Jedes Fragment wird zerfallen, wenn du es ausgepackt hast, was heißt dass du es nur 1 Mal anschauen kannst. Du kannst einen Screenshot mit ALT-C machen - dies wird empfohlen. Du musst die Bildlaufleiste benutzen, um die ganze Karte zu sehen. Stelle dich hin, wo du den Kartenmittelpunkt haben willst. Fortfahren?";
+
+translate "Type in my Mentor's name"
+to german "Schreibe den Namen des Mentors";
+
+translate "Name of mentor?"
+to german "Name des Mentors?";
+
+translate "Mentor Shrines can only be built in Egypt proper."
+to german "Mentorenschreine können nur in Ägypten gebaut werden.";
+
+translate "Could not find: "
+to german "Nicht zu finden: ";
+
+translate "You're not *that* vain, are you??"
+to german "Du bist nicht SO ungeübt, oder doch???";
+
+translate "U1 is now registered as your mentor."
+to german "U1(name) ist nun als dein Mentor eingetragen.";
+
+translate "U1 has now registered you as mentor."
+to german "U1(name) hat dich nun als Mentor eingetragen";
+
+translate "Mentor Shrine"
+to german "Mentorenschrein";
+
+translate "Mentor Shrine Instructions"
+to german "Anleitung zum Mentorenschrein";
+
+translate "You can now build a Mentor Shrine."
+to german "Du kannst nun einen Mentorenschrein bauen.";
+
+translate "You can reread these instructions at any time using your Projects/Mentor Shrine menu."
+to german "Du kannst diese Anleitung immer wieder lesen, indem du dein Projektemenü/Mentorenschrein-Menü benutzt.";
+
+translate "A mentor is a person who goes out of their way to make you feel welcome in Egypt.  A mentor is a true friend, a lifelong friend. A mentor shrine is the traditional way to repay their kindness."
+to german "Ein Mentor ist ein Mitspieler, der dir hilft, dich in Ägypten heimisch zu fühlen. Ein Mentor ist ein echter Freund, ein lebenslanger Freund. Ein Mentorenschrein ist der traditionelle Weg, seinen Einsatz zu würdigen.";
+
+translate "You can only ever build one shrine, and the power it grants its recipient is substantial, so it is a priceless item. No amount of money can ever repay its value.  You should give your shrine only to one who is truly deserving, a person who through their kindness has become your friend forever."
+to german "Du kannst nur einen einzigen Mentorenschrein bauen, er gibt dem Empfänger eine wertvolle Hilfe für seinen eigenen Fortschritt. Kein Geld kann dies jemals erreichen. Du solltest also den Schrein nur für Jemanden erbauen, der sich als wahrer Freund und Helfer gezeigt hat.";
+
+translate "If there is no such person yet, then reserve your shrine.  A time will come when you meet somebody who is truly worthy.  At that time, you can grant the shrine."
+to german "Wenn nicht gleich eine solche Person da ist, spare Dir den Schrein auf. Es wird eine Zeit kommen, wo du Jemanden triffst, der den Schrein wirklich verdient.";
+
+translate "The actual construction of the shrine is trivial. You must first type in the name of a person you wish to honor.  Then you start construction: a few boards, some bricks, a couple odds and ends. It is the honor implicit in them which makes shrines special."
+to german "Die Herstellung eines Schreines ist einfach. Zuerst tippst du den Namen der Person ein, die du ehren willst. Dann beginnst du die Konstruktion mit ein paar einfachen Rohstoffen wie Brettern oder Ziegel. Es ist die Ehre, die diese Schreine so einmalig macht.";
+
+translate "Build a shrine to "
+to german "Baue folgendem Spieler einen Schrein ";

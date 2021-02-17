@@ -1,0 +1,98 @@
+module passes_fre;
+
+//Big problem for System passes : there are sometimes more than 9 UserNames.
+
+//Funerary Temple//
+
+translate "Egypt recognizes "
+to french "L'épypte reconnait ";
+
+translate "K1 U1 (N1 points from N2 colors) and U2 (N3 points using N4 colors) for passing the test of the Funerary Temple."
+to french "K1 U1(name) (N1 points avec N2 couleurs) et U2(name) (N3 points avec N4 couleurs) pour avoir passé l'épreuve du temple funéraire";
+
+//Marriage//
+
+translate "Egypt recognizes K1 for passing the Test of Marriage. Retaining N1 passes."
+to french "L'Egypte reconnait K1 pour avoir passé l'épreuve du Mariage. Report de N1 passages.";
+translate "Egypt recognizes K1 for passing the Test of Marriage. "
+to french "L'Egypte reconnait K1 pour avoir passé l'épreuve du Mariage. ";
+
+translate "Egypt recognizes K1 for specially passing the Test of Marriage based on number of Marriages. Retaining N1 passes."
+to french "L'Egypte reconnait K1 pour avoir passé l'épreuve du Mariage, basé sur le nombre d'unions successives. Report de N1 passages.";
+translate "Egypt recognizes K1 for specially passing the Test of Marriage based on number of Marriages. "
+to french "L'Egypte reconnait K1 pour avoir passé l'épreuve du Mariage, basé sur le nombre d'unions successives. ";
+
+translate "Egypt recognizes K1 for specially passing the Test of Marriage based on number of Marriages. Egypt recognizes K2 for passing the Test of Marriage."
+to french "L'Egypte reconnait K1 pour avoir passé l'épreuve du Mariage, basé sur le nombre d'unions successives. L'Egypte reconnait K2 pour avoir passé l'épreuve du Mariage.";
+
+translate "No passes in the Test of Marriage. Retaining N1 passes."
+to french "Aucun passage dans l'épreuve du Mariage. report de N1 passages.";
+
+
+//Vigil// 
+
+translate "Egypt recognizes K1 for passing The Test of the Vigil."
+to french "L'Egypte reconnait K1 pour avoir passer l'épreuve de la Vigie.";
+translate "No winners in the Test of the Vigil."
+to french "Aucun gagnant dans l'épreuve de la Vigie";
+
+//Pilgrim//
+
+translate "Egypt recognizes K1 for walking the O1."
+to french "L'Egypte reconnait K1 pour avoir parcourru O1(ns).";
+
+Translate "Their Pilgrimage visited N1 Shrines and accumulated a score of N2."
+to french "Au cours de leur pèlerinage, ils ont visité N1 autels et ont accumulé un score de N2.";
+
+translate "No winning Pilgrimage."
+to french "Aucun passage pour l'épreuve du Pèlerin.";
+
+//Bread//
+
+translate "No winners in the Test of Leavened Bread."
+to french "Aucun passage pour l'épreuve du Pain Levé.";
+
+//Bijou//
+
+translate "Egypt recognizes U1 for her design at egypt N1 N2, passing The Test of the Bijou."
+to french "L'Egypte reconnait U1(name) pour avoir passé l'épreuve du Bijou, avec sa conception située en N1 N2.";
+
+
+//Critic//
+
+// Various No Passes translation cause I can't find them anywhere//
+
+translate "No passes in The Venery"
+to french "Aucun passage dans l'épreuve de la chasse au trésor";
+
+translate "No passes in The Test of the Prismatic Opticon"
+to french "Aucun passage dans l'épreuve de l'Opticon prismatique";
+
+translate "No passes in The Test of the Bijou."
+to french "Aucun passage dans l'épreuve du Bijou";
+
+translate "No passes in The Test of the Constellation."
+to french "Aucun passage dans l'épreuve de la Constellation";
+
+translate "No passes in The Test of Hexaglyphs."
+to french "Aucun passage dans l'épreuve des Glyphes Héxagonaux";
+
+translate "No passes in The Test of the Pathmaker."
+to french "Aucun passage dans l'épreuve des Canaux";
+
+translate "No passes in The Tomb of the Immortal."
+to french "Aucun passage dans l'épreuve du Tombeau de l'Immortel";
+
+translate "No passes in The Test of the Formal Garden."
+to french "Aucun passage dans l'épreuve du Jardin décoratif";
+
+translate "No passes in The Test of Dancing Waters."
+to french "Aucun passage dans l'épreuve des Eaux dansantes";
+
+translate "No winning O1."
+to french "Aucun O1(ns) gagnant";
+
+translate "No winners in the O1."
+to french "Aucun gagnant dans O1(ns)";
+
+

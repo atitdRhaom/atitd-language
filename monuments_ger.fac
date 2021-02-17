@@ -1,0 +1,882 @@
+module monuments_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+
+//menues
+
+//objects
+translate MonumentOfArchitecture to german neuter
+{
+ swa "Monument der Architektur";
+  sn "Monument der Architektur"; sg "Monuments der Architektur"; sd "Monument der Architektur"; sa "Monument der Architektur";
+  pn "Monumente der Architektur"; pg "Monumente der Architektur"; pd "Monumenten der Architektur"; pa "Monumente der Architektur";
+}
+
+translate MonumentOfWorship to german neuter
+{
+ swa "Monument der Verehrung";
+  sn "Monument der Verehrung"; sg "Monument der Verehrung"; sd "Monument der Verehrung"; sa "Monument der Verehrung";
+  pn "Monumente der Verehrung"; pg "Monumente der Verehrung"; pd "Monumenten der Verehrung"; pa "Monumente der Verehrung";
+}
+
+translate MonumentOfTheHumanBody to german neuter
+{
+ swa "Monument des menschlichen Körpers";
+  sn "Monument des menschlichen Körpers"; sg "Monuments des menschlichen Körpers"; sd "Monument des menschlichen Körpers"; sa "Monument des menschlichen Körpers";
+  pn "Monumente des menschlichen Körpers"; pg "Monumente des menschlichen Körpers"; pd "Monumenten des menschlichen Körpers"; pa "Monumente des menschlichen Körpers";
+}
+
+translate MonumentOfArtAndMusic to german neuter
+{
+ swa "Monument der Kunst und Musik";
+  sn "Monument der Kunst und Musik"; sg "Monuments der Kunst und Musik"; sd "Monument der Kunst und Musik"; sa "Monument der Kunst und Musik";
+  pn "Monumente der Kunst und Musik"; pg "Monumente der Kunst und Musik"; pd "Monumenten der Kunst und Musik"; pa "Monumente der Kunst und Musik";
+}
+
+translate MonumentOfHarmony to german neuter
+{
+ swa "Monument der Harmonie";
+  sn "Monument der Harmonie"; sg "Monuments der Harmonie"; sd "Monument der Harmonie"; sa "der Harmonie";
+  pn "Monumente der Harmonie"; pg "Monumente der Harmonie"; pd "Monumenten der Harmonie"; pa "der Harmonie";
+}
+
+translate MonumentOfLeadership to german neuter
+{
+ swa "Monument der Führerschaft";
+  sn "Monument der Führerschaft"; sg "Monuments der Führerschaft"; sd "Monument der Führerschaft"; sa "Monument der Führerschaft";
+  pn "Monumente der Führerschaft"; pg "Monumente der Führerschaft"; pd "Monumenten der Führerschaft"; pa "Monumente der Führerschaft";
+}
+
+translate MonumentConstructionSite to german feminine
+{
+ swa "Monumentbaustelle";
+  sn "Monumentbaustelle"; sg "Monumentbaustelle"; sd "Monumentbaustelle"; sa "Monumentbaustelle";
+  pn "Monumentbaustellen"; pg "Monumentbaustellen"; pd "Monumentbaustellen"; pa "Monumentbaustellen";
+}
+
+translate MonumentOfThought to german neuter
+{
+ swa "Monument der Gedanken";
+  sn "Monument der Gedanken"; sg "Monuments der Gedanken"; sd "Monument der Gedanken"; sa "Monument der Gedanken";
+  pn "Monumente der Gedanken"; pg "Monumente der Gedanken"; pd "Monumenten der Gedanken"; pa "Monumente der Gedanken";
+}
+
+translate "Pliable Boards"
+to german "biegsame Bretter";
+
+translate "Rigid Boards"
+to german "starre Bretter";
+
+translate "Soft Boards"
+to german "weiche Bretter";
+
+translate "Hard Boards"
+to german "harte Bretter";
+
+translate "Fireproof Boards"
+to german "feuerfeste Bretter";
+
+translate "Volatile Boards"
+to german "leicht entflammbare Bretter";
+
+translate "Rotproof Boards"
+to german "wasserfeste Bretter";
+
+translate "Termite-resistant Boards"
+to german "termitenresistente Bretter";
+
+translate "Termite-prone Boards"
+to german "termitenanfällige Bretter";
+
+translate "Nontoxic Boards"
+to german "ungiftige Bretter";
+
+translate "White Boards"
+to german "weiße Bretter";
+
+translate "Blonde Boards"
+to german "helle Bretter";
+
+translate "Black Boards"
+to german "schwarze Bretter";
+
+translate "Glossy Boards"
+to german "glänzende Bretter";
+
+translate "Jugs of Water"
+to german "Wasser in Krügen";
+
+translate "Indian Red Paint"
+to german "Farbe: Indigorot";
+
+translate "Yellow Paint"
+to german "Farbe: Gelb";
+
+translate "Spring Green Paint"
+to german "Farbe: Frühlingsgrün";
+
+translate "Medium Blue"
+to german "Farbe: mittleres Blau";
+
+translate "Dark Orange Paint"
+to german "Farbe: dunkles Orange";
+
+translate "Dark Red Paint"
+to german "Farbe: Dunkelrot";
+
+translate "Salmon Paint"
+to german "Farbe: Lachs";
+
+translate "Wheat Paint"
+to german "Farbe: Weizen";
+
+translate "Seeds of Exactly 7-Flax"
+to german "Flachssaaten: mit exakt 7 Flachsen";
+
+translate "Seeds of Exactly 7-Rotten Flax"
+to german "Flachssaaten: mit exakt 7 verrotteten Flachsen";
+
+translate "Wine at least 7 vintages old"
+to german "Weine: ab mind. 7 Weinlesen";
+
+translate "Wine with at least 10% alcohol"
+to german "Weine: mind. 10% Alkohol";
+
+translate "Wine with at least 5 tannin"
+to german "Weine: mind. 5 Tannin";
+
+translate "Very Potent Cherry Beer"
+to german "Biere: Sehr kräftiges Kirschbier";
+
+translate "Very Potent Date Beer"
+to german "Biere: Sehr kräftiges Dattelbier";
+
+translate "Very Potent Honey Beer"
+to german "Biere: Sehr kräftiges Honigbier";
+
+translate "Sevenblades of any configuration"
+to german "Siebenklingen jeder Machart";
+
+translate "Oyster Shell Marble (Time Capsule)"
+to german "Marmor: Muschelschale (Zeitkapsel)";
+
+translate "Yellow Alabaster (Time Capsule)"
+to german "Gelbe Alabaster (Zeitkapsel)";
+
+translate "Mud Granite (Time Capsule)"
+to german "Marmor: Schlammgranit (Zeitkapsel)";
+
+translate "White Travertine (Time Capsule)"
+to german "Marmor: Weißer Travertin (Zeitkapsel)";
+
+translate "Canary Granite (Time Capsule)"
+to german "Marmor: Kanarischer Granit (Zeitkapsel)";
+
+translate "Night Granite (Time Capsule)"
+to german "Nachtgranit (Zeitkapsel)";
+
+translate "Grey Star Marble (Time Capsule)"
+to german "Marmor: Graustar (Zeitkapsel)";
+
+translate "Green Sun Marble (Time Capsule)"
+to german "Marmor: Grün (Zeitkapsel)";
+
+translate "Rose Alabaster (Time Capsule)"
+to german "Marmor: Rosenalabaster (Zeitkapsel)";
+
+translate "Cherry Travertine (Time Capsule)"
+to german "Marmor: Kirschtravertin (Zeitkapsel)";
+
+translate "White Alabaster (Time Capsule)"
+to german "Marmor: Weißer Alabaster (Zeitkapsel)";
+
+translate "Jade (Time Capsule)"
+to german "Marmor: Jade (Zeitkapsel)";
+
+translate "Blue Pearl Marble (Time Capsule)"
+to german "Marmor: Blauperlenmarmor (Zeitkapsel)";
+
+translate "Hornets Wing Granite (Time Capsule)"
+to german "Marmor: Hornissenflügelgranit (Zeitkapsel)";
+
+translate "Serpentine Marble (Time Capsule)"
+to german "Marmor: Ophiolit (Zeitkapsel)";
+
+translate "Tigers Eye Granite (Time Capsule)"
+to german "Marmor: Tigeraugengranit (Zeitkapsel)";
+
+translate "Leopards Paw Marble (Time Capsule)"
+to german "Marmor: Leopardenmarmor (Zeitkapsel)";
+
+translate "Island Blue Marble (Time Capsule)"
+to german "Marmor: Blaue Inselmarmor (Zeitkapsel)";
+
+translate "Mountain Marble (Time Capsule)"
+to german "Marmor: Bergmarmor (Zeitkapsel)";
+
+translate "Tangerine Marble (Time Capsule)"
+to german "Marmor: Mandarinenmarmor (Zeitkapsel)";
+
+translate "Fire Rock (Time Capsule)"
+to german "Marmor: Feuerfelsen (Zeitkapsel)";
+
+translate "Blood Granite (Time Capsule)"
+to german "Marmor: Blutgranit (Zeitkapsel)";
+
+translate "Steel Sheeting (Understructure)"
+to german "Stahlbleche (Unterbau)";
+
+translate "Copper Sheeting (Structure Skin)"
+to german "Kupferbleche (Gebäudeverkleidung)";
+
+translate "Oyster Shell Marble"
+to german "Marmor: Austern";
+
+translate "Green Sun Marble"
+to german "Marmor: Grün";
+
+translate "Rose Alabaster"
+to german "Marmor: Rosenalabaster";
+
+translate "Hornets Wing Granite"
+to german "Marmor: Hornissenflügelgranit";
+
+translate "Serpentine Marble"
+to german "Marmor: Ophiolit";
+
+translate "Fire Rock"
+to german "Marmor: Feuerfelsen";
+
+translate "Blood Granite"
+to german "Marmor: Blutgranit";
+
+translate "Worm Spirits of Fire"
+to german "Wurmbranntwein des Feuers";
+
+translate "Worm Spirits of Water"
+to german "Wurmbranntwein des Wassers";
+
+translate "Worm Spirits of Earth"
+to german "Wurmbranntwein der Erde";
+
+translate "Grain Spirits of Fire"
+to german "Getreidebranntwein des Feuers";
+
+translate "Grain Spirits of Water"
+to german "Getreidebranntwein des Wassers";
+
+translate "Grain Spirits of Earth"
+to german "Getreidebranntwein der Erde";
+
+translate "Mineral Spirits of Water"
+to german "Mineralbranntwein des Wassers";
+
+translate "7% Wine with almond bouquet"
+to german "Weine: 7%ig, Mandelbukett";
+
+translate "7% Wine with apple bouquet"
+to german "Weine: 7%ig, Apfelbukett";
+
+translate "7% Wine with apricot bouquet"
+to german "Weine: 7%ig, Aprikosenbukett";
+
+translate "7% Wine with banana bouquet"
+to german "Weine: 7%ig, Bananenbukett";
+
+translate "7% Wine with blackberry bouquet"
+to german "Weine: 7%ig, Brombeerbukett";
+
+translate "7% Wine with blackpepper bouquet"
+to german "Weine: 7%ig, Bukett schwarzer Pfeffer";
+
+translate "7% Wine with butter bouquet"
+to german "Weine: 7%ig, Butterbukett";
+
+translate "Wine with butterscotch bouquet"
+to german "Weine: 7%ig, Bukett Butterbonbon";
+
+translate "7% Wine with cassis bouquet"
+to german "Weine: 7%ig, Johannisbeerbukett";
+
+translate "7% Wine with cedar bouquet"
+to german "Weine: Z7%ig, edernbukett";
+
+translate "7% Wine with cherry bouquet"
+to german "Weine: 7%ig, Kirschbukett";
+
+translate "7% Wine with chocolate bouquet"
+to german "Weine: 7%ig, Schokoladenbukett";
+
+translate "7% Wine with cloves bouquet"
+to german "Weine: 7%ig, Gewürznelkenbukett";
+
+translate "Wine with fig bouquet"
+to german "Weine: 7%ig, Feigenbukett";
+
+translate "7% Wine with geranium bouquet"
+to german "Weine: 7%ig, Geranienbukett";
+
+translate "7% Wine with grapefruit bouquet"
+to german "Weine: 7%ig, Grapefruchtbukett";
+
+translate "7% Wine with hazelnut bouquet"
+to german "Weine: 7%ig, Haselnußbukett";
+
+translate "7% Wine with honey bouquet"
+to german "Weine: 7%ig, Honigbukett";
+
+translate "7% Wine with lemon bouquet"
+to german "Weine: 7%ig, Zitronnenbukett";
+
+translate "7% Wine with licorice bouquet"
+to german "Weine: 7%ig, Lakritzbukett";
+
+translate "7% Wine with melon bouquet"
+to german "Weine: 7%ig, Melonenbukett";
+
+translate "7% Wine with molasses bouquet"
+to german "Weine: 7%ig, Melassenbukett";
+
+translate "7% Wine with oak bouquet"
+to german "Weine: 7%ig, Eichenbukett";
+
+translate "Wine with orangeblossom bouquet"
+to german "Weine: 7%ig, Orangenblütenbukett";
+
+translate "7% Wine with peach bouquet"
+to german "Weine: 7%ig, Pfirsichbukett";
+
+translate "7% Wine with pineapple bouquet"
+to german "Weine: 7%ig, Ananasbukett";
+
+translate "7% Wine with prune bouquet"
+to german "Weine: 7%ig, Zwetschgenbukett";
+
+translate "7% Wine with raisin bouquet"
+to german "Weine: Traubenbukett";
+
+translate "7% Wine with raspberry bouquet"
+to german "Weine: 7%ig, Himbeerbukett";
+
+translate "7% Wine with rose bouquet"
+to german "Weine: 7%ig, Rosenbukett";
+
+translate "7% Wine with smokey bouquet"
+to german "Weine: 7%ig, Rauchbukett";
+
+translate "7% Wine with soysauce bouquet"
+to german "Weine: 7%ig, Sojasoßenbukett";
+
+translate "7% Wine with strawberry bouquet"
+to german "Weine: 7%ig, Erdbeerbukett";
+
+translate "7% Wine with strawberryjam bouquet"
+to german "Weine: 7%ig, Erbeermarmeladenbukett";
+
+translate "7% Wine with violet bouquet"
+to german "Weine: 7%ig, Veilchenbukett";
+
+translate "7% Wine with walnut bouquet"
+to german "Weine: 7%ig, Walnußbukett";
+
+translate "12% Wine"
+to german "Weine: Alkoholgehalt mind. 12%";
+
+translate "7% Wine with Sugar 50+"
+to german "Weine: Alk. 7%, Zuckergehalt mind. 50";
+
+translate "7% Wine with Tanin 10+"
+to german "Weine: Alk. 7%, Tanningehalt mind. 10";
+
+translate "7% Wine with Concentration 300+"
+to german "Weine: Alk. 7%, Konzentration mind. 300";
+
+translate "Banana and Barley flavored Beer"
+to german "Biere: Bananen- und Gerstenaroma";
+
+translate "Brown and Black Beer"
+to german "Biere: Braun und Schwarz";
+
+translate "Cherry Cinnamon Beer"
+to german "Biere: Kirsche Zimmer";
+
+translate "Dry Date Beer"
+to german "Biere:trocken, Dattelaroma";
+
+translate "Fruity Honey flavored Beer"
+to german "Biere: fruchtig, Honigaroma";
+
+translate "Orange and Nutmeg flavored Beer"
+to german "Biere: orange, Muskatnußaroma";
+
+translate "Spicy Potent Beer"
+to german "Biere: würziges Starkbier";
+
+translate "Sweet, Very Potent Beer"
+to german "Biere: süßes extremes Starkbier";
+
+translate "Wine with burnt toast bouquet"
+to german "Weine: geröstetes Toastbukett";
+
+translate "Vegetable spirits of Fire"
+to german "Pflanzlicher Branntwein des Feuers";
+
+translate "Mineral spirits of Fire"
+to german "Mineralischer Branntwein des Feuers";
+
+translate "Mineral spirits of Earth"
+to german "Mineralischer Branntwein der Erde";
+
+translate "Fish spirits of Fire"
+to german "Fischbranntwein des Feuers";
+
+translate "Wine with coffee bouquet"
+to german "Wein: Kaffeebukett";
+
+translate "Wine with menthol bouquet"
+to german "Weine: Mentholbukett";
+
+translate "Wine with eucalyptus bouquet"
+to german "Weine: Eukalyptusbukett";
+
+translate "Wine with orange blossom bouquet"
+to german "Weine: Orangenblütenbukett";
+
+translate "Wine with strawberry jam bouquet"
+to german "Weine: Erdbeermarmeladenbukett";
+
+translate "Wine with vanilla bouquet"
+to german "Weine: Vanillebukett";
+
+translate "Sheet Glass (Beacon Housing)"
+to german "Glasscheiben (Leuchtfeuergehäuse)";
+
+translate "Gold (Reflector, Dome)"
+to german "Gold (Reflektorkuppel)";
+
+translate "Cut stone (Base)"
+to german "Geschnittene Steine (Fundament)";
+
+translate "Copper Sheeting (Heatproofing Light Chamber)"
+to german "Kupferbleche (hitzefestes Lichtzimmer)";
+
+translate "Mirrors (Light Source Concentrator)"
+to german "Spiegel (Lichtquellenbündelung)";
+
+translate "Candles (Light Source)"
+to german "Kerzen (Lichtquelle)";
+
+translate "Crimson Paint"
+to german "Farbe: Crimson";
+
+translate "Forest Green Paint"
+to german "Farbe: Waldgrün";
+
+translate "Golden Rod Paint"
+to german "Farbe:Goldrute";
+
+translate "Light Blue Paint"
+to german "Farbe: Hellblau";
+
+translate "Oyster Shell Marble (Base Finish)"
+to german "Marmor: Austern (Fundamentverzierung)";
+
+translate "Mud Granite (Base Finish)"
+to german "Marmor: Schlamm (Fundamentverzierung)";
+
+translate "Yellow Raeli Tiles"
+to german "Raelikacheln: Gelb";
+
+translate "Cadet Blue Raeli Tiles"
+to german "Raelikacheln: Kadettblau";
+
+translate "Straw (Sculpting Material)"
+to german "Stroh (Material der Skulptur)";
+
+translate "Clay (Sculpting Material)"
+to german "Ton (Material der Skulptur)";
+
+translate "Silt (Sculpting Material)"
+to german "Schlick (Material der Skulptur)";
+
+translate "Slate (Sculpture Form)"
+to german "Schiefer (Material der Skulptur)";
+
+translate "Wood spirits of Life"
+to german "Waldgeist des Lebens";
+
+translate "Grass spirits of Life"
+to german "grasige Branntweine des Lebens";
+
+translate "Wood spirits of Air"
+to german "Waldgeist der Luft";
+
+translate "Worm spirits of Air"
+to german "Wurmbranntweine der Luft";
+
+translate "Grain spirits of Air"
+to german "Getreidebranntweine der Luft";
+
+translate "Grass spirits of Air"
+to german "Grasige Branntweine der Luft";
+
+translate "Vegetable spirits of Air"
+to german "Pflanzliche Branntweine der Luft";
+
+translate "Fish spirits of Air"
+to german "Fischbranntweine der Luft";
+
+translate "Eyelet cut Garnet"
+to german "Edelsteine: Granat 'Öse'";
+
+translate "Thistle cut Garnet"
+to german "Edelsteine: Granat 'Distel'";
+
+translate "Lens cut Garnet"
+to german "Edelsteine: Granat 'Linse'";
+
+translate "Choronzon cut Garnet"
+to german "Edelsteine: Granat 'Chorozon'";
+
+translate "Queen's Tomb cut Garnet"
+to german "Edelsteine: Granat 'Königinnengrab'";
+
+translate "King's Tomb cut Garnet"
+to german "Edelsteine: Granat 'Königsgrab'";
+
+translate "Full Eye cut Garnet"
+to german "Edelsteine: 'Granat'";
+
+translate "Corner Heart cut Garnet"
+to german "Edelsteine: Granat 'Eckiges Herz'";
+
+translate "Dalessi cut Garnet"
+to german "Edelsteine: Granat 'Dalessi'";
+
+translate "Aidenn Mask cut Garnet"
+to german "Edelsteine: Granat 'Aidenn'";
+
+translate "Amanti cut Garnet"
+to german "Edelsteine: Granat 'Amanti'";
+
+translate "Bastet cut Garnet"
+to german "Edelsteine: Granat 'Bastet'";
+
+translate "Cat's Eye cut Garnet"
+to german "Edelsteine: Granat 'Katzenauge'";
+
+translate "Unity cut Garnet"
+to german "Edelsteine: Granat 'Einigkeit'";
+
+translate "Reflection cut Garnet"
+to german "Edelsteine: Granat 'Reflektion'";
+
+translate "Appolonia cut Garnet"
+to german "Edelsteine: Granat 'Appolonia'";
+
+translate "Bridge cut Garnet"
+to german "Edelsteine: Granat 'Brücke'";
+
+translate "Hexas Plate cut Garnet"
+to german "Edelsteine: Granat 'Sechseckplatte'";
+
+translate "Ring cut Garnet"
+to german "Edelsteine: Granat 'Ring'";
+
+translate "Dragyn's Eye cut Garnet"
+to german "Edelsteine: Granat 'Drachenauge'";
+
+translate "Looking Glass cut Garnet"
+to german "Edelsteine: Granat 'Spiegel'";
+
+translate "Symmetry cut Garnet"
+to german "Edelsteine: Granat 'Symmetrie'";
+
+translate "Lotus cut Garnet"
+to german "Edelsteine: Granat 'Lotus'";
+
+translate "Khufu's Ship cut Garnet"
+to german "Edelsteine: Granat 'Khufus Schiff'";
+
+translate " Chime"
+to german " Glockenspiel";
+
+translate "Jugs of Water (ponds)"
+to german "Wasser in Krügen (Weiher)";
+
+translate "Bricks (pond structure)"
+to german "Ziegel (Weiherbegrenzung)";
+
+translate "Cut stone (Paving Stones)"
+to german "Geschnittene Steine (Pflastersteine)";
+
+translate "White Alabaster (Statue)"
+to german "Marmor: Weiße Alabaster (Statue)";
+
+translate "Sienna Paint"
+to german "Farbe: Sienna";
+
+translate "Orange Red Paint"
+to german "Farbe: Orangerot";
+
+translate "Red Raeli Tiles"
+to german "Raelikacheln: Rot";
+
+translate "Blue Raeli Tiles"
+to german "Raelikacheln: Blau";
+
+translate "Gold Raeli Tiles"
+to german "Raelikacheln: Gold";
+
+translate "Green Raeli Tiles"
+to german "Raelikacheln: Grün";
+
+translate "Purple Raeli Tiles"
+to german "Raelikacheln: Lila";
+
+translate "Orange Raeli Tiles"
+to german "Raelikacheln: Orange";
+
+translate "Citrus Incense, 100+ Quality"
+to german "Duft: Zitrone, Qualität über 100%";
+
+translate "Jasmine Incense, 100+ Quality"
+to german "Duft: Jasmin, Qualität über 100%";
+
+translate "Sandalwood Incense, 100+ Quality"
+to german "Duft: Sandelholz, Qualität über 100%";
+
+translate "Guilt-Invoking Incense, 100+ Quality"
+to german "Duft der Reue, Qualität über 100%";
+
+translate "Joy-Invoking Incense, 100+ Quality"
+to german "Duft des Entzückens, Qualität über 100%";
+
+translate "Green, Phosphorescent, ReticulatedGreen Moss"
+to german "Moos: Grün, Phosphoreszierend, Netzartig";
+
+translate "Spotted, Slimy, Hairy Moss"
+to german "Moos: Gefleckt, Schleimig, Haarig";
+
+translate "Mottled, Spongy, Smelly Moss"
+to german "Moos: Schwammig, Stinkend";
+
+translate "Crackly, Striped, Hairy Moss"
+to german "Moos: Geknickt, Gestreift, Haarig";
+
+translate "Spotted, Slimy, Calico Moss"
+to german "Moos: Gefleckt, Schleimig, Calico";
+
+translate "Phosphorescent, Fuzzy, Smelly Moss"
+to german "Moos: Phosphoreszierend, Fusselig, Stinkend";
+
+translate "Green, Dry, Prickly Moss"
+to german "Moos: Grün, Trocken, Stachelig";
+
+translate "Seeds of 7-Normal 0-Rotten Flax"
+to german "Flachssaaten: mit 7 Flachs und 0 verrottetem Flachs";
+
+translate "Seeds of 0-Normal 7-Rotten Flax"
+to german "Flachssaaten: mit 0 Flachs und 7 verrotteten Flachs";
+
+translate "Seeds of Exactly 7-Seeds"
+to german "Flachssaaten: Sorten mit exakt 7 Saaten";
+
+translate "Wine with at least 13% alcohol"
+to german "Weine: Mind. 13% Alkohol";
+
+translate "Wine with at least 7 tannin"
+to german "Weine: Mind. 7 Tannin";
+
+translate "Very Potent Barley Beer"
+to german "Biere: Sehr kräftiges Gerstenbier";
+
+translate "Blue Moon Marble (Time Capsule)"
+to german "Marmor: Blau (Zeitkapsel)";
+
+translate "Onyx (Time Capsule)"
+to german "Marmor: Onyx (Zeitkapsel)";
+
+translate "Monkey Marble (Time Capsule)"
+to german "Marmor: Meerkatze (Zeitkapsel)";
+
+translate "Puzzle Granite (Time Capsule)"
+to german "Marmor: Puzzelgranit (Zeitkapsel)";
+
+translate "Metal of Yokir (Time Capsule)"
+to german "Metal des Yokir (Zeitkapsel)";
+
+translate "Orange Red Raeli Tiles (Understructure)"
+to german "Raelikacheln: Orangerot (Unterbau)";
+
+translate "Cement (Pavement)"
+to german "Zement (Gehsteig)";
+
+translate "Boards (Support and Scaffolding)"
+to german "Bretter (Gerüstmaterial und Bauhilfe)";
+
+translate "Copper Wire (Playing Surface Decoration)"
+to german "Kupferdraht (Dekoration der Spieloberfläche)";
+
+translate "Linen (Playing Surface)"
+to german "Leinen (Spieloberfläche)";
+
+translate "Papyrus Paper (Record Keeping)"
+to german "Papyruspapier (Rekordnotizen)";
+
+translate "Called SiteReady"
+to german "Called SiteReady";
+
+translate "Projects/Construction/Monument Construction Site/"
+to german "Projekte/Konstruktion/Monumentbaustelle/";
+
+translate "Egypt is not yet ready to build the Great Work of O1"
+to german "Ägypten ist noch nicht bereit für das Große Werk O1(dsg) O1(sn)";
+
+translate "Monuments of Architecture are built differently from other monuments. First, build at least a "
+to german "Monumente der Architektur unterscheiden sich in der Bauweise von anderen Monumenten. Zuerst baue mindestens";
+
+translate "Pyramid of Many Wonders. Then, gather a team and have the Oracle of Architecture anoint it, followed by Gharib."
+to german "eine Pyramide der Vielen Wunder. Dann sammele ein Team um dich und segne, gefolgt von Gharib, das Orakel der Architektur. ";
+
+translate "To build a Monument Construction Site you need:"
+to german "Um eine Monumentbaustelle zu errichten benötigst du:";
+
+translate "Anoint this as a Monument of Architecture"
+to german "Segne dies zu einem Monument der Architektur";
+
+translate "To prepare a time capsule for a Monument of Architecture you need:"
+to german "Um eine Zeitkapsel für das Monument der Architektur anzufertigen benötigst du:";
+
+translate "To build a Monument of O1 you need a monument team and:"
+to german "Um ein Monument O1(dsg) O1(sg) zu bauen benötigst du ein Monumentteam und:";
+
+translate "Wine and Beer Panel"
+to german "Wein und Bier Panel";
+
+translate "Calculate Wines and Beers for monument"
+to german "Berechne Weine und Biere für das Monument";
+
+/// to translate to german
+///("Spirits: ",nth(world.SpiritKindList,kind)," spirits of ///",nth(world.SpiritQualList,qual)," <<",qual,",",qual,",",kind,">> ///(",BitVecXTotal(Place.s_SPCount[kind,qual]),")");
+
+translate "Wine Report: K1"
+to german "Weinbericht: K1";
+
+translate "Beer Report: K1"
+to german "Bierbericht: K1";
+
+translate "Alc: "
+to german "Alkohol: ";
+
+translate "Sug: "
+to german "Zucker: ";
+
+translate "Tan: "
+to german "Tannin: ";
+
+translate "Con: "
+to german "Konzentration: ";
+
+translate "Inconsistancy(1) in Monument. Call a developer."
+to german "Unstimmigkeit(1) im Monument. Rufe einen Entwickler.";
+
+translate "Withdraw my application as "
+to german "Widerrufe meine Anfrage als ";
+
+translate "Remove my Support as "
+to german "Entferne meine Unterstützung als ";
+
+translate "Edit the Challenge to the Next Generation (Summary)"
+to german "Bearbeite die Herausforderung für die nächste Generation (Übersicht)";
+
+translate "The Challenge Summary should contain the name of the proposed Test, and a brief (few lines) description "
+to german "Die Übersicht der Herausforderung sollte den Namen des vorgeschlagenen Tests und eine kurze Beschreibung (wenige Zeilen) ";
+
+translate "of what the Test is about."
+to german "worum es in diesem Test geht";
+
+translate "The Monument of O1, Challenge Summary:"
+to german "Das Monument O1(dsg) O1(sn), Übersicht der Herausforderung";
+
+translate "View the Challenge to the Next Generation (Summary)"
+to german "Lese die Herausforderung der nächsten Generation (Übersicht)";
+
+translate "View the Challenge to the Next Generation (Full)"
+to german "Lese die Herausforderung der nächsten Generation (Komplett)";
+
+translate "Applications/O1/K1/Accept as "
+to german "Verwaltung/O1(name)/K1/Eingeteilt als ";
+
+translate "Only paid accounts can lend support to monuments."
+to german "Nur Bezahlaccounts können Monumente unterstützen.";
+
+translate "There are already N1 people at level."
+to german "Es gibt bereits N1 Leute mit diesem Level.";
+
+translate "Notifying..."
+to german "Anzeigen... ";
+
+translate "U1 added as K1"
+to german "U1(name) eingeteilt als K1";
+
+translate "You were accepted as K1 by U1 on the Monument of O1."
+to german "Du wurdest von U1(name) als K1 für das Monument O1(dsg) O1(sg) eingeteilt.";
+
+translate "Reject"
+to german "Entlassen";
+
+translate "You were not accepted as K1 by U1 on the Monument of O1."
+to german "Du wurdest nicht als K1 von U1(name) für das Monument O1(dsg) O1(sg) angenommen.";
+
+translate "Team Members"
+to german "Teammitglieder";
+
+translate "Remove"
+to german "Entfernen";
+
+translate "Lock the Challenge (Summary)"
+to german "Schließe die Herausforderung (Übersicht)";
+
+translate "Are you sure you want to finalize the Challenge Summary?"
+to german "Bist du sicher, dass du die Übersicht der Herausforderung abschließen möchtest?";
+
+translate "Offer support"
+to german "Biete Unterstützung an";
+
+translate "As K1 of O1"
+to german "Als K1 O1(dsg) O1(sg)";
+
+translate "You are already offering your support on a Monument of O1"
+to german "Du hast bereits deine Unterstützung beim Monument O1(dsg) O1(sg) angeboten";
+
+translate "You offer your support as K1 of O1. The Oracle will notify you."
+to german "Du bietest deine Unterstützung als K1 O1(dsg) O1(sg) an. Das Orakel wird dich benachrichtigen.";
+
+translate "Edit the Challenge to the Next Generation (Full)"
+to german "Bearbeite die Herausforderung der nächsten Generation (Komplett)";
+
+translate "The Monument of O1, Full Challenge:"
+to german "Das Monument O1(dsg) O1(sg). Komplette Herausforderung:";
+
+translate "To finalize the challenge for the next generation, type FINAL"
+to german "Um die Herausforderung der nächsten Generation zu beenden, schreibe FINAL";
+
+translate "Confirm my support on the Challenge"
+to german "Bestätige meine Unterstützung in der Herausforderung";
+
+translate "Withdraw my confirmation on the Challenge"
+to german "Widerrufe meine Bestätigung an der Herausforderung";
+
+translate "Warning: There is no K1 in game."
+to german "Warnung: Kein(e) K1 ingame.";
+
+translate "N1% of K1 in game."
+to german "N1% von K1 ingame.";
+

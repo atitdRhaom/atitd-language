@@ -1,0 +1,17 @@
+module macro_fre;
+
+translate "Mute macro detector for 1 hour"
+to french "Désactiver le détecteur de macro pendant 1H";
+
+translate "K1 is not macroing, verified by K2"
+to french "K1 n'utilise pas de macro, vérifié par K2";
+
+translate "U1 may be macroing a O1."
+to french "U1(name) pourrait etre en train d'utiliser une macro sur O1(ns)";
+
+translate "K1 may be macroing. (Fish)"
+to french "K1 utilise peut-être une macro (pêche).";
+
+translate "MacroCheck"
+to french "Vérification des macros";
+

@@ -1,0 +1,68 @@
+module rainbarrel_fre;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**            French Version: Asnath (Sylvie)                            **
+//**                            2015                                       **
+//**                                                                       **
+//***************************************************************************
+
+translate RainBarrel to french masculine
+{
+ns "Baril pour la pluie"; np "Barrls pour la pluie";
+}
+
+translate "Build a Rain Barrel"
+	to french  "Construire un baril pour la pluie";
+
+translate "To build a rain barrel, you need:"
+	to french "Pour construire un baril pour la pluie, vous avez besoin:";
+
+translate "Pour Water into the barrel"
+	to french "Verser l'eau dans ce baril";
+
+translate "The Barrel is stained with Sulfur"
+	to french "Ce baril est rempli de souffre";
+
+translate "Draw Water from the Barrel"
+	to french "Vider l'eau du baril";
+
+translate "Draw how much water? (max N1)"
+	to french "combien d'eau voulez-vous vider (Max N1)";
+
+translate "The barrel doesn't have that much water."
+	to french "Le baril ne contient pas autant d'eau.";
+
+translate "You don't have enough jugs to hold the water."
+	to french "Vous n'avez pas assez de cruches pour contenir toute l'eau.";
+
+translate "Sulphurous Water level is N1"
+	to french "Le niveau d'eau sulfurée est N1";
+
+translate "Pour Sulphurous Water into the barrel"
+	to french "Verser l'eau sulfurée dans le baril";
+
+translate "How much Sulphurous Water? (max N1)"
+	to french "Combien d'eau sulfurée ? (max N1)";
+
+translate "You don't have that much sulphurous water."
+	to french "Vous n'avez pas autant d'eau sulfurée.";
+
+translate "Draw how much sulphurous water?"
+	to french "Combien d'eau sulfurée voulez vous vider?";
+
+translate "The barrel doesn't have that much sulphurous water."
+	to french "Le baril ne contient pas autant d'eau sulfurée.";
+
+translate "You don't have enough jugs to hold the sulphurous water."
+	to french "Vous n'avez pas assez de cruches pour contenir l'eau sulfurée.";
+	
+translate "Rain Barrel" to french "baril pour la pluie";
+
+	translate "You put nothing into the O1"
+to french "Vous n'avez rien mis dans le O1(ns)";
+
+translate "Draw Sulphurous Water from the Barrel"
+to french "Prendre de l'eau sulfurée dans le baril";
+

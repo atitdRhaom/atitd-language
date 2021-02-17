@@ -1,0 +1,476 @@
+Module humblepriests_fre;
+
+
+translate HumbleAltar to french masculine
+{
+  ns "Autel des prêtres humbles"; np "Autel des prêtres humbles";
+}
+
+translate HumblePriestsRitual to french masculine
+{
+  ns "rituel des prêtres humbles"; np "rituel des prêtres humbles";
+}
+
+translate HumbleNut to french masculine
+{
+  ns "Nut";
+}
+
+translate HumbleHathor to french masculine
+{
+  ns "Hathor";
+}
+
+translate HumbleTefnut to french masculine
+{
+  ns "Tefnut";
+}
+
+translate HumbleThoth to french masculine
+{
+  ns "Thot";
+}
+
+translate HumbleMaat to french masculine
+{
+  ns "Maât";
+}
+
+translate HumbleAmun to french masculine
+{
+  ns "Amun";
+}
+
+translate HumblePtah to french masculine
+{
+  ns "Ptah";
+}
+
+translate HumbleTayet to french masculine
+{
+  ns "Tayet";
+}
+
+translate HumbleSobek to french masculine
+{
+  ns "Sobek";
+}
+
+translate HumbleSet to french masculine
+{
+  ns "Seth";
+}
+
+translate HumbleHeket to french masculine
+{
+  ns "Heket";
+}
+
+translate HumbleGeb to french masculine
+{
+  ns "Geb";
+}
+translate "Any 900+ Quality Incense"
+to french "Encens qualité 900+";
+
+translate "Any Pyrotechnic Star"
+to french "N'importe quelle étoile de pyrotechnie";
+
+translate "8% Alcohol Wine"
+to french "Vin à 8% d'alcool";
+
+translate "In Principles of the Humble Priests, you will complete the Guiding Ritual of Humility, and form a Devotional Group."
+to french "Dans les principes du prêtre humble, vous réaliserez le rituel d'humilité, et formerez un groupe de dévotion";
+
+translate "Candle on the Left Pillar of an Altar"
+to french "Déposez une chandelle sur le pillier gauche d'un autel";
+
+translate "Candle on the Right Pillar"
+to french "Déposez une chandelle sur le pillier droit d'un autel";
+
+translate "Small Diamond on the Left Focus"
+to french "Déposez un petit diamant sur le plateau gauche";
+
+translate "Water on the Right Focus"
+to french "Déposez une cruche d'eau sur le plateau droit";
+
+translate "Light the Left Candle"
+to french "Allumez la chandelle de gauche";
+
+translate "Light the Right Candle"
+to french "Allumez la chandelle de droite";
+
+translate "Meditate, with all steps having been done in order"
+to french "Méditez une fois que toutes les étapes ont été faites dans l'odre";
+
+translate "Join or form a Devotional Group"
+to french "Joignez ou formez un groupe de dévotion";
+
+translate "Priests may humble themselves to O1 at this altar."
+to french "Les prêtres peuvent se prosterner devant O1(ns) à cet autel.";
+
+translate "Humble yourself before five of twelve gods. The faithful will not choose their gods - rather, the gods will choose them. Begin by performing a Ritual of Humility, by yourself, at a common altar. Place candles on the left and right pillars, signifying enlightenment. Place a small diamond on the left focus to provide clarity, and a jug of water on the right focus, showing purity of spirit. Light the candles in the order placed. Further instruction will come to those enlightened."
+to french "Prosternez-vous devant cinq des douze dieux. Les croyants ne choisiront pas leurs dieux - ce sont plutôt les dieux qui les choisiront. Commencez par effectuer un rituel d'humilité, seul, devant un autel commun. Placez des chandelles sur les piliers de gauche et de droite, signifiant l'illumination. Placez ensuite un petit diamant sur le plateau de gauche pour apporter la clarté, et une cruche d'eau sur le plateau de droite, symbolisant la pureté de l'esprit. Allumez les chandelle dans l'ordre dans l'ordre de disposition et priez. Plus d'instructions viendront pour ceux qui ont alors reçu l'illumination.";
+
+translate "Test of the Humble Priests"
+to french "Épreuve des prêtres humbles";
+
+translate "The gods have not yet called to you. Perhaps completing the Ritual of Enlightenment would garner their attention."
+to french "Les dieux ne vous ont pas encore appelé. Peut-être que compléter le rituel d'illumination attirerait leur attention.";
+
+translate "The Test of the Humble Priests. These gods have called to you:\n"
+to french "L'Épreuve des prêtres humbles. Ces dieux vous ont appelé:\n";
+
+translate "You are in a Devotional Group to O1, along with K1.\n"
+to french "Vous êtes dans un groupe de dévotion à O1(ns), ainsi que K1.\n";
+
+translate "U1 Meditated"
+to french "U1(name) a médité";
+
+translate "A fleeting vision of gods, calling to you. The vision is cloudy - perhaps if you were to sign up for the Test of the Humble Priests, the gods would reveal themselves more readily."
+to french "Une brève apparition des dieux vous appelant. La vision est floue - peut-être que si vous étiez inscrit à l'Épreuve des prêtres humbles, les dieux se manifesteraient plus clairement.";
+
+translate "A vision! Twelve gods, surrounding you. Five step forward: K1."
+to french "Une vision! Douze dieux autour de vous. Cinq s'avancent vers vous: K1";
+
+translate "Form a Devotional Group"
+to french "Former un groupe de dévotion";
+
+translate "Group formed for "
+to french "Groupe formé pour ";
+
+translate "Disband the devotional group for O1"
+to french "Dissoudre le groupe de dévotion à O1(ns)";
+
+translate "Really disband this group consisting of K1?"
+to french "Voulez-vous réellement dissoudre ce groupe, formé de K1?";
+
+translate "U1 has disbanded your Devotional Group to O2."
+to french "U1(name) a dissous votre groupe de dévotion à O2(ns).";
+
+translate "Ask to join Devotional Group for O1"
+to french "Demander à se joindre au groupe de dévotion pour O1(ns)";
+
+translate "Already five members in that Devotional Group."
+to french "Il y a déjà cinq membres dans ce groupe de dévotion.";
+
+translate "U1 is asking to join your Devotional Group. Accept?"
+to french "U1(name) demande à se joindre à votre groupe de dévotion. Acceptez-vous?";
+
+translate "U1 denied your request."
+to french "U1(name) a refusé votre demande.";
+
+translate "You have joined a Devotional Group for O1."
+to french "Vous avez joint un groupe de dévotion à O1(ns).";
+
+translate "U1 has joined your devotional group."
+to french "U1(name) a rejoint votre groupe de dévotion.";
+
+translate "O1 has called to you, the N1 humble priest!\n    First Priest lights the Flame of Humility.\n    First Priest burns specially prepared incense.\n    First Priest completes a sacrifice at the altar, resulting in Sacrificial Ashes.\n    Second Priest completes the Ritual of Humility using the Sacrificial Ashes.\n    Third Priest performs the Emotional Devotions in order.\n    Fourth Priest crumbles Moss in a holy location.\n    Fifth priest recites a Blessing of Humility.\n\nSpecial Instructions:\n"
+to french "O1(ns) vous a appelé, vous serez le N1 prêtre humble!\n    Le premier prêtre allume la Flamme d'Humilité.\n    Le premier prêtre brûle l'encens préparé spécialement.\n    Le premier prêtre fait un sacrifice à l'autel, créant des cendres sacrificielles.\n    Le deuxième prêtre complète le Rituel de l'Humilitéen utilisant les cendres sacrificielles.\n    Le troisième prètre effectue les gestuelles de dévotion dans l'ordre.\n    Le quatrième prêtre émiette la mousse dans un lieu sacré.\n    Le cinquième prêtre récite une prière d'humilité.\n\nDirectives spéciales:\n";
+
+translate "    O1 requests O2 crumbled K1.\n"
+to french "    O1(ns) réclame O2(ns) K1 émiettés.\n";
+
+translate "    The Emotional Devotions are:\n"
+to french "    Les gestuelles de dévotion sont:\n";
+
+translate "    The ritual of Humility is completed without assistance, as follows:\n"
+to french "    Le rituel d'Humilité est effectué sans aide, de la façon suivante:\n";
+
+translate "        Place candles on the pillars, left to right.\n"
+to french "        Placer les chandelles sur les piliers, de gauche à droite.\n";
+
+translate "        Place a O1 and a O2 on the foci, left to right.\n"
+to french "        Placez les items suivants: O1(ns) et O2(ns) sur les plateaux, de gauche à droite.\n";
+
+translate "        Light the candles, right to left, then sprinkle the Sacrificial Ashes.\n        Extinguish the candles, right to left, then Meditate.\n"
+to french "        Allumez les chandelles, de droite à gauche, et répandez les cendres sacrificielles.\n        Éteignez les chandelles de droite à gauche, et méditez.\n";
+
+translate "        Extinguish the candles, right to left, then Meditate.\n"
+to french "        Éteignez les chandelles de droite à gauche, et méditez.\n";
+
+translate "    O1 requests K1.\n"
+to french "    O1(ns) demande:K1.\n";
+
+translate "    A proper sacrifice to O2 is N1 K2.\n"
+to french "    Un sacrifice approprié pour O2(ns)est: N1 K2.\n";
+
+translate "    Consult the other Priests for guidance in composing a proper Blessing.\n"
+to french "    Consultez les autres prêtres pour des conseils pour composer une prière convenable.\n";
+
+translate "    The Blessing should contain at least one of these phrases:\n"
+to french "    La prière doit contenir au moins une de ces phrases:\n";
+
+translate "        K1\n"
+to french "        K1\n";
+
+translate "    But O1 will be insulted by any of these phrases:\n"
+to french "    Mais O1(ns) sera insulté par n'importe laquelle de ces phrases:\n";
+
+translate "Commit these words to memory - visions are fleeting!\n"
+to french "Retenez bien ces instructions - les visions disparaissent!\n";
+
+translate "You will serve as the N1 humble priest."
+to french "Vous allez être le N1 prêtre humble.";
+
+translate "Areas Required: "
+to french "Régions requises: ";
+
+translate "Your group has failed to humble itself before O1: "
+to french "Votre groupe n'a pas réussi à rendre grâce à O1(ns): ";
+
+translate "Extinguish this Altar's Flame of Humility"
+to french "Éteindre la Flamme d'Humilité de cet autel.";
+
+translate "The Flame of Humility was extinguished."
+to french "La Flamme d'Humilité est éteinte.";
+
+translate "Light this Altar's Flame of Humility"
+to french "Allumer la Flamme d'Humilité de cet autel";
+
+translate "The Brazier was lit at the wrong time."
+to french "Le brasier a été allumé au mauvais moment.";
+
+translate "When lighting the altar, you humbled yourself before the wrong god."
+to french "En allumant l'autel, vous avez honoré un autre dieu.";
+
+translate "The first Humble Priest must light the Flame of Humility."
+to french "Le premier prêtre doit allumer la Flamme d'Humilité.";
+
+translate "All priests must be present when the flame is lit."
+to french "Tous les prêtres doivent être présents au moment d'allumer la flamme.";
+
+translate "The Incense was lit at the wrong time."
+to french "L'encens n'a pas été allumé au bon moment.";
+
+translate "The first priest must light the Incense."
+to french "Le premier prêtre doit allumer l'encens.";
+
+translate "The incense was not as O1 was expecting."
+to french "L'encens n'est pas celui que O1(ns) attendait.";
+
+translate "Make a Sacrifice"
+to french "Faire un sacrifice";
+
+translate "Choose your sacrifice"
+to french "Choisir votre sacrifice";
+
+translate "The sacrifice was made at the wrong time."
+to french "Le sacrifice n'a pas été fait au bon moment.";
+
+translate "The sacrifice was made at the wrong altar."
+to french "Le sacrifice n'a pas été fait au bon autel.";
+
+translate "The first Humble Priest must make the sacrifice."
+to french "Le premier prêtre doit faire le sacrifice.";
+
+translate "The wrong sacrifice was made."
+to french "Ce n'était pas le bon sacrifice.";
+
+translate "The sacrifice made did not satisfy O1."
+to french "Le sacrifice n'a pas plu à O1(ns).";
+
+translate "The correct sacrifice was made, but the quantity offered was not sufficient."
+to french "C'était le bon sacrifice, mais la quantité n'était pas assez grande.";
+
+translate "A distant feeling of humility briefly enters your mind, but the vision is not distinct."
+to french "Un léger sentiment d'humilité vous envahit, mais la vision n'est pas claire.";
+
+translate "A distant feeling of humility, but it seems all wrong."
+to french "Un léger sentiment d'humilité , mais qui semble irréel.";
+
+translate "A distant feeling of humility, but the gods don't seem to recognize the priest."
+to french "Un léger sentiment d'humilité , mais les dieux ne semblent pas reconnaître le prêtre.";
+
+translate "A distant feeling of humility, though it seems that the timing was all wrong."
+to french "Un léger sentiment d'humilité , mais il semble que ça ne soit pas au bon moment.";
+
+translate "A crystal clear vision - five priests humbling themselves before O1."
+to french "Une vision très claire - cinq prêtres se prosternant devant O1(ns).";
+
+translate "Command me from Heaven"
+to french "Je suis ton serviteur (Command me from Heaven)";
+
+translate "Take my Blood"
+to french "Prends mon sang (Take my Blood)";
+
+translate "Show me Mercy"
+to french "Aie pitié de moi (Show me Mercy)";
+
+translate "Enter my Soul"
+to french "Pénètre mon âme (Enter my Soul)";
+
+translate "Share my Joy"
+to french "Partage mon allégresse (Share my Joy)";
+
+translate "The Emotional Devotions were done at the wrong time."
+to french "Les gestuelles de dévotion n'ont pas été faites au bon moment.";
+
+translate "The third Humble Priest must perform the Emotional Devotions."
+to french "Le troisième prêtre doit exécuter les gestuelles de dévotion.";
+
+translate "The Emotional Devotions were not done in the correct order."
+to french "Les gestuelles de dévotion n'ont pas été faites dans le bon ordre.";
+
+translate "Crumble Moss"
+to french "Émietter la mousse";
+
+translate "On top of a Mountain"
+to french "au sommet d'une montagne";
+
+translate "Near a Ceremonial Tasting Table"
+to french "près d'une table pour cérémonie de dégustation";
+
+translate "Near an aqueduct"
+to french "près d'un aqueduc";
+
+translate "On the banks of the river Nile"
+to french "sur les bords de la rivière du Nil";
+
+translate "Near a voting booth"
+to french "près d'un isoloir";
+
+translate "Near a recent immigrant (No Initiations)"
+to french "près d'un nouvel immigrant (qui n'a pas d'initiation)";
+
+translate "On a patch of clay"
+to french "sur un terrain d'argile";
+
+translate "On grass, near water"
+to french "sur l'herbe, près de l'eau";
+
+translate "On a boat"
+to french "sur un bateau";
+
+translate "Near a pyramid"
+to french "près d'une pyramide";
+
+translate "Near a wild-growing mushroom"
+to french "près d'un champignon sauvage";
+
+translate "In a field of dirt"
+to french "sur un terrain en terre";
+
+translate "You did not offer the moss on a mountain top."
+to french "Vous n'avez pas offert la mousse sur le sommet d'une montagne.";
+
+translate "You did not offer the moss near a Ceremonial Tasting Table."
+to french "Vous n'avez pas offert la mousse près d'une table pour cérémonie de dégustation.";
+
+translate "You did not offer the moss near an Aqueduct Tower."
+to french "Vous n'avez pas offert la mousse près d'une tour d'aqueduc.";
+
+translate "You did not offer the moss near a Voting Booth."
+to french "Vous n'avez pas offert la mousse près d'un isoloir.";
+
+translate "You did not offer the moss near a recent immigrant (non-citizen)."
+to french "Vous n'avez pas offert la mousse près d'un nouvel immigrant (paysan).";
+
+translate "You did not make the offering on a patch of Clay."
+to french "Vous n'avez pas fait l'offrande sur un terrain d'argile.";
+
+translate "You did not make the offering of Moss on a patch of Clay."
+to french "Vous n'avez pas fait l'offrande de la mousse sur un terrain d'argile.";
+
+translate "You did not make the offering of Moss near natural water."
+to french "Vous n'avez pas fait l'offrande de la mousse près d'une étendue d'eau.";
+
+translate "You did not make the offering while riding on a boat."
+to french "Vous n'avez pas fait l'offrande pendant que vous voguiez sur un bateau";
+
+translate "You did not make the offering near a Pyramid."
+to french "Vous n'avez fait l'offrande près d'une pyramide.";
+
+translate "You did not offer the moss near a wild-growing mushroom."
+to french "Vous n'avez pas offert la mousse près d'un champignon sauvage.";
+
+translate "You did not make the offering of Moss on a patch of Dirt."
+to french "Vous n'avez pas offert la mousse sur un terrain en terre.";
+
+translate "Which Moss?"
+to french "Quelle mousse?";
+
+translate "You must select a Moss."
+to french "Vous devez choisir un type de mousse.";
+
+translate "The Moss was offered at the wrong time."
+to french "La mousse n'a pas été offerte au bon moment.";
+
+translate "The fourth Humble Priest must make the offering of Moss."
+to french "Le quatrième prêtre humble doit faire l'offrande de mousse.";
+
+translate "The moss offered was not the correct type."
+to french "La mousse offerte n'était pas du bon type.";
+
+translate "Recite a Blessing of Humility"
+to french "Réciter une prière d'Humilité";
+
+translate "You pray:"
+to french "Vous priez:";
+
+translate "The gods would grow weary of such a long prayer. Compose another."
+to french "Les dieux pourraient se lasser d'une prière aussi longue. Composez-en une autre.";
+
+translate "U1 recites the Blessing of Humility: "
+to french "U1(name) récite une prière d'Humilité.";
+
+translate "The prayer was recited at the wrong time."
+to french "La prière n'a pas été prononcée au bon moment.";
+
+translate "The fifth Humble Priest must recite the Devotional Prayer."
+to french "Le cinquième prêtre humble doit réciter la prière de dévotion.";
+
+translate "All priests must be present at the altar when the blessing is recited."
+to french "Tous les prêtres doivent être présents à l'autel au moment de la prière.";
+
+translate "The devotional prayer was not complete."
+to french "La prière de dévotion n'était pas complète.";
+
+translate "A blashphemous phrase was included in the devotional prayer."
+to french "La prière contenait une phrase blasphématoire.";
+
+translate "Seek a Blessing"
+to french "Chercher une prière";
+
+translate "Tests/Test of the Humble Priests/Seek a Blessing/Blessing of O1"
+to french "Epreuves/Épreuve des prêtres humbles/Chercher une prière/Prière à O1(ns)";
+
+translate "Blessing of O1"
+to french "Prière à O1(ns)";
+
+translate "You can already perform the blessing of O1."
+to french "Vous pouvez déjà réciter la prière à O1(ns)";
+
+translate "Are you sure you wish to seek the blessing of O1? You may only have the blessing of one god, and some blessings are much more valueable than others. Furthermore, it may not be apparent what a blessing actually does, though it is known that blessings only affect others, not the person performing the blessing."
+to french "Voulez-vous vraiment chercher la prière à O1(ns)? Vous pouvez priez un seul dieu, et certaines prières valent beaucoup plus que d'autres. De plus, les effets d'une prière peuvent ne pas être vraiment apparents , bien qu'il est connu que les prières affecte l'entourage, et non les personnes qui les prononcent.";
+
+translate "You have secured the blessing of O1."
+to french "Vous avez appris la prière à O1(ns)";
+
+translate "Perform the Blessing of O1"
+to french "Réciter la prière à O1(ns)";
+
+translate "You can only perform a blessing once per day. Wait another K1."
+to french "Vous ne pouvez réciter qu'une prière par jour. Attendez encore K1.";
+
+translate "U1 has given you the blessing of O1."
+to french "U1(name) vous a donné la prière à O1(ns).";
+
+translate "O1 is not pleased: "
+to french "O1(ns) n'est pas satisfait: ";
+
+translate "Your Devotional Group has pleased O1 and your prayer has been recorded for the ages."
+to french "O1(ns) est satisfait de votre groupe de dévotion et votre prière est inscrite à jamais.";
+
+translate "Gods Passed: O1 Blessings: K1 (U2)"
+to french "Dieux réussis: O1(ns) Prières: K1 (U2(name))";
+
+translate " (at least 8% alcohol)"
+to french " (au moins 8% d'alcool)";
+
+translate "Show My Progress"
+to french "Montrer ma progression";
+
+translate "Begin the Test of the Humble Priests"
+to french "Commencer l'Épreuve des Prêtres humbles";

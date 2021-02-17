@@ -1,0 +1,729 @@
+Module Events_fre;
+
+translate shipdhow to french masculine
+{ ns "Navire égyptien"; np "Navires égyptiens";}
+
+translate shippier to french feminine
+{ ns "Jetée"; np "Jetées";}
+
+translate "You won N1 K1: K2."
+to french "Vous avez gagné N1 K1: K2.";
+
+translate "You won N1 K1."
+to french "Vous avez gagné N1 K1.";
+
+translate "Click for details"
+to french "Cliquez pour plus de détails";
+
+translate "You were awarded N1 O1 for your score of N2, which places you in the top N3 of \"Peer Count.\""
+to french "Vous avez remporté N1 O1(N1?np:ns) pour votre score de N2, ce qui vous place dans le Top N3 de la catégorie \"Peer Count.\"";
+
+translate "You were awarded N1 O1 for your score of N2, as part of a participation prize based on \"Total Ore.\""
+to french "Vous avez remporté un prix de participation de N1 O1(N1?np:ns) pour votre score de N2 dans la catégorie \"Minerai total\"";
+
+translate "You were awarded N1 O1 for your score of N2, as part of a participation prize based on \"Raeli Ore Score.\""
+to french "Vous avez remporté N1 O1(N1?np:ns) pour votre score de N2 dans la catégorie \"Score Minerai Raeli\"";
+
+translate "You were awarded N1 O1 for your score of N2, which places you in the top N3 of \"Winners\""
+to french "Vous avez remporté N1 O1(N1?np:ns) pour votre score de N2, ce qui vous place dans le Top N3";
+
+
+
+translate "Events"
+to french "Evènements";
+
+translate "You were awarded one O1 as part of a Lottery."
+to french "Vous avez gagné O1(uns) O1(ns) dans le cadre d'une loterie.";
+
+translate "You were awarded N1 O1 as part of a Lottery."
+to french "Vous avez gagné N1 O1(N1?np:ns) dans le cadre d'une loterie.";
+
+translate "You were awarded N1 O1 for winning (or being tied for) first place!"
+to french "Vous avez gagné N1 O1(N1?np:ns) pour avoir terminé premier (ou premier ex-aequo) !";
+
+translate "You were awarded N1 O1 for your score of N2, which places you in the top N3!"
+to french "Vous avez gagné N1 O1(N1?np:ns) pour votre score de N2, vous donnant une place dans le top N3 !";
+
+translate "You were awarded N1 O1 for your score of N2, as part of a participation prize."
+to french "Vous avez gagné N1 O1(N1?np:ns) pour votre score de N2, en guise de remerciement pour votre participation.";
+
+----------------------------------------------------------------------------------------------------------------------------------
+-- Ballot
+----------------------------------------------------------------------------------------------------------------------------------
+
+translate "Our next ballot is released."
+to french "De nouvelles lois sont à voter.";
+
+----------------------------------------------------------------------------------------------------------------------------------
+-- Calendar
+----------------------------------------------------------------------------------------------------------------------------------
+
+translate "All of Egypt"
+to french "Partout en Egypte";
+
+translate "Voting Booths"
+to french "Isoloirs";
+
+---Conflict Season---
+translate "Conflict Season"
+to french "Saison des conflits";
+
+---Pyro---
+translate "Test of Pyrotechnics Signup"
+to french "Inscriptions Pyrotechnie";
+
+translate "All Universities of Art and Music"
+to french "Universités d'Art et Musique";
+
+---DP---
+translate "Hyksos Elder Election Signups" to french "Votes pour l'élection d'un Sage des Hyksos";
+translate "Kush Elder Election Signups" to french "Votes pour l'élection d'un Sage des Kush";
+translate "Meshwesh Elder Election Signups" to french "Votes pour l'élection d'un Sage des Meshwesh";
+
+translate "Hyksos Territory" to french "Terrioire des Hyksos";
+
+translate "Judge your peers and let your peers judge you!"
+to french "Jugez vos pairs et laissez vos pairs vous juger !";
+
+translate "Do you think you have what it takes to assist in the governing of The Hyksos, do you want to have an early say in who else could be suitable for the job? Stand for election; convince your opposition that you more so than anyone else should become an Elder!\n\n"
+to french "Pensez-vous avoir ce qu'il faut pour participer à la gouvernance des Hyksos ? Aimeriez-vous avoir votre mot à dire dans la nomination des autres candidats au poste ? Préparez-vous aux élections ; persuadez votre opposition que vous, plus que n'importe qui, méritez de devenir le prochain Sage !";
+
+translate "Signup at any Hyksos voting booth to stand in the next election."
+to french "Inscrivez-vous à n'importe quel isoloir des Hyksos pour y participer.";
+
+translate "Do you think you have what it takes to assist in the governing of The Kush, do you want to have an early say in who else could be suitable for the job? Stand for election; convince your opposition that you more so than anyone else should become an Elder!\n\n"
+to french "Pensez-vous avoir ce qu'il faut pour participer à la gouvernance des Kush ? Aimeriez-vous avoir votre mot à dire dans la nomination des autres candidats au poste ? Préparez-vous aux élections ; persuadez votre opposition que vous, plus que n'importe qui, méritez de devenir le prochain Sage !";
+
+translate "Signup at any Kush voting booth to stand in the next election."
+to french "Inscrivez-vous à n'importe quel isoloir des Kush pour y participer.";
+
+translate "Do you think you have what it takes to assist in the governing of The Meshwesh, do you want to have an early say in who else could be suitable for the job? Stand for election; convince your opposition that you more so than anyone else should become an Elder!\n\n"
+to french "Pensez-vous avoir ce qu'il faut pour participer à la gouvernance des Meshwesh ? Aimeriez-vous avoir votre mot à dire dans la nomination des autres candidats au poste ? Préparez-vous aux élections ; persuadez votre opposition que vous, plus que n'importe qui, méritez de devenir le prochain Sage !";
+
+translate "Signup at any Meshwesh voting booth to stand in the next election."
+to french "Inscrivez-vous à n'importe quel isoloir des Meshwesh pour y participer.";
+
+
+---Cartouche---
+translate "Test fo the Covered Cartouche"
+to french "Inscriptions Cartouche";
+
+translate "Fool's Paradise -2476 -515"
+to french "Ulead Fool's Paradise -2476 -515";
+
+translate "Level 1 Contest."
+to french "Compétition de niveau 1.";
+translate "Level 2 Contest."
+to french "Compétition de niveau 2.";
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+-- Sweet for the Sweet
+----------------------------------------------------------------------------------------------------------------------------------
+
+---System---
+
+translate "Sweets for the Sweet Festival has started."
+to french "Le festival culinaire 'Douceurs de Miel' a commencé.";
+
+translate "Sweets for the Sweet Festival has ended."
+to french "Le festival culinaire 'Douceurs de Miel' est terminé.";
+
+---------------------------------------------------------------------------------------------------------------------------------
+-- Can you dig it??
+----------------------------------------------------------------------------------------------------------------------------------
+
+---System---
+
+translate "Can You Dig It?? has begun!"
+to french "'L'appétit vient en creusant' a commencé!";
+
+translate "Can You Dig It?? has ended, I hope you enjoyed yourselves.  Thank you for participating."
+to french "'L'appétit vient en creusant' est terminé. Merci d'avoir participer, nous espérons que vous avez apprécié.";
+
+translate "Can You Dig It Too??? has Begun, grab your shovel and get to digging."
+to french "'L'appétit vient en creusant bis' a commencé! Munissez-vous d'une pelle est lancez-vous.";
+
+translate "Can You Dig It Too??? has Ended.  The prizes are now being distributed."
+to french "'L'appétit vient en creusant bis' est terminé. La remise des prix va avoir lieu.";
+
+--- Calendar---
+
+//Rassemblez vos amis et voyez combien parmi eux sont prêt à creuser autour d'un adorable petit trou. Plus il y a de personnes, plus vous marquez de points. L'appétit vient en creusant!
+//Les prix sont de deux catégories: les meilleurs organisateurs (ceux qui rassemblent le plus de personnes autour d'un trou) et les meilleurs ouvriers (ceux qui ont creuser avec le plus de personnes).
+//Munissez-vous d'une pelle et lancez-vous.
+//Prix pour les organisateurs: Le meilleur organisateur recevra un Luminaire Topaze, les 3 suivants une énorme topaze et tous recevront 14 Citrines brutes pour avoir participer.
+//Prix pour les participants: Le meilleur ouvrier se verra remettre un Luminaire Emeraude, les 3 suivants une grosse émeraude et tous recevront 14 Jades brutes pour avoir participer.
+
+----------------------------------------------------------------------------------------------------------------------------------
+-- Something Fishy
+----------------------------------------------------------------------------------------------------------------------------------
+
+---System---
+
+translate "There's Something Fishy Around Here has started."
+to french "Le Festival culinaire 'Comme une odeur de poisson' a commencé.";
+
+translate "There's Something Fishy Around Here has ended. Thank you for participating, I hope you enjoyed the event."
+to french "Le Festival culinaire 'Comme une odeur de poisson' est terminé. Merci d'y avoir participer, j'espère que vous avez apprécier.";
+
+translate "Something Fishy has ended, thank you for participating to today events! Prizes are being distributed now, and will be announced on the Events Channel (/join Events) as soon as possible."
+to french "Comme une odeur de poisson est terminé, merci d'avoir participer aux animations d'aujourd'hui ! Les prix vont maintenant être distribués, et seront annoncés sur le canal Evènements (/join Events) dès que possible.";
+
+--- Calendar---
+
+//Utilisons le poisson frais que nous venons d'attraper pendant la foire à la pêche pour cuisiner des chefs d'oeuvre culinaires à base d'esturgeons noir. Comme d'habitude dans les festivals culinaires, il y aura deux catégories de prix et de participants :
+//En tant que gourmet, votre objectif est d'apprécier le plus mêts de qualité à base d'esturgeon que possible. Alors que vous goûtez les mêts, vous remarquerez que vous commencez à être balloné. Puisque votre score est basé à la fois sur la quantité et la qualité (la durée) des mêts goûtés, il est préférable d'éviter de se gaver de plats moyens.
+//Qui fournira cette nourriture ? Les meilleurs chefs d'Egypte ! En tant que chef, votre objectif est de faire goûter votre met par le plus de gourmets possible. Notez que pour ce festival, votre plat doit au moins contenir 10 portions, 7 vitesse et 7 dextérité.
+//Les prix seront remis aux Top 21 des chefs et des gourmets. Participez et vous aurez également une chance de gagner notre lotterie ! Au fait, un microphone fait parti de la liste...
+
+----------------------------------------------------------------------------------------------------------------------------------
+-- Catering Conundrum (Le Dilemme des Chefs)
+----------------------------------------------------------------------------------------------------------------------------------
+
+---System---
+
+translate "The Catering Conundrum Festival has started. Chefs of Egypt, cook some great dishes, and host interesting events to bring people to it. Gourmands, there will be no prizes for you. However, you could benefit from the events hosted by the chefs!"
+to french "Le Festival du Dilemme des Chefs a débuté. Chefs de l'Egypte, cuisinez d'excellents mets, et organisez des animations intéressantes pour attirer les gens. Gourmets, il n'y aura aucun prix pour vous. Cependant, vous pourriez bénéficier des animations organisées par les chefs !";
+
+translate "The Catering Conundrum Festival has ended. Tune in the Events channel (/join Events) for more details about the scores and prizes. We hope you all had fun!"
+to french "Le Festival du Dilemme des Chefs est terminé. Branchez-vous sur le canal Evènements (/join Events) pour plus détails sur les scores et les prix. Nous espérons que vous vous êtes bien amusé !";
+---Calendar---
+
+//Les Scientifiques des Universités de Commandement ont découvert des parchemins relatant de l'épreuve de l'Hôte, qui mettait au défis nos ancêtres d'une autre civilisation. Cela leur donna une idée, qu'il veulent à présent tester.
+//Dans ce festival spécial, seuls les chefs seront récompensés. Serez-vous capables d'ouvrir l'appétit de vos concitoyens, sans bénéfice direct pour eux ? Avez-vous l'âme d'un chef ? Pourrez-vous organiser des évènements assez intéressants qui valent le déplacement ?
+//Le festival est dédié à l'orge légèrement dorée, afin que tout le monde puisse participer, même les chefs de niveau 1. Il n'y a aucune restriction au niveau des stats. Cuisinez ce que bon vous semble, vitesse pour la pêche, constitution pour la fumette, et ainsi de suite.
+//Les prix incluent une pierre d'angle portable, et les objets de chimie récemment découverts, parmi d'autres excellents prix.
+
+----------------------------------------------------------------------------------------------------------------------------------
+-- Kanivan Tak
+----------------------------------------------------------------------------------------------------------------------------------
+
+---System---
+
+translate "Kanivan Tak Practice Session has now begun. Visit any Conflict Shrine to participate!"
+to french "La session d'entrainement au Kanivan Tak a commencé. Rendez-vous à n'importe quel Sanctuaire du Conflit pour y participer!";
+
+translate "The Kanivan Tak practice session has ended.  See you at an upcoming tournament."
+to french "La session d'entrainement au Kanivan Tak est terminée. Rendez-vous au tournoi à venir.";
+
+translate "Kanivan Tak Practice is starting. To enter the Spirit Arena, visit any Conflict Shrine."
+to french "L'entraînement au Kanivan Tak a commencé. Pour aller dans l'arène, rendez-vous au Sanctuaire de Conflit le plus proche.";
+
+translate "Kanivan Tak Practice has ended.  See you at the upcoming tournament!"
+to french "L'entraînement au kanivan Tak est terminé. Rendez-vous au tournoi à venir !";
+
+translate "Kanivan Tak Meditation is starting. To enter the Spirit Arena, visit any Conflict Shrine"
+to french "Le tournoi de Kanivan Tak commence. Pour y participer, visitez n'importe quel Sanctuaire du Conflit.";
+
+translate "Kanivan Tak Meditation has ended. Prizes are being awarded."
+to french "Le tournoi de Kanican Tak est terminé. La remise des prix va avoir lieu.";
+
+translate "The Kanivan Tak tournament has begun. Go to any conflict shrine to play!"
+to french "Le tournoi de Kanivan Tak a commencé. Rendez-vous à un sanctuaire du Conflit pour y participer !";
+
+translate "The Kanivan Tak Tournament has ended. Prizes are now being awarded."
+to french "Le tournoi de Kanivan Tak est terminé. Les prix vont maintenant être distribués.";
+
+translate "Kanivan Tak Tournament has now begun. Visit any Conflict Shrine to participate!"
+to french "Le tournoi de Kanivan Tak a commencé. Rendez-vous à un sanctuaire du Conflit pour y participer !";
+
+translate "Kanivan Tak Tournament has ended. Prizes are being awarded. Tune into Events for more info (/join Events)"
+to french "Le tournoi de Kanivan Tak est terminé. Les prix vont être distribués. Branchez-vous sur le canal Evènements pour plus d'infos (/join Events).";
+
+--- Calendar---
+
+//Le Kanivan Tak oppose deux joueurs l'un à l'autre, testant leurs abilités à manipuler l'autre dans un jeu haut en couleurs. Trompherez-vous envers et contre tous? Venez tenter votre chance... 
+//Les prix incluent un Luminaire Améthyste pour le grand vainqueur, des graines d'aubergine pour les sept suivants, et tous les joueurs recevront des améthystes brutes... donc n'hésitez plus! Sept énormes Topazes seront également distribuées par loterie.
+
+---------------------------------------------------------------------------------------------------------------------------------
+-- Yokir
+----------------------------------------------------------------------------------------------------------------------------------
+
+---System---
+
+translate "Yokir Tournament"
+to french "Tournoi de Yokir";
+
+translate "The Yokir Tournament is starting now.  Head to the nearest conflict shrine to get in on the action!"
+to french "Le tournoi de Yokir commence. Rendez-vous au Sanctuaire du Conflit le plus proche pour tenter votre chance!";
+
+translate "Congratulation to today's winners!  If you didn't get in on this tournament, watch the events calendar for the next one!"
+to french "Félicitation au gagnant du jour! Si vous n'avez pu participer à ce tournoi, consultez le calendrier pour le prochain!";
+
+translate "The Yokir Tournament is starting. Visit any Conflict Shrine to enter the Spirit Arena."
+to french "Le tournoi de Yokir commence. Rendez-vous à n'importe quel Sanctuaire du Conflit pour y participer.";
+
+translate "Yokir Tournament is begining, visit your local Shrine of Conflict to journey to the Spirit Arena."
+to french "Le tournoi de Yokir débute, rendez-vous au Sanctuaire du Conflit le plus proche pour faire un tour dans l'arène spirituelle.";
+
+translate "Yokir Tournament has ended, please tune to Events for event reports (/join Events)!"
+to french "Le tournoi de Yokir est terminé, veuillez vous branchez sur le canal Evènements pour le rapport d'animation (/join Events) !";
+
+translate "The Yokir Practice Session is begining, visit your local Shrine of Conflict to journey to the Spirit Arena."
+to french "La session d'entraînement au Yokir a commencé, rendez-vous au Sanctuaire du Conflit le plus proche pour y participer.";
+
+translate "The Yokir Practice Session has ended, thank you for playing!"
+to french "La session d'entraînement au Zahdu est terminée, merci d'y avoir joué !";
+
+--- Calendar---
+
+//Le temps du Yokir est venu! Trois joueurs par partie, une partie par match. Il vous suffit de battre un adversaire une seule fois pour atteindre le niveau suivant. Au bout de quatre défaites, c'est l'élimination.
+//Les match sont assez longs, soyez sur d'avoir assez de temps devant vous pour terminer tout match auquel vous participez! Premier prix - Lot d'herbe pour la compétence Cuisine; 1er, 2eme, 3eme - kits de thermomètre (5); 100 belles tiges de verre seront distribuées aux joueurs ayant atteints au moins le niveau 2; Enfin, 7 herbes Schisandra seront attribuées par loterie.
+//Jouer, gagnez, progressez, défiez! Bonne Chance!
+
+--- Calendar---
+
+//Le temps du Yokir est venu! Trois joueurs par partie, une partie par match. Il vous suffit de battre un adversaire une seule fois pour atteindre le niveau suivant. Au bout de quatre défaites, c'est l'élimination. 
+//Des prix seront remis à tous ceux qui auront atteint le niveau 2, aux 7 meilleurs et un pris spécial pour le grand vainqueur. 
+//Il y aura aussi une loterie. Les prix seront liés à la nourriture.
+
+----------------------------------------------------------------------------------------------------------------------------------
+-- Reflection
+----------------------------------------------------------------------------------------------------------------------------------
+
+---System---
+
+translate "The Reflection Tournament is starting. Visit any Conflict Shrine to enter the Spirit Arena."
+to french "Le tournoi de Reflection commence. Rendez-vous à n'importe quel Sanctuaire de Conflit pour y participer.";
+
+translate "The Reflection Tournament has ended. Prizes are being distributed."
+to french "Le tournoi de Reflection est terminé. La remise des prix va avoir lieu.";
+
+translate "Reflection Practice is beginning in the Arena.  Use a Conflict Shrine to travel there."
+to french "La session d'entraînement à la Reflexion a débuté. Rendez-vous à un Sanctuaire de Conflit pour participer.";
+
+translate "Reflection Practice has ended. Thank you for participating! See you all at the upcoming Tournament!"
+to french "La session d'entraînement à la Reflexion est terminée. Merci d'y avoir participé ! Rendez-vous au tournoi à venir !";
+
+translate "The Reflection Tournament has begun in the Arena.  Use any Conflict Shrine to travel there."
+to french "Le Tournoi de Reflexion a débuté. Rendez-vous à un Sanctuaire de Conflit pour participer.";
+
+translate "The Reflection Tournament has ended. Prizes are now being awarded. Please type /join Events for more details."
+to french "Le tournoi de Reflexion est terminé. Les prix vont être distribués. Veuillez vous brancher sur le canal Evènements (/join Events) pour plus de détails.";
+
+---Calendar---
+
+//Bienvenu au tournoi de Reflection. Triple élimination. Mesurez votre abilité face à vos adversaires! Des prix seront remis, au cours d'une loterie, et pour les 7 meilleurs participants. Un prix spécial sera également attribué au grand vainqueur.
+//Les prix seront en relation avec le métal.
+
+//Le jeu de Reflexion est une représentation en 3D du fameux ancien jeu "Connect the Dots". Pourrez-vous anticiper votre adversaire et réduire ses choix, en étant plus ingénieux ? Ou découvrerez-vous que votre reflet dans le bassin n'est que celui de votre défaite ?
+//Le tournoi durera deux jours, et deux victoires de plus que de défaites seront nécessaires pour passer au niveau suivant. Les prix seront liés à la "Reflexion" !
+
+----------------------------------------------------------------------------------------------------------------------------------
+-- Seven Blades
+----------------------------------------------------------------------------------------------------------------------------------
+
+---System---
+
+translate "The Sevenblade Tournament has begun. Visit any Conflict Shrine to enter the arena, good luck!"
+to french "Le tournoi de Sept-Lames commence. Rendez-vous à n'importe quel Sanctuaire de Conflit pour y participer, bonne chance !";
+
+translate "The Sevenblade Tournament has ended. Thank you for participating. Prizes are now being distributed, tune in the Events Channel for more details (/join Events)."
+to french "Le tournoi de Sept-Lames est terminé. Merci d'y avoir participer. La remise des prix à présent va avoir lieu, branchez-vous sur le canal Evènements (/join Events) pour plus de détails (traduction sur /join RadioFrance).";
+
+translate "The Sevenblade Practice Session has begun. Visit any Conflict Shrine to participate, and tune in to the Events channel (/join Events) for any updates!"
+to french "La session d'entraînement aux Sept Lames a commencé. Visitez n'importe quel Sanctuaire du Conflit pour y participer, et branchez vous sur le canal Evènements (/join Events) pour plus de détails !";
+
+translate "The Sevenblade Practice Session has ended. Thank you all for participating, and good luck in the upcoming tournament!"
+to french "La session d'entraînement aux Sept Lames est terminée. Merci d'y avoir participer, et bonne chance pour le tournoi à venir !";
+
+---Calendar---
+
+translate "Sevenblade is a battle of bids and guessing, back and forth until there is a winner. Can you convince your opponent that you have the blades you claim? Or will they fool you?"
+to french "Le jeu des Sept Lames mèle l'art du pari et de l'intuition. Pourrez-vous faire croire à votre adversaire que vous possédez les lames que vous prétendez avoir? Ou percera-t-il votre ruse?";
+
+translate "In this three day long practice session, you'll receive 4 blades at start, and then 4 more blades every 6 hours. Four wins are required to advance levels, and you can lsoe up to four times before being disqualified (even then, you can still play in practice games)."
+to french "Dans cette session d'entraînement longue de trois jours, vous recevrez 4 lames au début, puis 4 lames supplémentaires toutes les 6 heures. Quatre victoires pour avancer au prochain niveau, et vous pouvez perdre jusqu'à quatre fois avant d'être disqualifier (même si vous l'êtes, nvous pouvez tout de même continuer à jouer, puisque ce n'est qu'un entraînement).";
+
+translate "As this is a Practice Session, no prizes will be awarded. Players are welcomed and encouraged to gamble on the outcome of individual matches with their own goods, however. ;)"
+to french "Ceci étant une session d'entraînement, aucun prix ne sera attribué. Les joueurs sont toutefois encouragés à ouvrir les paris et à fournir leurs propres prix. ;)";
+
+translate "How to play this game: http://wiki.atitd.net/tale3/Arena_Games/Sevenblade"
+to french "Comment jouer à ce jeu : http://atitd.mondespersistants.com/?article=27";
+
+translate "Sevenblade Tournament"
+to french "Tournoi des Sept Lames";
+
+translate "Use deadly weapons in a game of bluffing!"
+to french "Utilisez des armes mortelles dans un jeu de bluff !";
+
+translate "Central to this game are the ritual weapons known as \"Sevenblades\". You will receive three when you participate. Each Sevenblade consists of seven weapon heads of various types branching from a central pole."
+to french "Le coeur de ce jeu est constitué d'armes rituelles connues sous le nom de \"Sept Lames\". Vous en recevrez trois pour commencer. Chaque arme comprend sept lames de types différents, reliées au manche principal.";
+translate "Two duelists stand at opposite ends of the game table and select the other as an opponent. Each player then chooses a sevenblade from their inventory. Their blade is hidden from the opposing player and the public until the end of the game.  "
+to french "Deux duélistes se tiennent des deux côtés du plateau de jeu et se sélectionnent mutuellement comme adversaires. Chaque joueur doit ensuite choisir une arme dans son inventaire. Les armes ne sont pas visibles de l'adversaire et du public jusqu'à la fin du duel.";
+translate "Once both players have selected blades, a random side is chosen to place a bid and begin the game. This person must make a claim. The second player must either raise the bet, or deny. Eventually, somebody will deny. If the denial is correct, he who denied wins. But if the Sevenblades, taken together, have the requisite number of blades, he who denied loses. "
+to french "Une fois que chaque joueur a sélectionné une arme, l'un des deux adversaire est aléatoirement sélectionné pour commencer à miser. Cette personne doit faire une annonce de ce qu'il prétend avoir sur son arme. Le second joueur doit soit relever le pari, soit dénoncer un bluff. Si le bluff est avéré, ce dernier remporte la partie. Par contre, si l'annonce du joueur correspond à son arme, celui qui a dénoncé le bluff perd.";
+translate "It is traditional when playing Sevenblade that the winner takes the loser's blade. "
+to french "Par tradition, celui qui remporte le duel s'empare de l'arme de son adversaire vaincu.";
+
+translate "Rank of weapons:"
+to french "Classement des lames";
+translate "Dagger < Club < Hammer < Mage < Trident < Axe < Sword"
+to french "Dague < Massue < Marteau < Masse < Trident < Hache < Epée";
+
+translate "Visit a Conflict Shrine to participate."
+to french "Visitez un sanctuaire du Conflit pour participer.";
+
+translate "Each match consists of 3 games, you will advance with 2 more wins than losses. But be careful, 3 losses and you are out!"
+to french "Chaque partie se déroule en trois matchs, vous progresserez en ayant 2 victoires de plus que de défaites. Soyez toutefois prudent, 3 défaites et vous êtes éliminé !";
+
+translate "Prizes are:"
+to french "Les prix sont :";
+translate "1 Microphone Part to the winner"
+to french "Une partie de microphone pour le gagnant";
+translate "14 Wings of Horus to top 3"
+to french "14 ailes d'Horus pour le Top 3";
+translate "7 Medium Diamonds to top 7"
+to french "7 diamants moyens pour le Top 7";
+translate "3 Onion Seeds to top 21"
+to french "3 graines d'oignon pour le Top 21";
+translate "21 Small Topaz to top 49"
+to french "21 petites topazes pour le Top 49";
+translate "21 Papyrus as participation prize"
+to french "21 papyrus en tant que prix de participation";
+translate "3 Chunks of 1 Huge Quartz will be given out by lottery"
+to french "3 lots d'1 énorme quartz sera attribué par loterie";
+
+translate "Webwawet Spirit Arena"
+to french "Arène spirituelle Wepwawet";
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+-- Tug
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+---System---
+
+translate "Tug Practice has now begun.  Visit any Conflict Shrine to participate."
+to french "La session d'entraînement à la Télépathie a débuté. Rendez-vous à n'importe quel Sanctuaire du Conflit pour y participer.";
+
+translate "Tug Practice has now ended.  Thank you for participating."
+to french "La session d'entraînement à la Télépathie est terminée.  Merci d'y avoir participer.";
+
+translate "Tug Tournament is starting now. Please visit any Conflict Shrine to participate."
+to french "Le tournoi de Télépathie a commencé. Rendez-vous à n'importe quel Sanctuaire du Conflit pour y participer.";
+
+translate "Tug Tournament has ended, prizes are being awarded. Please tune to Events channel (/join Events) for more details."
+to french "Le tournoi de Télépathie vient de se terminer, les prix vont maintenant être distribué. Veuillez vous branchez sur le canal Evènements pour plus de détails (/join Events).";
+
+---Calendar---
+
+//Le jeu de la Télépathie représentait autrefois la faculté de lire dans l'esprit des autres. C'est un jeu assez simple de pari et de bluff, dans lequel vous et votre adversaire cherchent à controller un petit chariot. Pourrez-vous remporter la victoire, ou serez-vous mis plus bas que terre ? Venez le découvrir, rejoignez nous dans l'arène Wepwawet !
+//Guide : http://atitd.mondespersistants.com/?article=28
+//Ceci étant une session d'entraînement, aucun prix ne sera attribué. Les joueurs sont toutefois encouragés à ouvrir les paris et à fournir leurs propres prix. ;)
+
+//Le jeu de la Télépathie représentait autrefois la faculté de lire dans l'esprit des autres. C'est un jeu assez simple de pari et de bluff, dans lequel vous et votre adversaire cherchent à controller un petit chariot. Pourrez-vous remporter la victoire, ou serez-vous mis plus bas que terre ? Venez le découvrir, rejoignez nous dans l'arène Wepwawet !
+//Le tournoi durera un jour et demi, et deux victoire de plus que de défaites seront nessaires pour atteindre le niveau suivant. Un avantage de deux victoires est requis pour gagner une partie. Ceci étant le dernier jeu de conflit dans ce cycle, le gagnant se verra remettre un prix très spécial : une plaque pour améliorer les planches à maçon. Dans le cas d'une égalité à la première place, la plaque sera remise aléatoirement.
+//Guide : http://atitd.mondespersistants.com/?article=28
+
+----------------------------------------------------------------------------------------------------------------------------------
+-- Heket's Rake
+----------------------------------------------------------------------------------------------------------------------------------
+
+---System---
+
+translate "The Heket's Rake Tournament has begun. Head to any conflict shrine to compete."
+to french "Le tournoi du Râteau d'Heket a commencé. Rendez-vous à un sanctuaire du Conflit pour y participer.";
+
+translate "The Heket's Rake Tournament has ended. Thank you for participating. Prizes are being distributed."
+to french "Le tournoi du Râteau d'Heket est terminé. Merci d'y avoir participer. Les prix sont en cours de distribution.";
+
+--- Calendar---
+
+//Il est temps de jouer au Râteau d'Heket ! Rejoignez-vos amis dans un tournoi de subtilité. Qui arrivera à déplacer son râteau de son côté du plateau ? Sautez le champignon pour gagner. Ce jeu est basé sur le jeu nommé "Le Football du Philosophe".
+//http://atitd.mondespersistants.com/?article=32
+//Prix standards - les joueurs de niveau 1, le Top 7 et le grand vainqueur reçoivent tous un prix.
+//Les prix seront des métaux et des produits liés au métal.
+
+----------------------------------------------------------------------------------------------------------------------------------
+-- Zhadu
+----------------------------------------------------------------------------------------------------------------------------------
+
+---System---
+
+translate "The Way of Zhadu tournament has begun.  Visit any Conflict shrine to attend."
+to french "Le tournoi de Zhadu a commencé. Rendez-vous à n'importe quel sanctuaire du Conflit pour y participer.";
+
+translate "The Way of Zhadu tournament has ended.  Thank you for participating!  Prizes will be distributed shortly, tune in the Events channel for more details (/join Events)."
+to french "Le tournoi de Zhadu est terminé. Merci d'y avoir participer ! Les prix seront distribués sous peu, branchez-vous sur le canal Evènements pour plus de détails (/join Events), traduction sur RadioFrance (/join RadioFrance).";
+
+translate "The Zhadu Practice Session has begun.  Visit any Conflict Shrine to participate, and tune in the Events channel for fresh news (/join Events)."
+to french "La session d'entraînement au Zhadu a commencé.  Rendez-vous à n'importe quel Sanctuaire du Conflit pour y participer, et branchez-vous sur le canal Evènements pour les infos fraiches (/join Events).";
+
+translate "The Zhadu Practice Session has ended.  Thank you for playing, and good luck with the tournament!"
+to french "La session d'entraînement au Zhadu est terminée.  Merci d'avoir jouer, et bonne chance pour le tournoi !";
+
+--- Calendar---
+
+//Voilà votre chance d'affûter vos compétences au Zhadu, un autre de nos jeux de Conflit des Contes précédents. Un tournoi suivra cette session d'entraînement ce week-end, alors soyez sûr de tirer avantage de cette longue session d'entraînement.
+//Ceci étant une session d'entraînement, aucun prix ne sera remis. Les Maîtres du Conflit seront disponibles dans l'arène pour vous apprendre les rudiments de ce jeu, afin que vous ayez une chance de gagner le tournoi. Les joueurs sont cependant encouragés à ouvrir les paris et à remettre leurs propres prix.
+//Comment jouer à ce jeux : http://atitd.mondespersistants.com/?article=29
+
+--- Calendar---
+
+//Le Zhadu est un jeu relativement simple qui testera votre abilité à penser dans le futur ! Venez tester vos compétences et pourquoi pas gagner d'excellents prix, dont des thermomêtres pour le gagnant de ce tournoi.
+//Le Top 7, 14, et 21 seront récompensés par des prix liés au verre, et quiconque qui y participe recevra un prix de participation, et aura une chance de gagner notre loterie. Faites une pause dans vos tâches quotidiennes, et tentez votre chance dans ce tournoi !
+//Rêgles : 2 victoires pour progresser, 2 défaites pour être éliminer, 1 partie par match.
+//Comment jouer : http://atitd.mondespersistants.com/?article=29
+//Cependant, le meilleur moyen d'apprendre est de participer aux sessions d'entraînement !
+
+----------------------------------------------------------------------------------------------------------------------------------
+-- Cuckoo for Coconuts
+----------------------------------------------------------------------------------------------------------------------------------
+
+---System---
+
+translate "Cuckoo for Coconuts Around Here has started."
+to french "Le Festival Culinaire 'A vos noix les cocos' a commencé.";
+translate "Cuckoo For Coconuts has ended. Thank you for participating, I hope you enjoyed the event."
+to french "Le Festival Culinaire 'A vos noix les cocos' est terminé. Merci d'y avoir participer, nous espérons que vous avez apprécié.";
+
+----------------------------------------------------------------------------------------------------------------------------------
+-- Kindness
+----------------------------------------------------------------------------------------------------------------------------------
+
+--- Calendar---
+
+//Journée de Bonté
+//La guilde "Random Acts of Kindness" sponsorise le deuxième Jour de Bonté, qui reviendra tous les mois. 24h de dons... à quiconque, créez des sourires sur le visages des gens!! On ne sait jamais, vous serez peut-être la cible de la Bonté de quelqu'un d'autre. Tous les cadeaux doivent être entreposés avant le 29 juillet, 6h du matin (heure française). Veuillez ajouter un jeton personnel avec votre cadeau. :-) Pour plus d'informations, consultez tale3/Guilds/Random_Acts_of_Kindness
+
+----------------------------------------------------------------------------------------------------------------------------------
+-- Festivals
+----------------------------------------------------------------------------------------------------------------------------------
+
+--- Calendar---
+
+//JemGirl est votre DJ pour les festivals! Pour toute information, /join FCN - votre canal/radio privilégiée pour les Festivals. Cette semaine, le festival sera dédié à RÂ, et commencera à 21h (heure française), ce samedi. L'objectif est d'atteindre les 100% donc nous avons besoin de tous les participants possible. Aidez-vous les uns les autres pour le matériel requis - 7 feux de 7000 bois chacun et une ambroisie composée d'un vin alcolisé à 10% et de dattes. Si vous avez des questions, contactez JemGirl ou un autre membre de Festival Connection.
+
+----------------------------------------------------------------------------------------------------------------------------------
+-- Herbing Festival
+----------------------------------------------------------------------------------------------------------------------------------
+
+---System---
+
+translate "The herbing festival has begun! All herbs gathered from now until the end count towards your total!"
+to french "Le festival de cueillette commence! Toutes les herbes ramassées à partir de maintenant et jusqu'à la fin du festival comptent pour votre score!";
+
+translate "The herbing festival has ended. Prizes are now being awarded."
+to french "Le festival de cueillette est terminé. Les prix vont être distribués.";
+
+translate "Pharaoh's Ecological Commission announces Highly Ecological has started. For the next three days, your goal will be to forage as many herbs as possible. They thank you for your help, and they wish you good luck!"
+to french "La commission environementale de Pharaon annonce que la mission écologique a commencé. Pendant les trois prochains jours, votre objectif sera de ceuillir autant d'herbes que possibles. Ils vous remercient de votre aide précieuse, et vous souhaitent bonne chance !";
+
+translate "Highly Ecological has ended and has been a success, our lands are safe for some time to come now. Prizes are being distributed, and will be announced in the Events channel (/join Events) as soon as possible. Thank you for participating!"
+to french "La mission écologique est terminée et a été un succès, nos terres ne risquent rien pour un bout de temps à présent. Les prix vont être distribués, et seront annoncés dans le canal Evènements (/join Events) dès que possible. Merci d'y avoir participer !";
+
+--- Calendar---
+
+//Bienvenu au Festival de Cueillette! Pour participer à la compétition, vous devez cueillir des herbes, plus précisément un type d'herbe. Les points sont attribués selon 4 catégories - le nombre total d'herbes cueillies, le nombre total de graines obtenues, la diversité des herbes, et le nombre d'herbes cibles cueillies. Les herbes obtenues en plantant des graines ne comptent pas. SEULES les herbes CUEILLIES durant le festival comptent!
+//L'herbe cible est le basilic commun (Common Basil).  
+//Des prix seront remis à chaque vainqueur dans les quatre catégories, aux participants ayant atteint le Top 7, et à ceux ayant atteint le Top 49. Il y aura également plusieurs prix attribués par lotterie dans chaque catégorie.
+//Le plus haut prix dans la catégorie Herbe Cible est une faucille d'argent ayant autrefois appartenue à Geb. Avoir cette faucille augmente la récolte, à chaque fois que vous cueillez une herbe.
+//Le plus haut prix dans les trois autres catégories est un Panier à cueillette. Ce panier est démontable et peut contenir des herbes. Beaucoup d'herbes. 
+//Bonne chance!
+
+--- Calendar---
+
+//A la suite d'une étude scientifiques, la commission environementale de Pharaon fait état d'une période particulièrement fertile. Les terres d'Egypte sont envahies par la végétation, et l'équilibre écologique est menacé.
+//Afin de réduire la prolifération et de préserver notre environement, la commission de Pharaon vous demande de cueillir autant d'herbes que possible. Ils ont aussi dit, dans leur rapport, qu'une espèce d'herbe en particulier est en train de devenir un véritable danger pour l'écosystème : la Beggar's Button. Ce n'est pas une herbe banale, elle est plutôt rare, mais ils pensent qu'elle pourrait être hautement toxique pour les poulets de l'Egypte !
+//Des prix seront remis à ceux d'entre vous qui cueillent le plus d'herbes, et à ceux qui cueillent le plus de Beggar's Button. La généreuse commission propose de récompenser les égyptiens avec une faucille de Geb et un panier à herbes, parmi d'autres prix. Les herbes obtenues à partir des graines de comptent pas. SEULES les herbes CUEILLIES pendant l'animation comptent !
+//Sauver les terres d'Egypte, sauvez nos poulets !
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+-- Bard
+----------------------------------------------------------------------------------------------------------------------------------
+	
+translate "Bard of Mitani"
+to french "Barde de Mitani";
+
+----------------------------------------------------------------------------------------------------------------------------------
+-- Fishing Contest
+----------------------------------------------------------------------------------------------------------------------------------
+
+---System---
+
+translate "The Fishing Contest has begun!"
+to french "Le concours de pêche a commencé !";
+
+translate "The Fishing Contest has ended, and prizes are being awarded now."
+to french "Le concours de pêche vient de se terminer, et les prix sont en cours de distribution.";
+
+translate "The Fishing Fair Festival has started. Grab your pole and track those naughty fish!"
+to french "La Foire à la pêche a commencé. Prenez votre canne à pêche et traquez ces vilains petits poissons !";
+
+translate "The Fishing Fair Festival has ended. The 'Something Fishy' Food Festival is now starting. So give your oxyrynchus fish to your chefs, and enjoy their masterpeices! For more details about this Festival, please check your calendar."
+to french "La Foire à la Pêche est terminée. Le festival culinaire 'Comme une odeur de poisson' va commencer. Donnez vos esturgeons noirs à vos chefs, et dégustez leurs chefs d'oeuvre ! Pour plus de détails, consultez votre calendrier.";
+
+--- Calendar---
+
+//Les scientifiques des prestigieuses Universités du Corps Humain ont récemment découvert un ancien papyrus parlant d'une Foire à la Pêche dont nos ancêtres étaient friants. Ils ont donc décidés d'organiser une Foire d'un nouveau genre, pour honorer leur mémoire.
+//Emparez vous de votre canne à pêche, et videz les eaux d'Egypte de leur poisson ! De plus, un festival culinaire dédié à l'esturgeon noir suivra cette foire. Alors attrapez-les, emmenez-les à vos meilleurs chefs, et appréciez !
+//La Foire à la Pêche récompensera les égyptiens qui auront attrapé les plus gros poisson (tout type), et le plus d'esturgeons noirs. Chaque participant recevra aussi un prix de participation, et pourra gagner notre lotterie.
+
+----------------------------------------------------------------------------------------------------------------------------------
+-- Smoke Out
+----------------------------------------------------------------------------------------------------------------------------------
+
+---System---
+
+translate "The Great Egyptian Smoke Out has begun. Smoke the hookah with as many friends as you can!"
+to french "La Grande Fumette vient de commencer. Fumez le narghilé avec le plus d'amis que vous pouvez !";
+
+translate "The Great Egyptian Smoke Out has ended. Prizes are now being awarded."
+to french "La Grande Fumette est terminée. Les prix sont en cours de distribution.";
+
+translate "The Great Egyptian Smoke-Out has begun. Leave your daily chores, gather with as many friends as possible and enjoy these two days of relaxation."
+to french "La Grande Fumette a commencé. Abandonnez vos tâches quotidiennes, rassemblez le plus d'amis possibles et appréciez ce jour de détente.";
+
+translate "The Great Egyptian Smoke-Out has now ended; prizes are being distributed. Tune in the Events Channel for more details (/join Events). Thank you for participating!"
+to french "La Grande Fumette est terminée ; les prix vont à présent être distribués. Branchez-vous sur le canal Evènements pour plus de détails (/join Events). Merci d'avoir participer !";
+
+--- Calendar---
+
+//Voilà le moment parfait pour une Grande Fumette ! Après avoir parcouru l'Egypte en long, en large, et en travers à la recherche d'herbes, il est temps de les apprécier à leur juste valeur.
+//Seront récompenser ceux qui auront partager un narghilé avec le plus de monde possible, ainsi qu'aux individus dont le niveau en fumette aura le plus progressé. les grands vainqueur dans ces catégories recevront respectivement un un certificat pour améliorer leur narghilé, et une pierre d'angle portable ! Des prix seront également remis à ceux atteignant le Top 49 et le Top 7 dans chacune des catégories. Fumez les si vous le pouvez !
+
+//L'objectif de ce festival est simplement d'apprécier un bol d'herbes entre amis, autour d'un bon narghilé.
+//Nous ferons deux sortes de score pour cette animation : celui qui a partagé un narghilé avec le plus de personne recevra un très beau narghilé. De plus, celui qui aura réussi à réussi à gagner le plus de points en Fumette recevra également un narghilé artistique. Veuillez noter que la catégorie "le plus de points" avantage en fait les nouveaux aux nouveaux, qui ont à présent peu de points. Ce festival représnete une opportunité pour les nouveaux sur ATITD de gagner un objet exotique et de valeur ! Les autres prix dans le festival seront tous liés à la Fumette.
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+-- Zhadu Practice
+----------------------------------------------------------------------------------------------------------------------------------
+
+--- Calendar---
+
+//Venez apprendre le jeu passionnant du Zhadu, un jeu désespérement simple, à premier abord !
+//Cette session durera tout le week end, puisque c'est la première fois que vous rencontrez ce jeu, initialement créé pour le deuxième Conte. Joingnez-vous à nous pour apprendre un autre jeu du Conflit, qui fera des apparitions lors de tournois.
+//C'est une session d'entraînement, il n'y aura donc aucun prix.
+
+----------------------------------------------------------------------------------------------------------------------------------
+-- Day of Recollection
+----------------------------------------------------------------------------------------------------------------------------------
+
+---System---
+
+translate "The Day of Recollection has begun.  The past year is almost at an end: Look to it with pride."
+to french "Le jour de Réminiscence a commencé. L'année passée est presque à son terme : Regardez la avec fierté.";
+translate "The Reflection tournament has begun."
+to french "Le tournoi de Reflexion a commencé.";
+
+translate "The Day of Recollection is now over."
+to french "Le Jour de Réminiscence est à présent terminé.";
+translate "The Reflection tournament has ended.  Prizes shall be distributed shortly."
+to french "Le tournoi de Reflexion est terminé. Les prix seront distribués sous peu.";
+
+translate "The Smoking Festival has begun."
+to french "Le festival de Fumette a commencé.";
+translate "The Smoking Festival has now ended; prizes are being distributed."
+to french "Le festival de Fumette est terminé; les prix vont seront distribués sous peu.";
+
+----------------------------------------------------------------------------------------------------------------------------------
+-- Day of Creation
+----------------------------------------------------------------------------------------------------------------------------------
+
+---System---
+
+translate "The Day of Creation has begun."
+to french "Le jour de la Création a débuté.";
+translate "The Rake tournament has begun.  Visit any Conflict shrine to participate."
+to french "Le tournoi du Rateau d'Heket a commencé.  Rendez-vous à n'importe quel Sanctuaire du Conflit pour y participer.";
+translate "The Digging Festival has begun!  Grab your shovels and participate with friends!"
+to french "Le Festival de Dig a commencé ! Munissez-vous de vos pelles et participez entre amis !";
+
+translate "The Heket's Rake tournament has ended.  Prizes will be distributed soon."
+to french "Le tournoi du Rateau d'Heket est terminé. Les prix vont être distribués dans quelques minutes.";
+translate "The Digging Festival has now ended.  Prizes are being awarded."
+to french "Le Festival de Dig est terminé. es prix vont être remis sous peu.";
+translate "The Day of Creation has now ended."
+to french "Le Jour de la Création est arrivé à son terme.";
+
+----------------------------------------------------------------------------------------------------------------------------------
+-- Day of Sharing
+----------------------------------------------------------------------------------------------------------------------------------
+
+---System---
+
+translate "The Garlic Festival, for the Day of Sharing, has begun."
+to french "Le Festival de l'ail a commencé, en ce jour du Partage.";
+translate "The Garlic Festival, for the Day of Sharing, has ended.  Prizes will be distributed soon."
+to french "Le Festival de l'ail est terminé, en ce jour de Partage. Les prix vont être distribués sous peu."; 
+
+translate "Celebrate the Light of Isis.  You have a new project you can build.  Begin by building a small construction site."
+to french "Célébrez la Lumière d'Isis.  Vous avez un nouveau projet disponible.  Commencez par construire un petit site de construction.";
+
+translate "Isis is pleased by your devotions.  May her light shine on you.  Ground fireworks are being distributed automatically. Watch System for announcement of grand prize winners and how to collect your prizes on Jan. 18."
+to french "Isis est satisfaite de votre dévotion.  Puisse sa lumière vous guider.  Les feux d'articifice sont distribués automatiquement.  Surveillez Système (et RadioFrance) pour les annonces des gagnants des grands prix et comment les réclamer le 18 janvier.";
+
+----------------------------------------------------------------------------------------------------------------------------------
+-- Birth of the Phoenix
+----------------------------------------------------------------------------------------------------------------------------------
+
+---System---
+
+translate "The scholars at the University of Worship note the rebirth of the Phoenix is at hand.  Prepare to travel!"
+to french "Les instructeurs de l'Université de Vénération annoncent que la renaissance des Phoenix approche. Préparez-vous à voyager !";
+
+translate "The scholars at the University of Worship note the rebirth and first flight of the Phoenix.  Prepare to travel, and pay homage!"
+to french "Les instructeurs de l'Université de Vénération annoncent que la renaissance des Phoenix approche. Préparez-vous à voyager !";
+
+translate "The Birth of the Phoenix has concluded.  Thank you for participating! Scores and prizes will be announced shortly in the Events channel (/join Events)."
+to french "La naissance des Phoenix est terminée. Merci d'y avoir participer ! Les scores et les prix seront annoncés sous peu dans le canal Evènements (/join Events), traduction dans RadioFrance (/join RadioFrance).";
+
+translate "The Birth of the Phoenix has concluded.  Thanks for participating! Scores and prizes will be announced shortly in the Events channel (/join Events)."
+to french "La naissance des Phoenix est terminée. Merci d'y avoir participer ! Les scores et les prix seront annoncés sous peu dans le canal Evènements (/join Events), traduction dans RadioFrance (/join RadioFrance).";
+
+--- Calendar---
+
+//Les scientifiques de l'Université de Vénération ont observé qu'un alignement très particulier des étoiles approchait - signifiant la naissance des Phoenix jumeaux.
+//Pour célébrer la naissance du Phoenix, marquant un nouveau commencement, beaucoup choisissent d'entreprendre un pèlerinage des différents sanctuaires disséminés à travers l'Egypte. Aucun sacrifice n'est nécessaire pour ce pèlerinage. Cependant, de part la rapidité des renaissances, des pieds agiles et un esprit rapide sont indispensables.
+//Dans cette course, 18 stadiums à Phoenix seront annoncés, un à la fois; vous devrez courir à chaque d'eux, dans l'ordre, et leur rendre hommage. Les sept premiers joueurs à atteindre un stadium donné recevront un petit prix, plus un des sept types de phoenix miniatures. De plus, utilisé plus d'un jour de temps de voyage vous disqualifie de la course.
+//Ceux qui ont collecté le plus de phoenix miniatures, et ceux qui ont collectionnés le plus de types de différents, seront récompensés. Les prix seront liés au marbre.
+
+// Rite of Command
+translate "The Rite of Command Season is beginning."
+to french "La saison du Rite du commandement commence";
+translate "The Rite of Command Season has ended."
+to french "La saison du Rite du commandement est terminée";
+
+/// Telepathy ///
+
+translate "Telepathy Tournament"
+to french "Tournoi de Télépathie";
+
+
+// Herbing event
+translate "Whistle While We Work!" to french "Sifflez en travaillant";
+
+translate "Each king has given an opportunity for their citizens to earn some payment back for all the effort they go to for the kingdom.  Generosity is in all the ruler's hearts this weekend."
+to french "Chaque seigneur a donné une opportunité à chaque citoyen de gagner une récompense pour tous les efforts fournis envers les royaumes. La générosité est dans les coeurs de tous les gouvernants ce weekend.\n";
+ 
+translate "Each king wants to see whose citizens excel in their gathering and growing skills.  Those who excel will get extra prizes.  All who participate will reap rewards too!"
+to french "Chaque seigneur souhaite voir quels citoyens excellent dans les domaines du ramassage et des plantations\n";
+
+translate "<OOC: Participation means picking up silt, garthering wood and slate, fishing, growing flax, picking grass, and growing any vegetables.  A good strategy is to either do the most of one thing or spread your efforts among doing many things.  To be a participant you must do more than just picking up 5 slate, for example.>>"
+to french "PI : Participer signigie ramasser de la vase et des ardoises, couper du bois et de l'herbe, pêcher, faire pousser du lin et des légumes. Une bonne srtatégie consiste soit à viser une seule catégorie et en faire le max, ou répartir ses efforts sur l'ensemble des catégories. Pour participer, il faut faire plus que juste ramasser 5 ardoises par exemple.";
+
+
+translate "Prizes:" to french "Prix : ";
+
+translate "Top prize is 1 Token of Ra. In the case of a tie, the winner is chosen by lottery." 
+to french "Premier prix : 1 jeton de Ra. En cas d'égalité, le gagnant sera tiré au sort\n";
+
+translate "Top 8 receive 1 Mystery color of Light Box.  Ties in this category may lessen the amount of winners."
+to french "Les 8 premiers recevront une lanterne d'une couleur mystérieuse. Des ex-aequo dans cette catégorie pourrait diminuer le nombre de gagnants\n";
+
+translate "Top 88 receive 50 Dried Flax.  Ties in this category may lessen the amount of winners also."
+to french "Les 88 premiers recevront 50 lins séchés. Des ex-aequo dans cette catégorie pourrait diminuer le nombre de gagnants\n";
+
+translate "All Participants receive: 1 Canvas and 20 Charcoal." 
+to french "Tous les participants recevront : 1 tissu et 20 charbons\n";
+
+translate "Lottery of 8 Mystery color Light Boxes and 88 amounts of 50 Dried Flax will also be given out."
+to french "Par lotterie, 8 lanternes aux couleurs mystérieuses et 88 pack de 50 lins sêchés seront aussi distribués\n";
+
+translate "WARNING: Please be aware that when prizes are given out at the end of the event, you could be overloaded!"
+to french "Attention : Sachez que lorsque les prix sont distribués à la fin de l'évènement, vous pouvez être surchargé !";

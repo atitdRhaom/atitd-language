@@ -1,0 +1,555 @@
+module flyfishing_fre;
+
+translate rottenfish to french masculine
+{ ns "Poisson pourri"; np "Poissons Pourris"; }
+
+translate flyrod to french feminine
+{
+	ns "Canne à pêche"; np "Cannes à pêche";
+}
+translate FlyFishing to french feminine
+{
+	ns "Pêche à la mouche"; np "Pêche à la mouche";
+}
+
+translate wholefish to french masculine
+{
+	ns "Poisson non écaillé"; np "Poissons non écaillés";
+}
+
+translate BasicFlyRod to french feminine
+{
+	ns "Canne à mouche basique"; np "Cannes à mouche basiques";
+}
+
+translate WhisperersFlyRod to french feminine
+{
+	ns "Canne à mouche murmurante"; np "Cannes à mouche murmurantes";
+}
+
+translate BeachcombersFlyRod to french feminine
+{
+	ns "Canne à mouche ratissante"; np "Cannes à mouche ratissantes";
+}
+
+translate SpiderfangFlyRod to french feminine
+{
+	ns "Canne à mouche chélicère"; np "Canne à mouche chélicères";
+}
+
+translate WhiptailFlyRod to french feminine
+{
+	ns "Canne à mouche fouet"; np "Cannes à mouche fouets";
+}
+
+translate OpenheartFlyRod to french feminine
+{
+	ns "Canne à mouche à coeur ouvert"; np "Cannes à mouche à coeur ouvert";
+}
+
+translate SnakespineFlyRod to french feminine
+{
+	ns "Canne à mouche du serpent"; np "Cannes à mouche du serpent";
+}
+
+translate carp to french feminine
+{
+	ns "Carpe"; np "Carpes";
+	}
+
+translate Tigerfish to french masculine
+{ns "Poisson Tigre"; np "Poissons Tigre"; }
+
+translate perch to french feminine
+{
+	ns "Perche"; np "Perches";
+	}
+	
+translate catfish to french masculine
+{
+	ns "Poisson-chat"; np "Poissons-chats";
+	}
+
+translate tilapia to french masculine
+{
+	ns "Tilapia"; np "Tilapia";
+	}
+
+translate chromis to french masculine
+{
+	ns "Chromis"; np "Chromis";
+	}
+	
+translate Abdju to french masculine
+{
+	ns "Poissons d'Abdju"; np "Poissons d'Abdju";
+	}
+
+translate Oxyrynchus to french masculine
+{
+	ns "Esturgeon noir"; np "Esturgeons noirs";
+	}
+
+translate Phagrus to french masculine
+{
+	ns "Phagrus"; np "Phagrus";
+	}
+
+translate SerpentFish to french feminine
+{
+	ns "Anguille"; np "Anguilles";
+	}
+	
+translate TigerFish to french masculine
+{
+	ns "Poisson-tigre"; np "Poissons-tigre";
+	}
+
+translate MoonFish to french masculine
+{
+	ns "Poisson-lune"; np "Poissons-lune";
+	}
+
+translate Malapterurus to french masculine
+{
+	ns "Malapterurus"; np "Malapterurus";
+	}
+	
+translate RainbowCod to french masculine
+{
+	ns "Poisson arc-en-ciel"; np "Poissons arc-en-ciel";
+}
+
+translate Kingfish to french masculine
+{
+	ns "Maquereau-roi"; np "Maquereaux-rois";
+}
+translate AmurPike to french masculine
+{
+	ns "Brochet de l'Amour"; np "Brochets de l'Amour";
+}
+translate Ayu to french masculine
+{
+	ns "Ayu"; np "Ayu";
+}
+translate Spoonfish to french masculine
+{
+	ns "Poisson cuillère"; np "Poissons cuillère";
+}
+translate Razorfin to french masculine
+{
+	ns "Nageoire-rasoir"; np "Nageoires-rasoirs";
+}
+translate GreatKnucklefish to french masculine
+{
+	ns "Grand poisson à osselets"; np "Grands poissons à osselets";
+}
+translate SingingLamprey to french feminine
+{
+	ns "Lamproie"; np "Lamproies";
+}
+translate CherryBonefish to french feminine
+{
+	ns "Albula vulpes"; np "Albula vulpes";
+}
+translate OrangeSpongefish to french feminine
+{
+	ns "Eponge orange"; np "Eponges oranges";
+}
+translate LimaChub to french masculine
+{
+	ns "Lima chub"; np "Lima chub";
+}
+translate QueenLionfish to french masculine
+{
+	ns "Poisson lionne"; np "Poissons lionnes";
+}
+translate HornedPigfish to french masculine
+{
+	ns "Goret cornu"; np "Gorets cornus";
+}
+translate Otterfish to french masculine
+{
+	ns "Poisson loutre"; np "Poisson loutre";
+}
+translate SpinyDogfish to french masculine
+{
+	ns "Aiguillat commun"; np "Aiguillats communs";
+}
+translate PancakeLoach to french masculine
+{
+	ns "Loche galette"; np "Loches galette";
+}
+translate HylianLoach to french masculine
+{
+	ns "Loche Hylienne"; np "Loches Hylienne";
+}
+translate Medusafish to french feminine
+{
+	ns "Méduse"; np "Méduses";
+}
+translate ShelomitsPuffer to french masculine
+{
+	ns "Poisson globe de Shelomit"; np "Poissons globes de Shelomit";
+}
+translate YellowfinSnapper to french feminine
+{
+	ns "Vivaneau albacore"; np "Vivaneaux albacores";
+}
+translate Camelfish to french masculine
+{
+	ns "Poisson chameau"; np "Poissons chameau";
+}
+translate OctecsLongfin to french masculine
+{
+	ns "Plesiopidae d'Octec"; np "Plesiopidaes d'Octec";
+}
+translate StripedBatfin to french masculine
+{
+	ns "Batfin rayé"; np "Batfins rayés";
+}
+translate ReticulatedToothfish to french feminine
+{
+	ns "Légine réticulée"; np "Légines réticulées";
+}
+translate WhiteOniontail to french masculine
+{
+	ns "Poisson oignon blanc"; np "Poissons oignon blanc";
+}
+translate FlyingFish to french masculine
+{
+	ns "Exocet"; np "Exocets";
+}
+translate NileMackerel to french masculine
+{
+	ns "Maquereau du Nil"; np "Maquereaux du Nil";
+}
+translate Tilefish to french masculine
+{
+	ns "Poisson tuile"; np "Poissons tuile";
+}
+translate IvoryKnifefish to french masculine
+{
+	ns "Poisson couteau d'ivoire"; np "Poissons couteau d'ivoire";
+}
+translate Octopus to french masculine
+{
+	ns "Pouple"; np "Pouples";
+}
+translate RiverCrab to french masculine
+{
+	ns "Crabe des rivières"; np "Crabes des rivières";
+}
+translate GiantCrayfish to french feminine
+{
+	ns "Ecrivisse géante"; np "Ecrivisses géantes";
+}
+translate SpottedSeaCucumber to french masculine
+{
+	ns "Concombre de mer tacheté"; np "Concombres de mer tachetés";
+}
+translate BayLobster to french feminine
+{
+	ns "Cigale raquette"; np "Cigales raquette";
+}
+translate SeaUrchin to french masculine
+{
+	ns "Oursin"; np "Oursins";
+}
+translate BottlenoseSquid to french masculine
+{
+	ns "Encornet"; np "Encornets";
+}
+
+translate fishscales to french feminine
+{
+	ns "Ecaille de poisson"; np "Ecailles de poisson";
+}
+
+translate FishSkin to french feminine
+{
+	ns "Membrane de poisson"; np "Membrane de poisson";
+}
+translate FishOil to french feminine
+{
+	ns "Huile de poisson"; np "Huiles de poisson";
+}
+translate FishRoe to french masculine
+{
+	ns "Oeuf de poisson"; np "Oeufs de poisson";
+}
+translate Filleting to french feminine
+{
+	ns "Lever les filets du poisson"; np "Lever les filets du poisson";
+}
+translate "Fishing"
+to french "Pêche";
+
+translate "The school hands you a sleek fly fishing pole. You'll need insects to use as a lure."
+to french "L'école vous confie une canne de lancer. Vous aurez besoin d'insectes pour les utiliser en tant qu'appât.";
+
+translate "Get out of the water first."
+to french "Sortez d'abord de l'eau.";
+
+translate "You need to use a lure."
+to french "Vous devez utiliser un appât.";
+
+translate "You don't have a lure. Create a lure with insects first." to french "Vous n'avez pas d'appât.\n\n Créez-en avec des insectes d'abbord";
+
+
+translate "You are already fishing!" to french "Vous êtes déjà en train de pêcher !";
+
+translate "The water is dead, and smells like rotten eggs."
+to french "Les eaux semblent sans vie, elles sentent l'oeuf pourri.";
+
+translate "The O1 seems very fresh." to french "Le O1(ns) semble très frais";
+translate "Your fish has spoiled!" to french "Votre poisson a tourné !";
+
+
+translate "Fish Caught: N1" to french "Poissons attapés : N1";
+
+translate "Don't know which way to turn"
+to french "Vous ne savez pas dans quel sens vous tourner";
+
+translate "You need a fishing pole to fish."
+to french "Vous avez besoin d'une canne à pêche pour pêcher.";
+
+translate "Caught a N1 deben O1. The fish seems a bit listless. You also lost your lure."
+to french "Vous avez attrapé O1(uns) O1(ns) de N1 debens. Le poisson semble un peu apathique. Vous avez également perdu votre appât.";
+
+translate "Caught a N1 deben O1. The fish seems a bit listless."
+to french "Vous avez attrapé O1(uns) O1(ns) de N1 debens. Le poisson semble un peu apathique.";
+
+translate "Using a O1 (Preserved) lure."
+to french "L'appât O1(ns) (Conservé) sera utilisé";
+
+translate "Using a O1 (Glazed) lure."
+to french "L'appât O1(ns) (Glacé) sera utilisé";
+
+translate "Using a O1 (Fresh) lure."
+to french "L'appât O1(ns) (Frais) sera utilisé";
+
+translate "Using a O1 (Hardened) lure."
+to french "L'appât O1(ns) (Durci) sera utilisé";
+
+translate "Using a O1 (Mummified) lure."
+to french "L'appât O1(ns) (Embaumé) sera utilisé";
+
+translate "Using a O1 (Petrified) lure."
+to french "L'appât O1(ns) (Pétrifié) sera utilisé";
+
+translate "Using a O1 (Glassified) lure."
+to french "L'appât O1(ns) (Vitrifié) sera utilisé";
+
+translate "Your Fly Fishing skill went up!"
+to french "Vous avez progressé en pêche à la mouche !";
+
+translate "You almost caught an unusual fish, but you were not quick enough."
+to french "Vous étiez à deux doigts d'attraper un poisson rare, mais vous n'avez pas été assez rapide.";
+
+translate "You almost caught an unusual fish, but you were not quick enough. You also lost your lure."
+to french "Vous étiez à deux doigts d'attraper un poisson rare, mais vous n'avez pas été assez rapide. Vous avez également perdu votre appât.";
+
+translate "You almost caught an odd fish, but you were too late recognizing the bite."
+to french "Vous avez presque attrapé un poisson bizarre, mais vous avez mis trop de temps à reconnaître la prise.";
+
+translate "You almost caught an odd fish, but you were too late recognizing the bite. You also lost your lure."
+to french "Vous avez presque attrapé un poisson bizarre, mais vous avez mis trop de temps à reconnaître la prise. Vous avez également perdu votre appât.";
+
+translate "You almost caught a strange fish, but this rod was just too clumbsy."
+to french "Vous avez presque attrapé un poisson étrange, mais cette canne est trop grossière.";
+
+translate "You almost caught a strange fish, but this rod was just too clumbsy. You also lost your lure."
+to french "Vous avez presque attrapé un poisson étrange, mais cette canne est trop grossière. Vous avez également perdu votre appât.";
+
+translate "You didn't catch anything. You also lost your lure. Try different lures and locations."
+to french "Vous n'avez rien attrapé du tout, et vous avez perdu votre appât. Essayez différents appâts et emplacements.";
+
+translate "You didn't catch anything. Try different lures and locations."
+to french "Vous n'avez rien attrapé du tout. Essayez différents appâts et emplacements.";
+
+translate "No fish bit. You also lost your lure. Try different lures and locations."
+to french "Les poissons n'ont pas mordu, et vous avez perdu votre appât. Essayez différents appâts et emplacements";
+
+translate "No fish bit. Try different lures and locations."
+to french "Les poissons n'ont pas mordu. Essayez différents appâts et emplacements";
+
+translate "Let it be known that U1 shall now be known as Pharaoh's Angler, with N1 fish caught."
+to french "Sachez que U1(name) est reconnu comme le pêcheur du Pharaon, avec N1 poissons attrapés";
+
+translate "Let if be known that "
+to french "Sachez que ";
+
+translate "shall now be known as Pharaoh's Angler, with N1 fish caught."
+to french "est reconnu comme le pêcheur du Pharaon, avec N1 poissons attrapés.";
+
+translate "K1 U1 K2"
+to french "K1 U1(name) K2";
+
+translate "Fillet Fish"
+to french "Dépiauter le poisson";
+
+translate "All Fish"
+to french "Tous les poissons";
+
+translate "Although anyone can fillet a fish, you will improve your technique by taking lessons at a School of Worship."
+to french "Bien que tout le monde puisse dépiauter un poisson, vous améliorerez votre technique en prenant des cours à l'école de Vénération.";
+
+translate "O1 (N1db)"
+to french "O1(ns) (N1db)";
+
+translate "Ayu"
+to french "Ay";
+
+translate "K1 (N1db)"
+to french "K1 (N1db)";
+
+translate "Carp (N1db)"
+to french "Carpe (N1db)";
+
+translate "Perch (N1db)"
+to french "Perche (N1db)";
+	
+translate "Catfish (N1db)"
+to french "Poisson-chat (N1db)";
+	
+translate "Tilapia (N1db)"
+to french "Tilapia (N1db)";
+
+translate "Tigerfish (N1db)"
+to french "Poisson Tigre (N1db)";
+	
+translate "Chromis (N1db)"
+to french "Chromis (N1db)";
+	
+translate "Abdju (N1db)"
+to french "Poissons d'Abdju (N1db)";
+
+translate "Oxyrynchus (N1db)"
+to french "Esturgeon noir (N1db)";
+	
+translate "Phagrus (N1db)"
+to french "Phagrus (N1db)";
+
+translate "Serpent Fish (N1db)"
+to french "Anguille (N1db)";
+	
+translate "Tiger Fish (N1db)"
+to french "Poisson-tigre (N1db)";
+	
+translate "Moon Fish(N1db)"
+to french "Poisson-lune (N1db)";
+	
+translate "Malapterurus (N1db)"
+to french "Malapterurus (N1db)";
+	
+translate "Rainbow Cod (N1db)"
+to french "Poisson arc-en-ciel (N1db)";
+
+translate "Kingfish (N1db)"
+to french "Maquereau-roi (N1db)";
+
+translate "Amur Pike (N1db)"
+to french "Brochet de l'Amour (N1db)";
+
+translate "Ayu (N1db)"
+to french "Ayu (N1db)";
+
+translate "Spoonfish (N1db)"
+to french "Poisson cuillère (N1db)";
+
+translate "Razorfin (N1db)"
+to french "Nageoire-rasoir (N1db)";
+
+translate "Great Knucklefish (N1db)"
+to french "Grand poisson à osselets (N1db)";
+
+translate "Singing Lamprey (N1db)"
+to french "Lamproie (N1db)";
+
+translate "Cherry Bonefish (N1db)"
+to french "Albula vulpes (N1db)";
+
+translate "Orange Spongefish (N1db)"
+to french "Eponge orange (N1db)";
+
+translate "Lima Chub (N1db)"
+to french "Lima chub (N1db)";
+
+translate "Queen Lionfish (N1db)"
+to french "Poisson lionne (N1db)";
+
+translate "Horned Pigfish (N1db)"
+to french "Goret cornu (N1db)";
+
+translate "Otterfish (N1db)"
+to french "Poisson loutre (N1db)";
+
+translate "Spiny Dogfish (N1db)"
+to french "Aiguillat commun (N1db)";
+
+translate "Pancake Loach (N1db)"
+to french "Loche galette (N1db)";
+
+translate "Hylian Loach (N1db)"
+to french "Loche Hylienne (N1db)";
+
+translate "Medusafish (N1db)"
+to french "Méduse (N1db)";
+
+translate "Shelomits Puffer (N1db)"
+to french "Poisson globe de Shelomit (N1db)";
+
+translate "Yellowfin Snapper (N1db)"
+to french "Vivaneau albacore (N1db)";
+
+translate "Camel fish (N1db)"
+to french "Poisson chameau (N1db)";
+
+translate "Octecs Longfin (N1db)"
+to french "Plesiopidae d'Octec (N1db)";
+
+translate "Striped Batfin (N1db)"
+to french "Batfin rayé (N1db)";
+
+translate "Reticulated Toothfish (N1db)"
+to french "Légine réticulée (N1db)";
+
+translate "White Oniontail (N1db)"
+to french "Poisson oignon blanc (N1db)";
+
+translate "Flying Fish (N1db)"
+to french "Exocet (N1db)";
+
+translate "Nile Mackerel (N1db)"
+to french "Maquereau du Nil (N1db)";
+
+translate "Tilefish (N1db)"
+to french "Poisson tuile (N1db)";
+
+translate "Ivory Knifefish (N1db)"
+to french "Poisson couteau d'ivoire (N1db)";
+
+translate "Octopus (N1db)"
+to french "Pouple (N1db)";
+
+translate "River Crab (N1db)"
+to french "Crabe des rivières (N1db)";
+
+translate "Giant Crayfish (N1db)"
+to french "Ecrivisse géante (N1db)";
+
+translate "Spotted Sea Cucumber (N1db)"
+to french "Concombre de mer tacheté (N1db)";
+
+translate "Bay Lobster (N1db)"
+to french "Cigale raquette (N1db)";
+
+translate "Sea Urchin (N1db)"
+to french "Oursin (N1db)";
+
+translate "Bottlenose Squid (N1db)"
+to french "Encornet (N1db)";
+
+translate "Put together a Simple Fly Rod"
+to french "Assembler une canne à mouche";

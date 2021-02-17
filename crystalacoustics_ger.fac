@@ -1,0 +1,206 @@
+module crystalacoustics_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002,2003,2004,2005 by MDO Entertainment	           **
+//**                                                                       **
+//***************************************************************************
+
+
+translate PureChime to german feminine
+{
+  swa "Glockenspiel";
+  sn "Glockenspiel"; sg "Glockenspiels"; sd "Glockenspiel"; sa "Glockenspiel";
+  pn "Glockenspiele"; pg "Glockenspiele"; pd "Glockenspielen"; pa "Glockenspiele";
+}
+
+translate CrystalAcoustics to german feminine
+{
+  swa "Kristallakustik";
+  sn "Kristallakustik"; sg "Kristallakustik"; sd "Kristallakustik"; sa "Kristallakustik";
+  pn "Kristallakustiken"; pg "Kristallakustiken"; pd "Kristallakustiken"; pa "Kristallakustiken";
+}
+
+translate AcousticsLaboratory to german neuter
+{
+  swa "Akustiklabor";
+  sn "Akustiklabor"; sg "Akustiklabors"; sd "Akustiklabor"; sa "Akustiklabor";
+  pn "Akustiklabore"; pg "Akustiklabore"; pd "Akustiklaboren"; pa "Akustiklabore";
+}
+
+translate "Allows Acoustic Laboratories, capable of tuning simple glass rods into melodic chimes."
+to german "Erlaubt die Konstruktion von Akustiklaboren, befähigt einfache Glasstangen in klangvolle Glockenspiele umzuformen.";
+
+translate "Laboratories"
+to german "Labore";
+
+translate "Acoustics Laboratory"
+to german "Akustiklabor";
+
+translate "Steel Sheeting (Fireproof Surface)"
+to german "Stahlbleche (feuerfeste Oberfläche)";
+
+translate "Steel wire to hang the curing chimes"
+to german "Stahldrähte für die Aufhängung der Klangkörper";
+
+translate "Cut Stone (Foundation Base)"
+to german "Geschnittene Steine (für die Basis)";
+
+translate "Rigid Fireproof boards for Brazier Support (Bottom)"
+to german "Starre, feuerfeste Bretter für das Kohlebecken (Basis)";
+
+translate "Hard Fireproof boards for Brazier Support (Top)"
+to german "Harte, feuerfeste Bretter für das Kohlebecken (Oberseite)";
+
+translate "Soft, pliable boards for Finishing Area"
+to german "Weiche, biegsame Bretter für die Fertigstellung";
+
+translate "Hard but pliable boards for Finishing Area supports"
+to german "Harte, aber biegsame Bretter für die Fertigstellung";
+
+translate "Black Raeli Tiles (Bench Surface)"
+to german "Raelikacheln: Schwarz(Oberfläche)";
+
+translate "White Raeli Tiles (Bench Surface)"
+to german "Raelikacheln: Weiß (Oberfläche)";
+
+translate "Concrete (Base)"
+to german "Beton (Basis)";
+
+translate "Tuning"
+to german "Einstellung";
+
+translate "Plunge into Hot Water"
+to german "In heißes Wasser tauschen";
+
+translate "Plunge into Cold Water"
+to german "In kaltes Wasser tauchen";
+
+translate "Stress with Shearing Force"
+to german "Prüfe die Widerstandskraft";
+
+translate "Bathe in Quicksilver"
+to german "In Quecksilber baden";
+
+translate "Shine with Silk Cloth"
+to german "Mit Seidentüchern aufpolieren";
+
+translate "Clean with Worm Spirits"
+to german "Mit Wurmbranntwein reinigen";
+
+translate "Mill with Aluminum Powder"
+to german "Mit Aluminiumpuder fräsen";
+
+translate "Expose to Intense Light"
+to german "Intensivem Licht aussetzen";
+
+translate "Shock against Heavy Block"
+to german "Gegen einen festen Block schlagen";
+
+translate "Polish using Rabbit Pelts"
+to german "Mit einem Hasenfell polieren";
+
+translate "Coat in Beeswax"
+to german "Mit Bienenwachs überziehen";
+
+translate "Looped too many times"
+to german "Zu oft wiederholt";
+
+translate "Upgrades"
+to german "Verfeinerungen";
+
+translate "Install a Hot Water Bath"
+to german "Baue ein Heißwasserbad";
+
+translate "Install a Cold Water Bath"
+to german "Baue ein Kaltwasserbad";
+
+translate "Add a Quicksilver Bath"
+to german "Installiere ein Quecksilberbad";
+
+translate "Create a Tumbling Chamber"
+to german "Baue eine Polierkammer";
+
+translate "Outfit with a set of Silks"
+to german "Statte mit einem Satz Seide aus";
+
+translate "Add a Spirits Cistern"
+to german "Füge eine Branntwein-Zisterne ein";
+
+translate "Select the Worm Spirit (Fire or better):"
+to german "Wähle den Wurmbranntwein (Feuer oder besser)";
+
+translate "You must select a spirit"
+to german "Du mußt einen Branntwein auswählen";
+
+translate "You must select a Worm Spirit."
+to german "Du mußt einen Wurmbranntwein auswählen";
+
+translate "Your Worm Spirits must be of Fire or better quality."
+to german "Deine Wurmbranntweine müßen wenigstens von Feuer- oder besserer Qualität sein.";
+
+translate "You need 10 K1."
+to german "Du brauchst 10 K1.";
+
+translate "Fit a Marble Base"
+to german "Baue eine Marmorbasis ein";
+
+translate "Fill Fine Mill with Aluminum Powder"
+to german "Fülle Aluminiumpulver in die Feinmühle.";
+
+translate "Pour a Heavy Block of Concrete"
+to german "Einen Betonblock hinzufügen";
+
+translate "Line Slide Winch with Rabbit Pelts"
+to german "Das Spannseil mit Hasenfell auskleiden";
+
+translate "Attach a Cauldron of Beeswax"
+to german "Füge einen Kessel Bienenwachs hinzu";
+
+translate "Store a supply of Cactus Sap"
+to german "Lege Kaktussaft zurück";
+
+translate "Play this chime"
+to german "Spiele auf diesem Glockenspiel";
+
+translate "The sound is as pure as crystal. You hear: "
+to german "Der Klang ist rein wie ein Kristall. Du hörst: ";
+
+translate "The sound is as pure as water after a rain. You think you hear: "
+to german "Der Klang ist so rein wie das Wasser nach einem Regenschauer. Du glaubst zu hören: ";
+
+translate "The sound is as pure as sandstorm air. It's hard to say what you hear."
+to german "Der Klang ist so rein wie die Luft bei einem Sandsturm. Es ist schwer zu sagen, was Du hörst.";
+
+translate "The sound is as pure as a charcoal oven's smokestack."
+to german "Der Klang ist so rein wie ein Holzkohleofenschornstein.";
+
+translate "Unexpected Purity. Call a developer."
+to german "Unvermuteter Reinheitsgrad. Rufe einen Entwickler.";
+
+translate "Shatter (discard) this Chime"
+to german "Zerschlage (verwerfe) dieses Glockenspiel";
+
+translate "Are you sure you want to shatter the chime?"
+to german "Bist Du sicher, daß Du dieses Glockenspiel zerschlagen möchtest?";
+
+translate "Remove this Chime"
+to german "Entferne dieses Glockenspiel";
+
+translate "The chime's melody is not pure."
+to german "Die Melodie des Glockenspiels ist nicht rein.";
+
+translate "Chime out of range"
+to german "Glockenspiel ausser Reichweite";
+
+translate "Start working a Wind Chime"
+to german "Arbeite an einem Glockenspiel";
+
+translate "AcousticsLaboratory not initialized. Call a developer."
+to german "Das Akustiklabor ist ungültig. Rufe eine Entwickler.";
+
+translate "You need a Fine Glass Rod."
+to german "Du brauchst ein feines Glasrohr";
+

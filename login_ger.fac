@@ -1,0 +1,32 @@
+Module login_ger;
+
+translate "A Tale in the Desert III"
+to german "Kemet III";
+
+translate "Character"
+to german "Charakter";
+
+translate "Character Name"
+to german "Charaktername";
+
+translate "username:"
+to german "Spielername:";
+
+translate "password"
+to german "Passwort";
+
+translate "Confirm Password"
+to german "Passwortbestätigung";
+
+translate "Login"
+to german "Login";
+
+translate "CREATE:"
+to german "Erstelle:";
+
+translate "New Character"
+to german "Neuer Charakter";
+
+translate "Sex"
+to german "Geschlecht";
+

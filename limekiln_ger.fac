@@ -1,0 +1,59 @@
+module LimeKiln_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO-Entertainment		           **
+//**                                                                       **
+//***************************************************************************
+
+translate ScienceOfLime to german femininecollective
+{
+swa "Wissenschaft des Kalkes";
+  sn "Wissenschaft des Kalkes"; sg "Wissenschaft des Kalkes"; sd "Wissenschaft des Kalkes"; sa "Wissenschaft des Kalkes";
+  pn "Wissenschaft des Kalkes"; pg "Wissenschaft des Kalkes"; pd "Wissenschaft des Kalkes"; pa "Wissenschaft des Kalkes";
+}
+translate Crematory to german neutercollective
+{
+swa "Krematorium";
+  sn "Krematorium"; sg "Krematoriums"; sd "Krematorium"; sa "Krematorium";
+  pn "Krematorien"; pg "Krematorien"; pd "Krematorien"; pa "Krematorien";
+}
+
+
+translate "Crematory"
+to german "Krematorium";
+
+translate "To build a Crematory, you need:"
+to german "Um ein Krematorium zu bauen benötigst du:";
+
+translate "Greyish Raeli Tiles"
+to german "Graufarbene Raelikacheln";
+
+translate "Lime: N1"
+to german "Kalk: N1";
+translate "Ash: N1"
+to german "Asche: N1";
+
+translate "The temperature in part of the chamber exceeded the working limit, ruining the batch."
+to german "Die Kammertemperatur überstieg das Limit und ruinierte das Brenngut.";
+
+translate "Load the Crematory"
+to german "Befülle das Krematorium";
+
+translate "Load how much O1 (Max: N1)"
+to german "Wieviel O1(pn) laden (Max: N1)";
+
+translate "Fire the Crematory"
+to german "Befeuere das Krematorium";
+
+translate "This Crematory requires at least N1 Wood to fire."
+to german "Dieses Krematorium benötigt zum Befeuern mindestens N1 Holz.";
+
+translate "You must remove all Lime and Ash before you can fire the Creamatory."
+to german "Du musst Kalk und Asche komplett entfernen, bevor du das Krematorium befeuern kannst.";
+
+translate "You reconsider the value burning only Wood in your Crematory."
+to german "Du überprüfst, ob wirklich nur Holz im Krematorium verbrannt wird.";
+

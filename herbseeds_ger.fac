@@ -1,0 +1,61 @@
+module herbseeds_ger;
+
+translate HerbSeeds to german feminine
+{
+swa "Kräutersaat";
+sn "Kräutersaat"; pn "Kräutersaat";
+}
+translate "Scientists will investigate growth patterns for Herb Seeds."
+to german "Die Wissenschaftler werden Aufzuchtpläne für Kräutersaaten erforschen.";
+
+translate "Not implemented. Please DevCall."
+to german "Nicht implementiert. Bitte starte einen DevCall.";
+
+translate "Consulting the scientists..."
+to german "Frage die Wissenschaftler...";
+
+translate "We first determined that herb seeds grow only near active (wet) aqueducts - that part\n"
+to german "Wir stellten zuerst fest, dass Kräutersaaten nur bei bewässerten Aquädukten wachsen - dieser Teil\n";
+translate "was already known to many. We also discovered that cultured herbs are entirely location\n"
+to german "war bereits vielen bekannt. Wir haben zusätzlich entdeckt, dass kultivierte Kräuter vollkommen\n";
+translate "dependant, and there may only be a handful of regions in Egypt which, if irrigated, would\n"
+to german "ortsabhängig sind. Es gibt wahrscheinlich nur eine Handvoll Regionen in Ägypten, welche (wenn sie bewässert werden)\n";
+translate "support a given herb. Yet somehow, there were tantalizing clues that the situation is not\n"
+to german "ein bestimmtes Kraut unterstützen. Es gibt Hinweise darauf, dass die Situation nicht ganz\n";
+translate "so grim. We discovered that K1 grows reliably near the aqueduct tower\n"
+to german "so hart ist. Wir haben festgestellt, daß K1 zuverlässig in der Nähe des Aquädukts\n";
+translate "at 950, 6561, for instance. Perhaps further experiments by other universities\n"
+to german "bei 1020, -2320 wächst. Vielleicht vergrößern weitere Experimente anderer Universitäten\n";
+translate "and by our top citizen scientists would expand knowledge on this subject."
+to german "und unserer führenden Mitbürger unsere Erkenntnisse auf diesem Gebiet.";
+
+
+translate "We have expanded our research efforts to cover locations not near existing aqueduct towers. "
+to german "Wir haben unsere Forschungen erweitert um Standorte zu erfassen, die sich nicht nahe existierender Aquädukte befinden. ";
+translate "Instead, we have focused on the ecology for various parts of Egypt, specifically the soil. "
+to german "Dafür haben wir uns auf die Ökologie vieler Teile Ägyptens gewidmet, speziell dem Boden. ";
+translate "After conducting a number of soil experiments, we are quite confident that should a tower be "
+to german "Nachdem wir viele Bodenexperimente durchgeführt haben sind wir zu der Überzeugung gelangt, dass bei einem Aquädukt ";
+translate "built in Egypt near N1 N2, K1 seeds should easily grow nearby."
+to german "in Ägypten nahe N1 N2 gebaut, Saaten von K1 wachsen sollten.";
+
+translate "Not an herb: K1"
+to german "Kein Kraut: K1";
+
+translate "Not an herb in the world list: K1"
+to german "Kein Kraut der Weltliste: K1";
+
+translate "Plant/Herb Seeds/K1"
+to german "Pflanze/Kräutersaat/K1";
+
+translate "Herb Seeds"
+to german "Kräutersaaten";
+
+translate "K1 with Curse"
+to german "K1 mit Fluch";
+
+translate "The ground here isn't saturated enough. Try planting near an Aqueduct."
+to german "Der Untergrund ist nicht gut genug gewässert. Versuche, nahe eines Aquäduktes anzupflanzen.";
+
+translate "The ecology here must not be hospitable to K1. The herb withers just as it sprouts."
+to german "Die Ökologie hier ist definitiv nicht für K1 geeignet. Das Kraut verkümmert, bevor es richtig aufkeimt.";

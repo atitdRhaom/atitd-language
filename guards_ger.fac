@@ -1,0 +1,51 @@
+module guards_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Games **
+//**    (C)opyright 2002,2003 by MDO Games			           **
+//**                                                                       **
+//***************************************************************************
+//menues
+
+//objects
+translate "Public"
+to german "Öffentlichkeit";
+
+//texts
+translate "You don't have permission to use the O1."
+to german "Du hast nicht die Erlaubnis, O1(tsn) O1(sn) zu benutzen.";
+
+translate "You don't have permission to stash in the O1."
+to german "Du hast nicht die Erlaubnis, in O1(tsn) O1(sn) einzulagern.";
+
+translate "You can only do this in Egypt proper."
+to german "Du kannst dies nur in Ägypten tun.";
+
+translate "This O1 is busy. Please wait."
+to german "O1(^tsn) O1(sn) ist beschäftigt. Bitte warte.";
+
+translate "You are too tired to do difficult work. Rest another N1 seconds. Higher Endurance will help you recover faster."
+to german "Du bist zu müde, um schwere Arbeit zu verrichten. Raste weitere N1 Sekunden. Höhere Ausdauer würde dir helfen schneller zu regenerieren.";
+
+translate "You head is spinning. Rest another N1 seconds. Higher Focus skill will help you recover faster."
+to german "Dir ist schwindelig. Raste weitere N1 Sekunden. Eine höhere Fokus-Fertigkeit würde dir helfen schneller zu regenerieren.";
+
+translate "You're trying to go too fast. Rest another N1 seconds. A higher Speed skill will help you work faster."
+to german "Du bist zu schnell vorgegangen. Raste weitere N1 Sekunden. Eine höhere Geschwindigkeits-Fertigkeit würde dir helfen schneller zu arbeiten.";
+
+translate "You are feeling sick from the poison already in your blood. Rest another N1 seconds. Higher Constitution skill will help you recover faster."
+to german "Du fühlst dich durch das Gift unwohl, das bereits in deinem Blut zirkuliert. Raste weitere N1 Sekunden. Eine höhere Konstitution würde dir helfen schneller zu regenerieren.";
+
+translate "Your strength is sapped. Rest another N1 seconds. Higher Strength skill will help you recover faster."
+to german "Deine Stärke ist verbraucht. Raste weitere N1 Sekunden. Eine höhere Stärke-Fertigkeit würde dir helfen schneller zu regenerieren.";
+
+translate "Your stumble as your legs go numb. Rest another N1 seconds. Higher Dexterity skill will help you recover faster."
+to german "Du strauchelst über deine tauben Füße. Raste weitere N1 Sekunden. Eine höhere Gewandheit würde dir helfen schneller zu regenerieren.";
+
+translate "Uh, what was that? Rest another N1 seconds. Higher Perception skill will help you recover faster."
+to german "Hey, was war das? Raste weitere N1 Sekunden. Höhere Empfindung würde dir helfen schneller zu regenerieren.";
+
+translate "You need the O1 skill to use this."
+to german "Du brauchst die Fertigkeit O1(sn) um das zu benutzen.";

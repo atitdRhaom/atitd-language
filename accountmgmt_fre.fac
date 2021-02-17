@@ -1,0 +1,14 @@
+Module AccountMgmt_fre;
+
+translate "What Username?"
+to french "Quel nom d'utilisateur?";
+translate "Looking up info..."
+to french "Recherche d'information...";
+translate "Free to Play Information"
+to french "Information sur l'accès gratuit";
+
+translate "Global Account Controller not created.  Please contact a developer."
+to french "Le controleur général de comptes n'a pas été créé. Contacter un développeur";
+
+translate "A Tale in the Desert - Free to Play Information"
+to french "A Tale in the Desert - Information sur l'Accès gratuit";

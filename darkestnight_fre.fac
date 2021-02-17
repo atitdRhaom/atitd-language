@@ -1,0 +1,9 @@
+Module DarkestNight_fre;
+
+translate "Check progress"
+to french "Vérifiez les progrès";
+
+translate "Darkest Night is about eating mushrooms from the earth. Seek out the mushrooms you are assigned, and eat them from the ground. They must be fresh - mushrooms that are picked will not work."
+to french "La Nuit noire consiste à manger des champignons frais (avant la cueillette). Cherchez les champignons qui vous ont été assignés et mangez les directement. Ils doivent être frais - les champignons ramassés avant la consommation ne comptent pas.";
+
+

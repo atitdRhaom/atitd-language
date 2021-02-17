@@ -1,0 +1,75 @@
+module papyrus_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Games **
+//**    (C)opyright 2002,2003 by MDO Games			           **
+//**                                                                       **
+//***************************************************************************
+//menues
+
+translate "Paper Press"
+to german "Papierpresse";
+
+translate "Projects/Paper Press"
+to german "Projekte/Diverses/Papierpresse";
+
+//objects
+
+translate PaperPress to german feminine
+{
+swa "Papierpresse";
+  sn "Papierpresse"; sg "Papierpresse"; sd "Papierpresse"; sa "Papierpresse";
+  pn "Papierpressen"; pg "Papierpressen"; pd "Papierpressen"; pa "Papierpressen";
+}
+translate Papyrus to german neutercollective
+{
+swa "Papyrus";
+  sn "Papyrus"; sg "Papyruses"; sd "Papyrus"; sa "Papyrus";
+  pn "Papyrus"; pg "Papyrus"; pd "Papyrus"; pa "Papyrus";
+}
+translate PaperPapyrus to german femininecollective
+{
+swa "Papyruspapier";
+  sn "Papyruspapier"; sg "Papyruspapiers"; sd "Papyruspapier"; sa "Papyruspapier";
+  pn "Papyruspapier"; pg "Papyruspapier"; pd "Papyruspapier"; pa "Papyruspapier";
+}
+translate WetLinen to german neutercollective
+{
+swa "feuchte Leinen";
+  sn "feuchte Leinen"; sg "feuchtes Leinen"; sd "feuchte Leinen"; sa "feuchte Leinen";
+  pn "feuchte Leinen"; pg "feuchte Leinen"; pd "feuchten Leinen"; pa "feuchte Leinen";
+}
+
+//texts
+
+translate "To build a Paper Press, you need:"
+to german "Um eine Papierpresse zu bauen, benötigst du:";
+
+translate "Make some papyrus paper"
+to german "Produziere Papyruspapier";
+
+translate "To make papyrus paper, you need:"
+to german "Um eine Papyruspapier zu produzieren, benötigst du:";
+
+translate "The linen sheets are saturated, and must be changed."
+to german "Die Leinenbögen sind durchtränkt und müssen ausgetauscht werden.";
+
+translate "You need to line the press with linen before making paper."
+to german "Du musst die Presse erst mit Leinen auskleiden, bevor du Papier machen kannst.";
+
+translate "The paper takes about 60 seconds to feed through the press."
+to german "Das Papier braucht 60 Sekunden um durch die Presse zu laufen.";
+
+translate "The paper is ready."
+to german "Das Papier ist fertig.";
+
+translate "Line the press with linen."
+to german "Kleide die Presse mit Leinen aus.";
+
+translate "You need N1 pieces of linen to line the press."
+to german "Du brauchst N1 Stück Leinen um die Presse auszukleiden.";
+
+translate "Remove the linen from the press."
+to german "Entferne das Leinen von der Presse.";

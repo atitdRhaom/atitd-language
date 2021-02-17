@@ -1,0 +1,95 @@
+module cattle_fre_fre;
+
+translate Lasso to french masculine
+{ ns "Lasso"; np "Lasso";}
+
+translate Stockwhip to french masculine
+{ ns "Fouet"; np "Fouets"; }
+
+translate CattleMale to french masculine
+{ ns "Boeuf"; np "boeus"; }
+
+translate cattlefemale to french feminine
+{ ns "Vache"; np "Vaches"; }
+
+translate beef to french feminine
+{ np "Viande de boeuf"; ns "Viandes de boeuf"; }
+
+Translate BeefBone to french masculine
+{ ns "Os de boeuf"; np "Os de boeufs"; }
+
+translate cowmilk to french masculine
+{ ns "Lait de vache"; np "laits de vache"; }
+
+translate ranch to french masculine
+{ ns "Ranch"; np "Ranch"; }
+
+translate "Cow Tipping"
+to french "Caresser les vaches";
+
+translate "Milk" to french "Traire la vache";
+
+translate cowtipping to french masculine
+{ ns "Caresser les vaches"; np "caresser les vaches"; }
+
+translate "Milking Techniques"
+to french "Techniques de Traite";
+
+translate DairyFarming to french masculine 
+{ ns "Techniques de Traite"; np "Techniques de Traite"; }
+
+Translate "Tip..."
+to french "Caresser...";
+translate "Milked a cow" to french "Traire une vache";
+translate "Milk is going everywhere!, you need more jugs."
+to french "Le lait déborde partout, il vous faut plus de cruches";
+
+translate "Empty one jug of Milk" to french "Vider une cruche de lait";
+
+translate "Slaughter this O1" to french "Tuer O1(cns) O1(ns)";
+
+translate "Ow! You accidentally stab yourself instead of the O1, your focus is all over the place."
+to french "Oh! Vous vous poignardez accidentellement au lieu O1(dns) O1(np), votre attention est éparpillée.";
+
+translate "Your Knife is too well used to be able to kill this O1, as you tried it ran away!"
+to french "Votre couteau est trop usé pour pouvoir tuer O1(cns) O1(np), alors que vous essayez, O1(pns) s'est enfuit !";
+
+translate "Slaughtered a Wild O1"
+to french "Abattre O1(uns) O1(ns) sauvage";
+
+translate "You failed to kill the O1 and as you tried it ran away!"
+to french "Vous n'avez pas réussi à tuer O1(lns) O1(ns) et alors que vous essayiez, O1(pns) s'est enfuit !";
+
+translate "The cattle are looking healthy and frisky."
+to french "Le bétail a l'air en bonne santé et fringant.";
+
+translate "Cattle feed stocks are depleted"
+to french "Les stocks d'aliments pour bovins sont épuisés";
+
+translate "You weave the strands of rope together to form a long Lasso, perhaps this might help encourage cattle to come into your ranch..."
+to french "Vous tissez les brins de corde pour former un long lasso, peut-être que cela pourrait encourager le bétail à entrer dans votre ranch ...";
+
+translate "You weave the rawhide together and attach a handle to form a Stockwhip, perhaps this might help encourage cattle to move..."
+to french "Vous tissez le cuir brut ensemble et attachez une poignée pour former un fouet, peut-être cela pourrait encourager le bétail à se déplacer ...";
+
+translate "Cracking the whip..." to french "Claquement du fouet....";
+
+translate "The feed trough has N1 Peppers" to french "La mangeoire a N1 poivrons";
+translate "The water trough has N1 Water" to french "Le niveau d'eau de l'abrevoir est de N1";
+
+translate "Add Food to Trough" to french "Ajouter des aliments dans la mangeoire";
+translate "Add Water to Trough" to french "Ajouter de l'eau dans l'abrevoir";
+
+translate "Construct Food Trough" to french "Construire une mangeoire";
+translate "Construct Water Trough" to french "Construire un abrevoir";
+
+translate "Make a Lasso" to french "Fabriquer un Lasso";
+translate "Make a Stockwhip" to french "Fabriquer un Fouet";
+
+translate "To make a Stockwhip you need:" to french "Pour fabriquer un fouet il vous faut :";
+translate "To make a Lasso you need:" to french "Pour fabriquer un fouet il vous faut :";
+
+translate "You don't have any K1." to french "Vous n'avez pas de K1";
+
+translate "Load with how much K1? (max N1)" to french "Remplir avec combien de K1 ? (Max N1)";
+

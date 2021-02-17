@@ -1,0 +1,252 @@
+module bar_fre;
+
+translate WineBar to french feminine
+{
+  ns "Table cérémonielle de dégustation"; np "Tables cérémonielles de dégustation";
+}
+
+translate GlassJars to french feminine
+{
+  ns "Jarre de verre"; np "Jarres de verre";
+}
+
+translate smallbarrels to french masculine
+{
+ns "Petit baril"; np "Petits barils";
+}
+
+translate BeerTasting to french feminine
+{
+  ns "Expertise en bière"; np "Expertise en bière";
+}
+
+translate Oenology to french feminine
+{
+  ns "Oenologie"; np "Oenologie";
+}
+
+translate "Build a Ceremonial Tasting Table"
+to french "Table de cérémonie pour dégustation";
+
+translate "Consume"
+to french "Consommer";
+
+translate "You're going to drink the entire bottle yourself? It would be better to share at a Tasting Table. Are you sure you want to drink it yourself?"
+to french "Vous allez boire toute la bouteille seul ? Il est préférable de la partager à une table de dégustation. Voulez-vous vraiment boire cette bouteille ?";
+
+translate "The beer is too old, and tastes terrible! Hint: More potent beers keep longer."
+to french "La bière est trop vieille et a un goût horrible ! Indice : les bières fortes se conservent plus longtemps.";
+
+translate "There are still drinks on the table. Pour everything out?"
+to french "Il y a encore des chopes pleines sur la table. Tout vider?";
+
+translate "You have already tasted similar beers. Your beer tasting skill remains unchanged."
+to french "Vous avez déjà goûté ce genre de bière. Votre expertise bière demeure inchangée.";
+
+translate "An interesting new taste! Your beer tasting skill increases from N1 to N2."
+to french "Ah, voilà une saveur intéressante ! Votre compétence passe de N1 à N2.";
+
+translate "You taste: "
+to french "Vous détectez: ";
+
+translate "You take a drink of wine, and taste:"
+to french "Vous buvez une gorgée de vin, et vous détectez :";
+
+translate "The wine's intensity attacks your palate like a blow dealt by a Karate master. You kiah:"
+to french "L'intensité du vin attaque votre palais tel un coup asséné par un maître de Karaté. Vous détectez : ";
+
+translate "Fill this glass"
+to french "Remplir le verre";
+
+translate "Drink this wine"
+to french "Boire le vin";
+
+translate "Drink this beer"
+to french "Boire la bière";
+
+translate "Open a Bottle of Wine/K1"
+to french "Déboucher une bouteille de vin/K1";
+
+translate "Tap a Barrel of Beer"
+to french "Ouvrir un tonneau de bière";
+
+translate "Projects/Ceremonial Tasting Table"
+to french "Projets/Table pour cérémonie de dégustation";
+
+translate "Projects"
+to french "Projets";
+
+translate "Pour"
+to french "Verser";
+
+translate "To build a Ceremonial Tasting Table, you need:"
+to french "Pour une table pour cérémonie de dégustation, il vous faut :";
+
+translate "You close your eyes and inhale deeply, drinking in every nuance of the wine's subtle aromas. You taste the wine and detect:"
+to french "Vous fermez les yeux et inhalez profondément, vous imprégnant de tous les arômes subtils du vin. Vous prenez une gorgée et vous sentez :";
+
+translate "You raise the glass, admire the wine's color, sample the aromas, and taste. You detect:"
+to french "Vous levez le verre, admirez la couleur de son contenu, étudiez son arôme, et en prenez une gorgée. Et vous sentez :";
+
+translate "You're really starting to enjoy wine. You swirl the glass, sniff, and take a sip. You detect:"
+to french "Vous commencez à vraiment apprécier le vin. Vous le faites tourner dans votre verre, le humez, et en prenez une gorgée. Vous sentez :";
+
+translate "You taste the wine, and detect:"
+to french "Vous goûtez le vin, et vous sentez :";
+
+translate "You take a swig and taste:"
+to french "Vous prenez une lampée de vin, et vous sentez :";
+
+translate "Your wine tasting skill remains unchanged."
+to french "Votre connaissance du vin ne change pas.";
+
+translate "There is still wine on the table. Pour it out?"
+to french "Vous voyez encore du vin sur la table. Un autre verre ?";
+
+translate "Wine: K1, N1 glasses remain"
+to french "Vin : K1, N1 verres restants";
+
+translate "Beer: K1, N1 glasses remain"
+to french "Bière : K1, N1 verres restant";
+
+translate "Wine is U1"
+to french "Le vin est U1(name)";
+
+translate "Open a Bottle of Wine"
+to french "Déboucher une bouteille de vin";
+
+translate "Fill this glass"
+to french "Remplir le verre";
+
+translate "Drink this wine"
+to french "Boire le vin";
+
+translate "Wash glasses and clean up"
+to french "Laver les verres et nettoyer la table";
+
+translate "By order of the Wine Glass Security Act, introduced by Ptenkhet, you must be of rank Fellow of higher to remove glassware from a Ceremonial tasting Table."
+to french "En vertu de la loi sur la sécurité des verres de dégustation, promulguée par Ptenkhet, vous devez au minimum avoir le statut de membre pour pouvoir retirer de la verrerie d'une table de dégustation.";
+
+translate "This designer wine wears it's flavors like an Armani Suit. You snarl at those around you:"
+to french "A la première gorgée, une image vous vient instantanément en tête : le petit Jésus en culotte de velours Armani. Vous regardez l'assistance et déclarez d'une voix grave :";
+
+translate "This wine is like a spoiled child. It deserves to be spanked. You look around with disdain at those less discerning, inhale, and detect:"
+to french "Ce vin est comme un enfant trop gâté. Il mériterait la fessée. Vous regardez autour de vous avec dédain ceux qui ont moins de discernement, humez et détectez :";
+
+translate "This wine takes you back to your days as a youth, and reminds you of the rugged outdoors. You taste the wine and detect:"
+to french "Ce vin vous rappelle votre jeunesse, et le grand air de la campagne. Vous goûtez le vin et détectez :";
+
+translate "You close your eyes and inhale deeply, drinking in every nuance of the wine's subtle aromas. You taste the wine and detect:"
+to french "Vous fermez vos yeux et inhalez profondément, absorbant chaque nuance des arômes subtils du vin. Vous goûtez le vin et détectez :";
+
+translate "You raise the glass, admire the wine's color, sample the aromas, and taste. You detect:"
+to french "Vous soulevez le verre, admirez la couleur du du vin, prélevez les aromes, et goûtez. Vous détectez :";
+
+translate "You're really starting to enjoy wine. You swirl the glass, sniff, and take a sip. You detect:"
+to french "Vous vraiment commencez à apprécier le vin. Vous remuez le verre, reniflez, et prenez une petitee gorgée. Vous détectez :";
+
+translate "You taste the wine, and detect:"
+to french "Vous goûtez le vin et détectez :";
+
+translate "You take a swig and taste:"
+to french "Vous prenez une lampée et goûtez :";
+
+translate "Your Oenology skill remains unchanged."
+to french "Votre compétence en oenologie demeure inchangée.";
+
+translate "Grape juice is fine for kids, but if you want to improve your Oenology skill, then N1% alcohol wines won't cut it."
+to french "Le jus de raisin est parfait pour les enfants, mais si vous voules augmenter votre compétence en oenologie, un vin n'ayant que N1% d'alcool ne suffira pas.";
+
+translate "Your Oenology skill went from N1 to N2."
+to french "Votre compétence en oenologie passe de N1 à N2.";
+
+translate "The fine glassware enhances an already delightful experience."
+to french "La verrerie fine augmente le plaisir d'une expérience déjà agréable.";
+
+translate "Glassware"
+to french "Verrerie";
+
+translate "Glass 1"
+to french "Verre 1";
+
+translate "Glass 2"
+to french "Verre 2";
+
+translate "Glass 3"
+to french "Verre 3";
+
+translate "Glass 4"
+to french "Verre 4";
+
+translate "Glass 5"
+to french "Verre 5";
+
+translate "Glass 6"
+to french "Verre 6";
+
+translate "Glass 7"
+to french "Verre 7";
+
+translate "Permission for Take Glassware"
+to french "Accès à la verrerie";
+
+translate "Take Glassware by Elder"
+to french "accès à la verrerie réservé aux Sages";
+translate "Take Glassware by Patriarch"
+to french "accès à la verrerie réservé aux Patriarches";
+translate "Take Glassware by Fellow"
+to french "accès à la verrerie réservé aux Camarades";
+translate "Take Glassware by Kinsman"
+to french "accès à la verrerie réservé aux Frères";
+translate "Take Glassware by Member"
+to french "accès à la verrerie réservé aux Membres";
+translate "Take Glassware by Associate"
+to french "accès à la verrerie réservé aux Associés";
+translate "Take Glassware by Initiate"
+to french "accès à la verrerie réservé aux Initiés";
+translate "Take Glassware by Anyone"
+to french "accès libre à la verrerie";
+
+translate "Remove Quality N1"
+to french "Retirer: Qualité N1";
+
+translate "Use Quality N1"
+to french "Placer: Qualité N1";
+
+translate "Reset back to normal permission (Currently Anyone)"
+to french "Revenir à la configuration par défaut (N'importe qui)";
+translate "Reset back to normal permission (Currently Initiate)"
+to french "Revenir à la configuration par défaut (Initiés)";
+translate "Reset back to normal permission (Currently Associate)"
+to french "Revenir à la configuration par défaut (Associés)";
+translate "Reset back to normal permission (Currently Member)"
+to french "Revenir à la configuration par défaut (Membres)";
+translate "Reset back to normal permission (Currently Kinsman)"
+to french "Revenir à la configuration par défaut (Frères)";
+translate "Reset back to normal permission (Currently Fellow)"
+to french "Revenir à la configuration par défaut (Camarades)";
+translate "Reset back to normal permission (Currently Patriarch)"
+to french "Revenir à la configuration par défaut (Patriarches)";
+translate "Reset back to normal permission (Currently Elder)"
+to french "Revenir à la configuration par défaut (Sages)";
+
+
+translate "Permission for Siphon"
+to french "Permission de siphonner";
+
+translate "Siphon by Anyone"
+to french "Tout le monde peut siphonner";
+translate "Siphon by Associate"
+to french "Les associés peuvent siphonner";
+translate "Siphon by Initiate"
+to french "Les initiés peuvent siphonner";
+translate "Siphon by Member"
+to french "Les membres peuvent siphonner";
+translate "Siphon by Kinsman"
+to french "Les frères peuvent siphonner";
+translate "Siphon by Fellow"
+to french "Les camarades peuvent siphonner";
+translate "Siphon by Patriarch"
+to french "Les patriarches peuvent peut siphonner";
+translate "Siphon by Elder"
+to french "Les sages peuvent siphonner";

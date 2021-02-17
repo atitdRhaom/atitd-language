@@ -1,0 +1,1078 @@
+Module goals_fre;
+
+
+translate Leadership to french masculine
+{ ns "Commandement"; np "Commandement";}
+
+translate ConflictInit to french masculine
+{ ns "Principes du Conflit"; np "Principes du Conflit";}
+	
+translate WorshipInit to french masculine
+{ ns "Principes de la Vénération"; np "Principes de la Vénération";}
+	
+translate GreatWorkTst to french masculine
+{ ns "Grands travaux"; np "Grands travaux";}
+
+translate Initiation to french feminine
+{ ns "Initiation"; np "Initiations";}
+
+translate Pathmaker to french feminine
+{ ns "L'épreuve du Canal"; np "L'épreuve du Canal";}
+
+translate Venery to french feminine
+{ ns "L'épreuve de la Partie de Chasse"; np "L'épreuve de la Partie de Chasse";}
+
+translate Tomb to french feminine
+{ ns "L'épreuve du Tombeau de l'Immortel"; np "L'épreuve du Tombeau de l'Immortel";}
+
+translate Pulse to french feminine
+{ ns "L'épreuve du Sondage du Peuple"; np "L'épreuve du Sondage du Peuple";}
+
+translate SetsLadder to french feminine
+{ ns "L'épreuve de l'Echelle de Set"; np "L'épreuve de l'Echelle de Set";}
+	
+translate EmptyHand to french feminine
+{ ns "L'épreuve de la Main Vide"; np "L'épreuve de la Main Vide";}
+
+translate Life to french feminine
+{ ns "L'épreuve de la Vie"; np "L'épreuve de la Vie";}
+
+translate LesserPyramids to french feminine
+{ ns "L'épreuve de la Pyramide du Peuple"; np "L'épreuve de la Pyramide du Peuple";}
+
+translate Funerary to french feminine
+{ ns "L'épreuve du Temple Funéraire"; np "L'épreuve du Temple Funéraire";}
+
+translate Phoenix to french feminine
+{ ns "L'épreuve des Sept Phoenix"; np "L'épreuve des Sept Phoenix";}
+
+translate Scarabs to french feminine
+{ ns "L'épreuve des Enfants de Khefre"; np "L'épreuve des Enfants de Khefre";}
+
+translate Flight to french feminine
+{ ns "L'épreuve du Vol Aérien"; np "L'épreuve du Vol Aérien";}
+
+translate Windsong to french feminine
+{ ns "L'épreuve de la Mélodie du Vent"; np "L'épreuve de la Mélodie du Vent";}
+
+translate RaeliMosaic to french feminine
+{ ns "L'épreuve de Mosaïque Raeli"; np "L'épreuve de Mosaïque Raeli";}
+
+translate Bedouin to french feminine
+{ ns "L'épreuve du Bédouin"; np "L'épreuve du Bédouin";}
+
+translate Safari to french feminine
+{ ns "L'épreuve du Safari"; np "L'épreuve du Safari";}
+
+translate Banquet to french feminine
+{ ns "L'épreuve du festin des sens"; np "L'épreuve du festin des sens";}
+
+translate Acrobat to french feminine
+{ ns "L'épreuve de l'Acrobate"; np "L'épreuve de l'Acrobate";}
+
+translate DarkestNight to french feminine
+{ ns "L'épreuve de la Nuit Noire"; np "L'épreuve de la Nuit Noire";}
+
+translate Reason to french feminine
+{ ns "L'épreuve de Raison"; np "L'épreuve de Raison";}
+
+translate Telepathy to french feminine
+{ ns "L'épreuve de Télépathie"; np "L'épreuve de Télépathie";}
+
+translate Yokir to french feminine
+{ ns "L'épreuve du Yokir"; np "L'épreuve du Yokir";}
+
+translate Kanivan to french feminine
+{ ns "L'épreuve de Kanivan Tak"; np "L'épreuve de Kanivan Tak";}
+
+translate RiteOfCommand to french feminine
+{ ns "L'épreuve du rite de commandement"; np "L'épreuve du rite de commandement";}
+
+translate HeketsRake to french feminine
+{ ns "L'épreuve du râteau d'Heket"; np "L'épreuve du râteau d'Heket";}
+
+translate KingsConvoy to french feminine
+{ ns "L'épreuve du convoi royal"; np "L'épreuve du convoi royal";}
+
+translate Zhadu to french feminine
+{ ns "L'épreuve de Zhadu"; np "L'épreuve de Zhadu";}
+
+translate Reflection to french feminine
+{ ns "L'épreuve de réflection"; np "L'épreuve de réflection";}
+
+translate Trust to french feminine
+{ ns "L'épreuve de Confiance"; np "L'épreuve de Confiance";}
+
+translate CoveredCartouche to french feminine
+{ ns "L'épreuve du Cartouche Masqué"; np "L'épreuve du Cartouche Masqué";}
+
+translate Visions to french feminine
+{ ns "L'épreuve des Visions"; np "L'épreuve des Visions";}
+
+translate Pilgrim to french feminine
+{ ns "L'épreuve de la voie du Pèlerin"; np "L'épreuve de la voie du Pèlerin";}
+
+translate HumblePriests to french feminine
+{ ns "L'épreuve des Prêtres Humbles"; np "L'épreuve des Prêtres Humbles";}
+
+translate Festivals to french feminine
+{ ns "L'épreuve des Festivals"; np "L'épreuve des Festivals";}
+
+translate Beacons to french feminine
+{ ns "L'épreuve des Balises"; np "L'épreuve des Balises";}
+
+translate Critic to french feminine
+{ ns "L'épreuve du Critique"; np "L'épreuve du Critique";}
+
+translate Archaeology to french feminine
+{ ns "Archéologie"; np "Archéologie";}
+
+translate DancingWaters to french feminine
+{ ns "L'épreuve des Eaux Dansantes"; np "L'épreuve des Eaux Dansantes";}
+
+translate "Old Egypt"
+to french "Vieille Egypte";
+
+translate "The Discipline of Architecture"
+to french "La discipline d'Architecture";
+translate "The Discipline of The Human Body"
+to french "La discipline du Corps Humain";
+translate "The discipline of Harmony"
+to french "La discipline d'Harmonie";
+translate "The discipline of Leadership"
+to french "La discipline de Commandement";
+translate "The discipline of Thought"
+to french "La discipline de la Pensée";
+translate "The discipline of Worship"
+to french "La discipline de Vénération";
+
+translate "Overview"
+to french "Vue d'ensemble";
+
+translate "You must learn the basic skills of a Citizen."
+to french "Vous devez apprendre les compétences de base d'un citoyen.";
+translate "You can begin by completing the tasks in your "
+to french "Vous pouvez commencer en complétant les tâches dans votre ";
+translate "Welcome to Egypt tab, or by finding a mentor to "
+to french "onglet 'Bienvenue en Egypte', ou en trouvant un mentor pour ";
+translate "guide you."
+to french "vous guider.";
+
+
+translate "Architecture is the discipline of the builder."
+to french "L'Architecture est la discipline des bâtisseurs.";
+
+translate "Disciples build monuments that require many hours of labour to complete."
+to french "Les disciples bâtissent des monuments qui nécessites de nombreuses heures de travail pour être achevés.";
+
+translate "The Human Body is the discipline of the traveller."
+to french "Le Corps Humain est la discipline du voyageur";
+translate "Disciples seek out new experiences and challenge their physical being."
+to french "Les disciples recherchent de nouvelles expériences pour éprouver leur forme physique";
+
+translate "Harmony is the discipline of the fellow man."
+to french "L'harmonie est la discipline du compagnon de l'homme";
+translate "Disciples are adept at discerning the will and capability of Egypt."
+to french "Les disciples sont aptes à discerner la volonté et la capacité de l'Egypte";
+
+translate "Leadership is the discipline of the politician."
+to french "Le commandement est la discipline des politiciens";
+translate "Disciples govern with the support of their peers."
+to french "Les disciples gouvernent avec le soutien de leur pairs";
+
+translate "Thought is the discipline of design."
+to french "La Pensée est la discipline de la conception";
+translate "Disciples challenge their fellows with problems of skill and chance."
+to french "Les disciples défient leur semblables avec des jeux de compétence et de hasard";
+
+translate "Worship is the discipline of the gods."
+to french "La Vénération est la discipline des dieux";
+translate "Disciples complete complex rituals to bring the favour of the gods."
+to french "Les disciples complètent des rituels complexes pour attirer la faveur des dieux";
+
+translate "(You have passed N1 tests out of N2)"
+to french "(Vous avez passé N1 tests sur N2)";
+
+translate "Principles of Art and Music (Enabled)(Active)"
+to french "Principes d'Art et Musique (Ouvert)(Actif)";
+
+translate "The Discipline of Art and Music"
+to french "La discipline des Arts et de la Musique";
+
+translate "Art and Music is the discipline of the creative."
+to french "Les Arts et Musiques sont la discipline de la créativité.";
+
+translate "Disciples create works of beauty and compete to win the approval of others."
+to french "Cette discipline permet la création d'oeuvres de toute beauté et de se battre pour gagner l'approbation des autres";
+
+
+translate "Completed on "
+to french "Complété en l'";
+
+//translate "K1 K2"
+//to french "K1 K2";
+
+translate "With a score of N1"
+to french "Avec un score de N1";
+translate "With a score of N1.00"
+to french "Avec un score de N1.00";
+
+translate "View Goals[Hidden]"
+to french "Voir les objectifs";
+
+translate "That is not a discipline"
+to french "Ce n'est pas une discipline";
+
+translate "Start the O1"
+to french "Se lancer dans O1(ns)";	
+
+translate "Demonstrate Knowledge of 'O1'"
+to french "Démontrer votre savoir dans 'O1(ns)'";
+
+translate "You do not possess the necessary skills to demonstrate the O1. You need:\n\n"
+to french "Vous n'avez pas les connaissances pour démontrer votre savoir en O1(ns). Vous avez besoin de: ";
+
+translate "Congratulations! You have opened the O1 for all of Egypt! The scientists are announcing your achievement now."
+to french "Félicitations! Vous avez ouvert les connaissances de O1(ns) pour toute l'égypte! Les scientifiques annoncent votre réussite maintenant.";
+
+translate "The scientists at the K1 University of O1 would like to announce that K2 has demonstrated that Egypt is ready for the O2. They declare the Test open for all citizens of Egypt."
+to french "Les scientifiques de l'université O1(dns) O1(ns) de K1 désirent annoncer que K2 a prouvé que l'égypte est prête pour O2(ns). Ils déclarent l'épreuve ouverte à tous les citoyens d'égypte.";
+
+translate "To open the O1 you require:\n"
+to french "Pour débloquer O1(ns), vous avez besoin de: ";
+
+translate "To open the O1 you need to have:"
+to french "Pour débloquer O1(ns), vous devez avoir: ";
+
+translate "You must be level N1 or above to start the O1."
+to french "Vous devez être de niveau N1 pour débuter O1(ns).";
+
+translate "You must be level N1 or above to demonstrate the O1."
+to french "Vous devez être de niveau N1 pour montrer votre savoir en O1(ns).";
+
+translate "You have already completed this Test."
+to french "Vous avez déjà passé cette épreuve.";
+
+translate "You do not possess the necessary skills to start the O1."
+to french "Vous ne possédez pas les connaissances nécessaires pour vous lancer dans O1(ns).";
+
+translate "You have already accomplished this goal."
+to french "Vous avez déjà accompli cet objectif.";
+translate "You can now move on to higher-level achievements."
+to french "Vous pouvez maintenant poursuivre de plus grandes aspirations.";
+
+translate "This goal will be revealed to you after you"
+to french "Cet objectif vous sera dévoilé lorsque vous";
+translate "accomplish the goals that precede it."
+to french "accomplirez celui qui le précède.";
+
+translate "This goal is not yet available. In all likelihood, this is"
+to french "Cet objectif n'est pas encore disponible. Selon toute vraisemblance,";
+translate "because Egypt's technology is too primitive.  You can advance"
+to french "c'est parce que la technologie égyptienne est trop primitive. Vous pouvez";
+translate "Egypt's technology by contributing at the universities."
+to french "faire avancer la technologie en faisant des dons aux universités.";
+
+
+translate "Citizenship"
+to french "Citoyenneté";
+
+
+translate "Welcome to Egypt"
+to french "Bienvenue en égypte";
+translate "You must learn the basic skills of a Citizen."
+to french "Vous devez apprendre les compétences basiques d'un Citoyen.";
+translate "Either find a mentor to teach you, or use one of"
+to french "Trouvez un mentor pour vous instruire, ou bien utilisez";
+translate "the tutorials at www.atitd.net."
+to french "l'aide présente sur http://atitd.mondespersistants.com/.";
+translate "You can begin by completing the tasks in your "
+to french "Vous pouvez commencer en complétant la liste dans votre onglet ";
+translate "Welcome to Egypt tab, or by finding a mentor to guide you."
+to french "Bienvenue en égypte, ou en trouvant un mentor pour vous guider.";
+
+translate "Principles of Architecture"
+to french "Principes de l'Architecture";
+translate "To qualify as a potential architect, you must prove you are capable by building "
+to french "Pour devenir un architecte, vous devez prouver vos capacités en construisant";
+translate "and expanding your own compound, one of the most basic Architecture tasks."
+to french "et en agrandissant votre atelier, un des bàtiments les plus rudimentaires d'architecture.";
+translate "To begin, visit a School or University of Architecture, and use the 'Tests' Menu."
+to french "Visitez une école ou université d'Architecture, et utilisez le menu 'Epreuves'.";
+
+translate "Principles of Art and Music"
+to french "Principes d'Arts et Musique";
+translate "To qualify as an artist, you must create a good Sculpture."
+to french "Pour devenir un artiste, vous devez fabriquer une belle sculpture.";
+translate "Then, you must exhibit it and gain the approval of 20 viewers."
+to french "Ensuite, vous devez l'exposer et obtenir l'approbation de 20 personnes.";
+translate "To begin, visit a School or University of Art, and use the 'Tests' Menu."
+to french "Visitez une école ou université d'Art, et utilisez le menu 'Epreuves'.";
+
+translate "Principles of The Human Body"
+to french "Principes du Corps Humain";
+translate "To qualify as a Disciple of the Human Body, you must seek out hard-to-find"
+to french "Pour devenir un disciple du Corps humain, vous devez rallier des lieux";
+translate "training locations.  Experts at the University will tell you what to seek."
+to french "difficiles à trouver. Les experts de l'Université vous indiqueront lesquels.";
+translate "To begin, visit a School or University of The Human Body, and use the 'Tests' Menu."
+to french "Visitez une école ou université de Corps Humain, et utilisez le menu 'Epreuves'.";
+
+translate "Principles of Conflict"
+to french "Principes de Conflit";
+translate "To qualify as a general, you must defeat Seven people at the"
+to french "Pour devenir un Général, vous devez battre sept personne au défi";
+translate "Challenge of Reflection. This  game of spatial reasoning requires a sharp eye."
+to french "de réflection. C'est un jeu de raisonnement spatial nécessitant un oeil perçant.";
+translate "To begin, visit a School or University of Conflict, and use the 'Tests' Menu."
+to french "Visitez une école ou université de Conflit, et utilisez le menu 'Epreuves'.";
+
+translate "Principles of Leadership"
+to french "Principes du Commandement";
+translate "To qualify as a leader, you must get people to recommend you via a petition."
+to french "Pour devenir un chef, vous devez faire en sorte que l'on vous recommande par pétition.";
+translate "All petitions are created at the University of Leadership."
+to french "Toutes les pétitions sont créées à l'université de Commandement.";
+translate "To begin, visit a School or University of Leadership, and use the 'Tests' Menu."
+to french "Visitez une école ou université de Commandement, et utilisez le menu 'Epreuves'.";
+
+translate "Principles of Thought"
+to french "Principes de la Pensée";
+translate "Scholars must understand the pulse of Egypt's Citizens."
+to french "Les initiés doivent savoir prendre le pouls de la nation égyptienne.";
+translate "Prove your understanding by inventing a Set's Ladder that others"
+to french "Prouvez que vous en êtes capable en inventant une échelle de Set qui";
+translate "rate at least \"Good\" with 7 or more votes."
+to french "qui obtiendra au moins 7 votes \"Bon\".";
+
+translate "Principles of Worship"
+to french "Principes de la Vénération";
+translate "To qualify as a Worshipper, you must perform the Ritual of Initiation:"
+to french "Pour devenir un Fidèle, vous devez passer le Rituel d'Initiation :";
+translate "a sequence of blessings that involves two aspirants working in harmony."
+to french "une suite de rituels demandant à deux aspirants de travailler en harmonie.";
+translate "To begin, visit a School or University of Worship, and use the 'Tests' Menu."
+to french "Visitez une école ou une université de vénération, et utilisez le menu 'Epreuves'.";
+
+translate "Principles of Harmony"
+to french "Principes de l'Harmonie";
+translate "A true follower of Harmony must understand his fellow man. To do so,"
+to french "Un adepte d'harmonie se doit de comprendre son prochain. Pour faire cela,";
+translate "go out into Egypt and meet with many types of people. Ask everyone,"
+to french "parcourez l'égypte et rencontrez des gens. Demandez à tous, car vous ne";
+translate "as you never know who fufills your requirements."
+to french "savez jamais qui peut correspondre à ce que vous recherchez. ";
+
+translate "Great Work of Architecture"
+to french "Grands travaux d'architecture";
+translate "A Pyramid of Many Wonders, or better, specially anointed."
+to french "Une Pyramide aux Milles Merveilles, ou mieux, spécialement ointe.";
+translate "With this monument we challenge our children's endurance"
+to french "Nous utilisons ce monument pour mettre l'endurance et la force";
+translate "and strength."
+to french "de nos enfants au défi";
+
+translate "Great Work of Art"
+to french "Grands travaux d'Art";
+translate "With this monument, we challenge our children to create"
+to french "Avec ce monument, nos descendants auront le défi de";
+translate "real beauty in their world."
+to french "créer une oeuvre remarquable dans leur monde";
+
+translate "Great Work of The Human Body"
+to french "Grands travaux de Corps Humain";
+translate "With this monument, we challenge our children to push themselves"
+to french "Avec ce monument, nous défions nos descendants à aller au bout de";
+translate "physically, while exploring this ancient land."
+to french "leurs limites physiques, tout en explorant ces terres anciennes.";
+
+translate "Great Work of Conflict"
+to french "Grands travaux de Conflit";
+translate "With this Monument, we challenge our children to hone their"
+to french "Avec ce monument, nous mettons nos descendants au défi d'améliorer";
+translate "cunning and strategy, to always be prepared for those that would"
+to french "leur ruse et leur stratégie, pour toujours être prêts à se défendre";
+translate "harm them."
+to french "contre ceux qui voudraient s'en prendre à eux.";
+
+translate "Great Work of Leadership"
+to french "Grands travaux de Commandement";
+translate "With this monument, we challenge our children to find their"
+to french "Avec ce monument, nous mettons nos enfants au défi de trouver ";
+translate "Leaders. With strong leaders, one day our children will write Tests"
+to french "leurs dirigrants. Avec des chefs solides, le jour viendra où nos";
+translate "for our grandchildren."
+to french "enfants inventeront des épreuves pour nos petits-enfants.";
+
+translate "Great Work of Thought"
+to french "Grands travaux de Pensée";
+translate "With this monument, we challenge our children to find wisdom"
+to french "Avec ce monument, nous mettons nos enfants au défi de trouver";
+translate "and to sharpen their minds."
+to french "la sagesse et de parfaire leur discernement.";
+
+translate "Great Work of Worship"
+to french "Grands travaux de vénération";
+translate "With this monument, we challenge our children to find unity and strength"
+to french "Avec ce monument, nous mettons nos enfants au défi de trouver la";
+translate "of spirit."
+to french "communion et la force de l'esprit.";
+
+translate "The Test of Empty Hand"
+to french "L'épreuve de la Main Vide";
+translate "Test of Empty Hand"
+to french "L'épreuve de la Main Vide";
+
+translate "An ancient children's game of many variations. Invent your own variation"
+to french "Un très ancien jeu d'enfants avec de nombreuses variantes. Inventez la vôtre";
+translate "on a giant mechanical tower and have it judged among Egypt's"
+to french "grâce à une tour mécanique géante, et soumettez-la à l'approbation";
+translate "most challenging."
+to french "de toute l'égypte.";
+
+translate "The Test of the Pathmaker"
+to french "L'épreuve du Canal";
+translate "Test of the Pathmaker"
+to french "L'épreuve du Canal";
+
+translate "Design a miniature landscape with Aqueduct towers. Challenge others"
+to french "Créez un paysage miniature à l'aide d'écluses. Lancez le défi";
+translate "to link the towers in a loop with pipes."
+to french "de relier les écluses dans une boucle utilisant des portions de chenaux.";
+translate "Different tower types have different linking rules."
+to french "Chaque type d'écluse a ses propres règles de raccordement.";
+
+translate "The Test of the Tomb of the Immortal"
+to french "L'épreuve du Tombeau de l'Immortel";
+translate "Thwart future generations of grave robbers by constructing puzzles"
+to french "Déjouez les plans des futurs pilleurs de tombe en créant des énigmes";
+translate "to lock away our treasures and secrets."
+to french "pour conserver nos richesses et nos secrets loin de leur avidité.";
+
+translate "The Test of the Bijou"
+to french "L'épreuve du Bijou";
+translate "The regular structure of Hornet's Wing Granite is the key to this Test."
+to french "La structure régulière du granit aile-de-frelon est la clé de cette épreuve.";
+translate "A single slab makes enough identical gem-like pieces to allow others to"
+to french "Une seule dalle peut faire assez de joyaux identiques pour permettre aux autres de";
+translate "attempt your cut. Which cuts truly require the skill of a master to duplicate?"
+to french "reproduire votre travail. Quelle coupe pourra nécessiter la compétence d'un maître ?";
+
+translate "The Test of Set's Ladder"
+to french "L'épreuve de l'échelle de Set";
+translate "A larger, more complex version of the initiation Test of Thought."
+to french "Une version plus grande et plus complète de l'Initiation de la Pensée.";
+translate "Your fellow Egyptians will judge your creation on how enticing and addictive"
+to french "Votre création sera évaluée en tenant compte de l'intérêt qu'elle soulève.";
+translate "It is. Knocking off the top block counts for Focus.."
+to french "Trouver la solution ajoute en concentration.";
+
+translate "The Test of the Obelisk"
+to french "L'épreuve de l'Obélisque";
+translate "Advance as an Architect by building"
+to french "Devenez un architecte en construisant";
+
+translate "the largest Obelisk in your region."
+to french "le plus grand obélisque dans votre région.";
+
+translate "The Test of Life"
+to french "L'épreuve de la Vie";
+translate "Build a sprawling system of Aqueducts to bring life-giving water to the arid desert."
+to french "Construisez un vaste système d'aqueducs pour acheminer l'eau jusqu'au désert.";
+translate "Those that build the most useful aqueduct towers advance in Architecture."
+to french "Ceux qui construisent les tours d'aqueduc les plus utiles progressent en Architecture.";
+
+translate "The Test of Octec's Ghost"
+to french "L'épreuve du Fantôme d'Octec";
+translate "The Statue of Octec's Ghost is a machine which can be activated by"
+to french "La statue du Fantôme d'Octec est une machine qui peut être activée grâce à";
+translate "installing 20 devices called the Crystal Hieroglyphs.  You can obtain some from"
+to french "20 appareils appelés des Hiéroglyphes de Cristal. Vous pouvez en obtenir dans";
+translate "the Universities and Schools of Architecture, you must trade for the rest."
+to french "les écoles et universités d'Architecture, mais vous devrez échanger les autres.";
+
+translate "The Test of The People's Pyramid"
+to french "L'épreuve de la Pyramide du Peuple";
+translate "The labor of many may be required to build a pyramid, but only one may "
+to french "Le travail de beaucoup est nécessaire pour construire une pyramide, mais seule une personne";
+translate "consecrate (complete) construction. Pass by consecrating any size pyramid."
+to french "peut consacrer (achever) sa construction. Passez cette épreuve en consacrant la pyramide.";
+
+translate "The Test of Towers"
+to french "L'épreuve des Tours";
+translate "Build great Towers across Egypt. Building far from others allows"
+to french "Construisez de grandes tours dans toute l'égypte. Construisez à l'écart pour contrôler ";
+translate "control of more land. Accumulate control of an area equal to all of"
+to french "plus de terrain. Contrôlez une zone égale à toute l'égypte pour ";
+translate "Egypt to pass the Test of Towers"
+to french "réussir cette épreuve";
+
+translate "The Test of the Megalopolis"
+to french "L'épreuve de la Mégalopole";
+translate "With the help of forty-eight associates, build a Megalopolis."
+to french "Avec l'aide de quarante-huit associés, construisez une Mégalopole.";
+translate "All forty-nine of you will pass the test."
+to french "Les quarante-neuf personnes concernées passeront l'épreuve.";
+
+translate "The Test of the Funerary Temple"
+to french "L'épreuve du Temple Funéraire";
+translate "Construct a glorious Temple to entice the dead to visit earth."
+to french "Construisez un temple somptueux invitant la mort à visiter la terre.";
+translate "Only the finest will pass the Test of the Funerary Temple."
+to french "Seuls les meilleurs réussiront l'épreuve.";
+
+translate "The Test of Ka"
+to french "L'épreuve de Kâ";
+translate "Secure your place in the afterlife by building a Tomb and filling it"
+to french "Sécurisez votre place dans l'au-dela en construisant un tombeau et en le remplissant";
+translate "With Ka Boxes honoring the gods. Remember that humility is a virtue:"
+to french "avec des boîtes de Ka qui honorent les dieux. Rappelez vous que l'humilité est une vertue:";
+translate "Those displaying conspicuous wealth will be looked down upon"
+to french "Ceux qui affichent une richesse ostensible seront méprisés.";
+
+translate "The Test of the Seven Phoenix"
+to french "L'épreuve des Sept Phoenix";
+translate "Construct as many Phoenix as possible in a short time."
+to french "Construisez le plus de phoenix possible dans un court délai.";
+translate "By enlisting the aid of other architects, you will progress"
+to french "En vous assurant l'aide d'autres architectes, vous pourrez";
+translate "far faster."
+to french "progresser beaucoup plus vite.";
+
+translate "The Test of Pyrotechnics"
+to french "L'épreuve de Pyrotechnie";
+translate "You must make the most dazzling fireworks shell you can, and enter it into a "
+to french "Vous devez monter le plus éblouissant des feux d'artifice, et participer à un";
+translate "competition. Winning a competition gets you closer to your goal. The more "
+to french "concours. Remporter un concours vous rapproche de votre objectif.";
+translate "people you beat, the faster you progress."
+to french "Plus vous vaincrez de gens, plus rapidement vous progresserez.";
+
+translate "The Test of Khefre's Children"
+to french "L'épreuve des Enfants de Khefre";
+translate "You must breed the most strange and beautiful scarab beetle that you can.  After "
+to french "Vous devez élever les plus étranges et les plus beaux des scarabées. Lorsque vous en ";
+translate "encountering some beetles in the wild, you can capture them and raise them in a "
+to french "trouvez un dans la nature, vous pouvez le capturer et l'élever dans un terrarium.";
+translate "terrarium.  You must exhibit your beetle at one of Khefre's gardens, and be judged."
+to french "Vous devrez ensuite exposer votre scarabée dans un des jardins de Khefre et y être jugé.";
+
+translate "The Test of the Prismatic Opticon"
+to french "L'épreuve des Opticons Prismatiques";
+translate "Design a Prismatic Opticon, a moving statue of light."
+to french "Concevez un Opticon prismatique : une statue de lumière en mouvement.";
+translate "Once enough judges have rated your Opticon, it's eligible for Competition. Each"
+to french "Lorsqu'un nombre suffisant de juge a noté votre Opticon, il peut participer au concours.";
+
+translate "week, the designer of the highest rated Opticon passes the Test."
+to french "Chaque jour, le concepteur du meilleur Opticon remporte l'épreuve.";
+
+translate "The Test of the Formal Garden"
+to french "L'épreuve du Jardin Artistique";
+translate "Test of the Formal Garden"
+to french "L'épreuve du Jardin Artistique";
+
+translate "Design a Formal Garden with 7 to 100 exotic flowers surrounding "
+to french "Concevez un jardin artistique regroupant entre 7 et 100 fleurs autour ";
+translate "a Gazebo. Gardens are rated on variety and detail, not size."
+to french "d'un gazebo. Les jardins sont notés sur leur variété et leur conception, pas sur leur ";
+translate "Periodically, the Gardener with the highest rated garden passes the Test. "
+to french "taille. Le meilleur jardinier d'une période donnée remporte l'épreuve. ";
+
+translate "The Test of Flight"
+to french "L'épreuve du Vol Aérien";
+translate "Test of Flight"
+to french "L'épreuve du Vol Aérien";
+
+translate "Discover the secret of flight! Build a Raeli Gliderport and launch"
+to french "Découvrez les secrets du vol aérien, Construisez une rampe de lancement et";
+translate "a fleet of up to five Gliders. By making adjustments to your Glider design,"
+to french "et déployez jusqu'à cinq planeurs. En réglant votre plan de rampe de lancement,";
+translate "loops, rolls, and other aerobatics are possible."
+to french "il est possible d'effectuer des boucles, des tonneaux et autres figures. ";
+
+translate "The Test of the Windsong"
+to french "L'épreuve de la Mélodie du Vent";
+translate "Test of the Windsong"
+to french "L'épreuve de la Mélodie du Vent";
+
+translate "Blend the sound of the wind, and the hand of man to create beautiful music from"
+to french "Mêlez les sons du vent, et le talent de l'homme pour créer une mélodie en";
+translate "carefully crafted Wind Chimes, arranged on a Chime Tower."
+to french "utilisant des carillons que vous aurez fabriqués, disposés sur une tour à carillons";
+translate "The musicians who create the most beautiful arrangements will be promoted."
+to french "Les musiciens qui composent les plus beaux arrangements musicaux progresseront.";
+
+translate "The Test of the Raeli Mosaic"
+to french "L'épreuve de Mosaïque Raeli";
+translate "Fracture brittle Raeli Tiles into unusual shapes, and fit them together"
+to french "Cassez des tuiles Raeli en pièces irrégulières et agencez-les pour créer";
+translate "to form a handsome mosaic. Your fellow Egyptians will judge you on both"
+to french "une superbe mosaïque. Les autres habitants d'égypte pourront vous évaluer ";
+translate "Color and Composition."
+to french "en fonction des couleurs et de la conception.";
+
+translate "The Test of the Bedouin"
+to french "L'épreuve du Bédouin";
+translate "To enhance your speed, train by seeking out distant altars.  The fastest"
+to french "Pour améliorer votre vitesse, entraînez-vous en cherchant des autels. Les";
+translate "explorers will be able to find the most remote altars.  Be among the"
+to french "explorateurs les plus rapides pourront trouver les autels les plus distants.";
+translate "best explorers on three separate days, and your body will accelerate."
+to french "Soyez parmi les meilleurs des explorateurs pendant trois jour, et faites progresser votre corps.";
+
+translate "The Test of the Safari"
+to french "L'épreuve du Safari";
+translate "Use your mind and body to capture seven species of Egyptian wildlife."
+to french "Utilisez votre intelligence et votre corps pour capturer sept espèces animales d'égypte.";
+translate "You must capture and release four of each creature."
+to french "Vous devrez capturer et relâcher quatre spécimens de chaque espèce.";
+
+translate "Feast for the Senses"
+to french "L'épreuve du Festin des Sens";
+translate "Prove your mastery of Perception by throwing a banquet of the finest foods,"
+to french "Prouvez votre maîtrise de la perception en servant les mets, bières et vins";
+translate "wines, and beers. Invite twenty-one friends whom you have met on your "
+to french "les plus raffinés. Invitez vingt-et-un de vos amis à se joindre à vous ";
+translate "travels to join, and to witness your advancement."
+to french "pour apprécier votre art culinaire.";
+
+translate "The Test of the Acrobat"
+to french "L'épreuve de l'Acrobate";
+translate "To enhance your Dexterity, train by seeking out masters in 28 moves. You"
+to french "Pour améliorer votre dextérité, entraînez-vous en cherchant des maîtres des 28 figures.";
+translate "will master a single move immediately, and may teach others."
+to french "Vous maîtrisez pour commencer un seul mouvement, et pouvez l'enseigner aux autres.";
+
+translate "The Test of Darkest Night"
+to french "L'épreuve de la Nuit Noire";
+translate "To bolster your constitution, you must develop poison resistance."
+to french "Pour renforcer votre constitution, vous devez développer votre résistance au poison.";
+translate "The University of The Human Body will tell you what exotic poisons you"
+to french "L'université du Corps Humain vous indiquera quels poisons exotiques vous devez";
+translate "must seek out, and in what order, to toughen your body."
+to french "trouvez et appliquer pour renforcer votre corps.";
+
+translate "The Test of Reason"
+to french "L'épreuve de Raison";
+translate "Solve and judge challenges created by Egypt's Scholars. As you solve more,"
+to french "Résolvez et jugez des défis créés par les étudiants d'égypte. A mesure que vous en";
+translate "you will find your Focus score improving. Reach a permanant Focus of 7 to"
+to french "résolvez, votre Concentration s'améliorera. Atteignez une concentration permanente";
+translate "pass the Test of Reason."
+to french "de 7 pour passer cette épreuve.";
+
+translate "The Test of the Singing Cicada"
+to french "L'épreuve de la Cigale Chantante";
+translate "Use your eyes and ears to locate elaborate and beautiful cicada cages"
+to french "Écoutez et regardez pour localiser de jolies cages à cigales cachées";
+translate "hidden by other explorers. You may take a single animal from each cage,"
+to french "par d'autres explorateurs. Vous pouvez prendre une cigale par cage trouvée.";
+translate "and when you have collected enough, build a colony of your own."
+to french "Une fois que vous en avez réuni suffisamment, construisez votre propre colonie.";
+
+translate "The Test of the Oyster Catcher"
+to french "L'épreuve du Pêcheur d'Huîtres";
+translate "Search for rare oysters, and harvest them by unlocking their puzzle"
+to french "Repérez des bands d'huîtres, et ramassez-les en résolvant leur énigme";
+translate "and gathering their meat and Pearls. Fit the Pearls to a beautiful"
+to french "afin de récuprer leur chair et leur perles. Assemblez les perles en";
+translate "Necklace, permanently boosting your Endurance."
+to french "un magnifique collier, qui augmentera de façon permanente votre endurance.";
+
+translate "The Test of Telepathy"
+to french "L'épreuve de télépathie";
+translate "The best generals must be able to read the mind of their opponents."
+to french "Les meilleurs généraux doivent pouvoir lire dans l'esprit de leurs adversaires.";
+translate "This test pushes your mind-reading ability to its limits."
+to french "Cette épreuve pousse vos capacités de lire les esprits dans ses derniers retranchements.";
+
+translate "The Test of Yokir"
+to french "L'épreuve du Yokir";
+translate "A three-player game of shifting alliances, named after the fabled"
+to french "Un jeu se jouant à trois, où les alliances changent constamment. Il porte";
+translate "Ship 'Yokir.' Remember the lessons of the past."
+to french "le nom du fabuleux bateau 'Yokir'. Souvenez-vous des leçons du passé.";
+
+translate "The Test of Kanivan Tak"
+to french "L'épreuve de Kanivan Tak";
+translate "A deep, geometry based game, sometimes described as an 'analog' version"
+to french "Un jeu de concentration basé sur la géométrie, quelques fois décrit comme";
+translate "of Checkers (Draughts)"
+to french "une version 'semblable' au jeu de dames.";
+
+translate "The Rite of Command"
+to french "Le rite de commandement";
+translate "Great generals must be able to command soldiers and weapons, adapting"
+to french "Les grands généraux doivent savoir commander aux soldats et à leurs armes, et s'adapter";
+translate "to constantly-shifting battlefield conditions.  A single weapon or a"
+to french "aux conditions toujours changeantes des champs de bataille. Une seule arme ou un seul";
+translate "single soldier can tip the balance in this game of tactics."
+to french "soldat peut faire pencher la balance dans ce jeu de tacticiens.";
+
+translate "The Test of Heket's Rake"
+to french "L'épreuve du râteau d'Heket";
+translate "It is said that the frog-god Heket was driven mad attempting"
+to french "On raconte que le dieu-grenouille Heket devint fou en tentant de battre son frère";
+translate "to outmaneuver his brother at this fast-shifting game."
+to french "dans ce jeu toujours en mouvement.";
+
+translate "The Test of Witagog"
+to french "L'épreuve de Witagog";
+translate "Build and enhance replicas of the giant insects from folklore."
+to french "Construisez et améliorez des répliques des insectes géants du folklore.";
+translate "Pit them against each other to advance in the Test of the Witagog."
+to french "Puis laissez-les s'affronter pour progresser dans l'épreuve de Witagog.";
+
+translate "The Test of the King's Convoy"
+to french "L'épreuve du convoi royal";
+translate "In this tribute to Egypt's naval past, you will command a floating"
+to french "En hommage au passé naval glorieux de l'égypte, vous commanderez une flotte";
+translate "convoy of ships, escorting the king's ship to safety. The opposing side"
+to french "qui devra amener le vaisseau royal en sécurité. L'adversaire tentera";
+translate "will attempt to capture the king's ship."
+to french "tentera de s'emparer du vaisseau.";
+
+translate "The Test of Zhadu"
+to french "L'épreuve de Zhadu";
+translate "The way of Zhadu is to remember the Sharing - the first and last"
+to french "La route de Zhadu commémore le Partage - en additionnant les valeurs de la";
+translate "stones removed must have a sum of four."
+to french "première et la dernière pierres retirées, on doit arriver au nombre quatre.";
+
+translate "The Test of reflection"
+to french "L'épreuve de réflection";
+translate "Gaze into a Reflecting Pool to gain insight into this elegant game of"
+to french "Plongez dans un jeu qui mettra votre perception de l'espace à rude";
+translate "spatial reasoning. Connect floating bubbles into thin sheets, but take"
+to french "épreuve. Connectez les bulles pour former de minces feuilles, mais";
+translate "care to never break an existing sheet."
+to french "attention à ne pas traverser une feuille existante.";
+
+translate "The Test of Sevenblade"
+to french "L'épreuve des Sept-Lames";
+translate "This game of deception challenges participants to outbid each other using"
+to french "Ce jeu de bluff invite les participants à dépasser la mise de l'autre en utilisant une";
+translate "a collection of Sevenblades. Winners keep their opponent's blade: Returning"
+to french "collection de Sept-Lames. Le gagnant conserve la lame de son opposant: Rendre une lame";
+translate "a won blade is considered an insult, unless it is the opponent's last."
+to french "gagnée contre un adversaire est considéré une insulte, à moins que ce soit sa dernière.";
+
+translate "The Test of the Covered Cartouche"
+to french "L'épreuve du Cartouche Masqué";
+translate "A leader can build alliances. Work with and against others in a"
+to french "Un dirigeant scelle les alliances. Oeuvrez avec et contre les autres ";
+translate "series of building and voting rounds. Remain in the contest"
+to french "dans une série d'élections et demeurez dans le concours plus longtemps ";
+translate "longer than others to advance."
+to french "que les autres pour progresser.";
+
+translate "The Test of the Plantation"
+to french "L'épreuve de la Plantation";
+translate "Plant and tend Plantations in remote sites. Gather a group of tenders that "
+to french "Plantez et cultivez des plantations dans des endroits reculés. Rassemblez un groupe";
+translate "are diverse to increase the quality of your Plantation. The most well tended "
+to french "de cultivateurs diversifié afin d'améliorer la qualité de votre Plantation. Les structures les";
+translate "plantations will be promoted. Three promotions are required to pass."
+to french "mieux entretenues seront promues. Trois promotions sont requises pour passer l'épreuve.";
+
+translate "The Test of Visions"
+to french "L'épreuve des visions";
+translate "Sensitize your mind to know Egypt's gods, by use of meditation and mind-altering"
+to french "Sensibilisez votre esprit à connaître les dieux d'égypte, en utilisant la ";
+translate "brews. By discussing your visions with others, the true Face of God"
+to french "méditation et des décoctions modifiant la clairvoyance. En parlant de vos visions";
+translate "can be discerned."
+to french "avec les autres, le vrai visage du dieu pourra être discerné.";
+
+translate "The Test of the Holy Shrine"
+to french "L'épreuve de l'Autel sacré";
+translate "Build a shrine to the god of your choice, along with four others."
+to french "Construire un autel au dieu de votre choix, devant quatre autres prêtres.";
+translate "Summon the shrine at will - the more original priests present, the"
+to french "Invoquer l'autel à volonté - Le plus de prêtres originaux seront présents, ";
+translate "greater the shrine's power."
+to french "plus grand sera le pouvoir de l'autel";
+
+translate "The Path of the Pilgrim"
+to french "L'épreuve de la voie du Pèlerin";
+translate "Work in a group of 7 people to visit pilgrim shrines built by others"
+to french "Travaillez en groupe de 7 personnes pour visiter les sanctuaires de pèlerins"; 
+translate "in Egypt."
+to french "construits par d'autres en égypte.";
+
+translate "The Test of Astrological Alignment"
+to french "L'épreuve de l'Alignement Astrologique";
+translate "Search the populace for those few people who share a special mystical"
+to french "Trouvez dans la population les quelques personnes qui partagent un lien mystique ";
+translate "bond with you. A group of five shall pass the test as one."
+to french "avec vous. Un groupe de cinq personnes doit passer cette épreuve en même temps.";
+
+translate "The Test of the Humble Priests"
+to french "L'épreuve des Prêtres Humbles";
+translate "Humble yourself before five different Egyptian gods. Those gods that would have"
+to french "Prosternez-vous devant cinq des douze dieux égyptiens. Ces dieux se seront";
+translate "you will make themselves known. You must become part of a Devotional Group to"
+to french "manifestés à vous. Vous devez entrer dans un groupe de dévotion à";
+translate "a specific God, and complete a challenging ritual."
+to french "un dieu spécifique, et compléter un rituel  difficile.";
+
+translate "The Test of Festivals"
+to french "L'épreuve des Festivals";
+translate "Participate in large festivals for seven gods.  Each person must"
+to french "Participez à de grands festivals pour sept dieux. Chaque personne doit";
+translate "participate in a different way.  The more people who participate"
+to french "participer à sa manière. Plus le nombre de participants est grand,";
+translate "in the festival day, the more standing you gain with your god."
+to french "plus votre statut auprès de votre dieu s'améliore.";
+
+translate "The Test of Beacons"
+to french "L'épreuve des Balises";
+translate "Seek to attract mystical beacon altars, then attempt the"
+to french "Cherchez à faire apparaître des autels mystiques et à y accomplir ce rituel ";
+translate "difficult beacon ritual with the help of your neighbors."
+to french "difficile avec l'aide des gens qui vous entourent.";
+
+translate "The Test of the Vigil"
+to french "L'épreuve de la Vigie";
+translate "Conduct a Vigil at a Sacrificial Bonfire. Visions will come to"
+to french "Participez à une vigie autour d'un feu sacrificiel. Des visions";
+translate "those around the bonfire, illuminating the required offerings."
+to french "indiqueront les offrandes requises aux participants autour du feu.";
+translate "Scoring is based on the length of the Vigil, and your participation."
+to french "Le pointage est basé sur la durée de la vigie et sur votre participation.";
+
+translate "The Test of Leavened Bread"
+to french "L'épreuve du Pain Levé";
+translate "Using an Emir Mortar and a bonfire, bake Holy Bread with up to four of your"
+to french "Avec un Mortier et d'un feu, faites cuire du pain sacré en compagnie de quatre";
+translate "friends. Please the Gods, and perform the proper devotions to bake the"
+to french "de vos amis. Comblez les divinités, et accomplissez les dévotions afin de cuire le";
+translate "bread properly. The more you can share the bread, the more points you gain."
+to french "pain convenablement. Plus vous partagez le pain, plus vous gagnez des points.";
+
+translate "The Test of Marriage"
+to french "L'épreuve du Mariage";
+translate "Perform a simple ritual to enter into Marriage with a trusted mate."
+to french "Effectuez un simple rituel pour vous marier avec quelqu'un de confiance. Vous aurez accès aux ";
+translate "You will have use of each other's possessions, and can even log in as each other."
+to french "possessions de l'autre personne, et pourrez même vous connecter sur son compte. L'avancement ";
+translate "Advance based on your spouse passing many Tests, and by having a long marriage."
+to french "dans cette épreuve est basé sur le nombre d'épreuves accomplies par l'autre et par la durée du mariage.";
+
+translate "The Test of Reason"
+to french "L'épreuve de Raison";
+translate "Solve and judge challenges created by Egypt's Scholars. Your score is"
+to french "Résolvez et évaluez les défis créés par les érudits de l'Egypte. Votre";
+translate "based on the number of judge peers that you have had."
+to french "score est basé sur le nombre de juges en harmonie avec vous.";
+
+translate "The Test of the Critic"
+to french "L'épreuve du Critique";
+translate "Evaluate art, judge Scarab exhibitions and Pyrotechnics shows."
+to french "Evaluez les oeuvres d'art, jugez des exhibitions de pyrotechnie.";
+translate "Your score is based on the number of judge peers that you have"
+to french "Votre score est basé sur le nombre d'autres juges en harmonie avec vous,";
+translate "had, as well as the number of exhibitions and shows that you judge."
+to french "ainsi que le nombre d'oeuvres et d'exhibitions que vous avez jugez.";
+
+translate "The Test of Dancing Waters"
+to french "L'épreuve des Eaux Dansantes";
+translate "Build wonderfully complex animated fountains of water. As the basins fill"
+to french "Créez une belle fontaine complexe et animée. Alors que les bassins se remplissent,";
+translate "and empty, beautiful patterns will form."
+to french "et se vident, de beaux dessins se forment.";
+
+translate "The Balance of Goods"
+to french "L'épreuve de la balance des Marchandises";
+translate "Build an Offering Vault and fill it with rare goods each week. Points are "
+to french "Construisez une chapelle à offrandes et remplissez la avec des biens rares chaque semaine. Les points";
+translate "awarded based on how few other people offered the particular item."
+to french "attribués sont basés sur le plus petit nombre de personnes ayant aussi offert cet élément";
+translate "Goods offered are for the gods, and are not recoverable by mortals."
+to french "Les biens offerts sont pour les dieux et ne peuvent pas être récupérés par les mortels";
+
+translate "The Test of Promotion"
+to french "L'épreuve de la Promotion";
+translate "Who will get promoted?  Select the fellow egyptians who will rise"
+to french "Qui sera promu ? Choisissez le concitoyen égyption qui s'élèvera";
+translate "through the ranks and score points to advance."
+to french "vers les rangs supérieurs et marquez des points pour avancer.";
+
+translate "The Test of the Library of Alexandria"
+to french "L'épreuve de la bibliothèque d'Alexandrie";
+translate "Build a Library and convince others to fill it with their knowledge."
+to french "Construisez une bibliothèque et convainquez d'autres personnes de la remplir avec leurs connaissances";
+translate "Those libraries that amass the most books shall be collectively known"
+to french "Les bibliothèques ayant amassé le plus de livres seront connues par tous";
+translate "as the Libraries of Alexandria."
+to french "comme les Bibliothèques d'Alexandrie";
+
+translate "The Test of the Bedouin"
+to french "L'épreuve du Bédouin";
+translate "To enhance your Dexterity, train by seeking out distant altars.  The fastest"
+to french "Pour améliorer votre dextérité, entrainez vous en cherchant des autels distants. Les explorateurs";
+translate "explorers will be able to find the most remote altars.  Be among the"
+to french "les plus rapides seront capables de trouver les autels les plus éloignés. Soyez parmi les ";
+translate "best explorers on seven separate (RL) days, and your body will accelerate."
+to french "meilleurs explorateurs pendant 7 jours (IRL), et vos performances vont s'améliorer";
+
+translate "The Test of the Archaeologist"
+to french "L'épreuve de l'archéologiste";
+translate "Test of the Archaeologist"
+to french "L'épreuve de l'archéologiste";
+
+translate "Travel Egypt's sands to discover relics from the mysterious past."
+to french "Voyagez à travers les sables égyptiens pour découvrir des reliques du passé mystérieux.";
+translate "Perfect your collection by trading to pass the Test of the Archaeologist."
+to french "Améliorez votre collection en les échangeant pour passer l'épreuve de l'Archéologiste.";
+
+translate "The Test of the Ritual Tattoo"
+to french "L'épreuve du Tatouage Rituel";
+translate "Test of the Ritual Tattoo"
+to french "L'épreuve du Tatouage Rituel";
+
+translate "Formulate pigments of rare herbs, resins and crushed gems, combined at"
+to french "Mélangez ensemble les pigments d'herbes rares avec de la résine et des joyaux écrasés";
+translate "a proper location. When presented at the University of the Human Body,"
+to french "sur un emplacement correct. Une fois le mélange présenté à l'université du Corps Humain,";
+translate "a permanent tattoo can be applied."
+to french "un tatouage permanent pourra être posé";
+
+translate "A Disciple of Leadership is appreciated by those new to our land."
+to french "Les disciples du Commandement sont appréciés par ceux qui sont nouveaux venus dans notre pays";
+translate "Show immigrants how to survive in Egypt.  If you teach them well, they"
+to french "Montrez aux immigrants comment survivre en Egypte. Si vous leur enseignez bien, ils";
+translate "will offer Decrees, proclaiming your knowledge and insight."
+to french "vous offrirons des décrets proclamant vos connaissances et perspicacité.";
+
+translate "The Venery"
+to french "L'épreuve de la Partie de Chasse";
+translate "Venery"
+to french "L'épreuve de la Partie de Chasse";
+
+translate "Create a Venery - a mind bending hunt across the land, to "
+to french "Créez une chasse au trésor - des énigmes à travers le pays, afin de";
+translate "challenge and entertain those developing their Focus."
+to french "mettre au défi et d'amuser ceux qui développent leur concentration.";
+
+translate "The Test of Hexaglyphs"
+to french "L'épreuve des Glyphes Hexagonaux";
+translate "Test of Hexaglyphs"
+to french "L'épreuve des Glyphes Hexagonaux";
+
+translate "Design a series of interlocking hexagonal tiles. They are presented to "
+to french "Concevez une série de glyphes hexagonaux, qui se touchent. Ils seront présentés à ";
+translate "those attempting challenge, in random positions and rotations."
+to french "ceux qui s'essayent à votre défi, dans des positions et orientations aléatoires";
+translate "Your puzzle should be pleasingly challenging, and will be judged as such."
+to french "Votre puzzle doit être agréablement difficile, et sera jugé comme tel.";
+
+translate "The Test of the Constellation"
+to french "L'épreuve de la constellation";
+translate "Test of the Constellation"
+to french "L'épreuve de la constellation";
+
+translate "Build a Night Sky Table and outfit it with a constellation stars and clouds."
+to french "Construisez planétarium et remplissez le avec des constellations d'étoiles et de nuages.";
+translate "With a clever arrangement of clouds, it should be just possible to cover all"
+to french "Avec un arrangement intelligent de nuages, il doit être possible de couvrir";
+translate "stars."
+to french "toutes les étoiles";
+
+//translate "The Test of the Scarab Beetle"
+//to french "L'épreuve du Scarabée";
+//translate "You must breed the most strange and beautiful scarab beetle that you can.  After"
+//to french "Vous devez élever le plus étrange et le plus beau des scarabées. Lorsque vous trouvez";
+//translate "encountering some beetles in the wild, you can capture them and raise them in a"
+//to french "un scarabée dans la nature, vous pouvez le capturer et l'élever dans un terrarium. ";
+//translate "terrarium.  You must exhibit your beetle at one of Khefre's gardens, and be judged."
+//to french "Vous devrez ensuite le soumettre au jugement des autres dans un des jardins de Khefre.";
+
+translate "The Test of Remembrance Ceremonies"
+to french "L'épreuve des Cérémonies du Souvenir";
+translate "Honor your ancestors by conducting Remembrance Ceremonies at the Great Works"
+to french "Honorez vos ancêtres en menant des cérémonies du souvenir près des anciens grands";
+translate "of ages past. The order of ceremonies is prescribed by the Gods. The particular"
+to french "monuments des temps anciens. L'ordre des cérémonies est fixé par les dieux. Les groupes";
+translate "groupings of priests are up to mortals."
+to french "spécifiques de prêtres sont à décider par les mortels";
+
+Translate "The Test of the Messenger"
+to french "L'Epreuve du Messager";
+translate "Collect message fragments and interpret the will of the gods."
+to french "Collectionner des morceaux de messages et interprétez la volonté des dieux.";
+
+translate "Great Work of Harmony"
+to french "Monument d'Harmonie";
+translate "With this Monument, we challenge our children to know their"
+to french "Avec ce monument, nous mettons au défit nos enfants de connaître leurs";
+translate "fellow citizen, and to transform Egypt from a collection of"
+to french "concitoyens, et de faire évoluer l'Egypte d'une série de régions";
+translate "regions to a great nation."
+to french "vers une grande nation.";
+
+translate "completed"
+to french "achevé";
+translate "ready"
+to french "prêt";
+translate "notready"
+to french "pas prêt";
+translate "notavaiable"
+to french "indisponible";
+
+translate "Unknown"
+to french "Inconnu";
+
+translate "Not Available Yet"
+to french "Pas encore disponible";
+
+translate "Information Missing"
+to french "Informations manquantes";
+
+translate "Please ask eGenesis to fill in this text."
+to french "Veuillez demander à eGenesis de remplir ce texte.";
+
+translate "goals"
+to french "objectifs";
+translate "Each icon above represents one of your goals."
+to french "Chaque icône représente un de vos objectifs.";
+translate "Click on the icon to get an explanation of that goal."
+to french "Cliquez sur l'icône pour obtenir une explication de cet objectif.";
+
+
+translate "About to add Test O1 in the discipline of O2. Proceed?"
+to french "Vous êtes sur le point d'ajouter l'épreuve O1(ns) dans la discipline de O2(ns). Continuer?";
+
+translate "K1 is not a discipline."
+to french "K1 n'est pas une discipline";
+
+translate "O1 is not a discipline."
+to french "O1(ns) n'est pas une discipline";
+
+translate "That is not a discipline"
+to french "Ce n'est pas une discipline";
+
+translate "Not Demonstrated"
+to french "non démonté";
+
+translate "Demonstrated"
+to french "démontrée";
+
+translate "You have advanced in the discipline of O1. Your title is now "
+to french "Vous avez progressé dans la Discipline de O1(lns) O1(ns). Votre titre est désormais ";
+
+translate "Ask to see goals"
+to french "Demander à voir les objectifs";
+
+translate "U1 wants to see your goals, OK?"
+to french "U1(name) souhaite voir vos objectifs, OK ?";
+
+translate "U1 does not want to show you their goals."
+to french "U1(name) ne souhaite pas vous montrer ses objectifs";
+
+translate " does not want to show you their goals."
+to french " ne souhaite pas vous montrer ses objectifs";
+
+translate "Principles completed."
+to french "Principes complétés";

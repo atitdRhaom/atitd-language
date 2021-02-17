@@ -1,0 +1,189 @@
+Module testofthesculptors_fre;
+
+translate "Create and display team artworks."
+to french "Créez et exhibez des oeuvres d'art d'équipe";
+
+translate "Sign up for a Sculptors Contest"
+to french "Enregistrez vous pour un concours de sculpteurs";
+
+translate "Add an item to a team Sculpture"
+to french "Ajoutez un objet à une sculpture d'Equipe";
+
+translate "Win a round"
+to french "Gagnez un tour";
+
+translate "Score three points"
+to french "Marquez 3 points";
+
+translate "You have completed Principles of The Sculptors."
+to french "Vous avez terminé les principes des Sculpteurs";
+
+translate TTheSculptors to french feminine 
+{ ns "L'Epreuve des sculpteurs"; np "L'Epreuve des sculpteurs"; }
+
+translate "As part of a group of N1 initiates of O1 the petitioner must carry K1 There are just N2 initiates nearby."
+to french "En tant que membre d'un groupe de N1 initiEs des O1(ns) le pétitionnaire doit avoir K1. Il y a juste N2 initiés autour";
+
+translate "Artists are split into teams of Sun and Sand. Each team constructs a sculpture within the allotted time. The artists of team that receives the most votes are awarded one point. The others are eliminated and the process starts again. The artist with the most points advances each week."
+to french "Les artistes sont répartis en équipe Soleil et Lune. Chaque équipe construit une scultpure dans le temps imparti. Les artistes de l'équipe qui a reçu le plus de votes recevront 1 point. Les autres sont éliminées et le processus recommence. L'artiste avec le plus de points avance chaque semaine";
+
+
+translate "The Test of The Sculptors"
+to french "Epreuve des Sculpteurs";
+
+translate "Demonstrate the magnificence of your artistry, both in a team and in individual works."
+to french "Démontrez la magnificence de votre art, à la fois en tant que membre d'une équipe et dans votre travail individuel";
+
+translate "The best artwork is saved, unsatisfactory art is destroyed"
+to french "La meilleure oeuvre sera conservée, l'oeuvre non satisfaisante sera détruite.";
+
+translate "The next event is currently scheduled"
+to french "Le prochain évènement est planifié";
+
+translate "Build Phase ends in K1"
+to french "La phase de construction se termine dans K1";
+
+translate "Vote Phase ends in K1"
+to french "La phase de vote se termine dans K1";
+
+translate "Endgame Phase ends in K1"
+to french "La phase de fin se termine dans K1";
+
+translate "Congratulations the K1 won this round!"
+to french "Félicitations, l'Equipe K1 a remporté ce tour !";
+
+translate "The next round will start in K1"
+to french "Le prochain tour commencera dans K1";
+
+translate "The contest will finish in K1"
+to french "Le concours se terminera dans K1";
+
+translate "Unfortunately the K1 won this round."
+to french "Malheureusemebnt, l'Equipe K1 a remporté ce tour";
+
+translate "Unfortunately the round was a draw and there were no winners."
+to french "Malheureusement, au tirage au sort il n'y a eu aucun gagnant";
+
+translate "This round will end in K1"
+to french "Ce tour se terminera dans K1";
+
+translate "Egypt recognizes K1 for passing the O1"
+to french "L'Egypte reconnait K1 pour avoir passé 01(ns)";
+
+translate "Retaining N1 advances."
+to french "N1 avancements retenus";
+
+translate "The building phase is now over. Voting will finish in K1"
+to french "La phase de construction est maintenant terminée. Les votes se termineront dans K1";
+
+//string("test:",TTheSculptors),string((place.realRound ? "" : "~"), "Test of the Sculptors Voting"),place.uni->locstr2(),"Vote on the //winner for the test of the Sculptors",0,0);	
+
+translate "The Sculptors contest has been abandoned due to a lack of interest."
+to french "Le concours des scultpteurs a été abandonné à cause d'un manque d'intéret";
+
+translate "There was an odd number of participants for the O1 and unfortunately you were not picked."
+to french "Il y avait un nombre impair de participants pour O1(ns) et malheureusement, vous n'avez pas été retenu";
+
+translate "Test of the Sculptors Signup"
+to french "Enregistrement à l'Epreuve des Sculpteurs";
+
+translate "Sign up to participate in the Test of the Sculptors."
+to french "Enregistrez-vous pour participer à  l'Epreuve des Sculpteurs.";
+
+//  item("Tests/",TTheSculptors,"/",(actor.p_sculptorsSignup ? "Withdraw from"  : "Sign up for")," the current round");
+
+//  place->consoleFade(string("You are ",(bit ? "now" : "no longer"), " signed up for the current ",TTheSculptors," round."));
+
+translate TTheSculptorsTeam to french feminine
+{ ns "Equipe des sculpteurs"; np "Equipes des scultpeurs"; }
+
+translate TTheSculptorsTeamSun to french feminine
+{ ns "Equipe du soleil"; np "Equipes du soleil"; }
+
+translate TTheSculptorsTeamSand to french feminine
+{ ns "Equipe du sable"; np "Equipes du sable"; }
+
+translate TTheSculptorsTeamPreviousWinner to french feminine
+{ ns "Equipe victorieuse précédente"; np "Equipes victorieuses précédentes"; }
+
+translate "Sun Team" 
+to french "Equipe du soleil";
+
+translate "Sand Team"
+to french "Equipe du sable";
+
+
+translate "Round N1"
+to french "Tour N1";
+
+translate "Welcome to the K1. This team consists of: K2"
+to french "Bienvenue dans l'K1. Cette Equipe est constituée par K2";
+
+// translate "Projects/Tests/O1/Build x Sculpture")
+// to french "Projets/Epreuves/O1(ns)/Construire x Sculptures";
+
+//  if (!actor->eHasList(req)) ReqFail(string("To build the ",x," Sculpture you néd: "),req);
+  
+//  Item("Utility/Tear down this ",teamSculpture);
+
+//  var text=actor->AskQuestionText(string("Are you sure you want to tear this sculpture down?\nAll loaded items will be lost and the ",teamsculpture," will have to be rebuilt. To procéd, type DESTORY"),"",0);
+  
+translate "U1 has torn down the sculpture."
+to french "U1(name) a détruit la scultpure";
+
+translate "You cannot build a sculpture just now."
+to french "Vous ne pouvez pas construire une sculpture maintenant";
+
+translate "Your team has already built a O1"
+to french "Votre Equipe a déjà  construit O1(ns)";
+
+//  var str = string("The ",team," sculpture has bén constructed at ",x/16,",",y/16,".");
+  
+translate "The K1 sculpture has been built close to a previous constest's winner"
+to french "La sculpture K1 a été construite prà¨s d'une prEcEdente sculpture gagnante";
+
+translate "The K1 sculpture has been built close to another competing sculpture."
+to french "La sculpture K1 a été construite près d'une sculpture concurrente";
+
+translate "The K1 sculpture has been built close to another sculpture."
+to french "La sculpture K1 a été construite près d'une autre sculpture";
+
+translate "You are not currently participating in a O1 contest"
+to french "Vous ne participez pas actuellement à O1(ns)";
+
+//"You must be within 300 fét of the ",Loc2Str(uniP,uniX/16,uniY/16)," ",UArt," at ",uniX/16,",",uniY/16,".");
+  
+  
+translate "Declare this sculpture to be the best!"
+to french "Désignez cette sculpture comme étant la meilleure !";
+
+translate "You change your vote to the O1"
+to french "Vous avez modifié votre vote en faveur de O1(ns)";
+
+translate "You keep your vote for the O1"
+to french "Vous avez conservé votre vote en faveur de O1(ns)";
+
+translate "You record your vote for the O1"
+to french "Vous avez enregistré votre vote pour O1(ns)";
+
+//    MenuComment("Tests/",TTheSculptors,"/",TTheSculptors);
+//    MenuComment("Tests/",TTheSculptors,"/-");
+//    MenuComment("Tests/",TTheSculptors,"/Points: ",place.p_TTheSculptorsPoints);
+
+//  item("Utility/Burn down this sculpture");
+
+translate "Oracles of O1 may burn down any winning team sculpture.\nThese sculptures cannot be recovered.\nAre you sure you want to burn this down?"
+to french "Les Oracles de O1(ns) peuvent détruire n'importe quelle sculpture d'Equipe gagnante. Ces sculptures ne pourront pas être récupérées. Etes vous sûrs de vouloir détruire celle-ci ?";
+
+// if (place.Title) menucomment("[Extra1]Title: \k",place.Title,"\k");
+
+translate "Read the inscription"
+to french "Lire l'insciption";
+
+//   if(place.title) str = string(str,place.Title,"\n\n");
+// if(place.winUsername) str = string(str,"Awarded to ",place.winUsername);
+//   if(place.winRound) str = string(str," after round ",place.winRound," of the sculptors contest");
+//   if(place.winTime) str = string(str," on ",TODSTR(place.winTime),".");
+
+
+  

@@ -1,0 +1,46 @@
+Module DAPC_fre;
+
+translate "Check under the Departed Persons Act v2"
+to french "Vérifier le statut selon la loi DPAC V2";
+
+translate "Check Elders under the Departed and Absent Player Cleanup"
+to french "Vérifier le statut des Sages selon le Departed and Absent Player Cleanup (DAPC)";
+
+translate "Checking. This may take some time on a large guild."
+to french "Vérification en cours. Le processus pourrait prendre du temps selon la taille de la guilde.";
+
+translate "You are already an Elder."
+to french "Vous êtes déjà un Sage.";
+
+translate "The following memmbers are active and higher ranked than you: K1"
+to french "Les membres suivants sont actifs et plus gradés que vous : K1";
+
+translate "Combine contents of the chest at N1 N2"
+to french "Rassembler le contenu du coffre en N1 N2";
+
+translate "Tag this Fragile Chest for Combination"
+to french "Sélectionner ce coffre fragile pour une combinaison";
+
+translate "Departed and Absent Player Cleanup"
+to french "Vérifier le statut selon le Departed and Absent Player Cleanup (DAPC)";
+
+translate "Only paid accounts are eligible to use the Departed and Absent Player Cleanup."
+to french "Seuls les comptes payants peuvent utiliser le DAPC.";
+
+translate "Someone else is already in the process of claiming this."
+to french "Quelqu'un d'autre est sur le point de réclamer ceci.";
+
+translate "This O1 is protected and can not be torn down."
+to french "O1(^cns) O1(ns) est protégé et ne peut pas être détruit.";
+
+translate "This O1 can be salvaged to a Fragile Chest:"
+to french "O1(^cns) O1(ns) peut être recyclé et combiné dans un coffre fragile :";
+
+translate "Salvage"
+to french "Recycler";
+
+translate "This O1 is fully eligible for the DAPC:"
+to french "O1(^cns) O1(ns) peut être recyclé selon le DAPC :";
+
+translate "You may not own a guild hall, but you can salvage one."
+to french "Vous ne pouvez pas posséder un bâtiment de guilde, mais vous pouvez le recycler.";

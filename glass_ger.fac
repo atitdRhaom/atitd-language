@@ -1,0 +1,485 @@
+module glass_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment		           **
+//**                                                                       **
+//***************************************************************************
+
+
+
+translate GlaziersBench to german feminine
+{
+  swa "Glaswerkbank";
+  sn "Glaswerkbank"; sg "Glaswerkbank"; sd "Glaswerkbank"; sa "Glaswerkbank";
+  pn "Glaswerkbänke"; pg "Glaswerkbänke"; pd "Glaswerkbänken"; pa "Glaswerkbänke";
+}
+translate CampDecoration to german feminine
+{
+  swa "Lagerdekoration";
+  sn "Lagerdekoration"; sg "Lagerdekoration"; sd "Lagerdekoration"; sa "Lagerdekoration";
+  pn "Lagerdekoration"; pg "Lagerdekoration"; pd "Lagerdekoration"; pa "Lagerdekoration";
+}
+translate SheetGlassFabrication to german feminine
+{
+  swa "Glasscheibenherstellung";
+  sn "Glasscheibenherstellung"; sg "Glasscheibenherstellung"; sd "Glasscheibenherstellung"; sa "Glasscheibenherstellung";
+  pn "Glasscheibenherstellung"; pg "Glasscheibenherstellung"; pd "Glasscheibenherstellung"; pa "Glasscheibenherstellung";
+}
+translate Potash to german femininecollective
+{
+  swa "Pottasche";
+  sn "Pottasche"; sg "Pottasche"; sd "Pottasche"; sa "Pottasche";
+  pn "Pottasche"; pg "Pottasche"; pd "Pottasche"; pa "Pottasche";
+}
+translate Soda to german neuter
+{
+  swa "Natron";
+  sn "Natron"; sg "Natron"; sd "Natron"; sa "Natron";
+  pn "Natron"; pg "Natron"; pd "Natron"; pa "Natron";
+}
+translate NormalGlass to german neuter
+{
+  swa "Glas";
+  sn "Glas"; sg "Glases"; sd "Glas"; sa "Glas";
+  pn "Gläser"; pg "Gläser"; pd "Gläsern"; pa "Gläser";
+}
+translate JewelGlass to german neuter
+{
+  swa "Kristallglas";
+  sn "Kristallglas"; sg "Kristallglases"; sd "Kristallglas"; sa "Kristallglas";
+  pn "Kristallgläser"; pg "Kristallgläser"; pd "Kristallgläsern"; pa "Kristallgläser";
+}
+translate SodaGlass to german neuter
+{
+  swa "Natronglas";
+  sn "Natronglas"; sg "Natronglases"; sd "Natronglas"; sa "Natronglas";
+  pn "Natrongläser"; pg "Natrongläser"; pd "Natrongläsern"; pa "Natrongläser";
+}
+translate GlassJars to german femininecollective
+{
+  swa "Glasflasche";
+  sn "Glasflasche"; sg "Glasflasche"; sd "Glasflasche"; sa "Glasflasche";
+  pn "Glasflaschen"; pg "Glasflaschen"; pd "Glasflaschen"; pa "Glasflaschen";
+}
+translate WineBottles to german femininecollective
+{
+  swa "Leere Weinflasche";
+  sn "Leere Weinflasche"; sg "Leeren Weinflasche"; sd "Leeren Weinflasche"; sa "Leere Weinflasche";
+  pn "Leeren Weinflaschen"; pg "Leeren Weinflaschen"; pd "Leeren Weinflaschen"; pa "Leeren Weinflaschen";
+}
+translate Thermometer to german neutercollective
+{
+  swa "Thermometer";
+  sn "Thermometer"; sg "Thermometers"; sd "Thermometer"; sa "Thermometer";
+  pn "Thermometer"; pg "Thermometer"; pd "Thermometern"; pa "Thermometer";
+}
+translate ReagentBottle to german neuter
+{
+  swa "Reagenzglas";
+  sn "Reagenzglas"; sg "Reagenzglases"; sd "Reagenzglas"; sa "Reagenzglas";
+  pn "Reagenzgläser"; pg "Reagenzgläser"; pd "Reagenzgläsern"; pa "Reagenzgläser";
+}
+translate WhiteSand to german masculinecollective
+{
+  swa "Weißer Sand";
+  sn "Weiße Sand"; sg "Weißen Sandes"; sd "Weißen Sand"; sa "Weiße Sand";
+  pn "Weißer Sand"; pg "Weißer Sand"; pd "Weißer Sand"; pa "Weißer Sand";
+}
+translate SheetGlass to german femininecollective
+{
+  swa "Glasscheibe";
+  sn "Glasscheibe"; sg "Glasscheibe"; sd "Glasscheibe"; sa "Glasscheibe";
+  pn "Glasscheiben"; pg "Glasscheiben"; pd "Glasscheiben"; pa "Glasscheiben";
+}
+translate GlassRod to german femininecollective
+{
+  swa "Glasstange";
+  sn "Glasstange"; sg "Glasstange"; sd "Glasstange"; sa "Glasstange";
+  pn "Glasstangen"; pg "Glasstangen"; pd "Glasstangen"; pa "Glasstangen";
+}
+translate FineGlassRod to german feminine
+{
+  swa "Edle Glasstange";
+  sn "Edle Glasstange"; sg "Edlen Glasstange"; sd "Edlen Glasstange"; sa "Edle Glasstange";
+  pn "Edlen Glasstangen"; pg "Edlen Glasstangen"; pd "Edlen Glasstangen"; pa "Edlen Glasstangen";
+}
+translate GlassPipe to german neuter
+{
+  swa "Glasrohr";
+  sn "Glasrohr"; sg "Glasrohres"; sd "Glasrohr"; sa "Glasrohr";
+  pn "Glasrohre"; pg "Glasrohre"; pd "Glasrohren"; pa "Glasrohre";
+}
+translate FineGlassPipe to german neuter
+{
+  swa "Edles Glasrohr";
+  sn "Edle Glasrohr"; sg "Edlen Glasrohres"; sd "Edlen Glasrohr"; sa "Edle Glasrohr";
+  pn "Edlen Glasrohre"; pg "Edlen Glasrohre"; pd "Edlen Glasrohren"; pa "Edlen Glasrohre";
+}
+translate GlassScytheBlade to german femininecollective
+{
+  swa "Sensenglasklinge";
+  sn "Sensenglasklinge"; sg "Sensenglasklinge"; sd "Sensenglasklinge"; sa "Sensenglasklinge";
+  pn "Sensenglasklingen"; pg "Sensenglasklingen"; pd "Sensenglasklingen"; pa "Sensenglasklingen";
+}
+translate FineGlassScytheBlade to german femininecollective
+{
+  swa "Edle Sensenglasklinge";
+  sn "Edle Sensenglasklinge"; sg "Edlen Sensenglasklinge"; sd "Edlen Sensenglasklinge"; sa "Edle Sensenglasklinge";
+  pn "Edlen Sensenglasklingen"; pg "Edlen Sensenglasklingen"; pd "Edlen Sensenglasklingen"; pa "Edlen Sensenglasklingen";
+}
+translate BasicTorch to german feminine
+{
+  swa "Fackel";
+  sn "Fackel"; sg "Fackel"; sd "Fackel"; sa "Fackel";
+  pn "Fackeln"; pg "Fackeln"; pd "Fackeln"; pa "Fackeln";
+}
+translate RubyGlassTorch to german feminine
+{
+  swa "Rubinglasfackel";
+  sn "Rubinglasfackel"; sg "Rubinglasfackel"; sd "Rubinglasfackel"; sa "Rubinglasfackel";
+  pn "Rubinglasfackeln"; pg "Rubinglasfackeln"; pd "Rubinglasfackeln"; pa "Rubinglasfackeln";
+}
+translate SapphireGlassTorch to german feminine
+{
+  swa "Saphirglasfackel";
+  sn "Saphirglasfackel"; sg "Saphirglasfackel"; sd "Saphirglasfackel"; sa "Saphirglasfackel";
+  pn "Saphirglasfackeln"; pg "Saphirglasfackeln"; pd "Saphirglasfackeln"; pa "Saphirglasfackeln";
+}
+translate EmeraldGlassTorch to german feminine
+{
+  swa "Smaragdglasfackel";
+  sn "Smaragdglasfackel"; sg "Smaragdglasfackel"; sd "Smaragdglasfackel"; sa "Smaragdglasfackel";
+  pn "Smaragdglasfackeln"; pg "Smaragdglasfackeln"; pd "Smaragdglasfackeln"; pa "Smaragdglasfackeln";
+}
+translate GlassTorch to german feminine
+{
+  swa "Glasfackel";
+  sn "Glasfackel"; sg "Glasfackel"; sd "Glasfackel"; sa "Glasfackel";
+  pn "Glasfackeln"; pg "Glasfackeln"; pd "Glasfackeln"; pa "Glasfackeln";
+}
+translate RubyLightBox to german feminine
+{
+  swa "Rubinlichtbox";
+  sn "Rubinlichtbox"; sg "Rubinlichtbox"; sd "Rubinlichtbox"; sa "Rubinlichtbox";
+  pn "Rubinlichtboxen"; pg "Rubinlichtboxen"; pd "Rubinlichtboxen"; pa "Rubinlichtboxen";
+}
+translate EmeraldLightBox to german feminine
+{
+  swa "Smaragdlichtbox";
+  sn "Smaragdlichtbox"; sg "Smaragdlichtbox"; sd "Smaragdlichtbox"; sa "Smaragdlichtbox";
+  pn "Smaragdlichtboxen"; pg "Smaragdlichtboxen"; pd "Smaragdlichtboxen"; pa "Smaragdlichtboxen";
+}
+translate TopazLightBox to german feminine
+{
+  swa "Topaslichtbox";
+  sn "Topaslichtbox"; sg "Topaslichtbox"; sd "Topaslichtbox"; sa "Topaslichtbox";
+  pn "Topaslichtboxen"; pg "Topaslichtboxen"; pd "Topaslichtboxen"; pa "Topaslichtboxen";
+}
+translate SapphireLightBox to german feminine
+{
+  swa "Saphirlichtbox";
+  sn "Saphirlichtbox"; sg "Saphirlichtbox"; sd "Saphirlichtbox"; sa "Saphirlichtbox";
+  pn "Saphirlichtboxen"; pg "Saphirlichtboxen"; pd "Saphirlichtboxen"; pa "Saphirlichtboxen";
+}
+translate AmethystLightBox to german feminine
+{
+  swa "Amethystlichtbox";
+  sn "Amethystlichtbox"; sg "Amethystlichtbox"; sd "Amethystlichtbox"; sa "Amethystlichtbox";
+  pn "Amethystlichtboxen"; pg "Amethystlichtboxen"; pd "Amethystlichtboxen"; pa "Amethystlichtboxen";
+}
+translate DiamondLightBox to german feminine
+{
+  swa "Diamantlichtbox";
+  sn "Diamantlichtbox"; sg "Diamantlichtbox"; sd "Diamantlichtbox"; sa "Diamantlichtbox";
+  pn "Diamantlichtboxen"; pg "Diamantlichtboxen"; pd "Diamantlichtboxen"; pa "Diamantlichtboxen";
+}
+translate Mirror to german masculine
+{
+  swa "Spiegel";
+  sn "Spiegel"; sg "Spiegels"; sd "Spiegel"; sa "Spiegel";
+  pn "Spiegeln"; pg "Spiegeln"; pd "Spiegeln"; pa "Spiegeln";
+}
+
+translate "Glass"
+to german "Glas";
+
+translate "Glazier's Bench"
+to german "Glaswerkbank";
+
+translate "To build a Glazier's Bench, you need: "
+to german "Um eine Glaswerkbank zu bauen benötigst du: ";
+
+translate "Your sheet of glass cracked and fell, but you were nearly able to save it. At least your skill is improving. It is now N1 out of 7."
+to german "Deine Glasscheibe zerbrach, aber du konntest sie fast retten. Deine Fähigkeiten sind gestiegen. Sie sind nun N1 von 7.";
+
+translate "You lost your focus, and the delicate sheet of glass cracked and fell. Your skill is N1 out of 7."
+to german "Du verlierst die Konzentration. Die empfindliche Glasscheibe fiel und zerbrach. Deine Fähigkeit ist N1 von 7.";
+
+translate "Success! You made a O1. You can take it from the Glazier's Bench once it cools."
+to german "Erfolg gehabt! Du hast O1(asn) O1(sn) hergestellt. Nimm die Ware aus der Glaswerkbank, sobald sie abgekühlt ist.";
+
+translate "Glass: Yes, a bug exists. U1"
+to german "Glas: Ja,es gibt einen Bug. U1(name)";
+
+translate "Your O1 didn't properly form because the temperature dropped too low."
+to german "O1(^tsn) O1(sn) wurde nicht ordentlich geformt, weil die Temperatur zu sehr abfiel.";
+
+translate "Your O1 didn't properly form because the temperature got too high."
+to german "O1(^tsn) O1(sn) wurde nicht ordentlich geformt, weil die Temperatur zu sehr anstieg.";
+
+translate "Add 2 charcoal"
+to german "+2 Holzkohle";
+
+translate "Add 6 charcoal"
+to german "+6 Holzkohle";
+
+translate "Add 12 charcoal"
+to german "+12 Holzkohle";
+
+translate "You don't have N1 charcoal."
+to german "Du hast keine N1 Holzkohle.";
+
+translate "You need at least 20 deben of molten glass to work a new piece."
+to german "Du brauchst 20 Deben geschmolzenes Glas, um etwas Neues herzustellen.";
+
+translate "Your bench needs to be loaded with Normal Glass for this project."
+to german "Deine Glaswerkbank muß für diese Arbeit mit normalem Glas beladen werden.";
+
+translate "Your bench needs to be loaded with Jewel Glass for this project."
+to german "Deine Glaswerkbank muß für diese Arbeit mit Kristallglas beladen werden.";
+
+translate "Your bench needs to be loaded with Jewel Glass for this project."
+to german "Deine Glaswerkbank muß für diese Arbeit mit Natronglas beladen werden.";
+
+translate "Glass must be worked between N1 and N2 degrees"
+to german "Glas muß bei einer Temperatur zwischen N1 und N2 geschmolzen werden.";
+
+translate "Melt materials"
+to german "Schmelze Material";
+
+translate "Into Normal Glass"
+to german "Zu normalem Glas";
+translate "Into Jewel Glass"
+to german "Zu Kristallglas";
+translate "Into Soda Glass"
+to german "Zu Natronglas";
+
+translate "You can only have one kind of glass in your crucible."
+to german "Du kannst nur eine Sorte Glas im Tiegel haben.";
+
+translate "Normal glass must be melted at 3200 degrees or higher."
+to german "Normales Glas muß bei 3200 Grad oder mehr geschmolzen werden.";
+
+translate "How many batches of glass?"
+to german "Welche Menge Glas?";
+
+translate "You don't have enough to make N1 batches of glass. You need:"
+to german "Du hast nicht genug N1, um soviel Glas herzustellen. Du benötigst: ";
+
+translate "The crucible holds a maximum of 50 deben of glass."
+to german "Der Tiegel beinhaltet ein Maximum von 50 Deben Glas.";
+
+translate "Melt Materials into Soda Glass"
+to german "Schmelze Material zu Natronglas";
+
+translate "Soda glass must be melted at 3200 degrees or higher."
+to german "Natronglas muß bei 3200 Grad oder mehr geschmolzen werden.";
+
+translate "Melt materials into Jewel Glass"
+to german "Schmelze Material zu Kristallglas";
+
+translate "Jewel glass must be melted at 4400 degrees or higher."
+to german "Kristallglas muß bei 4400 Grad oder mehr geschmolzen werden.";
+
+translate "You don't have enough to make N1 batches of jewel glass. You need:"
+to german "Du hast nicht genug, um N1 Kristallglas herzustellen. Du benötigst: ";
+
+translate "Permission for Emptying Glass"
+to german "Erlaubnis für Glasentsorgung";
+
+translate "Can be emptied by K1"
+to german "Entsorungserlaubnis für K1";
+
+translate "Anyone"
+to german "Jeder";
+
+translate "Owner"
+to german "Eigentümer";
+
+translate "Empty ALL the glass from the bench"
+to german "Entferne ALLES Glas aus der Glaswerkbank";
+
+translate "You don't have permission to empty the glass."
+to german "Du hast keine Erlaubnis, das Glas zu entsorgen.";
+
+translate "By the Melted Glass Preservation Act, introduced by Ptenkhet, only the original builder of a Glaziers Bench may empty the glass."
+to german "Per Erhaltungsgesetz von geschmolzenem Glas, eingeführt durch Ptenkhet, haben nur die Erbauer der Glaswerkbank die Erlaubnis das Glas auszuleeren.";
+
+translate "Are you sure you want to pour all the O1 on the ground?"
+to german "Bist du sicher, dass du alles O1(dsg) O1(sg) auf den Boden gießen willst?";
+
+translate "The glass drops to the ground in a molten lump, then shatters."
+to german "Das Glas tropft in einer geschmolzenen Masse zu Boden und zerspringt.";
+
+translate "Make a Glass Jar (90 sec)"
+to german "Ziehe eine Glasflasche (90 Sek.)";
+
+translate "Make a batch of 12 Wine Bottles (90 sec)"
+to german "Mache eine Partie von 12 Weinflaschen (90 Sek.)";
+
+translate "Make a Sheet of Glass (120 sec)"
+to german "Ziehe eine Glasscheibe (120 Sek.)";
+
+translate "Fuse silver powder to sheet glass"
+to german "Verschmelze Silberpulver mit der Glasscheibe";
+
+translate "There is only room on the bench for a single mirror."
+to german "Es ist nur für einen Spiegel Platz in der Werkbank.";
+
+translate "To make a mirror, you must sprinkle 200 pinches of silver powder on a sheet of glass, in a sufficiently hot glazier's bench."
+to german "Um einen Spiegel herzustellen, mußt du 200 Prisen Silberpulver in einer entsprechend angeheizten Glaswerkbank auf eine Glasscheibe streuen.";
+
+translate "The silver will take about 30 seconds to fuse to the glass."
+to german "Das Silber benötigt etwa 30 Sekunden, um mit dem Glas zu verschmelzen.";
+
+translate "The wind blows the silver powder away before it has time to fuse. Try a hotter bench."
+to german "Der Wind bläst den Silberpulver davon, bevor er Zeit zum Verschmelzen hatte. Versuche es mit einer heißeren Werkbank.";
+
+translate "You made a mirror."
+to german "Du hast einen Spiegel hergestellt.";
+
+translate "Make a Thermometer"
+to german "Ziehe ein Thermometer";
+
+translate "You are already working a Thermometer."
+to german "Du arbeitest bereits an einem Thermometer.";
+
+translate "Your bench temperature must be at least 1600 to begin a Thermometer."
+to german "Deine Werkbank braucht eine Temperatur von mindestens 1600 Grad, um ein Thermometer herzustellen.";
+
+translate "To make a Thermometer, you must weld three glass rods into a tube, and fill with 10 units of quicksilver."
+to german "Um ein Thermometer herzustellen, musst du 3 Glastangen zusammenschweißen und mit 10 Einheiten Quecksilber befüllen.";
+
+translate "The Thermometer will take about 60 seconds to set."
+to german "Das Thermometer braucht 60 Sekunden um abzukühlen.";
+
+translate "The Thermometer cracked when it was setting. Try finishing the Thermometer as close as possible to N1 degrees."
+to german "Das Thermometer zerbrach beim Abkühlen. Versuche die Herstellung so nahe wie möglich bei N1 Grad.";
+
+translate "You made a Thermometer."
+to german "Du hast ein Thermometer hergestellt.";
+
+translate "Make a Glass Rod (60 sec)"
+to german "Ziehe eine Glasstange (60 Sek.)";
+
+translate "Make a Glass Pipe (90 sec)"
+to german "Ziehe ein Glasrohr (90 Sek.)";
+
+translate "Make a Fine Glass Rod (90 sec)"
+to german "Ziehe eine Edle Glasstange (90 Sek.)";
+
+translate "Make a Fine Glass Pipe (90 sec)"
+to german "Ziehe ein Edles Glasrohr (90 Sek.)";
+
+translate "Make a Reagent Bottle (120 sec)"
+to german "Ziehe ein Reagenzglas (120 Sek.)";
+
+translate "Make a Glass Scythe Blade (30 sec)"
+to german "Ziehe eine Sensenglasklinge (30 Sek.)";
+
+translate "Make a Fine Glass Scythe Blade (60 sec)"
+to german "Ziehe eine Edle Sensenglasklinge (60 Sek.)";
+
+translate "Light this torch"
+to german "Zünde diese Fackel an";
+
+translate "You need 10 oil to light the torch."
+to german "Du brauchst 10 Öl, um die Fackel anzuzünden.";
+
+translate "Refill this torch with oil"
+to german "Fülle die Fackel mit Öl auf";
+
+translate "You need N1 oil."
+to german "Du brauchst N1 Öl.";
+
+translate "Make a Decorative Torch (180 sec)"
+to german "Ziehe eine dekorative Fackel (180 Sek.)";
+
+translate "Make a decorative Glass Torch (180 sec)"
+to german "Ziehe eine dekorative Glasfackel (180 Sek.)";
+
+translate "Decorative"
+to german "Dekoration";
+
+translate "Ruby Red Glass Torch"
+to german "Rubinglasfackel";
+
+translate "Sapphire Blue Glass Torch"
+to german "Saphirglasfackel";
+
+translate "Emerald Green Glass Torch"
+to german "Smaragdglasfackel";
+
+translate "To build a Emerald Green Glass Torch, you need: "
+to german "Um eine Smaragdglasfackel zu bauen benötigst du: ";
+
+translate "To build a Sapphire Blue Glass Torch, you need: "
+to german "Um eine Saphirglasfackel zu bauen benötigst du: ";
+
+translate "To build a Ruby Red Glass Torch, you need: "
+to german "Um eine Rubinglasfackel zu bauen benötigst du: ";
+
+translate "Ruby Lightbox"
+to german "Rubinlichtbox";
+
+translate "Emerald Lightbox"
+to german "Smaragdlichtbox";
+
+translate "Sapphire Lightbox"
+to german "Saphirlichtbox";
+
+translate "Diamond Lightbox"
+to german "Diamandlichtbox";
+
+translate "Topaz Lightbox"
+to german "Topaslichtbox";
+
+translate "To build a Ruby Lightbox, you need:"
+to german "Um eine Rubinlichtbox zu bauen benötigst du:";
+
+translate "To build a Emerald Lightbox, you need:"
+to german "Um eine Smaragdlichtbox zu bauen benötigst du:";
+
+translate "To build a Sapphire Lightbox, you need:"
+to german "Um eine Saphirlichtbox zu bauen benötigst du:";
+
+translate "To build a Diamond Lightbox, you need:"
+to german "Um eine Diamantlichtbox zu bauen benötigst du:";
+
+translate "To build a Topaz Lightbox, you need:"
+to german "Um eine Topaslichtbox zu bauen benötigst du:";
+
+translate "Melted Glass: N1"
+to german "Geschmolzenes Glas: N1";
+
+translate "Temperature:N1"
+to german "Temperatur:N1";
+
+translate "No melted glass"
+to german "Kein geschmolzenes Glas";
+
+translate "Charcoal Avail: N1"
+to german "Verfügb. Holzkohle: N1";
+
+translate "Normal Glass: N1"
+to german "Normales Glas: N1";
+
+translate "Jewel Glass: N1"
+to german "Kristallglas: N1";
+
+translate "Soda Glass: N1"
+to german "Natronglas: N1";
+

@@ -1,0 +1,95 @@
+module video_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+//menue
+translate "Options: Video"
+to german "Option: Grafik";
+translate "Options: Camera"
+to german "Option: Kamera";
+translate "Options: Audio"
+to german "Option: Sound";
+
+
+translate "Terrain Horizon:"
+to german "Terrain-Horizont:";
+
+translate "Texture Detail:"
+to german "Texturendetails:";
+
+translate "Number of Objects:"
+to german "Objektanzahl:";
+
+translate "Tufts of Grass:"
+to german "Grasdarstellung:";
+
+translate "Shadow Quality:"
+to german "Schattenqualität:";
+
+translate "Time-of-Day Lighting:"
+to german "Tag/Nacht Anzeige:";
+
+translate "Light Intensity:"
+to german "Lichtintensität:";
+
+translate "Advanced Terrain:"
+to german "Erweiterte Darstellung:";
+
+translate "Fountain Detail:"
+to german "Springbrunnendetails:";
+
+translate "General Purpose Cam"
+to german "Mehrzweckkamera";
+
+translate "Explorer's Cam"
+to german "Entdeckerkamera";
+
+translate "Cartographer's Cam"
+to german "Kartographiekamera";
+
+translate "Dueling Cam"
+to german "Duellkamera";
+
+translate "Newbie Cam"
+to german "Einsteigerkamera";
+
+translate "Wheel-in-the-Sky Cam"
+to german "Götterkamera";
+
+translate "Builder's Cam"
+to german "Weltenschafferkamera";
+
+translate "Reloading graphics.  Please wait."
+to german "Lade Grafiken neu. Bitte warten.";
+
+translate "Wind and Water:"
+to german "Wind und Wasser:";
+
+translate "Footsteps:"
+to german "Laufgeräusche:";
+
+translate "Wildlife Sounds:"
+to german "Wildnisgeräusche:";
+
+translate "Building Sounds:"
+to german "Gebäudegeräusche:";
+
+translate "Interface Sounds:"
+to german "Umgebungsgeräusche:";
+
+translate "Music:"
+to german "Musik:";
+
+translate "Audio Settings"
+to german "Soundeinstellungen";
+
+translate "Video Settings"
+to german "Grafikeinstellungen";
+
+translate "Reloading graphics. Please wait."
+to german "Grafiken werden neu geladen, bitte warten.";

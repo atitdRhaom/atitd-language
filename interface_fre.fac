@@ -1,0 +1,109 @@
+module interface_fre;
+
+
+translate "Mortar:  N1"
+to french "Mortier : N1";
+
+translate "You couldn't put any more O1 in the O2."
+to french "Vous ne pouvez plus mettre de O1(np) dans O2(lns) O2(ns).";
+
+translate "You could only put N1 of the O1 in the O2."
+to french "Vous n'avez pu mettre que N1 O1(N1?np:ns) dans O2(lns) O2(ns)";
+
+translate "You don't have any O1."
+to french "Vous n'avez pas de O1(ns).";
+
+translate "You dont have any O1"
+to french "Vous n'avez pas de O1(ns)";
+
+translate "You can't add any more O1."
+to french "Vous ne pouvez pas mettre plus de O1(np).";
+
+translate "You don't have N1 O1."
+to french "Vous ne possédez pas N1 O1(N1?np:ns).";
+
+translate "Call: U1 (N1)"
+to french "Appel : U1(name) (N1)";
+translate "Call: U1 (N1 second)"
+to french "Appel : U1(name) (N1 seconde)";
+translate "Call: U1 (N1 seconds)"
+to french "Appel : U1(name) (N1 secondes)";
+translate "Call: U1 (N1 minute N2 seconds)"
+to french "Appel : U1(name) (N1 minute N2 secondes)";
+translate "Call: U1 (N1 minute N2 second)"
+to french "Appel : U1(name) (N1 minute N2 seconde)";
+translate "Call: U1 (N1 minutes N2 seconds)"
+to french "Appel : U1(name) (N1 minutes N2 secondes)";
+translate "Call: U1 (N1 minutes)"
+to french "Appel : U1(name) (N1 minutes)";
+translate "Call: U1 (N1 minute)"
+to french "Appel : U1(name) (N1 minutes)";
+translate "Call: U1 (N1 hour)"
+to french "Appel : U1(name) (N1 heure)";
+translate "Call: U1 (N1 hours)"
+to french "Appel : U1(name) (N1 heures)";
+
+translate "N1 others in queue."
+to french "N1 autres personnes en file d'attente.";
+
+translate "Wine Tasting"
+to french "Oenologie";
+
+translate "Mortar: O1"
+to french "Mortier : O1(ns)";
+
+translate "Weight: N1"
+to french "Poids: N1";
+
+translate "Bulk: N1"
+to french "Encombrement: N1";
+
+translate "Skills"
+to french "Compétences";
+
+translate "Inventory"
+to french "Objets";
+
+translate "Citizenship"
+to french "Citoyenneté";
+
+translate "You have passed all of the Pharaoh's Principles that you have signed up for. Visit the Great Universities to sign up for more."
+to french "Vous avez achevé tous les Principes de Pharaon auxquels vous vous êtiez inscrit. Visitez les prestigieuses Universités pour en commencer de nouveaux.";
+
+translate "You have passed all of the Pharaoh's Principles that you have signed up for."
+to french "Vous avez achevé tous les Principes de Pharaon auxquels vous vous êtiez inscrit.";
+
+translate "You have no unpassed Pharaoh's Principles."
+to french "Vous avez achevé tous les Principes de Pharaon auxquels vous vous êtiez inscrit.";
+
+translate "Visit the Great Universities to sign up for more."
+to french "Visitez les prestigieuses Universités pour en commencer de nouveaux.";
+
+translate "Click a tab to view Pharaoh's Principles"
+to french "Cliquez sur un onglet pour accéder aux détails d'un Principe.";
+
+translate "---Inventory---"
+to french "---Inventaire---";
+translate "You have acquired your first item."
+to french "Vous avez acquis votre premier objet.";
+translate "You can see what items you are carrying by clicking the `Items` tab now at the bottom left of your screen."
+to french "Vous pouvez voir ce que vous portez en cliquant sur l'onglet 'Objets' en bas à gauche de votre écran.";
+
+translate "---Skills---"
+to french "---Compétences---";
+translate "You have learned your first skill."
+to french "Vous avez appris votre première compétence.";
+translate "You can learn different skills at the different Schools and Universities of Egypt."
+to french "Vous pouvez apprendre plusieurs compétences différentes aux différentes Ecoles et Universités d'Egypte.";
+
+translate "---Stats---"
+to french "---Stats---";
+translate "Stats determine how quickly you recover from hard tasks."
+to french "Les Stats déterminent le temps qu'il vous faut pour récupérer après certaines tâches difficiles";
+translate "By passing Tests in the Discipline of the Human Body you can permanently increase them, and there are numerous ways to temporarily increase them."
+to french "En passant des épreuves dans la Discipline du Corps Humain, vous pouvez les améliorer de façon permanente. Il y a également de nombreux moyens de les améliorer temporairement.";
+translate "You can view your skills and stats by clicking on the `Skills` tab now at the bottom left of your screen."
+to french "Pour consulter vos compétences et vos stats, cliquez sur l'onglet 'Compétence' en bas à gauche de votre écran.";
+
+translate "F12 Hides the interface. You can press F12 again to restore it. Are you sure you wish to hide the interface?"
+to french "F12 masque l'interface. Vous pouvez appuyer à nouveau sur F12 pour la restaurer. Êtes-vous certain de vouloir masquer l'interface ?";

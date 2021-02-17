@@ -1,0 +1,367 @@
+module sheep_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**            German Version: Astrid "Infinyti" Werner                   **
+//**                            2012                                       **
+//**                                                                       **
+//***************************************************************************
+//menues
+
+translate "Build a Sheep Pen"
+to german "Baue einen Schafstall";
+
+translate "Herd"
+to german "Herde";
+
+translate "Take a male sheep from the pen"
+to german "Einen Schafsbock aus dem Stall nehmen";
+
+translate "Take a female sheep from the pen"
+to german "Ein Mutterschaf aus dem Stall nehmen";
+
+translate "Place a male sheep in the pen"
+to german "Einen Schafsbock in den Stall setzen";
+
+translate "Place a female sheep in the pen"
+to german "Ein Mutterschaf in den Stall setzen";
+
+translate "Slaughter"
+to german "Schlachten";
+
+translate "Slaughter a male sheep"
+to german "Schlachte einen Schafsbock";
+
+translate "Slaughter a female sheep"
+to german "Schlachte ein Mutterschaf";
+
+translate "Examine the herd"
+to german "Betrachte die Herde";
+
+translate "Fill the feed trough with Onions"
+to german "Fülle den Futtertrog mit Zwiebeln";
+
+translate "Separate the Males and Females"
+to german "Trenne Böcke und Mutterschafe";
+
+translate "Allow the males and females to mingle"
+to german "Erlaube, daß sich Böcke und Mutterschafe vermischen";
+
+translate "Mingle the sheep, by 'Sheep Abandonment Act Amendment'"
+to german "Vermische die Schafe durch das 'Schafübernahmenachbesserungsgesetz'";
+
+translate "Slaughter this sheep"
+to german "Schlachte dieses Schaf";
+
+
+//objects
+translate SheepFemale to german neuter
+{
+ swa "Mutterschaf";
+  sn "Mutterschaf"; sg "Mutterschafes"; sd "Mutterschaf"; sa "Mutterschaf";
+  pn "Mutterschafe"; pg "Mutterschafe"; pd "Mutterschafen"; pa "Mutterschafe";
+}
+translate SheepMale to german masculine
+{
+ swa "Schafsbock";
+  sn "Schafsbock"; sg "Schafsbocks"; sd "Schafsbock"; sa "Schafsbock ";
+  pn "Schafsböcke"; pg "Schafsböcke"; pd "Schafsböcken"; pa "Schafsböcke";
+}
+translate SheepPen to german masculine
+{
+ swa "Schafstall";
+  sn "Schafstall"; sg "Schafstalls"; sd "Schafstall"; sa "Schafstall";
+  pn "Schafställe"; pg "Schafställe"; pd "Schafställe"; pa "Schafställe";
+}
+translate Sheep to german neuter
+{
+ swa "Schaf";
+  sn "Schaf"; sg "Schafs"; sd "Schaf"; sa "Schaf";
+  pn "Schafe"; pg "Schafe"; pd "Schafe"; pa "Schafe";
+}
+translate Mutton to german neutercollective
+{
+ swa "Schaffleisch";
+  sn "Schaffleisch"; sg "Schaffleisches"; sd "Schaffleisch"; sa "Schaffleisch";
+  pn "Schaffleisch"; pg "Schaffleisch"; pd "Schaffleisch"; pa "Schaffleisch";
+}
+translate Wool to german femininecollective
+{
+ swa "Wolle";
+  sn "Wolle"; sg "Wolle"; sd "Wolle"; sa "Wolle";
+  pn "Wolle"; pg "Wolle"; pd "Wolle"; pa "Wolle";
+}
+
+translate SheepFarm to german feminine
+{
+ swa "Schaffarm";
+  sn "Schaffarm"; sg "Schaffarm"; sd "Schaffarm"; sa "Schaffarm";
+  pn "Schaffarmen"; pg "Schaffarmen"; pd "Schaffarmen"; pa "Schaffarmen";
+}
+
+//texts
+translate "This is a 1 O1"
+to german "Dies ist O1(asn) O1(swa)";
+
+translate "Sheep will only prosper in grassy areas."
+to german "Schafe werden sich nur im Grasland wohlfühlen.";
+
+translate "To build a sheep pen, you need:"
+to german "Um einen Schafstall zu bauen benötigst du:";
+
+translate "There are no O1 in the pen."
+to german "Es ist kein O1(swa) im Stall.";
+
+translate "There are no sheep in the herd."
+to german "Es sind keine Schafe in der Herde.";
+
+translate "The sheep look fine."
+to german "Die Schafe sehen gesund aus.";
+
+translate "Everything looks fine."
+to german "Es scheint keine Probleme zu geben.";
+
+translate "You have been infected with SheepPox! If you cough on others, you'll infect them as well."
+to german "Du bist mit Schafspocken infiziert! Wenn du andere anhustest, wirst du auch sie anstecken.";
+
+translate "Cough on this person"
+to german "Huste diese Person an";
+
+translate "You are not carrying a O1"
+to german "Du trägst kein O1(swa)";
+
+translate "There are no O1 in this pen."
+to german "Es sind keine O1(pn) in diesem Stall.";
+
+translate "U1 removed a O1 on from the pen."
+to german "U1(name) nimmt O1(asn) O1(swa) aus dem Stall.";
+
+translate "U1 placed a O1 in the pen."
+to german "U1(name) setzt O1(asn) O1(swa) in den Stall.";
+
+translate "Are you sure you want to slaughter the LAST O1?"
+to german "Bist du sicher, dass du das LETZTE O1(sn) schlachten willst?";
+
+translate "U1 slaughtered a O1"
+to german "U1(name) schlachtete O1(asn) O1(swa)";
+
+translate "The pen contains N1 males and N2 females."
+to german "Der Stall hat N1 Schafsböcke und N2 Schafe.";
+
+translate "The feed trough has N1 onions."
+to german "Der Futtertrog hat N1 Zwiebeln.";
+
+translate "You don't have any onions."
+to german "Du hast keine Zwiebeln.";
+
+translate "Load trough with how many Onions? (Max N1)"
+to german "Belade den Trog mit wieviel Zwiebeln? (Max N1)";
+
+translate "The pen is empty."
+to german "Der Stall ist leer.";
+
+translate "The sheep seem to be searching around for food. Perhaps they would enjoy some tasty onions?"
+to german "Die Schafe scheinen nach Futter zu suchen. Vielleicht würden sie sich über ein paar schmackhafte Zwiebeln freuen?";
+
+translate "The sheep are looking a bit thin. You should grow some onions to feed them."
+to german "Die Schafe sehen etwas dünn aus. Du solltest ein paar Zwiebeln anpflanzen, um sie zu füttern.";
+
+translate "The sheep are starving! Get them some onions to eat, QUICK!"
+to german "Die Schafe sterben! Bringe ihnen Zwiebeln zu essen, SCHNELL!";
+
+translate "A O1 starved recently. The herd is in bad shape. Get them some onions to eat."
+to german "Ein O1(swa) starb kürzlich. Die Herde ist in einem schlechten Zustand. Gib ihnen Zwiebeln.";
+
+translate "The sheep are looking healthy and frisky."
+to german "Die Schafe sehen gesund und glücklich aus.";
+
+translate "The pen is clean."
+to german "Der Stall ist sauber.";
+
+translate "The sheep ran away! Sheep are much easier to kill in a pen."
+to german "Das Schaf ist weggelaufen! Schafe sind leichter in einem Stall zu schlachten.";
+
+translate "Cure Sheep Pox"
+to german "Heile Schafspocken";
+
+translate "To cure Sheep Pox, you must eat 50 garlic."
+to german "Um Schafspocken zu heilen, musst du 50 Knoblauch essen.";
+
+translate "Males and females are housed together"
+to german "Böcke und Mutterschafe werden zusammen gehalten";
+
+translate "Males and females are separated"
+to german "Böcke und Schafe werden getrennt gehalten";
+
+translate "Herd has N1 males and N2 females."
+to german "Die Herde besteht aus N1 Böcken und N2 Mutterschafen.";
+
+translate "The feed trough has N1 Onions"
+to german "Der Futtertrog hat N1 Zwiebeln";
+
+translate "The feed trough has N1 Thistles"
+to german "Der Futtertrog hat N1 Disteln";
+
+translate "A clean environment and better nutrition allows you to \nraise large numbers of sheep without fear of Pox."
+to german "Eine saubere Umgebung und bessere Nährstoffe erlauben die Aufzucht vieler Schafe ohne die Gefahr von Pockenerkrankungen.";
+
+translate "Onions (sheep food)"
+to german "Zwiebeln (Shaffutter)";
+
+translate "Garlic (nutrition tests)"
+to german "Knoblauch (Nährwerttests)";
+
+translate "Cabbage (nutrition tests)"
+to german "Kohl (Nährwerttests)";
+
+translate "High-Ascorbin Thistle (nutrition tests)"
+to german "Hochkonz. Ascorbin Disteln (Nährwerttests)";
+
+translate "High-Biotin Thistle (nutrition tests)"
+to german "Hochkonz. Biotin Disteln (Nährwerttests)";
+
+translate "High-Carotene Thistle (nutrition tests)"
+to german "Hochkonz. Carotin Disteln (Nährwerttests)";
+
+translate "High-Folin Thistle (nutrition tests)"
+to german "Hochkonz. Folin Disteln (Nährwerttests)";
+
+translate "High-Niacin Thistle (nutrition tests)"
+to german "Hochkonz. Niazin Disteln (Nährwerttests)";
+
+translate "High-Pyroxidine Thistle (nutrition tests)"
+to german "Hochkonz. Pyroidin Disteln (Nährwerttests)";
+
+translate "High-Thiamine Thistle (nutrition tests)"
+to german "Hochkonz. Thiamin Disteln (Nährwerttests)";
+
+translate "Rigid White Boards (enclosure tests)"
+to german "Starre weiße Bretter (Abdeckungstests)";
+
+translate "Rigid Black Boards (enclosure tests)"
+to german "Starre schwarze Bretter (Abdeckungstests)";
+
+translate "Rigid Nontoxic Boards (enclosure tests)"
+to german "Starre ungiftige Bretter (Abdeckungstests)";
+
+translate "Linen (sanitation tests)"
+to german "Leinen (Hygienetests)";
+
+translate "Grain Spirits of Water (sanitation tests)"
+to german "Branntwein des Wassers (Hygienetests)";
+
+translate "Wood Spirits of Water (sanitation tests)"
+to german "Waldgeist des Wassers (Hygienetests)";
+
+translate "Bricks (structure)"
+to german "Bretter (Struktur)";
+
+translate "Cut Stone (flooring)"
+to german "Geschnitttene Steine (Boden)";
+
+translate "Concrete (foundation)"
+to german "Beton (Fundament)";
+
+translate "Linen (sterile cleanliness)"
+to german "Leinen (sterile Sauberkeit)";
+
+translate "White Paint (cleanliness)"
+to german "Weiße Farbe (Sauberkeit)";
+
+translate "Thermometer (climate control)"
+to german "Thermometer (Klimaüberwachung)";
+
+translate "Jugs (clean food handling)"
+to german "Krüge (saubere Fütterung)";
+
+translate "Ascorbin"
+to german "Ascorbin";
+
+translate "Biotin"
+to german "Biotin";
+
+translate "Carotene"
+to german "Carotin";
+
+translate "Folin"
+to german "Folin";
+
+translate "Niacin"
+to german "Niacin";
+
+translate "Pyroxidine"
+to german "Pyroxidin";
+
+translate "Thiamine"
+to german "Thiamin";
+
+translate "You learn how to build a modern sheep farm."
+to german "Du lernst eine erweiterte Schaffarm zu bauen.";
+
+translate "Build a Modern Sheep Farm"
+to german "Baue eine erweiterte Schaffarm";
+
+translate "To build a modern sheep farm, you need:"
+to german "Um eine erweiterte Schaffarm zu bauen benötigst du:";
+
+translate "You need to know animal husbandry as well."
+to german "Du musst Tierhaltung erlernen.";
+
+translate "The Feed Trough has N1 thistle bits."
+to german "Der Futtertrog enthält N1 Distelstücke.";
+
+translate "Supplement the feed trough with Thistle"
+to german "Reichere das Futter mit Disteln an";
+
+//Teppy: This doesn't work
+translate "The sheep need K1 and K2."
+to german "Die Schafe brauchen K1 und K2.";
+translate "That thistle does not contain any K1."
+to german "Diese Disteln enthalten kein K1.";
+/////
+
+translate "That is not thistle."
+to german "Das ist keine Distel.";
+
+translate "How many do you want to load?"
+to german "Wieviel willst du einfüllen?";
+
+translate "You do not have that much."
+to german "Soviel besitzt du nicht.";
+
+translate "View log of Emergency Feeding"
+to german "Lese Liste der Notfallfütterungen";
+
+translate "There were no emergency feedings."
+to german "Es gab keine Notfallfütterungen.";
+
+translate "Last few emergency feedings:"
+to german "Die letzten Notfallfütterungen:";
+
+translate "Sheep Generator"
+to german "Schafgenerator";
+
+translate "  Pen contained N1 sheep."
+to german "  Stall beherbergt N1 Schafe.";
+
+translate "  Pen cpntained N1 onions."
+to german "  Stall beinhaltet N1 Zwiebeln.";
+
+translate "  U1 added N1 onions."
+to german "  U1(name) fütterte N1 Zwiebeln.";
+
+translate "N1 babies born"
+to german "N1 Lämmer geboren";
+
+translate "O1 does not contain any sheep"
+	to german "Keine Schafe in O1(tsd) O1(sn).";
+
+translate "Shear Sheep for Wool"
+	to german "Schafe scheren für Wolle";
+
+translate "The sheep haven't produced any wool yet."
+	to german "Den Schafen ist noch keine Wolle gewachsen.";
+
+translate "You collect N1 wool"
+	to german "Du erhältst N1 Wolle";

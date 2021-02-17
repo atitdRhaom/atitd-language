@@ -1,0 +1,6 @@
+Module rangevoting_fre;
+
+translate "Your votes have been recorded, and will count toward determining the winner."
+to french "Vos votes ont été pris en compte, et aideront à determiner le gagnant.";
+translate "You voted for multiple candidates, but ranked them all the same. For your vote to count, you should differentiate the candidates."
+to french "Vous avez voter pour plusieurs candidats, mais leur avez attribué le même nombre de points. Pour que votre vote soit valable, vous devez différencier les candidats.";

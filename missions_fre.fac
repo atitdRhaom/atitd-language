@@ -1,0 +1,464 @@
+module missions_fre;
+
+translate WelcomeStartingInEgypt to french neuter
+{
+  ns "Bienvenue en égypte"; np "Bienvenue en égypte";
+} 
+
+translate Welcome to french neuter
+{
+  ns "Bienvenue en égypte"; np "Bienvenue en égypte";
+} 
+
+translate CulinarySchool to french feminine
+{
+  ns "École culinaire"; np "École culinaire";
+} 
+
+translate Citizenship to french feminine
+{
+  ns "Citoyenneté"; np "Citoyenneté";
+} 
+
+translate RecreationalFishing to french feminine
+{
+  ns "Pêche récréative"; np "Pêche récréative";
+} 
+
+translate MeetThePeople1 to french feminine
+{
+  ns "Rencontre de gens I"; np "Rencontre de gens I";
+} 
+
+translate "Welcome to Egypt"
+to french "Bienvenue en égypte";
+
+translate "explanation"
+to french "explications";
+
+translate "Read Our Generation's Worship Challenge"
+to french "Lire le défi de la Vénération.";
+
+translate "Read Our Generation's Art and Music Challenge"
+to french "Lire le défi des Arts et de la Musique.";
+
+translate "Read Our Generation's Conflict Challenge"
+to french "Lire le défi du Conflit.";
+
+translate "Read Our Generation's Thought Challenge"
+to french "Lire le défi de la Pensée.";
+
+translate "Read Our Generation's Human Body Challenge"
+to french "Lire le défi du Corps Humain.";
+
+translate "Read Our Generation's Architecture Challenge"
+to french "Lire le défi d'Architecture.";
+
+translate "Read Our Generation's Leadership Challenge"
+to french "Lire le défi de Commandement.";
+
+translate "Read Our Generation's Ancient Worship (Kemet) Challenge"
+to french "Lire le défi de Vénération des Anciens(Kemet).";
+
+translate "Challenge completed."
+to french "Défi complété.";
+
+translate "You have completed the Challenge of Generations. Express your confidence from the Emote menu."
+to french "Vous avez complété le défi des générations. Exprimez votre confiance à partir du menu Gestuelles.";
+
+translate "Not a mission."
+to french "Pas une mission";
+
+translate "No"
+to french "Non";
+
+translate "Are you sure you want to close the challenge \"O1\"? You will lose all progress."
+to french "Êtes-vous sûr(e) de vouloir fermer l'onglet de défi \"O1(ns)\" ? Tout progrès sera interrompu.";
+
+translate "Challenges"
+to french "Défis";
+
+translate "Start the Challenge of Generations"
+to french "Commencer le défi des générations";
+
+translate "The Challenge of Generations:\n\nVisit all eight Monuments of previous ages. When complete, you will "
+to french "Le défi des générations:\n\nVisitez les huit monuments des temps anciens. Une fois que ce sera fait, vous serez";
+
+translate "be rewarded with a newfound sense of confidence, an attitude that can be expressed from your Emote menu."
+to french "récompensés d'un nouveau type de confiance, une attitude qui peut être exprimée à travers votre menu Gestuelles.";
+
+translate "Start the \"O1\" challenge"
+to french "Débuter le défi \"O1(ns)\".";
+
+translate "Do you really want to start \"O1\" over, losing any progress?"
+to french "Voulez-vous vraiment recommencer \"O1(ns)\" et perdre tout progrès accumulé?";
+
+translate "You may only have N1 challenges active at once."
+to french "Vous pouvez faire N1 défi à la fois.";
+
+translate "Silly Mission"
+to french "La mission folle.";
+
+translate "Bonk N1 on the head"
+to french "Taper sur la tête de N1(name).";
+
+translate "You completed the Silly Mission!"
+to french "Vous avez complété la mission folle.";
+
+translate "U1 has bonked you on the head!"
+to french "U1(name) vous a tapé sur la tête.";
+
+translate "You bonk U1 on the head!"
+to french "Vous tapez sur la tête de U1(name)!";
+
+translate "Recreational Fishing"
+to french "Pêche récréative";
+
+translate "Learn the Fishing skill at a School of the Human Body"
+to french "Apprendre la pêche à l'école du corps humain.";
+
+translate "Meet a local fisherman (talk to people, ask!)."
+to french "Rencontrer un pêcheur local(parlez aux gens, demandez!).";
+
+translate "Catch a Carp"
+to french "Attrapper une carpe.";
+
+translate "Catch a Perch"
+to french "Attrapper une perche.";
+
+translate "Catch a Tilapia"
+to french "Attrapper un tilapia.";
+
+translate "Catch a Chromis"
+to french "Attrapper un chromis.";
+
+translate "Catch a Catfish"
+to french "Attrapper un poisson-chat.";
+
+translate "Catch an Abdju"
+to french "Attrapper un abdju.";
+
+translate "Catch an Oxyrynchus (Difficult! Ask the locals)"
+to french "Attrapper un esturgeon (difficile, demandez autour de vous).";
+
+translate "Catch an Phagrus (Difficult! Ask the locals)"
+to french "Attrapper un phagrus (difficile, demandez autour de vous).";
+
+translate "Introduce yourself as a Fisherman"
+to french "Présentez-vous en tant que pêcheur.";
+
+translate "You introduce yourself as a fisherman, helping U1 with K1 challenge."
+to french "Vous vous présentez en tant que pêcheur, aidant ainsi U1(name) dans son défi.";
+
+translate "U1 has already met a fisherman, but the thought is appreciated."
+to french "U1(name) a déjà rencontré un pêcheur, mais votre geste est apprécié.";
+
+translate "Culinary School"
+to french "École culinaire";
+
+translate "Grow some Cabbage"
+to french "Cultiver des choux.";
+
+translate "Grow some Carrots"
+to french "Cultiver des carottes.";
+
+translate "Grow some Garlic"
+to french "Cultiver de l'ail.";
+
+translate "Grow some Leeks"
+to french "Cultiver des poireaux.";
+
+translate "Grow some Onions"
+to french "Cultiver des oignons";
+
+translate "Collect a mushroom from the wild"
+to french "Cueillir un champignon dans la nature.";
+
+translate "Harvest an Herb"
+to french "Cueillir une herbe.";
+
+translate "Slaughter a Sheep"
+to french "Abattre un mouton.";
+
+-- translate "Build a Kitchen"
+-- to french "Construire une cuisine.";
+
+translate "Cook a Meal"
+to french "Cuire un plat.";
+
+translate "Eat a meal from your kitchen"
+to french "Manger un plat de votre cuisine.";
+
+translate "Meet someone with Gastronomy experience"
+to french "Rencontrer quelqu'un ayant une expérience gastronomique.";
+
+translate "Catch a fish of any type"
+to french "Attrapper un poisson quelconque.";
+
+translate "Use this kitchen to satisfy the Culinary School challenge"
+to french "Utiliser cette cuisine pour le défi de l'école culinaire.";
+
+translate "Introduce yourself as a Gastronome"
+to french "Présentez-vous en tant que gastronome.";
+
+translate "You introduce yourself as a gastronome, helping U1 with K1 challenge."
+to french "Vous vous présentez en tant que gastronome, aidant ainsi U1(name) dans son défi.";
+
+translate "U1 has already met a gastronome, but the thought is appreciated."
+to french "U1(name) a déjà rencontré un gastronome, mais votre geste est apprécié.";
+
+translate "Plant Flax"
+to french "Planter du lin.";
+
+translate "Reproduce Flax Seeds (Let the flax go wild)"
+to french "Reproduire des graines de lin(laissez fleurir)";
+
+translate "Weed a Flax Bed"
+to french "Désherber un plant de lin.";
+
+translate "Harvest Flax"
+to french "Récolter le lin.";
+
+translate "Learn Flax Processing (School of Art and Music)"
+to french "Apprendre le traitement du lin(école d'arts et musique).";
+
+translate "Rot Flax in a lake or river"
+to french "Faire rouir du lin dans un lac ou une rivière.";
+
+translate "Collect Rotten Flax from Water"
+to french "Prendre le lin roui de l'eau.";
+
+translate "Build a Flax Comb or Hackling Rake"
+to french "Construire un peigne à lin ou un râteau d'affinage.";
+
+translate "Separate Straw from Flax with a Flax Comb"
+to french "Séparer la paille du lin à l'aide d'un peigne à lin.";
+
+translate "Separate Tow from Flax with Flax Comb"
+to french "Séparer l'étoupe du lin à l'aide d'un peigne à lin.";
+
+translate "Refine Lint from Flax with a Flax Comb"
+to french "Traiter du lin pour en obtenir du coton avec un peigne à lin.";
+
+translate "Clean a Flax Comb"
+to french "Nettoyer un peigne à lin.";
+
+translate "Make Twine on a Distaff"
+to french "Faire de la ficelle à l'aide d'un rouet";
+
+translate "Make Thread on a Distaff"
+to french "Faire du fil à l'aide d'un rouet";
+
+translate "Make Rope on a Distaff"
+to french "Faire de la corde à l'aide d'un rouet";
+
+translate "Build any kind of Loom (Student's Loom is easiest)"
+to french "Construire un métier à tisser(celui d'étudiant est plus facile).";
+
+translate "Make Canvas on a Loom"
+to french "Faire un tissage sur un métier à tisser.";
+
+translate "Make Linen on a Loom"
+to french "Faire du tissu sur un métier à tisser.";
+
+translate "Citizenship"
+to french "Citoyenneté";
+
+translate "Gather Slate near a shoreline"
+to french "Ramasser des ardoises près de l'eau.";
+
+translate "Learn Stone Blade Fabrication (School of Architecture)"
+to french "Apprendre la fabrication de lames de pierre (Ecole d'Architecture).";
+
+translate "Make a Stone Blade (Skills Menu)"
+to french "Fabriquer une lame d'ardoise (menu Compétences).";
+
+translate "Gather Wood from a Tree"
+to french "Récolter du bois d'un arbre.";
+
+translate "Learn Carpentry (School of Architecture)"
+to french "Apprendre la menuiserie (école d'architecture).";
+
+translate "Build a Wood Plane (Projects Menu)"
+to french "Construire un plan de bois (menu Projets)";
+
+translate "Make Boards using a Wood Plane"
+to french "Faire des planches en utilisant un plan de bois.";
+
+translate "Learn Brick Rack Construction (School of Architecture)"
+to french "Apprendre la construction de moules à briques (école d'architecture).";
+
+translate "Build a Brick Rack (Projects Menu)"
+to french "Construire un moule à briques.";
+
+translate "Gather Mud near a Shoreline"
+to french "Ramasser de la boue près de l'eau.";
+
+translate "Gather Sand"
+to french "Ramasser du sable.";
+
+translate "Gather Grass"
+to french "Ramasser de l'herbe.";
+
+translate "Dry Grass into Straw (Drop menu)"
+to french "Sécher l'herbe en paille (menu Abandonner).";
+
+translate "Make Bricks using a Brickrack"
+to french "Fabriquer des briques en utilisant un moule à briques.";
+
+translate "Get Flax Seeds from a School of Art and Music"
+to french "Obtenir des graines de lin d'une école d'arts et musique.";
+
+translate "Plant Flax Seeds"
+to french "Planter des graines de lin.";
+
+translate "Let the Flax Bed go wild, and harvest Seeds"
+to french "Laisser le plant de lin fleurir, et récolter les graines.";
+
+translate "Weed a flax bed several times and harvest the Flax"
+to french "Désherber un plan de lin plusieurs fois et récolter le lin.";
+
+translate "Learn Flax Processing"
+to french "Apprendre le traitement du lin.";
+
+translate "Take rotten flax from the water"
+to french "Prendre le lin roui de l'eau.";
+
+translate "Gather Thorns (click on plants to find a species that has thorns)"
+to french "Récolter des épines(Cliquez sur les plantes pour trouver celles qui ont des épines).";
+
+translate "Build a Flax Comb"
+to french "Construire un peigne à lin.";
+
+translate "Process flax on the flax comb until you get Tow"
+to french "Traiter du lin sur un peigne à lin jusqu'à obtention d'étoupe.";
+
+translate "Build a Small Distaff"
+to french "Construire un petit rouet.";
+
+translate "Spin Tow into Twine"
+to french "Filez de l'étoupe en ficelle.";
+
+translate "Gather Tar from a Tar Pit"
+to french "Ramassez du goudron d'une mare de goudron.";
+
+translate "Clean up by picking up your Brick Rack"
+to french "Nettoyez en ramassant votre moule à brique.";
+
+translate "Clean up by tearing down your Wood Plane"
+to french "Nettoyez en détruisant votre plan de bois.";
+
+translate "Travel to the mainland by Ferry!"
+to french "Prenez le radeau pour vous rendre sur le continent";
+
+
+translate "Visit Egypt proper by boat!"
+to french "Rendez-vous en Egypte par bateau!";
+
+translate "Visit Egypt proper by boat or foot!"
+to french "Rendez-vous en Egypte par bateau!";
+
+translate "Restart the Citizenship Challenge"
+to french "Recommencer mon épreuve de citoyenneté.";
+
+translate "You have completed all the tasks required for citizenship. You have a new title! Check your character's menu."
+to french "Vous avez accompli toutes les tâches requises pour devenir citoyen. Vous avez maintenant un nouveau titre! Vérifiez le menu de votre personnage.";
+
+translate "Citizen"
+to french "Citoyen";
+
+translate "Now that you are a citizen, you have several new goals to choose from:\n\n"
+to french "Maintenant que vous êtes un citoyen, vous pouvez choisir de nouvelles épreuves:";
+
+translate "    You can start the Tests. These are difficult before you know\n"
+to french "    Vous pouvez commencer les épreuves. Elles sont difficiles jusqu'à ce que vous";
+
+translate "    more people in Egypt.\n\n"
+to french "    rencontriez plus de monde en égypte.";
+
+translate "    You can get Challenges at any School. These teach you about other\n"
+to french "    Vous pouvez avoir des défis dans toutes les écoles. Ils vous aident à mieux";
+
+translate "    parts of the game, and help you meet people.\n\n"
+to french "    connaître le jeu, et vous aident à connaître des gens,";
+
+translate "    You can try to find a good mentor. By doing this you will help that\n"
+to french "    Vous pouvez essayer de trouver un bon mentor. En faisant ainsi, vous aidez ";
+
+translate "    person advance in the Leadership discipline. Walking up to strangers\n"
+to french "    cette personne à avancer dans son épreuve en Commandement. Demandez ";
+
+translate "    and asking if they know of a good mentor is something that is respected\n"
+to french "    aux joueurs s'ils connaissent un bon mentor est quelque chose de respecté ";
+
+translate "    in ATITD, and is encouraged.\n\n"
+to french "    dans ATITD, et est encouragé.";
+
+translate "    You can build a compound of your own. Compounds are like a home. You can\n"
+to french "    Vous pouvez construire votre atelier. Les ateliers sont comme une maison. ";
+
+translate "    build hundreds of useful workshops inside a compound.\n\n"
+to french "    Vous pouvez construire des centaines d'outils utiles dans un atelier.";
+
+translate "To remove the \"What should I do now\" menu, select Utility/Interface: Options"
+to french "Pour enlever l'option \"Que dois-je faire maintenant?\" de votre menu, allez sous Options/Options d'interface.";
+
+translate "Meet the People I"
+to french "Rencontre de gens I";
+
+translate "Meet an Initiate of Art and Music"
+to french "Rencontrer un initié d'Arts et musique.";
+
+translate "Meet a Student of Architecture"
+to french "Rencontrer un étudiant en Architecture.";
+
+translate "Meet a Student of Conflict"
+to french "Rencontrer un étudiant en Conflit.";
+
+translate "Meet a Student of The Human Body"
+to french "Rencontrer un étudiant en Corps humain.";
+
+translate "Meet a Student of Leadership"
+to french "Rencontrer un étudiant en Commandement.";
+
+translate "Meet a Student of Thought"
+to french "Rencontrer un étudiant en Pensée.";
+
+translate "Meet a Student of Worship"
+to french "Rencontrer un étudiant en Vénération.";
+
+translate "Meet an Initiate of Seven"
+to french "Rencontrer un initié des sept disciplines.";
+
+translate "Meet a Lawmaker"
+to french "Rencontrer un homme de lois.";
+
+translate "Meet the Grandson of an Oracle"
+to french "Rencontrer un Grand-frère d'un Oracle";
+
+translate "Meet the Granddaughter of an Oracle"
+to french "Rencontrer une Grande-soeur d'un Oracle";
+
+translate "Meet an Expert mentor"
+to french "Rencontrer un expert mentor";
+
+translate "You must be in Egypt to do this."
+to french "Vous devez être en égypte pour faire ceci.";
+
+translate "Introduce yourself as K1 of K2"
+to french "Vous présenter en tant que K1 de K2.";
+
+translate "You introduce yourself as K1 of K2, helping U1 with K3 K4 challenge."
+to french "Vous vous présentez en tant que K1 de K2, aidant ainsi U1(name) dans son épreuve K4";
+
+translate "U1 has already met a K1 of K2."
+to french "U1(name) a déjà rencontré un K1 de K2.";
+
+translate "Your first goal is to become a Citizen. Become a Citizen by completing the checklist \"Welcome to Egypt\" in the lower-left of your screen."
+to french "Votre premier objectif est de devenir Citoyen. Devenez un citoyen en complétant la liste \"Bienvenue en égypte\" dans le coin inférieur gauche de votre écran.";
+
+translate "You have become a Citizen of Egypt."
+to french "Vous devenez Citoyen égyptien.";
+
+translate "The O1 challenge is your path to Citizenship - it's the most important thing that you can do in the game, at this point."
+to french "Le défis O1(ns) mène vers la citoyenneté - c'est la chose la plus importante à faire à ce stade du jeu.";

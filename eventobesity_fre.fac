@@ -1,0 +1,76 @@
+module EventObesity_fre;
+
+translate "Chefs"
+to french "Chefs";
+
+translate "Gourmands"
+to french "Gourmets";
+
+translate "Food Type"
+to french "Type de nourriture";
+
+//translate "Hash On"
+//to french ""
+
+translate "You didn't specify a valid food type."
+to french "Vous n'avez pas entrer un type de nourriture valide.";
+
+translate "Check my score in the K1 festival"
+to french "Voir mon score dans le Festival K1";
+
+translate "You haven't enjoyed any dishes yet."
+to french "Vous n'avez pas go�t� � aucun plat pour l'instant.";
+
+translate "You have enjoyed N1 dishes, and accumulated N2 points."
+to french "Vous avez go�t� N1 mets, et accumul� N2 points.";
+
+translate "At least N1 people have eaten here for the O1 festival"
+to french "Au moins N1 personnes ont mang� ici durant le Festival O1(dns) O1(ns)";
+
+translate "By changing chefs, you have reset the points on this kitchen."
+to french "En changeant de chef, vous avez r�initialis� les points de cette cuisine.";
+
+translate "You made a dish for the K1 festival!"
+to french "Vous avez pr�par� un met pour le Festival K1!";
+
+translate "You gain N1 points in today's K1 festival! Your score is now N2."
+to french "Vous gagnez N1 points pour le Festival K1! Votre score est maintenant de N2";
+
+translate "Hmm, that dish really doesn't appeal to you that much. Hard to say why."
+to french "Hmm, ce met ne vous inspire pas plus que �a. Difficile de dire pourquoi.";
+
+translate "That isn't quite what you're in the mood for right now. You let out a slight burp."
+to french "Vous n'�tes pas d'humeur pour �a en ce moment. Vous laissez �chapper un rot.";
+
+translate "You're getting too full to enjoy that dish. But perhaps something lighter would be nice."
+to french "Vous �tes trop ballon� pour appr�ci� ce met. Quelque chose de plus l�ger serait le bienvenu.";
+
+translate "Ugh, you *really* aren't in the mood to eat that. You loosen your pants a bit at the thought of it."
+to french "Arf, vous ne pouvez vraiment pas avaler �a. Vous d�sserez votre pantalon rien qu'� y penser.";
+
+translate "You're now so full it's hard to breathe. Too bad there's no place in Egypt to get a nice snifter of cognac. Maybe those some of those French players could hook you up."
+to french "Vous avez tellement mang� qu'il vous devient difficile de respirer. Dommage qu'il n'y ai pas d'endroits en Egypte pour un petit cognac. Peut-�tre que certains de ces joueurs Fran�ais pourrait vous aider.";
+
+translate "Man, you're stuffed. Walking is difficult. You notice that someone has slipped a Chaine des Rotisseurs membership card in your pocket. What the hell is that?"
+to french "Vous �tes compl�tement gav�. Marcher devient difficile. Vous remarquer que quelqu'un a glisser une carte de membre de la Chaine des Rotisseurs. Enfer et damnation, qu'est ce donc ?";
+
+translate "If you eat any more you think something might rupture. Though, maybe just one wafer thin mint."
+to french "Si vous avalez une bouch�e de plus, quelque chose pourrait lacher. remarque, peut-�tre qu'un buiscuit l�ger � la menthe...";
+
+translate "Ok, you win. Visit www.ifoce.org to continue."
+to french "Ok, vous avez gagn�. Rendez-vous sur www.ifoce.org pour continuer.";
+
+translate "Obesity Player: N1 dishes, N2 points. U1"
+to french "Joueur: N1 mets, N2 points. U1(name)";
+
+translate "You gain N1 points in today's O1 festival! Your score is now N2."
+to french "Vous gagnez N1 points dans le festival O1(dns) O1(ns) d'aujourd'hui! Votre score s'�l�ve maintenant � N2.";
+
+translate "Check my score in the O1 festival"
+to french "Consulter mon score pour le festival O1(dns) O1(ns)";
+
+translate "servings"
+to french "portions";
+
+translate "Your dish doesn't count for the festival: "
+to french "Votre plat ne peut �tre valid� dans le cadre du festival: ";

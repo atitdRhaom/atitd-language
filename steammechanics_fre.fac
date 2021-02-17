@@ -1,0 +1,274 @@
+Module SteamMechanics_fre;
+
+translate steamdistaff to french masculine
+{ ns "Rouet à vapeur"; np "Rouets à vapeur";}
+
+translate SteamKiln to french masculine
+{ ns "Four à vapeur"; ns "Fours à vapeur";}
+
+translate HighPressureSteamEngine to french masculine
+{ ns "Moteur à vapeur haute pression"; np "Moteurs à vapeur haute pression";}
+
+translate smallSteamEngine to french masculine
+{ ns "Petit Moteur à vapeur"; np "Petits Moteurs à vapeur";}
+
+translate mediumSteamEngine to french masculine
+{ ns "Moteur à vapeur moyen"; np "Moteurs à vapeur moyens";}
+
+translate "Build a Steam Shovel"
+to french "Construire une pelle mécanique à vapeur";
+
+translate "Build a Steam Silt Collector"
+to french "Construire un collecteur de vase à vapeur";
+
+translate "Build a Steam Rock Saw"
+to french "Construire une scie à pierre à vapeur";
+
+translate "To build a Steam Rock Saw, you need:"
+to french "Pour construire une scie à pierre, il vous faut : ";
+
+translate "Build a Limestone Auger"
+to french "Construire une foreuse à calcaire à vapeur";
+
+translate "Steam Silt Collectors must be built on clay."
+to french "Le collecteur de vase doit être construit sur de l'argile";
+
+translate SteamShovel to french feminine
+{ ns "Pelle mécanique à vapeur"; np "Pelles mécaniques à vapeur";}
+
+translate siltcollector to french masculine
+{ ns "Collecteur de vase à vapeur"; np "Collecteur de vase à vapeur";}
+
+translate SteamRockSaw to french feminine
+{ ns "scie à pierre à vapeur"; np "scies à pierre à vapeur";}
+
+translate LimestoneAuger to french feminine
+{ ns "Foreuse à calcaire"; np "Foreuses à calcaire";}
+
+translate "Titanium Sheeting: Hard, Corrosion Resistant"
+to french "Revêtement en titane: Dur, résistant à la corrosion";
+
+translate "Copper Sheeting: Stainless"
+to french "Revêtement en cuivre: inoxydable";
+
+translate "A Large Steam Engine requires"
+to french "Un grand moteur à vapeur nécessite";
+
+translate " 100 Copper Sheeting,"
+to french " 100 revêtements de cuivre,";
+
+translate " (Stainless,Insulative),"
+to french "  (inoxydables, Isolants)";
+
+translate "Build a Steam Distaff"
+to french "Construire un rouet à vapeur";
+
+translate "To build a Steam Distaff, you need:"
+to french "Pour construire un rouet à vapeur, il vous faut: ";
+
+translate "A Small Steam Engine requires"
+to french "Un petit moteur à vapeur nécessite";
+translate " 25 Copper Sheeting,"
+to french " 25 revêtements de cuivre,";
+
+translate "Build a Steam Kiln"
+to french "Construire un four à vapeur";
+
+translate "To build a Steam Kiln, you need:"
+to french "Pour construire un four à vapeur, il vous faut:";
+
+translate "Hard, Rigid, Fireproof Treated Boards for the shell"
+to french "Planches traitées Dûre, Rigide, ininflamable pour les étagères";
+
+translate "Clay Steeped Woolcloth for insulation"
+to french "Drap de laine trempé dans l'argile pour l'isolation";
+
+translate "Load the Kiln with Wet Fire Bricks"
+to french "Placer des briques réfractaires humides dans le four";
+
+translate "Load the Kiln with Wet Clay Bricks"
+to french "Placer des briques en argile humides dans le four";
+
+translate "Load the Kiln with Wet Clay Jugs"
+to french "Placer des cruches en argile humides dans le four";
+
+
+translate "A Medium Steam Engine requires"
+to french "Un moteur à vapeur moyen nécessite";
+translate " 50 Copper Sheeting,"
+to french " 50 revêtements de cuivre,";
+
+translate "A High Pressure Steam Engine requires"
+to french "Pour 1 moteur haute pression il faut";
+translate " 50 Copper Sheeting,"
+to french " 50 revêtements de cuivre,";
+translate " (Stainless,Insulative,Hard),"
+to french "  (inoxydables, Isolants, Durs)";
+
+translate "That item is not Treated Metal Sheeting."
+to french "Cet élément n'est pas un revêtement en métal traité";
+
+translate "Fuel the Steam Distaff with Coal"
+to french "Alimenter le rouet à vapeur avec du charbon";
+
+translate "Fuel the Steam Silt Collector with Wood"
+to french "Alimenter le collecteur de vase à vapeur avec du bois";
+
+
+translate "Fuel the Steam Kiln with Coal"
+to french "Alimenter le four à vapeur avec du charbon";
+
+translate "Fuel the Steam Kiln with Petroleum"
+to french "Alimenter le four à vapeur avec du pétrole";
+
+translate "Fuel the Steam Shovel with Petroleum"
+to french "Alimenter la pelle mécanique à vapeur avec du pétrole";
+
+translate "Load the Kiln with Wet Clay Jugs"
+to french "Charger le four avec des cruches en argile humides";
+
+translate "Start the Steam Shovel"
+to french "Démarrer la pelle mécanique à vapeur";
+translate "Stop this Steam Kiln"
+to french "Arrêter ce four à vapeur";
+
+translate "Start the Steam Silt Collector"
+to french "Démarrer le collecteur de vase à vapeur";
+translate "You need to fill the fuel hopper to start the Steam Silt Collector"
+to french "Il faut remplir la trémie à combustible pour démarrer le collecteur de vase à vapeur";
+translate "The steam silt collector starts."
+to french "Le collecteur de vase à vapeur a démarré";
+translate "Stop the Steam Silt Collector"
+to french "Arrêter le collecteur de vase à vapeur";
+ 
+translate "Stop this Steam Shovel"
+to french "Arrêter cette pelle mécanique à vapeur";
+
+translate "You need to fill the fuel tank with Petroleum to start the Steam Shovel"
+to french "Il faut remplir le réservoir de carburant avec du pétrole pour démarrer la pelle à vapeur";
+
+translate "Wind the mechanism and start the Limestone Auger"
+to french "Remonter le mécanisme et démarrer la foreuse à calcaire";
+
+translate "With a loud grinding sound the auger digs into the limestone"
+to french "Avec un fort grincement, la foreuse creuse dans le calcaire";
+
+translate "Stop the Limestone Auger"
+to french "Arrêter la foreuse à calcaire";
+
+translate "Fire O1 into O2"
+to french "Faire cuire O1(lnp) O1(np) en O2(np)";
+
+translate "Load the Kiln with O1"
+to french "Charger le four avec O1(dnp) O1(np)";
+
+translate "Load the Rock Saw with Cuttable Stones"
+to french "Chargez la scie à pierre avec des pierres exploitables";
+
+translate "Load the Rock Saw with Medium  Stones"
+to french "Chargez la scie à pierre avec des pierres moyennes";
+
+translate "This O1 is loaded with O2"
+to french "O1(cns) O1(ns) est chargé(e) avec O2(unp) O2(np)";
+
+translate "Make Fly Stones"
+to french "Fabriquer des meules de pierre";
+
+translate "Load the Rock Saw with O1"
+to french "Charger la scie à pierre avec des O1(np)";
+
+translate "You must clean out the hopper before reconfiguring."
+to french "Il vous faut vider la trémie avant la reconfiguration.";
+
+translate "Make Cut Stones"
+to french "Fabriquer des pierres taillées";
+
+translate "Make Pulleys"
+to french "Fabriquer des poulies";
+
+translate "The steam rock saw grinds to a start."
+to french "La scie à pierre démarre en grinçant";
+
+translate "To spin wire into cable"
+to french "Pour transformer du fil en cable";
+
+translate "The steam kiln ignites with a roar, the heat washing over you."
+to french "le four à vapeur a démarré avec un rugissement, la chaleur vous submerge";
+
+translate "Stop this Steam Rock Saw"
+to french "Arrêtez cette scie à pierre à vapeur";
+
+translate "Copper Sheeting: Stainless Insulative for the boiler"
+to french "Revêtement en cuivre: inoxydable, Insulatif pour la chaudière";
+
+translate "Treated Boards that are Hard, Rigid, yet Fireproof"
+to french "Planches traitées qui soient Dures, Rigides et ininflamables";
+
+translate "It takes a pair of pinch rollers to upgrade a steam distaff"
+to french "l'amélioration d'un rouet à vapeur nécessite une paire de rouleaux à pression";
+
+translate "Are you sure you want to use a pair of pinch rollers to upgrade the steam distaff?"
+to french "Etes-vous sur de vouloir utiliser une paire de rouleaux à pression pour améliorer le rouet à vapeur ?";
+
+translate "Further upgrade and enlarge the hopper"
+to french "Continuer l'amélioration et agrandir la trémie";
+
+translate "Configure the Hopper for Cuttable Stone"
+to french "Configurez la trémie pour les pierres exploitables";
+
+translate "Configure the Hopper for Medium Stones"
+to french "Configurez la trémie pour des pierres moyennes";
+
+translate "The Hopper is configured for Cuttable Stones"
+to french "La trémie est configurée pour les pierres exploitables";
+
+translate "The Hopper is configured for Medium Stones"
+to french "La trémie est configurée pour les pierres moyennes";
+
+translate "Steam"
+to french "Vapeur";
+translate "Small Steam Engine"
+to french "Petit moteur à vapeur";
+
+translate "Hopper"
+to french "Trémie";
+
+translate "Large Steam Engine"
+to french "Grand moteur à vapeur";
+
+translate "Medium Steam Engine"
+to french "Moteur à vapeur moyen";
+
+translate "High Pressure Steam Engine"
+to french "Moteur à vapeur à haute pression";
+
+translate "Load how much Coal? (Max 1000)"
+to french "Charger avec combien de charbon ? (Max 1000)";
+
+translate "Stop this Steam Distaff"
+to french "Arrêter ce rouet à vapeur";
+
+translate "Load the Distaff with Steel Wire"
+to french "Chargez le rouet avec du fil d'acier";
+translate "Load the Distaff with Thoth's Metal Wire"
+to french "Chargez le rouet avec des fils en métal de Thoth";
+translate "Load the Distaff with Octec's Alloy Wire"
+to french "Chargez le rouet avec des fils en alliage d'Octec";
+
+translate "The Silt Collector is Broken"
+to french "Le collecteur de vase est Cassé";
+
+translate "Repair this Silt Collector"
+to french "Réparer ce Collecteur de Vase";
+
+translate "The steam shovel belches forth a cloud of acrid smoke and rumbles to life. As it starts to run it seems to develop a rhythm the more it turns."
+to french "La pelle à vapeur émet un nuage de fumée âcre et démarre. Alors qu'elle commence à fonctionner, un rythme semble se mettre en place";
+
+translate "Steam Shovels closer than 500 feet will interfere with each other."
+to french "Les pelles à vapeur éloignées de moins de 500 pieds les unes des autres vont interférer entre elles";
+
+translate "The steam distaff rumbles into life, clickity clack it goes."
+to french "Le rouet à vapeur gronde en démarrant, en faisant des bruits de cliquetis";
+
+translate "Examine the mechanism" to french "Examiner le mécanisme";
+translate "Stop the Steam Shovel" to french "Arrêter la pelle à vapeur";

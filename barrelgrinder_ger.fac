@@ -1,0 +1,97 @@
+module barrelgrinder_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent   **
+//**    (C)opyright 2002,2003,2004,2005 by MDO Entertainment	           **
+//**                                                                       **
+//***************************************************************************
+//menues
+
+translate "Barrel Grinder"
+to german "Trommelschleifmaschine";
+
+translate "Projects/Barrel Grinder"
+to german "Projekte/Trommelschleifmaschine";
+
+translate "Repair the Barrel Grinder's mechanism"
+to german "Repariere den Mechanismus der Trommelschleifmaschine";
+
+translate "Wind the Barrel Grinder's spring"
+to german "Ziehe die Feder des Trommelschleifers auf.";
+
+translate "Load how much aluminum? (Max 100)"
+to german "Wieviel Aluminium laden? (Max 100)";
+
+translate "Load how much silver? (Max 100)"
+to german "Wieviel Silber laden? (Max 100)";
+
+//objects
+
+translate BarrelGrinder to german feminine
+{
+  swa "Trommelschleifmaschine";
+  sn "Trommelschleifmaschine"; sg "Trommelschleifmaschine"; sd "Trommelschleifmaschine"; sa "Trommelschleifmaschine";
+  pn "Trommelschleifmaschinen"; pg "Trommelschleifmaschinen"; pd "Trommelschleifmaschinen"; pa "Trommelschleifmaschinen";
+}
+
+translate Silverpowder to german neutercollective
+{
+  swa "Silberpulver";
+  sn "Silberpulver"; sg "Silberpulver"; sd "Silberpulver"; sa "Silberpulver";
+  pn "Silberpulver"; pg "Silberpulver"; pd "Silberpulver"; pa "Silberpulver";
+}
+
+translate Silver to german neutercollective
+{
+  swa "Silber";
+  sn "Silber"; sg "Silber"; sd "Silber"; sa "Silber";
+  pn "Silber"; pg "Silber"; pd "Silber"; pa "Silber";
+}
+
+translate Aluminumpowder to german neutercollective
+{
+  swa "Aluminiumpulver";
+  sn "Aluminiumpulver"; sg "Aluminiumpulver"; sd "Aluminiumpulver"; sa "Aluminiumpulver";
+  pn "Aluminiumpulver"; pg "Aluminiumpulver"; pd "Aluminiumpulver"; pa "Aluminiumpulver";
+}
+
+//texts
+
+translate "To build a barrel grinder, you need:"
+to german "Um eine Trommelschleifmaschine zu bauen benötigst du:";
+
+translate "Load the Barrel Grinder with Aluminum"
+to german "Befülle die Trommelschleifmaschine mit Aluminium";
+
+translate "Load how much aluminum?"
+to german "Wieviel Aluminium einfüllen?";
+
+translate "Load the Barrel Grinder with Silver"
+to german "Befülle die Trommelschleifmaschine mit Silber";
+
+translate "Load how much silver?"
+to german "Wieviel Silber einfüllen?";
+
+translate "Start grinding aluminum into powder"
+to german "Mahle Alumium zu Pulver";
+
+
+translate "Start grinding silver into powder"
+to german "Mahle Silber zu Pulver";
+
+translate "When the grinder stopped moving, the mechanism bound up. You must first repair it."
+to german "Als der Schleifer aufgehört hat sich zu bewegen, ist der Mechanismus kaputt gegangen. Du musst es zuerst reparieren.";
+
+translate "Repair the Barrel Grinders's mechanism"
+to german "Repariere den Mechanismus der Trommelschleifmaschine";
+
+translate "To repair the Barrel Grinder you need:"
+to german "Um den Trommelschleifer zu reparieren benötigst du:";
+
+translate "Wind the Barrel Grinders's spring"
+to german "Ziehe die Feder der Trommelschleifmaschine auf";
+
+translate "Spring: N1"
+to german "Feder: N1";

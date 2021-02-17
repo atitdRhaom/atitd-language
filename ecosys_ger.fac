@@ -1,0 +1,103 @@
+module ecosys_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment		           **
+//**                                                                       **
+//***************************************************************************
+
+//menues
+translate Ecology to german 
+{
+swa "Ökologie";
+sn "Ökologie"; pn "Ökologie";
+}
+
+translate "You learn, among other things, how to test for the presence of heavy metal pollution by mixing a pinch of soil with some water, and observing whether tadpoles placed in that water die. A new item has been added to your skills menu."
+to german "Du lernst unter anderem, wie man den Grad einer Schwermetallverschmutzung prüft, indem man ein wenig Erde mit Wasser vermischt und beobachtet, ob die ins Wasser geworfenen Kaulquappen sterben. Du hast eine neue Option im Geschicke-Menü.";
+
+translate "You learn how, by mixing some soil and cabbage juice together, to detect the acidity level of the area."
+to german "Du lernst, wie man durch Mischen von Erde und Kohlsaft den PH-Wert dieser Gegend ermittelt.";
+
+translate "You learn how, by rubbing a piece of brittle dried flax with soil, to gauge the ground water level."
+to german "Du lernst, wie man durch Verreiben von Erde auf getrocknetem Flachs den Grundwasserpegel ermittelt.";
+
+translate "You learn how to gauge the phosphorus level of an area by using a pinch of soil and the remains of a beetle."
+to german "Du lernst, wie man den Phosphorgehalt eines Gebietes mit einer Prise Erde und den Resten eines Käfers ermittelt.";
+
+translate "You learn how to gauge the soot level of an area by using a piece of papyrus paper and a bit of cactus sap."
+to german "Du lernst, wie man mit einem Stück Papyruspapier und etwas Kaktussaft die Luftverschmutzung eines Gebietes ermittelt.";
+
+translate "Ecology"
+to german "Ökologie";
+
+translate "Test the soot levels in the area"
+to german "Luftverschmutzungsgrad ermitteln";
+
+translate "You study the soot levels in the area, you need:"
+to german "Um den Verschmutzungsgrad dieses Gebietes festzustellen benötigst Du:";
+
+translate "Testing the soil..."
+to german "Überprüfe den Boden...";
+
+translate "You determine that the soot level in this area is N1."
+to german "Du stellst einen Verschmutzungsgrad von N1 in diesem Gebiet fest.";
+
+translate "Test the groundwater levels in the area"
+to german "Prüfe den Grundwasserpegel";
+
+translate "You need a bundle of dried flax to rub with soil."
+to german "Du benötigst ein Bündel getrockneten Flachs für den Test.";
+
+translate "You determine that the groundwater level this area is N1. (baseline is 100)"
+to german "Du ermitteltst in diesem Gebiet einen Grundwasserpegel von N1. (Grundlinie ist 100)";
+
+translate "Test the phosphorus levels in the area"
+to german "Prüfe den Phosphorgehalt";
+
+translate "Select a beetle to dissect:"
+to german "Wähle einen Käfer zum Sezieren:";
+
+translate "That is not a beetle.  A beetle is required in order to study phosporus levels."
+to german "Dies ist kein Käfer. Zur Ermittlung des Phosphorgehaltes ist ein Käfer notwendig.";
+
+translate "You need a beetle in order to study the phosporus levels."
+to german "Du benötigst einen Käfer, um den Phosphorgehalt prüfen.";
+
+translate "You determine that the phosphorus level this area is N1. (baseline is 100)"
+to german "Du ermittelst in diesem Gebiet einen Phosphorgehalt von N1. (Grundlinie ist 100)";
+
+translate "Test the groundwater levels in the area"
+to german "Prüfe den Grundwasserpegel";
+
+translate "You determine that the groundwater level this area is N1. (baseline is 100)"
+to german "Du ermittelst in diesem Gebiet einen Grundwasserpegel von N1. (Grundlinie ist 100)";
+
+translate "Test the acidity levels in the soil"
+to german "Prüfe den PH-Wert der Erde";
+
+translate "You need a sample of cabbage juice to mix with the soil."
+to german "Du benötigst eine Probe aus Kohlsaft zum Mischen mit der Erde.";
+
+translate "You determine that the acidity in this area is N1."
+to german "Du ermittelst in diesem Gebiet einen PH-Wert von N1.";
+
+translate "Test the area for heavy metals"
+to german "Prüfe das Gebiet auf Schwermetalle";
+
+translate "You need both water and tadpoles to test for heavy metals."
+to german "Du brauchst Wasser und Kaulquappen um auf Schwermetalle zu prüfen.";
+
+translate "How many tadpoles?"
+to german "Wieviele Kaulquappen?";
+
+translate "You don't have that many tadpoles."
+to german "Du hast nicht so viele Kaulquappen";
+
+translate "The tadpoles all survived. If you suspect that there is heavy metal in the area, you should re-run the test with more tadpoles."
+to german "Die Kaulquappen haben alle überlebt. Wenn Du vermutest, daß es hier eine Schwermetallbelastung gibt, solltest Du den Test mit mehr Kaulquappen wiederholen.";
+
+translate "As you mix a pinch of soil in with the water and tadpoles, N1 of the N2 little tadpoles die."
+to german "Als Du die Erde mit Wasser und Kaulquappen vermischst, sterben N1 der N2 kleinen Kaulquappen.";

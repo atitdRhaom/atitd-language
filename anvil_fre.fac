@@ -1,0 +1,325 @@
+Module Anvil_fre;
+
+translate Anvil to french feminine
+
+{
+  ns "Enclume"; np "Enclumes";
+}
+translate sharpblade to french feminine
+
+{
+  ns "Lame tranchante"; np "lames tranchantes";
+}
+
+translate Shovel to french feminine
+{
+  ns "Pelle"; np "Pelles";
+  }
+
+translate CScythe to french feminine
+{
+  ns "Faux"; np "Faux";
+}
+
+translate ScytheTemplate to french masculine
+{
+  ns "Modèle de faux"; np "Modèles de faux";
+}
+
+translate CarpentryBlade to french feminine
+{
+  ns "Lame de menuiserie"; np "Lames de menuiserie";
+  }
+
+translate Hatchet to french feminine
+{
+  ns "Hachette"; np "Hachettes";
+  }
+
+translate Blacksmithing to french masculine
+{
+  ns "Travail du métal"; np "Travail du métal";
+  }
+
+translate RitualBlade to french feminine
+{
+  ns "Lame Rituelle"; np "Lames Rituelles";
+  }
+
+translate DiamondTippedSteelBlade to french feminine
+{
+  ns "Lame d'acier incrustée de diamant"; np "Lames d'acier incrustées de diamant";
+  }
+
+translate RasHammer to french masculine
+{
+  ns "Marteau de Râ"; np "Marteaux de Râ";
+  }
+
+translate ArchaeologistsShovel to french feminine
+{
+  ns "Pelle d'archéologue"; np "Pelles d'archéologue";
+  }
+
+translate ResinWedge to french masculine
+{
+  ns "Collecteur de résine"; np "Collecteurs de résine";
+  }
+
+translate Spring to french masculine
+{
+  ns "Ressort"; np "Ressorts";
+  }
+
+translate RoundHammer to french masculine
+{
+  ns "Gros marteau rond"; np "Gros marteaux ronds";
+  }
+
+translate BallPeenHammer to french masculine
+{
+  ns "Petit marteau rond"; np "Petits marteaux ronds";
+  }
+
+translate ShapingMallet to french masculine
+{
+  ns "Maillet"; np "Maillets";
+  }
+
+translate WideTungstenChisel to french masculine
+{
+  ns "Ciseau de tungstène"; np "Ciseaux de tungstène";
+  }
+
+translate SteelKnifeBlade to french feminine
+{
+  ns "Lame d'acier"; np "Lames d'acier";
+  }
+
+translate DiamondTippedHatchet to french feminine
+{
+  ns "Hachette incustée de diamants"; np "Hachettes incustées de diamants";
+}
+
+translate Carving to french masculine
+{
+  ns "Façonnage"; np "Façonnages";
+  }
+  
+translate EighteenPendant to french masculine
+{
+  ns "Pendatif d'Eighteen"; np "Pendatif d'Eighteen";
+  }
+
+translate "Allows one to forge various blades"
+to french "Permet de forger différentes lames";
+
+translate "You do not have the correct tool."
+to french "Vous n'avez pas le bon outil.";
+
+translate "You must unload the finished product first"
+to french "Vous devez enlever ce qui est sur l'enclume avant de commencer un nouveau projet";
+
+translate "Allows creation of Diamond Tipped Hatchets, which cut"
+to french "Permet de fabriquer des haches à pointe de diamant, ";
+translate "more cleanly, allowing trees to recover faster"
+to french "qui coupent plus proprement, leur permettant ainsi de régénérer plus rapidement.";
+
+translate "Allows creation of Diamond Tipped tools of all types,"
+to french "Permet de fabriquer des outils à pointe de diamant, ";
+
+translate "which do not deteriorate as other tools do."
+to french "qui ne se dégradent pas comme les autres outils.";
+
+translate "more cleanly, allowing trees to recover faster"
+to french "qui coupent plus proprement, leur permettant ainsi de régénérer plus rapidement.";
+
+translate "To build an Anvil, you need:"
+to french "Pour construire une enclume, vous avez besoin de :";
+
+translate "You must unload the finished product first"
+to french "Vous devez d'abord retirer le produit fini";
+
+translate "To make a O1 requires:"
+to french "Pour fabriquer O1(uns) O1(ns) il vous faut:";
+
+translate "N1 O1"
+to french "N1 O1(N1?np:ns)";
+
+translate "Tools/Force Level/Force"
+to french "Outil/Force appliquée/Force";
+
+translate "You must start work on a piece first."
+to french "Vous devez d'abord commencer un projet.";
+  
+translate "Template Quality Unknown"
+to french "Modèle de qualité inconnue";
+
+translate "Template Quality: "
+to french "Qualité du modèle: ";
+
+translate "Piece is not symmetrical"
+to french "Ce n'est pas symétrique";
+
+//translate "Blademaker/Mirror Left->Right"
+//to french "";
+
+//translate "Blademaker/Thickness Decrease"
+//to french "";
+
+//translate "Blademaker/Thickness Increase"
+//to french "";
+
+//translate "Blademaker/Straighten Rows"
+//to french "";
+
+translate "Inspect Famous Blades"
+to french "Inspecter les superbes lames";
+
+translate "Complete Project"
+to french "Terminer le projet";
+
+translate "Discard Project for Scrap"
+to french "Annuler le projet";
+ 
+translate "Really scrap the O1?"
+to french "Vous voulez réellement annuler O1(cns) O1(ns)?";
+ 
+translate "Ready to Unload?"
+to french "Vous êtes vraiment prêt à terminer le projet ?";
+ 
+translate "A famously good blade! You should name it:"
+to french "Une superbe lame ! Vous devriez la nommer :";
+ 
+translate "Nice try."
+to french "Bien essayé.";
+ 
+translate "You need to be holding Ra's Hammer to work on a Ritual Blade."
+to french "Vous avez besoin d'un marteau de Râ pour modeler une Lame Rituelle.";
+ 
+translate "The piece has become too fragile."
+to french "L'objet est devenu trop fragile.";
+
+translate "(Hint: Use 'Chat Appears Above Players Heads', while using an anvil. Utility/Options:Chat-Related)"
+to french "(Astuce: Utilisez l'option 'Les paroles apparaissent au-dessus d'eux' quand vous travaillez à l'enclume. Options/Discussion)";
+ 
+translate "Quality: "
+to french "Qualité: ";
+
+translate "N1 (N2/N3 blows)"
+to french "N1 (N2/N3 coups)";
+
+translate "Load Anvil"
+to french "Charger l'enclume";
+
+translate "Start Making: "
+to french "Commencer à fabriquer: ";
+
+translate "Start Making: O1"
+to french "Commencer à fabriquer: O1(ns)";
+
+translate "Tools"
+to french "Outils";
+
+translate "Force Level"
+to french "Force appliquée";
+
+translate "Force"
+to french "Force";
+
+translate "Quality Check"
+to french "Contrôle de qualité";
+
+translate "Goal Display"
+to french "Montrer l'objectif";
+
+
+translate "Hammer: Round"
+to french "Marteau: Gros rond";
+
+translate "Hammer: Ra's Hammer"
+to french "Marteau: Marteau de Râ";
+
+translate "Hammer: Ball Peen"
+to french "Marteau: Petit rond";
+
+translate "Hammer: Shaping Mallet"
+to french "Marteau: Maillet";
+
+translate "Hammer: Wide Chisel"
+to french "Marteau: Ciseau de tungstène";
+
+translate "To complete a o1 you need:"
+to french "Pour fabriquer o1(uns) vous avez besoin de:";
+
+translate "Not a tool"
+to french "Ce n'est pas un outil";
+
+translate "You can't work on the piece while displaying the goal."
+to french "Vous ne pouvez travailler une piece pendant que vous affichez l'objectif .";
+
+translate "Hits Remaining: N1"
+to french "Coups restants: N1";
+
+translate "Build an Anvil"
+to french "Construire une enclume";
+
+//translate "Blademaker/Print State"
+//to french "";
+
+translate "Resin Wedge"
+to french "collecteur de résine";
+
+translate " is a O1 of quality N1"
+to french " est O1(uns) O1(ns) de qualité N1.";
+
+translate "Your Artistic touch enhanced the quality N1 blade by N2 points."
+to french "Votre doigté artistique a permis de faire passer la qualité de cette lame de N1 à N2.";
+
+translate "O1:Quality N1 blade"
+to french "O1(ns): Lame de qualité N1";
+
+translate "Assembly"
+to french "Assemblage";
+
+translate "Carving"
+to french "Façonnage";
+
+translate "N1 (K2/K3 blows)"
+to french "N1 (K2/K3 coups)";
+
+translate "Quality: N1 (N2/N3 blows)"
+to french "Qualité: N1 (N2/N3 coups)";
+
+translate "Quality: "
+to french "Qualité: ";
+
+translate "K1"
+to french "K1";
+
+translate "Your fists are not strong enough to punch iron, please select a tool to use."
+to french "La force de vos doigts ne suffit pas pour modeler le fer, veuillez choisir un outil.";
+
+translate "Iron Shovel"
+to french "Pelle en fer";
+
+translate "You cannot use the character '\' in the name of the object."
+to french "Vous ne pouvez pas utiliser le caractère '\' dans le nom de l'objet.";
+
+translate "Spring"
+to french "Ressort";
+
+translate "Sharp Edged Blade"
+to french "Lame à bords aiguisés";
+
+translate "Jagged Blade"
+to french "Lame échancrée";
+
+translate "Twice Folded Blade"
+to french "Lame feuilletée";
+
+translate "Load Anvil from Template"
+to french "Utiliser un modèle";
+
+translate "Pendant of Eighteen"
+to french "Pendatif d'Eighteen";

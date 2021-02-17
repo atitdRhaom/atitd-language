@@ -1,0 +1,185 @@
+module greenhouse_fre;
+
+translate Greenhouse to french feminine
+{  ns "Serre"; np "Serres";}
+translate MediumGreenhouse to french feminine
+{  ns "Serre moyenne"; np "Serres moyennes";}
+
+translate LargeGreenhouse to french feminine
+{  ns "Grande Serre"; np "Grandes Serres";}
+
+translate "Medium Greenhouse"
+to french "Serre moyenne";
+translate "Large Greenhouse"
+to french "Grande serre";
+
+translate "To build a Medium Greenhouse, you need:"
+to french "Pour construire une serre moyenne, il vous faut:";
+
+translate "To build a Large Greenhouse, you need:"
+to french "Pour construire une grande serre, il vous faut:";
+
+translate NutsEssence to french feminine
+{  ns "Essence de noix"; np "Essences de noix";}
+
+translate MilkyRevealationSolvent to french masculine
+{  ns "Solvant révélateur (Milky)"; np "Solvants révélateurs (Milky)";}
+
+translate ClearRevealationSolvent to french masculine
+{ ns "Solvant révélateur (Clear)"; np "Solvants révélateurs (Clear)";}
+
+translate GlassRevealationSolvent to french masculine
+{ ns "Solvant révélateur (Glass)"; np "Solvants révélateurs (Glass)";}
+
+translate CrystalRevealationSolvent to french masculine
+{ ns "Solvant révélateur (Cristal)"; np "Solvants révélateurs (Cristal)";}
+
+translate DiamondRevealationSolvent to french masculine
+{ ns "Solvant révélateur (Diamant)"; np "Solvants révélateurs (Diamant)";}
+
+translate FlowerRenamer to french masculine
+{ ns "Rebaptiseur de fleur"; np "Rebaptiseurs de fleur";}
+
+translate RenenutetRevealationSolvent to french masculine
+{ ns "Solvant révélateur (Renenutet)"; np "Solvants révélateurs (Renenutet)";}
+
+translate MinuRevealationSolvent to french masculine
+{ ns "Solvant révélateur (Minu's)"; np "Solvants révélateurs (Minu's)";}
+
+translate OsirisRevealationSolvent to french masculine
+{ ns "Solvant révélateur (Osiris)"; np "Solvants révélateurs (Osiris)";}
+
+translate "Greenhouse"
+to french "Serre";
+translate "To build a Greenhouse, you need: "
+to french "Pour construire une serre, il vous faut : ";
+
+translate "This greenhouse is growing O1"
+to french "Cette serre fait pousser de l'O1(ns)";
+
+translate "Grow some grass"
+to french "Faire pousser de l'herbe";
+
+translate "You need 10 tufts of grass to seed the greenhouse."
+to french "Il vous faut dix touffes d'herbe pour ensemencer la serre.";
+
+translate "Harvest grass"
+to french "Couper l'herbe";
+
+translate "You harvested N1 grass from your greenhouse."
+to french "Vous avez récolté N1 touffes d'herbe dans votre serre.";
+
+translate "No grass has grown yet."
+to french "L'herbe n'a pas encore poussé.";
+
+translate "Are you sure you want to turn under all plants?"
+to french "Voulez-vous vraiment retourner toutes les plantes ?";
+
+translate "Set the right splint type"
+to french "Sélectionner la souche de droite";
+
+translate "Set the left splint type"
+to french "Sélectionner la souche de gauche";
+
+translate "A cross is already in progress."
+to french "Une greffe est déjà en cours.";
+
+translate "You need one O1."
+to french "Il vous faut un O1(ns).";
+translate "You need one K1."
+to french "Il vous faut un K1.";
+translate "You need N1 O1 K1."
+to french "Il vous faut N1 O1(N1?np:ns) K1.";
+translate "You need N1 K1."
+to french "Il vous faut N1 K1.";
+translate "You need N1 O1: K1."
+to french "Il vous faut N1 O1(N1?np:ns): K1.";
+
+translate "The left splint is already saturated with K1. Scrape away these seed and replace with K2?"
+to french "Le greffon de gauche est déjà saturé de K1. Enlevez ces graines et remplacez-les par K2?";
+
+translate "The right splint is already saturated with K1. Scrape away these seed and replace with K2?"
+to french "Le greffon de hauche est déjà saturé de K1. Enlevez ces graines et remplacez-les par K2?";
+
+translate "How many grains of O1 will you attempt? (Max 1000)"
+to french "Quelle quantité de O1(ns) allez-vous tenter de produire ? (Max 1000)";
+translate "How many grains of K1 will you attempt? (Max 1000)"
+to french "Quelle quantité de K1 allez-vous tenter de produire ? (Max 1000)";
+
+translate "Initiate the crossbreed"
+to french "Lancer la nouvelle variété";
+
+translate "This is not active in dev sessions."
+to french "Inactif en session de développement.";
+
+translate "You must crossbreed two different strains."
+to french "Vous devez greffer deux variétés différentes.";
+
+translate "Both splints must contain the same basic type of plant or seed."
+to french "Les deux souches doivent être de la même sorte de fleur ou de graine.";
+
+translate "You need a drop of Nut's Essence to initiate the crossbreed."
+to french "Il vous faut une goutte d'essence de noix pour permettre la greffe.";
+
+translate "The results of your crossbreed will be available in 15 minutes."
+to french "Le résultat de votre greffe sera connu dans 15 minutes.";
+
+translate "The crossbreed failed. Increasing the number of grains in the left and right splints will improve the chance of a successful cross."
+to french "La greffe a échoué. Augmenter la quantité de grains dans les emplacements droit et gauche aura pour effet d'accroître la probabilité de succés du croisement.";
+
+translate "Your hybrid, known as U1#N1 is ready."
+to french "Votre hybride, baptisé U1(name)#N1, est prêt.";
+
+translate "The results of your mutation will be available in about a minute."
+to french "Les résultats de votre mutation seront disponibles dans une minute.";
+
+translate "Gardening"
+to french "Jardinage";
+
+//translate "Greenhouse"
+//to french "Serre";
+
+translate "Turn under all plants"
+to french "Retourner toutes les plantes";
+
+translate "Crossbreeding"
+to french "Greffes";
+
+translate "What should this batch of K1 be known as?"
+to french "Quel nom voulez-vous donner à cette variété de K1 ?";
+
+translate "New Strain"
+to french "Nouvelle variété";
+
+translate "The name K1 is already taken."
+to french "Le nom K1 est déjà pris.";
+
+translate "Name (register) a strain of O1"
+to french "Nommer (inventorier) une variété de O1(ns)";
+
+translate "Your hybrids, known as K1 and K2 are ready."
+to french "Vos hybrides K1 et K2 sont prêts.";
+
+translate "What should this K1 be known as?"
+to french "Comment voulez-vous renommer cette K1 ?";
+
+translate "Crossbreeding"
+to french "Greffes";
+
+translate "Initiate a Molecular Balance procedure"
+to french "Démarrez une procédure de balance moléculaire";
+
+translate "Use revelation solvent"
+to french "Utilisez un solvant de révélation";
+
+translate "To initiate a Molecular Balance procedure you must prime the splints with:"
+to french "afin d'amorcer une procédure de balance moléculaire, vous devez amorcer les attelles avec:";
+
+
+translate "The solvent separates into colored bands:"
+to french "Le solvant sépare en bandes de couleurs:";
+
+translate "Rename this Flower"
+to french "Renommer cette fleur";
+
+

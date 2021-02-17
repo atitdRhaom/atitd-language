@@ -1,0 +1,325 @@
+module builders_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+
+translate BlueBanner to german neutercollective
+{
+  swa "Blaues Banner";
+  sn "Blaue Banner"; sg "Blauen Banners"; sd "Blauen Banner"; sa "Blaue Banner";
+  pn "Blauen Banner"; pg "Blauen Banner"; pd "Blauen Bannern"; pa "Blauen Banner";
+}
+
+translate GreenBanner to german neutercollective
+{
+  swa "Grünes Banner";
+  sn "Grüne Banner"; sg "Grünen Banners"; sd "Grünen Banner"; sa "Grüne Banner";
+  pn "Grünen Banner"; pg "Grünen Banner"; pd "Grünen Bannern"; pa "Grünen Banner";
+}
+
+translate OrangeBanner to german neutercollective
+{
+  swa "Orangenes Banner";
+  sn "Orangene Banner"; sg "Orangenen Banners"; sd "Orangenen Banner"; sa "Orangene Banner";
+  pn "Orangenen Banner"; pg "Orangenen Banner"; pd "Orangenen Bannern"; pa "Orangenen Banner";
+}
+
+translate PurpleBanner to german neutercollective
+{
+  swa "Lilanes Banner";
+  sn "Lilane Banner"; sg "Lilanen Banners"; sd "Lilanen Banner"; sa "Lilane Banner";
+  pn "Lilanen Banner"; pg "Lilanen Banner"; pd "Lilanen Bannern"; pa "Lilanen Banner";
+}
+
+translate BlackBanner to german neutercollective
+{
+  swa "Schwarzes Banner";
+  sn "Schwarze Banner"; sg "Schwarzen Banners"; sd "Schwarzen Banner"; sa "Schwarze Banner";
+  pn "Schwarzen Banner"; pg "Schwarzen Banner"; pd "Schwarzen Bannern"; pa "Schwarzen Banner";
+}
+
+translate WhiteBanner to german neutercollective
+{
+  swa "Weißes Banner";
+  sn "Weiße Banner"; sg "Weißen Banners"; sd "Weißen Banner"; sa "Weiße Banner";
+  pn "Weißen Banner"; pg "Weißen Banner"; pd "Weißen Bannern"; pa "Weißen Banner";
+}
+
+translate HeavyStone to german masculine
+{
+  swa "Schwerer Stein";
+  sn "Schwere Stein"; sg "Schweren Steines"; sd "Schweren Stein"; sa "Schweren Stein";
+  pn "Schweren Steine"; pg "Schweren Steine"; pd "Schweren Steinen"; pa "Schweren Steine";
+}
+translate Bench to german feminine
+{
+  swa "Sitzbank";
+  sn "Sitzbank"; sg "Sitzbank"; sd "Sitzbank"; sa "Sitzbank";
+  pn "Sitzbänke"; pg "Sitzbänke"; pd "Sitzbänken"; pa "Sitzbänken";
+}
+
+translate "Paint Reseed"
+to german "Paint Reseed";
+
+translate "Conjure 100 Builder Money"
+to german "Erschaffe 100 Buildergeld";
+
+translate "Enter Builder Mode"
+to german "Wechsle zum Buildermodus";
+
+translate "Exit Builder Mode"
+to german "Verlasse Buildermodus";
+
+translate "Populous"
+to german "Öffentlichkeit";
+
+translate "Trees"
+to german "Bäume";
+
+translate "University"
+to german "Universität";
+
+translate "School"
+to german "Schule";
+
+translate "Road Signs"
+to german "Strassenschilder";
+
+translate "Major Signs"
+to german "Hauptschilder";
+
+translate "Sign to O1"
+to german "Schild zur O1(sn)";
+
+translate "Other"
+to german "Anderes";
+
+translate "Define and Select Red Sand"
+to german "Definiere und wähle Roten Sand";
+
+translate "Warp to Builder Island"
+to german "Warpe zur Builderinsel";
+
+translate "Return to Egypt"
+to german "Kehre nach Ägypten zurück";
+
+translate "Rip this out!"
+to german "Reiße dies heraus!";
+
+translate "Recalculate walkability for Egypt"
+to german "Rekalkuliere die Begehbarkeit für Ägypten";
+
+translate "Walk"
+to german "Gehe";
+translate "Warp"
+to german "Warpe";
+translate "PAINTSURFACE"
+to german "Bilde Oberfläche";
+translate "RAISELAND"
+to german "Hebe Land";
+translate "LOWERLAND"
+to german "Senke Land";
+translate "SMOOTH"
+to german "Glätten";
+translate "SMOOTHROADS"
+to german "Glätte Straßen";
+translate "PLATEAU"
+to german "Plateau";
+translate "EYEDROPPER"
+to german "Eyedropper";
+translate "SURFACEREPLACE"
+to german "Oberflächen-Austausch";
+translate "QUICKPLACER"
+to german "Schnell Setzen";
+translate "PAINTSLOPES"
+to german "Male Abhänge";
+translate "Softness"
+to german "Weichheit";
+translate "HardCircle"
+to german "Harter Kreis";
+translate "SoftCircle"
+to german "Weicher Kreis";
+translate "HardSquare"
+to german "Hartes Quadrat";
+translate "More Sand"
+to german "Mehr Sand";
+translate "Clay"
+to german "Ton";
+translate "More Clay"
+to german "Mehr Ton";
+translate "Rocks"
+to german "Steine";
+translate "More Rocks"
+to german "Mehr Steine";
+translate "Pebbles"
+to german "Kiesel";
+translate "More Pebbles"
+to german "Mehr Kiesel";
+translate "Dirt"
+to german "Schmutz";
+translate "More Dirt"
+to german "Mehr Schmutz";
+translate "Mud"
+to german "Matsch";
+translate "Grass"
+to german "Gras";
+translate "Tiled Path"
+to german "Pfad gekachelt 1";
+translate "Bumpy Path"
+to german "unebener Pfad 1";
+translate "More Bumpy Path"
+to german "unebener Pfad 2";
+translate "More Tiled Path"
+to german "Pfad gekachelt 2";
+translate "Marble"
+to german "Marmor 2";
+translate "More Marble"
+to german "Marmor 1";
+translate "Temporary"
+to german "Temporär";
+translate "Special"
+to german "Spezial";
+
+translate "Strength"
+to german "Stärke";
+translate "Elevation"
+to german "Höhe";
+translate "Tile Grid"
+to german "Gitternetz";
+translate "Hide"
+to german "Versteckt";
+translate "Show"
+to german "Angezeigt";
+
+translate "Enter Builder Mode"
+to german "Wechsel zum Buildermodus";
+
+translate "Are you sure you want to rip out the O1."
+to german "Bist du sicher, dass du O1(tsa) O1(sa) herausreißen willst?";
+
+translate "Select Texture"
+to german "Wähle Textur";
+
+translate "Illegal builder brush specified."
+to german "Illegale Builder-Pinsel spezifiziert.";
+
+translate "Page0"
+to german "Seite0";
+translate "Page1"
+to german "Seite1";
+translate "Page2"
+to german "Seite2";
+translate "Page3"
+to german "Seite3";
+translate "Page4"
+to german "Seite4";
+translate "Page5"
+to german "Seite5";
+translate "Close"
+to german "Schließe";
+
+translate "Illegal option to toggle"
+to german "Illegale Option zum umschalten";
+
+translate "You are out of Builder Money"
+to german "Verschwender! Du hast kein Buildergeld mehr";
+
+translate "Flag U1 as a builder"
+to german "Mache U1(name) zum Builder";
+
+translate "U1 is flagged as a builder."
+to german "U1(name) ist als Builder freigeschaltet.";
+
+translate "Unflag U1 as a builder"
+to german "Nimm U1(name) den Builder-Status";
+
+translate "U1 is back to normal."
+to german "U1(name) ist wieder normaler Spieler.";
+
+translate "Permanently remove this O1"
+to german "Entf. O1(tsa) O1(sa) dauerhaft";
+
+translate "Removing universities is usually not allowed, because they may have research."
+to german "Universitäten zu entfernen ist normalerweise nicht erlaubt, weil sie noch Forschungen haben könnten.";
+
+translate "Are you sure you want to remove the O1?"
+to german "Bist du sicher, dass du O1(dsa) O1(sa) entfernen willst?";
+
+translate "Did a total of N1 brushlands."
+to german "Totale 'brushlands': N1";
+
+translate "You cannot move. I have no idea why. Please report this bug to eGenesis."
+to german "Du kannst dich nicht bewegen, warum auch immer. Bitte melde diesen Bug einem Gamemaster.";
+
+translate "You are carrying too much weight."
+to german "Du trägst zuviel Last mit dir herum.";
+translate "You are carrying too much bulk."
+to german "Du trägst zu viel Volumen mit dir herum.";
+translate "You are carrying too much"
+to german "Du trägst zu viel mit dir herum.";
+translate "You cannot move in AFK-mode. Click on yourself."
+to german "Du kannst dich im AFK-Modus nicht bewegen. Klicke dich selbst an, um aufzustehen.";
+translate "You have been commanded to stand still."
+to german "Dir wurde aufgetragen, still stehen zu bleiben.";
+translate "You are on a vehicle."
+to german "Du bist auf einem Fahrzeug.";
+translate "You are smoking. Get up first."
+to german "Du rauchst, stehe zu erst auf.";
+translate "You are experiencing a force which you cannot understand.."
+to german "Du experimentierst mit einer Kraft, die du nicht verstehen kannst..";
+
+translate "The water is too deep."
+to german "Das Wasser ist zu tief.";
+
+translate "The terrain is too steep."
+to german "Das Gelände ist zu steil.";
+
+translate "The red line marks the edge of Pharaoh's lands."
+to german "Die rote Linie markiert die Kante von Pharao's Ländereien.";
+
+translate "You can't do that when you can't move."
+to german "Du kannst dies nicht tun, solange du dich nicht bewegen kannst.";
+
+translate "You can't go there."
+to german "Dorthin kannst du nicht gehen.";
+
+translate "You can't do that when you can't move."
+to german "Du kannst dies nicht tun, wenn du dich nicht bewegen kannst.";
+
+translate "Hint: You can send these messages to the Console window. Use Utility/Options: Interface"
+to german "Tipp: Diese Meldungen kannst du dir nur im Hauptchat anzeigen lassen. Klicke auf Optionen, Option: Interface";
+
+translate "Do you want to drop something?"
+to german "Willst du etwas fallen lassen?";
+
+translate "What do you want to drop?"
+to german "Was willst du fallen lassen?";
+
+translate "Drop how many O1?"
+to german "Wieviel O1(pn) fallen lassen?";
+
+translate "GM Reposition this O1"
+to german "GM Ausrichtung O1(sn)";
+
+translate "F1[hidden]"
+to german "F1[versteckt]";
+
+translate "Warp to Builder Island"
+to german "Teleportiere zur Builder Insel";
+
+translate "Return to Egypt"
+to german "Kehre nach Ägypten zurück";
+
+translate "Game Master"
+to german "Gamemaster";
+
+translate "Game Master Commands"
+to german "Gamemasterbefehle";
+
+translate "Internal Name: K1"
+to german "Codename: K1";

@@ -1,0 +1,92 @@
+module PeerReview_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment		           **
+//**                                                                       **
+//***************************************************************************
+
+translate "Fraud"
+to german "Fälschung";
+translate "Unrated"
+to german "Unbewertet";
+translate "Poor"
+to german "Armselig";
+translate "Fair"
+to german "Schön";
+translate "Good"
+to german "Gut";
+translate "Great"
+to german "Großartig";
+translate "Exceptional"
+to german "Außergewöhnlich";
+translate "Brilliant"
+to german "Brilliant";
+translate "Monumental"
+to german "Monumental";
+
+translate "You keep your Judgement as K1."
+to german "Deine Wertung bleibt bei K1.";
+
+translate "You change your Judgement from K1 to K2."
+to german "Du änderst deine Wertung von K1 auf K2.";
+
+translate "You record your Judgement as K1."
+to german "Du registrierst deine Bewertung mit K1.";
+
+translate "Check Statistics"
+to german "Prüfe Statistiken";
+
+translate "By order of the Thought Statistics Act, introduced by Valherji, the following was recorded by those attempting this O1:"
+to german "Per Gesetzgebung der Gedankenstatistik, eingeführt durch Valherji wurde von Spielern Folgendes für O1(tsn) O1(sn) notiert:";
+
+translate "Unique Players: x (Maximum of N1 tracked.)"
+to german "Einzelne Spieler: x (Maximum von N1 festgestellt.)";
+
+translate "Times Played: N1"
+to german "Spielhäufigkeit: N1";
+
+translate "Average Time of Play: K1"
+to german "Durchschnittsspielzeit: K1";
+
+translate "Times Solved: N1"
+to german "Gelöste Spiele: N1";
+
+translate "Average Time to Solve: K1"
+to german "Durchschnittszeit bis zur Lösung: K1";
+
+translate "Special Judging"
+to german "Spezialbewertung";
+
+translate "Vote "
+to german "Wahl ";
+
+translate "You judge the O1 K1."
+to german "Du wertest O1(tsn) O1(sn) als K1.";
+
+translate "Rate as a Fraud"
+to german "Bewerte dies als Fälschung";
+
+translate "Registering your vote."
+to german "Registriere deine Stimme.";
+
+translate "Meditate on Judgement Hints"
+to german "Meditiere über Bewertungstipps";
+
+//translate "\n    ",BT,": You tend to vote lower than other Judges."
+//to german "
+//translate "\n    ",BT,": You tend to vote higher than other Judges."
+//to german "
+//translate "\n    ",BT,": You are a good judge."
+//to german "" 
+
+translate "Judgement Hints:N1 You can have more influence by paying attention to these hints."
+to german "Bewertungstipps: N1 Du könntest weniger Verluste haben, wenn du diesen Tipps Beachtung schenkst.";
+
+translate "You were unable to glean any hints. Check again after the next series of advances."
+to german "Du warst nicht in der Lage, irgendwelche Tipps zu erhalten. Prüfe nochmals nach weiteren Fortschritten.";
+
+translate "Note: Principles of Reason requires that you Meditate on Judgement Hints *after* Test Advances have happened, usually once per week."
+to german "Beachte: die Prinzipien des Verstandes verlangen, dass du über Bewertungstipps meditierst, *nachdem* Testfortschritte stattfanden, üblicherweise einmal pro Woche.";

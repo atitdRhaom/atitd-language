@@ -1,0 +1,304 @@
+module acrobat_fre;
+
+translate acrobat to french feminine
+{
+ns "L'épreuve de l'Acrobate"; np "L'épreuve de l'Acrobate";
+}
+
+translate "Test of the Acrobat"
+to french "L'épreuve de l'Acrobate";
+
+translate "Start the O1"
+to french "Se lancer dans O1(ns)";
+
+translate "The Test of the Acrobat must be petitioned by one with Dexterity of at least Seven, even fleetingly."
+to french "L'épreuve de l'acrobate ne peut être demandée que par quelqu'un ayant au minimum sept points en dextérité, même si ce n'est que temporaire.";
+
+translate "Show Moves"
+to french "Montrer les mouvements";
+
+translate "Push-Ups"
+to french "Pompes(PU)";
+
+translate "Clapping Push-Ups"
+to french "Pompes frappées(CPU)";
+
+translate "Squats"
+to french "Flexions(SQ)";
+
+translate "Kick-Up"
+to french "Saut arrière(KU)";
+
+translate "Squat Thrust"
+to french "Accroupissement et saut(ST)";
+
+translate "Lunge"
+to french "Fente(LU)";
+
+translate "Side Bends"
+to french "Etirement des bras(SB)";
+
+translate "Front Tuck"
+to french "Saut périlleux Avant-Arrière(FT)";
+
+translate "Jumping Jacks"
+to french "Echauffements (JJ)";
+
+translate "Toe Touches"
+to french "Toucher des orteils(TT)";
+
+Translate "Crunches"
+to french "Abdominaux(CR)";
+
+translate "Cartwheels"
+to french "Roue(CW)";
+
+translate "Roundoff"
+to french "Roue sans les mains(RO)";
+
+translate "Run in Place"
+to french "Course sur place(RiP)";
+
+translate "Rear Squat"
+to french "Coups de pied arrière(RS)";
+
+translate "Handstand"
+to french "Marche sur les mains(HS)";
+
+Translate "jump split"
+to french "Saut jambes écartées(JS)";
+
+translate "Pinwheel"
+to french "Petits mouvements de bras";
+
+translate "Windmill"
+to french "Moulin à vent(WM)";
+
+translate "Handplant"
+to french "Equilibre sur une main(HP)";
+
+translate "Wide Squat"
+to french "Flexions jambes écartées(WS)";
+
+translate "Leg Stretch"
+to french "Flexion des jambes(LS)";
+
+translate "Broad Jump"
+to french "Grand saut(BJ)";
+
+translate "Inverted Pushups"
+to french "Pompes poirier(IP)";
+
+translate "Asian Influence"
+to french "Influence asiatique(AI)";
+
+translate "Greek Bridge"
+to french "Pont grec(GB)";
+
+translate "Cat Stretch"
+to french "Assouplissements poussés(CS)";
+
+translate "Somersault"
+to french "Roulade et Poirier(SS)";
+
+translate "Bicycle Kick"
+to french "Saut en pédalant(BK)";
+
+translate "Spin Flip"
+to french "Salto (SF)";
+
+translate "Can of Whoop-ass"
+to french "Dissuasion persuasive (CWA)";
+
+translate "Principles of the Acrobat will show you how to perform your acrobatic move, how to teach facets of that move to others, and how to learn facets of other moves."
+to french "Les principes de l'acrobate vont vous enseigner comment effectuer votre mouvement acrobatique, en enseigner des facettes à d'autres personnes, et comment apprendre des facettes d'autres mouvements.";
+
+translate "Practice your move"
+to french "Pratiquer votre mouvement";
+
+translate "Practice your move with another Acrobat"
+to french "Pratiquer votre mouvement avec un autre acrobate";
+
+translate "Watch another Acrobat practice"
+to french "Regarder un autre acrobate pendant sa pratique";
+translate "Learn a Facet from another Acrobat"
+to french "Apprendre une facette d'un autre acrobate";
+translate "Learn the 2nd facet of any move"
+to french "Apprendre la deuxième facette d'un mouvement quelconque";
+translate "Teach a Facet to another Acrobat"
+to french "Enseigner une facette à un autre acrobate";
+translate "Teach seven facets"
+to french "Enseigner sept facettes";
+
+translate "You have completed Principles of the Acrobat."
+to french "Vous avez terminé les principes de l'Acrobate.";
+
+translate "Get out of the water first."
+to french "Sortez d'abord de l'eau.";
+
+translate "Though you can demonstrate acrobatic moves here, to truly know a move a student must be in Egypt proper."
+to french "Malgré que vous puissiez démontrer votre savoir, vous devez être en égypte pour pouvoir enseigner un mouvement";
+
+translate "You perform your first Acrobatic move! You have just taken the first step toward mastering the Test of the Acrobat. Watch your progress on the Acrobat tab in the lower-left corner of the screen."
+to french "Vous effectuez votre premier mouvement d'acrobate! Vous venez de franchir le premier pas qui vous mènera vers la maîtrise de l'épreuve de l'acrobate. Suivez vos progrès d'acrobate dans l'onglet situé dans le coin inférieur gauche de votre écran.";
+
+translate "You pick up a new facet of: K1"
+to french "Vous avez appris un nouvel aspect du mouvement K1";
+
+translate "An impressive display, but the master and student need seclusion."
+to french "Une démonstration impressionnante, mais le maître et l'élève ont besoin de s'isoler.";
+
+translate "Your technique is impeccable, but you need solitude to teach N1."
+to french "Votre technique est impeccable, mais pour enseigner à N1 vous avez besoin d'être seul.";
+
+translate "This is a good area, but the people in the distance are a distraction  (N1 in range)"
+to french "L'endroit est bon, mais les observateurs vous distraient (N1 dans les parages)";
+
+translate "Impressive, but U1 has not started the Test of the Acrobat."
+to french "C'est impressionnant, mais U1(name) n'a pas commencé l'épreuve d'acrobatie.";
+
+translate "You're going too fast - your student can't keep up."
+to french "Vous allez trop vite, votre élève ne peut pas vous suivre.";
+
+translate "U1 is going too fast - you can't follow the action!"
+to french "U1(name) va trop vite, impossible de suivre ses mouvements !";
+
+translate "You are totally confused by the moves that U1 is showing you. You probably won't pick anything up."
+to french "Vous ne comprenez rien à ce que vous montre U1(name). Vous n'en retiendrez rien du tout.";
+
+translate "Although you don't pick anything up, U1 is your perfect teacher - a master. You soak in every nuance of what you see. You pick up nothing new, but should come back for other moves."
+to french "Vous n'avez rien appris, mais U1(name) est un enseignant parfait, un maître. Vous vous laissez imprégner de ce que vous voyez. Vous n'apprenez rien de nouveau, mais pensez à revenir plus tard pour apprendre d'autres mouvements.";
+
+translate "Although you don't pick anything up, U1 seems to be a pretty good teacher for you. You should return."
+to french "Même si vous n'avez rien appris, U1(name) semble être un bon professeur, pensez à lui rendre visite plus tard.";
+
+translate "Although you don't pick anything up, U1 seems to be a great teacher for you. Come back often."
+to french "Même si vous n'avez rien appris, U1(name) semble être un excellent professeur, pensez à lui rendre visite souvent.";
+
+translate "You are having trouble following what you are seeing. Learn from U1 as a last resort."
+to french "Vous avez du mal à suivre ce que vous voyez. N'abordez U1(name) qu'en dernier ressort.";
+
+translate "You follow a bit of what U1 is showing you, but it's mostly a blur. Find a better teacher."
+to french "Vous arrivez vaguement à suivre ce que vous montre U1(name). Trouvez un meilleur professeur.";
+
+translate "Your student follows your move, but doesn't pick up anything new."
+to french "Votre élève arrive à suivre vos mouvements mais n'apprend rien de nouveau.";
+
+translate "Although you don't pick up anything new, you do follow the move: K1."
+to french "Même si vous n'apprenez rien de nouveau, vous arrivez tout de même à suivre le mouvement : K1";
+
+translate "You pick up a new facet of the K1 move!"
+to french "Vous comprenez un nouvel aspect du mouvement K1 !";
+
+translate "You pick up a new facet of the move: K1"
+to french "Vous comprenez un nouvel aspect du mouvement : K1";
+
+translate "You were successful at teaching! You have taught a total of N1 facets."
+to french "Vous avez réussi à enseigner un total de N1 mouvements à vos élèves."; 
+
+translate "Your student doesn't follow your move."
+to french "Votre élève n'a pas suivi votre mouvement.";
+
+translate "Test of the Acrobat"
+to french "Épreuve de l'Acrobate";
+
+translate "known moves: (N1 facets taught)"
+to french "Mouvements connus : (N1 facettes enseignées)";
+
+translate "Partial Moves"
+to french "Mouvements partiellement appris";
+
+translate "Last Moves"
+to french "Derniers mouvements";
+
+translate "Partially learned K1 (N1 of 7)"
+to french "K1 (N1 sur 7)";
+
+translate "Show last 7 moves"
+to french "Voir les 7 derniers mouvements";
+
+translate "After careful instruction, you master:K1 Instruct students in total solitude - for best concentration, nobody else should be around."
+to french "Après des instructions minutieuses, vous maîtrisez enfin K1 : Enseignez à vos élèves dans la solitude, cela aide à la concentration. Personne d'autre ne soit se trouver autour de vous.";
+
+translate "After careful instruction, you master:"
+to french "Après des instructions minutieuses, vous maîtrisez :";
+translate "K1, K2, K3 and K4"
+to french "K1, K2, K3 et K4";
+
+translate "Instruct students in total solitude - for best concentration, nobody else should be around."
+to french "Enseignez à vos étudiants dans l'isolement complet - pour leur concentration, personne ne doit être dans les environs.";
+
+translate "Last 7 Moves"
+to french "7 Derniers mouvements";
+
+translate "Demonstrate Masterful Dexterity"
+to french "Faire une démonstration de sa dextérité";
+
+translate "Let it be known that K1 shall now be known as Pharaoh's Acrobat, with N1 facets taught."
+to french "Nous annonçons que K1 est désormais un Acrobate de Pharaoh, avec N1 facettes enseignées.";
+
+translate "U1 shall now be known as Pharaoh's Acrobat, with N1 facets taught."
+to french "U1(name) doit être reconnu en tant qu'Acrobate de Pharaon, avec N1 facettes enseignées.";
+
+translate "Pharaoh's Acrobat"
+to french "Acrobate de Pharaoh";
+
+translate "That's it! Practicing acrobatic moves in seclusion - teacher and student alone - is the key to advancing in the Test of the Acrobat."
+to french "C'est ça! Pratiquer les mouvements acrobatiques en retrait - le maître et l'élève seuls - est la clé pour avancer dans l'épreuve de l'Acrobate.";
+
+translate "Yes, studying the moves of other Acrobats is the key to success. As you watch other Acrobats, you'll find that you can learn more easily from some. Watch your Main window for hints."
+to french "Oui, l'apprentissage des mouvements de d'autres acrobates est la clé du succès. En observant d'autres acrobates, vous verrez qu'il est plus facile d'apprendre de certains d'entre eux. Surveillez votre fenêtre principale pour avoir des conseils.";
+
+translate "You've learned your first facet! When you learn all 7 Facets of a move, you'll be able to perform the move and teach it to others."
+to french "Vous avez appris votre première facette! Quand vous aurez appris les 7 facettes d'un mouvement, vous serez capable d'effectuer celui-ci, et l'enseigner aux autres.";
+
+translate "Your student is in fact a master of K1, and doesn't pick up anything new."
+to french "Votre élève maîtrise le mouvement K1, et n'apprend rien de nouveau.";
+
+translate "Aha! You've now learned a second facet of O1. By learning, you also help your instructor: The more facets an instructor teaches, the more quickly they can pick up new moves."
+to french "Aha! Vous venez juste d'apprendre la deuxième facette de O1(ns). En apprenant, vous aidez aussi votre instructeur: Plus de facettes l'instructeur enseigne, plus rapidement il peut apprendre de nouveaux mouvements.";
+
+translate "Aha! You've now learned a second facet of K1. By learning, you also help your instructor: The more facets an instructor teaches, the more quickly they can pick up new moves."
+to french "Aha! Vous venez juste d'apprendre la deuxième facette de K1. En apprenant, vous aidez aussi votre instructeur: Plus l'instructeur enseigne de facettes, plus rapidement il peut apprendre de nouveaux mouvements.";
+
+translate "You've just taught your first facet! Next, see if you can teach a total of seven facets. Hint: teaching one student many facets of the same move is hard. It's easier to teach one or two facets to several students."
+to french "Vous venez d'enseigner votre première facette! Maintenant, voyons si vous pouvez en enseigner un total de sept. Conseil: enseigner plusieurs facettes d'un mouvement à un même élève est difficile. Il est plus facile d'enseigner une ou deux facettes à plusieurs élèves.";
+
+translate "You've taught your seventh facet! When you have taught fourteen facets, you'll find that it's twice as easy to learn."
+to french "Vous avez enseigné votre septième facette! Quand vous en aurez enseigné quatorze, vous vous rendrez compte qi'il est deux fois plus facile d'apprendre.";
+
+translate "Your student doesn't seem to be paying attention."
+to french "Votre élève ne semble pas être attentif.";
+
+translate "Known Moves"
+to french "Mouvements connus";
+
+translate "Emote/Demonstrate Strength Mastery"
+to french "Gestuelles/Montrer votre maîtrise";
+
+translate "Acrobat: N1 facets learned, N2 facets taught, N3 moves started, N4 is the highest, N5 mastered."
+to french "Acrobate : N1 mouvements appris, N2 enseignés, N3 dont vous avez commencé l'apprentissage, N4 au plus, et N5 maîtrisés.";
+
+translate "Last moves"
+to french "Derniers mouvements";
+
+translate "Acrobatics"
+to french "Mouvements acrobatiques";
+
+translate "O1 facets taught"
+to french "O1(ns) facettes enseignée";
+
+translate "K1 facets taught"
+to french "K1 facettes enseignées";
+
+translate "N1 facets taught"
+to french "N1 facettes enseignées";
+
+translate "Ask to acro"
+to french "Demander s'entraîner à faire des acrobaties";
+
+
+
+
+
+

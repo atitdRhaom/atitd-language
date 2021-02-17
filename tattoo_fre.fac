@@ -1,0 +1,1222 @@
+module tattoo_fre;
+
+translate RitualTattoo to french feminine
+{
+ns "L'épreuve du Tatouage Rituel"; np "L'épreuve du Tatouage Rituel";
+}
+
+translate PigmentMortar to french masculine
+{
+ns "Mortier à pigments"; np "Mortiers à pigments";
+}
+
+translate "Perfectly complete one Pigment Mortar. If you complete four at once, you will earn your first Tattoo, but that is not required for Principles of the Ritual Tattoo."
+to french "Terminez un Mortier à Pigments. Si vous en fabriquez quatre à la fois, vous gagnerez même votre premier taouage, mais ce n'est pas requis dans le cadre de ces principes.";
+
+translate "Ask for Pigment Mortar Requirements (University of the Human Body)"
+to french "Demander les instructions pour fabriquer un mortier à pigments (Université du Corps Humain)";
+
+translate "Turn in four Pigment Mortars. At least one of them must be perfectly complete"
+to french "Rapportez quatre mortiers à pigments à l'Université. Au moins l'un d'entre eux doit être parfaitement terminé.";
+
+translate "Make a Pigment Mortar"
+to french "Fabriquer un mortier à pigment";
+
+translate "Pick up the Mortar"
+to french "Ramasser le mortier";
+
+translate "Place the Mortar on the ground"
+to french "Placer le mortier sur le sol";
+
+translate "Add a Fresh Herb to the Pigment Mortar"
+to french "Ajouter une herbe fraichement cueillie dans le mortier";
+
+translate "Add a Resin to the Pigment Mortar"
+to french "Ajouter de la résine dans le mortier";
+
+translate "Add Powdered Gems to the Pigment Mortar"
+to french "Ajouter de la poudre de gemme dans le mortier";
+
+translate "Turn in Mortar, perfectly matching any one Requirement"
+to french "Rapporter le mortier à l'Université, et valider au moins une instruction";
+
+translate "You have completed Principles of the Ritual Tattoo. By turning in a set of at least four mortars that match requirements, you will earn a tattoo. Complete seven Tattoos to pass the Test of the Ritual Tattoo."
+to french "Vous avez terminé les Principes du Tatouage Rituel. En rapportant un ensemble d'au moins 4 mortiers correspondant aux instructions, vous gagnerez un tatouage. Terminez 7 tatouages pour passer l'épreuve.";
+
+translate "You begin the Test of the Ritual Tattoo."
+to french "Vous vous lancez dans l'épreuve du Tatouage Rituel.";
+
+translate "Name of Pigment Mortar?"
+to french "Nom du mortier ?";
+
+translate "Add this herb to the Pigment Mortar"
+to french "Ajouter cette herbe au mortier";
+
+translate "The herb doesn't have that natural glow needed for a proper pigment."
+to french "L'herbe ne possède pas les propriétés naturelles nécessaires pour en faire un bon pigment.";
+
+translate "To build a Pigment Mortar, you need: "
+to french "Pour construire un mortier à pigments, il vous faut :";
+
+translate "Adding the herb..."
+to french "Ajout de l'herbe...";
+
+translate "This Pigment Mortar already contains herbs."
+to french "Ce mortier contient déjà de l'herbe.";
+
+translate "Inspect this O1"
+to french "Inspecter ce O1(ns)";
+
+translate "You add the herb."
+to french "Vous ajoutez l'herbe.";
+
+translate "Specially salvage this mortar and herb to Inventory"
+to french "Recycler ce mortier et les herbes qu'il contient";
+
+translate "Add Resin"
+to french "Ajouter de la résine";
+
+translate "How much O1 resin? All must be added at once."
+to french "Combien de résines O1(np) ? Toutes doivent être ajoutées en même temps.";
+
+translate "You don't have N1 O1 resin."
+to french "Vous n'avez pas N1 résines O1(no)";
+
+translate "Added N1 O1 resin. You must now add the correct powdered gem."
+to french "Vous avez ajouté N1 résines O1(np). Vous devez maintenant ajouter la bonne quantité de poudre de gemme.";
+
+translate "Near a School"
+to french "Proche d'une école";
+translate "Near a University"
+to french "Proche d'une université";
+translate "Near a Road"
+to french "Proche d'une route";
+translate "Near Sulfurous Water"
+to french "Proche de l'eau sulfurée";
+translate "Far from any Flora"
+to french "Loin de toute flore";
+translate "Near at least 2 Cacti"
+to french "Proche d'au moins 2 cactus";
+translate "On a Hilltop"
+to french "Sur une colline";
+translate "Near the base of a Cliff"
+to french "Proche de la base d'un mont";
+translate "Near a Large Stone"
+to french "Proche d'une grande pierre";
+translate "On a Peninsula or Bridge"
+to french "Sur une péninsulte ou un pont";
+translate "Near a Statue"
+to french "Proche d'une statue";
+translate "Near an Altar"
+to french "Proche d'un autel";
+translate "Near a Travel Facility"
+to french "Proche d'un moyen de transport";
+translate "Near a Papyrus Plant"
+to french "Proche d'une plante de papyrus";
+
+
+translate "No more than 100 feet above sea level"
+to french "Pas plus de 100 pieds au dessus du niveau de la mer";
+translate "Between N1 and N2 feet above sea level"
+to french "Entre N1 et N2 pieds au dessus du niveau de la mer";
+translate "At least 600 feet above sea level"
+to french "Au moins 600 pieds au dessus du niveau de la mer";
+
+translate "No more than 100 feet above sea level, Between N1 and N2 feet above sea level"
+to french "Pas plus de 100 pieds au dessus du niveau de la mer, entre N1 et N2 pieds au dessus du niveau de la mer";
+translate "No more than 100 feet above sea level, At least 600 feet above sea level"
+to french "Pas plus de 100 pieds au dessus du niveau de la mer, au moins 600 pieds au dessus du niveau de la mer";
+translate "No more than 100 feet above sea level, Near a School"
+to french "Pas plus de 100 pieds au dessus du niveau de la mer, à proximité d'une école";
+translate "No more than 100 feet above sea level, Near a University"
+to french "Pas plus de 100 pieds au dessus du niveau de la mer, à proximité d'une université";
+translate "No more than 100 feet above sea level, Near a Road"
+to french "Pas plus de 100 pieds au dessus du niveau de la mer, à proximité d'une route";
+translate "No more than 100 feet above sea level, Near Sulfurous Water"
+to french "Pas plus de 100 pieds au dessus du niveau de la mer, à proximité d'une source d'eau sulfurée";
+translate "No more than 100 feet above sea level, Far from any Flora"
+to french "Pas plus de 100 pieds au dessus du niveau de la mer, loin de toute végétation";
+translate "No more than 100 feet above sea level, Near at least 2 Cacti"
+to french "Pas plus de 100 pieds au dessus du niveau de la mer, à proximité d'au moins 2 cactus";
+translate "No more than 100 feet above sea level, On a Hilltop"
+to french "Pas plus de 100 pieds au dessus du niveau de la mer, en haut d'une colline";
+translate "No more than 100 feet above sea level, Near the base of a Cliff"
+to french "Pas plus de 100 pieds au dessus du niveau de la mer, à proximité de la base d'une falaise";
+translate "No more than 100 feet above sea level, Near a Large Stone"
+to french "Pas plus de 100 pieds au dessus du niveau de la mer, à proximité d'une grosse pierre";
+translate "No more than 100 feet above sea level, On a Peninsula or Bridge"
+to french "Pas plus de 100 pieds au dessus du niveau de la mer, sur une péninsule ou sur un pont";
+translate "No more than 100 feet above sea level, Near a Statue"
+to french "Pas plus de 100 pieds au dessus du niveau de la mer, à proximité d'une statue";
+translate "No more than 100 feet above sea level, Near an Altar"
+to french "Pas plus de 100 pieds au dessus du niveau de la mer, à proximité d'un autel";
+translate "No more than 100 feet above sea level, Near a Travel Facility"
+to french "Pas plus de 100 pieds au dessus du niveau de la mer, à proximité d'un moyen de transport";
+translate "No more than 100 feet above sea level, Near a Papyrus Plant"
+to french "Pas plus de 100 pieds au dessus du niveau de la mer, à proximité d'une pousse de papyrus";
+translate "No more than 100 feet above sea level, On Clay"
+to french "Pas plus de 100 pieds au dessus du niveau de la mer, sur de l'argile";
+translate "No more than 100 feet above sea level, On Dirt"
+to french "Pas plus de 100 pieds au dessus du niveau de la mer, sur du terreau";
+translate "No more than 100 feet above sea level, On Grass"
+to french "Pas plus de 100 pieds au dessus du niveau de la mer, sur de l'herbe";
+translate "No more than 100 feet above sea level, On Rock"
+to french "Pas plus de 100 pieds au dessus du niveau de la mer, sur de la pierre";
+translate "No more than 100 feet above sea level, On Sand"
+to french "Pas plus de 100 pieds au dessus du niveau de la mer, sur du sable";
+
+
+translate "Between N1 and N2 feet above sea level, No more than 100 feet above sea level"
+to french "Entre N1 et N2 pieds au dessus du niveau de la mer, pas plus de 100 pieds au dessus du niveau de la mer";
+translate "Between N1 and N2 feet above sea level, At least 600 feet above sea level"
+to french "Entre N1 et N2 pieds au dessus du niveau de la mer, au moins 600 pieds au dessus du niveau de la mer";
+translate "Between N1 and N2 feet above sea level, Near a School"
+to french "Entre N1 et N2 pieds au dessus du niveau de la mer, à proximité d'une école";
+translate "Between N1 and N2 feet above sea level, Near a University"
+to french "Entre N1 et N2 pieds au dessus du niveau de la mer, à proximité d'une université";
+translate "Between N1 and N2 feet above sea level, Near a Road"
+to french "Entre N1 et N2 pieds au dessus du niveau de la mer, à proximité d'une route";
+translate "Between N1 and N2 feet above sea level, Near Sulfurous Water"
+to french "Entre N1 et N2 pieds au dessus du niveau de la mer, à proximité d'une source d'eau sulfurée";
+translate "Between N1 and N2 feet above sea level, Far from any Flora"
+to french "Entre N1 et N2 pieds au dessus du niveau de la mer, loin de toute végétation";
+translate "Between N1 and N2 feet above sea level, Near at least 2 Cacti"
+to french "Entre N1 et N2 pieds au dessus du niveau de la mer, à proximité d'au moins 2 cactus";
+translate "Between N1 and N2 feet above sea level, On a Hilltop"
+to french "Entre N1 et N2 pieds au dessus du niveau de la mer, en haut d'une colline";
+translate "Between N1 and N2 feet above sea level, Near the base of a Cliff"
+to french "Entre N1 et N2 pieds au dessus du niveau de la mer, à proximité de la base d'une falaise";
+translate "Between N1 and N2 feet above sea level, Near a Large Stone"
+to french "Entre N1 et N2 pieds au dessus du niveau de la mer, à proximité d'une grosse pierre";
+translate "Between N1 and N2 feet above sea level, On a Peninsula or Bridge"
+to french "Entre N1 et N2 pieds au dessus du niveau de la mer, sur une péninsule ou sur un pont";
+translate "Between N1 and N2 feet above sea level, Near a Statue"
+to french "Entre N1 et N2 pieds au dessus du niveau de la mer, à proximité d'une statue";
+translate "Between N1 and N2 feet above sea level, Near an Altar"
+to french "Entre N1 et N2 pieds au dessus du niveau de la mer, à proximité d'un autel";
+translate "Between N1 and N2 feet above sea level, Near a Travel Facility"
+to french "Entre N1 et N2 pieds au dessus du niveau de la mer, à proximité d'un moyen de transport";
+translate "Between N1 and N2 feet above sea level, Near a Papyrus Plant"
+to french "Entre N1 et N2 pieds au dessus du niveau de la mer, à proximité d'une pousse de papyrus";
+translate "Between N1 and N2 feet above sea level, On Clay"
+to french "Entre N1 et N2 pieds au dessus du niveau de la mer, sur de l'argile";
+translate "Between N1 and N2 feet above sea level, On Dirt"
+to french "Entre N1 et N2 pieds au dessus du niveau de la mer, sur du terreau";
+translate "Between N1 and N2 feet above sea level, On Grass"
+to french "Entre N1 et N2 pieds au dessus du niveau de la mer, sur de l'herbe";
+translate "Between N1 and N2 feet above sea level, On Rock"
+to french "Entre N1 et N2 pieds au dessus du niveau de la mer, sur de la pierre";
+translate "Between N1 and N2 feet above sea level, On Sand"
+to french "Entre N1 et N2 pieds au dessus du niveau de la mer, sur du sable";
+
+
+translate "At least 600 feet above sea level, No more than 100 feet above sea level"
+to french "Au moins 600 pieds au dessus du niveau de la mer, pas plus de 100 pieds au dessus du niveau de la mer";
+translate "At least 600 feet above sea level, Between N1 and N2 feet above sea level"
+to french "Au moins 600 pieds au dessus du niveau de la mer, entre N1 et N2 pieds au dessus du niveau de la mer";
+translate "At least 600 feet above sea level, Near a School"
+to french "Au moins 600 pieds au dessus du niveau de la mer, à proximité d'une école";
+translate "At least 600 feet above sea level, Near a University"
+to french "Au moins 600 pieds au dessus du niveau de la mer, à proximité d'une université";
+translate "At least 600 feet above sea level, Near a Road"
+to french "Au moins 600 pieds au dessus du niveau de la mer, à proximité d'une route";
+translate "At least 600 feet above sea level, Near Sulfurous Water"
+to french "Au moins 600 pieds au dessus du niveau de la mer, à proximité d'une source d'eau sulfurée";
+translate "At least 600 feet above sea level, Far from any Flora"
+to french "Au moins 600 pieds au dessus du niveau de la mer, loin de toute végétation";
+translate "At least 600 feet above sea level, Near at least 2 Cacti"
+to french "Au moins 600 pieds au dessus du niveau de la mer, à proximité d'au moins 2 cactus";
+translate "At least 600 feet above sea level, On a Hilltop"
+to french "Au moins 600 pieds au dessus du niveau de la mer, en haut d'une colline";
+translate "At least 600 feet above sea level, Near the base of a Cliff"
+to french "Au moins 600 pieds au dessus du niveau de la mer, à proximité de la base d'une falaise";
+translate "At least 600 feet above sea level, Near a Large Stone"
+to french "Au moins 600 pieds au dessus du niveau de la mer, à proximité d'une grosse pierre";
+translate "At least 600 feet above sea level, On a Peninsula or Bridge"
+to french "Au moins 600 pieds au dessus du niveau de la mer, sur une péninsule ou sur un pont";
+translate "At least 600 feet above sea level, Near a Statue"
+to french "Au moins 600 pieds au dessus du niveau de la mer, à proximité d'une statue";
+translate "At least 600 feet above sea level, Near an Altar"
+to french "Au moins 600 pieds au dessus du niveau de la mer, à proximité d'un autel";
+translate "At least 600 feet above sea level, Near a Travel Facility"
+to french "Au moins 600 pieds au dessus du niveau de la mer, à proximité d'un moyen de transport";
+translate "At least 600 feet above sea level, Near a Papyrus Plant"
+to french "Au moins 600 pieds au dessus du niveau de la mer, à proximité d'une pousse de papyrus";
+translate "At least 600 feet above sea level, On Clay"
+to french "Au moins 600 pieds au dessus du niveau de la mer, sur de l'argile";
+translate "At least 600 feet above sea level, On Dirt"
+to french "Au moins 600 pieds au dessus du niveau de la mer, sur du terreau";
+translate "At least 600 feet above sea level, On Grass"
+to french "Au moins 600 pieds au dessus du niveau de la mer, sur de l'herbe";
+translate "At least 600 feet above sea level, On Rock"
+to french "Au moins 600 pieds au dessus du niveau de la mer, sur de la pierre";
+translate "At least 600 feet above sea level, On Sand"
+to french "Au moins 600 pieds au dessus du niveau de la mer, sur du sable";
+
+
+translate "Near a School, No more than 100 feet above sea level"
+to french "À proximité d'une école, pas plus de 100 pieds au dessus du niveau de la mer";
+translate "Near a School, Between N1 and N2 feet above sea level"
+to french "À proximité d'une école, entre N1 et N2 pieds au dessus du niveau de la mer";
+translate "Near a School, At least 600 feet above sea level"
+to french "À proximité d'une école, au moins 600 pieds au dessus du niveau de la mer";
+translate "Near a School, Near a University"
+to french "À proximité d'une école, à proximité d'une université";
+translate "Near a School, Near a Road"
+to french "À proximité d'une école, à proximité d'une route";
+translate "Near a School, Near Sulfurous Water"
+to french "À proximité d'une école, à proximité d'une source d'eau sulfurée";
+translate "Near a School, Far from any Flora"
+to french "À proximité d'une école, loin de toute végétation";
+translate "Near a School, Near at least 2 Cacti"
+to french "À proximité d'une école, à proximité d'au moins 2 cactus";
+translate "Near a School, On a Hilltop"
+to french "À proximité d'une école, en haut d'une colline";
+translate "Near a School, Near the base of a Cliff"
+to french "À proximité d'une école, à proximité de la base d'une falaise";
+translate "Near a School, Near a Large Stone"
+to french "À proximité d'une école, à proximité d'une grosse pierre";
+translate "Near a School, On a Peninsula or Bridge"
+to french "À proximité d'une école, sur une péninsule ou sur un pont";
+translate "Near a School, Near a Statue"
+to french "À proximité d'une école, à proximité d'une statue";
+translate "Near a School, Near an Altar"
+to french "À proximité d'une école, à proximité d'un autel";
+translate "Near a School, Near a Travel Facility"
+to french "À proximité d'une école, à proximité d'un moyen de transport";
+translate "Near a School, Near a Papyrus Plant"
+to french "À proximité d'une école, à proximité d'une pousse de papyrus";
+translate "Near a School, On Clay"
+to french "À proximité d'une école, sur de l'argile";
+translate "Near a School, On Dirt"
+to french "À proximité d'une école, sur du terreau";
+translate "Near a School, On Grass"
+to french "À proximité d'une école, sur de l'herbe";
+translate "Near a School, On Rock"
+to french "À proximité d'une école, sur de la pierre";
+translate "Near a School, On Sand"
+to french "À proximité d'une école, sur du sable";
+
+
+translate "Near a University, No more than 100 feet above sea level"
+to french "À proximité d'une université, pas plus de 100 pieds au dessus du niveau de la mer";
+translate "Near a University, Between N1 and N2 feet above sea level"
+to french "À proximité d'une université, entre N1 et N2 pieds au dessus du niveau de la mer";
+translate "Near a University, At least 600 feet above sea level"
+to french "À proximité d'une université, au moins 600 pieds au dessus du niveau de la mer";
+translate "Near a University, Near a School"
+to french "À proximité d'une université, à proximité d'une école";
+translate "Near a University, Near a Road"
+to french "À proximité d'une université, à proximité d'une route";
+translate "Near a University, Near Sulfurous Water"
+to french "À proximité d'une université, à proximité d'une source d'eau sulfurée";
+translate "Near a University, Far from any Flora"
+to french "À proximité d'une université, loin de toute végétation";
+translate "Near a University, Near at least 2 Cacti"
+to french "À proximité d'une université, à proximité d'au moins 2 cactus";
+translate "Near a University, On a Hilltop"
+to french "À proximité d'une université, en haut d'une colline";
+translate "Near a University, Near the base of a Cliff"
+to french "À proximité d'une université, à proximité de la base d'une falaise";
+translate "Near a University, Near a Large Stone"
+to french "À proximité d'une université, à proximité d'une grosse pierre";
+translate "Near a University, On a Peninsula or Bridge"
+to french "À proximité d'une université, sur une péninsule ou sur un pont";
+translate "Near a University, Near a Statue"
+to french "À proximité d'une université, à proximité d'une statue";
+translate "Near a University, Near an Altar"
+to french "À proximité d'une université, à proximité d'un autel";
+translate "Near a University, Near a Travel Facility"
+to french "À proximité d'une université, à proximité d'un moyen de transport";
+translate "Near a University, Near a Papyrus Plant"
+to french "À proximité d'une université, à proximité d'une pousse de papyrus";
+translate "Near a University, On Clay"
+to french "À proximité d'une université, sur de l'argile";
+translate "Near a University, On Dirt"
+to french "À proximité d'une université, sur du terreau";
+translate "Near a University, On Grass"
+to french "À proximité d'une université, sur de l'herbe";
+translate "Near a University, On Rock"
+to french "À proximité d'une université, sur de la pierre";
+translate "Near a University, On Sand"
+to french "À proximité d'une université, sur du sable";
+
+
+translate "Near a Road, No more than 100 feet above sea level"
+to french "À proximité d'une route, pas plus de 100 pieds au dessus du niveau de la mer";
+translate "Near a Road, Between N1 and N2 feet above sea level"
+to french "À proximité d'une route, entre N1 et N2 pieds au dessus du niveau de la mer";
+translate "Near a Road, At least 600 feet above sea level"
+to french "À proximité d'une route, au moins 600 pieds au dessus du niveau de la mer";
+translate "Near a Road, Near a School"
+to french "À proximité d'une route, à proximité d'une école";
+translate "Near a Road, Near a University"
+to french "À proximité d'une route, à proximité d'une université";
+translate "Near a Road, Near Sulfurous Water"
+to french "À proximité d'une route, à proximité d'une source d'eau sulfurée";
+translate "Near a Road, Far from any Flora"
+to french "À proximité d'une route, loin de toute végétation";
+translate "Near a Road, Near at least 2 Cacti"
+to french "À proximité d'une route, à proximité d'au moins 2 cactus";
+translate "Near a Road, On a Hilltop"
+to french "À proximité d'une route, en haut d'une colline";
+translate "Near a Road, Near the base of a Cliff"
+to french "À proximité d'une route, à proximité de la base d'une falaise";
+translate "Near a Road, Near a Large Stone"
+to french "À proximité d'une route, à proximité d'une grosse pierre";
+translate "Near a Road, On a Peninsula or Bridge"
+to french "À proximité d'une route, sur une péninsule ou sur un pont";
+translate "Near a Road, Near a Statue"
+to french "À proximité d'une route, à proximité d'une statue";
+translate "Near a Road, Near an Altar"
+to french "À proximité d'une route, à proximité d'un autel";
+translate "Near a Road, Near a Travel Facility"
+to french "À proximité d'une route, à proximité d'un moyen de transport";
+translate "Near a Road, Near a Papyrus Plant"
+to french "À proximité d'une route, à proximité d'une pousse de papyrus";
+translate "Near a Road, On Clay"
+to french "À proximité d'une route, sur de l'argile";
+translate "Near a Road, On Dirt"
+to french "À proximité d'une route, sur du terreau";
+translate "Near a Road, On Grass"
+to french "À proximité d'une route, sur de l'herbe";
+translate "Near a Road, On Rock"
+to french "À proximité d'une route, sur de la pierre";
+translate "Near a Road, On Sand"
+to french "À proximité d'une route, sur du sable";
+
+
+translate "Near Sulfurous Water, No more than 100 feet above sea level"
+to french "À proximité d'une source d'eau sulfurée, pas plus de 100 pieds au dessus du niveau de la mer";
+translate "Near Sulfurous Water, Between N1 and N2 feet above sea level"
+to french "À proximité d'une source d'eau sulfurée, entre N1 et N2 pieds au dessus du niveau de la mer";
+translate "Near Sulfurous Water, At least 600 feet above sea level"
+to french "À proximité d'une source d'eau sulfurée, au moins 600 pieds au dessus du niveau de la mer";
+translate "Near Sulfurous Water, Near a School"
+to french "À proximité d'une source d'eau sulfurée, à proximité d'une école";
+translate "Near Sulfurous Water, Near a University"
+to french "À proximité d'une source d'eau sulfurée, à proximité d'une université";
+translate "Near Sulfurous Water, Near a Road"
+to french "À proximité d'une source d'eau sulfurée, à proximité d'une route";
+translate "Near Sulfurous Water, Far from any Flora"
+to french "À proximité d'une source d'eau sulfurée, loin de toute végétation";
+translate "Near Sulfurous Water, Near at least 2 Cacti"
+to french "À proximité d'une source d'eau sulfurée, à proximité d'au moins 2 cactus";
+translate "Near Sulfurous Water, On a Hilltop"
+to french "À proximité d'une source d'eau sulfurée, en haut d'une colline";
+translate "Near Sulfurous Water, Near the base of a Cliff"
+to french "À proximité d'une source d'eau sulfurée, à proximité de la base d'une falaise";
+translate "Near Sulfurous Water, Near a Large Stone"
+to french "À proximité d'une source d'eau sulfurée, à proximité d'une grosse pierre";
+translate "Near Sulfurous Water, On a Peninsula or Bridge"
+to french "À proximité d'une source d'eau sulfurée, sur une péninsule ou sur un pont";
+translate "Near Sulfurous Water, Near a Statue"
+to french "À proximité d'une source d'eau sulfurée, à proximité d'une statue";
+translate "Near Sulfurous Water, Near an Altar"
+to french "À proximité d'une source d'eau sulfurée, à proximité d'un autel";
+translate "Near Sulfurous Water, Near a Travel Facility"
+to french "À proximité d'une source d'eau sulfurée, à proximité d'un moyen de transport";
+translate "Near Sulfurous Water, Near a Papyrus Plant"
+to french "À proximité d'une source d'eau sulfurée, à proximité d'une pousse de papyrus";
+translate "Near Sulfurous Water, On Clay"
+to french "À proximité d'une source d'eau sulfurée, sur de l'argile";
+translate "Near Sulfurous Water, On Dirt"
+to french "À proximité d'une source d'eau sulfurée, sur du terreau";
+translate "Near Sulfurous Water, On Grass"
+to french "À proximité d'une source d'eau sulfurée, sur de l'herbe";
+translate "Near Sulfurous Water, On Rock"
+to french "À proximité d'une source d'eau sulfurée, sur de la pierre";
+translate "Near Sulfurous Water, On Sand"
+to french "À proximité d'une source d'eau sulfurée, sur du sable";
+
+
+translate "Far from any Flora, No more than 100 feet above sea level"
+to french "Loin de toute végétation, pas plus de 100 pieds au dessus du niveau de la mer";
+translate "Far from any Flora, Between N1 and N2 feet above sea level"
+to french "Loin de toute végétation, entre N1 et N2 pieds au dessus du niveau de la mer";
+translate "Far from any Flora, At least 600 feet above sea level"
+to french "Loin de toute végétation, au moins 600 pieds au dessus du niveau de la mer";
+translate "Far from any Flora, Near a School"
+to french "Loin de toute végétation, à proximité d'une école";
+translate "Far from any Flora, Near a University"
+to french "Loin de toute végétation, à proximité d'une université";
+translate "Far from any Flora, Near a Road"
+to french "Loin de toute végétation, à proximité d'une route";
+translate "Far from any Flora, Near Sulfurous Water"
+to french "Loin de toute végétation, à proximité d'une source d'eau sulfurée";
+translate "Far from any Flora, Near at least 2 Cacti"
+to french "Loin de toute végétation, à proximité d'au moins 2 cactus";
+translate "Far from any Flora, On a Hilltop"
+to french "Loin de toute végétation, en haut d'une colline";
+translate "Far from any Flora, Near the base of a Cliff"
+to french "Loin de toute végétation, à proximité de la base d'une falaise";
+translate "Far from any Flora, Near a Large Stone"
+to french "Loin de toute végétation, à proximité d'une grosse pierre";
+translate "Far from any Flora, On a Peninsula or Bridge"
+to french "Loin de toute végétation, sur une péninsule ou sur un pont";
+translate "Far from any Flora, Near a Statue"
+to french "Loin de toute végétation, à proximité d'une statue";
+translate "Far from any Flora, Near an Altar"
+to french "Loin de toute végétation, à proximité d'un autel";
+translate "Far from any Flora, Near a Travel Facility"
+to french "Loin de toute végétation, à proximité d'un moyen de transport";
+translate "Far from any Flora, Near a Papyrus Plant"
+to french "Loin de toute végétation, à proximité d'une pousse de papyrus";
+translate "Far from any Flora, On Clay"
+to french "Loin de toute végétation, sur de l'argile";
+translate "Far from any Flora, On Dirt"
+to french "Loin de toute végétation, sur du terreau";
+translate "Far from any Flora, On Grass"
+to french "Loin de toute végétation, sur de l'herbe";
+translate "Far from any Flora, On Rock"
+to french "Loin de toute végétation, sur de la pierre";
+translate "Far from any Flora, On Sand"
+to french "Loin de toute végétation, sur du sable";
+
+
+translate "Near at least 2 Cacti, No more than 100 feet above sea level"
+to french "À proximité d'au moins 2 cactus, pas plus de 100 pieds au dessus du niveau de la mer";
+translate "Near at least 2 Cacti, Between N1 and N2 feet above sea level"
+to french "À proximité d'au moins 2 cactus, entre N1 et N2 pieds au dessus du niveau de la mer";
+translate "Near at least 2 Cacti, At least 600 feet above sea level"
+to french "À proximité d'au moins 2 cactus, au moins 600 pieds au dessus du niveau de la mer";
+translate "Near at least 2 Cacti, Near a School"
+to french "À proximité d'au moins 2 cactus, à proximité d'une école";
+translate "Near at least 2 Cacti, Near a University"
+to french "À proximité d'au moins 2 cactus, à proximité d'une université";
+translate "Near at least 2 Cacti, Near a Road"
+to french "À proximité d'au moins 2 cactus, à proximité d'une route";
+translate "Near at least 2 Cacti, Near Sulfurous Water"
+to french "À proximité d'au moins 2 cactus, à proximité d'une source d'eau sulfurée";
+translate "Near at least 2 Cacti, Far from any Flora"
+to french "À proximité d'au moins 2 cactus, loin de toute végétation";
+translate "Near at least 2 Cacti, On a Hilltop"
+to french "À proximité d'au moins 2 cactus, en haut d'une colline";
+translate "Near at least 2 Cacti, Near the base of a Cliff"
+to french "À proximité d'au moins 2 cactus, à proximité de la base d'une falaise";
+translate "Near at least 2 Cacti, Near a Large Stone"
+to french "À proximité d'au moins 2 cactus, à proximité d'une grosse pierre";
+translate "Near at least 2 Cacti, On a Peninsula or Bridge"
+to french "À proximité d'au moins 2 cactus, sur une péninsule ou sur un pont";
+translate "Near at least 2 Cacti, Near a Statue"
+to french "À proximité d'au moins 2 cactus, à proximité d'une statue";
+translate "Near at least 2 Cacti, Near an Altar"
+to french "À proximité d'au moins 2 cactus, à proximité d'un autel";
+translate "Near at least 2 Cacti, Near a Travel Facility"
+to french "À proximité d'au moins 2 cactus, à proximité d'un moyen de transport";
+translate "Near at least 2 Cacti, Near a Papyrus Plant"
+to french "À proximité d'au moins 2 cactus, à proximité d'une pousse de papyrus";
+translate "Near at least 2 Cacti, On Clay"
+to french "À proximité d'au moins 2 cactus, sur de l'argile";
+translate "Near at least 2 Cacti, On Dirt"
+to french "À proximité d'au moins 2 cactus, sur du terreau";
+translate "Near at least 2 Cacti, On Grass"
+to french "À proximité d'au moins 2 cactus, sur de l'herbe";
+translate "Near at least 2 Cacti, On Rock"
+to french "À proximité d'au moins 2 cactus, sur de la pierre";
+translate "Near at least 2 Cacti, On Sand"
+to french "À proximité d'au moins 2 cactus, sur du sable";
+
+
+translate "On a Hilltop, No more than 100 feet above sea level"
+to french "En haut d'une colline, pas plus de 100 pieds au dessus du niveau de la mer";
+translate "On a Hilltop, Between N1 and N2 feet above sea level"
+to french "En haut d'une colline, entre N1 et N2 pieds au dessus du niveau de la mer";
+translate "On a Hilltop, At least 600 feet above sea level"
+to french "En haut d'une colline, au moins 600 pieds au dessus du niveau de la mer";
+translate "On a Hilltop, Near a School"
+to french "En haut d'une colline, à proximité d'une école";
+translate "On a Hilltop, Near a University"
+to french "En haut d'une colline, à proximité d'une université";
+translate "On a Hilltop, Near a Road"
+to french "En haut d'une colline, à proximité d'une route";
+translate "On a Hilltop, Near Sulfurous Water"
+to french "En haut d'une colline, à proximité d'une source d'eau sulfurée";
+translate "On a Hilltop, Far from any Flora"
+to french "En haut d'une colline, loin de toute végétation";
+translate "On a Hilltop, Near at least 2 Cacti"
+to french "En haut d'une colline, à proximité d'au moins 2 cactus";
+translate "On a Hilltop, Near the base of a Cliff"
+to french "En haut d'une colline, à proximité de la base d'une falaise";
+translate "On a Hilltop, Near a Large Stone"
+to french "En haut d'une colline, à proximité d'une grosse pierre";
+translate "On a Hilltop, On a Peninsula or Bridge"
+to french "En haut d'une colline, sur une péninsule ou sur un pont";
+translate "On a Hilltop, Near a Statue"
+to french "En haut d'une colline, à proximité d'une statue";
+translate "On a Hilltop, Near an Altar"
+to french "En haut d'une colline, à proximité d'un autel";
+translate "On a Hilltop, Near a Travel Facility"
+to french "En haut d'une colline, à proximité d'un moyen de transport";
+translate "On a Hilltop, Near a Papyrus Plant"
+to french "En haut d'une colline, à proximité d'une pousse de papyrus";
+translate "On a Hilltop, On Clay"
+to french "En haut d'une colline, sur de l'argile";
+translate "On a Hilltop, On Dirt"
+to french "En haut d'une colline, sur du terreau";
+translate "On a Hilltop, On Grass"
+to french "En haut d'une colline, sur de l'herbe";
+translate "On a Hilltop, On Rock"
+to french "En haut d'une colline, sur de la pierre";
+translate "On a Hilltop, On Sand"
+to french "En haut d'une colline, sur du sable";
+
+
+translate "Near the base of a Cliff, No more than 100 feet above sea level"
+to french "À proximité de la base d'une falaise, pas plus de 100 pieds au dessus du niveau de la mer";
+translate "Near the base of a Cliff, Between N1 and N2 feet above sea level"
+to french "À proximité de la base d'une falaise, entre N1 et N2 pieds au dessus du niveau de la mer";
+translate "Near the base of a Cliff, At least 600 feet above sea level"
+to french "À proximité de la base d'une falaise, au moins 600 pieds au dessus du niveau de la mer";
+translate "Near the base of a Cliff, Near a School"
+to french "À proximité de la base d'une falaise, à proximité d'une école";
+translate "Near the base of a Cliff, Near a University"
+to french "À proximité de la base d'une falaise, à proximité d'une université";
+translate "Near the base of a Cliff, Near a Road"
+to french "À proximité de la base d'une falaise, à proximité d'une route";
+translate "Near the base of a Cliff, Near Sulfurous Water"
+to french "À proximité de la base d'une falaise, à proximité d'une source d'eau sulfurée";
+translate "Near the base of a Cliff, Far from any Flora"
+to french "À proximité de la base d'une falaise, loin de toute végétation";
+translate "Near the base of a Cliff, Near at least 2 Cacti"
+to french "À proximité de la base d'une falaise, à proximité d'au moins 2 cactus";
+translate "Near the base of a Cliff, On a Hilltop"
+to french "À proximité de la base d'une falaise, en haut d'une colline";
+translate "Near the base of a Cliff, Near a Large Stone"
+to french "À proximité de la base d'une falaise, à proximité d'une grosse pierre";
+translate "Near the base of a Cliff, On a Peninsula or Bridge"
+to french "À proximité de la base d'une falaise, sur une péninsule ou sur un pont";
+translate "Near the base of a Cliff, Near a Statue"
+to french "À proximité de la base d'une falaise, à proximité d'une statue";
+translate "Near the base of a Cliff, Near an Altar"
+to french "À proximité de la base d'une falaise, à proximité d'un autel";
+translate "Near the base of a Cliff, Near a Travel Facility"
+to french "À proximité de la base d'une falaise, à proximité d'un moyen de transport";
+translate "Near the base of a Cliff, Near a Papyrus Plant"
+to french "À proximité de la base d'une falaise, à proximité d'une pousse de papyrus";
+translate "Near the base of a Cliff, On Clay"
+to french "À proximité de la base d'une falaise, sur de l'argile";
+translate "Near the base of a Cliff, On Dirt"
+to french "À proximité de la base d'une falaise, sur du terreau";
+translate "Near the base of a Cliff, On Grass"
+to french "À proximité de la base d'une falaise, sur de l'herbe";
+translate "Near the base of a Cliff, On Rock"
+to french "À proximité de la base d'une falaise, sur de la pierre";
+translate "Near the base of a Cliff, On Sand"
+to french "À proximité de la base d'une falaise, sur du sable";
+
+
+translate "Near a Large Stone, No more than 100 feet above sea level"
+to french "À proximité d'une grosse pierre, pas plus de 100 pieds au dessus du niveau de la mer";
+translate "Near a Large Stone, Between N1 and N2 feet above sea level"
+to french "À proximité d'une grosse pierre, entre N1 et N2 pieds au dessus du niveau de la mer";
+translate "Near a Large Stone, At least 600 feet above sea level"
+to french "À proximité d'une grosse pierre, au moins 600 pieds au dessus du niveau de la mer";
+translate "Near a Large Stone, Near a School"
+to french "À proximité d'une grosse pierre, à proximité d'une école";
+translate "Near a Large Stone, Near a University"
+to french "À proximité d'une grosse pierre, à proximité d'une université";
+translate "Near a Large Stone, Near a Road"
+to french "À proximité d'une grosse pierre, à proximité d'une route";
+translate "Near a Large Stone, Near Sulfurous Water"
+to french "À proximité d'une grosse pierre, à proximité d'une source d'eau sulfurée";
+translate "Near a Large Stone, Far from any Flora"
+to french "À proximité d'une grosse pierre, loin de toute végétation";
+translate "Near a Large Stone, Near at least 2 Cacti"
+to french "À proximité d'une grosse pierre, à proximité d'au moins 2 cactus";
+translate "Near a Large Stone, On a Hilltop"
+to french "À proximité d'une grosse pierre, en haut d'une colline";
+translate "Near a Large Stone, Near the base of a Cliff"
+to french "À proximité d'une grosse pierre, à proximité de la base d'une falaise";
+translate "Near a Large Stone, On a Peninsula or Bridge"
+to french "À proximité d'une grosse pierre, sur une péninsule ou sur un pont";
+translate "Near a Large Stone, Near a Statue"
+to french "À proximité d'une grosse pierre, à proximité d'une statue";
+translate "Near a Large Stone, Near an Altar"
+to french "À proximité d'une grosse pierre, à proximité d'un autel";
+translate "Near a Large Stone, Near a Travel Facility"
+to french "À proximité d'une grosse pierre, à proximité d'un moyen de transport";
+translate "Near a Large Stone, Near a Papyrus Plant"
+to french "À proximité d'une grosse pierre, à proximité d'une pousse de papyrus";
+translate "Near a Large Stone, On Clay"
+to french "À proximité d'une grosse pierre, sur de l'argile";
+translate "Near a Large Stone, On Dirt"
+to french "À proximité d'une grosse pierre, sur du terreau";
+translate "Near a Large Stone, On Grass"
+to french "À proximité d'une grosse pierre, sur de l'herbe";
+translate "Near a Large Stone, On Rock"
+to french "À proximité d'une grosse pierre, sur de la pierre";
+translate "Near a Large Stone, On Sand"
+to french "À proximité d'une grosse pierre, sur du sable";
+
+
+translate "On a Peninsula or Bridge, No more than 100 feet above sea level"
+to french "Sur une péninsule ou sur un pont, pas plus de 100 pieds au dessus du niveau de la mer";
+translate "On a Peninsula or Bridge, Between N1 and N2 feet above sea level"
+to french "Sur une péninsule ou sur un pont, entre N1 et N2 pieds au dessus du niveau de la mer";
+translate "On a Peninsula or Bridge, At least 600 feet above sea level"
+to french "Sur une péninsule ou sur un pont, au moins 600 pieds au dessus du niveau de la mer";
+translate "On a Peninsula or Bridge, Near a School"
+to french "Sur une péninsule ou sur un pont, à proximité d'une école";
+translate "On a Peninsula or Bridge, Near a University"
+to french "Sur une péninsule ou sur un pont, à proximité d'une université";
+translate "On a Peninsula or Bridge, Near a Road"
+to french "Sur une péninsule ou sur un pont, à proximité d'une route";
+translate "On a Peninsula or Bridge, Near Sulfurous Water"
+to french "Sur une péninsule ou sur un pont, à proximité d'une source d'eau sulfurée";
+translate "On a Peninsula or Bridge, Far from any Flora"
+to french "Sur une péninsule ou sur un pont, loin de toute végétation";
+translate "On a Peninsula or Bridge, Near at least 2 Cacti"
+to french "Sur une péninsule ou sur un pont, à proximité d'au moins 2 cactus";
+translate "On a Peninsula or Bridge, On a Hilltop"
+to french "Sur une péninsule ou sur un pont, en haut d'une colline";
+translate "On a Peninsula or Bridge, Near the base of a Cliff"
+to french "Sur une péninsule ou sur un pont, à proximité de la base d'une falaise";
+translate "On a Peninsula or Bridge, Near a Large Stone"
+to french "Sur une péninsule ou sur un pont, à proximité d'une grosse pierre";
+translate "On a Peninsula or Bridge, Near a Statue"
+to french "Sur une péninsule ou sur un pont, à proximité d'une statue";
+translate "On a Peninsula or Bridge, Near an Altar"
+to french "Sur une péninsule ou sur un pont, à proximité d'un autel";
+translate "On a Peninsula or Bridge, Near a Travel Facility"
+to french "Sur une péninsule ou sur un pont, à proximité d'un moyen de transport";
+translate "On a Peninsula or Bridge, Near a Papyrus Plant"
+to french "Sur une péninsule ou sur un pont, à proximité d'une pousse de papyrus";
+translate "On a Peninsula or Bridge, On Clay"
+to french "Sur une péninsule ou sur un pont, sur de l'argile";
+translate "On a Peninsula or Bridge, On Dirt"
+to french "Sur une péninsule ou sur un pont, sur du terreau";
+translate "On a Peninsula or Bridge, On Grass"
+to french "Sur une péninsule ou sur un pont, sur de l'herbe";
+translate "On a Peninsula or Bridge, On Rock"
+to french "Sur une péninsule ou sur un pont, sur de la pierre";
+translate "On a Peninsula or Bridge, On Sand"
+to french "Sur une péninsule ou sur un pont, sur du sable";
+
+
+translate "Near a Statue, No more than 100 feet above sea level"
+to french "À proximité d'une statue, pas plus de 100 pieds au dessus du niveau de la mer";
+translate "Near a Statue, Between N1 and N2 feet above sea level"
+to french "À proximité d'une statue, entre N1 et N2 pieds au dessus du niveau de la mer";
+translate "Near a Statue, At least 600 feet above sea level"
+to french "À proximité d'une statue, au moins 600 pieds au dessus du niveau de la mer";
+translate "Near a Statue, Near a School"
+to french "À proximité d'une statue, à proximité d'une école";
+translate "Near a Statue, Near a University"
+to french "À proximité d'une statue, à proximité d'une université";
+translate "Near a Statue, Near a Road"
+to french "À proximité d'une statue, à proximité d'une route";
+translate "Near a Statue, Near Sulfurous Water"
+to french "À proximité d'une statue, à proximité d'une source d'eau sulfurée";
+translate "Near a Statue, Far from any Flora"
+to french "À proximité d'une statue, loin de toute végétation";
+translate "Near a Statue, Near at least 2 Cacti"
+to french "À proximité d'une statue, à proximité d'au moins 2 cactus";
+translate "Near a Statue, On a Hilltop"
+to french "À proximité d'une statue, en haut d'une colline";
+translate "Near a Statue, Near the base of a Cliff"
+to french "À proximité d'une statue, à proximité de la base d'une falaise";
+translate "Near a Statue, Near a Large Stone"
+to french "À proximité d'une statue, à proximité d'une grosse pierre";
+translate "Near a Statue, On a Peninsula or Bridge"
+to french "À proximité d'une statue, sur une péninsule ou sur un pont";
+translate "Near a Statue, Near an Altar"
+to french "À proximité d'une statue, à proximité d'un autel";
+translate "Near a Statue, Near a Travel Facility"
+to french "À proximité d'une statue, à proximité d'un moyen de transport";
+translate "Near a Statue, Near a Papyrus Plant"
+to french "À proximité d'une statue, à proximité d'une pousse de papyrus";
+translate "Near a Statue, On Clay"
+to french "À proximité d'une statue, sur de l'argile";
+translate "Near a Statue, On Dirt"
+to french "À proximité d'une statue, sur du terreau";
+translate "Near a Statue, On Grass"
+to french "À proximité d'une statue, sur de l'herbe";
+translate "Near a Statue, On Rock"
+to french "À proximité d'une statue, sur de la pierre";
+translate "Near a Statue, On Sand"
+to french "À proximité d'une statue, sur du sable";
+
+
+translate "Near an Altar, No more than 100 feet above sea level"
+to french "À proximité d'un autel, pas plus de 100 pieds au dessus du niveau de la mer";
+translate "Near an Altar, Between N1 and N2 feet above sea level"
+to french "À proximité d'un autel, entre N1 et N2 pieds au dessus du niveau de la mer";
+translate "Near an Altar, At least 600 feet above sea level"
+to french "À proximité d'un autel, au moins 600 pieds au dessus du niveau de la mer";
+translate "Near an Altar, Near a School"
+to french "À proximité d'un autel, à proximité d'une école";
+translate "Near an Altar, Near a University"
+to french "À proximité d'un autel, à proximité d'une université";
+translate "Near an Altar, Near a Road"
+to french "À proximité d'un autel, à proximité d'une route";
+translate "Near an Altar, Near Sulfurous Water"
+to french "À proximité d'un autel, à proximité d'une source d'eau sulfurée";
+translate "Near an Altar, Far from any Flora"
+to french "À proximité d'un autel, loin de toute végétation";
+translate "Near an Altar, Near at least 2 Cacti"
+to french "À proximité d'un autel, à proximité d'au moins 2 cactus";
+translate "Near an Altar, On a Hilltop"
+to french "À proximité d'un autel, en haut d'une colline";
+translate "Near an Altar, Near the base of a Cliff"
+to french "À proximité d'un autel, à proximité de la base d'une falaise";
+translate "Near an Altar, Near a Large Stone"
+to french "À proximité d'un autel, à proximité d'une grosse pierre";
+translate "Near an Altar, On a Peninsula or Bridge"
+to french "À proximité d'un autel, sur une péninsule ou sur un pont";
+translate "Near an Altar, Near a Statue"
+to french "À proximité d'un autel, à proximité d'une statue";
+translate "Near an Altar, Near a Travel Facility"
+to french "À proximité d'un autel, à proximité d'un moyen de transport";
+translate "Near an Altar, Near a Papyrus Plant"
+to french "À proximité d'un autel, à proximité d'une pousse de papyrus";
+translate "Near an Altar, On Clay"
+to french "À proximité d'un autel, sur de l'argile";
+translate "Near an Altar, On Dirt"
+to french "À proximité d'un autel, sur du terreau";
+translate "Near an Altar, On Grass"
+to french "À proximité d'un autel, sur de l'herbe";
+translate "Near an Altar, On Rock"
+to french "À proximité d'un autel, sur de la pierre";
+translate "Near an Altar, On Sand"
+to french "À proximité d'un autel, sur du sable";
+
+
+translate "Near a Travel Facility, No more than 100 feet above sea level"
+to french "À proximité d'un moyen de transport, pas plus de 100 pieds au dessus du niveau de la mer";
+translate "Near a Travel Facility, Between N1 and N2 feet above sea level"
+to french "À proximité d'un moyen de transport, entre N1 et N2 pieds au dessus du niveau de la mer";
+translate "Near a Travel Facility, At least 600 feet above sea level"
+to french "À proximité d'un moyen de transport, au moins 600 pieds au dessus du niveau de la mer";
+translate "Near a Travel Facility, Near a School"
+to french "À proximité d'un moyen de transport, à proximité d'une école";
+translate "Near a Travel Facility, Near a University"
+to french "À proximité d'un moyen de transport, à proximité d'une université";
+translate "Near a Travel Facility, Near a Road"
+to french "À proximité d'un moyen de transport, à proximité d'une route";
+translate "Near a Travel Facility, Near Sulfurous Water"
+to french "À proximité d'un moyen de transport, à proximité d'une source d'eau sulfurée";
+translate "Near a Travel Facility, Far from any Flora"
+to french "À proximité d'un moyen de transport, loin de toute végétation";
+translate "Near a Travel Facility, Near at least 2 Cacti"
+to french "À proximité d'un moyen de transport, à proximité d'au moins 2 cactus";
+translate "Near a Travel Facility, On a Hilltop"
+to french "À proximité d'un moyen de transport, en haut d'une colline";
+translate "Near a Travel Facility, Near the base of a Cliff"
+to french "À proximité d'un moyen de transport, à proximité de la base d'une falaise";
+translate "Near a Travel Facility, Near a Large Stone"
+to french "À proximité d'un moyen de transport, à proximité d'une grosse pierre";
+translate "Near a Travel Facility, On a Peninsula or Bridge"
+to french "À proximité d'un moyen de transport, sur une péninsule ou sur un pont";
+translate "Near a Travel Facility, Near a Statue"
+to french "À proximité d'un moyen de transport, à proximité d'une statue";
+translate "Near a Travel Facility, Near an Altar"
+to french "À proximité d'un moyen de transport, à proximité d'un autel";
+translate "Near a Travel Facility, Near a Papyrus Plant"
+to french "À proximité d'un moyen de transport, à proximité d'une pousse de papyrus";
+translate "Near a Travel Facility, On Clay"
+to french "À proximité d'un moyen de transport, sur de l'argile";
+translate "Near a Travel Facility, On Dirt"
+to french "À proximité d'un moyen de transport, sur du terreau";
+translate "Near a Travel Facility, On Grass"
+to french "À proximité d'un moyen de transport, sur de l'herbe";
+translate "Near a Travel Facility, On Rock"
+to french "À proximité d'un moyen de transport, sur de la pierre";
+translate "Near a Travel Facility, On Sand"
+to french "À proximité d'un moyen de transport, sur du sable";
+
+
+translate "Near a Papyrus Plant, No more than 100 feet above sea level"
+to french "À proximité d'une pousse de papyrus, pas plus de 100 pieds au dessus du niveau de la mer";
+translate "Near a Papyrus Plant, Between N1 and N2 feet above sea level"
+to french "À proximité d'une pousse de papyrus, entre N1 et N2 pieds au dessus du niveau de la mer";
+translate "Near a Papyrus Plant, At least 600 feet above sea level"
+to french "À proximité d'une pousse de papyrus, au moins 600 pieds au dessus du niveau de la mer";
+translate "Near a Papyrus Plant, Near a School"
+to french "À proximité d'une pousse de papyrus, à proximité d'une école";
+translate "Near a Papyrus Plant, Near a University"
+to french "À proximité d'une pousse de papyrus, à proximité d'une université";
+translate "Near a Papyrus Plant, Near a Road"
+to french "À proximité d'une pousse de papyrus, à proximité d'une route";
+translate "Near a Papyrus Plant, Near Sulfurous Water"
+to french "À proximité d'une pousse de papyrus, à proximité d'une source d'eau sulfurée";
+translate "Near a Papyrus Plant, Far from any Flora"
+to french "À proximité d'une pousse de papyrus, loin de toute végétation";
+translate "Near a Papyrus Plant, Near at least 2 Cacti"
+to french "À proximité d'une pousse de papyrus, à proximité d'au moins 2 cactus";
+translate "Near a Papyrus Plant, On a Hilltop"
+to french "À proximité d'une pousse de papyrus, en haut d'une colline";
+translate "Near a Papyrus Plant, Near the base of a Cliff"
+to french "À proximité d'une pousse de papyrus, à proximité de la base d'une falaise";
+translate "Near a Papyrus Plant, Near a Large Stone"
+to french "À proximité d'une pousse de papyrus, à proximité d'une grosse pierre";
+translate "Near a Papyrus Plant, On a Peninsula or Bridge"
+to french "À proximité d'une pousse de papyrus, sur une péninsule ou sur un pont";
+translate "Near a Papyrus Plant, Near a Statue"
+to french "À proximité d'une pousse de papyrus, à proximité d'une statue";
+translate "Near a Papyrus Plant, Near an Altar"
+to french "À proximité d'une pousse de papyrus, à proximité d'un autel";
+translate "Near a Papyrus Plant, Near a Travel Facility"
+to french "À proximité d'une pousse de papyrus, à proximité d'un moyen de transport";
+translate "Near a Papyrus Plant, On Clay"
+to french "À proximité d'une pousse de papyrus, sur de l'argile";
+translate "Near a Papyrus Plant, On Dirt"
+to french "À proximité d'une pousse de papyrus, sur du terreau";
+translate "Near a Papyrus Plant, On Grass"
+to french "À proximité d'une pousse de papyrus, sur de l'herbe";
+translate "Near a Papyrus Plant, On Rock"
+to french "À proximité d'une pousse de papyrus, sur de la pierre";
+translate "Near a Papyrus Plant, On Sand"
+to french "À proximité d'une pousse de papyrus, sur du sable";
+
+
+translate "On Clay, No more than 100 feet above sea level"
+to french "Sur de l'argile, pas plus de 100 pieds au dessus du niveau de la mer";
+translate "On Clay, Between N1 and N2 feet above sea level"
+to french "Sur de l'argile, entre N1 et N2 pieds au dessus du niveau de la mer";
+translate "On Clay, At least 600 feet above sea level"
+to french "Sur de l'argile, au moins 600 pieds au dessus du niveau de la mer";
+translate "On Clay, Near a School"
+to french "Sur de l'argile, à proximité d'une école";
+translate "On Clay, Near a University"
+to french "Sur de l'argile, à proximité d'une université";
+translate "On Clay, Near a Road"
+to french "Sur de l'argile, à proximité d'une route";
+translate "On Clay, Near Sulfurous Water"
+to french "Sur de l'argile, à proximité d'une source d'eau sulfurée";
+translate "On Clay, Far from any Flora"
+to french "Sur de l'argile, loin de toute végétation";
+translate "On Clay, Near at least 2 Cacti"
+to french "Sur de l'argile, à proximité d'au moins 2 cactus";
+translate "On Clay, On a Hilltop"
+to french "Sur de l'argile, en haut d'une colline";
+translate "On Clay, Near the base of a Cliff"
+to french "Sur de l'argile, à proximité de la base d'une falaise";
+translate "On Clay, Near a Large Stone"
+to french "Sur de l'argile, à proximité d'une grosse pierre";
+translate "On Clay, On a Peninsula or Bridge"
+to french "Sur de l'argile, sur une péninsule ou sur un pont";
+translate "On Clay, Near a Statue"
+to french "Sur de l'argile, à proximité d'une statue";
+translate "On Clay, Near an Altar"
+to french "Sur de l'argile, à proximité d'un autel";
+translate "On Clay, Near a Travel Facility"
+to french "Sur de l'argile, à proximité d'un moyen de transport";
+translate "On Clay, Near a Papyrus Plant"
+to french "Sur de l'argile, à proximité d'une pousse de papyrus";
+translate "On Clay, On Dirt"
+to french "Sur de l'argile, sur du terreau";
+translate "On Clay, On Grass"
+to french "Sur de l'argile, sur de l'herbe";
+translate "On Clay, On Rock"
+to french "Sur de l'argile, sur de la pierre";
+translate "On Clay, On Sand"
+to french "Sur de l'argile, sur du sable";
+
+
+translate "On Dirt, No more than 100 feet above sea level"
+to french "Sur du terreau, pas plus de 100 pieds au dessus du niveau de la mer";
+translate "On Dirt, Between N1 and N2 feet above sea level"
+to french "Sur du terreau, entre N1 et N2 pieds au dessus du niveau de la mer";
+translate "On Dirt, At least 600 feet above sea level"
+to french "Sur du terreau, au moins 600 pieds au dessus du niveau de la mer";
+translate "On Dirt, Near a School"
+to french "Sur du terreau, à proximité d'une école";
+translate "On Dirt, Near a University"
+to french "Sur du terreau, à proximité d'une université";
+translate "On Dirt, Near a Road"
+to french "Sur du terreau, à proximité d'une route";
+translate "On Dirt, Near Sulfurous Water"
+to french "Sur du terreau, à proximité d'une source d'eau sulfurée";
+translate "On Dirt, Far from any Flora"
+to french "Sur du terreau, loin de toute végétation";
+translate "On Dirt, Near at least 2 Cacti"
+to french "Sur du terreau, à proximité d'au moins 2 cactus";
+translate "On Dirt, On a Hilltop"
+to french "Sur du terreau, en haut d'une colline";
+translate "On Dirt, Near the base of a Cliff"
+to french "Sur du terreau, à proximité de la base d'une falaise";
+translate "On Dirt, Near a Large Stone"
+to french "Sur du terreau, à proximité d'une grosse pierre";
+translate "On Dirt, On a Peninsula or Bridge"
+to french "Sur du terreau, sur une péninsule ou sur un pont";
+translate "On Dirt, Near a Statue"
+to french "Sur du terreau, à proximité d'une statue";
+translate "On Dirt, Near an Altar"
+to french "Sur du terreau, à proximité d'un autel";
+translate "On Dirt, Near a Travel Facility"
+to french "Sur du terreau, à proximité d'un moyen de transport";
+translate "On Dirt, Near a Papyrus Plant"
+to french "Sur du terreau, à proximité d'une pousse de papyrus";
+translate "On Dirt, On Clay"
+to french "Sur du terreau, sur de l'argile";
+translate "On Dirt, On Grass"
+to french "Sur du terreau, sur de l'herbe";
+translate "On Dirt, On Rock"
+to french "Sur du terreau, sur de la pierre";
+translate "On Dirt, On Sand"
+to french "Sur du terreau, sur du sable";
+
+
+translate "On Grass, No more than 100 feet above sea level"
+to french "Sur de l'herbe, pas plus de 100 pieds au dessus du niveau de la mer";
+translate "On Grass, Between N1 and N2 feet above sea level"
+to french "Sur de l'herbe, entre N1 et N2 pieds au dessus du niveau de la mer";
+translate "On Grass, At least 600 feet above sea level"
+to french "Sur de l'herbe, au moins 600 pieds au dessus du niveau de la mer";
+translate "On Grass, Near a School"
+to french "Sur de l'herbe, à proximité d'une école";
+translate "On Grass, Near a University"
+to french "Sur de l'herbe, à proximité d'une université";
+translate "On Grass, Near a Road"
+to french "Sur de l'herbe, à proximité d'une route";
+translate "On Grass, Near Sulfurous Water"
+to french "Sur de l'herbe, à proximité d'une source d'eau sulfurée";
+translate "On Grass, Far from any Flora"
+to french "Sur de l'herbe, loin de toute végétation";
+translate "On Grass, Near at least 2 Cacti"
+to french "Sur de l'herbe, à proximité d'au moins 2 cactus";
+translate "On Grass, On a Hilltop"
+to french "Sur de l'herbe, en haut d'une colline";
+translate "On Grass, Near the base of a Cliff"
+to french "Sur de l'herbe, à proximité de la base d'une falaise";
+translate "On Grass, Near a Large Stone"
+to french "Sur de l'herbe, à proximité d'une grosse pierre";
+translate "On Grass, On a Peninsula or Bridge"
+to french "Sur de l'herbe, sur une péninsule ou sur un pont";
+translate "On Grass, Near a Statue"
+to french "Sur de l'herbe, à proximité d'une statue";
+translate "On Grass, Near an Altar"
+to french "Sur de l'herbe, à proximité d'un autel";
+translate "On Grass, Near a Travel Facility"
+to french "Sur de l'herbe, à proximité d'un moyen de transport";
+translate "On Grass, Near a Papyrus Plant"
+to french "Sur de l'herbe, à proximité d'une pousse de papyrus";
+translate "On Grass, On Clay"
+to french "Sur de l'herbe, sur de l'argile";
+translate "On Grass, On Dirt"
+to french "Sur de l'herbe, sur du terreau";
+translate "On Grass, On Rock"
+to french "Sur de l'herbe, sur de la pierre";
+translate "On Grass, On Sand"
+to french "Sur de l'herbe, sur du sable";
+
+
+translate "On Rock, No more than 100 feet above sea level"
+to french "Sur de la pierre, pas plus de 100 pieds au dessus du niveau de la mer";
+translate "On Rock, Between N1 and N2 feet above sea level"
+to french "Sur de la pierre, entre N1 et N2 pieds au dessus du niveau de la mer";
+translate "On Rock, At least 600 feet above sea level"
+to french "Sur de la pierre, au moins 600 pieds au dessus du niveau de la mer";
+translate "On Rock, Near a School"
+to french "Sur de la pierre, à proximité d'une école";
+translate "On Rock, Near a University"
+to french "Sur de la pierre, à proximité d'une université";
+translate "On Rock, Near a Road"
+to french "Sur de la pierre, à proximité d'une route";
+translate "On Rock, Near Sulfurous Water"
+to french "Sur de la pierre, à proximité d'une source d'eau sulfurée";
+translate "On Rock, Far from any Flora"
+to french "Sur de la pierre, loin de toute végétation";
+translate "On Rock, Near at least 2 Cacti"
+to french "Sur de la pierre, à proximité d'au moins 2 cactus";
+translate "On Rock, On a Hilltop"
+to french "Sur de la pierre, en haut d'une colline";
+translate "On Rock, Near the base of a Cliff"
+to french "Sur de la pierre, à proximité de la base d'une falaise";
+translate "On Rock, Near a Large Stone"
+to french "Sur de la pierre, à proximité d'une grosse pierre";
+translate "On Rock, On a Peninsula or Bridge"
+to french "Sur de la pierre, sur une péninsule ou sur un pont";
+translate "On Rock, Near a Statue"
+to french "Sur de la pierre, à proximité d'une statue";
+translate "On Rock, Near an Altar"
+to french "Sur de la pierre, à proximité d'un autel";
+translate "On Rock, Near a Travel Facility"
+to french "Sur de la pierre, à proximité d'un moyen de transport";
+translate "On Rock, Near a Papyrus Plant"
+to french "Sur de la pierre, à proximité d'une pousse de papyrus";
+translate "On Rock, On Clay"
+to french "Sur de la pierre, sur de l'argile";
+translate "On Rock, On Dirt"
+to french "Sur de la pierre, sur du terreau";
+translate "On Rock, On Grass"
+to french "Sur de la pierre, sur de l'herbe";
+translate "On Rock, On Sand"
+to french "Sur de la pierre, sur du sable";
+
+
+translate "On Sand, No more than 100 feet above sea level"
+to french "Sur du sable, pas plus de 100 pieds au dessus du niveau de la mer";
+translate "On Sand, Between N1 and N2 feet above sea level"
+to french "Sur du sable, entre N1 et N2 pieds au dessus du niveau de la mer";
+translate "On Sand, At least 600 feet above sea level"
+to french "Sur du sable, au moins 600 pieds au dessus du niveau de la mer";
+translate "On Sand, Near a School"
+to french "Sur du sable, à proximité d'une école";
+translate "On Sand, Near a University"
+to french "Sur du sable, à proximité d'une université";
+translate "On Sand, Near a Road"
+to french "Sur du sable, à proximité d'une route";
+translate "On Sand, Near Sulfurous Water"
+to french "Sur du sable, à proximité d'une source d'eau sulfurée";
+translate "On Sand, Far from any Flora"
+to french "Sur du sable, loin de toute végétation";
+translate "On Sand, Near at least 2 Cacti"
+to french "Sur du sable, à proximité d'au moins 2 cactus";
+translate "On Sand, On a Hilltop"
+to french "Sur du sable, en haut d'une colline";
+translate "On Sand, Near the base of a Cliff"
+to french "Sur du sable, à proximité de la base d'une falaise";
+translate "On Sand, Near a Large Stone"
+to french "Sur du sable, à proximité d'une grosse pierre";
+translate "On Sand, On a Peninsula or Bridge"
+to french "Sur du sable, sur une péninsule ou sur un pont";
+translate "On Sand, Near a Statue"
+to french "Sur du sable, à proximité d'une statue";
+translate "On Sand, Near an Altar"
+to french "Sur du sable, à proximité d'un autel";
+translate "On Sand, Near a Travel Facility"
+to french "Sur du sable, à proximité d'un moyen de transport";
+translate "On Sand, Near a Papyrus Plant"
+to french "Sur du sable, à proximité d'une pousse de papyrus";
+translate "On Sand, On Clay"
+to french "Sur du sable, sur de l'argile";
+translate "On Sand, On Dirt"
+to french "Sur du sable, sur du terreau";
+translate "On Sand, On Grass"
+to french "Sur du sable, sur de l'herbe";
+translate "On Sand, On Rock"
+to french "Sur du sable, sur de la pierre";
+
+
+
+translate "No Barometer"
+to french "Aucun baromètre";
+
+translate "You add O1."
+to french "Vous ajoutez O1(dns) O1(ns)";
+
+translate "Show Pigment Mortar Requirements"
+to french "Afficher les instruction pour la fabrication d'un mortier à pigments";
+
+translate "Present at least N1 complete Mortars to Great University of the Human Body at Sterope N2 N3:"
+to french "Présentez au moins N1 mortiers complétés à la Grande Université du Corps Humain de Sterope N2 N3 : ";
+translate "Present at least N1 complete Mortars to Great University of the Human Body at Sinai N2 N3:"
+to french "Présentez au moins N1 mortiers complétés à la Grande Université du Corps Humain de Sinai N2 N3 : ";
+translate "Present at least N1 complete Mortars to Great University of the Human Body at Taygete N2 N3:"
+to french "Présentez au moins N1 mortiers complétés à la Grande Université du Corps Humain de Taygete N2 N3 : ";
+translate "Present at least N1 complete Mortars to Great University of the Human Body at Merope N2 N3:"
+to french "Présentez au moins N1 mortiers complétés à la Grande Université du Corps Humain de Merope N2 N3 : ";
+translate "Present at least N1 complete Mortars to Great University of the Human Body at Alcyone N2 N3:"
+to french "Présentez au moins N1 mortiers complétés à la Grande Université du Corps Humain de Alcyone N2 N3 : ";
+translate "Present at least N1 complete Mortars to Great University of the Human Body at Celaeno N2 N3:"
+to french "Présentez au moins N1 mortiers complétés à la Grande Université du Corps Humain de Celaeno N2 N3 : ";
+translate "Present at least N1 complete Mortars to Great University of the Human Body at Maia N2 N3:"
+to french "Présentez au moins N1 mortiers complétés à la Grande Université du Corps Humain de Maia N2 N3 : ";
+
+translate "O1 Mortar Option:"
+to french "O1(^ns) possibilité de mortier :";
+
+translate "Fresh O1, N1 O2 Resin, O3"
+to french "Herbe O1(ns) fraiche, N1 résines O2(np), O3(ns)";
+
+translate "Unknown Requirement; call a developer."
+to french "Instruction inconnue, appellez un développeur.";
+
+translate "Ask for a set of Pigment Mortar Requirements"
+to french "Demander les instructions pour la fabrication d'un mortier à pigments";
+
+translate "You have progressed as far as is possible."
+to french "Vous avez progressé aussi loin que possible.";
+
+translate "Discard your current Pigment Mortar Requirements and ask for a new set?"
+to french "Jeter vos instructions actuelles et en demander de nouvelles ?";
+
+translate "You have already requested a set of Pigment Mortar Requirements this month. Try a different University of the Human Body, or come back next month."
+to french "Vous avez déjà demander des instructions ce mois-ci. Essayez à une autre Université du Corps Humain, ou revenez le mois prochain.";
+
+translate "Turn in Pigment Mortars"
+to french "Présenter des mortiers à pigments";
+
+translate "You may not present more than N1 mortars for us to inspect."
+to french "Vous ne pouvez pas présenter plus de N1 mortiers.";
+
+translate "Checking your Pigment Mortars..."
+to french "Vérification de vos mortiers...";
+
+translate "You must complete at least K1 requirements. You have completed number: K2"
+to french "Vous devez au moins respecter K1 instructions. Vous en avez respecté : K2";
+
+translate "You must complete at least N1 requirements."
+to french "Vous devez au moins respecter N1 instructions.";
+translate "You have completed number: N1."
+to french "Vous en avez respecté N1";
+
+translate "You have completed number: None."
+to french "Vous en avez respecté aucun.";
+ 
+translate "You have cleverly completed N1 requirements, but have done so using just N2 mortars. That's not enough pigment to make a tattoo."
+to french "Vous avez intelligemment achevé N1 instructions, mais vous l'avez fait en utilisant seulement N2 mortiers. Ce n'est pas suffisant pour faire un tatouage.";
+
+translate "By completing N1 requirements, you have earned your N2 tattoo."
+to french "En achevant N1 instructions, vous avez gagné votre N2 tatouage.";
+
+translate "Try on a Temporary Tattoo"
+to french "Essayer un tatouage temporaire";
+
+translate "The tattoo will last at least an hour."
+to french "Le tatouage durera au moins une heure.";
+
+translate "Tattoos"
+to french "Tatouages";
+
+translate "Make my Temporary Tattoo Permanent"
+to french "Rendre mon tatouage permanent";
+
+translate "Really make the Tattoo permanent? If so, type TATTOO"
+to french "Voulez-vous vraiment rendre ce tatouage permanent ? Si telle est votre décision, tapez TATTOO";
+
+translate "Remove a Tattoo"
+to french "Retirer un tatouage";
+
+translate "Are you sure? The cost to remove a tattoo is 7 Huge Diamonds"
+to french "En êtes-vous certain ? Le coût pour retirer un tatouage est de 7 énormes diamants";
+
+translate "You don't have 7 Huge Diamonds."
+to french "Vous n'avez pas 7 énormes diamants.";
+
+translate "Rename this Mortar"
+to french "Renommer ce mortier";
+
+translate "Name of Mortar:"
+to french "Nom du mortier : ";
+
+translate "Pigment Mortar: K1"
+to french "Mortier à pigments : K1";
+
+translate "The mortar is empty."
+to french "Le mortier est vide.";
+
+translate "    Herb has been added by U1."
+to french "    Herbe ajoutée par U1(name).";
+
+translate "    N1 O1 resin has been added."
+to french "    N1 O1(N1?np:ns) résines ont été ajoutées.";
+
+translate "    O1 has been mixed at K1 N1 N2."
+to french "    O1(ns) réduite à K1 N1 N2.";
+
+translate "Accepted by the University of the Human Body at K1."
+to french "Accepté par l'Université du Corps Humain de K1.";
+
+translate "Show Tattoo Helper"
+to french "Afficher l'aide";
+translate "Tattoo Helper"
+to french "Aide Tatouage";
+
+translate "Clean out this mortar"
+to french "Vider ce mortier";
+
+translate "Really clean out the mortar named: K1?"
+to french "Voulez-vous vraiment vider le mortier nommé K1 ?";

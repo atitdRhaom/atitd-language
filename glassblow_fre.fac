@@ -1,0 +1,225 @@
+module glassblow_fre;
+
+translate TheArtOfThePipe to french feminine
+{
+  ns "L'art du Narghilé"; np "L'art du Narghilé";
+}
+
+translate GloryHole to french masculine
+{
+  ns "Four de réchaud"; np "Fours de réchaud";
+}
+
+translate WineGlass to french masculine
+{
+  ns "Coupe à vin"; np "Coupes à vin";
+}
+
+translate DistillationCoil to french masculine
+{
+  ns "Serpentin"; np "Serpentins";
+}
+
+translate HookahBowl to french masculine
+{
+  ns "Cuve de Narghilé"; np "Cuves de Narghilés";
+}
+
+translate hookah to french masculine
+{
+  ns "Narghilé"; np "Narghilés";
+}
+
+translate TestTube to french masculine
+{
+  ns "Tube à essai"; np "Tubes à essai";
+}
+
+translate Florence to french masculine
+{
+  ns "Ballon de Florence"; np "Ballons de Florence";
+}
+
+translate Beaker to french masculine
+{
+  ns "Flacon"; np "Flacons";
+}
+
+translate ThistleTube to french masculine
+{
+  ns "Tube à chardons"; np "Tubes à chardons";
+}
+
+translate Standard to french masculine
+{
+  ns "Standard"; np "Standard";
+}
+translate Pinpoint to french masculine
+{
+  ns "Précis"; np "Précis";
+}
+
+translate Gradual to french masculine
+{
+  ns "Graduel"; np "Graduel";
+}
+
+translate FrontHeavy to french masculine
+{
+  ns "Fort à l'avant"; np "Fort à l'avant";
+}
+
+translate BackHeavy to french masculine
+{
+  ns "Fort à l'arrière"; np "Fort à l'arrière";
+}
+
+
+translate "Advanced Glassblowing"
+to french "Soufflerie avancée";
+
+translate "Allows construction and use of Glory Holes"
+to french "Permet la construction de fours de réchaud.";
+
+translate "GloryHole"
+to french "Four de réchaud";
+
+translate "To build a Glory Hole, you need: "
+to french "Pour construire un four à réchaud, vous avez besoin de: ";
+
+translate "The piece shattered!"
+to french "L'objet a éclaté!";
+
+translate "Are you sure you want to discard it?"
+to french "Voulez-vous réellement le jeter?";
+
+translate "Tools"
+to french "Outils";
+
+translate "Unload Piece[key=U]"
+to french "Retirer la pièce[key=U]";
+
+translate "Unload Piece"
+to french "Retirer la pièce";
+
+translate "The K1 was not of acceptable quality. Try to reach a quality level of at least N1."
+to french "K1 n'était pas de bonne qualité. Essayez d'atteindre au moins une qualité de N1.";
+
+translate "You produced a quality O1 N1"
+to french "Vous avez fait O1(uns) O1(ns) de qualité N1";
+
+translate "You produced a O1 of acceptable quality."
+to french "Vous avez fait O1(uns) O1(ns) de qualité acceptable.";
+
+translate "Generate Distillation Coil"
+to french "Fabriquer un serpentin";
+
+translate "Rotate Left"
+to french "Tourner vers la gauche";
+
+translate "Rotate Right"
+to french "Tourner vers la droite";
+
+translate "Blow into tube"
+to french "Souffler dans le tube";
+
+translate "Let it cool"
+to french "Laisser refroidir";
+
+translate "Goal Display"
+to french "Montrer l'objectif";
+
+translate "Quality Check"
+to french "Contrôle de qualité";
+
+translate "Quality: N1"
+to french "Qualité: N1";
+
+translate "Hookah Bowl"
+to french "Cuve de narghilé";
+
+translate "Thermometer (Requires Quality 3500)"
+to french "Thermomètre (Qualité 3500 minimum)";
+
+translate "Barometric Sphere"
+to french "Sphère barométrique";
+
+translate "Distillation Coil"
+to french "Serpentin";
+
+translate "Chemistry"
+to french "Chimie";
+
+translate "Test Tube"
+to french "Tube à essai";
+
+translate "You need: "
+to french "Vous avez besoin de";
+
+translate "Push the blowpipe"
+to french "Pousser le tube";
+
+translate "Pull the blowpipe"
+to french "Tirer le tube";
+
+translate "Start Making"
+to french "Fabriquer";
+
+translate "Wine glass"
+to french "Coupe à vin";
+
+translate "Glory Hole"
+to french "Four à réchaud";
+
+translate "Heater Set To: Standard"
+to french "Contrôle de chaleur: standard";
+translate "Heater Set To: Pinpoint"
+to french "Contrôle de chaleur: précis";
+translate "Heater Set To: Gradual"
+to french "Contrôle de chaleur: graduel";
+translate "Heater Set To: Front Heavy"
+to french "Contrôle de chaleur: fort à l'avant";
+translate "Heater Set To: Back Heavy"
+to french "Contrôle de chaleur: fort à l'arrière";
+
+translate "Pinpoint"
+to french "précis";
+
+translate "Gradual"
+to french "graduel";
+
+translate "FrontHeavy"
+to french "fort à l'avant";
+
+translate "BackHeavy"
+to french "fort à l'arrière";
+
+translate "Jiggle the Tube"
+to french "Remuer le tube";
+
+translate "Florence Flask"
+to french "Ballon de Florence";
+
+translate "Beaker"
+to french "Flacon";
+
+translate "Thistle Tube"
+to french "Tube à chardons";
+
+translate "Heater Control"
+to french "contrôle de chaleur";
+
+translate "Set to "
+to french "régler sur ";
+
+translate "Set to O1"
+to french "Régler sur O1(ns)";
+
+translate "Heater Set To: O1"
+to french "Contrôle de chaleur: O1(ns)";
+
+translate "Heater is ON"
+to french "Four allumé";
+
+translate "Heater is OFF"
+to french "Four éteint";

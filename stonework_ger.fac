@@ -1,0 +1,361 @@
+Module stonework_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+
+
+translate Shovel to german feminine
+{
+  swa "Schaufel";
+  sn "Schaufel"; sg "Schaufel"; sd "Schaufel"; sa "Schaufel";
+  pn "Schaufel"; pg "Schaufel"; pd "Schaufel"; pa "Schaufel";
+}
+translate MasonsBench to german femininecollective
+{
+swa "Maurerbank";
+  sn "Maurerbank"; sg "Maurerbank"; sd "Maurerbank"; sa "Maurerbank";
+  pn "Maurerbänke"; pg "Maurerbänke"; pd "Maurerbänken"; pa "Maurerbänke";
+}
+translate Flystone to german femininecollective
+{
+swa "Steinscheibe";
+  sn "Steinscheibe"; sg "Steinscheibe"; sd "Steinscheibe"; sa "Steinscheibe";
+  pn "Steinscheiben"; pg "Steinscheiben"; pd "Steinscheiben"; pa "Steinscheiben";
+}
+translate Crucibles to german masculinecollective
+{
+swa "Tiegel";
+  sn "Tiegel"; sg "Tiegels"; sd "Tiegel"; sa "Tiegel";
+  pn "Tiegel"; pg "Tiegel"; pd "Tiegeln"; pa "Tiegel";
+}
+translate Flint to german masculinecollective
+{
+swa "Feuerstein";
+  sn "Feuerstein"; sg "Feuersteins"; sd "Feuerstein"; sa "Feuerstein";
+  pn "Feuersteine"; pg "Feuersteine"; pd "Feuersteinen"; pa "Feuersteine";
+}
+translate RockSaw to german femininecollective
+{
+  swa "Steinsäge";
+  sn "Steinsäge"; sg "Steinsäge"; sd "Steinsäge"; sa "Steinsäge";
+  pn "Steinsägen"; pg "Steinsägen"; pd "Steinsägen"; pa "Steinsägen";
+}
+translate NailMould to german femininecollective
+{
+swa "Nagelform";
+  sn "Nagelform"; sg "Nagelform"; sd "Nagelform"; sa "Nagelform";
+  pn "Nagelformen"; pg "Nagelformen"; pd "Nagelformen"; pa "Nagelformen";
+}
+
+translate CuttableStone to german masculinecollective
+{
+swa "Schneidbarer Stein";
+  sn "Schneidbarer Stein"; sg "Schneidbarer Stein"; sd "Schneidbarer Stein"; sa "Schneidbarer Stein";
+  pn "Schneidbare Steine"; pg "Schneidbare Steine"; pd "Schneidbaren Steinen"; pa "Schneidbare Steine";
+}
+
+translate CutStone to german masculinecollective
+{
+  swa "Geschnittener Stein";
+  sn "Geschnittener Stein"; sg "Geschnittener Stein"; sd "Geschnittener Stein"; sa "Geschnittener Stein";
+  pn "Geschnittene Steine"; pg "Geschnittene Steine"; pd "Geschnittenen Steine"; pa "Geschnittene Steine";
+}
+translate HoleInGround to german neuter
+{
+swa "Loch im Boden";
+  sn "Loch im Boden"; sg "Lochs im Boden"; sd "Loch im Boden"; sa "Loch im Boden";
+  pn "Löcher im Boden"; pg "Löcher im Boden"; pd "Löchern im Boden"; pa "Löcher im Boden";
+}
+translate AncientCoin to german femininecollective
+{
+  swa "alte Münze";
+  sn "alte Münze"; sg "alten Münze"; sd "alten Münze"; sa "alte Münze";
+  pn "alten Münzen"; pg "alten Münzen"; pd "alten Münzen"; pa "alten Münzen";
+}
+translate Gypsum to german masculinecollective
+{
+swa "Gips";
+  sn "Gips"; sg "Gipses"; sd "Gips"; sa "Gips";
+  pn "Gips"; pg "Gips"; pd "Gips"; pa "Gips";
+}
+translate Bauxite to german neutercollective
+{
+swa "Bauxit";
+  sn "Bauxit"; sg "Bauxits"; sd "Bauxit"; sa "Bauxit";
+  pn "Bauxit"; pg "Bauxit"; pd "Bauxit"; pa "Bauxit";
+}
+translate Pulley to german feminine
+{
+swa "Umlenkrolle";
+  sn "Umlenkrolle"; sg "Umlenkrolle"; sd "Umlenkrolle"; sa "Umlenkrolle";
+  pn "Umlenkrollen"; pg "Umlenkrollen"; pd "Umlenkrollen"; pa "Umlenkrollen";
+}
+translate "Stonework"
+to german "Steinarbeiten";
+
+translate "Build a Rock Saw"
+to german "Baue eine Steinsäge";
+
+translate "Build a Mason's Bench"
+to german "Baue eine Maurerbank";
+
+translate "Make a Cut Stone"
+to german "Stelle einen geschnittenen Stein her";
+
+translate "You don't have a Cuttable Stone."
+to german "Du hast keinen schneidbaren Stein.";
+
+translate "Dig a Hole"
+to german "Grabe ein Loch";
+
+translate "You cannot dig holes too close together."
+to german "Du kannst Löcher nicht so nahe beieinander graben.";
+
+translate "To dig a hole, you need: "
+to german "Um ein Loch zu graben brauchst Du: ";
+
+translate "Dig as a Programmer"
+to german "Grabe als Programmierer";
+
+translate "Dig Deeper"
+to german "Grabe tiefer [D]";
+
+translate "Digging..."
+to german "Grabe...";
+
+translate "To build a Rock Saw, you need: "
+to german "Um eine Steinsäge zu bauen benötigst Du: ";
+
+translate "Cut a Medium Stone into a pair of flystones"
+to german "Schneide einen mittleren Stein in 2 Steinscheiben";
+
+translate "You don't have a Medium Stone."
+to german "Du hast keinen mittleren Stein.";
+
+translate "Remove the flystones"
+to german "Die Steinscheiben entfernen";
+
+translate "To build a Mason's Bench, you need: "
+to german "Um eine Maurerbank zu bauen benötigst Du: ";
+translate "N1 O1"
+to german "N1 O1(N1?pa:sa)";
+
+translate "Cut a Medium Stone into a Crucible"
+to german "Schneide den mittleren Stein in einen Tiegel";
+
+translate "You don't have a medium stone!"
+to german "Du hast keinen mittleren Stein.";
+
+translate "Cutting a Crucible takes about ten minutes."
+to german "Den Tiegel zu schneiden benötigt 10 Minuten.";
+
+translate "Cut a Medium Stone into a nail mould"
+to german "Schneide den mittleren Stein in eine Nagelform";
+ 
+translate "Cutting a Nail Mould takes about seven minutes."
+to german "Die Nagelform zu schneiden benötigt 7 Minuten.";
+
+translate "Bless for special prizes"
+to german "Bete für besondere Preise";
+
+translate "Your shovel broke."
+to german "Deine Schaufel ist gebrochen.";
+
+translate "You need a shovel to dig."
+to german "Zum Graben brauchst Du eine Schaufel.";
+
+translate "Cut a Pulley from a Cuttable Stone"
+to german "Schneide eine Umlenkrolle aus einem schneidbaren Stein";
+
+translate "Cutting a Cut Stone takes about three minutes."
+to german "Das Herstellen eines geschnittenen Steines nimmt etwa 3 Minuten in Anspruch.";
+
+translate "You just unearthed a cuttable stone. These can be cut on rock saws, and used to build a Pathmaker."
+to german "Du hast eben einen schneidbaren Stein ausgegraben. Er kann mit einer Steinsäge bearbeitet werden, zB für den Bau eines Wegbereiters.";
+
+translate "Stones take about 3 minutes to cut. You can work on other things while the rocksaw works."
+to german "Steine benötigen etwa 3 Minuten zur Bearbeitung. Währenddessen kannst Du andere Dinge tun.";
+
+translate "Cutting a Pulley takes about ten minutes."
+to german "Die Herstellung einer Umlenkrolle nimmt etwa 10 Minuten in Anspruch.";
+
+translate "Cutting a pair of Flystones takes about five minutes."
+to german "Die Herstellung eines Paares Steinscheiben nimmt in etwa 5 Minuten in Anspruch.";
+
+
+translate Masonry to german neutercollective
+{
+  swa "Mauerwerk";
+  sn "Mauerwerk"; sg "Mauerwerks"; sd "Mauerwerk"; sa "Mauerwerk";
+  pn "Mauerwerke"; pg "Mauerwerke"; pd "Mauerwerken"; pa "Mauerwerke";
+}
+
+translate Bauxite to german neutercollective
+{
+  swa "Bauxit";
+  sn "Bauxit"; sg "Bauxits"; sd "Bauxit"; sa "Bauxit";
+  pn "Bauxit"; pg "Bauxit"; pd "Bauxit"; pa "Bauxit";
+}
+
+translate Gypsum to german masculinecollective
+{
+  swa "Gips";
+  sn "Gips"; sg "Gipses"; sd "Gips"; sa "Gips";
+  pn "Gips"; pg "Gips"; pd "Gips"; pa "Gips";
+}
+
+translate Clinker to german masculinecollective
+{
+  swa "Klinker";
+  sn "Klinker"; sg "Klinkers"; sd "Klinker"; sa "Klinker";
+  pn "Klinker"; pg "Klinker"; pd "Klinker"; pa "Klinker";
+}
+
+translate Cement to german masculinecollective
+{
+  swa "Zement";
+  sn "Zement"; sg "Zements"; sd "Zement"; sa "Zement";
+  pn "Zement"; pg "Zement"; pd "Zement"; pa "Zement";
+}
+
+translate Concrete to german masculine
+{
+  swa "Beton";
+  sn "Beton"; sg "Betons"; sd "Beton"; sa "Beton";
+  pn "Beton"; pg "Beton"; pd "Beton"; pa "Beton";  
+}
+
+translate ClinkerVat to german femininecollective
+{
+  swa "Klinkerwanne";
+  sn "Klinkerwanne"; sg "Klinkerwanne"; sd "Klinkerwanne"; sa "Klinkerwanne";
+  pn "Klinkerwannen"; pg "Klinkerwannen"; pd "Klinkerwannen"; pa "Klinkerwannen";
+}
+
+translate "Invention of Cement and Concrete"
+to german "Erfindung von Zement und Beton";
+
+translate "Masonry"
+to german "Mauerwerk";
+
+translate "With your new skill, you will be able to extract Clinker as a byproduct of all smelting."
+to german "Mit Deiner neuen Fähigkeit bist Du in der Lage, Klinker als Nebenprodukt aus allen Schmelzvorgängen zu erhalten.";
+
+translate "Upgrades to Distaffs, Flax Gins, and Brick Machines."
+to german "Verbessert Spinnräder, Flachsentkörner und Ziegelmaschinen.";
+
+translate "Read about Bauxite and Gypsum"
+to german "Lese etwas über Bauxit und Gips";
+
+translate "Our scientists suspect that Bauxite and Gypsum are common just under the surface in certain regions of Egypt, and totally absent in other parts. Depth of deposits should be comparable to that of cuttable stones."
+to german "Unsere Forscher mutmaßen, dass Bauxit und Gips in vielen Gebieten Ägyptens unter der Oberfläche zu finden sind, dafür in anderen Regionen aber völlig fehlen. Die Tiefe sollte ähnlich der Tiefe von schneidbaren Steinen sein.";
+
+translate "Projects"
+to german "Projekte";
+
+translate "Build a Heavy Clinker Vat"
+to german "Baue eine schwere Klinkerwanne";
+
+translate "Build a Clinker Vat"
+to german "Baue Klinkerwanne";
+
+translate "Charcoal-Fired"
+to german "Holzkohlebefeuert";
+
+translate "Coal-Fired"
+to german "Kohlebefeuert";
+
+translate "Petroleum-Fired"
+to german "Petroleumbefeuert";
+
+translate "To build a Clinker Vat, you need: "
+to german "Um eine Klinkerwanne zu bauen benötigst du: ";
+
+translate "Fixed Clinker Vat "
+to german "Befestigte Klinkerwanne";
+
+translate "Load the vat with O1"
+to german "Belade die Klinkerwanne mit O1(pd)";
+
+translate "Load how much O1? (Max N1)"
+to german "Wieviel O1(pd) laden? (Max N1)";
+
+translate "Fuel level is N1"
+to german "Der Tankfülllevel ist N1";
+
+translate "The fuel receptacle is full."
+to german "Der Brennstofftank ist voll.";
+
+translate "The vat already has the maximum amount of fuel."
+to german "Die Wanne hat bereits das Maximum des Brennstoffes.";
+
+translate "How much fuel? (max N1)"
+to german "Wieviel Brennstoff? (Max N1)";
+
+translate "You don't have N1 O1"
+to german "Du hast O1(kpn) O1(pn) N1 O1(N1?pn:sn)";
+
+translate "Pour water into the vat"
+to german "Fülle Wasser in die Wanne";
+
+translate "The vat already has the maximum amount of water."
+to german "Die Wanne hat bereits das Maximum des Wassers.";
+
+translate "How much water? (max N1)"
+to german "Wieviel Wasser? /Max N1)";
+
+translate "You don't have N1 water."
+to german "Du kannst keine N1 Wasser.";
+
+translate "Break apart the hardened mass with a sledgehammer"
+to german "Breche die gehärtete Masse mit einem Holzhammer heraus";
+
+translate "You don't have a sledgehammer."
+to german "Du hast keinen Vorschlaghammer.";
+
+translate "Breaking up a hardened mass from a clinker vat is exhausting work, and with your endurance will tire you for K1. Proceed?"
+to german "Die gehärtete Masse aus einer Klinkerwanne herauszubrechen ist harte Arbeit. Du wirst für K1 ermüden. Fortfahren?";
+
+translate "It must be stirred within N1"
+to german "Innerhalb der nächsten N1 rühren";
+
+translate "Stir the cement"
+to german "Mische den Zement";
+
+translate "You stir the cement to prevent it from hardening into the vat. The Cement is N1% complete"
+to german "Du mischt den Zement, um ein Aushärten in der Wanne zu verhindern. Der Zement ist zu N1% fertig.";
+
+translate "Make a batch of Cement"
+to german "Mache eine Ladung Zement";
+
+translate "Remove all the cement before starting a new batch."
+to german "Entferne allen Zement bevor du eine neue Ladung herstellst.";
+
+translate "To start a batch of cement, load the vat with:"
+to german "Um Zement herzustellen belade die Wanne mit: ";
+
+translate "The vat must contain 500 water to start."
+to german "Die Wanne muss 500 Wasser enthalten um zu beginnen.";
+
+translate "You must load the vat with N1 O1 to begin."
+to german "Du musst die Wanne mit N1 O1(N1?pn:sn) befüllen um zu beginnen.";
+
+translate "You will have to stir the huge every N1 minutes over the next hour. At first, you must stir once, but as time goes on you must stir more vigorously, requiring multiple people."
+to german "Du musst in der nächsten Stunde die Masse alle N1 Minuten durchmischen. Zuerst muss man alles einmal durchmischen, aber später noch energischer, was mehrere Leute erfordert.";
+
+translate "The last batch hardened in the vat! You must break it apart with a sledgehammer to make a new batch."
+to german "Die letzte Ladung ist in der Wanne gehärtet! Du musst sie mit einem Vorschlaghammer entfernen bevor du eine neue Ladung herstellen kannst.";
+
+translate "Make a batch of Concrete"
+to german "Mache eine Ladung Beton";
+
+translate "To make a batch of concrete requires:"
+to german "Um eine Ladung Beton herzustellen benötigst du:";
+
+translate "The water level must be at least 100"
+to german "Der Wasserstand muss mindestens 100 betragen.";

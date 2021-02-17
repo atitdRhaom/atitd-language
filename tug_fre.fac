@@ -1,0 +1,134 @@
+module tug_fre;
+
+translate trybegintug to french feminine
+{ ns "Bases de la Télépathie"; np "Bases de la Télépathie"; }
+translate TugDesk to french feminine
+{
+  ns "Table de télépathie"; np "Tables de télépathie";
+}
+
+translate "Learn how to play Telepathy"
+to french "Apprendre à jouer à Télépathie";
+
+translate "Read \"How do I play Telepathy?\" at a Telepathy Desk"
+to french "Lire \"Comment jouer à Télépathie ? \" sur une table de Télépathie";
+
+translate "Pick an Opponent and start a game of Telepathy"
+to french "Choisir un adversaire et démarrer une partie de Télépathie";
+ 
+translate "Make any bid"
+to french "Faire une enchère";
+
+translate "Move the cart towards your end of the board"
+to french "Déplacer les cartes vers le bout du plateau";
+
+translate "Finish a game of Telepathy"
+to french "Terminer une partie de Télépathie";
+
+translate "Allow All Ranks"
+to french "Autoriser tous les niveaux";
+
+translate "Allow 0-64"
+to french "Autoriser 0-64";
+
+translate "Allow 65-129"
+to french "Autoriser 65-129";
+
+translate "Allow 130+"
+to french "Autoriser 130+";
+
+translate "Set DoingTestOfTelepathy"
+to french "Préparer l'épreuve de télépathie";
+
+translate "Reset this Tug court"
+to french "Réinitialiser la cout de traction";
+
+translate "Ranks N1 through N2 may play on this table."
+to french "Les niveaux N1 à N2 peuvent jouer sur cette table.";
+
+translate "Your Telepathy rank is N1 of 256"
+to french "Votre niveau en télépathie est de N1 sur 256";
+
+translate "Play Tug"
+to french "Jouer aux tractions";
+
+translate "Play Tug against U1(name)"
+to french "Jouer aux tractions contre U1(name)";
+
+translate "Tug game between U1(name) and U2(name)."
+to french "Partie de tractions entre U1(name) et U2(name).";
+
+translate "To start the Test of Telepathy, visit the Great University of Conflict."
+to french "Pour commencer l'épreuve de télépathie, visitez la Grande Université du Conflit.";
+
+translate "Your rank is not high enough to play here."
+to french "Votre niveau n'est pas assez élevé pour que vous puissiez jouer ici.";
+
+translate "Your rank is too high to play here."
+to french "Votre niveau est trop élevé pour que vous puissiez jouer ici.";
+
+translate "It is traditional to honor Geb with a N1 O1 for each game of Tug."
+to french "C'est la tradition d'honorer Geb avec N1 O1(ns) pour chaque partie de tractions.";
+
+translate "You may only play one game at a time."
+to french "Vous ne pouvez jouer qu'une partie à la fois.";
+
+translate "You only have N1 points left."
+to french "Il ne vous reste que N1 points.";
+
+translate "You failed to move within 5 minutes, forfeiting the Tug game."
+to french "Vous n'avez pas fait de déplacement depuis 5 minutes, cela compte comme un abandon.";
+
+translate "Your opponent failed to move within 5 minutes, forfeiting the Tug game."
+to french "Votre adversaire n'a pas fait de déplacement depuis 5 minutes, cela compte comme un abandon.";
+
+translate "Start the Test of Telepathy"
+to french "Commencer l'épreuve de télépathie";
+
+translate "You are registered for the Test of Telepathy. Telepathic ability is measured in formal matches played on a Tug court. A cart of Ore sits in the middle of the court. You start with 50 points, as does your opponent. Each round, the two players simultaneously wager a number of their points. A higher wager shoves the cart toward the opponent's side. Pushing the cart off the end wins the match."
+to french "Vous êtes inscrit à l'épreuve de télépathie. Vos capacités télépathiques sont mesurées par des affrontement officiels sur un terrain de Tractions. Un chariot de mineri se trouve au milieu du terrain. Vous commencez avec 50 points, même chose pour votre adversaire. A chaque tour, les deux adversaires misent un certain nombre de points. Celui qui mise le plus tire le chariot de son côté. Si le chariot arrive à un des joueurs, celui-ci gagne.";
+
+translate "Your rank in Telepathy is shown when you click on a the court's podium. Achieve rank 140 to pass the Test of Telepathy."
+to french "Votre niveau en télépathie s'ffiche quand vous cliquez sur le podium du terrain. Atteignez le niveau 140 pour passer l'épreuve de télépathie.";
+
+translate "Hints to maximize your rank:"
+to french "Conseils pour augmenter votre niveau :";
+
+translate "  1. Play many different people"
+to french "  1. Jouez avec différentes personnes";
+
+translate "  2. Play people near your rank"
+to french "  2. Jouez avec des personnes dont le niveau est proche du vôtre";
+
+translate "Enable test of telepathy"
+to french "Activer l'épreuve de Télépathie";
+
+translate "Ante O1/K1"
+to french "Mise O1(ns)/K1";
+
+translate "     Remaining"
+to french "     Reste";
+
+translate "You won."
+to french "Vous avez gagné.";
+
+translate "    Last Gamble"
+to french "    Dernière mise";
+
+translate "                                        The Rules of Telepathy"
+to french "                                      Les règles de la Télépathie\n";
+translate "The arena is a 1x7 board"
+to french "L'arène est un plateau de 1x7";
+translate "A cart moves along the board."
+to french "Un chariot se déplace le long du plateau\n";
+translate "Each player begins with 50 points."
+to french "Chaque joueur commence avec 50 points";
+translate "The players choose a number of points to bet every turn."
+to french "Les joueurs choisissent un nombre de points à miser à chaque tour.";
+translate "The cart then moves towards the player who bid the most's side of the board."
+to french "Le chariot se déplace alors vers le côté du plateau du joueur qui a misé le plus";
+translate "If you run out of points you can only bid 0."
+to french "Si vous n'avez plus de points, vous ne pourrez miser que 0.\n";
+translate "The player who moves the cart to their end of the board wins."
+to french "Le joueur qui déplace le chariot de son côté du plateau a gagné.";
+

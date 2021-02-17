@@ -1,0 +1,135 @@
+module blindnomad_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002,2003,2004,2005 by MDO Entertainment	           **
+//**                                                                       **
+//***************************************************************************
+
+//menues
+
+translate "Add Cyan Pigment"
+to german "Füge Zyan-Pigment hinzu";
+
+translate "Add Magenta Pigment"
+to german "Füge Purpur-Pigment hinzu";
+
+translate "Add Yellow Pigment"
+to german "Füge Gelb-Pigment hinzu";
+
+translate "Add Bleach"
+to german "Füge Bleiche hinzu";
+
+//objects
+translate GlassTubes to german neuter
+{
+  swa "Glasrohr";
+  sn "Glasrohr"; sg "Glasrohres"; sd "Glasrohr"; sa "Glasrohr";
+  pn "Glasrohre"; pg "Glasrohre"; pd "Glasrohren"; pa "Glasrohre";
+}
+translate CyanPigment to german neuter
+{
+  swa "Zyan-Pigment";
+  sn "Zyan-Pigment"; sg "Zyan-Pigmentes"; sd "Zyan-Pigment"; sa "Zyan-Pigment";
+  pn "Zyan-Pigmente"; pg "Zyan-Pigmente"; pd "Zyan-Pigmenten"; pa "Zyan-Pigmente";
+}
+translate MagentaPigment to german neuter
+{
+  swa "Purpur-Pigment";
+  sn "Purpur-Pigment"; sg "Purpur-Pigmentes"; sd "Purpur-Pigment"; sa "Purpur-Pigment";
+  pn "Purpur-Pigmente"; pg "Purpur-Pigmente"; pd "Purpur-Pigmenten"; pa "Purpur-Pigmente";
+}
+translate YellowPigment to german neuter
+{
+  swa "Gelb-Pigment";
+  sn "Gelb-Pigment"; sg "Gelb-Pigmentes"; sd "Gelb-Pigment"; sa "Gelb-Pigment";
+  pn "Gelb-Pigmente"; pg "Gelb-Pigmente"; pd "Gelb-Pigmenten"; pa "Gelb-Pigmente";
+}
+translate Pigment to german neuter
+{
+  swa "Pigment";
+  sn "Pigment"; sg "Pigmentes"; sd "Pigment"; sa "Pigment";
+  pn "Pigmente"; pg "Pigmente"; pd "Pigmenten"; pa "Pigmente";
+}
+translate Bleach to german femininecollechtive
+{
+  swa "Bleiche";
+  sn "Bleiche"; sg "Bleiche"; sd "Bleiche"; sa "Bleiche";
+  pn "Bleiche"; pg "Bleiche"; pd "Bleichen"; pa "Bleiche";
+}
+
+//texts
+
+translate "You don't have any O1."
+to german "Du hast O1(kpn) O1(pn).";
+
+translate "Put fresh water in the display tanks"
+to german "Fülle frisches Wasser in die Anzeigetanks";
+
+translate "You don't have 160 water."
+to german "Du hast keine 160 Wasser.";
+
+translate "Flush the display tanks into the challenge tanks"
+to german "Leere die Anzeigetanks in die Tanks der Herausforderung";
+
+translate "Are you sure you want to wipe out the old challenge?"
+to german "Bist Du sicher, daß Du die alte Herausforderung löschen willst?";
+
+translate "The colors do not match."
+to german "Die Farben passen nicht zusammen.";
+
+translate "You didn't use the same amount of cyan."
+to german "Du hast nicht dieselbe Menge Zyan benutzt.";
+
+translate "You didn't use the same amount of magenta."
+to german "Du hast nicht dieselbe Menge Purpur benutzt.";
+
+translate "You didn't use the same amount of yellow."
+to german "Du hast nicht dieselbe Menge Gelb benutzt.";
+
+translate "You didn't use the same amount or bleach."
+to german "Du hast nicht dieselbe Menge Bleiche benutzt.";
+
+translate "You took too long."
+to german "Du hast zu lange gebraucht.";
+
+translate "You have solved the riddle, however, no secret is revealed."
+to german "Du hast das Rätsel gelöst, wie dem auch sei, kein Geheimnis wurde gelüftet.";
+
+translate "You have solved the riddle. The creator's message is:"
+to german "Du hast das Rätsel gelöst. Die Schöpfer-Nachricht lautet:";
+
+translate "Cyan"
+to german "Zyan";
+
+translate "Magenta"
+to german "Purpur";
+
+translate "Yellow"
+to german "Gelb";
+
+translate "Bleach"
+to german "Bleiche";
+
+translate "Time"
+to german "Zeit";
+
+translate "Cyan N1"
+to german "Zyan N1";
+
+translate "Magenta N1"
+to german "Purpur N1";
+
+translate "Yellow N1"
+to german "Gelb N1";
+
+translate "Bleach N1"
+to german "Bleiche N1";
+
+translate "Time N1"
+to german "Zeit N1";
+
+translate "Analysis:"
+to german "Analyse:";

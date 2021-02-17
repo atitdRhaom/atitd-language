@@ -1,0 +1,70 @@
+Module Taxidermy_fre;
+
+translate "The scientists at the Great University of Art, have diligently worked to uncover the secrets of Taxidermy and have released it for further research. There are hints that something related to Taxidermy may be required for the Test of the Fisherman"
+to french "Les scientifiques de la grande université des Arts ont travaillé d'arrache-pied pour découvrir les secrets de l'empaillage et l'ont ouvert pour des recherches plus avancées. Il y a des indices qui prouvent que quelque chose liée à l'empaillage sera nécessaire pour l'épreuve du Pêcheur";
+
+translate taxidermy to french masculine
+{ ns "Empaillage"; np "Empaillages";
+}
+
+
+translate "Allows one to mount specimen fish."
+to french "Permet d'empailler un poisson";
+
+translate MountedFish to french feminine
+{
+	ns "Poisson empaillé"; np "Poissons empaillés";
+	}
+
+translate "This fish was mounted K1 ago by U1"
+to french "Ce poisson a été empaillé il y a K1 par U1(name)";
+
+translate SilverNailes to french masculine
+{ ns "Clou"; np "Clous";
+}
+    
+translate "Your fish is too spoiled to be able to be mounted."
+to french "Votre poisson est trop pourri pour être empaillé";
+
+translate "You can only mount fish that you have caught"
+to french "Vous ne pouvez empailler qu'un poisson que vous avez attrapé";
+
+translate "You can only mount your largest speciman of this fish."
+to french "Vous ne pouvez empailler que le plus imposant de vos poissons de ce type";
+
+translate "You have already mounted a N1 deben O1"
+to french "Vous avez déjà  empaillé un O1(ns) de N1 deben";
+
+translate "To mount a O1 you require (in addition to the fish): "
+to french "Pour empailler un O1(ns) il vous faut (en plus du poisson): " ;
+
+translate "To mount this fish, you require N1 TreatedBoards"
+to french "Pour empailler ce poisson il vous faut N1 planches traitées";
+
+translate "That item is not Treated Boards."
+to french "Cet objet n'est pas une planche traitée";
+
+translate "That item does not have the correct requirements."
+to french "Cet objet n'a pas les caractéristiques nécessaires";
+
+translate "You do not have enough Treated Boards."
+to french "Vous n'avez pas assez de planches traitées";
+
+translate "To mount this fish, you require N1 Paint"
+to french "Pour empailler ce poisson il vous faut N1 peintures";
+
+translate "That item is not Paint."
+to french "Cet objet n'est pas de la peinture";
+
+translate "You do not have enough Paint."
+to french "Vous n'avez pas assez de peinture";
+
+translate "Reset my fishing trophies"
+to french "Réinitialiser mes trophés de pêche";
+
+translate "Are you sure you want to reset all of your trophies? You won't lose any items, but will have a chance to mount smaller fishes."
+to french "Etes vous certain de vouloir réinitialiser tous vos trophés ? Vous ne perdez aucun objet, mais vous aurez la possibilité d'empailler de plus petits poissons";
+
+translate "Fishing Trophies reset."
+to french "Les trophés de pêche ont été réinitialisés";
+

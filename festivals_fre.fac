@@ -1,0 +1,590 @@
+module festivals_fre;
+
+translate AmbrosiaBrewing to french masculine
+{
+  ns "Brassage d'ambroisie"; np "Brassage d'ambroisie";
+}
+
+translate festivals to french feminine
+{
+  ns "L'épreuve des Festivals"; np "L'épreuve des Festivals";
+}
+
+translate "O1/O2"
+to french "O1(ns)/O2(ns)";
+
+translate Isis to french feminine
+{ns "Isis"; np "Isis";}
+
+translate Osiris to french masculine
+{ns "Osiris"; np "Osiris";}
+
+translate Bastet to french feminine
+{ns "Bastet"; np "Bastet";}
+
+translate Ra to french masculine
+{ns "Râ"; np "Râ";}
+
+translate Maat to french feminine
+{ns "Maât"; np "Maât";}
+
+translate Hathor to french feminine
+{ns "Hathor"; np "Hathor";}
+
+translate Thoth to french masculine
+{ns "Thot"; np "Thot";}
+
+translate Ambrosia to french feminine
+{ns "Ambroisie"; np "Ambroisie";}
+
+translate RitualOfFestivalOfIsis to french masculine
+{
+  ns "Rituel d'Isis"; np "Rituel d'Isis";
+}
+translate RitualOfFestivalOfOsiris to french masculine
+{
+  ns "Rituel d'Osiris"; np "Rituel d'Osiris";
+}
+translate RitualOfFestivalOfBastet to french masculine
+{
+  ns "Rituel de Bastet"; np "Rituel de Bastet";
+}
+translate RitualOfFestivalOfRa to french masculine
+{
+  ns "Rituel de Râ"; np "Rituel de Râ";
+}
+translate RitualOfFestivalOfMaat to french masculine
+{
+  ns "Rituel de Maât"; np "Rituel de Maât";
+}
+translate RitualOfFestivalOfHathor to french masculine
+{
+  ns "Rituel d'Hathor"; np "Rituel d'Hathor";
+}
+translate RitualOfFestivalOfThoth to french masculine
+{
+  ns "Rituel de Thot"; np "Rituel de Thot";
+}
+
+translate "Principles of Festivals challenges you to participate in several Festivals. Higher Satisfaction is achieved by having more people participating in a Festival at once."
+to french "Les principes des festivals vous défient de participer à plusieurs Festivals. Pour que les dieux sont très satisfait, il faut que beaucoup de personnes participent à un même Festival.";
+
+translate "Sweet Black Beer"
+to french "Bierre sucrée et noire";
+
+translate "Achieve at least N1% satisfaction with one God"
+to french "Atteindre au moins N1% de satisfaction au près d'un dieu";
+translate "Achieve at least N1% satisfaction with another God"
+to french "Atteindre au moins N1% de satisfaction au près d'un autre dieu";
+translate "Achieve at least N1% satisfaction overall"
+to french "Atteindre au moins N1% de satisfaction en tout";
+
+translate "You have completed Principles of Festivals."
+to french "Vous avez complété les principes des festivals";
+
+translate "Brewing Ambrosia: A Beverage for sacrificing to the Gods and Goddesses."
+to french "Brassage d'ambroisie : Une boisson à sacrifier aux dieux et déesses.";
+
+translate "Ambrosia brewing"
+to french "Brassage d'Ambroisie";
+
+translate "You must select a complex ingredient like wine, beer, or aromatic honey."
+to french "Vous devez choisir un ingrédient complexe, tel le vin, la bière ou le miel aromatique.";
+
+translate "You must select a simple ingredient like oil, camel milk, or regular honey."
+to french "Vous devez choisir un ingrédient simple, tel l'huile, le lait de chamelle ou du miel ordinaire.";
+
+translate "Ambrosia: choose name, simple ingredient, and complex ingredient."
+to french "Ambroisie : choisissez un nom, un ingrédient simple et un ingrédient complexe.";
+
+translate "You study the art of brewing ambrosia, a food specifically made to sacrifice to the Gods and Goddesses."
+to french "Vous étudiez l'art du brassage de l'ambroisie, une boisson spécialement dédiée au sacrifice aux dieux et déesses.";
+ 
+translate "You enjoyed participating in the festival of Isis along with about N1 other Egyptians."
+to french "Vous avez participé avec plaisir au festival d'Isis en compagnie d'environ N1 autres Egyptiens.";
+translate "You enjoyed participating in the festival of Bastet along with about N1 other Egyptians."
+to french "Vous avez participé avec plaisir au festival de Bastet en compagnie d'environ N1 autres Egyptiens.";
+translate "You enjoyed participating in the festival of Maat along with about N1 other Egyptians."
+to french "Vous avez participé avec plaisir au festival de Maât en compagnie d'environ N1 autres Egyptiens.";
+translate "You enjoyed participating in the festival of Thoth along with about N1 other Egyptians."
+to french "Vous avez participé avec plaisir au festival de Thot en compagnie d'environ N1 autres Egyptiens.";
+translate "You enjoyed participating in the festival of Ra along with about N1 other Egyptians."
+to french "Vous avez participé avec plaisir au festival de Râ en compagnie d'environ N1 autres Egyptiens.";
+translate "You enjoyed participating in the festival of Hathor along with about N1 other Egyptians."
+to french "Vous avez participé avec plaisir au festival de Hathor en compagnie d'environ N1 autres Egyptiens.";
+translate "You enjoyed participating in the festival of Osiris along with about N1 other Egyptians."
+to french "Vous avez participé avec plaisir au festival d'Osiris en compagnie d'environ N1 autres Egyptiens.";
+
+translate "Your festival of K1 was not a success.  A good festival should include as many people as possible.  They do not have to be in the same place.  However, they must all worship at about the same time.  The more people you can get to cooperate, the better the festival will be."
+to french "Votre festival de Isis n'a pas été un succès. Pour qu'un festival soit une réussite, il doit réunir autant de gens que possible. Ils ne doivent pas tous se trouver dans le même lieu physique, mais doivent tous célébrer en même temps. Plus vous amenez de gens à coopérer, plus le succès de votre festival est grand.";
+translate "Your festival of Isis was not a success.  A good festival should include as many people as possible.  They do not have to be in the same place.  However, they must all worship at about the same time.  The more people you can get to cooperate, the better the festival will be."
+to french "Votre festival d'Isis n'a pas été un succès. Pour qu'un festival soit une réussite, il doit réunir autant de gens que possible. Ils ne doivent pas tous se trouver dans le même lieu physique, mais doivent tous célébrer en même temps. Plus vous amenez de gens à coopérer, plus le succès de votre festival est grand.";
+translate "Your festival of Bastet was not a success.  A good festival should include as many people as possible.  They do not have to be in the same place.  However, they must all worship at about the same time.  The more people you can get to cooperate, the better the festival will be."
+to french "Votre festival de Bastet n'a pas été un succès. Pour qu'un festival soit une réussite, il doit réunir autant de gens que possible. Ils ne doivent pas tous se trouver dans le même lieu physique, mais doivent tous célébrer en même temps. Plus vous amenez de gens à coopérer, plus le succès de votre festival est grand.";
+translate "Your festival of Thoth was not a success.  A good festival should include as many people as possible.  They do not have to be in the same place.  However, they must all worship at about the same time.  The more people you can get to cooperate, the better the festival will be."
+to french "Votre festival de Thot n'a pas été un succès. Pour qu'un festival soit une réussite, il doit réunir autant de gens que possible. Ils ne doivent pas tous se trouver dans le même lieu physique, mais doivent tous célébrer en même temps. Plus vous amenez de gens à coopérer, plus le succès de votre festival est grand.";
+translate "Your festival of Maat was not a success.  A good festival should include as many people as possible.  They do not have to be in the same place.  However, they must all worship at about the same time.  The more people you can get to cooperate, the better the festival will be."
+to french "Votre festival de Maât n'a pas été un succès. Pour qu'un festival soit une réussite, il doit réunir autant de gens que possible. Ils ne doivent pas tous se trouver dans le même lieu physique, mais doivent tous célébrer en même temps. Plus vous amenez de gens à coopérer, plus le succès de votre festival est grand.";
+translate "Your festival of Hathor was not a success.  A good festival should include as many people as possible.  They do not have to be in the same place.  However, they must all worship at about the same time.  The more people you can get to cooperate, the better the festival will be."
+to french "Votre festival de Hathor n'a pas été un succès. Pour qu'un festival soit une réussite, il doit réunir autant de gens que possible. Ils ne doivent pas tous se trouver dans le même lieu physique, mais doivent tous célébrer en même temps. Plus vous amenez de gens à coopérer, plus le succès de votre festival est grand.";
+translate "Your festival of Osiris was not a success.  A good festival should include as many people as possible.  They do not have to be in the same place.  However, they must all worship at about the same time.  The more people you can get to cooperate, the better the festival will be."
+to french "Votre festival d'Osiris n'a pas été un succès. Pour qu'un festival soit une réussite, il doit réunir autant de gens que possible. Ils ne doivent pas tous se trouver dans le même lieu physique, mais doivent tous célébrer en même temps. Plus vous amenez de gens à coopérer, plus le succès de votre festival est grand.";
+translate "Your festival of Ra was not a success.  A good festival should include as many people as possible.  They do not have to be in the same place.  However, they must all worship at about the same time.  The more people you can get to cooperate, the better the festival will be."
+to french "Votre festival de Râ n'a pas été un succès. Pour qu'un festival soit une réussite, il doit réunir autant de gens que possible. Ils ne doivent pas tous se trouver dans le même lieu physique, mais doivent tous célébrer en même temps. Plus vous amenez de gens à coopérer, plus le succès de votre festival est grand.";
+
+translate "You enjoyed participating in the festival of K1 along with about N1 other Egyptians.  Your standing has risen to N2%"
+to french "Vous avez participé avec plaisir au festival de K1 en compagnie d'environ N1 autres Egyptiens. Votre statut est maintenant de N2%.";
+translate "You enjoyed participating in the festival of Isis along with about N1 other Egyptians.  Your standing has risen to N2%"
+to french "Vous avez participé avec plaisir au festival d'Isis en compagnie d'environ N1 autres Egyptiens. Votre statut est maintenant de N2%.";
+translate "You enjoyed participating in the festival of Bastet along with about N1 other Egyptians.  Your standing has risen to N2%"
+to french "Vous avez participé avec plaisir au festival de Bastet en compagnie d'environ N1 autres Egyptiens. Votre statut est maintenant de N2%.";
+translate "You enjoyed participating in the festival of Maat along with about N1 other Egyptians.  Your standing has risen to N2%"
+to french "Vous avez participé avec plaisir au festival de Maât en compagnie d'environ N1 autres Egyptiens. Votre statut est maintenant de N2%.";
+translate "You enjoyed participating in the festival of Osiris along with about N1 other Egyptians.  Your standing has risen to N2%"
+to french "Vous avez participé avec plaisir au festival d'Osiris en compagnie d'environ N1 autres Egyptiens. Votre statut est maintenant de N2%.";
+translate "You enjoyed participating in the festival of Thoth along with about N1 other Egyptians.  Your standing has risen to N2%"
+to french "Vous avez participé avec plaisir au festival de Thot en compagnie d'environ N1 autres Egyptiens. Votre statut est maintenant de N2%.";
+translate "You enjoyed participating in the festival of Ra along with about N1 other Egyptians.  Your standing has risen to N2%"
+to french "Vous avez participé avec plaisir au festival de Râ en compagnie d'environ N1 autres Egyptiens. Votre statut est maintenant de N2%.";
+translate "You enjoyed participating in the festival of Hathor along with about N1 other Egyptians.  Your standing has risen to N2%"
+to french "Vous avez participé avec plaisir au festival de Hathor en compagnie d'environ N1 autres Egyptiens. Votre statut est maintenant de N2%.";
+
+translate "You must wait 16 hours between festivals."
+to french "Vous devez attendre 16 heures entre deux festivals.";
+
+translate "The festival system is not configured correctly, contact eGenesis."
+to french "Le système de festivals n'est pas configuré correctement. Contactez eGenesis.";
+
+translate "K1 is pleased with your participation. In about an hour, we will know if enough people participated in the festival."
+to french "K1 est enchanté de votre participation. Dans une heure environ, nous saurons si les gens se sont joints en nombre suffisant au festival.";
+
+translate "Standing with K1 is N1%"
+to french "Votre statut envers K1 est de N1%.";
+
+translate "Standing with K1 is N1"
+to french "Votre statut envers K1 est de N1.";
+
+translate "Start the Test of Festivals"
+to french "Commencer l'épreuve des Festivals.";
+
+translate "The test of Festivals:"
+to french "L'épreuve des Festivals :";
+
+translate "Test of Festivals"
+to french "L'épreuve des Festivals";
+
+translate "The test of Festivals:\n\nYou must hold festivals for seven gods: Isis, Osiris, Bastet, Ra, Maat, Hathor, and Thoth.  To hold a festival, you must choose a god, and arrange for a large number of people to worship the chosen god at the same time. The more people who worship with the chosen god at the same time, the better the festival, and the more standing you get with your chosen god.  When your standing with all seven gods reaches 100%, you pass.  Festivals are Egypt-wide: people need to worship at the same time, they do -not- need to be anywhere near each other.\n\nTo find out what Isis wants, do this ritual: person A puts honey on the left pillar, person B puts honey on the right pillar.  Person A puts oil on the left focus, person B puts oil on the right focus.  Person A meditates, then person B meditates.  Both players will learn what Isis wants.\nTo find out what Osiris wants, use flax and barley instead.\nFor Bastet, use honey and camel milk.\nFor Ra, Medium Quartz and Medium Topaz.\nFor Maat, linen and canvas.\nFor Hathor, male rabbits and female rabbits.\nFor Thoth, papyrus paper and candles.\n\nBe careful, each person receives different instructions from the god - you must do the ritual yourself.  Also, if you participate in a second festival, you will need different things the second time.  You should find out what the god wants well in advance of the festival itself, to give yourself time to prepare\n\nAfter you know what the god wants, and you have the necessary materials, you are ready to participate in the festival.  You should try to worship at the same time as everyone else.  You have about 30 minutes slack: if you are much earlier or later than that, you will earn substantially less standing with your god.  One last caution: you may only participate in one festival per 24-hour period.\n"
+to french "L'épreuve des Festivals:\n\nVous devez organiser des festivals pour sept dieux : Isis, Osiris, Bastet, Râ, Maât, Hathor et Thot. Pour organiser un festival, vous devez choisir un dieu et réunir le plus grand nombre de gens possible afin d'honorer ce dieu en même temps. Plus vous rassemblez de gens en même temps, plus votre festival est un succès, et meilleur est votre statut avec le dieu honoré. Lorsque vos relations avec tous les dieux sont de 100%, l'épreuve est réussie. Les festivals sont à l'échelle de l'égypte entière : il faut que les célébrations se déroulent en même temps, mais pas nécessairement au même endroit pour tous.\n\nPour déterminer ce que souhaite Isis, accomplissez le rituel suivant : La personne A met du miel sur le pilier de gauche, la personne B en met sur le pilier de droite. Ensuite, la personne A met de l'huile sur le plateau de gauche, la personne B fait de même pour le plateau de droite. la personne A médite, puis c'est au tour de la personne B de méditer. Ainsi, les deux joueurs sauront ce que souhaite Isis.\nPour déterminer ce que souhaite Osiris, utiliser du lin et de l'orge.\nPour Bastet, utilisez du miel et du lait de chameau.\nPour Râ, un quartz moyen et un topaze moyen.\nPour Maât, de la toile et du tissu.\nPour Hathor, des lapins mâles et femelles.\nPour Thot, du papier de papyrus et des chandelles.\n\nFaites attention : chaque divinité demande ensuite des choses différentes à tout le monde, et vous ne devez pas passer outre l'étape du rituel. Si vous participez à un second festival, vous devrez faire le rituel une seconde fois. Il est conseille d'effectuer ce rituel suffisamment avant le festival, pour avoir le temps de vous préparer.\n\nUne fois que vous savez ce que le dieu attend de vous, et que vous avez les éléments nécessaires, vous êtes prêt à participer au festival. Vous devriez vénérer le même dieu que tous les autres au même moment. Vous avez environ 30 minutes de battement : si vous accomplissez le rite trop en avance ou trop en retard, vous gagnerez moins d'estime de la part de votre dieu. Une dernière chose : vous ne pouvez participer qu'à un seul festival par périodes de 24 heures.\n";
+
+translate "You must hold festivals for seven gods: Isis, Osiris, Bastet, Ra, Maat, Hathor, and Thoth.  To hold a festival, you must choose a god, and arrange for a large number of people to worship the chosen god at the same time. The more people who worship with the chosen god at the same time, the better the festival, and the more standing you get with your chosen god.  When your standing with all seven gods reaches 100%, you pass.  Festivals are Egypt-wide: people need to worship at the same time, they do -not- need to be anywhere near each other."
+to french "Vous devez organiser des festivals pour sept dieux : Isis, Osiris, Bastet, Râ, Maât, Hathor et Thot. Pour organiser un festival, vous devez choisir un dieu et réunir le plus grand nombre de gens possible afin d'honorer ce dieu en même temps. Plus vous rassemblez de gens en même temps, plus votre festival est un succès, et meilleur est votre statut avec le dieu honoré. Lorsque vos relations avec tous les dieux sont de 100%, l'épreuve est réussie. Les festivals sont à l'échelle de l'égypte entière : il faut que les célébrations se déroulent en même temps, mais pas nécessairement au même endroit pour tous.";
+
+translate "To find out what Isis wants, do this ritual: person A puts honey on the left pillar, person B puts honey on the right pillar.  Person A puts oil on the left focus, person B puts oil on the right focus.  Person A meditates, then person B meditates.  Both players will learn what Isis wants."
+to french "Pour déterminer ce que souhaite Isis, accomplissez le rituel suivant : La personne A met du miel sur le pilier de gauche, la personne B en met sur le pilier de droite. Ensuite, la personne A met de l'huile sur le plateau de gauche, la personne B fait de même pour le plateau de droite. la personne A médite, puis c'est au tour de la personne B de méditer. Ainsi, les deux joueurs sauront ce que souhaite Isis.";
+
+translate "To find out what Osiris wants, use flax and barley instead."
+to french "Pour déterminer ce que souhaite Osiris, utiliser du lin et de l'orge.";
+translate "For Bastet, use honey and camel milk."
+to french "Pour Bastet, utilisez du miel et du lait de chameau.";
+translate "For Ra, Medium Quartz and Medium Topaz."
+to french "Pour Râ, un quartz moyen et un topaze moyen.";
+translate "For Maat, linen and canvas."
+to french "Pour Maât, du tissu et des tissages.";
+translate "For Hathor, male rabbits and female rabbits."
+to french "Pour Hathor, des lapins mâles et femelles.";
+translate "For Thoth, papyrus paper and candles."
+to french "Pour Thot, des feuilles de papyrus et des chandelles.";
+
+translate "Be careful, each person receives different instructions from the god - you must do the ritual yourself.  Also, if you participate in a second festival, you will need different things the second time.  You should find out what the god wants well in advance of the festival itself, to give yourself time to prepare."
+to french "Faites attention : chaque divinité demande ensuite des choses différentes à tout le monde, et vous ne devez pas passer outre l'étape du rituel. Si vous participez à un second festival, vous devrez faire le rituel une seconde fois. Il est conseillé d'effectuer ce rituel suffisamment avant le festival, pour avoir le temps de vous préparer.";
+
+translate "After you know what the god wants, and you have the necessary materials, you are ready to participate in the festival.  You should try to worship at the same time as everyone else.  You have about 30 minutes slack: if you are much earlier or later than that, you will earn substantially less standing with your god.  One last caution: you may only participate in one festival per 24-hour period."
+to french "Une fois que vous savez ce que le dieu attend de vous, et que vous avez les éléments nécessaires, vous êtes prêt à participer au festival. Vous devriez vénérer le même dieu que tous les autres au même moment. Vous avez environ 30 minutes de battement : si vous accomplissez le rite trop en avance ou trop en retard, vous gagnerez moins d'estime de la part de votre dieu. Une dernière chose : vous ne pouvez participer qu'à un seul festival par périodes de 24 heures.";
+
+translate "Eat the perfect feast"
+to french "Manger le parfait festin";
+
+translate "Scan for plants"
+to french "Rechercher des plantes alentour";
+
+translate "There is no flax growing nearby. Osiris is displeased."
+to french "Aucun plant d'orge ne pousse nulle part alentour. Osiris est mécontent.";
+translate "There are no onions growing nearby. Osiris is displeased."
+to french "Aucun plant d'oignons ne pousse nulle part alentour. Osiris est mécontent.";
+translate "There are no leeks growing nearby. Osiris is displeased."
+to french "Aucun plant de poireaux ne pousse nulle part alentour. Osiris est mécontent.";
+translate "There are no carrots growing nearby. Osiris is displeased."
+to french "Aucun plant de carottes ne pousse nulle part alentour. Osiris est mécontent.";
+translate "There is no barley growing nearby. Osiris is displeased."
+to french "Aucun plant d'orge ne pousse nulle part alentour. Osiris est mécontent.";
+translate "There is no garlic growing nearby. Osiris is displeased."
+to french "Aucun plant d'ail ne pousse nulle part alentour. Osiris est mécontent.";
+
+translate "The ambrosia was not quite to Hathor's liking."
+to french "Hathor n'a pas raffolé de votre ambroisie";
+
+translate "Sacrifice Ambrosia"
+to french "Sacrifier de l'ambroisie";
+
+translate "Sacrifice Ambrosia K1"
+to french "Sacrifier de l'ambroisie : K1";
+
+translate "Recipes"
+to french "Recettes";
+
+translate "Ambrosia"
+to french "Ambroisie";
+
+translate "RESULT="
+to french "RESULTAT=";
+
+translate "K1 is not a festival god."
+to french "K1 n'est pas un dieux de festival";
+
+translate "The second argument is the number of people who participated."
+to french "La seconde donnée est le nombre de participants.";
+
+translate "Sweet Potent Beer"
+to french "Bière forte et sucrée";
+
+translate "Sweet Potent Beer"
+to french "Bière forte et sucrée";
+
+translate "Dry Potent Beer"
+to french "Bière forte et amère";
+
+translate "Very Potent Spicy Beer"
+to french "Bière très forte et épicée";
+
+translate "Very Potent Barley Beer"
+to french "Bière très forte, goût d'orge";
+
+translate "Lemon/Orange Honey"
+to french "Miel limon/orange";
+
+translate "Coralfruit/Lime Honey"
+to french "Miel fruit de corail/citron vert";
+
+translate "AmbrosiaBrewing (Completed)"
+to french "Brassage d'ambroisie (Achevé)";
+
+translate "U1 time N1 did not please god K1 because he didn't wait 16 hrs."
+to french "U1(name) à N1 n'a pas satisfait la divinité K1 parce qu'il n'a pas attendu seize heures.";
+
+translate "U1 time N1 pleased god K1"
+to french "U1(name) à N1 à satisfait la divinité K1";
+
+translate "To please Isis, wear a perfume made of O1 O2, then create a place of worship by surrounding an altar with seven O3. Within this circle, sacrifice ambrosia of O4-O5 honey and oil."
+to french "Pour satisfaire Isis, portez un parfum de O1(ns) et O2(ns), puis créez un lieu de culte en disposant sept O3(np) autour d'un avatar. Dans ce cercle, sacrifiez une ambroisie faite de miel O4(ns)-O5(ns) et d'huile.";
+
+translate "You are not signed up for the test of festivals."
+to french "Vous n'êtes pas inscrit à l'épreuve des Festivals.";
+
+translate "This ambrosia is not quite what Isis wanted."
+to french "Cette ambroisie n'est pas ce qu'Isis désire.";
+
+translate "Isis is not quite satisfied, she wants more O1"
+to french "Isis n'est pas satisfaite. Elle désire plus de O1(ns)";
+
+translate "You are not wearing any perfume. Isis is not pleased."
+to french "Vous ne portez pas de parfum. Isis n'est pas satisfaite.";
+
+translate "Your perfume has worn off. Isis is not pleased."
+to french "Votre parfum s'est dissipé. Isis n'est pas satisfaite.";
+
+translate "Your perfume is not quite to the liking of Isis."
+to french "Isis n'aime pas beaucoup votre parfum.";
+
+translate "To worship Osiris, dress yourself in black, create a place of worship by surrounding an altar with growing flax, barley, onions, leeks, carrots, and garlic. Within this circle, sacrifice ambrosia of K1 beer and oil."
+to french "Pour vénérer Osiris, habillez-vous en noir, créez un lieu de culte en faisant germer autour d'un autel du lin, de l'orge, des oignons, des poireaux, des carottes et de l'ail. Dans ce cercle, sacrifiez de l'ambroisie de K1, de la bière et de l'huile.";
+
+translate "To worship Osiris, dress yourself in black, create a place of worship by surrounding an altar with growing flax, barley, onions, leeks, carrots, and garlic. Within this circle, sacrifice ambrosia of K1 K2 K3 beer and oil."
+to french "Pour vénérer Osiris, habillez-vous en noir, créez un lieu de culte en faisant germer autour d'un autel du lin, de l'orge, des oignons, des poireaux, des carottes et de l'ail. Dans ce cercle, sacrifiez une ambroisie faites de bière K1 K2 K3 et d'huile";
+
+translate "The ambrosia is not quite to Osiris's Liking."
+to french "Osiris n'aime pas votre ambroisie.";
+
+translate "You are not wearing enough black for Osiris"
+to french "Vous ne portez pas assez de noir.";
+
+translate "There are no onions growing nearby. Osiris is displeased."
+to french "Il n'y a pas d'oignons. Osiris est mécontent.";
+
+translate "There are no leeks growing nearby. Osiris is displeased."
+to french "Il n'y a pas de poireaux. Osiris est mécontent.";
+
+translate "There is no flax growing nearby. Osiris is displeased."
+to french "Il n'y a pas de lin. Osiris est mécontent.";
+
+translate "There are no carrots growing nearby. Osiris is displeased."
+to french "Il n'y a pas de carottes. Osiris est mécontent.";
+
+translate "There is no barley growing nearby. Osiris is displeased."
+to french "Il n'y a pas d'orge. Osiris est mécontent.";
+
+translate "There is no garlic growing nearby. Osiris is displeased."
+to french "Il n'y a pas d'ail. Osiris est mécontent.";
+
+translate "To worship Hathor, eat a feast of O1 O2 and O3. Create a place of worship by surrounding an altar with live rabbits, chickens, and sheep.  Within this circle, sacrifice ambrosia of K1 K2 beer and cobra's blood."
+to french "Pour vénérer Hathor, dégustez un festin composé de O1(np), O2(np) et O3(np). Creéz un lieu de culte en disposant autour de l'autel des animaux vivants : lapins, poulets et moutons. Dans ce cercle, sacrifiez de une ambroisie composée de bière K1 K2 et de sang de cobra.";
+
+translate "The ambrosia was not quite to Hathor's liking."
+to french "Hathor n'a pas apprécié votre ambroisie.";
+
+translate "There are not enough sheep nearby to please Hathor."
+to french "Il n'y a pas assez de moutons pour satisfaire Hathor.";
+
+translate "There are not enough rabbits nearby to please Hathor."
+to french "Il n'y a pas assez de lapins pour satisfaire Hathor.";
+
+translate "There are not enough chickens nearby to please Hathor."
+to french "Il n'y a pas assez de poulets pour satisfaire Hathor.";
+
+translate "You have not eaten recently, Hathor wishes for you to eat a feast."
+to french "Votre dernier repas remonte à longtemps. Hathor désire que vous fassiez un festin.";
+
+translate "You did not eat a food that boosts K1."
+to french "Vous n'avez rien mangé qui améliore votre K1.";
+
+translate "To please Bastet, you must decorate yourself with dyed linen ribbons of K1 K2. You must surround an altar with 21 bottles of milk. Inside this circle of worship you must sacrifice ambrosia of K3 K4 honey and milk."
+to french "Pour satisfaire Bastet, vous devez porter des rubans de tissu teints de couleur K1 et K2. Vous devez disposer autour d'un autel 21 bouteilles de lait. Dans ce cercle de culte, vous devez sactifier une ambroisie composée de miel K3-K4 et de lait de chamelle.";
+
+translate "This ambrosia is not quite what Bastet wanted."
+to french "Cette ambroisie n'est pas ce que Bastet désire.";
+
+translate "Bastet is not quite satisfied, she wants more milk"
+to french "Bastet n'est pas satisfaite. Elle désire plus de lait";
+
+translate "You are not wearing ribbons of K1. Bastet is not pleased."
+to french "Vous ne portez pas de rubans de K1. Bastet n'est pas satisfaite.";
+
+translate "Egypt is not ready for the festivals of Bastet"
+to french "L'égypte n'est pas encore prête pour le festival de Bastet.";
+
+translate "Egypt is not ready for the festivals of K1"
+to french "L'égypte n'est pas encore prête pour le festival de K1.";
+
+translate "To please Ra, build a spirit brasier and fill it with K1. Surround the brasier with seven bonfires of 7000 wood each.  Ignite the bonfires and the brasier, then use the brasier to sacrifice ambrosia of dates and K2 wine.  The wine must be at least two vintages old and must contain 10% alcohol."
+to french "Pour satisfaire Râ, érigez un brasier spirituel et remplissez le de K1. Entourez le brasier de plusieurs feux de joie de 7000 bois chacun. Allumez les feux et le brasier, puis utilisez le brasier pour sacrifiez une ambroisie composée de vin K2 et de dattes. Le vin doit avoir au moins deux ans d'âge et doit contenir au moins 10% d'alcool.";
+
+translate "To please Ra, build a spirit brasier and fill it with O1. "
+to french "Pour satisfaire Râ, érigez un brasier spirituel et remplissez le de O1(ns). ";
+translate "To please Ra, build a spirit brasier and fill it with K1. "
+to french "Pour satisfaire Râ, érigez un brasier spirituel et remplissez le de K1. ";
+translate "Surround the brasier with seven bonfires of 7000 wood each.  Ignite "
+to french "Entourez le brasier de plusieurs feux de joie de 7000 bois chacun. Allumez ";
+translate "the bonfires and the brasier, then use the brasier to sacrifice ambrosia of "
+to french "les feux et le brasier, puis utilisez le brasier pour sacrifiez une ambroisie composée de ";
+translate "dates and O1 wine.  The wine must be at least two vintages old and "
+to french "vin O1(ns) et de dattes. Le vin doit avoir au moins deux ans d'âge et ";
+translate "dates and K1 wine.  The wine must be at least two vintages old and "
+to french "vin K1 et de dattes. Le vin doit avoir au moins deux ans d'âge et ";
+translate "must contain 10% alcohol."
+to french "doit contenir au moins 10% d'alcool.";
+
+translate "Ra does not see seven large bonfires.  He is displeased."
+to french "Râ ne voit pas sept feux de joie. Il est mécontent.";
+
+translate "The brasier does not contain K1.  Ra is displeased."
+to french "Le brasier ne contient pas de K1. Râ est mécontent.";
+
+translate "The wine is not two vintages old.  Ra is dipleased."
+to french "Le vin n'est pas du deux ans d'âge. Râ est mécontent.";
+
+translate "The wine does not contain 10% alcohol.  Ra is displeased."
+to french "Le vin ne contient pas 10% d'alcool. Râ est mécontent.";
+
+translate "The wine is not flavored like K1. Ra is displeased."
+to french "Le vin n'a pas un goût de K1. Râ est mécontent.";
+
+translate "To please Maat, surround an altar with 21 flaming ritual torches. At this altar, sacrifice an ambrosia made from honey and the petals of a Rose of Ra (K1)."
+to french "Pour satisfaire Maât, entourez un autel de 21 torches rituelles allumées. Sur cet autel, sacrifiez de l'ambroisie faite à base de miel et des pétales d'une rose de Râ (K1).";
+
+translate "Maat does not see 21 lit ritual torches.  She is displeased."
+to french "Maât ne voit pas 21 torches rituelles allumées. Elle est mécontente.";
+
+translate "Maat is not pleased with the ambrosia: it was not made from K1."
+to french "Maât n'est pas satisfaite de l'ambroisie. Elle n'est pas faite à base de K1.";
+
+translate "Egypt is not ready for the festivals of Thoth"
+to french "L'égypte n'est pas encore prête pour le fetival de Thot.";
+
+translate "Check if this Rose is good for Maat's Ambrosia"
+to french "Vérifier si cette rose convient à l'ambroisie pour Maât";
+
+translate "This rose will work in your ambrosia."
+to french "Cette rose conviendra parfaitement.";
+
+translate "This rose does not have the right characteristics."
+to french "Cette rose n'est pas appropriée.";
+
+translate "Earth"
+to french "Terre";
+
+translate "Last Sacrifice: K1 K2 ago."
+to french "Dernier sacrifice: K1 K2 ago.";
+
+translate "No ritual of festival of K1"
+to french "Pas de rituel de festival de K1";
+
+translate "Make an ambrosia of O1 and O2:K1, named K2?"
+to french "Favriquer de l'ambroisie à base de O1(ns) et O2(ns) : K1, baptisé K2 ?";
+
+translate "Make an ambrosia of K1 and K2:K3, named K4?"
+to french "Favriquer de l'ambroisie à base de K1 et K2 : K3, baptisé K4 ?";
+
+translate "The ambrosia will be ready in 10 minutes. Come get it then."
+to french "L'ambroisie sera prête dans 10 minutes. Repassez plus tard.";
+
+translate "The ambrosia will be ready in 30 minutes. Come get it then. Note: you will need to sign up for the Test of Festivals in order to sacrifice it."
+to french "L'ambroisie sera prête dans 30 minutes. Vous repasserez la chercher. Notez que vous devrez vous inscrire à l'épreuve des festivals pour la sacrifier.";
+
+translate "Ambrosia for K1"
+to french "Ambroisie pour K1";
+
+translate "Protect Altar"
+to french "Protéger l'autel";
+
+translate "Seven Lakes"
+to french "Sept Lacs";
+
+translate "Desert of Nomads"
+to french "Désert des Nomades";
+
+translate "Desert of Nomads 2"
+to french "Désert des Nomades 2";
+
+translate "River Plains"
+to french "Plaines Fluviales";
+
+translate "Generic"
+to french "Générique";
+
+translate "By the Ritual of Plant Growth Altars in 7 Lakes law, passed by Rehpic, this altar may only be used for that ritual."
+to french "En vertu de la loi sur les autels et la Croissance des Plantes dans les Sept Lacs, promulguée par Rehpic, cet autel ne peut être utilisé que pour ce rituel-ci.";
+
+translate "By the Ritual of Plant Growth in North DoN law, passed by Redrac, this altar may only be used for that ritual."
+to french "En vertu de la loi sur les autels et la Croissance des Plantes dans le Désert des Nomades, promulguée par Redrac, cet autel ne peut être utilisé que pour ce rituel-ci.";
+
+translate "By the Law 'Desert of Nomads Plant Growth Law', passed by Aidenn, this altar may only be used for that ritual."
+to french "En vertu de la loi sur la Croissance des Plantes dans le désert des Nomades, promulguée par Aidenn, cet autel ne peut être utilisé que pour ce rituel-ci.";
+
+translate "By the Law 'RP Altar of Plant Growth', passed by Blizzard, this altar may only be used for that ritual."
+to french "En vertu de la loi sur la Croissance des Plantes dans les Plaines Fluviales, promulguée par Blizzard, cet autel ne peut être utilisé que pour ce rituel-ci.";
+
+translate "As required by law, this altar may only be used for the Ritual of Plant Growth."
+to french "Comme la loi l'exige, cet autel ne peut être utilisé que pour le rituel de la Croissance des Plantes.";
+
+translate "The ambrosia is gone."
+to french "Il n'y a plus d'ambroisie.";
+
+translate "U1 sacrificed ambrosia K1"
+to french "U1(name) a sacrifié de l'ambroisie K1.";
+
+translate "U1 time K1 sacrificed ambrosia K2"
+to french "K1: U1(name) a sacrifié de l'ambroisie K2.";
+
+translate "U1 time N1 sacrificed ambrosia K2"
+to french "N1: U1(name) a sacrifié de l'ambroisie K2.";
+
+translate "None of the gods seems to be interested in ambrosia made of O1 and K1."
+to french "Aucun dieu ne semble s'intéresser à de l'ambroisie composée de O1(ns) et de K1.";
+
+translate "None of the gods seems to be interested in ambrosia made of K1 and K2."
+to french "Aucun dieu ne semble s'intéresser à de l'ambroisie composée de K1 et de K2.";
+
+translate "Ra is not interested in ambrosia made of O1 and K1."
+to french "Râ ne semble pas s'intéresser à de l'ambroisie composée de O1(ns) et de K1.";
+
+translate "Ra is not interested in ambrosia made of K1 and K2."
+to french "Râ ne semble pas s'intéresser à de l'ambroisie composée de K1 et de K2.";
+
+translate "Wine, K1, 12%+, Two vintage old wine"
+to french "Vin, K1, 12%+, de deux ans d'âge";
+
+translate "To please Thoth, surround an altar with 21 flaming scampering beetles. Make sure the beetles don't wander too far.  At this altar, sacrifice an ambrosia made of ink and O1 wine.  The wine must be at least two vintages old and must contain 12% alcohol."
+to french "Pour satisfaire Maât, entourez un autel de 21 scarabées . Assurez-vous de ne pas les laisser trop s'éloigner.  Sur cet autel, sacrifiez de l'ambroisie faite d'encre et de vin O1(ns). Le vin doit avoir au moins deux ans d'âge et doit contenir au moins 12% d'alcool.";
+
+translate "Thoth does not see 21 beetles. Thoth is displeased."
+to french "Thot ne voit pas 21 scarabées. Thot est mécontent.";
+
+translate "The wine is not two vintages old.  Thoth is dipleased."
+to french "Le vin n'a pas deux ans d'âge. Thot est mécontent.";
+
+translate "The wine does not contain 12% alcohol.  Thoth is displeased."
+to french "Le vin ne contient pas 12% d'alcool. Thot est mécontent.";
+
+translate "The wine is not flavored like K1. Thoth is displeased."
+to french "Le vin n'a pas un goût de K1. Thot est mécontent.";
+
+translate "Egypt is not ready for the festivals of Thoth"
+to french "L'égypte n'est pas encore prête pour le fetival de Thot.";
+
+translate "Wine, At least 12% Alcohol and 2 vintages old"
+to french "Vin, au moins 12% d'alcool et deux ans d'âge";
+
+translate "Lime/Mandarin Honey"
+to french "Miel au citron vert/mandarines";
+
+translate "Coralfruit/Tangelo Honey"
+to french "Miel aux fruits de corail/tangelos";
+
+translate "U1 Ambrosia"
+to french "Ambroisie de U1(name)";
+
+translate "Ambrosia"
+to french "ambroisie";
+
+translate "My Ambrosia"
+to french "Mon ambroisie";
+
+translate "You do not have any O1"
+to french "Vous n'avez pas de O1(ns)";
+
+translate "You do not have any K1"
+to french "Vous n'avez pas de K1";
+
+translate "You do not have any K1 K2"
+to french "Vous n'avez pas de K1 K2";
+
+translate "Not a festival god: "
+to french "Pas un dieu de festival: ";
+
+translate "You did not sacrifice at a spirit brasier, Ra is displeased."
+to french "Vous n'avez pas fait votre sacrifice à un brasier d'esprits, Râ est mécontent.";
+
+translate "Eat the perfect feast"
+to french "Manger un festival parfait";
+
+translate "Got not found."
+to french "Dieu introuvable";
+
+translate "Raised score for U1 in U2 from N1 to N2."
+to french "Le statut de U1(name) envers U2(name) passe de N1 à N2.";
+
+translate "Raised score for U1 in O1 from N1 to N2."
+to french "Le statut de U1(name) envers O1(ns) passe de N1 à N2.";
+
+translate "Raised score for U1 in K1 from N1 to N2."
+to french "Le statut de U1(name) envers K1 passe de N1 à N2.";
+
+translate "Petals of a 3x Giant Rose of Ra"
+to french "Pétales d'une triple rose géante de Râ";
+
+translate "To please Bastet, you must decorate yourself with dyed silk ribbons of K1 and K2. You must surround an altar with 21 bottles of milk.  Inside this circle of worship you must sacrifice ambrosia of K3 honey and milk."
+to french "Pour satisfaire Bastet, vous devez vous parer de rubans K1 et K2. Vous devez entourer l'autel avec 21 bouteilles de lait. A l'intérieur de ce cercle sacré vous devez sacrifier une ambroisie composée de miel K3 et de miel.";
+
+translate "You enjoyed participating in the Festival of Bastet along with about N1 other Egyptians.  Your standing has risen to N2%"
+to french "Vous avez pris plaisir à participer au Festival de Bastet avec N1 autres égyptiens. Votre status pour Bastet est maintenant de N2%";
+
+translate "To worship Osiris, dress yourself in black, create a place of worship by surrounding an altar with growing flax, barley, onions, leeks, carrots, and garlic. Within this circle, sacrifice ambrosia of O1 O2 O3 beer and oil."
+to french "Pour satisfaire Osiris, habillez-vous tout en noir, créez un lieu sacré en entourant un autel de lins, orges, oignons, poireaux, carottes et ails. Dans ce cercle, sacrifiez une ambroisie composée de bière O1(ns) O2(ns) O3(ns) et d'huile.";
+
+translate "To worship Hathor, eat a feast of K1, K2, and K3. Create a place of worship by surrounding an altar with live rabbits, chickens, and sheep. Within this circle, sacrifice ambrosia of O1 O2 beer and cobra's blood."
+to french "Pour satisfaire Hathor, dégustez un festin de K1, K2 et K3. Constituez un lieu de méditation en entourant l'autel avec des lapins, des poulets et des moutons vivants. Dans ce cercle, sacrifiez une ambroisie composée d'une bière O1(ns) O2(ns) et de sang de cobra.";
+
+translate "To please Thoth, surround an altar with 21 scampering beetles. Make sure the beetles don't wander too far.  At this altar, sacrifice an ambrosia made of ink and K1 wine. The wine must be at least two vintages old and must contain 12% alcohol."
+to french "Pour satisfaire Thot, lâchez 21 scarabées vivants autour de l'autel. Faites attention à ce que les scarabées ne s'éloignent pas trop. A cet autel, sacrifiez une ambroisie composée d'encre et d'un vin au parfum de K1. Le vin doit avoir au moins deux vintages d'âge et doit contenir 12% d'alcool.";
+
+translate "To please Ra, build a spirit brasier and fill it with O1. Surround the brasier with seven bonfires of N1 wood each.  Ignite the bonfires and the brasier, then use the brasier to sacrifice ambrosia of dates and O2 wine.  The wine must be at least two vintages old and must contain N2% alcohol."
+to french "Pour satisfaire Râ, construiez un brasier à extraits et remplissez le de O1(np). Entourrez le brasier avec sept feux de bois de N1 bois chacun. Allumez les feux de bois et le brasier, et utilisez ce dernier pour sacrifier une ambroisie composée de dattes et d'un vin à saveur de O2(ns). Le vin doit avoir au moins deux vintages d'âge et doit contenir N2% d'alcool.";

@@ -1,0 +1,845 @@
+module gemcut_fre;
+
+
+translate Bijou to french feminine
+{
+ns "L'épreuve du bijou"; np "L'épreuve du bijou";
+}
+
+translate CuttableGem to french masculine
+{ ns "Gemmes brutes"; np "Gemmes brutes";}
+
+translate gem to french masculine
+{  ns "Gemme"; np "Gemmes";}
+
+translate cutamethyst to french feminine
+{
+ns "Améthyste"; np "Améthystes";
+}
+
+translate CutLapis to french masculine
+{
+ns "Lapis"; np "Lapis";
+}
+
+translate CutTurquoise to french feminine
+{
+ns "Turquoise"; np "Turquoise";
+}
+
+translate CutGarnet to french masculine
+{
+ns "Grenat"; np "Grenats";
+}
+
+translate cutjade to french masculine
+{
+ns "Jade"; np "Jades";
+}
+
+translate CutSunstone to french feminine
+{
+ns "Héliolite"; np "Héliolites";
+}
+
+translate CutCitrine to french feminine
+{
+ns "Citrine"; np "Citrines";
+}
+
+translate CutZircon to french masculine
+{
+ns "Zircon"; np "Zircons";
+}
+
+translate CuttableAmethyst to french feminine
+{
+ns "Améthyste brute"; np "Améthystes brutes";
+}
+
+translate CuttableLapis to french masculine
+{
+ns "Lapis brut"; np "Lapis bruts";
+}
+
+translate CuttableTurquoise to french feminine
+{
+ns "Turquoise brute"; np "Turquoises brutes";
+}
+
+translate CuttableGarnet to french masculine
+{
+ns "Grenat brut"; np "Grenats bruts";
+}
+
+translate CuttableJade to french masculine
+{
+ns "Jade brut"; np "Jades bruts";
+}
+
+translate CuttableSunstone to french feminine
+{
+ns "Héliolite brute"; np "Héliolites brutes";
+}
+
+translate CuttableCitrine to french feminine
+{
+ns "Citrine brute"; np "Citrines brutes";
+}
+
+translate CuttableZircon to french masculine
+{
+ns "Zircon brut"; np "Zircons bruts";
+}
+
+translate GemCutting to french feminine
+{
+ns "Taille de pierres précieuses"; np "Taille de pierres précieuses";
+}
+
+translate GemCuttingTable to french feminine
+{
+ns "Table de taille"; np "Tables de taille";
+}
+
+translate ScholarsGemCuttingTable to french feminine
+{
+ns "Table de taille de spécialiste"; np "Tables de taille de spécialiste";
+}
+
+translate PharaohsGemCuttingTable to french feminine
+{
+ns "Table de taille de Pharaoh"; np "Tables de taille de Pharaoh";
+}
+
+translate SpecimenCase to french masculine
+{
+ns "Coffret d'exposition"; np "Coffrets d'exposition";
+}
+
+translate GemMachine to french feminine
+{
+ns "Machine à pierres"; np "Machines à pierres";
+}
+
+translate BijouController to french masculine
+{
+ns "Contrôleur de bijoux"; np "Contrôleurs de bijoux";
+}
+
+translate "Cut a Queen's Tomb Turquoise"
+to french "Tailler une turquoise Tombeau de la reine";
+translate "Cut a Queen's Tomb Amethyst"
+to french "Tailler une améthyste Tombeau de la reine";
+translate "Build a Scholar's Gem Cutting Table"
+to french "Construisez une table de taille de spécialiste.";
+translate "Design a Challenge Cut and open it for Judging"
+to french "Créez une taille de concours et soumettez-la à l'évaluation des autres joueurs.";
+translate "Have N1 Judges solve and rate your Bijou"
+to french "Que N1 juges résolvent et évaluent votre bijou";
+
+translate "Tear down your Scholar's Gem Cutting Table, OR do the following:"
+to french "Détruisez votre table de taille de spécialiste, OU faites ce qui suit:";
+
+translate "All of the above, OR solve three recent winning Bijou"
+to french "Tout ce qui est ci-dessus, OU résolvez 3 bijoux gagnants récents";
+
+translate "Complete Principles of the Bijou by designing a cut gem that others find appropriately challenging. Each person attempting your puzzle will start with the same raw gem that you did."
+to french "Réussissez les principes du bijou en créant une pierre taillée présente un défi convenable. Chaque personne qui tentera de solutionner votre problème débutera avec la même pierre brute que vous avez utilisé.";
+
+translate "To claim advancement in Principles of Bijou, N1 people must judge your creation, and most must rate it at least Good."
+to french "Pour revendiquer vos progrès des principes de la main vide, N1 personnes doivent noter votre création, et la plupart des votes doivent au minimum être 'bons'.";
+
+translate "So far, N2 judges have tended to rated it K1."
+to french "Jusqu'à présent, N2 juges ont tendance à l'évaluer K1.";
+
+translate "You have completed Principles of the Bijou."
+to french "Vous avez terminé les Principes du Bijou.";
+
+translate "Queen's Tomb Turquoise"
+to french "Turquoise Tombeau de la reine";
+
+translate "Queen's Tomb Amethyst"
+to french "Améthyste Tombeau de la reine";
+
+translate "Eyelet"
+to french "Oeil-de-pie";
+
+translate "Thistle"
+to french "Chardon";
+
+translate "Lens"
+to french "Lentille";
+
+translate "Choronzon"
+to french "Choronzone";
+
+translate "Queen's Tomb"
+to french "Tombeau de la Reine";
+
+translate "King's Tomb"
+to french "Tombeau du Roi";
+
+translate "Full Eye"
+to french "Oeil";
+
+translate "Corner Heart"
+to french "Coeur anguleux";
+
+translate "Dalessi"
+to french "Dalessi";
+
+translate "Aidenn Mask"
+to french "Masque d'Aidenn";
+
+translate "Full Aidenn Mask"
+to french "Masque d'Aidenn complet";
+
+translate "Amanti"
+to french "Pierre des Amants";
+
+translate "Bastet"
+to french "Pierre de Bastet";
+
+translate "Cat's Eye"
+to french "Oeil de chat";
+
+translate "Unity"
+to french "Unité";
+
+translate "Reflection"
+to french "Reflet";
+
+translate "Appolonia"
+to french "Appolonia";
+
+translate "Bridge"
+to french "Pont";
+
+translate "Hexas Plate"
+to french "Plaque Hexas";
+
+translate "Ring"
+to french "Anneau";
+
+translate "Dragyn's Eye"
+to french "Oeil de Dragyn";
+
+translate "Looking Glass"
+to french "Lunette";
+
+translate "Symmetry"
+to french "Symétrie";
+
+translate "Lotus"
+to french "Lotus";
+
+translate "Khufu's Ship"
+to french "Bateau de Khufu";
+
+translate "Sprocket"
+to french "Ergot";
+
+translate "Tiki Mask"
+to french "Masque Tiki";
+
+translate "Eyelet (N1 carat)"
+to french "Oeil-de-pie (N1 carats)";
+
+translate "Thistle (N1 carat)"
+to french "Chardon (N1 carats)";
+
+translate "Lens (N1 carat)"
+to french "Lentille (N1 carats)";
+
+translate "Choronzon (N1 carat)"
+to french "Choronzone (N1 carats)";
+
+translate "Queen's Tomb (N1 carat)"
+to french "Tombeau de la Reine (N1 carats)";
+
+translate "King's Tomb (N1 carat)"
+to french "Tombeau du Roi (N1 carats)";
+
+translate "Full Eye (N1 carat)"
+to french "Oeil (N1 carats)";
+
+translate "Corner Heart (N1 carat)"
+to french "Coeur anguleux (N1 carats)";
+
+translate "Dalessi (N1 carat)"
+to french "Dalessi (N1 carats)";
+
+translate "Aidenn Mask (N1 carat)"
+to french "Masque d'Aidenn (N1 carats)";
+
+translate "Full Aidenn Mask (N1 carats)"
+to french "Masque d'Aidenn complet (N1 carats)";
+
+translate "Amanti (N1 carat)"
+to french "Pierre des Amants (N1 carats)";
+
+translate "Bastet (N1 carat)"
+to french "Pierre de Bastet (N1 carats)";
+
+translate "Cat's Eye (N1 carat)"
+to french "Oeil de chat (N1 carats)";
+
+translate "Unity (N1 carat)"
+to french "Unité (N1 carats)";
+
+translate "Reflection (N1 carat)"
+to french "Reflet (N1 carats)";
+
+translate "Appolonia (N1 carat)"
+to french "Appolonia (N1 carats)";
+
+translate "Bridge (N1 carat)"
+to french "Pont (N1 carats)";
+
+translate "Hexas Plate (N1 carat)"
+to french "Plaque Hexas (N1 carats)";
+
+translate "Ring (N1 carat)"
+to french "Anneau (N1 carats)";
+
+translate "Dragyn's Eye (N1 carat)"
+to french "Oeil de Dragyn (N1 carats)";
+
+translate "Looking Glass (N1 carat)"
+to french "Lunette (N1 carats)";
+
+translate "Symmetry (N1 carat)"
+to french "Symétrie (N1 carats)";
+
+translate "Lotus (N1 carat)"
+to french "Lotus (N1 carats)";
+
+translate "Khufu's Ship (N1 carat)"
+to french "Bateau de Khufu (N1 carats)";
+
+translate "Sprocket (N1 carat)"
+to french "Ergot (N1 carats)";
+
+translate "Tiki Mask (N1 carat)"
+to french "Masque Tiki (N1 carats)";
+
+translate "Bent Eye"
+to french "Oeil qui louche";
+translate "Bent Eye (N1 carat)"
+to french "Oeil qui louche (N1 carats)";
+
+translate "The Shark"
+to french "Le requin";
+translate "The Shark (N1 carat)"
+to french "Le requin (N1 carats)";
+
+translate "Tiny Eye"
+to french "Oeil minuscule";
+translate "Tiny Eye (N1 carat)"
+to french "Oeil minuscule (N1 carats)";
+
+translate "Alpha"
+to french "Alpha";
+translate "Alpha (N1 carat)"
+to french "Alpha (N1 carats)";
+
+translate "Deep Diamond"
+to french "Diamant creux";
+translate "Deep Diamond (N1 carat)"
+to french "Diamant creux (N1 carats)";
+
+translate "Full Aidenn Mask"
+to french "Masque d'Aidenn plein";
+translate "Full Aidenn Mask (N1 carat)"
+to french "Masque d'Aidenn plein (N1 carats)";
+
+translate "Hile's Chevrons"
+to french "Chevrons d'hilum";
+translate "Hile's Chevrons (N1 carat)"
+to french "Chevrons d'hilum (N1 carats)";
+
+translate "Nekmahet's Bowl"
+to french "Bol de Nekmahet";
+translate "Nekmahet's Bowl (N1 carat)"
+to french "Bol de Nekmahet (N1 carats)";
+
+translate "Ra's Lantern"
+to french "Lanterne de Râ";
+translate "Ra's Lantern (N1 carat)"
+to french "Lanterne de Râ (N1 carats)";
+
+translate "Ribbon"
+to french "Ruban";
+translate "Ribbon (N1 carat)"
+to french "Ruban (N1 carats)";
+
+translate "The Rose"
+to french "La rose";
+translate "The Rose (N1 carat)"
+to french "La rose (N1 carats)";
+
+translate "Four Seasons"
+to french "Quatre saisons";
+translate "Four Seasons (N1 carat)"
+to french "Quatre saisons (N1 carats)";
+
+translate "Onuris Spearpoint"
+to french "Pointe de lance d'Onuris";
+translate "Onuris Spearpoint (N1 carat)"
+to french "Pointe de lance d'Onuris (N1 carats)";
+
+translate "Osiris Eye"
+to french "Oeil d'Osiris";
+translate "Osiris Eye (N1 carat)"
+to french "Oeil d'Osiris (N1 carats)";
+
+translate "Thoth's Kettle"
+to french "Bouilloire de Thoth";
+translate "Thoth's Kettle (N1 carat)"
+to french "Bouilloire de Thoth (N1 carats)";
+
+translate "Thoth's Knot"
+to french "Noeud de Thot";
+translate "Thoth's Knot (N1 carat)"
+to french "Noeud de Thot (N1 carats)";
+
+translate "Window"
+to french "Fenêtre";
+translate "Window (N1 carat)"
+to french "Fenêtre (N1 carats)";
+
+translate "Horus Eye"
+to french "Oeil d'Horus";
+translate "Horus Eye (N1 carat)"
+to french "Oeil d'Horus (N1 carats)";
+
+translate "Double Dragyn"
+to french "Dragyn double";
+translate "Double Dragyn (N1 carat)"
+to french "Dragyn double (N1 carats)";
+
+translate "Aidenn Skew"
+to french "Aidenn oblique";
+translate "Aidenn Skew (N1 carat)"
+to french "Aidenn oblique (N1 carats)";
+
+translate "Amunet"
+to french "Amunet";
+translate "Amunet (N1 carat)"
+to french "Amunet (N1 carats)";
+
+translate "Kona"
+to french "Kona";
+translate "Kona (N1 carat)"
+to french "Kona (N1 carats)";
+
+translate "Hyp"
+to french "Hyp";
+translate "Hyp (N1 carat)"
+to french "Hyp (N1 carats)";
+
+translate "Uncle's Tomb"
+to french "Tombeau de l'oncle";
+translate "Uncle's Tomb (N1 carat)"
+to french "Tombeau de l'oncle (N1 carats)";
+
+translate "Deep Eye"
+to french "Oeil profond";
+translate "Deep Eye (N1 carat)"
+to french "profond (N1 carats)";
+
+translate "Staircase"
+to french "Escalier";
+translate "Staircase (N1 carat)"
+to french "Escalier (N1 carats)";
+
+translate "Queen's Eye"
+to french "Oeil de la reine";
+translate "Queen's Eye (N1 carat)"
+to french "Oeil de la reine (N1 carats)";
+
+translate "Shen of Horus"
+to french "Conscience d'Horus";
+translate "Shen of Horus (N1 carat)"
+to french "Conscience d'Horus (N1 carats)";
+
+translate "Triclops"
+to french "Triclope";
+translate "Triclops (N1 carat)"
+to french "Triclope (N1 carats)";
+
+translate "Solarkin"
+to french "Solarkin";
+translate "Solarkin (N1 carat)"
+to french "Solarkin (N1 carats)";
+
+translate "Tombstone"
+to french "Pierre tombale";
+translate "Tombstone (N1 carat)"
+to french "Pierre tombale (N1 carats)";
+
+translate "Flower of Mo"
+to french "Fleur de Mo";
+translate "Flower of Mo (N1 carat)"
+to french "Fleur de Mo (N1 carats)";
+
+translate "Suspension"
+to french "Suspension";
+translate "Suspension (N1 carat)"
+to french "Suspension (N1 carats)";
+
+translate "Crater"
+to french "Cratère";
+translate "Crater (N1 carat)"
+to french "Cratère (N1 carats)";
+
+translate "Shark"
+to french "Requin";
+translate "Shark (N1 carat)"
+to french "Requin (N1 carats)";
+
+translate "Mouse Trap"
+to french "Piège à souris";
+translate "Mouse Trap (N1 carat)"
+to french "Piège à souris (N1 carats)";
+
+translate "Sord's Stars"
+to french "Étoile de Sord";
+translate "Sord's Stars (N1 carat)"
+to french "Étoile de Sord (N1 carats)";
+
+translate "Zombone"
+to french "Zombone";
+translate "Zombone (N1 carat)"
+to french "Zombone (N1 carats)";
+
+translate "Razor"
+to french "Rasoir";
+translate "Razor (N1 carat)"
+to french "Rasoir (N1 carats)";
+
+translate "Bridle"
+to french "Bride";
+translate "Bridle (N1 carat)"
+to french "Bride (N1 carats)";
+
+translate "Tower"
+to french "Tour";
+translate "Tower (N1 carat)"
+to french "Tour (N1 carats)";
+
+translate "Choronzon"
+to french "Choronzon";
+translate "Choronzon (N1 carat)"
+to french "Choronzon (N1 carats)";
+
+translate "Arch"
+to french "Architecture";
+translate "Arch (N1 carat)"
+to french "Arche (N1 carats)";
+
+translate "Corinth"
+to french "Corinthe";
+translate "Corinth (N1 carat)"
+to french "Corinthe (N1 carats)";
+
+translate "Eye Hedron"
+to french "Oeil Hedron";
+translate "Eye Hedron (N1 carat)"
+to french "Oeil Hedron (N1 carats)";
+
+translate "Twin"
+to french "Jumeau";
+translate "Twin (N1 carat)"
+to french "Jumeau (N1 carats)";
+
+translate "Sparrow"
+to french "Moineau";
+translate "Sparrow (N1 carat)"
+to french "Moineau (N1 carats)";
+
+translate "Satelite"
+to french "Satellite";
+translate "Satelite (N1 carat)"
+to french "Satellite (N1 carats)";
+
+translate "Bone"
+to french "Os";
+translate "Bone (N1 carat)"
+to french "Os (N1 carats)";
+
+translate "Cubic"
+to french "Cubique";
+translate "Cubic (N1 carat)"
+to french "Cubique (N1 carats)";
+
+translate "Eye"
+to french "Oeil";
+translate "Eye (N1 carat)"
+to french "Oeil (N1 carats)";
+
+translate "Looted Tomb"
+to french "Tombe pillée";
+translate "Looted Tomb (N1 carat)"
+to french "Tombe pillée (N1 carats)";
+
+translate "Allows softer semi-precious stones to be finely cut into a multitude of dazzling shapes."
+to french "Permet de tailler des pierres semi-précieuses pour leur donner une multitude de formes admirables.";
+
+translate "GemCutting (Completed)"
+to french "Taille de pierres précieuses (Achevé)";
+
+translate "You learn techniques for cutting Amethyst, Lapis, Garnet, Turquoise, and other gems into beautiful and functional shapes."
+to french "Vous apprenez les techniques de taille perfectionnées de l'améthyste, du lapis, du grenat, du turquoise et autres pierres.";
+
+translate "Gem Cutting Table"
+to french "Table de taille";
+
+translate "To build a Gem Cutting Table, you need: "
+to french "Pour fabriquer une table de taille, il vous faut : ";
+
+translate "Note: Only one free package per person - choose wisely"
+to french "remarque: Un seul choix par personne - choisissez intelligemment";
+
+translate "Get a package of 7 O1"
+to french "Prendre 7 O1(np)";
+
+translate "You already got some free gems from here."
+to french "Vous avez déjà fait votre choix auparavant.";
+
+translate "Error in gem kind."
+to french "Mauvais type de pierre.";
+
+translate "Your gem doesn't match."
+to french "Votre pierre ne correspond pas.";
+
+translate "Discard this Gem"
+to french "Jeter cette pierre";
+
+translate "Are you sure you want to throw out this gem?"
+to french "Voulez-vous vraiment jeter cette pierre ?";
+
+translate "Rotate Axis +X "
+to french "Axe de rotation +X ";
+
+translate "Rotate Axis +Y "
+to french "Axe de rotation +Y ";
+
+translate "Rotate Axis +Z "
+to french "Axe de rotation +Z ";
+
+translate "Rotate Axis -X "
+to french "Axe de rotation -X ";
+
+translate "Rotate Axis -Y "
+to french "Axe de rotation -Y ";
+
+translate "Rotate Axis -Z "
+to french "Axe de rotation -Z ";
+
+translate "Rotate Axis +X [key=L]"
+to french "Axe de rotation +X [key=L]";
+
+translate "Rotate Axis +Y [key=I]"
+to french "Axe de rotation +Y [key=I]";
+
+translate "Rotate Axis +Z [key=J]"
+to french "Axe de rotation +Z [key=J]";
+
+translate "Rotate Axis -X [key=O]"
+to french "Axe de rotation -X [key=O]";
+
+translate "Rotate Axis -Y [key=U]"
+to french "Axe de rotation -Y [key=U]";
+
+translate "Rotate Axis -Z [key=K]"
+to french "Axe de rotation -Z [key=K]";
+
+translate "Sanding Disc 1 "
+to french "Disque d'abrasion 1 ";
+
+translate "Sanding Disc 2 "
+to french "Disque d'abrasion 2 ";
+
+translate "Sanding Disc 3 "
+to french "Disque d'abrasion 3 ";
+
+translate "Recenter Gem "
+to french "Recentrer la pierre ";
+
+translate "Sanding Disc 1 [key=S]"
+to french "Disque d'abrasion 1 [key=S]";
+
+translate "Sanding Disc 2 [key=D]"
+to french "Disque d'abrasion 2 [key=D]";
+
+translate "Sanding Disc 3 [key=F]"
+to french "Disque d'abrasion 3 [key=F]";
+
+translate "Recenter Gem [key=R]"
+to french "Recentrer la pierre [key=R]";
+
+translate "Design"
+to french "Conception";
+
+translate "Solid"
+to french "Solide";
+
+translate "Drilled"
+to french "Percée";
+
+translate "Unfold, Recenter and Encode"
+to french "Déployer, recentrer et encoder";
+
+translate "Finished Cutting"
+to french "Taille achevée";
+
+translate "Unique Specimen"
+to french "Exemplaire unique";
+
+translate "Name for your cut?"
+to french "Le nom de votre pierre ?";
+
+translate "Gem Catalog"
+to french "Catalogue de pierres";
+
+translate "Gem Catalog"
+to french "Catalogue de pierres";
+
+translate "Bal"
+to french "Poids";
+
+translate "Allows one to add a balance to a gem cutting table, measuring a gem's weight."
+to french "Vous permet d'ajouter une balance à une table de taille, afin de peser précisément des pierres.";
+
+translate "Fine Balance"
+to french "Balance de précision";
+
+translate "You learn to construct a fine balance, an upgrade to a gem cutting table that lets you accurately weigh Amethyst, Lapis, Garnet, Turquoise, and other gems as you cut them."
+to french "Vous savez maintenant fabriquer une balance de précision, une amélioration à la table de taille qui vous permet de peser précisément des améthystes, du lapis, des grenats, des turquoises et d'autres gems lors de leur coupe.";
+
+translate "Upgrade this table with a Fine Balance"
+to french "Ajouter une balance de précision à cette table";
+
+translate "Upgrade this table to Fracture Gems"
+to french "Améliorez cette table pour fracturer des joyaux";
+
+translate "To upgrade this gem cutting table you need:"
+to french "Pour améliorer cette table de coupe de gemmes vous avez besoin de:";
+
+translate "You need a pair of Queen's Tomb Sunstones to construct a Fine Balance on this table."
+to french "Il vous faut deux héliolites Tombeau de la Reine pour ajouter une balance de précision à cette table.";
+
+translate "The table will now display gem weights in carats."
+to french "La table vous permettra à présent de connaître le poids des pierres en carats.";
+
+translate "The table is now able to fracture larger gems into smaller."
+to french "La table vous permettra à présent de fracturer de larges joyaux en plus petits";
+
+translate "The gem breaks cleanly into N1 O1"
+to french "Le joyau s'est cassé proprement en N1 O1(N1?np:ns)";
+translate "Gem Weight: N1 carats"
+to french "Poids de la pierre : N1 carats";
+
+translate "You cannot break this gem any smaller"
+to french "Vous ne pouvez pas casser ce joyau en morceaux plus petits";
+
+translate "Test of the Bijou"
+to french "Épreuve du Bijou";
+
+translate "Build a Scholar's Gem Cutting table. Included in the costs is a piece of Hornet's Wing Granite, a stone with a most unusual property: Each slab is of a repeating crystaline structure, meaning that a single slab produces many copies of the same raw gem-like piece. Challenge others to duplicate your design."
+to french "Construisez une table de taille de spécialiste. Dans la construction de cette table se trouve un morceau de granit aile-de-frelon, une pierre qui possède des propriétés très inhabituelles. Chaque dalle de ce granit possède une structure répétitive en cristaux, ce qui signifie qu'une seule dalle peut produire de nombreuses tailles identiques. Défiez les autres personnes de reproduire votre création.";
+
+translate "Scholar's Gem Cutting Table"
+to french "Table de taille de spécialiste";
+
+translate "To build a Scholar's Gem Cutting Table, you need: "
+to french "Pour construire une table de taille de spécialiste, il vous faut :";
+
+translate "Make this the Challenge Gem"
+to french "En faire la pierre de concours";
+
+translate "Compare to the Challenge Cut"
+to french "Comparer à la pierre de concours";
+
+translate "Success! You may now judge this challenge."
+to french "Réussite ! Vous pouvez maintenant évaluer ce défi.";
+
+translate "The cuts match, however, you are not the one who attempted the challenge cut."
+to french "Les tailles correspondent, mais vous n'êtes pas à l'origine de la pierre.";
+
+translate "The gem cuts do not match."
+to french "Les tailles ne correspondent pas.";
+
+translate "Attempt the Challenge Cut"
+to french "Relever le défi de taille";
+
+translate "Change Sample"
+to french "Changer de pierre";
+
+translate "Throw out the Challenge Cut?"
+to french "Jeter la pierre du défi ?";
+
+translate "Sanding Disc 1 [key=S]"
+to french "Disque abrasif 1 [key=S]";
+
+translate "Sanding Disc 2 [key=D]"
+to french "Disque abrasif 2 [key=D]";
+
+translate "Sanding Disc 3 [key=F]"
+to french "Disque abrasif 3 [key=F]";
+
+translate "Exchange my Aidenn for an Aidenn Mask"
+to french "Echanger mon Aidenn contre un masque d'Aidenn";
+
+translate "O1 is not a cut gem."
+to french "O1(ns) n'est pas une pierre taillée.";
+
+translate "No such cut: "
+to french "Pas une taille: ";
+
+translate "In the opinion of N1 judges, and with a score of N2, Egypt recognizes U1, for passing the Test of the Bijou for his design at N3. "
+to french "Selon N1 juges, avec un score de N2, l'égypte reconnaît que N1(name) a passé avec succès l'épreuve du Bijou pour sa réalisation, qui se trouve en N3. ";
+
+translate "In the opinion of N1 judges, and with a score of N2, Egypt recognizes U1, for passing the Test of the Bijou for her design at N3. "
+to french "Selon N1 juges, avec un score de N2, l'égypte reconnaît que N1(name) a passé avec succès l'épreuve du Bijou pour sa réalisation, qui se trouve en N3. ";
+
+translate "Error: Could not find Bijou designer at N1"
+to french "Erreur : Il n'y a pas de tailleur de bijoux en N1";
+
+translate "Choronzon Garnet"
+to french "Grenat Chorozon";
+
+translate "Thistle Garnet"
+to french "Grenat chardon";
+
+translate "Lens Garnet"
+to french "Grenat lentille";
+
+translate "Queen's Tomb Garnet"
+to french "Grenat Tombe de la Reine";
+
+translate "Ask for a bag of Zircon"
+to french "Demander un sac de zircons";
+
+translate "You already picked up your bag of Zircon."
+to french "Vous avez déjà reçu votre sac de zircons.";
+
+translate "Contest"
+to french "Concours";
+
+translate "Gems Already Cut"
+to french "Pierres déjà taillées";
+
+translate "You may only load N1 gems during this event."
+to french "Vous pouvez charger uniquement N1 pierres pendant ce concours.";
+
+translate "On a Pharaoh's Gem Cutting table, you may only finish cutting gems that you have loaded."
+to french "Sur une table de taille de Pharaoh, vous pouvez terminer uniquement les pierres que vous avez chargées.";
+
+translate "Disqualify from Judging"
+to french "Disqualifier de l'évaluation";
+
+translate "Really disqualify from judging? This is permanent, and can not be reversed on this Table."
+to french "Voulez-vous vraiment disqualifier cette table de l'évaluation ? Cette décision est permanente, et ne peut être annulée.";

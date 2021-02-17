@@ -1,0 +1,212 @@
+Module Witagog_Ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment		           **
+//**                                                                       **
+//***************************************************************************
+
+translate "Set Rank"
+to german "Stelle Rang ein";
+
+translate WitagogDesk to german masculine
+{
+swa "Witagogtisch";
+  sn "Witagogtisch"; sg "Witagogtisches"; sd "Witagogtisch"; sa "Witagogtisch";
+  pn "Witagogtische"; pg "Witagogtische"; pd "Witagogtischen"; pa "Witagogtisch";
+}
+translate WitagogAlcove to german neuter
+{
+swa "Witagogtor";
+  sn "Witagogtor"; sg "Witagogtors"; sd "Witagogtor"; sa "Witagogtor";
+  pn "Witagogtore"; pg "Witagogtore"; pd "Witagogtoren"; pa "Witagogtore";
+}
+
+translate "Set to Tournament Mode"
+to german "Auf Turniermodus einstellen";
+
+translate "Set to Practice Mode"
+to german "Auf Übungsmodus einstellen";
+
+translate "Configure this desk"
+to german "Diesen Tisch einstellen";
+
+translate "End Witagog Configure"
+to german "Beende Witagogeinstellung";
+
+translate "Witagog: Set Blue Alcove here"
+to german "Witagog: Platziere Blaue Nische hier";
+
+translate "Witagog: Set Green Alcove here"
+to german "Witagog: Platziere Grüne Nische hier";
+
+translate "Witagog: Add Blue"
+to german "Witagog: Wähle Blau";
+
+translate "Witagog: Add Green"
+to german "Witagog: Wähle Grün";
+
+translate "Remove this Witagog"
+to german "Entferne diesen Witagog";
+
+translate "Reset the board"
+to german "Setze das Spielfeld zurück";
+
+translate "Practice Mode"
+to german "Übungsmodus";
+
+translate "Tournament Mode, Rank N1"
+to german "Turniermodus, Rang N1";
+
+translate "Tournament Mode, Unrestricted"
+to german "Turniermodus, Uneingeschränkt";
+
+translate "Rank"
+to german "Rang";
+
+translate "Unrestricted"
+to german "Uneingeschränkt";
+
+translate "To play, you must register"
+to german "Um spielen zu können registriere";
+
+///Zeile 310
+
+translate "Wager: Free"
+to german "Wette: Frei";
+
+translate "Play Witagog"
+to german "Spiele Witagog";
+
+translate "You must first sign up for the Test of Witagog at the Great University of Conflict."
+to german "Du mußt zuerst für den Test des Witagog an der Großen Universität des Konfliktes eingetragen sein.";
+
+translate "Force game to start"
+to german "Erzwinge Spielstart";
+
+translate "Play Witagog against U1"
+to german "Spiele Witagog gegen U1(name)";
+
+translate "You do not have enough O1"
+to german "Du hast nicht genug O1(pn)";
+
+translate "Your opponent does not have enough O1 for an offering."
+to german "Dein Gegenspieler hat nicht genug O1(pn) als Einsatz.";
+
+translate "This game will not affect ranks because the court is in Practice Mode."
+to german "Dieses Spiel wird Deinen Rang nicht beeinflußen, weil es im Übungsmodus ist.";
+
+translate "This game will not affect ranks because the court is designated only for Rank N1, players, at least one of the players is not that rank."
+to german "Dieses Spiel wird Deinen Rang nicht beeinflussen, weil das Spielfeld nur für Rang N1 Spieler gedacht ist, mindestens einer der Spieler hat diesen Rang nicht.";
+
+translate "Not your turn"
+to german "Nicht Dein Zug";
+
+translate "Are you sure you want to end Move phase?"
+to german "Bist Du sicher, daß Du die Bewegungsphase beenden möchtest?";
+
+translate "Are you sure you want to end Build phase?"
+to german "Bist Du sicher, daß Du die Bauphase beenden möchtest?";
+
+translate "My Witagog, HP:N1"
+to german "Mein Witagog, HP:N1";
+
+translate "Opponent's Witagog, HP:N1"
+to german "Gegnerischer Witagog, HP:N1";
+
+translate "Move:N1 HP:N2"
+to german "Bewegungspunkte:N1 HP:N2";
+
+translate "Build:N1 HP:N2"
+to german "Baupunkte:N1 HP:N2";
+
+translate "Strength:"
+to german "Stärke: ";
+
+translate "Defense:"
+to german "Abwehr: ";
+
+translate "Max HP:"
+to german "Maximale HP: ";
+
+translate "Heal:"
+to german "Heilrate: ";
+
+translate "Speed:"
+to german "Geschwindigkeit: ";
+
+translate "Your Turn!"
+to german "Dein Zug!";
+
+translate "Your Witagogs have triumphed!"
+to german "Deine Witagogs haben gesiegt!";
+
+translate "Your Witagogs have been defeated!"
+to german "Deine Witagogs wurden besiegt!";
+
+translate "It is not your turn"
+to german "Du bist nicht am Zug";
+
+translate "You can't build your Witagogs in Move phase."
+to german "Du kannst Deine Witagogs während der Bewegungsphase nicht erweitern.";
+
+translate "Unknown stat"
+to german "Unbekannter Wert";
+
+translate "N1 points needed."
+to german "Dazu sind N1 Baupunkte notwendig.";
+
+translate "Diagonal legs can only be added after adjacent legs."
+to german "Diagonale Beine können nur zwischen zwei bestehenden Beinen eingefügt werden.";
+
+translate "You may move a piece"
+to german "Du darfst deine Witagogs bewegen";
+
+translate "You can build. You have N1 points left."
+to german "Du kannst bauen. Du hast N1 Punkte übrig.";
+
+translate "Not your Witagog"
+to german "Nicht Dein Witagog";
+
+translate "Out of Bounds"
+to german "Im Aus";
+
+translate "This piece does not know how to move that way."
+to german "Dieser Witagog weiß nicht, womit er in diese Richtung laufen soll.";
+
+translate "Attacking not allowed in Move phase."
+to german "Ein Angriff ist während der Bewegungsphase nicht erlaubt.";
+
+translate "You need N1 points."
+to german "Dazu brauchst Du N1 Bewegungspunkte.";
+
+translate "No opponent to attack"
+to german "Kein Gegner zum Angreifen vorhanden";
+
+translate "Can't attack your own Witagogs!."
+to german "Du kannst Deine eigenen Witagogs nicht angreifen!";
+
+//zeile 613
+
+
+
+
+translate "Start the Test of Witagog"
+to german "Starte den Test des Witagog";
+
+translate "You are now registered for the Test of Witagog. "
+to german "Du bist nun für den Test des Witagog eingetragen.";
+
+translate "Conflict"
+to german "Konflikt";
+
+translate "Start Test of Witagog"
+to german "Starte Test des Witagog";
+
+translate "Clear Test of Witagog"
+to german "Lösche Test des Witagog";
+
+translate "Concede the game"
+to german "Spiel aufgeben";

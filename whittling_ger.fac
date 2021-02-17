@@ -1,0 +1,500 @@
+module whittling_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2007 by MDO Entertainment		        				   **
+//**                                                                       **
+//***************************************************************************
+
+translate Knife to german neuter
+{
+  swa "Messer";
+  sn "Messer"; sg "Messers"; sd "Messer"; sa "Messer";
+  pn "Messer"; sg "Messer"; pd "Messer"; pa "Messer";
+}
+translate KnifeBlade to german feminine
+{
+  swa "Messerklinge";
+  sn "Messerklinge"; sg "Messerklinge"; sd "Messerklinge"; sa "Messerklinge";
+  pn "Messerklingen";pg "Messerklingen"; pd "Messerklingen"; pa "Messerklingen";
+}
+translate IronKnife to german neuter
+{
+  swa "Eisenmesser";
+  sn "Eisenmesser"; sg "Eisenmessers"; sd "Eisenmesser"; sa "Eisenmesser";
+  pn "Eisenmesser"; sg "Eisenmesser"; pd "Eisenmessern"; pa "Eisenmesser";
+}
+translate GlassKnife to german neuter
+{
+  swa "Glasmesser";
+  sn "Glasmesser"; sg "Glasmessers"; sd "Glasmesser"; sa "Glasmesser";
+  pn "Glasmesser"; sg "Glasmesser"; pd "Glasmessern"; pa "Glasmesser";
+}
+translate SharpKnife to german neuter
+{
+  swa "Scharfes Messer";
+  sn "Scharfe Messer"; sg "Scharfen Messers"; sd "Scharfen Messer"; sa "Scharfe Messer";
+  pn "Scharfen Messer"; sg "Scharfen Messer"; pd "Scharfen Messern"; pa "Scharfen Messer";
+}
+translate JaggedKnife to german neuter
+{
+  swa "Gezacktes Messer";
+  sn "Gezackte Messer"; sg "Gezackten Messers"; sd "Gezackten Messer"; sa "Gezackte Messer";
+  pn "Gezackten Messer"; sg "Gezackten Messer"; pd "Gezackten Messern"; pa "Gezackte Messer";
+}
+translate DoubleKnife to german neuter
+{
+  swa "Doppelmesser";
+  sn "Doppelmesser"; sg "Doppelmessers"; sd "Doppelmesser"; sa "Doppelmesser";
+  pn "Doppelmesser"; sg "Doppelmesser"; pd "Doppelmessern"; pa "Doppelmesser";
+}
+
+translate Rawhide to german neuter
+{
+  swa "Lederband";
+  sn "Lederband"; sg "Lederbands"; sd "Lederband"; sa "Lederband";
+  pn "Lederbänder"; sg "Lederbänder"; pd "Lederbändern"; pa "Lederbänder";
+}
+translate Quill to german masculine
+{
+  swa "Federkiel";
+  sn "Federkiel"; sg "Federkiels"; sd "Federkiel"; sa "Federkiel";
+  pn "Federkiele"; sg "Federkiele"; pd "Federkielen"; pa "Federkielen";
+}
+translate SharpStick to german masculine
+{
+  swa "Spitzer Stock";
+  sn "Spitze Stock"; sg "Spitzen Stockes"; sd "Spitzen Stock"; sa "Spitze Stock";
+  pn "Spitzen Stöcke"; sg "Spitzen Stöcke"; pd "Spitzen Stöcken"; pa "Spitzen Stöcke";
+}
+translate Tinder to german masculine
+{
+  swa "Zunder";
+  sn "Zunder"; sg "Zunders"; sd "Zunder"; sa "Zunder";
+  pn "Zunder"; sg "Zunder"; pd "Zunder"; pa "Zunder";
+}
+translate CotterPin to german masculine
+{
+  swa "Splint";
+  sn "Splint"; sg "Splints"; sd "Splint"; sa "Splint";
+  pn "Splinte"; sg "Splinte"; pd "Splinten"; pa "Splinte";
+}
+translate WoodenPeg to german masculine
+{
+  swa "Holzdübel";
+  sn "Holzdübel"; sg "Holzdübels"; sd "Holzdübel"; sa "Holzdübel";
+  pn "Holzdübel"; sg "Holzdübel"; pd "Holzdübel"; pa "Holzdübel";
+}
+translate CrudeHandle to german masculine
+{
+  swa "Einfacher Griff";
+  sn "Einfache Griff"; sg "Einfachen Griffs"; sd "Einfachen Griff"; sa "Einfache Griff";
+  pn "Einfachen Griffe"; sg "Einfachen Griffe"; pd "Einfachen Griffen"; pa "Einfachen Griffe";
+}
+translate Chit to german neuter
+{
+  swa "Holzschild";
+  sn "Holzschild"; sg "Holzschildes"; sd "Holzschild"; sa "Holzschild";
+  pn "Holzschilder"; sg "Holzschilder"; pd "Holzschildern"; pa "Holzschilder";
+}
+translate BarrelTap to german masculine
+{
+  swa "Fassdeckel";
+  sn "Fassdeckel"; sg "Fassdeckels"; sd "Fassdeckel"; sa "Fassdeckel";
+  pn "Fassdeckel"; sg "Fassdeckel"; pd "Fassdeckeln"; pa "Fassdeckel";
+}
+translate Pestle to german masculine
+{
+  swa "Stößel";
+  sn "Stößel"; sg "Stößels"; sd "Stößel"; sa "Stößel";
+  pn "Stößel"; sg "Stößel"; pd "Stößel"; pa "Stößel";
+}
+translate Cog to german neuter
+{
+  swa "Zahnrad";
+  sn "Zahnrad"; sg "Zahnrads"; sd "Zahnrad"; sa "Zahnrad";
+  pn "Zahnräder"; sg "Zahnräder"; pd "Zahnrädern"; pa "Zahnräder";
+}
+translate EBlock to german masculine
+{
+  swa "Flaschenzug";
+  sn "Flaschenzug"; sg "Flaschenzugs"; sd "Flaschenzug"; sa "Flaschenzug";
+  pn "Flaschenzüge"; sg "Flaschenzüge"; pd "Flaschenzügen"; pa "Flaschenzüge";
+}
+translate IntricateHandle to german masculine
+{
+  swa "Aufwendiger Griff";
+  sn "Aufwendige Griff"; sg "Aufwendigen Griffs"; sd "Aufwendigen Griff"; sa "Aufwendige Griff";
+  pn "Aufwendigen Griffe"; sg "Aufwendigen Griffe"; pd "Aufwendigen Griffen"; pa "Aufwendigen Griffe";
+}
+translate LargeCrudeHandle to german masculine
+{
+  swa "Länglicher Griff";
+  sn "Längliche Griff"; sg "Länglichen Griffs"; sd "Länglichen Griff"; sa "Längliche Griff";
+  pn "Länglichen Griffe"; sg "Länglichen Griffe"; pd "Länglichen Griffen"; pa "Länglichen Griffe";
+}
+translate DowsingRod to german femininecollective
+{
+  swa "Wünschelrute";
+  sn "Wünschelrute"; sg "Wünschelrute"; sd "Wünschelrute"; sa "Wünschelrute";
+  pn "Wünschelruten"; sg "Wünschelruten"; pd "Wünschelruten"; pa "Wünschelruten";
+}
+translate BottleStop to german masculine
+{
+  swa "Weinflaschenverschluss";
+  sn "Weinflaschenverschluss"; sg "Weinflaschenverschlusses"; sd "Weinflaschenverschluss"; sa "Weinflaschenverschluss";
+  pn "Weinflaschenverschlüsse"; sg "Weinflaschenverschlüsse"; pd "Weinflaschenverschlüssen"; pa "Weinflaschenverschlüsse";
+}
+translate WoodChips to german femininecollective
+{
+  swa "Holzspäne";
+  sn "Holzspäne"; sg "Holzspäne"; sd "Holzspäne"; sa "Holzspäne";
+  pn "Holzspäne"; sg "Holzspäne"; pd "Holzspänen"; pa "Holzspäne";
+}
+
+translate OrnateCartouche to german masculine
+{
+  swa "Kunstvoller Zierrahmen";
+  sn "Kunstvolle Zierrahmen"; sg "Kunstvollen Zierrahmens"; sd "Kunstvollen Zierrahmen"; sa "Kunstvolle Zierrahmen";
+  pn "Kunstvollen Zierrahmen"; sg "Kunstvollen Zierrahmen"; pd "Kunstvollen Zierrahmen"; pa "Kunstvollen Zierrahmen";
+}
+translate GlassBlade to german femininecollective
+{
+  swa "Glasklinge";
+  sn "Glasklinge"; sg "Glasklinge"; sd "Glasklinge"; sa "Glasklinge";
+  pn "Glasklingen"; sg "Glasklingen"; pd "Glasklingen"; pa "Glasklingen";
+}
+translate AlcoholLamp to german femininecollective
+{
+  swa "Alkohollampe";
+  sn "Alkohollampe"; sg "Alkohollampe"; sd "Alkohollampe"; sa "Alkohollampe";
+  pn "Alkohollampen"; sg "Alkohollampen"; pd "Alkohollampen"; pa "Alkohollampen";
+}
+
+translate Carving to german neuter
+{
+  swa "Schnitzen";
+  sn "Schnitzen"; pn "Schnitzen";
+}
+translate StoneKnife to german masculine
+{
+  swa "Feuersteinmesser";
+  sn "Feuersteinmesser"; sg "Feuersteinmessers"; sd "Feuersteinmesser"; sa "Feuersteinmesser";
+  pn "Feuersteinmesser"; sg "Feuersteinmesser"; pd "Feuersteinmessern"; pa "Feuersteinmesser";
+}
+translate IronBlade to german femininecollective
+{
+  swa "Eisenklinge";
+  sn "Eisenklinge"; sg "Eisenklinge"; sd "Eisenklinge"; sa "Eisenklinge";
+  pn "Eisenklingen"; sg "Eisenklingen"; pd "Eisenklingen"; pa "Eisenklingen";
+}
+translate ClayLamp to german feminine
+{
+  swa "Tonlampe";
+  sn "Tonlampe"; sg "Tonlampe"; sd "Tonlampe"; sa "Tonlampe";
+  pn "Tonlampen"; sg "Tonlampen"; pd "Tonlampen"; pa "Tonlampen";
+}
+
+translate "Carving"
+to german "Schnitzen";
+translate "Knives"
+to german "Messer";
+translate "Assembly"
+to german "Montage";
+
+translate "Carving/Knives"
+to german "Schnitzen/Messer";
+
+translate "Fashion a crude Flint Knife"
+to german "Stelle ein einfaches Feuersteinmesser her";
+translate "Assemble a Iron Knife"
+to german "Montiere ein Eisenmesser";
+translate "Assemble an Iron Knife"
+to german "Montiere ein Eisenmesser";
+translate "Assemble a Sharp Knife"
+to german "Montiere ein Scharfes Messer";
+translate "Assemble a Jagged Knife"
+to german "Montiere ein Gezacktes Messer";
+translate "From Jagged Blade (K1)"
+to german "Aus einer Gezackten Klinge (K1)";
+translate "Assemble a Twice Folded Knife"
+to german "Montiere ein Doppelt Gehärtetes Messer";
+translate "From Twice Folded Blade (K1)"
+to german "Aus einer Doppelt Gehärteten Klinge (K1)";
+translate "Wrap Rawhide around a Glass Knife Blade"
+to german "Wickle Lederband um eine Glasklinge";
+
+translate "Whittle a Sharpened Stick"
+to german "Schnitze einen spitzen Stock";
+translate "Shred Wood into Tinder"
+to german "Zerkleinere Holz zu Zunder";
+translate "Cut Leather into Rawhide Strips"
+to german "Schneide Leder zu Lederstreifen";
+translate "Whittle a small Wooden Peg"
+to german "Schnitze einen kleinen Holzdübel";
+translate "Whittle a Crudely Carved Handle"
+to german "Schnitze einen einfachen Griff";
+translate "Whittle a personal Chit"
+to german "Schnitze ein eigenes Holzschild";
+translate "Whittle a Barrel Tap"
+to german "Schnitze einen Fassdeckel";
+translate "Whittle a Wooden Pestle"
+to german "Schnitze einen Stößel";
+translate "Cut a Quill"
+to german "Spitze einen Federkiel an";
+translate "Carve a Large Crude Handle"
+to german "Schnitze einen länglichen Griff";
+translate "Whittle a small Cotter Pin"
+to german "Schnitze einen kleinen Splint";
+translate "Whittle a Bottle Stopper"
+to german "Schnitte einen Weinflaschenverschluss";
+translate "Whittle an Intricately Carved Handle" 	
+to german "Schnitze einen aufwendigen Griff";
+translate "Whittle an empty Tackle Block"
+to german "Schnitze die Basis für einen Flaschenzug";
+translate "Whittle a Wooden Cog"
+to german "Schnitze ein hölzernes Zahnrad";
+translate "Whittle wood into chips"
+to german "Schnitze Holz zu Holzspäne";
+
+translate "Put together a Tackle Block"
+to german "Baue einen Flaschenzug zusammen";
+translate "Put together a Basic Reel"
+to german "Baue eine Spule zusammen";
+translate "Put together a Complex Reel"
+to german "Baue eine aufwendige Spule zusammen";
+translate "Put together a Advanced Reel"
+to german "Baue eine verbesserte Spule zusammen";
+translate "Put together a Basic Fishing Pole"
+to german "Montiere eine einfache Angel";
+translate "Put together a Craftsman's Fishing Pole"
+to german "Montiere eine Handwerkerangel";
+translate "Put together a Fine Fishing Pole"
+to german "Montiere eine Eleganzangel";
+translate "Put together a Royal Fishing Pole"
+to german "Montiere eine Königsangel";
+translate "Put together a Dowsing Rod"
+to german "Montiere eine Wünschelrute";
+translate "Make a Clay Lamp"
+to german "Baue eine Tonlampe";
+translate "Make a Flint Chisel"
+to german "Baue einen Feuersteinmeißel";
+translate "Make a Flint Hammer"
+to german "Baue einen Feuersteinhammer";
+translate "Make a Reagent Bottle"
+to german "Stelle eine Reagenzflasche her";
+translate "Make an Alcohol Lamp"
+to german "Baue eine Alcohollampe zusammen";
+
+translate "Ornate Cartouche"
+to german "Kunstvoller Zierrahmen";
+
+translate "Amongst other things, this allows you to sharpen sticks, and shave wood into tinder."
+to german "Neben anderen Dingen kannst du nun spitze Stöcke schnitzen und Holz zu Zunder hobeln.";
+
+translate "You now have the ability to make slightly more intricate objects, such as personal chits and pegs."
+to german "Du hast nun die Möglichkeit, schwierigere Dinge herzustellen wie z. B. persönliche Holzschilder und Dübel.";
+
+translate "You can use a knife to carve quills and pestles, along with other items."
+to german "Du kannst ein Messer zum Anspitzen von Federkielen und zum Schnitzen von Stößeln oder anderen Dingen benutzen.";
+translate "You can construct bottle stops and cotter pins, using a Knife."
+to german "Mit einem Messer kannst du Weinflaschenverschlüsse und Splinte herstellen.";
+translate "Using a Knife, you can build tackle blocks, wooden cogs and other useful items."
+to german "Mit einem Messer kannst Du Flaschenzüge, Stößel und andere nützliche Gegenstände herstellen.";
+
+translate "You require two pieces of flint to sharpen against each other, a piece of wood as the handle, and a piece of twine to hold it together."
+to german "Du brauchst zwei Feuersteinstücke zum Schärfen, ein Stück Holz als Griff und Zwirn zum Zusammenbinden.";
+
+translate "To fashion a Iron Knife, you need a Knife Blade, a Crudely Carved Handle to place the tang in, and a pair of Wooden Pegs to secure it."
+to german "Um ein Eisenmesser zu montieren benötigst du eine Messerklinge, einen einfachen Griff zum Einfügen und zwei Dübel zum Sichern.";
+
+translate "You have fashioned a Knife. Very sturdy, but will dull with time. You can use this for Carving."
+to german "Du hast ein Messer hergestellt. Sehr stabil, aber es wird mit der Zeit stumpf. Nutze dies zum Schnitzen.";
+
+translate "You have fashioned a crude Flint Knife. You can use this for Carving."
+to german "Du hast ein einfaches Feuersteinmesser hergestellt. Nutze es zum Schnitzen.";
+
+translate "To fashion a Glass Knife, you require a Glass Blade, and four strips of Rawhide to wrap around it."
+to german "Um ein Glasmesser herzustellen benötigst du eine Glasklinge und vier Lederstreifen zum Umwickeln.";
+
+translate "You have fashioned a Glass Knife. It's fragile, but better than a Flint Knife. You can use this for Carving."
+to german "Du hast ein Glasmesser hergestellt. Es ist zerbrechlich, aber besser, als ein Feuersteinmesser. Nutze dies zum Schnitzen.";
+
+translate "Make a Glass Blade (120 sec)"
+to german "Stelle eine Glasklinge her (120 Sek)";
+
+translate "Make an Iron Knife Blade"
+to german "Stelle eine Eisenklinge her";
+
+translate "To make an iron knife blade you need:"
+to german "Um eine Messerklinge aus Eisen herzustellen benötigst du:";
+
+translate "Making an Iron Knife Blade"
+to german "Herstellung: Messerklinge Eisen";
+
+translate "Iron Knife Blade will be done in N1"
+to german "Messerklinge aus Eisen wird in N1 fertig sein";
+
+translate "Your knife blade is ready."
+to german "Deine Messerklinge ist fertig.";
+
+translate "To fashion an Iron Knife, you need an Iron Knife Blade, a Crudely Carved Handle to place the tang in, and a pair of Wooden Pegs to secure it."
+to german "Um ein Eisenmesser herzustellen benötigst du eine Eisenklinge, einen einfachen Griff zum Einfügen und 2 Dübel zum Sichern.";
+
+translate "You have fashioned an Iron Knife. Very sturdy, but will dull with time. You can use this for Carving."
+to german "Du hast ein Eisenmesser hergestellt. Sehr stabil, aber es wird mit der Zeit stumpf. Nutze dies zum Schnitzen.";
+
+translate "To fashion a Sharp Edged Knife, you need an Sharp Edged Knife Blade of at least N1 quality, a Crudely Carved Handle to place the tang in, a pair of Wooden Pegs to secure it, and 4 pieces of Rawhide to wrap around the handle."
+to german "Um ein Scharfes Messer herzustellen benötigst du eine Scharfe Klinge mit einer Qualität von mind. N1, einen einfachen Griff zum Einfügen, zwei Dübel zum Sichern und vier Lederstreifen zum Umwickeln.";
+
+translate "Your Sharp Edged Blade is only N1. You must use a blade of at least N2 quality!"
+to german "Deine Scharfe Klinge hat nur eine Qualität von N1. Du musst eine Klinge mit mind. N2 haben!";
+
+translate "You have fashioned a Sharp Edged Knife. Extremely sturdy, but will dull with use. You can use this for Carving."
+to german "Du hast ein Scharfes Messer hergestellt. Extrem haltbar, aber es wird mit der Zeit stumpf. Nutze dies zum Schnitzen.";
+
+translate "To fashion a Jagged Knife, you need an Jagged Knife Blade of at least N1 quality, an Intricately Carved Handle to place the tang in, a pair of Bolts to secure it, and 4 pieces of Rawhide to wrap around the handle."
+to german "Um ein Gezacktes Messer herzustellen benötigst du eine Gezackte Klinge mit einer Qualität von mind. N1, einen aufwendigen Griff zum Einfügen, zwei Schrauben zum Sichern und vier Lederstreifen zum Umwickeln.";
+
+translate "Your Jagged Blade is only N1. You must use a blade of at least N2 quality!"
+to german "Deine Gezackte Klinge hat nur eine Qualität von N1. Du musst eine Klinge mit mind. N2 haben!";
+
+translate "You have fashioned a Jagged Knife. It has a serrated edge - it will cut through the toughest wood with ease, but will eventually dull with use. You can use this for Carving."
+to german "Du hast ein Gezacktes Messer hergestellt. Es hat eine gezackte Schneide - es wird mit Leichtigkeit das härteste Holz schneiden, mit der Zeit aber möglicherweise stumpf werden. Nutze dies zum Schnitzen.";
+
+translate "To fashion a Twice Folded Knife, you need an Twice Folded Knife Blade of at least N1 quality, an Intricately Carved Handle to place the tang in, a pair of Bolts to secure it, 4 pieces of Rawhide to wrap around the handle, and two gold wire to secure the Rawhide."
+to german "Um ein Gezacktes Messer herzustellen benötigst du eine Gezackte Klinge mit einer Qualität von mind. N1, einen aufwendigen Griff zum Einfügen, zwei Schrauben zum Sichern, vier Lederstreifen zum Umwickeln des Griffs und 2 Golddrähte, um die Lederstreifen festzuhalten.";
+
+translate "Your Twice Folded Blade is only N1. You must use a blade of at least N2 quality!"
+to german "Deine Doppelt gehärtete Klinge hat nur eine Qualität von N1. Du musst eine Klinge mit mind. N2 haben!";
+
+translate "You have fashioned an Twice Folded Knife. The metal has been folded twice, making it incredibly hard. It will still dull, but will take an extremely long time. You can use this for Carving."
+to german "Du hast ein Doppelt Gehärtetes Messer hergestellt. Das Metall wurde zweimal gefaltet und macht es dadurch unglaublich hart. Es wird auch abstumpfen, aber das wird sehr lange dauern. Nutze dies zum Schnitzen.";
+
+translate "You need at least a Quality N1 knife."
+to german "Du brauchst ein Messer mit mind. Qualität N1.";
+
+translate "You need a piece of wood to carve!"
+to german "Du brauchst ein Stück Holz zum Schnitzen!";
+
+translate "You work the symbols of your name into an exquisitely carved cartouche."
+to german "Du arbeitest die Zeichen deines Namens in den kunstvoll geschnitzten Zierrahmen.";
+
+translate "You carefully carve the wood until it is sharpened at one end."
+to german "Du schnitzt vorsichtig an dem Holz, bis es ein spitzes Ende hat.";
+
+translate "You carefully shave the wood until all that is left is a pile of tinder."
+to german "Du zerkleinerst vorsichtig das Holz, bis alles zu Zunder wurde.";
+
+translate "You need leather to cut up!"
+to german "Du brauchst Leder zum Zerkleinern!";
+
+translate "You slice the piece of leather into strips."
+to german "Du schneidest das Leder zu Streifen.";
+
+translate "You carve a cotter pin, used to hold objects together."
+to german "Du schnitzt einen Splint um Gegenstände zusammenzuhalten.";
+
+translate "You carve the wood into a small peg, used to hold objects together."
+to german "Du schnitzt das Holz zu einem kleinen Dübel, um Gegenstände zusammenzuhalten.";
+
+translate "Carving the handle takes little time - but it doesn't look that good, either."
+to german "Das Schnitzen des Griffes braucht seine Zeit - er sieht trotzdem nicht wirklich gut aus.";
+
+translate "You carefully carve your name into a small square of wood."
+to german "Du schnitzt vorsichtig deinen Namen in ein kleines Holzstück";
+
+translate "You carve and hollow a rounded tap, to place on barrels for wine and beer."
+to german "Du schnitzt einen Fassdeckel um Wein- und Bierfässer zu verschließen.";
+
+translate "You quickly carve the wood into a thick, sturdy pestle."
+to german "Du schnitzt das Holz schnell zu einem dicken, stabilen Stößel.";
+
+translate "It takes a while, but you are able to carve each of the small teeth of the cog."
+to german "Es braucht seine Zeit, aber du schaffst es jeden einzelnen Zahn eines Zahnrades zu schnitzen.";
+
+translate "You hollow out a piece of wood to serve as the base of a Tackle Block."
+to german "Du höhlst ein Stück Holz aus um es als Basis für einen Flaschenzug zu benutzen.";
+
+translate "You work long and hard, and eventually create an Intricately Carved Handle."
+to german "Du arbeitest lang und schwer, möglicherweise schaffst du einen aufwendigen Griff herzustellen.";
+
+translate "You deftly slice the point of the feather, and turn it into a serviceable Quill."
+to german "Du spitzt die Feder geschickt an, um einen brauchbaren Federkiel zu erhalten.";
+
+translate "You create a large handle. It looks a bit awkward, but servicable."
+to german "Du schnitzt einen länglichen Griff. Er sieht ein wenig krumm aus, aber durchaus brauchbar.";
+
+translate "You carve the piece of wood into a cone, and cut the tip off, so that it can fit easily into a glass jar."
+to german "Du schneidest ein Holzstück konisch zu, so dass es genau in einen Flaschenhals passt.";
+
+translate "To make wood chips, you require White, Soft, Nontoxic Boards."
+to german "Um Holzspäne zu erhalten. benötigst du weiße, weiche, ungiftige Bretter.";
+
+translate "You take a lot of time, and cut the piece of wood into a number of wood chips."
+to german "Du brauchst länger, um ein Holzstück zu Holzspäne zu verarbeiten.";
+
+translate "Your O1 Knife has worn out. You will need to find another one."
+to german "Dein O1(sn) Messer ist stumpf. Du wirst ein anderes auftreiben müssen.";
+
+translate "To make a Basic Fishing Pole, you need:"
+to german "Um eine einfache Angel herzustellen benötigst du:";
+
+translate "To make an Clay Lamp you need:"
+to german "Um eine Tonlampe herzustellen benötigst du:";
+
+translate "To make a Flint Chisel you need:"
+to german "Um einen Feuersteinmeißel herzustellen benötigst du:";
+
+translate "You strike the pieces of flint together until you have one very sharp piece with a wide cutting surface."
+to german "Du reibst die Feuersteine aneinander, bis du ein sehr scharfes Stück mit einer breiten Schneide in den Händen hältst.";
+
+translate "To make a Flint Hammer you need:"
+to german "Um einen Feuersteinhammer herzustellen benötigst du:";
+
+translate "Poke U1 with a Sharpened Stick"
+to german "Piekse U1(name) mit einem spitzen Stock";
+
+translate "You wisely reconsider such an impulsive action."
+to german "Du überdenkst vernünftigerweise solch eine impulsive Aktion nochmals.";
+
+translate "U1 poked you with a sharpened stick!"
+to german "U1(name) hat dich mit einem spitzen Stock gepiekst!";
+
+translate "You poke U1 with a sharpened stick... your stick breaks."
+to german "Du piekst U1(name) mit einem spitzen Stock... dein Stock bricht.";
+
+translate "To make a Reagent Bottle you need:"
+to german "Um eine Reagenzflasche herzustellen benötigst du:";
+
+translate "You wash out the jar, place the Bottle Stopper in the top, and seal it with wax."
+to german "Du wäschst das Gefäß aus, setzt den Weinflaschenverschluss auf und versiegelst alles mit Wachs.";
+
+translate "To make an Alcohol Lamp, you need:"
+to german "Um eine Alkohollampe herzustellen benötigst du:";
+
+translate "You cut a hole in the lid of the reagent bottle, push the rope through, and wrap it around the gold wire and small gear assembly."
+to german "Du schneidest ein Loch in den Stopfen der Reagenzflasche, steckst das Seil als Docht hindurch und montierst die Zahnrad-Dochtregulierung mittels des Golddrahtes.";
+
+translate "To make a Dowsing Rod, you need:"
+to german "Um eine Wünschelrute herzustellen benötigst du:";
+
+translate "You fasten the flint to the wood, fashioning something that may be used as a hammer."
+to german "Du befestigst den Feuerstein an einem Holzstück, das Ganze kann nun als Hammer benutzt werden.";
+
+translate "Make a Knife Blade"
+to german "Stelle eine Messerklinge her";
+
+translate "To make a knife blade you need:"
+to german "Um eine Messerklinge herzustellen benötigst du:";
+
+translate "Making a Knife Blade"
+to german "Herstellung einer Messerklinge";
+
+translate "Knife Blade will be done in K1"
+to german "Die Messerklinge wird in K1 fertig sein";
+
+translate "Your knife blade is ready."
+to german "Deine Messerklinge ist fertig.";

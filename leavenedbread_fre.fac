@@ -1,0 +1,315 @@
+Module LeavenedBread_fre;
+
+translate leavenedbread to french feminine
+{
+  ns "L'épreuve du Pain Levé"; np "L'épreuve du Pain Levé";
+}
+
+translate emptyemirmortar to french masculine
+{
+  ns "Mortier Emir (Vide)"; np "Mortiers Emir (Vides)";
+}
+
+translate emirmortar to french masculine
+{
+  ns "Mortier Emir (Plein)"; np "Mortiers Emir (Pleins)";
+}
+
+translate "Test of Leavened Bread"
+to french "Epreuve du Pain Levé";
+
+translate "You begin the Test of Leavened Bread."
+to french "Vous commencez l'épreuve du Pain Levé.";
+translate "In this test, you must create an Emir Mortar, and using this, you must bake bread in a bonfire. First,"
+to french "Dans cette épreuve, vous devrez fabriquer un mortier Emir, et l'utiliser pour faire cuire du pain dans un feu de bois.";
+translate "your group makes the mortar holy by stating the proper prayers."
+to french "Tout d'abord, votre groupe doit rendre le mortier sacré en prononçant les bonnes prières.";
+translate "The bread is special - it must be made holy by baking it properly with five others. You and your"
+to french "Le pain est spécial - un caractère sacré lui sera conféré si il est cuit convenablement par cinq adeptes.";
+translate "companions must perform the ritual of baking the bread, adding the proper ingredients,"
+to french "Vous et vos compagnons devez accomplir le rituel de la cuisson, ajouter les ingrédients souhaités,";
+translate "performing the correct absolutions, saying the proper prayers, and so on. Each member of your\n"
+to french "faire les absolutions correctes, réciter les bonnes prières, et ainsi de suite.";
+translate "group will be given instructions - it is important to share and follow the instructions. It is even"
+to french "Chaque membre de votre groupe se verra remettre des instructions - il est primordial de les suivre et de les communiquer.";
+translate "possible that the bread may not be suitable for your group, and will have to be given to another"
+to french "Il est même possible que le pain ne convienne pas à votre groupe et devra être donné à un autre qui";
+translate "to consume."
+to french "pourra le consommer.";
+translate "The more people you can share bread with, the more points you gain. The individuals with the"
+to french "Votre score dépend du nombre de personnes avec qui vous partagez le pain. Les gens ayant";
+translate "most points each week will pass."
+to french "le plus de points chaque semaine passent l'épreuve.";
+
+
+translate "Principles of Leavened Bread requires you to complete the Ritual of Leavened Bread, and share holy bread with just three others. The Test of Leavened Bread is competitive, based on how many you share bread with."
+to french "Les Principes du Pain Levé consistent à accomplir le rituel et à partager le pain sacré avec trois personnes. L'épreuve du Pain Levé est de nature compétitive, basée sur le nombre de personnes avec qui vous partagez le pain.";
+
+translate "Begin the Ritual"
+to french "Commencer le Rituel";
+translate "Perform the Emotional Devotion"
+to french "Accomplir la Dévotion Gestuelle";
+translate "Bless the chosen God"
+to french "Prier pour votre Dieu";
+translate "Bake the Holy Bread"
+to french "Faire cuire le Pain Sacré";
+translate "Sacrifice some of the bread"
+to french "Sacrifier un peu de ce pain";
+translate "Holy Bread consumed by a proper Benefactor"
+to french "Que le Pain Sacré soit consommé par un bénéficiaire adéquat";
+
+translate "You have completed the Principles of Leavened Bread. If you choose, you may distribute additional Holy Bread, and perform additional sacrifices to attempt to pass the Test of Leavened Bread."
+to french "Vous avez terminé les Principes du Pain Levé. Si vous le souhaitez, vous pouvez distribuer d'autres miches de pain et accomplir des sacrifices supplémentaires afin de tenter de passer l'épreuve du Pain Levé.";
+
+translate "Begin the Ritual of Leavened Bread"
+to french "Initier le Rituel du Pain Levé";
+
+
+
+translate "You must stand in a group of five to begin the ritual."
+to french "Vous devez composer un groupe de cinq pour initier le rituel.";
+
+translate "You are already performing a ritual."
+to french "Vous participez déjà à un rituel.";
+
+translate "Meditating to begin the Ritual..."
+to french "Vous méditez pour initier le rituel...";
+
+translate "U1 has not started the Test of Leavened Bread."
+to french "U1(name) n'a pas encore commencé l'épreuve du Pain Levé.";
+
+translate "U1 is already performing a Ritual."
+to french "U1(name) participe déjà à un rituel.";
+
+translate "U1 begins the Ritual of Leavened Bread."
+to french "U1(name) initie le Rituel du Pain Levé.";
+
+translate "Dissolve the Ritual"
+to french "Dissoudre le Rituel";
+
+translate "Really dissolve the Ritual of Leavened Bread"
+to french "Voulez-vous vraiment dissoudre le Rituel du Pain Levé?";
+
+translate "U1 dissolves the Ritual of Leavened Bread."
+to french "U1(name) dissout le Rituel du Pain Levé.";
+
+translate "You have a bad feeling - perhaps a god is unhappy?"
+to french "Vous avez un mauvais préssentiment - un dieu est peut-être insatisfait?";
+
+translate "Amen Ra"
+to french "Amon-Râ";
+translate "Anubis"
+to french "Anubis";
+translate "Bastet"
+to french "Bastet";
+translate "Bes"
+to french "Bes";
+translate "Buto"
+to french "Buto";
+translate "Dua"
+to french "Dua";
+translate "Hapy"
+to french "Hapi";
+translate "Hathor"
+to french "Hathor";
+translate "Horus"
+to french "Horus";
+translate "Isis"
+to french "Isis";
+translate "Maat"
+to french "Maât";
+translate "Min"
+to french "Min";
+translate "Montu"
+to french "Montu";
+translate "Osiris"
+to french "Osiris";
+translate "Set"
+to french "Seth";
+translate "Shu"
+to french "Shu";
+translate "Sobek"
+to french "Sobek";
+translate "Taweret"
+to french "Taweret";
+translate "Thoth"
+to french "Thot";
+translate "Wepwawet"
+to french "Wepwawet";
+
+translate "Mining for Ore"
+to french "minant du minerai";
+translate "Harvesting Flax"
+to french "Récoltant du lin";
+translate "Harvesting Cabbage"
+to french "Récoltant du chou";
+translate "Harvesting Leeks"
+to french "Récoltant des poireaux";
+translate "Catching a Fish"
+to french "pêchant un poisson";
+translate "Gathering Clay"
+to french "ramassant de l'argile";
+translate "Harvesting Wood"
+to french "collectant du bois";
+translate "Gathering Grass"
+to french "ramassant de l'herbe";
+translate "Digging with Others"
+to french "creusant avec d'autres";
+translate "Cooking a Meal"
+to french "cuisinant un plat";
+translate "Filling Jugs with Water"
+to french "remplissant des cruches d'eau";
+translate "Feeding Sheep"
+to french "nourissant les mouton";
+translate "Gathering Slate"
+to french "récoltant des ardoises";
+translate "Feeding Rabbits"
+to french "nourissant les lapins";
+
+translate "New (paid) Citizen"
+to french "de nouveaux Citoyens (payants)";
+translate "Newlywed (First Marriage)"
+to french "de nouveaux Mariés (premier mariage)";
+translate "Recent Initiates of Architecture"
+to french "de récents Initiés d'Architecture";
+translate "Recent Initiates of Art and Music"
+to french "de récents Initiés d'Art & Musique";
+translate "Recent Initiates of The Human Body"
+to french "de récents Initiés du Corps Humain";
+translate "Recent Initiates of Thought"
+to french "de récents Initiés de Pensée";
+translate "Recent Initiates of Leadership"
+to french "de récents Initiés de Commandement";
+translate "Recent Initiates of Worship"
+to french "de récents Initiés de Vénération";
+translate "Recent Initiates of Harmony"
+to french "de récents Initiés d'Harmonie";
+
+translate "Special Instructions:"
+to french "Instructions:";
+  
+translate "During the ritual, you must conduct prayers to K1."
+to french "Pendant le rituel, vous devrez adressez vos prières à K1.";
+
+translate "The bread should be enriched with O1."
+to french "Le pain devra être enrichi avec O1(dns) O1(ns).";
+
+translate "The O1 flour should be moistened with O2, and K1 Beer."
+to french "La pâte de blé O1(ns) devra être humidifiée avec O2(dns) O2(ns) et de la bière K1.";
+translate "The O1 flour should be moistened with O2, and O3 Beer."
+to french "La pâte de blé O1(ns) devra être humidifiée avec O2(dns) O2(ns) et de la bière O3(ns).";
+
+translate "After the baking, ritualize diligence by K1 and K2, then perform the emotional devotions: K3."
+to french "Après la cuisson, ritualisez votre diligence en K1 et en K2, puis accomplissez la dévotion gestuelle: K3.";
+
+translate "Bread should be shared (using the Tests menu) with K1."
+to french "Le pain doit être partager (via votre menu Epreuves) avec K1.";
+
+translate "Remove Bread and Clean out the Mortar"
+to french "Prendre le pain et nettoyer le mortier";
+
+translate "Make an Emir Mortar"
+to french "Fabriquer un mortier Emir";
+
+translate "It takes 7 deben of Clay to make an Emir Mortar"
+to french "Il vous faut 7 mesures d'argile pour fabriquer un mortier Emir";
+
+translate "Fill the Mortar with Wheat"
+to french "Remplir le mortier de blé";
+
+translate "How many loaves of Emir? (5000 grains of Wheat per Loaf)"
+to french "Combien de miches de pain? (5000 grains de blé par miche)";
+
+translate "To bake N1 loaves of Emir requires N2 grains of Wheat."
+to french "Pour cuire N1 miches de pain, il vous faut N2 grains de blé.";
+
+translate "Add Base Liquid"
+to french "Ajouter la base liquide";
+
+translate "You need N1 O1."
+to french "Il vous faut N1 O1(N1?np:ns).";
+
+translate "Add Yeast (Beer)"
+to french "Ajouter la levure (Bière)";
+
+translate "The Bread is ruined (Mostly Raw)"
+to french "Le pain est raté (pratiquement cru)";
+translate "The bread is ruined (Underdone)"
+to french "Le pain est raté (pas assez cuit)";
+translate "The bread is ruined (Burned)"
+to french "Le pain est raté (brûlé)";
+
+translate "[Extra]The Bread is ruined (Mostly Raw)"
+to french "Le pain est raté (pratiquement cru)";
+translate "[Extra]The bread is ruined (Underdone)"
+to french "Le pain est raté (pas assez cuit)";
+translate "[Extra]The bread is ruined (Burned)"
+to french "Le pain est raté (brûlé)";
+
+translate "Move to the nearest Bonfire"
+to french "Placer dans le feu le plus proche";
+
+translate "raw"
+to french "cru";
+translate "underdone"
+to french "pas assez cuit";
+translate "burned"
+to french "brûlé";
+
+translate "Common Bread"
+to french "Pain commun";
+
+translate "Savouring the bread..."
+to french "Vous dégustez le pain...";
+translate "You eat a bit more bread, anticipating a delicious meal."
+to french "Vous avalez une bouchée de pain, pressentant un met délicieux.";
+translate "Although the bread was once Holy, the preparing priests' attention is no longer focused."
+to french "Bien que le pain eut autrefois été Sacré, les prêtres ne semble plus très concentrés.";
+translate "The bread is stale, and Holy Bread must be eaten fresh."
+to french "Le pain est rassis. Le pain Sacré doit être frais lors de la dégustation.";
+translate "Although the bread was properly prepared, the priests failed to sacrifice some to a proper God."
+to french "Bienq ue le pain fut correctement préparé, les prêtres n'ont pas réussi à en sacrifier quelques morceaux au dieu adéquat.";
+translate "Althought the bread was holy, it was not destined for you."
+to french "Bien que le pain soit sacré, il ne vous était en aucune façon destiné.";
+
+translate "Sacrifice"
+to french "Sacrifier";
+
+translate "Holy Bread: O1"
+to french "Pain Sacré: O1(ns)";
+
+//translate "You are currently in a ritual that has had ",Length(Rit.Eaters)," eat your bread."
+//to french "
+
+translate "You are not currently part of a Ritual."
+to french "Vous ne participez à aucun rituel actuellement.";
+
+translate "Your score is N1."
+to french "Votre score s'élève à N1.";
+
+translate "Clean out the Mortar"
+to french "Nettoyer le mortier";
+
+translate "You need 1 O1(ns)."
+to french "Il vous faut 1 O1(ns).";
+
+translate "Add Enrichment"
+to french "Enrichir";
+
+translate "Checking Current Ritual..."
+to french "Vérification du rituel...";
+
+translate "Ok, we have this size XXXXXXXXXXL t-shirt at the eGenesis office. Be the first to mention this message and it's yours. Really."
+to french "Ok, nous avons ce t-shirt taille XXXXXXXXXXL aux bureaux d'eGenesis. Soyez le premier à mentionner ce message, et il est à vous. Pour de vrai.";
+translate "You obliterate yet another loaf of bread. You feal a diabetic coma coming on, but you shake it off."
+to french "Vous engoufrez une nouvelle miche de pain. Vous sentez un coma hyperglycémique, mais vous le chassez.";
+translate "A great thought occurs - maybe if you dunk the bread in water you'd be able to eat it faster, like those Japaanese atheletes you heard about."
+to french "Idée - peut-être que si vous trempiez le pain dans de l'eau, vous seriez capable de le manger plus vite, comme ces athlètes japonnais dont vous avez entendu parler.";
+translate "You stuff yet another hunk of bread into your mouth, chewing furiously. Where the hell is the waiter?"
+to french "Vous engoufrez une nouvelle miche de pain, la machant furieusement. Mais où diable est l'eau ?";
+translate "You snack on another piece of bread. Perhaps some wine and cheese would be a nice accompaniment? Oh, but there's a meal coming!"
+to french "Vous mangez une nouvelle miche de pain. Un peu de pain et de fromage feraient un bon accompagnement ? Oh, mais un banquet approche !";
+//translate "You enjoy a bit more bread. There's a good meal coming - be sure not to fill up on bread!"
+//translate "You break off another bit of bread, and chew slowly, savoring it's healthy effects. You can't wait for the main dish."
+
+

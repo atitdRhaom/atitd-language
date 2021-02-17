@@ -1,0 +1,73 @@
+module CryptoSign_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment	                   **
+//**                                                                       **
+//***************************************************************************
+
+translate CryptoSign to german feminine
+{
+swa "Fremde Tafel";
+sn "Fremde Tafel"; sg "Fremden Tafel"; sd "Fremde Tafel"; sa "Fremde Tafel";
+pn "Fremden Tafeln"; pg "Fremden Tafeln"; pd "Fremden Tafeln"; pa "Fremden Tafeln";
+}
+
+translate "This is the first line of text, in hieroglyphics."
+to german "Das ist die erste Textzeile, in Hieroglyphen.";
+
+translate "This is in tahoma font."
+to german "Das ist Schriftart Tahoma.";
+
+translate "And this is the bold version of tahoma."
+to german "Und das ist die Fettversion von Tahoma.";
+
+translate "Back to hieroglyphs!!!"
+to german "Zurück zu den Hieroglyphen!!!";
+
+translate "Crypto-Signs"
+to german "Fremde Tafeln";
+
+translate "Build a Sign for a Story"
+to german "Baue eine Tafel für eine Geschichte";
+
+translate "Remove an entire Story"
+to german "Entferne eine bestehende Geschichte";
+
+translate "You are about to remove the entire story 'K1'. To confirm, type REMOVE"
+to german "Du bist dabei, die Geschichte 'K1' zu entfernen. Bestätige mit REMOVE";
+
+translate "Create a new Story"
+to german "Schreibe eine neue Geschichte";
+
+translate "Name of new Story:"
+to german "Geschichtsname:";
+
+translate "Already Created: "
+to german "Bereits erstellt: ";
+
+translate "Edit the Text"
+to german "Ändere den Text";
+
+translate "Enter Text (K1). Carriage returns delimit coded regions."
+to german "Texteingabe (K!). Der Transport grenzt codierte Regionen ab.";
+
+translate "Forget all Story Bits"
+to german "Vergiss alle Geschichtsabschnitte";
+
+translate "Open or Close"
+to german "Öffnen oder Schließen";
+
+translate "Read the Tablet - Events Team Only"
+to german "Lese die Tafel - Nur Eventsteam";
+
+translate "Read the Tablet"
+to german "Lese die Tafel";
+
+translate "Some of the writing starts to make sense! As you see other similar tablets, your understanding may increase."
+to german "Einiges der Schrift beginnt einen Sinn zu ergeben! Wenn du andere, ähnliche Tafeln liest, wird es möglicherweise verständlicher werden.";
+
+translate "Too many iterations!"
+to german "Zu viele Wiederholungen!";

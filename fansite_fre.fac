@@ -1,0 +1,17 @@
+Module Fansite_fre;
+
+
+translate "Please ask eGenesis to set up the fansite control tower."
+to french "Demandez à eGenesis de régler le fansite control tower.";
+
+translate "You must name one of the following fansites: "
+to french "Vous devez nommer un des sites suivants";
+
+translate "Blank passwords are not allowed."
+to french "Les mots de passes vides ne sont pas autorisés";
+
+translate "We will now upload your account data.  It usually only takes a minute, unless the site is down, in which case one must wait until it comes back up."
+to french "Nous allons maintenant charger vos informations de compte. Cela prend habituellement une minute, à moins que le site ait un problème. Si ça devait se produire, attendez que le site soit de nouveau accessible.";
+
+translate "Your account on K1 has been updated."
+to french "Votre compte sur K1 a été mis à jour.";

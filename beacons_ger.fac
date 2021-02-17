@@ -1,0 +1,203 @@
+module beacons_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (c)opyright 2002-2006 by MDO Entertainment	                   **
+//**                                                                       **
+//***************************************************************************
+
+translate BeaconAltar to german masculine
+{
+  swa "Leuchtfeuer Altar";
+  sn "Leuchtfeuer Altar"; sg "Leuchtfeuer Altars"; sd "Leuchtfeuer Altar"; sa "Leuchtfeuer Altar";
+  pn "Leuchtfeuer Altäre"; pg "Leuchtfeuer Altäre"; pd "Leuchtfeuer Altären"; pa "Leuchtfeuer Altäre";
+}
+
+translate BeaconController to german feminine
+{
+  swa "Altarkontrolle";
+  sn "Altarkontrolle"; sg "Altarkontrolle"; sd "Altarkontrolle"; sa "Altarkontrolle";
+  pn "Altarkontrolle"; pg "Altarkontrolle"; pd "Altarkontrolle"; pa "Altarkontrolle";
+}
+translate Beacons to german masculine
+{
+  swa "Test der Leuchtfeuer";
+  sn "Test der Leuchtfeuer"; sg "Test der Leuchtfeuer"; sd "Test der Leuchtfeuer"; sa "Test der Leuchtfeuer";
+  pn "Test der Leuchtfeuer"; pg "Test der Leuchtfeuer"; pd "Test der Leuchtfeuer"; pa "Test der Leuchtfeuer";
+}
+translate "Perform the Anchoring Meditation"
+to german "Vollziehe die zu verankernde Meditation";
+
+translate "Complete a single Beacon Ritual"
+to german "Vervollständige ein einziges Leuchtfeuer-Ritual";
+
+translate "You have completed Principles of Beacons."
+to german "Du hast die Prinzipien der Leuchtfeuer gemeistert.";
+
+translate "Start the Test of Beacons"
+to german "Beginne den Test der Leuchtfeuer";
+
+translate "Please wait..."
+to german "Bitte warten...";
+
+translate "Test of Beacons"
+to german "Test der Leuchtfeuer";
+
+translate "Instructions"
+to german "Anweisungen";
+
+translate "Status Report"
+to german "Status Report";
+
+translate "Clear Anchor and Ritual"
+to german "Lösche den Anker und das Ritual";
+
+translate "Public"
+to german "öffentlich";
+
+translate "You have completed the beacon ritual N1 times. You must do it seven times to pass."
+to german "Du hast das Leuchtfeuer Ritual N1 mal vollzogen. Du mußt es ingesamt 7 Mal vollziehen, um den Test zu bestehen.";
+
+-- Text
+
+translate "The Test of Beacons"
+to german "Der Test der Leuchtfeuer";
+	
+translate "Periodically, the gods will conjure a divine altar with a shining beacon above it.  These altars vanish very quickly, if you see one, you should immediately perform the anchoring meditation:"
+to german "Periodisch werden die Götter einen Altar mit einem Leuchtfeuer beschwören. Dieser Altar löst sich schnell auf. Wenn Du ihn siehst, solltest Du schnell die zu verankernde Meditation vollziehen:";
+
+translate "  Priest One meditates."
+to german "  Priester 1 meditiert.";
+
+translate "  Priest Two meditates."
+to german "  Priester 2 meditiert.";
+
+translate "  Priest Three meditates."
+to german "  Priester 3 meditiert.";
+
+translate "This will anchor the divine altar to our world for about 30 minutes. You will know that the altar has been anchored because the glowing light will vanish, leaving just the altar. "
+to german "Dies wird den Göttlichen Altar für 30 Minuten in unserer Welt verankern. Du wirst wissen, daß der Altar verankert ist, da sich das leuchtende Licht auflöst und der Altar sich materialisiert.";
+
+translate "During the altar's stay on earth, it can only be used for one purpose: the beacon ritual.  The beacon ritual must be performed by the same three priests who did the anchoring meditation."
+to german "Während der Altar auf der Erde verweilt, kann er nur für ein Zweck benutzt werden: Das Leuchtfeuer Ritual. Das Leuchtfeuer Ritual muss von denselben 3 Priestern vollzogen werden, die das ankernde Ritual abhielten.";
+
+translate "The three priests who perform the anchoring meditation will each receive a vision.  These visions will tell you the steps of the 	beacon ritual (it is different each time).  Sometimes the visions are vague, and you will have to experiment to discover the specifics of the ritual."
+to german "Die 3 Priester, die das ankernde Ritual abhielten, werden eine Vision bekommen. Diese Visionen werden Auskunft über die Schritte des Leuchtfeuerrituals geben (es ist jedesmal anders). Manchmal ist die Vision vage und Du wirst experimentieren müßen, um das spezifische Ritual aufzudecken.";
+
+translate "The altars seem to be attracted to individuals who meet certain conditions:"
+to german "Der Altar scheint sich zu Einzelpersonen hingezogen zu fühlen, die bestimmte Bedingungen erfüllen:";
+
+translate "  1. Are signed up for the test of beacons."
+to german "  1. Sind für den Test der Leuchtfeuer registriert.";
+
+translate "  2. Have not attracted a beacon altar in a week."
+to german "  2. Haben kein Leuchtfeuer Altar in 1 Woche gesehen.";
+
+translate "  3. Are in viewing range of two or three other people."
+to german "  3. Sind in Sichtweite von 2 oder 3 anderen Personen.";
+
+translate "  4. Are away from their own camp."
+to german "  4. Sind von ihrem eigenen Lager entfernt.";
+
+translate "  5. Have done the 'favored' activity in the last hour."
+to german "  5. Haben die 'bevorzugte' Aktivität in der letzten Stunde vollzogen.";
+
+translate "The last condition, the 'favored' activity, is particularly befuddling.  Abount once a week, the gods choose some activity as favored.  Their choice of activity seems to be oddly arbitrary.  If you want to attract beacon altars, you will need to figure out the favored activity that week. Occasionally, somebody will get a sense that they did the favored activity."
+to german "Die letzte Bedingung, die 'bevorzugte' Aktivität, ist sicher verwirrend. Einmal in der Woche wählen die Götter eine bevorzugte Aktivität aus. Die Wahl der Aktivität scheint seltsam willkürlich. Wenn Du von dem Leuchtfeueraltar begünstigt werden möchtest, mußt Du herausfinden, welche die bevorzugte Aktivität der Woche ist. Gelegentlich wird Jemand spüren, daß er sie ausgeführt hat.";
+
+translate "To encourage the altar to appear, you need to first figure out the favored activity.  Perform it once per hour whenever you are traveling, or out fishing, or visiting a school, or are away from your camp for any other reason.  Chances are, this will trigger an appearance."
+to german "Um das Erscheinen des Altars zu fördern, mußt Du erst herausfinden, welche die bevorzugte Aktivität ist. Vollziehe sie jede Stunde, wann immer Du auf der Reise bist, Fischen gehst, Schulen besuchst oder Dein Lager wegen anderen Dingen verläßt. Das sind Chancen, um das Erscheinen des Altars zu fördern.";
+
+translate "If you live in a very underpopulated region, you may have to travel to a place where there are more people in order to succeed. Such is the nature of the discipline of worship."
+to german "Wenn Du in einer schlecht bewohnten Region wohnst, mußt Du zu einem Ort, wo mehr Personen sind, um Erfolg zu haben. Das ist die Natur der Disziplin der Verehrung.";
+
+translate "Of course, when the altar does appear, you'll have to convince whomever is around you to help you.  Be prepared.  Have a speech ready to talk them into helping.  If necessary, have money to pay them with.  Finally, carry medium gems, as these are inevitably used in the ritual."
+to german "Sicher, wenn der Altar erschienen ist, mußt Du Denjenigen in der Nähe überzeugen, Dir zu helfen. Sei bereit. Überlege Dir voher, wie Du sie überzeugen kannst, damit sie Dir helfen, denn es muß schnell gehen. Wenn nötig, habe Geld bei Dir, um sie zu bezahlen. Letztendlich, trage mittlere Edelsteine mit Dir, diese werden unvermeidlich im Ritual benötigt.";
+
+translate "Beacon Rule set to: [K1]"
+to german "Leuchtfeuer Regel gesetzt auf [K1]";
+
+-- 175 bis 227
+
+
+
+translate "Show me my Vision Again"
+to german "Zeige mir meine Vision noch einmal";
+
+translate "Generate a new Ritual"
+to german "Generiere ein neues Ritual";
+
+translate "Show the true steps"
+to german "Zeige die richtigen Schritte";
+
+translate "Show Vision "
+to german "Zeige Vision ";
+
+translate "You did the beacon ritual correctly, assisting everyone else."
+to german "Du hast das Ritual korrekt ausgeführt, assistiere Anderen.";
+
+translate "You have gained favor with the gods!  To pass, do the ritual N1 more times."
+to german "Du hast den Vorzug der Götter erhalten! Um zu bestehen, vollziehe das Ritual N1 weitere Male.";
+
+translate "You cannot pass the test of beacons unless you sign up first. Sign up, then perform the ritual again."
+to german "Du kannst den Test der Leuchtfeuer nicht bestehen, wenn Du Dich nicht vorher dafür registriert hast. Registriere Dich, dann vollziehe das Ritual nochmal.";
+
+translate "You have gained favor with the gods!  To pass, you must sign up, and then do the ritual N1 more times.  Do not forget to sign up!"
+to german "Du hast den Vorzug der Götter erhalten! Um zu bestehen, vollziehe das Ritual N1 weitere Male. Vergesse nicht Dich zu registrieren!";
+
+translate "The beacon ritual must be performed by the people who anchored the altar."
+to german "Das Leuchtfeuer Ritual muß von Denjenigen vollzogen werden, die den Altar geankert haben.";
+
+translate "K1 meditated"
+to german "K1 meditiert";
+
+translate "A beacon altar was almost attracted to you, because you did the favored activity in the last hour. However, there are not enough people nearby."
+to german "Ein Leuchtfeuer Altar war Dir fast erschienen, weil Du die bevorzugte Aktivität in der letzten Stunde vollzogen hast. Wie auch immer, es sind nicht genug Personen in der Nähe";
+
+translate "A beacon altar was almost attracted to you, because you did the favored activity in the last hour. However, there are too many people nearby."
+to german "Ein Leuchtfeuer Altar war Dir fast erschienen, weil Du die bevorzugte Aktivität in der letzten Stunde vollzogen hast. Wie auch immer, es sind zuviele Personen in der Nähe";
+
+translate "A beacon altar was almost attracted to you, because you did the favored activity in the last hour. However, you own too many of the buildings here - you are at home."
+to german "Ein Leuchtfeuer Altar war Dir fast erschienen, weil Du die bevorzugte Aktivität in der letzten Stunde vollzogen hast. Wie auch immer, Du besitzt zu viele Gebäude hier - bist Du zuhause ?";
+
+
+translate "You have done everything you need to attract a beacon altar.  If you are lucky, one will appear."
+to german "Du hast alle Dinge erledigt, die benötigt waren, um einen Leuchtfeueraltar erscheinen zu lassen. Wenn Du Glück hast, wird Einer erscheinen.";
+
+translate "Priest N1 put the first item on the K1"
+to german "Priester N1 legt das erste Opfer auf die K1";
+
+translate "Priest N1 puts the second item on the K1"
+to german "Priester N1 legt das zweite Opfer auf die K1";
+
+translate "Priest N1 takes the first item from the K1"
+to german "Priester N1 nimmt das erste Opfer von der K1";
+
+translate "Priest N1 takes the second item from the K1"
+to german "Priester N1 nimmt das zweite Opfer von der K1";
+
+translate "The items used in the beacon ritual are: "
+to german "Die Opfer für ein Ritual am Leuchtfeuer Altar sind: ";
+
+translate "The two items might not be used in that order. The ritual ends with the third priest meditating."
+to german "Die beiden Opfergaben müßen nicht in dieser Reihenfolge benutzt werden. Das Ritual endet mit der Meditation des dritten Priesters.";
+
+translate "Some of the steps are: "
+to german "Einige Schritte sind: ";
+
+translate "Warp to touchdown spot for altar "
+to german "Teleportiere zur Erscheinungspunkt des Altars ";
+
+translate "Retrieve the Beacons"
+to german "Frage Altäre ab";
+
+translate "Dispatch the Beacons"
+to german "Entferne die Altäre";
+
+translate "Look for Beacons Spots"
+to german "Suche nach Altarpunkten";
+
+translate "The 'favoured beacon activity' has changed."
+to german "Die bevorzugte Altar-Aktivität hat sich geändert.";

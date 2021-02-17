@@ -1,0 +1,313 @@
+Module DrinkWine_fre;
+
+translate "Beginner"
+to french "Débutant";
+
+translate "Enthusiast"
+to french "Passioné";
+
+translate "Oenophile"
+to french "Oenologue";
+
+translate "Sommalier"
+to french "Sommelier";
+
+translate "Tastings will now fill your Beginner Wine Tasting Notebook."
+to french "Vos progrés en dégustation du vin seront à présent reportés dans votre carnet des vins pour Débutants";
+
+translate "Tastings will now fill your Enthusiast Wine Tasting Notebook."
+to french "Vos progrés en dégustation du vin seront à présent reportés dans votre carnet des vins pour Passionés";
+
+translate "Tastings will now fill your Oenophile Wine Tasting Notebook."
+to french "Vos progrés en dégustation du vin seront à présent reportés dans votre carnet des vins pour Oenologues";
+
+translate "A sampling of 28 Wines. Tasted N1"
+to french "Un échantillon de 28 vins. Dégusté N1";
+translate "Fourteen high (12%+) Alcohol Wines. Tasted N1"
+to french "Quatorze vins à haut degré d'alcool (12%+). Dégusté N1";
+translate "Fourteen good quality wines. Tasted N1"
+to french "Quatorze vins de bonne qualité. Dégusté N1";
+translate "Seven older (3+ vintages) Wines. Tasted N1"
+to french "Sept vieux vins (3+ cuvée). Dégusté N1";
+
+translate "A sampling of 49 Wines. Tasted N1"
+to french "Un échantillon de 49 vins. Dégusté N1";
+translate "Fourteen Sweet Wines. Tasted N1"
+to french "Quatorze vins doux. Dégusté N1";
+translate "Fourteen very high (13%+) Alcohol Wines. Tasted N1"
+to french "Quatorze vins à très haut degré d'alcool (13%+). Dégusté N1";
+translate "Twenty-One very good quality wines. Tasted N1"
+to french "Vingt-et-un vins de très bonne qualité. Dégusté N1";
+translate "Fourteen older (5+ vintages) Wines. Tasted N1"
+to french "Quatorze vieux vins (5+ cuvée). Dégusté N1";
+
+translate "A sampling of 70 Wines. Tasted N1"
+to french "Un échantillon de 70 vins. Dégusté N1";
+translate "Explorations of Berries (21 Wines). Tasted N1"
+to french "Découverte des Baies (21 vins). Dégusté N1";
+translate "Explorations of Tropical Fruit (14 Wines). Tasted N1"
+to french "Exploration des Fruits Tropicaux (14 vins). Dégusté N1";
+translate "Explorations of Dried Fruit (7 Wines). Tasted N1"
+to french "Découverte des Fruits Secs (7 vins). Dégusté N1";
+translate "Sweet flavors of Caramel (7 Wines). Tasted N1"
+to french "Douces saveurs du Caramel (7 vins). Dégusté N1";
+translate "Confluence of Lemon and Cherry (7 Wines). Tasted N1"
+to french "Mariage de Limon et de Cerise (7 vins). Dégusté N1";
+translate "Confluence of Walnut and Tobacco (1 Wine). Tasted N1"
+to french "Mariage de Noix et de Tabac (1 vin). Dégusté N1";
+translate "Confluence of Lemon and Apricot (7 Wines). Tasted N1"
+to french "Mariage de Limon et d'Abricot (7 vins). Dégusté N1";
+translate "Seven very old (9+ vintages) Wines. Tasted N1"
+to french "Sept très vieux vins (9+ cuvées). Dégusté N1";
+translate "Explorations of Spice (14 Wines). Tasted N1"
+to french "Découverte des Epices (14 vins). Dégusté N1";
+
+translate "A sampling of 107 wines. Tasted N1"
+to french "Un échantillon de 107 wins. Dégusté N1";
+translate "Dessert Explorations of Flowers. Tasted N1"
+to french "Découverte des Fleurs en dessert. Dégusté N1";
+translate "Dessert Explorations of Nuts. Tasted N1"
+to french "Découverte des Noix en dessert. Dégusté N1";
+translate "Selections from Pharaoh's Cellar. Tasted N1"
+to french "Sélections en provenance de la cave de de Pharaon. Dégusté N1";
+translate "Explorations of Vegetables. Tasted N1"
+to french "Découverte des Légumes. Dégusté N1";
+translate "Extremely Old (21+ vintages), Highly Alcoholic (14%+), Caramel Wines. Tasted N1"
+to french "Vins caramélisés extrèmement vieux (21+ vintages), très alcoolisé (14%+). Dégusté N1";
+translate "Confluence of Blackberry, Tea, and Caramel. Tasted N1"
+to french "Mariage de Mûre, de Thé et de Caramel. Dégusté N1";
+
+translate "A new wine experience: A sampling of 70 Wines"
+to french "Une nouvelle expérience oenologique: Un échantillon de 70 vins";
+translate "A new wine experience: A sampling of 28 Wines"
+to french "Une nouvelle expérience oenologique: Un échantillon de 28 vins";
+translate "A new wine experience: A sampling of 49 Wines"
+to french "Une nouvelle expérience oenologique: Un échantillon de 49 vins";
+translate "A new wine experience: Explorations of Berries (21 Wines)"
+to french "Une nouvelle expérience oenologique: Découverte des Baies (21 vins)";
+translate "A new wine experience: Explorations of Spice (14 Wines)"
+to french "Une nouvelle expérience oenologique: Découverte des Epices (14 vins)";
+translate "A new wine experience: Explorations of Dried Fruit (21 Wines)"
+to french "Une nouvelle expérience oenologique: Découverte des Fruits Secs (21 vins)";
+translate "A new wine experience: Explorations of Dried Fruit (7 Wines)"
+to french "Une nouvelle expérience oenologique: Découverte des Fruits Secs (7 vins)";
+translate "A new wine experience: Explorations of Sweet flavors of Caramel (7 Wines)"
+to french "Une nouvelle expérience oenologique: Douces saveurs du Caramel (7 vins)";
+translate "A new wine experience: Confluence of Lemon and Apricot (7 Wines)"
+to french "Une nouvelle expérience oenologique: Mariage de Limon et d'Abricot (7 vins)";
+translate "A new wine experience: Confluence of Walnut and Tobacco (1 Wines)"
+to french "Une nouvelle expérience oenologique: Mariage de Noix et de Tabac (1 vin)";
+translate "A new wine experience: Seven very old (9+ vintages) Wines"
+to french "Une nouvelle expérience oenologique: Sept très vieux vins (9+ cuvées)";
+translate "A new wine experience: Fourteen very high (13%+) Alcohol Wines"
+to french "Une nouvelle expérience oenologique: Quatorze vins à très haut degré d'alcool (12%+)";
+translate "A new wine experience: Fourteen high (12%+) Alcohol Wines"
+to french "Une nouvelle expérience oenologique: Quatorze vins à haut degré d'alcool (13%+)";
+translate "A new wine experience: Fourteen good quality wines"
+to french "Une nouvelle expérience oenologique: Quatorze vins de bonne qualité";
+translate "A new wine experience: Twenty-One very good quality wines"
+to french "Une nouvelle expérience oenologique: Vingt-et-un vins de très bonne qualité";
+translate "A new wine experience: Seven older (3+ vintages) Wines"
+to french "Une nouvelle expérience oenologique: Sept vieux vins (3+ cuvée)";
+translate "A new wine experience: Fourteen older (5+ vintages) Wines"
+to french "Une nouvelle expérience oenologique: Quatorze vieux vins (5+ cuvée)";
+translate "A new wine experience: Fourteen older Fourteen Sweet Wines"
+to french "Une nouvelle expérience oenologique: Quatorze vins doux";
+
+translate "Top7, Stage 1: "
+to french "Top 7, Etape 1: ";
+
+translate "Tasting notes for: K1 "
+to french "Notes de dégustation pour: K1 ";
+
+translate "Stage 2, Top7 is "
+to french "Etape 2, Top 7 : ";
+
+
+translate "The wine is thin."
+to french "c'est de la piquette.";
+translate "A Pleasant wine. Perhaps it would benefit from some aging?"
+to french "Un Vin agréable. Peut-être devrait-il vieillir un peu?";
+translate "The wine has just a hint of Character."
+to french "Ce vin a juste une touche de caractère.";
+translate "Ahh, very passable, this, very passable."
+to french "Ahh, pas mal du tout, ce vin, pas mal du tout.";
+translate "A graceful wine, powerful and rich."
+to french "Un vin plein de grâce, puissant et riche.";
+translate "Stunning proportions."
+to french "Proportions étonnantes.";
+translate "A wine of stunning proportions."
+to french "Un vin de proportions étonnantes.";
+translate "A Spectacular example of the vintner's art."
+to french "Un exemple spectaculaire de l'art du vigneron.";
+translate "An Astonishing wine of power and grace."
+to french "Un vin admirable de puissance et de grâce.";
+translate "A Luxury wine, compelling and profound."
+to french "Un vin de luxe, profond, qui vous interpelle.";
+translate "A Thick, velvety wine of stupendous power."
+to french "Un vin épais, velouté, d'une incroyable puissance.";
+translate "An historic wine, of staggering proportions."
+to french "Un vin historique, d'admirables proportions.";
+translate "A wine of such monumental proportions that you are moved to tears."
+to french "Un vin de proportions si monumentales qu'il vous arrache une larme.";
+translate "A wine tasting experience that you will describe to your grandchildren."
+to french "Une expérience de dégustation que vous décrirez à vos petits-enfants.";
+translate "A wine worthy of Pharaoh's private collection."
+to french "Un vin digne de la réserve personnelle de Pharaon.";
+translate "A luxuriously sweet and haunting wine."
+to french "Un vin délicieusement doux et entêtant.";
+translate "A wine that would stand alone as Pharaoh's dessert."
+to french "Un vin qui à lui seul suffirait comme dessert de Pharaoh.";
+translate "A mind-boggling, syrupy nectar."
+to french "Un nectar sirupeux, renversant.";
+
+translate "A light dessert wine."
+to french "Un vin léger, pour le dessert.";
+translate "A hard wine, extremely dry."
+to french "Un vin dur, extrêmement sec";
+translate "A delicious sweetness."
+to french "Une douceur exquise.";
+translate "A warm hint of sweetness."
+to french "Une chaude teinte de douceur.";
+translate "A rich, honeyed dessert wine."
+to french "Un vin riche, mielleux, pour le dessert";
+translate "Luscious and sweet."
+to french "Succulent et doux.";
+translate "Just a fluttering of sweetness."
+to french "Juste un papillonement de douceur.";
+translate "A light, almost dessert wine."
+to french "Un vin léger, presque pour le dessert.";
+
+translate "Hints of O1"
+to french "Traces de saveurs de O1(ns)";
+translate "Hints of O1 and O2"
+to french "Traces de saveurs de O1(ns) et de O2(ns)";
+translate "Hints of O1, O2 and O3"
+to french "Traces de saveurs de O1(ns), de O2(ns) et de O3(ns)";
+translate "Hints of O1, O2, O3 and O4"
+to french "Traces de saveurs de O1(ns), de O2(ns), de O3(ns) et de O4(ns)";
+translate "Hints of O1, O2, O3, O4 and O5"
+to french "Traces de saveurs de O1(ns), de O2(ns), de O3(ns), de O4(ns) et de O5(ns)";
+
+translate "Just a fluttering of O1"
+to french "Juste un papillonement de saveurs de O1(ns)";
+translate "Just a fluttering of O1 and O2"
+to french "Juste un papillonement de saveurs de O1(ns) et de O2(ns)";
+translate "Just a fluttering of O1, O2 and O3"
+to french "Juste un papillonement de saveurs de O1(ns), de O2(ns) et de O3(ns)";
+translate "Just a fluttering of O1, O2, O3 and O4"
+to french "Juste un papillonement de saveurs de O1(ns), de O2(ns), de O3(ns) et de O4(ns)";
+translate "Just a fluttering of O1, O2, O3, O4 and O5"
+to french "Juste un papillonement de saveurs de O1(ns), de O2(ns), de O3(ns), de O4(ns) et de O5(ns)";
+
+translate "Overflowing with flavors of O1"
+to french "Débordant de saveurs de O1(ns)";
+translate "Overflowing with flavors of O1 and O2"
+to french "Débordant de saveurs de O1(ns) et de O2(ns)";
+translate "Overflowing with flavors of O1, O2 and O3"
+to french "Débordant de saveurs de O1(ns), de O2(ns) et de O3(ns)";
+translate "Overflowing with flavors of O1, O2, O3 and O4"
+to french "Débordant de saveurs de O1(ns), de O2(ns), de O3(ns) et de O4(ns)";
+translate "Overflowing with flavors of O1, O2, O3, O4 and O5"
+to french "Débordant de saveurs de O1(ns), de O2(ns), de O3(ns), de O4(ns) et de O5(ns)";
+
+translate "Bursting with O1"
+to french "Une explosion de saveurs de O1(ns)";
+translate "Bursting with O1 and O2"
+to french "Une explosion de saveurs de O1(ns) et de O2(ns)";
+translate "Bursting with O1, O2 and O3"
+to french "Une explosion de saveurs de O1(ns), de O2(ns) et de O3(ns)";
+translate "Bursting with O1, O2, O3 and O4"
+to french "Une explosion de saveurs de O1(ns), de O2(ns), de O3(ns) et de O4(ns)";
+translate "Bursting with O1, O2, O3, O4 and O5"
+to french "Une explosion de saveurs de O1(ns), de O2(ns), de O3(ns), de O4(ns) et de O5(ns)";
+
+translate "Ample amounts of O1"
+to french "Une grande proportion de de saveurs de O1(ns)";
+translate "Ample amounts of O1 and O2"
+to french "Une grande proportion de saveurs de O1(ns) et de O2(ns)";
+translate "Ample amounts of O1, O2 and O3"
+to french "Une grande proportion de saveurs de O1(ns), de O2(ns) et de O3(ns)";
+translate "Ample amounts of O1, O2, O3 and O4"
+to french "Une grande proportion de saveurs de O1(ns), de O2(ns), de O3(ns) et de O4(ns)";
+translate "Ample amounts of O1, O2, O3, O4 and O5"
+to french "Une grande proportion de saveurs de O1(ns), de O2(ns), de O3(ns), de O4(ns) et de O5(ns)";
+
+translate "Displays O1"
+to french "Affiche des saveurs de O1(ns)";
+translate "Displays O1 and O2"
+to french "Affiche des saveurs de O1(ns) et de O2(ns)";
+translate "Displays O1, O2 and O3"
+to french "Affiche des saveurs de O1(ns), de O2(ns) et de O3(ns)";
+translate "Displays O1, O2, O3 and O4"
+to french "Affiche des saveurs de O1(ns), de O2(ns), de O3(ns) et de O4(ns)";
+translate "Displays O1, O2, O3, O4 and O5"
+to french "Affiche des saveurs de O1(ns), de O2(ns), de O3(ns), de O4(ns) et de O5(ns)";
+
+translate "Intense aromas of O1"
+to french "Arômes intenses de O1(ns)";
+translate "Intense aromas of O1 and O2"
+to french "Arômes intenses de O1(ns) et de O2(ns)";
+translate "Intense aromas of O1 and O2"
+to french "Arômes intenses de O1(ns) et de O2(ns)";
+translate "Intense aromas of O1, O2 and O3"
+to french "Arômes intenses de O1(ns), de O2(ns) et de O3(ns)";
+translate "Intense aromas of O1, O2, O3 and O4"
+to french "Arômes intenses de O1(ns), de O2(ns), de O3(ns) et de O4(ns)";
+translate "Intense aromas of O1, O2, O3, O4 and O5"
+to french "Arômes intenses de O1(ns), de O2(ns), de O3(ns), de O4(ns) et de O5(ns)";
+
+translate "You should really get a Wine Tasting Notebook."
+to french "Vous devriez vraiment vous procurer un Carnet des vins.";
+
+translate "Your palette improved - you'll be able to detect more subtle flavors now!"
+to french "Votre palais s'améliore - vous pouvez détecter des arômes plus subtils!";
+
+translate "Wine Tasting Notebooks"
+to french "Carnets de dégustation de vins";
+
+translate "Ask for a Beginner Notebook"
+to french "Demander un carnet de débutant";
+translate "Ask for an Enthusiast Notebook"
+to french "Demander un carnet de passioné";
+translate "Ask for an Oenophile Notebook"
+to french "Demander un carnet d'oenologue";
+translate "Ask for a Sommalier Notebook"
+to french "Demander un carnet de sommelier";
+
+translate "You receive a Beginner Notebook. Review it from the Special menu."
+to french "Vous recevez un carnet de débutant. Consultez le via votre menu Spécial.";
+translate "You receive a Enthusiast Notebook. Review it from the Special menu."
+to french "Vous recevez un carnet de passioné. Consultez le via votre menu Spécial.";
+translate "You receive a Oenophile Notebook. Review it from the Special menu."
+to french "Vous recevez un carnet d'oenologue. Consultez le via votre menu Spécial.";
+
+translate "Wine Notebooks"
+to french "Carnets de vins";
+
+translate "Switch to Wine Notebook"
+to french "Changer de carnet";
+
+translate "Switch to Beginner"
+to french "Changer pour un carnet de débutant";
+translate "Switch to Enthusiast"
+to french "Changer pour un carnet de passioné";
+translate "Switch to Oenophile"
+to french "Changer pour un carnet d'oenologue";
+
+translate "Tastings will now fill your Beginner Wine Tasting Notebook."
+to french "Remplissez à présent votre carnet de débutant en dégustant des vins.";
+translate "Tastings will now fill your Enthusiast Wine Tasting Notebook."
+to french "Remplissez à présent votre carnet de passioné en dégustant des vins.";
+translate "Tastings will now fill your Oenophile Wine Tasting Notebook."
+to french "Remplissez à présent votre carnet d'oenologue en dégustant des vins.";
+
+translate "You have completed your Beginner Wine Tasting Notebook! Check with any School of the Human Body to see if there are any additional Wine Tasting Notebooks available."
+to french "Vous avez terminé votre carnet de débutant! Allez voir à une école du Corps Humain si d'autres carnets sont disponibles.";
+translate "You have completed your Enthusiast Wine Tasting Notebook! Check with any School of the Human Body to see if there are any additional Wine Tasting Notebooks available."
+to french "Vous avez terminé votre carnet de passioné! Allez voir à une école du Corps Humain si d'autres carnets sont disponibles.";
+translate "You have completed your Oenophile Wine Tasting Notebook! Check with any School of the Human Body to see if there are any additional Wine Tasting Notebooks available."
+to french "Vous avez terminé votre carnet d'oenologue! Allez voir à une école du Corps Humain si d'autres carnets sont disponibles.";
+
+translate "Open Notebook"
+to french "Ouvrir un carnet de vins";

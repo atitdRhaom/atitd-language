@@ -1,0 +1,277 @@
+module bulletin_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment	                   **
+//**                                                                       **
+//***************************************************************************
+
+translate BulletinPanel to german masculine
+{
+swa "Bekanntmachungsautomat";
+sn "Bekanntmachungsautomat"; pn "Bekanntmachungsautomat";
+}
+
+translate "Delete"
+to german "Lösche";
+
+translate "Do a Translation"
+to german "Übersetzen";
+translate "Re-Translate: "
+to german "Nachübersetzen: ";
+translate "Translate: "
+to german "Übersetze: ";
+translate "Translate to K1: "
+to german "Übersetze nach K1: ";
+translate "Translate to french: "
+to german "Übersetze nach franz.: ";
+translate "Translate to german: "
+to german "Übersetze nach deutsch: ";
+translate "Sorry, the Bulletin changed while you were editing."
+to german "Sorry, die Ankündigung hat sich in der Zwischenzeit wieder geändert.";
+translate "Bulletin:"
+to german "Ankündigung:";
+translate "Click for Details" 
+to german "Mehr Infos";
+translate "Set my Time Zone"
+to german "Zeitzone einstellen";
+translate "Time Zone? New York is GMT-0400 in the Summer"
+to german "Zeitzone? Berlin ist GMT+0200 Sommerzeit";
+
+
+translate "Trim Expired Bulletins Now"
+to german "Passe jetzt abgelaufene Nachrichten an.";
+
+translate "NewBulletin Failed. Call a Developer."
+to german "Neue Nachricht fehlgeschlagen. Rufe einen Entwickler";
+
+translate "Monday, January N1, N2"
+to german "Montag, N1 Januar N2";
+translate "Tuesday, January N1, N2"
+to german "Dienstag, N1 Januar N2";
+translate "Wednesday, January N1, N2"
+to german "Mittwoch, N1 Januar N2";
+translate "Thursday, January N1, N2"
+to german "Donnerstag, N1 Januar N2";
+translate "Friday, January N1, N2"
+to german "Freitag, N1 Januar N2";
+translate "Saturday, January N1, N2"
+to german "Samstag, N1 Januar N2";
+translate "Sunday, January N1, N2"
+to german "Sonntag, N1 Januar N2";
+
+translate "Monday, February N1, N2"
+to german "Montag, N1 Februar N2";
+translate "Tuesday, February N1, N2"
+to german "Dienstag, N1 Februar N2";
+translate "Wednesday, February N1, N2"
+to german "Mittwoch, N1 Februar N2";
+translate "Thursday, February N1, N2"
+to german "Donnerstag, N1 Februar N2";
+translate "Friday, February N1, N2"
+to german "Freitag, N1 Februar N2";
+translate "Saturday, February N1, N2"
+to german "Samstag, N1 Februar N2";
+translate "Sunday, February N1, N2"
+to german "Sonntag, N1 Februar N2";
+
+translate "Monday, March N1, N2"
+to german "Montag, N1 März N2";
+translate "Tuesday, March N1, N2"
+to german "Dienstag, N1 März N2";
+translate "Wednesday, March N1, N2"
+to german "Mittwoch, N1 März N2";
+translate "Thursday, March N1, N2"
+to german "Donnerstag, N1 März N2";
+translate "Friday, March N1, N2"
+to german "Freitag, N1 März N2";
+translate "Saturday, March N1, N2"
+to german "Samstag, N1 März N2";
+translate "Sunday, March N1, N2"
+to german "Sonntag, N1 März N2";
+
+translate "Monday, April N1, N2"
+to german "Montag, N1 April N2";
+translate "Tuesday, April N1, N2"
+to german "Dienstag, N1 April N2";
+translate "Wednesday, April N1, N2"
+to german "Mittwoch, N1 April N2";
+translate "Thursday, April N1, N2"
+to german "Donnerstag, N1 April N2";
+translate "Friday, April N1, N2"
+to german "Freitag, N1 April N2";
+translate "Saturday, April N1, N2"
+to german "Samstag, N1 April N2";
+translate "Sunday, April N1, N2"
+to german "Sonntag, N1 April N2";
+
+translate "Monday, May N1, N2"
+to german "Montag, N1 Mai N2";
+translate "Tuesday, May N1, N2"
+to german "Dienstag, N1 Mai N2";
+translate "Wednesday, May N1, N2"
+to german "Mittwoch, N1 Mai N2";
+translate "Thursday, May N1, N2"
+to german "Donnerstag, N1 Mai N2";
+translate "Friday, May N1, N2"
+to german "Freitag, N1 Mai N2";
+translate "Saturday, May N1, N2"
+to german "Samstag, N1 Mai N2";
+translate "Sunday, May N1, N2"
+to german "Sonntag, N1 Mai N2";
+
+translate "Monday, June N1, N2"
+to german "Montag, N1 Juni N2";
+translate "Tuesday, June N1, N2"
+to german "Dienstag, N1 Juni N2";
+translate "Wednesday, June N1, N2"
+to german "Mittwoch, N1 Juni N2";
+translate "Thursday, June N1, N2"
+to german "Donnerstag, N1 Juni N2";
+translate "Friday, June N1, N2"
+to german "Freitag, N1 Juni N2";
+translate "Saturday, June N1, N2"
+to german "Samstag, N1 Juni N2";
+translate "Sunday, June N1, N2"
+to german "Sonntag, N1 Juni N2";
+
+translate "Monday, July N1, N2"
+to german "Montag, N1 Juli N2";
+translate "Tuesday, July N1, N2"
+to german "Dienstag, N1 Juli N2";
+translate "Wednesday, July N1, N2"
+to german "Mittwoch, N1 Juli N2";
+translate "Thursday, July N1, N2"
+to german "Donnerstag, N1 Juli N2";
+translate "Friday, July N1, N2"
+to german "Freitag, N1 Juli N2";
+translate "Saturday, July N1, N2"
+to german "Samstag, N1 Juli N2";
+translate "Sunday, July N1, N2"
+to german "Sonntag, N1 Juli N2";
+
+translate "Monday, August N1, N2"
+to german "Montag, N1 August N2";
+translate "Tuesday, August N1, N2"
+to german "Dienstag, N1 August N2";
+translate "Wednesday, August N1, N2"
+to german "Mittwoch, N1 August N2";
+translate "Thursday, August N1, N2"
+to german "Donnerstag, N1 August N2";
+translate "Friday, August N1, N2"
+to german "Freitag, N1 August N2";
+translate "Saturday, August N1, N2"
+to german "Samstag, N1 August N2";
+translate "Sunday, August N1, N2"
+to german "Sonntag, N1 August N2";
+
+translate "Monday, September N1, N2"
+to german "Montag, N1 September N2";
+translate "Tuesday, September N1, N2"
+to german "Dienstag, N1 September N2";
+translate "Wednesday, September N1, N2"
+to german "Mittwoch, N1 September N2";
+translate "Thursday, September N1, N2"
+to german "Donnerstag, N1 September N2";
+translate "Friday, September N1, N2"
+to german "Freitag, N1 September N2";
+translate "Saturday, September N1, N2"
+to german "Samstag, N1 September N2";
+translate "Sunday, September N1, N2"
+to german "Sonntag, N1 September N2";
+
+translate "Monday, October N1, N2"
+to german "Montag, N1 Oktober N2";
+translate "Tuesday, October N1, N2"
+to german "Dienstag, N1 Oktober N2";
+translate "Wednesday, October N1, N2"
+to german "Mittwoch, N1 Oktober N2";
+translate "Thursday, October N1, N2"
+to german "Donnerstag, N1 Oktober N2";
+translate "Friday, October N1, N2"
+to german "Freitag, N1 Oktober N2";
+translate "Saturday, October N1, N2"
+to german "Samstag, N1 Oktober N2";
+translate "Sunday, October N1, N2"
+to german "Sonntag, N1 Oktober N2";
+
+translate "Monday, November N1, N2"
+to german "Montag, N1 November N2";
+translate "Tuesday, November N1, N2"
+to german "Dienstag, N1 November N2";
+translate "Wednesday, November N1, N2"
+to german "Mittwoch, N1 November N2";
+translate "Thursday, November N1, N2"
+to german "Donnerstag, N1 November N2";
+translate "Friday, November N1, N2"
+to german "Freitag, N1 November N2";
+translate "Saturday, November N1, N2"
+to german "Samstag, N1 November N2";
+translate "Sunday, November N1, N2"
+to german "Sonntag, N1 November N2";
+
+translate "Monday, December N1, N2"
+to german "Montag, N1 Dezember N2";
+translate "Tuesday, December N1, N2"
+to german "Dienstag, N1 Dezember N2";
+translate "Wednesday, December N1, N2"
+to german "Mittwoch, N1 Dezember N2";
+translate "Thursday, December N1, N2"
+to german "Donnerstag, N1 Dezember N2";
+translate "Friday, December N1, N2"
+to german "Freitag, N1 Dezember N2";
+translate "Saturday, December N1, N2"
+to german "Samstag, N1 Dezember N2";
+translate "Sunday, December N1, N2"
+to german "Sonntag, N1 Dezember N2";
+
+translate "Show the Calendar"
+to german "Zeige den Kalender";
+
+translate "New Event (Chat)"
+to german "Neues Event (Chat)";
+translate "New Event (eGenesis)"
+to german "Neues Event (eGenesis)";
+translate "New Event (Player)"
+to german "Neues Event (Spieler)";
+
+translate "Title"
+to german "Bezeichnung";
+
+translate "Start Date"
+to german "Beginn";
+
+translate "Duration in Minutes"
+to german "Dauer in Minuten";
+
+translate "Location"
+to german "Ort";
+
+translate "All of Egypt"
+to german "Ganz Ägypten";
+
+translate "Description"
+to german "Beschreibung";
+
+translate "Start Message"
+to german "Start der Nachricht";
+
+translate "End Message"
+to german "Ende der Nachricht";
+
+translate "Enter a new eGenesis (Official) event"
+to german "Neues, offizielles eGenesis Event";
+
+translate "Enter a new Chat event"
+to german "Neues Chatevent";
+
+translate "Enter a new Player-Run event"
+to german "Neues Spieler-Event";
+
+translate "Date is in the wrong format."
+to german "Datum hat das falsche Format.";
+
+translate "Event would have already ended."
+to german "Das Event wäre bereits beendet.";

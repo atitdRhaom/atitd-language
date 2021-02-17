@@ -1,0 +1,63 @@
+Module HouseMembership_fre;
+
+
+Translate "Associate of the Meshwesh" to french "Associé des Meshwesh";
+Translate "Initiate of the Meshwesh" to french "Initié des Meshwesh";
+Translate "Member of the Meshwesh" to french "Membre des Meshwesh";
+Translate "Kinsman of the Meshwesh" to french "Frère des Meshwesh";
+Translate "Fellow of the Meshwesh" to french "Camarade des Meshwesh";
+Translate "Patriarch of the Meshwesh" to french "Patriarche des Meshwesh";
+Translate "Elder of the Meshwesh" to french "Sage des Meshwesh";
+
+Translate "Associate of the Kush" to french "Associé des Kush";
+Translate "Initiate of the Kush" to french "Initié des Kush";
+Translate "Member of the Kush" to french "Membre des Kush";
+Translate "Kinsman of the Kush" to french "Frère des Kush";
+Translate "Fellow of the Kush" to french "Camarade des Kush";
+Translate "Patriarch of the Kush" to french "Patriarche des Kush";
+Translate "Elder of the Kush" to french "Sage des Kush";
+
+Translate "Associate of the Hyksos" to french "Associé des Hyksos";
+Translate "Initiate of the Hyksos" to french "Initié des Hyksos";
+Translate "Member of the Hyksos" to french "Membre des Hyksos";
+Translate "Kinsman of the Hyksos" to french "Frère des Hyksos";
+Translate "Fellow of the Hyksos" to french "Camarade des Hyksos";
+Translate "Patriarch of the Hyksos" to french "Patriarche des Hyksos";
+Translate "Elder of the Hyksos" to french "Sage des Hyksos";
+
+translate localleadership to french masculine
+{ ns "Commandement local"; np "Commandements locaux"; }
+
+translate MBInitiate to french masculine
+{ ns "Trophé d'initié d'une faction"; np "Trophés d'initié d'une faction"; }
+
+translate MBAssociate to french masculine
+{ ns "Trophé d'associé d'une faction"; np "Trophés d'associés d'une faction"; }
+
+translate MBMember to french masculine
+{ ns "Trophé de membre d'une faction"; np "Trophés de membre d'une faction"; }
+
+translate MBKinsman to french masculine
+{ ns "Trophé de frère d'une faction"; np "Trophés de frère d'une faction"; }
+
+translate MBFellow to french masculine
+{ ns "Trophé de camarade d'une faction"; np "Trophés de camarade d'une faction"; }
+
+translate MBPatriach to french masculine
+{ ns "Trophé de patriarche d'une faction"; np "Trophés de patriarche d'une faction"; }
+
+translate MBElder to french masculine
+{ ns "Trophé de sage d'une faction"; np "Trophés de sage d'une faction"; }
+
+translate "Local Leadership" to french "Commandement local";
+
+translate "A O1 owned by s:1073479680:113" to french "Un O1(ns) appartenant à s:1073479680:113";
+
+
+
+
+
+
+
+
+

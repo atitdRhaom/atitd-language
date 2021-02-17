@@ -1,0 +1,135 @@
+module ibuild_fre;
+
+translate "By order of the Buildings in Others Camps Act, you may not build within 100 feet of a guild hall."
+to french "Par ordre de la loi sur les constructions dans les camps appartenant à autrui, vous ne pouvez pas construire à moins de 100 pieds d'un bâtiment de guilde.";
+
+translate "Game Master"
+to french "Animateur";
+
+translate "Clear the snag-list"
+to french "Vider la liste de récolte";
+
+translate "Move the snagged objects"
+to french "Déplacer les obets récoltés";
+
+translate "Snagged Objects: "
+to french "Objets récoltés : ";
+
+translate "Add this to the Snag List"
+to french "Ajouter à la liste de récolte";
+
+translate "Snagged Objects: N1"
+to french "Objets récoltés : N1";
+
+translate "N1 more needed"
+to french "Encore N1 nécessaires";
+
+translate "N1 too many"
+to french "N1 de trop";
+
+translate "Running? "
+to french "Course ? ";
+
+translate "Already Building."
+to french "Construction déjà en cours.";
+
+translate "You cannot build where you can not walk. (2)"
+to french "Vous ne pouvez pas construire là où vous ne pouvez pas marcher";
+
+translate "This spot is too close to a welcome banner."
+to french "Cet emplacement est trop proche d'une bannière de Bienvenue";
+
+translate "This spot is too close to K1"
+to french "Cet emplacement est trop proche de K1";
+
+translate "This spot is too close to O1"
+to french "Cet emplacement est trop proche de O1(ns)";
+
+translate "This spot is too close to another K1."
+to french "Cet emplacement est trop proche d'un autre K1.";
+
+translate "This spot is too close to another O1."
+to french "Cet emplacement est trop proche d'un autre O1(ns)";
+
+translate "This spot is too close to a Plinth Site."
+to french "Cet emplacement est trop proche d'un socle du trône de Pharaon";
+
+translate "This spot is too close to a Ka Tomb."
+to french "Cet emplacement est trop proche d'une tombe de Kâ";
+
+
+translate "This area is too crowded to build in (N1% of capacity.) Move further away."
+to french "Cette zone est trop construite pour ajouter quoi que ce soit (N1 % de sa capacité). Allez un peu plus loin.";
+
+translate "Warning: This area is getting crowded. It is at N1% of capacity. Build anyway?"
+to french "Attention : la zone est en train de saturer. Elle est à N1% de sa capacité. Voulez-vous tout de même construire ?";
+
+translate "Building this O1 requires:"
+to french "Pour construire O1(cns) O1(ns), il vous faut :";
+
+translate "Nothing is needed to build this O1"
+to french "Vous n'avez besoin de rien pour construire O1(cns) O1(ns).";
+
+translate "By order of the Public Buildings Act, passed on 10/31/2001 by Tchrin, building closer than N1 feet to a public building is ILLEGAL. Your building is N2 feet away."
+to french "Conformément à la loi sur les bâtiments publics, votée le 31 octobre 2001 par Tchrin, construire à moins de N1 pieds d'un bâtiment public est illégal. Votre construction se trouve à une distance de N2 d'un bâtiment public.";
+
+translate "By order of the Clear Roads Act, passed on 3/7/2002 by Tchrin, buildings can not be built very close to roads. "
+to french "Conformément à la loi sur le Dégagement des Routes, votée le 7 mars 2002 par Tchirn, il n'est pas autorisé de construire près des routes.";
+
+translate "Built: U1 built a O1 at N1 N2"
+to french "Construction : U1(name) a construit O1(uns) O1(ns) à N1 N2";
+
+translate "You are repositioning a O1. If you hit cancel, it will revert to it's original location."
+to french "Vous êtes en train de déplacer O1(uns) O1(ns). Si vous annulez, le bâtiment retournera à son lieu d'origine.";
+
+translate "Can only move or build one thing at a time."
+to french "Vous ne pouvez déplacer ou construire qu'une chose à la fois.";
+
+translate "By order of the Restrictions Around Official Buildings Act, passed by Angeles on 3/7/2003, building withing 250 seet of a School, or 500 feet of a university is illegal."
+to french "Conformément à la loi sur la restriction des constructions autour des bâtiments officiels, votée par Angeles le 7 mars 2003, il est illégal de construire à moins de 250 pieds d'une école, et à moins de 500 pieds d'une université.";
+
+translate "You may not build very close to a road or game court."
+to french "Vous ne pouvez pas construire très près d'une route ou d'un terrain de jeu.";
+
+translate "You may not build within 300 feet of a school or university."
+to french "Vous ne pouvez pas construire à moins de 300 pieds d'une école ou d'une université.";
+
+translate "Move a little further away from the School before trying to build."
+to french "Déplacez-vous un peu plus loin de l'école avant d'essayer de construire";
+
+translate "Can only move or build one thing at a time."
+to french "Vous ne pouvez déplacer ou construire qu'une chose à la fois.";
+
+translate "NOTICE: While on the island, your buildings will vanish if you don't login once a day."
+to french "Attention: Durant votre passage sur l'île, vos bâtiments disparaîtront si vous ne vous connectez pas au moins une fois par jour.";
+
+translate "Can't move two things at once. Already moving a O1 at egypt N1 N2."
+to french "Impossible de déplacer deux éléments à la fois. Vous êtes déjà en train de déplacer O1(uns) O1(ns) en Egypte N1 N2.";
+
+translate "You may not build very close to a road."
+to french "Vous ne pouvez pas construire trop proche d'une route.";
+
+translate "N1 O1 (Ok)"
+to french "N1 O1(ns) (Ok)";
+
+translate "N1 O1 (N2 too many)"
+to french "N1 O1(ns) (N2 en trop)";
+
+translate "N1 O1 (N2 needed)"
+to french "N1 O1(ns) (N2 manquant)";
+
+translate "N1 O1 (N2 more needed)"
+to french "N1 O1(ns) (N2 encore manquant)";
+
+translate "N1 O1:K1 (Ok)"
+to french "N1 O1(ns):K1 (Ok)";
+
+translate "N1 O1:K1 (N2 too many)"
+to french "N1 O1(ns):K1 (N2 en trop)";
+
+translate "N1 O1:K1 (N2 needed)"
+to french "N1 O1(ns):K1 (N2 manquant)";
+
+translate "N1 O1:K1 (N2 more needed)"
+to french "N1 O1(ns):K1 (N2 manquant en plus)";
+

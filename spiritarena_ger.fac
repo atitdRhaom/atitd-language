@@ -1,0 +1,88 @@
+module spiritarena_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment		           **
+//**                                                                       **
+//***************************************************************************
+//menues
+
+translate ConflictShrine to german masculinecollective
+{
+  swa "Schrein des Konflikts";
+  sn "Schrein des Konflikts"; sg "Schrein des Konflikts"; sd "Schrein des Konflikts"; sa "Schrein des Konflikts";
+  pn "Schrein des Konflikts"; pg "Schrein des Konflikts"; pd "Schrein des Konflikts"; pa "Schrein des Konflikts";
+}
+translate ConflictShrineConstruction to german feminine
+{
+  swa "Konfliktschreinbau";
+  sn "Konfliktschreinbau"; sg "Konfliktschreinbau"; sd "Konfliktschreinbau"; sa "Konfliktschreinbau";
+  pn "Konfliktschreinbau"; pg "Konfliktschreinbau"; pd "Konfliktschreinbau"; pa "Konfliktschreinbau";
+}
+
+translate "You could not concentrate any longer. You had to return to your body."
+to german "Du kannst dich nicht länger konzentrieren. Du musst in deinen Körper zurückkehren.";
+
+translate "You cannot focus your mind on the Arena of K1, it must be too crowded."
+to german "Du kannst deinen Geist nicht auf die Arena K1 richten, sie muss überfüllt sein.";
+
+translate "Wepwawet"
+to german "Wepwawet";
+translate "Thoth"
+to german "Thoth";
+
+translate "You learn to construct Conflict Shrines, impressive structures which, on the rare occasions that the Gods permit their use, allow one to project their mind to a Spirit Arena."
+to german "Du lernst den Bau von Konfliktschreinen, beeindruckende Bauwerke, die bei seltenen Anlässen, in denen die Götter die Nutzung erlauben, das Entsenden des Geistes in eine spirituelle Arena erlauben.";
+
+translate "Shrine of Conflict"
+to german "Konfliktschrein";
+
+translate "To build a Shrine of Conflict you need:"
+to german "Um einen Konfliktschrein zu bauen benötigst du:";
+
+translate "Shrine to the Arena of K1"
+to german "Schrein der K1-Arena";
+
+translate "To build a Shrine to the Arena of K1, you need:"
+to german "Um einen K1-Schrein zu bauen benötigst du:";
+
+translate "Unknown Arena: "
+to german "Unbekannte Arena: ";
+
+translate "Send your Spirit to the Arena of K1"
+to german "Sende deinen Geist zur Arena von K1";
+
+translate "The spirit arena controller is not active, contact egenesis."
+to german "Der Geistarena-Controller ist nicht aktiv, kontaktiere einen GM oder Entwickler.";
+
+translate "To use a Conflict Shrine, you must be a paid citizen of Egypt."
+to german "Um einen Konfliktschrein zu benutzen, musst du einen Zahlaccount haben.";
+
+translate "You can't focus your mind. The gods are not permitting passage into the spirit arena at this time."
+to german "Du kannst dich nicht konzentrieren. Die Götter erlauben zu diesem Zeitpunkt keinen Zutritt zur Arena.";
+
+translate "You attempt to focus your mind on the Arena of K1..."
+to german "Du versuchst, deine Gedanken auf die K1-Arena zu richten...";
+
+translate "Send my Spirit back to Egypt"
+to german "Sende meinen Geist wieder nach Ägypten";
+
+translate "You sense your spirit returning to your body..."
+to german "Du spürst, wie dein Geist wieder in deinen Körper zurückkehrt...";
+
+translate "Send your spirit to K1 (Active)"
+to german "Sende deinen Geist zur K1 (Aktiviert)";
+
+translate "Send your spirit to K1 (Not Active)"
+to german "Sende deinen Geist zur K1 (Nicht aktiviert)";
+
+translate "To use a Welcome Banner, you must be a paid citizen of Egypt."
+to german "Um ein Willkommensbanner zu benutzen, musst du in Ägypten einen Zahlaccount besitzen.";
+
+translate "You are prohibited by law from doing anything related to Mentoring."
+to german "Per Gesetz ist es dir nicht erlaubt, irgendetwas in Bezug auf Mentoring zu tun.";
+
+translate "You attempt to focus your mind on the Welcoming Island"
+to german "Du konzentrierst deinen Geist auf die Willkommensinsel";

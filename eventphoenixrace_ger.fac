@@ -1,0 +1,81 @@
+module EventPhoenixRace_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment		           **
+//**                                                                       **
+//***************************************************************************
+
+translate "Abort the Race of the Phoenix"
+to german "Breche das Rennen des Ph�nix ab";
+
+translate "Change the number of Tags"
+to german "�ndere die Anzahl der Schilder";
+
+translate "Number of Tags?"
+to german "Anzahl der Schilder?";
+
+translate "Schedule a Phoenix' Race"
+to german "K�ndige ein Rennen des Ph�nix an";
+
+translate "You must first fill the hoppers."
+to german "Zuerst mu�t Du Preise bestimmen.";
+
+translate "No Hoppers have been defined."
+to german "Keine Preise bestimmt.";
+
+translate "egenesis"
+to german "eGenesis";
+translate "Numer of Stadium"
+to german "Anzahl der Stadien";
+translate "Tags per Stadium"
+to german "Schilder pro Stadium";
+translate "Minutes per Stadium"
+to german "Minuten pro Statdium";
+
+translate "The Race specified N1 checkpoints, but there are only N2 Stadiums in Egypt."
+to german "Das Rennen wurde auf N1 Stadien festgesetzt, aber es gibt nur N2 Stadien in �gypten.";
+
+translate "The race specified N1 checkpoints, and N2 tags per checkpoint, but the K1 hopper doesn't contain enough for even one per tag."
+to german "Das Rennen wurde auf N2 Stadien und N2 Schilder pro Stadium festgelegt, aber der K1 Beh�lter enth�lt nicht gen�gend Preise f�r jeden Spieler/jedes Schild.";
+
+translate "The next stadium in the Race of the Phoenix is at: "
+to german "Der n�chste Park im Rennen des Ph�nix ist bei: ";
+
+translate "You are limited to N1 of travel time during the Phoenix' Race. To withdraw from the race, keeping your score, use the Navigation menu."
+to german "Du hast eine Reisezeitbegrenzung von N1 w�hrend des Ph�nixrennens. Um Deine Teilnahme am Rennen zu annulieren und Deine Wertung zu behalten, nutze Dein Navigationsmen�.";
+
+translate "You have now used N1 of travel time during the Phoenix' Race."
+to german "Du hast nun N1 Deiner Reisezeit w�hrend des Ph�nixrennens verbraucht.";
+
+translate "Withdraw from the Phoenix' Race"
+to german "Annulliere Deine Teilnahme am Ph�nixrennen";
+
+translate "Withdraw from the Phoenix' Race? All progress will be saved, but you won't be able to continue gathering Phoenix models."
+to german "Das Rennen annullieren? Deine Fortschritte werden gespeichert, aber Du wirst nicht f�hig sein weitere Ph�nixmodelle zu sammeln.";
+
+translate "Tags Left: N1 (GM Only)"
+to german "Restliche Schilder: N1 (nur GM)";
+
+translate "Tag this Stadium"
+to german "Beschildere diesen Park";
+
+translate "This stadium can not be tagged - perhaps another is the goal!"
+to german "Dieser Park kann nicht beschildert werden - vielleicht ist ein Anderer das Ziel!";
+
+translate "You have already made the tag."
+to german "Du hast bereits beschildert.";
+
+translate "You also got: "
+to german "Du hast zus�tzlich bekommen: ";
+
+translate "Well done! You grabbed a O1!"
+to german "Gut gemacht! Du hast Dir einen O1(sd) geschnappt!";
+
+translate "Well done! You grabbed a O1! You also got: N1O2."
+to german "Gut gemacht! Du hast Dir ein O1(sd) geschnappt! Du hast zus�tzlich bekommen: N1 O2(N1?pn:sn).";
+
+translate "Sorry, but N1 others have already tagged this stadium."
+to german "Pech, aber bereits N1 andere Spieler haben bereits diesen Park beschildert.";

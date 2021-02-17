@@ -1,0 +1,210 @@
+module newlegal_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Games **
+//**    (C)opyright 2002,2003 by MDO Games			           **
+//**                                                                       **
+//***************************************************************************
+
+translate VotingBooth to german masculine
+{
+swa "Wahlstand";
+  sn "Wahlstand"; sg "Wahlstand"; sd "Wahlstand"; sa "Wahlstand";
+  pn "Wahlstand"; pg "Wahlstand"; pd "Wahlstand"; pa "Wahlstand";
+}
+
+translate "Law Library"
+to german "Gesetzesverzeichnis";
+
+translate "Create a Petition to make a Law..."
+to german "Schreibe eine Petition, um ein neues Gesetz zu erlassen...";
+
+translate "You can propose new laws at the University of Leadership."
+to german "Du kannst neue Gesetzesvorschläge an der Universität der Führerschaft einreichen.";
+
+translate "The title 'K1' was already taken. Choose another."
+to german "Der Titel 'K1' wird bereits verwendet. Wähle einen anderen Titel.";
+
+translate "The law library has not been built yet. Please tell Pharaoh."
+to german "Das Gesetzesverzeichnis wurde noch nicht eingebaut. Bitte sprich mit Pharaoh.";
+
+translate "Names of bills are limited to 40 characters."
+to german "Namen der Vorschläge sind auf 40 Zeichen begrenzt.";
+
+translate "Bill descriptions are limited to 500 characters."
+to german "Vorschlagsbeschreibungen sind auf 500 Zeichen begrenzt.";
+
+translate "You can't sign Petitions until you have a paid account."
+to german "Du kannst keine Gesetze unterschreiben, solange Du keinen regulären Account hast.";
+
+translate "Too late: he is no longer carrying that petition."
+to german "Zu spät. Er führt diese Petition nicht mehr mit sich.";
+
+translate "Are you sure you want to discard the petition K1?"
+to german "Bist Du sicher, dass Du diese Petition K1 verwerfen willst?";
+
+translate "You try to share signatures, but the two copies have all the same signatures on them."
+to german "Du versuchst Unterschriften zu teilen, aber die beiden Kopien haben die gleichen Unterschriften.";
+
+translate "Between you, there are a total of N1 signatures."
+to german "Zusammen sind es insgesamt N1 Unterschriften.";
+
+translate "U1(name) just merged signatures with you. You have N1 for K1."
+to german "U1(name) vereinigte Unterschriften mit Dir. Du hast N1 für K1";
+
+translate "Waiting to see if U1(name) will give you a copy of K1..."
+to german "Warte um zu sehen ob U1(name) dir eine Kopie von K1 gibt...";
+
+translate "U1(name) is asking for a copy of K1. Give him one?"
+to german "U1(name) fragt nach einer Kopie von K1. Ihm eine geben?";
+
+translate "U1(name) refused to give you a copy of K1."
+to german "U1(name) gibt Dir keine Kopie von K1.";
+
+translate "U1(name) gave you a copy of K1."
+to german "U1(name) gab Dir eine Kopie von K1.";
+
+translate "You can only sign a petition every 15 minutes.  You must wait N1 more minutes."
+to german "Du kannst nur alle 15 Minuten eine Petition unterzeichnen.  Du musst noch N1 Minuten warten.";
+
+translate "You just signed the petition for K1."
+to german "Du hast die Petition K1 unterzeichnet.";
+
+translate "That petition already contains your signature, or one very much like it."
+to german "Diese Petition trägt schon Deine Unterschrift, oder eine sehr ähnliche.";
+
+translate "Turn in petition for K1"
+to german "Reiche die Petition K1 ein.";
+
+translate "The law library has not been built yet. Please tell Pharaoh."
+to german "Das Gesetzesverzeichnis wurde noch nicht eingebaut. Bitte sprich mit Pharaoh.";
+
+translate "The law has been submitted.  Please wait a minute or two for the law to appear at voting booths."
+to german "Das Gesetz wurde eingereicht. Bitte warte ein, zwei Minuten, damit es in den Wahlkabinen erscheint.";
+
+translate "U1(name) has called for a vote on the following law: K1 Go to the nearest voting booth to vote."
+to german "U1(name) ruft zur Abstimmung über ein neues Gesetz auf: K1 Begib Dich zur nächsten Wahlkabine, um Deine Stimme abzugeben.";
+
+translate "The law library has not been built yet. Please tell Pharaoh."
+to german "Das Gesetzesverzeichnis wurde noch nicht eingebaut. Bitte sprich mit Pharaoh.";
+
+translate "Only citizens may vote."
+to german "Nur Einwöhner können abstimmen.";
+
+translate "Only citizens with paid accounts may vote."
+to german "Nur Einwohner mit einem regulären Account können abstimmen.";
+
+translate "Too late, the polls just closed on K1."
+to german "Zu spät, die Abstimmung zu K1 ist bereits beendet.";
+
+translate "Yes"
+to german "Ja";
+
+translate "No"
+to german "Nein";
+
+translate "You already voted K1.  Leaving vote unchanged."
+to german "Du hast bereits mit K1 abgestimmt.  Keine Veränderung vorgenommen.";
+
+translate "Submitting your vote of K1."
+to german "Deine Stimme als K1 abgegeben.";
+
+translate "Changing your vote to K1."
+to german "Dein Wahl zu K1 verändern.";
+
+translate "View the Law Library"
+to german "Gesetzesverzeichnis ansehen";
+
+translate "There are no proposals on the ballot right now."
+to german "Es stehen derzeit keine Abstimmungen an.";
+
+translate "These proposals are on the ballot:"
+to german "Diese Vorschläge stehen zur Abstimmung:";
+
+translate "You can propose new laws at city hall."
+to german "Neue Gesetzesvorschläge kannst Du im Rathaus einreichen.";
+
+translate CityHall to german neutercollective
+{
+  sn "Rathaus"; sg "Rathaus"; sd "Rathaus"; sa "Rathaus";
+  pn "Rathaus"; pg "Rathäuser"; pd "Rathäuser"; pa "Rathäuser";
+}
+
+translate "    New Petition "
+to german "    Neue Petition";
+
+translate "    Name of Bill:"
+to german "    Titel der Petition:";
+
+translate "Description:"
+to german "Beschreibung:";
+
+translate "Sign Petition"
+to german "Unterschreibe Petition";
+
+translate "(introduced by U1)"
+to german "(Initiiert von U1(name))";
+
+translate "You are now carrying the petition K1"
+to german "Du trägst nun die Petition K1";
+
+translate "List of Petitions"
+to german "Liste der Petitionen";
+
+translate "approx N1 sigs"
+to german "Bisher N1 Stimmen";
+
+translate "Write your Petition"
+to german "Schreibe deine Petition";
+
+translate "About 80% of all petitions are incorrectly written, so they get vetoed.  You can save yourself a lot of pointless work if you write your petition correctly.  For instructions, read 'The Limitations of Laws' in the PlayGuide section of ATITD.COM.  Have you read it?"
+to german "Rund 80% aller Petitionen werden falsch geschrieben, und dadurch erhalten sie ein Veto. Du kannst dir viel Arbeit ersparen, wenn deine Petition korrekt geschrieben wird. Eine (englische) Anleitung findest du im Play Guide auf www.atitd.com. Hast du sie gelesen?";
+
+translate "Go read it on the ATITD.COM website."
+to german "Lies die Anleitung auf www.atitd.com.";
+
+translate "The law has been submitted.  The next step is for the developers to classify it as 'Feature Request' or 'Law'."
+to german "Das Gesetz wurde eingereicht. Im nächsten Schritt prüfen die Entwickler, ob es sich um ein 'Feature' oder 'Gesetz' handelt.";
+
+translate "View Feature Requests"
+to german "Lese Feature-Vorschläge";
+
+translate "Feature requests are automatically transferred to a web-based discussion forum, where the players and the developers can talk about them.  To visit this forum, log in to www.atitd.info, and select the 'features' link."
+to german "Feature-Vorschläge werden automatisch in ein Diskussionsforum transferiert, wo Entwickler und Spieler über die Ideen diskutieren können. Um das Forum zu besuchen, gehe zu www.atitd.info und wähle den 'Feature' Link.";
+
+translate "Vote Yes"
+to german "Wähle Ja";
+
+translate "Vote No"
+to german "Wähle Nein";
+
+translate "Ignore"
+to german "Ignorieren";
+
+translate "Author: U1"
+to german "Autor: U1(name)";
+
+translate "Vote ends in N1 hours."
+to german "Wahl endet in N1 Stunden.";
+
+translate "Vote ends in less than an hour"
+to german "Die Wahl endet in weniger als einer Stunde";
+
+translate "View Recent Petitions"
+to german "Lese aktuelle Petitionen";
+
+translate "View Voting Booths"
+to german "Lese aktuelle Abstimmungen";
+
+translate "View Pending Laws"
+to german "Lese schwebende Gesetze";
+
+translate "View Successful Laws"
+to german "Lese erfolgreiche Gesetze";
+
+translate "View Failed Laws"
+to german "Lese gescheiterte Gesetze";
+
+

@@ -1,0 +1,165 @@
+module Moss_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent   **
+//**    (C)opyright 2002,2003,2004,2005 by MDO Entertainment               **
+//**                                                                       **
+//***************************************************************************
+
+
+translate Moss to german neuter
+{
+swa "Moos";
+  sn "Moos"; sg "Mooses"; sd "Moos"; sa "Moos";
+  pn "Moose"; pg "Moose"; pd "Moosen"; pa "Moose";
+}
+translate Herbiculture to german feminine
+{
+swa "Kräuterkunde";
+sn "Kräuterkunde"; pn "Kräuterkunde";
+}
+
+//menues
+
+translate "Bless this Aqueduct, drinking from the Cool Waters"
+to german "Ehre dieses Aquädukt und trinke von seinem erfrischenden Wasser";
+
+translate "You murmur a silent prayer to the gods, lean over the moss-covered cistern, and take a deep drink of the cool water. Your strength seems subtly enhanced."
+to german "Du murmelst ein leises Gebet zu den Göttern, lehnst Dich über die moosbedeckte Zisterne und nimmst einen großen Schluck des erfrischenden Wassers. Deine Stärke scheint sich ein wenig verbessert zu haben.";
+
+translate "You murmur a silent prayer to the gods, lean over the moss-covered cistern, and take a deep drink of the cool water. Your dexterity seems subtly enhanced."
+to german "Du murmelst ein leises Gebet zu den Göttern, lehnst Dich über die moosbedeckte Zisterne und nimmst einen großen Schluck des erfrischenden Wassers. Deine Gewandheit scheint sich ein wenig verbessert zu haben.";
+
+translate "You murmur a silent prayer to the gods, lean over the moss-covered cistern, and take a deep drink of the cool water. Your endurance seems subtly enhanced."
+to german "Du murmelst ein leises Gebet zu den Göttern, lehnst Dich über die moosbedeckte Zisterne und nimmst einen großen Schluck des erfrischenden Wassers. Deine Ausdauer scheint sich ein wenig verbessert zu haben.";
+
+translate "You murmur a silent prayer to the gods, lean over the moss-covered cistern, and take a deep drink of the cool water. Your speed seems subtly enhanced."
+to german "Du murmelst ein leises Gebet zu den Göttern, lehnst Dich über die moosbedeckte Zisterne und nimmst einen großen Schluck des erfrischenden Wassers. Deine Schnelligkeit scheint sich ein wenig verbessert zu haben.";
+
+translate "You murmur a silent prayer to the gods, lean over the moss-covered cistern, and take a deep drink of the cool water. Your constitution seems subtly enhanced."
+to german "Du murmelst ein leises Gebet zu den Göttern, lehnst Dich über die moosbedeckte Zisterne und nimmst einen großen Schluck des erfrischenden Wassers. Deine Konstitution scheint sich ein wenig verbessert zu haben.";
+
+translate "You murmur a silent prayer to the gods, lean over the moss-covered cistern, and take a deep drink of the cool water. Your focus seems subtly enhanced."
+to german "Du murmelst ein leises Gebet zu den Göttern, lehnst Dich über die moosbedeckte Zisterne und nimmst einen großen Schluck des erfrischenden Wassers. Dein Fokus scheint sich ein wenig verbessert zu haben.";
+
+translate "You murmur a silent prayer to the gods, lean over the moss-covered cistern, and take a deep drink of the cool water. Your perception seems subtly enhanced."
+to german "Du murmelst ein leises Gebet zu den Göttern, lehnst Dich über die moosbedeckte Zisterne und nimmst einen großen Schluck des erfrischenden Wassers. Deine Empfindung scheint sich ein wenig verbessert zu haben.";
+
+
+
+
+translate "You murmur a silent prayer to the gods, lean over the moss-covered cistern, and take a deep drink of the cool water. Your strength seems subtly enhanced, and the moss has somehow changed character a bit."
+to german "Du murmelst ein leises Gebet zu den Göttern, lehnst Dich über die moosbedeckte Zisterne und nimmst einen großen Schluck des erfrischenden Wassers. Deine Stärke scheint sich ein wenig verbessert und das Moos seine Eigenschaften irgendwie verändert zu haben.";
+
+translate "You murmur a silent prayer to the gods, lean over the moss-covered cistern, and take a deep drink of the cool water. Your dexterity seems subtly enhanced, and the moss has somehow changed character a bit."
+to german "Du murmelst ein leises Gebet zu den Göttern, lehnst Dich über die moosbedeckte Zisterne und nimmst einen großen Schluck des erfrischenden Wassers. Deine Gewandheit scheint sich ein wenig verbessert und das Moos seine Eigenschaften irgendwie verändert zu haben.";
+
+translate "You murmur a silent prayer to the gods, lean over the moss-covered cistern, and take a deep drink of the cool water. Your endurance seems subtly enhanced, and the moss has somehow changed character a bit."
+to german "Du murmelst ein leises Gebet zu den Göttern, lehnst Dich über die moosbedeckte Zisterne und nimmst einen großen Schluck des erfrischenden Wassers. Deine Ausdauer scheint sich ein wenig verbessert und das Moos seine Eigenschaften irgendwie verändert zu haben.";
+
+translate "You murmur a silent prayer to the gods, lean over the moss-covered cistern, and take a deep drink of the cool water. Your speed seems subtly enhanced, and the moss has somehow changed character a bit."
+to german "Du murmelst ein leises Gebet zu den Göttern, lehnst Dich über die moosbedeckte Zisterne und nimmst einen großen Schluck des erfrischenden Wassers. Deine Schnelligkeit scheint sich ein wenig verbessert und das Moos seine Eigenschaften irgendwie verändert zu haben.";
+
+translate "You murmur a silent prayer to the gods, lean over the moss-covered cistern, and take a deep drink of the cool water. Your constitution seems subtly enhanced, and the moss has somehow changed character a bit."
+to german "Du murmelst ein leises Gebet zu den Göttern, lehnst Dich über die moosbedeckte Zisterne und nimmst einen großen Schluck des erfrischenden Wassers. Deine Konstitution scheint sich ein wenig verbessert und das Moos seine Eigenschaften irgendwie verändert zu haben.";
+
+translate "You murmur a silent prayer to the gods, lean over the moss-covered cistern, and take a deep drink of the cool water. Your focus seems subtly enhanced, and the moss has somehow changed character a bit."
+to german "Du murmelst ein leises Gebet zu den Göttern, lehnst Dich über die moosbedeckte Zisterne und nimmst einen großen Schluck des erfrischenden Wassers. Dein Fokus scheint sich ein wenig verbessert und das Moos seine Eigenschaften irgendwie verändert zu haben.";
+
+translate "You murmur a silent prayer to the gods, lean over the moss-covered cistern, and take a deep drink of the cool water. Your perception seems subtly enhanced, and the moss has somehow changed character a bit."
+to german "Du murmelst ein leises Gebet zu den Göttern, lehnst Dich über die moosbedeckte Zisterne und nimmst einen großen Schluck des erfrischenden Wassers. Deine Empfindung scheint sich ein wenig verbessert und das Moos seine Eigenschaften irgendwie verändert zu haben.";
+
+
+
+
+translate "Some common moss grows here."
+to german "Etwas gewöhnliches Moos wächst hier.";
+
+translate "Some K1 moss grows here."
+to german "Etwas K1 Moos wächst hier.";
+
+translate "Harvest the moss"
+to german "Ernte das Moos";
+
+translate "You harvest N1 K1 Moss."
+to german "Du erntest N1 K1 Moos.";
+
+translate "Allows occasional identification and collection of herb seeds."
+to german "Erlaubt gelegentliche Identifikationen und das Sammeln von Kräutersaaten.";
+
+translate "Any kind of Moss"
+to german "Jegliche Art von Moos";
+
+translate "Green Moss"
+to german "Grünes Moos";
+
+translate "Hairy Moss"
+to german "Haariges Moos";
+
+translate "Calico Moss"
+to german "Caligo Moos";
+
+translate "Phosphorescent Moss"
+to german "Phosphoreszierendes Moos";
+
+translate "Striped, Calico Moss"
+to german "Gestreift, Calico Moos";
+
+translate "Calico, Reticulated Moss"
+to german "Calico, Netzartiges Moos";
+
+translate "Striped"
+to german "Gestreift";
+
+translate "Calico"
+to german "Calico";
+
+translate "Reticulated"
+to german "Netzartig";
+
+translate "Fuzzy"
+to german "Fusselig";
+
+translate "Prickly"
+to german "Stachelig";
+
+translate "Spotted"
+to german "Gefleckt";
+
+translate "Slimy"
+to german "Schleimig";
+
+translate "Phosphorescent"
+to german "Phosphoreszierend";
+
+translate "Spongy"
+to german "Schwammig";
+
+translate "Hairy"
+to german "Haarig";
+
+translate "Smelly"
+to german "Stingend";
+
+translate "Crackly"
+to german "Geknickt";
+
+translate "Dry"
+to german "Trocken";
+
+translate "Mottled"
+to german "Gesprenkelt";
+
+translate "Green"
+to german "Grün";
+
+
+
+
+
+
+//objects
+translate "Herbiculture"
+to german "Kräuterkunde";

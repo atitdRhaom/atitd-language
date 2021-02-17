@@ -1,0 +1,8 @@
+Module gmjail_fre;
+
+
+translate "You have been sent to GM Jail.  Please contact a GM to find out why."
+to french "Vous avez été envoyé en prison. Contactez un GM pour en savoir la raison.";
+
+translate "You are being sent back to the point where you were sent to the holding area."
+to french "Vous retournez à l'endroit où vous étiez avant d'être envoyé à la zone de détention.";

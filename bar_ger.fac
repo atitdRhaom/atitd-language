@@ -1,0 +1,242 @@
+module bar_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**             German Version: Astrid "Infinyti" Werner                  **
+//**                             2011                                      **
+//**                                                                       **
+//***************************************************************************
+
+
+translate WineBar to german masculinecollective
+{
+  swa "Zeremonieller Ausschank";
+  sn "Zeremonielle Ausschank"; sg "Zeremoniellen Ausschankes"; sd "Zeremoniellen Ausschank"; sa "Zeremoniellen Ausschank";
+  pn "Zeremoniellen Ausschänken"; pg "Zeremoniellen Ausschänken"; pd "Zeremoniellen Ausschänken"; pa "Zeremoniellen Ausschänken";
+}
+translate GlassJars to german Neutercollective
+{
+  swa "Glasflasche";
+  sn "Glasflasche"; sg "Glasflasche"; sd "Glasflasche"; sa "Glasflasche";
+  pn "Glasflaschen"; pg "Glasflaschen"; pd "Glasflaschen"; pa "Glasflaschen";
+}
+translate BeerTasting to german masculine
+{
+  swa "Biergeschmack";
+  sn "Biergeschmack"; sg "Biergeschmackes"; sd "Biergeschmack"; sa "Biergeschmack";
+  pn "Biergeschmäcker"; pg "Biergeschmäcker"; pd "Biergeschmäckern"; pa "Biergeschmäcker";
+}
+translate Glass to german neuter
+{
+  swa "Glas";
+   sn "Glas"; sg "Glases"; sd "Glas"; sa "Glas";
+   pn "Gläser"; pg "Gläser"; pd "Gläsern"; pa "Gläser";
+}
+
+
+translate "Projects"
+to german "Projekte";
+
+translate "Ceremonial Tasting Table"
+to german "Zeremonieller Ausschank";
+
+translate "To build a Ceremonial Bar, you need:"
+to german "Um einen Zeremoniellen Ausschank zu bauen brauchst du:";
+
+translate "Consume"
+to german "Essen";
+
+translate "You're going to drink the entire bottle yourself? It would be better to share at a Tasting Table. Are you sure you want to drink it yourself?"
+to german "Du willst die ganze Flasche allein zu trinken? Es wäre besser, den Wein an einem Zeremoniellen Auschank zu teilen. Bist du sicher, dass du sie alleine trinken willst?";
+
+translate "The beer is too old, and tastes terrible! Hint: More potent beers keep longer."
+to german "Das Bier ist zu alt und schmeckt grausam! Tipp: Kräftigeres Bier hält sich länger.";
+
+translate "You have already tasted similar beers. Your beer tasting skill remains unchanged."
+to german "Du hast bereits ähnliche Biere probiert. Dein Geschmacksskill bleibt unverändert.";
+
+translate "An interesting new taste! Your beer tasting skill increases from N1 to N2."
+to german "Ein interessanter neuer Geschmack! Dein Biergeschmack-Skill steigt von N1 auf N2.";
+
+translate "You taste: "
+to german "Du schmeckst: ";
+
+translate "You take a drink of wine, and taste:"
+to german "Du trinkst einen Schluck Wein und schmeckst:";
+
+translate "The wine's intensity attacks your palate like a blow dealt by a Karate master. You kiah:"
+to german "Die Intensität des Weines greift deinen Gaumen an wie ein Schlag eines Karatemeisters. Du schreist:";
+
+translate "This designer wine wears it's flavors like an Armani Suit. You snarl at those around you:"
+to german "Dieser Designerwein trägt seine Aromen wie einen Armanianzug. Du knurrst die um dich Stehenden an:";
+
+translate "This wine is like a spoiled child. It deserves to be spanked. You look around with disdain at those less discerning, inhale, and detect:"
+to german "Dieser Wein ist so schlecht wie ein verdorbenes Kind. Er sollte den Hintern vollkriegen. Du siehst dich verachtend, inhalierst und entdeckst:";
+
+translate "This wine takes you back to your days as a youth, and reminds you of the rugged outdoors. You taste the wine and detect:"
+to german "Dieser Wein erinnert dich an deine wilde Jugend. Du probierst den Wein und entdeckst:";
+
+translate "You close your eyes and inhale deeply, drinking in every nuance of the wine's subtle aromas. You taste the wine and detect:"
+to german "Du schließt die Augen, inhalierst tief und trinkst jede Nuance dieses raffinierten Aromas. Du probierst den Wein und entdeckst:";
+
+translate "You raise the glass, admire the wine's color, sample the aromas, and taste. You detect:"
+to german "Du hebst das Glas, prüfst die Weinfarbe, das Aroma und probierst. Du entdeckst:";
+
+translate "You're really starting to enjoy wine. You swirl the glass, sniff, and take a sip. You detect:"
+to german "Du beginnst Wein wirklich zu mögen. Du drehst das Glas, schnüffelst und nimmst einen Tropfen. Du entdeckst:";
+
+translate "You taste the wine, and detect:"
+to german "Du probierst den Wein und entdeckst:";
+
+translate "You take a swig and taste:"
+to german "Du nimmst einen Tropfen und entdeckst:";
+
+translate "Your Oenology skill remains unchanged."
+to german "Dein Weinskill bleibt unverändert.";
+
+translate "Grape juice is fine for kids, but if you want to improve your Oenology skill, then N1% alcohol wines won't cut it."
+to german "Traubensaft ist gut für Kinder, aber wenn du deinen Weinskill ausbauen möchtest, solltest du Weine unter N1% Alkoholgehalt nicht schneiden.";
+
+translate "Your Oenology skill went from N1 to N2."
+to german "Dein Weinskill steigt von N1 auf N2.";
+
+translate "The fine glassware enhances an already delightful experience."
+to german "Der feine Glasschnitt verstärkt das bereits wundervolle Ergebnis.";
+
+translate "Wine: K1, N1 glasses remain"
+to german "Wein: K1, N1 Gläser verbleiben";
+
+translate "Beer: K1, N1 glasses remain"
+to german "Bier: K1, N1 Gläser verbleiben";
+
+translate "Open a Bottle of Wine/K1"
+to german "Öffne eine Flasche Wein/K1";
+
+translate "Tap a Barrel of Beer"
+to german "Zapfe ein Bierfass an";
+
+translate "Fill this glass"
+to german "Fülle dieses Glas";
+
+translate "Wine is K1"
+to german "Weinsorte ist K1";
+
+translate "Drink this wine"
+to german "Trinke diesen Wein";
+
+translate "Drink this beer"
+to german "Trinke dieses Bier";
+
+translate "Wash glasses and clean up"
+to german "Wasche die Gläser ab und räume auf";
+
+translate "Cleanup"
+to german "Aufräumen";
+
+translate "There are still drinks on the table. Pour everything out?"
+to german "Es sind noch Getränke auf dem Tisch. Alles ausgießen?";
+
+translate "Pharaoh's Special"
+to german "Pharaohs Liebling";
+
+translate "Glassware"
+to german "Glasware";
+
+translate "Glass 1"
+to german "Glas 1";
+
+translate "Glass 2"
+to german "Glas 2";
+
+translate "Glass 3"
+to german "Glas 3";
+
+translate "Glass 4"
+to german "Glas 4";
+
+translate "Glass 5"
+to german "Glas 5";
+
+translate "Glass 6"
+to german "Glas 6";
+
+translate "Glass 7"
+to german "Glas 7";
+
+translate "N1 Glass"
+to german "N1 Glas";
+
+translate "Remove"
+to german "Entfernen";
+
+translate "Use"
+to german "Benutzen";
+
+translate "Permission for Take Glassware"
+to german "Erlaubnis zur Glasentnahme";
+
+translate "Take Glassware by Elder"
+to german "Erlaubnis zur Glasentnahme für Älteste";
+translate "Take Glassware by Patriarch"
+to german "Erlaubnis zur Glasentnahme für Stammesoberhaupt";
+translate "Take Glassware by Fellow"
+to german "Erlaubnis zur Glasentnahme für Genossen";
+translate "Take Glassware by Kinsman"
+to german "Erlaubnis zur Glasentnahme für Angehöriger";
+translate "Take Glassware by Member"
+to german "Erlaubnis zur Glasentnahme für Mitglied";
+translate "Take Glassware by Associate"
+to german "Erlaubnis zur Glasentnahme für Gefährte";
+translate "Take Glassware by Initiate"
+to german "Erlaubnis zur Glasentnahme für Anwärter";
+translate "Take Glassware by Anyone"
+to german "Erlaubnis zur Glasentnahme für Jedermann";
+
+translate "Remove Quality N1"
+to german "Entferne: Qualität N1";
+
+translate "Use Quality N1"
+to german "Benutzung: Qualität N1";
+
+translate "Reset back to normal permission (Currently Anyone)"
+to german "Zurücksetzen auf normale Erlaubnis (Momentan Jedermann)";
+translate "Reset back to normal permission (Currently Initiate)"
+to german "Zurücksetzen auf normale Erlaubnis (Momentan Anwärter)";
+translate "Reset back to normal permission (Currently Associate)"
+to german "Zurücksetzen auf normale Erlaubnis (Momentan Gefährte)";
+translate "Reset back to normal permission (Currently Member)"
+to german "Zurücksetzen auf normale Erlaubnis (Momentan Mitglied)";
+translate "Reset back to normal permission (Currently Kinsman)"
+to german "Zurücksetzen auf normale Erlaubnis (Momentan Angehöriger)";
+translate "Reset back to normal permission (Currently Fellow)"
+to german "Zurücksetzen auf normale Erlaubnis (Momentan Genosse)";
+translate "Reset back to normal permission (Currently Patriarch)"
+to german "Zurücksetzen auf normale Erlaubnis (Momentan Stammesoberhaupt)";
+translate "Reset back to normal permission (Currently Elder)"
+to german "Zurücksetzen auf normale Erlaubnis (Momentan Älteste)";
+
+
+translate "Permission for Siphon"
+to german "Umfüllerlaubnis";
+
+translate "Siphon by Anyone"
+to german "Umfüllen durch Jedermann";
+translate "Siphon by Associate"
+to german "Umfüllen durch Gefährte";
+translate "Siphon by Initiate"
+to german "Umfüllen durch Anwärter";
+translate "Siphon by Member"
+to german "Umfüllen durch Mitglied";
+translate "Siphon by Kinsman"
+to german "Umfüllen durch Angehörige";
+translate "Siphon by Fellow"
+to german "Umfüllen durch Genossen";
+translate "Siphon by Patriarch"
+to german "Umfüllen durch Stammesoberhaupt";
+translate "Siphon by Elder"
+to german "Umfüllen durch Ältesten";
+
+
+translate "By order of the Wine Glass Security Act, introduced by Ptenkhet, you must be of rank Fellow of higher to remove glassware from a Ceremonial tasting Table."
+to german "Per Weinglassicherheitsgesetz, eingeführt durch Ptenkhet, musst du den Rang eines Gefährten oder höher innehaben, um Glasware vom Zeremoniellen Ausschank entfernen zu dürfen.";

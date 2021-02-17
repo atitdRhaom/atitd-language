@@ -1,0 +1,96 @@
+module sparklers_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment		           **
+//**                                                                       **
+//***************************************************************************
+
+//menues
+
+translate GroundFirework to german neuter
+{
+swa "Bodenfeuerwerk";
+  sn "Bodenfeuerwerk"; sg "Bodenfeuerwerk"; sd "Bodenfeuerwerk"; sa "Bodenfeuerwerk";
+  pn "Bodenfeuerwerk"; pg "Bodenfeuerwerk"; pd "Bodenfeuerwerk"; pa "Bodenfeuerwerk";
+}
+
+translate FireFountainK to german neuter
+{
+swa "Feuerwerk";
+  sn "Feuerwerk"; sg "Feuerwerk"; sd "Feuerwerk"; sa "Feuerwerk";
+  pn "Feuerwerk"; pg "Feuerwerk"; pd "Feuerwerk"; pa "Feuerwerk";
+}
+
+translate FireFountainR to german neuter
+{
+swa "Rotes Feuerwerk";
+  sn "Rotes Feuerwerk"; sg "Rotes Feuerwerk"; sd "Rotes Feuerwerk"; sa "Rotes Feuerwerk";
+  pn "Rotes Feuerwerk"; pg "Rotes Feuerwerk"; pd "Rotes Feuerwerk"; pa "Rotes Feuerwerk";
+}
+
+translate FireFountainG to german neuter
+{
+swa "Grünes Feuerwerk";
+  sn "Grünes Feuerwerk"; sg "Grünes Feuerwerk"; sd "Grünes Feuerwerk"; sa "Grünes Feuerwerk";
+  pn "Grünes Feuerwerk"; pg "Grünes Feuerwerk"; pd "Grünes Feuerwerk"; pa "Grünes Feuerwerk";
+}
+
+translate FireFountainB to german neuter
+{
+swa "Blaues Feuerwerk";
+  sn "Blaues Feuerwerk"; sg "Blaues Feuerwerk"; sd "Blaues Feuerwerk"; sa "Blaues Feuerwerk";
+  pn "Blaues Feuerwerk"; pg "Blaues Feuerwerk"; pd "Blaues Feuerwerk"; pa "Blaues Feuerwerk";
+}
+
+translate "Fire Fountains"
+to german "Feuerwerke";
+
+translate "Make a Fire Fountain"
+to german "Mache ein Feuerwerk";
+
+translate "Make a Red Fire Fountain"
+to german "Mache ein rotes Feuerwerk";
+
+translate "Make a Green Fire Fountain"
+to german "Mache ein grünes Feuerwerk";
+
+translate "Make a Blue Fire Fountain"
+to german "Mache ein blaues Feuerwerk";
+
+translate "Make a Purple Fire Fountain"
+to german "Mache ein lila Feuerwerk";
+
+translate "To build a O1 you need "
+to german "Um ein O1(sn) zu bauen brauchst du ";
+
+translate FireFountainConstruction to german feminine
+{
+swa "Feuerwerkherstellung";
+  sn "Feuerwerkherstellung"; sg "Feuerwerkherstellung"; sd "Feuerwerkherstellung"; sa "Feuerwerkherstellung";
+  pn "Feuerwerkherstellung"; pg "Feuerwerkherstellung"; pd "Feuerwerkherstellung"; pa "Feuerwerkherstellung";
+}
+
+translate "Light the Fire Fountain!!"
+to german "Entzünde das Feuerwerk!!";
+
+translate "Light the Sun Thrower!!"
+to german "Entzünde den Sonnenblitzer!!";
+
+translate SunThrower to german masculine
+{
+swa "Sonnenblitzer";
+  sn "Sonnenblitzer"; sg "Sonnenblitzer"; sd "Sonnenblitzer"; sa "Sonnenblitzer";
+  pn "Sonnenblitzer"; pg "Sonnenblitzer"; pd "Sonnenblitzer"; pa "Sonnenblitzer";
+}
+
+translate "Check your inventory for a little prize."
+to german "Überprüfe dein Inventar auf einen kleinen Preis.";
+
+translate "Door Prize"
+to german "Vergebe Einstiegspreis";
+
+translate "Ground Firework Catalog"
+to german "Bodenfeuerwerkskatalog";

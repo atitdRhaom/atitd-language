@@ -1,0 +1,1062 @@
+module paintmix_fre;
+
+translate PaintMixer to french masculine
+{
+  ns "Nuancier"; np "Nuanciers";
+}
+
+translate paint to french Feminine
+{
+  ns "Peinture"; np "Peintures";
+}
+
+translate TheScienceOfColor to french feminine
+{
+	ns "Science des couleurs"; np "Science des couleurs";
+	}
+
+translate FabricDyeing to french neuter
+{
+  ns "Teinture de tissu"; np "Teinture de tissu";
+}
+
+translate ribbons to french masculine
+{
+  ns "Ruban"; np "Rubans";
+}
+
+translate MassProductionOfColor to french feminine
+{
+  ns "Production massive de couleurs"; np "Production massive de couleurs";
+}
+
+translate "The Science of Color"
+to french "La science des couleurs";
+
+
+translate "The Science of Color"
+to french "La science des couleurs";
+
+translate "Allows one to accurately mix paint colors"
+to french "Vous permet de mélanger des peintures";
+
+translate "TheScienceOfColor (Completed)"
+to french "La science des couleurs (Achevé)";
+
+translate "You study methods for accurately mixing natural substances into subtle and brilliant paints."
+to french "Vous étudiez les méthodes de mélange de différentes couleurs pour en faire des peintures subtiles et magnifiques.";
+
+translate "Allows one to produce paints in large quantities."
+to french "Permet de produire de la peinture en grosses quantités.";
+
+translate "The art of delicately coloring fine silks"
+to french "L'art de la coloration de fins tissus de soie";
+
+translate "You practice the subtle art of creating beautiful ribbons of silk, using a pigment laboratory."
+to french "Vous vous entraîner à l'art subril de la création de magnifiques rubans de soie, en utilisant un nuancier.";
+
+translate "Allows one to dye fabrics"
+to french "Permet de teindre des tissus";
+
+translate "Pigment Laboratory"
+to french "Nuancier";
+
+translate "Build a Pigment Laboratory"
+to french "Nuancier";
+
+translate "To build a Pigment Laboratory you need:"
+to french "Pour construire un Nuancier, il vous faut:";
+
+translate "Take the Paint"
+to french "Prendre la peinture";
+
+translate "The paint is not concentrated enough. You must use at least N1 doses of tint to make the paint concentrated enough.  You can use the same tint multiple times."
+to french "La peinture n'est pas assez concentrée. Vous devez utiliser au moins N1 doses de pigment pour faire une peinture suffisamment concentrée. Vous pouvez utiliser le même pigment plusieurs fois.";
+
+translate "Make colored Ribbons"
+to french "Teindre des rubans";
+
+translate "You do not have enough silk cloth."
+to french "Vous n'avez pas assez de pièces de soie.";
+
+translate "Remove Ribbons"
+to french "Retirer les rubans";
+
+translate "Ribbons"
+to french "Rubans";
+
+translate "You already have ribbons there."
+to french "Vous portez déjà un ruban ici.";
+
+translate "You do not have any K1 O1"
+to french "Vous n'avez aucun O1(ns) K1";
+
+translate "Ribbons"
+to french "Rubans";
+
+translate "Hand"
+to french "Poigné";
+
+translate "Elbow"
+to french "Coude";
+
+translate "Wrist"
+to french "Genou";
+
+translate "Ribbons of K1"
+to french "Ruban K1";
+
+translate "The ribbons will get dirty in about an hour."
+to french "Les rubans seront sales dans environ une heure.";
+
+translate "You don't have the necessary skill."
+to french "Vous n'avez pas les connaissances nécessaires.";
+
+translate "You don't have any O1, and storage is empty."
+to french "Vous n'avez pas de O1(ns), et votre réserve est vide.";
+
+translate "Given the current batch size, you need N1 O1"
+to french "Etant donné la quantité souhaitée, il vous faut N1 O1(N1?np:ns)";
+
+translate "Ingredient"
+to french "Ingrédient";
+
+translate "Qty Stored"
+to french "Réserve";
+
+translate "Concentration: N1"
+to french "Concentration: N1";
+
+translate "Dye a piece of Linen"
+to french "Teindre une pièce de soie";
+
+translate "You do not have any linen."
+to french "Vous n'avez pas de pièces de soie";
+
+translate "Specific Paint"
+to french "Peinture spéciale";
+
+translate "What color:"
+to french "Quelle couleur ?";
+
+translate "No such paint"
+to french "Couleur inexistante";
+
+translate "Batch Size"
+to french "Quantités";
+
+translate "Make small batches (x1)"
+to french "Faire en petite quantité (x1)";
+
+translate "Make medium batches (x10)"
+to french "Faire en moyenne quantité (x10)";
+
+translate "Make large batches (x100)"
+to french "Faire en grosse quantité (x100)";
+
+translate "Carrot"
+to french "Carotte";
+
+translate "O1:K1"
+to french "O1(ns):K1";
+
+translate "Greenish Paint"
+to french "Peinture verdâtre";
+translate "Reddish Paint"
+to french "Peinture rougeâtre";
+translate "Blueish Paint"
+to french "Peinture bleuâtre";
+translate "Yellowish Paint"
+to french "Peinture jaunâtre";
+
+
+translate "Alice Blue Paint" to french "Peinture Bleu Alice";
+translate "Alice Blue" to french "Bleu Alice";
+translate "Antique White Paint" to french "Peinture Blanc antique";
+translate "Antique White" to french "Blanc antique";
+translate "Aqua Paint" to french "Peinture Aqua";
+translate "Aqua" to french "Aqua";
+translate "Aquamarine Paint" to french "Peinture Aigue-marine";
+translate "Aquamarine" to french "Aigue-marine";
+translate "Azure Paint" to french "Peinture Azur";
+translate "Azure" to french "Azur";
+translate "Beige Paint" to french "Peinture Beige";
+translate "Beige" to french "Beige";
+translate "Bisque Paint" to french "Peinture Bisque";
+translate "Bisque" to french "Bisque";
+translate "Black Paint" to french "Peinture Noire";
+translate "Blanched Almond Paint" to french "Peinture Amande blanchie";
+translate "Blanched Almond" to french "Amande blanchie";
+translate "Blue Paint" to french "Peinture Bleu";
+translate "Blue Violet Paint" to french "Peinture Violette";
+translate "Blue Violet" to french "Violette";
+translate "Blue" to french "Bleu";
+translate "Brown Paint" to french "Peinture Brun";
+translate "Brown" to french "Brun";
+translate "Burly Wood Paint" to french "Peinture Bois précieux";
+translate "Burly Wood" to french "Bois précieux";
+translate "Cadet Blue Paint" to french "Peinture Bleu cadet";
+translate "Cadet Blue" to french "Bleu cadet";
+translate "Chartreuse Paint" to french "Peinture Chartreuse";
+translate "Chartreuse" to french "Chartreuse";
+translate "Chocolate Paint" to french "Peinture Chocolat";
+translate "Chocolate" to french "Chocolat";
+translate "Coral Paint" to french "Peinture Corail";
+translate "Coral" to french "Corail";
+translate "Cornflower Blue Paint" to french "Peinture Bleuet";
+translate "Cornflower Blue" to french "Bleuet";
+translate "Cornsilk Paint" to french "Peinture Céréale";
+translate "Cornsilk" to french "Céréale";
+translate "Crimson Paint" to french "Peinture Cramoisi";
+translate "Crimson" to french "Cramoisi";
+translate "Cyan Paint" to french "Peinture Cyan";
+translate "Cyan" to french "Cyan";
+translate "Dark Blue Paint" to french "Peinture Bleu nuit";
+translate "Dark Blue" to french "Bleu nuit";
+translate "Dark Cyan Paint" to french "Peinture Cyan foncé";
+translate "Dark Cyan" to french "Cyan foncé";
+translate "Dark Golden Rod Paint" to french "Peinture Solidage foncé";
+translate "Dark Golden Rod" to french "Solidage foncé";
+translate "Dark Grey Paint" to french "Peinture Gris foncé";
+translate "Dark Grey" to french "Gris foncé";
+translate "Dark Green Paint" to french "Peinture Vert foncé";
+translate "Dark Green" to french "Vert foncé";
+translate "Dark Khaki Paint" to french "Peinture Kaki foncé";
+translate "Dark Khaki" to french "Kaki foncé";
+translate "Dark Magenta Paint" to french "Peinture Magenta foncé";
+translate "Dark Magenta" to french "Magenta foncé";
+translate "Dark Olive Green Paint" to french "Peinture Vert olive foncé";
+translate "Dark Olive Green" to french "Vert olive foncé";
+translate "Dark Orange Paint" to french "Peinture Orange foncé";
+translate "Dark Orange" to french "Orange foncé";
+translate "Dark Orchid Paint" to french "Peinture Orchidée foncé";
+translate "Dark Orchid" to french "Orchidée foncé";
+translate "Dark Red Paint" to french "Peinture Rouge foncé";
+translate "Dark Red" to french "Rouge foncé";
+translate "Dark Salmon Paint" to french "Peinture Saumon foncé";
+translate "Dark Salmon" to french "Saumon foncé";
+translate "Dark Sea Green Paint" to french "Peinture Vert marin foncé";
+translate "Dark Sea Green" to french "Vert marin foncé";
+translate "Dark Slate Blue Paint" to french "Peinture Bleu ardoise foncé";
+translate "Dark Slate Blue" to french "Bleu ardoise foncé";
+translate "Dark Slate Grey Paint" to french "Peinture Gris ardoise foncé";
+translate "Dark Slate Grey" to french "Gris ardoise foncé";
+translate "Dark Turquoise Paint" to french "Peinture Turquoise foncé";
+translate "Dark Turquoise" to french "Turquoise foncé";
+translate "Dark Violet Paint" to french "Peinture Violet foncé";
+translate "Dark Violet" to french "Violet foncé";
+translate "Deep Pink Paint" to french "Peinture Rose profond";
+translate "Deep Pink" to french "Rose profond";
+translate "Deep Sky Blue Paint" to french "Peinture Bleu ciel profond";
+translate "Deep Sky Blue" to french "Bleu ciel profond";
+translate "Dim Grey Paint" to french "Peinture Gris pâle";
+translate "Dim Grey" to french "Gris pâle";
+translate "Dodger Blue Paint" to french "Peinture Bleu Dodger";
+translate "Dodger Blue" to french "Bleu Dodger";
+translate "Feldspar Paint" to french "Peinture Feldspath";
+translate "Feldspar" to french "Feldspath";
+translate "Fire Brick Paint" to french "Peinture Brique réfractaire";
+translate "Fire Brick" to french "Brique réfractaire";
+translate "Floral White Paint" to french "Peinture Blanc floral";
+translate "Floral White" to french "Blanc floral";
+translate "Forest Green Paint" to french "Peinture Vert forêt";
+translate "Forest Green" to french "Vert forêt";
+translate "Fuchsia Paint" to french "Peinture Fuchsia";
+translate "Fuchsia" to french "Fuchsia";
+translate "Gainsboro Paint" to french "Peinture Gainsboro";
+translate "Gainsboro" to french "Gainsboro";
+translate "Ghost White Paint" to french "Peinture Blanc spectral";
+translate "Ghost White" to french "Blanc spectral";
+translate "Gold Paint" to french "Peinture Or";
+translate "Gold" to french "Or";
+translate "Golden Rod Paint" to french "Peinture Solidage";
+translate "Golden Rod" to french "Solidage";
+translate "Grey Paint" to french "Peinture Gris";
+translate "Grey" to french "Gris";
+translate "Green Paint" to french "Peinture Vert";
+translate "Green Yellow Paint" to french "Peinture Jaune vert";
+translate "Green Yellow" to french "Jaune vert";
+translate "Green" to french "Vert";
+translate "Honey Dew Paint" to french "Peinture Rosée de miel";
+translate "Honey Dew" to french "Rosée de miel";
+translate "Honey Dew 2" to french "Rosée de miel 2";
+translate "Honey Dew N1" to french "Rosée de miel N1";
+translate "Hot Pink Paint" to french "Peinture Rose chaud";
+translate "Hot Pink" to french "Rose chaud";
+translate "Indian Red Paint" to french "Peinture Rouge indien";
+translate "Indian Red" to french "Rouge indien";
+translate "Indigo Paint" to french "Peinture Indigo";
+translate "Indigo" to french "Indigo";
+translate "Ivory Paint" to french "Peinture Ivoire";
+translate "Ivory" to french "Ivoire";
+translate "Khaki Paint" to french "Peinture Kaki";
+translate "Khaki" to french "Kaki";
+translate "Lavender Blush Paint" to french "Peinture Rouge lavande";
+translate "Lavender Blush" to french "Rouge lavande";
+translate "Lavender Paint" to french "Peinture Lavande";
+translate "Lavender" to french "Lavande";
+translate "Lawn Green Paint" to french "Peinture Vert gazon";
+translate "Lawn Green" to french "Vert gazon";
+translate "Lemon Chiffon Paint" to french "Peinture Crème citron";
+translate "Lemon Chiffon" to french "Crème citron";
+translate "Light Blue Paint" to french "Peinture Bleu clair";
+translate "Light Blue" to french "Bleu clair";
+translate "Light Coral Paint" to french "Peinture Corail clair";
+translate "Light Coral" to french "Corail clair";
+translate "Light Cyan Paint" to french "Peinture Cyan clair";
+translate "Light Cyan" to french "Cyan clair";
+translate "Light Golden Rod Yellow Paint" to french "Peinture Solidage clair";
+translate "Light Golden Rod Yellow" to french "Solidage clair";
+translate "Light Green Paint" to french "Peinture Vert clair";
+translate "Light Green" to french "Vert clair";
+translate "Light Grey Paint" to french "Peinture Gris clair";
+translate "Light Grey" to french "Gris clair";
+translate "Light Pink Paint" to french "Peinture Rose clair";
+translate "Light Pink" to french "Rose clair";
+translate "Light Salmon Paint" to french "Peinture Saumon clair";
+translate "Light Salmon" to french "Saumon clair";
+translate "Light Sea Green Paint" to french "Peinture Vert d'eau clair";
+translate "Light Sea Green" to french "Vert d'eau clair";
+translate "Light Sky Blue Paint" to french "Peinture Bleu ciel clair";
+translate "Light Sky Blue" to french "Bleu ciel clair";
+translate "Light Slate Blue Paint" to french "Peinture Bleu ardoise clair";
+translate "Light Slate Blue" to french "Bleu ardoise clair";
+translate "Light Slate Grey Paint" to french "Peinture Gris ardoise clair";
+translate "Light Slate Grey" to french "Gris ardoise clair";
+translate "Light Steel Blue Paint" to french "Peinture Bleu acier clair";
+translate "Light Steel Blue" to french "Bleu acier clair";
+translate "Light Yellow Paint" to french "Peinture Jaune clair";
+translate "Light Yellow" to french "Jaune clair";
+translate "Lime Green Paint" to french "Peinture Citron vert";
+translate "Lime Green" to french "Citron vert";
+translate "Lime Paint" to french "Peinture Citron";
+translate "Lime" to french "Citron";
+translate "Linen Paint" to french "Peinture Tissu";
+translate "Linen" to french "Tissu";
+translate "Magenta Paint" to french "Peinture Magenta";
+translate "Magenta" to french "Magenta";
+translate "Maroon Paint" to french "Peinture Marron";
+translate "Maroon" to french "Marron";
+translate "Medium Aqua Marine Paint" to french "Peinture Aigue-marine moyen";
+translate "Medium Aqua Marine" to french "Aigue-marine moyen";
+translate "Medium Blue Paint" to french "Peinture Bleu moyen";
+translate "Medium Blue" to french "Bleu moyen";
+translate "Medium Orchid Paint" to french "Peinture Orchidée moyen";
+translate "Medium Orchid" to french "Orchidée moyen";
+translate "Medium Purple Paint" to french "Peinture Mauve moyen";
+translate "Medium Purple" to french "Mauve moyen";
+translate "Medium Sea Green Paint" to french "Peinture Vert d'eau moyen";
+translate "Medium Sea Green" to french "Vert d'eau moyen";
+translate "Medium Slate Blue Paint" to french "Peinture Bleu ardoise moyen";
+translate "Medium Slate Blue" to french "Bleu ardoise moyen";
+translate "Medium Spring Green Paint" to french "Peinture Vert tendre moyen";
+translate "Medium Spring Green" to french "Vert tendre moyen";
+translate "Medium Turquoise Paint" to french "Peinture Turquoise moyen";
+translate "Medium Turquoise" to french "Turquoise moyen";
+translate "Medium Violet Red Paint" to french "Peinture Rouge violacé moyen";
+translate "Medium Violet Red" to french "Rouge violacé moyen";
+translate "Midnight Blue Paint" to french "Peinture Bleu nuit";
+translate "Midnight Blue" to french "Bleu nuit";
+translate "Mint Cream Paint" to french "Peinture Crème de menthe";
+translate "Mint Cream" to french "Crème de menthe";
+translate "Misty Rose Paint" to french "Peinture Rose brumeux";
+translate "Misty Rose" to french "Rose brumeux";
+translate "Moccasin Paint" to french "Peinture Mocassin";
+translate "Moccasin" to french "Mocassin";
+translate "Navajo White Paint" to french "Peinture Blanc navajo";
+translate "Navajo White" to french "Blanc navajo";
+translate "Navy Paint" to french "Peinture Bleu marine";
+translate "Navy" to french "Bleu marine";
+translate "Old Lace Paint" to french "Peinture Vieille dentelle";
+translate "Old Lace" to french "Vieille dentelle";
+translate "Olive Drab Paint" to french "Peinture Brun gris";
+translate "Olive Drab" to french "Brun gris";
+translate "Olive Paint" to french "Peinture Olive";
+translate "Olive" to french "Olive";
+translate "Orange Paint" to french "Peinture Orange";
+translate "Orange Red Paint" to french "Peinture Rouge orangé";
+translate "Orange Red" to french "Rouge orangé";
+translate "Orange" to french "Orange";
+translate "Orchid Paint" to french "Peinture Orchidée";
+translate "Orchid" to french "Orchidée";
+translate "Pale Golden Rod Paint" to french "Peinture Solidage pâle";
+translate "Pale Golden Rod" to french "Solidage pâle";
+translate "Pale Green Paint" to french "Peinture Vert pâle";
+translate "Pale Green" to french "Vert pâle";
+translate "Pale Turquoise Paint" to french "Peinture Turquoise pâle";
+translate "Pale Turquoise" to french "Turquoise pâle";
+translate "Pale Violet Red Paint" to french "Peinture Rouge violacé pâle";
+translate "Pale Violet Red" to french "Rouge violacé pâle";
+translate "Papaya Whip Paint" to french "Peinture Crème de Papaye";
+translate "Papaya Whip" to french "Crème de Papaye";
+translate "Peach Puff Paint" to french "Peinture Pêche";
+translate "Peach Puff" to french "Pêche";
+translate "Peru Paint" to french "Peinture Pérou";
+translate "Peru" to french "Pérou";
+translate "Pink Paint" to french "Peinture Rose";
+translate "Pink" to french "Rose";
+translate "Plum Paint" to french "Peinture Prune";
+translate "Plum" to french "Prune";
+translate "Powder Blue Paint" to french "Peinture Bleu poudré";
+translate "Powder Blue" to french "Bleu poudré";
+translate "Purple Paint" to french "Peinture Violet";
+translate "Purple" to french "Violet";
+translate "Red Paint" to french "Peinture Rouge";
+translate "Red" to french "Rouge";
+translate "Rosy Brown Paint" to french "Peinture Marron rosé";
+translate "Rosy Brown" to french "Marron rosé";
+translate "Royal Blue Paint" to french "Peinture Bleu roi";
+translate "Royal Blue" to french "Bleu roi";
+translate "Saddle Brown Paint" to french "Peinture Brun selle";
+translate "Saddle Brown" to french "Brun selle";
+translate "Salmon Paint" to french "Peinture Saumon";
+translate "Salmon" to french "Saumon";
+translate "Sandy Brown Paint" to french "Peinture Brun sable";
+translate "Sandy Brown" to french "Brun sable";
+translate "Sea Green Paint" to french "Peinture Vert d'eau";
+translate "Sea Green" to french "Vert d'eau";
+translate "Sea Shell Paint" to french "Peinture Coquillage";
+translate "Sea Shell" to french "Coquillage";
+translate "Sienna Paint" to french "Peinture Terre de Sienne";
+translate "Sienna" to french "Terre de Sienne";
+translate "Silver Paint" to french "Peinture Argent";
+translate "Silver" to french "Argent";
+translate "Sky Blue Paint" to french "Peinture Bleu ciel";
+translate "Sky Blue" to french "Bleu ciel";
+translate "Slate Blue Paint" to french "Peinture Bleu ardoise";
+translate "Slate Blue" to french "Bleu ardoise";
+translate "Slate Grey Paint" to french "Peinture Gris ardoise";
+translate "Slate Grey" to french "Gris ardoise";
+translate "Snow Paint" to french "Peinture Neige";
+translate "Snow" to french "Neige";
+translate "Spring Green Paint" to french "Peinture Vert tendre";
+translate "Spring Green" to french "Vert tendre";
+translate "Steel Blue Paint" to french "Peinture Bleu acier";
+translate "Steel Blue" to french "Bleu acier";
+translate "Tan Paint" to french "Peinture Brunâtre";
+translate "Tan" to french "Brunâtre";
+translate "Teal Paint" to french "Peinture Vert sarcelle";
+translate "Teal" to french "Vert sarcelle";
+translate "Thistle Paint" to french "Peinture Chardon";
+translate "Thistle" to french "Chardon";
+translate "Tomato Paint" to french "Peinture Tomate";
+translate "Tomato" to french "Tomate";
+translate "Turquoise Paint" to french "Peinture Turquoise";
+translate "Turquoise" to french "Turquoise";
+translate "Violet Paint" to french "Peinture Mauve pâle";
+translate "Violet Red Paint" to french "Peinture Rouge violacé";
+translate "Violet Red" to french "Rouge violacé";
+translate "Violet" to french "Mauve pâle";
+translate "Wheat Paint" to french "Peinture Blé";
+translate "Wheat" to french "Blé";
+translate "White Paint" to french "Peinture Blanc";
+translate "White Smoke Paint" to french "Peinture Fumée blanche";
+translate "White Smoke" to french "Fumée blanche";
+translate "White" to french "Blanc";
+translate "Yellow Green Paint" to french "Peinture Vert jaune";
+translate "Yellow Green" to french "Vert jaune";
+translate "Yellow Paint" to french "Peinture Jaune";
+translate "Yellow" to french "Jaune";
+Translate "Amethyst Paint" to french "Peinture Améthiste";
+Translate "Amethyst" to french "Améthiste";
+Translate "Baker Miller Pink Paint" to french "Peinture Baker Miller Rose";
+Translate "Baker Miller Pink" to french "Baker Miller Rose";
+Translate "Banana Paint" to french "Peinture Banane";
+Translate "Banana" to french "Banane";
+Translate "Barn Red Paint" to french "Peinture Rouge Grange";
+Translate "Barn Red" to french "Rouge Grange";
+Translate "Beet Paint" to french "Peinture Betterave";
+Translate "Beet" to french "Betterave";
+Translate "Blaze Orange Paint" to french "Peinture Orange Vif";
+Translate "Blaze Orange" to french "Orange Vif";
+Translate "Boysenberry Paint" to french "Peinture Mûre";
+Translate "Boysenberry" to french "Mûre";
+Translate "Bright Pink Paint" to french "Peinture Rose vif";
+Translate "Bright Pink" to french "Rose vif";
+Translate "Burgundy Red Paint" to french "Peinture Rouge Burgendy";
+Translate "Burgundy Red" to french "Rouge Burgendy";
+Translate "Burnt Sienna Paint" to french "Peinture Rouge Sienne";
+Translate "Burnt Sienna" to french "Rouge Sienne";
+Translate "Burnt Umber Paint" to french "Peinture Terres brûlées";
+Translate "Burnt Umber" to french "Terres brûlées";
+Translate "Cadmium Orange Paint" to french "Peinture Orange Cadmium";
+Translate "Cadmium Orange" to french "Orange Cadmium";
+Translate "Cadmium Yellow Paint" to french "Peinture Jaune Cadmium";
+Translate "Cadmium Yellow" to french "Jaune Cadmium";
+Translate "Carrot Paint" to french "Peinture Carrottes";
+Translate "Carrot" to french "Carrottes";
+Translate "Cobalt Blue Paint" to french "Peinture Bleu Cobalt";
+Translate "Cobalt Blue" to french "Bleu Cobalt";
+Translate "Cobalt Green Paint" to french "Peinture Vert Cobalt";
+Translate "Cobalt Green" to french "Vert Cobalt";
+Translate "Dark Jungle Green Paint" to french "Peinture Vert Jungle Foncée";
+Translate "Dark Jungle Green" to french "Vert Jungle Foncée";
+Translate "Dark Scarlet Paint" to french "Peinture Ecarlate foncé";
+Translate "Dark Scarlet" to french "Ecarlate foncé";
+Translate "Dark Sienna Paint" to french "Peinture Sienna foncé";
+Translate "Dark Sienna" to french "Sienna foncé";
+Translate "Duke Blue Paint" to french "Peinture Bleu Duke";
+Translate "Duke Blue" to french "Bleu Duke";
+Translate "Eggshell White Paint" to french "Peinture Blanc Coquille d'œuf";
+Translate "Eggshell White" to french "Blanc Coquille d'œuf";
+Translate "Emerald Green Paint" to french "Peinture Vert Emeraude";
+Translate "Emerald Green" to french "Vert Emeraude";
+Translate "Imperial Blue Paint" to french "Peinture Bleu Impérial";
+Translate "Imperial Blue" to french "Bleu Impérial";
+Translate "Licorice Paint" to french "Peinture Réglisse";
+Translate "Licorice" to french "Réglisse";
+Translate "Melon Paint" to french "Peinture Melon";
+Translate "Melon" to french "Melon";
+Translate "Oxford Blue Paint" to french "Peinture Bleu Oxford";
+Translate "Oxford Blue" to french "Bleu Oxford";
+Translate "Peacock Paint" to french "Peinture Paon";
+Translate "Peacock" to french "Paon";
+Translate "Persian Indigo Paint" to french "Peinture Indigo Persan";
+Translate "Persian Indigo" to french "Indigo Persan";
+Translate "Persian Pink Paint" to french "Peinture Rose Persan";
+Translate "Persian Pink" to french "Rose Persan";
+Translate "Prussian Blue Paint" to french "Peinture Bleu Prusse";
+Translate "Prussian Blue" to french "Bleu Prusse";
+Translate "Raw Sienna Paint" to french "Peinture Terre de Sienne brute";
+Translate "Raw Sienna" to french "Terre de Sienne";
+Translate "Red Devil Paint" to french "Peinture Rouge Diable";
+Translate "Red Devil" to french "Rouge Diable";
+Translate "Rich Black Paint" to french "Peinture Noir Profond";
+Translate "Rich Black" to french "Noir Profond";
+Translate "Ruby Red Paint" to french "Peinture Rouge rubis";
+Translate "Ruby Red" to french "Rouge rubis";
+Translate "Sangria Paint" to french "Peinture Sangria";
+Translate "Sangria" to french "Sangria";
+Translate "Sap Green Paint" to french "Peinture Vert Sap";
+Translate "Sap Green" to french "Vert Sap";
+Translate "Seal Brown Paint" to french "Peinture Brun joint";
+Translate "Seal Brown" to french "Brun joint";
+Translate "Smokey Black Paint" to french "Peinture Noir Suie";
+Translate "Smokey Black" to french "Noir Suie";
+Translate "Steel Pink Paint" to french "Peinture Rose Acier";
+Translate "Steel Pink" to french "Rose Acier";
+Translate "Tyrian Purple Paint" to french "Peinture Mauve Tyrian";
+Translate "Tyrian Purple" to french "Mauve Tyrian";
+Translate "Zaffre Paint" to french "Peinture Safre";
+Translate "Zaffre" to french "Safre";
+
+
+//For Raeli Ovens
+translate "Alice Blue (N1)"
+to french "Bleu Alice (N1)";
+translate "Antique White (N1)"
+to french "Blanc antique (N1)";
+translate "Aqua (N1)"
+to french "Aqua (N1)";
+translate "Aquamarine (N1)"
+to french "Aigue-marine (N1)";
+translate "Azure (N1)"
+to french "Azur (N1)";
+translate "Beige (N1)"
+to french "Beige (N1)";
+translate "Bisque (N1)"
+to french "Bisque (N1)";
+translate "Blanched Almond (N1)"
+to french "Amande blanchie (N1)";
+translate "Blue (N1)"
+to french "Bleu (N1)";
+translate "Blue Violet (N1)"
+to french "Violette (N1)";
+translate "Brown (N1)"
+to french "Brun (N1)";
+translate "Burly Wood (N1)"
+to french "Bois précieux (N1)";
+translate "Cadet Blue (N1)"
+to french "Bleu cadet (N1)";
+translate "Chartreuse (N1)"
+to french "Chartreuse (N1)";
+translate "Chocolate (N1)"
+to french "Chocolat (N1)";
+translate "Coral (N1)"
+to french "Corail (N1)";
+translate "Cornflower Blue (N1)"
+to french "Bleuet (N1)";
+translate "Cornsilk (N1)"
+to french "Céréale (N1)";
+translate "Crimson (N1)"
+to french "Cramoisi (N1)";
+translate "Cyan (N1)"
+to french "Cyan (N1)";
+translate "Dark Blue (N1)"
+to french "Bleu nuit (N1)";
+translate "Dark Cyan (N1)"
+to french "Cyan foncé (N1)";
+translate "Dark Golden Rod (N1)"
+to french "Solidage foncé (N1)";
+
+translate "Dark Grey (N1)"
+to french "Gris foncé (N1)";
+
+translate "Dark Green (N1)"
+to french "Vert foncé (N1)";
+translate "Dark Khaki (N1)"
+to french "Kaki foncé (N1)";
+translate "Dark Magenta (N1)"
+to french "Magenta foncé (N1)";
+translate "Dark Olive Green (N1)"
+to french "Vert olive foncé (N1)";
+translate "Dark Orange (N1)"
+to french "Orange foncé (N1)";
+translate "Dark Orchid (N1)"
+to french "Orchidée foncé (N1)";
+translate "Dark Red (N1)"
+to french "Rouge foncé (N1)";
+translate "Dark Salmon (N1)"
+to french "Saumon foncé (N1)";
+translate "Dark Sea Green (N1)"
+to french "Vert marin foncé (N1)";
+translate "Dark Slate Blue (N1)"
+to french "Bleu ardoise foncé (N1)";
+translate "Dark Slate Grey (N1)"
+to french "Gris ardoise foncé (N1)";
+translate "Dark Turquoise (N1)"
+to french "Turquoise foncé (N1)";
+translate "Dark Violet (N1)"
+to french "Violet foncé (N1)";
+translate "Deep Pink (N1)"
+to french "Rose profond (N1)";
+translate "Deep Sky Blue (N1)"
+to french "Bleu ciel profond (N1)";
+translate "Dim Grey (N1)"
+to french "Gris pâle (N1)";
+translate "Dodger Blue (N1)"
+to french "Bleu Dodger (N1)";
+translate "Feldspar (N1)"
+to french "Feldspath (N1)";
+translate "Fire Brick (N1)"
+to french "Brique réfractaire (N1)";
+translate "Floral White (N1)"
+to french "Blanc floral (N1)";
+translate "Forest Green (N1)"
+to french "Vert forêt (N1)";
+translate "Fuchsia (N1)"
+to french "Fuchsia (N1)";
+translate "Gainsboro (N1)"
+to french "Gainsboro (N1)";
+translate "Ghost White (N1)"
+to french "Blanc spectral (N1)";
+translate "Gold (N1)"
+to french "Or (N1)";
+translate "Golden Rod (N1)"
+to french "Solidage (N1)";
+translate "Grey (N1)"
+to french "Gris (N1)";
+translate "Green (N1)"
+to french "Vert (N1)";
+translate "Green Yellow (N1)"
+to french "Jaune vert (N1)";
+translate "Honey Dew (N1)"
+to french "Rosée de miel (N1)";
+translate "Hot Pink (N1)"
+to french "Rose chaud (N1)";
+translate "Indian Red (N1)"
+to french "Rouge indien (N1)";
+translate "Indigo (N1)"
+to french "Indigo (N1)";
+translate "Ivory (N1)"
+to french "Ivoire (N1)";
+translate "Khaki (N1)"
+to french "Kaki (N1)";
+translate "Lavender (N1)"
+to french "Lavande (N1)";
+translate "Lavender Blush (N1)"
+to french "Rouge lavande (N1)";
+translate "Lawn Green (N1)"
+to french "Vert gazon (N1)";
+translate "Lemon Chiffon (N1)"
+to french "Crème citron (N1)";
+translate "Light Blue (N1)"
+to french "Bleu clair (N1)";
+translate "Light Coral (N1)"
+to french "Corail clair (N1)";
+translate "Light Cyan (N1)"
+to french "Cyan clair (N1)";
+translate "Light Golden Rod Yellow (N1)"
+to french "Solidage clair (N1)";
+translate "Light Grey (N1)"
+to french "Gris clair (N1)";
+translate "Light Green (N1)"
+to french "Vert clair (N1)";
+translate "Light Pink (N1)"
+to french "Rose clair (N1)";
+translate "Light Salmon (N1)"
+to french "Saumon clair (N1)";
+translate "Light Sea Green (N1)"
+to french "Vert d'eau clair (N1)";
+translate "Light Sky Blue (N1)"
+to french "Bleu ciel clair (N1)";
+translate "Light Slate Blue (N1)"
+to french "Bleu ardoise clair (N1)";
+translate "Light Slate Grey (N1)"
+to french "Gris ardoise clair (N1)";
+translate "Light Steel Blue (N1)"
+to french "Bleu acier clair (N1)";
+translate "Light Yellow (N1)"
+to french "Jaune clair (N1)";
+translate "Lime (N1)"
+to french "Citron (N1)";
+translate "Lime Green (N1)"
+to french "Citron vert (N1)";
+translate "Linen (N1)"
+to french "Tissu (N1)";
+translate "Magenta (N1)"
+to french "Magenta (N1)";
+translate "Maroon (N1)"
+to french "Marron (N1)";
+translate "Medium Aqua Marine (N1)"
+to french "Aigue-marine moyen (N1)";
+translate "Medium Blue (N1)"
+to french "Bleu moyen (N1)";
+translate "Medium Orchid (N1)"
+to french "Orchidée moyen (N1)";
+translate "Medium Purple (N1)"
+to french "Mauve moyen (N1)";
+translate "Medium Sea Green (N1)"
+to french "Vert d'eau moyen (N1)";
+translate "Medium Slate Blue (N1)"
+to french "Bleu ardoise moyen (N1)";
+translate "Medium Spring Green (N1)"
+to french "Vert tendre moyen (N1)";
+translate "Medium Turquoise (N1)"
+to french "Turquoise moyen (N1)";
+translate "Medium Violet Red (N1)"
+to french "Rouge violacé moyen (N1)";
+translate "Midnight Blue (N1)"
+to french "Bleu nuit (N1)";
+translate "Mint Cream (N1)"
+to french "Crème de menthe (N1)";
+translate "Misty Rose (N1)"
+to french "Rose brumeux (N1)";
+translate "Moccasin (N1)"
+to french "Mocassin (N1)";
+translate "Navajo White (N1)"
+to french "Blanc navajo (N1)";
+translate "Navy (N1)"
+to french "Bleu marine (N1)";
+translate "Old Lace (N1)"
+to french "Vieille dentelle (N1)";
+translate "Olive (N1)"
+to french "Olive (N1)";
+translate "Olive Drab (N1)"
+to french "Brun gris (N1)";
+translate "Orange (N1)"
+to french "Orange (N1)";
+translate "Orange Red (N1)"
+to french "Rouge orangé (N1)";
+translate "Orchid (N1)"
+to french "Orchidée (N1)";
+translate "Pale Golden Rod (N1)"
+to french "Solidage pâle (N1)";
+translate "Pale Green (N1)"
+to french "Vert pâle (N1)";
+translate "Pale Turquoise (N1)"
+to french "Turquoise pâle (N1)";
+translate "Pale Violet Red (N1)"
+to french "Rouge violacé pâle (N1)";
+translate "Papaya Whip (N1)"
+to french "Crème de Papaye (N1)";
+translate "Peach Puff (N1)"
+to french "Pêche (N1)";
+translate "Peru (N1)"
+to french "Pérou (N1)";
+translate "Pink (N1)"
+to french "Rose (N1)";
+translate "Plum (N1)"
+to french "Prune (N1)";
+translate "Powder Blue (N1)"
+to french "Bleu poudré (N1)";
+translate "Purple (N1)"
+to french "Violet (N1)";
+translate "Red (N1)"
+to french "Rouge (N1)";
+translate "Rosy Brown (N1)"
+to french "Marron rosé (N1)";
+translate "Royal Blue (N1)"
+to french "Bleu roi (N1)";
+translate "Saddle Brown (N1)"
+to french "Brun selle (N1)";
+translate "Salmon (N1)"
+to french "Saumon (N1)";
+translate "Sandy Brown (N1)"
+to french "Brun sable (N1)";
+translate "Sea Green (N1)"
+to french "Vert d'eau (N1)";
+translate "Sea Shell (N1)"
+to french "Coquillage (N1)";
+translate "Sienna (N1)"
+to french "Terre de Sienne (N1)";
+translate "Silver (N1)"
+to french "Argent (N1)";
+translate "Sky Blue (N1)"
+to french "Bleu ciel (N1)";
+translate "Slate Blue (N1)"
+to french "Bleu ardoise (N1)";
+translate "Slate Grey (N1)"
+to french "Gris ardoise (N1)";
+translate "Snow (N1)"
+to french "Neige (N1)";
+translate "Spring Green (N1)"
+to french "Vert tendre (N1)";
+translate "Steel Blue (N1)"
+to french "Bleu acier (N1)";
+translate "Tan (N1)"
+to french "Brunâtre (N1)";
+translate "Teal (N1)"
+to french "Vert sarcelle (N1)";
+translate "Thistle (N1)"
+to french "Chardon (N1)";
+translate "Tomato (N1)"
+to french "Tomate (N1)";
+translate "Turquoise (N1)"
+to french "Turquoise (N1)";
+translate "Violet (N1)"
+to french "Mauve pâle (N1)";
+translate "Violet Red (N1)"
+to french "Rouge violacé (N1)";
+translate "Wheat (N1)"
+to french "Blé (N1)";
+translate "White (N1)"
+to french "Blanc (N1)";
+translate "White Smoke (N1)"
+to french "Fumée blanche (N1)";
+translate "Yellow (N1)"
+to french "Jaune (N1)";
+translate "Yellow Green (N1)"
+to french "Vert jaune (N1)";
+
+Translate "Amethyst (N1)" to french "Améthiste (N1)";
+Translate "Baker Miller Pink (N1)" to french "Baker Miller Rose (N1)";
+Translate "Banana (N1)" to french "Banane (N1)";
+Translate "Barn Red (N1)" to french "Rouge Grange (N1)";
+Translate "Beet (N1)" to french "Betterave (N1)";
+Translate "Blaze Orange (N1)" to french "Orange Vif (N1)";
+Translate "Boysenberry (N1)" to french "Mûre (N1)";
+Translate "Bright Pink (N1)" to french "Rose vif (N1)";
+Translate "Burgundy Red (N1)" to french "Rouge Burgendy (N1)";
+Translate "Burnt Sienna (N1)" to french "Rouge Sienne (N1)";
+Translate "Burnt Umber (N1)" to french "Terres brûlées (N1)";
+Translate "Cadmium Orange (N1)" to french "Orange Cadmium (N1)";
+Translate "Cadmium Yellow (N1)" to french "Jaune Cadmium (N1)";
+Translate "Carrot (N1)" to french "Carrottes (N1)";
+Translate "Cobalt Blue (N1)" to french "Bleu Cobalt (N1)";
+Translate "Cobalt Green (N1)" to french "Vert Cobalt (N1)";
+Translate "Dark Jungle Green (N1)" to french "Vert Jungle Foncée (N1)";
+Translate "Dark Scarlet (N1)" to french "Ecarlate foncé (N1)";
+Translate "Dark Sienna (N1)" to french "Sienna foncé (N1)";
+Translate "Duke Blue (N1)" to french "Bleu Duke (N1)";
+Translate "Eggshell White (N1)" to french "Blanc Coquille d'œuf (N1)";
+Translate "Emerald Green (N1)" to french "Vert Emeraude (N1)";
+Translate "Imperial Blue (N1)" to french "Bleu Impérial (N1)";
+Translate "Licorice (N1)" to french "Réglisse (N1)";
+Translate "Melon (N1)" to french "Melon (N1)";
+Translate "Oxford Blue (N1)" to french "Bleu Oxford (N1)";
+Translate "Peacock (N1)" to french "Paon (N1)";
+Translate "Persian Indigo (N1)" to french "Indigo Persan (N1)";
+Translate "Persian Pink (N1)" to french "Rose Persan (N1)";
+Translate "Prussian Blue (N1)" to french "Bleu Prusse (N1)";
+Translate "Raw Sienna (N1)" to french "Terre de Sienne (N1)";
+Translate "Red Devil (N1)" to french "Rouge Diable (N1)";
+Translate "Rich Black (N1)" to french "Noir Profond (N1)";
+Translate "Ruby Red (N1)" to french "Rouge rubis (N1)";
+Translate "Sangria (N1)" to french "Sangria (N1)";
+Translate "Sap Green (N1)" to french "Vert Sap (N1)";
+Translate "Seal Brown (N1)" to french "Brun joint (N1)";
+Translate "Smokey Black (N1)" to french "Noir Suie (N1)";
+Translate "Steel Pink (N1)" to french "Rose Acier (N1)";
+Translate "Tyrian Purple (N1)" to french "Mauve Tyrian (N1)";
+Translate "Zaffre (N1)" to french "Safre (N1)";
+
+translate "Install a Batch Mixer"
+to french "Installer un mélangeur";
+
+translate "To install a batch mixer, you need: "
+to french "Pour installer un mélangeur, il vous faut: ";
+
+translate "Proceed?"
+to french "Continuer?";
+
+translate "Catalyst: O1"
+to french "Catalyseur : O1(ns)";
+
+translate "O1 (Purple)"
+to french "O1(ns) (Violet)";
+translate "O1 (Orange)"
+to french "O1(ns) (Orange)";
+translate "O1 (Brown)"
+to french "O1(ns) (Marron)";
+translate "O1 (Reddish)"
+to french "O1(ns) (Rougeâtre)";
+translate "O1 (Dark Green)"
+to french "O1(ns) (Vert sombre)";
+translate "O1 (Light Green)"
+to french "O1(ns) (Vert clair)";
+translate "O1 (Bold Red)"
+to french "O1(ns) (Rouge vif)";
+translate "O1 (Blue Grey)"
+to french "O1(ns) (Gris bleu)";
+translate "O1 (Black)"
+to french "O1(ns) (Noir)";
+translate "O1 (Rust)"
+to french "O1(ns) (Rouille)";
+translate "O1 (Aqua)"
+to french "O1(ns) (Eau)";
+
+// For Silk Panels
+
+Translate "Amethyst O1" to french "O1(ns) Améthiste";
+Translate "Baker Miller Pink O1" to french "O1(ns) Baker Miller Rose";
+Translate "Banana O1" to french "O1(ns) Banane";
+Translate "Barn Red O1" to french "O1(ns) Rouge Grange";
+Translate "Beet O1" to french "O1(ns) Betterave";
+Translate "Blaze Orange O1" to french "O1(ns) Orange Vif";
+Translate "Boysenberry O1" to french "O1(ns) Mûre";
+Translate "Bright Pink O1" to french "O1(ns) Rose vif";
+Translate "Burgundy Red O1" to french "O1(ns) Rouge Burgendy";
+Translate "Burnt Sienna O1" to french "O1(ns) Rouge Sienne";
+Translate "Burnt Umber O1" to french "O1(ns) Terres brûlées";
+Translate "Cadmium Orange O1" to french "O1(ns) Orange Cadmium";
+Translate "Cadmium Yellow O1" to french "O1(ns) Jaune Cadmium";
+Translate "Carrot O1" to french "O1(ns) Carrottes";
+Translate "Cobalt Blue O1" to french "O1(ns) Bleu Cobalt";
+Translate "Cobalt Green O1" to french "O1(ns) Vert Cobalt";
+Translate "Dark Jungle Green O1" to french "O1(ns) Vert Jungle Foncée";
+Translate "Dark Scarlet O1" to french "O1(ns) Ecarlate foncé";
+Translate "Dark Sienna O1" to french "O1(ns) Sienna foncé";
+translate "Dark Slate Grey O1" to french "O1(ns) Gris ardoise foncé";
+translate "Dark Turquoise O1" to french "O1(ns) Turquoise foncé";
+translate "Dark Violet O1" to french "O1(ns) Violet foncé";
+translate "Deep Pink O1" to french "O1(ns) Rose profond";
+translate "Deep Sky Blue O1" to french "O1(ns) Bleu ciel profond";
+translate "Dim Grey O1" to french "O1(ns) Gris pâle";
+translate "Dodger Blue O1" to french "O1(ns) Bleu Dodger";
+Translate "Duke Blue O1" to french "O1(ns) Bleu Duke";
+Translate "Eggshell White O1" to french "O1(ns) Blanc Coquille d'œuf";
+Translate "Emerald Green O1" to french "O1(ns) Vert Emeraude";
+translate "Feldspar O1" to french "O1(ns) Feldspath";
+translate "Fire Brick O1" to french "O1(ns) Brique réfractaire";
+translate "Floral White O1" to french "O1(ns) Blanc floral";
+translate "Forest Green O1" to french "O1(ns) Vert forêt";
+translate "Fuchsia O1" to french "O1(ns) Fuchsia";
+translate "Gainsboro O1" to french "O1(ns) Gainsboro";
+translate "Ghost White O1" to french "O1(ns) Blanc spectral";
+translate "Gold O1" to french "O1(ns) Or";
+translate "Golden Rod O1" to french "O1(ns) Solidage";
+translate "Green O1" to french "O1(ns) Vert";
+translate "Green Yellow O1" to french "O1(ns) Jaune vert";
+translate "Grey O1" to french "O1(ns) Gris";
+translate "Honey Dew O1" to french "O1(ns) Rosée de miel";
+translate "Hot Pink O1" to french "O1(ns) Rose chaud";
+Translate "Imperial Blue O1" to french "O1(ns) Bleu Impérial";
+translate "Indian Red O1" to french "O1(ns) Rouge indien";
+translate "Indigo O1" to french "O1(ns) Indigo";
+translate "Ivory O1" to french "O1(ns) Ivoire";
+translate "Khaki O1" to french "O1(ns) Kaki";
+translate "Lavender Blush O1" to french "O1(ns) Rouge lavande";
+translate "Lavender O1" to french "O1(ns) Lavande";
+translate "Lawn Green O1" to french "O1(ns) Vert gazon";
+translate "Lemon Chiffon O1" to french "O1(ns) Crème citron";
+Translate "Licorice O1" to french "O1(ns) Réglisse";
+translate "Light Blue O1" to french "O1(ns) Bleu clair";
+translate "Light Coral O1" to french "O1(ns) Corail clair";
+translate "Light Cyan O1" to french "O1(ns) Cyan clair";
+translate "Light Golden Rod Yellow O1" to french "O1(ns) Solidage clair";
+translate "Light Green O1" to french "O1(ns) Vert clair";
+translate "Light Grey O1" to french "O1(ns) Gris clair";
+translate "Light Pink O1" to french "O1(ns) Rose clair";
+translate "Light Salmon O1" to french "O1(ns) Saumon clair";
+translate "Light Sea Green O1" to french "O1(ns) Vert d'eau clair";
+translate "Light Sky Blue O1" to french "O1(ns) Bleu ciel clair";
+translate "Light Slate Blue O1" to french "O1(ns) Bleu ardoise clair";
+translate "Light Slate Grey O1" to french "O1(ns) Gris ardoise clair";
+translate "Light Steel Blue O1" to french "O1(ns) Bleu acier clair";
+translate "Light Yellow O1" to french "O1(ns) Jaune clair";
+translate "Lime Green O1" to french "O1(ns) Citron vert";
+translate "Lime O1" to french "O1(ns) Citron";
+translate "Linen O1" to french "O1(ns) Tissu";
+translate "Magenta O1" to french "O1(ns) Magenta";
+translate "Maroon O1" to french "O1(ns) Marron";
+translate "Medium Aqua Marine O1" to french "O1(ns) Aigue-marine moyen";
+translate "Medium Blue O1" to french "O1(ns) Bleu moyen";
+translate "Medium Orchid O1" to french "O1(ns) Orchidée moyen";
+translate "Medium Purple O1" to french "O1(ns) Mauve moyen";
+translate "Medium Sea Green O1" to french "O1(ns) Vert d'eau moyen";
+translate "Medium Slate Blue O1" to french "O1(ns) Bleu ardoise moyen";
+translate "Medium Spring Green O1" to french "O1(ns) Vert tendre moyen";
+translate "Medium Turquoise O1" to french "O1(ns) Turquoise moyen";
+translate "Medium Violet Red O1" to french "O1(ns) Rouge violacé moyen";
+Translate "Melon O1" to french "O1(ns) Melon";
+translate "Midnight Blue O1" to french "O1(ns) Bleu nuit";
+translate "Mint Cream O1" to french "O1(ns) Crème de menthe";
+translate "Misty Rose O1" to french "O1(ns) Rose brumeux";
+translate "Moccasin O1" to french "O1(ns) Mocassin";
+translate "Navajo White O1" to french "O1(ns) Blanc navajo";
+translate "Navy O1" to french "O1(ns) Bleu marine";
+translate "Old Lace O1" to french "O1(ns) Vieille dentelle";
+translate "Olive Drab O1" to french "O1(ns) Brun gris";
+translate "Olive O1" to french "O1(ns) Olive";
+translate "Orange O1" to french "O1(ns) Orange";
+translate "Orange Red O1" to french "O1(ns) Rouge orangé";
+translate "Orchid O1" to french "O1(ns) Orchidée";
+Translate "Oxford Blue O1" to french "O1(ns) Bleu Oxford";
+translate "Pale Golden Rod O1" to french "O1(ns) Solidage pâle";
+translate "Pale Green O1" to french "O1(ns) Vert pâle";
+translate "Pale Turquoise O1" to french "O1(ns) Turquoise pâle";
+translate "Pale Violet Red O1" to french "O1(ns) Rouge violacé pâle";
+translate "Papaya Whip O1" to french "O1(ns) Crème de Papaye";
+translate "Peach Puff O1" to french "O1(ns) Pêche";
+Translate "Peacock O1" to french "O1(ns) Paon";
+Translate "Persian Indigo O1" to french "O1(ns) Indigo Persan";
+Translate "Persian Pink O1" to french "O1(ns) Rose Persan";
+translate "Peru O1" to french "O1(ns) Pérou";
+translate "Pink O1" to french "O1(ns) Rose";
+translate "Plum O1" to french "O1(ns) Prune";
+translate "Powder Blue O1" to french "O1(ns) Bleu poudré";
+Translate "Prussian Blue O1" to french "O1(ns) Bleu Prusse";
+translate "Purple O1" to french "O1(ns) Violet";
+Translate "Raw Sienna O1" to french "O1(ns) Terre de Sienne";
+Translate "Red Devil O1" to french "O1(ns) Rouge Diable";
+translate "Red O1" to french "O1(ns) Rouge";
+Translate "Rich Black O1" to french "O1(ns) Noir Profond";
+translate "Rosy Brown O1" to french "O1(ns) Marron rosé";
+translate "Royal Blue O1" to french "O1(ns) Bleu roi";
+Translate "Ruby Red O1" to french "O1(ns) Rouge rubis";
+translate "Saddle Brown O1" to french "O1(ns) Brun selle";
+translate "Salmon O1" to french "O1(ns) Saumon";
+translate "Sandy Brown O1" to french "O1(ns) Brun sable";
+Translate "Sangria O1" to french "O1(ns) Sangria";
+Translate "Sap Green O1" to french "O1(ns) Vert Sap";
+translate "Sea Green O1" to french "O1(ns) Vert d'eau";
+translate "Sea Shell O1" to french "O1(ns) Coquillage";
+Translate "Seal Brown O1" to french "O1(ns) Brun joint";
+translate "Sienna O1" to french "O1(ns) Terre de Sienne";
+translate "Silver O1" to french "O1(ns) Argent";
+translate "Sky Blue O1" to french "O1(ns) Bleu ciel";
+translate "Slate Blue O1" to french "O1(ns) Bleu ardoise";
+translate "Slate Grey O1" to french "O1(ns) Gris ardoise";
+Translate "Smokey Black O1" to french "O1(ns) Noir Suie";
+translate "Snow O1" to french "O1(ns) Neige";
+translate "Spring Green O1" to french "O1(ns) Vert tendre";
+translate "Steel Blue O1" to french "O1(ns) Bleu acier";
+Translate "Steel Pink O1" to french "O1(ns) Rose Acier";
+translate "Tan O1" to french "O1(ns) Brunâtre";
+translate "Teal O1" to french "O1(ns) Vert sarcelle";
+translate "Thistle O1" to french "O1(ns) Chardon";
+translate "Tomato O1" to french "O1(ns) Tomate";
+translate "Turquoise O1" to french "O1(ns) Turquoise";
+Translate "Tyrian Purple O1" to french "O1(ns) Mauve Tyrian";
+translate "Violet O1" to french "O1(ns) Mauve pâle";
+translate "Violet Red O1" to french "O1(ns) Rouge violacé";
+translate "Wheat O1" to french "O1(ns) Blé";
+translate "White O1" to french "O1(ns) Blanc";
+translate "White Smoke O1" to french "O1(ns) Fumée blanche";
+translate "Yellow Green O1" to french "O1(ns) Vert jaune";
+translate "Yellow O1" to french "O1(ns) Jaune";
+Translate "Zaffre O1" to french "O1(ns) Safre";
+
+
+

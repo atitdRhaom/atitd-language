@@ -1,0 +1,552 @@
+Module cartouche_ger;
+
+translate CoveredCartouche to german masculine
+{
+  swa "Test der Verdeckten Kunstrahmen";
+  sn "Test der Verdeckten Kunstrahmen"; pn "Test der Verdeckten Kunstrahmen";
+}
+translate "In Principles of the Covered Cartouche, you will try to make it through three Build rounds and three Vote Rounds. If you are eliminated early, any rounds that you do make it through carry over."
+to german "In den Prinzipien der Verdeckten Kunstrahmen versuchst du, drei Gestaltungsrunden und drei Bewertungsrunden zu absolvieren. Solltest du frühzeitig ausscheiden, dann wird jede weitere Runde deinem Punktestand angerechnet.";
+
+translate "Sign up for a Contest"
+to german "Melde dich für einen Wettbewerb an";
+translate "Group: Build a Ceremonial Voting Booth"
+to german "Gruppe: Baue einen Zeremoniellen Wahlstand";
+translate "Build a Covered Cartouche Project"
+to german "Erstelle eine Kunstrahmenprojekt";
+translate "Enhance the Project"
+to german "Erweitere das Projekt";
+translate "Make it through three Build Rounds"
+to german "Bestehe drei Gestaltungsrunden";
+translate "Make it through three Voting Rounds"
+to german "Bestehe drei Bewertungsrunden";
+
+translate "You have completed Principles of the Covered Cartouche."
+to german "Du hast die Prinzipien der Verdeckten Kunstrahmen gemeistert.";
+
+translate CaressOfWind to german neuterfeminine
+{
+  swa "Liebkosung des Winds";
+  sn "Liebkosung des Winds"; sg "Liebkosung des Winds"; sd "Liebkosung des Winds"; sa "Liebkosung des Winds";
+  pn "Liebkosungen des Winds"; pg "Liebkosungen des Winds"; pd "Liebkosungen des Winds"; pa "Liebkosungen des Winds";
+}
+
+translate LightOfForest to german neuter
+{
+  swa "Licht des Waldes";
+  sn "Licht des Waldes"; sg "Lichts des Waldes"; sd "Licht des Waldes"; sa "Licht des Waldes";
+  pn "Lichter des Waldes"; pg "Lichter des Waldes"; pd "Lichtern des Waldes"; pa "Lichter des Waldes";
+}
+
+translate SpireOfSun to german masculine
+{
+  swa "Turm der Sonne";
+  sn "Turm der Sonne"; sg "Turms der Sonne"; sd "Turm der Sonne"; sa "Turm der Sonne";
+  pn "Türme der Sonne"; pg "Türme der Sonne"; pd "Türme der Sonne"; pa "Türme der Sonne";
+}
+
+translate HatchOfSteel to german neuterfeminine
+{
+  swa "Achterbahn";
+  sn "Achterbahn"; sg "Achterbahn"; sd "Achterbahn"; sa "Achterbahn";
+  pn "Achterbahnen"; pg "Achterbahnen"; pd "Achterbahnen"; pa "Achterbahnen";
+}
+
+translate ChurnOfEarth to german feminine
+{
+  swa "Kochende Erde";
+  sn "Kochende Erde"; sg "Kochenden Erde"; sd "Kochende Erde"; sa "Kochende Erde";
+  pn "Kochende Erde"; pg "Kochende Erde"; pd "Kochende Erde"; pa "Kochende Erde";
+}
+
+translate PointOfMind to german femininecollective
+{
+  swa "Pyramide der Gedanken";
+  sn "Pyramide der Gedanken"; sg "Pyramide der Gedanken"; sd "Pyramide der Gedanken"; sa "Pyramide der Gedanken";
+  pn "Pyramiden der Gedanken"; pg "Pyramiden der Gedanken"; pd "Pyramiden der Gedanken"; pa "Pyramiden der Gedanken";
+}
+
+translate FlightOfStone to german masculine
+{
+  swa "Flug des Steines";
+  sn "Flug des Steines"; sg "Fluges des Steines"; sd "Flug des Steines"; sa "Flug des Steines";
+  pn "Flüge des Steines"; pg "Flüge des Steines"; pd "Flügen des Steines"; pa "Flüge des Steines";
+}
+
+translate ColorOfWater to german neuterfeminine
+{
+  swa "Farbe des Wassers";
+  sn "Farbe des Wassers"; sg "Farbe des Wassers"; sd "Farbe des Wassers"; sa "Farbe des Wassers";
+  pn "Farben des Wassers"; pg "Farben des Wassers"; pd "Farben des Wassers"; pa "Farben des Wassers";
+}
+
+translate FallOfBalance to german masculine
+{
+  swa "Sturz des Gleichgewichts";
+  sn "Sturz des Gleichgewichts"; sg "Sturzes des Gleichgewichts"; sd "Sturz des Gleichgewichts"; sa "Sturz des Gleichgewichts";
+  pn "Stürze des Gleichgewichts"; pg "Stürze des Gleichgewichts"; pd "Stürzen des Gleichgewichts"; pa "Stürze des Gleichgewichts";
+}
+
+translate HauntOfBeast to german masculine
+{
+  swa "Platz der Bestie";
+  sn "Platz der Bestie"; sg "Platzes der Bestie"; sd "Platz der Bestie"; sa "Platz der Bestie";
+  pn "Plätze der Bestie"; pg "Plätze der Bestie"; pd "Plätzen der Bestie"; pa "Plätze der Bestie";
+}
+
+translate PursuitOfSoul to german neuter
+{
+  swa "Streben nach Seele";
+  sn "Streben nach Seele"; sg "Strebens nach Seele"; sd "Streben nach Seele"; sa "Streben nach Seele";
+  pn "Streben nach Seele"; pg "Streben nach Seele"; pd "Streben nach Seele"; pa "Streben nach Seele";
+}
+
+translate GlazeOfLight to german masculine
+{
+  swa "Glanz des Lichtes";
+  sn "Glanz des Lichtes"; sg "Glanzes des Lichtes"; sd "Glanz des Lichtes"; sa "Glanz des Lichtes";
+  pn "Glanz des Lichtes"; pg "Glanz des Lichtes"; pd "Glanz des Lichtes"; pa "Glanz des Lichtes";
+}
+
+translate FloatOfGhost to german neuter
+{
+  swa "Geisterfloß";
+  sn "Geisterfloß"; sg "Geisterfloßes"; sd "Geisterfloß"; sa "Geisterfloß";
+  pn "Geisterfloße"; pg "LGeisterfloße"; pd "Geisterfloßen"; pa "Geisterfloße";
+}
+
+translate TaleOfJourney to german neuter
+{
+  swa "Tal der Reise";
+  sn "Tal der Reise"; sg "Tals der Reise"; sd "Tal der Reise"; sa "Tal der Reise";
+  pn "Täler der Reise"; pg "Täler der Reise"; pd "Tälern der Reise"; pa "Täler der Reise";
+}
+
+translate ReturnOfPromise to german feminine
+{
+  swa "Rückkehr der Verheißung";
+  sn "Rückkehr der Verheißung"; sg "Rückkehr der Verheißung"; sd "Rückkehr der Verheißung"; sa "Rückkehr der Verheißung";
+  pn "Rückkehr der Verheißung"; pg "Rückkehr der Verheißung"; pd "Rückkehr der Verheißung"; pa "Rückkehr der Verheißung";
+}
+
+translate CharmOfFlight to german neuter
+{
+  swa "Amulett des Fluges";
+  sn "Amulett des Fluges"; sg "Amuletts des Fluges"; sd "Amulett des Fluges"; sa "Amulett des Fluges";
+  pn "Amulette des Fluges"; pg "Amulette des Fluges"; pd "Amuletten des Fluges"; pa "Amulette des Fluges";
+}
+
+translate RepairOfLife to german neuterfeminine
+{
+  swa "Erneuerung des Lebens";
+  sn "Erneuerung des Lebens"; sg "Erneuerung des Lebens"; sd "Erneuerung des Lebens"; sa "Erneuerung des Lebens";
+  pn "Erneuerungen des Lebens"; pg "Erneuerungen des Lebens"; pd "Erneuerungen des Lebens"; pa "Erneuerungen des Lebens";
+}
+
+translate TwistOfStudy to german neuterfeminine
+{
+  swa "Spirale des Studiums";
+  sn "Spirale des Studiums"; sg "Spirale des Studiums"; sd "Spirale des Studiums"; sa "Spirale des Studiums";
+  pn "Spiralen des Studiums"; pg "Spiralen des Studiums"; pd "Spiralen des Studiums"; pa "Spiralen des Studiums";
+}
+
+translate InjectOfThought to german neuter
+{
+  swa "Einprägen der Gedanken";
+  sn "Einprägen der Gedanken"; sg "Einprägen der Gedanken"; sd "Einprägen der Gedanken"; sa "Einprägen der Gedanken";
+  pn "Einprägen der Gedanken"; pg "Einprägen der Gedanken"; pd "Einprägen der Gedanken"; pa "Einprägen der Gedanken";
+}
+
+translate SuspendOfGreen to german neuterfeminine
+{
+  swa "Mutter Erde";
+  sn "Mutter Erde"; sg "Mutter Erde"; sd "Mutter Erde"; sa "Mutter Erde";
+  pn "Mutter Erde"; pg "Mutter Erde"; pd "Mutter Erde"; pa "Mutter Erde";
+}
+
+translate ReflectOfOrbit to german neuterfeminine
+{
+  swa "Auge des Ra";
+  sn "Auge des Ra"; sg "Auge des Ra"; sd "Auge des Ra"; sa "Auge des Ra";
+  pn "Auge des Ra"; pg "Auge des Ra"; pd "Auge des Ra"; pa "Auge des Ra";
+}
+
+translate DistractOfSky to german neuter
+{
+  swa "Himmelsrad";
+  sn "Himmelsrad"; sg "Himmelsrades"; sd "Himmelsrad"; sa "Himmelsrad";
+  pn "Himmelsräder"; pg "Himmelsräder"; pd "Himmelsrädern"; pa "Himmelsräder";
+}
+
+translate PunctureOfDark to german masculine
+{
+  swa "Schacht der Dunkelheit";
+  sn "Schacht der Dunkelheit"; sg "Schachts der Dunkelheit"; sd "Schacht der Dunkelheit"; sa "Schacht der Dunkelheit";
+  pn "Schächte der Dunkelheit"; pg "Schächte der Dunkelheit"; pd "Schächten der Dunkelheit"; pa "Schächte der Dunkelheit";
+}
+translate CartoucheTicket to german neuter
+{
+  swa "Kunstrahmenticket";
+  sn "Kunstrahmenticket"; sg "Kunstrahmentickets"; sd "Kunstrahmenticket"; sa "Kunstrahmenticket";
+  pn "Kunstrahmentickets"; pg "Kunstrahmentickets"; pd "Kunstrahmentickets"; pa "Kunstrahmentickets";
+}
+translate CeremonialVotingBooth to german masculine
+{
+  swa "Zeremonieller Wahlstand";
+  sn "Zeremonielle Wahlstand"; sg "Zeremoniellen Wahlstandes"; sd "Zeremoniellen Wahlstand"; sa "Zeremonielle Wahlstand";
+  pn "Zeremoniellen Wahlstände"; pg "Zeremoniellen Wahlstände"; pd "Zeremoniellen Wahlständen"; pa "Zeremoniellen Wahlstände";
+}
+translate CartoucheCertificate to german neuter
+{
+  swa "Kunstrahmenzertifikat";
+  sn "Kunstrahmenzertifikat"; sg "Kunstrahmenzertifikats"; sd "Kunstrahmenzertifikat"; sa "Kunstrahmenzertifikat";
+  pn "Kunstrahmenzertifikate"; pg "Kunstrahmenzertifikate"; pd "Kunstrahmenzertifikaten"; pa "Kunstrahmenzertifikate";
+}
+
+
+translate "Cartouche Ticket"
+to german "Kunstrahmenticket";
+
+translate "You will compete against N1 others in a multi-round battle of political wits. "
+to german "Du trittst gegen N1 Andere in einem Mehrrunden-Kampf im politischen Sinne an.";
+
+translate "In odd-numbered rounds, each leader will build a statue to Egypt, with their cartouche (name) hidden. The "
+to german "In ungeraden Runden wird jeder Anführer eine in Ägypten bauen, ohne eine Namensanzeige. Der Anführer";
+
+translate "leader with the least significant statue shall be eliminated.\n\n"
+to german "mit der zuletzt am bedeutungsvollsten Statue sollte ausgeschlossen werden.\n\n";
+
+translate "In even-numbered rounds, elimination is by vote where nobody may vote to eliminate themselves."
+to german "In geraden Runden findet die Ausscheidungsrunde statt durch das Wählen, aber niemand darf sich selbst ausschließen.";
+
+translate "Utility/Restart Daemon"
+to german "Optionen/Neustart Daemon";
+
+translate "Time Remaining in this round: N1"
+to german "Verbleibende Zeit in dieser Runde: N1";
+
+translate "You cannot build a ceremonial voting booth like that, because a cartouche group needs to be specified."
+to german "Du kannst keinen Zeremoniellen Wahlstand dieser Art bauen, weil eine Kunstrahmengruppe festgelegt werden muss.";
+
+translate "The ceremonial voting booth is at N1 N2."
+to german "Der Zeremonielle Wahlstand ist bei N1 N2.";
+
+translate "Projects"
+to german "Projekte";
+
+translate "Ceremonial Voting Booth"
+to german "Zeremonieller Wahlstand";
+
+translate "A Ceremonial Voting Booth has already been built, and is at N1 N2."
+to german "Es wurde bereits ein Zeremonieller Wahlstand gebaut, er befindet sich bei N1 N2.";
+
+translate "Queen's Tomb Lapis"
+to german "Edelstein: Königinnengrab, Lapis";
+translate "Queen's Tomb Garnet"
+to german "Edelstein: Königinnengrab, Granat";
+translate "Looking Glass Turquiose"
+to german "Edelstein: Spiegel, Türkis";
+translate "Looking Glass Garnet"
+to german "Edelstein: Spiegel, Granat";
+translate "Looking Glass Amethyst"
+to german "Edelstein: Spiegel, Amethyst";
+translate "Brown Paint"
+to german "Farbe: Braun";
+translate "Crimson Paint"
+to german "Farbe: Karmesinrot";
+translate "Any Greenish Paint"
+to german "Farbe: jeder Grünton";
+translate "Indian Red Paint"
+to german "Farbe: Indisch Rot";
+translate "Violet Red Paint"
+to german "Farbe: Violettrot";
+translate "Any Yellowish Paint"
+to german "Farbe: jeder Gelbton";
+translate "Any Pinkish Paint"
+to german "Farbe: jeder Rosaton";
+
+translate "To build a Ceremonial Voting Booth, you need:"
+to german "Um einen Zeremoniellen Wahlstand zu bauen benötigst du:";
+
+translate "Tests"
+to german "Tests";
+
+translate "Status Report"
+to german "Statusbericht";
+
+translate "Display the Schedule"
+to german "Zeige die Liste";
+
+translate "Voting Booth at "
+to german "Wahlstand bei ";
+
+translate "Group Status: N1\n"
+to german "Gruppenstatus: N1";
+
+translate "    Active: U1\n"
+to german "    Aktiv: U1(name)\n";
+
+translate "    Eliminated in round N1\n"
+to german "    Ausgeschieden in Runde N1\n";
+
+translate "This round may end at any moment."
+to german "Diese Runde kann jeden Moment enden.";
+
+translate "This round won't end for at least another N1"
+to german "Diese Runde endet nicht vor weiteren N1";
+
+translate "Game Master/Project Queue/Display"
+to german "Gamemaster/Projektpool/Anzeige";
+
+translate "Wait..."
+to german "Warte...";
+
+translate "Internal Error, no CartoucheGroup"
+to german "Interner Fehler, keine Rahmengruppe";
+
+translate "Empty Project Queue."
+to german "Leerer Projektpool.";
+
+translate "Game Master/Project Queue/Add/"
+to german "Gamemaster/Projektpool/Hinzufügen/";
+
+translate "Project K1 is not on any of the normal project lists. Add it anyway?"
+to german "Projekt K1 ist auf keiner normalen Projektliste. Trotzdem hinzufügen?";
+
+translate "Added K1. Now N1 in queue."
+to german "K1 hinzugefügt. Ist nun N1 im Pool.";
+
+translate "Game Master/Project Queue/Clear"
+to german "Gamemaster/Projektpool/Löschen";
+
+translate "Project Queue cleared."
+to german "Projektpool gelöscht.";
+
+translate "Your Ceremonial Voting Booth has been torn down. You must replace it."
+to german "Dein Zeremonieller Wahlstand wurde abgerissen. Du musst ihn neu bauen.";
+
+translate "Your group's first task is to build a Ceremonial Voting Booth."
+to german "Der erste Schritt deiner Gruppe ist der Bau eines Zeremoniellen Wahlstandes.";
+
+translate "Nobody remains. This should never happen. Report to a developer."
+to german "Niemand bleibt übrig. Dies sollte niemals passieren. Informiere einen Entwickler.";
+
+translate "This window will close in N1"
+to german "Dieses Fenster schließt sich in N1";
+
+translate "Winner is: U1"
+to german "Gewinner ist: U1(name)";
+
+translate "You have displayed prowess as a leader, and come in first place! Well done - a certificate has been issued."
+to german "Du hast das Können eines Führers bewiesen und belegst den ersten Platz! Gut gemacht - ein Zertifikat wurde ausgestellt.";
+
+translate "Voting round N1 remain."
+to german "Wertungsrunde N1 ist übrig.";
+
+translate "Voting deadlocked with N1 people receiving N2 votes each. Elimination will be by chance."
+to german "Die Wahl steht still mit N1 Leuten und N2 jeweils erhaltenen Stimmen. Ausschluss könnte eine Abhilfe sein.";
+
+translate "Total of N1 deadlocks. Test ends with no winner."
+to german "Insgesamt N1 Stillstände. Test endet ohne Gewinner.";
+
+translate "If the group deadlocks N1 more times, the Test will end."
+to german "Kommt die Gruppe N1 weitere Male zum Stillstand, endet der Test.";
+
+translate "With N1 votes, U1 is eliminated."
+to german "Mit N1 Stimmen ist U1(name) aus dem Rennen.";
+
+translate "Nobody voted. Test ends without a promotion."
+to german "Niemand hat abgestimmt. Der Test endet ohne einen Aufstieg.";
+
+translate "Building Round:K1 N1 remain."
+to german "Baurunde: N1 K1 verbleiben.";
+
+translate "Multiple people tied for last place. Loser will be chosen at random from that list."
+to german "Verschiedene Leute liegen auf dem letzten Platz. Verlierer werden zufällig von dieser Liste gewählt.";
+
+translate "U1 is eliminated for not even *attempting* a Covered Cartouche."
+to german "U1(name) scheidet aus, weil er nicht versuchte, einen Verdeckten Kunstrahmen zu bauen.";
+
+translate "U1 is eliminated for failing to build a Covered Cartouche."
+to german "U1(name) scheidet aus, mangels Bau eines Verdeckten Kunstrahmens.";
+
+translate "U1 is eliminated for building the smallest Covered Cartouche, size K1."
+to german "U1(name) scheidet aus, weil der kleinste Verdeckte Kunstrahmen gebaut wurde, Größe K1";
+
+translate "The following people didn't *attempt* a Covered Cartouche, and are eliminated: "
+to german "Die folgenden Leute versuchten keinen Bau eines Verdeckten Kunstrahmens und schieden aus: ";
+
+translate "Nobody remains in contest round. This should never happen. Report to a developer."
+to german "Niemand verbleibt in dieser Wertungsrunde. Dies sollte niemals passieren. Informiere einen Entwickler.";
+
+translate "Reset the Test of the Covered Cartouche"
+to german "Start den Test der Verdeckten Kunstrahmen erneut";
+
+translate "Eliminate U1"
+to german "Entferne U1(name)";
+
+translate "Covered Cartouche"
+to german "Verdeckte Kunstrahmen";
+
+translate "You change your elimination vote from U1 to U2."
+to german "Du änderst deine Ausscheidungswahl von U1(name) auf U2(name).";
+
+translate "You vote to eliminate U1."
+to german "Du wählst zur Ausscheidung Spieler U1(name).";
+
+translate "U1 votes to eliminate U2."
+to german "U1(name) wählt U2(name) ins Aus.";
+
+translate "Report Votes so Far"
+to german "Bisherige Wahlen";
+
+translate "Status Report: U1 voted against U2"
+to german "Statusbericht: U1(name) wählt gegen U2(name)";
+
+translate "This O1 is of size N1"
+to german "O1(swa) hat eine Größe von N1";
+
+translate "The Cartouche is covered, you can't tell who owns it."
+to german "Dieser Kunstrahmen ist verdeckt, du kannst nicht sagen, wem er gehört.";
+
+translate "You may only have a single Covered Cartouche. Disassemble the previous one at N1 N2"
+to german "Du darfst nur einen einzigen Verdeckten Kunstrahmen besitzen. Demontiere den Vorherigen bei N1 N2";
+
+translate "To build a K1 with a covered cartouche, you need:"
+to german "Um K1 mit einem verdeckten Kunstrahmen zu bauen benötigst du:";
+
+translate "O1 contains K1 K2. Take how many?"
+to german "O1(sn) enthält K1 K1. Wieviel nehmen?";
+
+translate "Stash how many K1? (Max N1)"
+to german "Wieviel K1 verstauen? (Max. N1)";
+
+translate "You don't have that."
+to german "Das hast Du nicht.";
+
+translate "Enhance this "
+to german "Erhöhen: ";
+
+translate "This O1 is size N1. Enlarge to what size?"
+to german "O1(sn) ist N1 groß. Auf welche Größe ausweiten?";
+
+translate "To enhance this O1 from size N1 to N2 requires:"
+to german "Um O1(sn) von N1 auf N2 auszubauen benötigst du:";
+
+translate "U1 has exited the channel."
+to german "U1(name) hat den Kanal verlassen.";
+
+translate "Could not find player: "
+to german "Dieser Spieler konnte nicht gefunden werden: ";
+
+translate "Not a participant: "
+to german "Kein Teilnehmer: ";
+
+translate "U1 has joined the channel."
+to german "U1(name) hat den Kanal betreten.";
+
+translate "Clear and stop the Schedule"
+to german "Lösche und beende die Liste";
+
+translate "Special"
+to german "Spezial";
+
+translate "Read"
+to german "Lese";
+
+translate "Cartouche Certificate"
+to german "Kunstrahmenzertifikat";
+
+translate "This certificate allows you to enter a Level N1 Cartouche contest."
+to german "Dieses Zertifikat erlaubt dir die Teilnahme an einem Level N1 Kunstrahmenwettbewerb.";
+
+translate "The Test of the Covered Cartouche takes place at specific times, announced at Universities of Leadership."
+to german "Der Test der Verdeckten Kunstrahmen findet zu festgelegten, von den Unis der Führerschaft angekündigten Terminen statt.";
+translate "You will be placed in a group with eleven others, and tasked with building a Ceremonial Voting Booth. From there, a series of rounds are played. The nature of each round depends on whether an odd or even number of participants remain in the group."
+to german "Du wirst einer Gruppe mit elf anderen Mitspielern zugeordnet und mit dem Bau eines Zeremoniellen Wahlstandes beauftragt. Ab dann wird rundenbasiert gespielt. Die Art jeder Runde ist abhängig von einer geraden oder ungeraden, in der Gruppe verbleibenden Spieleranzahl.";
+
+translate "When the group has an even number of participants, an individual project is assigned. The player who builds smallest is eliminated."
+to german "Hat die Gruppe eine gerade Spieleranzahl, wird ein individuelles Projekt zugewiesen. Der Spieler mit dem kleinsten Kunstrahmen scheidet aus.";
+
+translate "When the group has an odd number of participants, elimination is by voting."
+to german "Hat die Gruppe eine ungerade Spieleranzahl, entscheidet die Abstimmung über das Ausscheiden.";
+
+translate "Please note - if you are intending on signing up for a Covered Cartouche round, that is a separate option. Please click on the University of Leadership again in order to get the option to sign up for the current round, assuming that there are signups going on."
+to german "Bitte beachte - möchtest du dich für eine Runde eintragen, dann ist das ein anderer Weg. Klicke hierzu bitte nochmals eine U Lead an, dann bekommst du eine Option, dich für die laufende Runde anzumelden, vorausgesetzt, eine Anmeldung ist möglich.";
+
+
+translate "N1 Signed up"
+to german "N1 Anmeldungen";
+
+translate "Sign up for the next round"
+to german "Für die nächste Runde anmelden";
+
+translate "You are already participating in a contest."
+to german "Du bist bereits Teilnehmer in einem Wettbewerb.";
+
+translate "You are already signed up."
+to german "Du bist bereits angemeldet.";
+
+translate "You need a level N1 Cartouche certificate to participate in this contest."
+to german "Du benötigst ein Level N1 Kunstrahmenzertifikat, um an diesem Wettbewerb teilnehmen zu können.";
+
+translate "You are now signed up for the next Test of the Covered Cartouche. You will be notified if a spot is available."
+to german "Du bist nun für den nächsten Test der verdeckten Kunstrahmen angemeldet. Du wirst benachrichtigt, sobald ein Platz frei ist.";
+
+translate "Error: Cartouche Signups Conflict."
+to german "Fehler: Konflikt bei Kunstrahmenanmeldungen";
+
+translate "Signups for Level N1 Test of the Covered Cartouche at K1 for the next N2. Build period N3, Vote period N4."
+to german "Anmeldungen für Level N1 Test der verdeckten Kunstrahmen bei K1 für die nächsten N2. Bauperiode N3, Wahlperiode N4.";
+
+translate "Welcome to the Test of the Covered Cartouche. This groups consists of: "
+to german "Willkommen beim Test der Verdeckten Kunstrahmen. Diese Gruppe besteht aus: ";
+
+translate "Sorry for the inconvenience, but just N1 people signed up, and at least N2 are needed"
+to german "Entschuldige die Unannehmlickeiten, aber es haben sich nur N1 Personen angemeldet. Mindestens N2 sind aber notwendig.";
+
+translate "Sorry for the inconvenience, but N1 people signed up for N2 slots, and you were not selected."
+to german "Entschuldige die Unannehmlichkeiten, aber es haben sich N1 Personen von möglichen N2 angemeldet und du wurdest nicht ausgewählt.";
+
+translate "Set Project Size"
+to german "Stelle die Projektgröße ein";
+
+translate "Set project Type"
+to german "Stelle den Projekttyp ein";
+
+translate "Person to swap OUT?"
+to german "Person rausschmeißen?";
+
+translate "Person to swap IN?"
+to german "Person einladen?";
+
+translate "Not in a Cartouche Group: U1"
+to german "In keiner Rahmengruppe: U1(name)";
+
+translate "Swapping OUT U1 and swapping IN U2."
+to german "U1(name) rausgeschmissen und U2(name) eingeladen.";
+
+translate "Cartouche Group for swapping:"
+to german "Kunstrahmengruppe zum Austauschen:";
+
+translate "Would now swap."
+to german "Würde nun austauschen.";
+
+translate "Dump associated group"
+to german "Leere ausgewählte Gruppe";
+
+translate "Audit CG: "
+to german "Prüfe Rahmengruppe: ";
+
+translate "Size N1 O1 at N2 N3 owned by U1"
+to german "Größe N1 O1(sn) bei N2 N3, Eigentum von U1(name)";
+
+translate "Architecture Contest"
+to german "Architekturwettbewerb";
+
+translate "Uncovered Cartouche"
+to german "Enthüllte Kunstrahmen";
+
+translate "Test of the Covered Cartouche"
+to german "Test der Verdeckten Kunstrahmen";
+

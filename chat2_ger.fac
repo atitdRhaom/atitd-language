@@ -1,0 +1,208 @@
+module chat2_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+//menues
+
+//objects
+
+//texts
+
+translate "Guild channel U1:"
+to german "Gildenkanal U1(name): ";
+
+translate "Two person channel: "
+to german "Privatkanal: ";
+
+translate "Persistant channel named U1:"
+to german "Dauerhafter Kanal, genannt U1(name):";
+
+translate "U1 closes chat channel U2."
+to german "U1(name) schließt den Chatkanal U2(name).";
+
+translate "Channel list: "
+to german "Kanalliste: ";
+
+translate "Channel View: "
+to german "Kanal Ansicht: ";
+
+translate "Channel Size: "
+to german "Kanalgröße: ";
+
+translate "U1 has left the channel."
+to german "U1(name) hat den Kanal verlassen.";
+
+translate "Main" 
+to german "Hauptkanal";
+
+translate "Click here or press Enter to talk."
+to german "Hier Klicken oder Enter drücken zum chatten.";
+
+translate "You can't chat to the U1 channel."
+to german "Du kannst U1(name) nicht ansprechen. U1(name) hat den Kanal verlassen.";
+
+translate "You can't chat to the Immigrants channel."
+to german "Du kannst keine Nachricht an den Immigrantenkanal schicken.";
+
+translate "You can't chat to the RadioGermany channel."
+to german "Radio ist ein Einwegmedium.";
+
+translate "You can't chat to the RadioFrance channel."
+to german "Du kannst in Radio Germany nicht chatten.";
+
+translate "You can't chat to the System channel."
+to german "Du kannst keine Nachricht an den Systemkanal schicken.";
+
+translate "Private Chat"
+to german "Privater Kanal";
+
+translate Microphone to german neuter
+{
+swa "Mikrofon";
+sn "Mikrofon"; sg "Mikrofones"; sd "Mikrofon"; sa "Mikrofon";
+pn "Mikrofone"; pg "Mikrofone"; pd "Mikrofonen"; pa "Mikrofone";
+}
+
+
+translate "Name of station?"
+to german "Kanalname?";
+
+translate "Make this the world cartouche microphone"
+to german "Richte dies als Ägyptens Kunstrahmenmikrofon ein";
+
+translate "You submit your comment: "
+to german "Du überträgst deine Meinung: ";
+
+translate "Channel Name: "
+to german "Kanalname: ";
+
+translate "Game Master"
+to german "Gamemaster";
+
+translate "Utility"
+to german "Nützliches";
+
+translate "Ownership"
+to german "Eigentum";
+
+translate "Set the Welcome Text"
+to german "Bestimme Willkommenstext";
+
+translate "Welcome Text to display on joining:"
+to german "Anzeige Willkommenstext beim Eintritt:";
+
+translate "Set the Questions Text"
+to german "Bestimme den Fragetext";
+
+translate "Question to ask on joining:"
+to german "Frage beim Eintritt";
+
+translate "Failed to create channel "
+to german "Erstellen nicht möglich. Kanal: ";
+
+translate "Attached new channel U1 to "
+to german "Neuen Kanal U1(name) hinzugefügt zu ";
+
+translate "Make a Microphone"
+to german "Erstelle ein Mikrofon";
+
+translate "To make a microphone you need:"
+to german "Um ein Mikrofon zu erstellen benötigst du:";
+
+translate "The name U1 is already taken: "
+to german "Der Name U1(name) ist bereits vergeben: ";
+
+translate "Empty chat channel"
+to german "Leerer Chatkanal";
+
+translate "Active Chat Channel:"
+to german "Aktiver Chatkanal:";
+
+translate "Listening: U1 (connected) : (disconnected)"
+to german "Zuhörer: U1(name) (anwesend) : (abwesend)";
+
+translate "Give this building to Named player"
+to german "Übergebe dieses Gebäude an diesen Spielernamen";
+
+translate "Who do you want to transfer it to?"
+to german "Wem möchtest du dies übertragen?";
+
+translate "No such user \k U1 \k."
+to german "Kein solcher Spieler \k U1(name) \k.";
+
+translate "Transfer the O1 to U1?"
+to german "Übertrage O1(tsa) O1(sa) an U1(name)?";
+
+translate "Only works on Microphone channels."
+to german "Funktioniert nur in Mikrofonkanälen.";
+
+translate "Could not join that channel."
+to german "Kein Zutritt zu diesem Kanal.";
+
+translate "Could not find that channel."
+to german "Kanal nicht aufzufinden.";
+
+translate "You can only do this in an island Chat channel"
+to german "Du kannst dies nur in einem Inselchatkanal tun";
+
+translate "You can only kick people out of Island chat channels."
+to german "Du kannst nur Leute aus dem Inselchatkanal entfernen.";
+
+translate "U1 is on the Island, so chatting is usually fine. Really kick them from the channel?"
+to german "U1(name) ist auf der Insel, deswegen ist chatten gewöhnlich nützlich. Wirklich aus dem Kanal entfernen?";
+
+translate "You have beene removed from K1."
+to german "Du wurdest aus K1 entfernt.";
+
+translate "Removed U1 from K1."
+to german "U1(name) aus K1 entfernt.";
+
+translate "Cleaned N1 chat indexes. (U1)"
+to german "N1 Chatverzeichnisse gesäubert. (U1(name))";
+
+translate "Chat Tabs"
+to german "Chatfenster";
+
+translate "Drag Current Right"
+to german "Chatfenster nach rechts";
+
+translate "Drag Current Left"
+to german "Chatfenster nach links";
+
+translate "You can't send private messages to yourself!"
+to german "Du kannst keine privaten Nachrichten an dich selbst schicken!";
+
+translate "You have been prohibited by law from contacting people who have been in Egypt for less than 10 days."
+to german "Es ist für dich per Gesetz verboten Kontakt zu Spielern aufzunehmen, die weniger als 10 Tage in Ägypten verbracht haben.";
+
+translate "Can't send a message - U1 is not logged into the game."
+to german "Du kannst keine Nachricht senden - U1(name) ist nicht im Spiel eingeloggt.";
+
+translate "You are not permitted to contact newbies from Jail.  Contact a GM to get out."
+to german "Du bist nicht befugt, neue Spieler vom Gefängnis aus zu kontaktieren. Rufe einen GM, um entlassen zu werden.";
+
+translate "Can't send a message - U1 is ignoring you."
+to german "Du kannst keine Nachricht schicken - U1(name) ignoriert dich.";
+
+translate "You can't chat with yourself!"
+to german "Du kannst nicht mit dir selbst chatten!";
+
+translate "U1 already has too many chat windows."
+to german "U1(name) hat bereits zu viele Chatfenster.";
+
+translate "U1 is ignoring all incoming chats"
+to german "U1(name) ignoriert alle eingehenden Chats.";
+
+translate "The Developers get a ton of chat messages. You may have to wait a week or more for a reply. DevCalls are a different story though - those get top priority, and are often answered in minutes. (With chat, you're putting yourself at the back of the queue.) Are you sure you want to open a chat tab?"
+to german "Die Entwickler bekommen eine Masse an Chats. Du könntest u.U. 1 Woche oder länger auf eine Antwort warten. Devcalls sind da etwas Anderes - diese haben höchste Prio und werden oftmals binnen Minuten beantwortet. (Mit einem Chat setzt du dich automatisch ans Ende der Warteschleife.) Einen Chat öffnen?";
+
+translate "U1 is not online. Chat anyway to leave a message?"
+to german "U1(name) ist nicht online. Trotzdem einen Chat öffnen?";
+
+translate "U1 is AFK. Chat anyway?"
+to german "U1(name) ist AFK. Trotzdem anchatten?";

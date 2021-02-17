@@ -1,0 +1,309 @@
+Module alchemy_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (c)opyright 2002-2007 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+//menues
+
+translate AlchemistsBench to german neuter
+{
+	swa "Alchemistenlabor";
+	sn "Alchemistenlabor"; sg "Alchemistenlabors"; sd "Alchemistenlabor"; sa "Alchemistenlabor";
+	pn "Alchemistenlabore"; pg "Alchemistenlabore"; pd "Alchemistenlaboren"; pa "Alchemistenlabore";
+	}
+	
+translate CookPots to german masculine
+{
+	swa "Kochtopf";
+	sn "Kochtopf"; sg "Kochtopf"; sd "Kochtopf"; sa "Kochtopf";
+	pn "Kochtöpfe"; pg "Kochtöpfe"; pd "Kochtöpfe"; pa "Kochtöpfe";
+	}
+
+translate Thermometer to german neuter
+{
+	swa "Thermometer";
+	sn "Thermometer"; sg "Thermometers"; sd "Thermometer"; sa "Thermometer";
+	pn "Thermometer"; pg "Thermometer"; pd "Thermometern"; pa "Thermometer";
+	}
+
+translate Tincture to german feminine
+{
+	swa "Tinktur";
+	sn "Tinktur"; sg "Tinktur"; sd "Tinktur"; sa "Tinktur";
+	pn "Tinkturen"; pg "Tinkturen"; pd "Tinkturen"; pa "Tinkturen";
+	}
+
+translate Alchemy to german feminine
+{
+	swa "Alchemie";
+	sn "Alchemie"; sg "Alchemie"; sd "Alchemie"; sa "Alchemie";
+	pn "Alchemien"; pg "Alchemien"; pd "Alchemien"; pa "Alchemien";
+	}
+
+translate ReducingAgent to german neuter
+{
+	swa "Reduktionsmittel";
+	sn "Reduktionsmittel"; sg "Reduktionsmittels"; sd "Reduktionsmittel"; sa "Reduktionsmittel";
+	pn "Reduktionsmittel"; pg "Reduktionsmittel"; pd "Reduktionsmitteln"; pa "Reduktionsmittel";
+	}
+	
+translate Scrying to german neuter
+{
+	swa "Analyse";
+	sn "Analyse"; sg "Analyse"; sd "Analyse"; sa "Analyse";
+	pn "Analysen"; pg "Analysen"; pd "Analysen"; pa "Analysen";
+	}
+	
+translate "Allows the formulation of complex alchemical agents with a cornucopia of properties."
+to german "Erlaubt das Zusammenstellen von Rezepturen aus komplexen alchemistischen Zutaten in einer Fülle von Möglichkeiten.";
+
+translate "Iron Cook Pots"
+to german "Eisenkochtöpfe";
+
+translate "Thermometers"
+to german "Thermometer";
+
+translate "Papyrus Paper (for Fume Hoods)"
+to german "Papyruspapier (für Feuerkegel)";
+
+translate "Glass Jars (pre-mix)"
+to german "Gläser (Anmischen)";
+
+translate "You learn to build and operate an Alchemist's Bench, and understand techniques for peering into an alchemical solution to discern it's components. You also learn recipes and techniques for using Reducting Agent to purify and isolate components of the alchemical solution."
+to german "Du lernst Bau und Betrieb eine Alchemistenlabors und verstehst Techniken, um alchemistische Lösungen und ihre Unterschiede zu erkunden. Außerdem erlernst du Techniken und Rezepte, um alchemistische Reduktionsmittel zu extrahieren.";
+
+translate "Basic Tincture "
+to german "Basistinktur";
+
+translate "Alchemy"
+to german "Alchemie";
+
+translate "Alchemist's Bench"
+to german "Alchmistenlabor";
+
+translate "To build an Alchemist's Bench you need:"
+to german "Um ein Alchemistenlabor zu bauen benötigst du:";
+
+translate "Warning: Alchemists benches can be destroyed if misused. Consult an experienced alchemist to learn how to avoid this."
+to german "Warnung: Alchemistenlabore können zerstört werden, wenn sie falsch bedient werden. Konsultiere einen erfahrenen Alchemisten um zu lernen, wie dies verhindert werden kann.";
+
+translate "Mix a batch of Reducing Agent"
+to german "Mische eine Ladung Reduktionsmittel";
+
+translate "For a batch of Reducing Agent, you need: "
+to german "Für eine Ladung Reduktionsmittel benötigst du: ";
+
+translate "Mix Cheat"
+to german "Mischen Spickzettel";
+
+translate "Tincture K1"
+to german "Tinktur K1";
+
+translate "Tincture "
+to german "Tinktur ";
+
+translate "Mix"
+to german "Mische";
+
+translate "Reducing Agent"
+to german "Reduktionsmittel";
+
+translate "How much K1*O1?"
+to german "Wieviel K1*O1(pn)?";
+
+translate "You don't have enough Tincture "
+to german "Du hast nicht genug Tinktur ";
+
+translate "Inject Reducing Agent from the bottom"
+to german "Injiziere Reduktionsmittel vom Grund";
+
+translate "You don't have any reducing agent"
+to german "Du hast kein Reduktionsmittel";
+
+translate "Inject Reducing Agent from the bottom"
+to german "Füge Reduktionsmittel hinzu";
+
+translate "You don't have any reducing agent"
+to german "Du hast kein Reduktionsmittel";
+
+translate "Dump out the flask"
+to german "Leere die Flasche aus";
+
+translate "Filter the precipitate"
+to german "Filtere die Ablagerungen heraus";
+
+translate "No precipitate has formed."
+to german "Es haben sich keine Ablagerungen gebildet";
+
+translate "The tincture isn't heavy enough to settle out."
+to german "Die Tinktur ist nicht schwer genug zum Absetzen.";
+
+translate "The precipitate is mottled in color, indicating impurities."
+to german "Die Ablagerung ist von fleckiger Farbe, Zeichen von Unreinheiten.";
+
+translate "Sprinkle Reducing Agent on the surface"
+to german "Verteile Reduktionsmittel auf der Oberfläche";
+
+translate "Load the Alchemist's Bench with Petroleum"
+to german "Belade das Alchemisten-Labor mit Petroleum";
+
+translate "Load how much petroleum? (Max N1)"
+to german "Wieviel Petroleum? (Max N1)";
+
+translate "Stir the solution"
+to german "Rühre die Lösung um";
+
+translate "Your Alchemist's Bench has no fuel."
+to german "Dein Alchemistenlabor hat keinen Brennstoff.";
+
+translate "The bench blew up!"
+to german "Der Tisch ist explodiert!";
+
+translate "Alchemy Control Panels not initialized. Call a developer."
+to german "Das Alchemiekontroller ist nicht initialisiert. Rufe einen Entwickler.";
+
+translate "Injected property N1 in position N2 of panel N3"
+to german "Eingefügte Eigenschaft N1 in Position N2 auf dem Kontrollpanel N3";
+
+translate "Surgical Removal"
+to german "Abtragen";
+
+translate "Gravity Two"
+to german "Anziehungskraft 2";
+
+translate "Panel Number?"
+to german "Panel-Nr?";
+
+translate "Position Number?"
+to german "Positions-Nr?";
+
+translate "That position has already been scryed, and can not be removed."
+to german "Diese Position wird bereits analysiert und kann nicht mehr entfernt werden.";
+
+translate "Gravity Three"
+to german "Anziehungskraft 3";
+
+translate "View Discoveries and Properties"
+to german "Betrachte Entdeckungen und Eigenschaften";
+
+translate "Alchemy Panel N1: Scyrings= N2 Discoveries= N3"
+to german "Alchemiepanel N1: Analysen= N2 Entdeckungen= N3";
+
+translate "* : N1 Gravity One : "
+to german "* : N1 Gravitation 1: ";
+translate "* : N1 Gravity Two : "
+to german "* : N1 Gravitation 2: ";
+translate "* : N1 Gravity Three : "
+to german "* : N1 Gravitation 3: ";
+
+translate "Inject Gravity 1 Discovery (Immediate)/N1 (K1)"
+to german "Füge Gravitationsentdeckung 1 ein (direkt)/N1 (K1)";
+
+translate "Inject Gravity 2 Discovery (Immediate)/N1 (K1)"
+to german "Füge Gravitationsentdeckung 2 ein (direkt)/N1 (K1)";
+
+translate "Inject Gravity 3 Discovery (Immediate)/N1 (K1)"
+to german "Füge Gravitationsentdeckung 3 ein (direkt)/N1 (K1)";
+
+translate "Inject K1 about how many discoveries from now?"
+to german "K1 hinzufügen, wieviele Entdeckungen?";
+
+translate "Scry of N1 discovered property, N2"
+to german "Analyse von N1 entdeckten Möglichkeiten, N2";
+
+translate "Scry of N1 did not discover anything."
+to german "Analyse von N1 entdeckte nichts Neues.";
+
+translate "Scry Tinkture"
+to german "Tinkturanalyse";
+
+translate "Scrying..."
+to german "Analysierung...";
+
+translate "You don't scry any useful properties to Tincture K1"
+to german "Du analysiert keine brauchbaren Eigenschaften der Tinktur K1";
+
+translate "You scry the property of Tincture K1 and discern: K2"
+to german "Du analysierst die Eigenschaften der Tinktur K1 und erkennst: K2";
+
+translate "Flush the Chamber"
+to german "Leere die Kammer";
+
+translate "Are you sure you want to flush the chamber, losing the contents?"
+to german "Bist du sicher, dass du die Kammer leeren und alle Inhalte verlieren möchtest?";
+
+translate "Chamber Contains N1 O1"
+to german "Die Kammer enthält N1 O1(N1?pa:sa)";
+
+translate "Infusion Requires Tincture K1"
+to german "Befüllung benötigt Tinktur K1";
+ 
+translate "Infuse the Chamber with K1"
+to german "Flute die Kammer mit K1";
+
+translate "You don't have enough Tinkture K1"
+to german "Du hast nicht genug K1 Tinktur";
+
+translate "Meld Large Diamonds"
+to german "Verbinde Große Diamanten";
+
+translate "Meld Large Quartz"
+to german "Verbinde Große Quarze";
+
+translate "Meld Large Rubies"
+to german "Verbinde Große Rubine";
+
+translate "Meld Large Topaz"
+to german "Verbinde Große Topase";
+
+translate "Meld Large Emerald"
+to german "Verbinde Große Smaragde";
+
+translate "Meld Large Sapphire"
+to german "Verbinde Große Saphire";
+
+translate "Meld"
+to german "Verbinden";
+
+translate "Large Diamonds"
+to german "Große Diamanten";
+
+translate "Large Quartz"
+to german "Große Quarze";
+
+translate "Large Rubies"
+to german "Große Rubine";
+
+translate "Large Topaz"
+to german "Große Topase";
+
+translate "Large Emerald"
+to german "Große Smaragde";
+
+translate "Large Sapphire"
+to german "Große Saphire";
+
+translate "Transmute Ash"
+to german "Asche verwandeln";
+
+translate "Transmute"
+to german "Verwandeln";
+
+translate "Ash to Potash"
+to german "Asche zu Pottasche";
+
+translate "Transmute Limestone"
+to german "Kalkstein verwandeln";
+
+translate "Alchemical Alignment"
+to german "Alchemistische Ausrichtung";
+
+translate "Limestone to Lime"
+to german "Kalkstein zu Kalk";
+
+translate "You Scry: The chamber must be infused with K1"
+to german "Du analysierst: die Kammer muss mit K1 gefüllt werden";

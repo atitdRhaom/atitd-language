@@ -1,0 +1,135 @@
+module geb_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Games **
+//**    (C)opyright 2002,2003 by MDO Games			           **
+//**                                                                       **
+//***************************************************************************
+//menues
+
+//objects
+
+translate StatueOfGeb to german feminine
+{
+swa "Statue des Geb";
+sn "Statue des Geb"; sg "Statue des Geb"; sd "Statue des Geb"; sa "Statue des Geb";
+pn "Statuen des Geb"; pg "Statuen des Geb"; pd "Statuen des Geb"; pa "Statuen des Geb";
+}
+translate StatueOfNut to german feminine
+{
+swa "Statue der Nut";
+sn "Statue der Nut"; sg "Statue der Nut"; sd "Statue der Nut"; sa "Statue der Nut";
+pn "Statuen der Nut"; pg "Statuen der Nut"; pd "Statuen der Nut"; pa "Statuen der Nut";
+}
+translate " (Done"
+to german " (Erledigt)";
+
+translate "Honor Geb with a Medium Topaz"  
+to german "Ehre Geb mit einem mittleren Topas";   
+translate "Honor Geb with 600 Copper Ore" 
+to german "Ehre Geb mit 600 Kupfererz";   
+translate "Honor Geb with 700 Limestone"  
+to german "Ehre Geb mit 700 Kalkstein";   
+translate "Honor Geb with 700 Sand"   
+to german "Ehre Geb mit 700 Sand";   
+translate "Honor Geb with 100 White Sand"     
+to german "Ehre Geb mit 100 weissem Sand";   
+translate "Honor Geb with a pail of red sand"   
+to german "Ehre Geb mit einem Eimer roten Sandes";   
+translate "Honor Geb with a deben of Lead Ore"  
+to german "Ehre Geb mit einer Einheit Bleierz";   
+translate "Honor Geb with 800 clay"           
+to german "Ehre Geb mit 800 Ton";   
+translate "Honor Geb with 3 pieces of flint"  
+to german "Ehre Geb mit 3 Stück Feuerstein";   
+translate "Honor Nut with 500 Honey"       
+to german "Ehre Nut mit 500 Honig";   
+translate "Honor Nut with 50 Papyrus"     
+to german "Ehre Nut mit 50 Papyrus";   
+translate "Honor Nut with 600 Flax"      
+to german "Ehre Nut mit 600 Flachs";   
+translate "Honor Nut with 500 Leeks"     
+to german "Ehre Nut mit 500 Lauch";   
+translate "Honor Nut with 700 Carrots"  
+to german "Ehre Nut mit 700 Karotten";   
+translate "Honor Nut with 500 Garlic"    
+to german "Ehre Nut mit 500 Knoblauch";   
+translate "Honor Nut with 100 Cabbage"   
+to german "Ehre Nut mit 100 Kohl";  
+translate "Honor Nut with 7 Dates"      
+to german "Ehre Nut mit 7 Datteln";   
+translate "Honor Nut with a single cabbage seed"
+to german "Ehre Nut mit einer einzelnen Kohlsaat";   
+translate "Honor Nut with ten vials of Cactus Sap"
+to german "Ehre Nut mit 10 Phiolen Kaktussaft"; 
+
+translate "Honor Geb with a Medium Topaz (done)"  
+to german "Ehre Geb mit einem mittleren Topas (erledigt)";   
+translate "Honor Geb with 600 Copper Ore (done)" 
+to german "Ehre Geb mit 600 Kupfererz (erledigt)";   
+translate "Honor Geb with 700 Limestone (done)"  
+to german "Ehre Geb mit 700 Kalkstein (erledigt)";   
+translate "Honor Geb with 700 Sand (done)"   
+to german "Ehre Geb mit 700 Sand (erledigt)";   
+translate "Honor Geb with 100 White Sand (done)"     
+to german "Ehre Geb mit 100 weissem Sand (erledigt)";   
+translate "Honor Geb with a pail of red sand (done)"   
+to german "Ehre Geb mit einem Eimer roten Sandes (erledigt)";   
+translate "Honor Geb with a deben of Lead Ore (done)"  
+to german "Ehre Geb mit einer Einheit Bleierz (erledigt)";   
+translate "Honor Geb with 800 clay (done)"           
+to german "Ehre Geb mit 800 Ton (erledigt)";   
+translate "Honor Geb with 3 pieces of flint (done)"  
+to german "Ehre Geb mit 3 Stück Feuerstein (erledigt)";   
+translate "Honor Nut with 500 Honey (done)"       
+to german "Ehre Nut mit 500 Honig (erledigt)";   
+translate "Honor Nut with 50 Papyrus (done)"     
+to german "Ehre Nut mit 50 Papyrus (erledigt)";   
+translate "Honor Nut with 600 Flax (done)"      
+to german "Ehre Nut mit 600 Flachs (erledigt)";   
+translate "Honor Nut with 500 Leeks (done)"     
+to german "Ehre Nut mit 500 Lauch (erledigt)";   
+translate "Honor Nut with 700 Carrots (done)"  
+to german "Ehre Nut mit 700 Karotten (erledigt)";   
+translate "Honor Nut with 500 Garlic (done)"    
+to german "Ehre Nut mit 500 Knoblauch (erledigt)";   
+translate "Honor Nut with 100 Cabbage (done)"   
+to german "Ehre Nut mit 100 Kohl (erledigt)";  
+translate "Honor Nut with 7 Dates (done)"      
+to german "Ehre Nut mit 7 Datteln (erledigt)";   
+translate "Honor Nut with a single cabbage seed (done)"
+to german "Ehre Nut mit einer einzelnen Kohlsaat (erledigt)";   
+translate "Honor Nut with ten vials of Cactus Sap (done)"
+to german "Ehre Nut mit 10 Phiolen Kaktussaft (erledigt)"; 
+
+translate "You don't have N1 O1."
+to german "Du hast keine N1 O1(N1?pn:sn).";
+
+translate "Your sacrifice of N1 different kinds of offering is one of the best in the land. Geb and Nut's highest blessing is certain."
+to german "Dein Opfer von N1 verschiedenen Arten von Opfergaben ist eines der Besten des Landes. Geb und Nut's größter Segen ist gewiss.";
+
+translate "Your sacrifice earns you Geb and Nut's blessing."
+to german "Dein Opfer bringt dir Geb und Nut's Segen.";
+
+translate "Your sacrifice of N1 different kinds of offering earns you Geb and Nut's blessing."
+to german "Dein Opfer von N1 verschiedenen Arten von Opfergaben bringt dir Geb und Nut's Segen.";
+
+translate "Meditate on the statue"
+to german "Meditiere an der Statue";
+
+translate "No vision presents itself. Perhaps nobody has properly honored Geb and Nut yet."
+to german "Keine Vision erscheint dir. Vielleicht hat niemand bisher wirklich Geb und Nut geehrt.";
+
+translate "Geb and Nut have been honored with N1 offerings by:"
+to german "Geb und Nut sind mit N1 Opfergaben geehrt worden von:";
+translate "U1"
+to german "U1(name)";
+translate "and others."
+to german "und anderen.";
+translate "U1 and others."
+to german "U1(name) und anderen.";
+
+translate "U1 has made N1 offerings."
+to german "U1(name) hat N1 Opfergaben gemacht.";

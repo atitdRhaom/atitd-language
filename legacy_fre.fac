@@ -1,0 +1,18 @@
+Module Legacy_fre;
+
+
+translate Granddaughter to french feminine
+{
+  ns "Grande soeur"; np "Grandes soeurs";
+}
+translate "Granddaughter, "
+to french "Grande soeur, ";
+translate "Grandson, "
+to french "Grand frère, ";
+
+translate "Honored Grandlegacy, O1 of O2"
+to french "Vénérable lointain descendant, O1(ns) en O2(ns)";
+translate "Grandlegacy, O1 of O2"
+to french "Lointain descendant, O1(ns) en O2(ns)";
+translate "Legacy, O1 of O2"
+to french "Descendant, O1(ns) en O2(ns)";

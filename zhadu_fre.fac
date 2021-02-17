@@ -1,0 +1,98 @@
+module zhadu_fre;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** French Version: "Asnath - A Tale in the Desert"  	.  **
+//**                                                                       **
+//***************************************************************************
+
+translate "                                        The Rules of Zhadu"
+to french "                                        Les règles du Zhadu";
+translate "The arena is a boad consisting of 8 Triangles"
+to french "L'arène est un plateau de 8 triangles";
+translate "Each triangle contains 4 spaces."
+to french "Chaque triangle contient 4 espaces\n";
+translate "The Pieces:"
+to french "Les pièces :";
+translate "There are 5 pieces in Zhadu"
+to french "Il y a 5 pièces dans le Zhadu";
+translate "   The 'One' piece,"
+to french "   La pièce 'Un',";
+translate "   The 'Two' piece,"
+to french "   La pièce 'Deux'";
+translate "   The 'Three' piece,"
+to french "   La pièce 'Trois'";
+translate "   The 'Four' piece,"
+to french "   La pièce 'Quatre'";
+translate "   The 'One, Two, Three' piece,"
+to french "   La pièce 'Un, Deux, Trois'";
+
+translate "First, players take turn placing their pieces."
+to french "Tout d'abord, les joueurs placent leurs pièces chacun leur tour";
+translate "Pieces must be placed in any of the spaces of the triangle at the Player's end of the board or the center space of the adjacent triangle."
+to french "Les pièces doivent être placées sur n'importe quel espace du triangle le plus proche du côté du plateau du joueur, et sur l'espace central du triangle adjacent";
+translate "After the pieces have been placed players take turns moving their pieces."
+to french "Une fois les pièces placées, les joueurs jouent chacun leur tour pour déplacer leurs pièces";
+translate "The piece must move the same number of spaces as its type."
+to french "Une pièce doit bouger du même nombre d'espace que son chiffre.";
+translate "   The 'One' piece must move one space,"
+to french "   La pièce 'Un' doit bouger d'un espace,";
+translate "   The 'Two' piece must move two spaces,"
+to french "   La pièce 'Deux' doit bouger de deux espaces,";
+translate "   The 'Three' piece must move three spaces,"
+to french "   La pièce 'Trois' doit bouger de trois espaces,";
+translate "   The 'Four' piece must move four spaces,"
+to french "   La pièce 'Quatre' doit bouger de quatre espaces,";
+translate "   The 'One, Two, Three' piece must move one, two or three spaces,"
+to french "   La pièce 'Un, Deux, Trois' doit bouger d'un, deux ou trois espace.";
+translate "You can capture the opponents piece by finishing your move on top of it."
+to french "Vous pouvez capturer une pièce de l'adversaire en finissant votre mouvement dessus.";
+translate "You win the game by capturing the opponents pieces."
+to french "Vous gagnez le jeu en capturant les pièces de l'adversaire.";
+translate "However, the first and last piece you capture must add up to four."
+to french "Toutefois, la première et la dernière pièce que vous capturez doivent faire un total de quatre.";
+translate "The 'One, Two, Three' piece can be used for a value of 1,2 or 3"
+to french "la pièce 'Un, Deux, Trois' peut être utilisée avec une valeur de 1, 2 ou 3";
+translate "If you capture the 'Four' piece first: you win."
+to french "Si vous capturez la pièce 'Quatre': vous gagnez.";
+
+
+translate ZhaduBoard to french masculine
+{
+ns "Plateau de Zhadu"; np "Plateaux de Zhadu";
+}
+translate WayOfZhadu to french masculine
+{
+ns "Chemin de Zhadu"; np "Chemins de Zhadu";
+}
+translate "Zhadu Board"
+to french "Plateau de Zhadu";
+
+translate "You do not know the Way of Zhadu."
+to french "Vous ne connaîssez pas le Chemin de Zhadu.";
+
+translate "Your Opponent does not know the Way of Zhadu."
+to french "Votre opposant ne connaît pas le chemin de Zhadu.";
+
+translate "You win."
+to french "Vous avez gagné.";
+
+translate "You lose."
+to french "Vous avez perdu.";
+
+translate "Share the Way of Zhadu"
+to french "Partagez le chemin de Zhadu";
+
+translate "The Way of Zhadu is now known."
+to french "Le chemin de Zhadu est maintenant connu.";
+
+translate "Start the Test of Zhadu"
+to french "Démarrer l'épreuve du Zhadu";
+
+translate "We know nothing of the Way of Zhadu. Find another willing to share."
+to french "Nous ne connaissons rien du chemin de Zhadu. Trouvez quelque chose d'autre à partager.";
+
+translate "Agree to a Stalemate"
+to french "Accepter le match null";
+

@@ -1,0 +1,119 @@
+module thehumanbody_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+
+translate DarkestNight to german masculine
+{
+swa "Test der dunkelsten Nacht";
+  sn "Test der dunkelsten Nacht"; sg "Test der dunkelsten Nacht"; sd "Test der dunkelsten Nacht"; sa "Test der dunkelsten Nacht";
+  pn "Test der dunkelsten Nacht"; pg "Test der dunkelsten Nacht"; pd "Test der dunkelsten Nacht"; pa "Test der dunkelsten Nacht";
+}
+translate DarkestNight to german masculine
+{
+swa "Dunkelste Nacht";
+  sn "Dunkelste Nacht"; sg "Dunkelste Nacht"; sd "Dunkelste Nacht"; sa "Dunkelste Nacht";
+  pn "Dunkelste Nacht"; pg "Dunkelste Nacht"; pd "Dunkelste Nacht"; pa "Dunkelste Nacht";
+}
+
+translate "Start the Test of The Bedouin"
+to german "Starte den Test des Beduinen";
+
+translate "Start the Test of Darkest Night"
+to german "Starte den Test der Dunkelsten Nacht";
+
+translate "Check progress on the Test of Darkest Night"
+to german "Prüfe den Fortschritt im Test der Dunkelsten Nacht";
+
+translate "The Test of the Bedouin is a special award given to those that prove themselves the best explorers of our land. When you visit an altar, anoint it with a drop of Cactus Sap. The longer that that altar remains unanointed by others, the better. Every 24 hours, the best explorer will receive an advancement in the Test of the Bedouin."
+to german "Der Test des Beduinen ist ein spezielles Geschenk, das denen gewidmet ist, die sich als beste Entdecker unseres Landes hervortun. Wenn Du einen Altar besuchst, beträufle ihn mit einem Tropfen Kaktussaft. Je länger niemand anders den Altar beträufelt, desto besser. Alle 24 Stunden erhalten die besten Entdecker einen Fortschritt im Test des Beduinen.";
+
+translate "Anoint the altar with Cactus Sap"
+to german "Beträufele den Altar mit Kaktussaft";
+
+translate "You need a single drop of Cactus Sap to anoint this altar."
+to german "Du brauchst einen einzelnen Tropfen Kaktussaft, um den Altar zu beträufeln.";
+
+translate "You have already anointed this altar."
+to german "Du hast diesen Altar bereits beträufelt.";
+
+translate "U1 has Bedouin score of N1"
+to german "U1(name) hat eine Beduinen-Punktzahl von N1";
+
+translate "Notifying winners..."
+to german "Benachrichtige die Gewinner...";
+
+translate "Bedouin Score for U1 is N1"
+to german "Beduinenpunkte für U1(name) sind N1";
+
+translate "You have placed in the top N1 Bedouin. You have done this N2 time(s)."
+to german "Du hast Dich unter den besten N1 Beduinen platziert. Du hast dies bereits N2 Mal getan.";
+
+translate "Bedouin Score for U1 is N1. Wins=N2"
+to german "Beduinenpunkte für U1(name) ist N1. Gewinn=N2";
+
+translate "Speed of the Bedouin"
+to german "Geschwindigkeit des Beduinen";
+
+translate "Unfortunately, eGenesis has not yet implemented enough mushroom types for you to continue this test. Complain bitterly to Josh."
+to german "Leider hat eGenesis bisher nicht genügend Pilzsorten für Dich implementiert, um den Test weiterzuführen. Melde Dich bitte bei den Admins.";
+
+translate "Eat one assigned mushroom, fresh from the earth"
+to german "Esse einen zugeteilten Pilz frisch vom Boden";
+
+translate "You have completed Principles of Darkest Night."
+to german "Du hast die Prinzipien der Dunkelsten Nacht vervollständigt.";
+
+translate "You have already started the Test of Darkest Night."
+to german "Du hast den Test der Dunkelsten Nacht bereits begonnen.";
+
+translate "  Ingested N1/N2 O1"
+to german "N1/N2 O1(pn) gegessen";
+
+translate "Egypt is home to dozens of species of deadly mushrooms. The Test of Darkest Night is taken in N1 stages, and involves building your body's resistance to toxins found in freshly grown mushroom species."
+to german "Ägypten hat Dutzende tödliche Pilzsorten. Der Test der Dunkelsten Nacht hat N1 Abschnitte und hilft Dir, Deinen Körper gegen die Gifte in frisch gewachsenen Pilzarten zu stählen.";
+
+translate "After analyzing your physiology, the scientists at Great University of the Human body have determined that at this stage, it is safe for you to:"
+to german "Nachdem die Forscher der großen Universität des menschlichen Körpers Deine Physiologie analysiert haben, haben sie in diesem Stadium bestimmt, daß dies für Dich sicher ist:";
+
+translate "Check progress on the Test of Darkest Night"
+to german "Prüfe Fortschritt im Test der Dunkelsten Nacht";
+
+translate "Progress on the Test of Darkest Night:"
+to german "Fortschritt im Test der Dunkelsten Nacht:\n";
+
+translate "You have passed the Test of Darkest Night."
+to german "Du hast den Test der Dunkelsten Nacht bestanden.";
+
+translate "You have completed your regimen, raising your Constitution to N1. The scientists have further analyzed your physiology to determine what it is now safe to eat."
+to german "Du hast Deine Kur abgeschlossen und Deine Konstitution auf N1 gesteigert. Die Wissenschaftler haben nach Analyse Deiner Physiologie festgestellt, daß Du nun gegen Pilzgifte imun bist.";
+
+translate "Eat this mushroom fresh from the earth"
+to german "Esse diesen frisch vom Boden aufgehobenen Pilz";
+
+translate "You feel the poison entering your bloodstream. Your head spins briefly, but then clears. You realize that you will be alright."
+to german "Du fühlst, wie das Gift Deine Blutbahn erreicht. Die Welt um Dich herum beginnt sich zu drehen, doch dann werden Deine Sinne klar. Du fühlst, wie Du wieder auf die Beine kommst.";
+
+translate "You have consumed the required number of O1."
+to german "Du hast die benötigte Zahl von O1(pn) verspeist.";
+
+translate "Sorry, but the Test of Darkest Night wasn't supposed to be released yet."
+to german "Entschuldigung, aber der Test der Dunkelsten Nacht war nicht geplant, jetzt gestartet zu werden.";
+
+translate "Grab a clutch of 10 cobras"
+to german "Nimm ein Gelege von 10 Kobras auf";
+
+translate "There must be at least 10 cobras in the Serpentarium."
+to german "Es müssen mindestens 10 Kobras in dem Schlangenhaus sein.";
+
+translate "You must wait another N1 before you have recovered enough to grab a clutch of live cobras."
+to german "Du mußt weitere N1 warten, bis Du Dich soweit erholt hast, um ein Gelege von lebenden Kobras aufzunehmen";
+
+translate "You need a basket to put the cobras in."
+to german "Du brauchst einen Korb, um Kobras hineinzutun.";
+

@@ -1,0 +1,259 @@
+module greenhouse_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment		           **
+//**                                                                       **
+//***************************************************************************
+
+//menues
+
+translate "Gardening"
+to german "Gärtnerei";
+
+translate "Greenhouse"
+to german "Gewächshaus";
+
+translate "Grow some grass"
+to german "Pflanze Gras an";
+
+translate "Harvest grass"
+to german "Ernte Gras";
+
+translate "Turn under all plants"
+to german "Reiße alle Pflanzen heraus";
+
+translate "Crossbreeding"
+to german "Kreuzkultur";
+
+translate "Initiate the Stressed Breed (Left Bias)"
+to german "Führe eine anspruchsvolle Zucht durch (Tendenz links)"; 
+
+translate "Initiate the Stressed Breed (Right Bias)"
+to german "Führe eine anspruchsvolle Zucht durch (Tendenz rechts)"; 
+
+translate "Set the right splint type"
+to german "Lege den rechten Strang fest";
+
+translate "Set the left splint type"
+to german "Lege den linken Strang fest";
+
+translate "Initiate the crossbreed"
+to german "Kreuzung der Kulturen beginnen";
+
+translate "What should this batch of K1 be known as?"
+to german "Unter welchem Namen soll K1 in Zukunft bekannt werden?";
+
+translate "New Strain"
+to german "Neue Züchtung";
+
+translate "The name K1 is already taken."
+to german "Der Name K1 ist bereits vergeben.";
+
+
+
+//objects
+translate Greenhouse to german neuter
+{
+  swa "Gewächshaus";
+  sn "Gewächshaus"; sg "Gewächshauses"; sd "Gewächshaus"; sa "Gewächshaus";
+  pn "Gewächshäuser"; pg "Gewächshäuser"; pd "Gewächshäusern"; pa "Gewächshäuser";
+}
+translate NutsEssence to german neuter
+{
+  swa "Nussessenz"; 
+  sn "Nussessenz"; sg "Nussessenz"; sd "Nussessenz"; sa "Nussessenz"; 
+  pn "Nussessenzen"; pg "Nussessenzen"; pd "Nussessenzen"; pa "Nussessenzen"; 
+}
+
+translate "To build a Greenhouse, you need: "
+to german "Um ein Gewächshaus zu bauen benötigst Du: ";
+
+translate "This greenhouse is growing O1"
+to german "Dieses Gewächshaus baut O1(pn) an";
+
+translate "You need 10 tufts of grass to seed the greenhouse."
+to german "Du brauchst 10 Büschel Gras, um sie im Gewächshaus anzupflanzen.";
+
+translate "You harvested N1 grass from your greenhouse."
+to german "Du hast in Deinem Gewächshaus N1 Gras geerntet.";
+
+translate "No grass has grown yet."
+to german "Kein Gras bisher gewachsen.";
+
+translate "Are you sure you want to turn under all plants?"
+to german "Bist Du sicher, daß Du alle Pflanzen herausreißen willst?";
+
+translate "A cross is already in progress."
+to german "Eine Kultur ist bereits am heranreifen.";
+
+translate "You need N1 O1 K1."
+to german "Du brauchst N1 O1(pn) K1.";
+
+translate "You need N1 K1."
+to german "Du brauchst N1 K1.";
+
+translate "You need N1 O1: K1."
+to german "Du brauchst N1 O1(pn): K1.";
+
+translate "The left splint is already saturated with O1 K1. Scrape away these seed and replace with O2 K2."
+to german "Der linke Strang ist bereits mit O1(sn) K1 belegt. Entferne diese Saaten und tausche sie durch O2(sn) K2 aus.";
+
+translate "The left splint is already saturated with O1: K1. Scrape away these seed and replace with O2: K2."
+to german "Der linke Strang ist bereits mit O1(sn): K1 belegt. Entferne diese Saaten und tausche sie durch O2(sn): K2 aus.";
+
+translate "The left splint is already saturated with K1. Scrape away these seed and replace with K2."
+to german "Der linke Strang ist bereits mit K1 belegt. Entferne diese Saaten und tausche sie durch K2 aus.";
+
+translate "The right splint is already saturated with O1 K1. Scrape away these seed and replace with O2 K2."
+to german "Der rechte Strang ist bereits mit O1(sn) K1 belegt. Entferne diese Saaten und tausche sie durch O2(sn) K2 aus.";
+
+translate "The right splint is already saturated with O1: K1. Scrape away these seed and replace with O2: K2."
+to german "Der rechte Strang ist bereits mit O1(sn): K1 belegt. Entferne diese Saaten und tausche sie durch O2(sn): K2 aus.";
+
+translate "The right splint is already saturated with K1. Scrape away these seed and replace with K2."
+to german "Der rechte Strang ist bereits mit K1 belegt. Entferne diese Saaten und tausche sie durch K2 aus.";
+
+translate "This is not active in dev sessions."
+to german "Dies ist in Programmiersitzungen nicht möglich.";
+
+translate "You must crossbreed two different strains."
+to german "Du mußt zwei verschiedene Stränge kreuzen.";
+
+translate "Both splints must contain the same basic type of plant or seed."
+to german "Beide Stränge müssen der gleichen Art Pflanze oder Saat angehören.";
+
+translate "The results of your crossbreed will be available in 15 minutes."
+to german "Das Resultat Deiner Kreuzkultur wird in 15 Minuten verfügbar sein.";
+
+translate "You need a drop of Nut's Essence to initiate the crossbreed."
+to german "Du benötigst einen Tropfen von Nuts Essenz, um die Kreuzung zu beginnen.";
+
+translate "Your hybrid, known as K1 is ready."
+to german "Dein Hybride, bekannt als K1, ist fertig.";
+
+translate "Name (register) a strain of O1"
+to german "Bezeichne (registriere) eine Sorte O1(pn)";
+
+translate "Apply Mutagen"
+to german "Erbgut verändern";
+
+translate "Using K1"
+to german "Benutze K1";
+
+translate "You need a drop of Cobra's Bite Extract to initiate a Stressed Breed."
+to german "Du brauchst einen Tropfen Kobrabißextrakt um eine anspruchsvolle Zucht durchzuführen.";
+
+translate "The results of your stressed breed will be available in 5 minutes."
+to german "Die Ergebnisse Deiner anspruchsvollen Zucht werden in 5 Minuten verfügbar sein.";
+
+translate "Your breed, known as K1 is ready."
+to german "Deine Zucht, bekannt als K1, ist fertig.";
+
+translate "StressedBreedL: K1"
+to german "Zucht links: K1";
+
+translate "StressedBreedR: K1"
+to german "Zucht rechts: K1";
+
+translate "Use Revelation Solvent"
+to german "Benutze Offenbarungslösungsmittel";
+
+translate "Examining the solvent..."
+to german "Untersuche das Lösungsmittel...";
+
+translate "Revealation solvent can only be used when both Splints are saturated with identical samples."
+to german "Offenbarungslösungsmittel kann nur benutzt werden, wenn beide Stränge mit identischen Proben belegt sind.";
+
+translate "The solvent separates into colored bands:\n"
+to german "Das Lösungsmittel trennt in verschiedene Farbbanden:";
+
+translate "Black"
+to german "Schwarz";
+
+translate "Red"
+to german "Rot";
+
+translate "Orange"
+to german "Orange";
+
+translate "Yellow"
+to german "Gelb";
+
+translate "Green"
+to german "Grün";
+
+translate "Blue"
+to german "Blau";
+
+translate "Indigo"
+to german "Indigo";
+
+translate "Violet"
+to german "Violett";
+
+translate "Maroon"
+to german "Kastanienbraun";
+
+translate "Cyan"
+to german "Zyan";
+
+translate "Russet"
+to german "Rotgelb";
+
+translate "Mango"
+to german "Mango";
+
+translate "Brown"
+to german "Braun";
+
+translate "Teal"
+to german "Aquamarin";
+
+translate "Magenta"
+to german "Purpur";
+
+translate "Chartruce"
+to german "Gelbgrün";
+
+translate "Navy"
+to german "Marineblau";
+
+translate "Tan"
+to german "Bräunlich";
+
+translate "Puce"
+to german "Dunkelbraun";
+
+translate "Beige"
+to german "Beige";
+
+translate "Azure"
+to german "Azurblau";
+
+translate "Ecru"
+to german "Naturfarben";
+
+translate "Lavender"
+to german "Lavendel";
+
+translate "Turquoise"
+to german "Türkis";
+
+translate "Pink"
+to german "Rosa";
+
+translate "Amber"
+to german "Bernstein";
+
+translate "Crimson"
+to german "Karmesinrot";
+
+translate "Seed names can't contain double spaces, dashes, or other things likely to confuse people."
+to german "Saatennamen dürfen keine doppelten Leerzeichen, Bindestriche oder andere Dinge beinhalten, die die Leute verwirren könnten.";
+
+translate "Please confirm a new name of: "
+to german "Bitte bestätige einen neuen Namen von: ";
+

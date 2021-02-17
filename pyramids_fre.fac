@@ -1,0 +1,205 @@
+module pyramids_fre;
+
+translate ToothLimestoneBoreHole to french masculine
+{
+  ns "Site de forage"; np "Sites de forage";
+}
+
+translate ToothLimestoneExcavationSite to french masculine
+{
+  ns "Site d'excavation"; np "Sites d'excavation";
+}
+
+translate PyramidBlockRolling to french masculine
+{
+  ns "Déplac. de blocs de pyramide"; np "Déplac. de blocs de pyramide";
+}
+
+translate pyramidconstruction to french feminine
+{
+ns "Construction de pyramides"; np "Construction de pyramides";
+}
+
+translate PyramidConstructionSite to french masculine
+{
+  ns "Site de constr. de pyramide"; np "Sites de construction de pyramide";
+}
+
+translate PyramidConstructionSitea to french masculine
+{
+  ns "Site de constr. de pyramide"; np "Sites de construction de pyramide";
+}
+
+translate PyramidA1 to french feminine
+{
+  ns "Pyramide du Peuple"; np "Pyramides du Peuple";
+}
+
+translate PyramidA2 to french feminine
+{
+  ns "Pyramide de la Terre Fertile"; np "Pyramides de la Terre Fertile";
+}
+
+translate PyramidA3 to french feminine
+{
+  ns "Pyramide des Océans profonds"; np "Pyramides des Océans profonds";
+}
+
+translate PyramidA4 to french feminine
+{
+  ns "Pyramide de Forêts"; np "Pyramides des Forêts";
+}
+
+translate PyramidA5 to french feminine
+{
+  ns "Pyramide des Plaines lointaines"; np "Pyramides des Plaines lointaines";
+}
+translate PyramidA6 to french feminine
+{
+  ns "Pyramide des Miracles"; np "Pyramides des Miracles";
+}
+
+translate "Principles of Pyramid Construction will show you how to use Glass Rods to search for Limestone Blocks, dig them up, and place them into a Pyramid Construction Site."
+to french "Les Principes de la construction de Pyramide vous enseigneront comment utiliser des tiges de verre pour chercher des blocs de calcaire, les excaver, et les placer dans un site de construction de Pyramide.";
+
+translate "Create a Glass Rod"
+to french "Fabriquer une tige de verre";
+translate "Create a Lead Mallet"
+to french "Fabriquer un maillet de plomb";
+translate "Learn Pyramid Construction level 7"
+to french "Apprenez les 7 niveau de la Construction de Pyramides";
+translate "Bore for Limestone Blocks"
+to french "Tenter d'extraire un bloc de calcaire";
+translate "Discover a Limestone Block"
+to french "Découvrir un bloc de calcaire";
+translate "Help dig up a Limestone Block"
+to french "Aider à excaver un bloc de calcaire";
+translate "Push a Limestone Block"
+to french "Pousser un bloc de calcaire";
+translate "Place a Limestone Block into a Pyramid Construction Site"
+to french "Placer un bloc de calcaire dans un site de construction de Pyramide";
+
+translate "You have completed the Principles of Pyramid Construction."
+to french "Vous avez terminé les Principes de la COnstruction de Pyramide.";
+
+translate "Beauty of Night"
+to french "Beauté de la nuit";
+
+translate "With broad knowledge, allows construction of Pyramids"
+to french "La connaissance permet la construction de pyramides.";
+
+translate "Bore for Tooth Limestone"
+to french "Extraire un bloc de calcaire";
+
+translate "To bore for a Tooth Limestone block, you need:"
+to french "Pour extraire un bloc de calcaire, il vous faut :";
+
+translate "Retrieve the bore rod."
+to french "Reprendre la tige de forage";
+
+translate "Tap the Bore Rod"
+to french "Frapper la tige de forage";
+
+translate "You need a soft lead mallet to tap the bore rod."
+to french "Il vous faut un maillet de plomb pour frapper la tige de forage.";
+
+translate "The rod is now at the correct depth to use as a guide."
+to french "La tige est maintenant enfoncée assez profondément pour servir de guide.";
+
+translate "The rod hit solid rock. Because of your keen feel of the mallet, your arm took the shock, preserving the glass rod."
+to french "La tige a heurté une roche solide. Vous avez un coup de main habile, et vous avez absorbé le choc, gardant la tige de verre intacte.";
+
+translate "The rod hit solid rock, shattering."
+to french "La tige heurte une roche solide et se brise en mille morceaux.";
+
+translate "Crack an outline for a block"
+to french "Dégager un bloc";
+
+translate "Dig around this block"
+to french "Creuser autour de ce bloc";
+
+translate "Push this block East"
+to french "Pousser ce bloc à l'est";
+
+translate "Push this block West"
+to french "Pousser ce bloc à l'ouest";
+
+translate "Push this block North"
+to french "Pousser ce bloc au nord";
+
+translate "Push this block Süden"
+to french "Pousser ce bloc au sud";
+
+translate "Turn this block to face O1 : O2"
+to french "Orienter ce bloc face à O1(ns) : O2(ns)";
+
+translate "Turn this block to face North-South"
+to french "Orienter ce bloc face Nord-Sud";
+
+translate "Turn this block to face East-West"
+to french "Orienter ce bloc face Est-Ouest";
+
+translate "This pyramid block is rolling East-West"
+to french "Ce bloc de Pyramide est orienté Est-Ouest";
+
+translate "This pyramid block is rolling North-South"
+to french "Ce bloc de Pyramide est orienté Nord-Sud";
+
+translate "North-South"
+to french "Nord-Sud";
+
+translate "East-West"
+to french "Est-Ouest";
+
+translate "Small Pyramid Construction Site"
+to french "Site de construction de petite pyramide";
+
+translate "To build a Pyramid Construction Site, you need:"
+to french "Pour mettre en place un site de construction de pyramide, il vous faut :";
+
+translate "Fit this block to a pyramid construction site"
+to french "Ajouter ce bloc à un site de construction de pyramide";
+
+translate "Click on the Pyramid construction site to place the block."
+to french "Cliquez sur le site de construction de pyramide pour placer ce bloc.";
+
+translate "So far, N1 of N2 stone blocks have been placed."
+to french "Vous avez jusqu'ici placé N1 blocs sur N2.";
+
+translate "Fit the first block to this site"
+to french "Poser la première pierre de ce site";
+
+translate "Fit the last block to this site"
+to french "Poser la dernière pierre de ce site";
+
+translate "Fit the block to this site"
+to french "Poser la pierre sur ce site";
+
+translate "The block is not close enough to the site."
+to french "Le bloc n'est pas assez proche du site.";
+
+translate "Too late - that block has already been placed."
+to french "Trop tard - le bloc a déjà été placé.";
+
+translate "Consecrate this pyramid"
+to french "Consacrer cette pyramide";
+
+translate "Pray to the Heavens"
+to french "Prier les dieux";
+
+translate "Start the Test of the People's Pyramid"
+to french "Commencer l'épreuve de la Pyramide du Peuple";
+
+translate "Many roles are required when building a pyramid. With skill level 1, all you may do is push blocks. At level 2, you may also dig the blocks, and so on. Those with Pyramid Construction level 7 may consecrate pyramids. To advance in the Discipline of Architecture, consecrate a pyramid of any size."
+to french "Il faut de nombreux rôles pour construire une pyramide. Avec le niveau 1, vous ne savez que pousser des blocs. Au niveau 2, vous savez extraire les blocs, et ainsi de suite. Au niveau 7, vous pouvez consacrer des pyramides. Pour progresser dans la Discipline d'architecture, vous devez consacrer une pyramide, peu importe sa taille.";
+
+translate "You are about to consecrate this pyramid, and pass the test of the People's Pyramid.  Are you ready to claim this accomplishment for yourself?"
+to french "Vous êtes sur le point de consacrer cette pyramide et de réussir l'Épreuve de la Pyramide du Peuple. Voulez-vous revendiquer cet accomplissement pour vous-même ?";
+
+translate "You have not signed up for the Test of the People's Pyramid. You can consecrate this pyramid, but will have to consecrate another to pass that test. Proceed anyway?"
+to french "Vous n'avez pas encore commencé l'épreuve de la Pyramide du Peuple. Vous pouvez consacrer cette pyramide, mais vous devrez en consacrer une nouvelle lorsque vous pourrez passer cette épreuve";
+translate "You already passed the test... are you sure you want to consecrate this pyramid, and deny somebody else the opportunity?"
+to french "Vous avez déjà passé cette épreuve... Voulez-vous tout de même consacrer cette pyramide, et en refuser le bénéfice à quelqu'un d'autre tentant de passer cette épreuve ?";
+
+translate "A vision of the future?"
+to french "Une vision de l'avenir ?";

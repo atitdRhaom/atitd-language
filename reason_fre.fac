@@ -1,0 +1,133 @@
+module Reason_fre;
+
+translate Reason to french feminine
+{
+  ns "L'épreuve de Raison"; np "L'épreuve de Raison";
+}
+
+translate Critic to french feminine
+{
+  ns "L'épreuve du Critique"; np "L'épreuve du Critique";
+}
+translate "Principles of Reason challenges you to solve three of each of several kinds of Thought puzzles."
+to french "Pour réussir les Principes de Raison, vous devez résoudre trois puzzles de chaque sorte.";
+
+translate "Solve three Pathmakers, and rate them"
+to french "Résoudre et juger trois Traceurs de Canaux";
+translate "Solve three Scholar's Gemcutting Tables, and rate them"
+to french "Résoudre et juger trois Tables de Taille de Spécialiste";
+translate "Solve three Empty Hand Towers, and rate them"
+to french "Résoudre et juger trois Tours de la Main vide";
+translate "Solve three Tombs of the Immortal, and rate them"
+to french "Résoudre et juger trois Tombes de l'Immortel";
+translate "Run three Venery, and rate them"
+to french "Résoudre et juger trois Parties de Chasse";
+translate "Check your Judgement Hints (after Test advances)"
+to french "Consulter vos indices de Jugement (après les passages)";
+
+translate "The Test of Reason must be petitioned by one who has judged a Pathmaker, a Scholar's Gemcutting Table, an Empty Hand Tower, and a Venery."
+to french "L'épreuve de Raison doit être demandée par quelqu'un ayant déjà juger un Traceur de Canaux, une Table de Taille de Spécialiste, une Main Vide et une Partie de Chasse.";
+
+translate "You have completed Principles of Reason."
+to french "Du hast die Prinzipien des Verstandes gemeistert.";
+
+translate "In the Test of Reason you must solve and judge as many Thought puzzles as possible. Those that judge the most advance in the Discipline of Harmony."
+to french "Dans l'épreuve de Raison, vous devez résoudre et juger autant de puzzles que possible. Les plus performants progressent dans la Discipline de l'Harmonie.";
+
+translate "Principles of the Critic asks that you judge several types of artwork."
+to french "Les Principes du Critique vous demandent de juger plusieurs sortes d'oeuvres d'Art.";
+
+translate "In the Test of the Critic you must evaluate and judge as many works of Art and Music as possible. Those that judge the most advance in the Discipline of Harmony."
+to french "Dans l'épreuve du Critique, vous devez évaluer autant d'oeuvres d'Art et Musique que possible. Les plus performants progressent dans la Discipline de l'Harmonie.";
+
+translate "Evaluate seven Formal Gardens"
+to french "Evaluer sept Jardins décoratifs";
+
+translate "Evaluate seven Raeli Gliderports"
+to french "Evaluer sept rampes de lancement Raeli";
+
+translate "Evaluate seven Raeli Mosaics"
+to french "Evaluer sept mosaïques Raeli";
+
+translate "Evaluate seven Prismatic Opticons"
+to french "Evaluer sept Opticons Prismatiques";
+translate "Judge a Scarab Garden"
+to french "Juger un Jardin à Scarabées";
+translate "Judge a Pyrotechnics Competition"
+to french "Juger un concours de Pyrotechnie";
+translate "Register as a Pyrotechnics Judge at 3 stadiums"
+to french "S'inscrire en tant que juge à 3 Stades de Pyrotechnie";
+translate "Meditate on Judgement Hints (after Test advances)"
+to french "Méditer sur les indices de Jugement (après les passages)";
+
+translate "The Test of Critic must be petitioned by any Initiate of Harmony, but only after the Tests of Pyrotechnics, Khefre's Children, and The Raeli Mosaic have been unlocked."
+to french "L'épreuve du Critique doit être demandée par un initié en Harmonie, après que les épreuves de Pyrotechnie, des Enfants de Khefre et de la Mosaique Raeli aient été debloquées.";
+
+translate "No winners in the Test of Reason."
+to french "Pas de passage pour l'épreuve de Raison.";
+
+translate " Retaining N1 passes."
+to french " N1 passages sont conservés.";
+
+translate " Retaining N1 advances."
+to french " N1 passage(s) est/sont conservé(s).";
+
+translate "Check most recent Score"
+to french "Voir le score le plus récent";
+
+translate "Test of Reason:"
+to french "Epreuve de Raison:";
+
+translate " Total Score is N1"
+to french " Le score total est de N1";
+
+translate "Runners-up include"
+to french "Concurrents en lice";
+
+translate "Egypt recognizes K1 for passing the O1. K2 K3."
+to french "L'Egypte reconnait K1 pour avoir passé O1(ns). K2 K3.";
+
+translate "Note: Early on, points for each type of work you judged are equal to the number of distinct peer judges you had among those works. As the number of works in the world increases, maximum points per type tends to top out at around 250."
+to french "Remarque : en début de Conte, les points pour chaque type d'oeuvre que vous avez jugé sont égaux au nombre de vos juges pairs. Lorsque la quantité d'oeuvres dans le monde augmente, le score pour chaque type d'oeuvre a tendance à se stabiliser vers 250.";
+
+translate "You have completed Principles of The Critic."
+to french "Vous avez achevé les Principes du Critique.";
+
+translate "Egypt recognizes K1 for passing the Test of the Critik."
+to french "L'égypte reconnaît K1 pour avoir passer l'épreuve du Critique.";
+
+translate "No winners in the Test of the Critic."
+to french "Pas de passage pour l'épreuve du Critique.";
+
+translate "Check Last Week's Score"
+to french "Consulter les scores de la semaine dernière";
+
+translate "Test of the Critic:"
+to french "Epreuve du Critique:";
+
+translate "Meditate on Judgement Hints"
+to french "Méditer sur les indices de Jugement";
+
+translate "Judgement Hints:"
+to french "Indices de Jugements";
+
+translate "O1: You are a good judge."
+to french "O1(ns): Vous êtes un bon juge.";
+
+translate "O1: You tend to vote higher than other Judges."
+to french "O1(ns): Vous avez tendance à voter plus haut que les autres juges.";
+
+translate "O1: You tend to vote lower than other Judges."
+to french "O1(ns): Vous avez tendance à voter plus bas que les autres juges.";
+
+translate "You can have more influence by paying attention to these hints"
+to french "Vous pouvez avoir plus d'influence en tenant compte de ces indices";
+
+translate "N1 O1"
+to french "N1 O1(N1?np:ns)";
+
+translate "N1 as Pyrotechnics Judge"
+to french "N1 en tant que juge de Pyrotechnie";
+
+translate "N1 as Khefre's Children's Judge"
+to french "N1 en tant que juge des Enfants de Khefre";

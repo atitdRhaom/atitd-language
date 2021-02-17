@@ -1,0 +1,132 @@
+module tafl_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment	                   **
+//**                                                                       **
+//***************************************************************************
+
+translate TaflDesk to german masculine
+{
+  swa "Tisch des Königlichen Geleitschiffes";
+  sn "Tisch des Königlichen Geleitschiffes"; sg "Tisches des Königlichen Geleitschiffes"; sd "Tisch des Königlichen Geleitschiffes"; sa "Tisch des Königlichen Geleitschiffes";
+  pn "Tische des Königlichen Geleitschiffes"; pg "Tische des Königlichen Geleitschiffes"; pd "Tischen des Königlichen Geleitschiffes"; pa "Tische des Königlichen Geleitschiffes";
+}
+translate Tafl to german neuter
+{
+  swa "Königliches Geleitschiff";
+  sn "Königliche Geleitschiff"; sg "Königlichen Geleitschiffes"; sd "Königliche Geleitschiff"; sa "Königliche Geleitschiff";
+  pn "Königlichen Geleitschiffe"; pg "Königlichen Geleitschiffe"; pd "Königlichen Geleitschiffe"; pa "Königlichen Geleitschiffe";
+}
+translate RSTafl to german neuter
+{
+  swa "Königliches Geleitschiff";
+  sn "Königliche Geleitschiff"; sg "Königlichen Geleitschiffes"; sd "Königliche Geleitschiff"; sa "Königliche Geleitschiff";
+  pn "Königlichen Geleitschiffe"; pg "Königlichen Geleitschiffe"; pd "Königlichen Geleitschiffe"; pa "Königlichen Geleitschiffe";
+}
+translate TaflMastery to german neuter
+{
+  swa "Königliches Geleitschiff";
+  sn "Königliche Geleitschiff"; sg "Königlichen Geleitschiffes"; sd "Königliche Geleitschiff"; sa "Königliche Geleitschiff";
+  pn "Königlichen Geleitschiffe"; pg "Königlichen Geleitschiffe"; pd "Königlichen Geleitschiffe"; pa "Königlichen Geleitschiffe";
+}
+translate "Claim the move-limit win for Attacker"
+to german "Streiche den Angreifergewinn ein (limitierte Züge)";
+
+translate "Claim the time-out win for Attacker!"
+to german "Streiche den Angreifergewinn ein (Zeitspiel)";
+
+translate "Claim the time-out win for Defender!"
+to german "Streiche den Verteidigergewinn ein (Zeitspiel)";
+
+translate "You lost, but the game was practice-only."
+to german "Du verlierst, aber es war nur ein Übungsspiel.";
+
+translate "You won, but the game was practice-only."
+to german "Du gewinnst, aber es war nur ein Übungsspiel.";
+
+translate "Practice Mode"
+to german "Übungsmodus";
+
+translate "Set to Tournament Mode"
+to german "Wechsel zum Kampfmodus";
+
+translate "Tournament Mode"
+to german "Kampfmodus";
+
+translate "Game over. Use the Utility menu to reset the board."
+to german "Spiel beendet. Nutze das Optionenmenü, um das Brett zurückzusetzen.";
+
+translate "Play King's Convoy (Attacker)"
+to german "Spiele königliches Geleitschiff (Angreifer)";
+
+translate "Untimed Game"
+to german "Kein zeitbegrenztes Spiel";
+
+translate "K1 per side"
+to german "K1 pro Seite";
+
+translate "You must first sign up for the Test of the King's Convoy at the Great University of Conflict."
+to german "Du mußt zuerst den Test des Königlichen Geleitschiffes an der Universität des Konfliktes starten.";
+
+translate "Timed game of K1 per side"
+to german "Zeitbegrenzt auf K1 pro Seite";
+
+translate "Play King's Convoy (Defenders) against U1"
+to german "Spiele Königliches Geleitschiff (Verteidiger) gegen U1(name)";
+
+translate "You do not have enough O1."
+to german "Du hast nichth genug O1(pn).";
+
+translate "Your opponent does not have enough O1 for an offering."
+to german "Dein Gegner hat nicht genug O1(pn) für ein Angebot.";
+
+translate "This game will not affect ranks because the court is in Practice Mode."
+to german "Dieses Spiel wird die Ränge nicht beeinflussen, weil das Spielfeld auf Übungsmodus eingestellt ist.";
+
+translate "Reset Game"
+to german "Spiel zurücksetzen";
+
+translate "Move this piece"
+to german "Bewege den Stein";
+
+translate "Move"
+to german "Bewegen";
+
+translate "Destination..."
+to german "Ziel...";
+
+translate "Game is over. Reset the board first."
+to german "Spiel beendet. Setze das Brett erst zurück.";
+
+translate "Out of bounds."
+to german "Verboten.";
+
+translate "Diagonal moves not allowed."
+to german "Diagonale Züge sind nicht erlaubt.";
+
+translate "Path is blocked: "
+to german "Wegblockade: ";
+
+translate "Only the king may occupy the throne."
+to german "Nur der König darf den Thron beanspruchen.";
+
+translate "Only the king may occupy the escapes."
+to german "Nur der König darf die Flucht erlauben.";
+
+translate "Untimed Game (Both players ran out)"
+to german "Zeitlich unbegrenztes Spiel (Beide Spieler sind erschöpft)";
+
+translate "Attacker Time Left:N1"
+to german "Restliche Angriffszeit: N1";
+
+translate "Defender Time Left:N1"
+to german "Restliche Verteidigungszeit: N1";
+
+translate "Start the Test of the King's Convoy"
+to german "Starte den Test des Könglichen Geleitschiffes";
+
+translate "You are now registered for the Test of the King's Convoy."
+to german "Du bist nun für den Test des Königlichen Geleitschiffes eingetragen.";

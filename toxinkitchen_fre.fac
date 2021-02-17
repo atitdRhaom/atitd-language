@@ -1,0 +1,226 @@
+module toxinkitchen_fre;
+
+translate Toxinkitchen to french masculine
+{
+  ns "laboratoire à poisons"; np "laboratoires à poisons";
+}
+
+translate CobraVenom to french masculine
+{
+  ns "Venin de cobra"; np "Venin de cobra";
+}
+
+translate CobrasBiteExtract to french amsculine
+{
+  ns "Extrait de venin de cobra"; np "Extrait de venin de cobra";
+}
+
+translate cabbagejuice to french masculine
+{
+  ns "Jus de chou"; np "Jus de chou";
+}
+translate carrotjuice to french masculine
+{
+  ns "Jus de carotte"; np "Jus de carotte";
+}
+
+translate faceofgodserum to french masculine
+{
+  ns "Sérum oeil divin"; np "Sérums oeil divin";
+}
+translate numone to french masculine
+{
+  ns "1"; np "1";
+}
+
+translate "Ability to efficiently refine pure arsenic from certain mushrooms."
+to french "Confère la capacité de purifier l'arsénic contenu dans certains champignons.";
+
+translate "Learn Botanical Identification for new recipes"
+to french "Apprennez l'identification botaniques pour de nouvelles formules";
+
+translate "Laboratories"
+to french "Laboratoires";
+
+translate "Toxin Kitchen"
+to french "Laboratoire à poisons";
+
+translate "To build a Toxin Kitchen you need:"
+to french "Pour construire un Laboratoire à poison, il vous faut:";
+
+translate "Reset this kitchen"
+to french "Vider le récipient";
+
+translate "The solution dried up, ruining the K1"
+to french "La solution s'est déshydratée, détoriant la dose de K1";
+
+translate "Start a batch of Nut's Essence"
+to french "Commencer la production d'essence de noix";
+
+translate "Start a batch of Cobra's Bite Extract"
+to french "Commencer la production d'extrait de venin de cobra";
+
+translate "Start a batch of Revelation Solvent (Milky)"
+to french "Commencer la production de Solvant révélateur (laiteux)";
+
+translate "Start a batch of Revelation Solvent (Clear)"
+to french "Commencer la production de Solvant révélateur (transparent)";
+
+translate "Start a batch of Revelation Solvent (Glass)"
+to french "Commencer la production de Solvant révélateur (verre)";
+
+translate "Start a batch of Revelation Solvent (Crystal)"
+to french "Commencer la production de Solvant révélateur (crystal)";
+
+translate "Start a batch of Revelation Solvent (Diamond)"
+to french "Commencer la production de Solvant révélateur (diamant)";
+
+translate "Start a batch of Revelation Solvent (Minu's)"
+to french "Commencer la production de Solvant révélateur (Minu)";
+
+translate "Start a batch of Revelation Solvent (Osiris')"
+to french "Commencer la production de Solvant révélateur (Osiris)";
+
+translate "Start a batch of Revelation Solvent (Renenutet's)"
+to french "Commencer la production de Solvant révélateur (Renenutet)";
+
+translate "You need three jugs of water to start the recipe."
+to french "Il vous faut trois cruches d'eau pour commencer la fabrication.";
+
+translate "Ingredient: Drop of cobra venom"
+to french "Ingrédient: Ajouter une goutte de venin de cobra";
+
+translate "Add a drop of cobra venom"
+to french "Ajouter une goutte de venin de cobra";
+
+translate "You don't have any cobra venom."
+to french "Vous n'avez pas de venin de cobra.";
+
+translate "At stage one, the venom must be added at at least 750 degrees."
+to french "Pour la première étape, le venin de cobra doit être ajouté à au moins 750 degrés.";
+
+translate "At stage one, you must add the venum when the acidity is between 0.30 and 0.60. Acidity must be tested using cabbage juice."
+to french "Pour la première étape, vous devez ajouter le venin lorsque l'acidité est entre 0.30 et 0.60; Vous devez tester l'acidité avec du jus de chou.";
+
+translate "At stage two, the venom must be added at no more than 200 degrees."
+to french "A la deuxième étape, le venin doit être ajouté lorsque la température est à moins de 200 degrés.";
+
+translate "At stage three, the venom must be added at no more than 100 degrees."
+to french "A la troisième étape, le venin doit être ajouté lorsque la température est à moins de 100 degrés.";
+
+translate "At stage three, you must add the venom when the acidity is between 4.00 and 4.25. Acidity must be tested using cabbage juice."
+to french "Pour la troisième étape, vous devez ajouter le venin lorsque l'acidité est entre 4.00 et 4.25. Vous devez tester l'acidité avec du jus de chou.";
+
+translate "Ingredient: O1"
+to french "Ingrédient: O1(ns)";
+
+translate "You don't have a O1"
+to french "Vous n'avez pas de O1(ns)";
+
+translate "Acidity must be just right... Mixing..."
+to french "L'acidité semble correcte... Vous mélangez...";
+
+translate "Add a Bleeding Hand Mushroom"
+to french "Ajouter un champignon Main Sanglante";
+
+translate "You don't have a Bleeding Hand Muchroom."
+to french "Vous n'avez pas de champignon Main Sanglante.";
+
+translate "At stage one you must add 1 O1 between 600 and 800 degrees."
+to french "A la première étape, 1 O1(ns) doit être ajouté lorsque la température est comprise entre 600 et 800 degrés.";
+
+translate "At stage two you must add a O1 when the acidity is between 3.40 and 3.80. Acidity must be tested using cabbage juice."
+to french "A la deuxième étape, O1(lns) O1(ns) doit être ajouté lorsque l'acidité est comprise entre 3.40 et 3.80. Vous devez tester l'acidité avec du jus de chou.";
+
+translate "At stage three you must add a O1 between 200 and 400 degrees."
+to french "A la troisième étape, O1(lns) O1(ns) doit être ajouté lorsque la température est comprise entre 200 et 400 degrés.";
+
+translate "At stage two you must add a bleeding hand mushroom when the acidity is between 3.40 and 3.80. Acidity must be tested using cabbage juice."
+to french "Pour la deuxième étape, vous devez ajouter un champignon Main Sanglante lorsque l'acidité est entre 3.40 et 3.80 Vous devez tester l'acidité avec du jus de chou.";
+
+translate "At stage three, you must add a bleeding hand mushroom between 200 and 400 degrees."
+to french "A la troisième étape, vous devez ajouter un champignon Main Sanglante entre 200 et 400 degrés.";
+
+translate "Ingredient: Nature's Jug Mushroom"
+to french "Ingrédient: Champignon Jarre de la Nature";
+
+translate "Ingredient: Cobra's Bite Extract"
+to french "Ingrédient: Extrait de Venin de Cobra";
+
+translate "You don't have any charcoal."
+to french "Vous n'avez pas de charbon de bois.";
+
+translate "At stage one, you must add a Nature's Jug mushroom between 625 and 775 degrees."
+to french "A la première étape, un champignon Jarre de la Nature doit être ajouté lorsque la température est comprise entre 625 et 775 degrés.";
+
+translate "At stage two, you must add Cobra's Bite Extract when the acidity is between 3.10 and 3.60. Acidity may be tested using cabbage juice."
+to french "A la deuxième étape, un extrait de venin de cobra doit être ajouté lorsque l'acidité est comprise entre 3.10 et 3.60. Vous devez tester l'acidité avec du jus de chou.";
+
+translate "At stage three, you must add a Nature's Jug mushroom between 190 and 385 degrees."
+to french "A la troisième étape, vous devez ajouter un champignon Jarre de la Nature entre 190 et 385 degrés.";
+
+translate "At stage N1 you must add N2 O1 between N3 and N4 degrees."
+to french "A l'étape N1, vous devez ajouter N2 O1(ns) entre N3 et N4 degrés.";
+
+translate "At stage N1 you must add N2 O1 when the Acidity is between N3.N4 and N5.N6."
+to french "A l'étape N1, vous devez ajouter N2 O1(ns) lorsque l'acidité est comprise entre N3.N4 et N5.N6. Vous devez tester l'acidité avec du jus de chou.";
+
+translate "At stage N1 you must add N2 O1 when the Acidity is between N3.N4 and N5.N6. Acidity may be tested using cabbage juice."
+to french "A l'étape N1, vous devez ajouter N2 O1(ns) lorsque l'acidité est comprise entre N3.N4 et N5.N6. Vous devez tester l'acidité avec du jus de chou.";
+
+translate "Heat with Charcoal"
+to french "Chauffer en brûlant du charbon de bois";
+
+translate "Dilute with Water"
+to french "Diluer avec de l'eau";
+
+translate "You don't have any water."
+to french "Vous n'avez pas d'eau.";
+
+translate "Catalyze with Cactus Sap"
+to french "Catalyser la réaction avec de la sève de cactus";
+
+translate "You don't have any Cactus Sap."
+to french "Vous n'avez pas de sève de cactus.";
+
+translate "Check Acidity"
+to french "Tester l'acidité";
+
+translate "You don't have any Cabbage Juice."
+to french "Vous n'avez pas de jus de chou.";
+
+translate "Acidity: N1.N2"
+to french "Acidité : N1.N2";
+
+translate "Select a recipe"
+to french "Choisissez une recette";
+
+translate "Temperature: N1"
+to french "Température : N1";
+
+translate "Volume: N1.N2"
+to french "Volume : N1.N2";
+
+translate "Precipitate: N1.N2"
+to french "Concentration : N1.N2";
+
+translate "Take the O1"
+to french "Prendre O1(ns)";
+
+translate "Last Acidity: N1"
+to french "Dernier test d'acidité : N1";
+
+translate "precipitate"
+to french "Concentration";
+
+translate "acidity"
+to french "Acidité";
+
+translate "O1, Stage N1"
+to french "O1(ns), étape N1";
+
+translate "Start a batch of Eye of God Serum"
+to french "Commencer la production de sérum Oeil Divin";
+
+translate "At stage O1 you must add N1 O2 between N2 and N3 degrees."
+to french "A l'étape O1(ns) vous devez ajouter N1 O2(ns) entre N2 et N3 degrés";

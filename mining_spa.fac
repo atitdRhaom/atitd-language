@@ -1,0 +1,164 @@
+module orestone2_spa;
+
+translate orestone2 to spanish feminine
+{
+	ns "Piedra de mineral"; np "Piedras de mineral";
+}
+
+translate ironmine to spanish feminine
+{
+	ns "Mina de hierro"; np "Minas de hierro";
+}
+		
+translate tinmine to spanish feminine
+{
+  ns "Mina de estaño"; np "Minas de estaño";
+}
+		
+translate coppermine to spanish feminine
+{
+  ns "Mina de cobre"; np "Minas de cobre";
+}
+
+translate zincmine to spanish feminine
+{
+  ns "Mina de cinc"; np "Minas de cinc";
+}
+
+translate goldmine to spanish feminine
+{
+  ns "Mina de oro"; np "Minas de oro";
+}
+
+translate silvermine to spanish feminine
+{
+  ns "Mina de plata"; np "Minas de plata";
+}
+
+translate aluminummine to spanish feminine
+{
+  ns "Mina de aluminio"; np "Minas de aluminio";
+}
+
+translate leadmine to spanish feminine
+{
+  ns "Mina de plomo"; np "Minas de plomo";
+}
+
+translate magnesiummine to spanish feminine
+{
+  ns "Mina de magnesium"; np "Minas de magnesium";
+}
+
+translate antimonymine to spanish feminine
+{
+  ns "Mina de antimonio"; np "Minas de antimonio";
+}
+
+translate platiniummine to spanish feminine
+{
+  ns "Mina de platino"; np "Mina de platino";
+}
+
+translate tungstenmine to spanish feminine
+{
+  ns "Mina de tungsteno"; np "Minas de tungsteno";
+}
+translate titaniummine to spanish feminine
+{
+  ns "Mina de titanio"; np "Minas de titanio";
+}
+
+translate lithiummine to spanish feminine
+{
+  ns "Mina de litio"; np "Minas de litio";
+}
+
+translate strontiummine to spanish feminine
+{
+  ns "Mina de estroncio"; np "Minas de estroncio";
+}
+
+translate sandmine to spanish feminine
+{
+  ns "Mina de arena"; np "Minas de arena";
+}
+translate mine5 to spanish feminine
+{
+  ns "Mina"; np "Minas";
+}
+
+translate "Stone Color"
+to spanish "Color de la piedra";
+
+translate "Crystal Shape"
+to spanish "Forma del cristal";
+
+translate "Base Shape"
+to spanish "Forma del pilar";
+
+translate "Crystal Color"
+to spanish "Color del cristal";
+
+translate "Base Color"
+to spanish "Color del pilar";
+
+translate "Stone Shape"
+to spanish "Forma de la piedra";
+
+translate "Stone Pattern"
+to spanish "Motivo de la piedra";
+
+translate "Iron Mine"
+to spanish "Mina de hierro";
+
+translate "Add this to the Workload"
+to spanish "Añadir a la selección";
+
+translate "Add this to the Workload and Finalize"
+to spanish "Añadir a la selección y finalizar";
+
+translate "Finalize Workload"
+to spanish "Finalizar la selección";
+
+translate "This mine can be worked again in K1."
+to spanish "Esta mina podrá ser utilizada de nuevo en K1.";
+
+translate "Work this Mine, Colorblind"
+to spanish "Trabajar en esta mina, modo daltoniano";
+
+translate "Clean up the Field"
+to spanish "Reinicializar el terreno";
+
+translate "Wait another N1 seconds."
+to spanish "Todavía espere N1 segundos.";
+
+translate "That workload has no value."
+to spanish "Esta selección no tiene ningún valor.";
+
+translate "You workload just didn't have anything valuable in it."
+to spanish "Su selección simplemente no contenía nada.";
+
+translate "Your workload had: N1 O1"
+to spanish "Su selección contenía : N1 O1(N1?np:ns)";
+
+translate "You got some coal and a O1"
+to spanish "Usted consiguió el carbón y O1(uns) O1(ns)";
+
+translate "Ore Mine"
+to spanish "Mina";
+
+translate "Remove this from the Workload"
+to spanish "Retirar de la selección";
+
+translate "Stop Working this mine"
+to spanish "Deje de trabajar en esta mina";
+
+translate "The mine would be too close to another mine - that's dangerous."
+to spanish "Esta mina sería demasiado cerca de otra - es peligroso.";
+
+translate "To build a Mine you need:"
+to spanish "Para construir una mina, usted hace falta :";
+
+translate "Work this Mine, Normal"
+to spanish "Trabajar en esta mina";

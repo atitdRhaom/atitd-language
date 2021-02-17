@@ -1,0 +1,117 @@
+Module salts_fre;
+
+translate acidbath to french masculine
+{
+  ns "Bac à acide"; np "Bacs à acide";
+}
+
+translate SaltsOfMetal to french masculine
+{
+  ns "Sel métallique"; np "Sels métalliques";
+}
+
+translate saltsofaluminum to french masculine
+{
+  ns "Sel d'aluminium"; np "Sels d'aluminium";
+}
+
+translate saltsofantimony to french masculine
+{
+  ns "Sel d'antimoine"; np "Sels d'antimoine";
+}
+
+translate saltsofcopper to french masculine
+{
+  ns "Sel de cuivre"; np "Sels de cuivre";
+}
+
+translate saltsofgold to french masculine
+{
+  ns "Sel d'or"; np "Sels d'or";
+}
+
+translate saltsofiron to french masculine
+{
+  ns "Sel de fer"; np "Sels de fer";
+}
+
+translate saltsoflead to french masculine
+{
+  ns "Sel de plomb"; np "Sels de plomb";
+}
+
+translate saltsoflithium to french masculine
+{
+  ns "Sel de lithium"; np "Sels de lithium";
+}
+
+translate saltsofplatinum to french masculine
+{
+  ns "Sel de platine"; np "Sels de platine";
+}
+
+translate saltsofsilver to french masculine
+{
+  ns "Sel d'argent"; np "Sels d'argent";
+}
+
+translate saltsoftin to french masculine
+{
+  ns "Sel d'étain"; np "Sels d'étain";
+}
+
+translate saltsoftitanium to french masculine
+{
+  ns "Sel de titane"; np "Sels de titane";
+}
+
+translate saltsoftungsten to french masculine
+{
+  ns "Sel de tungstène"; np "Sels de tungstène";
+}
+
+translate saltsofzinc to french masculine
+{
+  ns "Sel de zinc"; np "Sels de zinc";
+}
+
+translate saltsofmagnesium to french masculine
+{
+  ns "Sel de magnésium"; np "Sels de magnésium";
+}
+
+translate Neutralization to french feminine
+{
+  ns "Neutralisation"; np "Neutralisation";
+}
+
+translate "Pyrotechnics"
+to french "Pyrotechnie";
+
+translate "Acid Bath"
+to french "Bac à acide";
+
+translate "To build an Acid Bath you need:"
+to french "Pour construire un bac à acide, il vous faut:";
+
+translate "Precipitate: N1 O1"
+to french "Précipité: N1 O1(N1?np:ns)";
+
+translate "Filter the Precipitate"
+to french "Filtrer le précipité";
+
+translate "Start a batch of O1 salts"
+to french "Fabriquer du sel de O1(ns)";
+
+translate "To make Salts of O1 you need:"
+to french "Pour faire du sel de O1(ns), il vous faut:";
+
+translate "The metal dances violently when it hits the acid bath, but then the reaction slows to a gentle fizz."
+to french "Le métal réagit violemment quand il heurte le bac rempli d'acide, mais la réaction ralentie progressivement en un doux pétillement.";
+
+translate "Allows the construction and use of Acid Baths, to make Metallic Salts"
+to french "Permet la construction et l'utilisation de bacs à acide, servant à faire du sel métallique";
+
+
+
+

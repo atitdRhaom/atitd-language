@@ -1,0 +1,6 @@
+Module TimedAbility_ger;
+
+translate EasternMeditation to german feminine {
+	swa "Fernöstliche Meditation";
+	sn "Fernöstliche Meditation"; pn "Fernöstliche Meditation";
+}

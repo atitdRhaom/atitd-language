@@ -1,0 +1,64 @@
+module rainbarrel_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**            German Version: Astrid "Infinyti" Werner                   **
+//**                            2012                                       **
+//**                                                                       **
+//***************************************************************************
+
+translate RainBarrel to german neuter
+{
+swa "Regenfass";
+sn "Regenfass"; sg "Regenfasses"; sd "Regenfass"; sa "Regenfass";
+pn "Regenfässer"; pg "Regenfässer"; pd "Regenfässern"; pa "Regenfässer";
+}
+
+translate "Build a Rain Barrel"
+	to german "Baue ein Regenfass";
+
+translate "To build a rain barrel, you need:"
+	to german "Um ein Regenfass zu bauen, benötigst du:";
+
+translate "Pour Water into the barrel"
+	to german "Schütte Wasser in das Fass";
+
+translate "The Barrel is stained with Sulfur"
+	to german "Das Fass ist mit Schwefel verunreinigt";
+
+translate "Draw Water from the Barrel"
+	to german "Sauge Wasser aus dem Fass ab";
+
+translate "Draw how much water? (max N1)"
+	to german "Wieviel Wasser absaugen?";
+
+translate "The barrel doesn't have that much water."
+	to german "Das Fass hat nicht soviel Wasser.";
+
+translate "You don't have enough jugs to hold the water."
+	to german "Du hast nicht genug Krüge, um das Wasser aufzuhalten.";
+
+translate "Sulphurous Water leve is N1"
+	to german "Schwefelwasserstand ist N1";
+
+translate "Sulphurous Water level is N1"
+	to german "Schwefelwasserstand ist N1";
+
+translate "Pour Sulphurous Water into the barrel"
+	to german "Schütte Schwefelwasser in das Fass";
+
+translate "How much Sulphurous Water? (max N1)"
+	to german "Wieviel Schwefelwasser?";
+
+translate "You don't have that much sulphurous water."
+	to german "Du hast nicht so viel Schwefelwasser.";
+
+translate "Draw how much sulphurous water?"
+	to german "Wieviel Schwefelwasser absaugen?";
+
+translate "The barrel doesn't have that much sulphurous water."
+	to german "Das Fass hat nicht soviel Schwefelwasser.";
+
+translate "You don't have enough jugs to hold the sulphurous water."
+	to german "Du hast nicht genug Krüge, um das Schwefelwasser aufzuhalten.";

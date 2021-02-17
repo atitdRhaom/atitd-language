@@ -1,0 +1,65 @@
+module give_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Games **
+//**    (C)opyright 2002,2003 by MDO Games			           **
+//**                                                                       **
+//***************************************************************************
+//menues
+
+translate "Give O1"
+to german "Gib O1(sn)";
+
+translate "Nilgrün"
+to german "Nilgrün";
+
+translate "Altägypten"
+to german "Altägypten";
+
+//objects
+
+//texts
+
+translate "Give how many O1?"
+to german "Wieviele O1(pn) geben?";
+
+translate "You don't have N1 O1."
+to german "N1 O1(N1?pn:sn)?So viel besitzt du nicht.";
+
+translate "U1 has given you N1 O1."
+to german "U1(name) hat dir N1 O1(N1?pn:sn) gegeben.";
+
+translate "U1 has given you N1 K1:O1."
+to german "U1(name) hat dir N1 K1:O1(sn). gegeben.";
+
+translate "Give how many O1:O2?"
+to german "Wieviel O1(sn):O2(sn) geben?";
+
+translate "U1 was carying too much, and couldn't receive any O1."
+to german "U1(name) hat zu viel getragen und konnte keine O1(pn) annehmen.";
+
+translate "You don't have N1 O1:O2."
+to german "Du hast nicht N1 O1(N1?pn:sn):O2(N1?pn:sn).";
+
+translate "You have given U1 N1 O1"
+to german "Du hast U1(name) N1 O1(sn) gegeben";
+
+translate "You have given U1 N1 O1."
+to german "Du hast U1(name) N1 O1(sn) gegeben.";
+
+translate "U1 has given you N1 O1"
+to german "U1(name) hat Dir N1 O1(sn) gegeben";
+
+translate "You can't give when you can't move."
+to german "Du kannst nichts geben, wenn du dich nicht bewegen kannst.";
+
+translate "U1 was carying too much, and couldn't receive any O1."
+to german "U1(name) trägt zuviel und konnte O1(sn) nicht nehmen.";
+
+translate "U1 has given you N1 K1:K2."
+to german "U1(name) hat Dir N1 K1:K2 gegeben.";
+
+translate "You have given U1 N1 K1."
+to german "Du hast U1(name) N1 K1 gegeben.";

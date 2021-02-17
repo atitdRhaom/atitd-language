@@ -1,0 +1,18 @@
+module cameras_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**            German Version: Astrid "Infinyti" Werner                   **
+//**                            2012                                       **
+//**                                                                       **
+//***************************************************************************
+
+translate "Go For a Ride"
+  to german "Drehe eine Runde";
+
+translate "Look at this from the ride!"
+  to german "Schau dir das an!";
+
+translate "Get off the ride!"
+  to german "Absatteln!";

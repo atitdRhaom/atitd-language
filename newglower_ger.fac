@@ -1,0 +1,181 @@
+module newglower_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+
+translate StarRack to german neuter
+{
+swa "Leuchtkugellabor"; sn "Leuchtkugellabor"; pn "Leuchtkugellabor";
+}
+translate CStar to german feminine
+{
+swa "Leuchtkugel"; sn "Leuchtkugel"; pn "Leuchtkugel";
+}
+translate EgyptianCandle to german feminine
+{
+swa "Ägyptische Kerze"; sn "Ägyptische Kerze"; pn "Ägyptische Kerzen";
+}
+translate PlanetarySalute to german masculine
+{
+swa "Planetengruß"; sn "Planetengruß"; pn "Planetengrüße";
+}
+translate GlowerLab to german neuter
+{
+swa "Tragbares Leuchtkugellabor"; sn "Tragbare Leuchtkugellabor"; pn "Tragbaren Leuchtkugellabors";
+}
+
+
+translate "Star"
+to german "Leuchtkugel";
+
+translate "Star Rack"
+to german "Leuchtkugellabor";
+
+translate "Make Stars"
+to german "Stelle Leuchtkugeln her";
+
+translate "Rename the Favorite Star"
+to german "Umbenennen der Lieblingsleuchtkugel";
+
+translate "What would you like to name the Star?"
+to german "Wie soll die Leuchtkugel heißen?";
+
+translate "Designate the last Star as Best"
+to german "Bestimme die letzte Leuchtkugel als die Beste";
+
+translate "Stars must be named."
+to german "Leuchtkugeln müssen benannt sein.";
+
+translate "Shots Left: N1"
+to german "Verbleibende Abschüsse: N1";
+
+translate "Favorite Star K1 watched by N1 watchers."
+to german "Lieblingsleuchtkugel K1 wurde von N1 Betrachtern beobachtet.";
+
+translate "Launch a new star (Shake the color box)"
+to german "Starte eine neue Leuchtkugel (Schüttel die Farbschachtel)";
+
+translate "Launch Favorite Star: "
+to german "Starte Lieblingsleuchtkugel: ";
+
+translate "Launch the previous Star"
+to german "Starte die vorherige Leuchtkugel";
+
+translate "All people who are watching should declare that before launching any stars."
+to german "";
+
+translate "Read the Recipe for the last fired Star"
+to german "Lese das Rezept der zuletzt abgeschossenen Leuchtkugel";
+
+translate "The recipe for 10 stars is:"
+to german "Das Rezept für 10 Leuchtkugeln ist:";
+
+translate "Portable Star Lab"
+to german "Tragbares Leuchtkugellabor";
+
+translate "Request a Portable Star Lab"
+to german "Frage nach einem Tragbaren Leuchtkugellabor";
+
+translate "By order of the Pyrotechnics Research Act, introduced by Sedelyan, only paid accounts that have been in Egypt for at least 14 days may request a Portable Star Lab."
+to german "";
+
+translate "Consulting the Scientists..."
+to german "Befrage die Wissenschaftler...";
+
+translate "Asking for the lab repeatedly just interrupts the scientists. It takes the scientists two minutes to answer the door and walk back to their lab!"
+to german "";
+
+translate "We *just* finished this Portable Star Lab, and we will entrust it to you. Star labs represent many hours "
+to german "";
+
+translate "of work on behalf of our scientists, so please assemble a group of fellow artists to evaluate the stars it produces."
+to german "";
+
+translate "Sorry, our scientists are still building the next Portable Star Lab."
+to german "Entschuldige, unsere Wissenschaftler bauen noch das nächste tragbare Leuchtkugellabor.";
+
+translate "Register as a watcher"
+to german "Registrieren als Betrachter";
+
+translate "You are already registered."
+to german "Du bist bereits registriert.";
+
+translate "You register as a watcher."
+to german "Du registrierst Dich als Betrachter.";
+
+translate "Turn in Star Lab"
+to german "";
+
+translate "Turning it in..."
+to german "";
+
+translate "No favorite Star has been designated."
+to german "Es wurde keine besondere Leuchtkugel ernannt."; 
+
+translate "The name K1 is already taken. Try renaming the star."
+to german "Der Name K1 ist bereits in Gebrauch. Versuche die Leuchtkugel umzubenennen.";
+
+translate "Learn Star Formula"
+to german "Lerne Leuchtkugelrezepte";
+
+translate "You learn the recipe for making K1 stars."
+to german "Du lernst ein Rezept um K1 Leuchtkugeln herzustellen.";
+
+translate "To build a Star Rack you need:"
+to german "Um ein Leuchtkugellabor herzustellen benötigst du:";
+
+translate "Stars will be done in N1"
+to german "Die Leuchtkugeln werden in N1 fertig sein";
+
+translate "Make Stars"
+to german "Stelle Leuchtkugeln her";
+
+translate "How many K1?"
+to german "Wieviele K1?";
+
+translate "To make a batch of N1 K1 you need:"
+to german "Um ein Bündel von N1 K1 herzustellen benötigst du:";
+
+translate "Decommission this Star Lab"
+to german "Lege dieses Leuchtkugellabor still";
+
+translate "The lab has been decomissioned. Next time, be sure to designate *some* star as favorite!"
+to german "Das Labor wurde stillgelegt. Stelle nächstes Mal sicher, daß *einige* Leuchtkugeln als Favoriten gekennzeichnet sind!";
+
+translate "You have learned a clever way of tightly wrapping a single Star in a piece of Rotten Flax to form a primitive pyrotechnic device. In the future you may wish to persue the Test of Pyrotechnics, where you will be able to create sophisticated fireworks and exhibit them in competition."
+to german "";
+
+translate "Make Egyptian Candle Fireworks"
+to german "Stelle Raketen 'Ägyptische Kerze' her";
+
+translate "Make how many K1 Egyptian Candles?"
+to german "Wieviele K1 Ägyptische Kerzen machen?";
+
+translate "You need N1 rotten flax to wrap the stars."
+to german "Du brauchst N1 verrotteten Flachs, um die Leuchtkugeln zu umwickeln.";
+
+translate "Light the K1 Egyptian Candle"
+to german "Zünde die K1 Ägyptische Kerze an";
+
+translate "You can only light single candles, not piles."
+to german "Du kannst nur einzelne Kerzen, keine Bündel, anzünden.";
+
+translate "Ask for a package of Wild Planet Pyrotechnic Stars"
+to german "Frage nach einem Leuchtkugelpaket 'Wilde Planeten'";
+
+translate "A scientist wearing an unusual green hat comes out, nervously looks around, then slips a package into your hands. "
+to german "Ein Wissenschaftler mit einem ungewöhnlichen grünen Hut kommt heraus, nervös um sich schauend und drückt dir dann ein Paket in die Hand. ";
+
+translate "These stars have several uses. "
+to german "Diese Leuchtkugeln haben verschiedene Nutzungsmöglichkeiten. ";
+
+translate " he whispers. "
+to german " flüstert er. ";
+
+translate "If you persue the Discipline of Art and Music, they can be incorporated into beautiful pyrotechnic shells. If you'd like to play with them right away, get the Planetary Salute skill here. Or, seek out accomplished pyrotechnicians to trade for other goods."
+to german "Wenn du in der Disziplin der Kunst und Musik weitergehst, können sie zu wunderschönen Feuerwerksgranaten weiterverarbeitet werden. Wenn du richtig mit ihnen spielen möchtest, lerne hier die Planentengrußfähigkeit. Oder suche erfahrene Feuerwerker, um mit ihnen um andere Waren zu handeln.";

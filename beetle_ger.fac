@@ -1,0 +1,469 @@
+Module Beetle_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment	                        **
+//**                                                                       **
+//**************************************************************************
+//menues
+
+
+translate "You can only compete one beetle at a time.  "
+to german "Du kannst nur gegen einen Skarabäus antreten. ";
+
+translate "Are you sure you wish to do this?"
+to german "Bist du sicher, dass du dies tun möchtest?";
+
+translate "You are not carrying a certificate that shows you are Rank N1.  You need to go get one."
+to german "Du trägst kein Zertifikat, das beweist, dass Du Rang N1 belegst. Du musst so etwas haben.";
+
+translate "Your beetle is a Rank-N1 beetle, but this is a Rank-N2 arena."
+to german "Dein Skarabäus hat Rang N1, dies ist aber eine Rang N2 Arena.";
+
+translate "The sculpture has been concealed with a white cover. It will be revealed when the judging starts."
+to german "Die Skulptur ist mit einem weißen Deckmantel verborgen. Es wird gelüftet wenn die Bewertung beginnt.";
+
+translate "The Scarab Garden has filled: judging has commenced! Your beetle will be on exhibit for N1 hours."
+to german "Der Skarabäengarten ist gefüllt: Die Bewertung beginnt! Dein Käfer wird für die nächsten N1 Stunden ausgestellt.";
+
+translate "Congratulations! You have demonstrated your ability at handling insects.  The school of the Human Body is willing to sell you some new bug-related skills."
+to german "Gratulation! Du hast demonstriert, dass du mit Insekten umgehen kannst. Die Schule des menschlichen Körpers wird dir neue Fertigkeiten im Bezug auf die Käferzucht anbieten.";
+
+translate "Your beetle K1 was not among the best.  It has been demoted back to rank 1."
+to german "Dein Skarabäus K1 war nicht unter den Besten. Er wurde auf Rang 1 zurück gesetzt.";
+
+translate "Your beetle K1 was not among the best.  It did not progress."
+to german "Dein Skarabäus K1 war nicht unter den Besten. Er hat keine Fortschritte gemacht.";
+
+translate "Your beetle K1 was rated among the best!  It is now rank N1"
+to german "Dein Skarabäus war unter den Besten! Er ist nun Rang N1";
+
+translate "Your beetle K1 was rated among the best!  You have received a certificate for your victory.  Examine it using your tests menu.  Do not lose it, and do not rename the beetle."
+to german "Dein Skarabäus K1 war unter den Besten! Du hast ein Zertifikat über deinen Sieg erhalten. Untersuche es in deinem Testmenü. Verliere es nicht und benenne den Käfer nicht um.";
+
+translate "Examine Cert K1"
+to german "Untersuche das Zertifikat K1";
+
+translate "This certificate says that U1 reached rank N1 using beetle K1"
+to german "Dieses Zertifikat bestätigt, dass Spieler U1(name) Rang N1 mit seinem Skarabäus K1 inne hat.";
+
+translate "Strength of this win: N1"
+to german "Gesamtpunktzahl: N1";
+
+translate "Drape this beetle"
+to german "Verhülle diesen Käfer";
+
+translate "Breed Now"
+to german "Züchte jetzt";
+
+translate "Tear Down this Garden"
+to german "Reiße den Garten ab";
+
+translate "Name this Garden"
+to german "Benenne diesen Garten";
+
+translate "Name of Garden..."
+to german "Name des Gartens...";
+
+translate "Start the Test of Khefre's Children"
+to german "Beginne den Test der Kinder Khefres";
+
+translate "You must be signed up for the test of Khefre's Children"
+to german "Du musst für den Test der Kinder Khefres angemeldet sein";
+
+
+//objects
+
+translate Scarabs to german masculine
+{
+swa "Test der Kinder Khefres";
+sn "Test der Kinder Khefres"; sg "Test der Kinder Khefres"; sd "Test der Kinder Khefres"; sa "Test der Kinder Khefres";
+pn "Test der Kinder Khefres"; pg "Test der Kinder Khefres"; pd "Test der Kinder Khefres"; sa "Test der Kinder Khefres";
+}
+
+translate Terrarium to german neutercollective
+{
+swa "Terrarium";
+sn "Terrarium"; sg "Terrariums"; sd "Terrarium"; sa "Terrarium";
+pn "Terrarien"; pg "Terrarien"; pd "Terrarien"; sa "Terrarien";
+}
+translate Inventory to german neutercollective
+{
+swa "Inventar";
+sn "Inventar"; sg "Inventar"; sd "Inventar"; sa "Inventar";
+pn "Inventar"; pg "Inventar"; pd "Inventar"; sa "Inventar";
+}
+translate Entomology to german feminine
+{
+swa "Insektenforschung";
+sn "Insektenforschung"; 
+pn "Insektenforschungen"; 
+}
+translate Beetle to german masculinecollective
+{
+swa "Käfer";
+sn "Käfer"; sg "Käfers"; sd "Käfer"; sa "Käfer";
+pn "Käfer"; pg "Käfer"; pd "Käfern"; sa "Käfer";
+}
+translate ScarabAlcove to german feminine
+{
+swa "Skarabäennische";
+sn "Skarabäennische"; sg "Skarabäennische"; sd "Skarabäennische"; sa "Skarabäennische";
+pn "Skarabäennischen"; pg "Skarabäennischen"; pd "Skarabäennischen"; sa "Skarabäennischen";
+}
+translate ScarabGarden to german masculine
+{
+swa "Skarabäengarten";
+sn "Skarabäengarten"; sg "Skarabäengartens"; sd "Skarabäengarten"; sa "Skarabäengarten";
+pn "Skarabäengärten"; pg "Skarabäengärten"; pd "Skarabäengärten"; sa "Skarabäengärten";
+}
+translate BeetleCert to german neuter
+{
+swa "Skarabäenzertifikat"; sn "Skarabäenzertifikat"; pn"Skarabäenzertifikat";
+}
+translate BugWrangling to german masculine
+{
+swa "Käferkampf";
+sn "Käferkampf"; sg "Käferkampf"; sd "Käferkampf"; sa "Käferkampf";
+pn "Käferkampf"; pg "Käferkampf"; pd "Käferkampf"; sa "Käferkampf";
+}
+translate KhefresLocker to german neuter
+{
+swa "Khefres Schließfach";
+sn "Khefres Schließfach"; sg "Khefres Schließfaches"; sd "Khefres Schließfach"; sa "Khefres Schließfach";
+pn "Khefres Schließfächer"; pg "Khefres Schließfächer"; pd "Khefres Schließfächer"; sa "Khefres Schließfächer";
+}
+
+translate "You must breed the most strange and beautiful scarab beetle that you can.  After encountering some beetles in the wild, you can capture them and raise them in a terrarium.  You must exhibit your beetle at a Scarab garden, and be judged."
+to german "Du musst die schönsten und fremdartigsten Skarabäen heranzüchten zu denen Du fähig bist. Nachdem Du Käfer in der Wildnis gefunden hast, kannst Du sie fangen und in einem Terrarium züchten. Du musst sie in einem Skarabäengarten ausstellen um aufzusteigen.";
+
+translate "The Test of Khefre's Children requires you to breed and display beautiful beetles.  The Principles will guide you on exhibiting your first beetle at a Scarab Garden."
+to german "Der Test der Kinder Khefres fordert von dir das Züchten und Ausstellen wunderschöner Scarabäen. Die Prinzipien werden dich unterweisen, wie du deinen ersten Skarabäus in einem Skarabäengarten ausstellen kannst.";
+
+translate "Catch a Wild Beetle"
+to german "Fange einen wilden Käfer";
+translate "Grow Cabbage"
+to german "Pflanze Kohl an";
+translate "Place a Male in a Terrarium"
+to german "Setze einen männl. Käfer in ein Terrarium";
+translate "Place a Female in a Terrarium"
+to german "Setze einen weibl. Käfer in ein Terrarium";
+translate "Breed a Beetle to 0% 50% Ownership"
+to german "Züche einen Skarabäus mit Eigentum von 0 bis 50%";
+translate "Breed a Beetle to 51% 75% Ownership"
+to german "Züchte einen Skarabäus mit Eigentum von 51 bis 75%";
+translate "Breed a Beetle to 76% 89% Ownership"
+to german "Züchte einen Skarabäus mit Eigentum von 76 bis 89%";
+translate "Breed a Beetle to 90% 99% Ownership"
+to german "Züchte einen Skarabäus mit Eigentum von 90 bis 99%";
+translate "Rename a bred beetle"
+to german "Benenne einen gezüchteten Skarabäus";
+translate "Vote on a Garden"
+to german "Wähle in einem Skarabäengarten";
+translate "Mix any Reddish Paint"
+to german "Mische irgendeinen rötlichen Farbton";
+translate "Mix any Yellowish Paint"
+to german "Mische irgendeinen gelblichen Farbton";
+translate "Exhibit a Beetle in a Garden"
+to german "Stelle einen Skarabäus in einem Käfergarten aus";  
+translate "Build Khefre's Locker"
+to german "Baue ein Khefres Schließfach";
+
+translate "Allows breeding of beautiful Scarab Beetles"
+to german "Erlaubt das Züchten wunderschöner Skarabäen";
+
+translate "Beetle Terrarium"
+to german "Käferterrarium";
+
+translate "To build a Terrarium, you need:"
+to german "Um ein Terrarium zu bauen benötigst du:";
+
+translate "Sculpture Stuff"
+to german "Skulpturbezogen";
+
+translate "To build a sculpture of this beetle, you will need:"
+to german "Um eine Skulptur dieses Käfers zu bauen brauchst du:";
+
+translate "Load Cabbage into Terrarium"
+to german "Lade Kohl in das Terrarium";
+
+translate "Load how much Cabbage? "
+to german "Wieviel Kohl laden? ";
+
+translate "Load how much Cabbage? (Max N1)"
+to german "Wieviel Kohl laden? (Max N1)";
+
+translate "Type in a name:"
+to german "Gebe einen Namen ein:";
+
+translate "The beetle is gone."
+to german "Der Käfer ist weggelaufen";
+
+translate "Inventory"
+to german "Inventar";
+
+translate "Put"
+to german "Ablegen";
+
+translate "Take"
+to german "Nehmen";
+
+translate "free"
+to german "Befreien";
+
+translate "N1% Yours"
+to german "Eigentum N1%";
+
+translate "No beetles in Terrarium"
+to german "Keine Käfer im Terrarium";
+
+translate "Beetle N1 of N2"
+to german "Käfer N1 von N2";
+
+translate "Not Owned"
+to german "Kein Eigentum";
+
+translate "Breed now"
+to german "Züchte jetzt";
+
+translate "Upgrade with a Thermometer"
+to german "Erweitere mit einem Thermometer";
+
+translate "You don't have a Thermometer"
+to german "Du hast kein Thermometer";
+
+translate "Your Terrarium will now be more efficient (Beetles consume only 2/3 as much cabbage as normal.)"
+to german "Dein Terrarium wird nun effizienter sein (Käfer konsumieren nur noch 2/3 des Kohls als bisher.)";
+
+translate "This Alcove is full.  Judging will"
+to german "Diese Nische ist besetzt. Die Bewertung ";
+
+translate "begin when all the alcoves are full."
+to german "beginnt, wenn alle Nischen belegt sind.";
+
+translate "Show me the Front"
+to german "Zeige die Frontansicht";
+
+translate "This Alcove is ready for Construction"
+to german "Diese Nische ist bereit für die Ausstellung";
+
+//Josh: This doesn't work. I guess it affects all sentences with Rank-xx :
+translate "This is a Rank-N1 Garden"
+to german "Dies ist ein Rang-N1 Garten";
+
+translate "Build Statue of Beetle: O1"
+to german "Baue eine Statue des Skarabäus: O1(sn)";
+
+translate "You can only submit one beetle every N1 hours. You must wait another N2 hours."
+to german "Du kannst nur alle N1 Stunden einen Skarabäus ablegen. Du musst noch N2 Stunden warten.";
+
+translate "You may only submit beetles that you raised yourself.  The terrarium must declare the beetle '90% yours' or higher."
+to german "Du kannst nur Skarabäen ablegen, die du selbst aufgezogen hast. Das Terrarium muss den Skarabäus zu 90% oder höher Dir zuschreiben.";
+
+translate "You can only compete one beetle at a time.  By submitting O1 for judging, you are abandoning O2. Are you sure you wish to do this?"
+to german "Du kannst nur mit 1 Skarabäus gleichzeitig antreten. Wenn du dich für O1(sn) für die Beurteilung entscheidest, wirst du O2(sn) aufgeben. Bist du dir sicher, dass du das tun willst?";
+
+translate "Beetle construction abandoned."
+to german "Konstruktion der Skarabäusstatue abgebrochen.";
+
+translate "Your beetle is a Rank-N1 beetle, but this is a Rank-N2 arena."
+to german "Dein Skarabäus hat den Rang-N1, aber dies ist eine Rang-N2 Arena.";
+
+translate "To build a sculpture of Beetle: O1 you need:"
+to german "Um eine Skarabäusskulptur für den Skarabäus O1(sn) zu bauen benötigst du:";
+
+translate "Would you like to Proceed?"
+to german "Willst du fortfahren?";
+
+translate "Scarab Garden Rank N1 with N2 unfilled."
+to german "Käfergarten Rang N1 hat noch N2 offene Plätze.";
+
+translate "The Scarab Garden has filled: judging has commenced! Your beetle will be on exhibit for N1 hours."
+to german "Der Skarabäengarten ist gefüllt: Die Beurteilung hat begonnen! Dein Skarabäus wird für N1 Stunden ausgestellt.";
+
+translate "Judging is in progress."
+to german "Die Beurteilung ist im Gange.";
+
+translate "Declare this beetle the Best"
+to german "Bewerte diesen Skarabäus als den Besten";
+
+translate "Set Arena Rank"
+to german "Setze Arenarang";
+
+translate "The scarab garden is exhibiting a winner."
+to german "Der Skarabäusgarten ermittelt den Gewinner.";
+
+translate "Exhibition will last N1 more hours."
+to german "Die Ausstellung dauert noch N1 Stunden an.";
+
+//translate "The exhibition is over, the statues must now be removed."
+//to german "Die Ausstellung ist vorüber, die Statuen müssen nun entfernt werden.";
+
+translate "The exhibition is over, the"
+to german "Die Ausstellung ist vorbei, die ";
+
+translate "statues must now be removed."
+to german "Statuen müssen entfernt werden.";
+
+translate "Salvage this Statue"
+to german "Berge diese Statue";
+
+translate "For the first K1 after the exhibition, you can only salvage your own statue.  After that time, you can salvage anyone's. Wait another K2."
+to german "In den ersten K1 nach einer Ausstellung kannst du nur deine eigene Statue bergen. Nach dieser Zeit kannst du auch fremde Statuen bergen. Warte noch K2.";
+
+translate "You must wait until all the alcoves are clear"
+to german "Du musst warten, bis alle Nischen geräumt sind";
+
+translate "before starting a new round of construction."
+to german "bevor eine neue Ausstellung gestartet werden kann.";
+
+translate "The scarab garden is filling."
+to german "Der Skarabäengarten füllt sich.";
+
+translate "There are N1 slots left."
+to german "Es sind N1 Plätze frei.";
+
+translate "Click on an alcove to build a scarab statue."
+to german "Klicke auf eine Nische um eine Skarabäusstatue zu bauen.";
+
+translate "The scarab garden is being judged. Click on a beetle to register a vote. So far, N1 judges have voted. Judging will last another K1"
+to german "Die Skarabäen werden bewertet. Klicke auf einen Skarabäus um deine Stimme abzugeben. N1 Richter haben ihre Stimme abgegeben. Die Bewertung wird in K1 enden";
+
+translate "Judging cannot end until there are N1 votes"
+to german "Die Bewertung wird nicht enden, bevor es N1 Stimmen gibt.";
+
+translate "The scarab garden is open for scavenging. Click on a statue to scavenge it."
+to german "Der Skarabäengarten ist zum Plündern freigegeben. Klicke auf eine Statue um sie zu ergattern.";
+
+translate "You cannot vote: you are an exhibitor."
+to german "Du kannst nicht wählen: Du bist ein Aussteller.";
+
+translate "Your vote is the last one: the judging is over!"
+to german "Deine Stimme ist die Letzte: Die Wahl ist vorüber!";
+
+translate "The voting is scheduled to last another K1."
+to german "Die Wahl ist für weitere K1 möglich.";
+
+translate "The Scarab Garden needs about N1 more judges."
+to german "Der Skarabäengarten benötigt noch N1 mehr Richter.";
+
+translate "Your vote has been recorded."
+to german "Deine Stimme wurde gezählt.";
+
+translate "A total of N1 judges have voted so far."
+to german "Eine Anzahl von N1 Richtern haben bisher gestimmt.";
+
+translate "Force Judging to End"
+to german "Beende die Wahl";
+
+translate "Are you sure you want to bypass the rules and end the judging early?"
+to german "Bist du sicher, dass du die Regeln missachten möchtest und die Wahl frühzeitig beenden möchtest?";
+
+translate "Scoring"
+to german "Ergebnis";
+
+translate "Bits for Beetle O1:"
+to german "Punkte für Skarabäus O1(sn):";
+
+translate "Audit Winners"
+to german "Prüfe Gewinner";
+
+translate "Show me the Front"
+to german "Zeige Frontansicht";
+
+translate "Your beetle K1 was not among the best. It has been demoted back to rank 1."
+to german "Dein Skarabäus K1 war nicht unter den Besten. Er wurde auf Rang 1 zurückgestuft.";
+
+translate "Your beetle K1 was rated among the best!  It is now rank N1"
+to german "Dein Skarabäus K1 ist unter den Besten. Er hat jetzt den Rang N1.";
+
+translate "Your beetle K1 was rated among the best!  It is now rank N1"
+to german "Dein Skarabäus K1 ist unter den Besten. Er hat jetzt den Rang N1.";
+
+translate "Are you sure you want to tear out the garden?"
+to german "Bist du dir sicher, dass du den Garten abreißen willst?";
+
+translate "Reinit Beetle Graphics"
+to german "Erneut Käfergrafiken initiieren";
+
+translate "You must have a paid account to vote for beetles."
+to german "Du musst einen Zahlaccount haben um Käfer bewerten zu können";
+
+translate "Fix alcove"
+to german "Repariere Nische";
+
+translate "A beetle cert was created: "
+to german "Ein Skarabäuszertifikat wurde erstellt: ";
+
+translate "Reset judges bitvector"
+to german "Stelle Wertungen zurück";
+
+translate "Please wait..."
+to german "Bitte warten...";
+
+translate "Burrowing (M)"
+to german "Verbergend (M)";
+translate "Burrowing (F)"
+to german "Verbergend (W)";
+translate "Speckled (M)"
+to german "Gesprenkelt (M)";
+translate "Speckled (F)"
+to german "Gesprenkelt (W)";
+translate "Plains (M)"
+to german "Ebene (M)";
+translate "Plains (F)"
+to german "Ebene (W)";
+
+translate "N1 (F)"
+to german "N1 (W)";
+
+translate "(F)"
+to german "(W)";
+
+
+translate "The scarab garden is being judged."
+to german "Der Bewertung der Skarabäen läuft.";
+
+translate "Click on a beetle to register a vote."
+to german "Klicke auf einen Skarabäus um deine Stimme abzugeben.";
+
+translate "Judging will last at least N1 more hours"
+to german "Die Bewertung dauert mindestens noch N1 weitere Stunden an.";
+
+translate "The scarab garden is open for scavenging."
+to german "Der Käfergarten ist zum Plündern freigegeben.";
+
+translate "Click on a statue to scavenge it."
+to german "Klicke auf eine Statue um sie zu plündern.";
+
+translate "The Scarab Garden is exhibiting the winner."
+to german "Der Skarabäengarten wertet den Sieger aus.";
+
+translate "Exhibition will last N1 more hours."
+to german "Die Auswertung dauert weitere N1 Stunden an.";
+
+translate "Khefre's Children"
+to german "Kinder Khefres";
+
+translate "Artist: U1"
+to german "Züchter: U1(name)";
+
+translate "Build Khefre's Locker"
+to german "Baue Khefres Schließfach";
+
+translate "Only paid accounts may own Khefre's Lockers."
+to german "Nur Zahlaccounts dürfen Khefres Schließfächer bauen.";
+
+translate "You can only have N1 Khefre's Locker."
+to german "Du darfst nur N1 Khefres Schließfach haben.";
+
+translate "To build Khefre Locker you need:"
+to german "Um ein Khefres Schließfach zu bauen benötigst du:";
+
+translate "Claim my right as the Builder of this Khefre's Locker"
+to german "Fordere meinen Recht an diesem Khefres Schließfach";
+
+translate "To claim your right, you must build your own locker."
+to german "Du kannst nur auf von dir selbst erbaute Schließfächer Rechte einfordern.";

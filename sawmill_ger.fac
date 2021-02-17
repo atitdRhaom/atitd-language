@@ -1,0 +1,109 @@
+module SawMill_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment		           **
+//**                                                                       **
+//***************************************************************************
+
+translate Sawmill to german neuter
+{
+  swa "Sägewerk";
+  sn "Sägewerk"; sg "Sägewerks"; sd "Sägewerk"; sa "Sägewerk";
+  pn "Sägewerke"; pg "Sägewerke"; pd "Sägewerken"; pa "Sägewerke";
+}
+
+translate AncientAutomation to german feminine
+{
+  swa "antike Automatisierung";
+  sn "antike Automatisierung"; sg "antiken Automatisierung"; sd "antiken Automatisierung"; sa "antike Automatisierung";
+  pn "antiken Automatisierungen"; pg "antiken Automatisierungen"; pd "antiken Automatisierungen"; pa "antiken Automatisierungen";
+}
+translate CherryTravertine to german masculine
+{
+  swa "Kirschtravertin";
+  sn "Kirschtravertin"; sg "Kirschtravertins"; sd "Kirschtravertin"; sa "Kirschtravertin";
+  pn "Kirschtravertine"; pg "Kirschtravertine"; pd "Kirschtravertinen"; pa "Kirschtravertine";
+}
+
+translate "Pinch Rollers"
+to german "Andruckrollen";
+translate "Steel Wire"
+to german "Stahldrähte";
+translate "Steel Blades"
+to german "Stahlklingen";
+translate "Symmetry Cut Amethyst"
+to german "Edelsteine: Amethyst Symmetrie";
+translate "Symmetry Cut Garnet"
+to german "Edelteine: Granat Symmetrie";
+translate "Cut Stone"
+to german "Geschnittene Steine";
+translate "White Raeli Tiles"
+to german "Raelikacheln: Weiß";
+translate "Black Raeli Tiles"
+to german "Raelikacheln: Schwarz";
+translate "Mountain Marble"
+to german "Marmor: Bergmarmor";
+
+translate "Steel Wire for Guide Mechanism"
+to german "Stahldraht für die Leitvorrichtung";
+translate "Symmetry Cut Amethyst for Universal Joint"
+to german "Amethyst Symmetrie für das Kardangelenk";
+translate "Symmetry Cut Garnet for Universal Joint"
+to german "Granat Symmetrie für das Kardangelenk";
+translate "Cut Stone for Base"
+to german "Geschnittene Steine für das Fundament";
+translate "White Raeli Tiles - Heat Shield Reflector"
+to german "Weiße Raelikacheln - Hitzeschild Eeflektor";
+translate "Black Raeli Tiles - Heat Shield Absorber Surface"
+to german "Schwarze Raelikacheln - Hitzeschild Kühlsystemoberfläche";
+translate "Mountain Marble - Heat Shield Absorber"
+to german "Bergmarmor - Hitzeschild Kühlsystem";
+translate "Small Gears"
+to german "Kleine Zahnräder";
+translate "Medium Gears"
+to german "Mittlere Zahnräder";
+translate "Large Gears"
+to german "Große Zahnräder";
+
+
+translate "Allows construction of powerful yet precise sawmills, which automate board production."
+to german "Erlaubt den Bau von leistungsstarken, aber dennoch genauen Sägewerken, welches die Herstellung von Brettern automatisiert"; 
+
+translate "You learn to build automatic sawmills."
+to german "Du lernst Automatische Sägewerke zu bauen.";
+
+translate "Automatic Sawmill"
+to german "Automatisches Sägewerk";
+
+translate "To construct an Automatic Sawmill you need:"
+to german "Um ein Automatisches Sägewerk zu bauen benötigst Du:";
+
+translate "Speed-Teach Ancient Automation"
+to german "Schnellkursus in Antike Automatisierung";
+
+translate "You learn the secret to Ancient Automation!"
+to german "Du lernst das Geheimnis der Antiken Automatisierung!";
+
+translate "You teach Ancient Automation to U1"
+to german "Du lehrst U1(name) Antike Automatisierung";
+
+translate "Start processing boards"
+to german "Beginne Bretter herzustellen";
+
+translate "When you start a sawmill processing, you must install a new set of primary blades."
+to german "Wenn Du beginnen möchtest, Bretter herzustellen, mußt Du einen Satz erstklassiger Klingen installieren.";
+
+translate "You must first load the hopper with wood."
+to german "Du mußt zuerst den Einfüllstutzen mit Holz füllen.";
+
+translate "Stop the sawmill"
+to german "Stoppe das Sägewerk";
+
+translate "Load the Sawmill with Wood"
+to german "Belade das Sägewerk mit Holz";
+
+translate "Load how much Wood? (Max N1)"
+to german "Wieviel Holz laden? (Max. N1)";

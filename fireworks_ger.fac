@@ -1,0 +1,290 @@
+module fireworks_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002,2003,2004,2005 by MDO Entertainment       	           **
+//**                                                                       **
+//***************************************************************************
+//menues
+
+translate PaperPapyrus to german neuter
+{
+  swa "Papyruspapier";
+  sn "Papyruspapier"; sg "Papyruspapiers"; sd "Papyruspapier"; sa "Papyruspapier";
+  pn "Papyruspapiere"; pg "Papyruspapiere"; pd "Papyruspapieren"; pa "Papyruspapiere";
+}
+translate AluminumPowder to german neuter
+{
+  swa "Aluminiumpulver";
+  sn "Aluminiumpulver"; sg "Aluminiumpulvers"; sd "Aluminiumpulver"; sa "Aluminiumpulver";
+  pn "Aluminiumpulver"; pg "Aluminiumpulver"; pd "Aluminiumpulvern"; pa "Aluminiumpulver";
+}
+translate SmallMortar to german masculine
+{
+  swa "Kleiner Mörser";
+  sn "Kleine Mörser"; sg "Kleinen Mörsers"; sd "Kleinen Mörser"; sa "Kleine Mörser";
+  pn "Kleinen Mörser"; pg "Kleinen Mörser"; pd "Kleinen Mörsern"; pa "Kleinen Mörser";
+}
+translate Mortar to german masculine
+{
+  swa "Mörser";
+  sn "Mörser"; sg "Mörsers"; sd "Mörser"; sa "Mörser";
+  pn "Mörser"; pg "Mörser"; pd "Mörsern"; pa "Mörser";
+}
+translate Gunpowder to german neuter
+{
+  swa "Schießpulver";
+  sn "Schießpulver"; sg "Schießpulvers"; sd "Schießpulver"; sa "Schießpulver";
+  pn "Schießpulver"; pg "Schießpulver"; pd "Schießpulvern"; pa "Schießpulver";
+}
+translate star to german masculine
+{
+  swa "Stern";
+  sn "Stern"; sg "Sterns"; sd "Stern"; sa "Stern";
+  pn "Sterne"; pg "Sterne"; pd "Sternen"; pa "Sterne";
+}
+translate RedGlower to german masculine
+{
+  swa "Rotglüher";
+  sn "Rotglüher"; sg "Rotglühers"; sd "Rotglüher"; sa "Rotglüher";
+  pn "Rotglüher"; pg "Rotglüher"; pd "Rotglühern"; pa "Rotglüher";
+}
+translate OrangeGlower to german masculine
+{
+  swa "Orangeglüher";
+  sn "Orangeglüher"; sg "Orangeglühers"; sd "Orangeglüher"; sa "Orangeglüher";
+  pn "Orangeglüher"; pg "Orangeglüher"; pd "Orangeglühern"; pa "Orangeglüher";
+}
+translate YellowGlower to german masculine
+{
+  swa "Gelbglüher";
+  sn "Gelbglüher"; sg "Gelbglühers"; sd "Gelbglüher"; sa "Gelbglüher";
+  pn "Gelbglüher"; pg "Gelbglüher"; pd "Gelbglühern"; pa "Gelbglüher";
+}
+translate GreenGlower to german masculine
+{
+  swa "Grünglüher";
+  sn "Grünglüher"; sg "Grünglühers"; sd "Grünglüher"; sa "Grünglüher";
+  pn "Grünglüher"; pg "Grünglüher"; pd "Grünglühern"; pa "Grünglüher";
+}
+translate BlueGlower to german masculine
+{
+  swa "Blauglüher";
+  sn "Blauglüher"; sg "Blauglühers"; sd "Blauglüher"; sa "Blauglüher";
+  pn "Blauglüher"; pg "Blauglüher"; pd "Blauglühern"; pa "Blauglüher";
+}
+translate VioletGlower to german masculine
+{
+  swa "Lilaglüher";
+  sn "Lilaglüher"; sg "Lilaglühers"; sd "Lilaglüher"; sa "Lilaglüher";
+  pn "Lilaglüher"; pg "Lilaglüher"; pd "Lilaglühern"; pa "Lilaglüher";
+}
+translate WhiteGlower to german masculine
+{
+  swa "Weißglüher";
+  sn "Weißglüher"; sg "Weißglühers"; sd "Weißglüher"; sa "Weißglüher";
+  pn "Weißglüher"; pg "Weißglüher"; pd "Weißglühern"; pa "Weißglüher";
+}
+translate NightGlower to german masculine
+{
+  swa "Nachtglüher";
+  sn "Nachtglüher"; sg "Nachtglühers"; sd "Nachtglüher"; sa "Nachtglüher";
+  pn "Nachtglüher"; pg "Nachtglüher"; pd "Nachtglühern"; pa "Nachtglüher";
+}
+translate CyanGlower to german masculine
+{
+  swa "Aquamaringlüher";
+  sn "Aquamaringlüher"; sg "Aquamaringlühers"; sd "Aquamaringlüher"; sa "Aquamaringlüher";
+  pn "Aquamaringlüher"; pg "Aquamaringlüher"; pd "Aquamaringlühern"; pa "Aquamaringlüher";
+}
+translate MagentaGlower to german masculine
+{
+  swa "Magentaglüher";
+  sn "Magentaglüher"; sg "Magentaglühers"; sd "Magentaglüher"; sa "Magentaglüher";
+  pn "Magentaglüher"; pg "Magentaglüher"; pd "Magentaglühern"; pa "Magentaglüher";
+}
+translate StrangeGlower to german masculine
+{
+  swa "Skurriler Glüher";
+  sn "Skurrile Glüher"; sg "Skurrilen Glühers"; sd "Skurrilner Glüher"; sa "Skurrile Glüher";
+  pn "Skurrilen Glüher"; pg "Skurrilen Glüher"; pd "Skurrilen Glühern"; pa "Skurrilen Glüher";
+}
+
+translate "None"
+to german "Keine";
+translate "Stage-1" 
+to german "Bühne 1";
+translate "Stage-2" 
+to german "Bühne 2";
+translate "Stage-3"
+to german "Bühne 3";
+translate "Stage-4" 
+to german "Bühne 4";
+translate "Stage-5"
+to german "Bühne 5";
+translate "Stage-6" 
+to german "Bühne 6";
+translate "Stage-7"
+to german "Bühne 7";
+translate "Stage-8" 
+to german "Bühne 8";
+translate "Stage-9" 
+to german "Bühne 9";
+translate "Stage-10"
+to german "Bühne 10";
+translate "Stage-11" 
+to german "Bühne 11";
+translate "Stage-12" 
+to german "Bühne 12";
+translate "Stage-13"
+to german "Bühne 13";
+translate "Stage-14" 
+to german "Bühne 14";
+translate "Stage-15"
+to german "Bühne 15";
+translate "Stage-16" 
+to german "Bühne 16";
+translate "Stage-17"
+to german "Bühne 17";
+translate "Stage-18" 
+to german "Bühne 18";
+translate "Stage-19" 
+to german "Bühne 19";
+translate "Stage-20"
+to german "Bühne 20";
+                          
+translate "Forward"
+to german "Vorwärts";
+translate "Right"
+to german "Rechts";
+translate "Left"
+to german "Links";
+translate "Upward"
+to german "Rauf";
+translate "Downward"
+to german "Runter";
+translate "Funnel"
+to german "Schacht";
+translate "Omni"
+to german "Gedreht";
+translate "Ring"
+to german "Ring";
+translate "Random"
+to german "Zufall";
+translate "Boom"
+to german "Bumm";
+translate "Bang"
+to german "Knall";
+translate "Thud"
+to german "Bumms";
+
+translate "NonGlowing"
+to german "Nichtglühend";
+
+translate "Pyrotechnics"
+to german "Pyrotechnik";
+
+translate "Build a Small Mortar"
+to german "Baue einen kleinen Mörser";
+
+translate "To build a Small Mortar, you need: "
+to german "Um einen kleinen Mörser zu bauen benötigst Du: ";
+
+translate "Duration in Seconds:"
+to german "Dauer in Sekunden:";
+
+translate "Launch Speed:"
+to german "Geschwindigkeit:";
+
+translate "Rotation in Degrees:"
+to german "Rotation in Grad:";
+
+translate "Thrust Force:"
+to german "Beschleunigung:";
+
+translate "Rotation Axis:"
+to german "Rotationsachse:";
+
+translate "Star Type:"
+to german "Glühersorte:";
+
+translate "Final Sound:"
+to german "Schluss-Sound:";
+
+translate "Launch From:"
+to german "Abschuss von:";
+
+translate "Launch Direction:"
+to german "Abschuss-Richtung:";
+
+translate "Number of Rockets:"
+to german "Anzahl der Raketen:";
+
+translate "Launch Repetitions:"
+to german "Abschuss-Wiederholungen:";
+
+translate "Launch Offset in Seconds:"
+to german "Verzögerung in Sekunden:";
+
+translate "View Arming Requirements"
+to german "Ansicht Ladevoraussetzungen"; 
+
+translate "To arm this mortar you need:"
+to german "Um diesen Möser zu laden benötigst du:";
+
+translate "Presents"
+to german "Geschenke";
+
+translate "Green Break"
+to german "Grüner Brecher";
+
+translate "Blue Ring"
+to german "Blauer Ring";
+
+translate "Camel's Collar"
+to german "Kamelhals";
+
+translate "Triple Sun"
+to german "Dreier-Sonne";
+
+translate "Yellow Hoop"
+to german "Gelber Reifen";
+
+translate "Tear down this mortar"
+to german "Reiße den Mörser ab";
+
+translate "Do you really want to tear down your O1?"
+to german "Willst du wirklich O1(dsg) O1(sg) abreißen?";
+
+translate "Edit Design"
+to german "Design verändern";
+
+translate "Arm"
+to german "Beladen";
+
+translate "Disarm"
+to german "Entladen";
+
+translate "Fire"
+to german "Abfeuern";
+
+translate "To arm this mortar, you need: "
+to german "Um den Mörser zu laden benötigst du: ";
+
+translate "Your O1 mortar has been disarmed."
+to german "O1(dsg) O1(sg) wurde entladen.";
+
+translate "This magic Mortar is only level N1"
+to german "Dieser magische Mörser ist nur Level N1";
+
+translate "It's not your turn to fire yet."
+to german "Du bist mit Feuern nicht am Zug.";
+
+translate "It's not your turn to fire yet."
+to german "Du bist jetzt nicht dran.";
+
+translate "You can't fire near a Pyrotechnics Stadium Headquarters when you are not a contestant."
+to german "Du kannst kein Feuerwerk nahe eines Pyrotechnik-Standes abfeuern, wenn du kein Teilnehmer bist.";
+

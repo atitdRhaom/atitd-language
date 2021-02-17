@@ -1,0 +1,237 @@
+module metal2_fre;
+
+
+translate Quicksilver to french neutercollective
+{
+  ns "Vif-argent"; np "Vif-argent"; 
+}
+translate RasFurnace to french masculine
+{
+  ns "Fourneau de Ra"; np "Fourneaux de Ra"; 
+}
+translate DirtySmeltingPot to french masculine
+{
+  ns "Récipent de fusion sale"; np "Récipients de fusion sales";
+}
+translate CraftFurnace to french masculine
+{
+  ns "Four de métier"; np "Fours de métier"; 
+}
+translate AmalgamationFurnace to french masculine
+{
+  ns "Fourneau à amalgame"; np "Fourneaux à amalgame"; 
+}
+translate PreciousFurnace to french masculine
+{
+  ns "Four précieux"; np "Fours précieux"; 
+}
+translate PersephoneFurnace to french masculine
+{ ns "Four de Perséphone"; np "Fours de Perséphone";}
+
+translate BlastFurnace to french masculine
+{
+  ns "Haut-fourneau"; np "Haut-fourneaux"; 
+}
+translate OreInferno to french neutercollective
+{
+  ns "Fonderie"; np "Fonderies"; 
+}
+translate FragileFurnace to french masculine
+{
+  ns "Four fragile"; np "Fours fragiles"; 
+}
+translate FineFurnace to french masculine
+{
+  ns "Four robuste"; np "Fours robustes"; 
+}
+translate IntermixChamber to french feminine
+{
+  ns "Chambre de mélange"; np "Chambres de mélange"; 
+}
+translate DrossFurnace to french masculine
+{
+  ns "Fourneau à scories"; np "Fourneaux à scories";
+}
+
+translate HadesFurnace to french masculine
+{ns "four Hadès"; np "fours Hadès";}
+
+translate FleetFurnace to french masculine
+{
+  ns "Four rapide"; np "Fours rapides"; 
+}
+translate SmeltingPot to french masculine
+{
+  ns "Récipient de fusion"; np "Récipients de fusion"; 
+}
+translate SmeltingBlock to french masculine
+{
+  ns "Bloc de fusion"; np "Blocs de fusion"; 
+}
+translate OreMangle to french feminine
+{
+  ns "Presse à minerai"; np "Presses à minerai"; 
+}
+translate PigbackKiln to french masculine
+{
+  ns "Fourneau cornemuse"; np "Fourneaux cornemuse"; 
+}
+translate VitiationKiln to french masculine
+{
+  ns "Fourneau à vicier"; np "Fourneaux à vicier"; 
+}
+translate OscillationKiln to french masculine
+{
+  ns "Fourneau oscillant"; np "Fourneaux oscillants"; 
+}
+translate BulletFurnace to french masculine
+{
+  ns "Petit fourneau"; np "Petits fourneaux"; 
+}
+translate CompressionFurnace to french masculine
+{
+  ns "Fourneau à compression"; np "Fourneaux à compression"; 
+}
+
+translate BlastFurnace to french masculine
+{
+  ns "Fourneau à explosion"; np "Fourneaux à explosion"; 
+}
+
+translate GyrationCell to french feminine
+{
+  ns "Centrifugeuse"; np "Centrifugeuse"; 
+}
+translate charcoal to french masculine
+{
+  ns "charbon de bois"; np "charbons de bois"; 
+}
+
+translate "Furnaces"
+to french "Fourneaux";
+
+translate "Fleet Furnace"
+to french "Four rapide";
+
+translate "To build a Fleet Furnace, you need: "
+to french "Pour construire un four rapide, il vous faut : ";
+
+translate "Bullet Furnace"
+to french "Fourneau rond";
+
+translate "To build a Bullet Furnace, you need: "
+to french "Pour construire une fourneau rond, il vous faut :";
+
+translate "Compression Furnace"
+to french "Fourneau à compression";
+
+translate "To build a Compression Furnace, you need: "
+to french "Pour construire un fourneau à compression, il vous faut :";
+
+translate "Blast Furnace"
+to french "Fourneau à explosion";
+
+translate "To build a Blast Furnace, you need: "
+to french "Pour construire un fourneau à explosion, il vous faut :";
+
+translate "Smelting will complete in K1"
+to french "Fusion terminée dans K1";
+
+translate "Make a vial of Quicksilver (Takes 24 hours)"
+to french "Faire un flacon de vif-argent (Nécessite 24 heures)";
+
+translate "To make a vial of Quicksilver you need:"
+to french "Pour faire un flacon de vif-argent, il vous faut :";
+
+translate "Fire the O1!"
+to french "Allumer O1(cns) O1(ns)!";
+
+translate "Fire the O1"
+to french "Allumer O1(cns) O1(ns)";
+
+translate "There is no Ore in the O1."
+to french "Il n'y a pas de minerai dans O1(cns) O1(ns).";
+
+translate "Remove all metal before firing the O1."
+to french "Retirer tout le métal produit, avant d'allumer O1(cns) O1(ns).";
+
+translate "N1 O1 per second"
+to french "N1 O1(N1?np:ns) à la seconde";
+
+translate "N1 O1 per minute"
+to french "N1 O1(N1?np:ns) à la minute";
+
+translate "N1 O1 per hour"
+to french "N1 O1(N1?np:ns) à l'heure";
+
+translate "O1 per day"
+to french "O1(np) par jour";
+
+translate "To start a O1 requires N1 O2, plus N2 O3 per hour."
+to french "Pour lancer O1(uns) O1(ns), il vous faut N1 O2(N1?np:ns), plus N2 O3(np) par heure.";
+
+translate "Load the O1 with O2"
+to french "Alimenter O1(cns) O1(ns) avec du O2(ns)";
+
+translate "Load how much O1? (Max 5)"
+to french "Quelle quantité de O1(np) ? (Max 5)";
+
+translate "Load how much O1? (Max N1)"
+to french "Quelle quantité de O1(np) ? (Max N1)";
+
+translate "Smelting Pot"
+to french "Récipient de fusion";
+
+translate "To build a Smelting Pot, you need: "
+to french "Pour construire un récipient de fusion, il vous faut :";
+
+translate "Smelting Block"
+to french "Bloc de fusion";
+
+translate "To build a Smelting Block, you need: "
+to french "Pour construire un block de fusion, il vous faut :";
+
+translate "Vitiation Kiln"
+to french "Fourneau à vicier";
+
+translate "To build a Vitiation Kiln, you need: "
+to french "Pour construire un fourneau à vicier, il vous faut : ";
+
+translate "Pigback Kiln"
+to french "Fourneau cornemuse";
+
+translate "To build a Pigback Kiln, you need: "
+to french "Pour construire un fourneau cornemusee, il vous faut :";
+
+translate "Oscillation Kiln"
+to french "Fourneau oscillant";
+
+translate "To build a Oscillation Kiln, you need: "
+to french "Pour construire un fourneau oscillant, il vous faut :";
+
+translate "    Max Runtime: N1"
+to french "    Temps de fonctionnement max : N1";
+translate "    Max Runtime: K1"
+to french "    Temps de fonctionnement max : K1";
+translate "    FireTime: N1"
+to french "    Temps de combustion : N1";
+translate "    FireTime: K1"
+to french "    Temps de combustion : K1";
+translate "    Max Fuel Used: N1"
+to french "    Carburant consommé max : N1";
+translate "Reaction Chamber: N1 O1"
+to french "Compartiment de réaction : N1 O1(N1?np:ns)";
+translate "Fuel Remaining: N1"
+to french "Carburant restant : N1";
+
+translate "Open the Chamber"
+to french "Ouvrir la chambre";
+    
+translate "Ore Conversion not present. Call a developer."
+to french "Il n'y a pas de conversion de minerai. Appelle un développeur.";
+
+translate "Gyration Furnace"
+to french "Centrifugeuse";
+
+translate "To build a Gyration Cell, you need: "
+to french "Pour construire une centrifugeuse, il vous faut : ";

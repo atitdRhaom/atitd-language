@@ -1,0 +1,21 @@
+Module Fences_spa;
+
+translate FenceBuilding to spanish feminine
+{
+  ns "Cerca"; np "Cercas";
+}
+
+translate Fence to spanish feminine
+{
+  ns "Cerca"; np "Cercas";
+}
+
+translate "Build a Fence"
+to spanish "Construye una cerca";
+
+translate "This area is too crowded with fences"
+to spanish "Esta zona está demasiado llena de cercas";
+
+translate "To build a Fence, you need:"
+to spanish "Para construir una cerca, necesitas :";
+

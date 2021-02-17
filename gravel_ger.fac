@@ -1,0 +1,140 @@
+module gravel_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Games **
+//**    (C)opyright 2002,2003 by MDO Games			           **
+//**                                                                       **
+//***************************************************************************
+
+
+translate CrackedStone to german masculine
+{
+  swa "gesprungener Stein";
+  sn "gesprungene Stein"; sg "gesprungenen Steines"; sd "gesprungenen Stein"; sa "gesprungene Stein";
+  pn "gesprungenen Steine"; pg "gesprungenen Steine"; pd "gesprungenen Steinen"; pa "gesprungenen Steine";
+}
+translate BrokenStone to german masculine
+{
+  swa "gebrochener Stein";
+  sn "gebrochene Stein"; sg "gebrochenen Steines"; sd "gebrochenen Stein"; sa "gebrochene Stein";
+  pn "gebrochenen Steine"; pg "gebrochenen Steine"; pd "gebrochenen Steinen"; pa "gebrochenen Steine";
+}
+translate SplitStone to german masculine
+{
+  swa "gespaltener Stein";
+  sn "gespaltene Stein"; sg "gespaltenen Steines"; sd "gespaltenen Stein"; sa "gespaltene Stein";
+  pn "gespaltenen Steine"; pg "gespaltenen Steine"; pd "gespaltenen Steinen"; pa "gespaltenen Steine";
+}
+translate SmashedStone to german masculine
+{
+  swa "zertrümmerter Stein";
+  sn "zertrümmerte Stein"; sg "zertrümmerten Steines"; sd "zertrümmerten Stein"; sa "zertrümmerte Stein";
+  pn "zertrümmerten Steine"; pg "zertrümmerten Steine"; pd "zertrümmerten Steinen"; pa "zertrümmerten Steine";
+}
+translate Gravel to german masculinecollective
+{
+  swa "Kies";
+  sn "Kies"; sg "Kieses"; sd "Kies"; sa "Kies";
+  pn "Kies"; pg "Kies"; pd "Kies"; pa "Kies";
+}
+translate Sledgehammer to german masculine
+{
+  swa "Vorschlaghammer";
+  sn "Vorschlaghammer"; sg "Vorschlaghammers"; sd "Vorschlaghammer"; sa "Vorschlaghammer";
+  pn "Vorschlaghämmer"; pg "Vorschlaghämmer"; pd "Vorschlaghämmern"; pa "Vorschlaghämmer";
+}
+translate StoneBeingSmashed to german masculine
+{
+  swa "Stein";
+  sn "Stein"; sg "Steins"; sd "Stein"; sa "Stein";
+  pn "Steine"; pg "Steine"; pd "Steinen"; pa "Steine";
+}
+translate Detonation to german femininecollective
+{
+  swa "Sprengung";
+  sn "Sprengung"; sg "Sprengung"; sd "Sprengung"; sa "Sprengung";
+  pn "Sprengungen"; pg "Sprengungen"; pd "Sprengungen"; pa "Sprengungen";
+}
+translate DetonationBox to german femininecollective
+{
+  swa "Detonationskiste";
+  sn "Detonationskiste"; sg "Detonationskiste"; sd "Detonationskiste"; sa "Detonationskiste";
+  pn "Detonationskisten"; pg "Detonationskisten"; pd "Detonationskisten"; pa "Detonationskisten";
+}
+
+translate "Smash this O1"
+to german "Zertrümmere O1(tsa) O1(sa)";
+
+translate "Scoop up the Gravel"
+to german "Sammle den Kies ein";
+
+translate "Tint"
+to german "Färben";
+
+translate "Tint this stone Red"
+to german "Färbe diesen Stein rot";
+
+translate "Tint this stone Green"
+to german "Färbe diesen Stein grün";
+
+translate "Tint this stone Blue"
+to german "Färbe diesen Stein blau";
+
+translate "Use of explosives in a detonation chamber to quickly make gravel."
+to german "Mache schneller Kies in einem Sprengraum mit explosiven Hilfsmitteln.";
+
+translate "Cut Stones (Heavy Base)"
+to german "Geschnitt. Steine (Bodenplatte)";
+translate "Iron Bars (Reinforcement)"
+to german "Eisenbarren (Verstärkung)";
+translate "Tincture, Low Explosive Property"
+to german "Tinktur: leichte Explosionskraft";
+translate "Tincture, High Explosive Property"
+to german "Tinktur: starke Explosionskraft";
+
+translate "Detonation Box"
+to german "Detonationskiste";
+
+translate "To build a Detonation Box you need:"
+to german "Um eine Detonationskiste zu bauen benötigst du:";
+
+translate "Load Materials"
+to german "Lade Materialien";
+
+translate "Medium Stones"
+to german "Mittlere Steine";
+
+translate "Load chamber with how many Medium Stones? (Max 100)"
+to german "Mit wieviel mittl. Steinen die Kiste beladen? (Max 100)";
+
+translate "Tincture"
+to german "Farbe";
+
+translate "Load how many O1"
+to german "Wieviel O1(pn) laden";
+
+translate "You don't have that many O1"
+to german "Du hast nicht so viele O1(pn)";
+
+translate "Detonate Medium Stones with Low Explosive"
+to german "Zertrümmere mittl. Steine mit leichtem Sprengstoff";
+
+translate "The Detonation Box must be clear of Gravel."
+to german "Die Detonationskiste muss von Kies gereinigt sein.";
+
+translate "You must pack the detonation box with 100 Medium Stones"
+to german "Du mußt die Detonationskiste mit 100 mittl. Steinen füllen";
+
+translate "Not enough low explosive to detonate."
+to german "Nicht genug leichter Sprengstoff für eine Detonation.";
+
+translate "Detonate Medium Stones with High Explosive"
+to german "Zertrümmere mittl. Steine mit starkem Sprengstoff";
+
+translate "Not enough high explosive to detonate."
+to german "Nicht genug starker Sprengstoff für eine Detonation.";
+
+translate "The explosion sends piles of gravel far and wide!"
+to german "Die Explosion schleudert die Kieshaufen weit und großflächig!";

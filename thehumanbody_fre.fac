@@ -1,0 +1,86 @@
+Module thehumanbody_fre;
+
+translate "Eat Seven assigned mushroom, fresh from the earth"
+to french "Manger les sept champignons qui vous sont attribués, directement au sol";
+translate "Start the Test of The Bedouin"
+to french "Commencer l'Épreuve du Bédouin";
+
+translate "Anoint the altar with Cactus Sap"
+to french "Oindre l'autel de sève de cactus";
+
+translate "Speed of the Bedouin"
+to french "Vitesse du Bédouin";
+
+translate "Start the Test of Darkest Night"
+to french "Commencer l'épreuve de la Nuit Noire";
+
+translate "Check progress on the Test of Darkest Night"
+to french "Consulter ma progression dans l'Épreuve de la Nuit Noire";
+
+translate "Ingested N1"
+to french "Ingestion de N1";
+
+translate "The Test of the Bedouin is a special award given to those that prove themselves the best explorers of our land. When you visit an altar, anoint it with a drop of Cactus Sap. The longer that that altar remains unanointed by others, the better. Every 24 hours, the best explorer will receive an advancement in the Test of the Bedouin."
+to french "L'épreuve du Bédouin est une récompense spéciale donnée à ceux qui peouvent leurs talents d'explorateur de nos terres. Lorsque vous visitez un autel, déposez une goutte de sève de cactus dessus. Plus l'autel demeure longtemps sans que quelqu'un d'autre ne déponse une goutte de sève de cactus, mieux c'est. Toutes les 24 heures, le meilleur explorateur progresse dans l'épreuve du Bédouin.";
+
+translate "You need a single drop of Cactus Sap to anoint this altar."
+to french "Vous avez besoin d'une seule goutte de sève de cactus pour oindre cet autel.";
+
+translate "You have already anointed this altar."
+to french "Vous avez déjà oint cet autel.";
+
+translate "U1 has Bedouin score of N1"
+to french "U1(name) a un score de N1 dans l'épreuve du Bédouin.";
+
+translate "Notifying winners..."
+to french "Notification des vainqueurs...";
+
+translate "Bedouin Score for U1 is N1"
+to french "Le score de U1(name) dans l'épreuve du Bédouin est N1";
+
+translate "You have placed in the top N1 Bedouin. You have done this N2 time(s)."
+to french "Vous êtes placé dans le top N1 de l'épreuve du Bédouin. Vous avez réussi cela N2 fois.";
+
+translate "Bedouin Points: N1 with N2 altars still giving points."
+to french "Points de Bédouin : N1 avec N2 autels qui vous rapportent encore des points.";
+
+translate "Bedouin Score for U1 is N1. Wins=N2"
+to french "Score de Bédouin pour U1(name) : N1. Victoires : N2";
+
+translate "Unfortunately, eGenesis has not yet implemented enough mushroom types for you to continue this test. Complain bitterly to Josh."
+to french "Malheureusement, eGenesis n'a pas encore implanté les types de champignons vous permettant de poursuivre cette épreuve. Vous pouvez envoyer vos plaintes outragées à l'équipe d'administration.";
+
+translate "You have already started the Test of Darkest Night."
+to french "Vous avez déja commencé l'épreuve de la Nuit Noire.";
+
+translate "  Ingest N1 O1"
+to french "  Ingérer N1 O1(N1?np:ns)";
+
+translate "Egypt is home to dozens of species of deadly mushrooms. The Test of Darkest Night is taken in N1 stages, and involves building your body's resistance to toxins found in freshly grown mushroom species."
+to french "L'égypte possède des dizaines d'espèces de champignons mortels. L'épreuve de la Nuit Noire se déroule en N1 étapes, et implique l'amélioration de la résistance de votre corps aux champignons fraîchement coupés les plus dangereux.";
+
+translate "After analyzing your physiology, the scientists at Great University of the Human body have determined that at this stage, it is safe for you to:"
+to french "Après examen de votre physiologie, les scientfiques de la grande Université du Corps Humain ont déterminé qu'à votre état d'avancement, il était possible pour vous de :";
+
+translate "Progress on the Test of Darkest Night:"
+to french "Progression dans l'épreuve de la Nuit Noire :";
+
+translate "You have passed the Test of Darkest Night. If you choose, you may further push your body, unlocking other unknown powers."
+to french "Vous avez passé l'épreuve de la Nuit Noire. Si vous le désirez, vous pouvez pousser les possibilités de votre corps encore plus loin, et peut-être lui découvrir des propriétés insoupçonnées.";
+
+translate "Eat this mushroom fresh from the earth"
+to french "Manger ce champignon fraîchement cueilli";
+
+translate "You feel the poison entering your bloodstream. Your head spins briefly, but then clears. You realize that you will be alright."
+to french "Vous sentez le poison se répandre dans vos veines. Vous êtes étourdi quelques instants, puis votre esprit s'éclaircit à nouveau. Vous avez survécu.";
+
+translate "You have consumed the required number of O1."
+to french "Vous avez consommé le nombre requis de O1(np).";
+
+translate "Sorry, but the Test of Darkest Night wasn't supposed to be released yet."
+to french "Nous sommes désolés, mais l'épreuve de la Nuit Noire n'était pas encore censée être accessible.";
+
+translate "  Ingested N1/N2 O1"
+to french "N1/N2 O1(N1?np:ns) consommés";
+
+

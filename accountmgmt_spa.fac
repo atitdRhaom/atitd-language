@@ -1,0 +1,14 @@
+Module AccountMgmt_spa;
+
+translate "What Username?"
+to spanish "Nombre del Usuario";
+translate "Looking up info..."
+to spanish "Buscando la Informacion...";
+translate "Free to Play Information"
+to spanish "Informacion de Acceso Gratuito";
+
+translate "Global Account Controller not created.  Please contact a developer."
+to spanish "Le controleur général de comptes n'a pas été créé. Contacter un développeur";
+
+translate "A Tale in the Desert - Free to Play Information"
+to spanish "A Tale in the Desert - Información de de Juego Gratuito";

@@ -1,0 +1,220 @@
+Module Bulletin_fre;
+
+translate BulletinPanel to french masculine
+{
+ns "Panneau de controlle du Calendrier"; np "Panneau de controlle du Calendrier";
+}
+
+
+translate "Delete"
+to french "Supprimer";
+
+translate "FILTERS"
+to french "FILTRES";
+
+translate "Do a Translation"
+to french "Faire une traduction";
+translate "Re-Translate: "
+to french "Re-traduire: ";
+translate "Translate: "
+to french "Traduire: ";
+translate "Translate to K1: "
+to french "Traduire par K1: ";
+translate "Translate to french: "
+to french "Traduire en Français.: ";
+translate "Translate to german: "
+to french "Traduire en Allemand: ";
+translate "Sorry, the Bulletin changed while you were editing."
+to french "Désolé, le panneau de controlle a été modifié pendant que vous éditiez";
+translate "Bulletin:"
+to french "Belletin:";
+translate "Click for Details"
+to french "Plus de détails";
+
+translate "Show the Calendar" 
+to french "Afficher le calendrier";
+
+translate "Set my Time Zone"
+to french "Régler mon fuseau horaire";
+
+translate "Time Zone? New York is GMT-0400 in the Summer"
+to french "Fuseau horaire? New York est GMT-0400 en été";
+
+translate "Format is GMT+XX00 or GMT-XX00"
+to french "Vous devez utiliser le format GMT+XX00 ou GMT-XX00";
+
+translate "New Event (Chat)"
+to french "Nouvel évènement (Discussion)";
+translate "New Event (eGenesis)"
+to french "Nouvel évènement (eGenesis)";
+translate "New Event (Player)"
+to french "Nouvel évènement (Joueur)";
+
+translate "Monday"
+to french "Lundi";
+translate "Tuesday"
+to french "Mardi";
+translate "Wednesday"
+to french "Mercredi";
+translate "Thursday"
+to french "Jeudi";
+translate "Friday"
+to french "Vendredi";
+translate "Saterday"
+to french "Samedi";
+translate "Sunday"
+to french "Dimanche";
+
+translate "January" 
+to french "Janvier";
+translate "February" 
+to french "Février";
+translate "March" 
+to french "Mars";
+translate "April"
+to french "Avril";
+translate "May" 
+to french "Mai";
+translate "June" 
+to french "Juin";
+translate "July" 
+to french "Juillet";
+translate "August" 
+to french "Août";
+translate "September" 
+to french "Septembre";
+translate "October" 
+to french "Octobre";
+translate "November" 
+to french "Novembre";
+translate "December" 
+to french "Décembre";
+
+translate "am"
+to french "le matin";
+translate "pm"
+to french "après-midi";
+
+translate "1st" to french "1er";
+translate "2nd" to french "2";
+translate "3rd" to french "3";
+translate "4th" to french "4";
+translate "5th" to french "5";
+translate "6th" to french "6";
+translate "7th" to french "7";
+translate "8th" to french "8";
+translate "9th" to french "9";
+translate "10th" to french "10";
+translate "11th" to french "11";
+translate "12th" to french "12";
+translate "13th" to french "13";
+translate "14th" to french "14";
+translate "15th" to french "15";
+translate "16th" to french "16";
+translate "17th" to french "17";
+translate "18th" to french "18";
+translate "19th" to french "19";
+translate "20th" to french "20";
+translate "21st" to french "21";
+translate "22d" to french "22";
+translate "23rd" to french "23";
+translate "24th" to french "24";
+translate "25th" to french "25";
+translate "26th" to french "26";
+translate "27th" to french "27";
+translate "28th" to french "28";
+translate "29th" to french "29";
+translate "30th" to french "30";
+translate "31st" to french "31";
+
+translate "1d"
+to french "1j";
+translate "(K1 remaining)"
+to french "(reste K1)";
+
+//Bulletin title date translation
+translate "K1, K2 N1, N2"
+to french "K1, N1 K2, N2";
+
+translate "O1, K1 N1, N2"
+to french "O1(ns) N1 K1(ns), N2";
+
+//Bulletin title time translation
+//translate "N1:N2 K1"
+//to french "N1:N2 K1";
+//translate " N1:N2 "
+//to french " N1:N2 ";
+
+//date and time of each events translation
+translate "K1 K2 K3K4"
+to french "K2 K1 K3 K4";
+translate "K1 K2 K3K4 (Duration: K5)"
+to french "K2 K1 K3 K4 (Durée: K5)";
+translate "K1 K2 K3K4 (K5 remaining)"
+to french "K2 K1 K3 K4 (Restant: K5)";
+
+// Begins and end dates for events details
+
+translate "Begins K1, K2 N1, N2"
+to french "Débute: K1 N1 K2, N2";
+translate "Ends K1, K2 N1, N2"
+to french "Fini: K1 N1 K2, N2";
+
+translate "Begins K1, K2 N1, N2K3 PM All Universities of Art and Music"
+to french "Commence le K1, K2 N1, N2K3 PM Toutes les universités d'Art et Music";
+translate "K1, K2 N1, N2 K3"
+to french "K1, K2 N1, N2 K3";
+
+translate "Passed O1"
+to french "O1(ns) réussie";
+
+translate "Title"
+to french "Titre";
+
+translate "Start Date"
+to french "Date du début";
+
+translate "Duration in Minutes"
+to french "Durée en minutes";
+
+translate "Location"
+to french "Emplacement";
+
+translate "All of Egypt"
+to french "Toute l'Egypte";
+
+translate "Discipline of O1"
+to french "Disciple de O1(ns)";
+
+translate "Ballot"
+to french "Vote des lois";
+
+translate "Begins Monday, August 16, 2010 8:27 PM All of Egypt"
+to french "test";
+
+translate "Description"
+to french "Description";
+
+translate "Start Message"
+to french "Message de commencement";
+
+translate "End Message"
+to french "Message de fin";
+
+translate "Enter a new eGenesis (Official) event"
+to french "Entrer un nouvel évènement eGenesis (officiel)";
+
+translate "Enter a new Chat event"
+to french "Entrer un nouvel évènement de discussion";
+
+translate "Enter a new Player-Run event"
+to french "Entrer un nouvel évènement organisé par les joueurs";
+
+translate "Date is in the wrong format."
+to french "La date est dans un mauvais format.";
+
+translate "Event would have already ended."
+to french "L'évènement serait déjà terminé.";
+
+translate "Modify"
+to french "Modifier";

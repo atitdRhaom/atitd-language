@@ -1,0 +1,114 @@
+module dialogs_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**             German Version: Astrid "Infinyti" Werner                  **
+//**                             2012                                      **
+//**                                                                       **
+//***************************************************************************
+
+translate "Max"
+	to german "Max.";
+
+translate "Cancel"
+	to german "Abbruch";
+
+translate "Ok"
+	to german "Ok";
+
+translate "close"
+	to german "schließen";
+
+translate "Clipboard"
+	to german "Zwischenablage";
+
+translate "Don't display again."
+	to german "Nicht nochmal anzeigen.";
+
+translate "Reset Show Popups"
+	to german "Popupdarstellung zurücksetzen";
+
+translate "All previously hidden popups will now show again."
+	to german "Alle zuvor verborgenen Popups werden wieder dargestellt.";
+
+translate "You must first make your selection."
+	to german "Du musst vorher eine Auswahl treffen.";
+
+translate "You must highlight an item from the list first"
+	to german "Du musst zuerst einen Gegenstand in der Liste markieren";
+
+translate "Weight: N1 Bulk: N2"
+	to german "Last: N1 Volumen: N2";
+
+translate "ALL"
+	to german "Alles";
+
+translate "Inventory"
+	to german "Inventar";
+
+translate "done"
+	to german "Fertig";
+
+translate "EVERYTHING"
+	to german "ALLES";
+
+translate "Please Wait..."
+	to german "Bitte warten...";
+
+translate "Yes"
+	to german "Ja";
+
+translate "No"
+	to german "Nein";
+
+translate "give"
+	to german "Geben";
+
+translate "You must be closer to the building to make a donation."
+	to german "Du musst näher an diesem Gebäude stehen, um etwas spenden zu können.";
+
+translate "Project was not correctly set up, contact developers."
+	to german "Das Projekt konnte nicht korrekt eingerichtet werden, rufe einen Entwickler.";
+
+translate "The programmers made a mistake in the requirements list, please notify them (O1)."
+	to german "Die Entwickler haben einen Fehler in der Liste der zu benötigenden Dinge gemacht. Bitte informiere sie darüber (O1(sn)).";
+
+translate "Choose a specific item to donate: O1"
+	to german "Wähle einen bestimmten Gegenstand zum Spenden: O1(sn)";
+
+translate "That item does not fit the description: "
+	to german "Dieses Objekt paßt nicht zur Beschreibung : ";
+
+translate "Checking attributes..."
+	to german "Prüfe die Merkmale...";
+
+translate "Donate how many? (Max N1) O1 (Donation will be DOUBLED)"
+	to german "Wieviel spenden? (Max N1) O1(pn) (Spenden werden VERDOPPELT)";
+
+translate "You don't have that quantity."
+	to german "Du hast nicht so viel.";
+
+translate "The building is no longer accepting materials."
+	to german "Das Gebäude akzeptiert keine weiteren Materialien.";
+
+translate "You must be closer to the building."
+	to german "Du musst näher am Gebäude stehen.";
+
+translate "You don't have Bringer of Knowledge."
+	to german "Du hast keine Boten des Wissens.";
+
+translate "Donate how much O1 (Max N1)"
+	to german "Wieviel O1(pn) spenden? (Max N1)";
+
+translate "You don't have that quantity of O1"
+	to german "Du hast nicht so viele O1(pn))";
+
+translate "When a University says they need water for research, they also need the jugs. Universities now have a policy whereby they won't accept a person's last water jug."
+	to german "Wenn eine Universität angibt, für die Forschung Wasser zu benötigen, schließt das die Krüge mit ein. Universitäten haben nun die Vorgaben, dass der letzte Wasserkrug einer Person nicht mehr einbehalten werden darf.";
+
+translate "Accept"
+	to german "Akzeptieren";
+
+translate "Send Back"
+	to german "Zurückschicken";

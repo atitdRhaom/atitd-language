@@ -1,0 +1,148 @@
+module blockmover_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**              (C)opyright 2002-2007 by MDO Entertainment               **
+//**                                                                       **
+//***************************************************************************
+
+translate AncientMechanics to german feminine
+{
+swa "Antike Mechnik";
+sn "Antike Mechanik"; pn "Antike Mechaniken";
+}
+
+translate AncientAutomaton to german feminine
+{
+swa "Antike Maschine";
+sn "Antike Maschine"; pn "Antike Maschinen";
+}
+
+translate PincherClaw to german feminine
+{
+  swa "Klaue";
+  sn "Klaue"; sg "Klaue"; sd "Klaue"; sa "Klaue";
+  pn "Klauen"; pg "Klauen"; pd "Klauen"; pa "Klauen";
+}
+
+translate PincherAxle to german feminine
+{
+  swa "Achse";
+  sn "Achse"; sg "Achse"; sd "Achse"; sa "Achse";
+  pn "Achsen"; pg "Achsen"; pd "Achsen"; pa "Achsen";
+}
+
+translate Oil to german neuter
+{
+swa "Öl";
+sn "Öl"; sg "Öls"; sd "Öl"; sa "Öl";
+pn "Öle"; pg "Öle"; pd "Ölen"; pa "Öle";
+}
+
+translate LargeGear to german neuter
+{
+  swa "Großes Zahnrad";
+  sn "Große Zahnrad"; sg "Großen Zahnrades"; sd "Großen Zahnrad"; sa "Großen Zahnrad";
+  pn "Großen Zahnräder"; pg "Großen Zahnräder"; pd "Großen Zahnrädern"; pa "Großen Zahnräder";
+}
+
+translate MediumGear to german neuter
+{
+  swa "Mittleres Zahnrad";
+  sn "Mittlere Zahnrad"; sg "Mittleren Zahnrades"; sd "Mittleren Zahnrad"; sa "Mittleren Zahnrad";
+  pn "Mittleren Zahnräder"; pg "Mittleren Zahnräder"; pd "Mittleren Zahnrädern"; pa "Mittleren Zahnräder";
+}
+
+translate IronBars to german masculine
+{
+  swa "Eisenbarren";
+  sn "Eisenbarren"; sg "Eisenbarrens"; sd "Eisenbarren"; sa "Eisenbarren";
+  pn "Eisenbarren"; pg "Eisenbarren"; pd "Eisenbarren"; pa "Eisenbarren";
+}
+
+translate SteelSheeting to german feminine
+{
+  swa "Stahlblech";
+  sn "Stahlblech"; sg "Stahlblechs"; sd "Stahlblech"; sa "Stahlblech";
+  pn "Stahlbleche"; pg "Stahlbleche"; pd "Stahlblechen"; pa "Stahlbleche";
+}
+
+translate AngelsStone to german masculine
+{
+swa "Engelsstein";
+sn "Engelsstein"; sg "Engelsstein"; sd "Engelsstein"; sa "Engelsstein";
+pn "Engelssteine";pg "Engelssteine"; pd "Engelssteinen"; pa "Engelssteine";
+}
+
+
+
+translate "Allows construction Ancient Automatons."
+to german "Erlaubt Konstruktion von antiken Maschinen.";
+
+translate "Notify Scientists of the nearby Automaton"
+to german "Benachrichtige Forscher von der Maschinen in der Umgebung";
+
+translate "New Research has opened."
+to german "Neue Erforschung wurde ermöglicht.";
+
+translate "Ancient Technology"
+to german "Antike Technologie";
+
+translate "Ancient Automaton"
+to german "Antike Maschinen";
+
+translate "To build a Pyramid Ancient Automaton, you need: "
+to german "Um eine antike Pyramidenmaschine zu bauen benötigst du:";
+
+translate "Fuel the Ancient Automaton"
+to german "Befülle die antike Maschine";
+
+translate "Load how much Angel's Stone?"
+to german "Wieviele Engelssteine sollen geladen werden?";
+
+translate "Unload the Pyramid Block"
+to german "Lade den Pyramidenblock aus";
+
+translate "Load a nearby block"
+to german "Lade einen nahen Block auf";
+
+translate "Could not find a pyramid block with the same owner as the Ancient Automaton."
+to german "Kann keinen Pyramidenblock von demselben Eigentümer wie der antiken Maschine finden.";
+
+translate "The Ancient Automaton is out of fuel."
+to german "Der antike Automat hat keinen Treibstoff mehr.";
+
+translate "Studied Automaton: "
+to german "Erlernte Maschinen: ";
+
+translate "North"
+to german "Norden";
+
+translate "Northeast"
+to german "Nordosten";
+
+translate "East"
+to german "Osten";
+
+translate "Southeast"
+to german "Südosten";
+
+translate "South"
+to german "Süden";
+
+translate "Southwest"
+to german "Südwesten";
+
+translate "West"
+to german "Westen";
+
+translate "Northwest"
+to german "Nordwesten";
+
+translate "None"
+to german "Nichts";
+
+translate "Magnetic Bias"
+to german "Vormagnetisierung";

@@ -1,0 +1,58 @@
+Module Qmail_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment		           **
+//**                                                                       **
+//***************************************************************************
+
+
+translate "Enter email address for newsletter"
+to german "EMailadresse für Newsletter eingeben";
+
+translate "Email address? Enter None to skip newsletter. We will NEVER share the address with spammers, terrorists, or even other players. If we do, you can post the Lead Designer's cell phone number (1-412-973-7914) to USENET as revenge. How's that for a privacy policy? Now, may we please have your email address for the newsletter?"
+to german "EMailadresse? Gib Nichts ein, wenn Du nicht einverstanden bist. Wir werden NIEMALS Adressen mit Spammern, Terroristen oder anderen Spielern mitteilen. Tun wir es doch, dann darst Du die Telefonnr (1-412-973-7914) des Chefdesigners als Ausgleich im USENET posten. Genügt Dir das als Versprechen? Dürfen wir nun Deine Adresse für den Newsletter haben?";
+
+translate "Thank you for signing up for the A Tale in the Desert newsletter."
+to german "Danke für das Bestellen des Newsletters von 'A Tale in the Desert'.";
+
+translate "Verify your email address from the Utility/eMail menu."
+to german "Bestätige nun Deine Emailadresse über das Optionen/eMail Menü.";
+
+translate "Your verification code is: K1."
+to german "Dein Bestätigungscode ist: K1.";
+
+translate "Verify my email address"
+to german "Bestätige meine EMailadresse";
+
+translate "Verification Code:"
+to german "Bestätigungscode:";
+
+translate "Verifying..."
+to german "Prüfe...";
+
+translate "The verification code does not match. Re-renter your email address to send a new verification code."
+to german "Der Bestätigungscode paßt nicht. Gib Deine EMailadresse erneut ein, um einen neuen Bestätigungscode zu bekommen.";
+
+translate "Email adress verified."
+to german "EMailadresse bestätigt.";
+
+translate "Send real email to a friend"
+to german "Schicke einem Freund eine eMail";
+
+translate "You can't do this during a spouse login."
+to german "Du kannst dies nicht tun, wenn Du als Dein Ehepartner eingeloggt bist.";
+
+translate "You must verify your email address. Enter (or re-enter) it under Utility."
+to german "Du mußt Deine EMailadresse bestätigen. Gib sie (erneut) unter Optionen ein.";
+
+translate "You must enter a valid email address to send email from the game."
+to german "Du mußt eine eine gültige EMailadresse eingeben.";
+
+translate "Character name?"
+to german "Charaktername?";
+
+translate "Note: You can sign up for the ATITD newsletter from your Utility/eMail menu."
+to german "Hinweis: Du kannst den englischen ATITD Newsletter von eGenesis unter Optionen/eMail bestellen.";

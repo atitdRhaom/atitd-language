@@ -1,0 +1,218 @@
+module mutagen_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2007 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+
+translate MutagenicsLab to german neuter
+{
+swa "Genlabor"; sn "Genlabor"; pn "Genlabors";
+}
+translate Mutagenics to german feminine
+{
+swa "Gentechnik"; sn "Gentechnik"; pn "Gentechnik";
+}
+translate Mutagen to german feminine
+{
+swa "Genprobe"; sn "Genprobe"; pn "Genproben ";
+}
+translate FailedMutagen to german neuter
+{
+swa "Misslungene Genprobe"; sn "Misslungene Genprobe"; pn "Misslungene Genproben";
+}
+
+translate "The research costs shown are to upgrade this University with a Mutagenics Laboratory. Once complete, the University will teach the skill Mutagenics, which will allow you to build your own laboratory, and use it to participate in actual research with the scientists."
+to german "";
+
+translate "5500+ Quality Distillation Coil"
+to german "Qualität 5500+ Destillationsspirale";
+translate "6500+ Quality Distillation Coil"
+to german "Qualität 6500+ Destillationsspirale";
+translate "7500+ Quality Distillation Coil"
+to german "Qualität 7500+ Destillationsspirale";
+
+translate "6000+ Quality Distillation Coil"
+to german "Qualität 6000+ Destillationsspirale";
+
+translate "Black Raeli Tiles to support Growth Medium"
+to german "Raelikacheln: Schwarz zur Unterstützung des Wachstummittels";
+
+translate "Dirt as a Test Growth Medium"
+to german "Schmutz als Testwachstummittel";
+
+translate "Perch Fish as a Test Growth Medium"
+to german "Barsch als Testwachstummittel";
+
+translate "Dung as a Test Growth Medium"
+to german "Mist als Testwachstummittel";
+
+translate "Camel Milk as a Test Growth Medium"
+to german "Kamelmilch als Testwachstummittel";
+
+translate "Mirrors to assist in temperature regulation"
+to german "Spiegel zur Temperaturregulierung";
+
+translate "Resin of any sort, as a Test Growth Medium"
+to german "Harz irgendeiner Art, als Wachstumsmittel";
+translate "Resin of any sort, as a Test growth medium"
+to german "Harz irgendeiner Art, als Wachstumsmittel";
+
+translate "Herb seeds of any sort, as a dense nutrient source"
+to german "Kräutersaaten irgendeiner Art, als Nahrungsquelle";
+
+translate "The lab is excreting precious drops of Mutagen"
+to german "Das Labor scheidet Tropfen eines kostbaren Gengutes aus";
+
+translate "Seeds from K1"
+to german "Saaten von K1";
+
+translate "Mutagenics Lab"
+to german "Genlabor";
+
+translate "To build a Mutagenics Lab, you need:"
+to german "Um ein Genlabor zu bauen benötigst Du:";
+
+///translate "Mutagen made from:\n    Moss: ",ComplexName(nth(lis,0))," (",nth(lis,1),")"
+///to german "
+
+///translate "\n    ",k," (",q,")"
+///to german "
+
+translate "Read"
+to german "Lese";
+
+translate "Failed Mutagen Label"
+to german "Bezeichnung mißlungene Genprobe";
+
+translate "Reading..."
+to german "Lese...";
+
+translate "Catalog all valid Mutagens"
+to german "Katalogisiere alle gültigen Genproben";
+
+translate "Present a Mutagen"
+to german "Reiche eine Genprobe ein";
+
+translate "The scientists are inspecting the Mutagen..."
+to german "Die Wissenschaftler untersuchen die Genprobe...";
+
+translate "Excellent work, but as scientists, known information no longer interests us. We will now start on a new Mutagen recipe. Use the recipe that you have discovered as you wish."
+to german "Ausgezeichnete Arbeit, aber als Wissenschaftler interessieren uns bekannte Informationen nicht mehr. Wir beginnen jetzt ein neues Genprobenrezept. Verwende das Rezept, das du entdeckt hast, ganz wie du möchtest.";
+
+translate "We are already aware of the Mutagen that you are presenting."
+to german "Die eingereichte Genprobe ist uns bereits bekannt.";
+
+translate "An interesting Mutagen. It's not the one that are are currently researching, nor is it one that we have previously researched. Perhaps it would be of interest to some other University of Thought."
+to german "Eine interessante Genprobe. Es ist nicht die, nach der wir forschen, noch eine, nach der wir je geforscht haben. Möglicherweise würde sie für irgendeine andere Universität des Gedankens interessant sein.";
+
+translate "Analyze a Failed Mutagen"
+to german "Analysiere eine mißlungene Genprobe";
+
+translate "The scientists are analyzing your failed Mutagen..."
+to german "Die Wissenschaftler analysieren deine misslungene Genprobe...";
+
+translate "The information here is important - write it down or use the Clipboard button!"
+to german "Diese Information ist wichtig - schreibe sie auf oder benutze die Clipboardfunktion!";
+
+translate "You turned in a K1"
+to german "Du hast ein K1 eingefügt";
+
+translate "You have perfected the recipe - only the moss preparation technique was wrong. The next time you try this exact same recipe, it should work! The scientists congratulate you, and start on their next recipe."
+to german "Du hast ein Rezept perfektioniert - nur die Moosvorbereitungstechnik war falsch. Wenn du das nächste Mal dasselbe Rezept ausprobierst, sollte es funktionieren! Die Wissenschaftler gratulieren dir und beginnen nun ihr nächstes Rezept.";
+
+translate "Analysis: The moss is missing just one critical attributes."
+to german "Analyse: Dem Moos fehlt nur eine wichtige Eigenschaft.";
+
+translate "Analysis: The moss is missing N1 critical attributes."
+to german "Analyse: Dem Moos fehlt N1 wichtige Eigenschaften.";
+
+translate "Analysis: The moss is missing some required attribute."
+to german "Analyse: Dem Moos fehlt irgendeine notwendige Eigenschaft.";
+
+translate "Analysis: The moss has some attribute which is destroying the potency of the mutagen."
+to german "Analyse: Das Moos besitzt einige Eigenschaften, welche den Wirkstoffgehalt der Genprobe zerstören.";
+
+translate "Analysis: You are not using enough moss."
+to german "Analyse: Du benutzt nicht genügend Moos.";
+
+translate "Analysis: You are using too much moss."
+to german "Analyse: Du benutzt zuviel Moos.";
+
+translate "Analysis: At least one required kind of mushroom is missing."
+to german "Analyse: Mindestens eine notwendige Pilzart fehlt.";
+
+translate "Analysis: The total bulk of mushrooms present is not sufficient."
+to german "Analyse: Die Gesamtanzahl der vorhandenen Pilze ist nicht ausreichend.";
+
+translate "Analysis: The total bulk of mushrooms present is too much."
+to german "Analyse: Die Gesamtanzahl der vorhandenen Pilze ist zu hoch.";
+
+translate "Analysis: Of the N1 types of mushrooms present in the sample, N2 of them are present in the wrong quantity."
+to german "Analyse: Von den N1 Arten der Pilze ingesamt sind N2 davon in der falschen Menge vorhanden.";
+
+translate "Step 1: Start a Mutagen using a Base"
+to german "Schritt 1: Beginne eine Genprobe auf einem Träger";
+
+translate "To start a Mutagen you need:"
+to german "Um eine Genprobe herzustellen benötigst du:";
+
+translate "View the Recipe so far"
+to german "Den Rezeptverlauf ansehen";
+
+translate "Recipe so far"
+to german "Rezeptverlauf";
+
+translate "Standard Base of 7 Water and 1 Quicksilver"
+to german "Standardträgerbasis aus 7 Wasser 1 Quecksilber";
+
+translate "Moss: O1 N1"
+to german "Moos: O1(sn) N1";
+
+translate "O1 N1"
+to german "O1(N1?pn:sn) N1";
+
+translate "Step 2: Add Moss"
+to german "Schritt 2: Wähle ein Moos";
+
+translate "Select a Moss"
+to german "Wähle ein Moos";
+
+translate "How much O1?"
+to german "Wieviel O1(pn)?";
+
+translate "You only have N1 O1 moss."
+to german "Du hast nur N1 O1(N1?pn:sn)  Moos.";
+
+translate "Step 3+: Add Mushrooms"
+to german "Schritt 3+ Pilze hinzufügen";
+
+translate "Select a Mushroom Type"
+to german "Wähle eine Pilzart";
+
+translate "How many O1? (Max 7)"
+to german "Wieviel O1(pn) (Max 7)";
+
+translate "You only have N1 O1."
+to german "Du hast N1 O1(N1?pa:sa).";
+
+translate "Clean out the Lab"
+to german "Reinige das Labor";
+
+translate "Shock with Salt to complete the Mutagen"
+to german "Mit Salz abschrecken, um die Genprobe fertigzustellen";
+
+translate "You don't have any Salt."
+to german "Du hast kein Salz.";
+
+translate "Shocking the Mutagen..."
+to german "Schrecke die Genprobe ab...";
+
+translate "The excretion ledge glistens as the toxin spreads and starts to ooze. Slowly, it dribbles into the collection vial, one precious drop at a time."
+to german "Die Ausscheidungsleiste glitzert, als das Gift sich verteilt und beginnt durchzusickern. Langsam tröpfelt es in die Sammelphiole, ein kostbarer Tropfen nach dem Anderen.";
+
+translate "The brew separates into a toxic swill - your Mutagen has failed. Universities of Thought may be working on recipes of their own - the sample may be useful to one of them."
+to german "Das Gebräu trennt sich in giftigen Müll - deine Genprobe ist fehlgeschlagen. Universitäten der Gedanken könnten an eigenen Rezepten arbeiten - die Probe kann für eine von ihnen nützlich sein.";

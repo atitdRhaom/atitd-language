@@ -1,0 +1,23 @@
+module fences_fre;
+
+translate FenceBuilding to french feminine
+{
+  ns "Clôture"; np "Clôtures";
+}
+
+translate Fence to french feminine
+{
+  ns "Clôture en bois"; np "Clôtures en bois";
+}
+
+translate "Fence" to french "Clôture";
+
+translate "Build a Fence"
+to french "Construire une Clôture";
+
+translate "This area is too crowded with fences"
+to french "Il y a trop de Clôture dans cette zone";
+
+translate "To build a Fence, you need:"
+to french "Pour construire une Clôture, il vous faut :";
+

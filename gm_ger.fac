@@ -1,0 +1,376 @@
+module gm_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2007 MDO Entertainment                            **
+//**                                                                       **
+//***************************************************************************
+
+//menues
+
+translate "Work as a Game Master"
+to german "Arbeite als GM";
+
+translate "Take a break from Game Master"
+to german "Mache eine Pause als GM";
+
+translate "K1 Queue: N1 people ahead of you."
+to german "K1 Schleife: N1 Leute vor dir.";
+
+translate "Call a Game Master"
+to german "Rufe einen Gamemaster";
+
+translate "Developer Call"
+to german "Entwickler rufen";
+
+translate "Normal GM"
+to german "Normalen GM";
+
+translate "Developer"
+to german "Entwickler";
+
+translate "World Builder Call"
+to german "Map-Ersteller rufen";
+
+translate "Cancel Game Master Request"
+to german "Lösche Gamemaster Anfrage";
+
+translate "Change ownership of the snag-list"
+to german "Wechsel Eigentum auf der Bearbeitungsliste";
+
+translate "Changing ownership of N1 buildings to:"
+to german "Wechsel des Eigentums von N1 Objekt(en) auf:";
+
+//Josh: This doesnt work:
+translate "Chatting with U1"
+to german "Spreche mit U1(name)";
+
+translate "Welcome to today's event. I'd like to chat with players who are pursuing paths that have no known direct in-game reward. Does this describe you?"
+to german "Willkommen zum heutigen Event! Ich möchte gern mit Spielern sprechen, die keine direkte Ingamebelohnung erwarten. Trifft das auf dich zu?";
+
+translate "You are about to call for Pluribus, who is trying to finish coding beer. Unless this is something very critical like a billing problem or an exploit, please call a normal GM. Proceed with Developer Call?"
+to german "Du bist dabei nach Pluribus zu rufen. Wenn es nichts sehr Wichtiges ist, rufe bitte einen normalen GM. Weiterhin Entwickler rufen?";
+
+translate "You are about to call for a Game Master. We tend to be pretty busy, so only call if you're actually having a bug or a problem figuring out the game. Proceed with Help Request?"
+to german "Du bist dabei einen GM zu rufen. Wir sind oft sehr beschäftigt, daher rufe einen GM bitte nur, wenn du ein aktuelles Problem oder einen Bug hast. Mit dem Ruf forfahren?";
+translate "Cancel GM Request"
+to german "Rufe GM abbrechen";
+
+translate "Cancel previous Game Master call"
+to german "Brich den vorherigen GM-Ruf ab";
+
+translate "You are about to call for a World Builder.  We are generally busy building the world you see around you.  Don't call us if you can't reach an item in the world.  Please call us if you across a terrain related oddity though.  Proceed with Help Request?"
+to german "Du bist dabei einen Map-Ersteller zu rufen. Wir sind immer beschäftigt, die Welt um euch herum zu bearbeiten. Rufe uns nicht, wenn du einen Gegenstand nicht erreichen kannst. Bitte rufe uns, wenn du merkwürdiges Terrain entdeckst. Mit dem Ruf fortfahren?";
+
+//objects
+
+//texts
+translate "Tell a developer to initialize the GM Panel"
+to german "Sprich mit einem Dev, um das GM-Panel zu initialisieren";
+
+translate "Respond #N1 from U1"
+to german "Antworte #N1 von U1(name)";
+
+translate "Responding to U1"
+to german "Antworte U1(name)";
+
+translate "Traveling to U1"
+to german "Springe zu U1(name)";
+
+translate "U1 is logged out now. GM request cleared."
+to german "U1(name) ist ausgeloggt. GM-Anfrage gelöscht.";
+
+translate "Player is on the nowhere plane. Try this ticket again in a minute or so."
+to german "Spieler ist im Niemandsland. Versuche dieses Ticket in einer Minute oder so neu zu bearbeiten.";
+
+translate "GM Queue: N1 people ahead of you."
+to german "GM-Warteschleife: N1 Anfragen vor dir.";
+
+translate "There are only 2 developers on ATITD, and so there's not a lot of time to go around. Unless this is something very critical like an exploit or a bug effect most of the game, please call a normal GM first. Proceed with Developer Call?"
+to german "Es gibt nur 2 Entwickler in ATITD, somit steht nur wenig Freizeit zur Verfügung. Sollte der Grund Deiner Anfrage wichtig ist, wie zB ein Exploit oder eine Bugauswirkung, dann rufe einen Gamemaster. Trotzdem einen Entwickler rufen?"; 
+
+translate "You are about to call for a GM or a developer. We tend to be pretty busy, so only call if you're actually having a bug or a problem figuring out the game. Proceed with Help Request?"
+to german "Du bist gerade dabei einen Admin zu rufen. Wir sind oft sehr beschäftigt, also rufe nur, wenn Du einen Bug Fehler ein das Spiel betreffende Problem hast. Mit der Anfrage fortfahren?";
+
+translate "Game Master"
+to german "Gamemaster";
+
+translate "Change ownership of the snag-list"
+to german "Ändere Eigentum der Objekte der Bearbeitungsliste";
+
+translate "Allow reposition"
+to german "Erlaube Neuausrichtung";
+
+translate "Remove this from the Snag List"
+to german "Entferne aus der Bearbeitungsliste";
+
+translate "Change buildings owner to player U1?"
+to german "Ändere Eigentümer auf Spieler U1(name)?";
+
+translate "Changing ownership of N1 buildings to:"
+to german "Ändere Eigentum von N1 Gebäude(n) auf:";
+
+translate "U1 is both a player and a guild. GMs can't do this yet."
+to german "U1(name) ist Spielername und Gildenname. GMs können das nicht tun.";
+
+translate "U1 is neither a player nor a guild."
+to german "U1(name) ist weder ein Spieler noch eine Gilde.";
+
+translate "Change buildings owner to guild U1?"
+to german "Ändere Eigentum auf Gilde U1(name)?";
+
+translate "Invite U1 to log in as me"
+to german "Erlaube U1(name) an meiner statt einzuloggen";
+
+translate "Are you sure you want to allow U1 to log in as you?"
+to german "Bist Du sicher, daß Du U1(name) erlauben möchtest, anstatt Deiner einzuloggen?";
+
+translate "U1 is inviting you to log in as U2. Log in now?"
+to german "U1(name) erlaubt Dir, Dich als U2(name) einzuloggen. Jetzt einloggen?";
+
+translate "Disconnect this player"
+to german "Logge diesen Spieler aus";
+
+translate "Really disconnect "
+to german "Wirklich ausloggen?";
+
+translate "Disconnected "
+to german "Ausgelogged ";
+
+translate "Disconnected by U1"
+to german "Ausgelogged durch U1(name)";
+
+translate "Force this client to quit"
+to german "Zwinge den Klient zum Ausloggen";
+
+translate "Client exit forced on U1"
+to german "Clientlogout erzwungen für U1(name)";
+
+translate "Client exit forced by U1"
+to german "Klientlogout erzwungen durch U1(name)";
+
+translate "Print GM Log"
+to german "Drucke GM Log";
+
+translate "Could not find player"
+to german "Kann Spieler nicht finden";
+
+translate "Browse to Bugzilla"
+to german "Wechsel zu Bugzilla";
+
+translate "Pop up a web page"
+to german "Öffne eine Webseite";
+
+translate "Total GM Notes: "
+to german "Alle GM Notes: ";
+
+translate "Notes for U1"
+to german "Notes von U1(name)";
+
+translate "Sorry, but you are not developer flagged and cannot respond to developer calls."
+to german "Entschuldige, aber du bist nicht als Entwickler freigeschaltet und kannst keine Entwickleranfragen beantworten.";
+
+translate "Sorry, but you are not flagged for GM Warp."
+to german "Entschuldige, aber du bist für einen GM Teleport nicht freigeschaltet.";
+
+translate "Responding to U1"
+to german "U1(name) antworten";
+
+translate "Traveling to U1"
+to german "Zu U1(name) reisen";
+
+translate "U1 is logged out now. GM request cleared."
+to german "U1(name) ist jetzt ausgeloggt. GM Anfrage gelöscht.";
+
+translate "Player is on the nowhere plane. Try this ticket again in a minute or so."
+to german "Der Spieler ist auf dem Niemandsland. Versuche dieses Ticket nochmal in etwa einer Minute.";
+
+translate "Game Master U1 has arrived."
+to german "Gamemaster U1(name) ist angekommen.";
+
+translate "Developer U1 has arrived."
+to german "Entwickler U1(name) ist angekommen.";
+
+translate "eGenesis U1 has arrived."
+to german "eGenesis U1(name) ist angekommen.";
+
+translate "Chatting with U1"
+to german "Spreche mit U1(name)";
+
+translate "Game Master U1 wants to chat with you. Click the chat tab."
+to german "Gamemaster U1(name) möchte mit Dir sprechen. Klicke auf den leuchtenden Chattab.";
+
+translate "Developer U1 wants to chat with you. Click the chat tab."
+to german "Entwickler U1(name) möchte mit Dir sprechen. Klicke auf den leuchtenden Chattab.";
+
+translate "eGenesis U1 wants to chat with you. Click the chat tab."
+to german "eGenesis Zahlungswesen U1(name) möchte mit Dir sprechen. Klicke auf den leuchtenden Chattab.";
+
+translate "Sorry, but you are not flagged for GM Chat."
+to german "Entschuldige, aber Du bist nicht für den GM Chat freigeschaltet.";
+
+translate "Searching cid1 and cid2 fields matching those of player: U1"
+to german "Suchen von cid1 und cid2 Feldern, die auf diesen Spieler zutreffen: U1(name)";
+
+translate "N1 on player U1 is empty... Ignoring..."
+to german "N1 von Spieler U1(name) ist leer...wird ignoriert...";
+
+translate "Searching N1 like N2..."
+to german "Suche N1 ähnlich wie N2...";
+
+translate "N1 matching on N2,"
+to german "N1 stimmt mit N2 überein,";
+
+translate "N1 matching on N2 is blacklisted."
+to german "N1 stimmt mit N2 überein und steht auf der schwarzen Liste.";
+
+translate "N1 like N2 is blacklisted. Ignoring..."
+to german "N1 ähnlich wie N2 steht auf der schwarzen Liste. wird ignoriert.";
+
+translate "Empty Search List"
+to german "Leere Suchliste";
+
+translate "You must supply a user name to the /sidb command.  Syntax: /sidb <username>"
+to german "Du mußt einen Spielernamen zum /sidb Befehl hinzufügen. Syntax: /sidb <Spielername>";
+
+translate "U1 is not an active username."
+to german "U1(name) ist kein aktiver Spielername.";
+
+translate "No such guild or player."
+to german "Keine solche Gilde oder Spieler.";
+
+translate "U1 is both a Player and Guild."
+to german "U1(name) existiert als Spieler- und als Gildenname.";
+
+translate "Use Player"
+to german "Wähle Spieler";
+translate "Use Guild"
+to german "Wähle Gilde";
+
+translate "Show the player"
+to german "Zeige den Spieler";
+
+translate "Show the guild"
+to german "Zeige die Gilde";
+
+translate "Cancel"
+to german "Abbrechen";
+
+translate "That guild's information is secret!"
+to german "Diese Gildeninformation ist geheim!";
+
+translate "Guild U1(name) at N1 is: U2"
+to german "Gilde U1(name) bei N1 ist: U2(name)";
+
+translate " (expired or closed account) "
+to german " (abgel.oder geschl. Account) ";
+
+translate "yes"
+to german "ja";
+
+translate "no"
+to german "nein";
+
+translate "free"
+to german "frei";
+
+translate "trial account"
+to german "Testaccount";
+
+translate "K1 (Buildings have been removed)"
+to german "K1 (Gebäude wurden entfernt)";
+
+translate "U1 K1 N1 is connected"
+to german "U1(name) K1 N1 ist eingeloggt";
+
+translate "U1 K1 N1 is disconnected"
+to german "U1(name) K1 N1 ist ausgeloggt";
+
+translate "Gender: "
+to german "Geschlecht: ";
+
+translate "Language: "
+to german "Sprache: ";
+
+translate "Location: "
+to german "Standort: ";
+
+translate "Married to "
+to german "Verheiratet mit ";
+
+translate "Tell a developer to initialize the GM Panel"
+to german "Rufe einen Dev um das GM Panel einzustellen";
+
+translate "Describe the problem you are having in as much detail as possible:"
+to german "Beschreibe dein bestehendes Problem so genau wie möglich:";
+
+translate "No problem entered, call aborted."
+to german "Kein Problem beschrieben, der Call wurde abgebrochen.";
+
+translate "Billing Related Call"
+to german "Bezahltechnisches Problem melden";
+
+translate "Report a Billing Problem"
+to german "Melde ein Zahlungsproblem";
+
+translate "These are for billing related issues ONLY. These calls are handled by eGenesis direct employees only.  If this isnt billing related, please call a normal GM. Proceed with Billing Call?"
+to german "Dies betrifft nur Zahlungsprobleme. Dieser Support wird von direkten eGenesis-Angestellten geleistet. Sollte dein Problem nichts mit deiner Abrechnung zu tun habe, rufe bitte einen GM. Mit dem Zahlungsproblemsupport fortfahren?";
+
+translate "Describe the billing problem you are having:"
+to german "Beschreibe dein Zahlungsproblem:";
+
+translate "Disconnected "
+to german "Ausgeloggt";
+
+translate "Disconnected by "
+to german "Ausgeloggt durch ";
+
+translate "Really disconnect "
+to german "Wirklich ausloggen: ";
+
+translate "GM Message for U1 cleared."
+to german "GM Nachricht von U1(name) gelöscht.";
+
+translate "Sorry, but you are not flagged to view billing calls."
+to german "Pech für dich, du bist kein Dev.";
+
+translate "Sorry, but you are not developer flagged and cannot view developer calls."
+to german "Pech für dich, du bist kein Dev und kannst hier nicht reinschauen.";
+
+translate "Sorry, but you are not flagged to view GM calls."
+to german "Pech für Dich, du bist nicht freigeschaltet, um GM Calls zu lesen.";
+
+translate "Responding to U1"
+to german "Antworte U1(name)";
+
+translate "U1 is logged out now. GM request cleared."
+to german "U1(name) hat nun ausgeloggt. GM Anfrage ist gelöscht.";
+
+translate "eGenesis U1(name) has arrived."
+to german "eGenesis U1(name) ist angekommen.";
+
+translate "Chatting with U1."
+to german "Chatte mit U1(name).";
+
+translate "Billing Related Calls"
+to german "Zahlungsproblem Calls";
+
+translate "Restore Ownership to BuildUser"
+to german "Eigentum dem Erbauer erneut zuteilen";
+
+translate "Could not find BuildUser U1"
+to german "Erbauer U1(name) unbekannt";
+
+translate "The original builder, U1 is departed. Restore anyway?"
+to german "Der Erbauer, U1(name) ist asugewandert. Trotzdem wiederherstellen?";
+
+translate "Change Ownership"
+to german "Eigentum abändern";
+
+translate "Change owner: U1"
+to german "Neuer Eigentümer: U1(name)";
+
+translate "Changed ownership of the O1 to U1"
+to german "Eigentumswechsel O1(dsa) O1(sa) auf U1(name)";

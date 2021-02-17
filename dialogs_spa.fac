@@ -1,0 +1,79 @@
+// Spanish Translation Started 2015/09/02
+
+module dialogs_spa;
+
+translate "Yes"
+to spanish "Si";
+
+translate "No"
+to spanish "No";
+
+translate "Cancel"
+to spanish "Anular";
+
+translate "close"
+to spanish "Cerrar";
+
+translate "ALL"
+to spanish "TODO";
+
+translate "No name entered"
+to spanish "No se ingresó nombre";
+
+translate "You must first make your selection."
+to spanish "Tienes que hacer una selección primero";
+
+translate "You must highlight an item from the list first"
+to spanish "Tienes que seleccionar algo de la lista primero";
+
+translate "All previously hidden popups will now show again."
+to spanish "Tous les pop-up masqués précédemment seront affichés";
+
+translate "Inventory"
+to spanish "Inventario";
+
+translate "EVERYTHING"
+to spanish "TODO";
+
+translate "Please Wait..."
+to spanish "Un Momento...";
+
+translate "You must be closer to the building to make a donation."
+to spanish "Necesitas estar mas cerca al edificio para hacer una donación.";
+
+translate "You must be closer to the building"
+to spanish "Necesitas estar mas cerca al edificio";
+
+translate "Project was not correctly set up, contact developers."
+to spanish "El proyecto no esta configurado correctamente, contacta a un programador.";
+
+translate "The programmers made a mistake in the requirements list, please notify them."
+to spanish "Los programadores han hecho un error en la lista de requisitos, favor de notificarles.";
+
+translate "Choose a specific item to donate: O1"
+to spanish "Escoge un articulo específico a donar : O1(ns)";
+
+translate "That item does not fit the description: "
+to spanish "Este articulo no llena los requisitos: ";
+
+translate "Checking attributes..."
+to spanish "Verificando los atributos...";
+
+translate "Donate how many? (Max N1) (Donation will be DOUBLED)"
+to spanish "Cantidad a Donar? (Max N1) (La Donación se DUPLICARA)";
+
+translate "The building is no longer accepting materials."
+to spanish "El edificio ya no está acceptando materiales.";
+
+translate "You don't have Bringer of Knowledge."
+to spanish "No cuentas con un Portador de Conocimiento.";
+
+translate "Donate how much O1 (Max N1)"
+to spanish "Donar cuanto de O1(np) ? (Max N1)";
+
+translate "When a University says they need water for research, they also need the jugs. Universities now have a policy whereby they won't accept a person's last water jug."
+to spanish "Cuando una Universidad declara que ocupa agua para investigación, también requieren las jarras.  La política de la universidad es no acceptar la última jarra de agua en el inventario de los ciudadanos.";
+
+translate "Warning: When stored in chests, stronger beetles will eat weaker beetles."
+to spanish "Attention: Lorsqu'entreposées dans les coffres, les scarabées les plus robustes mangeront les plus faibles.";
+

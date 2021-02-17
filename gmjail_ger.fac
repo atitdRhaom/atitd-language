@@ -1,0 +1,40 @@
+module gmjail_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 MDO Entertainment	                	   **
+//**                                                                       **
+//***************************************************************************
+
+//menues
+translate "U1 is already in jail."
+to german "U1(name) ist bereits im Gefängnis";
+
+translate "Sending U1 to GM Jail."
+to german "Schicke U1(name) ins Gefängnis";
+
+translate "You have been sent to GM Jail.  Please contact a GM to find out why."
+to german "Du wurdest ins GM Gefängnis interniert. Bitte kontaktiere einen GM, um den Grund zu erfahren.";
+
+translate "Sent U1 to GM Jail"
+to german "U1(name) wurde ins GM Gefängnis interniert";
+
+translate "U1 is not in jail."
+to german "U1(name) ist nicht im Gefängnis";
+
+translate "Sending U1 back to his previous location."
+to german "Schicke U1(name) zur vorherigen Position zurück";
+
+translate "You are being sent back to the point where you were sent to the holding area."
+to german "Du wurdest an den Ort zurückentlassen, an dem Du Dich vor Deiner Internierung aufgehalten hast.";
+
+translate "Sent U1 back home from GM Jail"
+to german "U1(name) wurde aus dem GM Gefängnis nach Hause entlassen";
+
+translate "Send this player to GM Jail"
+to german "Interniere diesen Spieler im GM Gefängnis";
+
+translate "Send this player back to Egypt"
+to german "Schicke diesen Spieler wieder nach Ägypten zurück";

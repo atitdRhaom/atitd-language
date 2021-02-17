@@ -1,0 +1,22 @@
+module duelselect_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment		           **
+//**                                                                       **
+//***************************************************************************
+//menues
+
+translate "Please wait..."
+to german "Bitte warten...";
+
+translate "Choose an Opponent."
+to german "W‰hle einen Gegner.";
+
+translate "Now your opponent must choose you."
+to german "Dein Gegner muﬂ nun Dich ausw‰hlen.";
+
+translate "I'm Just Watching"
+to german "Ich beobachte nur.";

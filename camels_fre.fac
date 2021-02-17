@@ -1,0 +1,208 @@
+Module Camels_fre;
+
+translate CamelFarm to french masculine { ns "Enclos à chameaux"; np "Enclos à chameaux"; }
+translate DemoCamelFarm to french masculine { ns "Enclos à chameaux"; np "Enclos à chameaux"; }
+
+translate camelbone to french masculinecollective { ns "Os de chameau"; np "Os de chameaux";}
+
+translate CamelMilk to french feminine { ns "Lait de chamelle"; np "Laits de chamelle"; }
+
+translate CamelMeat to french neuter { ns "Viande de chameau"; np "Viandes de chameau"; }
+
+translate Wool to french feminine { ns "Balle de laine"; np "Balles de laine"; }
+
+translate Dung to french masculine { ns "Fumier"; np "Fumiers"; }
+
+translate CamelPheromoneMale to french feminine { ns "Phéromones de chameau"; np "Phéromones de chameau"; }
+
+translate CamelPheromoneFemale to french feminine { ns "Phéromones de chamelle"; np "Phéromones de chamelle"; }
+
+translate "With high dexterity, you are able to keep the bones of this camel intact after slaughtering it."
+to french "Avec une grande dextérité, vous avez pu garder intacts les os de ce chameau, après l'avoir abattu.";
+
+translate "Collect a drop of Male Camel Pheromone"
+to french "Recueillir une goutte de phéromones de chameau";
+
+translate "Collect a drop of Female Camel Pheromone"
+to french "Recueillir une goutte de phéromones de chamelle";
+
+translate "Set number of Camels"
+to french "Nombre de chameaux";
+
+translate "Males="
+to french "Mâles=";
+
+translate "Females="
+to french "Femelles=";
+
+translate "Call to the Wild Camels"
+to french "Appeler des chameaux sauvages";
+
+translate "Share the mind of the Wild Camels"
+to french "Partager les pensées des chameaux sauvages";
+
+translate "It has N1 male camels, and N2 female camels."
+to french "L'enclos contient N1 chameaux et N2 chamelles.";
+
+translate "The feed trough has N1 straw."
+to french "La mangeoire contient N1 bottes de paille.";
+
+translate "Camel Farm owned by U1 got a camel for N1 straw."
+to french "La ferme de chameaux possédée par U1(name) a obtenu un chameau pour N1 paille.";
+
+translate "Open the door"
+to french "Ouvrir le portail";
+
+translate "Close the door"
+to french "Fermer le portail";
+
+translate "Farming"
+to french "Agriculture";
+
+translate "Build a Dromedary Pen"
+to french "Construire un enclos à chameau";
+
+translate "Treat the female camels to a taste of honey"
+to french "Entraîner les femelles à apprécier le goût du miel";
+
+translate "You need N1 honey - the camels are so pushy that you have to feed them all, not just the ones who recently gave birth!"
+to french "Il vous faut N1 doses de miel - les chamelles sont si capricieuses que vous devrez tous les nourrir, et non pas seulement celles qui ont mis bas récemment !"; 
+
+translate "Load the trough with Straw"
+to french "Mettre de la paille dans la mangeoire";
+translate "Load the trough with all Straw"
+to french "Mettre toute la paille dans la mangeoire";
+
+translate "Check for signs of wild camels"
+to french "Rechercher les chameaux sauvages";
+
+translate "Check the health of your camels"
+to french "Contrôler la santé de vos chameaux";
+
+translate "You don't see any signs of wild camels yet."
+to french "Pas de chameaux sauvages en vue pour l'instant.";
+
+translate "Slaughter a Male Camel"
+to french "Abattre un chameau";
+
+translate "Slaughter a Female Camel"
+to french "Abattre une chamelle";
+
+translate "Slaughter"
+to french "Abattre";
+
+translate "Slaughter/Slaughter a Male Camel"
+to french "Abattre/ Abattre un chameau";
+
+translate "Slaughter/Slaughter a Female Camel"
+to french "Abattre/Abattre une chamelle";
+
+translate "You sense that the last night, a wild camel found a new home, and enjoyed a meal of N1 straw."
+to french "Vous avez l'impression que la nuit dernière, un chameau sauvage a trouvé une nouvelle maison et mangé N1 bottes de paille.";
+
+translate "View log of Emergency Feeding"
+to french "Voir l'historique des alertes alimentaires";
+
+translate "There were no emergency feedings."
+to french "Pas d'alertes alimentaires.";
+
+translate "  Pen contained N1 camels.  Pen contained N2 straw.  U1 added N3 straw."
+to french "  L'enclos contenait N1 chameaux.  L'enclos contenait N2 paille.  U1(name) a ajouté N3 bottes de paille.";
+
+translate "Camel ate N1 straw."
+to french "Le chameau a mangé N1 bottes de paille.";
+
+translate "A Male Camel settled into your pen last night."
+to french "Un chameau a élu domicile dans votre enclos pendant la nuit.";
+
+translate "A Female Camel settled into your pen last night."
+to french "Une chamelle a élu domicile dans votre enclos pendant la nuit.";
+
+translate "There are signs of wild camels eating some of the straw last night."
+to french "Vous pensez que des chameaux sauvages ont mangé un peu de paille pendant la nuit.";
+
+translate "By order of the Guild Dromedary Pen Protection Act, passed by Meffi on 11/12/2002, opening or closing the door on a guild owned Dromedary Pen, by anyone not a member, is illegal."
+to french "En vertu de la loi sur la protection des enclos à chameaux, promulguée par Meffi le 12 novembre 2002, l'ouverture et la fermeture de la porte d'un enclos possédé par une guilde est un acte illégal.";
+
+translate "Dromedary pens will only attract camels in the sandy desert."
+to french "Les enclos à chameaux ne peut attirer des chameaux que s'ils sont situés dans le désert.";
+
+translate "To build a dromedary pen you need:"
+to french "Pour construire un enclos à chameaux, il vous faut : ";
+translate "N1 O1"
+to french "N1 O1(N1?np:ns)";
+
+translate "No signs of wild camels."
+to french "Aucun chameau sauvage en vue.";
+
+translate "You need N1 honey - the camels are so pushy that you have to feed them all, not just the ones who recently gave birth!"
+to french "Vous avez besoin de N1 doses de miel : les chamelles sont si excitées que vous devez toutes les nourrir, et pas seulement celles qui viennent de mettre bas !";
+
+translate "A female camel was born recently."
+to french "Une chamelle est née récemment.";
+
+translate "A male camel was born recently."
+to french "Un chameau est né récemment.";
+
+translate "Your camels look healthy"
+to french "Vos chameaux semblent en bonne santé.";
+
+translate "No camels live here."
+to french "Aucun chameau ne vit ici.";
+
+translate "A female camel died of starvation recently."
+to french "Une chamelle est morte de faim récemment.";
+
+translate "A male camel died of starvation recently."
+to french "Un chameau est mort de faim récemment.";
+
+translate "Your camels are about to die of starvation."
+to french "Vos chameaux sont en train de mourir de faim.";
+
+translate "Your camels are looking totally emaciated."
+to french "Vos chameaux sont bien maigres.";
+
+translate "Your camels are looking pretty thin."
+to french "Vos chameaux sont plutôt maigres.";
+
+translate "You don't have any straw."
+to french "Vous n'avez pas de paille.";
+
+translate "Load trough with how much Straw? (Max N1)"
+to french "Quelle quantité de paille ? (Max N1)";
+
+translate "You are about to kill your LAST female camel. Are you sure you want to do this?"
+to french "Vous êtes sur le point de tuer votre derniere chamelle. Voulez-vous vraiment le faire ?";
+
+translate "You are about to kill your LAST male camel. Are you sure you want to do this?"
+to french "Vous êtes sur le point de tuer votre dernier chameau mâle. Voulez-vous vraiment le faire ?";
+
+translate "The Camels look healthy"
+to french "Les chameaux semblent en bonne santé";
+
+translate "You see signs of wild camels - they even nibbled at your straw! Unfortunately, camels being the gluttons that they are, tend to settle in to the pen that provides the most lavish meal, and that was elsewhere."
+to french "Vous observez des traces de chameaux sauvages - votre paille en a fait les frais ! Malheureusement, ces gloutons de chameaux ont tendance à s'installer dans l'enclos le plus fourni en nourriture, et ce n'est pas le votre.";
+
+translate "You see camel hoofprints outside the door, but the camels couldn't get in, even if they had wanted to."
+to french "Vous remarquez des empreintes de sabots de chameaux de l'autre côté de la porte, mais les chameaux n'ont pas pu rentrer, même si ils l'avaient voulu.";
+
+translate "Are you sure you want to open the door?"
+to french "Etes-vous sûr de vouloir ouvrir la porte ?";
+
+translate "Pet the Camels" to french "Caresser les chameaux";
+
+translate "The Camels spit at you. In a totally loving way! That's just how camels are."
+to french "Les chameaux vous crachent dessus avec beaucoup d'amour ! C'est juste la façon d'être des chameaux.";
+
+translate "You place more straw on the Camels back."
+to french "Vous ajouter de la paille sur le dos des chameaux";
+
+translate "You decide against it, they might bite your hand off!"
+to french "Vous en décidez autrement, ils risquent de vous mordre la main";
+
+translate "The Camels back can't take anymore straw, you decide to put it all back in the trough"
+to french "il n'y a plus de  place sur le dos des chameaux, vous décidez de remettre toute la paille dans la mangeoire";
+
+translate "The Camels are getting frisky, perhaps now isn't the best time!"
+to french "Les chameaux commencent à s'agiter, peut-être n'est-ce pas le bon moment !";
+

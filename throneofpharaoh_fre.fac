@@ -1,0 +1,194 @@
+Module ThroneofPharaoh_fre;
+
+///////////////////////////////////////////////////////////////////////////////////////
+//
+// Throne of Pharaoh
+//
+// Gather fellow Egyptians and rejoice. Because the Oracles at the Great University of Arch,
+// have discovered the long forgotten building plans for The Throne of Pharaoh. To celebrate
+// this, Pharaoh will each week grant blessings and promotions to those workers that construct
+// the most elaborately decorated throne.
+//
+// Details: A Throne of Pharaoh consists of a fixed plinth. This is the building that Pharaoh
+// will bless, it cannot be moved and it can never be removed. As this is a permanent building,
+// many Egyptians should work together to construct these.
+//
+// On a plinth can be built one chair. On the chair the decorations are placed. Up to seven
+// Egyptians can work together on building and decorating a chair. It is not necessary to be
+// seven to decorate a chair. No Egyptian can be working on more than one chair at once. The
+// first Egyptian to start a chair on a plinth, can add up to six other Egyptians to join in
+// decorating the chair. When a plinth is blessed and the chair removed, the original first
+// builder has 24 hours to rebuild a new chair, or the plinth becomes available to the public.
+//
+// Once an Egyptian has started decorating a chair, he is a part of that chair until, either
+// there are no decorations on it that he has created(they've all fallen off), the chair is
+// determined the most elaborately decorated throne or he abandons the chair and the decorations
+// he has made. If an Egyptian abandons a chair, the decorations he built stay on the chair, and
+// are still counted towards the total points for the chair. If the chair is blessed, only the
+// Egyptians still working on decorating the chair that are recognised. If an Egyptian leaves a
+// chair (no matter the reason), the original builder can add a new Egyptian on the next day,
+// to fill the empty spot. If the original builder leaves, the chair picks the remaining worker
+// that has added the most decorations to the chair as the new original builder(if there's a tie,
+// it picks randomly amongst the tie).
+//
+// To build a decoration, the Egyptian must visit the plinth to receive a new list of materials
+// needed to build the decoration. After receiving the list, the Egyptian has 3 hours to build
+// and attach the decoration. The list of materials cannot be discarded, it either has to be
+// completed or the decoration is lost. When a plinth has given out a list of materials, it will
+// not give out a new material list, before the current list is either finished, or the 3 hours
+// have passed. An Egyptian can only ask for a list of materials for a decoration once every day.
+// The Egyptians list of materials for a new decoration will change each day, even if the last
+// decoration wasn't finished. To make sure the decoration lasts as long as possible, the primary
+// decorative part of the materials will have to be attached directly into the decoration, as the
+// last ingredient to complete the decoration before the decoration is added to the chair (this
+// ingredient can be gems, metal ore, marble, or anything produced from the earth by the Egyptian
+// (no "Body" materials)).
+//
+// To determine the most elaborately decorated throne, Pharaoh will take into account the number
+// of decorations on the chair and their age in weeks. A decoration is most valuable in the first
+// week, and will loose value each consecutive week, until it is deemed worthless after 7 weeks,
+// then it falls off of the chair and disappears. There is no limit to the amount of decorations
+// on a chair, only the restrictions mentioned above limits the amount.
+// Each week, Pharaoh will visit the most elaborately decorated throne, bless the plinth with his
+// presence for a week (some random bonus in a 50 coordinate area around the plinth, until next
+// round of passes), and bring the chair with decorations back to his palace, for his enjoyment.
+// Once Pharaoh has visited a throne you've helped prepare three times, he will deem you worthy
+// and promote you.(pass the test)
+//
+// Needs:
+//   Plinth
+//   Thones - Multiple types
+//
+///////////////////////////////////////////////////////////////////////////////////////
+
+translate "The Throne of Pharaoh"
+to french "L'Epreuve du Trône du Pharaon";
+
+translate plainthrone to french feminine
+{
+  ns "Trône non décoré"; np "Trône non décoré";
+}
+
+translate tthroneofpharaoh to french masculine
+{
+  ns "Trône du Pharaon"; np "Trône du Pharaon";
+}
+translate plinthsite to french masculine
+{
+  ns "Trône de Pharaon"; np "Trônes de Pharaon";
+}
+translate plinthconstructionsite to french masculine
+{ ns "Site du socle du trône de Pharaon"; np "Site du socle du trône de Pharaon";}
+
+translate "This location is a good spot for a Throne Plinth"
+to french "Cet endroit est idéal pour y ériger un socle de trône";
+
+translate "Add a throne to this plinth"
+to french "Ajouter un trône nu à ce site";
+
+translate "Get the requirements for a decoration"
+to french "Obtenir les requêtes pour une décoration";
+
+translate "Remove myself from this throne group"
+to french "Me retirer de ce groupe du Trône";
+
+translate "Chair Leader: U1"
+to french "Chef de file: U1(name)";
+
+translate "Learn Project Management Level 3"
+to french "Apprendre la Gestion de projet niveau 3";
+
+translate "Build a Plinth Construction site"
+to french "Construisez un site de construction pour un socle";
+
+translate "Terrain isn't flat enough to build a Throne Plinth"
+to french "Le terrain n'est pas assez plat pour construire le socle du Trône";
+
+translate "Plinth Construction site"
+to french "Site de construction pour un socle";
+
+translate "Warning: this construction site will vanish in twenty-four hours!"
+to french "Attention: ce site de construction disparaîtra dans 24h ! ";
+translate "Register with a Throne Plinth"
+to french "Enregistrez vous sur un socle de trône";
+
+translate "Build a Plain Throne for Pharaoh"
+to french "Construire un Trône nu pour le Pharaon";
+
+translate "Throne Plinth"
+to french "Socle du Trône";
+
+translate "To build a Throne Plinth you need:"
+to french "Pour construire le socle du trône, il vous faut:";
+
+translate "Participate in decorating a throne"
+to french "Participez à la décoration d'un trône";
+
+translate "Withdraw from the throne OR "
+to french "Annulez votre participation à un trône OU BIEN ";
+
+translate "Have your throne advance"
+to french "Faites en sorte que votre trône avance";
+
+translate "Honor the Pharaoh"
+to french "Honorez le Pharaon";
+
+translate "The chair group is full, and can't accept any more participants."
+to french "Le groupe de construction est plein et ne peut plus accepter de participants.";
+
+translate "The leader of this chair group, must approve your participation application. You will be notified once they have made a decision. "
+to french "Le chef de ce groupe doit accepter votre participation. Vous serez notifié dès que sa décision sera prise.";
+
+translate "Ask to participate in this throne build"
+to french "Demandez à participer à la construction de ce trône.";
+
+translate "Remove my participation application"
+to french "Retirer votre demande de participation";
+
+translate "You are the last member of this chair group.  Removing yourself will disband the group and smash your chair, losing any progress.  Are you sure?  If so, type SMASH."
+to french "Vous êtes le dernier membre du groupe. Vous retirer fera disparaître le groupe et détruira votre chaise, perdant aussi tout progrès. Etes-vous sur ? Si oui, écrivez SMASH";
+
+translate "For the next decoration, you require:"
+to french "Pour la prochaine décoration, il vous faut: ";
+
+translate "Complete the current deco build"
+to french "Compléter la décoration actuelle";
+
+translate "Current Decoration Builder: U1"
+to french "Décorateur actuel: U1(name)";
+
+translate "Decoration time left: K1"
+to french "Temps restant pour la décoration: K1";
+
+translate "Chair Leader: K1"
+to french "Chef du groupe: K1";
+
+translate "You have completed Principles of the Throne of Pharaoh.  If you choose, you may continue the building of more chairs to advance in the Throne of Pharaoh."
+to french "Vous avez terminé les principes du Trône du Pharaon. Si vous le souhaitez, vous pouvez continuer à construire des chaises supplémentaires pour avancer dans l'épreuve du Trône du Pharaon";
+
+//translate "The Oracles at the Great University of Arch, have discovered the long forgotten building plans for the Throne of Pharaoh. Construct the most elaborately decorated throne to advance in this test."
+//to french "Les oracles de la grande université d'Architecture ont découvert les plans du bâtiment du Trône du Pharaon, oublié depuis longtemps. COnstruisez le plus savament décoré afin de progresser dans ce test";
+
+translate "The Oracles at the Great University of Arch, have discovered the long forgotten"
+to french "Les Oracles de la grande université d'Architecture ont découvert les plans";
+
+translate "building plans for the Throne of Pharaoh.  Construct the most elaborately"
+to french "depuis longtemps oubliés pour construire le trône du Pharaon. Construisez le trône";
+
+translate "decorated throne to advance in this test."
+to french "décoré de la façon la plus élaborée pour avancer dans cette épreuve";
+
+
+translate "Gather fellow Egyptians and rejoice. Because the Oracles at the Great University of Arch, have discovered the long forgotten building plans for The Throne of Pharaoh. To celebrate this, Pharaoh will each week grant blessings and promotions to those workers that construct the most elaborately decorated throne."
+to french "Rassemblez vous avec les autres égyptiens et réjouissez vous parce que les Oracles à la Grande Arche de l'Université, ont découvert les plans de construction oubliés depuis longtemps pour le trône de Pharaon. Pour fêter cela, Pharaon béniera de sa bénédiction et apportera des promotions, chaque semaine, aux travailleurs qui auront construit le trône le plus richement décoré.";
+
+translate "egypt N1 N2"
+to french "égypte N1 N2";
+
+translate "Pharaoh recognizes the O1 at K1 (N1)."
+to french "Le Pharaon a reconnu le O1(ns) en K1 (N1). ";
+
+translate "Egypt recognizes U1 for progressing in O1"
+to french "L'Egypte reconnait U1(name) pour avoir progressé dans le O1(ns)";
+
+

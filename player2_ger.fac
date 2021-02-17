@@ -1,0 +1,129 @@
+module Player2_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**             German Version: Astrid "Infinyti" Werner                  **
+//**                             2011                                      **
+//**                                                                       **
+//***************************************************************************
+
+translate "Password"
+	to german "Passwort";
+
+translate "Confirm Password"
+	to german "Passwort bestätigen";
+
+translate "Character"
+	to german "Spielfigur";
+
+translate "Male"
+	to german "Mann";
+
+translate "Female"
+	to german "Frau";
+
+translate "Create\nNow"
+to german "Jetzt\n erstellen";
+
+translate "You may not create a new character while the developers are working on the server."
+	to german "Du kannst dir keine neue Spielfigur erstellen solange die Entwickler am Server arbeiten.";
+
+translate "You may not create a new character at this time.\nPlease try again later."
+	to german "Du kannst momentan keine neue Spielfigur erstellen.\nBitte versuche es später noch einmal.";
+
+translate "You must select a gender"
+	to german "Du musst ein Geschlecht wählen";
+
+translate "Your passwords must match."
+	to german "Deine Passwörter müssen übereinstimmen.";
+
+translate "That character name has been reserved. If you are the one that reserved it, there is no need to go through the character creation process - your character has already been created for you."
+	to german "Dieser Spielfigurname ist belegt. Solltest du der Eigentümer sein, ist es unnötig, die Erstellung fortzuführen. Dein Avatar ist bereits für dich angelegt worden.";
+
+translate "The limit on free accounts for your ISP has been reached. Call eGenesis at 1-412-367-1000 for an exception."
+	to german "Das Limit der Testaccounts ist erreicht. Im Ausnahmefall schicke eine Mail an pharaoh@egenesis.com oder rufe eGenesis an unter 1-412-367-1000.";
+
+translate "The limit on free accounts per your ISP has been reached. If you'd like to ask for an exception, call eGenesis at 1-412-367-1000. Create a paid account?"
+	to german "Das Limit der Testaccounts ist erreicht. Schicke eine Mail an pharaoh@egenesis.com oder rufe eGenesis an unter 1-412-367-1000. Ein Abo erstellen?";
+
+translate "Unfortunately, we've had an enormous amount of credit card fraud from the ISP that you are using, so we have blocked it. To request an exception call 1-412-367-1000."
+	to german "Unglücklicherweise verdanken wir deinem Internetanbieter eine enorme Menge an Kreditkartenmissbräuchen, darum haben wir ihn gesperrt. Im Ausnahmefall schicke eine Mail an pharaoh@egenesis.com";
+
+translate "Enter character creation code:"
+	to german "Spielfigurerstellungscode eingeben:";
+
+translate "That key has already been used."
+	to german "Dieser Code wurde bereits benutzt.";
+
+translate "That key is not valid."
+	to german "Der Code ist nicht gültig.";
+
+translate "Unknown Promo Error."
+	to german "Unbekannter Promofehler.";
+
+translate "Character U1 created. You may now log in."
+	to german "U1(name) wurde erstellt. Du kannst nun einloggen.";
+
+translate "Username U1, or something very similar, is already taken."
+	to german "U1(name) oder ein ähnlicher Name, ist bereits vergeben.";
+
+translate "Select a language:"
+	to german "Wähle eine Sprache:";
+
+translate "The server is up for builders and GMs only."
+	to german "Der Server ist nur für Entwickler und GMs geöffnet.";
+
+translate "The server is in Alpha Testing mode. If you have a character you may log in. If not, you'll need an invitation code to create a character."
+to german "Der Server ist im Alphatestmodus. Wenn Du einen Char hast, kannst Du einloggen. Wenn nicht, benötigst Du einen Einladungscode.";
+
+translate "The developers are preparing the server for the upcoming official session.  Only developers may log in right now."
+to german "Die Entwickler bereiten den Server für die bevorstehende offizielle Spielzeit vor. Nur Entwickler dürfen einloggen.";
+
+translate "Although the server is up, this isn't an official play session.  You may log in if you want, and but THIS GAME IS NOT FUN unless it's during an official session when there are other people around. Also, nothing you do will be saved."
+to german "Auch wenn der Server da ist, ist er nicht offiziell geöffnet. Du kannst einloggen, wenn Du möchtest, aber dieses Spiel ist KEIN SPASS ohne andere Spieler. Außerdem wird kein Spielstand gespeichert werden.";
+
+translate "Player Identification: "
+to german "Spieleridentifikation: ";
+
+translate "You must type in a name for your player."
+to german "Du musst einen Namen für deine Spielfigur eingeben.";
+
+translate "Privileged users must use a password"
+to german "Priviligierte Spieler müssen ein PW benutzen";
+
+translate "No such player."
+	to german "Spieler unbekannt.";
+
+translate "That's the wrong password."
+	to german "Dies ist das falsche Passwort.";
+
+translate "Your character has died. "
+	to german "Deine Spielfigur ist gestorben. ";
+
+translate "Your character account is suspended for the next K1."
+	to german "Dein Spielaccount wurde für die nächsten K1 suspendiert.";
+
+translate "The Server is open for Developers only."
+	to german "Der Server ist nur für Entwickler geöffnet.";
+
+translate "The Server is open for Builders and GMs only."
+	to german "Der Server ist nur für Entwickler und GMs geöffnet.";
+
+translate "The server is only open for Builders, GMs, and Expert Mentors."
+	to german "Der Server ist nur für Entwickler, GMs und erfahrene Mentoren geöffnet.";
+
+translate "Would you like to restart your subscription?"
+to german "Möchtest Du Dein Abonnement wiedereröffnen?";
+
+translate "Egypt welcomes back: U1 after K1"
+to german "Ägypten begrüsst den Rückkehrer U1(name) nach K1";
+
+translate "Your account exists, but you need an Alpha Key:"
+to german "Dein Account besteht, aber Du brauchst einen Alphakey:";
+
+translate "Citizen: U1"
+	to german "Bürger: U1(name)";
+
+translate "Could not find U1"
+	to german "U1(name) gibt es nicht";

@@ -1,0 +1,98 @@
+module buddies_fre;
+
+//menues
+
+translate "Friends list"
+to french "Liste d'amis";
+
+translate "Friends List/Add someone to my list"
+to french "Liste d'amis/Ajouter quelqu'un à ma liste";
+
+translate "Add someone to my list"
+to french "Ajouter quelqu'un à ma liste";
+
+translate "Name of person to add..."
+to french "Nom de la personne à ajouter...";
+
+translate "Can't find K1"
+to french "Impossible de trouver K1";
+
+translate "U1 is already on your Friends List."
+to french "U1(name) est déjà dans votre liste d'amis.";
+
+translate "Failed to add U1 to buddies list.  You have too many people on your list. (Limit: N2, Currently: N3"
+to french "Vous n'avez pas réussi à ajouter U1(name) à votre liste d'amis. Vous avez N2 noms sur la liste, la limite est de N3.";
+
+translate "Added U1 to your friends list"
+to french "U1(name) vient de rejoindre votre liste d'amis";
+
+translate "U1 isn't on your Friends List."
+to french "U1(name) n'est pas dans votre liste d'amis.";
+
+translate "Removed U1 from your friends list"
+to french "U1(name) vient de quitter votre liste d'amis";
+
+translate "Name of person to remove..."
+to french "Nom de la personne à retirer...";
+
+translate "Toggle my Friends List (F11)"
+to french "Activer la liste d'amis (F11)";
+
+translate "You tried to turn on your Friends List, but it's empty. Use the Utility menu to add buddies to your list."
+to french "Vous tentez d'activer votre liste d'amis, mais elle est vide. Utilisez le menu Outils pour ajouter des amis à votre liste.";
+
+translate "Sending message to U1..."
+to french "Vous envoyez un message à U1(name)...";
+
+translate "See information about yourself"
+to french "Voir mes informations personnelles";
+
+translate "Friends List/Remove someone from my list"
+to french "Liste d'amis/Retirer quelqu'un de ma liste";
+
+translate "Friends List/Toggle my Friends List (F11)"
+to french "Liste d'amis/Activer la liste d'amis (F11)";
+
+translate "Remove someone from my list"
+to french "Retirer quelqu'un de ma liste";
+
+translate "See information about U1"
+to french "Voir les informations sur U1(name)";
+
+translate "Online"
+to french "En ligne";
+
+translate "N1d"
+to french "N1j";
+translate "U1 K1"
+to french "U1(name) K1";
+
+translate "Your buddy, U1 has gone away from thier keyboard."
+to french "Votre ami U1(name) s'est absenté.";
+
+translate "Your buddy, U1 has entered the game."
+to french "Votre ami U1(name) vient de se connecter.";
+
+translate "Your buddy, U1 has come back to thier keyboard."
+to french "Votre ami U1(name) est de retour.";
+
+translate "Your buddy, U1 is no longer in game."
+to french "Votre ami U1(name) vient de se déconnecter.";
+
+translate "Display a message to main if a buddy enters the game"
+to french "Signaler dans le canal Général quand un ami se connecte";
+
+translate "Display a message to main if a buddy leaves the game"
+to french "Signaler dans le canal général quand un ami se déconnecte";
+
+translate "Display a message to main if a buddy goes away from keyboard"
+to french "Signaler dans le canal Général quand un ami s'absente";
+
+translate "Buddy List Options"
+to french "Options de la Liste d'amis";
+
+translate "Enter Player Name"
+to french "Entrez le nom d'un joueur";
+
+translate "Can't find U1"
+to french "Impossible de trouver U1(name)";

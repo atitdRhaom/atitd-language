@@ -1,0 +1,87 @@
+module bonfires_fre;
+
+translate Bonfire to french masculine
+{
+  ns "Feu de bois"; np "Feux de bois";
+}
+
+translate Charcoal to french masculine
+{
+  ns "charbon de bois"; np "charbons de bois";
+}
+
+translate lime to french feminine
+{
+  ns "Chaux"; np "Chaux";
+}
+
+translate Ash to french feminine
+{
+  ns "Cendre"; np "Cendres";
+}
+
+translate GrilledFish to french masculine
+{
+  ns "Poisson grillé"; np "Poissons grillés";
+}
+
+translate BonfireConstruction to french masculine
+{
+  ns "Edification de feux de camp"; np "Edification de feux de camp";
+}
+
+translate Fish to french masculine
+{
+  ns "Poisson"; np "Poissons";
+}
+
+translate "Charcoal"
+to french "Charbon de bois";
+
+translate "Bonfire"
+to french "Feu";
+
+translate "How big a bonfire (# wood)?"
+to french "De quelle taille ? (# Bois)?";
+
+translate "Bonfire contains N1 wood"
+to french "Le feu contient N1 bois";
+
+translate "[Extra]Bonfire contains N1 wood"
+to french "[Extra]Le feu contient N1 bois";
+
+translate "To build that size Bonfire you need:"
+to french "Pour faire un feu de cette taille, il vous faut :";
+
+translate "N1 O1"
+to french "N1 O1(N1?np:ns)";
+
+translate "Add some O1 to the fire."
+to french "Ajouter quelques O1(np) au feu.";
+
+translate "Add how much O1 to the fire?"
+to french "Ajouter combien de O1(np) au feu ?";
+
+translate "You don't have N1 O1."
+to french "Vous n'avez pas N1 O1(N1?np:ns).";
+
+translate "Light this Bonfire"
+to french "Allumer ce feu";
+
+translate "Flame is N1. Fuel is N2 NCharcoal is N3"
+to french "Flamme : N1. Carburant N2. NCharbon de bois N3";
+
+translate "This O1 is burning"
+to french "O1(^cns) O1(ns) brûle.";
+
+translate "Remove some wood"
+to french "Retirer du bois.";
+
+translate "Remove how much wood?"
+to french "Retirer combien de bois ?";
+
+translate "There isn't that much available."
+to french "Il n'y en a pas autant.";
+
+translate "Really light the bonfire?"
+to french "Allumer réellement ce feux de bois ?";

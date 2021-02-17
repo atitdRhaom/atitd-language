@@ -1,0 +1,33 @@
+Module Petmonkey2_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2007 by MDO-Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+
+translate Monkey to german masculine
+{
+ swa "Affe";
+  sn "Affe"; sg "Affen"; sd "Affen"; sa "Affe";
+  pn "Affen"; pg "Affen"; pd "Affen"; pa "Affen";
+}
+translate MonkeyBag to german masculinecollective
+{
+ swa "Affenbeutel";
+  sn "Affenbeutel"; sg "Affenbeutels"; sd "Affenbeutel"; sa "Affenbeutel";
+  pn "Affenbeutel"; pg "Affenbeutel"; pd "Affenbeuteln"; pa "Affenbeutel";
+}
+translate "Open The Monkey Bag"
+to german "Öffne den Affenbeutel";
+
+translate "Are you sure you want to open the bag? Once opened, you must name the monkey, and he can never go back into the bag."
+to german "Bist du sicher, dass du den Beutel öffnen möchtest? Einmal geöffnet, musst du dem Affen einen Namen geben und er kann nie wieder in den Beutel zurückkehren.";
+
+translate "What do you want to name the monkey?"
+to german "Wie möchtest du den Affen nennen?";
+
+translate "The monkey jumps out of the bag as you open it! You discard the empty bag."
+to german "Als du den Beutel geöffnet hast, sprang der Affe heraus! Du wirst den leeren Beutel weg.";

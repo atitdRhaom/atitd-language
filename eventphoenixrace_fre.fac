@@ -1,0 +1,90 @@
+module EventPhoenixRace_fre;
+
+translate "The next stadium in the Race of the Phoenix is at: "
+to french "Le prochain stadium dans la Course au Phoenix est � : ";
+translate "The next stadium in the Race of the Phoenix is at: N1 N2"
+to french "Le prochain stadium dans la Course au Phoenix est � : N1 N2";
+
+translate "You are limited to N1 of travel time during the Phoenix' Race. To withdraw from the race, keeping your score, use the Navigation menu."
+to french "Vous �tes limit� � N1 de Temps de Voyage pendant la dur�e de la Course au Phoenix. Pour abandonner la course, tout en conservant votre score, utilisez le menu Orientation.";
+
+translate "You have now used N1 of travel time during the Phoenix' Race."
+to french "Vous avez utilis� N1 de Temps de Voyage pendant la Course au Phoenix.";
+
+translate "Withdraw from the Phoenix' Race"
+to french "Abandonner la Course au Phoenix";
+
+translate "Withdraw from the Phoenix' Race? All progress will be saved, but you won't be able to continue gathering Phoenix models."
+to french "Voulez-vous vraiment abandonner la Course ? Votre progression sera conserv�e, mais vous ne pourrez plus rechercher les statuettes de Phoenix.";
+
+translate "Tag this Stadium"
+to french "Marquer ce Stadium";
+
+translate "This stadium can not be tagged - perhaps another is the goal!"
+to french "Ce stadium ne peut �tre marqu� - essayez en un autre !";
+
+translate "You have already made the tag."
+to french "Vous avez d�j� marquer ce stadium.";
+
+translate "You also got: "
+to french "Vous avez �galement obtenu: ";
+
+translate "Well done! You grabbed a O1!"
+to french "Bien jou� ! Vous avez obtenu O1(uns) O1(ns) !";
+
+translate "Well done! You grabbed a O1! You also got: N1O2."
+to french "Bien jou� ! Vous avez obtenu O1(uns), ainsi que N1 O1(N1?np:ns).";
+translate "Well done! You grabbed a O1! You also got: N1 O2."
+to french "Bien jou� ! Vous avez obtenu une O1(ns), ainsi que N1 O2(N1?np:ns).";
+
+translate "Sorry, but N1 others have already tagged this stadium."
+to french "D�sol�, N1 personnes ont d�j� marqu� ce stadium.";
+
+translate "The next stadium in the Race of the Phoenix is at: Karnak N1 N2"
+to french "Le prochain stadium dans la Course aux Phoenix est situ� � : Karnak N1 N2";
+translate "The next stadium in the Race of the Phoenix is at: Seven Lakes N1 N2"
+to french "Le prochain stadium dans la Course aux Phoenix est situ� � : Sept Lacs N1 N2";
+translate "The next stadium in the Race of the Phoenix is at: Cradle of the Sun N1 N2"
+to french "Le prochain stadium dans la Course aux Phoenix est situ� � : Berceau du Soleil N1 N2";
+translate "The next stadium in the Race of the Phoenix is at: Kush N1 N2"
+to french "Le prochain stadium dans la Course aux Phoenix est situ� � : Kush N1 N2";
+translate "The next stadium in the Race of the Phoenix is at: Khartoum N1 N2"
+to french "Le prochain stadium dans la Course aux Phoenix est situ� � : Khartoum N1 N2";
+translate "The next stadium in the Race of the Phoenix is at: Upper Egypt N1 N2"
+to french "Le prochain stadium dans la Course aux Phoenix est situ� � : Haute-Egypte N1 N2";
+translate "The next stadium in the Race of the Phoenix is at: Lower Egypt N1 N2"
+to french "Le prochain stadium dans la Course aux Phoenix est situ� � : Basse-Egypte N1 N2";
+translate "The next stadium in the Race of the Phoenix is at: Desert of Shades N1 N2"
+to french "Le prochain stadium dans la Course aux Phoenix est situ� � : Desert des Ombres N1 N2";
+translate "The next stadium in the Race of the Phoenix is at: Tanis N1 N2"
+to french "Le prochain stadium dans la Course aux Phoenix est situ� � : Tanis N1 N2";
+translate "The next stadium in the Race of the Phoenix is at: Qatara N1 N2"
+to french "Le prochain stadium dans la Course aux Phoenix est situ� � : Qatara N1 N2";
+translate "The next stadium in the Race of the Phoenix is at: Sinai N1 N2"
+to french "Le prochain stadium dans la Course aux Phoenix est situ� � : Sinai N1 N2";
+translate "The next stadium in the Race of the Phoenix is at: Valley of Kings N1 N2"
+to french "Le prochain stadium dans la Course aux Phoenix est situ� � : Vall�e des Rois N1 N2";
+translate "The next stadium in the Race of the Phoenix is at: Fool's Paradise N1 N2"
+to french "Le prochain stadium dans la Course aux Phoenix est situ� � : Fool's Paradise N1 N2";
+translate "The next stadium in the Race of the Phoenix is at: Khmun N1 N2"
+to french "Le prochain stadium dans la Course aux Phoenix est situ� � : Khmun N1 N2";
+translate "The next stadium in the Race of the Phoenix is at: Stillwater N1 N2"
+to french "Le prochain stadium dans la Course aux Phoenix est situ� � : Eaux Dormantes N1 N2";
+translate "The next stadium in the Race of the Phoenix is at: Falcon Bay N1 N2"
+to french "Le prochain stadium dans la Course aux Phoenix est situ� � : Baie du Faucon N1 N2";
+translate "The next stadium in the Race of the Phoenix is at: Saqqarah N1 N2"
+to french "Le prochain stadium dans la Course aux Phoenix est situ� � : Saqqarah N1 N2";
+translate "The next stadium in the Race of the Phoenix is at: Pyramid Lake N1 N2"
+to french "Le prochain stadium dans la Course aux Phoenix est situ� � : Lac de la Pyramide N1 N2";
+translate "The next stadium in the Race of the Phoenix is at: Shabbat Ab N1 N2"
+to french "Le prochain stadium dans la Course aux Phoenix est situ� � : Shabbat Ab N1 N2";
+translate "The next stadium in the Race of the Phoenix is at: Meroe N1 N2"
+to french "Le prochain stadium dans la Course aux Phoenix est situ� � : Meroe N1 N2";
+translate "The next stadium in the Race of the Phoenix is at: Queen's Retreat N1 N2"
+to french "Le prochain stadium dans la Course aux Phoenix est situ� � : Retraite de la Reine N1 N2";
+translate "The next stadium in the Race of the Phoenix is at: Heaven's Gate N1 N2"
+to french "Le prochain stadium dans la Course aux Phoenix est situ� � : Porte de l'Au-del� N1 N2";
+translate "The next stadium in the Race of the Phoenix is at: Nomads' Paradise N1 N2"
+to french "Le prochain stadium dans la Course aux Phoenix est situ� � : Paradis des nomades N1 N2";
+translate "The next stadium in the Race of the Phoenix is at: Cat's Claw Ridge N1 N2"
+to french "Le prochain stadium dans la Course aux Phoenix est situ� � : Cr�te de la Griffe N1 N2";

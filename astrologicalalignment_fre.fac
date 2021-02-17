@@ -1,0 +1,128 @@
+module astrologicalalignment_fre;
+
+translate Candle to french feminine
+{
+  ns "Chandelle"; np "Chandelles";
+}
+
+translate Alignment to french feminine
+{
+  ns "Epreuve d'alignement astrologique"; np "Epreuve d'alignement astrologique";
+}
+
+translate "Start verifying alignment of your group"
+to french "Commencez à vérifier l'alignement de votre groupe";
+
+translate "The ritual of Astrological Alignment has been known for as long as anyone can remember. As the ritual is completed, the two participants will immediately sense a special bond, or lack thereof."
+to french "Le rituel de l'alignement astrologique est connu depuis aussi longtemps qu'on se en souvienne. Dès que le rituel est terminé, les deux participants sentiront immédiatement la présence d'un lien spécial";
+translate "The test of Astrological Alignment is to find a group of N1 people, each aligned with every other. Details of the ritual may be studied here."
+to french "Pour cette épreuve, vous devez trouver un groupe de N1 personnes, alignées chacune avec l'autre. Les détails du rituel peuvent être étudiés ici.";
+
+
+translate "Principles of Astrological Alignment shows you the basics on how align yourself with others."
+to french "Les principes de l'alignement astrologique vous enseignent les bases sur la façon de vous aligner avec les autres.";
+
+translate "Learn how to perform the ritual of Alignment"
+to french "Apprendre à exécuter le rituel d'alignement";
+
+translate "Are you sure you want to abandon the Principles of Astrological Alignment? Progress will be lost, though you can restart at --any time."
+to french "Êtes-vous certain de vouloir abandonner les principes de l'alignement astrologique ? Les progrès accomplis seront perdus, cependant vous pourrez recommencer à tout moment.";
+
+translate "Principles of Astrological Alignment shows you the basics on how align yourself with others. To complete the principles, align yourself with at least three different individuals."
+to french "Les principes de l'alignement astrologique vous enseignent les bases sur la façon de vous aligner avec les autres. Pour compléter les principes, alignez-vous avec au moins trois autres personnes.";
+
+translate "Find 5 Aligned Priests"
+to french "Trouvez 5 prêtres alignés";
+
+translate "You have completed Principles of Astrological Alignment."
+to french "Vous avez complété les principes de l'alignement astrologique.";
+
+translate "remote view"
+to french "Vue à distance";
+
+translate "Astrological Alignment"
+to french "Alignement astrologique";
+
+translate "Verify alignment with U1's group"
+to french "Vérifier l'alignement du groupe de U1(name)";
+
+translate "Reset Astro"
+to french "Réinitialiser l'astro";
+
+translate "Verify alignment of your group"
+to french "Vérifier l'alignement de votre groupe";
+
+translate "Start the Test of Astrological Alignment"
+to french "Commencer l'épreuve d'Alignement astrologique";
+
+translate "Study"
+to french "Etudier";
+
+translate "Astrological Rituals"
+to french "Rituels astrologiques";
+
+translate "Priest #1: Candle on Left Pillar"
+to french "Prêtre #1: Chandelle sur pillier Gauche";
+translate "Priest #1: Candle on Left Focus"
+to french "Prêtre #1: Chandelle sur plateau gauche";
+translate "Priest #2: Candle on Right Focus"
+to french "Prêtre #2: Chandelle sur plateau droit";
+translate "Priest #2: Candle on Right Pillar"
+to french "Prêtre #2: Chandelle sur pillier droit";
+translate "Finally: Candles are lit in the order placed, by the Priest who placed each one."
+to french "Pour finir: Les chandelles sont allumées dans l'ordre placé, par les prêtres qui les ont placées";
+
+translate "Ritual of Astrological Alignment"
+to french "Rituel d'Alignement astrologiques";
+
+translate "To verify alignment, you must donate one medium quartz to the school."
+to french "Pour vérifier l'alignement, vous devez faire don d'un quartz moyen à l'école.";
+
+translate "Your group is not fully aligned. You may try again, but another medium quartz will be required of each member."
+to french "Votre groupe n'est pas bien aligné. Vous pouvez essayer de nouveau, mais il faut un autre quartz moyen pour chaque membre.";
+
+translate "Your Astrological Alignment group failed to gather N1 members. You may try again, but another medium quartz will be required of each member."
+to french "Votre groupe d'Alignement astrologique n'a pas pu réunir N1 membres. Vous pouvez essayer de nouveau, mais il faut un autre quartz moyen pour chaque membre.";
+
+translate "You have already completed this test."
+to french "Vous avez déjà passé cette épreuve.";
+
+translate "The ritual of Astrological Alignment has been known for as long as anyone can remember. As the ritual is completed, the two participants will immediately sense a special bond, or lack thereof.\n \nThe test of Astrological Alignment is to find a group of four people, each aligned with every other. Details of the ritual may be studied here."
+to french "Le rituel de l'Alignement astrologiques est connu depuis des temps immémoriaux. Lorsque le rituel est achevé, les deux participants ressentent un lien très fort se tisser entre eux, ou bien ne ressentent rien du tout.\n\nL'épreuve d'Alignement astrologique nécessite quatre personnes, chacune alignée l'une par rapport à l'autre. Vous pouvez à présent étudier quelques détails du rituel.";
+
+translate "Ritual of Astrological Alignment:"
+to french "Rituel de l'Alignement astrologique";
+
+translate "Person #1: Candle on L Pillar"
+to french "Personne 1 : Chandelle sur pilier de gauche";
+
+translate "Person #1: Candle on L Focus"
+to french "Personne 1 : Chandelle sur plateau de gauche";
+
+translate "Person #2: Candle on R Focus"
+to french "Personne 2 : Chandelle sur plateau de droite";
+
+translate "Person #2: Candle on R Pillar"
+to french "Personne 2 : Chandelle sur pilier de droite";
+
+translate "Finally: Candles are lit in the order placed, by the person who placed each one."
+to french "Et enfin : les chandelles sont allumées dans l'ordre dans lesquelles elles ont été placées, par la personne qui a placé chaque chandelle.";
+
+translate "You can't seem to get a good fix on U1's inventory."
+to french "Vous ne voyez pas bien ce que possède U1(name).";
+
+translate "You are too mentally exhaused to remote view. Wait another N1 seconds."
+to french "Vous êtes mentalement trop épuisé pour voir à distance. Attendez encore N1 secondes.";
+
+translate "You are quite sure that U1 is empty handed."
+to french "Vous avez la certitude que U1(name) a les mains vides.";
+
+translate "At least "
+to french "Au moins ";
+Translate "N1 O1"
+to french "N1 O1(N1?np:ns)";
+
+translate "You sense that U1 is carrying:"
+to french "Vous sentez que U1(name) possède";
+Translate "N1 O1"
+to french "N1 O1(N1?np:ns)";

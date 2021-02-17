@@ -1,0 +1,215 @@
+module emptyhand_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**            German Version: Astrid "Infinyti" Werner                   **
+//**                            2012                                       **
+//**                                                                       **
+//***************************************************************************
+
+translate "Principles of Thought"
+	to german "Prinzipien der Gedanken";
+
+translate "Thought"
+	to german "Gedanken";
+
+translate "Build an Empty Hand Puzzle and have 7 people solve and rate it."
+	to german "Baue ein Puzzle der leeren Hand und lasse es von 7 Leuten lösen und bewerten.";
+
+translate "Dry Flax"
+	to german "Trockne Flachs";
+
+translate "Dig Limestone"
+	to german "Grabe Kalkstein aus";
+
+translate "Crush Cabbage for Juice"
+	to german "Zerdrücke Kohl zu Saft";
+
+translate "Grate Carrots for Juice"
+	to german "Reibe Karotten zu Saft";
+
+translate "Build an Empty Hand Puzzle"
+	to german "Baue ein Puzzle der leeren Hand";
+
+translate "Design an Empty Hand Puzzle and Solve it"
+	to german "Erstelle ein Puzzle der leeren Hand und löse es.";
+
+translate "Have 7 Judges solve and rate your Empty Hand Puzzle, at least Good"
+	to german "7 Spieler lösen und bewerten dein Puzzle mit mindestens 'Gut'";
+
+translate "Claim your rights as Initiate of Thought"
+	to german "Fordere deine Rechte als Anfänger der Gedanken ein";
+
+translate "All of the above, OR solve three recently recognized Empty Hand"
+	to german "Alles obenstehende, ODER löse 3 gerade eben erst anerkannte Puzzles der leeren Hand";
+
+translate EmptyHandTower to german masculine
+{
+  swa "Turm der leeren Hand";
+  sn "Turm der leeren Hand"; sg "Turm der leeren Hand"; sd "Turm der leeren Hand"; sa "Turm der leeren Hand";
+  pn "Turm der leeren Hand"; pg "Turm der leeren Hand"; pd "Turm der leeren Hand"; pa "Turm der leeren Hand";
+}
+
+translate "You have completed the Principles of Thought."
+	to german "Du hast die Prinzipien der Gedanken gemeister.";
+
+translate "Claim Principles Advancement"
+	to german "Fordere Prinzipienfortschritt ein";
+
+translate "No judges have yet rated your design."
+	to german "Keine Spieler haben bisher dein Werk bewertet.";
+
+translate "To claim advancement in the Principles of Thought, N1 people must judge your creation, and most must rate it at least Good."
+	to german "Um deinen Fortschritt in den Prinzipien der Gedanken verkünden zu können, müssen N1 Spieler dein Werk bewerten. Die meisten davon müssen mind. mit 'Gut' bewerten.";
+
+translate "So far, N1 judges have tended to rated it N2 lower than that"
+	to german "Bis jetzt haben N1 Richter N2 mal niedriger als 'Gut'gewertet";
+
+translate "Modify with an additional block"
+to german "Füge einen weiteren Block hinzu";
+
+
+translate "Cabbage Juice (Coloring Purple Face)"
+	to german "Kohlsaft (Seitenfarbgebung Lila)";
+
+translate "Dirt (Coloring Brown Face)"
+	to german "Schmutz (Seitenfarbgebung Braun)";
+
+translate "Limestone (Coloring Light Face)"
+	to german "Kalkstein (Seitenfarbgebung Weiß)";
+
+translate "Clay (Coloring Red Face)"
+	to german "Ton (Seitenfarbgebung Rot)";
+
+translate "Carrot Juice (Coloring Orange Face)"
+	to german "Karottensaft (Seitenfarbgebung Orange)";
+
+translate "Grass (Coloring Green Face)"
+	to german "Gras (Seitenfarbgebung Grün)";
+
+translate "You have reached the maximum size of 12 blocks."
+	to german "Du hast die max. Größe von 12 Blöcken erreicht.";
+
+translate "Canvas (Cushioning)"
+	to german "Tücher (Polsterung)";
+
+translate "To modify with an additional block:"
+	to german "Um durch einen weiteren Block abzuwandeln:";
+
+translate "Empty Hand Puzzle"
+	to german "Puzzle der leeren Hand";
+
+translate "Dried Flax for stuffing Blocks"
+	to german "Getrockneter Flax für die Blockfüllung";
+
+translate "Thorns for Block Separation"
+	to german "Dornen für die Blockunterteilung";
+
+translate "Clay for base"
+	to german "Ton für die Basis";
+
+translate "Boards for Holding Area"
+	to german "Bretter für das Lager";
+
+translate "Limestone for extra Block weight"
+	to german "Kalkstein für zusätzliches Blockgewicht";
+
+translate "Rope for Mechanism"
+	to german "Seile für die Mechanik";
+
+translate "To begin building an Empty Hand Puzzle you need:"
+	to german "Um ein Puzzle der leeren Hand zu bauen, benötigst du:";
+
+translate "You are out of blocks."
+	to german "Du hast keine Blöcke mehr";
+
+translate "The warehouse is out of blocks."
+	to german "Das Lager hat keine Blöcke mehr.";
+
+translate "Randomize the Rule Order"
+	to german "Ordne die Regelreihenfolge zufällig an";
+
+translate "This will reset all judging information. Are you sure you want to proceed?"
+	to german "Dies wird alle Bewertungsinformationen zurücksetzen. Bist du sicher, dass du weitermachen willst?";
+
+translate "Edit the Rules"
+	to german "Lege die Regeln fest";
+
+translate "Learning Mode"
+	to german "Übungsmodus";
+
+translate "Warehouse has N1/N2 blocks."
+	to german "Das Lager hat N1/N2 Blöcke.";
+
+translate "Claim Win!"
+	to german "Sieg verkünden!";
+
+translate "Swap"
+	to german "Wechseln";
+
+translate "Warehouse: N1 (max N2)"
+	to german "Lager: N1 (max. N2)";
+
+translate "Save"
+	to german "Speichern";
+
+translate "Save puzzle as..."
+	to german "Speichere Puzzle als...";
+
+translate "Saved configuration under K1"
+	to german "Konfiguration gespeichert als K1";
+
+translate "Delete"
+	to german "Entfernen";
+
+translate "Load"
+	to german "Lade";
+
+translate "Delete K1?"
+	to german "Lösche K1?";
+
+translate "Puzzle K1 deleted."
+	to german "Puzzle K1 gelöscht.";
+
+translate "Reset the game in progress"
+	to german "Setze das laufende Spiel zurück";
+
+translate "Play Empty Hand"
+	to german "Spiele Leere Hand";
+
+translate "The Empty Hand Puzzle must possess at minimum three blocks to be played."
+	to german "Geht nicht: Das Puzzle der leeren Hand muss mit mind. 3 Blöcken ausgestattet sein.";
+
+translate "The Empty Hand Puzzle must have at least three rules."
+	to german "Geht nicht: Das Puzzle der leeren hand muss mind. 3 Regeln besitzen.";
+
+translate "The Empty Hand Puzzle cannot start with all blocks in its warehouse. Please rework the rules."
+	to german "Das Puzzle kann nicht starten, wenn all seine Blöcke im Lager liegen. Bitte überarbeite die Regeln.";
+
+translate "The Tower's designer must first solve the challenge. They have not yet done so."
+	to german "Der Turmdesigner muss Herausforderung als erstes meistern. Dies ist noch nicht geschehen.";
+
+translate "You solve your design, proving it is solveable, and thereby opening it for others to play and judge."
+	to german "Du meisterst dein Design und beweist, dass es lösbar ist, damit öffnest du es für andere Spieler zur Bewertung.";
+
+translate "You have moved all blocks from your hand to the tower. You may now rate the design of this puzzle. You are rating it based on how hard and clever a puzzle it was. You should give a very clever puzzle a high score, and an easy or tedious puzzle a low score."
+	to german "Du hast alle Blöcke in den Turm verschoben. Du darfst nun das Design dieses Puzzles bewerten. Deine Bewertung sollte sich daran orientieren, wie schwer oder clever das Puzzle war. Du solltest einem sehr pfiffigen Puzzle eine hohe Wertung und einem einfachen oder langweiligen eine niedrige Wertung geben.";
+
+translate "Design an Empty Hand Puzzle, and invite others to solve your creation. They will rate your puzzle on how clever and satisfying the solution is. Remember that only people who actually solve it will qualify as judges."
+	to german "Erbaue ein Puzzle der leeren Hand und lade andere Spieler ein, deine Kreation zu lösen. Sie werden es entsprechend der Pfiffigkeit oder ihrer Zufriedenheit bewerten. Bedenke, dass nur Leute, die dein Puzzle lösen können, sich auch als Richter qualifizieren können.";
+
+translate " (U1) (CLOSED)"
+	to german " U1(name) (GESCHLOSSEN)";
+
+translate " (U1) (OPEN)"
+	to german " U1(name) (OFFEN)";
+
+translate "Jiggle the Mechanism"
+	to german "Rüttle an der Mechanik";
+
+translate "Are you sure you want to re-roll the gearbox? Don't do this unless Pluribus says it's OK."
+	to german "Bist du sicher, dass du das Getriebe umbauen willst? Tue das nicht, bevor Pluribus sein OK gibt.";
+
+translate "Shift"
+	to german "Schieben";

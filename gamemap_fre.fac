@@ -1,0 +1,352 @@
+module gamemap_fre;
+
+translate valleyofkings to french
+{ns "Vallée des Rois"; np "Vallée des Rois";}
+
+translate catsclawridge to french
+{ns "Crête de la Griffe"; np "Crête de la Griffe";}
+
+translate oldegypt to french
+{ns "Vieille Egypte"; np "Vieille Egypte";}
+
+translate desertofnomads to french
+{ns "Désert des Nomades"; np "Désert des Nomades";}
+
+translate southegypt to french
+{ns "Egypte du Sud"; np "Egypte du Sud";}
+
+translate "River Plains North"
+to french "Plaines Fluviales Nord";
+translate "River Plains South"
+to french "Plaines Fluviales Sud";
+
+translate "Old Egypt North"
+to french "Ancienne Egypte Nord";
+translate "Old Egypt South"
+to french "Ancienne Egypte Sud";
+
+translate "Seven Lakes South"
+to french "des Sept Lacs Sud";
+translate "Seven Lakes North"
+to french "des Sept Lacs Nord";
+
+translate "South Egypt East"
+to french "Sud Egypt, Est";
+translate "South Egypt West"
+to french "Sud Egypt, Ouest";
+
+translate "Mark this location on my map" to french "Indiquer cette localisation sur ma carte";
+translate "You mark the location of the O1 on your map" to french "Vous indiquez la localisation de cette O1(ns) sur votre carte";
+
+translate "Offer to share maps" to french "Proposer de partager les cartes";
+
+Translate "This O1 belongs to Unknown"
+to french "O1(cns) O1(ns) appartient à un Inconnu";
+
+translate "Midland Valley"
+to french "Vallée du milieu";
+
+translate sinai to french
+{ns "Sinaï"; np "Sinaï";}
+
+translate desertofshades to french
+{ns "Désert des Ombres"; np "Désert des Ombres";}
+
+translate riverplains to french
+{ns "Plaines de la Rivière"; np "Plaines de la Rivière";}
+
+translate cradleofthesun to french
+{ns "Berceau du Soleil"; np "Berceau du Soleil";}
+
+translate fgrounds to french
+{ns "Egypte Orientale"; np "Egypte Orientale";}
+
+translate lakeofreeds to french
+{ns "Lacs des roseaux"; np "Lacs des roseaux";}
+
+translate sevenlakes to french
+{ns "7 lacs"; np "7 lacs";}
+
+
+//translate westerngrounds to french
+//{ns ""; np "";}
+
+//translate midlandvalley to french
+//{ns ""; np "";}
+
+//translate fourcorners to french
+//{ns ""; np "";}
+
+
+
+translate "Show the map (F3)"
+to french "Afficher la carte (F3)";
+
+translate "Toggle the World Map (F3)"
+to french "Afficher la carte (F3)";
+
+translate "Show the Airstream"
+to french "Montrer les courrants d'air";
+
+translate "Toggle the Map (F3)"
+to french "Afficher la carte (F3)";
+
+translate "K1 K2 K3 Altitude N1"
+to french "K1 K2 K3 Altitude N1";
+
+translate "There is no map for this area."
+to french "Cette zone n'est pas cartographiée.";
+
+translate "Navigation/Landmarks/Add a Landmark"
+to french "Navigation/Repères/Ajouter un repère";
+
+translate "Navigation/Landmarks/Delete Landmark/"
+to french "Navigation/Repères/Effacer un repère/";
+
+translate "Maximum of N1 landmarks reached."
+to french "Maximum de N1 repères atteint.";
+
+translate "Old Egypt: N1, N2"
+to french "Vieille Egypte: N1, N2";
+
+translate "Four Corners"
+to french "Quatre Coins";
+
+translate "Landmarks"
+to french "Repères";
+
+translate "Add a Landmark"
+to french "Ajouter un repère";
+
+translate "Name of Landmark? K1"
+to french "Nommer un repère ? K1";
+
+translate "Replace Landmark K1?"
+to french "Remplacer le repère K1?";
+
+translate "Delete Landmark"
+to french "Effacer le repère";
+
+translate "Are you sure you want to delete landmark K1"
+to french "Voulez-vous vraiment effacer le repère K1 ?";
+
+translate "Cradle of the Sun"
+to french "Berceau du Soleil";
+
+translate "Fool's Paradise"
+to french "Fool's Paradise";
+
+translate "Kush"
+to french "Kush";
+
+translate "Seven Lakes"
+to french "Sept Lacs";
+
+translate "Desert of Shades"
+to french "Désert des Ombres";
+
+translate "Lake of Reeds"
+to french "Lacs des roseaux";
+
+translate "South Egypt"
+to french "Egypte du Sud";
+
+translate "Eastern Grounds"
+to french "Egypte Orientale";
+
+translate "Khartoum"
+to french "Khartoum";
+
+translate "Upper Egypt"
+to french "Haute-Égypte";
+
+translate "Qatara"
+to french "Qatara";
+
+translate "Lower Egypt"
+to french "Basse-Égypte";
+
+translate "Sinai"
+to french "Sinaï";
+
+translate "Tanis"
+to french "Tanis";
+
+translate "Karnak"
+to french "Karnak";
+
+translate "Queen's Retreat"
+to french "Retraite de la Reine";
+
+translate "Pyramid Lake"
+to french "Lac de la Pyramide";
+
+translate "Nomads' Paradise"
+to french "Paradis des Nomades";
+
+translate "Falcon Bay"
+to french "Baie du Faucon";
+
+translate "Cat's Claw Ridge"
+to french "Crête de la Griffe";
+
+translate "Heaven's Gate"
+to french "Porte de l'Au-delà";
+
+translate "Stillwater"
+to french "Eaux Dormantes";
+
+translate "Adn"
+to french "Eden";
+
+translate "Welcoming Island"
+to french "île de bienvenue";
+
+translate "Location is N1 N2 in Shabbat Ab"
+to french "Coordonnées N1 N2 dans Shabbat Ab";
+
+translate "Location is N1 N2 in Saqqarah"
+to french "Coordonnées N1 N2 dans Saqqarah";
+
+translate "Location is N1 N2 in Meroe"
+to french "Coordonnées N1 N2 dans Meroe";
+
+translate "Location is N1 N2 in Khmun"
+to french "Coordonnées N1 N2 dans Khmun";
+
+translate "Location is N1 N2 in Queen's Retreat"
+to french "Coordonnées N1 N2 dans Retraite de la Reine";
+
+translate "Location is N1 N2 in Pyramid Lake"
+to french "Coordonnées N1 N2 dans Lac de la Pyramide";
+
+translate "Location is N1 N2 in Nomads' Paradise"
+to french "Coordonnées N1 N2 dans Paradis des nomades";
+
+translate "Location is N1 N2 in Falcon Bay"
+to french "Coordonnées N1 N2 dans Baie du Faucon";
+
+translate "Location is N1 N2 in Cat's Claw Ridge"
+to french "Coordonnées N1 N2 dans Crête de la griffe";
+
+translate "Location is N1 N2 in Heaven's Gate"
+to french "Coordonnées N1 N2 dans Porte de l'au-delà";
+
+translate "Location is N1 N2 in Stillwater"
+to french "Coordonnées N1 N2 dans Eaux Dormantes";
+
+translate "Location is N1 N2 in Adn"
+to french "Coordonnées N1 N2 dans Eden";
+
+translate "Location is N1 N2 in Cradle of the Sun"
+to french "Coordonnées N1 N2 dans le Berceau du Soleil";
+
+translate "Location is N1 N2 in Fool's Paradise"
+to french "Coordonnées N1 N2 dans Fool's Paradise";
+
+translate "Location is N1 N2 in Kush"
+to french "Coordonnées N1 N2 dans Kush";
+
+translate "Location is N1 N2 in Seven Lakes"
+to french "Coordonnées N1 N2 dans les Sept Lacs";
+
+translate "Location is N1 N2 in Desert of Shades"
+to french "Coordonnées N1 N2 dans le Désert des Ombres";
+
+translate "Location is N1 N2 in Khartoum"
+to french "Coordonnées N1 N2 dans Khartoum";
+
+translate "Location is N1 N2 in Upper Egypt"
+to french "Coordonnées N1 N2 dans la Haute-Égypte";
+
+translate "Location is N1 N2 in Qatara"
+to french "Coordonnées N1 N2 dans Qatara";
+
+translate "Location is N1 N2 in Lower Egypt"
+to french "Coordonnées N1 N2 dans la Basse-Égypte";
+
+translate "Location is N1 N2 in Sinai"
+to french "Coordonnées N1 N2 dans le Sinaï";
+
+translate "Location is N1 N2 in Tanis"
+to french "Coordonnées N1 N2 dans Tanis";
+
+translate "Location is N1 N2 in Karnak"
+to french "Coordonnées N1 N2 dans Karnak";
+
+translate "Location is N1 N2 in Welcoming Island"
+to french "Coordonnées N1 N2 dans l'île de bienvenue";
+
+translate "Location is N1 N2 in Hinterlands"
+to french "Coordonnées N1 N2 dans l'arrière-pays";
+
+translate "Travel to U1"
+to french "Se téléporter à U1(name)";
+
+translate "List Landmarks"
+to french "Afficher les repères";
+
+translate "Name of Landmark?"
+to french "Nom du repère?";
+
+translate "Use K1 of travel to your designated Expedition Site?"
+to french "Utiliser K1 de Temps de Voyage pour vous rendre à votre site d'expédition?";
+
+translate "Jail. Call a GM."
+to french "Prison. Appellez un GM.";
+
+translate "Adn: N1, N2"
+to french "Eden : N1, N2";
+translate "Queen's Retreat: N1, N2"
+to french "Retraite de la Reine : N1, N2";
+translate "Khmun: N1, N2"
+to french "Khmun : N1, N2";
+translate "Saqqarah: N1, N2"
+to french "Saqqarah : N1, N2";
+translate "Shabbat Ab: N1, N2"
+to french "Shabbat Ab : N1, N2";
+translate "Meroe: N1, N2"
+to french "Meroe : N1, N2";
+translate "Stillwater: N1, N2"
+to french "Eaux Dormantes : N1, N2";
+translate "Pyramid Lake: N1, N2"
+to french "Lac de la Pyramide : N1, N2";
+translate "Nomads' Paradise: N1, N2"
+to french "Paradis des Nomades : N1, N2";
+translate "Heaven's Gate: N1, N2"
+to french "Porte de l'Au-delà : N1, N2";
+translate "Sinai: N1, N2"
+to french "Sinaï : N1, N2";
+translate "Falcon Bay: N1, N2"
+to french "Baie du Faucon : N1, N2";
+translate "Cat's Claw Ridge: N1, N2"
+to french "Crête de la Griffe : N1, N2";
+translate "Welcoming Island: N1, N2"
+to french "Île de bienvenue : N1, N2";
+
+translate "Spirit Arena (O1)"
+to french "Arène spirituelle (O1(ns))";
+
+translate "Body"
+to french "Corps Humain";
+
+//tries for LocStr2() translation, nothing works
+translate "O1 N1 N2"
+to french "O1(ns) N1 N2";
+
+translate "View Selected Coordinates" to french "Localiser les coordonnnées sélectionnées";
+
+translate "K1 N1 N2"
+to french "K1 N1 N2";
+
+translate "O1 K1 K2"
+to french "O1(ns) K1 K2";
+
+translate "K1 K2 K3"
+to french "K1 K2 K3";
+
+translate "Reset Map Zoom Level" to french "Réinitialiser le niveau de zoom de la carte";
+
+
+// ------
+

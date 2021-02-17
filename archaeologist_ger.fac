@@ -1,0 +1,301 @@
+Module archaeologist_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**            German Version: Astrid "Infinyti" Werner                   **
+//**                            2012                                       **
+//**                                                                       **
+//***************************************************************************
+
+translate Relic to german neuter
+{
+  sn "Relikt"; sg "Relikts"; sd "Relikt"; sa "Relikt";
+  pn "Relikte"; pg "Relikte"; pg "Relikten"; pa "Relikte";
+}
+
+translate DigSite to german feminine
+{
+  sn "archäologische Grabungsstätte"; pn "archäologische Grabungsstätten";
+}
+
+translate TrophyCase to german masculinecollective
+{
+  sn "Trophäenbehälter"; pn "Trophäenbehälter";
+}
+
+translate "Test of the Archaeologist"
+  to german "Test des Archäologen";
+
+translate "Spindle Tree Resin"
+  to german "Pfaffenhütchenharz";
+
+translate "Archaeologist"
+  to german "Archäologe";
+
+translate "Trophy Cases display the finest and rarest relics from your travels."
+  to german "Trophäenbehälter stellen die feinsten und seltensten Relicte deiner Reisen aus.";
+
+translate "Build a Trophy Case"
+  to german "Baue einen Trophäenbehälter";
+
+translate "Find an Archaeological Dig Site"
+  to german "Suche eine archäoligische Grabungsstätte";
+
+translate "Successfully Extract a Relic"
+  to german "Erfolgreich eine Reliquie ausgegraben";
+
+translate "Succcessfully Extract a Relic"
+  to german "Erfolgreich eine Reliquie ausgegraben";
+
+translate "Install Three Relics in your Trophy Case"
+  to german "Stelle drei Reliquien in deinem Trophäenbehälter aus";
+
+translate "Check your Score (At least 21 Points)"
+  to german "Prüfe deinen Punktestand (mind. 21 Punkte)";
+
+translate "You sign up for the Test of the Archaeologist and learn how to craft Archaeological Shovels (also requires the Blacksmithing skill), build Trophy Cases, and excavate sites. You are also given a list of relics to search for. Trading relics with fellow Archaeologists is encouraged."
+  to german "Du trägst dich für den Test des Archäologen ein und lernst, wie man Archäologenschaufeln herstellt (benötigt den Skill Schmiedekunst), wie man Trophäenbehälter baut und Grabungsstätten untersucht. Dir wurde ebenso eine Liste zu findender Reliquien gegeben. Mit anderen Archäologen zu tauschen ist sinnvoll.";
+
+translate "The Test of the Archaeologist must be unlocked by one who has read the Ancestral Inscriptions on every past Monument. You have read the Ancestral Inscriptions on only K1 of K2."
+  to german "Der Test des Archäologen muss von jemandem freigeschaltet werden, der die historischen Inschriften aller vergangener Monumente gelesen hat. Du hast nur K1 von K2 historischer Inschriften gelesen.";
+
+translate "You have completed Principles of the Archaeologist."
+  to german "Du hast die Prinzipien des Archäologen gemeistert.";
+
+translate "Jewelry Collage"
+  to german "Juwelencollage";
+
+translate "Holy Book"
+  to german "Heiliges Buch";
+
+translate "Sun Totem"
+  to german "Sonnentotem";
+
+translate "Strange Sundial"
+  to german "Seltsame Sonnenuhr";
+
+translate "Meditation Box"
+  to german "Meditationskiste";
+
+translate "Aether Flag"
+  to german "Ätherische Flagge";
+
+translate "Wrist Exerciser"
+  to german "'Gyrotwister'(R)";
+
+translate "Spreader of Delight"
+  to german "Zerstäuber der Verzückung";
+
+translate "Font of Wisdom"
+  to german "Schablone der Weisheit";
+
+translate "Celestial Magnifier"
+  to german "Teleskop";
+
+translate "Security Prop"
+  to german "Sicherungsstützpfeiler";
+
+translate "Air of Reason"
+  to german "Lied der Klugheit";
+
+translate "Portrait Collection"
+  to german "Portraitsammlung";
+
+translate "Land Anchor"
+  to german "Landanker";
+
+translate "Fortune Teller"
+  to german "Wahrsager";
+
+translate "Amusement Papers"
+  to german "'Praline'(R)";
+
+translate "Odd Bone"
+  to german "Seltsame Knochen";
+
+translate "Attention Grabber"
+  to german "Aufmerksamkeitsgrabscher";
+
+translate "Dirt Pick"
+  to german "Schmuckhacke";
+
+translate "Metalic Chalice"
+  to german "Metallischer Kelch";
+
+translate "Ribbon of Harmony"
+  to german "Band der Harmonie";
+
+translate "Midsized"
+  to german "mittelgroß";
+
+translate "Giant"
+  to german "riesig";
+
+translate "Indestructable"
+  to german "unzerstörbar";
+
+translate "Sturdy"
+  to german "stabil";
+
+translate "Delicate"
+  to german "empfindlich";
+
+translate "Featherweight"
+  to german "federleicht";
+
+translate "Lightweight"
+  to german "leichtgewichtig";
+
+translate "Welterweight"
+  to german "weltergewichtig";
+
+translate "Heavy"
+  to german "schwer";
+
+translate "Ancient"
+  to german "historisch";
+
+translate "Old"
+  to german "alt";
+
+translate "Timeless"
+  to german "zeitlos";
+
+translate "Antique"
+  to german "antik";
+
+translate "Valueable"
+  to german "wertvoll";
+
+translate "Functional"
+  to german "funktionell";
+
+translate "Royal"
+  to german "königlich";
+
+translate "Sacred"
+  to german "heilig";
+
+translate "Archaeological Discovery"
+  to german "archäologische Grabungsstätte";
+
+translate "Dig the Site"
+  to german "Grabe an der Stätte";
+
+translate "To learn the proper way to work an archeological dig site, you must begin the Test of the Archaeologist."
+  to german "Um zu lernen, wie man sachgerecht an einer achäologischen Grabungstätte arbeitet, musst du den Test des Archäologen beginnen.";
+
+translate "You need an Archaeologists Shovel to work an archeological dig."
+  to german "Du brauchst eine Archäologenschaufel, um an einer archäologischen Stätte zu arbeiten.";
+
+translate "The delicate site collapsed. You can improve the chance of success with a higher quality Archaeologists Shovel, and by increasing your Perception and Dexterity."
+  to german "Die empfindliche Stätte kollabiert. Du kannst deine Erfolgschancen mit einer qualitativ besseren Archäologenschaufel erhöhen und indem du deine Empfindung und Gewandtheit verbesserst.";
+
+translate "Your work pays off! You uncover a relic from the site."
+  to german "Deine Arbeit lohnt sich! Du enthüllst in dieser Grabungsstätte eine Reliquie.";
+
+translate "Trophy Case"
+  to german "Trophäenbehälter";
+
+translate "Read my Relic List"
+  to german "Zeige meine Reliquienliste";
+
+translate "Ideal Relics for U1: (Must get at least 7 relics)"
+  to german "Ideale Reliquien für U1(name): (mindestens 7)";
+
+translate "This Trophy Case has already won"
+  to german "Dieser Trophäenbehälter hat bereits gewonnen.";
+
+translate "Install a Relic"
+  to german "Eine Reliquie einfügen";
+
+translate "You must be Level N1 to do this."
+  to german "Um dies zu tun, musst du Level N1 sein.";
+
+translate "A K1 is already installed."
+  to german "K1 wurde bereits eingefügt.";
+
+translate "Installing K1"
+  to german "K1 einfügen";
+
+translate "No K1 is needed."
+  to german "K1 ist nicht gefordert.";
+
+translate "There is already a K1 in the case."
+  to german "K1 ist bereits im Behälter.";
+
+translate "You install the relic, but the score is zero: The relic was already used by U1."
+  to german "Du stellst die Reliquie aus, aber deine Wertung ist Null: sie wurde bereits durch U1(name) benutzt.";
+
+translate "You install the relic, for a score of N1"
+  to german "Du stellst die Reliquie für eine Wertung von N1 aus.";
+
+translate "Check the Requirements"
+  to german "Prüfe die Anforderungen";
+
+translate "N1 points for K1"
+  to german "K1 erzielt N1 Punkte";
+
+translate "Not filled."
+  to german "Nicht platziert.";
+
+translate "Total Score: N1"
+  to german "Gesamtwertung: N1";
+
+translate "Relic Display, N1 slots filled, N2 points."
+  to german "Reliquienanzeigen: N1 Plätze besetzt, N2 Punke.";
+
+translate "Explain my Focus"
+  to german "Erläutere meinen Fokus";
+
+translate "Focus of N1 is from:"
+  to german "Fokus ist N1";
+
+translate "Base: N1"
+  to german "Basis: N1";
+
+translate "Bonus for surpassing weeks' best: N1"
+  to german "Bonus für wöchentl. überdurchschnittl. Ergebnis: N1";
+
+translate "Bonus for each week as Egypt's top score: N1"
+  to german "Bonus für wöchentl. Topranking in Ägypten: N1";
+
+translate "Gold Foil for Exterior"
+  to german "Goldfolie für die Außenseite";
+
+translate "Mirror for Interior"
+  to german "Spiegel für den Innenbereich";
+
+translate "Boards for Structure"
+  to german "Bretter für den Rohbau";
+
+translate "Spindle Tree Resin for Luster"
+  to german "Pfaffenhütchenharz für den Glanzüberzug";
+
+translate "Silk Cloth for Lining"
+  to german "Seidenstoff für das Futter";
+
+translate "Bearings for Door Mechanism"
+  to german "Kugellager für den Türmechanismus";
+
+translate "To build a Trophy Case, you need: "
+  to german "Um einen Trophäenbehälter zu bauen, benötigst du: ";
+
+translate "Archaeologist Score N1 for U1"
+  to german "Archäologenwertung N1 für U1(name)";
+
+translate "No Winners in the Test of the Archaeologist."
+  to german "Keine Gewinner im Test des Archäologen.";
+
+translate "Egypt recognizes K1 for passing the Test of the Archaeologist."
+  to german "Ägypten ehrt K1. Sie haben den Test des Archäologen bestanden.";
+
+translate "Warning: Trophy Case is not competing for advances"
+  to german "Achtung: Der Trophäenbehalter ist nicht für den Test eingetragen";
+
+translate "Close for Advances"
+  to german "Für Fortschritte schließen";
+
+translate "Open for Advances"
+  to german "Für Fortschritte öffnen";

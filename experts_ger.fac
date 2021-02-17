@@ -1,0 +1,410 @@
+module experts_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**             German Version: Astrid "Infinyti" Werner                  **
+//**                             2011                                      **
+//**                                                                       **
+//***************************************************************************
+
+
+translate "Player is AFK"
+	to german "Spieler ist AFK";
+
+translate "Interface Options"
+	to german "Interfaceeinstellungen";
+
+translate "Options: Interface"
+	to german "Option: Interface";
+
+translate "You are prohibited by law from doing anything related to Mentorship."
+	to german "Es ist dir gesetzlich verboten, irgendetwas bzg. Mentorschaft zu unternehmen.";
+
+translate "Player names appear above player's heads"
+	to german "Spielernamen erscheinen über dem Kopf der Spieler";
+
+translate "When using names-above-head, also show my own"
+	to german "Wenn Namen-über-dem Kopf gewählt ist, zeige auch meinen Namen";
+
+translate "Use arrow keys for movement (Experimental)"
+	to german "Pfeiltasten für die Fortbewegung nutzen (Im Test)";
+
+translate "Use Flyaway Messages for some things"
+	to german "Fliegende Nachrichten für manche Infos nutzen";
+
+translate "Action icons appear in smaller size"
+	to german "Aktions-Icons verkleinern";
+
+translate "Totally hide the Action Icons"
+	to german "Aktions-Icons verbergen";
+
+translate "Allow immigrants to join the game at my location"
+	to german "Erlaube Immigranten, an meinem Standort zu starten";
+
+translate "Camera moves quite fast"
+	to german "Kamera bewegt sich schnell";
+
+translate "Camera moves unreasonably fast"
+	to german "Kamera bewegt sich sehr schnell";
+
+translate "When I'm stuck, notify me in the chat area"
+	to german "Wenn ich festsitze, melde es im Chattab";
+
+translate "When menu appears, position mouse to left of menu"
+	to german "Wenn ein Menü geöffnet wird, positioniere Maus links davon";
+
+translate "Use invisible highlighting (no flashing effect)"
+	to german "Unsichtbares Markieren (kein Aufleuchten der Gebäude)";
+
+translate "In buddy list, replace Chat button (C) with Tell button (T)"
+	to german "Freundesliste: Tausche \"Chat\" Button (C) gegen \"Tell\" (T) Button";
+
+translate "Use console instead of popups for many messages"
+	to german "Nutze den Hauptchatkanal für die meisten Popups";
+
+translate "Discard any tadpoles you find when gathering water"
+	to german "Werfe jede Kaulquappe beim Wasserschöpfen weg";
+
+translate "Discard any Insects you find"
+	to german "Werfe alle gefundenen Insekten weg";
+
+translate "Automatically make all planted crops guild-owned"
+	to german "Übertrage automatisch alle gepflanzten Früchte an die Gilde";
+
+translate "Default to MAX for 'How Many?'"
+	to german "Als Standard \"MAX\" statt \"Wieviel?";
+
+translate "Hide Microphone Callboards when empty."
+	to german "Verberge Mikrofontafel, wenn leer.";
+
+translate "Show guild affiliations in a submenu"
+	to german "Zeige die Gildenzugehörigkeit in einem Untermenü";
+
+translate "Confirm when harvesting grapes?"
+	to german "Ernte von Weintrauben bestätigen?";
+
+translate "Confirm when using Wings of Horus"
+	to german "Bestätige Nutzung \"Flügel des Horus\"";
+
+translate "Action icons on right of screen"
+	to german "Aktionicons rechtsseitig des Screens";
+
+translate "Right-Click Pins/Unpins a Menu"
+	to german "Rechtsklick befestigt/löst das Menü";
+
+translate "Right-Click opens a Menu as Pinned"
+	to german "Rechtsklick öffnet befestigtes Menü";
+
+translate "Harvesting grapes"
+	to german "Traubenernte";
+
+translate "Using Wings of Horus"
+	to german "Nutzung der \"Flügel des Horus\"";
+
+translate "Hiding the interface"
+	to german "Interface verbergen";
+
+translate "Taking all the contens of many buildings and chests"
+	to german "Entnahme des Inhalts vieler Gebäude und Kisten";
+
+translate "Transferring buildings to Guilds"
+	to german "Überschreiben von Gebäuden an Gilden";
+
+translate "Move to Right side of the screen"
+	to german "An die rechte Bildschirmseite verschieben";
+
+translate "Smaller Icons"
+	to german "Kleinere Icons";
+
+translate "No icons"
+	to german "Keine Icons";
+
+translate "Use the chat area instead of popups for many messages"
+	to german "Die meisten Popup-Meldungen in die Chatebene versetzen";
+
+translate "Show warning when taking Dates, Resin and Cactus Sap"
+	to german "Warne beim Pflücken von Datteln, Harz und Kaktussaft";
+
+translate "Run in high-priority mode"
+	to german "Hoher Prioritätsmodus";
+
+translate "Run in low-priority mode"
+	to german "Niedriger Prioritätsmodus";
+
+
+
+
+
+translate "Display popup when hiding interface."
+	to german "Öffne Popup während verborgenem Interface.";
+
+translate "Verify taking all the contents of many buildings and chests"
+	to german "Prüfe die Entnahme des Inhalts vieler Gebäude und Kisten";
+
+translate "Verify transferring buildings to guilds"
+	to german "Prüfe die Übergabe von Gebäuden an Gilden";
+
+translate "I'm willing to mentor immigrants right now."
+	to german "Ich kann im Moment Einwanderer unterstützen.";
+
+translate "Show menu items for venery configuration."
+	to german "Zeige Gegenstände für die Schnitzeljagdeinstellung";
+
+translate "Confirm when adding an item to an Offering Vault."
+	to german "Bestätige das Hinzufügen von Dingen in einen Opfertempel.";
+
+translate "Hide builder options when not in GMMenu mode"
+	to german "Verstecke Erbaueroptionen, wenn nicht im GM-Modus";
+
+translate "One-Click and Related"
+	to german "1-Klick Einstellungen";
+
+translate "One-Click Options"
+	to german "1-Klick Einstellungen";
+
+translate "Fast gather wood from trees"
+	to german "Sammle schneller Holz von Bäumen";
+
+translate "Auto-take piles of up to 50 portable items"
+	to german "Nimm automatisch 50 tragbare Objekte aus einem Stapel";
+
+translate "Make TAB work like the mouse button"
+	to german "Lasse TAB wie Mausklick arbeiten";
+
+translate "Plant all crops where you stand"
+	to german "Pflanze alles Gemüse wo du stehst";
+
+translate "Enable hotkeys on flax"
+	to german "Nutze Hotkeys für Flachsanbau";
+
+translate "Enable hotkeys on brickracks"
+	to german "Nutze Hotkeys für Ziegelproduktion";
+
+translate "Place bonfires where you stand"
+	to german "Baue Freudenfeuer wo du stehst";
+
+translate "Chat-Related"
+	to german "Chatbezogen";
+
+translate "Chat appears above player's heads"
+	to german "Chat erscheint über dem Avatar";
+
+translate "Chat appears in main channel"
+	to german "Chat erscheint im Hauptchat";
+
+translate "Chat appears above heads"
+	to german "Chat erscheint über den Köpfen";
+
+translate "Tiny"
+	to german "Winzig";
+
+translate "Small"
+	to german "Klein";
+
+translate "Medium"
+	to german "Normal";
+
+translate "Large"
+	to german "Groß";
+
+translate "Huge"
+	to german "Riesig";
+
+translate "Remove the borders on chat bubbles"
+	to german "Entferne den Rahmen bei Sprechblasen";
+
+translate "Chat and Inventory can be minimized"
+	to german "Chat und Inventar können minimiert werden";
+
+translate "Minimized chat-channels are still visible"
+	to german "Minimierte Chattabs bleiben sichtbar";
+
+translate "Immigrants 'chat channel' is visible"
+	to german "Immigrantenchat sichtbar machen";
+
+translate "Use small font in the chat window"
+	to german "Kleine Chatschriftzeichen";
+
+translate "Use medium font in the chat window"
+	to german "Normale Chatschriftzeichen";
+
+translate "Use large font in the chat window"
+	to german "Große Chatschriftzeichen";
+
+translate "Use huge font in the chat window"
+	to german "Riesige Chatschriftzeichen";
+
+translate "Ignore ALL incoming chats except from GMs"
+	to german "Ignoriere ALLE eingehenden Chats, ausser von GMs";
+
+translate "See Normal Chat Bubbles"
+	to german "Zeige normale Chatblasen";
+
+translate "See Mentor Chat Bubbles"
+	to german "Zeige Mentoren-Chatblasen";
+
+translate "See eGenesis Chat Bubbles"
+	to german "Zeige eGenesis-Chatblasen";
+
+translate "See Sport Chat Bubbles"
+	to german "Zeige Sport-Chatblasen";
+
+translate "See Special Chat Bubbles"
+	to german "Zeige spezielle Chatblasen";
+
+translate "Normal Bubbles"
+	to german "Normale Chatblase";
+
+translate "Mentor Bubbles"
+	to german "Mentor-Chatblase";
+
+translate "eGenesis Bubbles"
+	to german "eGenesis-Chatblase";
+
+translate "Sport Chat Bubbles"
+	to german "Sport-Chatblase";
+
+translate "Special Chat Bubbles"
+	to german "Spezielle Chatblasen";
+
+translate "Scan for username"
+	to german "Suche nach Spielername";
+
+translate "Parse for links"
+	to german "Folge Links";
+
+translate "Time tags are in 12h time"
+	to german "Zeitdarstellung 12 Stunden-Zeit";
+
+translate "Console Messages are indented"
+	to german "Konsolenmeldungen sind beabsichtigt";
+
+translate "Usernames are Clickable"
+	to german "Spielernamen sind anklickbar";
+
+translate "Left Click does Nothing."
+	to german "Linksklick passiert nichts";
+
+translate "Left Click Opens a Private Chat"
+	to german "Linksklick öffnet einen Privatchat";
+
+translate "Left Click Sends a /tell"
+	to german "Linksklick schickt einen /tell";
+
+translate "Left Click shows user info"
+	to german "Linksklick zeigt Spielerinfo";
+
+translate "Immigrants channel is visible"
+	to german "Immigrantenkanal ist sichtbar";
+
+translate "Usernames"
+	to german "Spielernamen";
+
+translate "Message Alert"
+	to german "Nachrichtenwarnung";
+
+translate "Tells"
+	to german "Ansprachen";
+
+translate "Symbols"
+	to german "Symbole";
+
+translate "Tab Highlight"
+	to german "Chathervorhebung";
+
+translate "Main Chat:"
+	to german "Hauptchatkanal:";
+
+translate "Font Size:"
+	to german "Schriftgröße:";
+
+translate "Minimize:"
+	to german "Verkleinern:";
+
+translate "Show:"
+	to german "Zeige:";
+
+translate "Display:"
+	to german "Darstellung:";
+
+translate "Clicking:"
+	to german "Anklicken:";
+
+translate "Others:"
+	to german "Anderes:";
+
+translate "Colors:"
+	to german "Farben:";
+
+translate "Chat appears above player's heads"
+	to german "Chat erscheint über dem Avatar";
+
+translate "Max Chat Windows:"
+	to german "Max. Chatfensteranzahl";
+
+translate "Displayed when AFK:"
+	to german "AFK anzeigen:";
+
+translate "Names appear above players' heads"
+	to german "Namen werden über den Spielerköpfen angezeigt";
+
+translate "My name appears above my head"
+	to german "Mein Name wird über dem Avatar angezeigt";
+
+translate "Position Menus to the right of mouse"
+	to german "Positioniere Menüs rechts neben der Maus";
+
+translate "Show guild affiliations in a Menu"
+	to german "Zeige Gildenzugehörigkeit in einem Menü";
+
+translate "Normal speed"
+	to german "Normale Geschwindigkeit";
+
+translate "Quite fast"
+	to german "Sehr schnell";
+
+translate "Unreasonably fast"
+	to german "Unglaublich schnell";
+
+translate "Names:"
+	to german "Namen:";
+
+translate "Camera:"
+	to german "Kamera:";
+
+translate "Menu:"
+	to german "Menü:";
+
+translate "Verify When:"
+	to german "Bestätigen:";
+
+translate "Action Icons:"
+	to german "Aktions-Icons:";
+
+translate "Notifications:"
+	to german "Benachrichtigungen:";
+
+translate "Priority:"
+	to german "Prioritäten:";
+
+translate "Other:"
+	to german "Anderes:";
+
+translate "Chat Options"
+	to german "Chateinstellungen";
+
+translate "Use larger font in the chat window"
+	to german "Größere Schrift im Chatfenster benutzen";
+
+translate "Use very large chat window"
+	to german "Nutze sehr große Chatfenster";
+
+translate "Totally hide the Action Icons"
+	to german "Verberge Aktions-Icons völlig";
+
+translate "Hide Action Icons"
+	to german "Verberge Aktions-Icons";
+
+translate "Show Action Icons"
+to german "Zeige Aktions-Icons";

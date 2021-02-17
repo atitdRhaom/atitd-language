@@ -1,0 +1,54 @@
+Module PetOtter_fre;
+
+translate TameOtter to french feminine
+{
+  ns "Loutre apprivoisée"; np "Loutres apprivoisées";
+}
+
+translate "Call over the Otter"
+to french "Siffler la loutre";
+
+translate "Your otter will get hopelessly confused with that many locations to visit!"
+to french "Votre loutre risque de ne plus savoir où donner de la tête avec autant d'endroits à visiter !";
+
+translate "Your otter can't hear you from this far away."
+to french "Votre loutre ne peut pas vous entendre à une telle distance.";
+
+translate "A new otter is born! Congratulate K1 on the birth of K2."
+to french "Une nouvelle loutre est née ! Félicitation à K1 pour la naissance de K2.";
+
+translate "Name my Otter"
+to french "Baptiser ma loutre";
+
+translate "Name of Otter..."
+to french "Nom de la loutre...";
+
+translate "Otter"
+to french "Loutre";
+
+translate "Buy an otter for $50"
+to french "Acheter une loutre pour 50$";
+
+translate "Only 4 Otters allowed, without talking to Teppy. (We're just being careful about credit card fraud, we once got burned by someone who cost us a couple thousand dollars in chargeback fees.)"
+to french "Quatre loutres maximum sans l'accord de Teppy. (Nous sommes prudents face aux fraudes à la carte bancaire. Nous avons une fois été piégés par quelqu'un qui nous a coûté quelques milliers d'euros en frais de remboursement.)";
+
+translate "Otter has been with A Tale in the Desert since the very beginning. She's built most of the terrain and landscaping in Egypt. Recently, she's had some health problems, and could make great use of a service dog. These dogs cost around $15,000 to train, and so we're trying to raise that money within the game. If you do help out, you'll even get a pet otter that you can train to run around your camp!\n\n"
+to french "Otter contribue à A Tale in the Desert depuis le tout début. Elle a conçu la plupart des terrains et paysages de l'Egypte. Suite à quelques problèmes de santé, elle aurait grand besoin d'un chien d'aide. Ces chiens coûtent environ 15 000$ à entraîner, somme que nous essayons de rassembler via le jeu. Si vous aidez, vous recevrez une loutre apprivoisée qui peut être entraînée à courir autour de votre camp !";
+
+translate "100% of your donation goes toward the dog, with nothing taken out for credit card fees or other overhead."
+to french "100% de vos donations seront reversées au chien, sans aucun frais de carte bancaire.";
+
+translate "To buy an otter for $50, using N1 from your balance, and charging N2 to the credit card on file, type OTTER"
+to french "Pour acheter une loutre pour 50$ avec la carte que vous avez spécifié (N1$ seront prélevés sur votre solde, et N2$ seront crédité sur votre compte bancaire), tapez OTTER";
+
+translate "To buy an Otter for $50, using the credit card on file, type OTTER"
+to french "Pour acheter une loutre pour 50$ avec la carte que vous avez spécifié, tapez Otter";
+
+translate "Cancelled order."
+to french "Transaction annulée.";
+
+translate "Charge successful. When you first put down your Otter, you'll be able to name her!"
+to french "Transaction réussie. Lorsque vous déposerez votre loutre pour la première fois, vous pourrez la nommer !";
+
+translate "That name is already taken."
+to french "Ce nom est déjà pris.";

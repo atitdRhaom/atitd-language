@@ -1,0 +1,139 @@
+module contestbooth_fre;
+
+translate ContestBooth to french masculine
+{
+  ns "Stand de concours"; np "Stands de concours";
+}
+translate ContestOrganization to french feminine
+{ 
+  ns "Organisation de concours"; np "Organisation de concours";
+   }
+
+translate "Read about this contest"
+to french "Informations sur ce concours";
+
+translate "Set Description of Contest"
+to french "Description du concours";
+
+translate "Mode: Open Registration"
+to french "Mode : Inscription ouverte";
+
+translate "Mode: Running Contest"
+to french "Mode : Concours lancé";
+
+translate "Mode: Configuration"
+to french "Mode : COnfiguration";
+
+translate "Prohibit multiple entries"
+to french "Interdire les inscriptions multiples";
+
+translate "Allow multiple entries"
+to french "Permettre les inscriptions multiples";
+
+translate "Booth Setup"
+to french "Règles du stand";
+
+translate "Entry Fee"
+to french "Prix d'inscription";
+
+translate "Set Name of Contest"
+to french "Nom du concours";
+
+translate "Set entry fee in O1"
+to french "Mettre le prix de l'inscription à O1(ns)";
+
+translate "Mode: Distribute Prizes"
+to french "Mode : Distribution des prix";
+
+translate "Organization"
+to french "Organisation";
+
+translate "Contest Booth"
+to french "Stand de concours";
+
+translate "Record Keeping"
+to french "Comptabilité";
+
+translate "Description of Contest"
+to french "Description du concours";
+
+translate "The fee for K1 is N1 O1"
+to french "Le prix d'inscription pour K1 est de N1 O1(N1?np:ns)";
+
+translate "Distribute"
+to french "Distribuer";
+
+translate "Turn over some O1 to "
+to french "Transférer O1(dnp) O1(np) à ";
+
+translate "Turn over some O1 to U1"
+to french "Transférer O1(dnp) O1(np) à U1(name)";
+
+translate "You can't do this until the booth is empty."
+to french "Impossible tant que le stang est plein.";
+
+translate "You must name the contest."
+to french "Donnez un nom au concours.";
+
+translate "You must set the entry type and quantity."
+to french "VOus devez déterminer le type et la quantité pour la participation.";
+
+translate "Are you sure you want to end the contest? All record keeping about who payed will be lost."
+to french "Voulez-vous vraiment mettre fin au concours ? Le registre des personnes ayant payé sera alors perdu.";
+
+translate "The fee to enter K1 is N1 O1"
+to french "Pour participer à K1, vous devez payer N1 O1(N1?np:ns)";
+
+translate "The booth is in configuration mode"
+to french "Le stand est en configuration.";
+
+translate "The booth is in open mode"
+to french "Le stand est ouvert.";
+
+translate "The booth is in running mode"
+to french "Le concours est lancé.";
+
+translate "The booth is in distribution mode"
+to french "C'est la distribution.";
+
+translate "Allows one to efficiently run contests."
+to french "Permet d'organiser efficacement des concours.";
+
+translate "To build a Contest Booth, you need:"
+to french "Pour construire un stand de concours, il vous faut :";
+
+translate "You can't do this to an open contest booth. Close it first."
+to french "Opération impossible sur un stand ouvert. Fermez-le d'abord.";
+
+translate "Name of Contest"
+to french "Nom du concours";
+
+translate "How many O1 to enter?"
+to french "Combien de O1(np) pour participer ?";
+
+translate "You must enter a specific number."
+to french "Vous devez entrer un chiffre.";
+
+translate "Pay entry fee of N1 O1"
+to french "Payer le prix d'inscription : N1 O1(N1?np:ns)";
+
+translate "Pay an additional entry fee of N1 O1"
+to french "Payer un prix sipplémentaire de N1 O1(N1?np:ns)";
+
+translate "You don't have N1 O1."
+to french "Vous n'avez pas N1 O1(N1?np:ns) sur vous.";
+
+translate "Take how many O1 (max N1)"
+to french "Prendre combien de O1(np) ? (Max N1)";
+
+translate "You aren't entitled to N1 O1."
+to french "Vous n'êtes pas autorisé à N1 O1(N1?np:ns).";
+
+translate "Are you sure you want to end the contest? All goods will be in your control for distribution."
+to french "Voulez-vous vraiment mettre fin au concours ? Tous les biens seront alors sous votre contrôle pour distribution.";
+
+translate "Turned over O1"
+to french "O1(np) transférés";
+
+translate "How many O1 to U1? (Max N1)"
+to french "Donner combien de O1(np) à U1(name) ? (Max N1)";

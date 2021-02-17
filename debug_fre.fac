@@ -1,0 +1,223 @@
+module debug_fre;
+
+translate "Debug/Show sprite ID"
+to french "Débuggage/Afficher l'ID du sprite";
+
+translate "Sprite ID: "
+to french "ID du sprite :";
+
+translate "Debug/Print the Entire Database for this O1"
+to french "Débuggagé/imprimer toute la base de données de O1(ns)";
+
+translate "Kill this damn thing"
+to french "Rasez-moi tout ça";
+
+translate "Debug/Remove this object"
+to french "Débuggage/Effacer cet objet";
+
+translate "Are you sure you want to remove this O1"
+to french "Voulez-vous vraiment effacer O1(cns) O1(ns) ?";
+
+translate "This is an Unknown. You should never see this!"
+to french "Objet inconnu. Vous ne devriez jamais voir cela !";
+
+translate "Debug/Dump Threads"
+to french "Débuggage/Effacer les sujets";
+
+translate "Debug/Make this Invisible [key=I]"
+to french "Débuggage/Rendre l'objet invisible [key=I]";
+
+translate "Game Master/Temporarily gain access"
+to french "Animateur/Accès temporaire";
+
+translate "You already have access."
+to french "Vous avez déjà accès à l'objet.";
+
+translate "Learn O1"
+to french "Apprendre O1(ns)";
+
+translate "Skill N1"
+to french "Compétence N1";
+
+translate "Group N1-N2"
+to french "Groupe N1-N2";
+
+translate "Group A-N1"
+to french "Groupe A-N1";
+
+translate "Group B-N1"
+to french "Groupe B-N1";
+
+translate "Group C-N1"
+to french "Groupe C-N1";
+
+translate "Group D-N1"
+to french "Groupe D-N1";
+
+translate "Group E-N1"
+to french "Groupe E-N1";
+
+translate "Group F-N1"
+to french "Groupe F-N1";
+
+translate "Group G-N1"
+to french "Groupe G-N1";
+
+translate "Group H-N1"
+to french "Groupe H-N1";
+
+translate "Group I-N1"
+to french "Groupe I-N1";
+
+translate "Group J-N1"
+to french "Groupe J-N1";
+
+translate "Group K-N1"
+to french "Groupe K-N1";
+
+translate "Group L-N1"
+to french "Groupe L-N1";
+
+translate "Group M-N1"
+to french "Groupe M-N1";
+
+translate "Group N-N1"
+to french "Groupe N-N1";
+
+translate "Group O-N1"
+to french "Groupe O-N1";
+
+translate "Group P-N1"
+to french "Groupe P-N1";
+
+translate "Group Q-N1"
+to french "Groupe Q-N1";
+
+translate "Group R-N1"
+to french "Groupe R-N1";
+
+translate "Group S-N1"
+to french "Groupe S-N1";
+
+translate "Group T-N1"
+to french "Groupe T-N1";
+
+translate "Group U-N1"
+to french "Groupe U-N1";
+
+translate "Group V-N1"
+to french "Groupe V-N1";
+
+translate "Group W-N1"
+to french "Groupe W-N1";
+
+translate "Group X-N1"
+to french "Groupe X-N1";
+
+translate "Group Y-N1"
+to french "Groupe Y-N1";
+
+translate "Group Z-N1"
+to french "Groupe Z-N1";
+
+translate "Cheat"
+to french "Tricherie";
+
+translate "Discipline"
+to french "Discipline";
+
+translate "Lower level to O1"
+to french "Abaisser le niveau à O1(ns)";
+
+translate "Raise level to O1"
+to french "Monter le niveau à O1(ns)";
+
+translate "Keep level at O1"
+to french "Conserver le niveau à O1(ns)";
+
+translate "Cheat"
+to french "Tricherie";
+
+translate "Goals"
+to french "Objectifs";
+
+translate "Teleport"
+to french "Téléporter";
+
+translate "Oz"
+to french "Oz";
+
+translate "Builder Island"
+to french "Ile des Constructeurs";
+
+translate "University"
+to french "Université";
+
+translate "The Human Body"
+to french "Corps humain";
+
+translate "Architecture"
+to french "Atchitecture";
+
+translate "Thought"
+to french "Pensée";
+
+translate "Worship"
+to french "Vénération";
+
+translate "Art"
+to french "Art";
+
+translate "Performed all Citizenship Tasks"
+to french "Toutes les tâches de Citoyenneté ont été accomplies";
+
+translate "Clear all"
+to french "Tout effacer";
+
+translate "Initiate into O1"
+to french "Initié en O1(ns)";
+
+translate "Uninitiate from O1"
+to french "Non initié en O1(ns)";
+
+translate "Remove this object"
+to french "Retirer cet objets";
+
+translate "Show sprite ID"
+to french "Afficher l'ID du sprite";
+
+translate "Print the Entire Database for this O1"
+to french "Imprimer toute la base de données de O1(ns)";
+
+translate "Are you sure you want to remove this O1"
+to french "Voulez-vous vraiment retirer O1(cns) O1(ns) ?";
+
+translate "This is an Unknown. You should never see this!"
+to french "L'objet est inconnu. Vous ne devriez jamais voir cela !";
+
+translate "Make this Invisible"
+to french "Le rendre invincible";
+
+translate "Temporarily gain access"
+to french "Obtenir l'accès temporaire";
+
+translate "You already have access."
+to french "Vous avez déjà l'accès.";
+
+translate "Time of day override"
+to french "Modifier l'heure";
+
+translate "clear"
+to french "effacer";
+
+translate "time --"
+to french "Heure --";
+
+translate "time -"
+to french "Heure -";
+
+translate "time +"
+to french "Heure +";
+
+translate "time ++"
+to french "Heure ++";

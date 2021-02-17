@@ -1,0 +1,176 @@
+module orestone2_fre;
+
+translate orestone2 to french feminine
+{
+	ns "Pierre de minerai"; np "Pierres de minerai";
+}
+
+translate ironmine to french feminine
+{
+	ns "Mine de fer"; np "Mines de fer";
+}
+		
+translate tinmine to french feminine
+{
+  ns "Mine d'étain"; np "Mines d'étain";
+}
+		
+translate coppermine to french feminine
+{
+  ns "Mine de cuivre"; np "Mines de cuivre";
+}
+
+translate zincmine to french feminine
+{
+  ns "Mine de zinc"; np "Mines de zinc";
+}
+
+translate goldmine to french feminine
+{
+  ns "Mine d'or"; np "Mines d'or";
+}
+
+translate silvermine to french feminine
+{
+  ns "Mine d'argent"; np "Mines d'argent";
+}
+
+translate aluminummine to french feminine
+{
+  ns "Mine d'aluminium"; np "Mines d'aluminium";
+}
+
+translate leadmine to french feminine
+{
+  ns "Mine de plomb"; np "Mines de plomb";
+}
+
+translate goldmine to french feminine
+{
+  ns "Mine d'or"; np "Mines d'or";
+}
+
+translate magnesiummine to french feminine
+{
+  ns "Mine de magnesium"; np "Mines de magnesium";
+}
+
+translate antimonymine to french feminine
+{
+  ns "Mine d'antimoine"; np "Mines d'antimoine";
+}
+
+translate platiniummine to french feminine
+{
+  ns "Mine de platine"; np "Mines de platine";
+}
+
+translate tungstenmine to french feminine
+{
+  ns "Mine de tungstène"; np "Mines de tungstène";
+}
+translate titaniummine to french feminine
+{
+  ns "Mine de titane"; np "Mines de titane";
+}
+
+translate lithiummine to french feminine
+{
+  ns "Mine de lithium"; np "Mines de lithium";
+}
+
+translate strontiummine to french feminine
+{
+  ns "Mine de strontium"; np "Mines de strontium";
+}
+
+translate sandmine to french feminine
+{
+  ns "Mine de sable"; np "Mines de sable";
+}
+translate mine5 to french feminine
+{
+  ns "Mine"; np "Mines";
+}
+
+translate goldmine to french feminine
+{
+  ns "Mine d'or"; np "Mines d'or";
+}
+
+translate "Stone Color"
+to french "Couleur de la pierre";
+
+translate "Crystal Shape"
+to french "Forme du crystal";
+
+translate "Base Shape"
+to french "Forme de la base";
+
+translate "Crystal Color"
+to french "Couleur du crystal";
+
+translate "Base Color"
+to french "Couleur de la base";
+
+translate "Stone Shape"
+to french "Forme de la pierre";
+
+translate "Stone Pattern"
+to french "Motif de la pierre";
+
+translate "Iron Mine"
+to french "Mine de fer";
+
+translate "Add this to the Workload"
+to french "Ajouter à la sélection";
+
+translate "Add this to the Workload and Finalize"
+to french "Ajouter à la sélection et finaliser";
+
+translate "Finalize Workload"
+to french "Finaliser la sélection";
+
+translate "This mine can be worked again in K1."
+to french "Cette mine pourra à nouveau être utilisée dans K1.";
+
+translate "Work this Mine, Colorblind"
+to french "Travailler dans cette mine, mode daltonien";
+
+translate "Wait another N1 seconds."
+to french "Attendez encore N1 secondes.";
+
+translate "That workload has no value."
+to french "Cette sélection n'a aucune valeur.";
+
+translate "You workload just didn't have anything valuable in it."
+to french "Votre sélection ne contenait simplement rien.";
+
+translate "Your workload had: N1 O1"
+to french "Votre sélection contenait : N1 O1(N1?np:ns)";
+
+translate "You already harvested that Workload."
+to french "Vous avez déjà réalisé cette sélection;";
+
+translate "You got some coal and a O1"
+to french "Vous avez obtenu du charbon et O1(uns) O1(ns)";
+
+translate "Clean up the Field"
+to french "Réinitialiser le terrain";
+translate "Ore Mine"
+to french "Mine";
+
+translate "Remove this from the Workload"
+to french "Retirer de la sélection";
+
+translate "Stop Working this mine"
+to french "Cessez de travailler dans cette mine";
+
+translate "The mine would be too close to another mine - that's dangerous."
+to french "Cette mine serait trop près d'une autre - C'est dangereux.";
+
+translate "To build a Mine you need:"
+to french "Pour construire une mine, il vous faut :";
+
+translate "Work this Mine, Normal"
+to french "Travailler dans cette mine";

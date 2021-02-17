@@ -1,0 +1,21 @@
+module eyecandy_fre;
+
+translate Hawk to french masculine
+{
+  ns "Rocher lourd"; np "Rochers lourds";
+}
+translate SulfurCloud to french masculine
+{
+  ns "Nuage de soufre"; np "Nuages de soufre";
+}
+translate Fountain to french feminine
+{
+  ns "Fontaine"; np "Fontaines";
+}
+translate DriedFountain to french feminine
+{
+  ns "Fontaine décrépie"; np "Fontaines décrépies";
+}
+
+translate "This rock is unusually heavy."
+to french "Cette pierre est inhabituellement lourde.";

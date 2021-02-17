@@ -1,0 +1,402 @@
+module mega_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment		           **
+//**                                                                       **
+//***************************************************************************
+//menues
+
+translate Megalopolis to german feminine
+{
+swa "Megalopolis";
+	sn "Megalopolis"; pn "Megalopolis";
+	}
+
+translate MegalopolisPiece to german neuter
+{
+swa "Megalopolisteil";
+	sn "Megalopolisteil"; pn "Megalopolisteile";
+	}
+
+translate MegalopolisRamp to german feminine
+{
+swa "Megalopolis-Rampe";
+	sn "Megalopolis-Rampe"; pn "Megalopolis-Rampen";
+	}
+
+translate MegalopolisTower to german masculine
+{
+swa "Megalopolist-Turm";
+	sn "Megalopolis-Turm"; pn "Megalopolis-Türme";
+	}
+
+translate MegalopolisWall to german feminine
+{
+swa "Megalopolis-Wand";
+	sn "Megalopolis-Wand"; pn "Megalopolis-Wände";
+	}
+
+translate MegalopolisGate to german neuter
+{
+swa "Megalopolis-Tor";
+	sn "Megalopolis-Tor"; pn "Megalopolis-Tore";
+	}
+
+translate MegalopolisBridge to german feminine
+{
+swa "Megalopolis-Brücke";
+	sn "Megalopolis-Brücke"; pn "Megalopolis-Brücken";
+	}
+
+translate MegalopolisEdge to german feminine
+{
+swa "Megalopolis-Abgrenzung";
+	sn "Megalopolis-Abgrenzung"; pn "Megalopolis-Abgrenzungen";
+	}
+
+translate MegalopolisSide to german feminine
+{
+swa "Megalopolis-Seite";
+	sn "Megalopolis-Seite"; pn "Megalopolis-Seiten";
+	}
+translate "Please wait..."
+to german "Bitte warten...";
+
+translate "To use the megalopolis,"
+to german "Um Megalopolis zu benutzen, ";
+
+translate "click on the central pyramid."
+to german "klicke auf die Pyramide in der Mitte.";
+
+translate "Sign up for test of megalopolis"
+to german "Beginne den Test der Megalopolis";
+
+translate "The Megalopolis"
+to german "Die Megalopolis";
+
+translate "The test of the megalopolis is simple: you must build a megalopolis. When you finish, up to 49 people will pass the test."
+to german "Der Test der Megalopolis ist einfach: Du mußt eine Megalopolis bauen. Wenn sie erbaut wurde, bestehen bis zu 49 Spieler den Test.";
+
+translate "The first step to building a megalopolis is to click on your small construction site and select 'Build a Megalopolis Construction Site'. Note: you aren't building the megalopolis yet.  You're just building the construction site."
+to german "Der erste Schritt, um eine Megalopolis zu bauen ist ein Klick auf Deine kleine Baustelle und die Auswahl 'Baue eine Megalopolis-Baustelle'. Hinweis: Die ist noch nicht Megalopolis, sondern Du baust erst die notwendige Baustelle.";
+
+translate "The megalopolis construction site consists of one central structure surrounded by 48 smaller construction sites. Each of these smaller sites will be used to build a piece of the megalopolis."
+to german "Die Megalopolis-Baustelle beinhaltet eine zentrale Struktur, umgeben von 48 kleineren Baustellen. Jede dieser Baustellen erstellt ein Teil von Megalopolis.";
+
+translate "You are the owner of all 48 smaller construction sites. You can give them to different people individually, or make some of them guild owned, or even grant some to the public."
+to german "Du bist der Eigentümer aller 48 Baustellen. Du kannst sie an verschiedene Leute geben, sie zu Gildeneigentum oder auch öffentlich machen.";
+
+translate "When all 48 pieces are finished, you will pass the test. Whomever completed a piece will pass the test along with you. Note that starting a piece doesn't count - it it whomever finishes the piece that gets credit for the test.  You yourself automatically get credit for the center piece, so you do not need to finish one of the 48 pieces yourself."
+to german "Wenn alle 48 Teile fertig sind, bestehst Du den Test. Wer ein Teil fertiggestellt hat, wird ebenfalls den Test bestehen. Beachte: Wer ein Teil beginnt, ist nicht wichtig, sondern wer es beendet. Du bekommst die Belohnung für das zentrale Teil, Du brauchst also keines der 48 anderen Teile zu beenden.";
+
+translate "A single person can finish more than one piece.  But of course, a single person cannot pass the test twice, so this is very inefficient.  You would be wise to seek out a full complement of forty-nine players."
+to german "Eine einzelne Person kann auch mehr als ein Teil beenden. Aber er kann den Test nicht zweimal bestehen, daher ist das ziemlich sinnlos. Es wäre gut, ein komplettes Team aus 49 Spielern zu bilden.";
+
+translate "WARNING: from the time that the megalopolis construction site is built, you have one real-world week to finish the megalopolis.  If all 48 pieces are not finished by the end of the week, the megalopolis will crumble to dust, taking all your labors with it.  Because of this, it is wise to gather all the people and materials before you raise the construction site."
+to german "ACHTUNG: Wenn die Megapolois-Baustelle erbaut wurde, hast Du eine Woche Realzeit, um das Projekt zu beenden. Wenn die 48 Teile nicht rechtzeitig fertig werden, bricht die Baustelle zusammen und alle Rohstoffe sind verloren. Daher ist es sinnvoll, erst alle Rohstoffe und Helfer zusammenzutragen, bevor die Baustelle errichtet wird.";
+
+translate "The first step in the process is to build a small construction site, and click on Projects/Architecture/Megalopolis."
+to german "Der erste Schritt in diesem Prozess ist das Erbauen einer kleinen Baustelle. Klicke dann auf Projekte/Architektur/Megalopolis.";
+
+translate "Here are the requirements for a typical megalopolis.\n\n"
+to german "Dies sind die Anforderungen für eine typische Megalopolis.";
+
+translate "CAUTION: Every megalopolis is different.  Prices may range from one quarter of those listed to as much as three times higher.\n\n"
+to german "ACHTUNG: Jede Megalopolis ist verschieden. Die Preise variieren von einem Viertel der hier Aufgeführten bis zu 3 mal soviel.\n\n";
+
+translate "The central structure:\n"
+to german "Die Grundstruktur:\n";
+
+translate       "    Exactly 600 Rope (sub-construction sites)\n"
+to german	"    Genau 600 Seile (Unter-Baustellen)\n";
+
+translate	"    Exactly 150 Canvas (sub-construction sites)\n"
+to german	"    Genau 150 Leinen (Unter-Baustellen)\n";
+
+translate	"    Exactly 1800 Boards (scaffolding)\n"
+to german	"    Genau 1800 Bretter (Gerüstmaterial)\n";
+
+translate	"    Exactly 4 Brass Plates (central pyramid cap)\n"
+to german	"    Genau 4 Messingplatten (Pyramidenhaube)\n";
+
+translate       "    Exactly 48 Eyelet cut Amethyst (Reflection Box)\n"
+to german	"    Genau 48 geschnittene Amethyst, Öse (Reflektionsbox)\n";
+
+translate       "    Exactly 24 Corner Heart cut Garnet (Reflection Box)\n"
+to german	"    Genau 24 geschnittene Granat, eck.Herz (Reflektionsbox)\n";
+
+translate       "    Exactly 12 Bridge cut Lapis (Reflection Box)\n"
+to german	"    Genau 12 geschnittene Lapis, Brücke (Refektionsbox)\n";
+
+translate       "    Exactly 6 Sprocket cut Turquoise (Reflection Box)\n"
+to german	"    Genau 6 geschnittene Türkise, Zahnkranz (Refektionsbox)\n";
+
+translate       "    Exactly 360 Cut Stone (Central Structure)\n"
+to german	"    Genau 360 geschnitene Steine (Grundstruktur)\n\n";
+
+translate	"Each ramp (there are four):\n"
+to german	"Jede Rampe (es sind vier):\n";
+
+translate	"    Approx 5000 Bricks\n"
+to german	"    Ungefähr 5000 Ziegel\n";
+
+translate	"    Approx 500 Cut Stone\n"
+to german	"    Ungefähr 500 geschnittene Steine\n";
+
+translate       "    Approx 50 Concrete\n"
+to german	"    Ungefähr 50 Beton\n";
+
+translate       "    Approx 400 Pliable + Hard Treated Boards\n"
+to german	"    Ungefähr 400 biegbare + harte Bretter\n";
+
+translate	"    Approx 450 Nails\n"
+to german	"    Ungefähr 450 Nägel\n\n";
+
+translate	"Each tower: (there are twelve)\n"
+to german	"Jeder Turm: (es sind zwölf)\n";
+
+translate	"    Approx 60 Concrete\n"
+to german	"    Ungefähr 60 Beton\n";
+
+translate	"    Approx 300 Rigid + Rotproof Treated Boards\n"
+to german	"    Ungefähr 300 starre und moderbeständige Bretter\n";
+
+translate       "    Approx 120 Nails\n"
+to german	"    Ungefähr 120 Nägel\n";
+
+translate       "    Approx 350 Cut Stone\n"
+to german	"    Ungefähr 350 geschnittene Steine\n";
+
+translate	"    Approx 500 Golden Rod Paint\n"
+to german	"    Ungefähr 500 Farbe Goldraute\n";
+
+translate	"    Approx 500 Orange Paint\n"
+to german	"    Ungefähr 500 Farbe Orange\n";
+
+translate	"    Approx 400 Dodger Blue Paint\n"
+to german	"    Ungefähr 400 Farbe Dodger Blau\n";
+
+translate       "    Approx 250 Saddle Brown Paint\n"
+to german	"    Ungefähr 250 Farbe Saddle Braun\n";
+
+translate	"    Approx 100 Sea Green Paint\n"
+to german	"    Ungefähr 100 Farbe Seegrün\n\n";
+
+translate	"Each wall segment: (there are eight)\n"
+to german	"Jedes Wandsegment: (es sind acht)\n";
+
+translate	"    Approx 100 Concrete\n"
+to german	"    Ungefähr 100 Beton\n";
+
+translate       "    Approx 400 Soft + Rotproof Treated Boards\n"
+to german	"    Ungefähr 400 weiche und moderbeständige Bretter\n";
+
+translate       "    Approx 200 Nails\n"
+to german	"    Ungefähr 200 Nägel\n";
+
+translate       "    Approx 500 Cut Stone\n"
+to german	"    Ungefähr 500 geschnittene Steine\n";
+
+translate	"    Approx 800 Feldspar Paint\n"
+to german	"    Ungefähr 800 Farbe Feldspat\n";
+
+translate	"    Approx 700 Dodger Blue Paint\n"
+to german	"    Ungefähr 700 Farbe Dodger Blau\n";
+
+translate	"    Approx 500 Orange Paint\n"
+to german	"    Ungefähr 500 Farbe Orange\n";
+
+translate	"    Approx 300 Sea Green Paint\n"
+to german	"    Ungefähr 300 Farbe Seegrün\n";
+
+translate	"    Approx 150 Golden Rod Paint\n"
+to german	"    Ungefähr 150 Farbe Goldrute\n\n";
+
+translate	"Each bridge: (there are four)\n"
+to german	"Jede Brücke: (es sind vier)\n";
+
+translate	"    Approx 5000 Bricks\n"
+to german	"    Ungefähr 5000 Ziegel\n";
+
+translate	"    Approx 60 Concrete\n"
+to german	"    Ungefähr 60 Beton\n";
+
+translate	"    Approx 2000 Pliable + Soft + Rotproof Treated Boards\n"
+to german	"    Ungefähr 2000 biegsame und weiche und moderbeständige Bretter\n";
+
+translate	"    Approx 700 Nails\n"
+to german	"    Ungefähr 700 Nägel\n";
+
+translate	"    Approx 250 Cut Stone\n"
+to german	"    Ungefähr 250 geschnittene Steine\n";
+
+translate	"    Approx 200 Iron Bars\n"
+to german	"    Ungefähr 200 Eisenbarren\n\n";
+
+translate	"Each gate section: (there are four)\n"
+to german	"Jeder Torbereich: (es sind vier)\n";
+
+translate	"    Approx 10000 Bricks\n"
+to german	"    Ungefähr 10000 Ziegel\n";
+
+translate	"    Approx 700 Cut Stone\n"
+to german	"    Ungefähr 700 geschnittene Steine\n";
+
+translate	"    Approx 300 Concrete\n"
+to german	"    Ungefähr 300 Beton\n";
+
+translate	"    Approx 2000 Hard + Rigid Treated Boards\n"
+to german	"    Ungefähr 2000 harte und starre Bretter\n";
+
+translate       "    Approx 700 Nails\n"
+to german	"    Ungefähr 700 Nägel\n";
+
+translate       "    Approx 7 Hexas Plate cut Lapis\n"
+to german	"    Ungefähr 7 geschnittene Lapis Sechseckplatte\n";
+
+translate	"    Approx 7 Choronzon cut Lapis\n"
+to german	"    Ungefähr 7 geschnittene Lapis Choronzon\n";
+
+translate	"    Approx 7 Thistle cut Lapis\n"
+to german	"    Ungefähr 7 geschnittene Lapis Distel\n";
+
+translate	"    Approx 2 Unity cut Lapis\n"
+to german	"    Ungefähr 2 geschnittene Lapis Unity\n";
+
+translate	"    Approx 2 Dragyn's Eye cut Lapis\n"
+to german	"    Ungefähr 2 geschnittene Lapis Dragyns Auge\n";
+
+translate	"    Approx 650 Tomato Paint\n"
+to german	"    Ungefähr 350 Farbe Tomatenrot\n";
+
+translate	"    Approx 450 Sea Green Paint\n"
+to german	"    Ungefähr 450 Farbe Seegrün\n";
+
+translate	"    Approx 470 Saddle Brown Paint\n"
+to german	"    Ungefähr 470 Farbe Sattelbraun\n";
+
+translate	"    Approx 350 Spring Green Paint\n"
+to german	"    Ungefähr 350 Farbe Frühlingsgrün\n\n";
+
+translate	"Each edge wall segment: (there are eight)\n"
+to german	"Jedes Schalungswandsegment: (es sind acht)\n";
+
+translate	"    Approx 500 Concrete\n"
+to german	"    Ungefähr 500 Beton\n";
+
+translate       "    Approx 15 Iron Bars\n"
+to german	"    Ungefähr 15 Eisenbarren\n";
+
+translate       "    Approx 2500 Hard + Rotproof Treated Boards\n"
+to german	"    Ungefähr 2500 Harte und moderbeständige Bretter\n";
+
+translate       "    Approx 100 Nails\n"
+to german	"    Ungefähr 100 Nägel\n";
+
+translate       "    Approx 200 Cut Stone\n"
+to german	"    Ungefähr 200 geschnittene Steine\n";
+
+translate	"    Approx 800 Sea Green Paint\n"
+to german	"    Ungefähr 800 Farbe Seegrün\n";
+
+translate	"    Approx 600 Golden Rod Paint\n"
+to german	"    Ungefähr 600 Farbe Goldrute\n";
+
+translate	"    Approx 300 Dodger Blue Paint\n"
+to german	"    Ungefähr 300 Farbe Dodger Blau\n";
+
+translate	"    Approx 100 Orange Paint\n\n"
+to german	"    Ungefähr 100 Farbe Orange\n\n";
+
+translate	"Each side wall: (there are eight)\n"
+to german	"Jede Seitenwand: (es sind acht)\n";
+
+translate	"    Approx 1000 Concrete\n"
+to german	"    Ungefähr 1000 Beton\n";
+
+translate       "    Approx 30 Iron Bars\n"
+to german	"    Ungefähr 30 Eisenbarren\n";
+
+translate       "    Approx 2100 Hard + Rotproof Treated Boards\n"
+to german	"    Ungefähr 2100 Harte und moderbeständige Bretter\n";
+
+translate       "    Approx 200 Nails\n"
+to german	"    Ungefähr 200 Nägel\n";
+
+translate       "    Approx 350 Cut Stone\n"
+to german	"    Ungefähr 350 geschnittene Steine\n";
+
+translate	"    Approx 1500 Sea Green Paint\n"
+to german	"    Ungefähr 1500 Farbe Seegrün\n";
+
+translate	"    Approx 1200 Golden Rod Paint\n"
+to german	"    Ungefähr 1200 Farbe Goldrute\n";
+
+translate	"    Approx 700 Dodger Blue Paint\n"
+to german	"    Ungefähr 700 Farbe Dodger Blau\n";
+
+translate	"    Approx 200 Orange Paint\n\n"
+to german	"    Ungefähr 200 Farbe Orange\n\n";
+
+translate "Megalopolis Instructions"
+to german "Megalopolis Anleitung";
+
+translate "Megalopolis Parts List"
+to german "Megalopolis Teileliste";
+
+translate "Build a Megalopolis Construction Site"
+to german "Baue eine Megalopolis-Baustelle";
+
+translate "Have you read the instructions and parts lists carefully?"
+to german "Hast Du die Anleitung aufmerksam gelesen?";
+
+translate "You better read those, otherwise, you might end up wasting a lot of materials."
+to german "Du solltest sie besser lesen, oder es könnte passieren, daß Du eine Menge Material verschwendest.";
+
+translate "This construction site is already dedicated."
+to german "Diese Baustelle ist bereits zugeordnet.";
+
+translate "This spot is not flat enough for a megalopolis.  Irregularity here is N1 percent of maximum."
+to german "Diese Stelle ist nicht flach genug für Megalopolis. Die Abweichung hier beträgt N1 des Maximums.";
+
+translate "To build a Megalopolis Construction Site, you need: "
+to german "Um eine Megalopolis-Baustelle zu errichten benötigst Du: ";
+
+translate "The Megalopolis is complete!"
+to german "Die Megalopolis ist fertig!";
+
+translate "Start the Test of the Megalopolis"
+to german "Starte den Test des Megalopolis";
+
+translate "Destroy this entire Megalopolis"
+to german "Zerstöre die gesamte Megalopolis";
+
+translate "Tear down this Megalopolis Construction Site"
+to german "Reisse diese Megalopolis Baustelle ab";
+
+translate "You must first tear down the central piece."
+to german "Du mußt zuerst das Grundstück abreissen";
+
+translate "Name this Megalopolis"
+to german "Benenne diese Megalopolis";
+
+translate "Please tell eGenesis to install the Megalopolis Controller"
+to german "Bitte rufe einen Entwickler, um den Megalopolis Controller zu installieren";
+
+translate "Megalopolis Name?"
+to german "Name der Megalopolis?";
+
+translate "Name too long. Please limit it to 60 characters."
+to german "Der Name ist zu lang. Bitte kürze ihn auf 60 Zeichen.";
+
+translate "The Megalopolis is complete! You will advance in a few moments."
+to german "Die Megalopolis ist fertig! Du wirst in wenigen Augenblicken aufsteigen.";
+
+translate "You have built O1 Megalopolis"
+to german "Du hast eine O1(sn) Megalopolis gebaut";
+
+translate "You have built O1"
+to german "Du hast O1(asn) O1(sn) gebaut";

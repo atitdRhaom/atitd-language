@@ -1,0 +1,87 @@
+Module Alloy2_fre;
+
+translate OxygenFurnace to french masculine
+{
+  ns "Haut-fourneau"; np "Haut-fourneaux";
+}
+
+translate "To build a Oxygen Furnace, you need: "
+to french "Pour construire un Haut-Fourneau, il vous faut: ";
+
+translate "Fuel the O1 with O2"
+to french "Alimenter O1(lns) O1(ns) avec O2(dns) O2(ns)";
+
+translate "This O1 requires N1 O2 to fuel."
+to french "O1(^cns) O1(ns) nécessite d'être alimenté avec N1 O2(np).";
+
+translate "Fire the Oxygen Furnace"
+to french "Allumer le Haut-Fourneau";
+
+translate "You should place samples of at least two different metals in the OxygenFurnace."
+to french "Vous devez placer des echantillons d'au moins deux métaux différents dans le Haut-Fourneau.";
+
+translate "You'll need N1 O1 to fire the OxygenFurnace."
+to french "Il vous faut N1 O1(N1?np:ns) pour allumer le Haut-Fourneau.";
+
+translate "The reactory has already crystalized."
+to french "Le réacteur a déjà cristallisé.";
+
+translate "The reactory is cold."
+to french "Le réacteur est éteint.";
+
+translate "The reactory is still heating up."
+to french "Le réacteur est en phase de pré-chauffage.";
+
+translate "The alloy crystalized with a strength of N1%"
+to french "L'alliage a cristallisé avec une force de N1%";
+
+translate "To make a batch of O1 you need:"
+to french "Pour faire O1(dns) O1(ns), il vous faut :";
+
+translate "The reactory is heating."
+to french "Le réacteur est en phase de chauffage.";
+
+translate "Abandon the Batch"
+to french "Abandonner la fournée en cours";
+
+translate "You will lose all materials in the Reactory. Proceed?"
+to french "Vous perdrez tous les matériaux. Continuer ?";
+
+translate "Reheat the Reactory"
+to french "Relancer le réacteur";
+
+translate "Normal Batch"
+to french "Fournée Normale";
+
+translate "2x Batch"
+to french "Fournée x2";
+
+translate "4x Batch"
+to french "Fournée x4";
+
+translate "7x Batch"
+to french "Fournée x7";
+
+translate "O1 is a complex alloy that contains unstable crystals. Batches can not be reheated. You can abandon the batch from the Utility menu."
+to french "O1(^lns) O1(ns) est un alliage compliqué contenant des cristaux instables. Le réacteur ne peut pas être relancé. Vous pouvez abandonner la fournée en cours depuis le menu Outils.";
+
+translate "To reheat this alloy, you need:"
+to french "Pour relancer ce réacteur, il vous faut :";
+
+translate "The Reactory is heating, K1 remain"
+to french "Le réacteur est en phase de chauffage. K1 restant";
+
+translate "The O1 Crystalized with strength N1%, giving N2 O2"
+to french "O1(^lns) O1(ns) a cristallisé avec une force de N1%, donnant N2 O2(np)";
+
+translate "Take the O1"
+to french "Prendre le O1(ns)";
+
+translate "No O1 formed. You'll need a tighter crystallization."
+to french "Aucun O1(ns) ne s'est formé. Vous devez atteindre une meilleure cristallisation.";
+
+translate "Make an alloy"
+to french "Fabriquer un alliage";
+
+translate "Perfect Crystalization of K1 in a Reactory."
+to french "Parfaite cristalisation de K1 dans un réacteur.";

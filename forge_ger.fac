@@ -1,0 +1,1578 @@
+module forge_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**            German Version: Astrid "Infinyti" Werner                   **
+//**                            2012                                       **
+//**                                                                       **
+//***************************************************************************
+
+translate SmallGear to german neuter
+{
+  swa "kleines Zahnrad";
+  sn "kleine Zahnrad"; sg "kleinen Zahnrades"; sd "kleinen Zahnrad"; sa "kleinen Zahnrad";
+  pn "kleine Zahnräder"; pg "kleinen Zahnräder"; pd "kleinen Zahnrädern"; pa "kleinen Zahnräder";
+}
+
+translate MediumGear to german neuter
+{
+  swa "mittleres Zahnrad";
+  sn "mittlere Zahnrad"; sg "mittleren Zahnrades"; sd "mittleren Zahnrad"; sa "mittleren Zahnrad";
+  pn "mittlere Zahnräder"; pg "mittleren Zahnräder"; pd "mittleren Zahnrädern"; pa "mittleren Zahnräder";
+}
+
+translate LargeGear to german neuter
+{
+  swa "großes Zahnrad";
+  sn "große Zahnrad"; sg "großen Zahnrades"; sd "großen Zahnrad"; sa "großen Zahnrad";
+  pn "große Zahnräder"; pg "großen Zahnräder"; pd "großen Zahnrädern"; pa "großen Zahnräder";
+}
+
+translate CopperSheeting to german neuter
+{
+  swa "Kupferblech";
+  sn "Kupferblech"; sg "Kupferblechs"; sd "Kupferblech"; sa "Kupferblech";
+  pn "Kupferbleche"; pg "Kupferbleche"; pd "Kupferblechen"; pa "Kupferbleche";
+}
+
+
+translate GoldSheeting to german neuter
+  {
+    swa "Goldblech";
+    sn "Goldblech"; sg "Goldblechs"; sd "Goldblech"; sa "Goldblech";
+    pn "Goldbleche"; pg "Goldbleche"; pd "Goldblechen"; pa "Goldbleche";
+}
+
+translate SilverSheeting to german neuter
+  {
+    swa "Silberblech";
+    sn "Silberblech"; sg "Silberblechs"; sd "Silberblech"; sa "Silberblech";
+    pn "Silberbleche"; pg "Silberbleche"; pd "Silberblechen"; pa "Silberbleche";
+}
+
+translate SteelSheeting to german neuter
+{
+  swa "Stahlblech";
+  sn "Stahlblech"; sg "Stahlblechs"; sd "Stahlblech"; sa "Stahlblech";
+  pn "Stahlbleche"; pg "Stahlbleche"; pd "Stahlblechen"; pa "Stahlbleche";
+}
+
+translate LeadSheeting to german neuter
+{
+  swa "Bleiblech";
+  sn "Bleiblech"; sg "Bleiblechs"; sd "Bleiblech"; sa "Bleiblech";
+  pn "Bleibleche"; pg "Bleibleche"; pd "Bleiblechen"; pa "Bleibleche";
+}
+
+translate TinSheeting to german neuter
+{
+  swa "Zinnblech";
+  sn "Zinnblech"; sg "Zinnblechs"; sd "Zinnblech"; sa "Zinnblech";
+  pn "Zinnbleche"; pg "Zinnbleche"; pd "Zinnblechen"; pa "Zinnbleche";
+}
+
+translate TitaniumSheeting to german neuter
+{
+  swa "Titaniumblech";
+  sn "Titaniumblech"; sg "Titaniumblechs"; sd "Titaniumblech"; sa "Titaniumblech";
+  pn "Titaniumbleche"; pg "Titaniumbleche"; pd "Titaniumblechen"; pa "Titaniumbleche";
+}
+
+translate ThothsMetalSheeting to german neuter
+  {
+    swa "Blech aus Thots Metall";
+    sn "Blech aus Thots Metall"; sg "Blechs aus Thots Metall"; sd "Blech aus Thots Metall"; sa "Blech aus Thots Metall";
+    pn "Bleche aus Thots Metall"; pg "Bleche aus Thots Metall"; pd "Blechen aus Thots Metall"; pa "Bleche aus Thots Metall";
+}
+
+translate MetalBlueSheeting to german neuter
+{
+  swa "Blaumetallblech";
+  sn "Blaumetallblech"; sg "Blaumetallblechs"; sd "Blaumetallblech"; sa "Blaumetallblech";
+  pn "Blaumetallbleche"; pg "Blaumetallbleche"; pd "Blaumetallblechen"; pa "Blaumetallblechen";
+}
+
+translate OctecsAlloySheeting to german neuter
+{
+  swa "Blech aus Octecs Legierung";
+  sn "Blech aus Octecs Legierung"; sg "Blechs aus Octecs Legierung"; sd "Blech aus Octecs Legierung"; sa "Blech aus Octecs Legierung";
+  pn "Bleche aus Octecs Legierung"; pg "Bleche aus Octecs Legierung"; pd "Blechen aus Octecs Legierung"; pa "Bleche aus Octecs Legierung";
+}
+
+translate MoonSteelSheeting to german neuter
+{
+  swa "Mondstahlblech";
+  sn "Mondstahlblech"; sg "Mondstahlblechs"; sd "Mondstahlblech"; sa "Mondstahlblech";
+  pn "Mondstahlbleche"; pg "Mondstahlbleche"; pd "Mondstahlblechs"; pa "Mondstahlbleche";
+}
+
+translate SunSteelSheeting to german neuter
+{
+  swa "Sonnenstahlblech";
+  sn "Sonnenstahlblech"; sg "Sonnenstahlblechs"; sd "Sonnenstahlblech"; sa "Sonnenstahlblech";
+  pn "Sonnenstahlbleche"; pg "Sonnenstahlbleche"; pd "Sonnenstahlblechen"; pa "Sonnenstahlbleche";
+}
+
+translate CopperStrap to german feminine
+{
+swa "Kupferschlaufe";
+  sn "Kupferschlaufe"; sg "Kupferschlaufe"; sd "Kupferschlaufe"; sa "Kupferschlaufe";
+  pn "Kupferschlaufen"; pg "Kupferschlaufen"; pd "Kupferschlaufen"; pa "Kupferschlaufen";
+}
+
+translate IronStrap to german feminine
+{
+swa "Eisenschlaufe";
+  sn "Eisenschlaufe"; sg "Eisenschlaufe"; sd "Eisenschlaufe"; sa "Eisenschlaufe";
+  pn "Eisenschlaufen"; pg "Eisenschlaufen"; pd "Eisenschlaufen"; pa "Eisenschlaufen";
+}
+
+translate AluminumStrap to german feminine
+{
+swa "Aluminiumschlaufe";
+  sn "Aluminiumschlaufe"; sg "Aluminiumschlaufe"; sd "Aluminiumschlaufe"; sa "Aluminiumschlaufe";
+  pn "Aluminiumschlaufen"; pg "Aluminiumschlaufen"; pd "Aluminiumschlaufen"; pa "Aluminiumschlaufen";
+}
+
+translate WaterMetalStrap to german feminine
+{
+swa "Wassermetallschlaufe";
+  sn "Wassermetallschlaufe"; sg "Wassermetallschlaufe"; sd "Wassermetallschlaufe"; sa "Wassermetallschlaufe";
+  pn "Wassermetallschlaufen"; pg "Wassermetallschlaufen"; pd "Wassermetallschlaufen"; pa "Wassermetallschlaufen";
+}
+
+translate IronBars to german masculinecollective
+{
+  swa "Eisenbarren";
+  sn "Eisenbarren"; sg "Eisenbarrens"; sd "Eisenbarren"; sa "Eisenbarren";
+  pn "Eisenbarren"; pg "Eisenbarren"; pd "Eisenbarren"; pa "Eisenbarren";
+}
+
+translate SilverBars to german masculinecollective
+{
+  swa "Silberbarren";
+  sn "Silberbarren"; sg "Silberbarrens"; sd "Silberbarren"; sa "Silberbarren";
+  pn "Silberbarren"; pg "Silberbarren"; pd "Silberbarren"; pa "Silberbarren";
+}
+
+translate GoldBars to german masculinecollective
+{
+  swa "Goldbarren";
+  sn "Goldbarren"; sg "Goldbarrens"; sd "Goldbarren"; sa "Goldbarren";
+  pn "Goldbarren"; pg "Goldbarren"; pd "Goldbarren"; pa "Goldbarren";
+}
+
+translate SteelWire to german masculinecollective
+{
+  swa "Stahldraht";
+  sn "Stahldraht"; sg "Stahldrahts"; sd "Stahldraht"; sa "Stahldraht";
+  pn "Stahldrähte"; pg "Stahldrähte"; pd "Stahldrähten"; pa "Stahldrähte";
+}
+
+translate CopperWire to german masculinecollective
+{
+  swa "Kupferdraht";
+  sn "Kupferdraht"; sg "Kupferdrahts"; sd "Kupferdraht"; sa "Kupferdraht";
+  pn "Kupferdrähte"; pg "Kupferdrähte"; pd "Kupferdrähten"; pa "Kupferdrähte";
+}
+
+translate GoldWire to german masculinecollective
+{
+  swa "Golddraht";
+  sn "Golddraht"; sg "Golddrahts"; sd "Golddraht"; sa "Golddraht";
+  pn "Golddrähte"; pg "Golddrähte"; pd "Golddrähten"; pa "Golddrähte";
+}
+
+translate SilverWire to german masculinecollective
+{
+  swa "Silberdraht";
+  sn "Silberdraht"; sg "Silberdrahts"; sd "Silberdraht"; sa "Silberdraht";
+  pn "Silberdrähte"; pg "Silberdrähte"; pd "Silberdrähten"; pa "Silberdrähte";
+}
+
+translate MagWire to german masculinecollective
+{
+  swa "Magnesiumdraht";
+  sn "Magnesiumdraht"; sg "Magnesiumdrahts"; sd "Magnesiumdraht"; sa "Magnesiumdraht";
+  pn "Magnesiumdrähte"; pg "Magnesiumdrähte"; pd "Magnesiumdrähten"; pa "Magnesiumdrähte";
+}
+
+translate MetalBlueWire to german masculinecollective
+{
+  swa "Blaumetalldraht";
+  sn "Blaumetalldraht"; sg "Blaumetalldrahts"; sd "Blaumetalldraht"; sa "Blaumetalldraht";
+  pn "Blaumetalldrähte"; pg "Blaumetalldrähte"; pd "Blaumetalldrähten"; pa "Blaumetalldrähte";
+}
+
+translate OctecsAllowyWire to german masculinecollective
+{
+  swa "Octecs Legierungsdraht";
+  sn "Octecs Legierungsdraht"; sg "Octecs Legierungsdrahts"; sd "Octecs Legierungsdraht"; sa "Octecs Legierungsdraht";
+  pn "Octecs Legierungsdrähte"; pg "Octecs Legierungsdrähte"; pd "Octecs Legierungsdrähten"; pa "Octecs Legierungsdrähte";
+}
+
+translate ThothsMetalWire to german masculinecollective
+{
+  swa "Thothsdraht";
+  sn "Thothsdraht"; sg "Thothsdrahts"; sd "Thothsdraht"; sa "Thothsdraht";
+  pn "Thothsdrähte"; pg "Thothsdrähte"; pd "Thothsdrähten"; pa "Thothsdrähte";
+}
+
+translate "Iron Blade"
+  to german "Eisenklinge";
+
+translate "Steel Blade"
+  to german "Stahlklinge";
+
+translate "Gears"
+  to german "Zahnräder";
+
+translate "Pinch Roller"
+  to german "Andruckrolle";
+
+translate "Extrusion Plate"
+  to german "Extrusionsplatte";
+
+translate "Sheeting"
+  to german "Verschalung";
+
+translate "Straps"
+  to german "Metallschlaufen";
+
+translate "Copper Pipe"
+  to german "Kupferrohr";
+
+translate "Lead Pipe"
+  to german "Bleirohr";
+
+translate "Brass Plate"
+  to german "Messingplatte";
+
+translate "Aluminium Plate"
+  to german "Aluminiumplatte";
+
+translate "Bars"
+  to german "Barren";
+
+translate "Gold Foil"
+  to german "Goldfolie";
+
+translate "Wire"
+  to german "Draht";
+
+translate "Heavy Lead Bowl"
+  to german "schwere Bleischale";
+
+translate "Heavy Mallet Head"
+   to german "schwerer Hammerkopf";
+
+translate "Incense Prong"
+  to german "Räuchergabel";
+
+translate "Silver Bowl"
+  to german "Silberschale";
+
+translate "Iron Poker"
+  to german "Eisenschürhaken";
+
+translate "Lead Chisel"
+  to german "Bleimeißel";
+
+translate "Anvil Bed"
+  to german "Ambossbett";
+
+translate "Brass Mallets"
+  to german "Messinghammer";
+
+translate "Tongs"
+  to german "Zange";
+
+translate "Monkey Wrench"
+  to german "Engländer";
+
+translate "Bearings"
+  to german "Kugellager";
+
+translate "Bolt"
+  to german "Schraube";
+
+translate "Washer"
+  to german "Dichtungsring";
+
+translate "Iron Pot"
+  to german "Eisentopf";
+
+translate "Brass Pot"
+  to german "Messingtopf";
+
+translate "Pincher Claw"
+  to german "Greifklaue";
+
+translate "Pincher Axle"
+  to german "Achse";
+
+translate "Shovel Blade"
+  to german "Schaufelblatt";
+
+translate "Orichalcum Pellet"
+  to german "Orichalcumkügelchen";
+
+translate "Crude Reel"
+  to german "derbe Spule";
+
+translate "Fine Reel"
+  to german "feine Spule";
+
+translate "Plans for Forge of Geb and Nut"
+  to german "Schmiedebaupläne von Geb und Nut";
+
+translate "Stainless Steel Pot"
+  to german "rostfreier Stahltopf";
+
+translate "You need the Blacksmithing skill to do this."
+  to german "Du benötigst die Schmiedekunstfertigkeit, um dies zu tun.";
+
+
+-- lalala "is making"
+-- lalala "is burning"
+
+translate StudentsForge to german feminine
+{
+  swa "kleine Schmiede";
+  sn "kleine Schmiede"; sg "kleinen Schmiede"; sd "kleinen Schmiede"; sa "kleine Schmiede";
+  pn "kleinen Schmieden"; pg "kleinen Schmieden"; pd "kleinen Schmieden"; pa "kleinen Schmieden";
+}
+
+translate MastersForge to german feminine
+{
+  swa "große Schmiede";
+  sn "große Schmiede"; sg "großen Schmiede"; sd "großen Schmiede"; sa "große Schmiede";
+  pn "großen Schmieden"; pg "großen Schmieden"; pd "großen Schmieden"; pa "großen Schmieden";
+}
+
+translate StudentsCastingBox to german feminine
+{
+  swa "kleine Gießerei";
+  sn "kleine Gießerei"; sg "kleinen Gießerei"; sd "kleinen Gießerei"; sa "kleine Gießerei";
+  pn "kleinen Gießereien"; pg "kleinen Gießereien"; pd "kleinen Gießereien"; pa "kleinen Gießereien";
+}
+
+translate MastersCastingBox to german feminine
+{
+  swa "große Gießerei";
+  sn "große Gießerei"; sg "großen Gießerei"; sd "großen Gießerei"; sa "große Gießerei";
+  pn "großen Gießereien"; pg "großen Gießereien"; pd "großen Gießereien"; pa "großen Gießereien";
+}
+
+translate AncientForge to german feminine
+{
+  swa "antike Schmiede";
+  sn "antike Schmiede"; sg "antiken Schmiede"; sd "antiken Schmiede"; sa "antike Schmiede";
+  pn "antiken Schmieden"; pg "antiken Schmieden"; pd "antiken Schmieden"; pa "antiken Schmieden";
+}
+
+translate "This O1 is lit. It has N1 O2 in the chamber."
+  to german "O1(^tsn) O1(sn) ist angezündet. Die Kammer ist mit N1 O2(N1?pn:sn) gefüllt.";
+
+translate "This O1's fire is out. There is  N1 O2 in the chamber."
+  to german "Das Feuer O1(dsg) O1(sg) ist aus. Die Kammer ist mit N1 O2(N1?pn:sn) gefüllt.";
+
+translate "Your project is cooling."
+  to german "Das Werkstück kühlt ab.";
+
+translate "Fill this O1 with O2"
+  to german "Befülle O1(tsa) O1(sa) mit O2(sn)";
+
+translate "Add how much O1?"
+  to german "Wieviel O1(pn) hinzufügen?";
+
+translate "Forges"
+  to german "Schmieden";
+
+translate "Student's Forge"
+  to german "kleine Schmiede";
+
+translate "To build a Students Forge, you need: "
+  to german "Um eine kleine Schmiede zu bauen, benötigst du: ";
+
+translate "Master's Forge"
+  to german "große Schmiede";
+
+translate "To build a Masters Forge, you need: "
+    to german "Um eine große Schmiede zu bauen, benötigst du: ";
+
+translate "Put out this forge's fire. (Ruins any project in progress.)"
+  to german "Lösche dieses Schmiedefeuer. (Ruiniert in Arbeit befindliche Werkstücke.)";
+
+translate "Are you sure you want to put out the fire? Doing so will ruin any project that is in progress."
+  to german "Bist du sicher, dass du das Feuer löschen willst? Machst du das, ruinierst du jedes in Arbeit befindliche Werkstück.";
+
+translate "Start fire in this O1"
+  to german "Befeuere O1(tsa) O1(sa)";
+
+translate "The fire chamber must have at least N1 deben of O1 to start. N2 deben will be consumed immediately, and N3 additional deben will be consumed per minute."
+  to german "Die Feuerkammer muss mindestens N1 Deben O1(N1?pn:sn) zum Starten haben. N2 Deben werden sofort verbraucht und N3 zusätzliche Deben werden pro Minute verfeuert.";
+
+translate "The fire on your forge went out."
+  to german "Das Feuer deiner Schmiede ist ausgegangen.";
+
+translate "Upgrade"
+  to german "Erweitern";
+
+translate "Upgrade this forge with a Nail Mould"
+  to german "Erweitere diese Schmiede mit einer Nagelform";
+
+translate "You'll need a nail mould."
+  to german "Du benötigst eine Nagelform. Frage einen Steinmetz um Hilfe.";
+
+translate "Upgrade this forge with a pair of Pinch Rollers"
+  to german "Erweitere diese Schmiede mit 1 Paar Andruckrollen";
+
+translate "You'll need two Pinch Rollers. These can be made at a master's forge."
+  to german "Du benötigst 2 Andruckrollen. Diese werden in einer großen Schmiede hergestellt.";
+
+translate "Upgrade this forge with an Extrusion Plate"
+  to german "Erweitere diese Schmiede mit einer Extrusionsplatte";
+
+translate "You'll need an Extrusion Plate. This can be made at a master's forge."
+  to german "Du benötigst eine Extrusionsplatte. Diese wird in einer großen Schmiede hergestellt.";
+
+translate "Make some Copper Pipe"
+  to german "Stelle Kupferrohre her.";
+
+translate "You'll need 5 deben of Copper."
+  to german "Du benötigst 5 Deben Kupfers.";
+
+translate "Making copper pipe"
+  to german "Herstellung Kupferrohre";
+
+translate "You have made some Copper Pipe. It will take five minutes to cool."
+  to german "Du hast Kupferrohre hergestellt. Sie brauchen 5 Minuten zum Abkühlen.";
+
+translate "Your Copper Pipe is ready."
+  to german "Deine Kupferrohre ist fertig.";
+
+translate "Make some Lead Pipe"
+  to german "Stelle Bleirohre her.";
+
+translate "You'll need 5 deben of Lead."
+  to german "Du benötigst 5 Deben Blei.";
+
+translate "Making Lead pipe"
+  to german "Herstellung Bleirohre";
+
+translate "You have made some Lead Pipe. It will take five minutes to cool."
+  to german "Du hast Bleirohre hergestellt. Sie brauchen 5 Minuten zum Abkühlen.";
+
+translate "Your Lead Pipe is ready."
+  to german "Deine Bleirohre ist fertig.";
+
+translate "Make a Copper Strap"
+  to german "Stelle eine Kupferschlaufe her";
+
+translate "Your forge needs 3 deben of Copper to make a Copper Strap."
+  to german "Deine Schmiede benötigt 3 Deben Kupfer, um eine Kupferschlaufe herzustellen.";
+
+translate "Making a Copper Strap"
+  to german "Herstellung Kupferschlaufe";
+
+translate "You have made a Copper Strap. It will take two minutes to cool."
+  to german "Du hast eine Kupferschlaufe hergestellt. Sie braucht zwei Minuten zum Abkühlen.";
+
+translate "Your Copper Strap is ready."
+  to german "Deine Kupferschlaufe ist fertig.";
+
+translate "Make a Iron Strap"
+  to german "Stelle eine Eisenschlaufe her";
+
+translate "Your forge needs 2 deben of Iron to make a Iron Strap."
+  to german "Deine Schmiede benötigt 2 Deben Eisen, um eine Eisenschlaufe herzustellen.";
+
+translate "Making a Iron Strap"
+  to german "Herstellung Eisenschlaufe";
+
+translate "You have made a Iron Strap. It will take three minutes to cool."
+  to german "Du hast eine Eisenschlaufe hergestellt. Sie braucht drei Minuten zum Abkühlen.";
+
+translate "Your Iron Strap is ready."
+  to german "Deine Eisenschlaufe ist fertig.";
+
+translate "Make a Aluminium Strap"
+  to german "Stelle eine Aluminiumschlaufe her";
+
+translate "Your forge needs 5 deben of Aluminium to make a Aluminium Strap."
+  to german "Deine Schmiede benötigt 5 Deben Aluminium, um eine Aluminiumschlaufe herzustellen.";
+
+translate "Making a Aluminium Strap"
+  to german "Herstellung Aluminiumschlaufe";
+
+translate "You have made a Aluminium Strap. It will take one minute to cool."
+  to german "Du hast eine Aluminiumschlaufe hergestellt. Sie braucht eine Minute zum Abkühlen.";
+
+translate "Your Aluminium Strap is ready."
+  to german "Deine Aluminiumschlaufe ist fertig.";
+
+translate "Make a Water Metal Strap"
+  to german "Stelle eine Wassermetallschlaufe her";
+
+translate "Your forge needs 5 deben of Water Metal to make a Water Metal Strap."
+  to german "Deine Schmiede benötigt 5 Deben Wassermetall, um eine Wassermetallschlaufe herzustellen.";
+
+translate "Making a Water Metal Strap"
+  to german "Herstellung Wassermetallschlaufe";
+
+translate "You have made a Water Metal Strap. It will take one minute to cool."
+  to german "Du hast eine Wassermetallschlaufe hergestellt. Sie braucht eine Minute zum Abkühlen.";
+
+translate "Your Water Metal Strap is ready."
+  to german "Deine Wassermetallschlaufe ist fertig.";
+
+translate "Make an Iron Poker"
+  to german "Stelle Eisenschürhaken her.";
+
+translate "You need five deben of iron to forge an iron poker."
+  to german "Du benötigst 5 Deben Eisen, um einen Eisenschürhaken herzustellen.";
+
+translate "Making an Iron Poker"
+  to german "Herstellung Eisenschürhaken";
+
+translate "You have fashioned an Iron Poker. It will take twenty minutes to cool."
+  to german "Du hast einen Eisenschürhaken hergestellt. Er braucht 20 Minuten zum Abkühlen.";
+
+translate "Your iron poker has cooled."
+  to german "Dein Eisenschürhaken ist abgekühlt.";
+
+translate "Make a Steel Blade"
+  to german "Stelle eine Stahlklinge her";
+
+translate "You need five deben of steel to forge a steel blade."
+  to german "Du benötigst 5 Deben Stahl, um eine Stahlklinge herzustellen.";
+
+translate "Making a Steel Blade"
+  to german "Herstellung Stahlklinge";
+
+translate "You have fashioned a Steel Blade. It will take ten minutes to cool."
+  to german "Du hast eine Stahlklinge hergestellt. Sie braucht 10 Minuten zum Abkühlen.";
+
+translate "Your steel blade has cooled."
+  to german "Deine Stahlklinge ist abgekühlt.";
+
+translate "Make a Shovel Blade (poor quality)"
+  to german "Stelle ein minderwertiges Schaufelblatt her";
+
+translate "To make a Shovel Blade (poor quality) you need:"
+  to german "Um ein minderwertiges Schaufelblatt herzustellen, benötigst du:";
+
+translate "Making a Shovel Blade"
+  to german "Herstellung Schaufelblatt";
+
+translate "Shovel Blade will be done in K1. It will be poor quality because it was not forged at an anvil, but it will get you started."
+  to german "Das Schaufelblatt wird in K1 fertig sein. Es wird von minderwertiger Qualität sein, weil es nicht auf einem Amboss herstellt wurde, aber für den Anfang geht es.";
+
+translate "Your Shovel Blade is ready."
+  to german "Dein Schaufelblatt ist fertig.";
+
+translate "Make a Lead Chisel"
+  to german "Stelle einen Bleimeißel her";
+
+translate "To make a Lead Chisel you need:"
+  to german "Um einen Bleimeißel herzustellen, benötigst du:";
+
+translate "Making a Lead Chisel"
+  to german "Herstellung Bleimeißel";
+
+translate "Lead Chisel will be done in K1."
+  to german "Der Bleimeißel wird in K1 fertig sein.";
+
+translate "Your Lead Chisel is ready."
+  to german "Dein Bleimeißel ist fertig.";
+
+translate "Make an Extrusion Plate"
+  to german "Stelle eine Extrusionsplatte her";
+
+translate "Your forge needs 40 deben of Copper to make an Extrusion Plate."
+  to german "Deine Schmiede benötigt 40 Deben Kupfer, um eine Extrusionsplatte herzustellen.";
+
+translate "Making an Extrusion Plate"
+  to german "Herstellung Extrusionsplatte";
+
+translate "You have made an Extrusion Plate. It will take thirty minutes to cool."
+  to german "Du hast eine Extrusionsplatte hergestellt. Sie benötigt 30 Minuten zum Abkühlen.";
+
+translate "Your Extrusion Plate is ready."
+  to german "Deine Extrusionsplatte ist fertig.";
+
+translate "Make a Pinch Roller"
+  to german "Stelle eine Andruckrolle her";
+
+translate "You need 30 deben of Iron to make a Pinch Roller."
+  to german "Du benötigst 30 Deben Eisen, um eine Andruckrolle herzustellen.";
+
+translate "Making a Pinch Roller"
+  to german "Herstellung Andruckrolle";
+
+translate "Pinch Roller will be done in K1"
+  to german "Die Andruckrolle wird in K1 fertig sein";
+
+translate "Your Pinch Roller is ready."
+  to german "Deine Andruckrolle ist fertig.";
+
+translate "Make a batch of Nails"
+  to german "Stelle einen Satz Nägel her";
+
+translate "You need one deben of Iron to make a batch of Nails."
+  to german "Du benötigst 1 Deben Eisen, um einen Satz Nägel herzustellen.";
+
+translate "You have made a batch of Nails. They will be cool in K1"
+  to german "Du hast einen Satz Nägel hergestellt. Sie brauchen K1 zum Abkühlen.";
+
+translate "Making Nails"
+  to german "Herstellung Nägel";
+
+translate "Your Nails are ready."
+  to german "Deine Nägel sind fertig.";
+
+translate "Make a pair of Tongs"
+  to german "Stelle eine Zange her";
+
+translate "(Stainless, Insulative, and Non Toxic),"
+  to german "(rostfrei, isolierend und nicht giftig),";
+
+translate "of Purity 4 or higher"
+  to german "mit einer Reinheit von 4 oder höher";
+
+translate "That item is not Treated Metal."
+  to german "Dieser Gegenstand ist kein beschichtetes Metall.";
+
+translate "That item does not have the correct requirements."
+  to german "Dieser Gegenstand hat nicht die richtigen Eigenschaften.";
+
+translate "You do not have enough Treated Metal."
+  to german "Du hast nicht genug beschichtetes Metall.";
+
+translate "You have made a pair of Tongs. They will be cool in K1"
+  to german "Du hast eine Zange hergestellt. Sie braucht K1 zum Abkühlen.";
+
+translate "Making Tongs"
+  to german "Herstellung Zange";
+
+translate "Your Tongs are ready."
+  to german "Deine Zange ist fertig.";
+
+translate "Make an Iron Bar"
+  to german "Stelle einen Eisenbarren her";
+
+translate "You need two deben of iron to forge an Iron Bar."
+  to german "Du brauchst 2 Deben Eisen, um einen Eisenbarren herzustellen.";
+
+translate "Making an Iron Bar"
+  to german "Herstellung Eisenbarren";
+
+translate "You have fashioned an Iron Bar. It will take fifteen minutes to cool."
+  to german "Du hast einen Eisenbarren hergestellt. Er braucht 15 Minuten zum Abkühlen.";
+
+translate "Your Iron Bar has cooled."
+  to german "Dein Eisenbarren ist abgekühlt.";
+
+translate "Make an Gold Bar"
+  to german "Stelle einen Goldbarren her";
+
+--translate "Make a Gold Bar"
+--	to german "Stelle einen Goldbarren her";
+
+translate "You need fifteen deben of Gold to forge an Gold Bar."
+  to german "Du brauchst 15 Deben Gold, um einen Goldbarren herzustellen.";
+
+--translate "You need fifteen deben of Gold to forge a Gold Bar."
+--to 	german "Du brauchst 15 Deben Gold, um einen Goldbarren herzustellen.";
+
+translate "Making an Gold Bar"
+  to german "Herstellung Goldbarren";
+
+--translate "Making a Gold Bar"
+--	to german "Herstellung Goldbarren";
+
+translate "You have fashioned an Gold Bar. It will take five minutes to cool."
+  to german "Du hast einen Goldbarren hergestellt. Er braucht 5 Minuten zum Abkühlen.";
+
+--translate "You have fashioned a Gold Bar. It will take five minutes to cool."
+--	to german "Du hast einen Goldbarren hergestellt. Er braucht 5 Minuten zum Abkühlen.";
+
+translate "Your Gold Bar has cooled."
+  to german "Dein Goldbarren ist abgekühlt.";
+
+translate "Make an Silver Bar"
+  to german "Stelle einen Silberbarren her";
+
+--translate "Make a Silver Bar"
+--	to german "Stelle einen Silberbarren her";
+
+translate "You need twenty deben of Silver to forge an Silver Bar."
+  to german "Du brauchst 20 Deben Silber, um einen Silberbarren herzustellen.";
+
+--translate "You need twenty deben of Silver to forge a Silver Bar."
+--	to german "Du brauchst 20 Deben Silber, um einen Silberbarren herzustellen.";
+
+translate "Making an Silver Bar"
+  to german "Herstellung Silberbarren";
+
+--translate "Making a Silver Bar"
+--  to german "Herstellung Silberbarren";
+
+translate "You have fashioned an Silver Bar. It will take ten minutes to cool."
+  to german "Du hast einen Silberbarren hergestellt. Er braucht 10 Minuten zum Abkühlen.";
+
+--translate "You have fashioned a Silver Bar. It will take ten minutes to cool."
+--  to german "Du hast einen Silberbarren hergestellt. Er braucht 10 Minuten zum Abkühlen.";
+
+translate "Your silver bar has cooled."
+  to german "Dein Silberbarren ist abgekühlt.";
+
+translate "Make some Copper Sheeting"
+  to german "Stelle Kupferblech her";
+
+translate "You'll need six deben of Copper."
+  to german "Du benötigst 6 Deben Kupfer.";
+
+translate "Making Copper Sheeting"
+  to german "Herstellung Kupferblech";
+
+translate "You have made some Copper Sheeting. It will take one minute to cool."
+  to german "Du hast ein Kupferblech hergestellt. Es braucht 1 Minute zum Abkühlen.";
+
+translate "Your Copper Sheeting is ready."
+  to german "Dein Kupferblech ist fertig.";
+
+translate "Make some Lead Sheeting"
+  to german "Stelle Bleiblech her";
+
+translate "You'll need six deben of Lead to make a single piece of Lead Sheeting."
+  to german "Du brauchst 6 Deben Blei, um ein einziges Bleiblech herzustellen.";
+
+translate "Making Lead Sheeting"
+  to german "Herstellung Bleiblech";
+
+translate "You have made some Lead Sheeting. It will take ten minutes to cool."
+  to german "Du hast ein Bleiblech hergestellt. Es braucht 10 Minuten zum Abkühlen.";
+
+translate "Your Lead Sheeting is ready."
+  to german "Dein Bleiblech ist fertig.";
+
+translate "Make some Tin Sheeting"
+  to german "Stelle Zinnblech her";
+
+translate "You'll need eight deben of Tin."
+  to german "Du benötigst 8 Deben Zinn.";
+
+translate "Making Tin Sheeting"
+  to german "Herstellung Zinnblech";
+
+translate "You have made some Tin Sheeting. It will take five minutes to cool."
+  to german "Du hast ein Zinnblech hergestellt. Es braucht 5 Minuten zum Abkühlen.";
+
+translate "Your Tin Sheeting is ready."
+  to german "Dein Zinnblech ist fertig.";
+
+translate "Make some Moon Steel Sheeting"
+  to german "Stelle Mondstahlblech her";
+
+translate "You'll need eight deben of Moon Steel."
+  to german "Du benötigst 8 Deben Mondstahl.";
+
+translate "Making Moon Steel Sheeting"
+  to german "Herstellung Mondstahlblech";
+
+translate "You have made some Moon Steel Sheeting. It will take five minutes to cool."
+  to german "Du hast ein Mondstahlblech hergestellt. Es braucht 5 Minuten zum Abkühlen.";
+
+translate "Your Moon Steel Sheeting is ready."
+  to german "Dein Mondstahlblech ist fertig.";
+
+translate "Make some Gold Sheeting"
+  to german "Stelle Goldblech her";
+
+translate "You'll need one deben of Gold."
+  to german "Du benötigst 1 Deben Gold.";
+
+translate "Making gold sheeting"
+  to german "Herstellung Goldblech";
+
+translate "You have made some Gold Sheeting. It will take ten minutes to cool."
+  to german "Du hast ein Goldblech hergestellt. Es braucht 10 Minuten zum Abkühlen.";
+
+translate "Your Gold Sheeting is ready."
+  to german "Dein Goldblech ist fertig.";
+
+translate "Make some Gold Foil"
+  to german "Stelle Goldfolie her";
+
+translate "You'll need one Gold Sheeting to further refine into Gold Foil."
+  to german "Du benötigst 1 Goldblech, um dies zu Goldfolie weiter zu verfeinern.";
+
+translate "Making gold foil"
+  to german "Herstellung Goldfolie";
+
+translate "You have made some Gold Foil. It will take one minute to cool."
+  to german "Du hast Goldfolie hergestellt. Sie braucht 1 Minute zum Abkühlen.";
+
+translate "Your Gold Foil is ready."
+  to german "Deine Goldfolie ist fertig.";
+
+translate "Make some Silver Sheeting"
+  to german "Stelle Silberblech her";
+
+translate "You'll need three deben of silver"
+  to german "Du benötigst 3 Deben Silber.";
+
+translate "Making Silver Sheeting"
+  to german "Herstellung Silberblech";
+
+translate "You have made some Silver Sheeting. It will take two minutes to cool."
+  to german "Du hast ein Silberblech hergestellt. Es braucht 2 Minuten zum Abkühlen.";
+
+translate "Your Silver Sheeting is ready."
+  to german "Deine Silberblech ist fertig.";
+
+translate "Make some Thoth's Metal Sheeting"
+  to german "Stelle Blech aus Thoths Metall her";
+
+translate "You'll need six deben of Thoth's Metal."
+  to german "Du benötigst 6 Deben Thoths Metall.";
+
+translate "Making Thoth's Metal sheeting"
+  to german "Herstellung Blech aus Thoths Metall";
+
+translate "You have made some Thoth's Metal Sheeting. It will take ten minutes to cool."
+  to german "Du hast ein Blech aus Thoths Metall hergestellt. Es braucht 10 Minuten zum Abkühlen.";
+
+translate "Your Thoth's Metal sheeting is ready."
+  to german "Dein Blech aus Thoths Metall ist fertig.";
+
+translate "Make some Metal Blue Sheeting"
+  to german "Stelle Blaumetallblech her";
+
+translate "You'll need ten deben of Metal Blue."
+  to german "Du benötigst 10 Deben Blaumetall.";
+
+translate "Making Metal Blue Sheeting"
+  to german "Herstellung Blaumetall";
+
+translate "You have made some Metal Blue Sheeting. It will take fifteen minutes to cool."
+  to german "Du hast ein Blaumetallblech hergestellt. Es braucht 15 Minuten zum Abkühlen.";
+
+translate "Your Metal Blue Sheeting is ready."
+  to german "Dein Blaumetallblech ist fertig.";
+
+translate "Make some Octec's Alloy Sheeting"
+  to german "Stelle Octecs Legierungsblech her";
+
+translate "You'll need two deben of Octec's Alloy."
+  to german "Du benötigst 2 Deben Octecs Legierung.";
+
+translate "Making Octec's Alloy Sheeting"
+  to german "Herstellung Octecs Legierungsblech";
+
+translate "You have made some Octec's Alloy Sheeting. It will take twenty minutes to cool."
+  to german "Du hast ein Octecs Legierungsblech hergestellt. Es braucht 20 Minuten zum Abkühlen.";
+
+translate "Your Octec's Alloy Sheeting is ready."
+  to german "Dein Octecs Legierungsblech ist fertig.";
+
+translate "Treated Metal Sheeting requires"
+  to german "Das beschichtete Metallblech benötigt";
+
+translate "2 debens of Treated Metal"
+  to german "2 Deben beschichtetes Metall";
+
+translate "That item is not Treated Metal."
+  to german "Dieser Gegenstand ist kein beschichtetes Metall.";
+
+translate "You do not have enough Treated Metal."
+  to german "Du hast nicht genug beschichtetes Metall.";
+
+translate "Making Treated Metal Sheeting"
+  to german "Herstellung beschichtetes Metallblech";
+
+translate "You have made some Treated Metal Sheeting. It will be cool in K1"
+  to german "Du hast ein beschichtetes Metallblech hergestellt. Es braucht K1 Minuten zum Abkühlen.";
+
+translate "Your Treated Metal Sheeting is ready."
+  to german "Dein beschichtetes Metallblech ist fertig.";
+
+translate "Make some Treated Metal Sheeting"
+  to german "Stelle ein beschichtete Metallblech her";
+
+translate "Make some Steel Wire"
+  to german "Stelle Stahldraht her";
+
+translate "Your forge needs 2 deben of steel to make Steel Wire."
+  to german "Deine Schmiede benötigt 2 Deben Stahl, um Stahldraht herzustellen.";
+
+translate "Making Steel Wire"
+  to german "Herstellung Stahldraht";
+
+translate "You have made some Steel Wire. It will take five minutes to cool."
+  to german "Du hast Stahldraht hergestellt. Er braucht 5 Minuten zum Abkühlen.";
+
+translate "Your Steel Wire is ready."
+  to german "Dein Stahldraht ist fertig.";
+
+translate "Make some Copper Wire"
+  to german "Stelle Kupferdraht her";
+
+translate "Your forge needs 2 deben of copper to make Copper Wire."
+  to german "Deine Schmiede benötigt 2 Deben Kupfer, um Kupferdraht herzustellen.";
+
+translate "Making Copper Wire"
+  to german "Herstellung Kupferdraht";
+
+translate "You have made some Copper Wire. It will take five minutes to cool."
+  to german "Du hast Kupferdraht hergestellt. Er braucht 5 Minuten zum Abkühlen.";
+
+translate "Your Copper Wire is ready."
+  to german "Dein Kupferdraht ist fertig.";
+
+translate "Make some Gold Wire"
+  to german "Stelle Goldraht her";
+
+translate "Your forge needs 1 deben of Gold to make Gold Wire."
+  to german "Deine Schmiede benötigt 1 Deben Gold, um Golddraht herzustellen.";
+
+translate "Making Gold Wire"
+  to german "Herstellung Golddraht";
+
+translate "You have made some Gold Wire. It will take ten minutes to cool."
+  to german "Du hast Golddraht hergestellt. Er braucht 10 Minuten zum Abkühlen.";
+
+translate "Your Gold Wire is ready."
+  to german "Dein Golddraht ist fertig.";
+
+translate "Make some Silver Wire"
+  to german "Stelle Silberdraht her";
+
+translate "Your forge needs 1 deben of Silver to make Silver Wire."
+  to german "Deine Schmiede benötigt 1 Deben Silber, um Silberdraht herzustellen.";
+
+translate "Making Silver Wire"
+  to german "Herstellung Silberdraht";
+
+translate "You have made some Silver Wire. It will take five minutes to cool."
+  to german "Du hast Silberdraht hergestellt. Er braucht 5 Minuten zum Abkühlen.";
+
+translate "Your Silver Wire is ready."
+  to german "Dein Silberdraht ist fertig.";
+
+translate "Make some Magnesium Wire"
+  to german "Stelle Magnesiumdraht her";
+
+translate "Your forge needs 1 deben of Magnesium to make Magnesium Wire."
+  to german "Deine Schmiede benötigt 1 Deben Magnesium, um Magnesiumdraht herzustellen.";
+
+translate "Making Magnesium Wire"
+  to german "Herstellung Magnesiumdraht";
+
+translate "You have made some Magnesium Wire. It will take one minute to cool."
+  to german "Du hast Magnesiumdraht hergestellt. Er braucht 1 Minute zum Abkühlen.";
+
+translate "Your Magnesium Wire is ready."
+  to german "Dein Magnesiumdraht ist fertig.";
+
+translate "Make some Metal Blue Wire"
+  to german "Stelle Blaumetalldraht her";
+
+translate "Your forge needs 5 deben of Metal Blue to make Metal Blue Wire."
+  to german "Deine Schmiede benötigt 5 Deben Blaumetall, um Blaumetalldraht herzustellen";
+
+translate "Making Metal Blue Wire"
+  to german "Herstellung Blaumetalldraht";
+
+translate "You have made some Metal Blue Wire. It will take five minutes to cool."
+  to german "Du hast Blaumetalldraht hergestellt. Er braucht 5 Minuten zum Abkühlen.";
+
+translate "Your Metal Blue Wire is ready."
+  to german "Dein Blaumetalldraht ist fertig.";
+
+translate "Make some Octec's Alloy Wire"
+  to german "Stelle Octecs Legierungsdraht her";
+
+translate "Your forge needs 3 deben of Octec's Alloy to make Octec's Alloy Wire."
+  to german "Deine Schmiede benötigt 3 Deben Octecs Legierung, um Octecs Legierungsdraht herzustellen.";
+
+translate "Making Octec's Alloy Wire"
+  to german "Herstellung Octecs Legierungsdraht";
+
+translate "You have made some Octec's Alloy Wire. It will take ten minutes to cool."
+  to german "Du hast Octecs Legierungsdraht hergestellt. Er braucht 10 Minuten zum Abkühlen.";
+
+translate "Your Octec's Alloy Wire is ready."
+  to german "Dein Octecs Legierungsdraht ist fertig.";
+
+translate "Make some Thoth's Metal Wire"
+  to german "Stelle Thoths Metalldraht her";
+
+translate "Your forge needs 4 deben of Thoth's Metal to make Thoth's Metal Wire."
+  to german "Deine Schmiede benötigt 4 Deben Thoths Metall, um Thoths Metalldraht herzustellen.";
+
+translate "Making Thoth's Metal Wire"
+  to german "Herstellung Thoths Metalldraht";
+
+translate "You have made some Thoth's Metal Wire. It will take five minutes to cool."
+  to german "Du hast Thoths Metalldraht hergestellt. Er braucht 5 Minuten zum Abkühlen.";
+
+translate "Your Thoth's Metal Wire is ready."
+  to german "Dein Thoths Metalldraht ist fertig.";
+
+translate "Student's Casting Box"
+  to german "kleine Gießerei";
+
+translate "To build a Student's Casting Box, you need: "
+  to german "Um eine kleine Gießerei zu bauen, benötigst du:";
+
+translate "Master's Casting Box"
+  to german "große Gießerei";
+
+translate "To build a Master's Casting Box, you need: "
+  to german "Um eine große Gießerei zu bauen, benötigst du:";
+
+translate "Make a Heavy Lead Bowl"
+  to german "Stelle eine schwere Bleischale her";
+
+translate "You need 20 debens of Lead and Wax to make a Heavy Lead Bowl."
+  to german "Du benötigst 20 Deben Blei und Wachs, um eine schwere Bleischale herzustellen.";
+
+translate "Making a Heavy Lead Bowl"
+  to german "Herstellung schwere Bleischale";
+
+translate "You have fashioned a Heavy Lead Bowl. The Bowl will take ten minutes to cool."
+  to german "Du hast eine schwere Bleischale hergestellt. Sie braucht 10 Minuten zum Abkühlen.";
+
+translate "Your Bowl has cooled."
+  to german "Deine Schale ist abgekühlt.";
+
+translate "Make a Heavy Mallet Head"
+  to german "Stelle einen schweren Hammerkopf her";
+
+translate "To make a Heavy Mallet Head you need:"
+  to german "Um einen schweren Hammerkopf herzustellen, benötigst du:";
+
+translate "Making a Heavy Mallet Head"
+  to german "erstellung schwerer Hammerkopf";
+
+translate "Heavy Mallet Head will be done in K1."
+  to german "Der schwere Hammerkopf wird in K1 fertig sein.";
+
+translate "Your Heavy Mallet Head is ready."
+  to german "Dein schwerer Hammerkopf ist fertig.";
+
+translate "Make a Nozzle"
+  to german "Stelle eine Düse her";
+
+translate "You need N1 debens of O1 and Wax to make a K1."
+  to german "Du benötigst N1 Deben O1(sn) und Wachs, um eine K1 herzustellen.";
+
+translate "Making a K1."
+  to german "Herstellung K1";
+
+translate "You have fashioned a K1. It will take K2 minutes to cool."
+  to german "Du hast eine K1 hergestellt. Sie braucht K2 Minuten zum Abkühlen.";
+
+translate "Your K1 has cooled."
+  to german "Deine K1 ist abgekühlt.";
+
+translate "Make a Pewter Incense Prong"
+  to german "Stelle eine Räuchergabel aus Hartzinn her.";
+
+translate "You need one deben of Pewter and Wax to make an Incense Prong."
+  to german "Du benötigst 1 Deben Hartzinn und Wachs, um eine Räuchergabel herzustellen.";
+
+translate "Making an Incense Prong"
+  to german "Herstellung Räuchergabel";
+
+translate "You have fashioned a Pewter Incense Prong. It will take three minutes to cool."
+  to german "Du hast eine Räuchergabel aus Hartzinn hergestellt. Sie braucht 3 Minuten zum Abkühlen.";
+
+translate "Your Incense Prong has cooled."
+  to german "Deine Räuchergabel ist abgekühlt.";
+
+translate "Make a K1"
+  to german "Stelle K1 her";
+
+translate "You have fashioned a K1. It will take five minutes to cool."
+  to german "Du hast K1 hergestellt. Es braucht 5 Minuten zum Abkühlen.";
+
+translate "Your project has cooled."
+  to german "Dein Projekt ist abgekühlt.";
+
+translate "Make a Bearing"
+  to german "Stelle ein Kugellager her";
+
+translate "To make a Bearing you need:"
+  to german "Um ein Kugellager herzustellen, benötigst du:";
+
+translate "Making a Bearing"
+  to german "Herstellung Kugellager";
+
+translate "Bearing will be done in K1"
+  to german "Das Kugellager wird in K1 fertig sein";
+
+translate "Your Bearing is ready."
+  to german "Dein Kugellager ist fertig.";
+
+translate "Make a set of 12 Washers"
+  to german "Stelle ein 12erSet Dichtungsringe her";
+
+translate "To make a small set of Washers, you need:"
+  to german "Um ein kleines Set Dichtungsringe herzustellen, benötigst du:";
+
+translate "Making a small set of Washers"
+  to german "Herstellung kleines Set Dichtungsringe";
+
+translate "Washers will be done in K1"
+  to german "Die Dichtungsringe werden in K1 fertig sein";
+
+translate "Your set of washers are ready."
+  to german "Dein Dichtungsringset ist fertig.";
+
+translate "Fuel"
+  to german "Brennstoff";
+
+translate "Make 4 Orichalcum Pellets"
+  to german "Stelle 4 Orichalcumkügelchen her ";
+
+translate "To make a small batch of Orichalcum Pellets, you need:"
+  to german "Um einen kleinen Satz Orichalcumkügelchen herzustellen, benötigst du:";
+
+translate "Making a small batch of Orichalcum Pellets"
+  to german "Stelle einen kleinen Satz Orichalcumkügelchen her";
+
+translate "Orichalcum Pellets will be done in K1"
+  to german "Die Orichalcumkügelchen werden in K1 fertig sein";
+
+translate "Your small batch of Orichalcum Pellets are ready."
+  to german "Dein kleiner Satz Orichalcumkügelchen ist fertig.";
+
+translate "Make 40 Orichalcum Pellets"
+  to german "Herstellung 40 Orichalcumkügelchen";
+
+translate "To make a large batch of Orichalcum Pellets, you need:"
+  to german "Um einen großen Satz Orichalcumkügelchen herzustellen, benötigst du:";
+
+translate "Making a large batch of Orichalcum Pellets"
+  to german "Stelle einen großen Satz Orichalcumkügelchen her";
+
+translate "Your large batch of Orichalcum Pellets are ready."
+  to german "Dein großer Satz Orichalcumkügelchen ist fertig.";
+
+translate "Hardware"
+  to german "Metallwaren";
+
+translate "Make a set of 60 Washers"
+  to german "Stelle ein 60er-Set Dichtungsringe her";
+
+translate "To make a large set of Washers, you need:"
+  to german "Um ein großes Set Dichtungsringe herzustellen, benötigst du:";
+
+translate "Making a large set of Washers"
+  to german "Herstellung kleines Set Dichtungsringe";
+
+translate "Washers will be done in K1"
+  to german "Die Dichtungsringe werden in K1 fertig sein";
+
+translate "Your set of washers are ready."
+  to german "Dein Dichtungsringset ist fertig.";
+
+translate "Make a Crude Reel"
+  to german "Stelle eine grobe Haspel her";
+
+translate "To make a crude reel you need:"
+  to german "Um eine grobe Haspel herzustellen, benötigst du:";
+
+translate "Making a crude reel"
+  to german "Herstellung grobe Haspel";
+
+translate "Crude reel will be done in K1"
+  to german "Die grobe Haspel wird in K1 fertig sein";
+
+translate "Your crude reel is ready."
+  to german "Deine grobe Haspel ist fertig.";
+
+translate "Make a fine Reel"
+  to german "Stelle eine feine Haspel her";
+
+translate "To make a fine reel you need:"
+  to german "Um eine feine Haspel herzustellen, benötigst du:";
+
+translate "Making a fine reel"
+  to german "Herstellung feine Haspel";
+
+translate "Fine reel will be done in K1"
+  to german "Die feine Haspel wird in K1 fertig sein";
+
+translate "Your fine reel is ready."
+  to german "Deine feine Haspel ist fertig.";
+
+translate "Make a set of 10 Bearings"
+  to german "Stelle ein 10er-Set Kugellager her";
+
+translate "To make a set of 10 Bearings you need:"
+  to german "Um ein 10er-Set Kugellager herzustellen, benötigst du:";
+
+translate "Making a set of 10 Bearings"
+  to german "Herstellung 10er-Set Kugellager";
+
+translate "Your Bearing will be done in K1"
+  to german "Deine Kugellager werden in K1 fertig sein";
+
+translate "Your Bearings are ready."
+  to german "Deine Kugellager ist fertig.";
+
+translate "Make a set of 4 Bolts"
+  to german "Stelle ein 4er-Set Schrauben her";
+
+translate "To make a Bolt you need:"
+  to german "Um Schrauben herzustellen, benötigst du:";
+
+translate "Making 4 Bolts"
+  to german "Herstellung 4 Schrauben";
+
+translate "Your Bolts will be done in K1"
+  to german "Deine Schrauben werden in K1 fertig sein";
+
+translate "Your Bolts are ready."
+  to german "Deine Schrauben sind fertig.";
+
+translate "Make a set of 40 Bolts"
+  to german "Stelle ein 40er-Set Schrauben her";
+
+translate "To make a set of 40 bolts you need:"
+  to german "Um ein 40er-Set Schrauben herzustellen, benötigst du:";
+
+translate "Making a set of 40 Bolts"
+  to german "Herstellung 40 Schrauben";
+
+translate "Make a Lead Mallet"
+  to german "Stelle einen Bleiklöppel her";
+
+translate "To make a Lead Mallet you need:"
+  to german "Um einen Bleiklöppel herzustellen, benötigst du:";
+
+translate "Making a Lead Mallet"
+  to german "Herstellung Bleiklöppel";
+
+translate "Lead Mallet will be done in K1"
+  to german "Der Bleiklöppel wird in K1 fertig sein";
+
+translate "Your Lead Mallet is ready."
+  to german "Dein Bleiklöppel ist fertig.";
+
+translate "This mallet can be used to tap glass rods into the ground to search for Limestone Tooth blocks, to be assembled into a pyramid."
+  to german "Dieser Klöppel kann zum Einschlagen von Glasstangen in den Boden auf der Suche nach Kalksteinblöcken benutzt und in Pyramiden eingebaut werden.";
+
+translate "Make an Iron Cookpot"
+  to german "Stelle einen Eisenkochtopf her";
+
+translate "To make a Cookpot you need:"
+  to german "Um einen Kochtopf herzustellen, benötigst du:";
+
+translate "Making a Cookpot"
+  to german "Herstellung Kochtopf";
+
+translate "Cookpot will be done in K1"
+  to german "Der Kochtopf wird in K1 fertig sein";
+
+translate "Your Cookpot is ready."
+  to german "Dein Kochtopf ist fertig.";
+
+translate "Make an Anvil Bed"
+  to german "Stelle ein Ambossbett her";
+
+translate "To make an Anvil Bed you need:"
+  to german "Um ein Ambossbett herzustellen, benötigst du:";
+
+translate "Making an Anvil Bed"
+  to german "Herstellung Ambossbett";
+
+translate "Your Anvil Bed will be done in K1"
+  to german "Das Ambossbett wird in K1 fertig sein";
+
+translate "Your Anvil Bed is ready."
+  to german "Dein Ambossbett ist fertig.";
+
+translate "Make a Monkey Wrench"
+  to german "Stelle einen Engländer her";
+
+translate "To make a Monkey Wrench you need:"
+  to german "Um einen Engländer herzustellen, benötigst du:";
+
+translate "Making a Monkey Wrench"
+  to german "Herstellung Engländer";
+
+translate "Your Monkey Wrench will be done in K1"
+  to german "Dein Engländer wird in K1 fertig sein";
+
+translate "Your Monkey Wrench is ready."
+  to german "Dein Engländer ist fertig.";
+
+translate "Gearwork"
+  to german "Getriebeteile";
+
+translate "Make a Small Gear"
+  to german "Stelle ein kleines Zahnrad her";
+
+translate "To make a Small Gear you need:"
+  to german "Um ein kleines Zahnrad herzustellen, benötigst du:";
+
+translate "Making a Small Gear"
+  to german "Herstellung kleines Zahnrad";
+
+translate "Your Small Gear will be done in K1"
+  to german "Dein kleines Zahnrad wird in K1 fertig sein";
+
+translate "Your Small Gear is ready."
+  to german "Dein kleines Zahnrad ist fertig.";
+
+translate "Make a Set of 10 Small Gears"
+  to german "Stelle ein 10er-Set kleine Zahnrädern her";
+
+translate "To make a set of 10 Small Gears you need:"
+  to german "Um ein 10er-Set kleiner Zahnräder herzustellen, benötigst du:";
+
+translate "Making a Set of 10 Small Gears"
+  to german "Herstellung 10er-Set kleine Zahnräder";
+
+translate "Your Small Gears will be done in K1"
+  to german "Deine kleinen Zahnräder werden in K1 fertig sein";
+
+translate "Your Small Gears are ready."
+  to german "Deine kleinen Zahnräder sind fertig.";
+
+translate "Make a Medium Gear"
+  to german "Stelle ein mittleres Zahnrad her";
+
+translate "To make a Medium Gear you need:"
+  to german "Um ein mittleres Zahnrad herzustellen, benötigst du:";
+
+translate "Making a Medium Gear"
+  to german "Herstellung mittleres Zahnrad";
+
+translate "Your Medium Gear will be done in K1"
+  to german "Dein mittleres Zahnrad wird in K1 fertig sein";
+
+translate "Your Medium Gear is ready."
+  to german "Dein mittleres Zahnrad ist fertig.";
+
+translate "Make a Large Gear"
+  to german "Stelle ein großes Zahnrad her";
+
+translate "To make a Large Gear you need:"
+  to german "Um ein großes Zahnrad herzustellen, benötigst du:";
+
+translate "Making a Large Gear"
+  to german "Herstellung großes Zahnrad";
+
+translate "Your Large Gear will be done in K1"
+  to german "Dein großes Zahnrad wird in K1 fertig sein";
+
+translate "Your Large Gear is ready."
+  to german "Dein großes Zahnrad ist fertig.";
+
+translate "Pots"
+  to german "Töpfe";
+
+translate "Iron Pot"
+  to german "Eisentopf";
+
+translate "To make an Iron Pot you need:"
+  to german "Um einen Eisentopf herzustellen, benötigst du:";
+
+translate "Making an Iron Pot"
+  to german "Herstellung Eisentopf";
+
+translate "Your Iron Pot will be done in K1"
+  to german "Dein Eisentopf wird in K1 fertig sein";
+
+translate "Your iron pot is ready."
+  to german "Dein Eisentopf ist fertig";
+
+translate "Brass Pot"
+  to german "Messingtopf";
+
+translate "To make a Brass Pot you need:"
+  to german "Um einen Messingtopf herzustellen, benötigst du:";
+
+translate "Making a Brass Pot"
+  to german "Herstellung Messingtopf";
+
+translate "Your Brass Pot will be done in K1"
+  to german "Dein Messingtopf wird in K1 fertig sein";
+
+translate "Your Brass Pot is ready."
+  to german "Dein Messingtopf ist fertig.";
+
+translate "Make a Brass Plate"
+  to german "Stelle eine Messingplatte her";
+
+translate "To make a Brass Plate you need:"
+  to german "Um eine Messingplatte herzustellen, benötigst du:";
+
+translate "Making a Brass Plate"
+  to german "Herstellung Messingplatte";
+
+translate "Your Brass Plate will be done in K1"
+  to german "Deine Messingplatte wird in K1 fertig sein";
+
+translate "Your Brass Plate is ready."
+  to german "Deine Messingplatte ist fertig";
+
+translate "Make an Aluminum Plate"
+  to german "Stelle eine Aluminiumplatte her";
+
+translate "To make an Aluminum Plate you need:"
+  to german "Um eine Aluminiumplatte herzustellen, benötigst du:";
+
+translate "Making an Aluminum Plate"
+  to german "Herstellung Aluminiumplatte";
+
+translate "Your Aluminum Plate will be done in K1"
+  to german "Deine Aluminiumplatte wird in K1 fertig sein";
+
+translate "Your Aluminum Plate is ready."
+  to german "Deine Aluminiumplatte ist fertig.";
+
+translate "Make a Screw Gear"
+  to german "Stelle ein Bohrgewinde her";
+
+translate "To make a Screw Gear you must stash:"
+  to german "Um ein Bohrgewinde herzustellen, benötigst du:";
+
+translate "Making a Screw Gear"
+  to german "Herstellung Bohrgewinde";
+
+translate "Your Screw Gear will be done in K1"
+  to german "Das Bohrgewinde wird in K1 fertig sein";
+
+translate "Your Screw Gear is ready."
+  to german "Dein Bohrgewinde ist fertig.";
+
+translate "Stash (For large Projects)"
+  to german "Verstauen (Für Großprojekte)";
+
+translate "Stash how many O1? (Max N1)"
+  to german "Wieviel O1(pn) verstauen? (Max N1)";
+
+translate "Make a Silver Bowl"
+  to german "Stelle eine Silberschale her";
+
+translate "To make a Silver Bowl you need:"
+  to german "Um eine Silberschale herzustellen, benötigst du:";
+
+translate "Making a Silver Bowl"
+  to german "Herstellung Silberschale";
+
+translate "Silver Bowl will be done in K1"
+  to german "Deine Silberschale wird in K1 fertig sein";
+
+translate "You've completed the Silver Bowl used in a Sacrificial Bonfire."
+  to german "Du hast eine Silberschale angefertigt. Sie wird für ein Opferfeuer benutzt.";
+
+translate "Your Silver Bowl is ready."
+  to german "Deine Silberschale ist fertig.";
+
+translate "Construct the Forge of Geb and Nut from the Plans"
+  to german "Baue nach den Plänen Gebs und Nuts Schmiede";
+
+translate "Are you sure? You will not be able to tear this down and get your plans back!"
+  to german "Bist du sicher? Du kannst dies nicht mehr abreißen und verlierst damit die Pläne!";
+
+translate "To build a Forge of Geb and Nut, you need:"
+  to german "Um Gebs und Nuts Schmiede zu bauen, benötigst du:";
+
+translate "Make a pair of Pincher Claw"
+  to german "Stelle eine Greiferklaue her";
+
+translate "Pincher Claw Require 50 Aluminum Plated Metal Blue,"
+  to german "Eine Greiferklaue benötigt 50 - mit Aluminium beschichtetes - Blaumetall";
+
+translate "(Stainless, Toxic, and Hard), of Purity 6 or higher,"
+  to german "(rostfrei, giftig und hart), mit einer Reinheit von 6 oder höher";
+
+translate "and 50 Beeswax"
+  to german "und 50 Bienenwachs";
+
+translate "To make a Pincher Claw you need:"
+  to german "Um eine Greiferklaue herzustellen, benötigst du:";
+
+translate "50 Beeswax"
+  to german "50 Bienenwachs";
+
+translate "You have made a Pincher Claw. It will be cool in K1"
+  to german "Du hast eine Greiferklaue hergestellt. Sie braucht K1 zum Abkühlen";
+
+translate "Making Pincher Claw"
+  to german "Herstellung Greiferklaue";
+
+translate "Your Pincher Claw is ready."
+  to german "Deine Greiferklaue ist fertig.";
+
+translate "Make a Pincher Axle"
+  to german "Stelle eine Achse her";
+
+translate "Pincher Axle requires 25 Tungsten Plated Metal Blue,"
+  to german "Achsen benötigen 25 - mit Wolfram beschichtetes - Blaumetall";
+
+translate "(Stainless, Tarnished, and Hard), of Purity 6 or higher,"
+  to german "(rostfrei, matt und hart), mit einer Reinheit von 6 oder höher";
+
+translate "and 25 Beeswax"
+  to german "und 25 Bienenwachs";
+
+translate "To make a Pincher Axle you need:"
+  to german "Um eine Achse herzustellen, benötigst du:";
+
+translate "25 Beeswax"
+  to german "25 Bienenwachs";
+
+translate "You have made a Pincher Axle. They will be cool in K1"
+  to german "Du hast eine Achse hergestellt. Sie braucht K1 zum Abkühlen";
+
+translate "Making Pincher Axle"
+  to german "Herstellung Achse";
+
+translate "Your Pincher Axle is ready."
+  to german "Deine Achse ist fertig.";
+
+translate "A stainless Steel Pot requires 20 Steel,"
+  to german "Ein rostfreier Stahltopf benötigt 20 Stahl,";
+
+translate "(Stainless),"
+  to german "(rostfrei),";
+
+translate "of Purity 4 or higher"
+  to german "mit einer Reinheit von 4 oder höher";
+
+translate "You have made a stainless Steel Pot. It will be cool in K1"
+  to german "Du hast einen rostfreien Stahltopf hergestellt. Er braucht K1 zum Abkühlen";
+
+translate "Making SteelPot"
+  to german "Herstellung Stahltopf";
+
+translate "Your stainless Steel Pot is ready."
+  to german "Dein rostfreier Stahltopf ist fertig.";
+
+translate "Advanced Casting"
+  to german "Erweitertes Gießen";
+
+translate "Allows for the casting of ancient mechanical parts"
+  to german "Ermöglicht das Gießen von antiken, mechanischen Teilen";
+
+translate "Ancient Forge"
+  to german "Antike Schmiede";
+
+translate "To build an Ancient Forge you need:"
+  to german "Um eine antike Schmiede zu bauen, benötigst du:";
+
+
+
+translate "This O1 is Making an O2"
+  to german "O1(^tsn) O1(sn) stellt O2(asa) O2(sn) her";

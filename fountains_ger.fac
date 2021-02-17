@@ -1,0 +1,399 @@
+module fountains_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2007 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+
+
+translate NozCrystalFog to german femininecollective
+{
+  swa "Düse: Kristallnebel";
+  sn "Düse: Kristallnebel"; sg "Düse: Kristallnebel"; sd "Düse: Kristallnebel"; sa "Düse: Kristallnebel";
+  pn "Düsen: Kristallnebel"; pg "Düsen: Kristallnebel"; pd "Düsen: Kristallnebel"; pa "Düsen: Kristallnebel";
+}
+
+translate NozDirtyRain to german femininecollective
+{
+  swa "Düse: Dreckschleuder";
+  sn "Düse: Dreckschleuder"; sg "Düse: Dreckschleuder"; sd "Düse: Dreckschleuder"; sa "Düse: Dreckschleuder";
+  pn "Düsen: Dreckschleuder"; pg "Düsen: Dreckschleuder"; pd "Düsen: Dreckschleuder"; pa "Düsen: Dreckschleuder";
+}
+
+translate NozFoggyShower to german femininecollective
+{
+  swa "Düse: Nebeldusche";
+  sn "Düse: Nebeldusche"; sg "Düse: Nebeldusche"; sd "Düse: Nebeldusche"; sa "Düse: Nebeldusche";
+  pn "Düsen: Nebeldusche"; pg "Düsen: Nebeldusche"; pd "Düsen: Nebeldusche"; pa "Düsen: Nebeldusche";
+}
+
+translate NozLightRain to german femininecollective
+{
+  swa "Düse: Sommerregen";
+  sn "Düse: Sommerregen"; sg "Düse: Sommerregen"; sd "Düse: Sommerregen"; sa "Düse: Sommerregen";
+  pn "Düsen: Sommerregen"; pg "Düsen: Sommerregen"; pd "Düsen: Sommerregen"; pa "Düsen: Sommerregen";
+}
+translate NozMistyBubbles to german femininecollective
+{
+  swa "Düse: Perlenschauer";
+  sn "Düse: Perlenschauer"; sg "Düse: Perlenschauer"; sd "Düse: Perlenschauer"; sa "Düse: Perlenschauer";
+  pn "Düsen: Perlenschauer"; pg "Düsen: Perlenschauer"; pd "Düsen: Perlenschauer"; pa "Düsen: Perlenschauer";
+}
+translate NozWhiteShower to german femininecollective
+{
+  swa "Düse: Eisregen";
+  sn "Düse: Eisregen"; sg "Düse: Eisregen"; sd "Düse: Eisregen"; sa "Düse: Eisregen";
+  pn "Düsen: Eisregen"; pg "Düsen: Eisregen"; pd "Düsen: Eisregen"; pa "Düsen: Eisregen";
+}
+
+translate basin8 to german neuter
+{
+  swa "Kleines Becken";
+  sn "Kleine Becken"; sg "Kleinen Beckens"; sd "Kleinen Becken"; sa "Kleine Becken";
+  pn "Kleinen Becken"; pg "Kleinen Becken"; pd "Kleinen Becken"; pa "Kleinen Becken";
+}
+
+translate basin12 to german neuter
+{
+  swa "Mittleres Becken";
+  sn "Mittlere Becken"; sg "Mittleren Beckens"; sd "Mittleren Becken"; sa "Mittlere Becken";
+  pn "Mittleren Becken"; pg "Mittleren Becken"; pd "Mittleren Becken"; pa "Mittleren Becken";
+}
+
+translate basin16 to german neuter
+{
+  swa "Großes Becken";
+  sn "Große Becken"; sg "Großen Beckens"; sd "Großen Becken"; sa "Große Becken";
+  pn "Großen Becken"; pg "Großen Becken"; pd "Großen Becken"; pa "Großen Becken";
+}
+
+translate basin20 to german neuter
+{
+  swa "Riesiges Becken";
+  sn "Riesige Becken"; sg "Riesigen Beckens"; sd "Riesigen Becken"; sa "Riesige Becken";
+  pn "Riesigen Becken"; pg "Riesigen Becken"; pd "Riesigen Becken"; pa "Riesigen Becken";
+}
+
+translate fcontroller to german feminine
+{
+  swa "Springbrunnenkontrolle";
+  sn "Springbrunnenkontrolle"; sg "Springbrunnenkontrolle"; sd "Springbrunnenkontrolle"; sa "Springbrunnenkontrolle";
+  pn "Springbrunnenkontrollen"; pg "Springbrunnenkontrollen"; pd "Springbrunnenkontrollen"; pa "Springbrunnenkontrollen";
+}
+translate SnowEmitter to german masculine
+{
+  swa "Schneestrahler";
+  sn "Schneestrahler"; sg "Schneestrahlers"; sd "Schneestrahler"; sa "Schneestrahler";
+  pn "Schneestrahler"; pg "Schneestrahler"; pd "Schneestrahlern"; pa "Schneestrahler";
+}
+
+//texts
+
+
+translate "-"
+to german "-";
+translate "*"
+to german "*";
+
+translate "All basins must first be removed."
+to german "Alle Becken müssen zuerst entfernt werden.";
+
+translate "All nozzles must first be removed."
+to german "Alle Düsen müssen zuerst entfernt werden.";
+
+translate "K1"
+to german "K1";
+
+translate "You must be configuring a Fountain Controller to build Basins."
+to german "Du musst grade an deiner Springbrunnenkontrolle arbeiten, um Becken bauen zu können.";
+
+translate "Too far from the controller."
+to german "Zu weit von der Steuerung entfernt.";
+
+translate "Basin would be too far from the controller."
+to german "Das Becken wäre zu weit von der Steuerung entfernt.";
+
+translate "To build a Basin you need:"
+to german "Um ein Becken zu bauen benötigst du:";
+
+translate "Add a Nozzle"
+to german "Füge eine Düse ein";
+
+translate "You are not configuring a Fountain."
+to german "Du bearbeitest keinen Springbrunnen.";
+
+translate "Start the Test of Dancing Waters"
+to german "Beginne den Test des Tanzenden Wassers";
+
+translate "You sign up for the Test of Dancing Waters, and learn the art of building sophisticated, dynamic fountains."
+to german "Du trägst dich für den Test des Tanzenden Wassers ein und erlernst die Baukunst von ausgeklügelten, verspielten Springbrunnen.";
+
+translate "Enter Base Parameters"
+to german "Gib Basisparameter ein";
+
+translate "Enter Set N1 Parameters"
+to german "Gib N1 Parameter ein";
+
+translate "Period must be at least 1"
+to german "Zeitabschnitt muss mindestens 1 sein";
+
+translate "Dancing Waters"
+to german "Tanzendes Wasser";
+
+translate "Dancing Waters Mechanism"
+to german "Mechanismus des Tanzenden Wassers";
+
+translate "To build a Dancing Waters Mechanism you need:"
+to german "Um einen Mechanismus des Tanzenden Wassers zu bauen benötigst du:";
+
+translate "Cut Stone to lower water table"
+to german "Geschnittene Steine für den Wasserspiegel";
+
+translate "Concrete for base mechanism"
+to german "Beton für den Hauptmechnismus";
+
+translate "Glass Pipes for delicate control"
+to german "Glasrohre für die Feineinstellung";
+
+translate "Copper Pipe for main inflow and outflow"
+to german "Kupferrohre für den Vor- und Rücklauf";
+
+translate "Adjust the Fountain"
+to german "Anpassung des Springbrunnens";
+
+translate "You can not adjust the fountain while it is open for judging."
+to german "Du kannst den Springbrunnen nicht anpassen, solange er für die Wertung geöffnet ist.";
+
+translate "Fountain Editor"
+to german "Springbrunneneditor";
+
+translate "Average Water Flow: N1"
+to german "Durchschnittlicher Wasserfluss: N1";
+
+translate "Synchronizing in N1"
+to german "Synchronisation in N1";
+
+translate "Basin Fill Levels"
+to german "Beckenfüllstände";
+
+translate "The yellow circle is you. Clicking on it doesn't do anything."
+to german "Der gelbe Kreis bist du. Beim Anklicken passiert nichts.";
+
+translate "The large grey circle is the fountain controller. Clicking on it doesn't do anything."
+to german "Der große graue Kreis ist die Springbrunnenkontrolle. Beim Anklicken passiert nichts.";
+
+translate "The small grey circle represents the target point for the selected keyframe. Clicking on it has no effect."
+to german "Der kleine graue Kreis stellt den Punkt für das ausgewählte Zielfenster dar. Anklicken zeigt keinen Effekt.";
+
+translate "Stop"
+to german "Stopp";
+
+translate "Mechanical Stress: N1%"
+to german "Mechanische Belastung: N1%";
+
+translate "Config"
+to german "Config";
+
+translate "Initial Fill: N1"
+to german "Startbefüllung: N1";
+
+translate "Initial Fill:"
+to german "Startbefüllung:";
+
+translate "Configure Basin"
+to german "Beckenkonfiguration";
+
+translate "You need to have N1 water in inventory to raise the initial fill level to N2. You only have N3."
+to german "Du musst N1 Wasser in deinem Inventar tragen, um die Startbefüllung auf N2 zu bringen. Du hast nur N3 Wasser";
+
+translate "O1, N1ft"
+to german "O1(sn), N1Fuss";
+
+translate "You are not configuring a Fountain."
+to german "Du bearbeitest keinen Springbrunnen.";
+
+translate "No linked controller."
+to german "Keine eingebundene Kontrolle.";
+
+translate "Sink at K1"
+to german "Abfluss im K1";
+
+translate "All nozzles need at least one keyframe."
+to german "Alle Düsen brauchen mindestens ein Zielfenster.";
+
+translate "No associated FController"
+to german "Keine angebundene Springbrunnenkontrolle";
+
+translate "FController is somewhere else."
+to german "Springbrunnenkontrolle ist irgendwo anders.";
+
+translate "FController is too far away."
+to german "Springbrunnenkontrolle ist zu weit entfernt.";
+
+translate "Scanning"
+to german "Suche";
+
+translate "Scanning Noz K1"
+to german "Suche Düse K1";
+
+translate "Period N1, Phase N2, Resolution N3. Turns on at N4, off at N5, and starts on. Moves when dry."
+to german "Zeitabschnitt N1, Phase N2, Auflösung N3. Schaltet ein um N4 und aus um N5 und beginnt eingeschaltet. Läuft trocken weiter.";
+ 
+translate "Period N1, Phase N2, Resolution N3. Turns on at N4, off at N5, and starts on. Freezes when dry."
+to german "Zeitabschnitt N1, Phase N2, Auflösung N3. Schaltet ein um N4 und aus um N5 und beginnt eingeschaltet. Stoppt wenn ausgetrocknet.";
+ 
+translate "Period N1, Phase N2, Resolution N3. Turns on at N4, off at N5, and starts off. Moves when dry."
+to german "Zeitabschnitt N1, Phase N2, Auflösung N3. Schaltet ein um N4 und aus um N5 und beginnt ausgeschaltet. Läuft trocken weiter.";
+ 
+translate "Period N1, Phase N2, Resolution N3. Turns on at N4, off at N5, and starts off. Freezes when dry."
+to german "Zeitabschnitt N1, Phase N2, Auflösung N3. Schaltet ein um N4 und aus um N5 und beginnt ausgeschaltet. Stoppt wenn ausgetrocknet.";
+
+translate "The mechanism can not handle that much water flow."
+to german "Der Mechanismus kann mit einem so großen Wasserfluss nicht umgehen.";
+
+translate "ConfigBasin"
+to german "Becken Config";
+
+translate "Tighter"
+to german "Stärker";
+
+translate "Wider"
+to german "Weiter";
+
+translate "Shorter"
+to german "Kürzer";
+
+translate "Longer"
+to german "Länger";
+
+translate "Lower"
+to german "Niedriger";
+
+translate "Low"
+to german "Niedrig";
+
+translate "High"
+to german "Hoch";
+
+translate "Higher"
+to german "Höher";
+
+translate "Aim (Gentle)"
+to german "Ziel (Sanft)";
+
+translate "Aim (Abrupt)"
+to german "Ziel (Abrupt)";
+
+translate "Configure Nozzle"
+to german "Düse einstellen";
+
+translate "Move While Dry?"
+to german "Trocken weiterlaufen lassen?";
+
+translate "Start On?"
+to german "Eingeschaltet starten?";
+
+translate "Cancel"
+to german "Abbrechen";
+
+translate "Blank names are not allowed."
+to german "Leere Felder als Benennung sind nicht erlaubt.";
+
+translate "Period must be between 1 and 300 seconds."
+to german "Zeitabschnitt muss zwischen 1 und 300 Sekunden liegen.";
+
+translate "Resolution must be between 1 and 60 seconds."
+to german "Auflösung muss zwischen 1 und 60 Sekunden liegen.";
+
+translate "Resolution must be between 0 and N1"
+to german "Auflösung muss zwischen 0 und N1 Sekunden liegen";
+
+translate "Add some Water"
+to german "Etwas Wasser hinzufügen";
+
+translate "You don't have that much water."
+to german "Du hast nicht soviel Wasser.";
+
+translate "Drain some Water"
+to german "Lasse etwas Wasser ab";
+
+translate "The basin doesn't have that much water."
+to german "Das Becken hat nicht soviel Wasser.";
+
+translate "Make this my last Basin"
+to german "Dies ist mein letztes Becken";
+
+translate "Slide this basin around"
+to german "Schiebe dieses Becken herum";
+
+translate "Open for Judging"
+to german "Zum Bewerten öffnen";
+
+translate "You may only open a fountain for judging when it is running."
+to german "Du kannst einen Springbrunnen erst dann zum Bewerten öffnen, wenn er läuft.";
+
+translate "Your fountain contains N1 leaks. Though it may run for a while, it can not be opened for judging until all leaks are fixed. Leaks can be identified on the map as blue circles, when the fountain is running."
+to german "Dein Springbrunnen hat N1 Lecks. Auch wenn er für eine Weile funktionieren wird, kann er so nicht zum Bewerten geöffnet werden. Lecks werden während des Betriebes auf der Karte als blaue Kreise dargestellt.";
+
+translate "Nozzle"
+to german "Düse";
+
+translate "Time N1"
+to german "Zeit N1";
+
+translate "Time N1 Gentle, N2 ft"
+to german "Zeit N1 Sanft, N2 Fuß";
+
+translate "Time N1 Abrupt, N2 ft"
+to german "Zeit N1 Abrupt, N2 Fuß";
+
+translate "Time N1 Gentle, N2 ft, Spread N3%/N4%"
+to german "Zeit N1 Sanft, N2 Fuß, Spannweite N3%/N4%";
+
+translate "Time N1 Abrupt, N2 ft, Spread N3%/N4%"
+to german "Zeit N1 Abrupt, N2 Fuß, Spannweite N3%/N4%";
+
+translate "Close Judging"
+to german "Schließe Bewertung";
+
+translate "You are about to close judging, and wipe scores by previous judges. Proceed?"
+to german "Du bist dabei, die Bewertung zu schließen und Punkte der bisherigen Richter zu löschen. Fortfahren?";
+
+translate "Egypt recognizes "
+to german "Ägypten ehrt ";
+
+translate "U1 passing The Test of Dancing Water."
+to german "U1(name) besteht den Test des Tanzenden Wassers.";
+
+translate "No passes in The Test of Dancing Water."
+to german "Niemand erreichte den Test des Tanzenden Wassers.";
+
+translate "Score for FController at N1 is N2"
+to german "Bewertung für den Springbrunnen bei N1 ist N2";
+
+translate "Remove a Nozzle"
+to german "Entferne eine Düse";
+
+translate "Turn-off Level:"
+to german "Abschaltniveau:";
+
+translate "Turn-on Level:"
+to german "Einschaltniveau:";
+
+translate "Flow Rate:"
+to german "Durchflussrate:";
+
+translate "Period:"
+to german "Zeitabschnitte:";
+
+translate "Resolution:"
+to german "Auflösung:";
+
+translate "Phase:"
+to german "Phase:";
+
+translate "The fountain's delicate machenery is not working, due to the vibrations of nearby fountain controllers."
+to german "Der empfindliche Mechanismus des Springbrunnes arbeitet nicht aufgrund der Vibrationen nahestehender Springbrunnenkontrollen.";

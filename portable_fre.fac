@@ -1,0 +1,43 @@
+module portable_fre;
+
+translate "Sorry, too heavy!"
+to french "Vous êtes trop chargé !";
+
+translate "Sorry, too cumbersome!"
+to french "Vous êtes trop encombré !";
+
+translate "Mortar:N1"
+to french "Mortier : N1";
+
+translate "The area is getting too crowded. Try dropping the O1 somewhere else."
+to french "Il y a trop d'objets ici. Déposez votre O1(ns) ailleurs.";
+
+translate "You have N1 O1. Drop how many?"
+to french "Vous avez N1 O1(N1?np:ns). Combien en déposez-vous ?";
+
+translate "Building...N1 O1"
+to french "Construction... N1 O1(N1?np:ns)";
+
+translate "Pick up the O1 quick ? "
+to french "Prendre rapidement O1(^lns) O1(ns) ? ";
+
+translate "It is now illegal to pick up portable items less than two minutes after somebody else dropped them."
+to french "Il est maintenant illégal de prendre des objets transportables moins de deux minutes après que quelqu'un d'autre les ait abandonnés.";
+
+translate "This pile has N1 O1. Get how many?"
+to french "Ce tas comporte N1 O1(N1?np:ns). Combien en prenez-vous ?";
+
+translate "This pile has N1 O1:K1. Get how many?"
+to french "Ce tas comporte N1 O1(N1?np:ns) K1. Combien en prenez-vous ?";
+
+translate "Picked up N1 O1"
+to french "Vous avez pris N1 O1(N1?np:ns)";
+
+//translate "Special/Dropped Items are owned by/U1"
+//to french "Spécial/Abandonner des objets appartenant à/U1(name)";
+
+translate "Dropped Items are owned by"
+to french "Les objets abandonnés appartiennent à";
+
+translate "O1, belonging to U1"
+to french "O1(ns) appartenant à U1(name)";

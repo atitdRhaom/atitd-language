@@ -1,0 +1,952 @@
+module flax_fre;
+
+translate AluminumCable to french masculine { ns "Cable en Aluminium"; np "Cables en Aluminium"; }
+translate AntimonyCable to french masculine { ns "Cable en Antimoine"; np "Cables en Antimoine"; }
+translate BrassCable to french masculine { ns "Cable en Laiton"; np "Cables en Laiton"; }
+translate BronzeCable to french masculine { ns "Cable en Bronze"; np "Cables en Bronze"; }
+translate CopperCable to french masculine { ns "Cable en Cuivre"; np "Cables en Cuive"; }
+translate GoldCable to french masculine { ns "Cable en Or"; np "Cables en Or"; }
+translate IronCable to french masculine { ns "Cable en Fer"; np "Cables en Fer"; }
+translate LeadCable to french masculine { ns "Cable en Plomb"; np "Cables en Plomb"; }
+translate LithiumCable to french masculine { ns "Cable en Lithium"; np "Cables en Lithium"; }
+translate MagCable to french masculine { ns "Cable en Magnésium"; np "Cables en Magnésium"; }
+translate MetalBlueCable to french masculine { ns "Cable en métal bleu"; np "Cables en métal bleu"; }
+translate MoonSteelCable to french masculine { ns "Cable en métal lunaire"; np "Cables en métal lunaire"; }
+translate OctecsAlloyCable to french masculine { ns "Cable en métal d'octec"; np "Cables en métal d'octec"; }
+translate PewterCable to french masculine { ns "Cable en fer blanc"; np "Cables en fer blanc"; }
+translate PlatinumCable to french masculine { ns "Cable en Platine"; np "Cables en Platine"; }
+translate SilverCable to french masculine { ns "Cable en Argent"; np "Cables en Argent"; }
+translate SteelCable to french masculine { ns "Cable en Acier"; np "Cables en Acier"; }
+translate SunSteelCable to french masculine { ns "Cable en Acier Lunaire"; np "Cables en Acier Lunaire"; }
+translate ThothsMetalCable to french masculine { ns "Cable en métal de Thoth"; np "Cables en métal de Thoth"; }
+translate TinCable to french masculine { ns "Cable en Etain"; np "Cables en Etain"; }
+translate TitaniumCable to french masculine { ns "Cable en Titane"; np "Cables en Titane"; }
+translate WaterMetalCable to french masculine { ns "Cable en métal bleu"; np "Cables en métal bleu"; }
+translate ZincCable to french masculine { ns "Cable en Zinc"; np "Cables en Zinc"; }
+translate FrayedRope to french feminine { ns "Corde Effilochée"; np "Codes effilochées"; }
+
+translate imphacklingrake to french masculine
+{
+	ns "Peigne à lin amélioré"; np "Peigne à lin amélioré";
+	}
+
+translate flaxbed to french masculine
+{
+	ns "Plant de lin"; np "Plants de lin";
+	}
+	
+translate flaxbed2 to french masculine
+{
+	ns "Plant de lin"; np "Plants de lin";
+	}
+	
+translate largedistaff to french masculine
+{
+	ns "Grand rouet"; np "Grands rouets";
+	}
+
+translate flax to french masculine
+{
+	ns "Lin"; np "Lins";
+	}
+	
+translate driedflax to french masculine
+{
+	ns "Lin séché"; np "Lins séchés";
+	}
+
+translate canvas to french masculine
+{
+	ns "Tissage"; np "Tissages";
+	}
+
+translate claysteepcanvas to french feminine
+{
+	ns "Toile raidie à l'argile"; np "Toiles raidies à l'argile";
+	}
+translate claysteepwool to french masculine
+{
+	ns "Vêtement de laine raidi à l'argile"; np "Vêtements de laine raidis à l'argile";
+	}
+	
+translate yarn to french masculine
+{
+	ns "Fil de laine"; np "Fils de laine";
+	}
+	
+translate woolcloth to french masculine
+{
+	ns "Tissu de laine"; np "Tissus de laine";
+	}
+
+translate twine to french feminine
+{
+	ns "Ficelle"; np "Ficelles";
+	}
+
+translate thread to french masculine
+{
+	ns "Fil"; np "Fils";
+	}
+
+translate lint to french masculine
+{
+	ns "Coton"; np "Cotons";
+	}
+
+translate sail to french feminine
+{
+	ns "Voile"; np "Voiles";
+	}
+
+translate tow to french femininecollective
+{
+	ns "Etoupe"; np "Etoupes";
+	}
+	
+translate Linen to french masculine 
+{
+	ns "Tissu"; np "Tissus";
+	}
+
+translate flaxdryer to french masculine
+{
+	ns "Egouttoir à lin"; np "Egouttoirs à lin";
+	}
+
+translate flaxhammock to french masculine
+{
+	ns "Hamac à lin"; np "Hamacs à lin";
+	}
+
+translate dryingrack to french masculine
+{
+	ns "Tamis de séchage"; np "Tamis de séchage";
+	}
+
+translate sulfur to french masculine
+{
+	ns "Soufre"; np "Soufres";
+	}
+
+translate saltpeter to french masculine
+{
+	ns "Salpêtre"; np "Salpêtres";
+	}
+
+translate flaxseeds to french feminine
+{
+	ns "Graine de lin"; np "Graines de lin";
+	}
+
+translate cflaxseeds to french feminine
+{
+	ns "Graine de lin"; np "Graines de lin";
+	}
+
+translate rottenflax to french masculine
+{
+	ns "Lin roui"; np "Lins rouis";
+	}
+
+translate driedpapyrus to french masculine
+{
+	ns "Papyrus séché"; np "Papyrus séchés";
+	}
+
+translate dung to french masculine
+{
+	ns "Fumier"; np "Fumiers";
+	}
+
+translate straw to french feminine
+{
+	ns "Paille"; np "Pailles";
+	}
+
+translate rope to french feminine
+{
+	ns "Corde"; np "Cordes";
+	}
+
+translate flaxbundle to french feminine
+{
+	ns "Botte de lin"; np "Bottes de lin";
+	}
+
+translate hacklingrake to french masculine
+{
+	ns "Râteau d'affinage"; np "Râteaux d'affinage";
+	}
+
+translate flaxcomb to french masculine
+{
+	ns "Peigne à lin"; np "Peignes à lin";
+	}
+
+translate flaxgin to french feminine
+{
+	ns "Egreneuse à lin"; np "Egreneuses à lin";
+	}
+
+translate smalldistaff to french masculine
+{
+	ns "Petit rouet"; np "Petits rouets";
+	}
+
+translate loomframe to french masculine
+{
+	ns "Cadre de métier à tisser"; np "Cadres de métier à tisser";
+	}
+
+translate cable to french masculine
+{
+	ns "Câble"; np "Câbles";
+	}
+
+translate handloom to french masculine
+{
+	ns "Métier à tisser manuel"; np "Métiers à tisser manuels";
+	}
+
+translate studentsloom to french masculine
+{
+	ns "Métier à tisser d'étudiant"; np "Métiers à tisser d'étudiant";
+	}
+
+translate AutoLoom to french masculine
+{
+	ns "Métier à tisser automatique"; np "Métiers à tisser automatiques";
+	}
+
+translate basket to french masculine
+{
+	ns "Panier"; np "Paniers";
+	}
+	
+translate LoomAutomation to french masculine
+{
+	ns "Tissage automatisé"; np "Tissage automatisé";
+	}
+
+
+translate "+O1"
+to french "+O1(np)";
+
+translate "-O1"
+to french "-O1(np)";
+
+translate "--O1"
+to french "--O1(np)";
+
+translate "+K1"
+to french "+K1";
+
+translate "-K1"
+to french "-K1";
+
+translate "--K1"
+to french "--K1";
+
+translate "Flax Related"
+to french "Travail du lin";
+
+translate "Flax Hammock"
+to french "Hamac en lin";
+
+translate "Flax Comb"
+to french "Peigne à lin";
+
+translate "Hackling Rake"
+to french "Râteau d'affinage";
+
+translate "Improved Hackling Rake"
+to french "Râteau d'affinage amélioré";
+
+translate "Drying Rack"
+to french "Tamis de séchage";
+
+translate "Flax Gin"
+to french "Egreneuse à lin";
+
+translate "Small distaff"
+to french "Petit rouet";
+
+translate "Dry Wet Linen"
+to french "Faire sécher du tissu humide";
+
+translate "Dry All Wet Linen"
+to french "Faire sécher tout le tissu humide";
+
+translate "Dry All Wet Rabbit Pelts"
+to french "Faire sécher toutes les peaux de lapin";
+
+translate "Strain: K1"
+to french "Type: K1";
+
+translate "Dry Wet Rabbit Pelts"
+to french "Faire sécher les peaux de lapin";
+
+translate "Dry Rotten Flax"
+to french "Faire sécher du lin roui";
+
+translate "Dry Grass into Straw"
+to french "Faire sécher de l'herbe en paille";
+
+translate "Rot Flax in the Water"
+to french "Faire pourrir le lin dans l'eau";
+
+translate "Dry Papyrus"
+to french "Faire sécher du papyrus";
+
+translate "Dry Wheat"
+to french "Faire sécher du blé";
+
+translate "Dry Fertile Papyrus"
+to french "Faire sécher du papyrus fertile";
+
+translate "Dry Sterile Papyrus"
+to french "Faire sécher du papyrus stérile";
+
+translate "Dry Rabbit Pelts"
+to french "Faire sécher des fourrures de lapin";
+
+translate "This O1 is drying Rotten Flax"
+to french "Ce O1(ns) fait sêcher du lin";
+
+translate "This O1 is drying Wet Linen"
+to french "Ce O1(ns) sèche des tissus mouillés";
+
+translate "This O1 is drying Papyrus"
+to french "Ce O1(ns) fait sêcher du Papyrus";
+
+translate "This O1 is drying Wheat"
+to french "Ce O1(ns) fait sêcher du Blé";
+
+translate "Which wheat do you wish to dry?"
+to french "Quel blé voulez vous sécher?";
+
+translate "That isn't fresh wheat."
+to french "Ce n'est pas du blé frais.";
+
+translate "Load how much wheat? (Max 100)"
+to french "Combien de blé ? (Max 1000)";
+
+translate "Load how much sterile papyrus? (Max 20)"
+to french "Combien de papyrus stérile? (Max 20)";
+
+translate "Load how many rabbit pelts? (Max 4)"
+to french "Combien de peaux de lapins? (Max 4)";
+
+translate "Load how much Yarn? (Max N1)"
+to french "Combien de fil de laine? (Max N1)";
+
+translate "You don't have N1 O1."
+to french "Vous n'avez pas N1 O1(N1?np:ns).";
+
+translate "Tear down this building"
+to french "Détruire cette construction";
+
+translate "Tear down this building"
+to french "Détruire cette construction";
+
+translate "This is a Flax Bundle (N1), placed by U1"
+to french "Ceci est une botte de lin (N1), placée là par U1(name)";
+
+translate "Projects/Flax Related/Hand Loom"
+to french "Projets/Travail du lin/Fabriquer un métier à tisser manuel";
+
+translate "Projects/Flax Related/Student's Loom"
+to french "Projets/Travail du lin/Fabriquer un métier à tisser d'étudiant";
+
+translate "Hand Loom"
+to french "Métier à tisser manuel";
+
+translate "Student's Loom"
+to french "Métier à tisser d'étudiant";
+
+translate "Special/Convert Flax Seeds/All Old Egypt"
+to french "Spécial/Convertir des graines de lin/Toutes en 'égypte ancienne'";
+
+translate "Convert Flax Seeds"
+to french "Convertir des graines de lin";
+
+translate "Special/Convert Flax Seeds/All Nile Green"
+to french "Spécial/Convertir des graines de lin/Toutes en 'Vertes du Nil'";
+
+translate "All Old Egypt"
+to french "Toute celles de l'égypte ancienne";
+
+translate "Special/Convert Flax Seeds/Half and half"
+to french "Spécial/Convertir des graines de lin/Moitié moitié";
+
+translate "All Nile Green"
+to french "Toutes en 'Vertes du Nil'";
+
+translate "Upgrade this to a Large Distaff"
+to french "Améliorer en grand rouet";
+
+translate "Convert Flax Seeds"
+to french "Convertir des graines de lin";
+
+translate "To upgrade this building you need:"
+to french "Pour améliorer cette construction il vous faut :";
+
+translate "Half and half"
+to french "Moitié-moitié";
+
+translate "To build a Flax Hammock, you need: "
+to french "Pour fabriquer un hamac de lin, il vous faut : ";
+
+translate "To build a Drying Rack, you need: "
+to french "Pour fabriquer un tamis de séchage il vous faut : ";
+
+translate "Load how much Flax? (Max 10)"
+to french "Quelle quantité de lin ? (Max 10)";
+
+translate "Load how much linen? (Max 4)"
+to french "Quelle quantité de tissu ? (Max 4)";
+
+translate "Load how much grass? (Max 200)"
+to french "Quelle quantité d'herbe ? (Max 200)";
+
+translate "Load how much papyrus? (Max 20)"
+to french "Quelle quantité de papyrus ? (Max 20)";
+
+translate "drying Wet Linen"
+to french "Séchage de lin humide en cours";
+
+translate "drying Rotten Flax"
+to french "Séchage de lin roui en cours";
+
+translate "drying Grass"
+to french "Séchage d'herbe en cours";
+
+translate "drying Papyrus"
+to french "Séchage de papyrus en cours";
+
+translate "drying Wheat"
+to french "Séchage de blé en cours";
+
+translate "Ceci est une botte de lin, placée par U1(name)"
+to french " Ceci est une botte de lin, placée par U1(name)";
+translate "-"
+to french "-";
+translate "*"
+to french "*";
+
+translate "Rot how many flax?"
+to french "Quelle quantité de lin faire rouir ?";
+
+translate "Get this rotten flax"
+to french "Prendre le lin roui";
+
+translate "This flax is only half-rotten"
+to french "Ce lin n'est qu'à moitié roui";
+
+translate "Get this abandoned rotten flax"
+to french "Prendre le reste de lin roui";
+
+translate "By the Abandoned Flax Act, passed by Ecnassianer on 6/26/2002, you retrieve N1 rotten flax"
+to french "En vertu de la loi sur le lin abandonné, promulguée par Ecnassianer le 26 juin 2002, vous avez eu le droit de récupérer N1 bottes de lin.";
+
+translate "By the Rotten Flax Abandonment Act, you retrieve N1 rotten flax."
+to french "En vertu de la loi sur le lin abandonné, vous pouvez récupérer N1 bottes de lin roui.";
+
+translate "To build a Flax Comb, you need: "
+to french "Pour fabriquer un peigne à lin, il vous faut :";
+
+translate "To build a Hackling Rake, you need: "
+to french "Pour fabriquer un râteau d'affinage, il vous faut :";
+
+translate "To build an Improved Hackling Rake you need: "
+to french "Pour fabriquer un râteau d'affinage amélioré, il vous faut :";
+
+translate "Hard, Rotproof Boards"
+to french "Planches dures,imputrescibles";
+
+translate "Clean the O1"
+to french "Nettoyer O1(lns) O1(ns)";
+
+translate "Clean the O1?"
+to french "Nettoyer O1(lns) O1(ns)?";
+
+translate "Your O1 has worn out."
+to french "Votre O1(ns) est usé.";
+
+translate "Separate Rotten Flax (Step 1, Remove Straw)"
+to french "Séparer le lin roui (Etape 1 : Retirer la paille)";
+
+translate "You don't have any Rotten Flax"
+to french "Vous n'avez pas de lin roui";
+
+translate "Separate Rotten Flax (Step 1, Remove Straw)"
+to french "Séparer le lin roui (Etape 1 : Retirer la paille)";
+
+translate "Continue processing Rotten Flax (Step 2, Separate Tow)"
+to french "Continuer le traitement du lin (Etape 2 : Séparer l'étoupe)";
+
+translate "Continue processing Rotten Flax (Step 3, Refine the Lint)"
+to french "Continuer le traitement du lin (Etape 3 : Raffinage du coton)";
+
+translate "Continue processing Rotten Flax (Step 3, Refine the Lint)"
+to french "Continuer le traitement du lin (Etape 3 : Raffinage du coton)";
+
+translate "To build a Small Distaff, you need: "
+to french "Pour fabriquer un petit rouet, il vous faut :";
+
+translate "N1 O1"
+to french "N1 O1(N1?np:ns)";
+
+translate "Load the Distaff with O1"
+to french "Mettre O1(dns) O1(ns) dans le rouet";
+
+translate "Load the Distaff with Lint"
+to french "Mettre du coton dans le rouet";
+
+translate "Load the Distaff with Tow"
+to french "Mettre de l'étoupe dans le rouet";
+
+translate "Load the Distaff with Twine"
+to french "Mettre de la ficelle dans le rouet";
+
+translate "Load the Distaff with Wire"
+to french "Mettre du fil dans le rouet";
+
+translate "You don't have any O1."
+to french "Vous n'avez pas de O1(np)";
+
+translate "You can only load one thing into the distaff."
+to french "Vous ne pouvez mettre qu'un élément à la fois dans le rouet.";
+
+translate "Load with how much O1? (max N1)"
+to french "Quelle quantité de O1(np) ? (Max N1)";
+
+translate "The O1 is fully loaded."
+to french "O1(^lns) O1(ns) est complètement chargé.";
+
+translate "You could only load N1 O1."
+to french "Impossible de charger N1 O1(N1?np:ns).";
+
+translate "loaded with O1"
+to french "Chargé de O1(ns)";
+
+translate "Stop the small distaff"
+to french "Arrêter le petit rouet";
+
+translate "Start spinning O1 into O2."
+to french "Commencer à filer O1(lnp) O1(np) en O2(np)";
+
+translate "Spinning O1 into O2."
+to french "File O1(lnp) O1(np) en O2(np)";
+
+translate "Note: Only put one source material in the Distaff!"
+to french "Note : ne mettez qu'une seule sorte de matériau dans le rouet !";
+
+translate "This O1 is spinning O2 into O3."
+to french "O1(^cns) O1(ns) transforme O2(dns) O2(ns) en O3(ns).";
+
+translate "Upgrade this distaff to spin wire into cable"
+to french "Perfectionner ce rouet afin de transformer le fil métallique en câble.";
+
+translate "It takes a single pinch roller to upgrade a distaff"
+to french "Il vous faut un rouleau de pression pour perfectionner un rouet.";
+
+translate "To build a Hand Loom, you need: "
+to french "Pour fabriquer un métier à tisser manuel, il vous faut :";
+
+translate "To build a Student's Loom, you need: "
+to french "Pour fabriquer un métier à tisser d'étudiant, il vous faut : ";
+
+translate "Weave thread into linen cloth"
+to french "Tisser le fil en pièce de tissu";
+
+translate "Weave thread into a Sail"
+to french "Tisser le fil en voile";
+
+translate "Weave thread into linen"
+to french "Tisser le fil en tissu";
+
+translate "You must first load the loom with thread. It takes 400 cubitsof thread to produce one square cubit of Linen."
+to french "Vous devez d'abord mettre du fil dans le métier à tisser. Il faut 400 coudées de fil pour fabriquer une coudée carrée de tissu.";
+
+translate "As you wove the cloth, N1 of the loom's strings broke. You'll need to re-string the loom."
+to french "Tout en travaillant, vous avez cassé N1 ficelles du métier à tisser. Vous avez besoin de réparer les ficelles pour continuer.";
+
+translate "Weave twine into canvas"
+to french "Tisser la ficelle en tissage";
+
+translate "You must first load the loom with twine. It takes 60 cubits of twine to produce one square cubit of Canvas."
+to french "Vous devez d'abord mettre de la ficelle dans le métier à tisser. Il faut 60 coudées de ficelle pour fabriquer une coudée carée de tissage.";
+
+translate "As you wove the canvas, N1 of the loom's strings broke. You'll need to re-string the loom."
+to french "Tout en travaillant, vous avez cassé N1 ficelles du métier à tisser. Vous avez besoin de réparer les ficelles pour continuer.";
+
+translate "Weave dried papyrus into a basket"
+to french "Tisser le papyrus séché pour en faire un panier";
+
+translate "You must first load the loom with dried papyrus. It takes 200 reeds to make a basket."
+to french "Vous devez d'abord mettre du papyrus séché dans le métier à tisser. Il faut 200 roseaux pour fabriquer un panier.";
+
+translate "As you wove the Basket, N1 of the loom's strings broke. You'll need to re-string the loom."
+to french "Tout en tissant votre panier, vous avez cassé N1 ficelles du métier à tisser. Vous avez besoin de réparer les ficelles pour continuer.";
+
+translate "Re-String this Student's Loom with N1 twine."
+to french "Réparer les ficelles du métier à tisser d'étudiant avec N1 ficelles";
+
+translate "You don't have enough Twine."
+to french "Vous n'avez pas assez de ficelle.";
+
+translate "Load the Loom with Dried Papyrus"
+to french "Mettre du papyrus séché dans le métier à tisser";
+
+translate "Load how much dried papyrus? (Max N1)"
+to french "Quelle quantité de papyus séché ? (Max N1)";
+
+translate "Load the Loom with Thread"
+to french "Mettre du fil dans le métier à tisser";
+
+translate "Load how much Thread? (Max N1)"
+to french "Quelle quantité de fil ? (Max N1)";
+
+translate "Load the Loom with Twine"
+to french "Mettre de la ficelle dans la métier à tisser";
+
+translate "Load how much Twine? (Max N1)"
+to french "Quelle quantité de ficelle ? (Max N1)";
+
+translate "Weed and Water this flax bed"
+to french "Désherber et arroser ce plant de lin";
+
+translate "Weed this flax bed"
+to french "Désherber ce plant de lin";
+
+translate "You don't have any water."
+to french "Vous n'avez pas d'eau.";
+
+translate "Harvest seeds from this wild flax plant"
+to french "Prendre les graines de ce plant de lin sauvage";
+
+translate "The seeds have been picked clean."
+to french "Toutes les graines ont été prises.";
+
+translate "Someone else got there first!"
+to french "Quelqu'un d'autre est passé par là avant vous !";
+
+translate "Rip out this flax bed by the roots"
+to french "Arracher ces plants de lin par la racine";
+
+translate "Harvest this flax"
+to french "Couper le lin";
+
+translate "The flax plant yielded no good materials. Poor soil can cause this. Use the ecology skills to help figure out why."
+to french "Ce plant de lin n'a rien donné d'utilisable. Il est possible que la pauvreté du sol en soit la cause. Utilisez les connaissances en écologie pour en déterminer la raison.";
+
+translate "This newly sown flax bed is growing..."
+to french "Ce plant de lin récemment moissoné est en train de pousser...";
+translate "This flax bed is growing. Watch for weeds..."
+to french "Ce plant de lin est en train de pousser. Guettez l'apparition de graines...";
+translate "Weeds have taken over this flax bed..."
+to french "Les mauvaises herbes ont envahi ce plant de lin...";
+translate "This flax bed has gone to seed..."
+to french "Ce plant de lin donne maintenant des graines...";
+translate "This flax is ready for harvest..."
+to french "Ce plant de lin est bon pour la moisson...";
+translate "Harvested N1 flax"
+to french "Moissoné N1 lin";
+
+translate "Harvested N1 Rotten Flax"
+to french "Moissoné N1 lins rouis";
+
+translate "Harvested N1 Flax and N2 Rotten Flax"
+to french "Moissoné N1 lins et N2 lins rouis";
+
+translate "Random flax seed"
+to french "Graines de lin aléatoires";
+
+translate "Contribute this to my guild"
+to french "En faire don à ma guilde";
+
+translate "To actually USE a flax gin requires two people, who have shown proficiency in the Discipline of Art and Music (which you have not). Build anyway?"
+to french "L'utilisation d'une égreneuse à lin nécessite deux personnes, qui ont toutes les deux fait leurs preuves dans la discipline d'arts et musique (que vous n'avez pas fait). Voulez-vous tout de même fabriquer une égreneuse à lin ?";
+
+translate "You have sufficent knowledge to build the Flax Gin, but you lack the experience required to operate it. Build anyway?"
+to french "Vous avez la connaissance nécessaire pour construire l'égraineuse, mais il vous manque l'expérience nécessaire pour la faire fonctionner. Construire tout de même ?";
+
+translate "To construct a Flax Gin, you need:"
+to french "Pour fabriquer une égreneuse à lin, il vous faut :";
+
+translate "Full Eye Sunstone"
+to french "Coupe Oeil dans l'héliolite";
+
+translate "Load Rotten Flax"
+to french "Mettre du lin pourri";
+
+translate "Upgrade the base and hopper"
+to french "Perfectionner la base et la trémie";
+
+translate "Further upgrade the base and hopper"
+to french "Poursuivez l'amélioration de la base et de la trémie";
+
+translate "Load how much Rotten Flax? (Max 200)"
+to french "Quelle quantité de lin roui ? (Max 200)";
+
+translate "Stop the flax gin"
+to french "Arrêter l'égreneuse à lin";
+
+translate "Start the Flax Gin"
+to french "Lancer l'égreneuse à lin";
+
+translate "Start the Flax Gin (Done)"
+to french "Lancer l'égreneuse à lin (Effectué)";
+
+translate "Start the Flax Gin (with U1)"
+to french "Lancer l'égreneuse à lin (Avec U1(name))";
+
+translate "Restart The Flax Gin"
+to french "Relancer l'égreneuse à lin";
+
+translate "Stabilize The Mechanism"
+to french "Stabiliser le mécanisme";
+
+translate "Reset The Mechanism"
+to french "Réinitialisé le mécanisme";
+
+translate "Operation of Flax Gins requires experience, come back when you have some more..."
+to french "Actionner une égreneuse à lin nécessite de l'expérience, essayez plus tard...";
+
+translate "You must remove all O1 before you can start the Flax Gin."
+to french "Vous devez retirer O1(tns) O1(ns) pour pouvoir lancer l'égreneuse.";
+
+translate "You can't quite figure out how to work this odd machine - there's almost something spiritual about it. Passing the Test of Astrological Alignment will help you better understand it."
+to french "Vous ne savez pas vraiment comment fonctionne cette machine étrange - il s'en dégage quelque chose de spirituel. Passer l'épreuve d'Alignement astrologique vous permettra peut-être d'y voir plus clair.";
+
+translate "You spin the flywheel of the strange machine, but it goes slowly and seems a bit off balance. Perhaps another artist could also spin it to help stabilize the mechanism."
+to french "Vous faites tourner la roue de l'étrange machine, mais elle tourne lentement et semble manquer d'équilibre. Peut-être un autre artiste pourrait vous aider à la faire tourner pour stabiliser le mécanisme ?";
+translate "You spin the flywheel of the strange machine, but it goes slowly and seems a bit off balance. Perhaps someone else could also spin it to help stabilize the mechanism."
+to french "Vous faites tourner la roue de l'étrange machine, mais elle tourne lentement et semble mal équilibree. Peut-être qu'une autre personne pourrait vous aider à la faire tourner pour stabiliser le mécanisme ?";
+
+translate "You successfully started the flax gin."
+to french "Vous avez réussi à lancer l'égreneuse à lin.";
+
+translate "O1: K1"
+to french "O1(ns): K1";
+
+translate "Plant/Flax: K1"
+to french "Planter/Lin : K1";
+
+translate "Flax: K1"
+to french "Lin : K1";
+
+translate "Are you sure you want to use a pinch roller to upgrade the distaff?"
+to french "Voulez-vous vraiment utiliser un rouleau de pression pour perfectionner votre rouet ?";
+
+translate "Experimental modifications to flax gins."
+to french "Modifications expérimentales sur les égreneuses à lin";
+
+translate "Full Eye Turquoise"
+to french "Oeil de turquoise";
+
+translate "Fit the Flax Gin with a stabilizer (2 Full Eye Amethyst)"
+to french "Bloquez l'égreneuse à lin avec un stabilisateur (2 Yeux d'Améthyste)";
+
+translate "You don't have 2 Full Eye Amethyst"
+to french "Vous n'avez pas 2 Yeux d'Améthyste.";
+
+translate "Moon Steel Sheeting: Plastic Nontoxic Ductile"
+to french "Revêtement d'acier lunaire: Plastique, non toxique, malléable";
+
+translate "Stop the O1"
+to french "Arrêter O1(lns) O1(ns)";
+
+translate "Get this abandoned rotten flax"
+to french "Prendre ce lin roui abandonné";
+
+translate "Sulfur in the water slows rotting."
+to french "Le soufre présent dans l'eau ralentit le processus de rouissage.";
+
+translate "On the mainland, flax takes 5+ minutes to rot.  Here, it takes 3+ minutes.  It is wise to use the time efficiently by working on something else."
+to french "A l'intérieur des terres, il faut plus de 5 minutes pour faire rouir du lin. ici, il en faut plus de 3. Il est recommandé de faire autre chose pendant la durée du processus de rouissage.";
+
+translate "Weave raw silk into silk cloth"
+to french "Tisser de la soie en pièce de soie";
+
+translate "You must first load the loom with raw silk. It takes 50 spools of raw silk to produce one square cubit of Silk Cloth."
+to french "Vous devez d'abord mettre de la soie dans le métier à tisser. Il vous faut 50 mesures de soie pour fabriquer une pièce de soie d'une coudée carrée.";
+
+translate "Load the Loom with Raw Silk"
+to french "Mettre de la soie dans le métier à tisser";
+
+translate "Load how much raw silk? (Max N1)"
+to french "Quelle quantité de soie ? (Max N1)";
+
+translate "You need at least N1 O1 to start."
+to french "Il vous faut au moins N1 O1(N1?np:ns) pour commencer.";
+
+translate "Stop this Automatic Loom"
+to french "Arrêter le métier à tisser automatique";
+
+translate "Load the Automatic Loom with Thread"
+to french "Mettre du fil dans le métier à tisser automatique";
+
+translate "Load the Automatic Loom with Twine"
+to french "Mettre de la ficelle dans le métier à tisser automatique";
+
+translate "Load the Automatic Loom with Yarn"
+to french "Mettre du fil de laine dans le métier à tisser automatique";
+
+translate "You must first load the loom with thread. It takes 400 cubits of thread to produce one square cubit of Linen."
+to french "Vous devez d'abord mettre du fil dans le métier à tisser. Il faut 400 coudées de fil pour produire une coudée carrée de tissu.";
+
+translate "Don't stack flax - until the terrain allocator is done, this is considered an exploit. (And yes, you can get around this check by repositioning the flax slightly - don't do that either - it's still an exploit.)"
+to french "Ne plantez pas des plants de lin les un sur les autres - jusqu'à la mise en place du gestionnaire de terrain, c'est considéré comme un exploit. (Oui, vous pouvez contourner le problème en repositionnant légèrement le champ de lin, mais ne le faites pas non plus, c'est aussi considéré comme un exploit.)";
+
+translate "This building has fallen apart from the wind and rain."
+to french "Cette construction s'est écroulée dû à la pluie et aux vents.";
+
+translate "Load how much Rotten Flax? (Max 200)"
+to french "Quelle quantité de lin roui ? (Max 200)";
+
+translate "This O1 has been upgraded with a pair of K2"
+to french "O1(^cns) O1(ns) a été amélioré d'une paire de K2.";
+
+translate "Use a pair of Eyelet cut O1"
+to french "Utiliser deux yeux coupe O1(ns)";
+
+translate "You need a pair of identical gems to upgrade."
+to french "Vous devez avoir deux pierres identiques pour pouvoir procéder à l'amélioration.";
+
+translate "Full Eye Amethyst"
+to french "Oeil d'améthyste";
+
+translate " (with U1)"
+to french " (avec U1(name))";
+
+translate "Start the Flax Gin, Dual Artist"
+to french "Lancer l'égreneuse à lin, duo d'artistes";
+
+translate "Use of flax gins is an art - come back when you have advanced in the discipline of Art."
+to french "L'utilisation d'égreneuses à lin est un art - revenez lorsque vous aurez progressé dans la discipline de l'art.";
+
+translate "The Distaff must have at least N1 O1 to start."
+to french "Le rouet doit contenir au moins N1 O1(ns) pour fonctionner.";
+
+translate "You can only upgrade distaffs that are inside compounds."
+to french "Vous pouvez améliorer uniquement les rouets qui sont dans des ateliers.";
+
+translate "In Egypt proper, all Student's Looms must be built inside a Compound."
+to french "En égypte, tous les métiers d.étudiamts doivent être construits dans un atelier.";
+
+translate "You must first learn the basics of Automation."
+to french "Vous devez d'abord apprendre les bases de l'automatisation.";
+
+translate "Carpentry Blade, 3000+ Quality"
+to french "Lame de menuiserie, qualité 3000 et +";
+
+translate "To construct an Automatic Loom you need:"
+to french "Pour construire un métier automatique, vous avez besoin de:";
+
+translate "Touch up a piece of Linen into a Sail"
+to french "Convertir une piece de tissu en voile";
+
+translate "Used N1 twine from the loom to restring it."
+to french "Vous avez utilisé N1 cordes du métier pour le réparer";
+
+translate "Used N1 twine from your inventory to restring it."
+to french "Vous avez utilisé N1 cordes de votre inventaire pour le réparer";
+
+translate "Insufficient twine in the Student's Loom or Inventory to completely repair it.  Used N1 twine to partially restring it."
+to french "Il n'y a pas assez de ficelles dans le métier ou dans votre inventaire pour le réparer complètement. Vous avez utilisé N1 ficelles pour le réparer partiellement.";
+
+translate "Sequencing K1 Flax: K2"
+to french "Sequence K1 Lin: K2";
+
+translate "Sequencing K1 Flax: K2"
+to french "Sequence K1 Lin: K2";
+
+translate "K3: N1"
+to french "K3: N1";
+
+translate "NOTE: If Terminator Gene is present NO seeds will be generated."
+to french "NOTE: Si le gène terminateur est présent, AUCUNE graine ne sera produite.";
+
+translate "SeedCount"
+to french "Nombre de graines";
+
+translate "FlaxCount"
+to french "Nombre de lins";
+
+translate "RottenCount"
+to french "Nombre de lins rouis";
+
+translate "SootTolerant"
+to french "Tolérance à la cendre";
+
+translate "NitLowTolerant"
+to french "Tolérance à un bas niveau de nitrates";
+
+translate "NitHighTolerant"
+to french "Tolérance à un haut niveau de nitrates";
+
+translate "HeavyMetalTolerant"
+to french "Tolérance aux métaux lourds";
+
+translate "Needs Water"
+to french "Besoin d'arrosage";
+
+translate "WeedCount"
+to french "Nombre de désherbages";
+
+translate "LowPhosporusTolerant"
+to french "Tolérance à un bas niveau de phosphore";
+
+translate "HighPhosporusTolerant"
+to french "Tolérance à un haut niveau de phosphore";
+
+translate "Phosporus Eater"
+to french "Absorbant le phosphore";
+
+translate "Phosporus Producer"
+to french "Produisant du phosphore";
+
+translate "TerminatorGene"
+to french "Gène terminateur";
+
+translate "PANIC! Creating a null flax seed bundle."
+to french "ALERTE! Création d'une botte de lin inexistante.";
+
+translate "Somebody got there first!"
+to french "Quelqu'un est déjà passé!";
+
+translate "To plant a flax bed, you need: "
+to french "Pour planter du lin, vous avez besoin de: ";
+
+translate "Don't stack flax, this is considered an exploit. (And yes, you can get around this check by repositioning the flax slightly - don't do that either - it's still an exploit.)"
+to french "N'empilez pas les plants de lin, c'est considéré comme un exploit. (Et oui, vous pouvez contourner cette vérification en repositionnant légèrement le plant de lin - ne le faites pas - ça demeure tout de même un exploit.)";
+
+translate "Registered: K1"
+to french "Enregistré: K1";
+
+translate "You tie the flax to a buoy and drop it into the water so that it will rot."
+to french "Vous attachez le lin à une bouée et le déposez dans l'eau pour qu'il pourrisse.";
+
+translate "Build a Large Distaff"
+to french "Construire un gros rouet";
+
+translate "Sink this rotten flax"
+to french "Couler cette botte de lin roui";
+
+translate "Load the Loom with Yarn"
+to french "Mettre du fil de laine dans le métier à tisser";
+
+translate "Weave Yarn into Wool Cloth"
+to french "Tisser le fil de laine en tissu de laine";
+
+translate "You must first load the loom with Yarn. It takes 60 cubits of Yarn to produce one square cubit of Wool Cloth."
+to french "Vous devez d'abord mettre du fil de laine dans le métier à tisser. Il vous faudra 60 coudées de laines filées pour produire une pièce de tissu de laine.";
+
+translate "Load the Distaff with Wool"
+to french "Mettre de la laine dans le rouet";
+
+translate "Load the Distaff with Frayed Rope" to french "Mettre de la corde effilochée dans le rouet";
+

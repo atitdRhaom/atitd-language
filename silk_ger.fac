@@ -1,0 +1,196 @@
+module silk_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment		           **
+//**                                                                       **
+//***************************************************************************
+
+
+translate RawSilk to german feminine
+{
+ swa "Rohseide"; 
+  sn "Rohseide"; sg "Rohseide"; sd "Rohseide"; sa "Rohseide";
+  pn "Rohseiden"; pg "Rohseiden"; pd "Rohseiden"; pa "Rohseiden";
+}
+translate SilkCloth to german neuter
+{
+ swa "Seidentuch";
+  sn "Seidentuch"; sg "Seidentuchs"; sd "Seidentuch"; sa "Seidentuch";
+  pn "Seidentücher"; pg "Seidentücher"; sd "Seidentüchern"; pa "Seidentücher";
+}
+
+translate SilkwormFarm to german feminine
+{
+ swa "Seidenraupenfarm";
+  sn "Seidenraupenfarm"; sg "Seidenraupenfarm"; sd "Seidenraupenfarm"; sa "Seidenraupenfarm";
+  pn "Seidenraupenfarmen"; pg "Seidenraupenfarmen"; pd "Seidenraupenfarmen"; pa "Seidenraupenfarmen";
+}
+
+//translate "Silkworms are hard to care for, we can only train people in this skill if they have already demonstrated skill in handling other kinds of insects.  One way to demonstrate this skill is to successfully raise and exhibit a beetle at Level 2."
+//to german "Seidenraupen sind schwer zu züchten. Wir können nur Personen in dieser Fähigkeit ausbilden, wenn sie bereits ihre Fähigkeit im Umgang mit anderen Insekten unter Beweis gestellt haben. Ein Weg dorthin ist die erfolgreiche Zucht und Ausstellung von Käfern in Stufe 2.";
+
+translate "Silkworm Farm"
+to german "Seidenraupenfarm";
+
+translate "You have learned the skill of Silkworm Farming. You can now build and tend a silkworm farm."
+to german "Du hast die Fähigkeit der Seidenraupenzucht erlernt. Du kannst nun eine Seidenraupenfarm bauen und betreiben.";
+
+translate "Non-Toxic treated boards, for the table."
+to german "Ungiftige bearbeitete Bretter für den Tisch.";
+
+translate "Papyrus Paper, for the bedding."
+to german "Papyruspapier als Auflage.";
+
+translate "Iron, for the frame."
+to german "Eisen für den Rahmen.";
+
+translate "Sheet Glass, for the enclosure."
+to german "Glasscheiben als Abdichtung.";
+
+translate "Copper Sheeting, for the icons."
+to german "Kupferbleche für die Symbole.";
+
+translate "Thermometers, for climate control."
+to german "Thermometer für die Klimakontrolle.";
+
+translate "Turquoise Paint, for the decor."
+to german "Farbe: Türkis als Dekor.";
+
+translate "Pale Turquoise Paint, for the decor."
+to german "Farbe: Helles Türkis als Dekor.";
+
+translate "To build a Silkworm Farm, you need:"
+to german "Um eine Seidenraupenfarm zu bauen benötigst du:";
+
+translate "Info: Read about Silkworm Farms"
+to german "Info: Informiere dich über Seidenraupenfarmen";
+
+translate "Silkworm Farms"
+to german "Seidenraupenfarmen";
+
+translate "Silk Moths lay eggs which turn into caterpillars called silkworms.  The silkworms weave cocoons made of silk. You can then unravel the cocoon, and you have a thread of raw silk."
+to german "Seidenmotten legen Eier, die zu Raupen werden, sogenannte Seidenraupen. Die Seidenraupen weben Seidenkokons. Du kannst dann die Kokons entwirren und erhältst so Rohseide.";
+
+translate "Silkworms are picky eaters.  They say that some of the worms in the east eat mulberry leaves, but the ones in Egypt eat thistle.  The thistle must be tended very carefully, or it won't be just right for the silkworms.  If they don't "
+to german "Seidenraupen sind verwöhnte Esser. Es heißt, daß die Raupen im Osten Maulbeerlaub essen, aber die Art in Kemet ernähren sich von Disteln. Diese Disteln müssen sehr sorgfältig gepflegt werden oder die Raupen werden sie verschmähen.";
+
+translate "get the right kind of thistle, the cocoons will be unusable."
+to german "Wenn sie nicht die richtige Sorte bekommen, werden die Kokons unbrauchbar.";
+
+translate "Each generation of silkworms is slightly different than the previous generation.  Sometimes the worms need a little more of one vitamin, sometimes they need a little less of another. Fortunately, silkworm farmers can predict exactly what the silkworms are going to need.  Only silkworm farmers can do this, and only silkworm farmers can tend the silkworms."
+to german "Jede Generation Seidenraupen ist etwas anders als die Vorherige. Manchmal brauchen die Raupen etwas mehr von einem speziellen Vitamin, manchmal etwas weniger von einem Anderen. Zum Glück können Seidenraupenzüchter genau abschätzen, was die Raupen benötigen. Nur Seidenraupenzüchter können das und nur sie können die Raupen züchten.";
+
+translate "Permission for Feeding"
+to german "Füttererlaubnis";
+
+translate "The next generation of eggs will be laid in K1."
+to german "Die nächste Generation Eier wird in K1 gelegt.";
+
+translate "The eggs have been laid. They will hatch in K1."
+to german "Die Eier wurden abgelegt. Sie werden in K1 ausgebrütet sein.";
+
+translate "There is N1 thistle inside."
+to german "Es sind N1 Disteln vorhanden.";
+
+translate "They will need thistle that is:"
+to german "Sie brauchen folgende Disteln:";
+
+translate "Supply Thistle"
+to german "Disteln zugeben";
+
+translate "The silkworms were not given any good thistle."
+to german "Die Seidenraupen erhielten keine guten Disteln.";
+
+translate "They will survive, but will not produce any"
+to german "Sie werden überleben, werden aber keine ";
+
+translate "silk.  This generation will be over in K1."
+to german "Seide erzeugen. Diese Generation wird in K1 sterben .";
+
+translate "There is N1 silk stored."
+to german "N1 Seide enthalten.";
+
+translate "Select a bundle of thistle:"
+to german "Wähle ein Bündel Disteln:";
+
+translate "That is not thistle."
+to german "Dies ist keine Distel.";
+
+translate "How many do you want to load?"
+to german "Wieviel möchtest du laden?";
+
+translate "That thistle does not have the right vitamin levels."
+to german "Diese Distel hat nicht die richtige Vitaminzusammensetzung.";
+
+translate "You do not have that much."
+to german "Du hast nicht soviel davon.";
+
+
+translate " - High in Ascorbin"
+to german " - Viel Ascorbin";
+translate " - High in Biotin"
+to german " - Viel Biotin";
+translate " - High in Carotene"
+to german " - Viel Karotin";
+translate " - High in Folin"
+to german " - Viel Folin";
+translate " - High in Niacin"
+to german " - Viel Niacin";
+translate " - High in Pyroxidine"
+to german " - Viel Pyroxidin";
+translate " - High in Thiamine"
+to german " - Viel Thiamin";
+
+translate " - Low in Ascorbin"
+to german " - Wenig Ascorbin";
+translate " - Low in Biotin"
+to german " - Wenig Biotin";
+translate " - Low in Carotene"
+to german " - Wenig Karotin";
+translate " - Low in Folin"
+to german " - Wenig Folin";
+translate " - Low in Niacin"
+to german " - Wenig Niacin";
+translate " - Low in Pyroxidine"
+to german " - Wenig Pyroxidin";
+translate " - Low in Thiamine"
+to german " - Wenig Thiamin";
+
+translate " - Average in Ascorbin"
+to german " - Durchschnittlich Ascorbin";
+translate " - Average in Biotin"
+to german " - Durchschnittlich Biotin";
+translate " - Average in Carotene"
+to german " - Durchschnittlich Karotin";
+translate " - Average in Folin"
+to german " - Durchschnittlich Folin";
+translate " - Average in Niacin"
+to german " - Durchschnittlich Niacin";
+translate " - Average in Pyroxidine"
+to german " - Durchschnittlich Pyroxidin";
+translate " - Average in Thiamine"
+to german " - Durchschnittlich Thiamin";
+
+translate "Ascorbin"
+to german "Ascorbin";
+
+translate "Biotin"
+to german "Biotin";
+
+translate "Carotene"
+to german "Karotin";
+
+translate "Folin"
+to german "Folin";
+
+translate "Niacin"
+to german "Niacin";
+
+translate "Pyroxidine"
+to german "Pyroxidin";
+
+translate "Thiamine"
+to german "Thiamin";

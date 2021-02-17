@@ -1,0 +1,130 @@
+module gearbox_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Games **
+//**    (C)opyright 2002,2003 by MDO Games			           **
+//**                                                                       **
+//***************************************************************************
+//menues
+
+translate GearBoxTable to german masculine
+{
+swa "Getriebetisch";
+sn "Getriebetisch"; sg "Getriebetisch"; sd "Getriebetisch"; sa "Getriebetisch";
+pn "Getriebetisch"; pg "Getriebetisch"; pd "Getriebetisch"; pa "Getriebetisch";
+}
+
+translate GearBox to german masculine
+{
+swa "Getriebe";
+sn "Getriebe"; sg "Getriebe"; sd "Getriebe"; sa "Getriebe";
+pn "Getriebe"; pg "Getriebe"; pd "Getriebe"; pa "Getriebe";
+}
+
+translate GearboxDesign to german neuter
+{
+swa "Getriebedesign";
+sn "Getriebedesign"; sg "Getriebedesign"; sd "Getriebedesign"; sa "Getriebedesign";
+pn "Getriebedesign"; pg "Getriebedesign"; pd "Getriebedesign"; pa "Getriebedesign";
+}
+
+translate "Modular components like gearboxes are the first step toward advanced engineering."
+to german "Module wie Getriebe sind der 1. Schritt zur fortgeschrittenen Ingenieurskunst.";
+
+translate "Gearbox Design (Completed)"
+to german "Getriebedesign (Komplett)";
+
+translate "You learn the art of Gearbox Design. You can now build a gearbox assembly table."
+to german "Du erlernst die Kunst des Getriebedesigns. Du kannst nun einen Getriebetisch bauen.";
+
+translate "Engineering"
+to german "Ingenieurskunst";
+
+translate "Gearbox Assembly Table"
+to german "Getriebetisch";
+
+translate "To build a Gearbox Assembly Table, you need: "
+to german "Um einen Getriebetisch zu bauen benötigst du: ";
+
+translate "Clear the Table"
+to german "Leere den Tisch";
+
+translate "Cursor Up"
+to german "Zeiger hoch";
+
+translate "Cursor Down"
+to german "Zeiger runter";
+
+translate "Cursor Left"
+to german "Zeiger links";
+
+translate "Cursor Right"
+to german "Zeiger rechts";
+
+translate "Add a spacer"
+to german "Füge Distanzstück ein";
+
+translate "Add a 3-tooth"
+to german "Füge 3-zackiges Zahnrad hinzu";
+
+translate "Add a 4-tooth"
+to german "Füge 4-zackiges Zahnrad hinzu";
+
+translate "Add a 5-tooth"
+to german "Füge 5-zackiges Zahnrad hinzu";
+
+translate "Add a 6-tooth"
+to german "Füge 6-zackiges Zahnrad hinzu";
+
+translate "Add a 7-tooth"
+to german "Füge 7-zackiges Zahnrad hinzu";
+
+translate "You need the skill of Gearbox Design to design a gearbox."
+to german "Du brauchst die Fähigkeit Getriebedesign, um ein Getriebe zu entwerfen.";
+
+translate " Gear Limit exceeded"
+to german " Zahnradlimit erreicht";
+
+translate "Limit of N1 shafts exceeded."
+to german "Maximum von N1 Achsen erreicht.";
+
+translate "Limit of N1 gears per shaft exceeded."
+to german "Maximum von N1 Getrieben pro Achse erreicht."; 
+
+translate "Remove Gear"
+to german "Entferne Getriebe";
+
+translate "There are no gears under the cursor"
+to german "Es sind keine Getriebe unter dem Zeiger";
+
+translate "Not a valid design: this gearbox will jam"
+to german "Kein gültiges Design: dieses Getriebe wird klemmen";
+
+translate "Not a valid design: two gears are too close to each other (see cursor)"
+to german "Kein zulässiges Design: zwei Getriebe sind zu nahe beieinander (siehe Zeiger)";
+
+translate "Analyze"
+to german "Analysiere";
+
+translate "Build This Gearbox"
+to german "Baue dieses Getriebe";
+
+translate "Not a legal design: there must be an input shaft at 1A"
+to german "Kein zulässiges Design: es muß etwas in der Achse bei 1A eingefügt sein";
+
+translate "Shaft N1 rotating at N2%"
+to german "Achse N1 rotiert bei N2%";
+
+translate "Not a valid design: there must be at least one shaft in the output row."
+to german "Kein zulässiges Design: es muß mindestens eine Achse in der Reihe sein.";
+
+translate "Not a valid design: there must be at most three shafts in the output row."
+to german "Kein zulässiges Design: es dürfen höchstens drei Achsen in der Reihe sein.";
+
+translate "To build a Gearbox model K1, you need:"
+to german "Um ein Getriebe der Art K1 zu bauen benötigst du:";
+
+translate "Build one?"
+to german "Dies bauen?";

@@ -1,0 +1,190 @@
+module snakes_fre;
+
+translate HerpeCulture to french masculine
+{
+ns "Elevage de serpents(Ophiologie)"; np "Elevages de serpents(Ophiologie)";
+}
+
+translate CobraBlood to french masculine
+{
+ns "Sang de cobra"; np "Sangs de cobra";
+}
+
+translate CobraSkin to french feminine
+{
+	ns "Peau de cobra"; np "Peaux de cobra";
+	}
+
+translate CobraBasket to french masculine
+{
+	ns "Panier à cobras"; np "Paniers à cobras";
+	}
+
+translate Serpentarium to french masculine
+{
+	ns "Vivarium à serpents"; np "Vivariums à serpents";
+	}
+
+translate HerpecultureExperiments1 to french feminine
+{
+	ns "Expériences d'élevage de serpents 1"; np "Expériences d'élevage de serpents 1";
+	}
+
+translate "Linen (for the Bedding)"
+to french "Tissus (pour le nid)";
+translate "Cut Stone (Pit Floor)"
+to french "Pierre taillée (Pour le fond de la fosse)";
+translate "Concrete (Pit Walls)"
+to french "Béton (Mur de la fosse)";
+translate "Sheet Glass (Sun Filter)"
+to french "Feuille de verre (Filtre solaire)";
+translate "Male Rabbits (Testing food source)"
+to french "Lapins mâles (Tests des sources de nourriture)";
+translate "Female Rabbits (Testing food source)"
+to french "Lapins femelles (Tests des sources de nourriture)";
+translate "Eggs (Testing food source)"
+to french "Oeufs (Tests des sources de nourriture)";
+translate "Hens (Testing food source)"
+to french "Poules (Tests des sources de nourriture)";
+translate "Roosters (Testing food source)"
+to french "Coqs (Tests des sources de nourriture)";
+translate "Gold (Lure)"
+to french "Or (Appât)";
+translate "Copper Sheeting (Roof Fastener)"
+to french "Revêtement en cuivre (Fermeture de toit)";
+translate "Copper Wire (Supports)"
+to french "Fils de cuivre (Supports)";
+translate "Dark Slate Grey Paint (Lure)"
+to french "Peinture Gris ardoise foncée (Appât)";
+translate "Aquamarine Paint (Lure)"
+to french "Peinture bleu marine (Appât)";
+translate "Indian Red Paint (Lure)"
+to french "Peinture rouge indien (Appât)";
+translate "Dark Magenta Paint (Lure)"
+to french "Peinture magenta foncée (Appât)";
+translate "Deep Pink Paint (Lure)"
+to french "Peinture rose profond (Appât)";
+translate "Light Blue Paint (Lure)"
+to french "Peinture Bleu clair (Appât)";
+translate "Dark Green Paint (Lure)"
+to french "Peinture vert foncé (Appât)";
+translate "Cadet Blue Paint (Lure)"
+to french "Peinture bleu cadet (Appât)";
+
+translate "Cobra Skin"
+to french "Peau de cobra";
+
+translate "Techniques for the care and handling of poisonous snakes."
+to french "Techniques d'élevage et de soins pour les serpents venimeux.";
+
+translate "Scientists will continue Herpeculture study, and provide insight to their care."
+to french "Les scientifiques développeront encore ces techniques d'élevage, et offrent des éléments pour cette activité.";
+
+translate "Herpeculture (Completed)"
+to french "Elevage de serpents (Achevé)";
+
+translate "You learn to raise and handle snakes. Observe them carefully to larn more."
+to french "Vous apprenez à élever des serpents et à vous en occuper. Observez-les avec attention pour en apprendre davantage.";
+
+translate "A baby cobra was born."
+to french "Un bébé cobra est né.";
+
+translate "A cobra settled in."
+to french "Un cobra a élu domicile.";
+
+translate "A cobra slithered off. You can't follow the track."
+to french "Un cobra s'est échappé. Vous ne savez pas où il est parti.";
+
+translate "A cobra slithered off to the North"
+to french "Un cobra s'est échappé et a filé vers le Nord";
+translate "A cobra slithered off to the Northeast"
+to french "Un cobra s'est échappé et a filé vers le Nord Est";
+translate "A cobra slithered off to the South"
+to french "Un cobra s'est échappé et a filé vers le Sud";
+translate "A cobra slithered off to the Southeast"
+to french "Un cobra s'est échappé et a filé vers le Sud Est";
+translate "A cobra slithered off to the East"
+to french "Un cobra s'est échappé et a filé vers l'Est";
+translate "A cobra slithered off to the Southwest"
+to french "Un cobra s'est échappé et a filé vers le Sud Ouest";
+translate "A cobra slithered off to the West"
+to french "Un cobra s'est échappé et a filé vers l'Ouest";
+translate "A cobra slithered off to the Northwest"
+to french "Un cobra s'est échappé et a filé vers le Nord Ouest";
+
+translate "Feed the snakes"
+to french "Nourrir les serpents";
+
+translate "Milk a cobra of venom"
+to french "Extraire le venin des cobras";
+
+translate "You carefully inventory the snakes, but find none ready to milk of venom."
+to french "Vous regardez vos serpents avec attention, mais aucun ne semble en mesure de vous donner du venin.";
+
+translate "You collect a drop of the precious venom."
+to french "Vous récoltez une goutte du précieux venin.";
+
+translate "Kill a cobra for its blood"
+to french "Tuer un cobra pour son sang";
+
+translate "Examine the Serpentarium"
+to french "Examiner le vivarium à serpents";
+
+translate "The Serpentarium contains N1 cobras."
+to french "Le vivarium à serpents contient N1 cobras";
+
+translate "Are you sure you want to kill a cobra?"
+to french "Voulez-vous vraiment tuer un cobra ?";
+
+translate "You collect a vial of cobra blood."
+to french "Vous avez collecté une fiole de sang de cobra.";
+
+translate "How many O1? (Max N1)"
+to french "Combien de O1(ns)? (Max N1)";
+
+translate "Dump a basket of cobras into the Serpentarium"
+to french "Vider un panier de cobras dans le vivarium";
+
+translate "A cobra ate: O1"
+to french "Un cobra a mangé O1(lns) O1(ns)";
+
+translate "Special Examine"
+to french "Examen poussé";
+
+translate "Herpiculture Experiment Results"
+to french "Résultats des expériences d'Ophiologie";
+
+
+translate "After extensive study, we determined the following about the life-cycle of cobras:\n\n"
+to french "Après une étude approfondie, nous avons conclu ce qui suit sur le cycle de vie des cobras:";
+
+translate "1. Wild cobras, while common, seldom settle into man-made pits. About once per hour, a clutch of cobras will settle into a pit, somewhere in Egypt."
+to french "1. Les cobras sauvages, bien que banals, aiment occuper un enclos construit par l'homme. Environ toutes les heures, une poignée de cobras s'établiront dans un vivarium, quelque part en Egypte.";
+
+translate  "2. Cobras shed their skin at a constant rate, but more predictably when a pit is full. A pit with 49 cobras will produce a skin once per hour."
+to french "2. Les cobras muent selon un rythme contant, mais surtout si le vivarium est plein. Un enclos contenant 49 cobras produira une peau toutes les heures.";
+
+translate "3. A full pit has a dominant cobra every hour. A half full pit has one every 2 hours on average, etc. A dominant cobra in a pit will do one of three things with equal probability. We were astounded to discover how predictable cobras are this way!"
+to french "3. Un enclos bien rempli obtient un cobra dominant par heure, tandis qu'un vivarium à moitié plein en obtiendra 1 toutes les deux heures, etc. Un cobra dominant accomplie une actions parmi 3 aléatoirement. Comment prédire le comportement de ces animaux dans ce cas!";
+
+translate "4. One thing the dominant cobra may do is breed. The baby will stay in the pit for at least one hour."
+to french "4. L'une des choses que le cobra dominant peut faire est de se reproduire. Le bébé restera dans le vivarium pendant au moins une heure.";
+
+translate "5. Another thing a dominant cobra may do is wander off. Captive cobras prefer to settle into nearby pits, but will sometimes escape back to the wild. Being wild animals, they don't seem to care who owns a pit! Cobras that wander will seldom go between just two pits."
+to french "5. Une autre action possible pour le cobra dominant est de s'échapper. Les cobras en captivité ont tendance à se rendre dans un vivarium proche, mais retournent parfois à la vie sauvage. Ils ne semblent pas se préocuper du propriétaire du vivarium! Les cobras qui s'échappent ne se contenteront pas de faire des aller-retours entre deux enclos";
+
+translate "6. A third thing a cobra may do is eat. Cobras are picky eaters, and will decide ahead of time what sort of food they are in the mood for. Perhaps a bit of Camel Milk, or a tasty Rooster. If the food it wants is in the pit, it will stay and eat. Otherwise it will return to the wild."
+to french "6. La troisième action possible pour un cobra est de se nourrir. Les cobra sont de fins gourmets, et décideront à l'avance du type de nourriture qu'ils désirent. Peut-être un peu de lait de chamelle, ou un bon gros poulet. Si l'enclos dispose de la nourrite désirée il restera, si non il retournera à la vie sauvage.";
+
+translate "7. The ratios of what the dominant cobra does each hour are such that by having an extensive network of nearby pits, it is thought possible to raise cobras with extremely limited food."
+to french "7. D'après les activités du cobra dominant, il est possible d'élever un grand nombre de serpents en utilisant très peu de nourriture.";         
+
+
+
+
+	
+
+
+
+
+

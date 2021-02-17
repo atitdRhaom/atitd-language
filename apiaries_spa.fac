@@ -1,0 +1,68 @@
+module Apiaries_spa;
+
+
+translate royaljelly to spanish feminine
+{
+  ns "jalea real"; np "jaleas reales";
+}
+translate "Check this Apiary for bees, wax and honey."
+to spanish "Inspeccione esta Colmena para abejas , cera y miel.";
+
+translate "Speed"
+to spanish "velocidad";
+translate "Due to your quick Speed checking, no bees escaped."
+to spanish "Debido a su rápida velocidad  , ninguna abeja se escapo.";
+translate "For the next 12 hours, the hive will produce 3x the normal amount of wax, but no honey."
+to spanish "Durante las próximas 12 horas , la colmena producirá 3 veces la cantidad normal de cera, pero sin la miel.";
+
+// Spanish Translation for Apiaries Module
+// Translated by Arpallan on 02/07/09
+// Spellcheck by Christian on 02/08/09 
+
+translate Apiary to spanish feminine
+{
+ns "Colmena"; np "Colmenas";
+}
+
+translate Honey to spanish masculine
+{
+ns "Miel"; np "Miel";
+}
+
+translate Beeswax to spanish feminine
+{
+ns "Cera"; np "Cera";
+}
+
+translate "Apiary"
+to spanish "Colmena";
+
+translate "To build an Apiary you need:"
+to spanish "Para construir una colmena necesitas:";
+
+translate "Check this Apiary for a Queen"
+to spanish "Revisa esta colmena por la presencia de una reina.";
+
+translate "Check this Apiary for bees, wax and honey"
+to spanish "Revisa la colmena por abejas, cera, y miel";
+
+translate "Checking the hive..."
+to spanish "Revisando la colmena...";
+
+translate "A queen bee has started to build a hive in this apiary."
+to spanish "Una reina se ha establecido en esta colmena.";
+
+translate "No signs of a queen bee. "
+to spanish "No hay señales de una reina.";
+
+translate "The apiary had approximately N1 bees which have produced N2 wax and N3 honey.  Due to your quick Speed checking, no bees escaped."
+to spanish "La colmena tiene aproximadamente N1 abejas los cuales han producido N2 cera y N3 miel.  Gracias a tu rapidez, ninguna abeja escapó.";
+
+translate "The apiary had approximately N1 bees which have produced N2 wax and N3 honey.  About half the bees escaped when you checked."
+to spanish "La colmena tiene aproximadamente N1 abejas los cuales han producido N2 cera y N3 miel. La mitad de las abejas escaparon cuando revistate.";
+
+translate "Inject the hive with Essential Extract"
+to spanish "Inyecta la colmena con Extracto Essencial";
+
+translate "Last checked about K1 ago."
+to spanish "Última revisión hace K1.";

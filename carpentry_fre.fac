@@ -1,0 +1,372 @@
+module carpentry_fre;
+
+translate CarpentryShop to french masculine
+{
+  ns "Atelier de menuiserie"; np "Ateliers de menuiserie";
+}
+
+translate GoldPanning to french feminine
+{
+  ns "Recherche d'or"; np "Recherche d'or";
+} 
+
+translate SlateShovel to french feminine
+{
+  ns "Pelle d'ardoise"; np "Pelles d'ardoise";
+}
+
+translate FineSteelShovel to french feminine
+{
+  ns "Pelle d'acier"; np "Pelles d'acier";
+}
+
+translate WoodPlane to french masculine
+{
+  ns "Plan de bois"; np "Plans de bois";
+}
+
+translate Scythe to french feminine
+{
+  ns "Faux"; np "Faux";
+}
+
+translate Axe to french feminine
+{
+  ns "Hache"; np "Haches";
+}
+
+translate FineSteelAxe to french feminine
+{
+  ns "Hache d'acier"; np "Haches d'acier";
+}
+
+translate Slate to french femininecollective
+{
+  ns "Ardoise"; np "Ardoises";
+}
+
+translate StoneBlade to french feminine
+{
+  ns "Lame d'ardoise"; np "Lames d'ardoise";
+}
+
+translate boards to french feminine
+{
+  swa "planche";
+  ns "Planche"; 
+  np "Planches";
+}
+
+translate ShovelBlade to french feminine
+{
+  ns "Lame de pelle"; np "Lames de pelle";
+}
+
+translate Wood to french masculine
+{
+  ns "Bois"; np "Bois";
+}
+
+translate LoomFrame to french masculine
+{
+  ns "Cadre de métier à tisser"; np "Cadres de métier à tisser";
+}
+
+translate Sledgehammer to french feminine
+{
+  ns "Masse"; np "Masses";
+}
+
+translate HeavyMallet to french feminine
+{
+  ns "Gros maillet"; np "Gros maillets";
+}
+
+translate ClayLamp to french feminine
+{
+  ns "Lampe en argile"; np "Lampes en argile";
+} 
+
+translate shovel to french feminine
+{
+  ns "Pelle"; np "Pelles";
+}
+
+translate Deckle to french masculine
+{
+  ns "Cadre de presse à papier"; np "Cadres de presse à papier";
+}
+
+//menues
+
+translate "Wood plane"
+to french "Plan de bois";
+
+translate "Build a wood plane"
+to french "Construire un plan de bois";
+
+translate "Carpentry Shop"
+to french "Atelier de menuiserie";
+
+-- translate "Build a Carpentry Shop"
+-- to french "Construire un atelier de menuiserie";
+
+-- translate "Build a Carpentry Shop (Must outfit with a blade)"
+-- to french "Construire un atelier de menuiserie (Doit être complété avec une lame)";
+
+translate "Make a Shovel"
+to french "Fabriquer une pelle";
+
+translate "Make a Fine Steel Shovel"
+to french "Fabriquer une pelle d'acier";
+
+translate "To make a Fine Steel Shovel you need:"
+to french "Pour fabriquer une pelle d'acier, il vous faut :";
+
+translate "You try to fit the twin blades to the handle, but your hands are still shaking from the last attempt. Wait for another K1 before crafting your next fine steel shovel."
+to french "Vous tentez de planter les deux lames dans le manches, mais vos mains sont encore tremblantes de votre dernière tentative. Attendez encore K1 avant de faire votre prochaine pelle.";
+
+translate "To make a Shovel you need:"
+to french "Pour fabriquer une pelle, il vous faut :";
+
+//translate "Gather: Pan for Gold"
+//to french "";
+
+//translate "Tried Gold Pan: U1"
+//to french "";
+
+translate "You lost sight of the slate. Try standing still when looking for slate."
+to french "Vous avez perdu l'ardoise de vue. Ne bougez pas lorsque vous en recherchez.";
+
+translate "You need two pieces of slate: To attempt forging a stone blade, you need to carefully break one piece of slate with a second piece."
+to french "Il vous faut deux morceaux d'ardoise. Pour tailler une lame d'ardoise, vous devez casser un morceau d'ardoise à l'aide du second.";
+
+translate "Success! One of the stones shattered, and the other broke cleanly. You've made a stone blade."
+to french "Réussi ! Une des deux ardoises est en petits morceaux, l'autre s'est brisée selon une coupure bien nette. Vous avez taillé une lame d'ardoise.";
+
+translate "Oops - one of the pieces of slate shattered, and the other remained intact. You do seem to be getting the hang of it though: Your skill is now N1 out of N2"
+to french "Aïe - Une des deux ardoises est en petits morceaux, l'autre n'a pas bougé. Mais vous commencez à prendre la technique. Votre compétence est maintenant de N1 sur N2.";
+
+translate "Bad luck. Both pieces of slate shattered. Your skill is still N1 out of N2"
+to french "Pas de chance. Les deux morceaux d'ardoise sont en miettes. Votre compétence est maintenant de N1 sur N2.";
+
+translate "To build a Wood Plane, you need: "
+to french "Pour fabriquer un plan de bois, il vous faut :";
+
+translate "Before you will be able to use your Carpentry Shop to make boards you will first need to outfit it with a Carpentry Blade. Continue?"
+to french "Avant de pouvoir utiliser votre atelier de menuiserie pour faire des planches, vous devrez tout d'abord y ajouter une lame de menuiserie. Continuer ?";
+
+translate "Install a Carpentry Blade"
+to french "Installer une lame de menuiserie";
+
+translate "Install a Carpentry Blade/"
+to french "Installer une lame de menuiserie/";
+
+translate "You need a Carpentry Blade of at least 3000 quality to upgrade this Carpentry Shop."
+to french "Vous avez besoin d'une lame de menuiserie d'une qualité d'au moins 3000 pour améliorer cet atelier de menuiserie.";
+
+translate "Your Carpentry Blade is only N1 quality. You must use a blade of at least 3000 quality!"
+to french "Votre lame de menuiserie est de qualité N1 seulement. Vous devez utiliser une lame de qualité 3000 au minimum!";
+
+translate "Repair this Wood Plane by replacing the blade"
+to french "Remplacer la lame du plan de bois";
+
+translate "You need a Stone Blade to repair this Wood Plane."
+to french "Il vous faut une lame d'ardoise pour réparer ce plan de bois.";
+
+translate "The woodplane's blade broke. You'll need another blade to repair it."
+to french "La lame du plan de bois s'est brisée. Il vous faut une autre lame pour le réparer.";
+
+translate "To build a Carpentry Shop, you need: "
+to french "Pour construire un atelier de menuiserie, il vous faut :";
+
+translate "Plane a piece of wood into a board"
+to french "Transformer un morceau de bois en planche";
+
+translate "You don't have any wood. Wood can be gathered from trees."
+to french "Vous n'avez pas de bois. Le bois se trouve sur les arbres.";
+
+translate "Start planing Wood into Boards"
+to french "Transformer le bois en planches";
+
+translate "The blade on your shop's plane has become dull and chipped, and must be replaced."
+to french "La lame de votre plan de travail est émoussée et ébréchée. Vous devez la remplacer.";
+
+translate "Make an Axe"
+to french "Fabriquer une hache";
+
+translate "To make an Axe you need:"
+to french "Pour fabriquer une hache, il vous faut :";
+
+translate "Assemble a Sledgehammer"
+to french "Assembler une masse";
+
+translate "To make a Sledgehammer you need:"
+to french "Pour fabriquer une masse, il vous faut :";
+
+translate "Assemble a Slate Scythe"
+to french "Assembler une faux d'ardoise";
+
+translate "To make a Flint Scythe you need:"
+to french "Pour fabriquer une faux de pierre, il vous faut :";
+
+translate "This Scythe looks very sturdy. With a bit more practice you think you can improve your technique."
+to french "Cette faux semble très résistante. Avec un peu plus de pratique vous pourrez améliorer votre technique.";
+
+translate "Assemble a Glass Scythe"
+to french "Assembler une faux de verre";
+
+translate "To make a Glass Scythe you need:"
+to french "Pour fabriquer une faux de verre, il vous faut :";
+
+translate "This Scythe looks very primitive. It is not very good, but at least you can practice with it."
+to french "Cette faux semble très rudimentaire. Elle n'est pas de qualité, mais vous pourrez au moins vous pratiquer.";
+
+translate "Make a Fine Steel Axe"
+to french "Fabriquer une hache d'acier";
+
+translate "To make a Fine Steel Axe you need:"
+to french "Pour fabriquer une hache d'acier, il vous faut :";
+
+translate "You try to fit the blade to the handle, but you just can't get them to line up. Let your head clear for another K1 before crafting your next fine steel axe."
+to french "Vous tentez d'adapter la lame au manche, mais vous n'arrivez  pas à l'aligner. Faites une pause de K1 afin de vous éclaircir l'esprit, et reprenez votre fabrication.";
+
+translate "Scythe"
+to french "Faux";
+
+translate "Make a Scythe"
+to french "Fabriquer une faux";
+
+translate "To make a Scythe you need:"
+to french "Pour fabriquer une faux, il vous faut :";
+
+translate "Note: to use a scythe effectively, you'll need to master the skill of Rhythmic Strength, and have a papyrus basket."
+to french "Note : pour manier une faux efficacement, vous devez maîtriser la Force Rythmique et avoir avec vous un panier de papyrus.";
+
+translate "Replace the blade on this shop's plane"
+to french "Remplacez la lame de ce plan de travail";
+
+translate "You don't have an Iron Blade. Find someone who owns a forge."
+to french "Vous n'avez pas de lame de fer. Trouvez quelqu'un qui possède une forge.";
+
+translate "Upgrade this carpentry shop with a steel blade."
+to french "Perfectionner cet atelier de menuiserie avec une lame d'acier.";
+
+translate "Inspect the blade on this shop's plane."
+to french "Inspecter la lame du plan de cet atelier.";
+
+translate "Inspect the Carpentry Blade"
+to french "Inspecter la lame de menuiserie";
+
+translate "Using your skill in Metallurgy, you inspect the blade... The Carpentry Blade is totally worn out."
+to french "Grâce à vos compétences en métallurgie, vous inspectez la lame... La lame de menuiserie est complètement usée.";
+
+translate "Using your skill in Metallurgy, you inspect the blade... This Carpentry Blade can be used to plane at least N1 more boards."
+to french "Grâce à vos compétences en métallurgie, vous inspectez la lame... Cette lame de menuiserie peut encore tailler au moins N1 planches.";
+
+translate "Using your skill in Metallurgy, you inspect the blade... You can't quite tell. Improving your perception may help."
+to french "Grâce à vos compétences en métallurgie, vous inspectez la lame... Vous ne savez pas vraiment. Améliorer votre perception pourrait aider.";
+
+translate "Install a Vise Bench"
+to french "Installer un banc";
+
+translate "To upgrade this Carpentry Shop with a Vise Bench, you need: "
+to french "Pour améliorer cet Atelier de Menuiserie, il vous faut:";
+
+translate "To upgrade this Carpentry Shop with a Vise Bench, you need: "
+to french "Pour améliorer cet atelier de menuiserie en y ajoutant un banc, il vous faut :";
+
+translate "Make a Loom Frame"
+to french "Fabriquer un cadre de métier à tisser";
+
+translate "To make a Loom Frame, you need: "
+to french "Pour fabriquer un cadre de métier à tisser, il vous faut :";
+
+translate "Tear down by Meffi's Wood Plane Removal Law"
+to french "Détruire selon la Loi de Retrait de Meffi concernant les plans de travail.";
+
+translate "You lost sight of whatever you saw. Try standing still next time."
+to french "Vous avez perdu de vue ce que vous regardiez. Evitez de bouger la prochaine fois.";
+
+translate "You saw something yellow and shiny in the water - you're sure of it. You have a flash of inspiration: A heavy lead bowl could be used to scoop material from the water. You might be able to see what you found against the dark background. Of course, it would require a very high (7) perception to track such a small object in the first place."
+to french "Vous avez vu quelque chose de jaune et de brillant dans l'eau - vous en être certain ! Vous avez une inspiration soudaine : utiliser un gros récipient en plomb pour retrouver ce que vous chercher dans l'eau. Vous pourriez réussir à retrouver ce que vous avez entrevu grâce au fond sombre du récipient. Evidemment, il faudrait une très bonne perception (7) pour réussir à voir des objets aussi petits.";
+
+//translate "You have a flash of inspiration: A heavy lead bowl could be used to scoop material from the water. You might "
+//to french "";
+//translate "be able to see what you found against the dark background. Of course, it would require a very high (7) "
+//to french "";
+//translate "perception to track such a small object in the first place."
+//to french "";
+
+translate "You're sure you saw *something* in the water, but you don't quite know where to look. Perhaps with very high perception, you would."
+to french "Vous avez vu *quelque chose* dans l'eau, mais vous ne savez plus exactement où. Peut-être qu'avec des sens plus aiguisés vous réussiriez.";
+
+translate "If only you had a Lead Bowl, you'd be able to scoop material from the water to find that shiny object."
+to french "Si seulement vous aviez un récipient en plomb, vous pourriez l'utiliser pour observer l'eau et retrouver ce que vous cherchiez.";
+
+translate "You cannot run two carpentry shops at the same time."
+to french "Vous ne pouvez pas utiliser deux ateliers de menuiserie en même temps.";
+
+translate "Make an Clay Lamp"
+to french "Fabriquer une lampe d'argile";
+
+translate "Assemble a Slate Shovel"
+to french "Assembler une pelle d'ardoise";
+
+translate "It takes one stone blade and two boards to make a Slate Shovel"
+to french "Vous avez besoin d'une lame d'ardoise et deux planches pour fabriquer une pelle d'ardoise";
+
+translate "Assemble a Heavy Mallet"
+to french "Assembler un gros maillet";
+
+translate "To make a Heavy Mallet you need:"
+to french "Pour fabriquer un gros maillet, il vous faut:";
+
+translate "Assemble an Iron Shovel"
+to french "Assembler une pelle de fer";
+
+translate "To make a crude Iron Shovel, you need: "
+to french "Pour fabriquer une pelle de fer rudimentaire, vous avez besoin de: ";
+
+translate "shovel"
+to french "Pelle";
+
+translate "Build a Carpentry Shop (Steel Blade)"
+to french "Construire un atelier de menuiserie (lame d'acier)";
+
+translate "N1 O1"
+to french "N1 O1(N1?np:ns)";
+
+translate "To upgrade this Carpentry Shop, you need: "
+to french "Pour améliorer cet atelier de menuiserie, il vous faut :";
+
+translate "Make a Slate Shovel"
+to french "Fabriquer une pelle d'ardoise";
+
+translate "It takes one stone blade and two boards to make a Slate Shovel"
+to french "Vous avez besoin d'une lame d'ardoise et deux planches pour fabriquer une pelle d'ardoise";
+
+translate "No repairs are needed."
+to french "Aucune réparation n'est nécessaire.";
+
+translate "Check for coverage under the Woodplane Destruction Act"
+to french "Consulter la loi concernant la destruction des plans de bois";
+
+translate "The blade is not broken, and therefore the Woodplane does not fall under the Woodplane Destruction Act"
+to french "La lame n'est pas brisée, et par conséquent le plan de bois ne tombe pas sous l'acte de destruction des plans de bois.";
+
+translate "The blade has only been broken for N1. The Woodplane does not fall under the Woodplane Destruction Act."
+to french "La lame est brisée depuis seulement N1. Le plan de bois ne tombe pas sous l'acte de destruction des plans de bois.";
+
+translate "The Wood Plane can be torn down. Tear it down now?"
+to french "Le plan de bois peut être détruit. Le détruire ?";
+
+translate "By order of the Woodplane Destruction Act, introduced by Lahotep, you tear down the Woodplane."
+to french "En vertu de la loi sur la destruction des plans de bois, promulguée par Lahotep, vous détruisez le plan de bois.";
+
+translate "Make a Deckle"
+to french "Fabriquer un cadre de presse à papier";
+
+translate "To make a Deckle, you need: "
+to french "Pour fabriquer un cadre de presse à papier, il vous faut :";
+

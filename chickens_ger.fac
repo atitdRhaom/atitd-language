@@ -1,0 +1,204 @@
+module Chickens_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002,2003,2004,2005 by MDO Entertainment               **
+//**                                                                       **
+//***************************************************************************
+//menues
+
+translate ChickenCoop to german masculine
+{
+swa "Hühnerstall";
+sn "Hühnerstall"; sg "Hühnerstalls"; sd "Hühnerstall"; sa "Hühnerstall";
+pn "Hühnerställe"; pg "Hühnerställe"; pd "Hühnerställen"; pa "Hühnerställe";
+}
+
+translate Chicken to german neuter
+{
+swa "Huhn";
+sn "Huhn"; sg "Huhnes"; sd "Huhn"; sa "Huhn";
+pn "Hühner"; pg "Hühner"; pd "Hühnern"; pa "Hühner";
+}
+
+translate Hen to german femininecollective
+{
+swa "Henne";
+sn "Henne"; sg "Henne"; sd "Henne"; sa "Henne";
+pn "Hennen"; pg "Hennen"; pd "Hennen"; pa "Hennen";
+}
+
+translate Rooster to german masculine
+{
+swa "Hahn";
+sn "Hahn"; sg "Hahnes"; sd "Hahn"; sa "Hahn";
+pn "Hähne"; pg "Hähne"; pd "Hähnen"; pa "Hähne";
+}
+
+translate Egg to german neuter
+{
+swa "Ei";
+sn "Ei"; sg "Eies"; sd "Ei"; sa "Ei";
+pn "Eier"; pg "Eier"; pd "Eiern"; pa "Eier";
+}
+translate AvianSelection to german femininecollective
+{
+swa "Geflügelzucht";
+sn "Geflügelzucht"; pn "Geflügelzucht"; 
+}
+
+translate "AvianSelection"
+to german "Geflügelzucht";
+
+translate "Allows breeding of domesticated birds."
+to german "Erlaubt die Zucht von gezähmten Vögeln.";
+
+//translate "Projects/Farming/Chicken Coop"
+//to german "Projekte/Landwirtschaft/Hühnerstall";
+
+translate "Chicken Coop"
+to german "Hühnerstall";
+
+translate "Chickens will only prosper in grassy areas."
+to german "Hühner gedeihen nur in Graslandschaften.";
+
+translate "To build a chicken coop, you need:"
+to german "Um einen Hühnerstall zu bauen benötigst du:";
+
+translate "Set slats to closed"
+to german "Schließe die Klappe";
+
+translate "Set slats to slightly open"
+to german "Öffne die Klappe wenig";
+
+translate "Set slats to half open"
+to german "Öffne die Klappe halb";
+
+translate "Set slats to mostly open"
+to german "Öffne die Klappe weit";
+
+translate "Set slats to fully open"
+to german "Öffne die Klappe vollständig";
+
+translate "Place eggs in the hatching boxes"
+to german "Lege Eier in den Brutkasten";
+
+translate "Load how many eggs? (Max N1)"
+to german "Wieviele Eier laden? (Max N1)";
+
+translate "Place barley in the feed hopper"
+to german "Lege Gerste in den Futtertrog";
+
+translate "Load how much barley? (Max N1)"
+to german "Wieviel Gerste laden? (Max N1)";
+
+translate "quite cool"
+to german "Sehr kalt";
+
+translate "cool"
+to german "Kühl";
+
+translate "hot"
+to german "Heiß";
+
+translate "warm"
+to german "Warm";
+
+translate "Chicken Temperature is N1 "
+to german "Hühnertemperatur ist N1 Grad";
+
+translate "It is quite cool for this time of day."
+to german "Es ist sehr kühl für diese Tageszeit";
+
+translate "It is cool for this time of day."
+to german "Es ist kühl für diese Tageszeit";
+
+translate "It is warm for this time of day."
+to german "Es ist warm für diese Tageszeit";
+
+translate "It is hot for this time of day."
+to german "Es ist heiß für diese Tageszeit";
+
+translate "Outdoor Temperature is N1"
+to german "Außentemperatur beträgt N1";
+
+translate "Slats are closed. At night, this retains warmth."
+to german "Klappe ist über Nacht geschlossen. Das erhält die Wärme.";
+
+translate "Slats are closed. During the day, this cools the chickens."
+to german "Klappe ist geschlossen. Über Tag kühlt das die Hühner ab.";
+
+translate "Slats are mostly closed"
+to german "Klappe ist fast geschlossen";
+
+translate "Slats are half open"
+to german "Klappe ist halb offen";
+
+translate "Slats are mostly open"
+to german "Klappe ist weit geöffnet";
+
+translate "Slats are fully open. At night, this lets in cool air."
+to german "Klappe ist offen. Nachts sorgt das für kalte Luft.";
+
+translate "Slats are fully open. The daytime sun warms the chickens."
+to german "Klappe ist ganz offen. Tagsüber wärmt die Sonne die Hühner.";
+
+translate "Place Hens in the coop"
+to german "Setze Hennen in den Hühnerstall";
+
+translate "How many hens? (Max N1)"
+to german "Wieviele Hennen? (Max N1)";
+
+translate "Place Roosters in the coop"
+to german "Setze Hähne in den Hühnerstall";
+
+translate "How many roosters? (Max N1)"
+to german "Wieviele Hähne? (Max N1)";
+
+translate "You don't have any hens."
+to german "Du hast keine Hennen.";
+
+translate "You couldn't put any more hens in the O1"
+to german "Du kannst keine weiteren Hennen in O1(tsa) O1(sa) setzen.";
+
+translate "You could only place N1 hens in the O1"
+to german "Du kannst nur N1 Henne(n) in O1(tsa) O1(sa) setzen."; 
+
+translate "You don't have any roosters."
+to german "Du hast keine Hähne.";
+
+translate "You couldn't put any more roosters in the O1"
+to german "Du kannst keine weiteren Hähne in O1(tsa) O1(sa) setzen.";
+
+translate "You could only place N1 roosters in the O1"
+to german "Du kannst nur N1 Hahn/Hähne in O1(tsa) O1(sa) setzen."; 
+
+translate "Chicken Coop Broken: "
+to german "Hühnerfarm zerstört: ";
+
+translate "How strange! A rooster was pecking around in the grass."
+to german "Wahnsinn! Ein Hahn pickte im Gras herum.";
+
+translate "How strange! A hen was pecking around in the grass."
+to german "Wahnsinn! Eine Henne pickte im Gras herum.";
+
+translate "Kill the last hen?"
+to german "Die letzte Henne töten?";
+
+translate "hen"
+to german "Henne";
+
+translate "rooster"
+to german "Hahn";
+
+translate "Kill the last rooster?"
+to german "Den letzten Hahn töten?";
+
+translate "Build a Chicken Coop"
+to german "Baue einen Hühnerstall";
+
+translate "Hens Born: "
+to german "Kücken geschlüpft: ";
+ 

@@ -1,0 +1,74 @@
+module email_fre;
+
+translate "Enter or change email address for account"
+to french "Saisissez ou changez l'adresse email de votre compte";
+
+translate "Mail Options"
+to french "Options d'email";
+
+translate "Fetching your account..."
+to french "Récupération des informations de votre compte...";
+
+translate "Note: Please register your email and set email preferences from your Options/Mail menu."
+to french "Note: Merci d'enregistrer votre email et de définir vos préférences de mail dans le menu Outils/Mail";
+
+translate "1-(630)-770-2043"
+to french "1-(630)-770-2043";
+
+translate "A Tale in the Desert"
+to french "ATITD";
+
+translate "Email address? A valid confirmed email is required to subscribe to A tale in the Desert. Failure to supply one makes it impossible to perform password recovery in the game.  We will not share the address with spammers, terrorists, or even other players. Only billing related emails are automatic, and you can even opt out of them as well. Now, may we please have your email address?"
+to french "Une adresse mail confirmée est nécessaire pour s'abonner à A Tale in the Desert. Si vous ne le faisiez pas, cela rendrait impossible la récupération du mot de passe du jeu. Nous ne partageons pas votre adresse avec les spammeurs, terroristes ou même d'autres joueurs. Seuls les emails de facturation sont automatique, et vous pouvez aussi les désactiver. Pouvons-nous avoir votre adresse mail ?";
+
+//translate "Email address? Enter None to disable email from the game. We will not share the address with spammers, terrorists, or even other players. If we do, you can post the Lead Designer's cell phone number 1-(630)-770-2043 to USENET as revenge. How's that for a privacy policy? Only billing email are automatic, and you can even opt out of them as well. Now, may we please have your email address?"
+//to french "Adresse Email ? Saisissez NONE pour désactiver les emails de ce jeu. Nous ne partageons pas votre adresse avec les spammeurs, terroristes ou même d'autres joueurs. Si nous le faisons, vous pouvez poster le téléphone 1-(630)-770-2043 du développeur principal à USENET comme revenche. Cela vous semble-t-il correct comme politique privée? Seuls les emails de facturation sont automatique, et vous pouvez aussi les désactiver. Pouvons-nous avoir votre adresse mail ?";
+
+translate "Email address? Enter None to disable email from the game. We will not share the address with spammers, terrorists, or even other players. If we do, you can post the Lead Designer's cell phone number K1 to USENET as revenge. How's that for a privacy policy? Only billing email are automatic, and you can even opt out of them as well. Now, may we please have your email address?"
+to french "Adresse Email ? Saisissez NONE pour désactiver les emails de ce jeu. Nous ne partageons pas votre adresse avec les spammeurs, terroristes ou même d'autres joueurs. Si nous le faisons, vous pouvez poster le téléphone K1 du développeur principal à USENET comme revenche. Cela vous semble-t-il correct comme politique privée? Seuls les emails de facturation sont automatique, et vous pouvez aussi les désactiver. Pouvons-nous avoir votre adresse mail ?";
+
+
+//translate "Email address? Enter None to disable email from the game. We will not share the address with "
+//to french "Adresse Email ? Saisissez NONE pour désactiver les emails de ce jeu. Nous ne partageons pas votre adresse avec ";
+//translate "spammers, terrorists, or even other players. If we do, you can post the Lead Designer's "
+//to french "les spammeurs, terroristes ou même d'autres joueurs. Si nous le faisons, vous pouvez poster au développeur principal";
+//translate "cell phone number N1 to USENET as revenge. How's that for a privacy policy? "
+//to french "n° de tel: N1 à USENET comme revanche. Cela vous semble-t-il correct comme politique privée?";
+//translate "Only billing email are automatic, and you can even opt out of them as well. "
+//to french "Seuls les emails de facturation sont automatique, et vous pouvez aussi les désactiver.";
+//translate "Now, may we please have your email address?"
+//to french "Pouvons-nous avoir votre adresse mail ?";
+
+//translate "Email address? Enter None to disable email from the game. We will not share the address with "
+//to french "Adresse Email ? Saisissez NONE pour désactiver les emails de ce jeu. Nous ne partageons pas votre adresse avec ";
+//translate "spammers, terrorists, or even other players. If we do, you can post the Lead Designer's "
+//to french "les spammeurs, terroristes ou même d'autres joueurs. Si nous le faisons, vous pouvez poster au développeur principal";
+//translate "cell phone number 1-(630)-770-2043 to USENET as revenge. How's that for a privacy policy? "
+//to french "n° de tel: 1-(630)-770-2043 à USENET comme revanche. Cela vous semble-t-il correct comme politique privée?";
+//translate "Only billing email are automatic, and you can even opt out of them as well. "
+//to french "Seuls les emails de facturation sont automatique, et vous pouvez aussi les désactiver.";
+//translate "Now, may we please have your email address?"
+//to french "Pouvons-nous avoir votre adresse mail ?";
+
+//translate "K1 K2 K3 K4 K5"
+//to french "K1 K2 K3 K4 K5";
+//translate "K2 K3 K4 K5 K6"
+//to french "K2 K3 K4 K5 K6";
+
+translate "Email address verified.  Please set your mail preferences in Options/Mail/Mail Options.  Please subscribe to the A Tale in the Desert mailing list at http://www.atitd.com for a low volume game related newsletter."
+to french "Adresse mail vérifiée. Indiquez vos préférences dans Outils/Mails/Options d'email. Souscrivez à la la liste de distribution de A Tale in the Desert sur http://www.atitd.com pour un faible volume d'informations concernant le jeu";
+
+translate "I never want mail about game billing (Receipts or reminders)"
+to french "Aucun mail concernant la facturation (Reçus ou rappel)";
+
+translate "Only receive mail about billing while in-game"
+to french "Juste recevoir les mails concernant la facturation en jeu.";
+
+translate "Receive mail about billing both in-game and via email"
+to french "Recevoir des mails de facturation en jeu et par mail";
+
+translate "There is no verification code set for your user, please re-enter your email address."
+to french "Il n'existe aucun code de vérification pour vous, merci de re-saisir votre adresse mail.";
+
+translate "Billing:" 
+to french "Facturation:";

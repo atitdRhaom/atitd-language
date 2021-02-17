@@ -1,0 +1,583 @@
+module horticulture_fre;
+
+translate FlowerFertilizers to french masculine
+{
+  ns "Engrais de floraison"; np "Engrais de floraison"; 
+}
+
+translate FlowerPetals to french masculine
+{
+  ns "Pétale de fleur"; np "Pétales de fleur"; 
+}
+
+translate RoseofRa to french feminine
+{
+  ns "Rose de Râ"; np "Roses de Râ";
+}
+
+translate LilyOfTheSea to french masculine
+{
+  ns "Nénuphar"; np "Nénuphars";
+}
+
+translate PetalsOfRa to french masculine
+{
+  ns "Pétale de Rose de Râ"; np "Pétales de Rose de Râ";
+}
+
+translate PetalsOfTheSand to french masculine
+{
+  ns "Pétale de Fleur des Sables"; np "Pétales de Fleur des Sables";
+}
+
+translate PetalsOfTheSea to french masculine
+{
+  ns "Pétale de Nénuphar"; np "Pétales de Nénuphar";
+}
+
+translate FlowerFertilizer to french masculine
+{
+  ns "Engrais à fleurs"; np "Engrais à fleurs";
+}
+
+translate FlowerBulb to french masculine
+{
+  ns "Bulbe de fleur"; np "Bulbes de fleur";
+}
+
+translate RaBulb to french masculine
+{
+  ns "Bulbe de Rose de Râ"; np "Bulbes de Rose de Râ";
+}
+
+translate SBBulb to french masculine
+{
+  ns "Bulbe de Fleur des Sables"; np "Bulbes de Fleur des Sables";
+}
+translate LSBulb to french masculine
+{
+  ns "Bulbe de Nénuphar"; np "Bulbes de Nénuphar";
+}
+translate Sandbloom to french feminine
+{
+  ns "Fleur des Sables"; np "Fleurs des Sables";
+}
+translate OrchidBulb to french masculine
+{
+  ns "Bulbe d'Orchidée"; np "Bulbes d'Orchidée";
+}
+translate Orchid to french feminine
+{
+  ns "Orchidée"; np "Orchidées";
+}
+
+translate PetalsOfTheOrchid to french masculine
+{
+  ns "Pétale d'Orchidée"; np "Pétales d'Orchidée";
+}
+
+translate Liquidsunfertilizer to french masculine
+{
+  ns "Engrais Soleil liquide"; np "Engrais Soleil liquide";
+}
+translate StickySunFertilizer to french masculine
+{
+  ns "Engrais Soleil gluant"; np "Engrais Soleil gluant";
+}
+translate BlackSyrupFertilizer to french masculine
+{
+  ns "Engrais Sirop Noir"; np "Engrais Sirop Noir";
+}
+translate Harvestelixir to french masculine
+{
+  ns "Engrais Elixir"; np "Engrais Elixir";
+}
+
+translate DawnOfRaFertilizer to french masculine
+{
+  ns "Engrais Aube de Râ"; np "Engrais Aube de Râ";
+}
+
+//translate OddWeed to french masculine
+
+translate KhefresEssence to french feminine
+{
+  ns "Essence de Khefre"; np "Essences de Khefre";
+}
+
+translate "You stashed enough of the sticky essense to make N1 Khefre's Essence. A bit of the sticky essense remains in the O1 and will get added to the next group of beetles you mulch."
+to french "Vous avez stocké suffisemment d'essence pour fabriquer N1 essence de Khefre. Un peu de cette essence restera dans le O1(ns) et sera ajoutée à celle produite par le prochain groupe de scarabés que vous écraserez";
+
+translate "Stash my partial O1 in the O2"
+to french "Placer mes O1(np) partielles dans le O2(ns)";
+
+translate "Mulch Beetle in the Locker into Khefre's Essence"
+to french "Ecraser les scarabés du coffre de Khefre pour faire de l'essence de Khefre";
+
+translate "Mulch Beetle in your Inventory into Khefre's Essence"
+to french "Ecraser les scarabés de votre inventaire pour faire de l'essence de Khefre";
+
+
+translate Horticulture to french feminine
+{
+  ns "Horticulture"; np "Horticulture"; 
+}
+
+translate AdvancedHorticulture to french feminine
+{
+  ns "Horticulture Avancée"; np "Horticulture Avancée"; 
+}
+
+translate BotanistsTouch to french feminine
+{
+  ns "Toucher du Botaniste"; np "Toucher du Botaniste"; 
+}
+
+translate ColorfulWeed to french feminine
+{
+  ns "Herbe colorée"; np "Herbe colorée"; 
+}
+
+translate GebsBountyFertilizer to french masculine
+{
+  ns "Engrais Générosité de Geb"; np "Engrais Générosité de Geb"; 
+}
+
+translate GebsTears to french masculine
+{
+  ns "Larmes de Geb"; np "Larmes de Geb"; 
+}
+
+translate "Lily of the Sea Bulb: Petals all Magenta"
+to french "Bulbe de nénuphar: Pétales entièrement Magenta";
+translate "Lily of the Sea Bulb: Dwarf"
+to french "Bulbe de nénuphar: Nain";
+translate "Lily of the Sea Bulb: Red Middle stamen"
+to french "Bulbe de nénuphar: centre de l'étamine rouge";
+translate "Lily of the Sea Bulb: Red Inner stamen"
+to french "Bulbe de nénuphar: intérieur de l'étamine rouge";
+
+
+
+translate "Permission to Fertilize"
+to french "Permission pour fertiliser";
+translate "Permission to Fertilize: Anyone"
+to french "Permission pour fertiliser : N'importe qui";
+translate "Permission to Fertilize: Elder"
+to french "Permission pour fertiliser : Sages";
+translate "Permission to Fertilize: Patriarch"
+to french "Permission pour fertiliser : Patriarche";
+translate "Permission to Fertilize: Fellow"
+to french "Permission pour fertiliser : Camarades";
+translate "Permission to Fertilize: Kinsman"
+to french "Permission pour fertiliser : Frêres";
+translate "Permission to Fertilize: Member"
+to french "Permission pour fertiliser : Membres";
+translate "Permission to Fertilize: Associate"
+to french "Permission pour fertiliser : Associés";
+translate "Permission to Fertilize: Initiate"
+to french "Permission pour fertiliser : Initiés";
+
+translate "Horticulture"
+to french "Horticulture";
+
+translate "Advanced Horticulture"
+to french "Horticulture Avancée";
+
+translate "Onion Skin"
+to french "Pelure d'oignon";
+
+translate "White Giant"
+to french "Dame blanche";
+
+translate "Pantomime"
+to french "Pantomime";
+
+translate "Goldenleaves"
+to french "Astre du Jour";
+
+translate "Blood Heart"
+to french "Coeur sanglant";
+
+translate "Dawn's Blush"
+to french "Aube rougeoyant";
+
+translate "Heart of Darkness"
+to french "Coeur de l'obscurité";
+
+translate "Clear Skies"
+to french "Ciel dégagé";
+
+translate "Otter's Sunrise"
+to french "Levé de soleil d'Otter";
+
+translate "Red Dwarf"
+to french "Naine rouge";
+
+translate "Night Bloom"
+to french "Floraison nocturne";
+
+translate "Hatch's Bud"
+to french "Couvée de bourgeons";
+
+translate "Sunshine"
+to french "Clarté du soleil";
+
+translate "Lemon Drop"
+to french "Zeste de citron";
+
+translate "Sacrifice"
+to french "Sacrifice";
+
+translate "Corona"
+to french "Couronne";
+
+translate "Love's touch"
+to french "Folie amoureuse";
+
+translate "Cookie Jar"
+to french "Jarre de gateau";
+
+translate "Prismatic"
+to french "Prisme";
+
+translate "Pluribus' Folly"
+to french "Folie de Pluribus";
+
+translate "Clarity"
+to french "Clarté";
+
+translate "Morning"
+to french "Matinal";
+
+translate "Silken"
+to french "Soyeux";
+
+translate "Delicate"
+to french "Délicat";
+
+translate "Energy"
+to french "Energie";
+
+translate "Fracture"
+to french "Fracture";
+
+translate "Blush"
+to french "Rougeoiement";
+
+translate "Vampire"
+to french "Vampire";
+
+translate "Crown"
+to french "Couronne";
+
+translate "Pink Giant"
+to french "Rose Géante";
+
+translate "Masquerade"
+to french "Mascarade";
+translate "Sabretooth"
+to french "Dent de Sabre";
+translate "Arabian Nights"
+to french "Nuits Arabes";
+translate "Avalon"
+to french "Avalon";
+translate "Shangri-La"
+to french "Shangri-La";
+translate "Emperor"
+to french "Emperatrice";
+translate "Amazon Queen"
+to french "Reine des Amazones";
+translate "Hidden in the Darkness"
+to french "Dissimulée dans la Pénombre";
+
+translate "Get a set of Rose of Ra bulbs"
+to french "Obtenir des bulbes de roses de Râ";
+
+translate "Steal a bulb"
+to french "Voler un bulbe";
+
+translate "Allows cultivation of beautiful flowers."
+to french "Permet de faire pousser de magnifiques fleurs";
+
+translate "Now that you know Horticulture, you may ask for a Rose of Ra Bulb."
+to french "A présent que vous connaissez l'horticulture, vous pouvez demander à obtenir un bulbe de rose de Râ.";
+translate "Now that you know Horticulture, you may ask for a Lily of the Sea Bulb."
+to french "A présent que vous connaissez l'horticulture, vous pouvez demander à obtenir un bulbe de Nénuphar.";
+
+
+translate "Ask for a Rose of Ra Bulb"
+to french "Demander un bulbe de Rose de Râ";
+
+translate "Bulbs are extremly precious, and we must ration them. You already got a Rose of Ra Bulb"
+to french "Les bulbes sont extrêmement précieux, et nous ne devons les rationner. Vous avez déjà reçu un bulbe de rose de Râ.";
+
+translate "Rose of Ra bulbs are in extremely short supply, and so we can only give them to those with paid accounts."
+to french "Les bulbes de Rose de Râ sont extrêmement rares, et nous ne les donnons qu'à ceux qui possèdent un abonnement.";
+
+translate "Rose of Ra Bulbs are extremely precious, and you may only get one, regardless of how many universities you visit. "
+to french "Les bulbes de Roses de Râ sont très précieux, et vous ne pourrez en obtenir qu'un seul, peu importe le nombre d'université que vous visitez.";
+
+translate "Other universities may, however, have different strains, so it may pay to wait. "
+to french "D'autres universités peuvent obtenir différentes variétés, l'attente peut vous être avantageuse. ";
+
+translate "Would you like to take one from our stock?"
+to french "Aimeriez-vous avoir un bulbe de notre réserve ?";
+
+translate "Ask for a Lily-of-the-Sea Bulb"
+to french "Demander un bulbe de Nénuphar";
+
+translate "Lily-of-the-Sea Bulbs are extremly precious, and we must ration them. You already got one."
+to french "Les bulbes sont extrêmement précieux, et nous ne devons pas les distribuer en masse. Vous avez déjà reçu un Nénuphar.";
+
+translate "Lily-of-the-Sea are in extremely short supply, and so we can only give them to those with paid accounts."
+to french "Les bulbes de Nénuphar sont extrêmement rares, et nous ne les donnons qu'à ceux qui possèdent un abonnement.";
+
+translate "Lily-of-the-Sea Bulbs are extremely precious, and you may only get one, regardless of how many universities you visit. Other universities may, however, have different strains, so it may pay to wait. Would you like to take one from our stock?"
+to french "Les bulbes de Nénuphar sont très précieux, et vous ne pourrez en obtenir qu'un seul, peu importe le nombre d'université que vous visitez. D'autres universités peuvent obtenir différentes variétés, l'attente peut vous être avantageuse. Aimeriez-vous avoir un bulbe de notre réserve ?";
+
+translate "This O1 is of strain K1"
+to french "O1(^cns) O1(ns) appartient à la variété: K1";
+
+translate "Harvest for Petals"
+to french "Prélever une pétale";
+
+translate "These flowers are delicate, taking the petals will kill the flower. Proceed?"
+to french "Ces fleurs sont fragiles, prélever une pétale aura pour effet de tuer la fleur. Continuer?";
+
+translate "Fertilize to encourage bulb budding"
+to french "Fertiliser pour permettre l'apparition de bulbes";
+
+translate "The O1 already has been fertilized. Wait another K1 to fertilize again."
+to french "O1(^cns) O1(ns) vient d'être fertilisée. Attendez K1 pour fertiliser à nouveau.";
+
+translate "You need 1 unit of O1"
+to french "Il vous faut 1 mesures de O1(ns)";
+
+translate "You need 20 units of O1"
+to french "Il vous faut 20 mesures de O1(ns)";
+
+translate "Fertilize to encourage bulb budding - Black Syrup Fertilizer"
+to french "Fertiliser pour permettre l'apparition de bulbes - Engrais Sirop Noir";
+
+translate "Check the bulb for signs of budding"
+to french "Contrôler les signes de développement du bulbe";
+
+translate "Fertilize to encourage bulb budding - Sticky Sun Fertilizer"
+to french "Fertiliser pour permettre l'apparition de bulbes - Engrais Soleil Gluant";
+
+translate "You need 8 units of O1"
+to french "Il vous faut 8 mesures de O1(ns)"; 
+
+translate "Fertilize to encourage bulb budding - Harvest Elixer"
+to french "Fertiliser pour permettre l'apparition de bulbes - Engrais Elixir";
+
+translate "Fertilize to cause this bulb to bloom immediately - Dawn of Ra Fertilizer"
+to french "Fertiliser pour induire la floraison immédiate de ce bulbe - Engrais Aube de Râ";
+
+translate "This bulb has already bloomed!"
+to french "Ce bulbe a déjà fleuri !";
+
+translate "You need 10 units of O1"
+to french "Il vous faut 10 mesures d'O1(ns)";
+
+translate "There are signs of budding, but the bulb is not yet ready to split."
+to french "Le bulbe semble se développer, mais aucune pousse n'est encore visible.";
+
+translate "You were able to delicately separate a young bulb from the parent bulb."
+to french "Vous réussissez à séparer délicatement un petit bulbe du bulbe principal.";
+
+translate "To plant a O1 you need:"
+to french "Pour planter O1(lns) O1(ns) il vous faut:";
+
+translate "To plant a Rose of Ra, you need:"
+to french "Pour planter une rose de Râ, il vous faut :";
+
+translate "A Rose of Ra takes about N1 to bloom. Check back."
+to french "Il faut environ N1 à une rose de Râ pour éclore. Revenez plus tard.";
+
+translate "A O1 takes about N1 to bloom. Check back."
+to french "Il faut environ N1 à O1(uns) O1(ns) pour éclore. Revenez plus tard.";
+
+translate "Registered: K1"
+to french "Enregristré: K1";
+
+translate "Get a set of Rose of Ra bulbs"
+to french "Demander des bulbes de roses de Râ";
+
+translate "Fertilize to encourage bulb budding - Liquid Sun Fertilizer"
+to french "Fertiliser pour permettre l'apparition de bulbes - Engrais Liquide";
+
+translate "Breeding of non-native flowers."
+to french "Cultiver des fleurs artificielles.";
+
+translate "Lily of the Sea Bulb: N1"
+to french "Bulbe de Nénuphar: N1";
+
+translate "Cyan"
+to french "Cyan";
+
+translate "Magenta"
+to french "Magenta";
+
+translate "Yellow"
+to french "Jaune";
+
+translate "Blue"
+to french "Bleu";
+
+translate "Red"
+to french "Rouge";
+
+translate "Green"
+to french "Vert";
+
+translate "Orange"
+to french "Orange";
+
+translate "Purple"
+to french "Violet";
+
+translate "White"
+to french "Blanc";
+
+translate "Black"
+to french "Noir";
+
+translate "Pink"
+to french "Rose";
+
+translate "True Cyan"
+to french "Cyan véritable";
+
+translate "True Magenta"
+to french "Magenta véritable";
+
+translate "True Yellow"
+to french "Jaune véritable";
+
+translate "Ra Bulb, Any"
+to french "N'importe quel Bulbe de Râ";
+
+translate "Ra Bulb, Inner Petals: K1"
+to french "Bulbe de Râ, pétales internes: K1";
+
+translate "Ra Bulb, Outer Petals: K1"
+to french "Bulbe de Râ, pétales externesr: K1";
+
+translate "Ra Bulb, Stamen: K1"
+to french "Bulbe de Râ, étamines: K1";
+
+translate "Ra Bulb, Leaves: K1"
+to french "Bulbe de Râ, Feuilles: K1";
+
+translate "Petals K1 K2"
+to french "Pétales K1 K2";
+
+translate "Inspect this weed"
+to french "Inspecter cette herbe";
+
+translate "Hmm, there might have been something there, but you just make a mess of it. You need Botanical Identification, preferably level-2, to avoid destroying the delicate weed."
+to french "Hmm, Il se pourrait qu'il y ait quelque chose ici, mais vous ne savez pas vous y prendre. Vous devez apprendre Identification Botanique, préférentiellement niveau 2, pour éviter de détruire l'herbe délicate.";
+
+translate "Using your limited Botanical Identification skill, you try to inspect the plant... Interesting! What an odd Bulb!"
+to french "A l'aide de vos connaissances limitées en Identification Botanique, vous tentez d'inspecter la plante... Intéréssant! Quel étrange bulbe!";
+
+translate "Interesting plant. Too bad you don't have a higher skill level in Botanical Identification. The delicate weed wilts and dies."
+to french "Intéréssant. Dommage que vous n'ayez pas un meilleur niveau en Identification Botanique. L'herbe si fragile se flétrit et meurt.";
+
+translate "Using your Botanical Identification skill, you inspect the plant. What an interesting specimen!"
+to french "A l'aide de vos connaissances en Identification Botanique, vous inspectez la plante. Quel spécimen intéréssant!";
+
+translate "Using your expert Botanical Identification skill, you inspect the plant. What an interesting specimen!"
+to french "A l'aide de votre maitrise de l'Identification Botanique, vous inspectez la plante. Quel spécimen intéréssant!";
+
+translate "Interesting plant, but unfortunately just a normal weed."
+to french "Intéréssant, mais ce n'est qu'une herbe normale.";
+
+translate "Botanist's Touch"
+to french "Touche Botanique";
+
+translate "Uproot using Botanist's Touch"
+to french "Déraciner la fleur grâce au Toucher du Botaniste";
+
+translate "The O1 is too still fragile from its forced growth. Wait another K1 to avoid killing the flower."
+to french "O1(cns) O1(ns) est encore trop fragile après cette croissance forcée. Attendez K1 pour ne pas tuer la fleur.";
+
+translate "Are you sure you want to uproot the flower?"
+to french "Voulez-vous vraiment déraciner la fleur?";
+
+translate "Allows mixing of specialized and exotic fertilizers."
+to french "Permet la préparation d'engrais spéciaux et exotiques.";
+
+translate "There is N1.N2% of a Khefre's Essence in the O1."
+to french "Il y a N1.N2% d'une essence de Khefre dans le O1(ns).";
+
+translate "Are you sure you want to mulch all the beetles in this chest? It will give N1 Khefre's Essence."
+to french "Etes-vous certain de vouloir ecrabouiller les scarabéés contenus dans ce casier? Cela vous donnera N1 Essences de Khefre.";
+
+translate "You mulch the beetles into N1 Khefre's Essence."
+to french "Vous réduisez les scarabées en N1 Essences de Khefre.";
+
+translate "You made one Khefre's Essence!"
+to french "Vous avez produit une Essence de Khefre!";
+
+translate "Enrich Fertilizer"
+to french "Enrichir de l'engrais";
+
+translate "Into O1"
+to french "en O1(ns)";
+
+//translate "Mix a batch of how many O1? (Max ///",Actor.Inventory[FlowerFertilizer],")"),1,Actor.Inventory[FlowerFertilizer]);
+//to french "
+
+translate "To make a batch of N1 O1 requires:"
+to french "Pour produire N1 O1(N1?np:ns), il vous faut:";
+
+translate "You mix up a batch of N1 O1."
+to french "Vous produisez N1 O1(N1?np:ns).";
+
+translate "This Rose of Ra is of strain K1"
+to french "Cette rose de Râ appartient à la variété K1";
+
+translate "Fertilize to encourage bulb budding"
+to french "Fertiliser pour permettre l'apparition de bulbes";
+
+translate "The Rose of Ra already has been fertilized. Wait another K1 to fertilize again."
+to french "Cette rose de Râ a déjà été fertilisée. Attendez encore K1 avant de la fertiliser à nouveau.";
+
+translate "A O1 takes about K1 to bloom. Check back."
+to french "O1(^uns) O1(ns) germe en K1. Revenez plus tard.";
+
+translate "The O1 already has been fertilized. Wait another K1 to fertilize again."
+to french "O1(^lns) O1(ns) vient d'être fertilisée. Attendez K1 avant la prochaine fertilisation.";
+
+translate "Sequence this Genome"
+to french "Séquencer ce génome";
+
+translate "Using your expert Botanical Identification skill, you inspect the plant. You can easily tell that this is a Sand Bloom bulb. You gather it for further study."
+to french "Grâce à vos connaissances en Identification Botanique, vous examinez la plante. Vous constatez aisément que c'est une Fleur des Sables. Vous la cueillez pour l'étudier de plus près.";
+
+translate "Interesting plant, but unfortunately just a normal weed."
+to french "Voilà une plante fort intéressante, mais ce n'est malheureusement qu'une herbe classique.";
+
+translate "You examine the plant. It possesses a fragrance that you can't quite place, but the plant's shape and size is unrecognizeable. You need at least Botanical Identification 3 to be able to gather this plant properly."
+to french "Vous examinez la plante. Vous peinez à identifier les effluves qu'elle dégage, et la forme de la plante ainsi que sa taille ne vous rappelle rien. Il vous faut le niveau 3 en Identification Botanique pour pouvoir cueillir l'herbe correctement.";
+
+translate "You examine the plant. It appears to be an Orchid of some kind, however without Perfuming, you can't accurately identify it. You are somewhat clumsy, and destroy the plant in the process of gathering it."
+to french "Vous examinez la plante. Cela ressemble à une Orchidée, cependant, avec vos connaissances limitées en Parfumerie, vous ne parvenez pas à l'identifier. Vous êtes quelque peu gauche, et vous abîmer la plante en essayant de la cueillir.";
+
+translate "Using your extremely high Botanical Identification skill, you inspect the plant. What a beautiful Orchid! You gather this for future study."
+to french "Grâce à votre très haut niveau en Identification Botanique, vous inspectez la plante. Quelle magnique Orchidée ! Vous la cueillez en vue d'une étude approfondie.";
+
+translate "This flower is dead, and cannot be fertilized."
+to french "Cette fleur est morte, et ne peut être fertilisée.";
+
+translate "Geb's Bounty Fertilizer"
+to french "Engrais Générosité de Geb";
+
+translate "Fertilize to encourage bulb budding - Geb's Bounty Fertilizer"
+to french "Fertiliser pour permettre l'apparition de bulbes - Engrais Générosité de Geb";
+
+translate "Geb's Tears"
+to french "Larmes de Geb";

@@ -1,0 +1,649 @@
+module mines_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Games **
+//**    (C)opyright 2002,2003 by MDO Games			           **
+//**                                                                       **
+//***************************************************************************
+//menues
+
+translate "Build a mine"
+to german "Baue eine Mine";
+
+translate "To build a Mine, you need: "
+to german "Um eine Mine zu bauen benötigst Du: ";
+
+translate "In this area, a Level-N1 mine is needed. It will require the following, including jugs along with the water: "
+to german "In diesem Gebiet ist eine Level-N1 Mine erforderlich. Dafür brauchst du folgende Sachen, einschließlich Krüge mit Wasser: ";
+
+translate "Projects/Build a mine"
+to german "Projekte/Diverses/Baue eine Mine";
+
+translate "Read Book"
+to german "Lese Buch";
+
+translate "Spin a Fragile Compass"
+to german "Schaffe einen zerbrechlichen Kompass";
+
+translate "Ore And Minerals, Volume One"
+to german "Erze und Mineralien Band Eins";
+
+translate "Ore And Minerals, Volume Two"
+to german "Erze und Mineralien Band Zwei";
+
+translate "Unusual Minerals, Volume One"
+to german "Ungewöhnliche. Mineralien Band Eins";
+
+translate "Unusual Minerals, Volume Two"
+to german "Ungewöhnliche Mineralien Band Zwei";
+
+translate "Work this mine"
+to german "Arbeite in dieser Mine";
+
+//objects
+
+translate SmallStone to german masculine
+{
+ swa "kleiner Stein";
+  sn "kleiner Stein"; sg "kleinen Steins"; sd "kleinen Stein"; sa "kleinen Stein";
+  pn "kleine Steine"; pg "kleinen Steine"; pd "kleinen Steinen"; pa "kleinen Steine";
+}
+translate MediumStone to german masculine
+{
+ swa "mittlerer Stein";
+  sn "mittlere Stein"; sg "mittleren Steins"; sd "mittleren Stein"; sa "mittleren Stein";
+  pn "mittlere Steine"; pg "mittleren Steine"; pd "mittleren Steinen"; pa "mittleren Steine";
+}
+translate LargeStone to german masculine
+{
+ swa "großer Stein";
+  sn "große Stein"; sg "großen Steins"; sd "großen Stein"; sa "großen Stein";
+  pn "große Steine"; pg "großen Steine"; pd "großen Steinen"; pa "großen Steine";
+}
+translate Mineral to german feminine
+{
+ swa "Mineral";
+  sn "Mineral"; sg "Minerals"; sd "Mineral"; sa "Mineral";
+  pn "Minerale"; pg "Minerale"; pd "Mineralen"; pa "Minerale";
+}
+translate Metal to german neuter
+{
+ swa "Metall";
+  sn "Metall"; sg "Metalls"; sd "Metall"; sa "Metall";
+  pn "Metalle"; pg "Metalle"; pd "Metallen"; pa "Metalle";
+}
+translate Ore to german neuter
+{
+ swa "Erz";
+  sn "Erz"; sg "Erzes"; sd "Erz"; sa "Erz";
+  pn "Erze"; pg "Erze"; pd "Erzen"; pa "Erze";
+}
+translate Dirt to german masculinecollective
+{
+ swa "Schmutz";
+  sn "Schmutz"; sg "Schmutzes"; sd "Schmutz"; sa "Schmutz";
+  pn "Schmutz"; pg "Schmutz"; pd "Schmutz"; pa "Schmutz";
+}
+translate Limestone to german masculine
+{
+ swa "Kalkstein";
+  sn "Kalkstein"; sg "Kalksteins"; sd "Kalkstein"; sa "Kalkstein";
+  pn "Kalksteine"; pg "Kalksteine"; pd "Kalksteinen"; pa "Kalksteine";
+}
+translate IronOre to german neuter
+{
+ swa "Eisenerz";
+  sn "Eisenerz"; sg "Eisenerzes"; sd "Eisenerz"; sa "Eisenerz";
+  pn "Eisenerze"; pg "Eisenerze"; pd "Eisenerze"; pa "Eisenerze";
+}
+translate CopperOre to german neuter
+{
+ swa "Kupfererz";
+  sn "Kupfererz"; sg "Kupfererzes"; sd "Kupfererz"; sa "Kupfererz";
+  pn "Kupfererze"; pg "Kupfererze"; pd "Kupfererzen"; pa "Kupfererze";
+}
+translate LithiumOre to german neuter
+{
+ swa "Lithiumerz";
+  sn "Lithiumerz"; sg "Lithiumerzes"; sd "Lithiumerz"; sa "Lithiumerz";
+  pn "Lithiumerze"; pg "Lithiumerze"; pd "Lithiumerzen"; pa "Lithiumerze";
+}
+translate TinOre to german neuter
+{
+ swa "Zinnerz";
+  sn "Zinnerz"; sg "Zinnerzes"; sd "Zinnerz"; sa "Zinnerz";
+  pn "Zinnerze"; pg "Zinnerze"; pd "Zinnerzen"; pa "Zinnerze";
+}
+translate AluminumOre to german neuter
+{
+ swa "Aluminiumerz";
+  sn "Aluminiumerz"; sg "Aluminiumerzes"; sd "Aluminiumerz"; sa "Aluminiumerz";
+  pn "Aluminiumerze"; pg "Aluminiumerze"; pd "Aluminiumerzen"; pa "Aluminiumerze";
+}
+translate GoldOre to german neuter
+{
+ swa "Golderz";
+  sn "Golderz"; sg "Golderzes"; sd "Golderz"; sa "Golderz";
+  pn "Golderze"; pg "Golderze"; pd "Golderzen"; pa "Golderze";
+}
+translate UraniumOre to german neuter
+{
+ swa "Uraniumerz";
+  sn "Uraniumerz"; sg "Uraniumerzes"; sd "Uraniumerz"; sa "Uraniumerz";
+  pn "Uraniumerze"; pg "Uraniumerze"; pd "Uraniumerzen"; pa "Uraniumerze";
+}
+translate ZincOre to german neuter
+{
+ swa "Zinkerz";
+  sn "Zinkerz"; sg "Zinkerzes"; sd "Zinkerz"; sa "Zinkerz";
+  pn "Zinkerze"; pg "Zinkerze"; pd "Zinkerzen"; pa "Zinkerze";
+}
+translate AntimonyOre to german neuter
+{
+ swa "Antimonerz";
+  sn "Antimonerz"; sg "Antimonerzes"; sd "Antimonerz"; sa "Antimonerz";
+  pn "Antimonerze"; pg "Antimonerze"; pd "Antimonerzen"; pa "Antimonerze";
+}
+translate LeadOre to german neuter
+{
+ swa "Bleierz";
+  sn "Bleierz"; sg "Bleierzes"; sd "Bleierz"; sa "Bleierz";
+  pn "Bleierze"; pg "Bleierze"; pd "Bleierzen"; pa "Bleierze";
+}
+translate Iron to german neutercollective
+{
+ swa "Eisen";
+  sn "Eisen"; sg "Eisens"; sd "Eisen"; sa "Eisen";
+  pn "Eisen"; pg "Eisen"; pd "Eisen"; pa "Eisen";
+}
+translate Copper to german neutercollective
+{
+ swa "Kupfer";
+  sn "Kupfer"; sg "Kupfers"; sd "Kupfer"; sa "Kupfer";
+  pn "Kupfer"; pg "Kupfer"; pd "Kupfer"; pa "Kupfer";
+}
+translate Lithium to german neutercollective
+{
+ swa "Lithium";
+  sn "Lithium"; sg "Lithium"; sd "Lithium"; sa "Lithium";
+  pn "Lithium"; pg "Lithium"; pd "Lithium"; pa "Lithium";
+}
+translate Tin to german masculinecollective
+{
+ swa "Zinn";
+  sn "Zinn"; sg "Zinns"; sd "Zinn"; sa "Zinn";
+  pn "Zinn"; pg "Zinn"; pd "Zinn"; pa "Zinn";
+}
+translate Aluminum to german neutercollective
+{
+ swa "Aluminium";
+  sn "Aluminium"; sg "Aluminium"; sd "Aluminium"; sa "Aluminium";
+  pn "Aluminium"; pg "Aluminium"; pd "Aluminium"; pa "Aluminium";
+}
+translate Gold to german neutercollective
+{
+ swa "Gold";
+  sn "Gold"; sg "Goldes"; sd "Gold"; sa "Gold";
+  pn "Gold"; pg "Gold"; pd "Gold"; pa "Gold";
+}
+translate Uranium to german neutercollective
+{
+ swa "Uranium";
+  sn "Uranium"; sg "Uraniums"; sd "Uranium"; sa "Uranium";
+  pn "Uranium"; pg "Uranium"; pd "Uranium"; pa "Uranium";
+}
+translate Zinc to german neutercollective
+{
+ swa "Zink";
+  sn "Zink"; sg "Zinkes"; sd "Zink"; sa "Zink";
+  pn "Zink"; pg "Zink"; pd "Zink"; pa "Zink";
+}
+translate AntimonyOre to german neutercollective
+{
+ swa "Antimon";
+  sn "Antimon"; sg "Antimons"; sd "Antimon"; sa "Antimon";
+  pn "Antimon"; pg "Antimon"; pd "Antimon"; pa "Antimon";
+}
+translate Lead to german neutercollective
+{
+ swa "Blei";
+  sn "Blei"; sg "Bleis"; sd "Blei"; sa "Blei";
+  pn "Blei"; pg "Blei"; pd "Blei"; pa "Blei";
+}
+translate Mine to german feminine
+{
+ swa "Mine";
+  sn "Mine"; sg "Mine"; sd "Mine"; sa "Mine";
+  pn "Minen"; pg "Minen"; pd "Minen"; pa "Minen";
+}
+translate Diamond to german masculine
+{
+ swa "Diamant";
+  sn "Diamant"; sg "Diamants"; sd "Diamant"; sa "Diamant";
+  pn "Diamanten"; pg "Diamanten"; pd "Diamanten"; pa "Diamanten";
+}
+translate SmallDiamond to german masculine
+{
+ swa "kleiner Diamant";
+  sn "kleine Diamant"; sg "kleinen Diamants"; sd "kleinen Diamant"; sa "kleinen Diamant";
+  pn "kleine Diamanten"; pg "kleine Diamanten"; pd "kleine Diamanten"; pa "kleine Diamanten";
+}
+translate MediumDiamond to german masculine
+{
+ swa "mittlerer Diamant";
+  sn "mittlere Diamant"; sg "mittleren Diamants"; sd "mittleren Diamant"; sa "mittleren Diamant";
+  pn "mittleren Diamanten"; pg "mittleren Diamanten"; pd "mittleren Diamanten"; pa "mittleren Diamanten";
+}
+translate LargeDiamond to german masculine
+{
+ swa "großer Diamant";
+  sn "große Diamant"; sg "großen Diamants"; sd "großen Diamant"; sa "großen Diamant";
+  pn "großen Diamanten"; pg "großen Diamanten"; pd "großen Diamanten"; pa "großen Diamanten";
+}
+translate HugeDiamond to german masculine
+{
+ swa "riesiger Diamant";
+  sn "riesige Diamant"; sg "riesigen Diamants"; sd "riesigen Diamant"; sa "riesigen Diamant";
+  pn "riesigen Diamanten"; pg "riesigen Diamanten"; pd "riesigen Diamanten"; pa "riesigen Diamanten";
+}
+
+translate Ruby to german masculine
+{
+ swa "Rubin";
+  sn "Rubin"; sg "Rubins"; sd "Rubin"; sa "Rubin";
+  pn "Rubine"; pg "Rubine"; pd "Rubinen"; pa "Rubine";
+}
+translate SmallRuby to german masculine
+{
+ swa "kleiner Rubin";
+  sn "kleine Rubin"; sg "kleinen Rubins"; sd "kleinen Rubin"; sa "kleinen Rubin";
+  pn "kleinen Rubine"; pg "kleinen Rubine"; pd "kleinen Rubinen"; pa "kleinen Rubine";
+}
+translate MediumRuby to german masculine
+{
+ swa "mittlerer Rubin";
+  sn "mittlere Rubin"; sg "mittleren Rubins"; sd "mittleren Rubin"; sa "mittleren Rubin";
+  pn "mittleren Rubine"; pg "mittleren Rubine"; pd "mittleren Rubinen"; pa "mittleren Rubine";
+}
+translate LargeRuby to german masculine
+{
+ swa "großer Rubin";
+  sn "große Rubin"; sg "großen Rubins"; sd "großen Rubin"; sa "großen Rubin";
+  pn "großen Rubine"; pg "großen Rubine"; pd "großen Rubinen"; pa "großen Rubine";
+}
+translate HugeRuby to german masculine
+{
+ swa "riesiger Rubin";
+  sn "riesige Rubin"; sg "riesigen Rubins"; sd "riesigen Rubin"; sa "riesigen Rubin";
+  pn "riesigen Rubine"; pg "riesigen Rubine"; pd "riesigen Rubinen"; pa "riesigen Rubine";
+}
+
+translate Emerald to german masculine
+{
+ swa "Smaragd";
+  sn "Smaragd"; sg "Smaragds"; sd "Smaragd"; sa "Smaragd";
+  pn "Smaragde"; pg "Smaragde"; pd "Smaragden"; pa "Smaragde";
+}
+translate SmallEmerald to german masculine
+{
+ swa "kleiner Smaragd";
+  sn "kleine Smaragd"; sg "kleinen Smaragds"; sd "kleinen Smaragd"; sa "kleinen Smaragd";
+  pn "kleinen Smaragde"; pg "kleinen Smaragde"; pd "kleinen Smaragden"; pa "kleinen Smaragde";
+}
+translate MediumEmerald to german masculine
+{
+ swa "mittlerer Smaragd";
+  sn "mittlere Smaragd"; sg "mittleren Smaragds"; sd "mittleren Smaragd"; sa "mittleren Smaragd";
+  pn "mittleren Smaragde"; pg "mittleren Smaragde"; pd "mittleren Smaragden"; pa "mittleren Smaragde";
+}
+translate LargeEmerald to german masculine
+{
+ swa "großer Smaragd";
+  sn "große Smaragd"; sg "großen Smaragds"; sd "großen Smaragd"; sa "großen Smaragd";
+  pn "großen Smaragde"; pg "großen Smaragde"; pd "großen Smaragden"; pa "großen Smaragde";
+}
+translate HugeEmerald to german masculine
+{
+ swa "riesiger Smaragd";
+  sn "riesige Smaragd"; sg "riesigen Smaragds"; sd "riesigen Smaragd"; sa "riesigen Smaragd";
+  pn "riesigen Smaragde"; pg "riesigen Smaragde"; pd "riesigen Smaragden"; pa "riesigen Smaragde";
+}
+
+translate Sapphire to german masculine
+{
+ swa "Saphir";
+  sn "Saphir"; sg "Saphirs"; sd "Saphir"; sa "Saphir";
+  pn "Saphire"; pg "Saphire"; pd "Saphiren"; pa "Saphire";
+}
+translate SmallSapphire to german masculine
+{
+ swa "kleiner Saphir";
+  sn "kleine Saphir"; sg "kleinen Saphirs"; sd "kleinen Saphir"; sa "kleinen Saphir";
+  pn "kleinen Saphire"; pg "kleinen Saphire"; pd "kleinen Saphiren"; pa "kleinen Saphire";
+}
+translate MediumSapphire to german masculine
+{
+ swa "mittlerer Saphir";
+  sn "mittlere Saphir"; sg "mittleren Saphirs"; sd "mittleren Saphir"; sa "mittleren Saphir";
+  pn "mittleren Saphire"; pg "mittleren Saphire"; pd "mittleren Saphiren"; pa "mittleren Saphire";
+}
+translate LargeSapphire to german masculine
+{
+ swa "großer Saphir";
+  sn "große Saphir"; sg "großen Saphirs"; sd "großen Saphir"; sa "großen Saphir";
+  pn "großen Saphire"; pg "großen Saphire"; pd "großen Saphiren"; pa "großen Saphire";
+}
+translate HugeSapphire to german masculine
+{
+ swa "riesiger Saphir";
+  sn "riesige Saphir"; sg "riesigen Saphirs"; sd "riesigen Saphir"; sa "riesigen Saphir";
+  pn "riesigen Saphire"; pg "riesigen Saphire"; pd "riesigen Saphiren"; pa "riesigen Saphire";
+}
+
+translate Quartz to german masculine
+{
+ swa "Quarz";
+  sn "Quarz"; sg "Quarzes"; sd "Quarz"; sa "Quarz";
+  pn "Quarze"; pg "Quarze"; pd "Quarzen"; pa "Quarze";
+}
+translate SmallQuartz to german masculine
+{
+ swa "kleiner Quarz";
+  sn "kleine Quarz"; sg "kleinen Quarzes"; sd "kleinen Quarz"; sa "kleinen Quarz";
+  pn "kleinen Quarze"; pg "kleinen Quarze"; pd "kleinen Quarzen"; pa "kleinen Quarze";
+}
+translate MediumQuartz to german masculine
+{
+ swa "mittlerer Quarz";
+  sn "mittlere Quarz"; sg "mittleren Quarzes"; sd "mittleren Quarz"; sa "mittleren Quarz";
+  pn "mittleren Quarze"; pg "mittleren Quarze"; pd "mittleren Quarzen"; pa "mittleren Quarze";
+}
+translate LargeQuartz to german masculine
+{
+ swa "großer Quarz"; 
+  sn "große Quarz"; sg "großen Quarzes"; sd "großen Quarz"; sa "großen Quarz";
+  pn "großen Quarze"; pg "großen Quarze"; pd "großen Quarzen"; pa "großen Quarze";
+}
+translate HugeQuartz to german masculine
+{
+ swa "riesiger Quarz";
+  sn "riesige Quarz"; sg "riesigen Quarzes"; sd "riesigen Quarz"; sa "riesigen Quarz";
+  pn "riesigen Quarze"; pg "riesigen Quarze"; pd "riesigen Quarzen"; pa "riesigen Quarze";
+}
+
+translate Topaz to german masculine
+{
+ swa "Topas";
+  sn "Topas"; sg "Topases"; sd "Topas"; sa "Topas";
+  pn "Topas"; pg "Topas"; pd "Topas"; pa "Topas";
+}
+translate SmallTopaz to german masculine
+{
+ swa "kleiner Topas";
+  sn "kleine Topas"; sg "kleinen Topases"; sd "kleinen Topas"; sa "kleinen Topas";
+  pn "kleinen Topas"; pg "kleinen Topas"; pd "kleinen Topas"; pa "kleinen Topas";
+}
+translate MediumTopaz to german masculine
+{
+ swa "mittlerer Topas";
+  sn "mittlere Topas"; sg "mittleren Topases"; sd "mittleren Topas"; sa "mittleren Topas";
+  pn "mittleren Topas"; pg "mittleren Topas"; pd "mittleren Topas"; pa "mittleren Topas";
+}
+translate LargeTopaz to german masculine
+{
+ swa "großer Topas";
+  sn "große Topas"; sg "großen Topases"; sd "großen Topas"; sa "großen Topas";
+  pn "großen Topas"; pg "großen Topas"; pd "großen Topas"; pa "großen Topas";
+}
+translate HugeTopaz to german masculine
+{
+ swa "riesiger Topas";
+  sn "riesige Topas"; sg "riesigen Topases"; sd "riesigen Topas"; sa "riesigen Topas";
+  pn "riesigen Topas"; pg "riesigen Topas"; pd "riesigen Topas"; pa "riesigen Topas";
+}
+translate Coal to german femininecollective
+{
+ swa "Kohle";
+  sn "Kohle"; sg "Kohle"; sd "Kohle"; sa "Kohle";
+  pn "Kohle"; pg "Kohle"; pd "Kohlen"; pa "Kohle";
+}
+
+translate Book to german neuter
+{
+ swa "Buch";
+  sn "Buch"; sg "Buchs"; sd "Buch"; sa "Buch";
+  pn "Bücher"; pg "Bücher"; pd "Büchern"; pa "Bücher";
+}
+
+translate OreAndMineralsVolume1 to german neutercollective
+{
+ swa "Erze und Mineralien, Band 1";
+  sn "Erze und Mineralien, Band 1"; sg "Erze und Mineralien, Band 1"; sd "Erze und Mineralien, Band 1"; sa "Erze und Mineralien, Band 1";
+  pn "Erze und Mineralien, Band 1"; pg "Erze und Mineralien, Band 1"; pd "Erze und Mineralien, Band 1"; pa "Erze und Mineralien, Band 1";
+}
+translate OreAndMineralsVolume2 to german neutercollective
+{
+ swa "Erze und Mineralien, Band 2";
+  sn "Erze und Mineralien, Band 2"; sg "Erze und Mineralien, Band 2"; sd "Erze und Mineralien, Band 2"; sa "Erze und Mineralien, Band 2";
+  pn "Erze und Mineralien, Band 2"; pg "Erze und Mineralien, Band 2"; pd "Erze und Mineralien, Band 2"; pa "Erze und Mineralien, Band 2";
+}
+
+translate UnusualMineralsVolume1 to german neutercollective
+{
+ swa "Ung. Mineralien, Band 1";
+  sn "Ung. Mineralien, Band 1"; sg "Ung. Mineralien, Band 1"; sd "Ung. Mineralien, Band 1"; sa "Ung. Mineralien, Band 1";
+  pn "Ung. Mineralien, Band 1"; pg "Ung. Mineralien, Band 1"; pd "Ung. Mineralien, Band 1"; pa "Ung. Mineralien, Band 1";
+}
+
+translate UnusualMineralsVolume2 to german neutercollective
+{
+ swa "Ung. Mineralien, Band 2";
+  sn "Ung. Mineralien, Band 2"; sg "Ung. Mineralien, Band 2"; sd "Ung. Mineralien, Band 2"; sa "Ung. Mineralien, Band 2";
+  pn "Ung. Mineralien, Band 2"; pg "Ung. Mineralien, Band 2"; pd "Ung. Mineralien, Band 2"; pa "Ung. Mineralien, Band 2";
+}
+
+
+translate FragileCompass to german masculine
+{
+ swa "zerbrechlicher Kompass";
+  sn "zerbrechliche Kompass"; sg "zerbrechlichen Kompasses"; sd "zerbrechlichen Kompass"; sa "zerbrechlichen Kompass";
+  pn "zerbrechlichen Kompasse"; pg "zerbrechlichen Kompasse"; pd "zerbrechlichen Kompasse"; pa "zerbrechlichen Kompasse";
+}
+
+//texts
+
+translate "This Level N1 mine has accumulated N2 deben of O1"
+to german "Diese Level N1 Mine hat N2 Einheiten O1(sn) angesammelt.";
+
+translate "Your mind swims from poison. You can't concentrate enough to dowse."
+to german "Deine Gedanken verschwimmen vom Gift. Du kannst Dich nicht genug konzentrieren, um Mineralien aufzuspüren.";
+
+translate "You concentrate on the earth below your feet..."
+to german "Du konzentrierst Dich auf die Erde unter Deinen Füßen...";
+
+translate "something you don't quite recognize"
+to german "Etwas was Du nicht kennst";
+
+translate "Dowsing is not allowed during development sessions. If this is supposed to be an official session, please submit a bug report."
+to german "Wünschelrutengang ist während Entwicklungssitzungen nicht erlaubt. Wenn dies eine offene Sitzung ist, schreibe bitte einen Bugreport.";
+
+translate "You detect nothing but dirt below your feet."
+to german "Du entdeckst nichts außer Schmutz unter Deinen Füßen.";
+
+translate "You detect an underground vein of O1."
+to german "Du entdeckst eine unterirdische Ader von O1(sn).";
+
+translate "Mining is not allowed during development sessions. If this is supposed to be an official session, please submit a bug report."
+to german "Minenbau ist während Entwicklungssitzungen nicht erlaubt. Wenn dies eine offene Sitzung ist, schreibe bitte einen Bugreport.";
+
+translate "The mine would be too close to another mine - that's dangerous."
+to german "Diese Mine würde zu nah an einer Anderen sein - das ist gefährlich.";
+
+translate "In this area, a Level-N1 mine is needed. It will require the following, including jugs along with the water: "
+to german "In dieser Gegend wird eine Level-N1 Mine benötigt. Es benötigt das folgende, inklusive Krügen mit Wasser: ";
+translate "N1 O1"
+to german "N1 O1(N1?pn:sn)";
+
+translate "Your mine discovered nothing but dirt. The Dowsing skill may be useful."
+to german "Deine Mine fördert nichts als Schmutz. Die Wünschelruten-Fertigkeit wäre nützlich.";
+
+translate "You have built a O1 mine. It is now ready to operate."
+to german "Du hast eine O1(sn) Mine gebaut. Sie ist nun betriebsbereit.";
+
+translate "Automate this mine"
+to german "Automatisiere diese Mine";
+
+translate "To automate a mine, you need: "
+to german "Um diese Mine zu automatisieren benötigst Du: ";
+translate "N1 O1"
+to german "N1 O1(N1?pn:sn)";
+
+translate "The mine is working automatically."
+to german "Die Mine arbeitet automatisch.";
+
+translate "The mine collapsed!"
+to german "Die Mine ist kollabiert!";
+
+translate "The mine has become unstable. Dig to deeper ground to continue work."
+to german "Die Mine ist instabil. Grabe in tieferem Boden, um die Arbeit fortzusetzen.";
+
+translate "While working the mine, you uncover several pieces of Flint."
+to german "Während der Minenarbeit entdeckst Du einige Stücke Feuerstein.";
+
+translate "While working the mine, you uncover a nice round medium stone."
+to german "Während der Minenarbeit entdeckst Du einen mittleren Stein.";
+
+translate "While Working the mine, you discover a vein of Coal"
+to german "Während du in der Mine arbeitest, entdeckst Du eine Kohleader.";
+
+translate "You work to loosen material from the mine."
+to german "Du holst loses Material aus der Mine.";
+
+translate "While working the mine, you discovered a O1!"
+to german "Du entdeckst einen O1(sa) bei Deiner Minenarbeit!";
+
+translate "Start producing O1"
+to german "Beginne, O1(sn) zu produzieren";
+
+translate "The mine's holding area is full."
+to german "Das Lager der Mine ist voll.";
+
+translate "Stop this mine"
+to german "Halte die Mine an";
+
+translate "Stash how many O1? (Max N1)"
+to german "Wieviel O1(pn) hineinlegen? (Max N1)";
+
+translate "Repair and Expand this mine"
+to german "Repariere und untersuche die Mine";
+
+translate "Expand this mine"
+to german "Erweitere die Mine";
+
+translate "Normally you don't want to expand a mine unless it has collapsed. There may be exceptions, such as if you're trying to dig for coal, but you're usually wasting resources."
+to german "Eigentlich solltest Du die Mine nicht erweitern, bis sie kollabiert ist. Es gibt Ausnahmen, z. B. wenn Du versuchst, Kohle zu finden, aber normalerweise verschwendest Du Ressourcen.";
+
+translate "Examining the mine..."
+to german "Untersuche die Mine...";
+
+translate "To find more ore you must expand from level N1 to the vein at level N2. You must stash: "
+to german "Um mehr Erz zu finden, mußt Du die Mine von Level N1 zur Ader im Level N2 erweitern. Lege hierfür ab: ";
+translate "N1 O1"
+to german "N1 O1(N1?pn:sn)";
+
+translate "To expand this mine from level N1 to level N2, you must stash: "
+to german "Um die Mine vom Level N1 zum Level N2 zu erweitern, mußt Du Folgendes ablegen: ";
+
+translate "This mine is now in good shape, and at depth N1"
+to german "Diese Mine ist nun im guten Zustand und in einer Tiefe von N1";
+
+translate "Mine at N1 N2 N3 is O1"
+to german "Mine bei N1 N2 N3 ist eine O1(sn)";
+
+translate "The compass spins violently, tearing the needle from the delicate filament."
+to german "Der Kompass dreht sich laut, die Nadel reißt von dem feinen Faden.";
+
+translate "You notice no unusual motion to the compass."
+to german "Du bemerkst eine unnormale Bewegung im Kompass.";
+
+translate "Ore and Minerals, Volume 1, by King Octec"
+to german "Erze und Mineralien, Band 1, von König Octec";
+
+translate "Copper Ore, according to my calculations, occurs over roughly 3% of Egypt. Although nothing short of digging randomly for it has been found to work in an unexplored area, once a single mine has been located, other good locations are adjacent."
+to german "Nach meinen Berechnungen kommt Kupfererz in 3% des ägyptischen Untergrundes vor. Gelegentliche Suchen in unbekannten Gebieten hat zu keinem Erfolg geführt, aber wenn eine Kupfermine entdeckt wurde, gab es in der Nähe noch andere gute Orte.";
+
+translate "Iron Ore is easier, even though it only covers 1% of Egypt. (The book goes on to describe an involved procedure whereby huge amounts of silver and something referred to as heatmetal are refined into a 'fragile compass.')"
+to german "Eisenerz findet man leichter, auch wenn es nur in 1% des Landes zu finden ist. (Das Buch beschreibt, wie große Mengen von Silber und Etwas, das als heißes Metall beschrieben wird, zu einem 'zerbrechlichen Kompass' gebaut werden können.)";
+
+translate "Aluminum exists in the golden spine area of Egypt, but no reliable methods of discovery are known."
+to german "Aluminium existiert im Bereich des goldenen Rückrades von Ägypten, aber keine nützlichen Methoden, um es zu finden, sind bekannt.";
+
+translate "All copies of this book have a fragile compass inserted into their spine."
+to german "Alle Kopien dieses Buches haben einen zerbrechlichen Kompass in ihrem Buchrücken.";
+
+translate "Ore and Minerals, Volume 2, by King Octec"
+to german "Erze und Mineralien, Band 2, von König Octec";
+
+translate "Copper Ore, according to my calculations, occurs over roughly 3% of Egypt. Although nothing short of digging randomly for it has been found to work in an unexplored area, once a single mine has been located, other good locations are adjacent."
+to german "Nach meinen Berechnungen kommt Kupfererz in 3% des ägyptischen Untergrundes vor. Gelegentliche Suchen in unbekannten Gebieten hat zu keinem Erfolgt geführt, aber wenn eine Kupfermine entdeckt wurde, gab es in der Nähe noch andere gute Orte.";
+
+translate "Iron Ore is easier, even though it only covers 1% of Egypt. (The book goes on to describe an involved procedure whereby huge amounts of silver and something referred to as heatmetal are refined into a 'fragile compass.')"
+to german "Eisenerz findet man leichter, auch wenn es nur in 1% des Landes zu finden ist. (Das Buch beschreibt, wie große Mengen von Silber und Etwas, das als heißes Metall beschrieben wird, zu einem 'zerbrechlichen Kompass' gebaut werden können.)";
+
+translate "Iron and Copper run in long veins, roughly 500 feet wide. Aluminum exists, with 50% probability, where veins of iron and copper cross."
+to german "Eisen und Kupfer verläuft in langen Adern, bis 500 Fuß weit. Aluminium existiert mit einer 50% Chance dort, wo sich Adern von Eisen und Kupfer treffen.";
+
+translate "All copies of this book have a fragile compass inserted into their spine."
+to german "Alle Kopien dieses Buches haben einen zerbrechlichen Kompass in ihrem Buchrücken.";
+
+
+translate "Unusual Minerals, Volume 1. A Special Report. While certain ores are found deep within the earth, only accessibly by mine, others can be found at more shallow depths. For instance, Gypsum and Bauxite deposits each cover more than ten percent of Egypt, and will turn up with increasing frequency when digging for cuttable stones, provided you select the right spot to dig. "
+to german "Ung. Mineralien Band 1. Ein Spezialbericht. Während viele Erze nur mit Minen in der Tiefe der Erde gefunden werden können, können andere direkt unter der Oberfläche verborgen sein. Bauxit und Gips machen schon mehr als 10 Prozent der Oberfläche Ägyptens aus und werden beim Graben nach Schneidbaren Steinen immer öfter gefunden - vorausgesetzt, Du gräbst an der richtigen Stelle. ";
+
+translate "Unusual Minerals, Volume 2. A Special Report. Gypsum and Bauxite, while being the most common minerals found just below ground are not the only ones. For instance, samples of a blood-red sand have occasionally turned up. Some of these minerals may have uses, while other are best considered novelties for eccentric collectors."
+to german "Ung. Mineralien Band 2. Ein Spezialbericht. Gips und Bauxit, so weit sie auch verbreitet sind, sind nicht die einzige Mineralien die man finden kann. Es wurde zum Beispiel auch schon blutroter Sand gefunden. Einige der Mineralien haben vielfältige Anwendungsgebiete, während andere nur Unikate für begeisterte Sammler sind.";
+
+translate "You can only do this every 5 minutes."
+to german "Du kannst das nur alle 5 Minuten tun.";
+
+translate "Check this mine for instability"
+to german "Prüfe Mine auf Instabilität";
+
+translate "The mine appears totally stable - no other mines are nearby."
+to german "Die Mine sieht sehr stabil aus - keine Andere ist in der Nähe.";
+
+translate "This mine looks stable. It is N1 feet from the nearest mine."
+to german "Die Mine sieht stabil aus. Sie ist N1 Fuß von der nächsten Mine entfernt.";
+
+translate "This mine is unstabe and could be torn down. It is N1 feet from the nearest mine."
+to german "Diese Mine ist instabil und könnte einstürzen. Sie ist N1 Fuß von der nächsten anderen Mine entfernt.";
+
+translate MagnesiumOre to german masculine
+{
+  swa "Magnesiumerz";
+  sn "Magnesiumerz"; sg "Magnesiumerzes"; sd "Magnesiumerz"; sa "Magnesiumerz";
+  pn "Magnesiumerze"; pg "Magnesiumerze"; pd "Magnesiumerzen"; pa "Magnesiumerze";
+}
+
+translate "Set Worker Keeps Ratio"
+to german "Setze Arbeiterlohn";
+
+translate "How many pulls, per 10, shall a non-owner of this mine keep?"
+to german "Wieviele Ladungen von jeweils 10 soll der Arbeiter behalten können?";
+
+translate "Workers will keep N1 pulls per 10 of the mine's output."
+to german "Arbeiter behalten N1 Ladungen von 10.";
+
+translate MineRecovery to german feminine
+{
+	sn "Minenwiederherstellung"; pn "Minenwiederherstellung";
+	}
+
+translate "Allows complete recovery and replenishment of mines, when undisturbed."
+to german "Erlaubt die Wiederherstellung von Minen, wenn ungestört.";
+
+translate ",MineRecovery (Completed)"
+to german "Minenwiederherstellung (Komplett)";
+

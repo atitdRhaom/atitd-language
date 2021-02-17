@@ -1,0 +1,22 @@
+module programmer_fre;
+
+translate "Turn off Programmer menu (F10)"
+to french "Désactiver le menu Programmeur (F10)";
+
+translate "Turn on Programmer menu (F10)"
+to french "Activer le menu Programmeur (F10)";
+
+translate "File not found"
+to french "Fichier introuvable";
+
+translate "Compiling..."
+to french "Compilation...";
+translate "Compilation in progress."
+to french "Compilation en cours.";
+
+translate "Compilation Successful"
+to french "Compilation réussie";
+
+translate "Comile local file..."
+to french "Compilation de fichier local...";
+

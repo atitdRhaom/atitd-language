@@ -1,0 +1,1027 @@
+Module goals_spa;
+
+translate tpromotion to spanish feminine
+{ ns "Prueba de la promoción"; np "Pruebas de la promoción";}
+
+translate Leadership to spanish masculine
+{ ns "Liderazgo"; np "Liderazgo";}
+
+translate ConflictInit to spanish masculine
+{ ns "principios de el Conflicto"; np "principios de el Conflicto";}
+	
+translate WorshipInit to spanish masculine
+{ ns "principios de la Adoración"; np "principios de la Adoración";}
+	
+translate GreatWorkTst to spanish feminine
+{ ns "Grandes obras"; np "Grandes obras";}
+
+translate Initiation to spanish feminine
+{ ns "Iniciación"; np "Iniciaciónes";}
+
+translate Pathmaker to spanish feminine
+{ ns "Prueba de el Canal"; np "Prueba de el Canal";}
+
+translate Venery to spanish feminine
+{ ns "Prueba de la Cacería"; np "Prueba de la Cacería";}
+
+translate Tomb to spanish feminine
+{ ns "Prueba de la Tumba del Inmortal"; np "Prueba de la Tumba del Inmortal";}
+
+translate Pulse to spanish feminine
+{ ns "Prueba de el Pulso del Pueblo"; np "Prueba de Pulso del Pueblo";}
+
+translate SetsLadder to spanish feminine
+{ ns "Prueba de La Escalera de Set"; np "Prueba de La Escalera de Set";}
+	
+translate EmptyHand to spanish feminine
+{ ns "Prueba de la Mano Vacía"; np "Prueba de la Mano Vacía";}
+
+translate Life to spanish feminine
+{ ns "Prueba de la Vida"; np "Prueba de la Vida";}
+
+translate LesserPyramids to spanish feminine
+{ ns "Prueba de la Pirámide de el Pueblo"; np "Pirámide de el Pueblo";} 
+
+translate Funerary to spanish feminine
+{ ns "Prueba de el Templo Funerario"; np "Prueba de el Templo Funerario";}
+
+translate Phoenix to spanish feminine
+{ ns "Prueba de Siete Fénix"; np "Prueba de Siete Fénix";}
+
+translate Scarabs to spanish feminine
+{ ns "Prueba de los Niños de Khefre"; np "Prueba de los Niños de Khefre";}
+
+translate Flight to spanish feminine
+{ ns "Prueba de el Vuelo Aéreo"; np "Prueba de el Vuelo Aéreo";}
+
+translate Windsong to spanish feminine
+{ ns "Prueba de la Canción del Viento"; np "Prueba de la Canción del Viento";}
+
+translate RaeliMosaic to spanish feminine
+{ ns "Prueba de Mosaico Raeli"; np "Prueba de Mosaico Raeli";}
+
+translate Bedouin to spanish feminine
+{ ns "Prueba de el Beduino"; np "Prueba de el Beduino";}
+
+translate Safari to spanish feminine
+{ ns "Prueba de el Safari"; np "Prueba de el Safari";}
+
+translate Banquet to spanish feminine
+{ ns "Prueba de el Festín de los Sentidos"; np "Prueba de el Festín de los Sentidos";}
+
+translate Acrobat to spanish feminine
+{ ns "Prueba de el Acróbata"; np "Prueba de el Acróbata";}
+
+translate DarkestNight to spanish feminine
+{ ns "Prueba de la Noche más Oscura"; np "Prueba de la Noche más Oscura";}
+
+translate Reason to spanish feminine
+{ ns "Prueba de Razón"; np "Prueba de Razón";}
+
+translate Telepathy to spanish feminine
+{ ns "Prueba de Telepatía"; np "Prueba de Telepatía";}
+
+translate Yokir to spanish feminine
+{ ns "Prueba de Yokir"; np "Prueba de Yokir";}
+
+translate Kanivan to spanish feminine
+{ ns "Prueba de Kanivan Tak"; np "Prueba de Kanivan Tak";}
+
+translate RiteOfCommand to spanish feminine
+{ ns "Prueba du Rito de Ordenar"; np "Prueba du Rito de Ordenar";}
+
+translate HeketsRake to spanish feminine
+{ ns "Prueba de Rastrillo de Heket"; np "Prueba de Rastrillo de Heket";}
+
+translate KingsConvoy to spanish feminine
+{ ns "Prueba de El Convoy del Rey"; np "Prueba de El Convoy del Rey";}
+
+translate Zhadu to spanish feminine
+{ ns "Prueba de Zhadu"; np "Prueba de Zhadu";}
+
+translate Reflection to spanish feminine
+{ ns "Prueba de la Reflexión"; np "Prueba de la Reflexión";}
+
+translate Mentorship to spanish feminine
+{ ns "Prueba de el Guía"; np "Prueba de el Guía";}
+
+translate Host to spanish feminine
+{ ns "Prueba de el Anfitrión"; np "Prueba de el Anfitrión";}
+
+translate Trust to spanish feminine
+{ ns "Prueba de Confianza"; np "Prueba de Confianza";}
+
+translate CoveredCartouche to spanish feminine
+{ ns "Prueba de Cartela Cubierta"; np "Prueba de Cartela Cubierta";}
+
+translate Visions to spanish feminine
+{ ns "Prueba des Visiones"; np "Prueba des Visiones";}
+
+translate Pilgrim to spanish feminine
+{ ns "Prueba de el Peregrinaje"; np "Prueba de el Peregrinaje";}
+
+translate HumblePriests to spanish feminine
+{ ns "Prueba de los Sacerdotes Humildes"; np "Prueba de los Sacerdotes Humildes";}
+
+translate Festivals to spanish feminine
+{ ns "Prueba de los Festivales"; np "Prueba de los Festivales";}
+
+translate Beacons to spanish feminine
+{ ns "Prueba de Balizas"; np "Prueba de Balizas";}
+
+translate Critic to spanish feminine
+{ ns "Prueba de el Crítico"; np "Prueba de el Crítico";}
+
+translate Archaeology to spanish feminine
+{ ns "Arqueología"; np "Arqueología";}
+
+translate DancingWaters to spanish feminine
+{ ns "Prueba de las Aguas que Bailan"; np "Prueba de las Aguas que Bailan";}
+
+translate "Old Egypt"
+to spanish "Antiguo Egipto";
+
+translate "The Discipline of Architecture"
+to spanish "La disciplina de la Arquitectura";
+translate "The discipline of The Human Body"
+to spanish "La disciplina de el Cuerpo Humano";
+translate "The discipline of Harmony"
+to spanish "La disciplina de la Armonía";
+translate "The discipline of Leadership"
+to spanish "La disciplina de Liderazgo";
+translate "The discipline of Thought"
+to spanish "La disciplina de el Pensamiento";
+translate "The discipline of Worship"
+to spanish "La disciplina de la Adoración";
+
+translate "You must learn the basic skills of a Citizen."
+to spanish "Usted debe aprender las habilidades básicas de un Ciudadano.";
+translate "You can begin by completing the tasks in your "
+to spanish "Puede empezar por completar las tareas en su ";
+translate "Welcome to Egypt tab, or by finding a mentor to "
+to spanish "Bienvenido a la lengüeta Egipto, o encontrando un guia para ";
+translate "guide you."
+to spanish "orientarle.";
+
+
+translate "Architecture is the discipline of the builder."
+to spanish "La Arquitectura es la disciplina de el constructor.";
+translate "Disciples build monuments that require many hours of labour to complete."
+to spanish "Discípulos construyen monumentos que requieren muchas horas de trabajo para completar.";
+
+translate "The Human Body is the discipline of the traveller."
+to spanish "El Cuerpo Humano es la disciplina del viajero.";
+translate "Disciples seek out new experiences and challenge their physical being."
+to spanish "Los discípulos buscan nuevas experiencias y desafían su bienestar físico";
+
+translate "Harmony is the discipline of the fellow man."
+to spanish "Armonía es la disciplina del prójimo.";
+translate "Disciples are adept at discerning the will and capability of Egypt."
+to spanish "Los discípulos son expertos en la comprensión de la voluntad y la capacidad de Egipto.";
+
+translate "Leadership is the discipline of the politician."
+to spanish "El Liderazgo es la disciplina del político";
+translate "Disciples govern with the support of their peers."
+to spanish "Los discípulos gobiernan con el apoyo de sus colegas.";
+
+translate "Thought is the discipline of design."
+to spanish "el Pensamiento es la disciplina de el diseño";
+translate "Disciples challenge their fellows with problems of skill and chance."
+to spanish "Discípulos desafían a sus compañeros con problemas de destreza y azar.";
+
+translate "Worship is the discipline of the gods."
+to spanish "La adoración es la disciplina de los dioses";
+translate "Disciples complete complex rituals to bring the favour of the gods."
+to spanish "Los discípulos completan rituales complejos para recibir el favor de los dioses.";
+
+translate "(You have passed N1 tests out of N2)"
+to spanish "(Usted ha pasado N1 pruebas de N2)";
+
+translate "Principles of Art and Music (Enabled)(Active)"
+to spanish "principios de el Arte y la Música (Ouvert)(Actif)";
+
+translate "The Discipline of Art and Music"
+to spanish "La disciplina de el Arte";
+
+translate "Art and Music is the discipline of the creative."
+to spanish "El Arte y música es la disciplina de la creatividad.";
+
+translate "Disciples create works of beauty and compete to win the approval of others."
+to spanish "Discípulos crean obras de belleza y compiten para ganar la aprobación de los demás";
+
+
+translate "Completed on "
+to spanish "Terminado en l'";
+
+translate "K1 K2"
+to spanish "K1 K2";
+
+translate "With a score of N1"
+to spanish "con una puntuación N1";
+translate "With a score of N1.00"
+to spanish "con una puntuación de N1.00";
+
+translate "View Goals[Hidden]"
+to spanish "Ver metas";
+
+translate "That is not a discipline"
+to spanish "Esa no es una disciplina";
+
+translate "Start the O1"
+to spanish "Iniciar el O1(ns)";	
+
+translate "Demonstrate Knowledge of O1"
+to spanish "Muestre su conocimiento en O1(ns)";
+
+translate "You do not possess the necessary skills to demonstrate the O1. You need:\n\n"
+to spanish "Usted no posee las habilidades necesarias para demostrar la O1(ns). Usted necesita: ";
+
+translate "Congratulations! You have opened the O1 for all of Egypt! The scientists are announcing your achievement now."
+to spanish "¡Enhorabuena! Ha abierto el O1(ns) de todo Egipto ! Los científicos están anunciando su logro ahora.";
+
+translate "The scientists at the K1 University of O1 would like to announce that K2 has demonstrated that Egypt is ready for the O2. They declare the Test open for all citizens of Egypt."
+to spanish "Los científicos de la Universidad de O1(dns) O1(ns) de K1 desean anunciar que K2 ha demostrado que Egipto está listo para el O2(ns). Declaran la prueba abierta a todos los ciudadanos de Egipto.";
+
+translate "To open the O1 you require:\n"
+to spanish "Pour débloquer O1(ns), vous avez besoin de: ";
+
+translate "To open the O1 you need to have:"
+to spanish "Para abrir O1(ns), es necesario tener: ";
+
+translate "You must be level N1 or above to start the O1."
+to spanish "Usted debe estar al nivel N1 para comenzar O1(ns).";
+
+translate "You must be level N1 or above to demonstrate the O1."
+to spanish "Usted debe estar al nivel N1 para monstrar O1(ns).";
+
+translate "You have already completed this Test."
+to spanish "Usted ya completo esta Prueba.";
+
+translate "You do not possess the necessary skills to start the O1."
+to spanish "Usted no posee las habilidades necesarias para iniciar el O1(ns).";
+
+translate "You have already accomplished this goal."
+to spanish "Usted ya ha logrado este objetivo.";
+translate "You can now move on to higher-level achievements."
+to spanish "Ahora puede pasar a los logros de nivel superior.";
+
+translate "This goal will be revealed to you after you"
+to spanish "Este objetivo será revelado a usted después";
+translate "accomplish the goals that precede it."
+to spanish "logre las metas que lo preceden.";
+
+translate "This goal is not yet available. In all likelihood, this is"
+to spanish "Este objetivo no le está disponible todavía. Probablemente, esto es,";
+translate "because Egypt's technology is too primitive.  You can advance"
+to spanish "porque la tecnología de Egipto es demasiado primitiva . Usted puede avanzar";
+translate "Egypt's technology by contributing at the universities."
+to spanish "La tecnología de Egipto , contribuyendo en las universidades.";
+
+
+translate "Citizenship"
+to spanish "Ciudadanía";
+
+
+translate "Welcome to Egypt"
+to spanish "Bienvenido a Egipto";
+translate "You must learn the basic skills of a Citizen."
+to spanish "Usted debe aprender las habilidades básicas de un Ciudadano.";
+translate "Either find a mentor to teach you, or use one of"
+to spanish "Encuentre un guia que le enseñe , o utilice una de";
+translate "the tutorials at www.atitd.net."
+to spanish "la tutoría en http://atitd.mondespersistants.com/.";
+translate "You can begin by completing the tasks in your "
+to spanish "Puede empezar por completar las tareas en su ";
+translate "Welcome to Egypt tab, or by finding a mentor to guide you."
+to spanish "Bienvenido a la lengüeta Egipto, o encontrando un guia para.";
+
+translate "Principles of Architecture"
+to spanish "Principios de la Arquitectura";
+translate "To qualify as a potential architect, you must prove you are capable by building "
+to spanish "Para calificar como un arquitecto en el futuro , debe demostrar que es capaz de construir";
+translate "and expanding your own compound, one of the most basic Architecture tasks."
+to spanish "y la expansión de su propio recinto , una de las tareas más básicas de la Arquitectura.";
+translate "To begin, visit a School or University of Architecture, and use the 'Tests' Menu."
+to spanish "Para empezar , visite una escuela o universidad de Arquitectura, y utilice el menú de 'Pruebas'.";
+
+translate "Principles of Art and Music"
+to spanish "Principios de el Arte y Musica";
+translate "To qualify as an artist, you must create a good Sculpture."
+to spanish "Para calificar como un artista , debe crear una Escultura buena.";
+translate "Then, you must exhibit it and gain the approval of 20 viewers."
+to spanish "A continuación, debe exhibirlo y obtener la aprobación de 20 personas.";
+translate "To begin, visit a School or University of Art, and use the 'Tests' Menu."
+to spanish "Para empezar , visite una escuela o Universidad de Arte y utilice el menu 'Pruebas'.";
+
+translate "Principles of The Human Body"
+to spanish "Principios de el Cuerpo Humano";
+translate "To qualify as a Disciple of the Human Body, you must seek out hard-to-find"
+to spanish "Para calificar como un discípulo del cuerpo humano , debe buscar difíciles de encontrar";
+translate "training locations.  Experts at the University will tell you what to seek."
+to spanish "lugares de entrenamiento . Expertos de la Universidad le dirán lo que debe buscar.";
+translate "To begin, visit a School or University of The Human Body, and use the 'Tests' Menu."
+to spanish "Para empezar , visite una escuela o Universidad de el Cuerpo Humano y utilice el menu 'Pruebas'.";
+
+translate "Principles of Conflict"
+to spanish "Principios de Conflicto";
+translate "To qualify as a general, you must defeat Seven people at the"
+to spanish "Para calificar como un general , usted debe derrotar a siete personas en el";
+translate "Challenge of Reflection. This  game of spatial reasoning requires a sharp eye."
+to spanish "Desafío de la Reflexión. Este juego de razonamiento espacial requiere un ojo agudo.";
+translate "To begin, visit a School or University of Conflict, and use the 'Tests' Menu."
+to spanish "Para empezar , visite una escuela o Universidad de el Conflicto y utilice el menu 'Pruebas'.";
+
+translate "Principles of Leadership"
+to spanish "Principios de Liderazgo";
+translate "To qualify as a leader, you must get people to recommend you via a petition."
+to spanish "Para calificar como un líder , debe conseguir que la gente le recomiende a través de una petición.";
+translate "All petitions are created at the University of Leadership."
+to spanish "Todas las peticiones son creados en la Universidad de Liderazgo.";
+translate "To begin, visit a School or University of Leadership, and use the 'Tests' Menu."
+to spanish "Para empezar , visite una escuela o Universidad de el Liderazgo y utilice el menu 'Pruebas'.";
+
+translate "Principles of Thought"
+to spanish "Principios de el Pensamiento";
+translate "Scholars must understand the pulse of Egypt's Citizens."
+to spanish "Los eruditos deben entender el pulso de los ciudadanos de Egipto.";
+translate "Prove your understanding by inventing a Set's Ladder that others"
+to spanish "Muenstre su comprensión mediante la invención de la escalera de Set que otros";
+translate "rate at least \"Good\" with 7 or more votes."
+to spanish "Obtenga evaluaje de por lo menos con 7 o mas votos \"Bueno\".";
+
+translate "Principles of Worship"
+to spanish "Principios de la Adoración";
+translate "To qualify as a Worshipper, you must perform the Ritual of Initiation:"
+to spanish "Para calificar como Devoto, debe de completar el Ritual de la Iniciación :";
+translate "a sequence of blessings that involves two aspirants working in harmony."
+to spanish "una secuencia de bendiciones que involucra a dos aspirantes que trabajan en armonía.";
+translate "To begin, visit a School or University of Worship, and use the 'Tests' Menu."
+to spanish "Para empezar , visite una escuela o Universidad de la Adoración y utilice el menu 'Pruebas'.";
+
+translate "Principles of Harmony"
+to spanish "Principios de Armonía";
+translate "A true follower of Harmony must understand his fellow man. To do so,"
+to spanish "Un verdadero seguidor de la armonía debe comprender a sus semejantes . Para hacer eso,";
+translate "go out into Egypt and meet with many types of people. Ask everyone,"
+to spanish "ir a Egipto y se encontrará con muchos tipos de personas. 	solicité a todos";
+translate "as you never know who fufills your requirements."
+to spanish "ya que nunca se sabe quién cumplira sus requisitos. ";
+
+translate "Great Work of Architecture"
+to spanish "Grandes obras de la Arquitectura";
+translate "A Pyramid of Many Wonders, or better, specially anointed."
+to spanish "Una pirámide de muchas maravillas , o mejor, especialmente ungido.";
+translate "With this monument we challenge our children's endurance"
+to spanish "Con este monumento desafiamos la resistencia de nuestros hijos";
+translate "and strength."
+to spanish "y la fuerza";
+
+translate "Great Work of Art"
+to spanish "Grandes obras de el Arte";
+translate "With this monument, we challenge our children to create"
+to spanish "Con este monumento , desafiamos a nuestros hijos a crear";
+translate "real beauty in their world."
+to spanish "belleza verdadera en su mundo";
+
+translate "Great Work of The Human Body"
+to spanish "Grandes obras de el Cuerpo Humano";
+translate "With this monument, we challenge our children to push themselves"
+to spanish "Con este monumento , desafiamos a nuestros hijos a empujarse a sí mismos";
+translate "physically, while exploring this ancient land."
+to spanish "físicamente , mientras que exploran esta tierra antigua.";
+
+translate "Great Work of Conflict"
+to spanish "Grandes obras de el Conflicto";
+translate "With this Monument, we challenge our children to hone their"
+to spanish "Con este monumento , desafiamos a nuestros hijos a perfeccionar su";
+translate "cunning and strategy, to always be prepared for those that would"
+to spanish "astucia y estrategia , estar siempre preparados para aquellos que les harían";
+translate "harm them."
+to spanish "daño.";
+
+translate "Great Work of Leadership"
+to spanish "Grandes obras de el Liderazgo";
+translate "With this monument, we challenge our children to find their"
+to spanish "Con este monumento , desafiamos a nuestros hijos a encontrar sus ";
+translate "Leaders. With strong leaders, one day our children will write Tests"
+to spanish "Líderes . Con líderes fuertes , un día nuestros niños escribirán pruebas";
+translate "for our grandchildren."
+to spanish "para nuestros nietos.";
+
+translate "Great Work of Thought"
+to spanish "Grandes obras de el Pensamiento";
+translate "With this monument, we challenge our children to find wisdom"
+to spanish "Con este monumento , desafiamos a nuestros hijos a encontrar la sabiduría";
+translate "and to sharpen their minds."
+to spanish "y afilar sus mentes.";
+
+translate "Great Work of Worship"
+to spanish "Grandes obras de la Adoración";
+translate "With this monument, we challenge our children to find unity and strength"
+to spanish "Con este monumento , desafiamos a nuestros hijos a encontrar la unidad y la fuerza";
+translate "of spirit."
+to spanish "del espíritu.";
+
+translate "The Test of Empty Hand"
+to spanish "Prueba de la Mano Vacía";
+translate "An ancient children's game of many variations. Invent your own variation"
+to spanish "Un antiguo juego de niños de muchas variaciones. Inventa tu propia variación";
+translate "on a giant mechanical tower and have it judged among Egypt's"
+to spanish "en una torre mecánica gigante y haga que sea juzgado entre Egipto";
+translate "most challenging."
+to spanish "como el más desafiante.";
+
+translate "The Test of the Pathmaker"
+to spanish "Prueba de el Canal";
+translate "Design a miniature landscape with Aqueduct towers. Challenge others"
+to spanish "Diseñe un paisaje en miniatura con torres de acueducto. Desafíe a otros";
+translate "to link the towers in a loop with pipes."
+to spanish "para enlazar las torres en un bucle con tubos.";
+translate "Different tower types have different linking rules."
+to spanish "Diferentes tipos de torres tienen diferentes reglas de vinculación.";
+
+translate "The Test of the Tomb of the Immortal"
+to spanish "Prueba de la Tumba del Inmortal";
+translate "Thwart future generations of grave robbers by constructing puzzles"
+to spanish "Frustra las generaciones futuras de los ladrones de tumbas con la construcción de rompecabezas";
+translate "to lock away our treasures and secrets."
+to spanish "guardando bajo llave nuestros tesoros y secretos.";
+
+translate "The Test of the Bijou"
+to spanish "Prueba de Bijou";
+translate "The regular structure of Hornet's Wing Granite is the key to this Test."
+to spanish "La estructura regular del granito de la ala del avispón es la clave para esta prueba.";
+translate "A single slab makes enough identical gem-like pieces to allow others to"
+to spanish "Una sola losa hace suficiente piezas idénticas de gemas  para permitir que otros";
+translate "attempt your cut. Which cuts truly require the skill of a master to duplicate?"
+to spanish "intenten tu corte de gema. Que corte de gema realmente requiere la habilidad de un maestro para duplicar?";
+
+translate "The Test of Set's Ladder"
+to spanish "Prueba de la Escalera de Set";
+translate "A larger, more complex version of the initiation Test of Thought."
+to spanish "Una versión más grande , más compleja de la iniciación del Pensamiento.";
+translate "Your fellow Egyptians will judge your creation on how enticing and addictive"
+to spanish "Sus compañeros egipcios juzgaran su creación en cómo de atractiva y adictiva.";
+translate "It is. Knocking off the top block counts for Focus.."
+to spanish "lo es. Derrumbando los bloques de arriba cuenta para recibir Concentración..";
+
+translate "The Test of the Obelisk"
+to spanish "Prueba del Obelisco";
+translate "Advance as an Architect by building"
+to spanish "Avance como Arquitecto con la construcción de";
+
+translate "the largest Obelisk in your region."
+to spanish "el Obelisco grande en su región.";
+
+translate "The Test of Life"
+to spanish "Prueba de la Vida";
+translate "Build a sprawling system of Aqueducts to bring life-giving water to the arid desert."
+to spanish "Construya un sistema extenso de Acueductos para traer el agua que da vida a la aridez del desierto.";
+translate "Those that build the most useful aqueduct towers advance in Architecture."
+to spanish "Los que construyen las torres del acueducto más útiles progesan en Arquitectura.";
+
+translate "The Test of Octec's Ghost"
+to spanish "Prueba del Fantasma de Octec";
+translate "The Statue of Octec's Ghost is a machine which can be activated by"
+to spanish "La Estatua de el Fantasma de Octec es una máquina que puede ser activada al";
+translate "installing 20 devices called the Crystal Hieroglyphs.  You can obtain some from"
+to spanish "instalar 20 dispositivos llamados los Cristales Jeroglíficos  . Usted puede obtener algunos de";
+translate "the Universities and Schools of Architecture, you must trade for the rest."
+to spanish "las Universidades y Escuelas de Arquitectura , debe negociar con otros para obtener el resto.";
+
+translate "The Test of The People's Pyramid"
+to spanish "Prueba de la Pirámide de el pueblo";
+translate "The labor of many may be required to build a pyramid, but only one may "
+to spanish "El trabajo de muchos puede ser necesario para construir una pirámide , pero sólo una persona puede";
+translate "consecrate (complete) construction. Pass by consecrating any size pyramid."
+to spanish "consagrar (terminar) la construcción  . Avance al consagrar una pirámide de cualquier tamaño.";
+
+translate "The Test of Towers"
+to spanish "Prueba de las Torres";
+translate "Build great Towers across Egypt. Building far from others allows"
+to spanish "Construya torres grandes en todo Egipto. Construyendo lejos de los demás permite ";
+translate "control of more land. Accumulate control of an area equal to all of"
+to spanish "el control de más tierras. Acumula el control de un área igual a todo ";
+translate "Egypt to pass the Test of Towers"
+to spanish "Egipto para pasar la prueba de las Torres";
+
+translate "The Test of the Megalopolis"
+to spanish "Prueba de la Megalópolis";
+translate "With the help of forty-eight associates, build a Megalopolis."
+to spanish "Con la ayuda de cuarenta y ocho socios, construye una Megalópolis.";
+translate "All forty-nine of you will pass the test."
+to spanish "Todos ustedes, las cuarenta y nueve personas pasaran la prueba.";
+
+translate "The Test of the Funerary Temple"
+to spanish "Prueba del Templo Funerario";
+translate "Construct a glorious Temple to entice the dead to visit earth."
+to spanish "Construya un templo glorioso para tentar a los muertos a visitar la tierra.";
+translate "Only the finest will pass the Test of the Funerary Temple."
+to spanish "Sólo los mejores pasarán la prueba del Templo Funerario.";
+
+translate "The Test of Ka"
+to spanish "Prueba de Ka";
+translate "Secure your place in the afterlife by building a Tomb and filling it"
+to spanish "Asegure su lugar en el más allá mediante la construcción de una tumba y llenándola";
+translate "With Ka Boxes honoring the gods. Remember that humility is a virtue:"
+to spanish "Con Cajas Ka en honor a los dioses . Recuerde que la humildad es una virtud:";
+translate "Those displaying conspicuous wealth will be looked down upon"
+to spanish "Aquellos que muestran la riqueza conspicua serán despreciados.";
+
+translate "The Test of the Seven Phoenix"
+to spanish "Prueba de los Siete Fénix";
+translate "Construct as many Phoenix as possible in a short time."
+to spanish "Construya tantos Fénix como sea posible en un corto período de tiempo.";
+translate "By enlisting the aid of other architects, you will progress"
+to spanish "Al alistar la ayuda de otros arquitectos , usted progresará";
+translate "far faster."
+to spanish "mucho más rápido.";
+
+translate "The Test of Pyrotechnics"
+to spanish "Prueba de Pirotécnica";
+translate "You must make the most dazzling fireworks shell you can, and enter it into a "
+to spanish "Usted debe hacer un casquillo de fuegos artificiales más deslumbrantes que pueda, y lo inscribe en una";
+translate "competition. Winning a competition gets you closer to your goal. The more "
+to spanish "competencia. Gane un concurso que le acercara a su meta. cuanto a más";
+translate "people you beat, the faster you progress."
+to spanish "gente supere , más rápido avanzara.";
+
+translate "The Test of Khefre's Children"
+to spanish "Prueba de Los Niños de Khefre";
+translate "You must breed the most strange and beautiful scarab beetle that you can.  After "
+to spanish "Usted debe reproducir el más extraño y hermoso escarabajo que pueda. después ";
+translate "encountering some beetles in the wild, you can capture them and raise them in a "
+to spanish " de encontrar con algunos escarabajos en la naturaleza , puede capturarlos y criarlos en un";
+translate "terrarium.  You must exhibit your beetle at one of Khefre's gardens, and be judged."
+to spanish "terrario. Usted debe presentar su escarabajo en uno de los jardines del Khefre , y ser juzgado.";
+
+translate "The Test of the Prismatic Opticon"
+to spanish "Prueba de Opticon prismático";
+translate "Design a Prismatic Opticon, a moving statue of light."
+to spanish "Diseñe un Opticon Prismático  , una estatua móvil de luz.";
+translate "Once enough judges have rated your Opticon, it's eligible for Competition. Each"
+to spanish "Cuando suficientes jueces han valorado su Opticon , es elegible para la Competencia. Cada";
+translate "week, the designer of the highest rated Opticon passes the Test."
+to spanish "día, el diseñador de el Opticon mejor valorado pasa la Prueba.";
+
+translate "The Test of the Formal Garden"
+to spanish "Prueba del Jardín Artístico";
+
+translate "Design a Formal Garden with 7 to 100 exotic flowers surrounding "
+to spanish "Diseñe un jardín formal con 7-100 flores exóticas rodeando ";
+translate "a Gazebo. Gardens are rated on variety and detail, not size."
+to spanish "de el Gazebo. Jardines están clasificados por su variedad y detalle, no su tamaño. ";
+translate "Periodically, the Gardener with the highest rated garden passes the Test. "
+to spanish "Periódicamente, el Jardinero con el jardín mejor calificado pasa la Prueba. ";
+
+translate "The Test of Flight"
+to spanish "Prueba del vuelo Aéreo";
+translate "Discover the secret of flight! Build a Raeli Gliderport and launch"
+to spanish "Descubre el secreto del Vuelo Aéreo! Construye una planeador de lanzamiento y lanza";
+translate "a fleet of up to five Gliders. By making adjustments to your Glider design,"
+to spanish "una flota de hasta cinco planeadores. Al hacer ajustes de diseño a tu Planeador,";
+translate "loops, rolls, and other aerobatics are possible."
+to spanish "bucles , rollos, y otras acrobacias aéreas son posibles. ";
+
+translate "The Test of the Windsong"
+to spanish "Prueba de la Canción del Viento";
+translate "Blend the sound of the wind, and the hand of man to create beautiful music from"
+to spanish "Mezcla el sonido del viento , y la mano del hombre para crear música hermosa de";
+translate "carefully crafted Wind Chimes, arranged on a Chime Tower."
+to spanish "cuidadosamente  elaborados carillones, organizadas en una torre de carillones.";
+translate "The musicians who create the most beautiful arrangements will be promoted."
+to spanish "Los músicos que crean los arreglos más hermosos serán promovidos.";
+
+translate "The Test of the Raeli Mosaic"
+to spanish "Prueba del Mosaico Raeli";
+translate "Fracture brittle Raeli Tiles into unusual shapes, and fit them together"
+to spanish "Fractura frágil Azulejos Raeli en formas inusuales, y que encajen";
+translate "to form a handsome mosaic. Your fellow Egyptians will judge you on both"
+to spanish "para formar un mosaico hermoso. Sus compañeros egipcios juzgaran tanto en";
+translate "Color and Composition."
+to spanish "el color como la composición.";
+
+translate "The Test of the Bedouin"
+to spanish "Prueba del Beduino";
+translate "To enhance your speed, train by seeking out distant altars.  The fastest"
+to spanish "Para mejorar su velocidad, entrene por la búsqueda de altares distantes. Los mas rápido";
+translate "explorers will be able to find the most remote altars.  Be among the"
+to spanish "exploradores podrán encontrar los altares más remotos . Sea uno de los.";
+translate "best explorers on three separate days, and your body will accelerate."
+to spanish "mejores exploradores en tres días separados , y su cuerpo se acelerará.";
+
+translate "The Test of the Safari"
+to spanish "Prueba del Safari";
+translate "Use your mind and body to capture seven species of Egyptian wildlife."
+to spanish "Utilize su mente y su cuerpo para capturar siete especies de la fauna egipcia.";
+translate "You must capture and release four of each creature."
+to spanish "Usted debe capturar y liberar a cuatro de cada criatura.";
+
+translate "Feast for the Senses"
+to spanish "Prueba del Festín de los Sentidos";
+translate "Prove your mastery of Perception by throwing a banquet of the finest foods,"
+to spanish "Demuestra tu dominio sobre la Percepción lanzando un banquete de los mejores alimentos";
+translate "wines, and beers. Invite twenty-one friends whom you have met on your "
+to spanish "vinos y cervezas . Invite a veintiún amigos que ha conocido en sus";
+translate "travels to join, and to witness your advancement."
+to spanish "viajes a unirse y ser testigos de su avance.";
+
+translate "The Test of the Acrobat"
+to spanish "Prueba del Acróbata";
+translate "To enhance your Dexterity, train by seeking out masters in 28 moves. You"
+to spanish "Para mejorar su destreza, entrene por la búsqueda de maestros en 28 movimientos. usted";
+translate "will master a single move immediately, and may teach others."
+to spanish "dominara un solo movimiento de inmediato , y puede enseñar a otros.";
+
+translate "The Test of Darkest Night"
+to spanish "Prueba de la Noche más Oscura";
+translate "To bolster your constitution, you must develop poison resistance."
+to spanish "Para reforzar su constitución , debe desarrollar resistencia a el veneno.";
+translate "The University of The Human Body will tell you what exotic poisons you"
+to spanish "La Universidad de El cuerpo Humano le dirá lo que venenos exóticos usted";
+translate "must seek out, and in what order, to toughen your body."
+to spanish "debe buscar, y en qué orden , para endurecer su cuerpo.";
+
+translate "The Test of Reason"
+to spanish "Prueba de la Razón";
+translate "Solve and judge challenges created by Egypt's Scholars. As you solve more,"
+to spanish "Resuelva y juzgue desafíos creados por estudiantes de Egipto. Al resolver más";
+translate "you will find your Focus score improving. Reach a permanant Focus of 7 to"
+to spanish "encontrará que mejora su puntaje de concentración. Llegara a una concentración permanente de 7 para";
+translate "pass the Test of Reason."
+to spanish "pasar la Prueba de la Razón.";
+
+translate "The Test of the Singing Cicada"
+to spanish "Prueba de la Cigarra Cantora";
+translate "Use your eyes and ears to locate elaborate and beautiful cicada cages"
+to spanish "Use sus ojos y sus oídos para localizar jaulas de cigarras elaboradas y hermosas";
+translate "hidden by other explorers. You may take a single animal from each cage,"
+to spanish "Escondidas por otros exploradores . Usted puede tomar solamente un animal de cada jaula.";
+translate "and when you have collected enough, build a colony of your own."
+to spanish "y cuando ha recogido suficiente , construya su propia colonia.";
+
+translate "The Test of the Oyster Catcher"
+to spanish "Prueba de el Ostrero";
+translate "Search for rare oysters, and harvest them by unlocking their puzzle"
+to spanish "Búsque ostras raras, y cosechelas al desbloqueando su rompecabezas";
+translate "and gathering their meat and Pearls. Fit the Pearls to a beautiful"
+to spanish "y recoja su carne y sus perlas . Monte las perlas para hacer un hermoso";
+translate "necklace, permanently boosting your Endurance."
+to spanish "Collar, impulsando permanentemente su Fortaleza.";
+
+translate "The Test of Telepathy"
+to spanish "Prueba de la Telepatía";
+translate "The best generals must be able to read the mind of their opponents."
+to spanish "Los mejores generales deben ser capaces de leer la mente de sus oponentes.";
+translate "This test pushes your mind-reading ability to its limits."
+to spanish "Esta prueba empuja sus límites en su capacidad de leer la mente de otros.";
+
+translate "The Test of Yokir"
+to spanish "Prueba de Yokir";
+translate "A three-player game of shifting alliances, named after the fabled"
+to spanish "Un juego de tres jugadores de alianzas cambiantes, el nombre de la legendaria";
+translate "Ship 'Yokir.' Remember the lessons of the past."
+to spanish "Nave 'Yokir.' Recuerde las lecciones del pasado.";
+
+translate "The Test of Kanivan Tak"
+to spanish "Prueba de Kanivan Tak";
+translate "A deep, geometry based game, sometimes described as an 'analog' version"
+to spanish "Un juego profundo, basado en geometría, a veces descrita como una versión 'analógica'";
+translate "of Checkers (Draughts)"
+to spanish "parecido a el juego de Damas.";
+
+translate "The Rite of Command"
+to spanish "El Rito de Ordenes";
+translate "Great generals must be able to command soldiers and weapons, adapting"
+to spanish "Grandes generales deben ser capaces de mandar soldados y armas , adaptandose";
+translate "to constantly-shifting battlefield conditions.  A single weapon or a"
+to spanish "constantemente cambiantes condiciones del campo de batalla . Una sola arma o un";
+translate "single soldier can tip the balance in this game of tactics."
+to spanish "solo soldado puede inclinar la balanza en este juego de tácticas.";
+
+translate "The Test of Heket's Rake"
+to spanish "Prueba de el Rastrillo de Heket";
+translate "It is said that the frog-god Heket was driven mad attempting"
+to spanish "Se dice que el dios rana, Heket fue llevado a la locura al intentar";
+translate "to outmaneuver his brother at this fast-shifting game."
+to spanish "para superar a su hermano en este juego de desplazamiento rápido.";
+
+translate "The Test of Witagog"
+to spanish "Prueba de Witagog";
+translate "Build and enhance replicas of the giant insects from folklore."
+to spanish "Construiya y mejore las réplicas de los insectos gigantes del folklore.";
+translate "Pit them against each other to advance in the Test of the Witagog."
+to spanish "Enfrente a unos contra otros para avanzar en la prueba de Witagog.";
+
+translate "The Test of the King's Convoy"
+to spanish "Prueba de el Convoy del Rey";
+translate "In this tribute to Egypt's naval past, you will command a floating"
+to spanish "En este homenaje al pasado naval de Egipto, estará al mando de una flota";
+translate "convoy of ships, escorting the king's ship to safety. The opposing side"
+to spanish "convoy de barcos , escoltando la nave del rey a la seguridad. El lado opuesto";
+translate "will attempt to capture the king's ship."
+to spanish "intentará capturar la nave del rey.";
+
+translate "The Test of Zhadu"
+to spanish "Prueba de Zhadu";
+translate "The way of Zhadu is to remember the Sharing - the first and last"
+to spanish "En La ruta de Zhadu se recuerda compartir - la primera y última";
+translate "stones removed must have a sum of four."
+to spanish "piedras removidas deben tener una suma de cuatro.";
+
+translate "The Test of reflection"
+to spanish "Prueba de reflexión";
+translate "Gaze into a Reflecting Pool to gain insight into this elegant game of"
+to spanish "Contemple una piscina de reflejo para profundizarse en este elegante juego de";
+translate "spatial reasoning. Connect floating bubbles into thin sheets, but take"
+to spanish "razonamiento espacial . Conecte burbujas flotantes entre láminas delgadas , pero tenga";
+translate "care to never break an existing sheet."
+to spanish "cuidado de nunca rompa una hoja existente.";
+
+translate "The Test of Sevenblade"
+to spanish "Prueba de las Siete Cuchillas";
+translate "This game of deception challenges participants to outbid each other using"
+to spanish "Este juego de engaño reta a los participantes a superar la oferta entre sí utilizando";
+translate "a collection of Sevenblades. Winners keep their opponent's blade: Returning"
+to spanish "una colección de Cuchillas. Ganadores mantienen la espada de su oponente: Devolver";
+translate "a won blade is considered an insult, unless it is the opponent's last."
+to spanish "una cuchilla ganada se considera un insulto, a menos que sea la última cuchilla del oponente.";
+
+translate "The Test of the Covered Cartouche"
+to spanish "Prueba de la Cartela Cubierta";
+translate "A leader can build alliances. Work with and against others in a"
+to spanish "Un líder puede construir alianzas . Trabajar con y contra otros en una ";
+translate "series of building and voting rounds. Remain in the contest"
+to spanish "serie de rondas de construcción y votación . Permanezca en el concurso ";
+translate "longer than others to advance."
+to spanish "más tiempo que otros para avanzar.";
+
+translate "The Test of the Plantation"
+to spanish "Prueba de la Plantación";
+translate "Plant and tend Plantations in remote sites. Gather a group of tenders that "
+to spanish "Siembre y mantenga plantaciones en sitios remotos. Reúna a un grupo de cultivadores que";
+translate "are diverse to increase the quality of your Plantation. The most well tended "
+to spanish "son diversas para aumentar la calidad de su plantación . Las mejores cuidadas";
+translate "plantations will be promoted. Three promotions are required to pass."
+to spanish "plantaciones se promoverán. Se requieren tres promociones para pasar la Prueba.";
+
+translate "The Test of Visions"
+to spanish "Prueba de visiones";
+translate "Sensitize your mind to know Egypt's gods, by use of meditation and mind-altering"
+to spanish "Sensibilize a su mente para conocer a los dioses de Egipto , por el uso de la meditación y";
+translate "brews. By discussing your visions with others, the true Face of God"
+to spanish "bebidas que alteran la mente. Al discutir sus visiones con otras personas, el verdadero rostro de Dios";
+translate "can be discerned."
+to spanish "puede ser descubierto.";
+
+translate "The Test of the Holy Shrine"
+to spanish "Prueba del Altar Sagrado";
+translate "Build a shrine to the god of your choice, along with four others."
+to spanish "Construye un altar sagrado para el dios escogido, junto con otras cuatro personas.";
+translate "Summon the shrine at will - the more original priests present, the"
+to spanish "Invoque el santuario a su voluntad - entre más sacerdotes originales esten presentes, el ";
+translate "greater the shrine's power."
+to spanish "más poder el altar llegara a  tener. ";
+
+translate "The Path of the Pilgrim"
+to spanish "Prueba de el Peregrinaje";
+translate "Work in a group of 7 people to visit pilgrim shrines built by others"
+to spanish "Trabaje en un grupo de 7 personas para visitar los santuarios de peregrinación construidos por los otros"; 
+translate "in Egypt."
+to spanish "Egipcios.";
+
+translate "The Test of Astrological Alignment"
+to spanish "Prueba de la Alineación Astrológica";
+translate "Search the populace for those few people who share a special mystical"
+to spanish "Busque en la población por esas pocas personas que comparten un vínculo místico especial ";
+translate "bond with you. A group of five shall pass the test as one."
+to spanish "con usted. Un grupo de cinco deberá pasar la prueba como si fuesen uno.";
+
+translate "The Test of the Humble Priests"
+to spanish "Prueba de los Sacerdotes Humildes";
+translate "Humble yourself before five different Egyptian gods. Those gods that would have"
+to spanish "sometase delante de cinco dioses egipcios diferentes . Esos dioses que le acepten";
+translate "you will make themselves known. You must become part of a Devotional Group to"
+to spanish "se daran a conocer . Usted debe convertirse en parte de un grupo devocional a";
+translate "a specific God, and complete a challenging ritual."
+to spanish "un Dios determinado , y completar un ritual desafiante.";
+
+translate "The Test of Festivals"
+to spanish "Prueba de los Festivales";
+translate "Participate in large festivals for seven gods.  Each person must"
+to spanish "Participe en grandes festivales decicados a siete dioses . Cada persona debe";
+translate "participate in a different way.  The more people who participate"
+to spanish "participar en una manera diferente. Entre más personas participen,";
+translate "in the festival day, the more standing you gain with your god."
+to spanish "en el día del festival , más puntaje adquiriera con su dios.";
+
+translate "The Test of Beacons"
+to spanish "Prueba de las Balizas";
+translate "Seek to attract mystical beacon altars, then attempt the"
+to spanish "Trate de atraer a los altares místicos de balizas, AL atraer un altar, intente el ";
+translate "difficult beacon ritual with the help of your neighbors."
+to spanish "ritual difícil de las Balizas con la ayuda de sus vecinos.";
+
+translate "The Test of the Vigil"
+to spanish "Prueba de la Vigilia";
+translate "Conduct a Vigil at a Sacrificial Bonfire. Visions will come to"
+to spanish "Lleve a cabo una vigilia en una hoguera de sacrificio . Visiones vendrán a";
+translate "those around the bonfire, illuminating the required offerings."
+to spanish "las personas situadas alrededor de la hoguera , iluminando las ofrendas requeridas.";
+translate "Scoring is based on the length of the Vigil, and your participation."
+to spanish "La puntuación se basara en la duración de la Vigilia , y su participación.";
+
+translate "The Test of Leavened Bread"
+to spanish "Prueba del Pan con Levadura";
+translate "Using an Emir Mortar and a bonfire, bake Holy Bread with up to four of your"
+to spanish "Usando un mortero Emir y una hoguera , horneara Pan Santo  con hasta cuatro de sus";
+translate "friends. Please the Gods, and perform the proper devotions to bake the"
+to spanish "amigos. Complazca a los dioses , y realize las devociones propias para hornear el";
+translate "bread properly. The more you can share the bread, the more points you gain."
+to spanish "pan correctamente. Cuanto más comparten de su pan , más puntos ganaran.";
+
+translate "The Test of Marriage"
+to spanish "Prueba del Matrimonio";
+translate "Perform a simple ritual to enter into Marriage with a trusted mate."
+to spanish "Realice un ritual sencillo para contraer matrimonio con un compañero confiable ";
+translate "You will have use of each other's possessions, and can even log in as each other."
+to spanish "Ustedes tendrán el uso de las posesiones del uno al otro, e incluso pueden conectarse entre sí ";
+translate "Advance based on your spouse passing many Tests, and by having a long marriage."
+to spanish "Avanzaran basado en que su cónyuge pase muchas pruebas , y al tener un matrimonio duradero.";
+
+translate "The Test of Reason"
+to spanish "Prueba de la Razón";
+translate "Solve and judge challenges created by Egypt's Scholars. Your score is"
+to spanish "Resolva y evalue desafíos creadas por estudiantes de Egipto. Su puntuación es";
+translate "based on the number of judge peers that you have had."
+to spanish "basada en el número de jueces en armonía contigo.";
+
+translate "The Test of the Critic"
+to spanish "Prueba del Crítico";
+translate "Evaluate art, judge Scarab exhibitions and Pyrotechnics shows."
+to spanish "Evalue el arte, juzgue exposiciones de Escarabajos y espectáculos de Pirotecnia.";
+translate "Your score is based on the number of judge peers that you have"
+to spanish "Su puntuación se basa en el número de jueces en armonía con usted,";
+translate "had, as well as the number of exhibitions and shows that you judge."
+to spanish "que ha tenido , igual así como el número de exposiciones y espectáculos que juzga.";
+
+translate "The Test of Dancing Waters"
+to spanish "Prueba de las las Aguas que Bailan";
+translate "Build wonderfully complex animated fountains of water. As the basins fill"
+to spanish "Construya animadas fuentes de agua  maravillosamente complejas  . En cuanto las cuencas llenan";
+translate "and empty, beautiful patterns will form."
+to spanish "y vacían, diseños hermosos se formarán.";
+
+translate "The Balance of Goods"
+to spanish "Prueba de la Balanza de Bienes";
+translate "Build an Offering Vault and fill it with rare goods each week. Points are "
+to spanish "Construya una Bóveda de Ofrenda y llenelo con bienes raros cada semana. Los puntos son";
+translate "awarded based on how few other people offered the particular item."
+to spanish "otorgados basado en cuantas otras personas ofrecieron el artículo particular";
+translate "Goods offered are for the gods, and are not recoverable by mortals."
+to spanish "Los bienes que se ofrecen son para los dioses , y no seran recuperados por los mortales";
+
+translate "The Test of Promotion"
+to spanish "Prueba de la Promoción";
+translate "Who will get promoted?  Select the fellow egyptians who will rise"
+to spanish "¿Quién va a conseguir un ascenso ? Seleccione los compañeros egipcios que avanzaran";
+translate "through the ranks and score points to advance."
+to spanish "a través de los rangos y sumaran puntos para avanzar.";
+
+translate "The Test of the Library of Alexandria"
+to spanish "Prueba de la Biblioteca de Alejandría";
+translate "Build a Library and convince others to fill it with their knowledge."
+to spanish "Construya una Biblioteca y convenza a los demás a llenarla con su conocimiento";
+translate "Those libraries that amass the most books shall be collectively known"
+to spanish "Las bibliotecas que acumulan la mayor cantidad de libros seran conocidas colectivamente";
+translate "as the Libraries of Alexandria."
+to spanish "como las Bibliotecas de Alejandría";
+
+translate "The Test of the Bedouin"
+to spanish "Prueba del Beduino";
+translate "To enhance your Dexterity, train by seeking out distant altars.  The fastest"
+to spanish "Para mejorar su Agilidad , entrene por la búsqueda de altares distantes. El mas rápido";
+translate "explorers will be able to find the most remote altars.  Be among the"
+to spanish "exploradores podrán encontrar los altares más remotos . Sea uno de lo ";
+translate "best explorers on seven separate (RL) days, and your body will accelerate."
+to spanish "mejores exploradores durante siete días separados , y su cuerpo se acelerará";
+
+translate "The Test of the Archaeologist"
+to spanish "Prueba del ArqArqueólogo";
+translate "Travel Egypt's sands to discover relics from the mysterious past."
+to spanish "Viaje sobre arenas Egipcias para descubrir reliquias del pasado misterioso.";
+translate "Perfect your collection by trading to pass the Test of the Archaeologist."
+to spanish "Perfeccione su colección al intercambiar reliquias para pasar la prueba del Arqueólogo.";
+
+translate "The Test of the Ritual Tattoo"
+to spanish "Prueba del Tatuaje Ritual";
+translate "Formulate pigments of rare herbs, resins and crushed gems, combined at"
+to spanish "formule pigmentos de hierbas raras , resinas y piedras preciosas trituradas , junto a";
+translate "a proper location. When presented at the University of the Human Body,"
+to spanish "el lugar adecuado. Cuando se presente a la Universidad del Cuerpo Humano,";
+translate "a permanent tattoo can be applied."
+to spanish "Podra aplicarse un tatuaje permanente";
+
+translate "The Venery"
+to spanish "Prueba de la Cacería";
+translate "Create a Venery - a mind bending hunt across the land, to "
+to spanish "Construya una Cacería - una busqueda rompecabezas a través de la tierra , que";
+translate "challenge and entertain those developing their Focus."
+to spanish "desafiara y entretendra a los que buscan el desarrollo de su Concentración.";
+
+translate "The Test of Hexaglyphs"
+to spanish "Prueba de Glifos Hexágonos";
+translate "Design a series of interlocking hexagonal tiles. They are presented to "
+to spanish "Diseñe una serie de baldosas hexagonales en enclavamiento. Se presentan a ";
+translate "those attempting challenge, in random positions and rotations."
+to spanish "en posiciones aleatorias y rotaciones para esos que buscan un desafío,";
+translate "Your puzzle should be pleasingly challenging, and will be judged as such."
+to spanish "Su rompecabezas debe ser agradablemente difícil, y será juzgado como tal.";
+
+translate "The Test of the Constellation"
+to spanish "Prueba de la Constelación";
+translate "Build a Night Sky Table and outfit it with a constellation stars and clouds."
+to spanish "Construya una mesa de cielo nocturno y equipela con una constelación de estrellas de  y nubes.";
+translate "With a clever arrangement of clouds, it should be just possible to cover all"
+to spanish "Con un diseño ingenioso de nubes , debería de ser posible cubrir todas";
+translate "stars."
+to spanish "las estrellas.";
+
+//translate "The Test of the Scarab Beetle"
+//to spanish "Prueba del Escarabajo";
+//translate "You must breed the most strange and beautiful scarab beetle that you can.  After"
+//to spanish "Usted debe reproducir el más extraño y hermoso escarabajo que pueda. después";
+//translate "encountering some beetles in the wild, you can capture them and raise them in a"
+//to spanish "encontrarse con algunos escarabajos en la naturaleza , puede capturarlos y criarlos en un. ";
+//translate "terrarium.  You must exhibit your beetle at one of Khefre's gardens, and be judged."
+//to spanish "terrario. Usted debe presentar su escarabajo en uno de los jardines del Khefre , y ser juzgado.";
+
+translate "The Test of Remembrance Ceremonies"
+to spanish "Prueba de las Ceremonias de la Conmemoración";
+translate "Honor your ancestors by conducting Remembrance Ceremonies at the Great Works"
+to spanish "Honra a tus antepasados ??mediante la realización de Ceremonias de la Conmemoración donde se ubican";
+translate "of ages past. The order of ceremonies is prescribed by the Gods. The particular"
+to spanish "las Grandes Obras de épocas pasadas. El orden de las ceremonias se prescribe por los dioses.";
+translate "groupings of priests are up to mortals."
+to spanish "La seleccionadas agrupaciones de sacerdotes son decididas por los mortales.";
+
+translate "Great Work of Harmony"
+to spanish "Monumento de la Armonía";
+translate "With this Monument, we challenge our children to know their"
+to spanish "Con este monumento , desafiamos a nuestros hijos a conocer su";
+translate "fellow citizen, and to transform Egypt from a collection of"
+to spanish "cciudadania , y transformar Egipto de una colección de";
+translate "regions to a great nation."
+to spanish "regiones hacia una gran nación.";
+
+translate "completed"
+to spanish "terminado";
+translate "ready"
+to spanish "está listo";
+translate "notready"
+to spanish "no está listo";
+translate "notavaiable"
+to spanish "indisponible";
+
+translate "Unknown"
+to spanish "Desconocido";
+
+translate "Not Available Yet"
+to spanish "No está disponible";
+
+translate "Information Missing"
+to spanish " Falta Información";
+
+translate "Please ask eGenesis to fill in this text."
+to spanish "Por favor, pregunte a eGenesis que rellene este texto.";
+
+translate "metas"
+to spanish "objectifs";
+translate "Each icon above represents one of your goals."
+to spanish "Cada símbolo gráfico representa una de sus metas.";
+translate "Click on the icon to get an explanation of that goal."
+to spanish "Presione el símbolo gráfico para obtener una explicación de ese objetivo.";
+
+
+translate "About to add Test O1 in the discipline of O2. Proceed?"
+to spanish "Esta a punto de añadir Prueba O1(ns) en la disciplina de O2(ns). Continuar?";
+
+translate "K1 is not a discipline."
+to spanish "K1 no es una disciplina";
+
+translate "O1 is not a discipline."
+to spanish "O1(ns) no es una disciplina";
+
+translate "That is not a discipline"
+to spanish "Esa no es una disciplina";
+
+translate "Not Demonstrated"
+to spanish "No ha sido Demostrado";
+
+translate "Demonstrated"
+to spanish "Demostrado";
+
+translate "You have advanced in the discipline of O1. Your title is now "
+to spanish "Usted ha avanzado en la disciplina de O1(lns) O1(ns). su título nuevo es  ";
+
+

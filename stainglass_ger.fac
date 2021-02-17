@@ -1,0 +1,100 @@
+module stainglass_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment		           **
+//**                                                                       **
+//***************************************************************************
+
+translate RaeliMosaic to german masculine
+{
+  swa "Test des Raelimosaiks";
+  sn "Test des Raelimosaiks"; sg "Test des Raelimosaiks"; sd "Test des Raelimosaiks"; sa "Test des Raelimosaiks";
+  pn "Test des Raelimosaiks"; pg "Test des Raelimosaiks"; pd "Test des Raelimosaiks"; pa "Test des Raelimosaiks";
+}
+
+translate Stainglass to german neuter
+{
+  swa "Raelimosaik";
+  sn "Raelimosaik"; sg "Raelimosaik"; sd "Raelimosaik"; sa "Raelimosaik";
+  pn "Raelimosaik"; pg "Raelimosaik"; pd "Raelimosaik"; pa "Raelimosaik";
+}
+
+translate "Sheet Glass for Backframe"
+to german "Glasscheiben für die Unterseite";
+translate "Steel Wire for Backplane Tension"
+to german "Stahldraht für Auflagebefestigung";
+translate "Glossy White Boards for Frame"
+to german "Weiße, glänzende Bretter für den Rahmen";
+translate "Glossy Blonde Boards for Frame"
+to german "Helle, glänzende Bretter für den Rahmen";
+translate "Carpentry Blade, 3500+ Quality"
+to german "Zimmereiklinge, Qualität 3500+";
+translate "Yellowish Paint"
+to german "Farbe: gelblich";
+translate "Spring Green Paint"
+to german "Farbe: Frühlingsgrün";
+translate "Pale Violet Red Paint"
+to german "Farbe: Helles Violettrot";
+
+translate "Raeli Mosaics are unique displays of tiles, arranged to form beautiful works of art.  The Principles will guide you through displaying your own Mosaic."
+to german "Raelimosaiken sind einzigartige Kachelbilder, die zu kunstvollen Formen zusammengestellt werden. Die Prinzipien werden dich durch die einzelnen Schritte zu deinem eigenen Mosaik begleiten.";
+
+
+translate "Build a Raeli Oven (optional)"
+to german "Baue einen Raeliofen (wahlweise)";
+translate "Start the oven Dredging"
+to german "Starte den Fördervorgang";
+translate "Begin the Baking Process"
+to german "Starte den Brennprozess";
+translate "Interrupt the Baking Process before the tiles are Black"
+to german "Unterbreche den Brennprozesse bevor die Kacheln schwarz werden";
+translate "Build a Raeli Mosaic"
+to german "Baue ein Raelimosaik";
+translate "Have Seven Judges rate your Raeli Mosaic"
+to german "Sieben Richter haben dein Mosaik bewertet";
+                                
+translate "The Test of the Raeli Mosaic"
+to german "Der Test des Raelimosaiks";
+
+translate "You have completed Principles of Raeli Mosaic."
+to german "Du hast die Prinzipien des Raelimosaiks gemeistert.";
+
+translate "You sign up for the Test of the Raeli Mosaic and learn to build the stately art forms."
+to german "Du trägst dich für den Test des Raelimosaiks ein und lernst stattliche Kunstformen zu bauen.";
+
+translate "Raeli Mosaic"
+to german "Raelimosaik";
+
+translate "Scribe Complexity"
+to german "Schwierigkeit: Gelehrter";
+translate "Master Complexity"
+to german "Schwierigkeit: Meister";
+translate "Sage Complexity"
+to german "Schwierigkeit: Weiser";
+translate "Oracle Complexity"
+to german "Schwierigkeit: Orakel";
+
+translate "To build a Raeli Mosaic you need:"
+to german "Um ein Raelimosaik zu bauen benötigst du:";
+
+translate "Your Raeli Mosaic is not complete."
+to german "Dein Raelimosaik ist nicht vollständig.";
+
+translate "Discard the entire tray"
+to german "Den kompletten Inhalt wegwerfen";
+
+translate "Are you sure you want to discard the entire tray?"
+to german "Bist du sicher, dass du den gesamten Inhalt wegwerfen möchtest?";
+
+translate "Start a new design"
+to german "Beginne ein neues Design";
+
+translate "Are you sure you want to wipe out your design?"
+to german "Bist du sicher, dass du dein Design zerstören möchtest?";
+
+translate "Editor"
+to german "Editor";
+

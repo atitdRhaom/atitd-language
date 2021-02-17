@@ -1,0 +1,359 @@
+module phoenix_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment		           **
+//**                                                                       **
+//***************************************************************************
+//menues
+
+
+
+//objects
+
+translate PhoenixStadium to german masculine
+{
+swa "Phönixpark";
+  sn "Phönixpark"; sg "Phönixparks"; sd "Phönixpark"; sa "Phönixpark";
+  pn "Phönixparks"; pg "Phönixparks"; pd "Phönixparks"; pa "Phönixparks";
+}
+translate PhoenixBeingBorn to german masculinecollective
+{
+swa "neugeborener Phönix";
+  sn "neugeborene Phönix"; sg "neugeborenen Phönix"; sd "neugeborenen Phönix"; sa "neugeborene Phönix";
+  pn "neugeborenen Phönix"; pg "neugeborenen Phönix"; pd "neugeborenen Phönix"; pa "neugeborenen Phönix";
+}
+translate PhoenixGrowingOld to german masculinecollective
+{
+swa "alternder Phönix";
+  sn "alternde Phönix"; sg "alternden Phönix"; sd "alternden Phönix"; sa "alternde Phönix";
+  pn "alternden Phönix"; pg "alternden Phönix"; pd "alternden Phönix"; pa "alternden Phönix";
+}
+translate PhoenixInHisPrime to german masculinecollective
+{
+swa "Phönix in den besten Jahren";
+  sn "Phönix in den besten Jahren"; sg "Phönix in den besten Jahren"; sd "Phönix in den besten Jahren"; sa "Phönix in den besten Jahren";
+  pn "Phönix in den besten Jahren"; pg "Phönix in den besten Jahren"; pd "Phönix in den besten Jahren"; pa "Phönix in den besten Jahren";
+}
+
+translate PhoenixOnTheHunt to german masculinecollective
+{
+swa "jagender Phönix";
+  sn "jagende Phönix"; sg "jagenden Phönix"; sd "jagenden Phönix"; sa "jagender Phönix";
+  pn "jagende Phönix"; pg "jagende Phönix"; pd "jagenden Phönix"; pa "jagende Phönix";
+}
+
+translate PhoenixTakingShelter to german masculinecollective
+{
+swa "schutzsuchender Phönix";
+  sn "schutzsuchende Phönix"; sg "schutzsuchenden Phönix"; sd "schutzsuchenden Phönix"; sa "schutzsuchende Phönix";
+  pn "schutzsuchenden Phönix"; pg "schutzsuchenden Phönix"; pd "schutzsuchenden Phönix"; pa "schutzsuchenden Phönix";
+}
+
+translate PhoenixPartingWays to german masculinecollective
+{
+swa "scheidender Phönix";
+  sn "scheidende Phönix"; sg "scheidenden Phönix"; sd "scheidenden Phönix"; sa "scheidende Phönix";
+  pn "scheidenden Phönix"; pg "scheidenden Phönix"; pd "scheidenden Phönix"; pa "scheidenden Phönix";
+}
+
+translate PhoenixTwistingFate to german masculinecollective
+{
+swa "schicksalhafter Phönix";
+  sn "schicksalhafte Phönix"; sg "schicksalhaften Phönix"; sd "schicksalhaften Phönix"; sa "schicksalhaften Phönix";
+  pn "schicksalhaften Phönix"; pg "schicksalhaften Phönix"; pd "schicksalhaften Phönix"; pa "schicksalhaften Phönix";
+}
+
+translate PhoenixBeingBornModel to german masculinecollective
+{
+swa "Model neugeborener Phönix";
+  sn "Model neugeborener Phönix"; sg "Model neugeborener Phönix"; sd "Model neugeborener Phönix"; sa "Model neugeborener Phönix";
+  pn "Modelle neugeborener Phönix"; pg "Modelle neugeborener Phönix"; pd "Modelle neugeborener Phönix"; pa "Modelle neugeborener Phönix";
+}
+translate PhoenixGrowingOldModel to german masculinecollective
+{
+swa "Model alternder Phönix";
+  sn "Model alternder Phönix"; sg "Model alternder Phönix"; sd "Model alternder Phönix"; sa "Model alternder Phönix";
+  pn "Modelle alternder Phönix"; pg "Modelle alternder Phönix"; pd "Modelle alternder Phönix"; pa "Modelle alternder Phönix";
+}
+translate PhoenixInHisPrimeModel to german masculinecollective
+{
+swa "Model Phönix in den besten Jahren";
+  sn "Model Phönix in den besten Jahren"; sg "Model Phönix in den besten Jahren"; sd "Model Phönix in den besten Jahren"; sa "Model Phönix in den besten Jahren";
+  pn "Modelle Phönix in den besten Jahren"; pg "Modelle Phönix in den besten Jahren"; pd "Modelle Phönix in den besten Jahren"; pa "Modelle Phönix in den besten Jahren";
+}
+translate PhoenixOnTheHuntModel to german masculinecollective
+{
+swa "Model jagender Phönix";
+  sn "Model jagende Phönix"; sg "Model jagenden Phönix"; sd "Model jagenden Phönix"; sa "Model jagender Phönix";
+  pn "Modelle jagende Phönix"; pg "Modelle jagende Phönix"; pd "Modelle jagenden Phönix"; pa "Modelle jagende Phönix";
+}
+translate PhoenixTakingShelterModel to german masculinecollective
+{
+swa "Model schutzsuchender Phönix";
+  sn "Model schutzsuchender Phönix"; sg "Model schutzsuchender Phönix"; sd "Model schutzsuchender Phönix"; sa "Model schutzsuchender Phönix";
+  pn "Model schutzsuchender Phönix"; pg "Model schutzsuchender Phönix"; pd "Model schutzsuchender Phönix"; pa "Model schutzsuchender Phönix";
+}
+translate PhoenixPartingWaysModel to german masculinecollective
+{
+swa "Model scheidender Phönix";
+  sn "Model scheidender Phönix"; sg "Model scheidender Phönix"; sd "Model scheidender Phönix"; sa "Model scheidender Phönix";
+  pn "Model scheidender Phönix"; pg "Model scheidender Phönix"; pd "Model scheidender Phönix"; pa "Model scheidender Phönix";
+}
+translate PhoenixTwistingFateModel to german masculinecollective
+{
+swa "Model schicksalhafter Phönix";
+  sn "Model schicksalhafter Phönix"; sg "Model schicksalhafter Phönix"; sd "Model schicksalhafter Phönix"; sa "Model schicksalhafter Phönix";
+  pn "Model schicksalhafter Phönix"; pg "Model schicksalhafter Phönix"; pd "Model schicksalhafter Phönix"; pa "Model schicksalhafter Phönix";
+}
+
+//texts
+
+translate "Hard, Rigid Boards"
+to german "Bretter: hart, starr";
+
+translate "Tomato Paint"
+to german "Farbe: Tomatenrot";
+
+translate "Midnight Blue Paint"
+to german "Farbe: Mitternachtsblau";
+
+translate "Gold Raeli Tiles"
+to german "Kacheln: Gold";
+
+translate "Grain Spirits of Fire"
+to german "Getreidebranntwein des Feuers";
+
+translate "Soft, Pliable Boards"
+to german "Bretter: weich, biegsam";
+
+translate "Sandy Brown Paint"
+to german "Farbe: sandbraun";
+
+translate "Olive Drab Paint"
+to german "Farbe: Graubraun";
+
+translate "Tan Raeli Tiles"
+to german "Raelikacheln: gebräunt";
+
+translate "Wood Spirits of Fire"
+to german "Waldgeisst des Feuers";
+
+translate "Soft, Rotproof Boards"
+to german "Bretter: weich, wasserfest";
+
+translate "Sienna Paint"
+to german "Farbe: Sienna";
+
+translate "Rosy Brown Raeli Tiles"
+to german "Raelikacheln: Altrosa";
+
+translate "Mineral Spirits of Fire"
+to german "mineralischer Branntwein des Feuers";
+
+translate "Pliable, Fireproof Boards"
+to german "Bretter: biegsam, feuerfest";
+
+translate "Dark Khaki Paint"
+to german "Farbe: dunkelkhaki";
+
+translate "Dark Grey Paint"
+to german "Farbe: dunkelgrau";
+
+translate "Slate Grey Raeli Tiles"
+to german "Raelikacheln: schiefergrau";
+
+translate "Vegetable Spirits of Fire"
+to german "Pflanzenbranntwein des Feuers";
+
+translate "Hard, Fireproof Boards"
+to german "Bretter: hart, feuerfest";
+
+translate "Dark Orange Paint"
+to german "Farbe: dunkelorange";
+
+translate "Golden Rod Paint"
+to german "Farbe: Goldrute";
+
+translate "Wheat Raeli Tiles"
+to german "Raelikacheln: Weizen";
+
+translate "Fish Spirits of Fire"
+to german "Fischbranntwein des Feuers";
+
+translate "Soft, Nontoxic Boards"
+to german "Bretter: weich, ungiftig";
+
+translate "Pale Golden Rod Paint"
+to german "Farbe: helle Goldrute";
+
+translate "Fire Brick Paint"
+to german "Farbe: Feuerziegel";
+
+translate "Ghost White Raeli Tiles"
+to german "Raelikacheln: geisterweiß";
+
+translate "Worm Spirits of Fire"
+to german "Wurmbranntwein des Feuers";
+
+translate "Hard, Volatile Boards"
+to german "Bretter: hart, leicht entflammbar";
+
+translate "Olive Paint"
+to german "Farbe: Olive";
+
+translate "Dark Golden Rod Paint"
+to german "Farbe: dunkle Goldrute";
+
+translate "Dark Green Raeli Tiles"
+to german "Raelikacheln: dunkelgrün";
+
+translate "Grass Spirits of Fire"
+to german "grasiger Branntwein des Feuers";
+
+translate "One flax. That's not right! Call a Developer."
+to german "Ein Flachs. Das ist nicht richtig so! Rufe einen Entwickler.";
+
+translate "Welcome to O1"
+to german "Willkommen bei O1(name)";
+
+translate "Name this Park"
+to german "Benenne diesen Park";
+
+translate "Name of park?"
+to german "Name des Parks?";
+
+translate "You may only build one Phoenix per Phoenix Hour."
+to german "Du darfst nur einen Phönix pro Phönixstunde bauen.";
+
+translate "You may not build Phoenix if you have waypoint traveled during the Hour of the Phoenix."
+to german "Du darfst keinen Phönix bauen, wenn Du während der Stunde des Phönix eine Wegpunktreise unternommen hast";
+
+translate "Phoenix/"
+to german "Phönix/";
+
+translate "Flax - this is for testing only!!!"
+to german "Flachs - dies ist nur zum Testen!!!"; 
+
+translate "Warning: You are not building close enough to the Stadium Headquarters to register."
+to german "Warnung: Du baust nicht nahe genug an einem Parkstammsitz, um Dich zu registrieren.";
+
+translate "To build a O1: "
+to german "Um O1(dsa) O1(sd) zu bauen benötigst Du: ";
+
+translate "To build a O1, you need: "
+to german "Um O1(dsa) O1(sd) zu bauen benötigst Du: ";
+
+translate "Test of Seven Phoenix"
+to german "Test der 7 Phönix";
+
+translate "Start the Test of the Seven Phoenix"
+to german "Beginne den Test der 7 Phönix";
+
+translate "The Test of Seven Phoenix will challenge your skills as a contractor, not a laborer. When the Hour of the Phoenix arrives, you'll be given a number of glorious Phoenix statues that you must ensure get built at specific Phoenix parks throughout Egypt. Complete all seven within a (game) hour for maximum score. If you waypoint travel during the Hour, you will be disqualified from that hour. No Egyptian may build more than a single statue in a given hour, and no Egyptian who has travelled during the hour may build."
+to german "\n\nDer Test der 7 Phönix wird Deine Fähigkeiten zu einem Unternehmer verändern, nicht zu einem Arbeiter. Wenn die Stunde des Phönix kommt, wirst Du eine Auswahl von glorreichen Phönixstatuen erhalten, die Du in speziellen Phönixparks in ganz Ägypten bauen mußt. Vervollständige alle 7 in einer Spielstunde, um die höchste Punktzahl zu erhalten. Wenn Du während dieser Stunde Wegpunktreisen unternimmst, wirst Du von dieser Stunde disqualifiziert werden. Kein Ägypter darf mehr als eine Statue in einer einzelnen Stunde bauen und kein Ägypter, der während dieser Stunde gereist ist darf bauen.";
+
+
+translate "Phoenix Controller"
+to german "Phönixkontrolle";
+
+translate "Reporting O1 at N1 owned by U1"
+to german "O1(^tsn) O1(sn) bei N1 wurde von U1(name) gebaut";
+
+translate "PhoenixHash for U1: "
+to german "Phönixzeichen für U1(name) ";
+
+translate "Review Sites"
+to german "Platzüberblick";
+
+translate "Construction goal for U1\n"
+to german "Konstruktionsziel für U1(name)\n";
+
+translate "Score was hand-corrected, so details of Phoenix built are not shown."
+to german "Wertung wurde von Hand korribiert, deswegen sind die gebauten Details des Phönix nicht zu sehen.";
+
+translate "O1 at O2: You waypoint traveled during the Hour of the Phoenix. (If this is not the case, call a Developer.)"
+to german "O1(sn) bei O2(sn): Du hast eine Wegpunktreise während einer Stunde des Phönix unternommen (Ist dies nicht der Fall, rufe einen Enwickler.)";
+
+translate "O1 at O2: Already got credit for this park.\n"
+to german "O1(sn) bei O2(sn): Bereits Punkte für diesen Park erhalten.\n";
+
+translate "O1 at O2: Credited.\n"
+to german "O1(sn) bei O2(sn): Gutgeschrieben.\n";
+
+translate "O1 at O2: Too far away, or built at the wrong Stadium.\n"
+to german "O1(sn) bei O2(sn): Zu weit entfernt oder im falschen Park gebaut.\n";
+
+translate "Trigger an Hour of the Phoenix"
+to german "Starte eine Stunde des Phönix";
+
+translate "You haven't done any Hours of the Phoenix yet."
+to german "Du hast bislang keine Stunde des Phönix genutzt.";
+
+translate "\nScore from last Hour: "
+to german "\nWertung der letzten Stunde: ";
+
+translate "\nTotal Score:"
+to german "\nGesamtwertung.";
+
+translate "The Hour of the Phoenix has begun."
+to german "Die Stunde des Phönix hat begonnen.";
+
+translate "End the current Hour of the Phoenix - Practice"
+to german "Beende die laufende Stunde des Phönix - Übung";
+
+translate "End the current Hour of the Phoenix - Real"
+to german "Beende die laufende Stunde des Phönix - Real";
+
+translate "The Hour of the Phoenix has ended."
+to german "Die Stunde des Phönix ist beendet.";
+
+translate "Go Up In Flames"
+to german "Laß' in Flammen aufgehen";
+
+translate "Do a set of advances - Real"
+to german "Mache eine Reihe Veränderungen - Real";
+
+translate "Do a set of advances - Trial"
+to german "Mache eine Reihe Veränderungen - Test";
+
+translate "Egypt recognizes the following for passing the Test of Seven Phoenix: "
+to german "Ägypten würdigt die folgenden Spieler für das Bestehen des Tests der 7 Phönix: ";
+
+translate "Reporting Phoenix Score N1 for U1"
+to german "Phönixbewertung N1 für U1(name)";
+
+translate "Inject a contest at a specific time"
+to german "Injiziiere einen Wettbewerb zu einer bestimmten Zeit";
+
+translate "Minutes from the start of the last scheduled hour?"
+to german "Minuten seit dem Start der letzten angekündigten Stunde?";
+
+translate "Show the Schedule"
+to german "Zeige die Ankündigung";
+
+translate "Clear the Schedule"
+to german "Lösche die Ankündigung";
+
+translate "Really clear the schedule???"
+to german "Die Ankündigung wirklich löschen???";
+
+translate "Display the Schedule"
+to german "Ankündigungsanzeige";
+
+translate "Schedule for the next N1 Hours of the Phoenix:\n"
+to german "Ankündigung für die nächsten N1 Stunden des Phönix:\n";
+
+translate "    Hour of the Phoenix is NOW, and ends in N1.\n"
+to german "    Die Stunde des Phönix ist JETZT und endet in N1.\n";
+
+translate "    Hour of the Phoenix in K1 RT.\n"
+to german "    Stunde des Phönix in K1 RL-Zeit.";
+
+translate "Review Building Requirements"
+to german "Vorschau der benötigten Baustoffe";
+
+translate "    N1 Tomato Paint"
+to german "    N1 Tomatensoße";

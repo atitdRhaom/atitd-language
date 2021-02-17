@@ -1,0 +1,75 @@
+module ritual_fre;
+
+translate commonaltar to french masculine
+{
+  ns "Autel commun"; np "Autels communs";
+}
+
+//translate "This is a Common Altar"
+//to french "C'est un autel commun";
+
+translate "Place a O1 here"
+to french "Placer O1(uns) O1(ns) ici";
+
+translate "You do not have a O1"
+to french "Vous n'avez pas de O1(ns)";
+
+translate "There is already something on K1"
+to french "il y a déjà quelque chose sur K1 ";
+
+translate "leftpillar"
+to french "pilier de gauche";
+
+translate "rightpillar"
+to french "pilier de droite";
+
+translate "leftfocus"
+to french "plateau de gauche";
+
+translate "rightfocus"
+to french "plateau de droite";
+
+translate "The Left Pillar of the Altar"
+to french "Le pilier gauche de l'autel";
+
+translate "The Right Pillar of the Altar"
+to french "Le pilier droit de l'autel";
+
+translate "The Left Focus of the Altar"
+to french "Le plateau gauche de l'autel";
+
+translate "The Right Focus of the Altar"
+to french "Le plateau droit de l'autel";
+
+translate "Take this O1"
+to french "Prendre O1(^cns) O1(ns)";
+
+translate "Light this candle"
+to french "Allumer la chandelle";
+
+translate "Extinguish this Candle"
+to french "Eteindre la chandelle";
+
+translate "Meditate on this altar"
+to french "Méditer sur l'autel";
+
+translate "Gesture toward this altar"
+to french "Faire un geste en direction de cet autel";
+
+translate "Wave toward this altar"
+to french "Agiter vers cet autel";
+
+translate "Bow before this altar"
+to french "S'incliner devant cet autel";
+
+translate "Nothing happened. Maybe you didn't perform the intended ritual correctly. "
+to french "Il ne s'est rien passé. Vous n'avez peut-être pas exécuté le rituel correctement. ";
+
+translate "Try reading up on rituals at the University of Worship."
+to french "Vous trouverez des informations sur les rituels à l'université de Vénération";
+
+translate "Check Ritual"
+to french "Vérifier le rituel";
+
+translate "Perform a Divorce"
+to french "Divorcer";

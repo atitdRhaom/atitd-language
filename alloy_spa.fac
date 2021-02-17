@@ -1,0 +1,134 @@
+Module Alloy_spa;
+
+// Spanish Translation for the Alloy module.
+// Translated by Arpallan on 02/08/09
+// Spell check by: Christian on 02/08/09
+// Reviewed: 2015/09/03  
+
+
+translate Brass to spanish masculine
+{
+ns "Latón"; np "Latón";
+}
+
+translate Bronze to spanish masculine
+{
+ns "Bronce"; np "Bronce";
+}
+
+translate Steel to spanish masculine
+{
+ns "Acero"; np "Acero";
+}
+
+translate MetalBlue to spanish masculine
+{
+ns "Metal Azúl"; np "Metal Azúl";
+}
+
+translate WaterMetal to spanish masculine
+{
+ns "Hidrometal"; np "Hidrometal";
+}
+
+translate Pewter to spanish masculine
+{
+ns "Estaño"; np "Estaño";
+}
+
+translate SunSteel to spanish masculine
+{
+ns "Acero del Sol"; np "Acero del Sol";
+}
+
+translate MoonSteel to spanish masculine
+{
+ns "Acero Lunar"; np "Acero Lunar";
+}
+
+translate ThothsMetal to spanish masculine
+{
+ns "Metal de Thoth"; np "Metal de Thoth";
+}
+
+translate OctecsAlloy to spanish masculine
+{
+ns "Aleación de Octecs"; np "Aleación de Octecs";
+}
+
+translate Reactory to spanish masculine
+{
+ns "Horno de Reacción"; np "Hornos de Reacción";
+}
+
+translate "Clicked at N1 N2"
+to spanish "Apuntado a N1 N2";
+
+translate "The reactory has already crystalized."
+to spanish "El Horno de Reacción ya se cristalizó.";
+
+translate "The reactory is cold."
+to spanish "El Horno de Reacción está frío.";
+
+translate "The reactory is still heating up."
+to spanish "El Horno de Reacción se está calentando.";
+
+translate "Make an Alloy"
+to spanish "Haz una Aleación";
+
+translate "To make a batch of O1 you need:"
+to spanish "Para hacer O1(ns) necesitas:";
+
+translate "The reactory is heating."
+to spanish "El Horno de Reacción se está calentando.";
+
+translate "Utility"
+to spanish "Funciones";
+
+translate "Abandon the Batch"
+to spanish "Abandona este Lote";
+
+translate "You will loose all the materials in the Reactory. Proceed?"
+to spanish "Perderás todos los materiales en el Horno de Reacción.  Quieres proceder?";
+
+translate "Reheat the Reactory"
+to spanish "Recalienta el Horno";
+
+translate "O1 is a complex alloy that contains unstable crystals. Batches can not be reheated. You can abandon the batch from the Utility menu."
+to spanish "O1(ns) tiene cristales inestables. El lote no se puede recalentar.  Puedes abandonar el lote usando el menú de Funciones.";
+
+translate "To reheat this alloy, you need:"
+to spanish "Para recalentar esta aleación necesitas:";
+
+translate "Reactory: Threshold is less than 1 - call a Developer."
+to spanish "Reacción: Umbral es menor que 1 - llama a un Programador.";
+
+translate "Reactory: Threshold is too high - call a Developer."
+to spanish "Reacción: Umbral está demasiado alto - llama a un Programador.";
+
+translate "Reactory: No Potential Crystals - call a Developer."
+to spanish "Reacción: No hay Cristales Potenciales - llama a un Programador.";
+
+translate "Reactory: No chance to produce any final product - Call a Developer."
+to spanish "Reacción: No hay posibilidad de producir un producto final - Llama a un Programador.";
+
+translate "Reactory: Possible to produce more than 100 percent - Call a Developer."
+to spanish "Reacción: Es posible producir mas del cien porciento - Llama a un Programador.";
+
+translate "The Reactory is heating, K1 remain."
+to spanish "El Horno se está calentado, restan K1.";
+
+translate "The O1 Crystalized with strength N1% produciendo N2 O2."
+to spanish "El O1(name) se Crisalizó con una fuerza de N1% produciendo N2 O2(name).";
+
+translate "No O1 formed.  You'll need a tighter crystallization."
+to spanish "No se formó el O1(name).  Necesitarás una cristalización más compacta.";
+
+translate "Furnaces"
+to spanish "Hornos";
+
+translate "Reactory"
+to spanish "Horno de Reacción";
+
+translate "To build a Rectory, you need: "
+to spanish "Para construir el Horno de Reacción necesitas: ";

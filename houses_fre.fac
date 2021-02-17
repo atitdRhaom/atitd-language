@@ -1,0 +1,9 @@
+Module Houses_fre;
+
+translate "PLANNING APPLICATION" to french "APPLICATION DE PLANNING";
+
+translate planningapplication to french masculinecollective
+{ ns "Application de Planning"; np "Applications de planning"; }
+
+translate "Apply for a Building Permit to construct or modify a House Owned Compound"
+to french "S'inscrire pour un permis de construire ou de modification d'un atelier propriété d'une house";

@@ -1,0 +1,629 @@
+module guilds_fre;
+
+translate guildunderconstruction to french feminine
+{
+	ns "Guilde en construction"; np "Guildes en construction";
+	}
+translate DemoGuildHall to french masculine
+{ ns "Bâtiment de guilde"; np "Bâtiments de guilde"; }
+
+translate Member to french masculine
+{ ns "Membre"; np "Membres";}
+
+translate Initiate to french masculine
+{ ns "Initié"; np "Initiés";}
+
+translate "O1: U1"
+to french "O1(ns): U1(name)";
+
+translate "Guild Under Construction"
+to french "Guilde en construction";
+
+translate "Guild Hall"
+to french "Bâtiment de guilde";
+
+translate "Projects/Guild Hall"
+to french "Projets/Bâtiment de guilde";
+
+translate "Demote to Member"
+to french "Dégrader à Membre";
+
+translate "Kick out of guild"
+to french "Expulser de la guilde";
+
+translate "Member Applications"
+to french "Demandes d'entrée";
+
+translate "Accept"
+to french "Accepter";
+
+translate "Reject"
+to french "Rejeter";
+
+translate "Messages"
+to french "Messages";
+
+translate "Post in slot #N1"
+to french "Ecrire dans l'emplacement #N1";
+
+translate "Compose Message #N1"
+to french "Composer le message #N1";
+
+translate "Read message #N1 'K1'"
+to french "Lire le message #N1 'K1'";
+
+translate "Read message/#N1 K1"
+to french "Lire le message /#N1 K1";
+
+translate "Read message #N1 K1"
+to french "Lire le message #N1 K1";
+
+translate "Read message #N1"
+to french "Lire le message #N1";
+
+translate "Membership"
+to french "Promotion";
+
+translate "Set to U1"
+to french "Donner à U1(name)";
+
+translate "Promote to Elder"
+to french "Promouvoir Sage";
+
+translate "Set to Initiate"
+to french "Promouvoir Initié";
+translate "Set to Associate"
+to french "Promouvoir Associé";
+translate "Set to Member"
+to french "Promouvoir Membre";
+translate "Set to Kinsman"
+to french "Promouvoir Frère";
+translate "Set to Fellow"
+to french "Promouvoir Camarade";
+translate "Set to Patriarch"
+to french "Promouvoir Patriarche";
+translate "Set to Elder"
+to french "Promouvoir Sage";
+
+translate "Permission for Use"
+to french "Permission d'utiliser";
+
+translate "Permission for Taking"
+to french "Permission de prendre";
+
+translate "Permission for Stashing"
+to french "Permission de déposer";
+
+translate "Public"
+to french "Publique";
+
+translate "Private"
+to french "Privé";
+
+translate "Initiate"
+to french "Initié";
+
+translate "Associate"
+to french "Associé";
+
+translate "Member"
+to french "Membre";
+
+translate "Kinsman"
+to french "Frère";
+
+translate "Fellow"
+to french "Camarade";
+
+translate "Patriarch"
+to french "Patriarche";
+
+translate "Elder"
+to french "Sage";
+
+translate "Anyone"
+to french "N'importe qui";
+
+translate "Useable by K1"
+to french "Utilisable par K1";
+translate "Useable by Anyone"
+to french "Utilisable par tous";
+
+
+translate "Public Use"
+to french "Usage public";
+translate "Private Use"
+to french "Usage privé";
+
+
+translate "Initiate"
+to french "Initié";
+translate "Associate"
+to french "Associé";
+translate "Member"
+to french "Membre";
+translate "Kinsman"
+to french "Frère";
+translate "Fellow"
+to french "Camarade";
+translate "Patriarch"
+to french "Patriarche";
+translate "Elder"
+to french "Sage";
+
+translate "an Initiate"
+to french "un Initié";
+translate "an Associate"
+to french "un Associé";
+translate "a Member"
+to french "un Membre";
+translate "a Kinsman"
+to french "un Frère";
+translate "a Fellow"
+to french "un Camarade";
+translate "a Patriarch"
+to french "un Patriarche";
+translate "a Elder"
+to french "un Sage";
+
+translate GuildHall to french masculine
+{
+  ns "Bâtiment de guilde"; np "Bâtiments de guilde";
+}
+
+translate "Useable by K1 of The K2"
+to french "Utilisable par un K1 des K2";
+
+translate "Guild: U1"
+to french "Guilde : U1(name)";
+translate "Guild: U1 (Elder)"
+to french "Guilde : U1(name) (Sage)";
+
+translate "GLocation: U1 N1 N2"
+to french "Emplacement : U1(name) N1 N2";
+translate "Members: N1"
+to french "Membre : N1";
+translate "Elders: N1"
+to french "Sages : N1";
+
+translate "Cancel"
+to french "Annuler";
+
+translate "Guild Rules"
+to french "Lois de la guilde";
+
+translate "Only Elders can change ownership"
+to french "Seuls les Sages peuvent changer son propriétaire";
+
+translate "Only Elders can tear down"
+to french "Seuls les Sages peuvent la détruire";
+
+translate "Take how many O1? (Max N1)"
+to french "Prendre combien de O1(np) ? = (Max N1)";
+
+translate "Expand this guild hall"
+to french "Agrandir le bâtiment de guilde";
+
+translate "How many members should the guild hall hold?"
+to french "Combien de membres cette guilde peut-elle accueillir ?";
+
+translate "The guild already has room for N1 members."
+to french "Cette guilde accueille N1 membres.";
+
+translate "Guild halls hold a maximum of 250 members"
+to french "Les bâtiments de guilde accueillent un maximum de 250 membres";
+
+translate "To upgrade from a N1 person guild hall to a N2 person hall, the guild needs:"
+to french "Pour passer d'un bâtiment de guilde de N1 personnes à un bâtiment de N2 personnes, la guilde a besoin de :";
+translate "N1 O1"
+to french "N1 O1(N1?np:ns)";
+
+translate "The guild hall now holds N1 members, and N2 items."
+to french "La guilde possède maintenant N1 membres et N2 objets.";
+
+translate "Guild Name?"
+to french "Nom de guilde ?";
+
+translate "That name is already taken."
+to french "Ce nom est déjà pris.";
+
+translate "To build a N1 person guild hall you need."
+to french "Pour construire un bâtiment de guilde de N1 personnes, il vous faut :";
+translate "N1 O1"
+to french "N1 O1(N1?np:ns)";
+
+translate "Guild hall calles U1"
+to french "Baptiser la guilde U1(name)";
+
+translate "Only Elders may tear down guild halls, unless they become abandoned."
+to french "Seuls les Sages peuvent détruire un bâtiment de guilde, sauf s'il est abandonné.";
+
+translate "You are about to tear down your guild hall.  You WILL lose all access to any guild owned buildings.  Are you absolutely positive you want to do this?"
+to french "Vous êtes sur le point de détruire le bâtiment de votre propre guilde. Vous perdrez l'accès à TOUS les bâtiments appartenant à la guilde. Voulez-vous vraiment faire cela ?";
+
+translate "Nuke this guild hall!"
+to french "Raser ce bâtiment de guilde !";
+
+translate "The guild hall is busy. try again in a few seconds."
+to french "Le bâtiment de guilde est utilisé. Essayez dans quelques instants.";
+
+translate "All guilds must have at least one elder."
+to french "Toutes les guildes doivent posséder au moins un Sage.";
+
+translate "Are you sure you want to resign?"
+to french "Voulez-vous vraiment démissionner ?";
+
+translate "You are the last elder in this guild. Promote another before resigning."
+to french "Vous êtes le dernier Sage de cette guilde. Nommez quelqu'un à votre place avant de démissionner.";
+
+translate "Remove my guild application."
+to french "Retirer ma demande d'adhésion.";
+
+translate "Your application has been removed."
+to french "Votre demande d'adhésion a été retirée.";
+
+translate "Ask to join this guild"
+to french "Demander à rejoindre cette guilde";
+
+translate "The guild is full, and can't accept any more members."
+to french "La guilde est complète, elle n'accepte plus de membres.";
+
+translate "A Guild elder must approve your membership application. You will be notified once they have made a decision. You may want to notify an elder about your application. Elders in this guild are:"
+to french "Un Sage de la guilde doit maintenant approuver votre demande. Vous serez notifié de la décision prise. Vous pouvez prévenir un Sage de votre demande. Les Sages de cette guilde sont :";
+
+translate "A Guild elder must approve your membership application. You will be notified once they have made a decision. "
+to french "Un Sage de guilde doit approuver votre demande. Vous serez notifié de la décision prise. ";
+translate "U1"
+to french "U1(name)";
+
+translate "The guild is full, and can't accept any more members."
+to french "La guilde est complète, elle n'accepte plus de membres.";
+
+translate "Your membership in U1 was accepted. Welcome."
+to french "Votre demande d'entrée dans U1(name) a été acceptée. Bienvenue.";
+
+translate "Your membership in U1 was rejected."
+to french "Votre demande d'adhésion dans U1(name) a été rejetée.";
+
+translate "List the guild's members, by rank"
+to french "Liste des membres de la guilde, selon le rang";
+
+translate "Members of the guild are:"
+to french "Les membres de la guilde sont :";
+
+translate "U1"
+to french "U1(name)";
+
+translate "Open Membership Applications"
+to french "Accepter les nouveaux membres";
+
+translate "Are you sure you want to open membership applications?"
+to french "Voulez-vous vraiment accepter les nouveaux membres ?";
+
+translate "Close Membership Applications"
+to french "Refuser les nouveaux membres";
+
+translate "Message when denying applications:"
+to french "Message de refus des demandes :";
+
+translate "Membership is Closed."
+to french "Les demandes d'entrée sont refusées.";
+
+translate "Set the guild's nickname"
+to french "Donner un nom court à la guilde";
+
+translate "Short name for the guild?"
+to french "Quel nom court choisissez-vous ?";
+
+
+translate "Made N1 O1 in U1."
+to french "Fabrication de N1 O1(ns) dans la guilde U1(name)";
+
+translate "U1 has made you O1 in U2."
+to french "Vous, U1(name), êtes à présent O1(ns) dans la guilde U2(name).";
+
+translate "Resign from this guild"
+to french "Quitter cette guilde";
+
+translate "List the guild's elders"
+to french "Liste des Sages de la guilde";
+
+translate "Help to upgrade this guild hall (Step N1 of N2)"
+to french "Aider à l'amélioration de ce hâtiment de guilde (Etape N1 sur N2)";
+
+translate "You may only do the detailed design work needed for a guild hall upgrade once per week. Do it on this guild hall?"
+to french "Vous ne pouvez faire les travaux d'amélioration de bâtiment de guilde qu'une fois par semaine. Voulez-vous lancer l'opération ?";
+
+translate "You may not upgrade a guild hall for another K1."
+to french "Pour améliorer ce bâtiment de guilde attendez encore K1.";
+
+translate "Elders of the guild are:"
+to french "Les Sages de la guilde sont :";
+
+translate "Stash/O1"
+to french "Déposer/O1(ns)";
+
+translate "Initiate in U1"
+to french "Initié de U1(name)";
+translate "Associate in U1"
+to french "Associé de U1(name)";
+translate "Member in U1"
+to french "Membre de U1(name)";
+translate "Kinsman in U1"
+to french "Frère de U1(name)";
+translate "Fellow in U1"
+to french "Camarade de U1(name)";
+translate "Patriarch in U1"
+to french "Patriarche de U1(name)";
+translate "Elder in U1"
+to french "Sage de U1(name)";
+translate "K1 in U1"
+to french "K1 de U1(name)";
+
+translate "Initiate in U1 (Secret)"
+to french "Initié de U1(name) (Secret)";
+translate "Associate in U1 (Secret)"
+to french "Associé de U1(name) (Secret)";
+translate "Member in U1 (Secret)"
+to french "Membre de U1(name) (Secret)";
+translate "Kinsman in U1 (Secret)"
+to french "Frère de U1(name) (Secret)";
+translate "Fellow in U1 (Secret)"
+to french "Camarade de U1(name) (Secret)";
+translate "Patriarch in U1 (Secret)"
+to french "Patriarche de U1(name) (Secret)";
+translate "Elder in U1 (Secret)"
+to french "Sage de U1(name) (Secret)";
+
+translate "Only paid accounts can build guild halls."
+to french "Seuls les comptes payés peuvent construire un bâtiment de guilde.";
+
+translate "Only paid accounts can be elders in a guild."
+to french "Seuls les comptes payés peuvent être des Anciens de guilde.";
+
+translate "By order of the Rules of Guild for Message on Hall, only properly ranked members may ready guild messages."
+to french "En vertu des Lois sur les Messages de Guildes, seuls les membres possédant le grade approprié peuvent lire ces messages.";
+
+translate "Stashable by The Public"
+to french "Le public peut y entreposer";
+translate "Useable by "
+to french "Utilisable par ";
+
+//translate "Useable by Anyone"
+//to french "Utilisable par tous";
+
+translate "Check coverage under the Absentee Elders Law"
+to french "Consulter la loi sur les Anciens disparus";
+
+translate "Each guild may be checked at most once per day."
+to french "Chaque guilde peut être vérifiée une fois par jour au plus.";
+
+translate "Designate this as my Primary Guild"
+to french "Faire de cette guilde ma guilde principale";
+
+translate "Remove this as my Primary Guild"
+to french "Ne plus faire de cette guilde ma guilde principale";
+
+translate "Clear your Primary Guild designation?"
+to french "Voulez-vous ne plus avoir de guilde principale ?";
+
+translate "Primary Guild cleared."
+to french "Vous n'avez plus de guilde princpale.";
+
+translate "You can only switch your primary guild once per 24 hours."
+to french "Vous ne pouvez changer de guilde principale qu'une fois toutes les 24 heures.";
+
+translate "Switch your primary guild from K1 to K2?"
+to french "Changer votre guilde principale de K1 à K2 ?";
+
+translate "Primary guild is now K1"
+to french "Votre guilde principale est à présent K1";
+
+translate "Manage Membership"
+to french "Gérer les grades";
+
+translate "Cancel"
+to french "Annuler";
+
+translate "Fetching guild membership list..."
+to french "Chargement de la liste des membres en cours...";
+
+translate "N1 of N2 maximum members:"
+to french "Liste des membres (N1 sur N2 max):";
+
+translate "U1 (Elder)"
+to french "U1(name) (Sage)";
+
+translate "U1 (Patriarch)"
+to french "U1(name) (Patriarche)";
+
+translate "U1 (Fellow)"
+to french "U1(name) (Camarade)";
+
+translate "U1 (Kinsman)"
+to french "U1(name) (Frère)";
+
+translate "U1 (Member)"
+to french "U1(name) (Membre)";
+
+translate "U1 (Associate)"
+to french "U1(name) (Associé)";
+
+translate "U1 (Initiate)"
+to french "U1(name) (Initié)";
+
+translate "Edit the Guild's Info Text"
+to french "Ecrire le texte d'information de la guilde";
+
+translate "Set Permission for Taking"
+to french "Permission pour prendre";
+
+translate "Initiate can take"
+to french "Les initiés peuvent prendre";
+translate "Associate can take"
+to french "Les associés peuvent prendre";
+translate "Member can take"
+to french "Les membres peuvent prendre";
+translate "Kinsman can take"
+to french "Les frères peuvent prendre";
+translate "Fellow can take"
+to french "Les camarades peuvent prendre";
+translate "Patriarch can take"
+to french "Les patriarches peuvent prendre";
+translate "Elder can take"
+to french "Les sages peuvent prendre";
+translate "Anyone can take"
+to french "Tout le monde peut prendre";
+
+translate "You can not set the permission for taking to be less than the permission for use."
+to french "Vous ne pouvez pas configurer la permission de prendre inférieure à la permission d'utiliser.";
+
+translate "Guild Location is Hidden."
+to french "L'emplacement de la guilde est masqué.";
+
+translate "Guild Roster is Secret."
+to french "La liste des membres est secrète.";
+
+translate "Guild U1 (Space for N1 more members.)"
+to french "Guilde U1(name) (Encore N1 places disponibles.)";
+
+translate "Names Lists do not match. Call a Developer."
+to french "Les noms ne correspondent pas. Contactez un développeur.";
+
+translate "That guildname (or one close to it) is already in use."
+to french "Ce nom de guilde (ou similaire) est déjà pris.";
+
+translate "That guild name is reserved."
+to french "Ce nom de guilde est réservé.";
+
+translate "That name has been taken since you started construction."
+to french "Ce nom a été choisi avant que vous ne finissiez votre construction.";
+
+translate "A guild hall of that name did exist, but since you were not an elder at the time it was torn down, you may not revive it."
+to french "Un bâtiment de guilde du même nom a autrefois existé, mais n'en étant pas un Sage à cette époque, vous ne pouvez pas la raviver.";
+
+translate "U1 has been reestablished."
+to french "U1(name) a été ravivé.";
+
+translate "Guild Name"
+to french "Nom de la guilde";
+
+translate "Hide Guild Location"
+to french "Cacher l'emplacement de la guilde";
+
+translate "Keep Membership Secret"
+to french "Garder la liste des membres secrète";
+
+translate "Guild of The Stranger"
+to french "Guilde de l'Etranger";
+
+translate "Number of Members"
+to french "Nombre de membres";
+
+translate "To build a N1 person guild hall you need."
+to french "Pour construire une bâtiment de guilde pour N1 personnes, il vous faut :";
+
+translate "Guild Construction"
+to french "Construction d'une guilde";
+
+translate "By order of the Guild Elder Demotion Act, introduced by Singh, a given elder may only perform one demotion per 72 hours. Wait another K1."
+to french "D'après la loi de rétrogradation des sages d'une guilde, promulguée par Singh, un sage donné ne peut procéder à une rétrogradation qu'une fois toutes les 72 heures. Attendez encore K1.";
+
+translate "By order of the Guild Elder Demotion Act, introduced by Singh, only one demotion may be performed per 24 hours. Wait another K1."
+to french "D'après la loi de rétrogradation des sages d'une guilde, promulguée par Singh, il ne peut pas y avoir plus d'une rétrogradation par tranches de 24 heures. Attendez encore K1.";
+
+translate "By order of the Guild Elder Demotion Act, introduced by Singh, demoting more than one Elder at a time, not counting yourself, is prohibited."
+to french "D'après la loi de rétrogradation des sages d'une guilde, promulguée par Singh, rétrograder plus d'un sage à la fois est interdit.";
+
+translate "A Guild elder's approval is not required to join this guild."
+to french "L'approbation d'un Sage n'est pas requise pour accepter les candidatures.";
+
+translate "A Guild elder must approve your membership application. You will be notified once they have made a decision. "
+to french "Un Sage de cette guilde doit approuver votre candidature. Vous serez informé dès qu'ils auront pris une décision vous concernant.";
+
+translate "Turn On Open Application"
+to french "Activer l'adhésion libre";
+
+translate "Are you sure you want to turn on open membership applications? This will allow anyone to join the guild, without clearance."
+to french "Voulez-vous vraiment activer l'adhésion libre ? Un sage ne sera plus requis pour accepter les candidatures.";
+
+translate "Turn Off Open Application"
+to french "Désactiver l'adhésion libre";
+
+translate "Are you sure you want to turn off open membership applications? This will force individuals to wait for an elder to accept them."
+to french "Voulez-vous vraiment désactiver l'adhésion libre ? Un sage sera dorénavant requis pour accepter les candidatures.";
+
+translate "Guild Management"
+to french "Gestion de la guilde";
+
+translate "Set Guild Message Color"
+to french "Définir la couleur des messages dans le canal";
+
+translate "Turn Off Guild Join Message"
+to french "Désactiver les notifications d'acceptation";
+
+ translate "Turn Off Guild Application Message"
+ to french "Désactiver les notifications d'adhésion";
+ 
+translate "Turn Off Guild Advancement Message"
+to french "Désactiver la notification des promotions";
+
+translate "Turn On Guild Join Message"
+to french "Activer les notifications d'acceptation";
+translate "Turn On Guild Application Message"
+to french "Activer les notifications d'adhésion";
+
+translate "Turn On Guild Advancement Message"
+to french "Activer la notification des promotions";
+
+translate "an Elder"
+to french "un Sage";
+
+translate "U1 has changed rank and become an Initiate."
+to french "U1(name) a changé de grade et devient initié.";
+translate "U1 has changed rank and become an Associate."
+to french "U1(name) a changé de grade et devient associé.";
+translate "U1 has changed rank and become a Member."
+to french "U1(name) a changé de grade et devient membre.";
+translate "U1 has changed rank and become a Kinsman."
+to french "U1(name) a changé de grade et devient frêre.";
+translate "U1 has changed rank and become a Fellow."
+to french "U1(name) a changé de grade et devient camarade";
+translate "U1 has changed rank and become a Patriarch."
+to french "U1(name) a changé de grade et devient patriarche.";
+translate "U1 has changed rank and become K1."
+to french "U1(name) a changé de grade et devient K1.";
+
+translate "U1 has left the guild."
+to french "U1(name) a quitté la guilde.";
+
+translate "U1 has joined the guild."
+to french "U1(name) a rejoint la guilde.";
+
+translate "Are you sure you want to turn off all guild join messages?"
+to french "Voulez-vous vraiment désactiver le système de notification d'acceptation ?";
+translate "Are you sure you want to turn off guild application messages?"
+to french "Voulez-vous vraiment désactiver le système de notification d'adhésion ?";
+
+translate "Are you sure you want to turn on guild join messages?"
+to french "Voulez-vous vraiment activer le système de notification d'acceptation ?";
+translate "Are you sure you want to turn on guild application messages?"
+to french "Voulez-vous vraiment activer le système de notification d'adhésion ?";
+
+translate "Are you sure you want to turn off all guild advancement messages?"
+to french "Voulez-vous vraiment désactiver le système de notification de promotion ?";
+
+translate "Are you sure you want to turn on all guild advancement messages?"
+to french "Voulez-vous vraiment activer le système de notification de promotion ?";
+
+translate "Founded a Guild"
+to french "A fondé une guilde";
+
+translate "Only 3 repositions allowed per guild hall."
+to french "Vous ne pouvez déplacer un bâtiment de guilde que 3 fois.";
+
+translate "A total of 3 repositions are allowed per guild hall. This has now been Repositioned N1 times."
+to french "Vous ne pouvez déplacer un bâtiment de guilde que 3 fois. Celui-ci a déjà été déplacé N1 fois.";
+
+translate "U1 has applied for membership."
+to french "U1(name) a demandé à rejoindre la guilde.";

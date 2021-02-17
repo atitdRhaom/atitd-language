@@ -1,0 +1,46 @@
+Module SplitPoll_fre;
+
+translate "Real-World Poll"
+to french "Sondage vie réelle";
+
+translate "US Presidential Primary"
+to french "Primaires des élections présidentielles américaines";
+
+translate "Vote in ONE of the following"
+to french "Votez dans l'UNE de ces catégories";
+
+translate "Vote for a Republican"
+to french "Votez pour un républicain";
+
+translate "Republican"
+to french "Républicain";
+
+translate "Vote for a Democrat"
+to french "Votez  pour un démocrate";
+
+translate "Democratic"
+to french "Démocratique";
+
+translate "This vote will replace your previous vote. You should only vote in the poll for the primary in which you would actually participate in real life. Proceed?"
+to french "Ce vote remplacera votre vote précédent. Vous ne devez prendre part qu'au sondage auquel vous participeriez en réalité (NdT : ce sont des primaires, vous ne pouvez participer au sondage que dans un seul parti). Continuer ?";
+
+translate "This poll is conducted using the type of ballot used in the United States. The candidate with the most votes is the winner."
+to french "Ce sondage est conduit selon le type de scrutin utilisé aux Etats-Unis. Le candidat récoltant le plus de voix est declaré vainqueur.";
+
+translate "None of the Above"
+to french "Aucun de cela";
+
+translate "Which Candidate do you plan to vote for?"
+to french "Pour quel candidat pensez-vous voter ?";
+
+translate "Recorded a vote for K1."
+to french "Vote pris en compte pour K1.";
+
+translate "How much do you support each candidate?"
+to french "Avec quelle ferveur supportez-vous chaque candidat ?";
+
+translate "Your votes were successfully recorded."
+to french "Vos votes ont été pris en compte.";
+
+translate "You didn't cast any votes."
+to french "Vous n'avez pas voté.";

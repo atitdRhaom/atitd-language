@@ -1,0 +1,369 @@
+module container_fre;
+
+translate storageimprovements to french masculine
+{
+ns "Amélioration de stockage"; np "Améliorations de stockage";
+}
+
+translate "Techniques to improve upon Storage in Chests and Warehouses"
+to french "Technique d'amélioration du stockage dans les coffres et les entrepôts";
+
+translate "Shovel, 9500+ Quality"
+to french "Pelle, qualité 9500+";
+translate "Rigid, Rotproof, Nontoxic Treated Boards"
+to french "Planches traitées rigides, imputrescibles, non toxiques";
+translate "Prism cut Any Gem"
+to french "Coupe en prisme, n'importe quelle pierre";
+
+translate "Refractor cut Any Gem"
+to french "Coupe Réflecteur, n'importe quelle pierre";
+
+translate "This O1 is O2"
+to french "O1(^cns) O1(ns) est O2(ns)";
+
+translate "This O1 is K1"
+to french "O1(^cns) O1(ns) est K1";
+
+translate "Take/Everything [key=T]"
+to french "Prendre/Tout [key=T]";
+
+translate "Maintain this building"
+to french "Réparer cette construction";
+
+translate "Tear down this building"
+to french "Détruire cette construction";
+
+translate "It is at N1% condition."
+to french "Etat : N1%";
+
+translate "It was donated to the public by U1"
+to french "Cette construction a été donnée au public par U1(name).";
+
+Translate "It's locked"
+to french "Verrouillé...";
+
+translate "You don't have permission to use the O1."
+to french "Vous n'avez pas la permission d'utiliser O1(cns) O1(ns).";
+
+translate "U1 takes from a public O1"
+to french "U1(name) se sert dans O1(uns) O1(ns) appartenant au public";
+
+translate "Caution: You can use this, but it"
+to french "Attention : Vous pouvez l'utiliser,";
+
+translate "will vanish when U1 leaves."
+to french "mais il disparaîtra lorsque U1(name) partira.";
+
+translate "In Egypt, buildings are permanent."
+to french "En égypte, les constructions sont permanentes.";
+
+translate "Stashable by "
+to french "Ouvert aux dépôts par ";
+
+translate "K1 U1"
+to french "K1 U1(name)";
+
+translate "Stashable by Associate"
+to french "Les Associés peuvent déposer";
+
+translate "Stashable by Member"
+to french "Les Membres peuvent déposer";
+
+translate "Stashable by Kinsman"
+to french "Les Frères peuvent déposer";
+
+translate "Stashable by Fellow"
+to french "Les Camarades peuvent déposer";
+
+translate "Stashable by Patriarch"
+to french "Les Patriarches peuvent déposer";
+
+translate "Stashable by Elder"
+to french "Les Sages peuvent déposer";
+
+translate "Stashable by O1"
+to french "Accessible par O1(lnp) O1(np)";
+
+translate "Game Master"
+to french "Animateur";
+
+translate "Utility"
+to french "Outils";
+
+translate "Ownership"
+to french "Propriété";
+
+translate "O1 (N1)"
+to french "O1(np) (N1)";
+
+translate "O1:O2 N1"
+to french "01(ns): O2(ns) N1";
+
+translate "O1:K1 N1"
+to french "01(ns): K1 N1";
+translate "O1:Wood Spirit of Earth N1"
+to french "O1(ns):Wood Spirit of Earth N1";
+
+translate "This Guild-Owned O1 belongs to U1"
+to french "O1(^cns) O1(ns) de guilde appartient à U1(name)";
+
+Translate "This O1 belongs to the public"
+to french "O1(^cns) O1(ns) appartient à tout le monde.";
+
+Translate "This O1 belongs to U1"
+to french "O1(^cns) O1(ns) appartient à U1(name).";
+
+translate "You can't take things from a O1 while it is working."
+to french "Vous ne pouvez rien prendre O1(dns) O1(ns) durant son fonctionnement.";
+
+translate "O1 contains N2 O2. Take how many?"
+to french "O1(^cns) O1(ns) contient N2 O2(N2?np:ns). Combien voulez-vous en prendre ?";
+
+translate "This is a O1"
+to french "C'est O1(uns) O1(ns)";
+
+translate "The O1 can't hold any more O2."
+to french "O1(^lns) O1(ns) ne peut plus contenir de O2(ns)";
+
+translate "Note: The O1 only has room for N1 O2."
+to french "Note : O1(lns) O1(ns) ne contient de la place que pour N1 O2(N1?np:ns).";
+
+translate "The O1 doesn't have room for any O2."
+to french "O1(^lns) O1(ns) n'a plus de place pour O2(ns).";
+
+translate "The O1 doesn't have N1 O2."
+to french "O1(^lns) O1(ns) ne contient pas N1 O2(N1?np:ns).";
+
+translate "walkable"
+to french "accessible";
+
+translate "Using your Salvage Skill, you recovered:"
+to french "En utilisant vos connaissances en recyclage, vous récupérez :";
+
+translate "A public O1"
+to french "Au public : O1(ns)";
+
+translate "check out the O1 here"
+to french "Vérifier O1(lns) O1(ns)";
+
+translate "Viewable by the public"
+to french "Visible par le public";
+
+translate "Not viewable by the public"
+to french "Non visible par le public";
+
+translate "View the contents of this chest"
+to french "Voir le contenu de ce coffre";
+
+translate "This chest contains:"
+to french "Ce coffre contient :";
+
+translate "Built K1 ago by U1"
+to french "Construit il y a K1 par U1(name)";
+
+translate "(Year K1, K2 K3, K4PM)"
+to french "(An K1, K2 K3 K4, après-midi)";
+translate "(Year K1, K2 K3, K4AM)"
+to french "(An K1, K2 K3 K4, le matin)";
+
+
+translate "You built it K1 ago."
+to french "Vous l'avez construit il y a K1.";
+
+translate "View Contents"
+to french "Voir le contenu";
+
+translate "By order of the Display Chest Law, passed by Shelomit on 3/29/2003, you designate this chest as publicly viewable."
+to french "Selon la loi des Coffres d'Exposition, promulguée par Shelomit le 29 mars 2003, vous faites de ce coffre un coffre d'exposition.";
+
+translate "You set the chest back to private."
+to french "Ce coffre redevient votre bien privé.";
+
+translate "You do not have stash rights to that container."
+to french "Vous n'avez pas le droit d'utiliser ce coffre.";
+
+translate "You need to stand closer to the container."
+to french "Vous devez vous tenir plus près du coffre.";
+
+translate "You must identify what you want to stash."
+to french "Vous devez sélectionner quelque chose à déposer.";
+
+translate "Cruelty! You may not stash rabbits in containers."
+to french "Quelle cruauté ! Ne mettez pas des lapins dans un coffre !";
+
+translate "Cruelty! You may not stash sheep in containers."
+to french "Quelle cruauté ! Ne mettez pas des moutons dans un coffre !.";
+
+translate "Cruelty! You may not stash chickens in containers."
+to french "Quelle cruauté ! Ne mettez pas des pouleurs dans un coffre !.";
+
+translate "There is not enough room in the container."
+to french "Pas assez de place dans ce coffre.";
+
+translate "You don't have any more of those"
+to french "Vous n'en avez plus.";
+
+translate "You must identify what you want to take."
+to french "Vous devez sélectionner ce que vous voulez prendre.";
+
+translate "You cannot take those out."
+to french "Impossible de prendre cela.";
+
+translate "The container does not contain any more of those."
+to french "Il n'y en a plus du tout.";
+
+translate "Please wait..."
+to french "Veuillez patienter...";
+
+Translate "This is a O1 belonging to U1"
+to french "Ceci est O1(uns) O1(ns) appartenant à U1(name)";
+
+translate "Label this O1"
+to french "Nommer O1(cns) O1(ns)";
+
+translate "Name this O1"
+to french "Nommer O1(cns) O1(ns)";
+
+translate "This O1 is K1."
+to french "O1(^cns) O1(ns) est K1.";
+
+translate "This is Microphone K1"
+to french "Ceci est le microphone K1";
+
+translate "U1 (N1 of N2)"
+to french "U1(name) (N1 de N2)";
+
+translate "Negative bulk in chest."
+to french "Encombrement négatif dans le coffre.";
+
+translate "Negative bulk in chest. Call a developer."
+to french "Encombrement négatif dans le coffre. Appelez un développeur.";
+
+translate "Built some time ago."
+to french "Construit il y a quelque temps déjà.";
+
+translate "K1 (N1)"
+to french "K1 (N1)";
+
+translate "Quality N1"
+to french "Qualité N1";
+
+translate "O1:O2"
+to french "O1(np):O2(np)";
+
+translate "O1:O2 O3"
+to french "O1(np):O2(np) O3(np)";
+
+translate "O1:O2-O3"
+to french "O1(np):O2(np)-O3(np)";
+
+translate "O1:Quality N1"
+to french "O1(ns):Qualité N1";
+
+translate "O1:K1 N1"
+to french "O1(np):K1 N1";
+
+translate "O1:K1"
+to french "O1(np):K1";
+
+translate "N1 K1"
+to french "N1 K1";
+
+translate "Manage Container Preferences"
+to french "Gérer les préférences du contenant";
+
+translate "Management Active"
+to french "Gestion active";
+
+translate "Management Inactive"
+to french "Gestion inactive";
+
+translate "Allow"
+to french "Permis";
+
+translate "Activate"
+to french "Activer";
+
+translate "Deny All"
+to french "Non: tout";
+
+translate "Allow All"
+to french "Oui: tout";
+
+translate "Last Used by U1 K1 ago"
+to french "Dernière utilisation par U1(name) il y a K1";
+translate "Last Used by U1"
+to french "Dernière utilisation par U1(name)";
+translate "Based on your salvage skill and the item's condition, nothing was salvageable."
+to french "Avec votre niveau en recyclage et l'état de la construction, rien n'a pu être récupéré.";
+
+translate "Using your Salvage Skill, you build a Fragile Chest for U1. This can be moved a short distance."
+to french "Grâce à votre niveau en recyclage, vous laissez un coffre fragile pour U1(name). Celui-ci peut être déplacé sur une courte distance.";
+
+translate "Turn Off Verify Take All"
+to french "Ne plus demander confirmation avant de vider";
+
+translate "Turn On Verify Take All"
+to french "Demander confirmation avant de vider";
+
+translate "Are you sure you want to take all of the contents?"
+to french "Voulez-vous vraiment vider le bâtiment ?";
+
+translate "Fishing Lures"
+to french "Appâts";
+
+translate "Flower Bulbs"
+to french "Bulbes de fleurs";
+
+translate "Insects"
+to french "Insectes";
+
+translate "Mosses"
+to french "Mousses";
+
+translate "Other Seeds"
+to french "Autres graines";
+
+translate "Citrus & Aromatic Honey"
+to french "Agrumes et miels aromatiques";
+
+translate "Flax and Flax Seeds"
+to french "Lin et graines de lin";
+
+translate "Flax Products"
+to french "Produits de lin";
+
+translate "Food"
+to french "Nourriture";
+
+translate "Gems"
+to french "Pierres précieuses";
+
+translate "Herbs"
+to french "Herbes";
+
+translate "Marble & Slate"
+to french "Marbres et ardoises";
+
+translate "Metal"
+to french "Métal";
+
+translate "Metal Ore"
+to french "Minerai";
+
+translate "Raeli Tiles"
+to french "Tuiles Raeli";
+
+translate "Resins"
+to french "Résines";
+
+translate "Stone products"
+to french "Produits des pierres";
+
+translate "Wines & Beers"
+to french "Vins et Bières";
+
+translate "Fetching container preference list..."
+to french "Récupération des préférences de ce contenant...";
+
+

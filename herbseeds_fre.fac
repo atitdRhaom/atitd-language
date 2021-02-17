@@ -1,0 +1,83 @@
+module herbseeds_fre;
+
+translate HerbSeeds to french feminine
+{
+  ns "Graine d'herbe"; np "Graines d'herbe"; 
+}
+
+translate herbingpot to french masculine
+{
+  ns "Pot à herbe"; np "Pots à herbe"; 
+}
+
+translate "Make a Herbing Pot" to french "Fabriquer un pot à herbe";
+translate "To build a Herbing Pot, you need:" to french "Pour fabriquer un pot à herbe, il vous faut:";
+
+translate "Learn techniques to test the suitability of a given spot for growing herbs near and aqueduct tower with a Herbing Pot"
+to french "Apprenez les techniques permettant de tester la possibilité de faire pousser des herbes proche d'une tour d'aqueduc d'un endroit donné pour les herbes qui poussent près de la tour et de l'aqueduc.";
+
+translate "Scientists will investigate growth patterns for Herb Seeds."
+to french "Les Scientifiques vont travailler sur les modèles de culture des graines d'herbe.";
+
+translate "Special Research"
+to french "Recherche spéciale";
+translate "Pick up the Herbing Pot"
+to french "Ramassez le pot à herbes";
+
+translate "Make an Herbing Pot"
+to french "Fabriquez un pot à herbe";
+
+translate "Not implemented. Please DevCall."
+to french "Non implantée. Veuillez contacter un Développeur.";
+
+translate "We first determined that herb seeds grow only near active (wet) aqueducts - that part"
+to french "Nous Sommes d'abord arrivé à la conclusion que les graines d'herbe ne germent seulement";
+translate "was already known to many. We also discovered that cultured herbs are entirely location"
+to french "qu'à proximité d'un aqueduc correctement alimenté. Nous avons également découvert que";
+translate "dependant, and there may only be a handful of regions in Egypt which, if irrigated, would"
+to french "la culture de ces graines dépendandait totalement de l'emplacement, et il semble que seules";
+translate "support a given herb. Yet somehow, there were tantalizing clues that the situation is not"
+to french "quelques régions soient propices à un type d'herbe donnée, si correctement irriguées.";
+translate "so grim. We discovered that O1 grows reliably near the aqueduct tower"
+to french "Nous savons actuellement que les graines de O1(ns) poussent à côté d'une tour située";
+translate "at N1, N2, for instance. Perhaps further experiments by other universities"
+to french "en N1 N2. Les recherches des autres Universités nous en apprendront davantage.";
+translate "and by our top citizen scientists would expand knowledge on this subject."
+to french ".";
+
+
+translate "We have expanded our research efforts to cover locations not near existing aqueduct towers. "
+to french "Nous avons étendu nos recherches aux zones éloignées des aqueducs actuels. ";
+translate "Instead, we have focused on the ecology for various parts of Egypt, specifically the soil. "
+to french "Nous nous sommes concentré sur l'écologies à divers endroits d'Egypte, tout particulièrement sur";
+translate "After conducting a number of soil experiments, we are quite confident that should a tower be "
+to french "les taux en cendre. Après quelques analyses, nous sommes quasiment certains qu'un aqueduc doit être ";
+translate "built in Egypt near N1 N2, O1 seeds should easily grow nearby."
+to french "construit en N1 N2, pour que les graines de O1(ns) puissent germer.";
+
+translate "Not an herb: K1"
+to french "Ce n'est pas une herbe: K1";
+translate "Not an herb: O1"
+to french "Ce n'est pas une herbe: O1(ns)";
+
+translate "Not an herb in the world list: K1"
+to french "Ce n'est pas une herbe: K1";
+translate "Not an herb in the world list: O1"
+to french "Ce n'est pas une herbe: O1(ns)";
+
+translate "Plant/Herb Seeds/K1"
+to french "Planter/Graines d'herbe/K1";
+translate "Plant/Herb Seeds/O1"
+to french "Planter/Graines d'herbe/O1(ns)";
+
+translate "Herb Seeds"
+to french "Graines d'herbe";
+
+//translate "K1 with Curse"
+//to french "K1 mit Fluch";
+
+translate "The ground here isn't saturated enough. Try planting near an Aqueduct."
+to french "Le sol n'est pas assez saturé. Essayez de planter à proximité d'un aqueduc.";
+
+translate "The ecology here must not be hospitable to O1. The herb withers just as it sprouts."
+to french "Les caractéristiques écologiques de ce terrain ne semblent pas convenir pour O1(ns). L'herbe se desséche à peine germée.";

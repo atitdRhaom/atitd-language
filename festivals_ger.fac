@@ -1,0 +1,172 @@
+module festivals_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Games **
+//**    (C)opyright 2002,2003 by MDO Games			           **
+//**                                                                       **
+//***************************************************************************
+//menues
+
+translate Festivals to german masculine
+{
+  swa "Test der Festivals";
+  sn "Test der Festivals"; sg "Test der Festivals"; sd "Test der Festivals"; sa "Test der Festivals";
+  pn "Test der Festivals"; pg "Test der Festivals"; pd "Test der Festivals"; pa "Test der Festivals";
+}
+translate FestivalController to german feminine
+{
+swa "Festivalkontrolle";
+sn "Festivalkontrolle"; pn "Festivalkontrollen";
+}
+translate RitualOfFestivalOfIsis to german feminine
+{
+swa "Ritualfestival der Isis";
+sn "Ritualfestival der Isis"; pn "Ritualfestival der Isis";
+}
+translate RitualOfFestivalOfOsiris to german feminine
+{
+swa "Ritualfestival der Osiris";
+sn "Ritualfestival der Osiris"; pn "Ritualfestival der Osiris";
+}
+translate RitualOfFestivalOfBastet to german feminine
+{
+swa "Ritualfestival der Bastet";
+sn "Ritualfestival der Bastet"; pn "Ritualfestival der Bastet";
+}
+translate RitualOfFestivalOfRa to german feminine
+{
+swa "Ritualfestival des Ra";
+sn "Ritualfestival des Ra"; pn "Ritualfestival des Ra";
+}
+translate RitualOfFestivalOfMaat to german feminine
+{
+swa "Ritualfestival der Maat";
+sn "Ritualfestival der Maat"; pn "Ritualfestival der Maat";
+}
+translate RitualOfFestivalOfHathor to german feminine
+{
+swa "Ritualfestival der Hathor";
+sn "Ritualfestival der Hathor"; pn "Ritualfestival der Hathor";
+}
+translate RitualOfFestivalOfThoth to german feminine
+{
+swa "Ritualfestival des Thoth";
+sn "Ritualfestival des Thoth"; pn "Ritualfestival des Thoth";
+}
+
+translate AmbrosiaBrewing to german neuter
+{
+  swa "Ambrosiabrauen";
+  sn "Ambrosiabrauen"; sg "Ambrosiabrauen"; sd "Ambrosiabrauen"; sa "Ambrosiabrauen";
+  pn "Ambrosiabrauen"; pg "Ambrosiabrauen"; pd "Ambrosiabrauen"; pa "Ambrosiabrauen";
+}
+
+translate "1 Petals of a 3x Giant Rose of Ra (Missing)"
+to german "1 Blütenblatt einer 3x Giant Rose des Ra (fehlen)";
+
+translate "1 12%+, Two vintage old wine (Missing)"
+to german "1 12%iger+ Wein aus zweitem Jahrgang (fehlen)";
+
+translate "Principles of Festivals will guide you through the Isis Festival, and require a moderate number of points. To pass the Test of Festivals, you will have to acheive 100% standing with all 7 Gods. To pass Principles of Festivals, your festival must consist of at least 3 people."
+to german "Die Prinzipien der Festivals begleiten dich durch die Isis Festivitäten und benötigen eine ausreichende Punkteanzahl. Um den Test der Festivale zu bestehen, musst du das 100%ige Wohlwollen aller sieben Götter erlangen. Um die Prinzipien zu meistern, muss dein Fest von mindestens 3 Leuten besucht werden.";
+
+translate "Perform the Festival of Isis Ritual at a Common Altar"
+to german "Beginne das Festival des Isis Rituals an einem Gewöhnlichen Altar";
+translate "Based on the Ritual result, wear an appropriate Perfume"
+to german "Je nach Ergebnis des Rituals betupfe dich mit dem geforderten Parfüm";
+translate "Light an appropriate Torch"
+to german "Entzünde die angeforderte Fackel";
+translate "Make an Ambrosia of appropriate Aromatic Honey and Oil"
+to german "Stelle Ambrosia mit den geforderten aromatisierten Honigen und Ölen her";
+translate "Sacrifice the Ambrosia"
+to german "Opfere das Ambrosia";
+translate "Wait up to one hour for the Festival Results"
+to german "Warte bis zu einer Stunde auf die Ergebnisse des Festivals";
+
+translate "You have completed Principles of Festivals."
+to german "Du hast die Prinzipien der Festivals gemeistert.";
+
+
+translate "Brewing Ambrosia: A Beverage for sacrificing to the Gods and Goddesses."
+to german "Ambrosiabrauen: Ein Getränk, um die Göttinnen und Götter zu ehren.";
+
+translate "AmbrosiaBrewing (Completed)"
+to german "Ambrosiabrauen (Komplett)";
+
+translate "You must select a complex ingredient like wine, beer, or aromatic honey."
+to german "Du musst eine komplexe Zutat auswählen, zB: Wein, Bier oder aromatischen Honig.";
+
+translate "You must select a simple ingredient like oil, camel milk, or regular honey."
+to german "Du musst eine einfache Zutat auswählen, zB: Öl, Kamelmilch oder normalen Honig.";
+
+translate "Ambrosia: choose name, simple ingredient, and complex ingredient."
+to german "Ambrosia: Wähle den Namen, eine einfach Zutat und eine komplexe Zutat.";
+
+translate "You study the art of brewing ambrosia, a food specifically made to sacrifice to the Gods and Goddesses."
+to german "Du studierst die Kunst der Ambrosiaherstellung, eine Nahrung, speziell erschaffen, um die Göttinnen und Götter gnädig zu stimmen.";
+ 
+translate "You enjoyed participating in the festival of K1 along with about N1 other Egyptians."
+to german "Du hast das Fest zur Ehre von K1 mit N1 Einwohnern Ägyptens genossen.";
+
+translate "Your festival of K1 was not a success.  A good festival should include as many people as possible.  They do not have to be in the same place.  However, they must all worship at about the same time.  The more people you can get to cooperate, the better the festival will be."
+to german "Dein Fest für Gott K1 war nicht erfolgreich. Ein gutes Fest sollte von so vielen Menschen wie möglich besucht werden. Sie müssen nicht alle am gleichen Ort sein. Aber sie müssen schon zur selben Zeit den Gott verehren. Je mehr Ägypter sich am Fest beteiligen, umso besser wird es werden.";
+
+translate "You enjoyed participating in the festival of K1 along with about N1 other Egyptians.  Your standing has risen to N2"
+to german "Du hast das Fest zur Ehre von K1 gemeinsam mit N1 anderen Ägyptern genossen. Dein Ansehen erhöhte sich auf N2";
+
+translate "You must wait 16 hours between festivals."
+to german "Zwischen zwei Festen musst du 16 Stunden warten.";
+
+translate "The festival system is not configured correctly, contact eGenesis."
+to german "Das Festsystem wurde nicht richtig konfiguriert. Informiere eGenesis.";
+
+translate "K1 is pleased with your participation. In about an hour, we will know if enough people participated in the festival."
+to german "K1 ist erfreut von deiner Beteiligung. In einer Stunde werden wir wissen, ob sich genügend Ägypter am Fest beteiligt haben.";
+
+translate "Standing with K1 is N1"
+to german "Ansehen bei K1 ist N1";
+
+translate "Start the Test of Festivals"
+to german "Starte den Test der Feste";
+
+translate "The test of Festivals:\n\n"
+to german "Der Test der Feste:";
+
+translate "You must hold festivals for seven gods: Isis, Osiris, Bastet, Ra, Maat, Hathor, and Thoth.  To hold a festival, you must choose a god, and arrange for a large number of people to worship the chosen god at the same time. The more people who worship with the chosen god at the same time, the better the festival, and the more standing you get with your chosen god.  When your standing with all seven gods reaches 100%, you pass.  Festivals are Egypt-wide: people need to worship at the same time, they do -not- need to be anywhere near each other."
+to german "Du musst Feste für die 7 Götter veranstalten: Isis, Osiris, Bastet, Ra, Maat, Hathor und Thoth. Um ein Fest zu veranstalten, musst Du einen Gott auswählen und das Fest für viele Ägypter vorbereiten, die sich ebenfalls entschließen, den Gott zur gleichen Zeit zu ehren. Je mehr Ägypter mitmachen, umso erfolgreicher wird das Fest, und umso höher steigt Dein Ansehen bei dem betreffenden Gott. Wenn Dein Ansehen bei allen Göttern auf 100% steht, hast du den Test bestanden. Feste sind Ägyptenweit: Die Ägypter müßen zur gleichen Zeit teilnehmen, müssen aber -nicht- am gleichen Ort sein.";
+
+translate "To find out what Isis wants, do this ritual: person A puts honey on the left pillar, person B puts honey on the right pillar.  Person A puts oil on the left focus, person B puts oil on the right focus.  Person A meditates, then person B meditates.  Both players will learn what Isis wants.  To find out what Osiris wants, use flax and barley instead.  For Bastet, use honey and camel milk.  For Ra, Medium Quarz and Medium Topaz.  For Maat, linen and canvas.  For Hathor, male rabbits and female rabbits.  For Thoth, papyrus paper and candles.  Be careful, each person receives different instructions from the god - you must do the ritual yourself.  Also, if you participate in a second festival, you will need different things the second time.  You should find out what the god wants well in advance of the festival itself, to give yourself time to prepare."
+to german "Um herauszufinden, was Isis möchte, befolge dieses Ritual: Eine Person legt Honig auf die linke Säule, die zweite Person in die rechte Säule. Die erste Person legt Öl in die linke Schale, Person B in die Rechte. Person A meditiert, Person B meditiert. Beide Personen werden erfahren was Isis wünscht.  Um herauszufinden, was Osiris will, benutze Flachs und Gerste.  Für Bastet Honig und Kamelmilch.  Für Ra einen mittleren Quarz und Topas.  Maat erfordert Leinen und Tücher.  Für Hathor einen männlichen und einen weiblichen Hasen.  Thoth erfordert Papyruspaier und Kerzen.  Sei vorsichtig, jede Person bekommt unterschiedliche Anweisungen von den Göttern - Du musst das Ritual also schon selbst machen. Auch wenn du an einem zweiten Fest teilnimmst, wirst du unterschiedliche Sachen benötigen. Du solltest rechtzeitig vor dem Fest herausfinden, was die Götter verlangen, um dich vorbereiten zu können.";
+
+translate "After you know what the god wants, and you have the necessary materials, you are ready to participate in the festival.  You should try to worship at the same time as everyone else.  You have about 30 minutes slack: if you are much earlier or later than that, you will earn substantially less standing with your god.  One last caution: you may only participate in one festival per 24-hour period.\n"
+to german "Wenn du weisst, was die Götter wünschen und du alles Material beisammen hast, bist du bereit am Fest teilzunehmen. Du solltest die Verehrung zur gleichen Zeit versuchen wie die anderen Ägypter. Du hast einen Puffer von 30 Minuten: Wenn du zu früh oder zu spät bist, wird Dein Ansehen bei dem Gott sinken. Ein letzter Hinweis: Du kannst nur alle 24 Stunden an einem Fest teilnehmen.\n";
+
+translate "Eat the perfect feast"
+to german "Esse das perfekte Mahl";
+
+translate "Scan for plants"
+to german "Untersuche die Umgebung nach Pflanzen";
+
+translate "There is no flax growing nearby. Osiris is displeased."
+to german "Es wächst kein Flachs in der Nähe. Osiris ist enttäuscht.";
+translate "There are no onions growing nearby. Osiris is displeased."
+to german "Es sind keine Zwiebeln in der Nähe. Osiris ist enttäuscht.";
+translate "There are no leeks growing nearby. Osiris is displeased."
+to german "Es wächst kein Lauch in der Nähe. Osiris ist enttäuscht.";
+translate "There are no carrots growing nearby. Osiris is displeased."
+to german "Es wachsen keine Karotten in der Nähe. Osiris ist enttäuscht.";
+translate "There is no barley growing nearby. Osiris is displeased."
+to german "Es wächst keine Gerste in der Nähe. Osiris ist enttäuscht.";
+translate "There is no garlic growing nearby. Osiris is displeased."
+to german "Es wächst kein Knoblauch in der Nähe. Osiris ist enttäuscht.";
+
+translate "The ambrosia was not quite to Hathor's liking."
+to german "Das Ambrosia war nicht nach Hathor's Geschmack";
+
+translate "Sacrifice Ambrosia"
+to german "Opfere Ambrosia";
+
+translate "Sacrifice Ambrosia K1"
+to german "Opfere Ambrosia: K1";

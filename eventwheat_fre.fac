@@ -1,0 +1,15 @@
+module EventWheat_fre;
+
+translate wheatsilo to french masculine
+{
+  ns "Silo � bl�"; np "Silos � bl�";
+}
+
+translate "Wheat Silo"
+to french "Silo � bl�";
+
+translate "You must build your silo far from others."
+to french "Vous devez construire votre silo loin des autres.";
+
+translate "To build a Wheat Silo you need:"
+to french "Pour construire un silo � bl�, il vous faut:";

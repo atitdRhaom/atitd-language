@@ -1,0 +1,301 @@
+module carpentry_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**            German Version: Astrid "Infinyti" Werner                   **
+//**                            2012                                       **
+//**                                                                       **
+//***************************************************************************
+
+translate WoodPlane to german femininecollective
+{
+  swa "Holzsäge";
+  sn "Holzsäge"; sg "Holzsäge"; sd "Holzsäge"; sa "Holzsäge";
+  pn "Holzsägen"; pg "Holzsägen"; pd "Holzsägen"; pa "Holzsägen";
+}
+
+translate Slate to german masculinecollective
+{
+  swa "Schiefer";
+  sn "Schiefer"; sg "Schiefers"; sd "Schiefer"; sa "Schiefer";
+  pn "Schiefer"; pg "Schiefer"; pd "Schiefern"; pa "Schiefer";
+}
+
+translate StoneBlade to german femininecollective
+{
+    swa "Steinklinge";
+  sn "Steinklinge"; sg "Steinklinge"; sd "Steinklinge"; sa "Steinklinge";
+  pn "Steinklingen"; pg "Steinklingen"; pd "Steinklingen"; pa "Steinklingen";
+}
+
+translate Boards to german neutercollective
+{
+    swa "Brett";
+  sn "Brett"; sg "Bretts"; sd "Brett"; sa "Brett";
+  pn "Bretter"; pg "Bretter"; pd "Brettern"; pa "Bretter";
+}
+
+translate Wood to german neutercollective
+{
+    swa "Holz";
+  sn "Holz"; sg "Holzes"; sd "Holz"; sa "Holz";
+  pn "Hölzer"; pg "Hölzer"; pd "Hölzern"; pa "Hölzer";
+}
+
+translate SlateShovel to german feminiecollective
+{
+  swa "Schieferschaufel";
+  sn "Schieferschaufel"; sg "Schieferschaufel"; sd "Schieferschaufel"; sa "Schieferschaufel";
+  pn "Schieferschaufeln"; pg "Schieferschaufeln"; pd "Schieferschaufeln"; pa "Schieferschaufeln";
+}
+
+translate "You lost sight of the slate. Try standing still when looking for slate."
+	to german "Du hast den Schiefer aus den Augen verloren. Versuche stillzustehen, wenn du nach Schiefer suchst.";
+
+translate "Slate"
+	to german "Schiefer";
+
+translate GoldPanning to german neuter
+{
+  swa "Goldwaschen";
+  sn "Goldwaschen"; sg "Goldwaschens"; sd "Goldwaschen"; sa "Goldwaschen";
+  pn "Goldwaschen"; pg "Goldwaschen"; pd "Goldwaschen"; pa "Goldwaschen";
+}
+
+translate HeavyLeadBowl to german feminine
+{
+  swa "Schwere Goldpfanne";
+  sn "Schwere Goldpfanne"; sg "Schweren Goldpfanne"; sd "Schwere Goldpfanne"; sa "Schwere Goldpfanne";
+  pn "Schweren Goldpfannen"; pg "Schweren Goldpfannen"; pd "Schweren Goldpfannen"; pa "Schweren Goldpfannen";
+}
+
+translate "Tried Gold Pan: U1"
+	to german "Goldsammelschale versucht: U1(name)";
+
+translate "You saw something yellow and shiny in the water - you're sure of it. "
+to german "Du hast etwas Gelbes und Glänzendes im Wasser gesehen - Du bist ganz sicher. ";
+
+translate "You have a flash of inspiration: A heavy lead bowl could be used to scoop material from the water. You might be able to see what you found against the dark background. Of course, it would require a very high (7) perception to track such a small object in the first place."
+	to german "Du hast einen Gedankenblitz: Eine schwere Goldpfanne könnte hilfreich sein, um Material aus dem Wasser zu fischen. Du könntest in der Lage sein, deinen Fund auf dem dunklen Untergrund zu sehen. Aber dies erfordert eine sehr hohe (7) Empfindung, um so ein kleines Objekt zu entdecken.";
+
+translate "You're sure you saw *something* in the water, but you don't quite know where to look. Perhaps with very high perception, you would."
+	to german "Du bist sicher, *Etwas* im Wasser gesehen zu haben. Aber du weißt nicht genau, wo du suchen sollst. Mit einer höheren Empfindung ginge es vielleicht.";
+
+translate "If only you had a Lead Bowl, you'd be able to scoop material from the water to find that shiny object."
+	to german "Wenn du nur eine Goldpfanne hättest! Dann wärest du in der Lage das glänzende Objekt im Wasser zu finden und heraus zu fischen.";
+
+translate "Forge a stone blade"
+	to german "Forme eine Steinklinge";
+
+translate "You need two pieces of slate: To attempt forging a stone blade, you need to carefully break one piece of slate with a second piece."
+	to german "Du benötigst zwei Stücke Schiefer: Um eine Steinklinge herzustellen, musst du vorsichtig ein Stück Schiefer mit einem zweiten Stück bearbeiten.";
+
+translate "Success! One of the stones shattered, and the other broke cleanly. You've made a stone blade."
+	to german "Juchhu! Einer der Steine ist zerbrochen, aber der andere brach sauber. Du hast eine Steinklinge gemacht.";
+
+translate "Oops - one of the pieces of slate shattered, and the other remained intact. You do seem to be getting the hang of it though: Your skill is now N1 out of N2"
+	to german "Ups - eines der Schieferstücke zerbricht, das andere bleibt aber intakt. Du scheinst langsam voranzukommen: deine Fähigkeit ist nun N1 von N2";
+
+translate "Bad luck. Both pieces of slate shattered. Your skill is still N1 out of N2"
+	to german "Pech. Beide Teile des Schiefers sind zertrümmert. Deine Fähigkeit bleibt weiterhin N1 von N2";
+
+translate "Build a Wood Plane"
+	to german "Baue eine Holzsäge";
+
+translate "To build a Wood Plane, you need: "
+	to german "Um eine Holzsäge zu bauen benötigst du: ";
+
+translate "Repair this Wood Plane by replacing the blade"
+	to german "Repariere diese Holzsäge durch den Austausch der Klinge";
+
+translate "You need a Stone Blade to repair this Wood Plane."
+	to german "Du benötigst eine Steinklinge, um diese Holzsäge zu reparieren.";
+
+translate "Plane a piece of wood into a board"
+	to german "Säge ein Stück Holz zu einem Brett";
+
+translate "You don't have any wood. Wood can be gathered from trees."
+	to german "Du hast kein Holz. Holz kann von Bäumen gesammelt werden.";
+
+translate "The woodplane's blade broke. You'll need another blade to repair it."
+	to german "Die Klinge der Holzsäge ist gebrochen. Du benötigst eine andere Klinge, um sie zu reparieren.";
+
+translate CarpentryShop to german femininecollective
+{
+  swa "Zimmerei";
+  sn "Zimmerei"; sg "Zimmerei"; sd "Zimmerei"; sa "Zimmerei";
+  pn "Zimmereien"; pg "Zimmereien"; pd "Zimmereien"; pa "Zimmereien";
+}
+
+translate "Carpentry"
+	to german "Holzbearbeitung";
+
+translate "Build a Carpentry Shop"
+	to german "Baue eine Zimmerei";
+
+translate "Before you will be able to use your Carpentry Shop to make boards you will first need to outfit it with a Carpentry Blade. Continue?"
+	to german "Bevor du eine Zimmerei zum Brettersägen nutzen kannst, musst du sie mit einer Zimmereiklinge ausstatten. Fortfahren?";
+
+translate "To build a Carpentry Shop, you need: "
+	to german "Um eine Zimmerei zu bauen benötigst du: ";
+
+translate "Tools"
+	to german "Werkzeug";
+
+translate "Assemble a Slate Shovel"
+to german "Baue eine Schieferschaufel zusammen";
+
+translate "It takes one stone blade and two boards to make a Slate Shovel"
+	to german "Man braucht 1 Steinklinge und 2 Bretter für eine Schieferschaufel";
+
+translate "The blade on your shop's plane has become dull and chipped, and must be replaced."
+	to german "Die Klinge deiner Zimmerei ist stumpf und schartig und muss ausgetauscht werden";
+
+translate "Start planing Wood into Boards"
+to german "Säge eine größere Menge Holz zu Brettern";
+
+translate "You cannot run two carpentry shops at the same time."
+	to german "Du kannst keine zwei Zimmereien zugleich betreiben.";
+
+translate HeavyMallet to german masculine
+{
+  swa "Großer Holzhammer";
+  sn "Große Holzhammer"; sg "Großen Holzhammers"; sd "Großen Holzhammer"; sa "Großen Holzhammer";
+  pn "Großen Holzhämmer"; pg "Großen Holzhämmer"; pd "Großen Holzhämmern"; pa "Großen Holzhämmer";
+}
+
+translate "Assemble a Heavy Mallet"
+	to german "Montiere einen großen Holzhammer";
+
+translate "To make a Heavy Mallet you need:"
+	to german "Um einen großen Holzhammer zu montieren benötigst du:";
+
+translate "Assemble a Sledgehammer"
+	to german "Montiere einen Vorschlaghammer";
+
+translate "To make a Sledgehammer you need:"
+	to german "Um einen Vorschlaghammer zu montieren benötigst du.";
+
+translate "Assemble a Slate Scythe"
+	to german "Montiere eine Schiefersense";
+
+translate "To make a Flint Scythe you need:"
+	to german "Um eine Schiefersense zu montieren benötigst du:";
+
+translate "To make a Slate Scythe you need:"
+	to german "Um eine Schiefersense zu montieren benötigst du:";
+translate "This Scythe looks very primitive. It is not very good, but at least you can practice with it."
+	to german "Diese Sense sieht sehr primitiv aus. Sie ist nicht sehr gut, aber du kannst sie zumindest benutzen.";
+
+translate "Assemble a Glass Scythe"
+	to german "Montiere eine Glassense";
+
+translate "To make a Glass Scythe you need:"
+	to german "Um eine Glassense zu montieren benötigst du:";
+
+translate "This Scythe looks very sturdy. With a bit more practice you think you can improve your technique."
+to german "Diese Sense sieht sehr stabil aus. Mit ein wenig mehr Übung wirst du deine Technik verfeinern können.";
+
+translate "Install a Carpentry Blade"
+	to german "Installiere eine Zimmereiklinge";
+
+translate "You need a Carpentry Blade of at least 3000 quality to upgrade this Carpentry Shop."
+	to german "Du benötigst eine Zimmereiklinge mit einer Qualität von mind. 3000, um diese Zimmerei zu erweitern.";
+
+translate "Your Carpentry Blade is only N1 quality. You must use a blade of at least 3000 quality!"
+	to german "Deine Zimmereiklinge hat nur eine Qualität von N1. Sie muss mindestens 3000 haben!";
+
+translate "Inspect the Carpentry Blade"
+	to german "Untersuche die Zimmereiklinge";
+
+translate "Using your skill in Metallurgy, you inspect the blade... "
+	to german "Deine Fertigkeit in Metallbearbeitung benutzend, untersuchst du die Klinge... ";
+
+translate "The Carpentry Blade is totally worn out."
+	to german "Die Klinge ist total abgenutzt.";
+
+translate "This Carpentry Blade can be used to plane at least N1 more boards."
+	to german "Die Klinge kann noch zum Sägen von mindestens N1 Brettern verwendet werden.";
+
+translate "You can't quite tell. Improving your perception may help."
+	to german "Du kannst es nicht sagen. Eine höhere Wahrnehmung würde helfen.";
+
+translate "Using your skill in Metallurgy, you inspect the blade... The Carpentry Blade is totally worn out."
+	to german "Deine Fertigkeit in Metallbearbeitung benutzend, untersuchst du die Klinge... Die Klinge ist total abgenutzt.";
+
+translate "Using your skill in Metallurgy, you inspect the blade... This Carpentry Blade can be used to plane at least N1 more boards."
+	to german "Deine Fertigkeit in Metallbearbeitung benutzend, untersuchst du die Klinge... Die Klinge kann noch zum Sägen von mindestens N1 Brettern verwendet werden. ";
+
+translate "Using your skill in Metallurgy, you inspect the blade... You can't quite tell. Improving your perception may help."
+	to german "Deine Fertigkeit in Metallbearbeitung benutzend, untersuchst du die Klinge... Du kannst es nicht sagen. Eine höhere Wahrnehmung würde helfen.";
+
+translate "Install a Vise Bench"
+to german "Baue einen Schraubstock ein";
+
+translate "To upgrade this Carpentry Shop with a Vise Bench, you need: "
+to german "Um diese Zimmerei mit einem Schraubstock zu erweitern, benötigst du: ";
+
+translate LoomFrame to german masculinecollective
+{
+    swa "Webrahmen";
+  sn "Webrahmen"; sg "Webrahmens"; sd "Webrahmen"; sa "Webrahmen";
+  pn "Webrahmen"; pg "Webrahmen"; pd "Webrahmen"; pa "Webrahmen";
+}
+
+translate "Make a Loom Frame"
+	to german "Produziere einen Webrahmen";
+
+translate "To make a Loom Frame, you need: "
+	to german "Um einen Webrahmen herzustellen, benötigst du: ";
+
+translate Deckle to german masculine
+{
+    swa "Zuber";
+  sn "Zuber"; sg "Zubers"; sd "Zuber"; sa "Zuber";
+  pn "Zuber"; pg "Zuber"; pd "Zubern"; pa "Zuber";
+}
+
+translate "Make a Deckle"
+	to german "Stelle einen Zuber her";
+
+translate "To make a Deckle, you need: "
+	to german "Um einen Zuber herzustellen, benötigst du: ";
+
+translate "Assemble an Iron Shovel"
+	to german "Montiere eine Eisenschaufel";
+
+translate "To make a crude Iron Shovel, you need: "
+	to german "Um eine einfache Eisenschaufel herzustellen, benötigst du:";
+
+
+
+
+
+
+//forge.fac
+translate "Make a Shovel"
+to german "Stelle eine Schaufel her";
+
+//forge.fac
+translate ShovelBlade to german neutercollective
+{
+    swa "Schaufelblatt"; 
+  sn "Schaufelblatt"; sg "Schaufelblattes"; sd "Schaufelblatt"; sa "Schaufelblatt";
+  pn "Schaufelblatt"; pg "Schaufelblätter"; pd "Schaufelblättern"; pa "Schaufelblätter";
+}
+
+//gravel.fac
+translate Sledgehammer to german masculine
+{
+    swa "Vorschlaghammer"; 
+  sn "Vorschlaghammer"; sg "Vorschlaghammers"; sd "Vorschlaghammer"; sa "Vorschlaghammer";
+  pn "Vorschlaghämmer"; pg "Vorschlaghämmer"; pd "Vorschlaghämmern"; pa "Vorschlaghämmer";
+}
+
+//whittling.fac
+translate "Make an Clay Lamp"
+to german "Stelle eine Tonlampe her";
+
+translate "To make an Clay Lamp you need:"
+to german "Um eine Tonlampe herzustellen, benötigst du:";

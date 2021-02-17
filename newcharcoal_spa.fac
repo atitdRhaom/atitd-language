@@ -1,0 +1,101 @@
+module newcharcoal_spa;
+
+translate Charcoal to spanish masculine
+{
+  ns "Carbón";
+  np "Carbón";
+}
+
+translate "Projects/Charcoal Brazier"
+to spanish "Proyectos/hogueras a Carbón";
+
+translate "Projects/Charcoal/Charcoal Hearth"
+to spanish "Proyectos/Carbón/hogar a Carbón";
+
+translate "Projects/Charcoal/Charcoal Oven"
+to spanish "Proyectos/Carbón/horno a Carbón";
+
+translate "Wood in your inventory: N1"
+to spanish "Leña en su inventario : N1";
+
+translate "Water in your inventory: N1"
+to spanish "Agua en su inventario : N1";
+
+translate "Charcoal produced on success: N1"
+to spanish "Carbón producido : N1";
+
+translate "Wood needed to get started: N1"
+to spanish "Leña necesario para comenzar : N1";
+
+translate "Take the leftover wood out first."
+to spanish "Tome primero lo que se queda de leña";
+
+translate "You must know The Science of Charcoal"
+to spanish "Usted debe conocer la ciencia del Carbón";
+
+translate "You do not have N1 wood."
+to spanish "Usted no tiene N1 leña.";
+
+translate "You successfully made a batch of charcoal."
+to spanish "Usted consiguió fabricar Carbón.";
+
+translate "The oven has cooled.  The wood in the oven did not charcoalize, take it back out."
+to spanish "El horno se enfrió. El madera no se transformó en carbón, repítalo.";
+
+translate "The charcoal burst into flames!  Everything was reduced to cinders."
+to spanish "¡ El Carbón se incendió! Todo se fue a humo.";
+
+translate "The fire was snuffed by lack of air. The oven is cooling."
+to spanish "El fuego ha sido asfixiado por falta de aire. El horno está enfriándose.";
+
+translate "The regulator is a training device."
+to spanish "El regulador es un dispositivo de entrenamiento.";
+
+translate "Turning it on lowers the randomness, but"
+to spanish "Acelerarlo reducto los comportamientos aleatorios, pero";
+
+translate "slows down the function of the hearth."
+to spanish "disminuye el funcionamiento del horno.";
+
+translate "Current Regulation Level: N1"
+to spanish "Nivel actual definido parámetros : N1 ";
+
+translate "Regulator/-"
+to spanish "Regulador/-";
+
+translate "Set Level 0 (unregulated, full speed)"
+to spanish "Nivel 0 (ninguna regulación, velocidad plena)";
+
+translate "Set Level 1"
+to spanish "Nivel 1";
+
+translate "Set Level 2"
+to spanish "Nivel 2";
+
+translate "Set Level 3"
+to spanish "Nivel 3";
+
+translate "Set Level 4"
+to spanish "Nivel 4";
+
+translate "Set Level 5 (regulated, very slow)"
+to spanish "Nivel 5 (regulación máxima, velocidad muy lenta)";
+
+translate "You cannot adjust the regulator when making a batch. You only adjust the regulator between batches."
+to spanish "Usted no puede ajustar el regulador mientras que el horno está en actividad. Usted debe esperar entre dos hornadas.";
+
+translate "You don't have any wood!"
+to spanish "¡ Usted no tiene leña!";
+
+translate "The wood hopper is full!"
+to spanish "¡ El hogar a leña está lleno!";
+
+translate "You don't have any water!"
+to spanish "¡ Usted no tiene agua!";
+
+translate "The fire is already soaked!"
+to spanish "¡ Usted ahogó el fuego!";
+
+translate "Regulator"
+to spanish "Regulador";
+

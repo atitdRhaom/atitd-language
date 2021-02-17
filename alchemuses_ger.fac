@@ -1,0 +1,223 @@
+module alchemuses_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (c)opyright 2002-2006 by MDO Entertainment 	                   **
+//**                                                                       **
+//***************************************************************************
+//menues
+
+
+translate OddPapyrusSeeds to german feminine
+{
+swa "seltsame Papyrussaat";
+sn "seltsame Papyrussaat"; sg "seltsamen Papyrussaat"; sd "seltsame Papyrussaat"; sa "merkwürdige Papyrussaat";
+pn "seltsame Papyrussaaten"; pg "seltsame Papyrussaaten"; pd "seltsamen Papyrussaaten"; pa "merkwürdige Papyrussaaten";
+}
+
+translate StrangePapyrusSeeds to german feminine
+{
+swa "fremde Papyrussaat";
+sn "fremde Papyrussaat"; sg "fremden  Papyrussaat"; sd "fremde Papyrussaat"; sa "fremde Papyrussaat";
+pn "fremde Papyrussaaten"; pg "fremde Papyrussaaten"; pd "fremden Papyrussaaten"; pa "sonderbare Papyrussaaten";
+}
+
+translate WierdPapyrusSeeds to german feminine
+{
+swa "bizarre Papyrussaat";
+sn "bizarre Papyrussaat"; sg "bizarren Papyrussaat"; sd "bizarre Papyrussaat"; sa "bizarre Papyrussaat";
+pn "bizarre Papyrussaaten";pg "bizarre Papyrussaaten"; pd "bizarren Papyrussaaten"; pa "bizarre Papyrussaaten";
+}
+
+translate PharaohPapyrusSeeds to german feminine
+{
+swa "Pharaohs Papyrussaat";
+sn "Pharaohs Papyrussaat"; sg "Pharaohs Papyrussaat"; sd "Pharaohs Papyrussaat"; sa "Pharaohs Papyrussaat";
+pn "Pharaohs Papyrussaaten"; pg "Pharaohs Papyrussaaten"; pd "Pharaohs Papyrussaaten"; pa "Pharaohs Papyrussaaten";
+}
+translate Arsenic to german neuter
+{
+swa "Arsen";
+sn "Arsen"; sg "Arsens"; sd "Arsen"; sa "Arsen";
+pn "Arsen"; pg "Arsen"; pd "Arsen"; pa "Arsen";
+}
+
+translate "Use Tincture"
+to german "Benutze Tinktur";
+
+translate "There is no known use for Tincture K1. If you believe you have a novel invention, you should first scry the tincture before using it."
+to german "Es gibt keine bekannte Anwendung für die Tinktur K1. Wenn du glaubst, eine Neuentdeckung gemacht zu haben, solltest du erst die Tinktur überprüfen, bevor du sie anwendest.";
+
+translate "You don't have N1 K1."
+to german "Dir fehlen N1 K1.";
+
+translate "Transmuting K1 into K2. How many copies? (max 100)"
+to german "Wandle K1 zu K2 um. Wieviele Kopien? (max 100)";
+
+translate "Transmute Metal: Lead to Gold (1)"
+to german "Verwandle Blei zu Gold (1)";
+
+translate "Transmute Metal: Gold to Lead (1)"
+to german "Verwandle Gold zu Blei (1)";
+
+translate "Transmute Glowers: Yellow to Green (90)"
+to german "Verwandle Gelb zu Grün (90)";
+
+translate "Transmute Glowers: Green to Yellow (100)"
+to german "Verwandle Grün zu Gelb (100)";
+
+translate "Transmute Glowers: Green to Red (60)"
+to german "Verwandle Grün zu Rot (60)";
+
+translate "Transmute Glowers: Red to Blue (40)"
+to german "Verwandle Rot zu Blau (40)";
+
+translate "Transmute Glowers: Red to Orange (40)"
+to german "Verwandle Rot zu Orange (40)";
+
+translate "Enrich Flower Fertilizer (100)"
+to german "Blumendünger anreichern (100)";
+
+translate "Enrich Flower Fertilizer (300)"
+to german "Blumendünger anreichern (300)";
+
+translate "Enrich Flower Fertilizer (500)"
+to german "Blumendünger anreichern (500)";
+
+translate "Deep Enrich Flower Fertilizer (100)"
+to german "Blumendünger anreichern - hochgezüchtet (100)";
+
+translate "Deep Enrich Flower Fertilizer (300)"
+to german "Blumendünger anreichern - hochgezüchtet (300)";
+
+translate "Deep Enrich Flower Fertilizer (500)"
+to german "Blumendünger anreichern - hochgezüchtet (500)";
+
+translate "Transmute Ash to Potash (1)"
+to german "Verwandle Asche zu Pottasche (1)";
+
+translate "Transmute Ash to Potash (2)"
+to german "Verwandle Asche zu Pottasche (2)";
+
+translate "Potash Catalyst"
+to german "Pottaschenkatalysator";
+
+translate "Improved Potash Catalyst"
+to german "Verbesserter Pottaschenkatalysator";
+
+translate "Odd Papyrus Seeds"
+to german "Seltsame Papyrussaaten";
+
+translate "Strange Papyrus Seeds"
+to german "Fremde Papyrussaaten";
+
+translate "Wierd Papyrus Seeds"
+to german "Bizarre Papyrussaaten";
+
+translate "Sapphire Fracture"
+to german "Saphirbruchstück";
+
+translate "Sapphire Glue"
+to german "Saphirkleber";
+
+translate "Quartz Fracture"
+to german "Quarzbruchstück";
+
+translate "Quartz Glue"
+to german "Quarzkleber";
+
+translate "Diamond Fracture"
+to german "Diamantbruchstück";
+
+translate "Diamond Glue"
+to german "Diamantkleber";
+
+translate "Ruby Fracture"
+to german "Rubinbruchstück";
+
+translate "Ruby Glue"
+to german "Rubinkleber";
+
+translate "Topaz Fracture"
+to german "Topazbruchstück";
+
+translate "Topaz Glue"
+to german "Topazkleber";
+
+translate "Emerald Fracture"
+to german "Smaragdbruchstück";
+
+translate "Emerald Glue"
+to german "Smaragdkleber";
+
+translate "Low Explosive, Standard Yield"
+to german "Geringe Explosion, Standardausbeute";
+
+translate "High Explosive, Standard Yield"
+to german "Gewaltige Explosion, Standardausbeute";
+
+translate "Brimstone Catalyst, Left"
+to german "Schwefelkatalisator, links";
+
+translate "Brimstone Catalyst, Right"
+to german "Schwefelkatalisator, rechts";
+
+translate "Transmute Coal to Angel's Stone, 250->1"
+to german "Verwandle Kohle in Engelsstein, 250->1";
+translate "Transmute Coal to Angel's Stone, 175->1"
+to german "Verwandle Kohle in Engelsstein, 175->1";
+translate "Transmute Coal to Angel's Stone, 125->2"
+to german "Verwandle Kohle in Engelsstein, 125->2";
+translate "Transmute Coal to Angel's Stone, 75->3"
+to german "Verwandle Kohle in Engelsstein, 75->3";
+translate "Transmute Coal to Angel's Stone, 55->5"
+to german "Verwandle Kohle in Engelsstein, 55->5";
+translate "Transmute Coal to Angel's Stone, 45->7"
+to german "Verwandle Kohle in Engelsstein, 45->7";
+
+translate "Transmute Lead into Arsenic"
+to german "Verwandle Blei in Arsen";
+
+
+
+translate "Too many parameters in Alchemical Function. Call a developer."
+to german "Diese Alchemiefunktion beinhaltet zu viele Parameter. Rufe einen Entwickler.";
+
+translate "Transmuting O1 into O2. How many recipes of O3? (max 100)"
+to german "Umwandlung von O1(sn) zu O2(sn). Wieviele O3(pn)? (Max. 100)";
+
+translate "You don't have N1 O1."
+to german "Dir fehlen N1 O1(N1?pn:sn).";
+
+translate "You don't have N1 vials of Tincture O1"
+to german "Du hast keine N1 Phiolen der Tinktur O1(sn).";
+
+translate "Fracture Gems/Tincture O1: One O2 into five O3"
+to german "Zerteile Edelsteine/Tinktur O1(sn): Ein O2(sn) in fünf O3(pn) ";
+
+translate "Fuse Gems/Tincture O1: Nine O2 into one O3"
+to german "Verschmelze Edelsteine/Tinktur O1(sn) : Neun O2(pn) zu einem O3(sn) ";
+
+translate "This tincture required a technology that you do not have."
+to german "Diese Tinktur benötigt eine Technologie, die du nicht besitzt.";
+
+translate "This tincture should be used at a Gem Cutting Table."
+to german "Diese Tinktur sollte in einer Edelsteinschleiferei verwendet werden.";
+
+translate "This must be used in a Detonation Chamber, the technology for which which can be researched at all Universities of The Human Body."
+to german "Dies muß in einem Detonationraum verwendet werden, eine Technologie, die an allen Universitäten des menschlichen Körpers erforscht werden kann.";
+
+translate "This must be used in a Detonation Chamber, the technology for which can be researched at all Universities of The Human Body."
+to german "Dies muß in einem Detonationraum verwendet werden, eine Technologie, die an allen Universitäten des menschlichen Körpers erforscht werden kann.";
+
+translate "This must be dribbled into a kettle before starting a recipe."
+to german "Dies muß in einen Kessel getröpfelt werden, bevor man ein Rezept beginnt.";
+
+translate "Titrate Tincture/"
+to german "Konzentriere die Tinktur/";
+
+translate "..."
+to german "...";
+

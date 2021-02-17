@@ -1,0 +1,187 @@
+module snakes_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment       	           **
+//**                                                                       **
+//***************************************************************************
+//menues
+
+translate HerpeCulture to german feminine
+{
+swa "Schlangenzucht";
+  sn "Schlangenzucht"; sg "Schlangenzucht"; sd "Schlangenzucht"; sa "Schlangenzucht";
+  pn "Schlangenzuchten"; pg "Schlangenzuchten"; pd "Schlangenzuchten"; pa "Schlangenzuchten";
+}
+translate CobraSkin to german feminine
+{
+  swa "Kobrahaut";
+  sn "Kobrahaut"; sg "Kobrahaut"; sd "Kobrahaut"; sa "Kobrahaut";
+  pn "Kobrahäute"; pg "Kobrahäute"; pd "Kobrahäuten"; pa "Kobrahäute";
+}
+
+translate CobraBlood to german neuter
+{
+  swa "Kobrablut";
+  sn "Kobrablut"; sg "Kobrablutes"; sd "Kobrablut"; sa "Kobrablut";
+  pn "Kobrablut"; pg "Kobrablut"; pd "Kobrablut"; pa "Kobrablut";
+}
+
+translate HerpecultureExperiments1 to german neuter
+{
+swa "Schlangen-Experiment 1";
+	sn "Schlangen-Experiment 1"; pn "Schlangen-Experimente 1";
+}
+
+translate Serpentarium to german feminine
+{
+swa "Schlangengrube";
+	sn "Schlangengrube"; pn "Schlangengruben";
+}
+
+translate CobraBasket to german masculine
+{
+swa "Kobrakorb";
+	sn "Kobrakorb"; pn "Kobrakörbe";
+}
+
+translate "Cobra Skin"
+to german "Schlangenhaut";
+
+translate "Techniques for the care and handling of poisonous snakes."
+to german "Technik für den Umgang und die Aufzucht giftiger Schlangen.";
+
+translate "Scientists will continue Herpeculture study, and provide insight to their care."
+to german "Die Forscher fahren mit der Erforschung der Schlangenzucht fort und gewähren Einblick in ihre Ergebnisse.";
+
+translate "Herpeculture (Completed)"
+to german "Schlangenzüchtung (Komplett)";
+
+translate "You learn to raise and handle snakes. Observe them carefully to larn more."
+to german "Du erlernst die Aufzucht und Pflege von Schlangen. Beobachte sie sorgfältig, um mehr zu lernen.";
+
+translate "A baby cobra was born."
+to german "Eine Kobra wurde geboren.";
+
+translate "A cobra settled in."
+to german "Eine Kobra hat sich eingenistet.";
+
+translate "A cobra slithered off. You can't follow the track."
+to german "Eine Kobra huscht davon. Du kannst ihr nicht folgen.";
+
+translate "A cobra slithered off to the North"
+to german "Eine Kobra huscht in Richtung Norden davon";
+
+translate "A cobra slithered off to the Northeast"
+to german "Eine Kobra huscht in Richtung Nordenost davon";
+
+translate "A cobra slithered off to the South"
+to german "Eine Kobra huscht in Richtung Süden davon";
+
+translate "A cobra slithered off to the Southeast"
+to german "Eine Kobra huscht in Richtung Südost davon";
+
+translate "A cobra slithered off to the East"
+to german "Eine Kobra huscht in Richtung West davon";
+
+translate "A cobra slithered off to the Southwest"
+to german "Eine Kobra huscht in Richtung Südwest davon";
+
+translate "A cobra slithered off to the West"
+to german "Eine Kobra huscht in Richtung West davon";
+
+translate "A cobra slithered off to the Northwest"
+to german "Eine Kobra huscht in Richtung Nordwest davon";
+
+translate "Feed the snakes"
+to german "Füttere die Schlangen";
+
+translate "Milk a cobra of venom"
+to german "Melke Schlangengift";
+
+translate "You carefully inventory the snakes, but find none ready to milk of venom."
+to german "Sorgfältig untersuchst Du die Schlangen, findest aber Keine, die zum Melken bereit ist.";
+
+translate "You collect a drop of the precious venom."
+to german "Du sammelst einen Tropfen des Gifts auf.";
+
+translate "Kill a cobra for its blood"
+to german "Töte eine Schlange, um an ihr Blut zu gelangen";
+
+translate "Examine the Serpentarium"
+to german "Untersuche das Schlangengrube";
+
+translate "The Serpentarium contains N1 cobras."
+to german "Die Schlangengrube enthält N1 Kobras.";
+
+translate "Special Examine"
+to german "Spezialuntersuchung";
+
+translate "Are you sure you want to kill a cobra?"
+to german "Bist Du sicher, daß Du die Kobra töten willst?";
+
+translate "You collect a vial of blood."
+to german "Du sammelst eine Phiole Blut ein.";
+
+translate "How many O1? (Max N1)"
+to german "Wieviele O1(sn)? (Max N1)";
+
+translate "Dump a basket of cobras into the Serpentarium"
+to german "Schütte einen Korb voller Kobras in die Schlangengrube";
+
+translate "A cobra ate: O1"
+to german "Eine Kobra fraß: O1(sn)";
+
+translate "Serpentarium Controller"
+to german "Schlangengrubenkontrolle";
+
+translate "After extensive study, we determined the following about the life-cycle of cobras:\n\n"
+to german "Nach ausführlichen Studien haben wir Folgendes über den Lebenzyklus von Kobras in Erfahrung gebracht:";
+
+translate "1. Wild cobras, while common, seldom settle into man-made pits. About once per hour, a clutch of cobras "
+to german "1. Wilde Kobras nisten sich selten in von Menschenhand errichteten Schlangengruben ein.";
+
+translate "will settle into a pit, somewhere in Egypt.\n"
+to german "Ungefähr einmal pro Stunde nistet sich ein Gelege Kobras irgendwo in Ägypten ein.";
+
+translate  "2. Cobras shed their skin at a constant rate, but more predictably when a pit is full. A pit with 49 "
+to german "2. Kobras häuten sich in regelmäßigen Abständen, aber zumeist, wenn eine Grube voll ist. Eine Grube ";
+
+translate "cobras will produce a skin once per hour.\n"
+to german "mit 49 Kobras produziert 1 Haut pro Stunde.";
+
+translate "3. A full pit has a dominant cobra every hour. A half full pit has one every 2 hours on average, etc. "
+to german "3. Eine volle Grube hat eine dominante Kobra pro Stunde. Eine halbvolle Grube durchschnittlich alle 2 Stunden, etc. ";
+
+translate "A dominant cobra in a pit will do one of three things with equal probability. We were astounded to discover how predictable cobras are this way!\n"
+to german "Eine dominante Kobra einer Grube tut 1 von 3 Dingen mit gleichbleibender Wahrscheinlichkeit. Wir waren verblüfft zu sehen, wie berechenbar Kobras sind!";
+
+translate "4. One thing the dominant cobra may do is breed. The baby will stay in the pit for at least one hour.\n"
+to german "4. Eines der Tätigkeiten einer dominanten Kobra ist das Brüten. Das Junge wird für mind. 1 Stunde in der Grube bleiben.";
+
+translate  "5. Another thing a dominant cobra may do is wander off. Captive cobras prefer to "
+to german "5. Das Andere ist das Auswandern. Gefangene Kobras bevorzugen in anderen nahen Gruben  ";
+
+translate "settle into nearby pits, but will sometimes escape back to the wild. Being wild animals, they don't seem to care who owns a pit! "
+to german "zu siedeln, flüchten aber auch manchmal zurück in die Wildnis. Sie sind ";
+
+translate "Cobras that wander will seldom go between just two pits.\n"
+to german "wilde Tiere und achten nicht auf ihre Halter! Wandernde Kobras gehen selten  den graden Weg zwischen 2 Gruben.";
+
+translate "6. A third thing a cobra may do is eat. Cobras are picky eaters, and will decide ahead of time what sort of food "
+to german "6. Zuletzt fressen Kobras. Sie sind wählerische und möchten jederzeit bestimmen, welche Art von Futter ";
+
+translate "they are in the mood for. Perhaps a bit of Camel Milk, or a tasty Rooster. If the food it wants is "
+to german "sie gerade bevorzugen. Vielleicht ein wenig Kamelmilch oder leckeren Hahn. Wenn sich das Futter, das sie möchten ";
+
+translate "in the pit, it will stay and eat. Otherwise it will return to the wild.\n"
+to german "in der Grube befindet, werden sie bleiben und fressen. Ansonsten werden sie in die Wildnis flüchten.";
+
+translate "7. The ratios of what the dominant cobra does each hour are such that by having an extensive network of nearby pits, "
+to german "7. Was die dominante Kobra jede Stunde tut, steht im Verhältnis zu dem Netzwerk der umliegenden Gruben.";
+
+translate "it is thought possible to raise cobras with extremely limited food."
+to german "Möglicherweise kann man Kobras mit extrem wenig Futter vermehren.";
+         

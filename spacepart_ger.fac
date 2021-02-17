@@ -1,0 +1,95 @@
+module spacepart_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment		           **
+//**                                                                       **
+//***************************************************************************
+//menues
+
+translate ReflectingPool to german neutercollective
+{
+  swa "Spiegelbecken";
+  sn "Spiegelbecken"; sg "Spiegelbeckens"; sd "Spiegelbecken"; sa "Spiegelbecken";
+  pn "Spiegelbecken"; pg "Spiegelbecken"; pd "Spiegelbecken"; pa "Spiegelbecken";
+}
+
+translate ReflectionMastery to german feminine
+{
+swa "Spiegelmeisterschaft";
+sn "Spiegelmeisterschaft"; pn "Spiegelmeisterschaften";
+}
+
+translate "Reflection Mastery"
+to german "Spiegelmeisterschaft";
+
+translate "The Test of Reflection, Wins: N1"
+to german "Der Test der Spiegelungen, Siege: N1";
+
+translate "Start the Initiation into Conflict"
+to german "Beginne die Einführung in den Konflikt";
+
+translate "Please wait..."
+to german "Bitte warten...";
+
+translate "We show respect to military leaders of ages past by engaging in direct one-on-one competition. Though Egypt's original battles were military in nature, today we engage in more cerebral competition. To initiate into the Discipline of Conflict, win seven games of Reflection. Hint: Most Chariot Stops have Reflecting Pools nearby."
+to german "";
+
+translate "In the Test of Reflection, you will need to fit pieces into a three dimensional board, attempting to fit the final piece."
+to german "Im Test der Spiegelungen mußt Du Kugeln zu einem dreidimensionalen Dreieck zusammenfügen und darauf achten, die letzte Zugmöglichkeit offen zu halten."; 
+
+translate "Concede"
+to german "Aufgeben";
+
+translate "Are you sure you want to concede?"
+to german "Möchtest Du wirklich aufgeben?";
+
+translate "Bubbles Left: N1"
+to german "Restliche Kugeln: N1";
+
+translate "Claim my win"
+to german "Fordere meinen Gewinn";
+
+translate "Next to move: U1"
+to german "Nächster Zug: U1(name)";
+
+translate "Reflect!"
+to german "Gespiegelt!";
+
+translate "U1 has used The Reflection!"
+to german "U1(name) hat die Spiegelung genutzt!";
+
+translate "Setting up game..."
+to german "Stelle Spiel auf...";
+
+translate "Looped more than 200 times. Call a developer."
+to german "Mehr als 200 Runden. Rufe einen Entwickler.";
+
+translate "Reset the Game"
+to german "Setze das Spiel zurück";
+
+translate "Play against Self"
+to german "Spiele gegen mich selbst";
+
+translate "Play Reflection"
+to german "Spiele Spiegelungen";
+
+translate "Play Reflection against U1"
+to german "Spiele Spiegelungen gegen U1(name)";
+
+translate "You must first sign up for the Test of Reflection at the Great University of Conflict."
+to german "Du mußt Dich zuerst für den Test der Spiegelungen an der Großen Universität des Konfliktes eintragen.";
+
+translate "You do not have enough O1"
+to german "Du hast nicht genug O1(pn)";
+
+translate "Your opponent does not have enough O1 for an offering."
+to german "Dein Gegenspieler hat nicht genug O1(pn) für ein Spielangebot.";
+
+translate "This game will not affect ranks because the pool is in Practice Mode."
+to german "Dieses Spiel hat keine Rangbeeinflussung, weil das Becken im Übungsmode ist.";
+
+translate "Withdraw from game"
+to german "Vom Spiel austragen";

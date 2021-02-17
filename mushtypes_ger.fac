@@ -1,0 +1,216 @@
+module mushtypes_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002,2003,2004,2005 by MDO Entertainment	           **
+//**                                                                       **
+//***************************************************************************
+
+//menues
+
+//objects
+translate Mushroom to german masculine
+{
+ swa "Pilz";
+  sn "Pilz"; sg "Pilzes"; sd "Pilz"; sa "Pilz";
+  pn "Pilze"; pg "Pilze"; pd "Pilzen"; pa "Pilze";
+}
+
+translate MushroomToadSkin to german masculine
+{
+ swa "Krötenhautpilz";
+  sn "Krötenhautpilz"; sg "Krötenhautpilzes"; sd "Krötenhautpilz"; sa "Krötenhautpilz";
+  pn "Krötenhautpilze"; pg "Krötenhautpilze"; pd "Krötenhautpilzen"; pa "Krötenhautpilze";
+}
+
+translate MushroomCamelsMane to german masculine
+{
+ swa "Kamelmähnenpilz";
+  sn "Kamelmähnenpilz"; sg "Kamelmähnenpilzes"; sd "Kamelmähnenpilz"; sa "Kamelmähnenpilz";
+  pn "Kamelmähnenpilze"; pg "Kamelmähnenpilze"; pd "Kamelmähnenpilzen"; pa "Kamelmähnenpilze";
+}
+
+translate MushroomColtsFoot to german masculine
+{
+ swa "Fohlenfußpilz";
+  sn "Fohlenfußpilz"; sg "Fohlenfußpilzes"; sd "Fohlenfußpilz"; sa "Fohlenfußpilz";
+  pn "Fohlenfußpilze"; pg "Fohlenfußpilze"; pd "Fohlenfußpilzen"; pa "Fohlenfußpilz";
+}
+
+translate MushroomNefertarisCrown to german masculine
+{
+ swa "Nefertaris Kronenpilz";
+  sn "Nefertaris Kronenpilz"; sg "Nefertaris Kronenpilzes"; sd "Nefertaris Kronenpilz"; sa "Nefertaris Kronenpilz";
+  pn "Nefertaris Kronenpilze"; pg "Nefertaris Kronenpilze"; pd "Nefertaris Kronenpilzen"; pa "Nefertaris Kronenpilze";
+}
+
+translate MushroomSandSpore to german masculine
+{
+ swa "Sandsporenpilz";
+  sn "Sandsporenpilz"; sg "Sandsporenpilzes"; sd "Sandsporenpilz"; sa "Sandsporenpilz";
+  pn "Sandsporenpilze"; pg "Sandsporenpilze"; pd "Sandsporenpilzen"; pa "Sandsporenpilze";
+}
+
+translate MushroomDuelingSerpents to german masculine
+{
+ swa "Schlangenkampfpilz";
+  sn "Schlangenkampfpilz"; sg "Schlangenkampfpilzes"; sd "Schlangenkampfpilz"; sa "Schlangenkampfpilz";
+  pn "Schlangenkampfpilze"; pg "Schlangenkampfpilze"; pd "Schlangenkampfpilzen"; pa "Schlangenkampfpilze";
+}
+
+translate MushroomEarthLight to german masculine
+{
+ swa "Weltenleuchterpilz";
+  sn "Weltenleuchterpilz"; sg "Weltenleuchterpilzes"; sd "Weltenleuchterpilz"; sa "Weltenleuchterpilz";
+  pn "Weltenleuchterpilze"; pg "Weltenleuchterpilze"; pd "Weltenleuchterpilzen"; pa "Weltenleuchterpilze";
+}
+
+translate MushroomScorpionsBrood to german masculine
+{
+ swa "Skorpionbrutpilz"; 
+  sn "Skorpionbrutpilz"; sg "Skorpionbrutpilzes"; sd "Skorpionbrutpilz"; sa "Skorpionbrutpilz";
+  pn "Skorpionbrutpilze"; pg "Skorpionbrutpilze"; pd "Skorpionbrutpilzen"; pa "Skorpionbrutpilze";
+}
+
+translate MushroomDeadTongue to german masculine
+{
+ swa "Todeszungenpilz";
+  sn "Todeszungenpilz"; sg "Todeszungenpilzes"; sd "Todeszungenpilz"; sa "Todeszungenpilz";
+  pn "Todeszungenpilze"; pg "Todeszungenpilze"; pd "Todeszungenpilzen"; pa "Todeszungenpilze";
+}
+
+translate MushroomAcornsCap to german masculine
+{
+ swa "Eichelhaubenpilz";
+  sn "Eichelhaubenpilz"; sg "Eichelhaubenpilzes"; sd "Eichelhaubenpilz"; sa "Eichelhaubenpilz";
+  pn "Eichelhaubenpilze"; pg "Eichelhaubenpilze"; pd "Eichelhaubenpilzen"; pa "Eichelhaubenpilze";
+}
+
+translate MushroomSlavesBread to german masculine
+{
+ swa "Hungerbrötlerpilz";
+  sn "Hungerbrötlerpilz"; sg "Hungerbrötlerpilzes"; sd "Hungerbrötlerpilz"; sa "Hungerbrötlerpilz";
+  pn "Hungerbrötlerpilze"; pg "Hungerbrötlerpilze"; pd "Hungerbrötlerpilzen"; pa "Hungerbrötlerpilze";
+}
+
+translate MushroomRasAwakening to german masculine
+{
+ swa "Ra's Erwachen Pilz";
+  sn "Ra's Erwachen Pilz"; sg "Ra's Erwachen Pilzes"; sd "Ra's Erwachen Pilz"; sa "Ra's Erwachen Pilz";
+  pn "Ra's Erwachen Pilze"; pg "Ra's Erwachen Pilze"; pd "Ra's Erwachen Pilzen"; pa "Ra's Erwachen Pilz";
+}
+
+translate MushroomHairyTooth to german masculine
+{
+ swa "Flaumzahnpilz";
+  sn "Flaumzahnpilz"; sg "Flaumzahnpilzes"; sd "Flaumzahnpilz"; sa "Flaumzahnpilz";
+  pn "Flaumzahnpilze"; pg "Flaumzahnpilze"; pd "Flaumzahnpilzen"; pa "Flaumzahnpilze";
+}
+
+translate MushroomFishHook to german masculine
+{
+ swa "Angelhakenpilz";
+  sn "Angelhakenpilz"; sg "Angelhakenpilzes"; sd "Angelhakenpilz"; sa "Angelhakenpilz";
+  pn "Angelhakenpilze"; pg "Angelhakenpilze"; pd "Angelhakenpilzen"; pa "Angelhakenpilze";
+}
+
+translate MushroomBleedingHand to german masculine
+{
+ swa "Blutendhandpilz";
+  sn "Blutendhandpilz"; sg "Blutendhandpilzes"; sd "Blutendhandpilz"; sa "Blutendhandpilz";
+  pn "Blutendhandpilze"; pg "Blutendhandpilze"; pd "Blutendhandpilzen"; pa "Blutendhandpilze";
+}
+translate MushroomIronKnot to german masculine
+{
+ swa "Eisenstichpilz";
+  sn "Eisenstichpilz"; sg "Eisenstichpilzes"; sd "Eisenstichpilz"; sa "Eisenstichpilz";
+  pn "Eisenstichpilz"; pg "Eisenstichpilze"; pd "Eisenstichpilzen"; pa "Eisenstichpilze";
+}
+
+translate MushroomCobraHood to german masculine
+{
+ swa"Kobranackenpilz";
+  sn "Kobranackenpilz"; sg "Kobranackenpilzes"; sd "Kobranackenpilz"; sa "Kobranackenpilz";
+  pn "Kobranackenpilze"; pg "Kobranackenpilze"; pd "Kobranackenpilzen"; pa "Kobranackenpilze";
+}
+
+translate MushroomHeartOfAsh to german masculine
+{
+ swa "Herzensaschenpilz";
+  sn "Herzensaschenpilz"; sg "Herzensaschenpilzes"; sd "Herzensaschenpilz"; sa "Herzensaschenpilz";
+  pn "Herzensaschenpilze"; pg "Herzensaschenpilze"; pd "Herzensaschenpilzen"; pa "Herzensaschenpilze";
+}
+
+translate MushroomPeasantFoot to german masculine
+{
+ swa "Bauernfußpilz";
+  sn "Bauernfußpilz"; sg "Bauernfußpilzes"; sd "Bauernfußpilz"; sa "Bauernfußpilz";
+  pn "Bauernfußpilze"; pg "Bauernfußpilze"; pd "Bauernfußpilzen"; pa "Bauernfußpilze";
+}
+
+translate MushroomEyeOfOsiris to german masculine
+{
+ swa "Osirisblickpilz";
+  sn "Osirisblickpilz"; sg "Osirisblickpilzes"; sd "Osirisblickpilz"; sa "Osirisblickpilz";
+  pn "Osirisblickpilze"; pg "Osirisblickpilze"; pd "Osirisblickpilzen"; pa "Osirisblickpilze";
+}
+
+translate MushroomDungRot to german masculine
+{
+ swa "Verfaulter Mistpilz";
+  sn "Verfaulte Mistpilz"; sg "Verfaulten Mistpilzes"; sd "Verfaulten Mistpilz"; sa "Verfaulten Mistpilz";
+  pn "Verfaulten Mistpilze"; pg "Verfaulten Mistpilze"; pd "Verfaulten Mistpilzen"; pa "Verfaulten Mistpilze";
+}
+
+translate MushroomPoolOfTranquility to german masculine
+{
+ swa "Ruhebeckenpilz";
+  sn "Ruhebeckenpilz"; sg "Ruhebeckenpilzes"; sd "Ruhebeckenpilz"; sa "Ruhebeckenpilz";
+  pn "Ruhebeckenpilze"; pg "Ruhebeckenpilzen"; pd "Ruhebeckenpilze"; pa "Ruhebeckenpilze";
+}
+
+translate MushroomCatNip to german masculine
+{
+ swa "Katzenbisspilz";
+  sn "Katzenbisspilz"; sg "Katzenbisspilzes"; sd "Katzenbisspilz"; sa "Katzenbisspilz";
+  pn "Katzenbisspilze"; pg "Katzenbisspilze"; pd "Katzenbisspilzen"; pa "Katzenbisspilze";
+}
+
+translate MushroomBrain to german masculine
+{
+ swa "Hirnpilz";
+  sn "Hirnpilz"; sg "Hirnpilzes"; sd "Hirnpilz"; sa "Hirnpilz";
+  pn "Hirnpilze"; pg "Hirnpilze"; pd "Hirnpilzen"; pa "Hirnpilze";
+}
+
+
+translate MushroomHeavensTorrent to german masculine
+{
+ swa "Wolkenbruchpilz";
+  sn "Wolkenbruchpilz"; sg "Wolkenbruchpilzes"; sd "Wolkenbruchpilz"; sa "Wolkenbruchpilz";
+  pn "Wolkenbruchpilze"; pg "Wolkenbruchpilze"; pd "Wolkenbruchpilzen"; pa "Wolkenbruchpilze";
+}
+
+translate MushroomNaturesJug to german masculine
+{
+ swa "Naturkrugpilz";
+  sn "Naturkrugpilz"; sg "Naturkrugpilzes"; sd "Naturkrugpilz"; sa "Naturkrugpilz";
+  pn "Naturkrugpilze"; pg "Naturkrugpilze"; pd "Naturkrugpilzen"; pa "Naturkrugpilze";
+}
+
+translate MushroomRazorsEdge to german masculine
+{
+ swa "Rassiermesserklingenpilz";
+  sn "Rassiermesserklingenpilz"; sg "Rassiermesserklingenpilzes"; sd "Rassiermesserklingenpilz"; sa "Rassiermesserklingenpilz";
+  pn "Rassiermesserklingenpilze"; pg "Rassiermesserklingenpilze"; pd "Rassiermesserklingenpilzen"; pa "Rassiermesserklingenpilze";
+}
+
+translate MushroomSaltWaterFungus to german masculine
+{
+ swa "Salzwasserpilz"; 
+  sn "Salzwasserpilz"; sg "Salzwasserpilzes"; sd "Salzwasserpilz"; sa "Salzwasserpilz";
+  pn "Salzwasserpilze"; pg "Salzwasserpilze"; pd "Salzwasserpilzen"; pa "Salzwasserpilze";
+}
+

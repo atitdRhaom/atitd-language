@@ -1,0 +1,510 @@
+module skills1_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2007 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+
+// Deep Well Construction
+
+translate DeepWellConstruction to german feminine
+{
+swa "Tiefenbohrerkonstruktion";
+sn "Tiefenbohrerkonstruktion"; pn "Tiefenbohrerkonstruktion";
+}
+translate "Allows digging through the sand, for water or other discoveries."
+to german "Erlaubt das Graben im Sand, um Wasser und andere Dinge zu finden.";
+
+//Casting
+
+translate Casting to german masculine
+{
+swa "Guss";
+sn "Guss"; pn "Guss";
+}
+translate "Allows shaping of wax moulds, and pouring of liquid metal."
+to german "Erlaubt Wachsformen herzustellen und flüssiges Metall zu gießen.";
+
+//Advanced Casting
+
+translate AdvancedCasting to german masculine
+{
+swa "Verbesserter Guss";
+sn "Verbesserter Guss"; pn "Verbesserter Guss";
+}
+
+//Flax Processing
+
+translate FlaxProcessing to german feminine
+{
+swa "Flachsverarbeitung";
+sn "Flachsverarbeitung"; pn "Flachsverarbeitung";
+}
+translate "The skill of extracting flax fibers, and weaving them into rope and cloth"
+to german "Verleiht die Fähigkeit, Flachs zu Fasern weiterzuverarbeiten und daraus Leinen und Tücher herzustellen.";
+
+//Basic Charcoal Produktion
+
+translate BasicCharcoalProduction to german feminine
+{
+swa "Elementare Holzkohleproduktion";
+sn "Elementare Holzkohleproduktion"; pn "Elementare Holzkohleproduktion";
+}
+translate "Allows construction of charcoal hearths."
+to german "Erlaubt die Konstruktion von Holzkohleöfen.";
+
+//Advanced Charcoal Produktion
+
+translate AdvancedCharcoalProduction to german feminine
+{
+swa "Erweiterte Holzkohleproduktion";
+sn "Erweiterte Holzkohleproduktion"; pn "Erweiterte Holzkohleproduktion";
+}
+translate "Allows construction of sophisticated charcoal ovens."
+to german "Erlaubt die Konstruktion von edlen Holzkohleöfen.";
+
+translate "To learn advanced charcoal production, you must have first successfully made a batch of charcoal in a charFcoal hearth."
+to german "Um erweiterte Holzkohleproduktion zu erlernen, musst du erst in einem Holzkohleherd erfolgreich einen Stapel Holzkohle gemacht haben.";
+
+//MortarConstruction
+
+translate MortarConstruction to german feminine
+{
+swa "Mörserherstellung";
+sn "Mörserherstellung"; pn "Mörserherstellung";
+}
+translate "Allows pyrotechnic mortars to be built."
+to german "Erlaubt es Feuerwerksmörser zu bauen.";
+
+//controlled Burn
+
+translate "Allows firepits to be constructed, to consume materials in a controlled way."
+to german "Erlaubt den Bau von Feuergruben, um Materialien kontrolliert zu verarbeiten.";
+
+//Mine Construction
+
+translate Mining to german feminine
+{
+swa "Erzabbau";
+sn "Erzabbau"; pn "Erzabbau";
+}
+translate MineUse to german feminine
+{
+swa "Minenarbeit";
+sn "Minenarbeit"; pn "Minenarbeit";
+}
+translate "Allows digging into the earth to discover hidden resources."
+to german "Erlaubt es in der Erde nach versteckten Ressourcen zu graben.";
+
+translate "Increases production of mines"
+to german "Steigert die Minenproduktion";
+
+//Quick Casting
+
+translate Finecasting to german masculine
+{
+swa "Feinguss";
+sn "Feinguss"; pn "Feinguss";
+}
+translate "Allows one to make small objects in casting boxes, like bearings and small gears."
+to german "Erlaubt die Herstellung kleinerer Objekte in Gießereien, z.B. Kugellager und kleine Zahnräder.";
+
+translate "Allows one to finely cut stones."
+to german "Erlaubt es Steine exakt zu zerschneiden.";
+
+translate StoneCutting to german masculine
+{
+swa "Steinschnitt";
+sn "Steinschnitt"; pn "Steinschnitt";
+}
+translate "Allows one to cut structural stones."
+to german "Erlaubt die Herstellung von zugeschnittenen Steinen.";
+
+//Carpentry
+
+translate Carpentry to german feminine
+{
+swa "Zimmerei";
+sn "Zimmerei"; pn "Zimmerei";
+}
+//Pottery
+
+translate Pottery to german masculine
+{
+swa "Töpferei"; 
+sn "Töpferei"; pn "Töpferei";
+}
+translate "To learn pottery, you'll need 10 Clay as tuition. The school has given you an empty jug to help you gather clay."
+to german "Um Töpfern zu lernen, brauchst du 10 Stück Ton. Die Schule hat dir einen leeren Krug gegeben, um dir beim Tonsammeln zu helfen.";
+
+//Structural Pottery
+
+translate StructuralPottery to german feminine
+{
+swa "Strukturierte Töpferei";
+sn "Strukturierte Töpferei"; pn "Strukturierte Töpferei";
+}
+
+
+translate "Allows construction of machinery for huge earthenware projects"
+to german "Erlaubt die Konstruktion von Maschinen für große, irdene Projekte";
+
+//KILN CONSTRUCTION
+
+translate KilnConstruction to german feminine
+{
+swa "Ofenkonstruktion"; 
+sn "Ofenkonstruktion"; pn "Ofenkonstruktion";
+}
+
+//Rock Saw Construction
+
+translate RockSawConstruction to german feminine
+{
+swa "Steinsägenkonstruktion";
+sn "Steinsägenkonstruktion"; pn "Steinsägenkonstruktion";
+}
+
+//Automation
+
+translate Automation to german feminine
+{
+swa "Automatisierung";
+sn "Automatisierung"; pn "Automatisierung";
+}
+translate "Basic Science - allows other discoveries."
+to german "Elementare Wissenschaft - Erlaubt andere Entdeckungen.";
+
+
+//Mechanics
+
+translate Mechanics to german feminine
+{
+swa "Mechanik"; 
+sn "Mechanik"; pn "Mechanik";
+}
+
+translate "Allows for the construction of automated brick making machines."
+to german "Erlaubt den Bau von automatisierten Ziegelmaschinen.";
+
+translate "You must first learn the basics of Automation."
+to german "Du musst zuerst die Grundlagen der Automatisierung erlernen.";
+
+translate "The scientists regrettably inform you that they are still trying to determine exactly what they need to complete this research."
+to german "Die Wissenschaftler teilen ihr Bedauern mit, dass sie immer noch auf der Suche nach den benötigten Forschungsmaterialien sind.";
+
+//Flax Automation
+
+translate FlaxAutomation to german feminine
+{
+swa "Flachsautomatisierung"; 
+sn "Flachsautomatisierung"; pn "Flachsautomatisierung";
+}
+
+translate "Allows construction - but not operation - of the Flax Gin."
+to german "Erlaubt den Bau - aber nicht Bedienung - eines Flachsentkörners";
+
+translate "For this research, we only accept donations from bona fide Artists."
+to german "Für diese Forschung akzeptieren wir nur Spenden von gefestigten Künstlern.";
+
+translate "Flax Automation can only be learned by bona fide Artists."
+to german "Flachsautomatisierung kann nur von gefestigten Künstlern erlernt werden.";
+
+//PROJECT MANAGEMENT
+
+translate ProjectManagement to german feminine
+{
+swa "Projektverwaltung"; 
+sn "Projektverwaltung"; pn "Projektverwaltung";
+}
+
+//Cooking
+
+translate Cooking to german neuter
+{
+swa "Kochen"; 
+sn "Kochen"; pn "Kochen";
+}
+
+//Agriculture
+
+translate Agriculture to german feminine
+{
+swa "Landwirtschaft"; 
+sn "Landwirtschaft"; pn "Landwirtschaft";
+}
+translate "Allows farming and other research. (Learning this skill does not give new abilities.)"
+to german "Erlaubt Viehzucht und andere Forschungen. (Das Erlernen dieser Fertigkeit gibt keine neuen Fähigkeiten.)";
+
+translate "Allows cultivation of barley."
+to german "Erlaubt die Kultivierung von Gerste.";
+
+//Gardening
+
+translate Gardening to german masculine
+{
+swa "Gartenbau"; 
+sn "Gartenbau"; pn "Gartenbau";
+}
+translate "Allows construction of greenhouses."
+to german "Erlaubt den Bau von Gewächshäusern.";
+
+//CROSS BREEDING
+
+translate CrossBreeding to german feminine
+{
+swa "Kreuzkultur"; 
+sn "Kreuzkultur"; pn "Kreuzkultur";
+}
+translate "Allows interbreeding strains of some plants."
+to german "Erlaubt die Kreuzung verschiedenen Sorten einiger Pflanzen.";
+
+translate "Any Flax Seeds"
+to german "Jegliche Flachssaaten";
+translate "Distillation Coils, Quality 3000+"
+to german "Destillationsspiralen: Qualität 3000+";
+translate "Destillation Coils, Quality 4000+"
+to german "Destillationsspiralen: Qualität 4000+";
+translate "Distillation Coils, Quality 5000+"
+to german "Destillationsspirale: Qualität 5000+";
+
+translate "Lily-of-the-Sea Bulbs, Energy  Strain"
+to german "Knollen der Seelilie: Energie";
+translate "Lily-of-the-Sea Bulbs, Fracture  Strain"
+to german "Knollen der Seelilie: Bruch";
+translate "Lily-of-the-Sea Bulbs, Vampire  Strain"
+to german "Knollen der Seelilie: Vampir";
+translate "Lily-of-the-Sea Bulbs, Silken  Strain"
+to german "Knollen der Seelilie: Seidig";
+
+//Stressed BREEDING
+
+translate StressedBreeding to german feminine
+{
+swa "Anspruchsvolle Kreuzkultur";
+sn "Anspruchsvolle Kreuzkultur"; pn "Anspruchsvolle Kreuzkultur";
+}
+translate "Two kinds of reproduceable mutations of some plants."
+to german "Zwei gesteuerte Mutationsmöglichkeiten mit einige Pflanzen.";
+
+//SEED REGISTRY
+
+translate SeedRegistry to german feminine
+{
+swa "Saatgutregistrierung"; 
+sn "Saatgutregistrierung"; pn "Saatgutregistrierung";
+}
+translate "Creates a global registry of seed types."
+to german "Schafft eine globale Registrierung von Saatguttypen";
+
+//ANIMAL HUSBANDRY
+
+translate AnimalHusbandry to german feminine
+{
+swa "Tierhaltung"; 
+sn "Tierhaltung"; pn "Tierhaltung";
+}
+translate "Allows capture and breeding of wild animals."
+to german "Erlaubt das Fangen und Züchten von wilden Tieren.";
+
+// ADVANCED ANIMAL HUSBANDRY
+
+translate "Techniques to encourage procreation of certain types of livestock."
+to german "Techniken zur Zucht bestimmter Tierarten.";
+
+// BEEKEEPING
+
+translate Beekeeping to german feminine
+{
+swa "Bienenzucht"; 
+sn "Bienenzucht"; pn "Bienenzucht";
+}
+translate "Allows capture and breeding of wild bees."
+to german "Erlaubt das Fangen und Züchten wilder Bienen.";
+
+translate "Recipes for essense that adjusts hive output."
+to german "Rezepte für Essenzen, welche die Bienenstockproduktion verbessern.";
+
+//Navigation
+
+translate Navigation to german feminine
+{
+swa "Navigation";
+sn "Navigation"; pn "Navigation";
+}
+
+//PRECISION WOODCUTTING
+
+translate PrecisionWoodcutting to german feminine
+{
+swa "Baumfällpräzision";
+sn "Baumfällpräzision"; pn "Baumfällpräzision";
+}
+translate "Precision woodcutting requires a finely made steel axe. Fine Steel Axes can be crafted by Students of Architecture, once per week."
+to german "Baumfällpräzision benötigt eine feine Stahlaxt, die von Studenten der Architektur einmal pro Woche geschaffen werden kann.";
+
+//SALVAGE
+
+translate Salvage to german feminine
+{
+swa "Bergungstechniken";
+sn "Bergungstechniken"; pn "Bergungstechniken";
+}
+translate "Allows you to retrieve some of the materials when you tear down obsolete buildings."
+to german "Befähigt einige Materialien beim Abreißen überholter Gebäude zurück zu erhalten.";
+
+//Structure Maintenance
+
+translate StructureMaintenance to german feminine
+{
+swa "Strukturerneuerung";
+sn "Strukturerneuerung"; pn "Strukturerneuerung";
+}
+
+//PAPYRUS PAPER FABRICATION
+
+translate PapyrusPaperFabrication to german feminine
+{
+swa "Papyruspapierherstellung";
+sn "Papyruspapierherstellung"; pn "Papyruspapierherstellung";
+}
+translate "Papyrus for materials research"
+to german "Papyrus zur Materialerforschung";
+translate "Techniques for pressing dried Papyrus into high quality paper."
+to german "Eine Technik, um aus gepresstem, getrockneten Papyrus hochqualitatives Papier herzustellen.";
+
+//METALLURGY
+
+translate Metallurgy to german feminine
+{
+swa "Metallbearbeitung";
+sn "Metallbearbeitung"; pn "Metallbearbeitung";
+}
+
+translate "Allows refining of metal from ore, and shaping metal tools."
+to german "Erlaubt die Raffinierung von Metall aus Erz und die Fertigung von Metallwerkzeugen.";
+
+translate "Allows for the construction of furnaces to produce alloys"
+to german "Erlaubt den Bau von Öfen zur Herstellung von Legierungen";
+
+translate "You study techniques which allow for the conversion of raw ore into pure metals."
+to german "Du lernst Techniken, die dir die Verarbeitung von Rohmetallen zu reinen Metallen erlauben.";
+
+
+translate "Allows for the construction of furnaces to produce alloys"
+to german "Erlaubt den Bau von Schmelzöfen, um Metalllegierungen herzustellen";
+
+translate "You study techniques that, with care, allow you to create metal alloys"
+to german "Du studierst Techniken, die dir bei vorsichtiger Anwendung die Herstellung von Metalllegierungen ermöglichen.";
+
+//BLACK SMITHING
+
+translate Blacksmithing to german feminine
+{
+swa "Schmiedekunst";
+sn "Schmiedekunst"; pn "Schmiedekunst";
+}
+translate "Allows one to forge various blades"
+to german "Erlaubt das Schmieden verschiedener Klingen";
+
+translate "Allows creation of Diamond Tipped tools of all types,\nwhich do not deteriorate as other tools do."
+to german "Erlaubt die Herstellung von diamantenbesetzten Werkzeugen \naller Art, die nicht zerfallen können.";
+
+//BASIC CHEMISTRY
+
+translate Chemistry to german feminine
+{
+swa "Elementare Chemie";
+sn "Elementare Chemie"; pn "Elementare Chemie";
+}
+translate "Allows creation of basic laboratories."
+to german "Erlaubt den Bau von einfachen Laboratorien.";
+
+//ADVANCED CHEMISTRY
+
+translate Chemistry to german feminine
+{
+swa "Erweiterte Chemie";
+sn "Erweiterte Chemie"; pn "Erweiterte Chemie";
+}
+translate "Allows the construction of advanced chemistry devices."
+to german "Erlaubt den Bau von verbesserten Chemielaboreinrichtungen.";
+
+translate "Quality 1000+ Distillation Coils"
+to german "Destillationspiralen: Qualität 1000+";
+translate "Quality 1500+ Distillation Coils"
+to german "Destillationspiralen:Qualität 1500+";
+translate "Quality 2000+ Distillation Coils"
+to german "Destillationsspiralen: Qualität 2000+";
+translate "Quality 2000+ Test Tubes"
+to german "Qualität 2000+ Teströhrchen";
+translate "Quality 3000+ Test Tubes"
+to german "Qualität 3000+ Teströhrchen";
+translate "Quality 2000+ Florence Flask"
+to german "Qualität 2000+ Erlenmayerkolben";
+translate "Quality 3000+ Florence Flask"
+to german "Qualität 3000+ Erlenmayerkolben";
+translate "Quality 2000+ Beaker"
+to german "Qualität 2000+ Becher";
+translate "Quality 3000+ Beaker"
+to german "Qualität 3000+ Becher";
+translate "Quality 2000+ Thistle Tube"
+to german "Qualität 2000+ Glockentrichter";
+translate "Quality 3000+ Thistle Tube"
+to german "Qualität 3000+ Glockentrichter";
+
+translate "The scientists are happy to report that they recovered their notes, and appoligize for the delay. With their newly researched technology you will be able to build a Crematory."
+to german "Die Wissenschaftler freuen sich mitteilen zu können, dass sie ihre Notizen wiedergefunden haben und entschuldigen die Verzögerung. Mit ihrer neuesten erforschten Wissenschaft wird man nun in der Lage sein, Krematorien zu bauen.";
+
+//GLASSBLOWING
+
+translate Glassblowing to german feminine
+{
+swa "Glasbearbeitung";
+sn "Glasbearbeitung"; pn "Glasbearbeitung";
+}
+translate "Allows creation & operation of Glazier's Benches."
+to german "Erlaubt den Bau von Glaswerkbänken und deren Bedienung.";
+
+//RITUAL ITEM CONSTRUCTION
+
+translate RitualItemConstruction to german feminine
+{
+swa "Ritualgegenstands-Konstruktion";
+sn "Ritualgegenstands-Konstruktion"; pn "Ritualgegenstands-Konstruktion";
+}
+
+//CHARIOT REPAIR
+
+translate ChariotRepair to german feminine
+{
+swa "Haltebuchtreparatur";
+sn "Haltebuchtreparatur"; pn "Glasblasen";
+}
+translate "Allows the repair of Chariot Stops back to their original condition."
+to german "Erlaubt die Reparatur der Haltebuchten in ihren originalen Zustand.";
+
+//GUILD CONSTRUCTION
+
+translate GuildConstruction to german feminine
+{
+swa "Gildenkonstruktion";
+sn "Gildenkonstruktion"; pn "Gildenkonstruktion";
+}
+translate "Allows the creation of Guild Halls, to coordinate the activities of groups of people."
+to german "Erlaubt den Bau von Gildenhallen, um gemeinsame Aktivitäten besser zu koordinieren.";
+
+// MISC CRUD
+
+translate HarvestElixerRecipe to german neuter
+{
+swa "Düngeelixierrezept";
+sn "Düngeelixierrezept"; pn "Düngeelixierrezepte";
+}
+
+translate "You learn an ancient recipe for Harvest Elixer, a highly nourishing plant fertilizer. Harvest Elixer, while more costly to make than normal fertilizer, works for a longer period of time and therefore requires less frequent tending. A new option has appeared on kitchens."
+to german "Du lernst ein altes Rezept für ein Düngeelixier; ein hochwirksamer Pflanzendünger. Das Düngeelixier ist teurer in der Herstellung als normaler Dünger, die Wirkung hält aber länger an und benötigt weniger Arbeit. Eine Option ist in der Küche verfügbar.";
+

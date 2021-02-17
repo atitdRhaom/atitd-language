@@ -1,0 +1,81 @@
+module christmas_fre;
+
+
+translate Present to french masculine
+{
+  ns "Présent"; np "Présents";
+}
+
+translate Snowstorm to french feminine
+{
+  ns "Tempête de neige"; np "Tempêtes de neige";
+}
+
+translate ChocolateCaramelPyramids to french feminine
+{
+  ns "Pyramide de chocolat au caramel"; np "Pyramides de chocolat au caramel";
+}
+
+translate ChocolatePeanutClusters to french masculine
+{
+  ns "Paquet d'arachides enrobées de chocolat"; np "Paquets d'arachides enrobées de chocolat";
+}
+
+translate ChocolateDateJumbles to french masculine
+{
+  ns "Méli-mélo de chocolats et dattes"; np "Méli-mélos de chocolats et dattes";
+}
+
+translate ChocolateCoconutWafers to french feminine
+{
+  ns "Gaufre à la noix de coco chocolatée"; np "Gaufres à la noix de coco chocolatées";
+}
+
+translate ChocolateLemonJellies to french masculine
+{
+  ns "Jujubes au citron chocolatés"; np "Jujubes au citron chocolatés";
+}
+
+translate ChocolateWineCordials to french masculine
+{
+  ns "Petits chocolats au vin"; np "Petits chocolats au vin";
+}
+
+translate ChocolateNougatSquares to french masculine
+{
+  ns "Carré de chocolat au nougat"; np "Carrés de chocolat au nougat";
+}
+
+translate "-"
+to french "-";
+
+translate "*"
+to french "*";
+
+translate "Add to Christmas Tree List"
+to french "Ajouter à la liste de Noël";
+	
+translate "It's a present for U1"
+to french "C'est un présent pour U1(name)";
+
+//translate "Spawning gifts for U1"
+//to french "";
+
+translate "Open the present!"
+to french "Ouvrir le présent !";
+
+translate "It's a box of chocolates!"
+to french "C'est une boîte de chocolats !";
+
+translate "Consume"
+to french "Consommer";
+
+translate "Eat some Chocolate"
+to french "S'empifrer de chocolat";
+
+translate "It's a pile of fireworks!"
+to french "C'est un assortiment de feux d'artifices !";
+
+translate "It's a small booklet that describes features of the countryside near where you live! (an Extra Waypoint)"
+to french "C'est un petit livret qui décrit les aspect des alentours de l'endroit où vous vivez ! (Un point de téléportation supplémentaire)";
+

@@ -1,0 +1,258 @@
+Module Mafia_fre;
+
+translate MortuaryTemple to french masculine
+{
+  ns "Temple mortuaire"; np "Temples mortuaires";
+  }
+
+translate DesecratedTemple to french masculine
+{
+  ns "Temple décrépit"; np "Temples décrépits";
+  }
+
+translate "Werewolf"
+to french "Loup-garou";
+
+translate "Normal Villager"
+to french "Simple villageois";
+
+translate "Seer"
+to french "Voyant";
+
+translate "All previous Mortuary Temples crumble to dust..."
+to french "Tous les précédents temples mortuaires s'effondrent...";
+
+translate "Participants in Werewolf may now build their Mortuary Temples."
+to french "Les participants peuvent maintenant construire leur temple mortuaire.";
+
+translate "There are N1 Werewolves, and  N2 Villagers and Seers."
+to french "Il y a N1 loups-garou, et N2 villageois et voyants.";
+
+translate "Daytime, day N1. There are N2 Werewolves, and N3 Villagers and Seers."
+to french "Journée, jour N1. Il y a N2 loups-garou, et N3 villageois et voyants.";
+translate "Evening, day N1. There are N2 Werewolves, and N3 Villagers and Seers."
+to french "Soirée, jour N1. Il y a N2 loups-garou, et N3 villageois et voyants.";
+
+translate "The Werewolf Event has ended. Prizes are being awarded."
+to french "La partie de Loup-Garou est terminée. Les prix vont être distribués.";
+
+translate "Daytime, day N1 - Try to blend in."
+to french "Journée, jour N1 - Fondez-vous dans la masse.";
+
+translate "Daytime, day N1 - Watch for suspicious behavior and vote."
+to french "Journée, jour N1 - Guettez les comportements étranges et votez.";
+
+translate "Evening, day N1 - Begin your hunt!"
+to french "Soirée, jour N1 - La chasse commence !";
+
+translate "Evening, day N1 - Watch your back!"
+to french "Soirée, jour N1 - Surveillez vos arrières!";
+
+translate "You were lynched under suspicion of lycanthropy."
+to french "Vous avez été lynché, suspecté de lycanthropie.";
+
+translate "You tried to lynch U1, but not enough others did."
+to french "Vous avez essayé de lyncher U1(name), mais vous n'avez pas été suivi par vos concitoyens.";
+
+translate "You lynched U1. Examining the body shows that they were a Werewolf."
+to french "Vous lynchez U1(name). En examinant son cadavre, vous constatez qu'il s'agit d'un loup-garou.";
+
+translate "You lynched U1. Examining the body shows that they were a Seer."
+to french "Vous lynchez U1(name). En examinant son cadavre, vous constatez qu'il s'agit d'un voyant.";
+
+translate "You lynched U1. Examining the body shows that they were a Normal Villager."
+to french "Vous lynchez U1(name). En examinant son cadavre, vous constatez qu'il s'agit d'un simple villageois.";
+
+translate "Smelled: U1 Sniffed "
+to french "Vous reniflez: U1(name)";
+
+translate "Smell this Mortuary Temple"
+to french "Renifler ce temple mortuaire";
+
+translate "You can't get the scent. You'll be able to smell more tomorrow."
+to french "Vous ne sentez rien. Vous pourrez renifler davantage demain.";
+
+translate "U1 is an outsider. (Not Playing)"
+to french "U1(name) est un déserteur. (ne joue pas)";
+
+translate "From the scent of the Mortuary Temple, you can tell that U1 is a Werewolf!"
+to french "D'après l'odeur du temple mortuaire, vous percevez que U1(name) est un loup-garou!";
+
+translate "From the scent of the Mortuary Temple, you can tell that U1 is not a Werewolf."
+to french "D'après l'odeur du temple mortuaire, vous percevez que U1(name) n'est pas un loup-garou.";
+
+translate "Smell U1"
+to french "Renifler U1(name)";
+
+translate "U1 is already dead."
+to french "U1(name) est déjà mort.";
+
+translate "You can tell that U1 is a Werewolf!"
+to french "Vous percevez que U1(name) est un loup-garou!";
+
+translate "You can tell that U1 is not a Werewolf."
+to french "Vous percevez que U1(name) n'est pas un loup-garou.";
+
+translate "Attack a Villager"
+to french "Attaquer un villageois";
+
+translate "attacking"
+to french "Attaque...";
+
+translate "Who are you attacking?"
+to french" Qui attaquez-vous?";
+
+translate "You have not yet gotten the scent from your prey, or from their Mortuary Temple."
+to french "Vous n'avez pas perçu l'odeur de votre proie, ou de son temple mortuaire.";
+
+translate "You get up, and turn your eyes away from U1. "
+to french "Vous vous réveillez, et détournez le regard de U1(name). ";
+translate "You get up, and turn your eyes away from K1. "
+to french "Vous vous réveillez, et détournez le regard de K1. ";
+
+translate "You have already made your kill for the night."
+to french "Vous avez déjà tuer quelqu'un cette nuit.";
+
+translate "You hunch down, poised to attack U1..."
+to french "Vous vous repliez sur vous même, prêt à bondir sur U1(name)...";
+
+translate "You attack, killing U1(name)!"
+to french "Vous attaquez, tuant U1(name) sur le coup!";
+
+translate "You were attacked by werewolves! You are dead."
+to french "Vous avez subit l'attaque des loups-garou! Vous êtes mort.";
+
+translate "You are Dead"
+to french "Vous êtes mort";
+
+translate "You are a Werewolf"
+to french "Vous êtes un Loup-garou";
+
+translate "You are a Normal Villager"
+to french "Vous êtes un Simple villageois";
+
+translate "You are a Seer"
+to french "Vous êtes un Voyant";
+
+translate "Vote to Lynch"
+to french "Voter pour lyncher";
+
+translate "Who do you vote to Lynch?"
+to french "Qui voulez-vous lyncher ?";
+
+translate " As a Seer, your vote only helps your successful kills count."
+to french " En tant que voyant, votre vote sert uniquement dans le décompte de vos attaques menées à bien.";
+
+translate "You change your vote from U1 to U2."
+to french "Vous changez votre vote de U1(name) pour U2(name).";
+
+translate "You enter your vote to lynch U1."
+to french "Vous votez pour lyncher U1(name).";
+
+translate "Vote to Lynch a New Werewolf"
+to french "Voter pour lyncher un nouveau loup-garou";
+
+translate "Werewolf, Number of Votes"
+to french "Loup-garou, nombre de votes";
+
+translate "U1 is not known."
+to french "U1(name) est inconnu.";
+
+translate "You only have N1 votes left this round."
+to french "Il vous reste seulement N1 votes pour ce tour.";
+
+translate "You place a vote on U1."
+to french "Vous placez un vote sur U1(name).";
+
+translate "You remove your votes from U1."
+to french "Vous annulez vos votes pour U1(name).";
+
+translate "You place N1 votes on U1."
+to french "Vous placez N1 votes sur U1(name).";
+
+translate "Remove N1 Votes from U1"
+to french "Annuler N1 votes pour U1(name)";
+
+translate "It is twilight. Check again in a few moments."
+to french "C'est le crépuscule. Réessayez dans un instant.";
+
+translate "Daytime, day N1."
+to french "Journée, jour N1.";
+
+translate "Evening, day N1."
+to french "Soirée, jour N1.";
+
+translate "Your are alive."
+to french "Vous êtes vivant.";
+
+translate "To participate, you must build a Mortuary Temple."
+to french "Pour participer, vous devez construire un temple mortuaire.";
+
+translate "You know the scent of U1."
+to french "Vous connaissez l'odeur de U1(name).";
+
+translate "You are poised to kill U1."
+to french "Vous êtes prêt à bondir pour tuer U1(name).";
+
+translate "You recently killed U1."
+to french "Vous avez récemment tuer U1(name).";
+
+translate "You have killed N1 Villagers and N2 werewolves, for a score of N3."
+to french "Vous avez tuer N1 villageois et N2 loups-garou, pour un score de N3.";
+
+translate "You are an ordinary Villager."
+to french "Vous êtes un villageois ordinaire.";
+
+translate "You have voted to lynch U1 (N1)."
+to french "Vous votez pour lyncher U1(name) (N1).";
+
+translate "You recently lynched U1 (N1)."
+to french "Vous avez récemment lyncher U1(name) (N1).";
+
+translate "You have participated in the lynchings of N1 actual werewolves."
+to french "Vous avez participer au lynchage de N1 loups-garou.";
+
+translate "You have also participated in the lynchings of N1 innocent villagers."
+to french "Vous avez également participer au lynchage de N1 innocents villageois.";
+
+translate "Your score is N1."
+to french "Votre score s'élève à N1.";
+
+translate "Seer for Lycanthropy"
+to french "Déceler les lycanthopes";
+
+translate "Who do you want to Seer?"
+to french "Qui voulez-vous sonder ?";
+
+translate "Seering..."
+to french "Sondage...";
+
+translate "U1 is a Werewolf!"
+to french "U1(name) est un loup-garou !";
+
+translate "U1 is not a Werewolf."
+to french "U1(name) n'est pas un loup-garou.";
+
+translate "Build a Mortuary Temple"
+to french "Edifier un Temple Mortuaire";
+
+translate "You must be near a chariot stop to build a Mortuary Temple."
+to french "Le temple doit être placé à proximité d'un arrêt de chariot.";
+
+translate "Mortuary Temples must be built out in the open, and not within compounds or other structures. It is possible to get around this automatic check, but it is considered cheating to do so."
+to french "Les temples mortuaires doivent être construits dans une zone dégagée, hors des ateliers ou de toutes autres constructions. Il est possible de contourner cette restriction, mais cela sera considéré comme une tricherie.";
+
+translate "You are only N1 coordinates from the chariot stop. You must be at least 10 coordinates away."
+to french "Vous êtes seulement à N1 coordonnées de l'arrêt de chariot. Vous devez au moins être à 10 coordonnées.";
+
+translate "You are N1 coordinates from the chariot stop, which is too far. You must be no more than 50 coordinates away."
+to french "Vous êtes à N1 coordonnées de l'arrêt de chariot, ce qui est trop loin. Vous devez être à moins de 50 coordonnées.";
+
+translate "You may not have more than one Mortuary Temple."
+to french "Vous ne pouvez pas avoir plus d'un temple mortuaire.";
+
+translate "To build a Mortuary Temple you need:"
+to french "Pour construire un temple mortuaire, il vous faut :";
+
+translate "Warning: There are N1 other temples piled at approximately the same place."
+to french "Attention: N1 autres temples occupent la même place que vous.";

@@ -1,0 +1,545 @@
+Module Plating_fre;
+
+translate MetalTreatment to french masculine
+{
+  ns "Traitement basique du métal"; np "Traitement basique du métal";
+}
+
+translate ChemBath to french feminine
+{
+  ns "Cuve à chimie"; np "Cuves à chimie";
+}
+
+translate NoMetal to french masculine
+{
+  ns "Aucun"; np "Aucun";
+}
+
+translate PlatedMetal to french masculine
+{
+  ns "Métal"; np "Métaux";
+}
+
+translate IronP to french masculine
+{
+  ns "Fer"; np "Fers";
+}
+translate iron to french masculine
+{
+  ns "Fer"; np "Fers";
+}
+
+translate CopperP to french masculine
+{
+  ns "Cuivre"; np "Cuivres";
+}
+translate copper to french masculine
+{
+  ns "Cuivre"; np "Cuivres";
+}
+
+translate SilverP to french masculine
+{
+  ns "Argent"; np "Argents";
+}
+translate GoldP to french masculine
+{
+  ns "Or"; np "Ors";
+}
+translate LithiumP to french masculine
+{
+  ns "Lithium"; np "Lithium";
+}
+translate LeadP to french masculine
+{
+  ns "Plomb"; np "Plombs";
+}
+translate lead to french masculine
+{
+  ns "Plomb"; np "Plombs";
+}
+
+translate TinP to french masculinecollective
+{
+  ns "Etain"; np "Etains";
+}
+translate AluminumP to french masculine
+{
+  ns "Aluminium"; np "Aluminium";
+}
+translate MagnesiumP to french masculine
+{
+  ns "Magnésium"; np "Magnésium";
+}
+translate ZincP to french masculine
+{
+  ns "Zinc"; np "Zinc";
+}
+translate AntimonyP to french masculinecollective
+{
+  ns "Antimoine"; np "Antimoine";
+}
+translate PlatinumP to french masculine
+{
+  ns "Platine"; np "Platines";
+}
+translate TungstenP to french masculine
+{
+  ns "Tungstène"; np "Tungstènes";
+}
+translate TitaniumP to french masculine
+{
+  ns "Titane"; np "Titanes";
+}
+translate BrassP to french masculine
+{
+  ns "Laiton"; np "Laitons";
+}
+translate BronzeP to french masculine
+{
+  ns "Bronze"; np "Bronzes";
+}
+translate SteelP to french masculine
+{
+  ns "Acier"; np "Aciers";
+}
+translate MetalBlueP to french masculine
+{
+  ns "Métal bleu"; np "Métaux bleus";
+}
+translate WaterMetalP to french masculine
+{
+  ns "Métal aqueux"; np "Métaux aqueux";
+}
+translate PewterP to french masculine
+{
+  ns "Métal blanc"; np "Métaux blancs";
+}
+translate SunSteelP to french masculine
+{
+  ns "Acier solaire"; np "Aciers solaires";
+}
+translate MoonSteelP to french masculine
+{
+  ns "Acier lunaire"; np "Acier lunaires";
+}
+translate ThothsMetalP to french masculine
+{
+  ns "Métal de Thot"; np "Métaux de Thot";
+}
+translate OctecsAlloyP to french masculine
+{
+  ns "Alliage d'Octec"; np "Alliages d'Octec";
+}
+
+
+translate MANormal to french masculine
+{
+  ns "Normal"; np "Normal";
+}
+translate MABrittle to french masculine
+{
+  ns "Fragile"; np "Fragiles";
+}
+translate MADuctile to french masculine
+{
+  ns "Malléable"; np "Malléables";
+}
+translate MATarnished to french masculine
+{
+  ns "Terne"; np "Ternes";
+}
+translate MAShiny to french masculine
+{
+  ns "Luisant"; np "Luisants";
+}
+translate MAPlastic to french masculine
+{
+  ns "Plastique"; np "Plastiques";
+}
+translate MAHard to french masculine
+{
+  ns "Dur"; np "Durs";
+}
+translate MACorrResist to french masculine
+{
+  ns "Peu corrodable"; np "Peu corrodables";
+}
+translate MACorrProne to french masculine
+{
+  ns "Enclin à la corrosion"; np "Enclin à la corrosion";
+}
+translate MAStainless to french masculine
+{
+  ns "Inoxydable"; np "Inoxydables";
+}
+translate MAInsulative to french masculine
+{
+  ns "Isolant"; np "Isolants";
+}
+translate MAConductive to french masculine
+{
+  ns "Conducteur"; np "Conducteurs";
+}
+translate matoxic to french masculine
+{
+  ns "Toxique"; np "Toxiques";
+}
+translate MANontoxic to french masculine
+{
+  ns "Non-toxique"; np "Non-toxique";
+}
+translate MAPure to french masculine
+{
+  ns "Pur"; np "Purs";
+}
+translate MAPlated to french masculine
+{
+  ns "Plaqué"; np "Plaqués";
+}
+
+translate Tongs to french feminine
+{
+  ns "Pincette"; np "Pincettes";
+}
+
+translate SameMetalSalt to french masculine
+{
+  ns "Sel métallique"; np "Sels métalliques";
+}
+
+translate DiffMetalSalt to french masculine
+{
+  ns "Sel métallique"; np "Sels métalliques";
+}
+
+translate EqualMetalSalt to french masculine
+{
+  ns "Sel métallique"; np "Sels métalliques";
+}
+
+translate TreatedMetal to french masculine
+{
+  ns "Métal traité"; np "Métaux traités";
+}
+
+translate treatedmetalsheeting to french masculine
+{
+  ns "Revêtement de métal traité"; np "Revêtements de métal traité";
+}
+
+translate IronPS to french masculine
+{
+  ns "Revêtement de fer"; np "Revêtements de fer";
+}
+translate CopperPS to french masculine
+{
+  ns "Revêtement de cuivre"; np "Revêtements de cuivre";
+}
+translate SilverPS to french masculine
+{
+  ns "Revêtement d'argent"; np "Revêtements d'argent";
+}
+translate GoldPS to french masculine
+{
+  ns "Revêtement d'or"; np "Revêtements d'or";
+}
+translate LithiumPS to french masculine
+{
+  ns "Revêtement de lithium"; np "Revêtements de lithium";
+}
+translate LeadPS to french masculine
+{
+  ns "Revêtement de plomb"; np "Revêtements de plomb";
+}
+translate TinPS to french masculine
+{
+  ns "Revêtement d'étain"; np "Revêtements d'étain";
+}
+translate AluminumPS to french masculine
+{
+  ns "Revêtement d'aluminium"; np "Revêtements d'aluminium";
+}
+translate MagnesiumPS to french masculine
+{
+  ns "Revêtement de magnésium"; np "Revêtements de magnésium";
+}
+translate ZincPS to french masculine
+{
+  ns "Revêtement de zinc"; np "Revêtements de zinc";
+}
+translate AntimonyPS to french masculine
+{
+  ns "Revêtement d'antimoine"; np "Revêtements de antimoine";
+}
+translate platinumps to french masculine
+{
+  ns "Revêtement de platine"; np "Revêtements de platine";
+}
+translate TungstenPS to french masculine
+{
+  ns "Revêtement de tungstène"; np "Revêtements de tungstène";
+}
+translate TitaniumPS to french masculine
+{
+  ns "Revêtement de titane"; np "Revêtements de titane";
+}
+translate BrassPS to french masculine
+{
+  ns "Revêtement de laiton"; np "Revêtements de laiton";
+}
+translate BronzePS to french masculine
+{
+  ns "Revêtement de bronze"; np "Revêtements de bronze";
+}
+translate SteelPS to french masculine
+{
+  ns "Revêtement d'acier"; np "Revêtements d'acier";
+}
+translate MetalBluePS to french masculine
+{
+  ns "Revêtement de métal bleu"; np "Revêtements de métal bleu";
+}
+translate WaterMetalPS to french masculine
+{
+  ns "Revêtement de métal aqueux"; np "Revêtements de métal aqueux";
+}
+translate PewterPS to french masculine
+{
+  ns "Revêtement de métal blanc"; np "Revêtements de métal blanc";
+}
+translate SunSteelPS to french masculine
+{
+  ns "Revêtement d'acier solaire"; np "Revêtements d'acier solaire";
+}
+translate MoonSteelPS to french masculine
+{
+  ns "Revêtement d'acier lunaire"; np "Revêtements d'acier lunaire";
+}
+translate ThothsMetalPS to french masculine
+{
+  ns "Revêtement de métal de Thot"; np "Revêtements de métal de Thot";
+}
+translate OctecsAlloyPS to french masculine
+{
+  ns "Revêtement d'alliage d'Octec"; np "Revêtements d'alliage d'Octec";
+}
+
+translate "O1-O2"
+to french "O1(ns)-O2(ns)";
+translate "K1-K2"
+to french "K1-K2";
+
+translate "Distillation Coil, 8200+ Quality"
+to french "Serpentin, qualité 8200+";
+
+translate "Distillation Coil, 7000+ Quality"
+to french "Serpentin, qualité 7000+";
+
+translate "Distillation Coil, 6000+ Quality"
+to french "Serpentin, qualité 6000+";
+
+translate "Hard, Rotproof, Fireproof Treated Boards"
+to french "Planches traitées : dures, imputrescibles, ignifiguées";
+
+translate "Distillation Coil, 7500+ Quality"
+to french "Serpentin, qualité 7500+";
+
+translate "Using chemicals and coatings to make metal stronger, more durable, and to plate it with other metals"
+to french "Utilisation de produits chimiques et de divers revêtements pour rendre le métal plus résistant, plus durable, et le plaquer avec d'autres métaux.";
+
+translate "You have learned the skill of Basic Metal Treatment.  You will need a Chemical Bath."
+to french "On vous a enseigné les techniques basiques pour traiter le métal. Vous aurez besoin d'une cuve à chimie.";
+
+translate "Chemical Bath"
+to french "Cuve à chimie";
+
+translate "To build a Chemical Bath, you need:"
+to french "Pour construire une cuve à chimie, il vous faut :";
+
+translate "Acid level is N1"
+to french "Le niveau d'acide est de N1";
+
+translate "Metal in Bath: "
+to french "Métal dans la cuve : ";
+translate "Metal in Bath: O1"
+to french "Métal dans la cuve : O1(ns)";
+translate "Metal in Bath: None"
+to french "Métal dans la cuve : Aucun";
+
+translate "    Soak Time: "
+to french "    Temps d'imprégnation : ";
+translate "    Soak Time: K1"
+to french "    Temps d'imprégnation : K1";
+
+translate "    Soak Time: 0 seconds"
+to french "    Temps d'imprégnation : 0 seconde";
+
+translate "Fill this Bath with Acid"
+to french "Remplir ce bac d'acide";
+
+translate "You cannot add Acid to a bath that is not pure. Empty the bath and refill."
+to french "Vous ne pouvez pas verser de l'acide dans un bac qui n'est pas pur. Videz d'abord la cuve, puis remplissez-la.";
+
+translate "How much Acid?"
+to french "Quelle quantité d'acide ?";
+
+translate "You don't have that much Acid."
+to french "Vous n'avez pas une telle quantité d'acide.";
+
+translate "Process: O1 N1"
+to french "Traitement : O1(ns) N1";
+
+translate "Empty the Bath"
+to french "Vider la cuve";
+
+translate "Are you sure? This will dump the acid all over the ground, and produce poisonous fumes."
+to french "En êtes-vous certain ? L'acide s'écoulera sur le sol, produisant des émanations toxiques.";
+
+translate "The fumes overcome you, and make you feel nauseous."
+to french "Les vapeurs vous submergent, vous êtes pris de nausées.";
+
+translate "You cannot mix types of metal. You must remove the metal in the bath first."
+to french "Vous ne pouvez pas traiter plusieurs métaux à la fois. Retirez d'abord le métal présent dans la cuve.";
+
+translate "You must remove the treated metal first."
+to french "Vous devez d'abord retirer le métal traité.";
+
+translate "Load how much O1? (Max N1)"
+to french "Mettre combien de O1(ns) ? (Max N1)";
+
+translate "The bath must be full of Acid to function."
+to french "La cuve doit être remplie d'acide pour avoir l'effet escompté.";
+
+translate "Dissolve"
+to french "Dissoudre";
+
+translate "Dissolve O1 in the Acid"
+to french "Dissoudre O1(dns) O1(ns) dans l'acide";
+
+translate "You need the O1 skill."
+to french "Il vous faut la compétence O1(ns).";
+
+translate "There isn't any metal in there."
+to french "Il n'y a aucun métal là-dedans.";
+
+translate "You must wait for the process to finish."
+to french "Vous devez attendre la fin du traitement.";
+
+translate "How many seconds do you want to treat?"
+to french "Combien de temps voulez-vous faire durer le traitement ?";
+
+translate "You do not have N1 O1"
+to french "Vous n'avez pas N1 O1(N1?np:ns)";
+
+translate "Read Instructions"
+to french "Lire les instructions";
+
+translate "Show what's in the Tank"
+to french "Afficher le contenu de la citerne";
+
+translate "Take Everything "
+to french "Tout prendre ";
+
+translate "Metal Plating & Treatment"
+to french "Placage & traitement du métal";
+translate "Each chemical has a set of effects.  To see the effects of a particular chemical, use the Info menu.  You must tack the menu, or you will not be able to see the info.  If you treat a metal with a chemical long enough, then the attributes of the metal will eventually match the ones shown in the Info readout."
+to french "Chaque produit chimique a plusieurs effets.  Pour connaître les effets d'un produit en particulier, référez-vous au menu Info.  Vous devez punaiser le menu ou vous ne pourrez pas voir les infos.  Si vous appliquez assez longtemps un produit chimique sur un métal, les attributs du métal vont finir par concorder avec ceux affichés dans les infos.";
+translate "It takes quite a bit of time for a chemical to exert all its effects.  If you do not treat the metal long enough, then the effects may be partial.  This may be useful.  For example, if a chemical has some good effects and some bad effects, it may be possible to treat the metal just long enough for the good effects to take place, but not long enough for the bad effects to take place."
+to french "Il faut un peu de temps pour qu'un produit exerce ses effets.  Si vous ne traitez pas assez longtemps le métal, les effets ne pourraient être que partiels.  Cela peut se révéler utile.  Par exemple, si un produit a des bons et des mauvais effets, il pourrait être possible de faire durer le traitement juste assez longtemps pour que les effets bénéfiques se fassent ressentir, mais pas assez pour les mauvais effets.";
+translate "You will notice that the attributes of the metal tend to move slowly at first, and then speed up as they get closer and closer to their target.  To put it differently, the speed of the bar is slow if the bar is far from its final destination, it is fast if it is close to its final destination."
+to french "Vous remarquerez que les attributs du métal ont tendance à s'alterer lentement au début, puis plus rapidement à mesure qu'ils approchent de l'objectif.  En d'autres termes, la vitesse de la jauge est lente si la jauge est éloignée de son objectif final, et rapide si proche de son objectif final.";
+translate "The tank can hold up to N1 metal. You cannot mix metal types.  Every N2 seconds of treatment costs N3 unit of chemical - no matter how much metal is in the tank.  You can use as many chemicals as you want, one after the other. Placing a chemical into the acid dissolves it, which treats the metal. Once you dump out the acid and/or take the metal out, the treatment is finished."
+to french "La citerne peut contenir jusqu'à N1 unités de métal. Vous ne pouvez pas mélanger différents types de métaux. Chaque N3 secondes de traitement coûte N3 mesures de produit chimique - peu importe la quantité de métaux présents dans la citerne. Verser un produit dans l'acide le dissout, ce qui permet de traiter le métal. Vous pouvez utiliser autant de produits chimiques que vous le souhaitez, l'un après l'autre. Une fois que vous avez vider l'acide ou retirer le métal, le traitement prend fin.";
+translate "There are two special bars, purity and plating. To plate a metal, you must add salts of the metal you wish to plate it with. As you work with the metal, the purity rating will decrease, as the metal becomes less pure due to the chemicals added. To get a high rating, treat it quickly."
+to french "Vous verrez deux jauges spéciales, pureté et placage. Pour plaquer un métal, vous devez ajouter du sel du métal avec lequel vous voulez plaquer. Alors que vous travaillez le métal, sa pureté va se dégrader à cause de l'action des produits chimiques. Pour avoir une bonne pureté, traitez rapidement.";
+
+translate "You cannot reach into the Acid to get the metal. You will have to dump out the acid, or perhaps procure something to take it out."
+to french "Vous ne pouvez pas attraper le métal dans l'acide. Vous devez vider la cuve, ou peut-être vous procurer un ustensile pour extraire le métal.";
+
+translate "You reach into the Acid with the Tongs and pull out the metal."
+to french "Vous attrapez le métal graces aux pincettes et le retirer de l'acide.";
+
+translate "Info about O1-Treated Metal"
+to french "Infos sur le métal traité avec : O1(ns)";
+
+
+translate "Metal: O1 Treated"
+to french "Métal : O1(ns) traité";
+translate "Metal: K1 Treated"
+to french "Métal : K1 traité";
+
+translate "Metal: O1 Untreated"
+to french "Métal : O1(ns) non traité";
+translate "Metal: K1 Untreated"
+to french "Métal : K1 non traité";
+
+translate "Process: K1 "
+to french "Statut : K1 ";
+
+translate "Processing Complete"
+to french "Traitement terminé";
+
+translate "Verify attributes of treated metal: match."
+to french "Vérifier les attributs du métal traité : il correspond.";
+
+translate "Info about Salts of Metal-Treated Metal"
+to french "Info sur les sels de placage métallique";
+
+translate "Treatment with Metal Salts"
+to french "Traitement par du sel métallique";
+translate "Metal Salts are required to plate a metal electrolessly. You must dissolve the salt of the metal you wish to plate your metal with into the acid, and over time the metal in the tank will become plated with that type of metal. However, the salt saturates the acid, imprinting its chemical signature upon it. So therefore, attempting to change the plating type in the middle will require you to overpower the metal ions already within the acidic suspension."
+to french "Les sels métalliques sont requis pour le placage autocatalytique du métal. Vous devez dissoudre dans l'acide le sel correspondant au métal avec lequel vous souhaitez plaquer, vous constaterez alors que le métal contenu dans la citerne va peu à peu être plaqué avec le métal en question. Cependant, le sel a tendance à saturer l'acide, lui imposant sa propre signature chimique. Par conséquent, essayer de modifier le type de placage en cours de réaction nécessitera l'inhibition préalable des ions métalliques déjà en solution acide.";
+translate "Also, you cannot plate a metal with itself. Instead, you will increase the purity of the metal, as the metallic ions of the suspension will deposit themselves upon the surface of your target metal, at a higher quality than even the metal itself."
+to french "Par ailleurs, vous ne pouvez plaquer un métal avec lui-même. Cependant, vous augmenterez la pureté du métal, car les ions métallique de la suspension vont se déposer sur la surface de votre métal cible, avec une plus grande qualité que le métal lui-même.";
+
+translate "You do not have enough acid to fill the tank. 100 is required."
+to french "Vous n'avez pas assez d'acide en votre possession. Il vous en faut 100 unités.";
+
+translate "You must remove metal from the tank first."
+to french "Vous devez d'abord retirer le métal de la citerne.";
+
+translate "You succeed in your reaction, and N1 deben of O1 has been converted into Metal Blue. Higher purity should yield better results."
+to french "La réaction est un succés, N1 debens de O1(ns) ont été convertis en Métal bleu. Une plus grande pureté devrait permettre de meilleurs résultats.";
+
+translate "You succeed in your reaction, however one of the debens of metal seems to have transformed into Metal Blue. It seems as if you are close to a discovery."
+to french "La réaction est un succès, un deben du métal semble avoir été converti en Métal bleu. Vous paraissez à deux doigts de faire une découverte.";
+
+translate "You succeed in your reaction, but you find strange flakes of a blue, metallic substance in the tank residue. Perhaps more qualities would be required, or greater quantities to discover what this might be."
+to french "La réaction est un succès, vous appercevez toutefois une étrange flaque d'une substance métallique bleue au fond de la citerne. Peut-être qu'avec de plus grandes quantités, ou une meilleure qualité, vous parviendrez à percer ce mystère.";
+
+translate "You succeed in your reaction, and N1 deben of O1 has been converted into Water Metal. Higher purity should yield better results."
+to french "La réaction est un succés, N1 debens de O1(ns) ont été convertis en Métal aqueux. Une plus grande pureté devrait permettre de meilleurs résultats.";
+
+translate "You succeed in your reaction, however one of the debens of metal seems to have transformed into Water Metal. It seems as if you are close to a discovery."
+to french "La réaction est un succès, un deben du métal semble avoir été converti en Métal aqueux. Vous paraissez à deux doigts de faire une découverte.";
+
+translate "You succeed in your reaction, and N1 deben of O1 has been converted into Water Metal. You have succeeded in converting all of the metal into Water Metal."
+to french "La réaction est un succés, N1 debens de O1(ns) ont été convertis en Métal aqueux.  Vous avez réussi à convertir tout le métal en métal aqueux.";
+
+translate "You succeed in your reaction, but you find strange flakes of a light blue, metallic substance in the tank residue. Perhaps more qualities would be required to discover what this might be."
+to french "La réaction est un succès, vous appercevez toutefois une étrange flaque d'une substance métallique bleue claire au fond de la citerne. Peut-être une meilleure qualité vous permettra de percer ce mystère.";
+
+translate "Salts"
+to french "Sels";
+
+translate "Metal: N1 Treated"
+to french "Métal : N1 traités";
+translate "Metal: N1 Untreated"
+to french "Métal : N1 non-traités";
+
+translate "Tensility:"
+to french "Ductilité :";
+translate "Lustre:"
+to french "Brillance :";
+translate "Corrosion:"
+to french "Corrosion :";
+translate "Conductivity:"
+to french "Conductivité :";
+translate "Toxicity:"
+to french "Toxicité :";
+translate "Purity:"
+to french "Pureté :";
+translate "Plating:"
+to french "Revêtement :";
+

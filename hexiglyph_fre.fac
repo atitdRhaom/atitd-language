@@ -1,0 +1,104 @@
+module hexiglyph_fre;
+
+translate hexaglyphtablet to french feminine
+{
+  ns "Table de glyphes hexagonaux"; np "Table de glyphes hexagonaux"; 
+}
+
+translate Hexaglyphs to french feminine
+{
+ns "L'épreuve du puzzle de Glyphes"; np "les épreuves du puzzle de Glyphes";
+}
+translate "Boards for Moveable Frame"
+to french "Planches pour le cadre déplaçable";
+translate "Hile's Chevrons cut Turquoise for Bearings"
+to french "Coupe Chevron d'Hilum dans la turquoise pour les roulements";
+translate "Orange Paint for Tray"
+to french "Peinture orange pour le tiroir";
+
+translate "Iron Bars for the Base"
+to french "Barres de fer pour la base";
+
+translate "Iron Straps for Frame Reinforcement"
+to french "Bandes de fer pour renforcer le cadre";
+
+translate "Linen for Backdrop"
+to french "tissage pour la toile de fond";
+
+translate "Slate for the Writing Surface"
+to french "Ardoises pour la surface d'écriture";
+
+translate "Mandibular Glue for attaching the Slate"
+to french "Sécretions mandibulaires pour fixer les ardoises";
+
+translate "Metalblue Wire for Countertensioner"
+to french "Cables en Métal bleu pour le contre tendeur";
+
+translate "Nails for the Frame"
+to french "Clous pour le cadre";
+
+translate "Queen Ants: (Demonstrate Egypt's Mandibular Glue Capacity"
+to french "Reine fourmi : (démontrer la capacité de la colle mandibulaire égyptienne";
+
+translate "To build a Hexaglyph Tablet, you need: "
+to french "pour construire une Table de glyphes hexagonaux, il vous faut :";
+
+translate "Begin the challenge" 
+to french "Commencer le jeu";
+
+translate "You can only place a Glyph on a side with an adjacent Hexaglyph."
+to french "Vous pouvez placer vos glyphes seulement sur un côté adjacent au glyphe hexgonal";
+
+translate "Restore the Camera"
+to french "Réinitialiser la caméra";
+
+translate "Focus the Camera on Tablet"
+to french "Centrez la caméra sur la table";
+
+translate "Your solution is correct! You may now judge this challenge"
+to french "Votre solution est correcte! Vous pouvez maintenant juger ce défi";
+
+translate "Design a tablet of interlocking hexaglyphs, some of which can be locked in place. Those that attempt your challenge will see the glyphs in random orientations and positions. They must reposition them to again interlock."
+to french "Dessinez une table de glyphes hexagonaux interconnectés, dont certains peuvent être verrouillés. Ceux qui tentent votre défi verront les glyphes dans des orientations et positions aléatoires. Ils devront les repositionner afin que l'ensemble soit de nouveau interconnecté.";
+
+translate "Build a Hexaglyph Table, and create a puzzle of interlocking glyphs."
+to french "Construisez une table de glyphes hexagonaux et créez un puzzle de glyphes interconnectés";
+
+translate "Cut a Hile's Chevrons Turquoise"
+to french "Coupez un Chevrons d'hilum en turquoise";
+
+translate "Check an Ant Colony and find Mandibular Glue"
+to french "Vérifiez une colonnie de fourmis et trouvez de la glue";
+
+translate "Build a Hexaglyph Tablet"
+to french "Construisez  une table de Glyphes hexagonaux";
+
+translate "Place 7 Hexiglyphs on the Tablet"
+to french "Placez 7 Glyphes hexagonaux sur la table";
+
+translate "Write 14 Glyphs"
+to french "Ecrivez 14 glyphes";
+
+translate "Lock a Glyph in Place"
+to french "Verrouillez un glyphe en place";
+
+translate "Remove a Glyph"
+to french "Enlevez un glyphe";
+
+translate "Clean the Slate (Give UP)"
+to french "Effacer le plateau (Abandonner)";
+
+translate "Open the Tablet for Judging"
+to french "Ouvrez votre table aux jugements";
+
+translate "Tear down your Hexaglyph Tablet, OR do the following:"
+to french "Détruisez votre table OU faites ce qui suit:";
+
+translate "    Have Seven Judges solve and rate the puzzle"
+to french "    Obtenez que 7 juges résolvent et notent votre puzzle";
+
+translate "    Design rated Good by most judges"
+to french "    Obtenez une majorité de jugements 'Bons'";
+
+translate "All of the above, OR solve three recent winning Hexaglyph Tablets"
+to french "Tout ce qui précède OU résolvez 3 tables d'hexaglypes ayant gagné récemment";

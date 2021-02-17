@@ -1,0 +1,25 @@
+Module Dailies_fre;
+
+translate "Chat with your peers in House Chat"
+to french "Discutez avec vos pairs dans House Chat";
+
+translate "Daily Challenges"
+to french "Défis quotidiens";
+
+translate "Judge any Art Installation for a Test"
+to french "Juger toute installation artistique pour un Test";
+
+translate "Judge any Thought Installation for a Test"
+to french "Juger toute installation réfléchie pour un Test";
+
+translate "Judge any Scarab Garden"
+to french "Jugez n'importe quel jardin de scarabées";
+
+translate "Harvest 50 debien of Herbs"
+to french "Récoltez 50 deben d'herbes";
+
+translate "Catch 50 debien of Fish"
+to french "Attrapez 50 deben de poisson";
+
+translate "Complete 1 step in another Task"
+to french "Terminez 1 étape dans une autre tâche";

@@ -1,0 +1,312 @@
+module chariotstop_fre;
+
+translate "N1: K1 - K2"
+to french "N1: K1 - K2";
+
+translate ChariotStop to french masculine
+{
+  ns "Arrêt de chariot"; np "Arrêts de chariot";
+  }
+  
+translate "Travel to sp1 is FREE for the next N1"
+to french "Le voyage vers sp1 est gratuit pour N1";
+
+translate "Travel now for free"
+to french "Voyagez gratuitement";
+
+translate "You have K1 travel time accumulated."
+to french "Vous disposez de K1 de temps de voyage.";
+
+translate "You have no travel time accumulated."
+to french "Vous n'avez pas accumulé de temps de voyage.";
+
+translate "You do not have any travel time available. Only full paid citizens of Egypt can accumulate travel time."
+to french "Nous n'avez pas de temps de voyage. Seuls les citoyens d'Egypte possédant un compte payant peuvent accumuler du temps de voyage.";
+
+translate "You do not have any travel time available."
+to french "Vous n'avez pas de temps de voyage.";
+
+translate "Travel to sp1 requires K1 of travel time"
+to french "Aller à sp1 nécessite K1 de temps de voyage.";
+
+translate "Travel will be free in K1"
+to french "Le voyage sera gratuit dans K1";
+
+translate "Travel using Travel Time"
+to french "Voyager en utilisant mon temps de voyage.";
+
+translate "You are all sweaty from your recent waypoint run. Wait another K1 to board a chariot."
+to french "Vous êtes épuisé de votre dernier voyage. attendez K1 avant de prendre le chariot.";
+
+translate "You only have K1 of travel time."
+to french "Vous disposez seulement de K1 de temps de voyage.";
+
+translate "Use K1 of travel time?"
+to french "Utiliser K1 de temps de voyage?";
+
+translate "You can't chariot-travel if you can't walk!"
+to french "Vous ne pouvez utiliser le chariot si vous ne pouvez pas marcher!";
+
+translate "Use K1 of travel time?"
+to french "Utiliser K1 de temps de voyage?";
+
+translate "Repair the link to Cradle of the Sun (N1 More Needed)"
+to french "Réparer la route vers le Berceau du Soleil (N1 autres nécessaires)";
+translate "Repair the link to Fool's Paradise (N1 More Needed)"
+to french "Réparer la route vers Fool's Paradise (N1 autres nécessaires)";
+translate "Repair the link to Kush (N1 More Needed)"
+to french "Réparer la route vers Kush (N1 autres nécessaires)";
+translate "Repair the link to Seven Lakes (N1 More Needed)"
+to french "Réparer la route vers les Sept Lacs (N1 autres nécessaires)";
+translate "Repair the link to Desert of Shades (N1 More Needed)"
+to french "Réparer la route vers le Désert des Ombres (N1 autres nécessaires)";
+translate "Repair the link to Khartoum (N1 More Needed)"
+to french "Réparer la route vers Khartoum (N1 autres nécessaires)";
+translate "Repair the link to Upper Egypt (N1 More Needed)"
+to french "Réparer la route vers la Haute-Égypte (N1 autres nécessaires)";
+translate "Repair the link to Qatara (N1 More Needed)"
+to french "Réparer la route vers Qatara (N1 autres nécessaires)";
+translate "Repair the link to Lower Egypt (N1 More Needed)"
+to french "Réparer la route vers la Basse-Égypte (N1 autres nécessaires)";
+translate "Repair the link to Sinai (N1 More Needed)"
+to french "Réparer la route vers Sinai (N1 autres nécessaires)";
+translate "Repair the link to Tanis (N1 More Needed)"
+to french "Réparer la route vers Tanis (N1 autres nécessaires)";
+translate "Repair the link to Karnak (N1 More Needed)"
+to french "Réparer la route vers Karnak (N1 autres nécessaires)";
+
+translate "Repair the link to Alcyone (N1 More Needed)"
+to french "Réparer la route vers Alcyone (N1 autres nécessaires)";
+translate "Repair the link to Maia (N1 More Needed)"
+to french "Réparer la route vers Maia (N1 autres nécessaires)";
+translate "Repair the link to Celaeno (N1 More Needed)"
+to french "Réparer la route vers Celaeno (N1 autres nécessaires)";
+translate "Repair the link to Merope (N1 More Needed)"
+to french "Réparer la route vers Merope (N1 autres nécessaires)";
+translate "Repair the link to Sterope (N1 More Needed)"
+to french "Réparer la route vers Sterope (N1 autres nécessaires)";
+translate "Repair the link to Taygete (N1 More Needed)"
+to french "Réparer la route vers Taygete (N1 autres nécessaires)";
+
+translate "Only permanent residents (paid accounts) may use the Chariot Repair skill."
+to french "Seulement les résident permanents (comptes payés) peuvent utiliser la compétence de réparation de chariot";
+
+translate "You may only use this ability once, ever. To repair the route to Cradle of the Sun, type REPAIR:"
+to french "Vous pouvez utiliser cette compétence une seule fois. Pour réparer la route vers le Berceau du Soleil, écrivez REPAIR";
+translate "You may only use this ability once, ever. To repair the route to Fool's Paradise, type REPAIR:"
+to french "Vous pouvez utiliser cette compétence une seule fois. Pour réparer la route vers Fool's Paradise, écrivez REPAIR";
+translate "You may only use this ability once, ever. To repair the route to Kush, type REPAIR:"
+to french "Vous pouvez utiliser cette compétence une seule fois. Pour réparer la route vers Kush, écrivez REPAIR";
+translate "You may only use this ability once, ever. To repair the route to Seven Lakes, type REPAIR:"
+to french "Vous pouvez utiliser cette compétence une seule fois. Pour réparer la route vers les Sept Lacs, écrivez REPAIR";
+translate "You may only use this ability once, ever. To repair the route to Desert of Shades, type REPAIR:"
+to french "Vous pouvez utiliser cette compétence une seule fois. Pour réparer la route vers le Désert des Ombres, écrivez REPAIR";
+translate "You may only use this ability once, ever. To repair the route to Khartoum, type REPAIR:"
+to french "Vous pouvez utiliser cette compétence une seule fois. Pour réparer la route vers Khartoum, écrivez REPAIR";
+translate "You may only use this ability once, ever. To repair the route to Upper Egypt, type REPAIR:"
+to french "Vous pouvez utiliser cette compétence une seule fois. Pour réparer la route vers la Haute-Égypte, écrivez REPAIR";
+translate "You may only use this ability once, ever. To repair the route to Qatara, type REPAIR:"
+to french "Vous pouvez utiliser cette compétence une seule fois. Pour réparer la route vers Qatara, écrivez REPAIR";
+translate "You may only use this ability once, ever. To repair the route to Lower Egypt, type REPAIR:"
+to french "Vous pouvez utiliser cette compétence une seule fois. Pour réparer la route vers la Basse-Égypte, écrivez REPAIR";
+translate "You may only use this ability once, ever. To repair the route to Sinai, type REPAIR:"
+to french "Vous pouvez utiliser cette compétence une seule fois. Pour réparer la route vers Sinai, écrivez REPAIR";
+translate "You may only use this ability once, ever. To repair the route to Tanis, type REPAIR:"
+to french "Vous pouvez utiliser cette compétence une seule fois. Pour réparer la route vers Tanis, écrivez REPAIR";
+translate "You may only use this ability once, ever. To repair the route to Karnak, type REPAIR:"
+to french "Vous pouvez utiliser cette compétence une seule fois. Pour réparer la route vers Karnak, écrivez REPAIR";
+
+translate "Destination: Cradle of the Sun"
+to french "Destination: Berceau du Soleil";
+
+translate "Destination: Seven Lakes"
+to french "Destination: Sept Lacs";
+
+translate "Destination: Desert of Shades"
+to french "Destination: Désert des Ombres";
+
+translate "Destination: Upper Egypt"
+to french "Destination: Haute-Égypte";
+
+translate "Destination: Lower Egypt"
+to french "Destination: Basse-Égypte";
+
+translate "Destination: Cat's Claw Ridge"
+to french "Destination: Crête de la Griffe";
+
+translate "Destination: Queen's Retreat"
+to french "Destination: Retraite de la Reine";
+
+translate "Destination: Stillwater"
+to french "Destination: Eaux Dormantes";
+
+translate "Destination: Pyramid Lake"
+to french "Destination: Lac de la Pyramide";
+
+translate "Destination: Nomads' Paradise"
+to french "Destination: Paradis des Nomades";
+
+translate "Destination: Falcon Bay"
+to french "Destination: Baie du Faucon";
+
+translate "Destination: Heaven's Gate"
+to french "Destination: Porte de l'Au-delà";
+
+translate "Destination: Adn"
+to french "Destination: Eden";
+translate "Travel to Sinai is FREE for the next K1"
+to french "Voyager vers le Sinai est GRATUIT pendant encore K1";
+translate "Travel to Falcon Bay is FREE for the next K1"
+to french "Voyager vers la Baie du Faucon est GRATUIT pendant encore K1";
+translate "Travel to Cat's Claw Ridge is FREE for the next K1"
+to french "Voyager vers la Crête de la Griffe est GRATUIT pendant encore K1";
+translate "Travel to Heaven's Gate is FREE for the next K1"
+to french "Voyager vers la Porte de l'au delà est GRATUIT pendant encore K1";
+translate "Travel to Adn is FREE for the next K1"
+to french "Voyager vers Eden est GRATUIT pendant encore K1";
+translate "Travel to Pyramid's Lake is FREE for the next K1"
+to french "Voyager vers le Lac de la Pyramide est GRATUIT pendant encore K1";
+translate "Travel to Nomads' Paradise is FREE for the next K1"
+to french "Voyager vers le Paradis des Nomades est GRATUIT pendant encore K1";
+translate "Travel to Khmun is FREE for the next K1"
+to french "Voyager vers Khmun est GRATUIT pendant encore K1";
+translate "Travel to Queen's Retreat is FREE for the next K1"
+to french "Voyager vers la Retraite de la Reine est GRATUIT pendant encore K1";
+translate "Travel to Meroe is FREE for the next K1"
+to french "Voyager vers Meroe est GRATUIT pendant encore K1";
+translate "Travel to Shabbat Ab requires K1 of travel time."
+to french "Voyager vers Shabbat Ab coûte K1 de temps de téléportation.";
+translate "Travel to Saqqarah is FREE for the next K1"
+to french "Voyager vers Saqqarah est GRATUIT pendant encore K1";
+translate "Travel to Fool's Paradise requires K1 of travel time."
+to french "Voyager vers Fool's Paradise coûte K1 de temps de téléportation.";
+translate "Travel to Kush is FREE for the next K1"
+to french "Voyager vers Kush est GRATUIT pendant encore K1";
+translate "Travel to Kush requires K1 of travel time."
+to french "Voyager vers Kush coûte K1 de temps de téléportation.";
+translate "Travel to Seven Lakes is FREE for the next K1"
+to french "Voyager vers les Sept Lacs est GRATUIT pendant encore K1";
+translate "Travel to Seven Lakes requires K1 of travel time."
+to french "Voyager vers les Sept Lacs coûte K1 de temps de téléportation.";
+translate "Travel to Desert of Shades is FREE for the next K1"
+to french "Voyager vers le Désert des Ombres est GRATUIT pendant encore K1";
+translate "Travel to Desert of Shades requires K1 of travel time."
+to french "Voyager vers le Désert des Ombres coûte K1 de temps de téléportation.";
+translate "Travel to Khartoum is FREE for the next K1"
+to french "Voyager vers Khartoum est GRATUIT pendant encore K1";
+translate "Travel to Khartoum requires K1 of travel time."
+to french "Voyager vers Khartoum coûte K1 de temps de téléportation.";
+translate "Travel to Upper Egypt is FREE for the next K1"
+to french "Voyager vers la Haute-Égypte est GRATUIT pendant encore K1";
+translate "Travel to Upper Egypt requires K1 of travel time."
+to french "Voyager vers la Haute-Égypte coûte K1 de temps de téléportation.";
+translate "Travel to Qatara Egypt is FREE for the next K1"
+to french "Voyager vers Qatara est GRATUIT pendant encore K1";
+translate "Travel to Qatara requires K1 of travel time."
+to french "Voyager vers Qatara coûte K1 de temps de téléportation.";
+translate "Travel to Lower Egypt is FREE for the next K1"
+to french "Voyager vers la Basse-Égypte est GRATUIT pendant encore K1";
+translate "Travel to Lower Egypt requires K1 of travel time."
+to french "Voyager vers la Basse-Égypte coûte K1 de temps de téléportation.";
+translate "Travel to Sinai is FREE for the next K1"
+to french "Voyager vers Sinai est GRATUIT pendant encore K1";
+translate "Travel to Sinai requires K1 of travel time."
+to french "Voyager vers Sinai coûte K1 de temps de téléportation.";
+translate "Travel to Tanis is FREE for the next K1"
+to french "Voyager vers Tanis est GRATUIT pendant encore K1";
+translate "Travel to Tanis requires K1 of travel time."
+to french "Voyager vers Tanis coûte K1 de temps de téléportation.";
+translate "Travel to Karnak is FREE for the next K1"
+to french "Voyager vers Karnak est GRATUIT pendant encore K1";
+translate "Travel to Karnak requires K1 of travel time."
+to french "Voyager vers Karnak coûte K1 de temps de téléportation.";
+translate "Travel to Queen's Retreat requires K1 of travel time."
+to french "Voyager vers Retraite de la Reine coûte K1 de temps de téléportation.";
+translate "Travel to Falcon Bay requires K1 of travel time."
+to french "Voyager vers Baie du Faucon coûte K1 de temps de téléportation.";
+translate "Travel to Cat's Claw Ridge requires K1 of travel time."
+to french "Voyager vers Crête de la Griffe coûte K1 de temps de téléportation.";
+translate "Travel to Stillwater requires K1 of travel time."
+to french "Voyager vers Eaux Dormantes coûte K1 de temps de téléportation.";
+translate "Travel to Khmun requires K1 of travel time."
+to french "Voyager vers Khmun coûte K1 de temps de téléportation.";
+translate "Travel to Heaven's Gate requires K1 of travel time."
+to french "Voyager vers Portes de l'Au-delà coûte K1 de temps de téléportation.";
+translate "Travel to Meroe requires K1 of travel time."
+to french "Voyager vers Meroe coûte K1 de temps de téléportation.";
+translate "Travel to Adn requires K1 of travel time."
+to french "Voyager vers Eden coûte K1 de temps de téléportation.";
+translate "Travel to Pyramid Lake requires K1 of travel time."
+to french "Voyager vers Lac de la Pyramide coûte K1 de temps de téléportation.";
+translate "Travel to Nomads' Paradise requires K1 of travel time."
+to french "Voyager vers Paradis des Nomades coûte K1 de temps de téléportation.";
+translate "Travel to Shabbat Ab requires K1 of travel time."
+to french "Voyager vers Shabbat Ab coûte K1 de temps de téléportation.";
+translate "Travel to Saqqarah requires K1 of travel time."
+to french "Voyager vers Saqqarah coûte K1 de temps de téléportation.";
+
+translate "Travel to Celaeno requires K1 of travel time."
+to french "Voyager vers Celaeno coûte K1 de temps de téléportation.";
+translate "Travel to Sterope requires K1 of travel time."
+to french "Voyager vers Sterope coûte K1 de temps de téléportation.";
+translate "Travel to Alcyone requires K1 of travel time."
+to french "Voyager vers Alcyone coûte K1 de temps de téléportation.";
+translate "Travel to Merope requires K1 of travel time."
+to french "Voyager vers Merope coûte K1 de temps de téléportation.";
+translate "Travel to Maia requires K1 of travel time."
+to french "Voyager vers Maia coûte K1 de temps de téléportation.";
+translate "Travel to Taygete requires K1 of travel time."
+to french "Voyager vers Taygete coûte K1 de temps de téléportation.";
+
+translate "Travel to Celaeno is FREE for the next K1"
+to french "Voyager vers Celaeno est GRATUIT pendant encore K1";
+translate "Travel to Sterope is FREE for the next K1"
+to french "Voyager vers Sterope est GRATUIT pendant encore K1";
+translate "Travel to Alcyone is FREE for the next K1"
+to french "Voyager vers Alcyone est GRATUIT pendant encore K1";
+translate "Travel to Merope is FREE for the next K1"
+to french "Voyager vers Merope est GRATUIT pendant encore K1";
+translate "Travel to Maia is FREE for the next K1"
+to french "Voyager vers Maia est GRATUIT pendant encore K1";
+translate "Travel to Taygete is FREE for the next K1"
+to french "Voyager vers Taygete est GRATUIT pendant encore K1";
+
+
+translate "[Extra]This Chariot Stop crumbled ages ago"
+to french "[Extra]Ce chariot s'est effondré il y a longtemps";
+
+translate "This Chariot Stop crumbled ages ago"
+to french "Ce chariot s'est effondré il y a longtemps";
+
+//translate "Repairs needed from O1 to O2 is K1""
+//to french "";
+
+translate "Warning: The return route is in disrepair. This trip is one way! If you are sure, type ONEWAY:"
+to french "Attention: La route de retour est en ruine. Vous ne pourrez revenir en utilisant le chariot! Si vous êtes sûr de vouloir vous rendre à cette destination, écrivez ONEWAY:";
+
+translate "Report on Our Generation's Challenges"
+to french "Rapport sur les défis lancés à notre génération";
+
+translate "This Chariot Stop is broken, and requires materials"
+to french "Cet arrêt de chariot s'est effondré, et nécessite des réparations";
+
+translate "This Chariot Stop is broken, and will be operational in K1"
+to french "Cet arrêt de chariot s'est effondré, et sera à nouveau opérationnel dans K1";
+
+translate "Chariot Repair"
+to french "Réparation de chariot";
+
+translate "Donate Materials in order to repair this Chariot Stop"
+to french "Faire don de matériel pour réparer cet arrêt de chariot";
+
+translate "Assist in repairing Chariot Stop"
+to french "Aider à réparer cet arrêt de chariot";
+
+translate "You do not know how to add materials to repair this chariot stop. Learn Chariot Repair of level 2 or higher and try again."
+to french "Vous ne savez pas comment réparer cet arrêt de chariot. Apprenez Réparation de chariot niveau 2 ou supérieur et réessayez.";
+
+translate "This Chariot Stop was blown up by U1"
+to french "Cet arrêt de chariot a été endommagé par U1(name)";
+
+translate "When travelling to the chariot stop, your volatile explosives explode!"
+to french "Alors que vous empruntez le chariot, voos explosifs volatiles explosent !";

@@ -1,0 +1,200 @@
+Module Signs_ger;
+
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002,2003,2004,2005 by MDO Entertainment	           **
+//**                                                                       **
+//***************************************************************************
+
+translate "This is an official Road Sign"
+to german "Dies ist ein öffentliches Straßenschild";
+
+translate "-"
+to german "-";
+
+translate "Click a specific part of the sign"
+to german "Klicke einen Wegweiser an";
+
+translate "This location is K1"
+to german "Dies ist die Region K1";
+
+translate "This location is "
+to german "Dies ist die Region ";
+
+translate "Names"
+to german "Namen";
+
+translate "Add an Official Location Name"
+to german "Füge einen öffentlichen Gebietsnamen hinzu";
+
+--	translate "Check spelling and watch capitalization:"
+--	to german " ";
+
+translate "Change an Official Location Name"
+to german "Ändere einen öffentlichen Gebietsnamen";
+
+translate "Are you sure you want to remove the official name: K1"
+to german "Sicher, daß Du den öffentlichen Namen entfernen möchtest: K1?";
+
+translate "Change K1 to: (Blank to remove)"
+to german "Ändere K1 zu: (leer zum Entfernen)";
+
+translate "The name K1 is on a sign somewhere. Remove the name anyway?"
+to german "Der Name K1 ist auf einem Schild irgendwo. Den Namen dennoch entfernen?";
+
+translate "Set Destination"
+to german "Setze Ziel";
+
+translate "Set Location"
+to german "Setze Gebiet";
+
+translate "Set Time"
+to german "Setze Zeit";
+
+translate "Cartographic Society"
+to german "Kartografische Gemeinschaft";
+
+translate "Single Destination Cartographic Sign"
+to german "Einzelnes kartografisches Hinweisschild";
+
+translate "Double Destination Cartographic Sign"
+to german "Doppeltes kartografisches Hinweisschild";
+
+translate "Triple Destination Cartographic Sign"
+to german "Dreifaches kartografisches Hinweisschild";
+
+translate "Crossroads Destination Cartographic Sign"
+to german "Kartografisches Kreuzungshinweisschild";
+
+translate "To build a O1 you need: "
+to german "Um O1(^tsn) O1(sn) zu bauen benötigst Du: ";
+
+translate "This is an Official Cartography Sign"
+to german "Dies ist ein öffentliches kartografisches Schild";
+
+translate "Inscribe this part of the Sign"
+to german "Trage diesen Wegweiser ein";
+
+translate "What should this part of the sign say?"
+to german "Was soll dieser Wegweiser bezeichnen?";
+
+translate "Only 70 characters allowed"
+to german "Es sind nur 70 Zeichen erlaubt";
+
+translate UThoughtSign to german neuter
+{
+	sn "Universität der Gedanken"; pn "Universität der Gedanken";
+	}
+
+translate UWorshipSign to german neuter
+{
+	sn "Universität der Verehrung"; pn "Universität der Verehrung";
+	}
+
+translate UTheHumanBodySign to german neuter
+{
+	sn "Universität des Menschlichen Körpers"; pn "Universität des Menschlichen Körpers";
+	}
+
+translate UArchitectureSign to german neuter
+{
+	sn "Universität der Architektur"; pn "Universität der Architektur";
+	}
+
+translate UConflictSign to german neuter
+{
+	sn "Universität des Konfliktes"; pn "Universität des Konfliktes";
+	}
+
+translate UArtSign to german neuter
+{
+	sn "Universität der Kunst & Musik"; pn "Universität der Kunst & Musik";
+	}
+
+translate SThoughtSign to german neuter
+{
+	sn "Schule der Gedanken"; pn "Schule der Gedanken";
+	}
+
+translate SWorshipSign to german neuter
+{
+	sn "Schule der Verehrung"; pn "Schule der Verehrung";
+	}
+
+translate STheHumanBodySign to german neuter
+{
+	sn "Schule des Menschlichen Körpers"; pn "Schule des Menschlichen Körpers";
+	}
+
+translate SArchitectureSign to german neuter
+{
+	sn "Schule der Architektur"; pn "Schule der Architektur";
+	}
+
+translate SConflictSign to german neuter
+{
+	sn "Schule des Konfliktes"; pn "Schule des Konfliktes";
+	}
+
+translate SArtSign to german neuter
+{
+	sn "Schule der Kunst & Musik"; pn "Schule der Kunst & Musik";
+	}
+	
+translate RoadSign to german neuter
+{
+	sn "Straßenschild"; pn "Straßenschild";
+	}
+	
+translate RoadSign1 to german neuter
+{
+	sn "Straßenschild 1"; pn "Straßenschild 1";
+	}
+
+translate RoadSign2 to german neuter
+{
+	sn "Straßenschild 2"; pn "Straßenschild 2";
+	}
+
+translate RoadSign3 to german neuter
+{
+	sn "Straßenschild 3"; pn "Straßenschild 3";
+	}
+
+translate RoadSignx to german neuter
+{
+	sn "Straßenschild x"; pn "Straßenschild x";
+	}
+
+translate LocationBanner to german neuter
+{
+	sn "Gebietsbanner"; pn "Gebietsbanner";
+	}
+	
+translate CartographicSign to german neuter
+{
+	sn "kartografisches Schild"; pn "kartografisches Schild";
+	}
+	
+translate CartographicSign1 to german neuter
+{
+	sn "kartografisches Schild 1"; pn "kartografisches Schild 1";
+	}
+
+translate CartographicSign2 to german neuter
+{
+	sn "kartografisches Schild 2"; pn "kartografisches Schild 2";
+	}
+
+translate CartographicSign3 to german neuter
+{
+	sn "kartografisches Schild 3"; pn "kartografisches Schild 3";
+	}
+
+translate CartographicSignX to german neuter
+{
+	sn "kartografisches Schild x"; pn "kartografisches Schild x";
+	}

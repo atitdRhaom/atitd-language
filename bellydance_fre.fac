@@ -1,0 +1,13 @@
+Module BellyDance_fre;
+
+translate "Belly Dance"
+to french "Danse du ventre";
+
+translate "Teach Belly Dancing"
+to french "Enseigner la danse du ventre";
+
+translate "You teach Belly Dancing to U1 "
+to french "Vous enseignez la danse du ventre à U1(name)";
+
+translate "U1 teaches the subtle art of Belly Dancing."
+to french "U1(names) enseigne l'art subtil de la danse du ventre.";

@@ -1,0 +1,446 @@
+Module Archaeologist_fre;
+
+translate Archaeologist to french feminine
+{
+  ns "L'épreuve de l'Archéologue"; np "L'épreuve de l'Archéologue";
+}
+
+translate DigSite to french feminine
+{
+  ns "Découverte archéologique"; np "Découvertes archéologiques";
+}
+
+translate Relic to french feminine
+{
+  ns "Relique"; np "Reliques";
+}
+
+translate Trophycase to french masculine
+{
+  ns "Coffret à trophées"; np "Coffrets à trophées";
+}
+
+translate Bicycle to french feminine
+{
+  ns "Bicyclette"; np "Bicyclettes";
+}
+
+translate PlayingCards to french feminine
+{
+  ns "Carte à jouer"; np "Cartes à jouer";
+}
+
+translate Spatula to french feminine
+{
+  ns "Spatule"; np "Spatules";
+}
+
+translate Telephone to french masculine
+{
+  ns "Téléphone"; np "Téléphones";
+}
+
+translate Joystick to french masculine
+{
+  ns "Joystick"; np "Joysticks";
+}
+
+translate Lightbulb to french feminine
+{
+  ns "Ampoule"; np "Ampoules";
+}
+
+translate Battery to french feminine
+{
+  ns "Batterie"; np "Batteries";
+}
+
+translate "Test of the Archaeologist"
+to french "L'épreuve de l'Archéologue";
+
+translate "You sign up for the Test of the Archaeologist and learn how to craft Archaeological Shovels (also requires the Blacksmithing skill), build Trophy Cases, and excavate sites. You are also given a list of relics to search for. Trading relics with fellow Archaeologists is encouraged."
+to french "Vous vous lancez dans l'épreuve de l'Archéologue, apprenant comment fabriquer des pelles d'archéologue(ceci nécessite la technologie Travail du métal), assembler des coffrets à trophées, et exploiter les sites de fouilles. Vous recevez aussi une liste de reliques à rechercher. L'échange de reliques entre archéologues est vivement encouragé.";
+
+translate "The Test of the Archaeologist must be unlocked by one who has read the Ancestral Inscriptions on every past Monument. You have read the Ancestral Inscriptions on only N1 of N2."
+to french "L'épreuve de l'Archéologue doit être débloquée par quelqu'un ayant lu les inscriptions ancestrales sur chacun des anciens Monuments. Vous avez seulement lu N1 inscriptions sur N2.";
+
+translate "Trophy Cases display the finest and rarest relics from your travels."
+to french "Les coffrets à trophées exposent les plus belles et les plus rares reliques collectées durant vos voyages.";
+translate "Build a Trophy Case"
+to french "Assembler un coffret à trophées";
+translate "Find an Archaeological Dig Site"
+to french "Trouver un site de fouille archéologique";
+translate "Successfully Extract a Relic"
+to french "Extraire une relique avec succès";
+translate "Install Three Relics in your Trophy Case"
+to french "Installez trois reliques dans votre coffret";
+translate "Check your Score (At least 21 Points)"
+to french "Consulter votre score (au moins 21 points)";
+
+translate "You have completed Principles of the Archaeologist."
+to french "Vous avez terminé les Principes de l'Archéologue.";
+
+translate "You must be Level N1 to do this."
+to french "Vous devez être niveau N1.";
+
+translate "Spindle Tree Resin"
+to french "Résine de Spindle Tree";
+
+translate "Dig the Site"
+to french "Exploiter le site";
+
+translate "To learn the proper way to work an archaeological dig site, you must begin the Test of the Archaeologist."
+to french "Pour apprendre à exploiter un site archéologique, vous devez avoir commencé l'épreuve de l'Archéologue.";
+
+translate "You need an Archaeologists Shovel to work an archeological dig."
+to french "Il vous faut une pelle d'archéologue pour exploiter un site de fouille.";
+
+translate "The delicate site collapsed. You can improve the chance of success with a higher quality Archaeologists Shovel, and by increasing your Perception and Dexterity."
+to french "Le site instable vient de s'effondrer. Une pelle de meilleure qualité et un plus haut niveau en perception et en dextérité vous assureront de plus grandes chances de succès.";
+
+translate "Your work pays off! You uncover a relic from the site."
+to french "Votre travail porte ses fruits! Vous parvenez à extraire une relique du site.";
+
+translate "Read my Relic List"
+to french "Consulter ma liste de reliques";
+
+translate "Ideal Relics for U1: (Must get at least 7 relics)"
+to french "Reliques idéales pour U1(name) : (procurez-vous en au moins 7)";
+
+translate "Install a Relic"
+to french "Installer une relique";
+
+translate "Installing O1"
+to french "Installation de O1(ns) en cours";
+
+translate "A O1 is already installed."
+to french "O1(uns) O1(ns) est déjà installé.";
+
+translate "Check the Requirements"
+to french "Vérifier les pré-requis";
+
+translate "    O1"
+to french "    O1(ns)";
+
+translate "        N1 points for O1"
+to french "        N1 points pour O1(ns)";
+
+translate "        Not filled."
+to french "        Non complété";
+
+translate "Total Score: N1"
+to french "Score total : N1";
+
+translate "Relic Display, N1 slots filled, N2 points."
+to french "Reliques, N1 emplacements complétés, N2 points.";
+
+translate "Trophy Case"
+to french "Coffret à trophées";
+
+translate "Gold Foil for Exterior"
+to french "Feuilles d'or pour l'extérieur";
+translate "Mirror for Interior"
+to french "Mirroir pour l'intérieur";
+translate "Boards for Structure"
+to french "Planches pour la structure";
+translate "Spindle Tree Resin for Luster"
+to french "Résines de Spindle Tree pour le revêtement";
+translate "Silk Cloth for Lining"
+to french "Pièces de soie pour le renfort";
+translate "Bearings for Door Mechanism"
+to french "Roulements pour le mécanisme de la porte";
+
+translate "To build a Trophy Case, you need: "
+to french "Pour construire un coffret à trophées, il vous faut :";
+
+translate "Indestructable"
+to french "Indestructible";
+
+translate "Sturdy"
+to french "Robuste";
+
+translate "Delicate"
+to french "Fragile";
+
+translate "Tiny"
+to french "Minuscule";
+
+translate "Small"
+to french "Petit";
+
+translate "Midsized"
+to french "Moyen";
+
+translate "Large"
+to french "Gros";
+
+translate "Giant"
+to french "Géant";
+
+translate "Light"
+to french "Léger";
+
+translate "Welterweight"
+to french "Super-leger";
+
+translate "Lightweight"
+to french "Extra-léger";
+
+translate "Featherweight"
+to french "Poids-plume";
+
+translate "Heavy"
+to french "Lourd";
+
+translate "Ancient"
+to french "Ancient";
+
+translate "Old"
+to french "Vieux";
+
+translate "Timeless"
+to french "Sans âge";
+
+translate "Antique"
+to french "Antique";
+
+translate "Valueable"
+to french "Précieux";
+
+translate "Decorative"
+to french "Décoratif";
+
+translate "Functional"
+to french "Fonctionnel";
+
+translate "Royal"
+to french "Royal";
+
+translate "Sacred"
+to french "Sacré";
+
+translate "Jewelry Collage"
+to french "Bijoux fantaisie";
+
+translate "Holy Book"
+to french "Livre sacré";
+
+translate "Sun Totem"
+to french "Totem solaire";
+
+translate "Hinged Contraption"
+to french "Bidule articulé";
+
+translate "Strange Sundial"
+to french "Cadran solaire etrange";
+
+translate "Meditation Box"
+to french "Boîte à méditation";
+
+translate "Aether Flag"
+to french "Drapeau ethéré";
+
+translate "Curious Pedestal"
+to french "Curieux piedestal";
+
+translate "Wrist Exerciser"
+to french "Appareil pour le poignet";
+
+translate "Spreader of Delight"
+to french "Diffuseur de lumière";
+
+translate "Font of Wisdom"
+to french "Modèle de sagesse";
+
+translate "Prayer Box"
+to french "Boîte à prière";
+
+translate "Security Prop"
+to french "Appareil de sécurité";
+
+translate "Air of Reason"
+to french "Air de sagesse";
+
+translate "Portrait Collection"
+to french "Collection de portraits";
+
+translate "Land Anchor"
+to french "Ancre terrestre";
+
+translate "Fortune Teller"
+to french "Boule de crystal";
+
+translate "Amusement Papers"
+to french "Papiers comiques";
+
+translate "Odd Bone"
+to french "Os étrange";
+
+translate "Orb Squeezer"
+to french "Presse-orbe";
+
+translate "Celestial Magnifier"
+to french "Hommâge céleste";
+
+translate "Slick Paper"
+to french "Bout de papier lisse";
+
+translate "Optical Enhancer"
+to french "Stimulateur optique";
+
+translate "Walking Stick"
+to french "Canne";
+
+translate "Ribbon Kalaidescope"
+to french "Ruban multicolore";
+
+translate "Spirit Monacle"
+to french "Menottes spirituelles";
+
+translate "Fire Display"
+to french "Exhibition de feu";
+
+translate "Corded Gadget"
+to french "Gadget filaire";
+
+translate "Attention Grabber"
+to french "Monopoliseur d'attention";
+
+translate "Dirt Pick"
+to french "Pioche à terreau";
+
+translate "Metalic Chalice"
+to french "Calice en métal";
+
+translate "Ribbon of Harmony"
+to french "Ruban de l'harmonie";
+
+translate "Bent Mirror"
+to french "Miroir courbé";
+
+translate "Mechanical Eyeball"
+to french "Oeil mécanique";
+
+translate "Portable Harp"
+to french "Harpe portable";
+
+translate "Special Widget"
+to french "Gadget spécial";
+
+translate "Royal Portrait"
+to french "Portrait royal";
+
+translate "Golem Bone"
+to french "Os de golem";
+
+translate "Fiber Totem"
+to french "Totem en fil";
+
+translate "Celestial Wheel"
+to french "Roue céleste";
+
+translate "Worry Stone"
+to french "Pierre d'inquiétude";
+
+translate "Spiral Knife"
+to french "Couteau en spirale";
+
+translate "Torture Device"
+to french "Engin de torture";
+
+translate "Structured Mineral"
+to french "Minéral structuré";
+
+translate "Sulfurous Offering"
+to french "Offrande sulfurée";
+
+translate "Demon Ring"
+to french "Anneau diabolique";
+
+translate "Crown of Thorns"
+to french "Couronne d'épine";
+
+translate "Mechanical Quill"
+to french "Plume mécanique";
+
+translate "Cube of Fortune"
+to french "Cube de la chance";
+
+translate "Confession Extractor"
+to french "Extracteur de confession";
+
+translate "Secret Keeper"
+to french "Gardienne du secret";
+
+translate "Bane of Authority"
+to french "Fléau de l'autorité";
+
+translate "Meditation Globe"
+to french "Globe à méditation";
+
+translate "Everlasting Mushroom"
+to french "Champignon immortel";
+
+translate "Tablet of Reflection"
+to french "Tablette de reflexion";
+
+translate "Install a Relic"
+to french "Installer une relique";
+
+translate "No O1 is needed."
+to french "Vous 'navez pas besoin de O1(ns)";
+
+translate "There is already a O1 in the case."
+to french "Il y a déjà O1(uns) O1(ns) dans le coffret";
+
+translate "You install the relic, for a score of N1"
+to french "Vous installez la relique, pour un score de N1";
+
+translate "You install the relic, but the score is zero: The relic was already used by U1."
+to french "Vous installez la reliquez, mais son score est de zéro : la relique a déjà été utilisée par U1(name).";
+
+translate "This Trophy Case has already won"
+to french "Ce coffret à trophées est déjà passé.";
+
+translate "Warning: Trophy Case is not competing for advances"
+to french "Attention : Ce coffret à trophées ne participe pas à l'épreuve.";
+
+translate "Close for Advances"
+to french "Retirer ce coffret de la course";
+
+translate "Open for Advances"
+to french "Remettre ce coffret dans la course";
+
+translate "N1 points for K1* by U1 (K2, K3, K4, K5, K6, K7)"
+to french "N1 points pour K1* par U1(name) (K2, K3, K4, K5, K6, K7)";
+
+translate "K1* by U1 (K2, K3, K4, K5, K6, K7)"
+to french "K1* par U1(name) (K2, K3, K4, K5, K6, K7)";
+
+translate "K1 (K2, K3, K4, K5, K6, K7) (N1)"
+to french "K1 (K2, K3, K4, K5, K6, K7) (N1)";
+
+translate "    K1 (K2, K3, K4, K5, K6, K7)"
+to french "    K1 (K2, K3, K4, K5, K6, K7)";
+
+translate "relic:K1"
+to french "Relique:K1";
+
+translate "Explain my Focus"
+to french "Expliquer mes points de concentration";
+
+translate "Focus of N1 is from:"
+to french "Concentration de N1";
+
+translate "    Base: N1"
+to french "    Base : N1";
+
+translate "    Bonus for surpassing weeks' best: N1"
+to french "    Bonus pour avoir fait mieux que les vainqueurs de la semaine : N1";
+
+translate "    Bonus for each week as Egypt's top score: N1"
+to french "    Bonus pour avoir été le meilleur une semaine donnée : N1";
+
+translate "No Winners in the Test of the Archaeologist." 
+to french "Aucun passage pour l'épreuve de l'Archéologue";
+

@@ -1,0 +1,106 @@
+module uniqueitems_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+
+//menues
+translate "Pick up the O1:K1 quick?"
+to german "O1(sn):K1 schnell aufheben?";
+
+translate "Picked up O1:K1."
+to german "O1(sn):K1 aufgehoben.";
+
+translate "This is a O1 belonging to U1"
+to german "O1(^tsn) O1(sn) gehört U1(name)";
+
+translate "[Extra]"
+to german "[Extra]";
+
+translate "*"
+to german "*";
+
+translate "-"
+to german "-";
+
+translate "Utility"
+to german "Optionen";
+
+translate "Game Master"
+to german "Gamemaster";
+
+translate "Debug"
+to german "Debug";
+
+translate "This is a O1: K1 belonging to U1"
+to german "O1(^tsn) O1(sn) : K1 gehört U1(name)";
+
+translate "The O1 moved. Try again."
+to german "O1(^tsn) O1(sn) hat sich bewegt. Versuche es erneut.";
+
+translate "You no longer have ownership."
+to german "Du bist nicht länger der Eigentümer.";
+
+translate "Picked up N1: O1"
+to german "N1 O1(N1?pn:sn) aufgehoben";
+
+translate "Picked up N1 O1:"
+to german "N1 O1(N1?pn:sn) aufgehoben";
+
+translate "Pick up the O1"
+to german "Hebe O1(tsa) O1(sa) auf";
+translate "Pick up the O1:K1"
+to german "Hebe O1(tsa) O1(sa):K1 auf";
+
+translate "The O1 is busy"
+to german "O1(^tsn) O1(sn) ist beschäftigt";
+
+//translate "Drop/",T,"/\k",ComplexName(unique)!="" ? ComplexName(unique) : "No Name","\k")
+//to german 
+
+translate "Drop how many O1?"
+to german "Wieviel O1(sn) ablegen?";
+
+translate "You can't fit any more O1 in the O2!"
+to german "Du kannst von O1(dsa) O1(pa) nichts mehr in O2(dsn) O2(sn) ablegen!";
+
+//translate "Stash/",T,"/\k",ComplexName(unique),"\k (",Actor.p_ComplexC[unique],")"
+//to german 
+
+translate "Stash how many O1? (Max N1)"
+to german "Wieviel O1(pn) verstauen? (Max N1)";
+
+translate "You're carrying too much - drop some stuff before picking up any O1."
+to german "Du trägst zuviel - lege etwas ab, bevor Du O1(pn) aufnimmst.";
+
+translate "Picked up N1 O1:K1."
+to german "N1 O1(N1?pn:sn):K1 aufgehoben.";
+
+
+translate "Change Ownership to Named Player"
+to german "Übergebe das Eigentum an folgenden Spieler";
+
+translate "Transfer Ownership to..."
+to german "Übergebe Eigentum an...";
+
+translate "Pick up the O1"
+to german "Hebe O1(dsn) O1(sn) auf";
+
+translate "This pile has N1 O1:"
+to german "Dieser Stapel hat N1 O1(N1?pn:sn):";
+
+translate ". Get how many?"
+to german ". Wieviel nehmen?";
+
+translate "Unnamed"
+to german "Unbenannt";
+
+translate "Complex Data error in secret entity compare. Report this to eGenesis."
+to german "Schwieriger Datenfehler beim Datenvergleich aufgetreten. Benachrichtige eGenesis.";
+
+translate "ComplexConsumeAny done without verifying count. You may have lost materials. Report this as a bug."
+to german "Schwieriger Fehler beim Vergleichen der Menge. Möglicherweise hast Du Material verloren. Meldes dies als Bug.";

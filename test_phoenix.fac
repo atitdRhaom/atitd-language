@@ -1,0 +1,744 @@
+Module Phoenix;
+
+--
+-- Still to do:
+--   Build the Phoenix
+--   Scoring with rollover              -- Ok
+--   Review Schedule                    -- Ok
+--   Warning if building too far away   -- Ok
+--   Real-time Daemon                   -- Ok
+--   Goals screen description           -- Ok
+--
+
+default World.MissionText[Phoenix] =	"Direct teams to build Phoenix in far-flung stadiums.\n\nThe Test of Seven Phoenix will challenge your skills as a contractor, not a laborer.\n"
+					"When the Hour of the Phoenix arrives, you'll be given a number of glorious Phoenix statue construction projects.\n"
+					"You must ensure these get built at specific Phoenix parks throughout Egypt.\n"
+					"Complete all seven types within a (game) hour for maximum score.\n"
+					"If you waypoint travel during the Hour, you will be disqualified from that hour.\n"
+					"No Egyptian Citizen may build more than two statues in a given hour.\n"
+					"No Egyptian who has used travel time during the hour may build.\n"
+					"A minimum score of 21 is required to have the possibility of advancement.";
+default World.Mission[Phoenix] = <<
+			"Produce Spirits of Fire or better quality",		-- 0 [1TP]	V
+			"Identify a Phoenix Stadium",				-- 1 [1TP]	V
+			"Build a Useful Phoenix for Someone Else",		-- 2 [1TP]	V
+                        "Have a Phoenix built for You",				-- 3 [1TP]	V
+			"Pass Test of Seven Phoenix"				-- 4 [3TP]	V
+>>;
+
+Test Phoenix<"Test of Seven Phoenix">;
+default UArchitecture.Knows[Phoenix] = 1;
+
+subroutine MissionDone of Phoenix {
+	Place->AdvanceWithScore(Architecture, Phoenix, Place.p_FinalScore[Phoenix]);
+}
+
+subroutine GetDynDemonstrateItems of Phoenix {
+	var rval=<<>>;
+	for kind derivedfinal(PhoenixBuilding) {
+		var req=kind->GetRequirements();
+		for qty,material,template,desc inlist(req) {
+			if (!contains(rval,material)) {
+				rval=append(rval,1,material,<<template>>,desc);
+			}
+		}
+	}
+	return(rval);
+}
+
+subroutine StartTest of Phoenix {
+  NotifyQ("The Test of Seven Phoenix will challenge your skills as a contractor, not a laborer. When the Hour of the "
+          "Phoenix arrives, you'll be given a number of glorious Phoenix statues that you must ensure get built at specific "
+          "Phoenix parks throughout Egypt. Complete all seven within a (game) hour for maximum score. If you "
+          "waypoint travel during the Hour, you will be disqualified from that hour. No Egyptian "
+          "may build more than two status in a given hour, and no Egyptian who has travelled during the "
+          "hour may build.  A minimum score of 21 is required to have the possibility of advancement.");
+}
+
+PublicBuilding PhoenixStadium<"Phoenix Stadium">;
+
+Plan of PhoenixStadium {
+	[menu]	
+		Item("What is this?");
+	[action]
+		if (!contains(World.TestActive, Phoenix)) { fail("This is a strange post"); }
+		NotifyQ("This is a Phoenix Stadium post\n\nDuring Hour of Phoenixes build a variety of Phoenix types to assist your contractor. Your contractor may also choose to act as your laborer. The more unique Phoenix types constructed for you each round the more points you will score.\n\nScores are evaulated weekly and the highest scoring will progress.");
+}
+
+Plan of PhoenixStadium {
+	[menu]
+		if (!Actor.DoingTest[Phoenix]) { fail(); }
+		if (Actor->IsMissionStepDone(Phoenix, 1)) { fail(); }
+		Item("Identify this Phoenix Stadium");
+	[action]
+		Actor->MissionDo(Phoenix, 1);
+		if (Actor->AddTalentPoints(1, "PhoenixIdentify")) {
+			Start(Actor->UINotificationStandard("Talent Points Awarded", String("You received 1 Talent Point for identifying a Phoenix Stadium"), Phoenix, 0));
+		}
+}
+
+
+default PhoenixStadium.Name="Park";
+
+default World.PhoenixHourTime=3600; -- Should be 3600 for release
+default World.PhoenixRadius=10; -- In tiles
+default World.AdvanceCount[Phoenix]=3;
+default World.PhoenixWait0=43200;
+default World.PhoenixWait1=129600;
+default World.PhoenixMinAdvancing=21;
+
+Building PhoenixBuilding guard OnFoot;
+PhoenixBuilding PhoenixBeingBorn<"Phoenix Being Born">;
+PhoenixBuilding PhoenixGrowingOld<"Phoenix Growing Old">;
+PhoenixBuilding PhoenixInHisPrime<"Phoenix in His Prime">;
+PhoenixBuilding PhoenixOnTheHunt<"Phoenix on the Hunt">;
+PhoenixBuilding PhoenixTakingShelter<"Phoenix Taking Shelter">;
+PhoenixBuilding PhoenixPartingWays<"Phoenix Parting Ways">;
+PhoenixBuilding PhoenixTwistingFate<"Phoenix Twisting Fate">;
+default World.PhoenixIndex[PhoenixInHisPrime]=1;
+default World.PhoenixIndex[PhoenixGrowingOld]=2;
+default World.PhoenixIndex[PhoenixBeingBorn]=3;
+default World.PhoenixIndex[PhoenixTakingShelter]=4;
+default World.PhoenixIndex[PhoenixOnTheHunt]=5;
+default World.PhoenixIndex[PhoenixTwistingFate]=6;
+default World.PhoenixIndex[PhoenixPartingWays]=7;
+default World.PhoenixKind[1]=PhoenixInHisPrime;
+default World.PhoenixKind[2]=PhoenixGrowingOld;
+default World.PhoenixKind[3]=PhoenixBeingBorn;
+default World.PhoenixKind[4]=PhoenixTakingShelter;
+default World.PhoenixKind[5]=PhoenixOnTheHunt;
+default World.PhoenixKind[6]=PhoenixTwistingFate;
+default World.PhoenixKind[7]=PhoenixPartingWays;
+
+subroutine GetRequirements of PhoenixInHisPrime {
+	return(
+		<<
+			3,	GoldBars,	0,	0,
+			10,	SmallRuby,	0,	0,
+			1,	SheetGlass,	0,	0,
+			50,	CopperWire,	0,	0,
+			10,	SteelSheeting,	0,	0,
+			260,	TreatedBoards,	<<WAHard, WARigid, WAFireproof>>,	"Hard, Rigid, Fireproof Boards",
+			97,	Paint,		"Indian Red",				"Indian Red Paint",
+			200,	RaeliTiles,	"*Yellow*",				"Yellowish Raeli Tiles",
+			800,	GoldFoil,	0,	0,
+			1,	Spirits,	<<3,3,3>>,				"Grain Spirits of Fire",
+			11,	Gunpowder,	0,	0,
+		>>);
+}
+
+subroutine GetRequirements of PhoenixGrowingOld {
+	return(
+		<<
+			12,	Linen,		0,					0,
+			22,	Leather,	0,					0,
+			2,	GlassRod,	0,					"Glass Rods",
+			100,	SteelWire,	0,					0,
+			20,	CopperSheeting,	0,					0,
+			260,	TreatedBoards,	<<WASoft, WAColorWhite, WAFireproof>>,	"Soft, Fireproof, White Boards",
+			125,	Paint,		"Sandy Brown",				"Sandy Brown Paint",
+			125,	Paint,		"Olive Drab",				"Olive Drab Paint",
+			200,	RaeliTiles,	"Tan",					"Tan Raeli Tiles",
+			1,	Spirits,	<<3,3,1>>,				"Wood Spirits of Fire",
+			11,	Explosive0,	0,					0,
+		>>);
+}
+
+subroutine GetRequirements of PhoenixBeingBorn {
+	return(
+		<<
+			100,	Beeswax,	0,					0,
+			20,	Pewter,		0,					0,
+			10,	SmallTopaz,	0,					0,
+			40,	SilverWire,	0,					0,
+			15,	SteelSheeting,	0,					0,
+			260,	TreatedBoards,	<<WASoft, WARotproof, WAFireproof>>,	"Soft, Rotproof, Fireproof Boards",
+			100,	Paint,		"Sienna",				"Sienna Paint",
+			100,	Paint,		"Tan",					"Tan Paint",
+			200,	RaeliTiles,	"Barn Red",				"Barn Red Raeli Tiles",
+			1,	Spirits,	<<3,3,7>>,				"Mineral Spirits of Fire",
+			11,	Gunpowder,	0,					0,
+		>>);
+}
+
+subroutine GetRequirements of PhoenixTakingShelter {
+	return(
+		<<
+			100,	Charcoal,	0,					0,
+			300,	Firebricks,	0,					0,
+			10,	CutStone,	0,					0,
+			42,	ThothsMetalWire,0,					0,
+			10,	TreatedMetalSheeting,<< <<TreatedMetalSheeting,PewterPS>>,MAHard, MACorrResist>>, "Pewter Sheeting: Hard Corrosion Resistant",
+			260,	TreatedBoards,	<<WAPliable, WAFireproof,WAColorBlonde>>, "Pliable, Fireproof, Blonde Boards",
+			100,	Paint,		"Dark Khaki",				"Dark Khaki Paint",
+			100,	Paint,		"Dark Grey",				"Dark Grey Paint",
+			200,	RaeliTiles,	"Slate Grey",				"Slate Grey Raeli Tiles",
+			1,	Spirits,	<<3,3,6>>,				"Vegetable Spirits of Fire",
+			11,	Gunpowder,	0,					0,
+		>>);
+}
+
+subroutine GetRequirements of PhoenixOnTheHunt {
+	return(
+		<<
+			50,	Perch,		0,					0,
+			200,	WaterContainer,	0,					0,
+			50,	Concrete,	0,					0,
+			30,	MagWire,	0,					0,
+			10,	SteelSheeting,	0,					0,
+			260,	TreatedBoards,	<<WAHard, WAFireproof,WAColorBlack>>,	"Hard, Black, Fireproof Boards",
+			100,	Paint,		"Dark Orange",				"Dark Orange Paint",
+			100,	Paint,		"Golden Rod",				"Golden Rod Paint",
+			200,	RaeliTiles,	"Wheat",				"Wheat Raeli Tiles",
+			1,	Spirits,	<<3,3,8>>,				"Fish Spirits of Fire",
+			11,	Gunpowder,	0,					0,
+		>>);
+}
+
+subroutine GetRequirements of PhoenixTwistingFate {
+	return(
+		<<
+			9,	DriedPapyrus,	0,					0,
+			50,	Nails,		0,					0,
+			10,	PaperPapyrus,	0,					0,
+			30,	MetalBlueWire,	0,					0,
+			7,	TreatedMetalSheeting,<< <<TreatedMetalSheeting,MoonSteelPS>>,MAHard, MANontoxic>>, "Moon Steel Sheeting: Hard Non-Toxic",
+			7,	SteelSheeting,	0,					0,
+			260,	TreatedBoards,	<<WASoft, WANontoxic, WAFireproof>>,	"Soft, Nontoxic, Fireproof Boards",
+			130,	Paint,		"Pale Golden Rod",			"Pale Golden Rod Paint",
+			120,	Paint,		"Fire Brick",				"Fire Brick Paint",
+			200,	RaeliTiles,	"Ghost White",				"Ghost White Raeli Tiles",
+			4,	Spirits,	<<3,3,2>>,				"Worm Spirits of Fire",
+			11,	Explosive0,	0,					0,
+		>>);
+}
+
+subroutine GetRequirements of PhoenixPartingWays {
+	return(
+		<<
+			22,	Canvas,		0,					0,
+			10,	SmallDiamond,	0,					0,
+			3,	Ink,		0,					0,
+			100,	SteelWire,	0,					0,
+			20,	CopperSheeting,	0,					0,
+			260,	TreatedBoards,	<<WAHard, WAVolatile,WAColorBlack>>,	"Hard, Volatile, Black Boards",
+			100,	Paint,		"Olive",				"Olive Paint",
+			100,	Paint,		"Dark Golden Rod",			"Dark Golden Rod Paint",
+			200,	RaeliTiles,	"Dark Jungle Green",			"Dark Jungle Green Raeli Tiles",
+			4,	Spirits,	<<5,5,4>>,				"Grass Spirits of Earth",
+			11,	Gunpowder,	0,					0,
+		>>);
+}
+
+subroutine GetRequirements of PhoenixBuilding {
+	return(<<1,ortolans,0,"This is not right! Call a Developer.">>);
+}
+
+subroutine StartBuilding of PhoenixBuilding {
+	Place.StartedBuilding=Actor;
+}
+
+Plan of PhoenixStadium {
+	[menu] if (Place.Name!="Park") MenuComment("[Extra]Welcome to ",Place.Name);
+}
+
+Plan of PhoenixStadium guard BuildersOnly {
+	[menu] Item("Utility/Name this Park");
+	[action]
+		var name=AskQuestionText("Name of park?",Place.Name,0);
+		if (name) Place.Name=Name;
+}
+
+Plan of PhoenixStadium guard eGenesisOnly {
+	[menu] Item("Utility/Name this Park");
+	[action]
+		var name=AskQuestionText("Name of park?",Place.Name,0);
+		if (name) Place.Name=Name;
+}
+
+subroutine Initialize of PhoenixBuilding {
+	Place.Name=Place.InitData;
+	var sb=Place.StartedBuilding;
+	if (!sb) return();
+	if (sb.p_LastPhoenixBuilt1 >= World.PhoenixStart & sb.p_LastPhoenixBuilt2 >= World.PhoenixStart) {
+		Actor->Notify2(Actor,"You may only build two Phoenixes per Phoenix Hour.");
+		SalvageBulldozeAll();
+	}
+	if (sb.p_LastWarp > World.PhoenixStart) {
+		Actor->Notify2(Actor,"You may not build a Phoenix if you have waypoint traveled during the Hour of the Phoenix.");
+		SalvageBulldozeAll();
+	}
+	sb.p_LastPhoenixBuilt1 = sb.p_LastPhoenixBuilt2;
+	sb.p_LastPhoenixBuilt2 = time();
+}
+
+default PhoenixConstructionSite.VisRange=500;
+default PhoenixConstructionSite.VanishTime=7200;
+default PhoenixConstructionSite.IBuildRadius=0;
+default PhoenixConstructionSite.SpecialPermissions=<<"Clear","Disassemble">>;
+
+subroutine InitGraphic of PhoenixConstructionSite { SetGraphic(Place,"model=smallconstructionsite scale=120"); }
+
+Plan of Player guard OnFoot {
+	[menu]
+		if (!seq(World.PhoenixStart,time(),World.PhoenixStart+World.PhoenixHourTime)) fail();
+		if (Actor->HasSkill(ProjectManagement, 1)) {
+			if (Actor.DoingTest[Phoenix]) Item("Projects/Tests/",Architecture,"/",Phoenix,"/",PhoenixConstructionSite);
+		}
+	[action]
+		var Req=<<Canvas,1,Rope,4>>;
+		var b=InterBuild("To start a phoenix construction site you need:",Req,PhoenixConstructionSite);
+		NotifyQ("\a \aWarning: this construction site will vanish in two hours!\a \aLoading an item will reset the timer.\a \aYou can disassemble the site at no cost.");
+}
+
+Plan of PhoenixConstructionSite {
+	[menu]
+		if (!seq(World.PhoenixStart,time(),World.PhoenixStart+World.PhoenixHourTime)) fail();
+		if (!Actor.DoingTest[Phoenix]) fail();
+		for kind derivedfinal(PhoenixBuilding) {
+			Item(kind);
+		}
+	[action]
+		var req=kind->GetRequirements();
+		var parks = ScanRadius(16*World.PhoenixRadius,PhoenixStadium);
+		if (!length(parks)) fail("Warning: You are not building close enough to the Stadium Headquarters to register.");
+		var name, rad;
+		if (!Predicting()) for p inlist(parks) {
+			var d=Dist(xPos(p),yPos(p), xPos(Place), yPos(Place));
+			if (d<rad) { rad=d; name=p.Name; }
+		}
+		InitiateBuildComplex(String("To build a ",kind,", you need: "), req, kind, name);
+}
+
+subroutine InitGraphic of PhoenixBuilding {
+	SetGraphic(Place,"model=phoenix",World.PhoenixIndex[getType(Place)],Place.Flame ? " effect=phoenixflame(root)" : "");
+}
+
+
+--
+-- Data Structure:
+--   World.PhoenixStart=time
+--   World.PhoenixParks=<<sprite,name,plane,x,y,...>>
+--
+--   Player.p_PhoenixBits=0..127
+--
+--
+-- Restrictions:
+--   No credit if you warp
+--   Can only build 1 Phoenix per period
+--
+
+subroutine InitGraphic of PhoenixStadium { SetGraphic(Place,"model=phoenixmarker"); }
+
+ControlPanel PhoenixController<"Phoenix Controller"> unguard Idle;
+
+subroutine PhReport0(who) of PhoenixStadium guard MainPlaneOnly {
+	Reset(Place.Active);
+	Start(who->PhReport1(Place));
+}
+
+subroutine PhReport1(pl) of PhoenixController {
+	Place.LocationCount+=1;
+	if (length(Place.Locations)<7) Place.Locations=append(pl,Place.Locations);
+	else {
+		var nuke = random(Place,0,Place.LocationCount-1);
+		if (nuke>=7) fail();
+		Place.Locations=replace(Place.Locations,nuke,pl);
+	}
+}
+
+default Player.p_PhoenixStatus="";
+subroutine ClearPhoenix of Player {
+	Reset(Place.p_PhoenixBits);
+	Reset(Place.p_PhoenixStatus);
+}
+
+secret ReportToOwner of PhoenixBuilding {
+	print("Reporting ",getType(Place)," at ",Place->locstr()," owned by ",Place.UserName);
+	var sp=UserName2Sprite(Place.UserName);
+	if (!sp) fail();
+	Start(sp->ReportPhoenix(getType(Place),plane(Place),xPos(Place),yPos(Place),UserName2Sprite(Place.BuildUser)));
+}
+
+subroutine GetPhoenixSchedule of Player {
+	var h=hash(World.MasterSeed,Place.HashName,World.PhoenixStart);
+	--print("PhoenixHash for ",Place.username,": ",h);
+	return(HashPermuteVectorK(World.PhoenixParks,5,h));
+}
+
+subroutine CalculateConstructionGoals of Player {
+	var str = String("Your construction goals:\n");
+	var index=1;
+	var plist=Actor->GetPhoenixSchedule();
+	for sp,name,pl,x,y inlist(plist) {
+		str = String(str, "     ", name, " at ", x/16, ", ", y/16, ": ", World.PhoenixKind[index], "\n");
+		index+=1;
+	}
+	return (str);
+}
+
+dangerous DisplayConstructionGoals(v) of Player {
+	NotifyCopyBBig(Actor->CalculateConstructionGoals());
+}
+
+Plan of SArchitecture {
+	[menu]
+		if (!Actor.DoingTest[Phoenix]) fail();
+		if (!seq(World.PhoenixStart,time(),World.PhoenixStart+World.PhoenixHourTime)) fail();
+		Item("Tests/",Phoenix,"/Review Sites");
+	[action]
+		Place->DisplayConstructionGoals();
+}
+
+secret ReportPhoenix(thetype,theplane,thex,they,builder) of Player { -- Get credit, maybe
+	if (!Place.DoingTest[Phoenix]) fail();
+	if (Place.p_LastWarp>World.PhoenixStart) fail();
+	-- Make sure the type matches the place in the schedule
+	var sched=GetPhoenixSchedule();
+	var index=World.PhoenixIndex[thetype];
+	var sp  =nth(sched,(index-1)*5+0);
+	var name=nth(sched,(index-1)*5+1);
+	var pl  =nth(sched,(index-1)*5+2);
+	var x   =nth(sched,(index-1)*5+3);
+	var y   =nth(sched,(index-1)*5+4);
+	var d=dist(x/16,y/16,thex/16,they/16); -- In tiles
+	if (d<=World.PhoenixRadius) {
+		if (BitAnd(Place.p_PhoenixBits,World.Pow2[index-1])) {
+			Place.p_PhoenixStatus = String(Place.p_PhoenixStatus,thetype," at ",name,": Already got credit for this park.\n");
+		} else {
+			Place.p_PhoenixBits=BitOr(Place.p_PhoenixBits,World.Pow2[index-1]);
+			Place.p_PhoenixStatus = String(Place.p_PhoenixStatus,thetype," at ",name,": Credited.\n");
+			if (builder != Place) { Start(builder->CreditAsPhoenixBuilder()); }
+			Start(Place->MissionDo(Phoenix, 3));
+			if (Place->AddTalentPoints(1, "PhoenixReceive")) {
+				Start(Place->UINotificationStandard("Talent Points Awarded", String("You received 1 Talent Points for having a Phoenix built for you"), Phoenix, 0));
+			}
+		}
+	} else {
+		Place.p_PhoenixStatus = String(Place.p_PhoenixStatus,thetype," at ",name,": Too far away, or built at the wrong Stadium.\n");
+	}
+}
+
+subroutine CreditAsPhoenixBuilder of Player {
+	Place->MissionDo(Phoenix, 2);
+	if (Place->AddTalentPoints(1, "PhoenixSender")) {
+		Start(Place->UINotificationStandard("Talent Points Awarded", String("You received 1 Talent Point for building a Phoenix for someone else"), Phoenix, 0));
+	}
+}
+
+Plan of PhoenixController {
+	[menu]
+		--if (World.The[getType(Place)] != Place) fail();
+		Item("Trigger an Hour of the Phoenix");
+	[action]
+		DoNotPredict();
+		StartHourOfPhoenix(0,0);
+}
+
+Plan ReviewStatus of Player {
+	[menu]
+		if (Actor.DoingTest[Phoenix]) Item("Tests/",Architecture,"/",Phoenix,"/Review Status");
+	[action]
+		if (Place.p_PhoenixStatus=="") Place.p_PhoenixStatus="You haven't done any Hours of the Phoenix yet.";
+		var bits=BitVecTotal(<<Place.p_PhoenixBits>>);
+		Actor->NotifyBExtraWide(String(Place.p_PhoenixStatus,"\nScore from last Hour: ",bits*bits,"\nTotal Score: ",Place.p_PhoenixScore));
+}
+
+subroutine BeginTimerForPhoenix(duration) of Player {
+	var startTime = time();
+	var endTime = time() + duration;
+	if (Actor.DoingTest[Phoenix]) {
+		Place->UINotificationStandardCountdown(String("Hour of the Phoenix"), startTime, endTime, String("test:",Phoenix), @DisplayConstructionGoals);
+	}
+}
+
+secret StartHourOfPhoenix(real,id) of PhoenixController {
+	Place.Locations=<<>>;
+	Place.LocationCount=0;
+	MultiStart(PhoenixStadium->PhReport0(Place));
+	for i=(0,15) {
+		FMultiStart(16,i,Player->ClearPhoenix());
+		Wait(1);
+	}
+	Wait(5);
+	var locs=<<>>;
+	var text="Park Locations:";
+	for sp inlist(Place.Locations) {
+		locs=append(locs,sp,sp.name,plane(sp),xPos(sp),yPos(sp));
+		text=String(text,"\n    ",sp->LocStr2());
+	}
+	text=String(text,"\nReview your specific Phoenix build plan at any School of Architecture or by clicking the countdown timer.");
+	World.The[BulletinPanel]->ModifyBullitinByID(id,0,0,0,0,"See Details",text,0,0);
+	PostAssign(World.PhoenixStart,time());
+	PostAssign(World.PhoenixParks,locs);
+	for i=(0,15) {
+		FMultiStart(16,i,Player->BeginTimerForPhoenix(World.PhoenixHourTime));
+		Wait(1);
+	}
+	if (real) {
+		Start(World.SysChanLog->Post("The Hour of the Phoenix has begun."));
+	} else {
+		DevConsole("The Hour of the Phoenix has begun.");
+	}
+	Wait(World.PhoenixHourTime);
+	StopHourOfPhoenix(real);
+}
+
+Plan of PhoenixController {
+	[menu]
+		if (!World.PhoenixParks) fail();
+		var real;
+		Item("End the current Hour of the Phoenix - Practice");
+		Item("End the current Hour of the Phoenix - Real") real=1;
+	[action]
+		StopHourOfPhoenix(real);
+}
+
+secret StopHourOfPhoenix(real) of PhoenixController {
+	if (TypeString(real)) real=atoi(real);
+	TerminatePlan(Place,"starthourofphoenix");
+	MultiStart(PhoenixBuilding->ReportToOwner());
+	if (real) Start(World.SysChanLog->Post("The Hour of the Phoenix has ended."));
+	else      GMConsole("The Hour of the Phoenix has ended.");
+	Wait(10);
+	if (real) {
+		for i=(0,15) {
+			FMultiStart(16,i,Player->AddPhoenixPoints());
+			Wait(1);
+		}
+	}
+	PostAssign(World.PhoenixParks,0);
+	MultiStart(PhoenixBuilding->UpInFlames());
+}
+
+Plan TearItDown of PhoenixBuilding {
+	[menu]
+}
+
+Plan UpInFlames of PhoenixBuilding guard Anyone {
+	[menu] if (plane(Actor)=="pandora") Item("Go Up In Flames");
+	[action]
+		Place.Flame=1;
+		AnimPause(Place,random(Place,0,2000));
+		InitGraphic();
+		AnimPause(Place,12000);
+		Effect(Place,"quickflash","","");
+		AnimPause(Place,900);
+		Effect(Place,"quickflash","","");
+		AnimPause(Place,600);
+		Effect(Place,"quickflash","","");
+		AnimPause(Place,400);
+		Effect(Place,"quickflash","","");
+		AnimPause(Place,200);
+		SetGraphic(Place,"model=invisible");
+		Wait(30);
+		Place.Flame=0;
+		Bulldoze(Place);
+}
+
+secret AddPhoenixPoints of Player {
+	var bits=BitVecTotal(<<Place.p_PhoenixBits>>);
+	Place.p_PhoenixScore+=bits*bits;
+}
+
+Plan of PhoenixController unguard Idle {
+	[menu]
+		var real;
+		var TestName=Phoenix;
+		var Advances=World.AdvanceCount[TestName]+Place.Retain;
+		if (!World.TestOpenTimeA[TestName]) {
+			Item("Advance ",Advances," in the ",TestName," (Trial)");
+		} else {
+			Item("Advance ",Advances," in the ",TestName," (Real)") real=1;
+			Item("Developer/Advance ",Advances," in the ",TestName," (Trial)");
+		}
+	[action]
+		DoNotPredict();
+		Start(World.The[getType(Place)]->AdvancePhoenix(real));
+}
+
+secret AdvancePhoenix(real) of PhoenixController {
+	if (!AssureTestOpenForDays(Phoenix,6,real)) return();
+	if (running(Place,"advancephoenix")) DevBug("AdvancePhoenix: Already running AdvancePhoenix.");
+	Place.Advances=<<>>;
+	Place.AdvanceMax=Place.Retain+World.AdvanceCount[Phoenix];
+	Place.AdvanceThreshold=1;
+	for i=(0,15) {
+		FMultiStart(16,i,Player->ReportPhoenixScore(Place));
+		Wait(1);
+	}
+	Wait(5);
+	var str=String("No advances in the ",Phoenix,".\z");
+	var delim="";
+	Place.Advances=ksort(Place.Advances,-2);
+	if (length(Place.Advances)) str=String("Egypt recognizes the following for passing the ",Phoenix,": ");
+	for score,sp inlist (Place.Advances) {
+		if (real) {
+			sp.p_PhoenixScore=0;
+			sp.p_FinalScore[Phoenix] = score;
+			sp->MissionDo(Phoenix, 4);
+			if (sp->AddTalentPoints(3, "PhoenixWon")) {
+				Start(sp->UINotificationStandard("Talent Points Awarded", String("You received 3 Talent Points for Passing the ", Phoenix), Phoenix, 0));
+			}
+		}
+		str = String(str,delim,sp.username,"(",score,")");
+		delim="\z, \z";
+	}
+	var retain=Place.AdvanceMax-length(Place.Advances)/2;
+	if (real) {
+		Place.Retain = retain;
+	}
+	if (Place.AdvanceThreshold == 1) {
+		if (real) {
+			Place.Retain=0;
+		}
+	} else if (Retain > 0) {
+		str = String(str," \zRetaining ",Retain," advances.");
+	}
+	if (real) {
+		Start(World.SysChanLog->Post(str));
+	} else {
+		DevLog(str);
+	}
+}
+
+secret ReportPhoenixScore(pl) of Player {
+	if (!Place.p_PhoenixScore) fail();
+	if (Place.Passed[Architecture,Phoenix]) fail();
+	if (Place.p_PhoenixScore < World.PhoenixMinAdvancing) fail();
+	-- print("Reporting Phoenix Score ",place.p_PhoenixScore," for ",place.username);
+	Start(pl->ReceivePhoenixScore(Place,Place.p_PhoenixScore));
+}
+
+secret ReceivePhoenixScore(who,score) of PhoenixController {
+	if (score<Place.AdvanceThreshold) fail();
+	Place.Advances=append(Place.Advances,score,who);
+	Place.Advances=ksort(Place.Advances,2);
+	print("Phoenix Advances: ",Place.Advances);
+	if (length(Place.Advances)/2>Place.AdvanceMax) {
+		if (nth(Place.Advances,0)<nth(Place.Advances,2)) {
+			print("Phoenix Trim 1");
+			Place.AdvanceThreshold=nth(Place.Advances,2);
+			Place.Advances=SubVector(Place.Advances,2,10000);
+			print("Phoenix Advances After: ",Place.Advances);
+		} else {
+			print("Phoenix Trim 2");
+			Place.AdvanceThreshold=nth(Place.Advances,2)+1;
+			var lis=<<>>;
+			for score,sp inlist(Place.Advances) if (score>=Place.AdvanceThreshold) lis=append(lis,score,sp);
+			Place.Advances=lis;
+			print("Phoenix Advances After: ",Place.Advances);
+		}
+	}
+}
+
+subroutine Initialize of PhoenixController {
+	ControlPanel->Initialize();
+	if (World.The[getType(Place)]!=Place) return();
+	Start(Place->Daemon());
+}
+
+default PhoenixController.PhoenixSchedule=<<>>;
+secret Daemon of PhoenixController {
+	[action] TerminatePlan(Place,"daemon");
+	[time 0 every 15 forever]
+		if (contains(World.TestActive,Phoenix) & !Running(Place,"phoenixhour")) {
+			while (length(Place.PhoenixSchedule) & nth(Place.PhoenixSchedule,0)<IDate()-10) {-- Discard very old ones.
+				RemovePhoenixHour(nth(Place.PhoenixSchedule,1));
+			}
+			if (length(Place.PhoenixSchedule)/2<7) {
+				var base=IDate();
+				if (length(Place.PhoenixSchedule)) base=nth(Place.PhoenixSchedule,length(Place.PhoenixSchedule)-2);
+				var next=base+random(Place,World.PhoenixWait0/60,World.PhoenixWait1/60);
+				var ID=World.The[BulletinPanel]->NewBulletin(next,next+1000000,String("test:",Phoenix),"Test of Seven Phoenix","Locations to be Determined","",0,0);
+				Place.PhoenixSchedule=append(Place.PhoenixSchedule,next,ID);
+			}
+			if (IDate()>=nth(Place.PhoenixSchedule,0)) {
+				-- Update the Calendar entry
+				var ID=nth(Place.PhoenixSchedule,1);
+				StartHourOfPhoenix(1,ID);
+				RemovePhoenixHour(ID);
+			}
+		}
+}
+
+Plan of PhoenixController {
+	[menu]
+		var WaitTime;
+		if (World.The[getType(Place)] != Place) fail();
+		Item("Inject a Phoenix Hour/Now");
+		Item("Inject a Phoenix Hour/In One Hour") WaitTime=60;
+	[action]
+		var ID=World.The[BulletinPanel]->NewBulletin(World.IDate+WaitTime,World.IDate+WaitTime+1000000,String("test:",Phoenix),"Test of Seven Phoenix","Locations to be Determined","",0,0);
+		Place.PhoenixSchedule=ksort(append(Place.PhoenixSchedule,IDate(),ID),2);
+}
+
+Plan of PhoenixController {
+	[menu]
+		if (World.The[getType(Place)] != Place) fail();
+		for next,RemoveID inlist (Place.PhoenixSchedule) Item("Remove a Phoenix Hour/",IDateToDateTimeAMPM(next,Actor.TimeZone));
+	[action]
+		RemovePhoenixHour(RemoveID);
+}
+
+secret RemovePhoenixHour(RemoveID) of PhoenixController {
+	World.The[BulletinPanel]->KillBulletinByID(RemoveID);
+	var Rebuilt=<<>>;
+	for when,id inlist(Place.PhoenixSchedule) {
+		if (id==RemoveID) World.The[BulletinPanel]->KillBulletinByID(id);
+		else Rebuilt=append(Rebuilt,when,id);
+	}
+	Place.PhoenixSchedule=Rebuilt;
+}
+
+secret ReportWL(who) of PhoenixStadium {
+	var str=Place->LocStr2();
+	if (Place.Name!="Park") str=String(Place.Name," at ",str);
+	var prizes=<<PhoenixInHisPrimeModel,PhoenixGrowingOldModel,PhoenixBeingBornModel,PhoenixTakingShelterModel,PhoenixOnTheHuntModel,PhoenixTwistingFateModel,PhoenixPartingWaysModel>>;
+	if (World.RunningRaceOfThePhoenix) if (Place.Prize>=0) str=String(str," ",nth(Prizes,Place.Prize)," (",Place.TagsLeft,")");
+	Start(who->AddWarpList(plane(Place),xPos(Place),yPos(Place),str));
+}
+
+secret ResetPhoenix of Player {
+	Reset(Place.p_PhoenixScore);
+	Reset(Place.p_PhoenixBits);
+	Reset(Place.p_PhoenixStatus);
+}
+
+Plan of UArchitecture {
+	[menu] if (Actor.DoingTest[Phoenix]) for kind derivedfinal(PhoenixBuilding) Item("Tests/",Phoenix,"/Review Building Requirements/",kind);
+	[action]
+		var str=String("To build a ",kind,":\n");
+		var req=kind->GetRequirements();
+		for qty,kind,tem,desc inlist(req) str=String(str,"    ",qty," ",desc ? desc : kind,"\n");
+		NotifyCopyBExtraWide(str);
+}
+
+secret SetPhoenixAdvances(n) of Player {
+	PostAssign(World.AdvanceCount[Phoenix],atoi(n));
+}
+
+DecorativePortable PhoenixModel;
+PhoenixModel PhoenixBeingBornModel<"Phoenix Being Born Model">;
+PhoenixModel PhoenixGrowingOldModel<"Phoenix Growing Old Model">;
+PhoenixModel PhoenixInHisPrimeModel<"Phoenix in His Prime Model">;
+PhoenixModel PhoenixOnTheHuntModel<"Phoenix on the Hunt Model">;
+PhoenixModel PhoenixTakingShelterModel<"Phoenix Taking Shelter Model">;
+PhoenixModel PhoenixPartingWaysModel<"Phoenix Parting Ways Model">;
+PhoenixModel PhoenixTwistingFateModel<"Phoenix Twisting Fate Model">;
+
+subroutine InitGraphic of PhoenixBeingBorn          { SetGraphic(Place,"model=phoenix3 scale=1000"); }
+subroutine InitGraphic of PhoenixGrowingOld         { SetGraphic(Place,"model=phoenix2 scale=1000"); }
+subroutine InitGraphic of PhoenixInHisPrime         { SetGraphic(Place,"model=phoenix1 scale=1000"); }
+subroutine InitGraphic of PhoenixOnTheHunt          { SetGraphic(Place,"model=phoenix5 scale=1000"); }
+subroutine InitGraphic of PhoenixTakingShelter      { SetGraphic(Place,"model=phoenix4 scale=1000"); }
+subroutine InitGraphic of PhoenixPartingWays        { SetGraphic(Place,"model=phoenix7 scale=1000"); }
+subroutine InitGraphic of PhoenixTwistingFate       { SetGraphic(Place,"model=phoenix6 scale=1000"); }
+
+subroutine InitGraphic of PhoenixBeingBornModel     { SetGraphic(Place,"model=phoenix3"); }
+subroutine InitGraphic of PhoenixGrowingOldModel    { SetGraphic(Place,"model=phoenix2"); }
+subroutine InitGraphic of PhoenixInHisPrimeModel    { SetGraphic(Place,"model=phoenix1"); }
+subroutine InitGraphic of PhoenixOnTheHuntModel     { SetGraphic(Place,"model=phoenix5"); }
+subroutine InitGraphic of PhoenixTakingShelterModel { SetGraphic(Place,"model=phoenix4"); }
+subroutine InitGraphic of PhoenixPartingWaysModel   { SetGraphic(Place,"model=phoenix7"); }
+subroutine InitGraphic of PhoenixTwistingFateModel  { SetGraphic(Place,"model=phoenix6"); }

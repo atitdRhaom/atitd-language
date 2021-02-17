@@ -1,0 +1,531 @@
+module marble_fre;
+
+translate decostone to french feminine
+{  ns "Pierre décorative"; np "Pierres décoratives";}
+
+translate StoneQuarry to french feminine
+{
+  ns "Carrière de pierres"; np "Carrières de pierres";
+}
+
+translate Onyx to french masculine
+{
+  ns "Onyx"; np "Onyx";
+}
+
+translate Jade to french feminine
+{
+  ns "Jade"; np "Jades";
+}
+
+translate YellowAlabaster to french masculine
+{
+  ns "Albâtre jaune"; np "Albâtres jaunes";
+}
+
+translate RoseAlabaster to french masculine
+{
+  ns "Albâtre rose"; np "Albâtres roses";
+}
+
+translate WhiteAlabaster to french masculine
+{
+  ns "Albâtre blanc"; np "Albâtres blancs";
+}
+
+translate CherryTravertine to french masculine
+{
+  ns "Travertin cerise"; np "Travertins cerises";
+  }
+
+translate WhiteTravertine to french masculine
+{
+  ns "Travertin blanc"; np "Travertins blancs";
+}
+
+translate CanaryGranite to french masculine
+{
+  ns "Granit Canari"; np "Granits Canari";
+}
+
+translate HornetsWingGranite to french masculine
+{  ns "Granit Aile-de-Frelon"; np "Granits Aile-de-Frelon";
+}
+
+translate MudGranite to french masculine
+{
+  ns "Granit boueux"; np "Granits boueux";
+}
+
+translate NightGranite to french masculine
+{
+  ns "Granit Nuit"; np "Granits Nuit";
+}
+
+translate TigersEyeGranite to french masculine
+{
+  ns "Granit Oeil-de-Tigre"; np "Granits Oeil-de-Tigre";
+}
+
+translate BluePearlMarble to french masculine
+{
+  ns "Marbre Perle bleue"; np "Marbres Perle bleue";
+}
+
+translate GreenSunMarble to french masculine
+{
+  ns "Marbre Soleil vert"; np "Marbres Soleil vert";
+}
+
+translate BlueMoonMarble to french masculine
+{
+  ns "Marbre Lune bleue"; np "Marbres Lune bleue";
+}
+
+translate MonkeyMarble to french masculine
+{
+  ns "Marbre Singe"; np "Marbres Singe";
+}
+
+translate SerpentineMarble to french masculine
+{
+  ns "Marbre Serpentin"; np "Marbres Serpentin";
+}
+
+translate GreyStarMarble to french masculine
+{
+  ns "Marbre Etoile grise"; np "Marbres Etoile grise";
+}
+
+translate OysterShellMarble to french masculine
+{
+  ns "Marbre Coquille d'Huître"; np "Marbres Coquille d'Huître";
+}
+
+translate IslandBlueMarble to french masculine
+{
+  ns "Marbre des Îles bleues"; np "Marbres des Îles bleues";
+}
+
+translate MountainMarble to french masculine
+{
+  ns "Marbre des Montagnes"; np "Marbres des Montagnes";
+}
+
+translate TangerineMarble to french masculine
+{
+  ns "Marbre Clémentine"; np "Marbres Clémentines";
+}
+
+translate FireRock to french masculine
+{
+  ns "Roc flamboyant"; np "Rocs flamboyants";
+}
+
+translate BloodGranite to french masculine
+{
+  ns "Granit sanglant"; np "Granits sanglants";
+}
+
+translate GhostGranite to french masculine
+{
+  ns "Granit Fantôme"; np "Granits Fantôme";
+}
+
+translate angelsstone to french masculine
+{
+  ns "Pierre des Anges"; np "Pierres des Anges";
+}
+
+translate leopardspawmarble to french masculine
+{
+  ns "Marbre Patte de Léopard"; np "Marbres Patte de Léopard";
+}
+
+translate PuzzleGranite to french masculine
+{
+  ns "Granit Enigmatique"; np "Granits Enigmatiques";
+}
+
+translate MarbleMechanics to french feminine
+{
+  ns "Techniques d'extraction du Marbre"; np "Techniques d'extraction du Marbre";
+}
+
+translate "Decorative Stone Dusts"
+to french "Poussière de pierre décorative";
+
+translate "Marble Tools"
+to french "Outils pour Marbres";
+
+translate "Rocks of the Ages"
+to french "Pierres d'éternité";
+
+translate "Your Perception must be at least 1 to learn this"
+to french "Vous devez avoir une perception d'au moins 1 pour pouvoir apprendre cette compétence";
+
+translate "Specially attune yourself to O1 (Perception N1)"
+to french "Vous harmoniser spécifiquement avec O1(lns) O1(ns) (Perception N1)";
+
+translate "Tuition is 10 slate. Attend the class?"
+to french "Le coût s'élève à 10 ardoises. Assister au cours?";
+
+translate "You don't have the tuition."
+to french "Vous n'avez pas de quoi financer votre instruction.";
+
+translate "You attend class in a hall filled with beautiful stone walls of every color. With much handwaving, the instructors describe a method whereby a team of two people can smash small bundles of slate to locate deposits of O1. Their instruction is not complete though, leading you to believe this to be more conjecture than science. Perhaps you will infer further knowledge in the little-understood Rocks of the Ages skill."
+to french "Vous assistez à un cours dans une salle dotée de magnifiques murs de pierres de toutes les couleurs. Les professeurs vous décrivent en gesticulant une méthode dans laquelle une équipes de deux personnes doivent briser des ardoises afin de localiser une veine de O1(ns). Les instructions ne sont pas complètes, cela semble plus être des hypothèses que des données scientifiques. Peut-être arriverez-vous à en apprendre davantage avec un peu de pratique.";
+
+translate "You attend a class in a dim room. The walls and fixtures are carved of unusual kinds of marble, "
+to french "Vous assistez aux leçons dans une pièce mal éclairée. Les murs et décorations portent des gravures en marbre, ";
+translate "rare Alabasters, and exotic varieties of Granite. As a group, the class members focus their minds toward "
+to french "albâtre rare et variétés exotiques de granit. Toute la salle écoute attentivement les explications du maître pour apprendre ";
+translate "detecting O1. As you leave, the thought of underground "
+to french "à détecter O1(dns) O1(ns). En quittant la salle, les images de gisements enfouis sous terre ne ";
+translate "slabs of the rock is overwhelming, and it is all you can think of. You are totally focused."
+to french "peuvent plus quitter votre esprit, vous ne pensez plus qu'à cela. Vous êtes totalement concentré.";
+translate "You are sure that you could detect any O1 within a N1 foot radius until noon today."
+to french "Vous sentez que vous pouvez détecter tout gisement de O1(ns) dans un rayon de N1 pieds jusqu'à midi aujourd'hui.";
+translate "To prospect for marble, use your Special menu. You will drive a bundle of 5 slate into the ground, shattering it. "
+to french "Pour prospecter du marbre, utilisez votre menu Spécial. Vous devrez fracasser au sol un sac contenant 5 ardoises.";
+translate "By detecting the vibrations and concentrating on the pattern of the flying shards, you will detect any O1 within your radius."
+to french "En ressentant les vibrations et en vous concentrant sur la manière dont les éclats volent, vous détecterez tout gisement de O1(ns)";
+translate "The instructors warn you that the noon sun may confuse you, unfocusing your mind."
+to french "dans votre rayon d'action. Les instructeurs vous préviennent que le soleil de midi peut vous faire perdre votre concentration.";
+
+translate "Your Perception must be at least N1 to prospect for O1."
+to french "Vous devez avoir une perception d'au moins N1 pour prospecter O1(dns) O1(ns).";
+
+translate "Prospecting..."
+to french "Prospection...";
+
+translate "You don't have N1 slate."
+to french "Vous n'avez pas N1 ardoises.";
+
+translate "Prospect for O1"
+to french "Prospecter: O1(ns)";
+
+translate "Two slate shattered! "
+to french "Deux des ardoises se brisent ! ";
+
+translate "One slate shattered!"
+to french "Une ardoise se brise!";
+
+translate "The bundle of slate remained intact."
+to french "Aucune ardoise ne se brise.";
+
+//translate "Quarry panels not initialized."
+
+//translate "Allocate: "
+
+
+translate "Build a Stone Quarry"
+to french "Creuser une carrière de pierres";
+
+translate "Although enough remenants of stone remain to confuse you, the area has already been stripped by someone else."
+to french "Le secteur a déjà été exploité par quelqu'un d'autre, vous pouvez le dire même s'il ne reste aucune trace d'un passage antérieur.";
+
+translate "To dig a Quarry you need:"
+to french "Pour creuser une carrière, il vous faut :";
+
+translate "Your quarry hit nothing but dirt."
+to french "Vous ne trouvez que de la poussière.";
+
+translate "You hit a vein of O1! You can begin working the quarry immediately."
+to french "Vous découvrez une veine de O1(ns) ! Vous pouvez commencer le travail immédiatement.";
+
+translate "This Quarry has collapsed. It should be salvaged."
+to french "Cette carrière s'est effondrée. Elle doit être rebouchée.";
+
+translate "This useless quarry is filled with dirt."
+to french "Cette carrière abandonée est envagie par la poussière.";
+
+translate "A piece of O1 has been raised by N1 span."
+to french "Un bloc de O1(ns) a été élevé de N1.";
+
+translate "A total of N1 lift point(s) have been fitted with winches."
+to french "N1 emplacement(s) ont été équipé(s) de boites à pignon.";
+
+translate "Work the Quarry, Northern-Left"
+to french "Exploiter la carrière, Nord-Gauche (NL)";
+
+translate "Work the Quarry, Northern-Right"
+to french "Exploiter la carrière, Nord-Droite (NR)";
+
+translate "Work the Quarry, Northern-Up"
+to french "Exploiter la carrière, Nord-Haut (NU)";
+
+translate "Work the Quarry, Northern-Down"
+to french "Exploiter la carrière, Nord-Bas (ND)";
+
+translate "Work the Quarry, Eastern-Left"
+to french "Exploiter la carrière, Est-Gauche (EL)";
+
+translate "Work the Quarry, Eastern-Right"
+to french "Exploiter la carrière, Est-Droite (ER)";
+
+translate "Work the Quarry, Eastern-Up"
+to french "Exploiter la carrière, Est-Haut (EU)";
+
+translate "Work the Quarry, Eastern-Down"
+to french "Exploiter la carrière, Est-Bas (ED)";
+
+translate "Work the Quarry, Western-Left"
+to french "Exploiter la carrière, Ouest-Gauche (WL)";
+
+translate "Work the Quarry, Western-Right"
+to french "Exploiter la carrière, Ouest-Droite (WR)";
+
+translate "Work the Quarry, Western-Up"
+to french "Exploiter la carrière, Ouest-Haut (WU)";
+
+translate "Work the Quarry, Western-Down"
+to french "Exploiter la carrière, Ouest-Bas (WD)";
+
+translate "Work the Quarry, Southern-Left"
+to french "Exploiter la carrière, Sud-Gauche (SL)";
+
+translate "Work the Quarry, Southern-Right"
+to french "Exploiter la carrière, Sud-Droite (SR)";
+
+translate "Work the Quarry, Southern-Up"
+to french "Exploiter la carrière, Sud-Haut (SU)";
+
+translate "Work the Quarry, Southern-Down"
+to french "Exploiter la carrière, Sud-Bas (SD)";
+
+translate "We only teach Rocks of the Ages Prospecting in O1 to people who have acheived rank N1 in the Test of Telepathy. Come back when you are more advanced. Bring 10 slate as tuition."
+to french "Nous n'enseignons la prospection des Pierres d'Eternité qu'aux personnes qui ont atteint le niveau N1 à l'épreuve de Télépathie. Revenez lorsque vous en saurez plus. Et apportez 10 ardoises pour financer votre instruction. ";
+
+translate "You stumbled over U1 while working the quary, and the stone slid. You each must work a different corner of the stone."
+to french "Vous avez heurté sur U1(name) en travaillant, et la pierre a glissé. Vous devez chacun attaquer la pierre par un côté différent.";
+
+translate "You stumbled over U1 while working the quary. You each must work a different corner of the stone."
+to french "Vous avez heurté sur U1(name) en travaillant. Vous devez chacun attaquer la pierre par un côté différent.";
+
+translate "You stumbled over your own feet while working the quary. You each must work a different corner of the stone."
+to french "Vous vous êtes marché dessus en travaillant dans cette carrière. Chacun doit être dans un coin différent de la carrière.";
+translate "You change positions."
+to french "Vous avez changé vos positions.";
+
+translate "You have successfully removed a piece of O1."
+to french "Vous avez réussi à extraire un morceau de O1(ns).";
+
+translate "The Quarry has collapsed!"
+to french "La carrière s'est effondrée!";
+
+translate "Replaces a single worker with a mechanical winch"
+to french "Remplacer un seul ouvrier par un automate mécanique";
+
+translate "You learn the science of Marble Mechanics. Quarrys outfitted with a single gearbox winch require only three workers, and the winch is removeable."
+to french "Vous maîtrisez désormais la science des Techniques d'extraction du Marbre. Vous pouvez ajouter un automate mécanique à vos carrière, vous permettant d'extraire le marbre à seulement trois personnes. L'automate peut etre retiré.";
+
+translate "Replaces a second worker with a mechanical winch"
+to french "Remplacer un second ouvrier par un automate mécanique";
+
+translate "You learn Advanced Marble Mechanics. This allows you to replace a second worker with a more complex (2-output) gearbox winch."
+to french "Vous apprenez les techniques avancées d'extraction du Marbre, vous permettant de remplacer un second ouvrier par une boîte à pignon plus complexe (2-sorties).";
+
+translate "Gearbox K1N1-K2N2"
+to french "Boîte à pignon K1N1-K2N2";
+
+translate "Primary winch requires a Gearbox "
+to french "Le premier automate nécessite une boîte à pignon ";
+
+translate "Fit this quarry with a primary winch"
+to french "Doter cette carrière d'un premier automate";
+
+translate "Fit this quarry with a secondary winch"
+to french "Doter cette carrière d'un deuxième automate";
+
+translate "Use Gearbox K1"
+to french "Utiliser une boîte à pignon K1";
+
+translate "The gearbox you selected does not fit this quarry."
+to french "La boîte à pignon que vous avez sélectionner ne correspond pas à cette carrière.";
+
+translate "Primary winch requires a Gearbox K1"
+to french "Le premier automate nécessite une boîte à pignon K1";
+
+translate "Secondary winch requires a Gearbox K1"
+to french "Le second automate nécessite une boîte à pignon K1";
+
+translate "Primary winch requires a Gearbox AN1-AN2"
+to french "Le premier automate nécessite une boîte à pignon AN1-AN2";
+translate "Primary winch requires a Gearbox BN1-BN2"
+to french "Le premier automate nécessite une boîte à pignon BN1-BN2";
+translate "Primary winch requires a Gearbox CN1-CN2"
+to french "Le premier automate nécessite une boîte à pignon CN1-CN2";
+translate "Primary winch requires a Gearbox DN1-DN2"
+to french "Le premier automate nécessite une boîte à pignon DN1-DN2";
+translate "Primary winch requires a Gearbox EN1-EN2"
+to french "Le premier automate nécessite une boîte à pignon EN1-EN2";
+translate "Primary winch requires a Gearbox FN1-FN2"
+to french "Le premier automate nécessite une boîte à pignon FN1-FN2";
+translate "Primary winch requires a Gearbox GN1-GN2"
+to french "Le premier automate nécessite une boîte à pignon GN1-GN2";
+translate "Primary winch requires a Gearbox HN1-HN2"
+to french "Le premier automate nécessite une boîte à pignon HN1-HN2";
+
+translate "Secondary winch requires a Gearbox Gearbox AN1-AN2 AN3-AN4"
+to french "Le second automate nécessite une boîte à pignon AN1-AN2 AN3-AN4";
+translate "Secondary winch requires a Gearbox Gearbox AN1-AN2 BN3-BN4"
+to french "Le second automate nécessite une boîte à pignon AN1-AN2 BN3-BN4";
+translate "Secondary winch requires a Gearbox Gearbox AN1-AN2 CN3-CN4"
+to french "Le second automate nécessite une boîte à pignon AN1-AN2 CN3-CN4";
+translate "Secondary winch requires a Gearbox Gearbox AN1-AN2 DN3-DN4"
+to french "Le second automate nécessite une boîte à pignon AN1-AN2 DN3-DN4";
+translate "Secondary winch requires a Gearbox Gearbox AN1-AN2 EN3-EN4"
+to french "Le second automate nécessite une boîte à pignon AN1-AN2 EN3-EN4";
+translate "Secondary winch requires a Gearbox Gearbox AN1-AN2 FN3-FN4"
+to french "Le second automate nécessite une boîte à pignon AN1-AN2 FN3-FN4";
+translate "Secondary winch requires a Gearbox Gearbox AN1-AN2 GN3-GN4"
+to french "Le second automate nécessite une boîte à pignon AN1-AN2 GN3-GN4";
+translate "Secondary winch requires a Gearbox Gearbox AN1-AN2 HN3-HN4"
+to french "Le second automate nécessite une boîte à pignon AN1-AN2 HN3-HN4";
+
+translate "Secondary winch requires a Gearbox Gearbox BN1-BN2 AN3-AN4"
+to french "Le second automate nécessite une boîte à pignon BN1-BN2 AN3-AN4";
+translate "Secondary winch requires a Gearbox Gearbox BN1-BN2 BN3-BN4"
+to french "Le second automate nécessite une boîte à pignon BN1-BN2 BN3-BN4";
+translate "Secondary winch requires a Gearbox Gearbox BN1-BN2 CN3-CN4"
+to french "Le second automate nécessite une boîte à pignon BN1-BN2 CN3-CN4";
+translate "Secondary winch requires a Gearbox Gearbox BN1-BN2 DN3-DN4"
+to french "Le second automate nécessite une boîte à pignon BN1-BN2 DN3-DN4";
+translate "Secondary winch requires a Gearbox Gearbox BN1-BN2 EN3-EN4"
+to french "Le second automate nécessite une boîte à pignon BN1-BN2 EN3-EN4";
+translate "Secondary winch requires a Gearbox Gearbox BN1-BN2 FN3-FN4"
+to french "Le second automate nécessite une boîte à pignon BN1-BN2 FN3-FN4";
+translate "Secondary winch requires a Gearbox Gearbox BN1-BN2 GN3-GN4"
+to french "Le second automate nécessite une boîte à pignon BN1-BN2 GN3-GN4";
+translate "Secondary winch requires a Gearbox Gearbox BN1-BN2 HN3-HN4"
+to french "Le second automate nécessite une boîte à pignon BN1-BN2 HN3-HN4";
+
+translate "Secondary winch requires a Gearbox Gearbox CN1-CN2 AN3-AN4"
+to french "Le second automate nécessite une boîte à pignon CN1-CN2 AN3-AN4";
+translate "Secondary winch requires a Gearbox Gearbox CN1-CN2 BN3-BN4"
+to french "Le second automate nécessite une boîte à pignon CN1-CN2 BN3-BN4";
+translate "Secondary winch requires a Gearbox Gearbox CN1-CN2 CN3-CN4"
+to french "Le second automate nécessite une boîte à pignon CN1-CN2 CN3-CN4";
+translate "Secondary winch requires a Gearbox Gearbox CN1-CN2 DN3-DN4"
+to french "Le second automate nécessite une boîte à pignon CN1-CN2 DN3-DN4";
+translate "Secondary winch requires a Gearbox Gearbox CN1-CN2 EN3-EN4"
+to french "Le second automate nécessite une boîte à pignon CN1-CN2 EN3-EN4";
+translate "Secondary winch requires a Gearbox Gearbox CN1-CN2 FN3-FN4"
+to french "Le second automate nécessite une boîte à pignon CN1-CN2 FN3-FN4";
+translate "Secondary winch requires a Gearbox Gearbox CN1-CN2 GN3-GN4"
+to french "Le second automate nécessite une boîte à pignon CN1-CN2 GN3-GN4";
+translate "Secondary winch requires a Gearbox Gearbox CN1-CN2 HN3-HN4"
+to french "Le second automate nécessite une boîte à pignon CN1-CN2 HN3-HN4";
+
+translate "Secondary winch requires a Gearbox Gearbox DN1-DN2 AN3-AN4"
+to french "Le second automate nécessite une boîte à pignon DN1-DN2 AN3-AN4";
+translate "Secondary winch requires a Gearbox Gearbox DN1-DN2 BN3-BN4"
+to french "Le second automate nécessite une boîte à pignon DN1-DN2 BN3-BN4";
+translate "Secondary winch requires a Gearbox Gearbox DN1-DN2 CN3-CN4"
+to french "Le second automate nécessite une boîte à pignon DN1-DN2 CN3-CN4";
+translate "Secondary winch requires a Gearbox Gearbox DN1-DN2 DN3-DN4"
+to french "Le second automate nécessite une boîte à pignon DN1-DN2 DN3-DN4";
+translate "Secondary winch requires a Gearbox Gearbox DN1-DN2 EN3-EN4"
+to french "Le second automate nécessite une boîte à pignon DN1-DN2 EN3-EN4";
+translate "Secondary winch requires a Gearbox Gearbox DN1-DN2 FN3-FN4"
+to french "Le second automate nécessite une boîte à pignon DN1-DN2 FN3-FN4";
+translate "Secondary winch requires a Gearbox Gearbox DN1-DN2 GN3-GN4"
+to french "Le second automate nécessite une boîte à pignon DN1-DN2 GN3-GN4";
+translate "Secondary winch requires a Gearbox Gearbox DN1-DN2 HN3-HN4"
+to french "Le second automate nécessite une boîte à pignon DN1-DN2 HN3-HN4";
+
+translate "Secondary winch requires a Gearbox Gearbox EN1-EN2 AN3-AN4"
+to french "Le second automate nécessite une boîte à pignon EN1-EN2 AN3-AN4";
+translate "Secondary winch requires a Gearbox Gearbox EN1-EN2 BN3-BN4"
+to french "Le second automate nécessite une boîte à pignon EN1-EN2 BN3-BN4";
+translate "Secondary winch requires a Gearbox Gearbox EN1-EN2 CN3-CN4"
+to french "Le second automate nécessite une boîte à pignon EN1-EN2 CN3-CN4";
+translate "Secondary winch requires a Gearbox Gearbox EN1-EN2 DN3-DN4"
+to french "Le second automate nécessite une boîte à pignon EN1-EN2 DN3-DN4";
+translate "Secondary winch requires a Gearbox Gearbox EN1-EN2 EN3-EN4"
+to french "Le second automate nécessite une boîte à pignon EN1-EN2 EN3-EN4";
+translate "Secondary winch requires a Gearbox Gearbox EN1-EN2 FN3-FN4"
+to french "Le second automate nécessite une boîte à pignon EN1-EN2 FN3-FN4";
+translate "Secondary winch requires a Gearbox Gearbox EN1-EN2 GN3-GN4"
+to french "Le second automate nécessite une boîte à pignon EN1-EN2 GN3-GN4";
+translate "Secondary winch requires a Gearbox Gearbox EN1-EN2 HN3-HN4"
+to french "Le second automate nécessite une boîte à pignon EN1-EN2 HN3-HN4";
+
+translate "Secondary winch requires a Gearbox Gearbox FN1-FN2 AN3-AN4"
+to french "Le second automate nécessite une boîte à pignon FN1-FN2 AN3-AN4";
+translate "Secondary winch requires a Gearbox Gearbox FN1-FN2 BN3-BN4"
+to french "Le second automate nécessite une boîte à pignon FN1-FN2 BN3-BN4";
+translate "Secondary winch requires a Gearbox Gearbox FN1-FN2 CN3-CN4"
+to french "Le second automate nécessite une boîte à pignon FN1-FN2 CN3-CN4";
+translate "Secondary winch requires a Gearbox Gearbox FN1-FN2 DN3-DN4"
+to french "Le second automate nécessite une boîte à pignon FN1-FN2 DN3-DN4";
+translate "Secondary winch requires a Gearbox Gearbox FN1-FN2 EN3-EN4"
+to french "Le second automate nécessite une boîte à pignon FN1-FN2 EN3-EN4";
+translate "Secondary winch requires a Gearbox Gearbox FN1-FN2 FN3-FN4"
+to french "Le second automate nécessite une boîte à pignon FN1-FN2 FN3-FN4";
+translate "Secondary winch requires a Gearbox Gearbox FN1-FN2 GN3-GN4"
+to french "Le second automate nécessite une boîte à pignon FN1-FN2 GN3-GN4";
+translate "Secondary winch requires a Gearbox Gearbox FN1-FN2 HN3-HN4"
+to french "Le second automate nécessite une boîte à pignon FN1-FN2 HN3-HN4";
+
+translate "Secondary winch requires a Gearbox Gearbox GN1-GN2 AN3-AN4"
+to french "Le second automate nécessite une boîte à pignon GN1-GN2 AN3-AN4";
+translate "Secondary winch requires a Gearbox Gearbox GN1-GN2 BN3-BN4"
+to french "Le second automate nécessite une boîte à pignon GN1-GN2 BN3-BN4";
+translate "Secondary winch requires a Gearbox Gearbox GN1-GN2 CN3-CN4"
+to french "Le second automate nécessite une boîte à pignon GN1-GN2 CN3-CN4";
+translate "Secondary winch requires a Gearbox Gearbox GN1-GN2 DN3-DN4"
+to french "Le second automate nécessite une boîte à pignon GN1-GN2 DN3-DN4";
+translate "Secondary winch requires a Gearbox Gearbox GN1-GN2 EN3-EN4"
+to french "Le second automate nécessite une boîte à pignon GN1-GN2 EN3-EN4";
+translate "Secondary winch requires a Gearbox Gearbox GN1-GN2 FN3-FN4"
+to french "Le second automate nécessite une boîte à pignon GN1-GN2 FN3-FN4";
+translate "Secondary winch requires a Gearbox Gearbox GN1-GN2 GN3-GN4"
+to french "Le second automate nécessite une boîte à pignon GN1-GN2 GN3-GN4";
+translate "Secondary winch requires a Gearbox Gearbox GN1-GN2 HN3-HN4"
+to french "Le second automate nécessite une boîte à pignon GN1-GN2 HN3-HN4";
+
+translate "Secondary winch requires a Gearbox Gearbox HN1-HN2 AN3-AN4"
+to french "Le second automate nécessite une boîte à pignon HN1-HN2 AN3-AN4";
+translate "Secondary winch requires a Gearbox Gearbox HN1-HN2 BN3-BN4"
+to french "Le second automate nécessite une boîte à pignon HN1-HN2 BN3-BN4";
+translate "Secondary winch requires a Gearbox Gearbox HN1-HN2 CN3-CN4"
+to french "Le second automate nécessite une boîte à pignon HN1-HN2 CN3-CN4";
+translate "Secondary winch requires a Gearbox Gearbox HN1-HN2 DN3-DN4"
+to french "Le second automate nécessite une boîte à pignon HN1-HN2 DN3-DN4";
+translate "Secondary winch requires a Gearbox Gearbox HN1-HN2 EN3-EN4"
+to french "Le second automate nécessite une boîte à pignon HN1-HN2 EN3-EN4";
+translate "Secondary winch requires a Gearbox Gearbox HN1-HN2 FN3-FN4"
+to french "Le second automate nécessite une boîte à pignon HN1-HN2 FN3-FN4";
+translate "Secondary winch requires a Gearbox Gearbox HN1-HN2 GN3-GN4"
+to french "Le second automate nécessite une boîte à pignon HN1-HN2 GN3-GN4";
+translate "Secondary winch requires a Gearbox Gearbox HN1-HN2 HN3-HN4"
+to french "Le second automate nécessite une boîte à pignon HN1-HN2 HN3-HN4";
+
+translate "Fit this quarry with a secondary winch/"
+to french "Doter cette carrière d'un second automate/";
+
+translate "Remove the primary winch"
+to french "Retirer le premier automate";
+
+translate "Remove the secondary winch"
+to french "Retirer le second automate";
+
+translate "Advanced Dowsing"
+to french "Sondage avancé";
+
+translate "Special/Prospect for "
+to french "Spécial/Prospecter ";
+
+translate "The entire bundle shatters! "
+to french "Toutes les ardoises se brisent ! ";
+
+translate "Only a single piece of slate breaks. You don't detect any O1"
+to french "Une seule ardoise se brise. Vous n'avez pas détecté de O1(ns).";
+
+translate "Projects/Build a Stone Quarry"
+to french "Projets/Creuser une carrière de pierres";
+
+
+

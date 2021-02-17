@@ -1,0 +1,334 @@
+module aqueduct_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment	                   **
+//**                                                                       **
+//***************************************************************************
+
+translate Life to german masculine
+{
+  swa "Test des Lebens";
+  sn "Test des Lebens";  pn "Test des Lebens";
+}
+
+translate AqueductConstructionSite to german feminine
+{
+  swa "Aquäduktbaustelle";
+  sn "Aquäduktbaustelle"; sg "Aquäduktbaustelle"; sd "Aquäduktbaustelle"; sa "Aquäduktbaustelle";
+  pn "Aquäduktbaustellen"; pg "Aquäduktbaustellen"; pd "Aquäduktbaustellen"; pa "Aquäduktbaustellen";
+}
+translate AqueductPumpConstructionSite to german feminine
+{
+  swa "Pumpstationsbaustelle";
+  sn "Pumpstationsbaustelle"; sg "Pumpstationsbaustelle"; sd "Pumpstationsbaustelle"; sa "Pumpstationsbaustelle";
+  pn "Pumpstationsbaustellen"; pg "Pumpstationsbaustellen"; pd "Pumpstationsbaustellen"; pa "Pumpstationsbaustellen";
+}
+
+translate AqueductPumpingStation to german feminine
+{
+  swa "Aquädukt-Pumpstation";
+  sn "Aquädukt-Pumpstation"; sg "Aquädukt-Pumpstation"; sd "Aquädukt-Pumpstation"; sa "Aquädukt-Pumpstation";
+  pn "Aquädukt-Pumpstationen"; pg "Aquädukt-Pumpstationen"; pd "Aquädukt-Pumpstationen"; pa "Aquädukt-Pumpstationen";
+}
+translate AqueductWet to german neuter
+{
+  swa "Aquädukt (bewässert)";
+  sn "Aquädukt (bewässert)"; sg "Aquädukts (bewässert)"; sd "Aquädukt (bewässert)"; sa "Aquädukt (bewässert)";
+  pn "Aquädukte (bewässert)"; pg "Aquädukten (bewässert)"; pd "Aquädukte (bewässert)"; pa "Aquädukte (bewässert)";
+}
+
+translate AqueductDry to german neuter
+{
+  swa "Aquädukt (trocken)";
+  sn "Aquädukt (trocken)"; sg "Aquädukts (trocken)"; sd "Aquädukt (trocken)"; sa "Aquädukt (trocken)";
+  pn "Aquädukte (trocken)"; pg "Aquädukten (trocken)"; pd "Aquädukte (trocken)"; pa "Aquädukte (trocken)";
+}
+
+translate AqueductPump to german feminine
+{
+  swa "Aquäduktpumpe";
+  sn "Aquäduktpumpe"; sg "Aquäduktpumpe"; sd "Aquäduktpumpe"; sa "Aquäduktpumpe";
+  pn "Aquäduktpumpen"; pg "Aquäduktpumpen"; pd "Aquäduktpumpen"; pa "Aquäduktpumpen";
+}
+
+translate Barometer to german neuter
+{
+  swa "Barometer"; 
+  sn "Barometer"; sg "Barometers"; sd "Barometer"; sa "Barometer";
+  pn "Barometer"; pg "Barometer"; pd "Barometern"; pa "Barometer";
+}
+
+translate Cistern to german feminine
+{
+  swa "Zisterne";
+  sn "Zisterne"; sg "Zisterne"; sd "Zisterne"; sa "Zisterne";
+  pn "Zisternen"; pg "Zisternen"; pd "Zisternen"; pa "Zisternen";
+  }
+translate WaterTower to german feminine
+{
+  swa "Wasserturm";
+  sn "Wasserturm"; sg "Wasserturms"; sd "Wasserturm"; sa "Wasserturm";
+  pn "Wassertürme"; pg "Wassertürme"; pd "Wassertürmen"; pa "Wassertürme";
+  }
+
+translate "White Raeli Tiles"
+to german "Kacheln: Weiß";
+
+translate "Greenish Raeli Tiles"
+to german "Kacheln: Grünlich";
+
+translate "Yellowish Raeli Tiles"
+to german "Kacheln: Gelblich";
+
+translate "Pinkish Raeli Tiles"
+to german "Kacheln: Rosafarben";
+
+translate "Black Raeli Tiles"
+to german "Kacheln: Schwarz";
+
+translate "White Raeli Tiles"
+to german "Kacheln: Weiß";
+
+translate "Reddish Raeli Tiles"
+to german "Kacheln: Rötlich";
+
+translate "Greenish Raeli Tiles"
+to german "Kacheln: Grünlich";
+
+translate "Bluish Raeli Tiles"
+to german "Kacheln: Bläulich";
+
+translate "Rotproof, Rigid, Nontoxic Boards"
+to german "Bretter: Wasserfest, Starr, Ungiftig";
+
+translate "Build an Aqueduct that provides life-giving water to the arid desert. Vegetable growth assistance is tallied weekly."
+to german "Baue ein Äquadukt, welches lebensspendendes Wasser in entfernte Gebiete transportiert. Die Gemüsewachstumsrate ändert sich wöchendlich.";
+
+translate "Build an Aqueduct Tower"
+to german "Baue einen Äquaduktturm";
+translate "Raise the height of any Aqueduct Tower"
+to german "Erhöhe jeden Äquaduktturm";
+translate "Pump an Aqueduct"
+to german "Befülle ein Äquadukt";
+translate "Use an Aqueduct to fill Jugs"
+to german "Befülle Wasserkrüge an einem Äquadukt";
+translate "Use an Aqueduct to grow Vegetables"
+to german "Pflanze an einem Äquadukt Gemüse an";
+translate "Assist in growing 1000 Vegetables (Updated Weekly)"
+to german "Pflanze 1000 Gemüsepflanzen an (Wöchendliches Update)";
+
+translate "You have completed the Prinicples of Life."
+to german "Du hast die Prinzipien des Lebens gemeistert.";
+
+translate "Tests/Start the Test of Life"
+to german "Tests/Starte den Test des Lebens";
+
+translate "Tests/Test of Life/Check the most recent advances."
+to german "Tests/Test des Lebens/Prüfe die neusten Ergebnisse.";
+
+translate "Special Projects/Barometer"
+to german "Spezialprojekte/Barometer";
+
+translate "Special Projects"
+to german "Spezialprojekte";
+
+translate "Special/Measure Altitude"
+to german "Spezial/Höhenmessung";
+
+translate "Projects/Construction/Aqueduct Pump Construction Site"
+to german "Projekte/Konstruktion/Aquädukt-Baustelle";
+
+translate "Last Aqueduct: K1"
+to german "Letztes Aquädukt: K1";
+
+translate "Inconsistant Aqueduct: K1 at "
+to german "Undichtes Aquädukt: K1 bei ";
+
+translate "inconsistant"
+to german "undicht";
+
+translate "Test of Life Controller"
+to german "Test des Lebens - Steuerung";
+
+translate "Would be in water"
+to german "Sollte im Wasser sein";
+
+translate "Create a system of aqueducts, starting with a pumping station in the Nile. Areas around some aqueduct towers will be hospitable to growing certain vegetables. Accumulate points based on which towers are most used for such agriculture, and which towers supply those with water."
+to german "Erstelle ein System aus Aquädukten, beginnend mit einer Pumpstation im Nil. Die Bereiche rund um einen Aquäduktturm fördern das Wachstum mancher Gemüsesorten. Du sammelst Punkte an, je mehr Gemüse an Deinem Turm angebaut werden und dessen Wasser für deren Wachstum benutzt wird.";
+
+translate "Aqueduct Construction Site"
+to german "Aquädukt-Baustelle";
+
+translate "You must place an Aqueduct Construction Site within 8 feet of where a water tower will go. The locator tool is now active. It will vanish in 2 minutes."
+to german "Du musst eine Aquädukt-Baustelle innerhalb 8 Fuss eines Wasserturms setzen. Das Lokalisierungstool ist jetzt aktiviert und wird in 2 Minuten wieder verschwinden.";
+
+translate "To start construction on an Aqueduct Pumping Station you need:"
+to german "Um eine Pumpstation errichten zu können benötigst Du für die Baustelle:";
+
+translate "To build an Aqueduct Pumping Station you need:"
+to german "Um eine Pumpstation zu bauen benötigst Du:";
+
+translate "There is already a O1 here."
+to german "Es gibt hier bereits O1(asn) O1(swa).";
+
+translate "Overlaping aqueduct, or other problem. If you think this is an error, do a DevCall: "
+to german "Aquädukte überkreuzen sich oder es besteht ein anderes Problem. Wenn Du denkst, dass es sich um einen Fehler handelt, rufe einen Entwickler.";
+
+translate "Aqueduct Panels not initialized."
+to german "Aquäduktpanel ist nicht eingestellt.";
+
+translate "Aqueduct Pumping Station"
+to german "Pumpstation";
+
+translate "pump"
+to german "Pumpe";
+
+translate "Water Tower"
+to german "Wasserturm";
+
+translate "East"
+to german "Ost";
+
+translate "Northeast"
+to german "Nord-Ost";
+
+translate "Northwest"
+to german "Nord-West";
+
+translate "West"
+to german "West";
+
+translate "Southwest"
+to german "Süd-West";
+
+translate "Southeast"
+to german "Süd-Ost";
+
+translate "Aqueduct, Link to the "
+to german "Aquädukt, verbinde nach ";
+
+translate "Why can't I build a water tower here?"
+to german "Warum kann ich hier keinen Wasserturm bauen?";
+
+translate "Although the construction site is positioned correctly, there are no adjoining aqueducts to hook into."
+to german "Obwohl die Baustelle richtig in Position gebracht wurde, gibt es keine anliegenden Aquädukte zu denen du eine Verbindung herstellen kannst.";
+
+translate "To build here, the aqueduct feeding this must be N1 feet higher."
+to german "Um hier bauen zu können, muss das Aquädukt, welches dieses hier speisen soll, N1 Fuss höher sein.";
+
+translate "To build an Aqueduct you need:"
+to german "Um ein Aquädukt zu bauen benötigst Du:";
+
+translate "Raise the Aqueduct"
+to german "Erhöhe das Aquädukt";
+
+translate "There is no source feeding this aqueduct."
+to german "Es ist keine Quelle zum Speisen dieses Aquädukts vorhanden.";
+
+translate "Load Materials"
+to german "Belade mit Materialien";
+
+translate "You must first increase the height of the Aqueduct that feeds this one. Height of this is N1, Delta is N2, Max Height is N3, Height of feed is "
+to german "Du musst zuerst die Höhe des Aquädukts anheben, welches dieses hier speist. Höhe dieses Aquädukts: N1, Unterschied: N2, Maximale Höhe: N3, Einspeiseleistung: ";
+
+translate "You must first increase the height of the Aqueduct that feeds this one."
+to german "Du musst zuerst die Höhe des Aquädukts anheben, welches dieses hier speist.";
+
+translate "To add N1 feet to this Aqueduct requires:"
+to german "Um dieses Aquädukt um N1 Fuss zu erhöhen benötigst Du:";
+
+translate "Raise the Aqueduct's Pumping Station"
+to german "Erhöhe die Pumpstation";
+
+translate "There is no pump feeding this aqueduct."
+to german "Keine Pumpstation zum Befüllen dieses Aquädukts vorhanden";
+
+translate "Raise by how much? (max 100)"
+to german "Um wieviel erhöhen? (max 100)";
+
+translate "Upgrade"
+to german "Verbessern";
+
+translate "Abandon Upgrade"
+to german "Verbessern abbrechen";
+
+translate "Upgrade Abandoned."
+to german "Verbessern abgebrochen";
+
+translate "CompleteUpgrade of Aqueduct: "
+to german "Gesamtverbesserung des Aquädukts: ";
+
+translate "Upgrade the Cistern"
+to german "Verbessere die Zisterne";
+
+translate "Checking..."
+to german "Prüfe...";
+
+translate "To upgrade the Cistern you need:"
+to german "Um diese Zisterne zu verbessern benötigst Du:";
+
+translate "Pump the Aqueduct"
+to german "Pumpe Wasser ins Aquädukt";
+
+translate "You are too much of a weakling to even move the pump. Water level remains at "
+to german "Du bist ein viel zu großer Schwächling, um die Pumpe auch nur zu bewegen. Der Wasserstand bleibt bei ";
+
+translate "The pumping station's fill level is N1/N2."
+to german "Der Füllstand der Pumpstation beträgt N1/N2.";
+
+translate "Fill all jugs with water"
+to german "Fülle alle Krüge mit Wasser";
+
+translate "Height: N1, Fill Level: N2"
+to german "Höhe: N1, Füllstand: N2";
+
+translate "Never Click This. Make Pluribus Remove it. #1"
+to german "Niemals hierauf klicken. Bitte Pluribus, es zu entfernen. #1";
+
+translate "Never Click This. Make Pluribus Remove it. #2"
+to german "Niemals hierauf klicken. Bitte Pluribus, es zu entfernen. #2";
+
+translate "Never Click This. Make Pluribus Remove it. #3"
+to german "Niemals hierauf klicken. Bitte Pluribus, es zu entfernen. #3";
+
+translate "Barometer"
+to german "Barometer";
+
+translate "To make a Barometer, you need a glass pipe, water, lead, and three Barometric Spheres. Though the quality of spheres is important, it is more important that their qualities be about equally matched."
+to german "Um ein Barometer herzustellen benötigst Du ein Glasrohr, Wasser, Blei und 3 barometrische Druckgläser. Auch wenn die Qualität der Druckgläser wichtig ist, ist es viel wichtiger, dass ihre Qualität etwa übereinstimmt.";
+
+translate "Select the K1 Barometric Sphere"
+to german "Wähle Druckglas K1";
+
+translate "You must select a Barometric Sphere."
+to german "Du musst ein barometrisches Druckglas auswählen.";
+
+translate "You already selected that one."
+to german "Du hast dies bereits ausgewählt.";
+
+translate "Measure Altitude"
+to german "Höhenmessung";
+
+translate "Barometer"
+to german "Barometer";
+
+translate "Elevation reads N1 feet, N2 inches. Higher quality barometers allow greater accuracy."
+to german "Höhe: N1 Fuss , N2 inches. Barometer mit höherer Qualität erlauben Dir eine grössere Messgenauigkeit.";
+
+translate "Egypt recognizes U1 for bringing life-giving water to our land, and passing the Test of Life."
+to german "Ägypten würdigt U1(name), lebensspendendes Wasser in unser Land gebracht und so den Test des Lebens gemeistert zu haben.";
+
+translate "Test of Life"
+to german "Test des Lebens";
+
+translate "Check the most recent advances."
+to german "Prüfe die letzten Fortschritte.";
+
+translate "Most recently, your best tower at K1 K2 helped grow N1 crops of vegetables."
+to german "Kürzlich hat Dein bester Turm bei K1 K2 zu einer Gemüseernte in Höhe von N1 beigetragen.";
+
+translate "Most recently, your best tower helped grow N1 crops of vegetables."
+to german "Kürzlich hat Dein bester Turm zu einer Gemüseernte in Höhe von N1 beigetragen.";

@@ -1,0 +1,151 @@
+module gravel_fre;
+
+translate fuse to french masculine
+{ ns "Fusible"; np "Fusibles";}
+
+translate DetCharge to french feminine
+{ ns "Charge explosive vide"; np "Charges explosives vides";}
+
+translate CrackedStone to french feminine
+{
+  ns "Pierre craquelée"; np "Pierres craquelées";
+}
+translate BrokenStone to french feminine
+{
+  ns "Pierre brisée"; np "Pierres brisées";
+}
+translate SplitStone to french feminine
+{
+  ns "Pierre fendue"; np "Pierres fendues";
+}
+translate SmashedStone to french feminine
+{
+  ns "Pierre écrasée"; np "Pierres écrasées";
+}
+translate Gravel to french masculine
+{
+  ns "Gravier"; np "Graviers";
+  }
+translate StoneBeingSmashed to french feminine
+{
+  ns "Pierre"; np "Pierre";
+  }
+translate Detonation to french feminine
+{
+ns "Détonation"; np "Détonation";
+}
+translate DetonationBox to french feminine
+{
+ns "Caisse à détonation"; np "Caisses à détonation";
+}
+translate lowexplosive to french masculine
+{
+ns "Explosif léger"; np "Explosifs légers";
+}
+translate highexplosive to french masculine
+{
+ns "Explosif puissant"; np "Explosifs puissants";
+}
+
+translate "Straw (Cushioning Material for Explosives)"
+to french "Paille (Matériaux de rembourrage pour explosifs)";
+
+translate "Smash this O1"
+to french "Briser O1(cnp) O1(np)";
+
+translate "Scoop up the Gravel"
+to french "Prendre les graviers";
+
+translate "Tint"
+to french "Teindre";
+
+translate "Tint this stone Red"
+to french "Teindre cette pierre en rouge";
+
+translate "Tint this stone Green"
+to french "Teindre cette pierre en vert";
+
+translate "Tint this stone Blue"
+to french "Teindre cette pierre en bleu";
+
+translate "Use of explosives in a detonation chamber to quickly make gravel, along with other uses."
+to french "Utilisez des explosifs dans une caisse à détonation pour faire du gravier plus rapidement, entre autres usages.";
+
+translate "Put together a Fuse"
+to french "Créer un fusible";
+translate "To create a Fuse, you need:"
+to french "Pour créer un fusible il vous faut:";
+
+translate "Put together an Empty Detonation Charge"
+to french "Créer une charge de détonation vide";
+translate "To create an Empty Detonation Charge, you need:"
+to french "Pour créer une charge de détonation vide, il vous faut:";
+
+translate "Are you sure you want to disassemble O1: K1"
+to french "Etes-vous sur de vouloir désassembler O1(ns): K1";
+
+translate "Cut Stones (Heavy Base)"
+to french "Pierres taillées (Structure)";
+translate "Concrete"
+to french "Bétons";
+translate "Iron Bars (Reinforcement)"
+to french "Barres de fer (Renforts)";
+translate "Small Barrels (Container for Explosives)"
+to french "Petits tonneaux (Caisse pour les explosifs)";
+translate "Clay (Stabilizing Agent)"
+to french "Argiles (Agent stabilisant)";
+translate "Gunpowder (Fusing Material)"
+to french "Poudres à canon (Agent cohésif)";
+translate "Rope (Fusing Material)"
+to french "Cordes (Agent cohésif)";
+translate "Magnesium Wire (Fusing Material)"
+to french "Fils de magnésium (Agent cohésif)";
+translate "Tincture, Low Explosive Property"
+to french "Teintures, propriété explosive légère";
+translate "Tincture, High Explosive Property"
+to french "Teintures, propriété explosive puissante";
+
+translate "Detonation Box"
+to french "Caisse à détonation";
+
+translate "To build a Detonation Box you need:"
+to french "Pour construire une caisse à détonation, il vous faut :";
+
+translate "Load Materials"
+to french "Mettre des matériaux";
+
+translate "Medium Stones"
+to french "Pierres moyennes";
+
+translate "Load chamber with how many Medium Stones? (Max N1)"
+to french "Mettre des pierres moyennes dans la chambre ? (Max N1)";
+
+translate "Tincture"
+to french "Teinture";
+
+translate "Load how many O1"
+to french "Combien de O1(np) ?";
+
+translate "You don't have that many O1"
+to french "Vous n'avez pas autant de O1(np)";
+
+translate "Detonate Medium Stones with Low Explosive"
+to french "Faire exploser les pierres moyennes avec un explosif léger";
+
+translate "The Detonation Box must be clear of Gravel."
+to french "La caisse à détonation ne doit pas contenir de gravier.";
+
+translate "You must pack the detonation box with 100 Medium Stones"
+to french "Vous devez mettre 100 pierres moyennes dans la boîte.";
+
+translate "Not enough low explosive to detonate."
+to french "Pas assez d'explosif léger pour la détonation.";
+
+translate "Detonate Medium Stones with High Explosive"
+to french "Faire exploser les pierres moyennes avec un explosif puissant";
+
+translate "Not enough high explosive to detonate."
+to french "Pas assez d'explosif puissant pour la détonation.";
+
+translate "The explosion sends piles of gravel far and wide!"
+to french "L'explosion a projeté du gravier partout !";

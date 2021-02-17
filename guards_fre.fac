@@ -1,0 +1,43 @@
+module guards_fre;
+
+translate "Public"
+to french "Public";
+
+translate "You don't have permission to use the O1."
+to french "Vous n'avez pas la permission d'utiliser O1(cns) O1(ns).";
+
+translate "Reset back to normal permission (Currently K1)"
+to french "Réinitialiser aux permissions normales (Actuellement K1)";
+
+translate "Repair" to french "Réparer";
+translate "Permission for K1" to french "Permission de K1";
+
+translate "Harvest by K1"
+to french "Cueillir par K1";
+
+translate "Tend by K1"
+to french "Soins par K1";
+
+translate "Take Plates by K1"
+to french "Prendre les plaques par K1";
+
+translate "This O1 is busy. Please wait."
+to french "O1(^cns) O1(ns) est utilisé. Veuillez patienter.";
+
+translate "You are too tired to do difficult work. Rest another N1 seconds. Higher Endurance will help you recover faster."
+to french "Vous êtes trop fatigué pour reprendre le travail. Reposez-vous encore N1 secondes. Une meilleure endurance vous permettra de récupérer plus rapidement.";
+
+translate "You head is spinning. Rest another N1 seconds. Higher Focus skill will help you recover faster."
+to french "Vous avez la tête qui tourne. Reposez-vous encore N1 secondes. Une meilleure Concentration vous permettra de retrouver vos esprits plus rapidement. .";
+
+translate "You're trying to go too fast. Rest another N1 seconds. A higher Speed skill will help you work faster."
+to french "Vous tentez d'aller trop vite. Reposez-vous encore N1 secondes. Une meilleure Vitesse vous aidera à travailler plus rapidement.";
+
+translate "You are feeling sick from the poison already in your blood. Rest another N1 seconds. Higher Constitution skill will help you recover faster."
+to french "Vous êtes malade à cause du poison qui se trouve dans votre sang. Reposez-vous encore N1 secondes. Une meilleure Constitution vous aidera à récupérer plus rapidement.";
+
+translate "Your strength is sapped. Rest another N1 seconds. Higher Strength skill will help you recover faster."
+to french "Vous êtes épuisé. Reposez-vous N1 secondes. Une meilleure Force vous aidera à récupérer plus rapidement.";
+
+translate "You need the O1 skill to use this."
+to french "Vous devez connaître la compétence O1(ns) pour faire cela.";

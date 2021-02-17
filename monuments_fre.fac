@@ -1,0 +1,177 @@
+module monuments_fre;
+
+translate MonumentOfArchitecture to french masculine
+{ns "Monument d'Architecture"; np "Monuments d'Architecture";}
+	
+translate MonumentOfWorship to french masculine
+{ns "Monument de Vénération"; np "Monuments de Vénération";}
+
+translate MonumentOfTheHumanBody to french masculine
+{ns "Monument du Corps humain"; np "Monuments du Corps humain";}
+	
+translate MonumentOfThought to french masculine
+{ns "Monument de la Pensée"; np "Monuments de la Pensée";}
+	
+translate MonumentOfArtAndMusic to french masculine
+{ns "Monument d'Art et de Musique"; np "Monuments d'Art et de Musique";}
+	
+translate MonumentOfLeadership to french masculine
+{ns "Monument de Commandement"; np "Monuments de Commandement";}
+	
+translate MonumentofConflict to french masculine
+{ns "Monument de Conflit"; np "Monuments de Conflit";}
+	
+translate WineandBeerPanel to french feminine
+{ns "Fenêtre de contrôle bière et vin"; np "Fenêtre de contrôle bière et vin";}
+	
+translate "Monument Construction Site"
+to french "Site de construction de monument";
+
+translate "Egypt is not yet ready to build the Great Work of O1"
+to french "L'égypte n'est pas encore prête à lancer un grand chantier de O1(ns)";
+
+translate "Monuments of Architecture are built differently from other monuments. First, build at least a Pyramid of Many Wonders. Then, gather a team and have the Oracle of Architecture anoint it."
+to french "Les monuments d'architecture se construisent différemment des autres monuments. Tout d'abord, construisez au moins une Pyramide aux Milles Merveilles. Ensuite, rassemblez la foule et demandez à un oracle d'architecture de pratiquer l'onction.";
+
+translate "Load Materials"
+to french "Charger les matériaux";
+
+translate "To build a Monument Construction Site you need:"
+to french "Pour construire un site de construction de monuments, il vous faut :";
+
+translate "Anoint this as a Monument of Architecture"
+to french "Oindre ce monument d'architecture";
+
+translate "To prepare a time capsule for a Monument of Architecture you need:"
+to french "Pour fabriquer une capsule temporelle pour un monument d'architecture, il vous faut :";
+
+translate "To build a Monument of O1 you need a monument team and:"
+to french "Pour construire un monument de O1(ns), vous devez rassembler une équipe, et :";
+
+translate "Calculate Wines and Beers for monument"
+to french "Calcule le vin et la bière nécessaire pour le monument";
+
+translate "Beer report : N1"
+to french "Bière : N1";
+
+translate "Wine report : N1"
+to french "Vin : N1";
+
+translate "Inconsistancy(1) in Monument. Call a developer."
+to french "Incohérence(1). Contactez un développeur.";
+
+translate "Withdraw my application as O1"
+to french "Retirer ma demande de devenir O1(ns)";
+
+translate "Edit the Challenge to the Next Generation (Summary)"
+to french "Modifier le défi aux générations futures (résumé)";
+
+translate "The Challenge Summary should contain the name of the proposed Test, and a brief (few lines) description of what the Test is about."
+to french "Le résumé du défi doit mentionner le nom de l'épreuve proposée, ainsi qu'une description de l'épreuve en quelques lignes.";
+
+translate "The Monument of O1, Challenge Summary:"
+to french "Monument de O1(ns), résumé du défi :";
+
+translate "Egypt raises: The O1."
+to french "L'Egypte a excavé: l'O1(ns)";
+ 
+translate "View the Challenge to the Next Generation (Summary)"
+to french "Afficher le défi aux générations futures (résumé)";
+
+translate "View the Challenge to the Next Generation (Full)"
+to french "Afficher le défi aux générations futures (intégral)";
+
+translate "You were accepted as O1 by U1 on the Monument of O2."
+to french "U1(name) vous a accepté pour le monument O2(ns) en tant que O1(ns).";
+
+translate "You were not accepted as O1 by U1 on the Monument of O2."
+to french "U1(name) vous a refusé pour le monument O2(ns) en tant que O1(ns).";
+
+translate "Are you sure you want to finalize the Challenge Summary?"
+to french "Finaliser le résumé du défi ?";
+
+translate "Offer support"
+to french "Proposer de l'aide";
+
+translate "As O1 of O2"
+to french "En tant que O1(ns) de O2(ns)";
+
+translate "You are already offering your support on a Monument of O1"
+to french "Vous proposez déjà votre aide pour un monument de O1(ns)";
+
+translate "You offer your support as O1 of O2. The Oracle will notify you."
+to french "Vous proposez votre aide en tant que O1(ns) de O2(ns). L'Oracle vous préviendra.";
+
+translate "Ownership"
+to french "Propriété";
+
+translate "Allow Full Challenge Edits by Rank"
+to french "Permettre l'édition de l'épreuve à partir du grade";
+
+translate "Edit the Challenge to the Next Generation (Full)"
+to french "Edition du défi aux génération futures (intégral)";
+
+translate "The Monument of O1, Full Challenge:"
+to french "Monument de O1(ns), défi intégral :";
+
+translate "To finalize the challenge for the next generation, type FINAL"
+to french "Pour finaliser le défi aux générations futures, tapez FINAL";
+
+translate "Confirm my support on the Challenge"
+to french "Confirmer mon soutien au défi";
+
+translate "Withdraw my confirmation on the Challenge"
+to french "Retirer la confirmation de soutien";
+
+translate "Egypt completes a monument of O1"
+to french "L'égypte vient de terminer un monument de O1(ns)";
+
+translate "Read the inscription"
+to french "Lire l'inscription";
+
+translate "Review Support"
+to french "Afficher les soutiens";
+
+translate "Report on supporters:"
+to french "Rapport des mécènes :";
+
+translate "Could not find: U1"
+to french "Introuvable : U1(name)";
+
+translate "Monument of The Stranger at N1"
+to french "Monument de l'Etranger en N1";
+
+translate "    O1 uncovered at K1"
+to french "    O1(ns) excavé en K1";
+
+translate "Archaeologist's Dig"
+to french "Fouilles archéologiques";
+
+translate "Though you work carefully, you find nothing."
+to french "Malgré votre effort, vous n'avez rien découvert.";
+
+translate "You uncover a piece of the O1 at N1x the normal speed!"
+to french "Vous avez mis à jour une partie O1(dns) O1(ns), avec une vitesse N1x supérieure à la normale!";
+
+translate "Read our Generation's Challenge"
+to french "Consulter le défis lancé à notre génération";
+
+translate "Read our Ancestors' Inscriptions"
+to french "Consulter le registre de nos ancêtres";
+
+translate "O1 of Architecture:"
+to french "O1(ns) en Architecture:";
+translate "O1 of Art and Music:"
+to french "O1(ns) en Art et Musique:";
+translate "O1 of the Human Body:"
+to french "O1(ns) en Corps Humain:";
+translate "O1 of Leadership:"
+to french "O1(ns) en Commandement:";
+translate "O1 of Conflict:"
+to french "O1(ns) en Conflit:";
+translate "O1 of Thought:"
+to french "O1(ns) en Pensée:";
+translate "O1 of Worship:"
+to french "O1(ns) en Vénération:";
+translate "O1 of Ancient Worship:"
+to french "O1(ns) en Vénération Antique:";

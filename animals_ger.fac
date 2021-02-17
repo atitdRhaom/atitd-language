@@ -1,0 +1,52 @@
+Module animals_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**            German Version: Astrid "Infinyti" Werner                   **
+//**                            2012                                       **
+//**                                                                       **
+//***************************************************************************
+
+translate Gazelle to german feminine
+{
+  sn "Gazelle"; sg "Gazelle"; sd "Gazelle"; sa "Gazelle";
+  pn "Gazellen"; pg "Gazellen"; pg "Gazellen"; pa "Gazellen";
+}
+
+translate Lasso to german neuter
+{
+  sn "Lasso"; sg "Lassos"; sd "Lasso"; sa "Lasso";
+  pn "Lassos";pg "Lassos"; pd "Lassos"; pa "Lassos";
+}
+
+translate safari to german feminine
+{
+  sn "Safari"; sg "Safari"; sd "Safari"; sa "Safari";
+  pn "Safaris"; pg "Safaris"; pd "Safaris"; pa "Safaris";
+}
+
+
+translate "You've successfully discovered a Gazelle! You need to tag four of these total to finish this portion of the Test."
+to german "Du hast erfolgreich eine Gazelle beobachtet! Du musst 4 von ihnen berühren, um diesen Teil des Tests abzuschließen.";
+
+translate "The Gazelle looks like it is about to collapse."
+to german "Die Gazelle scheint kurz vor dem Zusammenbruch zu stehen.";
+
+translate "The Gazelle is really starting to slow down."
+to german "Die Gazelle beginnt langsamer zu werden.";
+
+translate "The Gazelle appears to be breathing hard."
+to german "Die Gazelle kommt außer Atem.";
+
+translate "Tag this Gazelle"
+to german "Berühre diese Gazelle";
+
+translate "You already tagged this Gazelle"
+to german "Du hast diese Gazelle bereits berührt";
+
+translate "Trying to tag the Gazelle..."
+  to german "Versuche diese Gazelle zu berühren...";
+
+translate "You Tagged the Gazelle!"
+  to german "Du hast die Gazelle berührt!";

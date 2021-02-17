@@ -1,0 +1,755 @@
+module goals_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2007 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+
+translate "View Goals"
+to german "Zeige die Ziele";
+
+translate "goals"
+to german "Ziele";
+translate "Each icon above represents one of your goals."
+to german "Jedes dieser Symbole repräsentiert eines deiner Ziele.";
+translate "Click on the icon to get an explanation of that goal."
+to german "Klicke das Symbol an und lese die Beschreibung dieses Zieles.";
+
+translate "Information Missing"
+to german "Fehlende Info";
+translate "Please ask eGenesis to fill in this text."
+to german "Bitte eGenesis, hier etwas einzutragen.";
+
+translate "That is not a discipline"
+to german "Dies ist keine Disziplin";
+
+translate "Cheat/Test Signup/"
+to german "Mogeln/Testeintragung/";
+
+translate "Now signed up for "
+to german "Nun eingetragen in ";
+
+translate "No longer signed up for "
+to german "Eintragung gelöscht für ";
+
+//translate " (Level ",y,")") : "","\n"
+//to german 
+
+translate "Start the O1"
+to german "Beginne den O1(sn)";
+
+translate "Start the Test of the Bijou"
+to german "Beginne den Test des Juwels";
+
+translate "Demonstrate Knowledge of O1"
+to german "Beweise dein Wissen im O1(sn)";
+
+translate "You must be level N1 or above to demonstrate the O1."
+to german "Du musst Level N1 oder höher sein, um O1(dsa) O1(sn) zu demonstrieren.";
+
+translate "You do not possess the necessary skills to demonstrate the O1. You need:\n\n"
+to german "Du hast nicht die notwendigen Fertigkeiten, um O1(dsa) O1(sn) zu demonstrieren. Du brauchst: ";
+
+translate "Congratulations! You have opened the O1 for all of Egypt! The scientists are announcing your achievement now."
+to german "Gratulation! Du hast O1(dsa) O1(sn) für ganz Ägypten geöffnet! Die Wissenschaftler geben nun deinen Erfolg bekannt.";
+
+translate "The scientists at the O1 University of O2 would like to announce that U1 has demonstrated that Egypt is ready for the O3. They declare the Test open for all citizens of Egypt."
+to german "Die Wissenschaftler der O1(sn) Universität O2(sn) geben bekannt, dass U1(name) bewiesen hat, dass Ägypten für O3(sn) bereit ist. Sie erklären den Test für alle Bürger Ägyptens eröffnet.";
+
+translate "The scientists at the Lower Egypt University of O2 would like to announce that U1 has demonstrated that Egypt is ready for the O3. They declare the Test open for all citizens of Egypt."
+to german "Die Wissenschaftler der Lower Egypt Universität O2(dsg) O2(sn) geben bekannt, dass U1(name) bewiesen hat, dass Ägypten für O3(sn) bereit ist. Sie erklären den Test für alle Bürger Ägyptens eröffnet.";
+
+translate "The scientists at the Qatara of O2 would like to announce that U1 has demonstrated that Egypt is ready for the O3. They declare the Test open for all citizens of Egypt."
+to german "Die Wissenschaftler der Qatara Universität O2(dsg) O2(sn) geben bekannt, dass U1(name) bewiesen hat, dass Ägypten für O3(sn) bereit ist. Sie erklären den Test für alle Bürger Ägyptens eröffnet.";
+
+translate "The scientists at the Cradle of the Sun University of O2 would like to announce that U1 has demonstrated that Egypt is ready for the O3. They declare the Test open for all citizens of Egypt."
+to german "Die Wissenschaftler der Cradle of the Sun Universität O2(sn) geben bekannt, dass U1(name) bewiesen hat, dass Ägypten für O3(sn) bereit ist. Sie erklären den Test für alle Bürger Ägyptens eröffnet.";
+
+translate "The scientists at the Fool's Paradise University of O2 would like to announce that U1 has demonstrated that Egypt is ready for the O3. They declare the Test open for all citizens of Egypt."
+to german "Die Wissenschaftler der Fools Paradise Universität O2(sn) geben bekannt, dass U1(name) bewiesen hat, dass Ägypten für O3(sn) bereit ist. Sie erklären den Test für alle Bürger Ägyptens eröffnet.";
+
+translate "The scientists at the Kush University of O2 would like to announce that U1 has demonstrated that Egypt is ready for the O3. They declare the Test open for all citizens of Egypt."
+to german "Die Wissenschaftler der Kush Universität O2(sn) geben bekannt, dass U1(name) bewiesen hat, dass Ägypten für O3(sn) bereit ist. Sie erklären den Test für alle Bürger Ägyptens eröffnet.";
+
+translate "The scientists at the Seven Lakes University of O2 would like to announce that U1 has demonstrated that Egypt is ready for the O3. They declare the Test open for all citizens of Egypt."
+to german "Die Wissenschaftler der Seven Lakes Universität O2(sn) geben bekannt, dass U1(name) bewiesen hat, dass Ägypten für O3(sn) bereit ist. Sie erklären den Test für alle Bürger Ägyptens eröffnet.";
+
+translate "The scientists at the Desert of Shades University of O2 would like to announce that U1 has demonstrated that Egypt is ready for the O3. They declare the Test open for all citizens of Egypt."
+to german "Die Wissenschaftler der Desert of Shades Universität O2(sn) geben bekannt, dass U1(name) bewiesen hat, dass Ägypten für O3(sn) bereit ist. Sie erklären den Test für alle Bürger Ägyptens eröffnet.";
+
+translate "The scientists at the Khartoum University of O2 would like to announce that U1 has demonstrated that Egypt is ready for the O3. They declare the Test open for all citizens of Egypt."
+to german "Die Wissenschaftler der Khartoum Universität O2(sn) geben bekannt, dass U1(name) bewiesen hat, dass Ägypten für O3(sn) bereit ist. Sie erklären den Test für alle Bürger Ägyptens eröffnet.";
+
+translate "The scientists at the Upper Egypt University of O2 would like to announce that U1 has demonstrated that Egypt is ready for the O3. They declare the Test open for all citizens of Egypt."
+to german "Die Wissenschaftler der Upper Egypt Universität O2(sn) geben bekannt, dass U1(name) bewiesen hat, dass Ägypten für O3(sn) bereit ist. Sie erklären den Test für alle Bürger Ägyptens eröffnet.";
+
+translate "The scientists at the Karnak University of O2 would like to announce that U1 has demonstrated that Egypt is ready for the O3. They declare the Test open for all citizens of Egypt."
+to german "Die Wissenschaftler der Karnak Universität O2(sn) geben bekannt, dass U1(name) bewiesen hat, dass Ägypten für O3(sn) bereit ist. Sie erklären den Test für alle Bürger Ägyptens eröffnet.";
+
+translate "The scientists at the Sinai University of O2 would like to announce that U1 has demonstrated that Egypt is ready for the O3. They declare the Test open for all citizens of Egypt."
+to german "Die Wissenschaftler der Sinai Universität O2(sn) geben bekannt, dass U1(name) bewiesen hat, dass Ägypten für O3(sn) bereit ist. Sie erklären den Test für alle Bürger Ägyptens eröffnet.";
+
+translate "The scientists at the Tanis University of O2 would like to announce that U1 has demonstrated that Egypt is ready for the O3. They declare the Test open for all citizens of Egypt."
+to german "Die Wissenschaftler der Tanis Universität O2(sn) geben bekannt, dass U1(name) bewiesen hat, dass Ägypten für O3(sn) bereit ist. Sie erklären den Test für alle Bürger Ägyptens eröffnet.";
+
+translate "To open the O1 you require:\n"
+to german "Um O1(dsa) O1(sn) zu eröffnen benötigst du: ";
+
+translate "To open the O1 you need to have:"
+to german "Um O1(dsa) O1(sn) zu eröffnen musst du haben: ";
+
+translate "You must be level N1 or above to start the O1."
+to german "Du musst Level N1 oder höher sein, um O1(dsa) O1(sn) starten zu können.";
+
+translate "You do not possess the necessary skills to start the O1."
+to german "Du hast nicht die notwendigen Fertigkeiten, um O1(dsa) O1(sn) zu starten.";
+
+translate "You have already completed this Test."
+to german "Du hast diesen Test bereits vervollständigt.";
+
+
+
+//Prinzipien
+
+
+translate ConflictInit to german feminine
+{
+swa "Prinzipien des Konflikts";
+sn "Prinzipien des Konflikts"; sg "Prinzipien des Konflikts"; sd "Prinzipien des Konflikts"; sa "Prinzipien des Konflikts";
+pn "Prinzipien des Konflikts"; pg "Prinzipien des Konflikts"; pd "Prinzipien des Konflikts"; pa "Prinzipien des Konflikts";
+}
+
+
+translate WorshipInit to german feminine
+{
+swa "Prinzipien der Verehrung";
+sn "Prinzipien der Verehrung"; sg "Prinzipien der Verehrung"; sd "Prinzipien der Verehrung"; sa "Prinzipien der Verehrung";
+pn "Prinzipien der Verehrung"; pg "Prinzipien der Verehrung"; pd "Prinzipien der Verehrung"; pa "Prinzipien der Verehrung";
+}
+
+translate GreatWorkTst to german feminine
+{
+swa "Große Werke";
+sn "Große Werke";  pn "Große Werke";
+}
+translate Initiation to german feminine
+{
+swa "Einführung";
+sn "Einführung";  pn "Einführung";
+}
+
+
+//Zielmeldungen
+
+translate "You have already accomplished this goal."
+to german "Du hast bereits dieses Ziel erreicht.";
+
+translate "You can now move on to higher-level achievements."
+to german "Du kannst nun höhere Ziele in Angriff nehmen.";
+
+translate "This goal will be revealed to you after you"
+to german "Dieses Ziel wird dir offenbart, sobald du";
+translate "accomplish the goals that precede it."
+to german "vorangegangene Ziele erreicht hast.";
+
+translate "This goal is not yet available. In all likelihood, this is"
+to german "Dieses Ziel ist noch nicht vorhanden. Warscheinlich ist die";
+translate "because Egypt's technology is too primitive.  You can advance"
+to german "Technologie Ägyptens noch zu primitiv. Du kannst sie fördern,";
+translate "Egypt's technology by contributing at the universities."
+to german "indem du der Universität mit Spenden hilfst.";
+
+
+//Bürgerschaft
+
+translate "Welcome to Egypt"
+to german "Willkommen in Ägypten";
+translate "You must learn the basic skills of a Citizen."
+to german "Du musst die Grundfertigkeiten eines Bürgers erlernen.";
+translate "Either find a mentor to teach you, or use one of"
+to german "Entweder du findest einen Mentor, der dir hilft, oder";
+translate "the tutorials at www.atitd.net."
+to german "du nutzt die Anleitungen unter www.atitd.net.";
+translate "You can begin by completing the tasks in your "
+to german "Beginne damit, die Aufgaben in deinem";
+translate "Welcome to Egypt tab, or by finding a mentor to guide you."
+to german "'Willkommen in Ägypten' Tab zu erfüllen oder finde einen Mentor.";
+
+
+//Einführungstests
+
+translate "Principles of Architecture"
+to german "Prinzipien der Architektur";
+translate "To qualify as a potential architect, you must prove you are capable by building "
+to german "Um dich als möglichen Architekten zu qualifizieren, musst du beweisen, dass du in ";
+translate "and expanding your own compound, one of the most basic Architecture tasks."
+to german "der Lage bist, deine eigene Werkstatt zu bauen und zu erweitern.";
+translate "To begin, visit a School or University of Architecture, and use the 'Tests' Menu."
+to german "Um zu beginnen, besuche eine UArch oder SArch und nutze das 'Test' Menü.";
+
+					
+translate "Principles of Art and Music"
+to german "Prinzipien der Kunst und Musik";
+translate "To qualify as an artist, you must create a good Sculpture."
+to german "Um dich als Künstler zu qualifizieren musst du eine interessante ";
+translate "Then, you must exhibit it and gain the approval of 20 viewers."
+to german "Skulptur bauen, zur Besichtigung freigeben und 20 Stimmen dafür sammeln.";
+translate "To begin, visit a School or University of Art, and use the 'Tests' Menu."
+to german "Um zu beginnen, besuche eine UArt oder SArt und nutze das 'Test' Menü.";
+
+					
+translate "Principles of The Human Body"
+to german "Prinzipien des menschlichen Körpers";
+translate "To qualify as a Disciple of the Human Body, you must seek out hard-to-find"
+to german "Um Dich als Schüler des menschlichen Körpers zu qualifizieren, musst du ";
+translate "training locations.  Experts at the University will tell you what to seek."
+to german "gut versteckte Übungsplätze finden. Uniexperten werden sagen, was du finden ";
+translate "To begin, visit a School or University of The Human Body, and use the 'Tests' Menu."
+to german "musst. Um zu beginnen, besuche eine UBody oder SBody und nutze das 'Test' Menü.";
+					
+
+translate "Principles of Conflict"
+to german "Prinzipien des Konfliktes";
+translate "To qualify as a general, you must defeat Seven people at the"
+to german "Um Dich als General zu beweisen, musst du 7 Leute in der ";
+translate "Challenge of Reflection. This  game of spatial reasoning requires a sharp eye."
+to german "Spiegelprobe schlagen. Ein räumliches und scharfes Auge sind hierzu notwendig.";
+translate "To begin, visit a School or University of Conflict, and use the 'Tests' Menu."
+to german "Um zu beginnen, besuche eine UConf oder SConf und nutze das 'Test' Menü.";
+
+					
+translate "Principles of Leadership"
+to german "Prinzipien der Führerschaft";
+translate "To qualify as a leader, you must get people to recommend you via a petition."
+to german "Um Dich als Führer zu qualifizieren, musst du Leute finden, die Dich über ";
+translate "All petitions are created at the University of Leadership."
+to german "eine Petition bestätigen. Alle Petitionen werden an der ULead beantragt.";
+translate "To begin, visit a School or University of Leadership, and use the 'Tests' Menu."
+to german "Um zu beginnen, besuche eine ULead oder SLead und nutze das 'Test' Menü.";
+
+					
+translate "Principles of Thought"
+to german "Prinzipien der Gedanken";
+translate "Scholars must understand the pulse of Egypt's Citizens."
+to german "Schüler müssen den Puls der ägyptischen Bürger fühlen können.";
+translate "Prove your understanding by building a Thoth's Puzzle that scores"
+to german "Beweise deine Empfindung mit dem Bau eines Thoths Puzzle, welches ";
+translate "a composite score of 500+ with 7 or more votes."
+to german "eine Punktzahl von 500+ mit 7 oder mehr Bewertungen erhält.";
+
+					
+translate "Principles of Worship"
+to german "Prinzipien der Verehrung";
+translate "To qualify as a Worshipper, you must perform the Ritual of Initiation:"
+to german "Um Dich als Verehrer zu qualifizieren, musst du das Ritual  der Einführung ";
+translate "a sequence of blessings that involves two aspirants working in harmony."
+to german "vollziehen: eine Folge von Segnungen, die 2 Kandidaten in Harmonie vereinen.";
+translate "To begin, visit a School or University of Worship, and use the 'Tests' Menu."
+to german "Um zu beginnen, besuche eine UWorsh oder SWorsh und nutze das 'Test' Menü.";
+
+					
+translate "Principles of Harmony"
+to german "Prinzipien der Harmonie";
+translate "A true follower of Harmony must understand his fellow man. To do so,"
+to german "Ein wahrer Verfechter der Harmonie muss seinen Mitmenschen verstehen. ";
+translate "go out into Egypt and meet with many types of people. Ask everyone,"
+to german "Durchwandere Ägypten, treffe viele verschiedene Menschen. Frage jeden, ";
+translate "as you never know who fufills your requirements."
+to german "weil du nicht weisst, wer die Anforderungen erfüllen kann.";
+					
+//Grosse Werke
+
+translate "Great Work of Architecture"
+to german "Großes Werk der Architektur";
+translate "A Pyramid of Many Wonders, or better, specially anointed."
+to german "Eine Pyramide der Vielen Wunder, oder besser gesagt, der Gesalbten.";
+translate "With this monument we challenge our children's endurance"
+to german "Mit diesem Monument fordern wir die Ausdauer und Stärke";
+translate "and strength."
+to german "unserer Kinder.";
+					
+translate "Great Work of Art"
+to german "Großes Werk der Kunst";
+translate "With this monument, we challenge our children to create"
+to german "Mit diesem Monument fordern wir unsere Kinder auf";
+translate "real beauty in their world."
+to german "wirkliche Schönheit in ihre Welt zu bringen.";
+					
+translate "Great Work of The Human Body"
+to german "Großes Werk des menschlichen Körpers";
+translate "With this monument, we challenge our children to push themselves"
+to german "Mit diesem Monument fordern wir unsere Kinder auf, sich selbst";
+translate "physically, while exploring this ancient land."
+to german "körperlich zu stärken, während sie fremdes Land entdecken.";
+					
+translate "Great Work of Conflict"
+to german "Großes Werk des Konfliktes";
+translate "With this Monument, we challenge our children to hone their"
+to german "Mit diesem Monument fordern wir unsere Kinder, ihren Verstand";
+translate "cunning and strategy, to always be prepared for those that would"
+to german "und Strategie zu verbessern, um jederzeit gegen ihre Peiniger";
+translate "harm them."
+to german "gewappnet zu sein.";
+					
+translate "Great Work of Leadership"
+to german "Großes Werk der Führerschaft";
+translate "With this monument, we challenge our children to find their"
+to german "Mit diesem Monument fordern wir unsere Kinder ihre Führer";
+translate "Leaders. With strong leaders, one day our children will write Tests"
+to german "zu finden. Mithilfe starken Anführern werden unsere Kinder eines Tages";
+translate "for our grandchildren."
+to german "Tests für unsere Enkel schreiben.";
+					
+translate "Great Work of Thought"
+to german "Großes Werk der Gedanken";
+translate "With this monument, we challenge our children to find wisdom"
+to german "Mit diesem Monument fordern wir unsere Kinder, Weisheit zu";
+translate "and to sharpen their minds."
+to german "finden und ihren Verstand zu schärfen.";
+
+translate "Great Work of Worship"
+to german "Großes Werk der Verehrung";
+translate "With this monument, we challenge our children to find unity and strength"
+to german "Mit diesem Momument fordern wir unsere Kinder Einigkeit und";
+translate "of spirit."
+to german "die Kraft des Geistes zu finden.";
+					
+//Gedanken
+
+translate "The Test of Empty Hand"
+to german "Der Test der leeren Hand";
+translate "An ancient children's game of many variations. Invent your own variation"
+to german "Ein uraltes Kinderspiel mit vielen Variationen. Erfinde deine eigene Variante";
+translate "on a giant mechanical tower and have it judged among Egypt's"
+to german "mit Hilfe des großen mechanischen Turms und stelle Dich mit Anderen";
+translate "most challenging."
+to german "der Bewertung.";
+					
+translate "The Test of the Pathmaker"
+to german "Der Test des Wegbereiter";
+translate "Design a miniature landscape with Aqueduct towers. Challenge others"
+to german "Erbaue eine Miniaturlandschaft mit Aquädukttürmen. Fordere Andere heraus";
+translate "to link the towers in a loop with pipes."
+to german "die Türme über Rohre zu einem Kreislauf miteinander zu verbinden.";
+translate "Different tower types have different linking rules."
+to german "Unterschiedliche Turmvarianten haben unterschiedliche Verbindungsregeln.";
+					
+translate "The Venery"
+to german "Die Schnitzeljagd";
+translate "Create a Venery - a mindbending hunt across the land, to "
+to german "Gestalte eine Schnitzeljagd - eine Suche quer durch das Land, um ";
+translate "challenge and entertain those developing their Focus."
+to german "Diejenigen herauszufordern und zu unterhalten, die ihren Fokus entwickeln.";
+
+translate "The Test of the Tomb of the Immortal"
+to german "Der Test der Gräber der Unvergänglichen";
+translate "Thwart future generations of grave robbers by constructing puzzles"
+to german "Um in der Zukunft das Ausrauben der Gräber durch Grabräuber zu vereiteln, ";
+translate "to lock away our treasures and secrets."
+to german "konstruiere Puzzle, um unsere Schätze und Geheimnisse zu wahren.";
+
+translate "The Test of the Bijou"
+to german "Der Test des Juwels";
+translate "The regular structure of Hornet's Wing Granite is the key to this Test."
+to german "Die reguläre Struktur eines Hornissenflügel-Granits ist der Schlüssel dieses Tests.";
+translate "A single slab makes enough identical gem-like pieces to allow others to"
+to german "Eine einzelne Scheibe reicht aus, damit Andere sich daran versuchen können.";
+translate "attempt your cut. Which cuts truly require the skill of a master to duplicate?"
+to german "Welcher Schnitt wird wohl von einem Meister benötigt, um ihn zu duplizieren?";
+
+translate "The Test of Set's Ladder"
+to german "Der Test von Seths Leiter ";
+translate "A larger, more complex version of the initiation Test of Thought."
+to german "Eine größere, komplexere Version der 'Einführung in die Gedanken'.";
+translate "Your fellow Egyptians will judge your creation on how enticing and addictive"
+to german "Die Ägypter werden deine Kreation bewerten, wie verlockend und süchtig machend";
+translate "It is. Knocking off the top block counts for Focus.."
+to german "sie ist. Die Beste erhöht den Fokus...";
+		
+//Architektur
+
+translate "The Test of the Obelisk"
+to german "Der Test des Obelisken";
+translate "Advance as an Architect by building"
+to german "Komme als Architekt voran durch die Erbauung";
+translate "the largest Obelisk in your region."
+to german "des größten Obelisken in Deiner Region";
+
+translate "The Test of Life"
+to german "Der Test des Lebens";
+translate "Build a sprawling system of Aqueducts to bring life-giving water to the arid desert."
+to german "Baue ein sich weit erstreckendes Aquäduktsystem, um lebensspendendes Wasser in";
+translate "Those that build the most useful aqueduct towers advance in Architecture."
+to german "Dürregebiete zu leiten. Die Erbauer der nützlichsten Türme steigen in der Architektur auf.";
+
+translate "The Test of Octec's Ghost"
+to german "Der Test von Octec's Geist";
+translate "The Statue of Octec's Ghost is a machine which can be activated by"
+to german "Die Statue von Octec's Geist ist eine Maschine, die durch die Installation";
+translate "installing 20 devices called the Crystal Hieroglyphs.  You can obtain some from"
+to german "von 20 Kristallhieroglyphen aktiviert werden kann. Du erhältst Einige von";
+translate "the Universities and Schools of Architecture, you must trade for the rest."
+to german "den Universitäten und Schulen der Architektur. Den Rest musst du handeln.";
+					
+translate "The Test of The People's Pyramid"
+to german "Der Test der Pyramiden";
+translate "The labor of many may be required to build a pyramid, but only one may "
+to german "Die Arbeit Vieler wird nötig sein, um eine Pyramide zu bauen, ";
+translate "consecrate (complete) construction. Pass by consecrating any size pyramid."
+to german "aber nur Einer kann sie vollenden.";
+
+translate "The Test of Towers"
+to german "Der Test der Türme";
+translate "Build great Towers across Egypt. Building far from others allows"
+to german "Baue großartige Türme in Ägypten. Sie weit entfernt von Anderen zu bauen, gibt";
+translate "control of more land. Accumulate control of an area equal to all of"
+to german "dir Kontrolle über mehr Land. Kontrolliere ein Gebiet in ganz";
+translate "Egypt to pass the Test of Towers"
+to german "Ägypten, um den Test zu bestehen";
+					
+translate "The Test of the Megalopolis"
+to german "Der Test der Megalopolis";
+translate "With the help of forty-eight associates, build a Megalopolis."
+to german "Baue eine Megalopolis mit Hilfe von 48 anderen Spielern.";
+translate "All forty-nine of you will pass the test."
+to german "Alle 49 werden den Test bestehen.";
+
+translate "The Test of the Funerary Temple"
+to german "Der Test des Totentempels";
+translate "Construct a glorious Temple to entice the dead to visit earth."
+to german "Erbaue einen ruhmvollen Tempel, um die Toten zu einem Besuch auf die Erde zu locken.";
+translate "Only the finest will pass the Test of the Funerary Temple."
+to german "Nur der Ruhmvollste wird den Test des Totentempels bestehen.";
+
+translate "The Test of the Seven Phoenix"
+to german "Der Test der 7 Phönix";
+translate "Construct as many Phoenix as possible in a short time."
+to german "Erbaue so viele Phönix wie möglich in kurzer Zeit.";
+translate "By enlisting the aid of other architects, you will progress"
+to german "Wenn du die Hilfe anderer Architekten annimmst, wirst du";
+translate "far faster."
+to german "wesentlich schneller voranschreiten.";
+					
+//Kunst
+
+translate "The Test of Pyrotechnics"
+to german "Der Test des Feuerwerks";
+translate "You must make the most dazzling fireworks shell you can, and enter it into a"
+to german "Schaffe das schillerndste Feuerwerk und zeige es in einen";
+translate "competition. Winning a competition gets you closer to your goal. The more"
+to german "Wettbewerb. Wenn du gewinnst, kommst du deinem Ziel näher. Je mehr ";
+translate "people you beat, the faster you progress."
+to german "Leute du schlägst, desto schneller kommst du weiter.";
+
+translate "The Test of Khefre's Children"
+to german "Der Test der Kinder Khefres";
+translate "You must breed the most strange and beautiful scarab beetle that you can.  After"
+to german "Züchte den schönsten und skurrilsten Skarabäus. Nach dem Fangen einiger";
+translate "encountering some beetles in the wild, you can capture them and raise them in a"
+to german "Käfer in der Wildnis, kannst du sie in einem Terrarium halten und aufziehen.";
+translate "terrarium.  You must exhibit your beetle at one of Khefre's gardens, and be judged."
+to german "Du musst deinen Käfer in einem der Gärten Khefres ausstellen und beurteilen lassen.";
+
+translate "The Test of the Prismatic Opticon"
+to german "Der Test des Prisma Opticons";
+translate "Design a Prismatic Opticon, a moving statue of light."
+to german "Entwerfe ein Opticon Prisma, eine sich bewegende Statue aus Licht.";
+translate "Once enough judges have rated your Opticon, it's eligible for Competition. Each"
+to german "Wenn genügend Juroren dein Opticon bewertet haben, ist es geeignet für Wettkämpfe.";
+translate "week, the designer of the highest rated Opticon passes the Test."
+to german "Jede Woche besteht der beste Designer den Test.";
+					
+translate "The Test of the Formal Garden"
+to german "Der Test des ästhetischen Gartens";
+translate "Design a Formal Garden with 7 to 100 exotic flowers surrounding "
+to german "Entwerfe einen ästhetischen Garten mit 7 bis zu 100 exotischen Blumen.";
+translate "a Gazebo. Gardens are rated on variety and detail, not size."
+to german "Gärten werden nach Vielfalt und Detail bewertet, nicht nach Größe.";
+translate "Periodically, the Gardener with the highest rated garden passes the Test. "
+to german "Der Gärtner mit dem höchst bewerteten Garten wird periodisch den Test bestehen.";
+
+translate "The Test of Flight"
+to german "Der Test des Fliegens";
+translate "Discover the secret of flight! Build a Raeli Gliderport and launch"
+to german "Enthülle das Geheimnis des Fliegens! Baue einen Raeli Gleiterport und starte";
+translate "a fleet of up to seven Gliders. By making adjustments to your Glider design,"
+to german "einen Flug mit bis zu 7 Gleitern. Das Einstellen des Designs der Gleiter,";
+translate "loops, rolls, and other aerobatics are possible."
+to german "wie Loopings, Rollen und anderer Luftakrobatik ist möglich.";
+
+translate "The Test of the Windsong"
+to german "Der Test des Windspieles";
+translate "Blend the sound of the wind, and the hand of man to create beautiful music from"
+to german "Verbinde den Ton des Winds und die Hand eines Mannes, um schöne Musik von";
+translate "carefully crafted Wind Chimes, arranged on a Chime Tower."
+to german "sorgfältig handgefertigten Glockenspielen zu erzeugen, angeordnet auf einem";
+translate "The musicians who create the most beautiful arrangements will be promoted."
+to german "Glockenturm. Der Musiker mit dem schönsten Arrangement wird befördert.";	
+
+translate "The Test of the Raeli Mosaic"
+to german "Der Test des Raeli Mosaiks";
+translate "Fracture brittle Raeli Tiles into unusual shapes, and fit them together"
+to german "Zerbreche spröde Raeli Kacheln in ungewöhnliche Formen und passe sie zusammen";
+translate "to form a handsome mosaic. Your fellow Egyptians will judge you on both"
+to german "um ein stattliches Mosaik zu bilden. deine Mitspieler beurteilen Sie";
+translate "Color and Composition."
+to german "nach Farbe und Aufbau.";
+					
+//Körper
+					
+translate "The Test of the Bedouin"
+to german "Der Test der Beduinen";
+translate "To enhance your speed, train by seeking out distant altars.  The fastest"
+to german "Um deine Geschwindigkeit zu erhöhen, trainiere durch das Suchen entfernter Altäre.";
+translate "explorers will be able to find the most remote altars.  Be among the"
+to german "Die schnellsten Entdecker finden die fernsten Altäre. Sei unter den";
+translate "best explorers on seven separate (RL) days, and your body will accelerate."
+to german "besten Entdeckern an 7 verschiedenen (RL)Tagen und dein Körper wird gestählt werden.";
+
+translate "The Test of the Safari"
+to german "Der Test der Safari";
+translate "Use your mind and body to capture seven species of Egyptian wildlife."
+to german "Nutze deinen Verstand und deinen Körper, um 7 Spezies der ägyptischen";
+translate "You must capture and release four of each creature."
+to german "Tierwelt zu finden und 4 jeder Art zu fangen."; 
+
+translate "Feast for the Senses"
+to german "Fest für die Sinne";
+translate "Prove your mastery of Perception by throwing a banquet of the finest foods,"
+to german "Prüfe deinen meisterhaften Geschmack mit einem Bankett der erlesensten Speisen,";
+translate "wines, and beers. Invite twenty-one friends whom you have met on your "
+to german "Weine und Biere. Lade 21 Freunde ein, die du auf deinen Reisen ";
+translate "travels to join, and to witness your advancement."
+to german "getroffen hast, um Zeugen Deines Fortschritts zu sein.";
+
+translate "The Test of the Acrobat"
+to german "Der Test der Akrobatik";
+translate "To enhance your Dexterity, train by seeking out masters in 28 moves. You"
+to german "Um deine Geschicklichkeit zu steigern, suche dir Meister in 28 Bewegungen. Du ";
+translate "will master a single move immediately, and may teach others."
+to german "wirst eine Bewegung sofort meistern und kannst Andere dann unterrichten.";
+
+translate "The Test of Darkest Night"
+to german "Der Test der dunkelsten Nacht";
+translate "To bolster your constitution, you must develop poison resistance."
+to german "Um deine Konstitution zu stärken, musst du Widerstandskraft gegen Gifte";
+translate "The University of The Human Body will tell you what exotic poisons you"
+to german "entwickeln. Die Uni des menschlichen Körpers wird dir sagen, welche exotischen";
+translate "must seek out, and in what order, to toughen your body."
+to german "Gifte du suchen musst und in welcher Reihenfolge, um deinen Körper zu stärken.";
+
+translate "The Test of Reason"
+to german "Der Test des Verstandes";
+translate "Solve and judge challenges created by Egypt's Scholars. As you solve more,"
+to german "Löse und bewerte Herausforderungen, die von Gelehrten geschaffen wurden.";
+translate "you will find your Focus score improving. Reach a permanant Focus of 7 to"
+to german "Wenn du Viele löst, wird sich dein Fokus verbessern.";
+translate "pass the Test of Reason."
+to german "Erreiche einen permanenten Fokus von 7, um den Test des Verstandes zu bestehen.";
+
+translate "The Test of the Singing Cicada"
+to german "Der Test der singenden Zikade";
+translate "Use your eyes and ears to locate elaborate and beautiful cicada cages"
+to german "Nutze Augen und Ohren um kunstvolle und schöne Zikadenkäfige zu finden";
+translate "hidden by other explorers. You may take a single animal from each cage,"
+to german "die andere Forschungsreisende versteckt haben. Du kannst von jedem Käfig";
+translate "and when you have collected enough, build a colony of your own."
+to german "eine einzige Zikade entnehmen. Hast du genug gesammelt, bilde deine eigene Kolonie.";
+
+translate "The Test of the Oyster Catcher"
+to german "Der Test der Austernfänger";
+translate "Search for rare oysters, and harvest them by unlocking their puzzle"
+to german "Suche nach seltenen Austern und ernte ihr Fleisch und ihre Perlen,";
+translate "and gathering their meat and Pearls. Fit the Pearls to a beautiful"
+to german "indem du ihr Rätsel löst. Füge die Perlen zu wunderschönen ";
+translate "Necklace, permanently boosting your Endurance."
+to german "Halsketten zusammen und steigere deine Ausdauer dauerhaft.";
+
+//Konflikt
+
+translate "The Test of Telepathy"
+to german "Der Test der Telepathie";
+translate "The best generals must be able to read the mind of their opponents."
+to german "Die besten Generäle müssen befähigt sein, die Gedanken ihrer Gegner zu lesen.";
+translate "This test pushes your mind-reading ability to its limits."
+to german "Dieser Test erhöht die Fähigkeit, Gedanken zu lesen, bis zu ihrem Limit.";
+
+translate "The Test of Yokir"
+to german "Der Test der Yokir";
+translate "A three-player game of shifting alliances, named after the fabled"
+to german "Ein Drei-Personen-Spiel in wechselnden Bündnissen, benannt nach";
+translate "Ship 'Yokir.' Remember the lessons of the past."
+to german "dem phantastischen Schiff 'Yorkir'. Erinnere Dich an die vergangenen Lektionen.";
+
+translate "The Test of Kanivan Tak"
+to german "Test des Kanivan Tak";
+translate "A deep, geometry based game, sometimes described as an 'analog' version"
+to german "Ein scharfsinniges, geometisch basiertes Spiel, manchmal verglichen mit";
+translate "of Checkers (Draughts)"
+to german "einer 'analogen' Art des Damespieles.";
+
+translate "The Rite of Command"
+to german "Die Befehlsgewalt";
+translate "Great generals must be able to command soldiers and weapons, adapting"
+to german "Große Generäle müssen befähigt sein, Soldaten und Waffen zu kommandieren,";
+translate "to constantly-shifting battlefield conditions.  A single weapon or a"
+to german "bei wechselnden Schlachtfeld-Eigenschaften. Eine einzelne Waffe oder ein";
+translate "single soldier can tip the balance in this game of tactics."
+to german "einzelner Soldat kann die Balance in diesem taktischen Spiel verändern.";
+
+translate "The Test of Heket's Rake"
+to german "Der Test von Hekets Sprung";
+translate "It is said that the frog-god Heket was driven mad attempting"
+to german "Es wird erzählt, daß der Froschgott Heket verrückt wurde, bei dem Versuch,";
+translate "to outmaneuver his brother at this fast-shifting game."
+to german "seinen Bruder bei diesem sich schnell wechselnden Spiel auszubooten.";
+
+translate "The Test of Witagog"
+to german "Der Test des Witagog";
+translate "Build and enhance replicas of the giant insects from folklore."
+to german "Baue und verbessere Ableger der gigantischen Insekten der Folklore.";
+translate "Pit them against each other to advance in the Test of the Witagog."
+to german "Lasse sie gegeneinander antreten, um im Test des Witagog weiterzukommen.";
+
+translate "The Test of the King's Convoy"
+to german "Der Test der Königlichen Eskorte";
+translate "In this tribute to Egypt's naval past, you will command a floating"
+to german "In Anerkennung an die Vergangenheit der Ägyptschen Flotte wirst du einen Konvoi";
+translate "convoy of ships, escorting the king's ship to safety. The opposing side"
+to german "von Schiffen kommandieren, welche dem Königlichen Schiff sicheres Geleit";
+translate "will attempt to capture the king's ship."
+to german "bieten soll. Die Gegner werden versuchen das Königliche Schiff zu kapern.";
+
+translate "The Test of Zhadu"
+to german "Der Test des Zhadu";
+translate "The way of Zhadu is to remember the Sharing - the first and last"
+to german "Der Weg des Zhadu ist, sich die gemeinsame Benutzung der Steine zu merken";
+translate "stones removed must have a sum of four."
+to german "-der erste und letzte Stein, der entfernt wird, muß die Summe Vier ergeben";
+
+translate "The Test of Reflection"
+to german "Der Test der Reflektion";
+translate "Gaze into a Reflecting Pool to gain insight into this elegant game of"
+to german "Blicke in ein spiegelndes Bassin, um Einblick in dieses elegante Spiel";
+translate "spatial reasoning. Connect floating bubbles into thin sheets, but take"
+to german "des räumlichen Denkens zu gewinnen. Verbinde sich bewegende Luftblasen mit";
+translate "care to never break an existing sheet."
+to german "dünnen Blättern,aber achte darauf, niemals eine existierende Bahn zu unterbrechen.";
+
+translate "The Test of Sevenblade"
+to german "Der Test der Siebenklingen";
+translate "This game of deception challenges participants to outbid each other using"
+to german "Dieses Spiel der Täuschung fordert Teilnehmer heraus,ihre Sammlung an Klingen"; 
+translate "a collection of Sevenblades. Winners keep their opponent's blade: Returning"
+to german "gegeneinander zu messen. Sieger erhalten die Klinge ihres Gegners: Eine gewonnene";
+translate "a won blade is considered an insult, unless it is the opponent's last."
+to german "Klinge zurückzugeben,ist eine Beleidigung, außer, es ist die Letzte des Gegners.";
+                                        
+//Führerschaft
+
+translate "The Test of the Covered Cartouche"
+to german "Der Test der verdeckten Kunstrahmen";
+translate "A leader can build alliances. Work with and against others in a"
+to german "Ein Anführer kann Allianzen gründen. Arbeite mit und gegen Andere in ";
+translate "series of building and voting rounds. Remain in the contest"
+to german "einer Serie von Gebäuden und Abstimmungen. Verbleibe länger im Wettbewerb ";
+translate "longer than others to advance."
+to german "als Andere, um Fortschritt zu erzielen.";
+                                          
+//Verehrung
+
+translate "The Test of Visions"
+to german "Der Test der Visionen";
+translate "Sensitize your mind to know Egypt's gods, by use of meditation and mind-altering"
+to german "Öffne deine Seele für die ägyptischen Götter durch Meditation und";
+translate "brews. By discussing your visions with others, the true Face of God"
+to german "stimmungsbeeinflussende Getränke. Durch Diskutieren Deiner Versionen mit Anderen wird das ";
+translate "can be discerned."
+to german "wahre Gesicht des Gottes sich offenbaren";
+
+translate "The Test of the Holy Shrine"
+to german "Der Test des geheiligten Schreines";
+translate "Build a shrine to the god of your choice, along with four others."
+to german "Erbaue für einen Gott Deiner Wahl einen Schrein, gemeinsam mit 4 Anderen.";
+translate "Summon the shrine at will - the more original priests present, the"
+to german "Beschwöre den Schrein mit Deinem Willen - je mehr wahre Priester anwesend sind,";
+translate "greater the shrine's power."
+to german "desto größer wird die Macht des Schreines sein.";
+
+translate "The Path of the Pilgrim"
+to german "Der Weg der Pilgerschaft";
+translate "Work in a group of 7 people to visit pilgrim shrines built by others"
+to german "Arbeite in einer Gruppe von 7 Mitgliedern, um Pilgerschreine zu besuchen, die von "; 
+translate "in Egypt."
+to german "Anderen in Ägypten erbaut wurden.";
+					
+translate "The Test of Astrological Alignment"
+to german "Der Test der Astrologischen Ausrichtung";
+translate "Search the populace for those few people who share a special mystical"
+to german "Durchsuche das gemeine Volk nach diesen seltenen Leute, die einen ";
+translate "bond with you. A group of five shall pass the test as one."
+to german "speziellen mystischen Bund mit dir teilen. Jeder der Fünfergruppe schafft den Test.";
+
+translate "The Test of the Humble Priests"
+to german "Der Test der demütigen Priester";
+translate "Humble yourself before five different Egyptian gods. Those gods that would have"
+to german "Werfe dich vor 5 verschiedenen ägyptischen Göttern auf die Knie. Die Götter, die";
+translate "you will make themselves known. You must become part of a Devotional Group to"
+to german "sich für dich interessieren, offenbaren sich dir selbst. Du musst Teil einer frommen";
+translate "a specific God, and complete a challenging ritual."
+to german "Gruppe eines bestimmten Gottes werden und das schwierige Ritual vollziehen.";
+					
+translate "The Test of Festivals"
+to german "Der Test der Feste";
+translate "Participate in large festivals for seven gods.  Each person must"
+to german "Beteilige Dich an großen Festen für die 7 Götter. Jede Person muss";
+translate "participate in a different way.  The more people who participate"
+to german "sich in unterschiedlicher Weise beteiligen. Je mehr Bewohner am Festtag";
+translate "in the festival day, the more standing you gain with your god."
+to german "mitmachen, desto höher wird dein Ansehen bei deinem Gott sein.";
+
+translate "The Test of Beacons"
+to german "Der Test der Signalfeuer";
+translate "Seek to attract mystical beacon altars, then attempt the"
+to german "Versuche mystische Signalfeuer-Altäre anzulocken, dann versuche das";
+translate "difficult beacon ritual with the help of your neighbors."
+to german "schwierige Signalfeuer-Ritual mit der Hilfe deiner Nachbarn.";
+
+translate "The Test of the Vigil"
+to german "Der Test der Mahnwache";
+translate "Conduct a Vigil at a Sacrificial Bonfire. Visions will come to"
+to german "Stehe Mahnwache an einem Opferfeuer. Alle, die um das Feuer herumstehen";
+translate "those around the bonfire, illuminating the required offerings."
+to german "werden Visionen erhalten und die geforderten Opfer beschreiben.";
+translate "Scoring is based on the length of the Vigil, and your participation."
+to german "Die Wertung errechnet sich durch die Dauer der Mahnwache und deiner Teilnahme.";
+					
+//Harmonie
+					
+translate "The Test of Marriage"
+to german "Der Test der Heirat";
+translate "Perform a simple ritual to enter into Marriage with a trusted mate."
+to german "Führe ein simples Ritual durch, um einen vertrauenswürdigen Partner zu heiraten.";
+translate "You will have use of each other's possesions, and can even log in as"
+to german "Du hast den Nutzen aus den Besitzungen des Anderen und kannst sogar an seiner";
+translate "one another. Advance by both partners passing many other Tests."
+to german "statt einloggen. Fortschritt erreichen beide durch Bestehen vieler Tests.";
+
+translate "The Test of the Critic"
+to german "Der Test der Kritik";
+translate "Evaluate art, judge Scarab exhibitions and Pyrotechnics shows."
+to german "Beurteile Kunstwerte, bewerte Skarabäenaustellungen und Feuerwerks-";
+translate "Your score is based on the number of judge peers that you have"
+to german "vorstellungen. Deine Punkte basieren auf der Anzahl deiner prüfenden";
+translate "had, as well as the number of exhibitions and shows that you judge."
+to german "Bewertungen, sowie auf der Anzahl der Ausstellungen, auf denen du wertest.";
+
+translate "The Test of Reason"
+to german "Der Test des Verstandes";
+translate "Solve and judge challenges created by Egypt's Scholars. Your score is"
+to german "Meistere und bewerte von Ägyptischen Schülern erstellte Aufgaben. Deine";
+translate "based on the number of judge peers that you have had."
+to german "Wertung basiert auf der Anzahl deiner Beurteilungen.";

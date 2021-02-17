@@ -1,0 +1,748 @@
+module flax_spa;
+
+// Translated by Arpallan on 03/07/2009
+// Updated translations on 2018/03/09
+// Spell Check by Christian on 
+
+translate flaxprocessing to spanish feminine {ns "Procesamiento de Linaza"; np "Procesamiento de Linaza";}
+
+
+translate flaxbed to spanish feminine
+{
+	ns "Planta de Linaza"; np "Plantas de Linaza";
+	}
+	
+translate flaxbed2 to spanish feminine
+{
+	ns "Planta de Linaza"; np "Plantas de Linaza";
+	}
+	
+translate largedistaff to spanish feminine
+{
+	ns "Rueca Grande"; np "Ruecas Grandes";
+	}
+
+translate flax to spanish feminine
+{
+	ns "Linaza"; np "Linaza";
+	}
+	
+translate driedflax to spanish feminine
+{
+	ns "Linaza Seca"; np "Linaza Seca";
+	}
+
+translate canvas to spanish masculine
+{
+	ns "Lienzo"; np "Lienzos";
+	}
+
+translate twine to spanish feminine
+{
+	ns "Cordón"; np "Cordones";
+	}
+
+translate thread to spanish masculine
+{
+	ns "Hilo"; np "Hilos";
+	}
+
+translate lint to spanish feminine
+{
+	ns "Pelusa"; np "Pelusas";
+	}
+
+translate sail to spanish feminine
+{
+	ns "Vela de Lino"; np "Velas de Lino";
+	}
+
+translate tow to spanish feminine
+{
+	ns "Fibra de Lienzo"; np "Fibras de Lienzo";
+	}
+	
+translate Linen to spanish masculine 
+{
+	ns "Lino"; np "Linos";
+	}
+
+translate flaxdryer to spanish masculine
+{
+	ns "Secador de Linaza"; np "Secadores de Linaza";
+	}
+
+translate flaxhammock to spanish feminine
+{
+	ns "Hamaca para Linaza"; np "Hamacas para Linaza";
+	}
+
+translate dryingrack to spanish masculine
+{
+	ns "Estante de Linaza"; np "Estantes de Linaza";
+	}
+
+translate sulfur to spanish masculine
+{
+	ns "Sulfuro"; np "Sulfuro";
+	}
+
+translate saltpeter to spanish masculine
+{
+	ns "Salitre"; np "Salitre";
+	}
+
+translate flaxseeds to spanish feminine
+{
+	ns "Semilla de Linaza"; np "Semilla de Linaza";
+	}
+
+translate CFlaxSeeds to spanish feminine
+{
+	ns "Semilla de Linaza"; np "Semilla de Linaza";
+	}
+
+translate rottenflax to spanish feminine
+{
+	ns "Linaza Podrida"; np "Linaza Podrida";
+	}
+
+translate driedpapyrus to spanish masculine
+{
+	ns "Papiro Seco"; np "Papiro Seco";
+	}
+
+translate dung to spanish masculine
+{
+	ns "Estiércol"; np "Estiércol";
+	}
+
+translate straw to spanish feminine
+{
+	ns "Paja"; np "Paja";
+	}
+
+translate rope to spanish feminine
+{
+	ns "Cuerda"; np "Cuerda";
+	}
+
+translate flaxbundle to spanish feminine
+{
+	ns "Paquete de Linaza"; np "Paquete de Linaza";
+	}
+translate imphacklingrake to spanish masculine
+	{ 
+	ns "Rastrillo Mejorado"; np "Rastrillos Mejorados";
+}
+	
+translate hacklingrake to spanish masculine
+{
+	ns "Rastrillo Manual"; np "Rastrillo Manual";
+	}
+
+translate flaxcomb to spanish masculine
+{
+	ns "Rastrillo para Linaza"; np "Rastrillo para Linaza";
+	}
+
+translate flaxgin to spanish feminine
+{
+	ns "Desmotadora"; np "Desmotadora";
+	}
+
+translate smalldistaff to spanish feminine
+{
+	ns "Rueca Pequeña"; np "Ruecas Pequeñas";
+	}
+
+translate loomframe to spanish masculine
+{
+	ns "Marco de Telar"; np "Marcos de Telar";
+	}
+
+translate cable to spanish masculine
+{
+	ns "Cable"; np "Cables";
+	}
+
+translate handloom to spanish masculine
+{
+	ns "Telar Manual"; np "Telares Manuales";
+	}
+
+translate studentsloom to spanish masculine
+{
+	ns "Telar para Estudiante"; np "Telares para Estudiante";
+	}
+
+translate AutoLoom to spanish masculine
+{
+	ns "Telar Automatizado"; np "Telares Automatizados";
+	}
+
+translate basket to spanish feminine
+{
+	ns "Canasta"; np "Canastas";
+	}
+	
+translate LoomAutomation to spanish masculine
+{
+	ns "Automatización de Telar"; np "Automatización de Telar";
+	}
+
+translate "Flax Related"
+to spanish "Construcciones para Linaza";
+
+translate "Build a Flax Hammock"
+to spanish "Construye una Hamaca para Linaza";
+
+translate "Build a Flax Comb"
+to spanish "Construye un Rastrillo para Linaza";
+
+translate "Build a Hackling Rake"
+to spanish "Construye un Rastrillo Manual";
+
+translate "Build a Drying Rack"
+to spanish "Construye un Estante de Linaza";
+
+translate "Build a Flax Gin"
+to spanish "Construye una Desmotadora";
+
+translate "Build a small distaff"
+to spanish "Construye una Rueca Pequeña";
+
+translate "Dry Wet Linen"
+to spanish "Seca Lino";
+
+translate "Dry All Wet Linen"
+to spanish "Seca todo el Lino";
+
+translate "Dry Rotten Flax"
+to spanish "Seca Linaza Podrida";
+
+translate "Dry Grass into Straw"
+to spanish "Seca Césped a Paja";
+
+translate "Rot Flax in the Water"
+to spanish "Podrir linaza en el agua";
+
+translate "Dry Papyrus"
+to spanish "Secar Papiro";
+
+translate "Dry Wheat"
+to spanish "Secar Trigo";
+
+translate "Which wheat do you wish to dry?"
+to spanish "Cual Trigo gustas secar?";
+
+translate "That isn't fresh wheat."
+to spanish "Ese no es trigo fresco.";
+
+translate "Load how much wheat? (Max 100)"
+to spanish "Cargar cuanto trigo? (Max 1000)";
+
+translate "You don't have N1 O1."
+to spanish "No tienes N1 O1(N1?np:ns).";
+
+translate "This is a Flax Bundle (N1), placed by U1"
+to spanish "Este es un Paquete de Linaza (N1), y es de U1(name)";
+
+translate "Projects/Flax Related/Hand Loom"
+to spanish "Telar Manual";
+
+translate "Projects/Flax Related/Student's Loom"
+to spanish "Telar de Estudiante";
+
+translate "Build a Hand Loom"
+to spanish "Construye un Telar Manual";
+
+translate "Build a Student's Loom"
+to spanish "Construye un Telar de Estudiante";
+
+translate "Special/Convert Flax Seeds/All Old Egypt"
+to spanish "Especial/Convertir Semillas de Linaza/Todo Viejo Egipto";
+
+translate "Convert Flax Seeds"
+to spanish "Convertir semillas de Linaza";
+
+translate "Special/Convert Flax Seeds/All Nile Green"
+to spanish "Especial/Convertir semillas de Linaza/Todo Nilo Verde";
+
+translate "All Old Egypt"
+to spanish "Todos Viejo Egipto";
+
+translate "Special/Convert Flax Seeds/Half and half"
+to spanish "Spécial/Convertir des graines de lin/Moitié moitié";
+
+translate "All Nile Green"
+to spanish "Todo Nilo Verde";
+
+translate "Upgrade this to a Large Distaff"
+to spanish "Moderniza esto a una Rueca Grande";
+
+translate "Convert Flax Seeds"
+to spanish "Convierte semillas de Linaza";
+
+translate "To upgrade this building you need:"
+to spanish "Para modernizar esto necesitas:";
+
+translate "Half and half"
+to spanish "Mitad y mitad";
+
+translate "To build a Flax Hammock, you need: "
+to spanish "Para construir una Hamaca para Linaza necesitas:";
+
+translate "To build a Drying Rack, you need: "
+to spanish "Para construir un Estante de Linaza necesitas:";
+
+translate "Load how much Flax? (Max 10)"
+to spanish "Cargar cuanta Linaza? (Max 10)";
+
+translate "Load how much linen? (Max 4)"
+to spanish "Cargar cuanto Lino? (Max 4)";
+
+translate "Load how much grass? (Max 200)"
+to spanish "Cargar cuanto césped? (Max 200)";
+
+translate "Load how much papyrus? (Max 20)"
+to spanish "Cargar cuanto papiro? (Max 20)";
+
+translate "drying Wet Linen"
+to spanish "Secándo Lino Húmedo";
+
+translate "drying Rotten Flax"
+to spanish "Secando Linaza Podrida";
+
+translate "drying Grass"
+to spanish "Secando Césped";
+
+translate "drying Papyrus"
+to spanish "Secando Papiro";
+
+translate "drying Wheat"
+to spanish "Secando Trigo";
+
+translate "Rot how many flax?"
+to spanish "Podrir cuanta linaza?";
+
+translate "Get this rotten flax"
+to spanish "Recoge la linaza podrida";
+
+translate "This flax is only half-rotten"
+to spanish "Esta linaza esta parcialmente podrida";
+
+translate "Get this abandoned rotten flax"
+to spanish "Recoge la linaza podrida abandonada";
+
+translate "To build a Flax Comb, you need: "
+to spanish "Para construir un Rastrillo para Linaza necesitas:";
+
+translate "To build a Hackling Rake, you need: "
+to spanish "Para construir un Rastrillo Manual necesitas:";
+
+translate "Clean the O1."
+to spanish "Limpia O1(lns) O1(ns)";
+
+translate "Your O1 has worn out."
+to spanish "Tu O1(ns) se ha desgastado.";
+
+translate "Separate Rotten Flax (Step 1, Remove Straw)"
+to spanish "Separa la Linaza Podrida (Paso 1, Remueve Paja)";
+
+translate "You don't have any Rotten Flax"
+to spanish "No tienes Linaza Podrida en tu inventario";
+
+translate "Continue processing Rotten Flax (Step 2, Separate Tow)"
+to spanish "Continúa procesando la linaza (Paso 2, Separa la Fibra)";
+
+translate "Continue processing Rotten Flax (Step 3, Refine the Lint)"
+to spanish "Continúa procesando la linaza (Paso 3, Refina la Pelusa)";
+
+translate "To build a Small Distaff, you need: "
+to spanish "Para construir una rueca pequeña, necesitas:";
+
+translate "N1 O1"
+to spanish "N1 O1(N1?ns:np)";
+
+translate "Load the Distaff with O1"
+to spanish "Carga la Rueca con O1(ns)";
+
+translate "Load the Distaff with Lint"
+to spanish "Carga la Rueca con Pelusa";
+
+translate "Load the Distaff with Tow"
+to spanish "Carga la Rueca con Fibra";
+
+translate "Load the Distaff with Twine"
+to spanish "Carga la Rueca con Cordón";
+
+translate "Load the Distaff with Wire"
+to spanish "Carga la Rueca con Alambre";
+
+translate "You don't have any O1."
+to spanish "No tienes O1(ns)";
+
+translate "You can only load one thing into the distaff."
+to spanish "Solo puedes cargar una cosa a la vez en la rueca";
+
+translate "Load with how much O1? (max N1)"
+to spanish "Cargar cuanto de O1(ns) ? (Max N1)";
+
+translate "The O1 is fully loaded."
+to spanish "O1(ens) O1(ns) está cargado completamente.";
+
+translate "You could only load N1 O1."
+to spanish "Solo pudiste cargar N1 O1(N1?ns:np).";
+
+translate "loaded with O1"
+to spanish "Cargado con O1(ns)";
+
+translate "Stop the small distaff"
+to spanish "Interrumpe el Trabajo";
+
+translate "Start spinning O1 into O2."
+to spanish "Empieza a procesar O1(ns) en O2(ns)";
+
+translate "Spinning O1 into O2."
+to spanish "Procesando O1(ns) en O2(ns).";
+
+translate "Note: Only put one source material in the Distaff!"
+to spanish "Nota: solo pon un tipo de material en la Rueca!";
+
+translate "This O1 is spinning O2 into O3."
+to spanish "O1(ens) O1(ns) está trabajando O2(ns) en O3(ns).";
+
+translate "Upgrade this distaff to spin steel wire into cable"
+to spanish "Moderniza esta rueca para trabajar alambre de acero en cable.";
+
+translate "It takes a single pinch roller to upgrade a distaff"
+to spanish "Para modernizar esta rueca necesitas un rodillo de sujetador.";
+
+translate "To build a Hand Loom, you need: "
+to spanish "Para construir un Telar Manual necesitas:";
+
+translate "To build a Student's Loom, you need: "
+to spanish "Para construir un Telar de Estudiante necesitas: ";
+
+translate "Weave thread into linen cloth"
+to spanish "Trabaja hilo a un lino";
+
+translate "Weave thread into a Sail"
+to spanish "Trabaja hilo en una Vela de Lino";
+
+translate "Weave thread into linen"
+to spanish "Trabaja hilo a un lino";
+
+translate "You must first load the loom with thread. It takes 400 cubitsof thread to produce one square cubit of Linen."
+to spanish "Primero es necesario cargar el Telar con hilo.  Ocupas 400 cubits de hilo para producir una pieza de Lino";
+
+translate "As you wove the cloth, N1 of the loom's strings broke. You'll need to re-string the loom."
+to spanish "Al trabajar la tela, N1 de los hilos del telar se rompieron.  Necesitas remplazarlos para continuar.";
+
+translate "Weave twine into canvas"
+to spanish "Trabaja cordón en Lienzo";
+
+translate "You must first load the loom with twine. It takes 60 cubits of twine to produce one square cubit of Canvas."
+to spanish "Primero tienes que cargar el Telar con cordón.  Ocupas 60 cubits de cordón para producir una pieza de Lienzo.";
+
+translate "As you wove the canvas, N1 of the loom's strings broke. You'll need to re-string the loom."
+to spanish "Al trabajar la tela, N1 de los hilos de telar se rompieron.  Necesitas remplazarlos para continuar.";
+
+translate "Weave dried papyrus into a basket"
+to spanish "Trabaja papiro seco en una canasta";
+
+translate "You must first load the loom with dried papyrus. It takes 200 reeds to make a basket."
+to spanish "Primero tienes que cargar el Telar con papiro seco.  Ocupas 200 piezas de papiro para hacer una canasta.";
+
+translate "As you wove the Basket, N1 of the loom's strings broke. You'll need to re-string the loom."
+to spanish "Al trabajar la canasta, N1 de los hilos del telar se rompieron.  Necesitas remplazarlos para continuar.";
+
+translate "Re-String this Student's Loom with N1 twine."
+to spanish "Repara este Telar de Estudiante con N1 cordones.";
+
+translate "You don't have enough Twine."
+to spanish "No tienes suficiente cordón.";
+
+translate "Load the Loom with Dried Papyrus"
+to spanish "Carga el Telar con Papiro Seco";
+
+translate "Load how much dried papyrus? (Max N1)"
+to spanish "Carga con cuanto Papiro Seco? (Max N1)";
+
+translate "Load the Loom with Thread"
+to spanish "Carga el Telar con hilo";
+
+translate "Load how much Thread? (Max N1)"
+to spanish "Carga con cuanto hilo? (Max N1)";
+
+translate "Load the Loom with Twine"
+to spanish "Carga el Telar con cordón";
+
+translate "Load how much Twine? (Max N1)"
+to spanish "Carga con cuanto cordón? (Max N1)";
+
+translate "Weed and Water this flax bed"
+to spanish "Deshierba y riega la linaza";
+
+translate "Weed this flax bed"
+to spanish "Deshierba la linaza";
+
+translate "You don't have any water."
+to spanish "No tienes agua.";
+
+translate "Harvest seeds from this wild flax plant"
+to spanish "Cosecha semillas de esta linaza salvaje";
+
+translate "The seeds have been picked clean."
+to spanish "Todas las semillas han sido recolectadas.";
+
+translate "Someone else got there first!"
+to spanish "Alguien logró cosechar antes que tú!";
+
+translate "Rip out this flax bed by the roots"
+to spanish "Arranca esta linaza desde la raíz";
+
+translate "Harvest this flax"
+to spanish "Cosecha la Linaza";
+
+translate "The flax plant yielded no good materials. Poor soil can cause this. Use the ecology skills to help figure out why."
+to spanish "La Planta de Linaza no te dió nada.  La condición inadecuada de la tierra puede causar esto.  Usa tu habilidad ecológica para averiguar el porqué.";
+
+translate "This newly sown flax bed is growing..."
+to spanish "Ce plant de lin récemment moissoné est en train de pousser...";
+translate "This flax bed is growing. Watch for weeds..."
+to spanish "Ce plant de lin est en train de pousser. Guettez l'apparition de graines...";
+translate "Weeds have taken over this flax bed..."
+to spanish "Les mauvaises herbes ont envahi ce plant de lin...";
+translate "This flax bed has gone to seed..."
+to spanish "Ce plant de lin donne maintenant des graines...";
+translate "This flax is ready for harvest..."
+to spanish "Ce plant de lin est bon pour la moisson...";
+
+translate "Random flax seed"
+to spanish "Semilla de Linaza al Azar";
+
+translate "Contribute this to my guild"
+to spanish "Contribuye esto a mi gremio";
+
+translate "To actually USE a flax gin requires two people, who have shown proficiency in the Discipline of Art and Music (which you have not). Build anyway?"
+to spanish "Para poder usar la Desmotadora de Linaza ocupas dos personas, ambas que hayan demostrado su capacidad en la disciplina de Arte y Música (el cual no has hecho).  Quieres construir de cualquier manera?";
+
+translate "To constuct a Flax Gin, you need:"
+to spanish "Para construir una Desmotadora de Linaza necesitas:";
+
+translate "Load Rotten Flax"
+to spanish "Carga con Linaza Podrida";
+
+translate "Upgrade the base and hopper"
+to spanish "Moderniza la base y la tolva";
+
+translate "Load how much Rotten Flax? (Max 200)"
+to spanish "Carga con cuanta Linaza Podrida ? (Max 200)";
+
+translate "Stop the flax gin"
+to spanish "Detén la Desmotadora";
+
+translate "Start the Flax Gin"
+to spanish "Pon a trabajar la Desmotadora";
+
+translate "Start the Flax Gin (Done)"
+to spanish "Pon a trabajar la Desmotadora (Efectuado)";
+
+translate "Start the Flax Gin (with U1)"
+to spanish "Pon a trabajar la Desmotadora (con U1(name))";
+
+translate "Restart The Flax Gin"
+to spanish "Reinicializa la Desmotadora";
+
+translate "Stabilize The Mechanism"
+to spanish "Estabiliza el Mecanismo";
+
+translate "Reset The Mechanism"
+to spanish "Reinicializa el Mecanismo";
+
+translate "Operation of Flax Gins requires experience, come back when you have some more..."
+to spanish "Actionner une égreneuse à lin nécessite de l'expérience, essayez plus tard...";
+
+translate "You must remove all O1 before you can start the Flax Gin."
+to spanish "Vous devez retirer O1(tns) O1(ns) pour pouvoir lancer l'égreneuse.";
+
+translate "You can't quite figure out how to work this odd machine - there's almost something spiritual about it. Passing the Test of Astrological Alignment will help you better understand it."
+to spanish "Vous ne savez pas vraiment comment fonctionne cette machine étrange - il s'en dégage quelque chose de spirituel. Passer l'épreuve d'Alignement astrologique vous permettra peut-être d'y voir plus clair.";
+
+translate "You spin the flywheel of the strange machine, but it goes slowly and seems a bit off balance. Perhaps another artist could also spin it to help stabilize the mechanism."
+to spanish "Vous faites tourner la roue de l'étrange machine, mais elle tourne lentement et semble manquer d'équilibre. Peut-être un autre artiste pourrait vous aider à la faire tourner pour stabiliser le mécanisme ?";
+translate "You spin the flywheel of the strange machine, but it goes slowly and seems a bit off balance. Perhaps someone else could also spin it to help stabilize the mechanism."
+to spanish "Vous faites tourner la roue de l'étrange machine, mais elle tourne lentement et semble mal équilibree. Peut-être qu'une autre personne pourrait vous aider à la faire tourner pour stabiliser le mécanisme ?";
+
+translate "You successfully started the flax gin."
+to spanish "Vous avez réussi à lancer l'égreneuse à lin.";
+
+translate "O1:Nile Green"
+to spanish "O1(ns):Nilo Verde";
+
+translate "O1:Old Egypt"
+to spanish "O1(ns):Viejo Egipto";
+
+translate "O1: Golden Age"
+to spanish "O1(ns):Era de Oro";
+
+translate "Nile Green"
+to spanish "Nilo Verde";
+
+translate "Old Egypt"
+to spanish "Viejo Egipto";
+
+translate "Golden Age"
+to spanish "Era de Oro";
+
+translate "O1: K1"
+to spanish "O1(ns): K1";
+
+translate "Plant/Flax: K1"
+to spanish "Plantar/Linaza : K1";
+
+translate "Flax: K1"
+to spanish "Linaza: K1";
+
+translate "Are you sure you want to use a pinch roller to upgrade the distaff?"
+to spanish "Estas seguro de querer usar un rodillo de sujetador para modernizar esta Rueca?";
+
+translate "Experimental modifications to flax gins."
+to spanish "Modificación experimental a la Desmotadora de Linaza";
+
+translate "Full Eye Turquoise"
+to spanish "Ojo Completo de Turquésa";
+
+translate "Fit the Flax Gin with a stabilizer (2 Full Eye Amethyst)"
+to spanish "Ajustar la Desmotadora con un estabilizador (2 Ojos Completos de Amatista)";
+
+translate "You don't have 2 Full Eye Amethyst"
+to spanish "No tienes 2 Ojos Completos de Amatista en tu inventario";
+
+translate "Stop the O1"
+to spanish "Detén O1(lns) O1(ns)";
+
+translate "Get this abandoned rotten flax"
+to spanish "Recoge esta linaza Podrida abandonada";
+
+translate "Sulfur in the water slows rotting."
+to spanish "El sulfuro en el agua alenta la descomposición";
+
+translate "On the mainland, flax takes 5+ minutes to rot.  Here, it takes 3+ minutes.  It is wise to use the time efficiently by working on something else."
+to spanish "En egipto la linaza se tarda 5+ minutos en descomponer.  Aquí se tarda 3+ minutos.  Es importante aprender a usar el tiempo de manera eficiente haciendo otras cosas mientras se descompone.";
+
+translate "Weave raw silk into silk cloth"
+to spanish "Trabaja ceda en tela de ceda";
+
+translate "You must first load the loom with raw silk. It takes 50 spools of raw silk to produce one square cubit of Silk Cloth."
+to spanish "Primero necesitas cargar el Telar con ceda.  Ocupas 50 carretes de ceda para producir un paño de ceda.";
+
+translate "Load the Loom with Raw Silk"
+to spanish "Carga el Telar con Ceda";
+
+translate "Load how much raw silk? (Max N1)"
+to spanish "Carga cuanta ceda? (Max N1)";
+
+translate "You need at least N1 O1 to start."
+to spanish "Necesitas un mínimo N1 O1(N1?ns:np) para comenzar.";
+
+translate "Stop this Automatic Loom"
+to spanish "Detén el Telar Automatizado";
+
+translate "Load the Automatic Loom with Thread"
+to spanish "Carga el Telar Automatizado con hilo";
+
+translate "Load the Automatic Loom with Twine"
+to spanish "Carga el Telar Automatizado con cordón";
+
+translate "You must first load the loom with thread. It takes 400 cubits of thread to produce one square cubit of Linen."
+to spanish "Primero necesitas cargar el telar con hilo. Ocupas 400 cubits de hilo para producir una pieza de Lino.";
+
+translate "Don't stack flax - until the terrain allocator is done, this is considered an exploit. (And yes, you can get around this check by repositioning the flax slightly - don't do that either - it's still an exploit.)"
+to spanish "No plantes linaza encima de otra, esto se considera ilegal (Y si es posible evitar esto reposicionando las plantas ligeramente pero también es considerado ilegal.";
+
+translate "This building has fallen apart from the wind and rain."
+to spanish "La estructura se ha colapsado por efecto de la lluvia y el viento.";
+
+translate "Load how much Rotten Flax? (Max 200)"
+to spanish "Carga cuanta Linaza Podrida? (Max 200)";
+
+translate "This O1 has been upgraded with a pair of K2"
+to spanish "O1(ens) O1(ns) a sido modernizado con un par de K2.";
+
+translate "Use a pair of Eyelet cut K1"
+to spanish "Use un par de Ojuelos K1";
+
+translate "You need a pair of identical gems to upgrade."
+to spanish "Ocupas un par de gemas identicas para modernizar";
+
+translate "Full Eye Amethyst"
+to spanish "Ojo Completo de Amatista";
+
+translate " (with U1)"
+to spanish " (con U1(name))";
+
+translate "Start the Flax Gin, Dual Artist"
+to spanish "Pon en marcha la Desmotadora de Linaza, Duo Artista";
+
+translate "Use of flax gins is an art - come back when you have advanced in the discipline of Art."
+to spanish "El uso de la Desmotadora de Linaza es un arte, regresa cuando hayas avanzado en la diciplina de Arte.";
+
+translate "The Distaff must have at least N1 O1 to start."
+to spanish "La Rueca debe contener N1 O1(ns) para iniciar.";
+
+translate "You can only upgrade distaffs that are inside compounds."
+to spanish "Solo puedes modernizar una Rueca dentro de hogares.";
+
+translate "In Egypt proper, all Student's Looms must be built inside a Compound."
+to spanish "En Egipto, todos los Telares de Estudiantes tienen que ser contruidos dentro de hogares.";
+
+translate "You must first learn the basics of Automation."
+to spanish "Primero necesitas aprender Automatización.";
+
+translate "Carpentry Blade, 3000+ Quality"
+to spanish "Lámina de Carpintería, Calidad 3000+";
+
+translate "To construct an Automatic Loom you need:"
+to spanish "Para construir un Telar Automatizado necesitas:";
+
+translate "Touch up a piece of Linen into a Sail"
+to spanish "Convertir una pieza de Lino en una Vela de Lino";
+
+translate "Used N1 twine from the loom to restring it."
+to spanish "Haz utilizado N1 cordón del telar para rehilar el telar";
+
+translate "Used N1 twine from your inventory to restring it."
+to spanish "Haz utilizado N1 cordón de tu inventario para rehilar el telar";
+
+translate "Insufficient twine in the Student's Loom or Inventory to completely repair it.  Used N1 twine to partially restring it."
+to spanish "No tienes suficiente cordón para reparar el Telar de Estudiante de manera completa.  Se usó N1 cordón para una reparación parcial.";
+
+translate "Sequencing K1 Flax: K2"
+to spanish "Sequencing K1 Flax: K2";
+
+translate "K3: N1"
+to spanish "K3: N1";
+
+translate "Somebody got there first!"
+to spanish "Alguien llegó primero!";
+
+translate "To plant a flax bed, you need: "
+to spanish "Para plantar linzana, necesitas: ";
+
+translate "Don't stack flax, this is considered an exploit. (And yes, you can get around this check by repositioning the flax slightly - don't do that either - it's still an exploit.)"
+to spanish "No plantes linaza encima de otra planta de linaza, esto se considera ilegal.";
+
+translate "Registered: K1"
+to spanish "Registrado: K1";
+
+translate "You tie the flax to a buoy and drop it into the water so that it will rot."
+to spanish "Juntas tu linaza y lo tiras al agua para que se descomponga.";
+
+translate "Build a Large Distaff"
+to spanish "Contruye una Rueca Grande";
+
+translate "Sink this rotten flax"
+to spanish "Hunde esta linaza Podrida";

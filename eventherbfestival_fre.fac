@@ -1,0 +1,81 @@
+Module EventHerbFestival_fre;
+
+translate GebsSilverSickle to french feminine
+{
+ 	ns "Faucille en argant de Geb";  	np "Faucilles en argant de Geb";
+	}
+
+translate GebsGoldenSickle to french feminine
+{
+ 	ns "Faucille en or de Geb";  	np "Faucilles en or de Geb";
+	}
+
+translate HerbBasketKit to french masculine
+{
+ 	ns "Kit d'assemblage de panier � herbes";  	np "Kits d'assemblage de panier � herbes";
+	}
+
+translate HerbingChest to french masculine
+{
+ 	ns "Panier � herbes";  	np "Panier � herbes";
+	}
+
+translate "Single Herb"
+to french "Herbe unique";
+
+translate "Total Herb"
+to french "Herbes totales";
+
+translate "Total Seeds"
+to french "Graines totales";
+
+translate "Most Types of Herb"
+to french "Diversit� des herbes";
+
+translate "Mystery Herb"
+to french "Herbe myst�re";
+
+translate "Mystery Herb Name"
+to french "Nom de l'herbe myst�re";
+
+translate "Herb Name"
+to french "Nom de l'herbe";
+
+translate "Pack up the Herbing Basket"
+to french "D�monter le panier � herbes";
+
+translate "You cannot pack up the Herbing Basket if it contains herbs."
+to french "Vous ne pouvez pas d�monter le panier si il contient des herbes.";
+
+translate "Are you sure you want to pack up this Herbing Basket?"
+to french "Voulez-vous vraiment d�monter ce panier � herbes ?";
+
+translate "Unpack the Herbing Basket"
+to french "Assembler le panier � herbes";
+
+translate "To build an Herbing Basket, you need:"
+to french "Pour construire un Panier � herbes, il vous faut:";
+
+translate "Herbing Festival"
+to french "Festival de Cueillette";
+
+translate "Show Collected Herb Types"
+to french "Afficher la liste des herbes cueillies";
+
+translate "Herb Types You Have Gathered:"
+to french "Liste des herbes cueillies:";
+
+translate "Number of O1 gathered: N1"
+to french "Quantit� de O1(ns) cueillies: N1";
+
+translate "Total debens of herbs gathered: N1"
+to french "Quantit� totale d'herbes cueillies: N1";
+
+translate "Total debens of seeds gathered: N1"
+to french "Quantit� totale de graines obtenues: N1";
+
+translate "Total different herbs gathered: N1"
+to french "Quantit� totale d'herbes diff�rentes cueillies: N1";
+
+translate "Total debens of the mystery herb gathered: N1"
+to french "Quantit� totale d'herbes myst�res cueillies: N1";

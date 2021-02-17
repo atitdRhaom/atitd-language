@@ -1,0 +1,1161 @@
+module chemistry_fre;
+
+translate powderedgem to french feminine
+{
+  ns "Poudre de gemme"; np "Poudres de gemme";
+}
+
+translate acidextract0 to french maculine
+{ ns "Extrait d'acide faible"; np "extraits d'acides faibles"; }
+
+translate acidextract1 to french maculine
+{ ns "Extrait d'acide normal"; np "extraits d'acides normaux"; }
+
+translate acidextract2 to french maculine
+{ ns "Extrait d'acide fort"; np "extraits d'acides forts"; }
+
+translate EssMacerator to french masculine
+{ ns "Macérateur essentiel"; np "Macérateurs essentiels";}
+
+translate TrashCan to french feminine
+{
+  ns "Poubelle"; np "Poubelles";
+}
+
+translate transars to french feminine
+{
+  ns "Recette de chimie - Arsenic"; np "Recettes de chimie - Arsenic";
+}
+
+translate ChemLab to french masculine
+{
+  ns "Laboratoire de chimie"; np "Laboratoires de chimie";
+}
+
+translate alcohollamp to french feminine
+{
+  ns "Lampe à alcool"; np "Lampes à alcool";
+}
+translate gearoil to french feminine
+{
+  ns "Huile à pignon"; np "Huiles à pignon";
+}
+translate PowderAmethyst to french feminine
+{
+  ns "Poudre d'améthyste"; np "Poudres d'améthyste";
+}
+
+translate PowderLapis to french feminine
+{
+  ns "Poudre de lapis"; np "Poudres de lapis";
+}
+
+translate PowderOpal to french feminine
+{ ns "Poudre d'Opale"; np "Poudres d'Opale"; }
+
+translate PowderTurquoise to french feminine
+{
+  ns "Poudre de turquoise"; np "Poudres de turquoise";
+}
+
+translate PowderGarnet to french feminine
+{
+  ns "Poudre de grenat"; np "Poudres de grenat";
+}
+
+translate PowderJade to french feminine
+{
+  ns "Poudre de jade"; np "Poudres de jade";
+}
+
+translate PowderSunstone to french feminine
+{
+  ns "Poudre d'héliolite"; np "Poudres d'héliolite";
+}
+
+translate PowderCitrine to french feminine
+{
+  ns "Poudre de citrine"; np "Poudres de citrine";
+}
+
+translate PowderTopaz to french feminine
+{
+  ns "Poudre de topaze"; np "Poudres de topaze";
+}
+
+translate PowderEmerald to french feminine
+{
+  ns "Poudre d'émeraude"; np "Poudres d'émeraude";
+}
+
+translate PowderRuby to french feminine
+{
+  ns "Poudre de rubis"; np "Poudres de rubis";
+}
+
+translate PowderDiamond to french feminine
+{
+  ns "Poudre de diamant"; np "Poudres de diamant";
+}
+
+translate PowderSapphire to french feminine
+{
+  ns "Poudre de saphir"; np "Poudres de saphir";
+}
+
+translate PowderQuartz to french feminine
+{
+  ns "Poudre de quartz"; np "Poudres de quartz";
+}
+
+translate powdercoralpearl to french feminine
+{
+  ns "Poudre de perle Corail"; np "Poudres de perle Corail";
+}
+
+translate powderwhitepearl to french feminine
+{
+  ns "Poudre de perle Blanche"; np "Poudres de perle Blanche";
+}
+
+translate powderblackpearl to french feminine
+{
+  ns "Poudre de perle Noire"; np "Poudres de perle Noire";
+}
+
+translate powdersmokepearl to french feminine
+{
+  ns "Poudre de perle Fumée"; np "Poudres de perle Fumée";
+}
+
+translate powderturquoisepearl to french feminine
+{
+  ns "Poudre de perle Turquoise"; np "Poudres de perle Turquoise";
+}
+
+translate powderpinkpearl to french feminine
+{
+  ns "Poudre de perle Rose"; np "Poudres de perle Rose";
+}
+
+translate powderbeigepearl to french feminine
+{
+  ns "Poudre de perle Beige"; np "Poudres de perle Beige";
+}
+
+translate PowderAquaPearl to french feminine
+{
+  ns "Poudre de perle Aqua"; np "Poudres de perle Aqua";
+}
+
+translate gunpowder to french feminine
+{
+  ns "Poudre à canon"; np "Poudres à canon";
+}
+
+translate papystrips to french feminine
+{
+  ns "Bande de papyrus"; np "Bandes de papyrus";
+}
+
+translate lungsporeteststrip to french masculine
+{
+  ns "Test Litmus: Sporiculose"; np "Tests Litmus: Sporiculose";
+}
+
+translate esscompound to french masculine
+{
+  ns "Composé essentiel"; np "Composés essentiels";
+}
+
+translate gemglue to french feminine
+{
+  ns "Recette de chimie - Colle pour joyaux"; np "Recette de chimie - Colle pour joyaux";
+}
+translate gemglue0 to french feminine
+{
+  ns "Colle faible pour joyaux"; np "Colles faibles pour joyaux";
+}
+
+translate gemglue1 to french feminine
+{
+  ns "Colle moyenne pour joyaux"; np "Colles moyennes pour joyaux";
+}
+translate gemglue2 to french feminine
+{
+  ns "Colle forte pour joyaux"; np "Colles fortes pour joyaux";
+}
+translate "When applied to smaller gems, it will fuse them into larger gems"
+to french "Appliquée sur des petits joyaux, cela les fusionne pour un faire un plus gros";
+
+translate acidextract to french feminine
+{
+  ns "Recette de chimie - extrait d'acide"; np "Recette de chimie - extrait d'acide";
+}
+
+translate essence to french feminine
+{
+  ns "Essence"; np "Essences";
+}
+
+translate formula to french feminine
+{
+  ns "Formule"; np "Formules";
+}
+
+translate instruction to french feminine
+{
+  ns "Instruction"; np "Instructions";
+}
+
+translate litmusteststrip to french masculine
+{
+  ns "Test Litmus"; np "Tests Litmus";
+}
+
+translate eqsalty to french feminine
+{
+  ns "Salinité:"; np "Salinité:";
+}
+
+translate eqaromatic to french masculine
+{
+  ns "Aromates:"; np "Aromates:";
+}
+
+translate eqsour to french feminine
+{
+  ns "Aigreur:"; np "Aigreur:";
+}
+
+translate eqsweet to french masculine
+{
+  ns "Sucres:"; np "Sucres:";
+}
+
+translate eqastringent to french feminine
+{
+  ns "Astringence:"; np "Astringence:";
+}
+
+translate eqtoxic to french feminine
+{
+  ns "Toxicité:"; np "Toxicité:";
+}
+
+translate eqspicy to french feminine
+{
+  ns "Epices:"; np "Epices:";
+}
+
+translate eqbitter to french feminine
+{
+  ns "Apreté:"; np "Apreté:";
+}
+
+translate eqnone to french feminine
+{
+  ns "Absence d'attribut"; np "Absence d'attribut";
+}
+
+translate eqnegative to french masculine
+{
+  ns "Négatif"; np "Négatif";
+}
+
+translate eqpositive to french masculine
+{
+  ns "Positif"; np "Positif";
+}
+
+translate eqneutral to french masculine
+{
+  ns "Neutre"; np "Neutre";
+}
+
+translate "Normal"
+to french "Normal";
+translate "Weak"
+to french "Faible";
+translate "Strong"
+to french "Fort";
+
+translate lungsporenegative to french masculine
+{
+  ns "Test Litmus: Sporiculose (NEGATIF)"; np "Tests Litmus: Sporiculose (NEGATIFS)";
+}
+
+translate lungsporepositive to french masculine
+{
+  ns "Test Litmus: Sporiculose (POSITIF)"; np "Tests Litmus: Sporiculose (POSITIFS)";
+}
+
+translate CSeed0 to french masculine
+{
+  ns "Extrait de composé de Geb"; np "Extraits de composé de Geb";
+}
+translate CSeed1 to french masculine
+{
+  ns "Extrait de composé de Maât"; np "Extraits de composé de Maât";
+}
+translate CSeed2 to french masculine
+{
+  ns "Extrait de composé de Seth"; np "Extraits de composé de Seth";
+}
+translate CSeed3 to french masculine
+{
+  ns "Extrait de composé de Osiris"; np "Extraits de composé de Osiris";
+}
+translate CSeed4 to french masculine
+{
+  ns "Extrait de composé de Thot"; np "Extraits de composé de Thot";
+}
+translate CSeed5 to french masculine
+{
+  ns "Extrait de composé de Râ"; np "Extraits de composé de Râ";
+}
+translate CSeed6 to french masculine
+{
+  ns "Extrait de composé de Râ brillant"; np "Extraits de composé de Râ brillants";
+}
+translate CSeed7 to french masculine
+{
+  ns "Extrait de composé de Râ exultant"; np "Extraits de composé de Râ exultants";
+}
+
+translate PotashRecipe to french feminine
+{
+  ns "Recette de chimie : Onguent de potasse"; np "Recette de chimie : Onguent de potasse";
+}
+translate Limerecipe to french feminine
+{
+  ns "Recette de chimie : émulsion de chaux"; np "Recette de chimie : émulsion de chaux";
+}
+translate "When mixed with raw limestone, it will convert it directly to Lime."
+to french "Mélangé avec du calcaire brut, permet de convertir directement en chaux.";
+
+translate "Transmute Lead Ore to Arsenic"
+to french "Transmuter du minerai de plomb en arsenic";
+
+translate "To transmute Lead Ore to Arsenic, you need:"
+to french "Pour transmuter du minerai de plomb en Arsenic, il vous faut:";
+
+translate "To make Silkworm Unguent you need:"
+to french "Pour faire de l'onguent de vers à soie, il vous faut:";
+
+translate GearOilRecipe to french feminine
+{
+  ns "Recette de chimie : Huile à pignon"; np "Recette de chimie : Huile à pignon";
+}
+
+translate ExplosivesRecipe to french feminine
+{
+  ns "Recette de chimie : Explosifs"; np "Recette de chimie : Explosifs";
+}
+
+translate potoint0 to french masculine
+{
+  ns "Onguent de potasse faible"; np "Onguents de potasse faible";
+}
+
+translate potoint1 to french masculine
+{
+  ns "Onguent de potasse normal"; np "Onguents de potasse normal";
+}
+
+translate potoint2 to french masculine
+{
+  ns "Onguent de potasse puissant"; np "Onguents de potasse puissant";
+}
+
+translate gearoil0 to french feminine
+{
+  ns "Huile brute"; np "Huiles brutes";
+}
+
+translate gearoil1 to french feminine
+{
+  ns "Huile minérale"; np "Huiles minérales";
+}
+
+translate gearoil2 to french feminine
+{
+  ns "Huile de graissage"; np "Huiles de graissage";
+}
+
+translate explosive0 to french masculine
+{
+  ns "Explosif léger"; np "Explosifs légers";
+}
+
+translate explosive1 to french masculine
+{
+  ns "Explosif lourd"; np "Explosifs lourds";
+}
+
+translate explosive2 to french masculine
+{
+  ns "Explosif volatile"; np "Explosifs volatiles";
+}
+
+translate ExpHandling to french feminine
+{
+  ns "Manipulation des explosifs"; np "Manipulation des explosifs";
+}
+
+translate "O1 O2"
+to french "01(ns) O2(ns)";
+
+translate "Lime Emulsion"
+to french "Emulsion de chaux";
+
+translate "Gem Glue"
+to french "Colle à joyaux";
+
+translate "Acid Extract"
+to french "Extrait d'acide";
+
+translate "Lesser Emulsion"
+to french "Emulsion faible";
+
+translate "Standard Emulsion"
+to french "Emulsion normale";
+
+translate "Greater Emulsion"
+to french "Emulsion forte";
+
+translate "Large Gem Glue"
+to french "Colle à joyaux forte";
+
+translate "Small Gem Glue"
+to french "Colle à joyaux faible";
+
+translate "Medium Gem Glue"
+to french "Colle à joyaux normale";
+
+translate "To some Medium Gem Glue, you need:"
+to french "Pour de la colle à joyaux normale, vous avez besoin de:";
+
+translate "To some Large Gem Glue, you need:"
+to french "Pour de la colle à joyaux forte, vous avez besoin de:";
+
+translate "To some Small Gem Glue, you need:"
+to french "Pour de la colle à joyaux faible, vous avez besoin de:";
+
+translate "Mix a batch of Positive Litmus Strip Solution (Stage 1)"
+to french "Mélanger un lot de solution pour bande positive (Etape 1)";
+
+translate "Mix a batch of Negative Litmus Strip Solution (Stage 1)"
+to french "Mélanger un lot de solution pour bande négative (Etape 1)";
+
+translate "Mix a batch of Aromatic Litmus Strip Solution (Stage 1)"
+to french "Mélanger un lot de solution pour bande aromatique (Etape 1)";
+
+translate "Mix a batch of Astringent Litmus Strip Solution (Stage 1)"
+to french "Mélanger un lot de solution pour bande astringente (Etape 1)";
+
+translate "Mix a batch of Bitter Litmus Strip Solution (Stage 1)"
+to french "Mélanger un lot de solution pour bande amère (Etape 1)";
+
+translate "Mix a batch of Salty Litmus Strip Solution (Stage 1)"
+to french "Mélanger un lot de solution pour bande salée (Etape 1)";
+
+translate "Mix a batch of Spicy Litmus Strip Solution (Stage 1)"
+to french "Mélanger un lot de solution pour bande épicée (Etape 1)";
+
+translate "Mix a batch of Sour Litmus Strip Solution (Stage 1)"
+to french "Mélanger un lot de solution pour bande aigre (Etape 1)";
+
+translate "Mix a batch of Sweet Litmus Strip Solution (Stage 1)"
+to french "Mélanger un lot de solution pour bande sucrée (Etape 1)";
+
+translate "Mix a batch of Toxic Litmus Strip Solution (Stage 1)"
+to french "Mélanger un lot de solution pour bande toxique (Etape 1)";
+
+translate "Essential Macerator"
+to french "Macérateur essentiel";
+
+translate "Assemble an Essential Macerator"
+to french "Assemblez un macérateur essentiel";
+
+translate "Allows the reduction of Lead Ore to release Arsenic"
+to french "Permet la réaction de minerai de plomb pour obtenir de l'arsenic";
+
+translate "Lung Spore Treatment (Improved)"
+to french "Traitement contre la Sporiculose (Amélioré)";
+
+translate "Trash"
+to french "Jeter";
+
+translate "Cruelty! You can't trash animals..."
+to french "Quelle cruauté! Vous ne pouvez jeter les animaux...";
+
+translate "Trash how many O1? (Max N1)"
+to french "Jeter combien de O1(ns) (Max N1)";
+
+translate "Are you sure? These items will be lost forever!"
+to french "En êtes-vous certain? Ces objets seront perdus à jamais!";
+
+translate "Chemistry Laboratory"
+to french "Laboratoire de chimie";
+
+translate "To build a Chemistry Laboratory you need:"
+to french "Pour construire un laboratoire de chimie, il vous faut:";
+
+translate "Manufacture"
+to french "Fabrication";
+
+translate "Ink"
+to french "Encre";
+
+translate "To make a batch of Gunpowder, you need:"
+to french "Pour fabriquer de la poudre à canon, il vous faut:";
+
+translate "Gunpowder"
+to french "Poudre à canon";
+
+translate "Pulverize"
+to french "Pulvériser";
+
+translate "Your pestle has worn out. You must install a new pestle to pulverize gems."
+to french "Votre pilon est usé. Vous devez installer un nouveau pilon pour pulvériser des pierres.";
+
+translate "To crush the O1 into powder, you need:"
+to french "Pour broyer O1(lns) O1(ns) en poudre, vous avez besoin de:";
+
+translate "When mixed with simple ingredients it produces powerful acid"
+to french "Lorsqu'elle est mélangée avec des ingrédients simples, elle produit un acide puissant";
+
+translate "Install new Wooden Pestle"
+to french "Installer un nouveau pilon de bois";
+
+translate "You do not have a wooden pestle to install."
+to french "Vous n'avez pas de pilon de bois.";
+
+translate "Display"
+to french "Afficher";
+
+translate "Dispose"
+to french "Jeter";
+
+translate "Install"
+to french "Installer";
+
+translate "Prepare"
+to french "Preparer";
+
+translate "Dump Out Beaker Contents"
+to french "Vider le contenu du flacon";
+
+translate "Essential Distillation"
+to french "Distillation essentielle";
+
+translate "Inks"
+to french "Encres";
+
+translate "Display Upgrades"
+to french "Montrer les améliorations";
+
+translate "Papyrus Strips"
+to french "Bandes de papyrus";
+
+translate "Ink (Basic)"
+to french "Encre (de base)";
+
+translate "Essential Mixture"
+to french "Mixion essentielle";
+
+translate "Place Essential Material Into the Macerator"
+to french "Placer des ressources essentielles dans la cuve de macération";
+
+translate "Mix Compound"
+to french "Mélanger un composé";
+
+translate "You must have five different types of essence in the crucible to create an essential compound."
+to french "Vous devez placer cinq types différents d'essences dans le creuset pour créer un composé essentiel.";
+
+translate "That item cannot be macerated."
+to french "Cet objet ne peut pas être macérer.";
+
+translate "Choose a material to macerate:"
+to french "Choisissez un objet à macérer";
+
+translate "How many pieces of Papyrus Paper do you wish to turn into strips? Each paper makes 8 strips."
+to french "Combien de feuilles de papyrus voulez-vous transformer en bandes? Chacune donne 8 bandes.";
+
+translate "You don't have that much papyrus paper."
+to french "Vous n'avez pas une telle quantité de feuilles de papyrus.";
+
+translate "Mix a batch of Negative Litmus Strip Solution (Stage 1)"
+to french "Préparer une solution Litmus négative (Etape 1)";
+
+translate "Mix a batch of Positive Litmus Strip Solution (Stage 1)"
+to french "Préparer une solution Litmus positive (Etape 1)";
+
+translate "You already have something in the beaker. Are you sure you want to throw it out and start a batch of Negative Litmus Strip Solution?"
+to french "Il y a déjà quelque chose dans le flacon. Etes-vous certain de vouloir le vider et faire une nouvelle dose de solution Litmus négative?";
+
+translate "You already have something in the K1. Are you sure you want to throw it out and start a batch of K2 solution?"
+to french "Il y a déjà quelque chose dans le K1. Etes-vous certain de vouloir le vider et faire une nouvelle dose de solution K2";
+
+translate "You already have something in the beaker. Are you sure you want to throw it out and start a batch of Litmus Strip solution?"
+to french "Il y a déjà quelque chose dans le flacon. Etes-vous certain de vouloir le vider et faire une nouvelle dose de solution Litmus?";
+
+translate "You already have something in the beaker. Are you sure you want to throw it out and start a batch of Positive Litmus Strip Solution?"
+to french "Il y a déjà quelque chose dans le flacon. Etes-vous certain de vouloir le vider et faire une nouvelle dose de solution Litmus positive?";
+
+translate "Put a Papyrus Strip into the Solution"
+to french "Tremper une bande de papyrus dans la solution";
+
+translate "You must have a Papyrus Strip to put into the Solution."
+to french "Vous devez avoir une bande de papyrus pour la tremper dans la solution.";
+
+translate "Attempt to Precisely Calibrate the Lab"
+to french "Tenter de finement calibrer le Lab";
+
+translate "Are you sure? This will destroy any calibration you already have set."
+to french "En êtes-vous certain? Cela annulera le calibrage précédent";
+
+translate "Precise Calibration Level: N1"
+to french "Niveau de calibrage: N1";
+
+translate "Chamber Contains N1 O1"
+to french "Le récipient contient N1 O1(pn)";
+
+translate "Create a batch of Lung Spore Test Solution"
+to french "Préparer de la solution test pour la Sporiculose";
+
+translate "To mix this up, you need:"
+to french "Pour préparer cela, il vous faut:";
+
+translate "Beaker Loaded: K1 - N1 doses"
+to french "Flacon rempli de : K1 - N1 doses";
+translate "Florence Flask Loaded: K1 - N1 doses"
+to french "Ballon de florence remplie de : K1 - N1 doses";
+translate "Test Tube Loaded: K1 - N1 doses"
+to french "Tube à essai rempli de : K1 - N1 doses";
+
+translate "K1 Solution Completes in K2"
+to french "La solution K1 sera prête dans K2";
+
+translate "Lung Spore Test Solution"
+to french "Solution test pour la Sporiculose";
+
+translate "This project used: N1 O1 N2 O2 N3 O3 N4 O4"
+to french "La préparation a consommée: N1 O1(N1?np:ns), N2 O2(N2?np:ns), N3 O3(N3?np:ns), N4 O4(N4?np:ns)";
+
+translate "You dip a papyrus strip into the paper. the beaker level decreases slightly, and you create a piece of litmus paper."
+to french "Vous trempez une bande de papyrus dans la solution. Le niveau du flacon baisse sensiblement, et vous créez un morceau de papier test Litmus.";
+
+translate "You must install all of your upgrades."
+to french "Vous devez installer toutes les améliorations.";
+
+translate "You must install all of your glass upgrades."
+to french "Vous devez installer toute la verrerie.";
+
+translate "You have upgraded your Chemistry Lab to allow for advanced reactions. You may now install glassware."
+to french "Vous avez amélioré votre laboratoire de Chimie pour permettre de réaliser des réactions avancées. Vous pouvez maintenant installer la verrerie";
+
+translate "Upgrades:"
+to french "Améliorations : ";
+
+translate "O1 - Not Installed"
+to french "O1(ns) - Non installé";
+
+translate "O1 - Installed"
+to french "O1(ns) - installé";
+
+translate "Choose a O1 to install:"
+to french "Choisissez O1(uns) O1(ns) à installer:";
+
+translate "That item is not a valid O1"
+to french "Cet objet n'est pas O1(uns) O1(ns) valide";
+
+
+
+translate "The distillation process is a success. You have produced N1 drops of Essence"
+to french "La distillation a parfaitement fonctionnée. Vous avez produit N1 goutes d'essence";
+
+translate "It takes N1 minutes to distill essence."
+to french "Il faut N1 minutes pour distiller l'essence.";
+
+translate "Alcohol Lamp"
+to french "Lampe à alcool";
+
+translate "Fill Alcohol Lamp with Spirits"
+to french "Remplir la Lampe à alcool avec des extraits";
+
+translate "Remove Essential Material from the Macerator"
+to french "Vider le macérateur";
+
+translate "How much Grey Spirits do you want to put in the lamp? This cannot be extracted once filled."
+to french "Mettre combien d'extraits gris dans la lampe? Attention, vous ne pourrez récupérer les extraits.";
+
+translate "Start Essential Distillation"
+to french "Lancer la distillation essentielle";
+
+translate "Dumb Out Alcohol Lamp Contents"
+to french "Vider la lampe à alcool";
+
+translate "U1 waves a small piece of paper under your nose for a moment, which changes color."
+to french "U1(name) vous remue un petit morceau de papier sous le nez pendant un certain temps, celui-ci change de couleur.";
+
+translate "You mix the Verdent Squill with a mixture of Cabbage Juice and Powdered Jade and drink it. It tastes horrible, but you seem to feel the strange feelings pass."
+to french "Vous buvez la mixture à base de Verdent Squill, de Jus de choux et de Poudres de jade. Malgré cet horrible goût, vous sentez passer les symptômes.";
+
+translate "Lab Work"
+to french "Travaux en laboratoire";
+
+translate "Upgrades:"
+to french "Améliorations:";
+
+translate "  O1 - N1"
+to french "  O1(ns) - N1";
+
+translate "  Alcohol Lamp Installed"
+to french "  Lampe à ALcool installée";
+
+translate "  Essential Macerator Installed"
+to french "  Macérateur essentiel installé";
+
+translate "  Chemistry Upgrade Level: N1"
+to french "  Niveau d'amélioration: N1";
+
+//translate "To make a batch of Lesser Instruction Ink, you need:"
+//to french "";
+
+translate "To construct an essential macerator, you need:"
+to french "Pour faire un macérateur essentiel il faut:\n";
+
+translate "Primary Instruction Ink"
+to french "Encre pour instructions primaire";
+
+translate "To make a batch of Primary Instruction Ink, you need:"
+to french "Pour préparer un flacon d'encre pour instructions primaires, il vous faut :";
+
+translate "You must have all upgrades installed to calibrate the laboratory."
+to french "Vous devez avoir installer toutes les améliorations pour pouvoir calibrer le laboratoire.";
+
+translate "You are able to calibrate the lab extremely precisely."
+to french "Vous parvenez à calibrer le laboratoire de manière extrèmement précise.";
+
+translate "You are able to calibrate the lab somewhat precisely."
+to french "Vous parvenez à calibrer de laboratoire assez précidement.";
+
+translate "You are able to calibrate the lab slightly precisely."
+to french "Vous parvenez à calibrer le laboratoire, c'est cependant quelque peu maladroit.";
+
+translate "You are unable to calibrate the lab."
+to french "Vous ne parvenez pas à calibrer le laboratoire.";
+
+translate "The sound of shifting glassware comes from the direction of the Chemistry Laboratory."
+to french "Un tintement crystalin parvient à vos oreilles, cela semble provenir du laboratoire à chimie.";
+
+translate "Request Essential Macerator Instructions"
+to french "Demander des instructions concernant les macérateurs essentiels.";
+
+translate "You already received a copy of the instructions."
+to french "Vous avez déjà reçu une copie des instructions.";
+
+translate "We can only give instructions to people with paid accounts."
+to french "Nous ne pouvons confier ces instruction qu'aux citoyens (compte payant).";
+
+translate "You have received instructions on how to construct an Essential Macerator. Check under Skills - Assembly for requirements."
+to french "Vous avez reçu des instruction concernant la construction d'un macérateur essentiel. Consultez votre menu Compétences - Assembler, pour en connaître les coûts de construction.";
+
+translate "It takes 2 minutes to distill essence."
+to french "La distillation de l'essence prend 2 minutes.";
+
+translate "You examine the compound as it is created, using a drop of Litmus Paper Solution. It seems to possess high levels of O1."
+to french "Vous testez le composé tout juste créé avec une goutte de solution Litmus. Il semble être caractérisé par un haut niveau en O1(ns).";
+
+translate "Compound Works."
+to french "Le composé a les effets escomptés.";
+
+translate "Convert a Compound into Improved Lung Spore Treatment"
+to french "Transformer un composé en traitement amélioré contre la Sporiculose";
+
+translate "You must have a glass jar to put the treatment into."
+to french "Vous devez avoir une jarre de verre en votre possession pour y verser le traitement.";
+
+translate "You must have a jug of water with which to diffuse the compound."
+to french "Procurez-vous une cruche d'eau afin de diluer la solution.";
+
+translate "That item is not a valid Essential Compound."
+to french "Cet élément n'est pas une composé essentiel valide.";
+
+translate "Choose an essential compound: "
+to french "Sélectionnez un composé essentiel : ";
+
+translate "Your compound is not correct. It requires: "
+to french "Votre composé n'est pas valable. Il vous faut : ";
+translate "O1 (K1)"
+to french "O1(ns) (K1)";
+translate "O1 (O2)"
+to french "O1(ns) (O2(ns))";
+
+translate "Your compound meets the requirements. You mix it up with the water and fill up the jar with its contents."
+to french "Votre composé correspond à la demande. Vous le diluez dans l'eau et remplissez la jarre de la mixture.";
+
+translate "Create a batch of Lung Spore Cure"
+to french "Préparer une dose de traitement définitif contre la Sporiculose";
+
+translate "It requires a quantity of 1000 water, 100 Powdered Emeralds, and 7 Wheat Extract to mix a batch of Lung Spore Cure."
+to french "Il vous faut 1000 cruches d'eau, 100 mesures de poudre d'émeraude et 7 extraits de blé afin de préparer le traitement définitif contre la Sporiculose.";
+
+translate "You dump all of the water into the cistern, add the emeralds and wheat extract, and mix it up. The color of the water changes to a strange greenish amber."
+to french "Vous versez l'eau dans la citerne, y ajoutez les émeraudes et l'extrait de blé, et mélangez le tout. La couleur du liquide tourne vers une étrange teinte d'ambre verdâtre.";
+
+translate "Solution Quality"
+to french "Qualité de la solution";
+
+translate "Solution Req"
+to french "Pré-requis";
+
+translate "This project used: "
+to french "Ce projet a consommé :";
+
+translate "It takes 5 minutes for the solution to settle properly."
+to french "La décantation de la solution prend 5 minutes.";
+
+translate "Settling Solution"
+to french "Décantation en cours";
+
+translate "Your solution has settled."
+to french "la décantation est terminée.";
+
+translate "Solution Name"
+to french "Nom de la solution";
+
+translate "Solution K1 (Stage 1)"
+to french "Solution K1 (étape 1)";
+
+translate "Choose a moss to put into the Solution:"
+to french "Sélectionnez la mousse à ajouter à la solution :";
+
+translate "You must select a Moss."
+to french "Vous devez choisir une mousse.";
+
+translate "You do not have enough Moss."
+to french "Vous n'avez pas assez de mousse en votre possession.";
+
+translate "This is not the correct type of Moss."
+to french "Mousse incorrecte.";
+
+translate "You put the moss into the solution, and it changes to a deep greenish color. The solution will begin to evaporate in a few seconds - stir it quickly to prevent this."
+to french "Vous ajouter la mousse à la solution, celle-ci adopte alors une couleur vert foncé. La solution va commencer à s'évaporer dans quelques secondes - remuez énergiquement pour empêcher cela.";
+
+translate "Solution K1 (Stage 2)"
+to french "Solution K1 (étape 2)";
+
+translate "Mixing Solution"
+to french "Mélange de la solution";
+
+translate "You were unable to stir it fast enough, and the solution evaporated. You will have to start again."
+to french "Vous n'avez pas remuez assez énergiquement, et la solution s'est évaporée. Vous devez recommencer.";
+
+translate "You were able to stir it fast enough, and you kept N1 drops of solution, which is now complete."
+to french "Vous parvenez à remuer assez vite, et recueillez N1 gouttes de solution, qui est à présent prête.";
+
+translate "Solution K1"
+to french "Solution K1";
+
+translate "Solution Stir"
+to french "Mélange de la solution";
+
+translate "Negative Litmus Strip Solution"
+to french "Test Litmus négatif";
+
+translate "Positive Litmus Strip Solution"
+to french "Test Litmus positif";
+
+translate "Analyze Essential Compound"
+to french "Analyser le composé essentiel";
+
+translate "Positive"
+to french "Positif";
+translate "Negative"
+to french "Négatif";
+
+translate "You do not have a blank Positive Litmus Test strip."
+to french "Vous n'avez pas de tests Litmus positifs vierges.";
+translate "You do not have a blank Negative Litmus Test strip."
+to french "Vous n'avez pas de tests Litmus négatifs vierges.";
+
+translate "Testing Compound: "
+to french "Test du composé : ";
+
+translate "You examine the compound, using a Litmus Strip. It does not seem to possess high levels of any quality."
+to french "Vous testez le composé avec une bande Litmus. Vous ne décelez aucune caractéristique de haut niveau.";
+
+translate "You examine the compound, using a Litmus Strip. It does not seem to possess low levels of any quality."
+to french "Vous testez le composé avec une bande Litmus. Vous ne décelez aucune caractéristique de bas niveau.";
+
+//translate "Compound has high at index ",valtype
+
+//translate "Compound has low at index ",valtype
+
+translate "Add Moss to a batch of K1 Solution (Stage 2)"
+to french "Ajouter de la mousse à la solution K1 (étape 2)";
+
+translate "Check Moss Requirements for a batch of K1 Solution (Stage 2)"
+to french "Vérifier les demandes en mousse pour une dose de solution K1 (étape 2)";
+
+translate "This solution requires three debens of K1."
+to french "Cette solution requiert trois debens de K1.";
+
+translate "Stir a batch of K1 Solution (Stage 3)"
+to french "Remuer la solution K1 (étape 3)";
+
+translate "You do not have a K1 to stir the solution."
+to french "Il vous faut un K1 pour remuer la solution.";
+
+translate "You examine the compound, using a Litmus Strip. It seems to possess elevated levels of K1."
+to french "Vous examinez le composé, grâce à une bande Litmus. Il semble riche en K1.";
+
+translate "You examine the compound, using a Litmus Strip. It seems to possess decreased levels of K1."
+to french "Vous examinez le composé, grâce à une bande Litmus. Il semble pauvre en K1.";
+
+translate "Extracts"
+to french "Extraits";
+
+translate "Create O1"
+to french "Créer de l'O1(ns)";
+
+translate "Required:"
+to french "Nécessite:";
+
+translate "O1(++)"
+to french "O1(ns)(++)";
+translate "O1(+++)"
+to french "O1(ns)(+++)";
+translate "O1(++++)"
+to french "O1(ns)(++++)";
+translate "O1(+++++)"
+to french "O1(ns)(+++++)";
+
+translate "O1(--)"
+to french "O1(ns)(--)";
+translate "O1(---)"
+to french "O1(ns)(---)";
+translate "O1(----)"
+to french "O1(ns)(----)";
+translate "O1(-----)"
+to french "O1(ns)(-----)";
+
+
+translate "Compound Required: K1"
+to french "Composé requis : K1";
+
+translate "That item is not an Essential Compound."
+to french "Cet élément n'est pas un composé essentiel.";
+
+translate "Your compound is not correct. It requires: K1."
+to french "Le composé n'est pas correct. il vous faut : K1";
+
+translate "You succeed in creating three debens of O1."
+to french "Vous avez réussi à créer trois débens de O1(ns).";
+
+translate "You must highlight an item from the list first"
+to french "Vous devez sélectionner un élément de la liste en premier lieu";
+
+translate "Negative Litmus Strip"
+to french "Bande Lirmus négative";
+
+translate "Aromatic Litmus Strip"
+to french "Bande Litmus aromates";
+
+translate "Astringent Litmus Strip"
+to french "Bande Litmus astringence";
+
+translate "Bitter Litmus Strip"
+to french "Bande Litmus apreté";
+
+translate "Salty Litmus Strip"
+to french "Bande Litmus salinité";
+
+translate "Spicy Litmus Strip"
+to french "Bande Litmus épices";
+
+translate "Sour Litmus Strip"
+to french "Bande Litmus Aigreur";
+
+translate "Sweet Litmus Strip"
+to french "Bande Litmus sucres";
+
+translate "Toxic Litmus Strip"
+to french "Bande Litmus toxicité";
+
+translate "Solution Container"
+to french "Récipient de la solution";
+
+translate "Solution Level"
+to french "Niveau de la solution";
+
+translate "Solution Base"
+to french "Base de la solution";
+
+//translate "Solution Mult"
+
+translate "Upgrade this bench to allow essence creation"
+to french "Améliorer ce laboratoire pour permettre la synthèse d'essence";
+
+translate "Upgrade this bench with an Alcohol Lamp"
+to french "Améliorer ce laboratoire avec une lampe à alcool";
+
+translate "Upgrade this bench to allow advanced reactions"
+to french "Améliorer ce laboratoire pour permettre des réactions avancées";
+
+translate "To upgrade this bench, you need: "
+to french "Pour améliorer ce laboratoire, il vous faut : ";
+
+translate "You have upgraded your Chemistry Lab to allow for essential essence creation. You may now extract essences from substances, as long as you have an Alcohol Lamp installed."
+to french "Votre laboratoire est désormais prêt à synthétiser de l'essence. Vous pouvez à présent extraire l'essence des subsances, à condition qu'une lampe à alcool soit installée.";
+
+translate "You have upgraded your Chemistry Lab with an Alcohol Lamp."
+to french "Vous avez équiper votre laboratoire à chimie d'une lampe à alcool.";
+
+translate "Display Essence Qualities"
+to french "Afficher les qualités de l'essence";
+
+translate "When applied to raw ash, it will convert it directly to potash."
+to french "Appliqué sur de la cendre, l'onguent la transforme instantanément en potasse.";
+
+translate "Oil used to make objects that can be tuned work faster, also required for advanced automation."
+to french "L'huile est connue pour rendre les appareils qui peuvent être améliorés plus efficaces, et est entre autre requise pour l'automatisation avancée.";
+
+translate "Allows the creation of multiple types of explosives."
+to french "Permet la fabrication de différents types d'explosifs.";
+
+translate "Potash Ointment"
+to french "Onguent de potasse";
+
+translate "Weak Ointment"
+to french "Onguent faible";
+translate "Normal Ointment"
+to french "Onguent normal";
+translate "Strong Ointment"
+to french "Onguent puissant";
+
+translate "To make a batch of Weak Potash Ointment, you need:"
+to french "Pour synthétiser une dose d'onguent faible, il vous faut : ";
+translate "To make a batch of Normal Potash Ointment, you need:"
+to french "Pour synthétiser une dose d'onguent normal, il vous faut : ";
+translate "To make a batch of Strong Potash Ointment, you need:"
+to french "Pour synthétiser une dose d'onguent puissant, il vous faut : ";
+
+translate "Use Weak Potash Ointment"
+to french "Utiliser l'onguent de potasse faible";
+translate "Use Normal Potash Ointment"
+to french "Utiliser l'onguent de potasse normal";
+translate "Use Strong Potash Ointment"
+to french "Utiliser l'onguent de potasse puissant";
+
+translate "To convert a batch of ash to potash with Weak Potash Ointment, you need:"
+to french "Pour convertir de la cendre en potasse avec l'onguent faible, il vous faut : ";
+translate "To convert a batch of ash to potash with Normal Potash Ointment, you need:"
+to french "Pour convertir de la cendre en potasse avec l'onguent normal, il vous faut : ";
+translate "To convert a batch of ash to potash with Strong Potash Ointment, you need:"
+to french "Pour convertir de la cendre en potasse avec l'onguent puissant, il vous faut : ";
+
+translate "Gear Oil"
+to french "Huile à pignon";
+
+translate "Crude Oil"
+to french "Huile brute";
+translate "Mineral Oil"
+to french "Huile minérale";
+translate "Lubricating Oil"
+to french "Huile de graissage";
+
+translate "To make a batch of Crude Oil, you need:"
+to french "Pour synthétiser de l'huile brute, il vous faut :";
+translate "To make a batch of Mineral Oil, you need:"
+to french "Pour synthétiser de l'huile minérale, il vous faut :";
+translate "To make a batch of Lubricating Oil, you need:"
+to french "Pour synthétiser de l'huile de graissage, il vous faut :";
+
+translate "Apply O1 to increase mechanical speed"
+to french "Appliquer de l'O1(ns) afin d'optimiser la vitesse du mécanisme";
+
+
+translate "This has already been lubricated with O1, or something more advanced."
+to french "Ce mécanisme a déjà été lubrifié avec l'O1(ns), ou avec quelque chose de plus évolué.";
+
+translate "You apply the O1 to the O2. The gears work faster now."
+to french "Vous appliquez l'O1(ns) à O2(lns) O2(ns). Les rouages semblent mieux fonctionner.";
+
+translate "To make a batch of Lesser Lime Emulsion, you need:"
+to french "Pour synthétiser de l'émulsion de chaux faible, il vous faut:";
+
+translate "To make a batch of Standard Lime Emulsion, you need:"
+to french "Pour synthétiser de l'émulsion de chaux normale, il vous faut:";
+
+translate "To make a batch of Greater Lime Emulsion, you need:"
+to french "Pour synthétiser de l'émulsion de chaux forte, il vous faut:";
+
+
+translate "Explosives"
+to french "Explosifs";
+
+translate "Low Explosive"
+to french "Explosifs légers";
+translate "High Explosive"
+to french "Explosifs lourds";
+translate "Volatile Explosive"
+to french "Explosifs volatiles";
+
+translate "To make a batch of Low Explosives, you need:"
+to french "Pour fabriquer des explosifs légers, il vous faut :";
+translate "To make a batch of High Explosives, you need:"
+to french "Pour fabriquer des explosifs lourds, il vous faut :";
+translate "To make a batch of Volatile Explosives, you need:"
+to french "Pour fabriquer des explosifs volatiles, il vous faut :";
+
+translate "Are you sure you wish to powder this cut gem?"
+to french "Voulez-vous vraiment pulvériser ce gemme taillé ?";
+
+translate "You failed in making the explosives, but there were no negative consequences."
+to french "Vous n'avez pas réussi à fabriquer les explosifs, il n'y a cependant eu aucune conséquence facheuse.";
+
+translate "You failed in making the explosives, and there was a minor mishap, damaging your bench."
+to french "Vous n'avez pas réussi à fabriquer les explosifs. Une erreur de manipuilation a en outre endommagé votre établi.";
+
+translate "You failed in making the explosives, and there was a major mishap, breaking some glassware."
+to french "Vous n'avez pas réussi à fabriquer les explosifs. Une erreur de manipuilation a par ailleurs endommagé la verrerie.";
+
+translate "You learn the basics of Explosives Handling."
+to french "Vous apprenez les rudiments de la manipulation des explosifs.";
+
+translate "You learn a bit more about Explosives Handling. Your skill is now N1."
+to french "Vous en apprenez davantage sur la manipulation des explosifs. Votre compétence est à présent à N1.";
+
+translate "You don't learn anything about Explosives Handling. Your skill is still N1."
+to french "Vous n'en apprenez pas davantage sur la manipulation des explosifs. Votre compétence reste à N1";
+
+translate "You do not have enough skill in making explosives to attempt high explosives yet."
+to french "Vous n'en savez pas suffisament dans la conception des explosifs pour tenter de fabriquer des explosifs lourds.";
+
+translate "You do not have enough skill in making explosives to attempt low explosives yet."
+to french "Vous n'en savez pas suffisament dans la conception des explosifs pour tenter de fabriquer des explosifs légers.";
+
+translate "You do not have enough skill in making explosives to attempt volatile explosives yet."
+to french "Vous n'en savez pas suffisament dans la conception des explosifs pour tenter de fabriquer des explosifs volatiles.";
+
+translate "  Total Base quality: N1"
+to french "  Qualité cumulée de la base : N1";
+
+translate "  Quality Level: N1"
+to french "  Niveau de qualité : N1";
+
+translate "You must have all glassware installed to make potash ointment."
+to french "Vous devez avoir installé tout l'équipement de verrerie pour pouvoir faire de l'onguent de potasse.";
+
+translate "You must have all glassware installed to make gear oil."
+to french "Vous devez avoir installé tout l'équipement de verrerie pour pouvoir faire de l'huile à pignon.";
+
+translate "You must have all glassware installed to make explosives."
+to french "Vous devez avoir installé tout l'équipement de verrerie pour pouvoir faire des explosifs.";
+
+translate "You succeed in making the explosives, and there were no negative consequences."
+to french "Vous réussissez à fabriquer des explosifs, sans aucune facheuse conséquence.";

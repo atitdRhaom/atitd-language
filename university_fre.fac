@@ -1,0 +1,389 @@
+module university_fre;
+
+translate CityHall to french masculine 
+{ 
+ns "Hôtel de Ville"; np "Hôtels de ville";
+}
+
+translate UThought to french feminine 
+{ 
+ns "Pensée";
+}
+translate UWorship to french feminine 
+{ 
+ns "Vénération";
+}
+translate uthehumanbody to french masculine 
+{ 
+ns "Corps humain";
+}
+translate UArchitecture to french femininecollective 
+{ 
+ns "Architecture";
+}
+translate UConflict to french masculine 
+{ 
+ns "Conflit";
+}
+translate UArt to french femininecollective 
+{ 
+ns "Art";
+}
+
+translate SThought to french feminine 
+{ 
+ns "Ecole de la Pensée";
+}
+translate SWorship to french feminine 
+{ 
+ns "Ecole de Vénération";
+}
+translate STheHumanBody to french masculine 
+{ 
+ns "Ecolue du Corps humain";
+}
+translate sarchitecture to french femininecollective
+{ 
+ns "Ecole d'Architecture";
+}
+translate SConflict to french masculine 
+{ 
+ns "Ecole du Conflit";
+}
+translate SArt to french masculinecollective 
+{ns "Ecole d'Art et Musique";}
+
+translate School to french feminine 
+{ 
+ns "école"; np "écoles";
+}
+translate University to french feminine 
+{ 
+ns "université"; np "universités";
+}
+
+translate School to french feminine 
+{ 
+ns "école"; np "écoles";
+}
+translate University to french feminine 
+{ 
+ns "université"; np "universités";
+}
+
+translate "The Great Meshwesh University of O1"
+to french "La Grande Université O1(dns) O1(ns) à Meshwesh";
+
+translate "The Great Hyksos University of O1"
+to french "La Grande Université O1(dns) O1(ns) à Hyksos";
+
+translate "The Great Kush University of O1"
+to french "La Grande Université O1(dns) O1(ns) à Kush";
+
+translate "A University of O1"
+to french "Une Université O1(dns) O1(ns)";
+
+translate "UNIVERSITY OF O1" to french "UNIVERSITE DE O1(ns)";
+
+translate "Work has commenced on the O1" to french "Le travail a commencé sur O1(lns) O1(ns)";
+
+translate "The Great Hall of The Hyksos" to french "La grande Mairie de Hyksos";
+translate "The Great Hall of The Meshwesh" to french "La grande Mairie de Meshwesh";
+translate "The Great Hall of The Kush" to french "La grande Mairie de Kush";
+
+translate "GREAT HALL OF THE MESHWESH" to french "GRANDE MAIRIE DE MESHWESH";
+translate "GREAT HALL OF THE KUSH" to french "GRANDE MAIRIE DE KUSH";
+translate "GREAT HALL OF THE HYKSOS" to french "GRANDE MAIRIE DE HYKSOS";
+
+translate "With little support from other regions scientists, more materials are needed to research this technology"
+to french "Un peu plus d'aide des scientifiques d'autres régions, plus de matériaux sont nécessaires pour aider la recherche dans cette technologie";
+
+translate "Technologies Available:" to french "Technologies disponibles:";
+
+translate "No technologies are currently available here" to french "Aucune technologie disponible ici";
+
+translate "No skills are currently available here" to french "Aucune compétence disponible ici";
+
+translate "Verifying attributes." to french "Vérification des attributs.";
+
+translate "No skill is needed for:" to french "Aucune compétence nécessaire pour :";
+translate "You may be interested in:" to french "Vous devriez être intéressé(e) par :";
+
+translate "N1 K1 (Missing)"
+to french "N1 K1 (manquant)";
+
+translate "N1 K1 (Ok)"
+to french "N1 K1 (Ok)";
+
+
+translate "There is no cost to learn this skill."
+to french "Cette compétence est gratuite.";
+
+translate "no skills are currently available here"
+to french "Aucune compétence disponible ici";
+
+translate "(You do not have the tuition)"
+to french "(Vous n'avez pas les éléments requis)";
+
+translate "Raising skill in O1 from N1 to N2"
+to french "Vous passez de N1 à N2 en O1(ns).";
+translate "Tuition:"
+to french "Eléments requis :";
+
+translate "Note: this skill may cost less at other schools."
+to french "Note : les coûts peuvent varier selon les écoles.";
+
+translate "You already know the skill:"
+to french "Vous connaissez déjà la compétence :";
+
+translate "You may learn:"
+to french "Vous pouvez apprendre :";
+
+translate "Tuition costs:"
+to french "Coûts d'apprentissage :";
+
+translate "There is no charge."
+to french "C'est gratuit.";
+
+translate "O1 (missing)"
+to french "O1(np) (manquant)";
+
+translate "You have already learned all you can about O1 from this type of school. Travel the land to expand your knowledge."
+to french "Vous avez déjà appris tout ce que vous pouviez sur O1(ns) dans ce type d'école. Allez en voyage et développez vos connaissances.";
+
+translate "You have already learned all you can about O1 from this type of university. Travel the land to expand your knowledge."
+to french "Vous avez déjà appris tout ce que vous pouviez sur O1(ns) dans ce type d'université. Allez en voyage et développez vos connaissances.";
+
+translate "You have already learned all you can about O1 from a O2 of O3. "
+to french "L'O2(ns) de O3(ns) vous a déjà enseigné tout ce qu'il y a à savoir sur la compétence O1(ns).";
+
+translate "You have already learned all you can about O1 from a university of O2. Visit other kinds of schools to expand your knowledge."
+to french "L'Université de O2(ns) vous a déjà enseigné tout ce qu'il y a à savoir sur la compétence O1(ns). Visitez d'autres écoles pour étendre votre savoir.";
+
+translate "You have already learned all you can about O1 from a school of O2. Visit other kinds of schools to expand your knowledge."
+to french "L'Ecole de O2(ns) vous a déjà enseigné tout ce qu'il y a à savoir sur la compétence O1(ns). Visitez d'autres écoles pour étendre votre savoir.";
+
+translate "You have been specially granted N1 free skills. Use one on O1?"
+to french "Vous avez reçu N1 compétences gratuites. Voulez-vous en utiliser une sur O1(ns) ?";
+
+translate "To upgrade your skill, you need:"
+to french "Pour améliorer votre compétence, il vous faut :";
+
+translate "You have upgraded your skill in"
+to french "Vous avez amélioré vos compétences en";
+
+translate "from level N1 to N2"
+to french "du niveau N1 à N2";
+
+translate "You already know O1"
+to french "Vous connaissez déjà O1(ns)";
+
+translate "No skill is needed for O1"
+to french "Aucune compétence nécessaire pour O1(ns)";
+translate "You may be interested in O1"
+to french "Vous serez peut-être intéressé(e) par O1(ns).";
+
+translate "You have learned O1(ns)."
+to french "Vous avez appris O1(ns).";
+
+translate "You have learned O1(ns):\n"
+to french "Vous avez appris O1(ns):\n";
+
+translate "You have N1 skill(s) available for free. Use a free skill on O1?"
+to french "Vous avez N1 compétence(s) gratuite(s). Utiliser une compétence gratuite sur O1(ns) ?";
+
+translate "You have learned O1, and tuition has been waived."
+to french "Vous avez appris O1(ns). Les frais d'instruction ont été annulés.";
+
+translate "You do not have N1 O1"
+to french "Vous n'avez pas N1 O1(N1?np:ns)";
+
+translate "You already know O1."
+to french "Vous connaissez déjà O1(ns).";
+
+translate "You do not have the materials to learn O1."
+to french "Vous n'avez pas de quoi apprendre O1(ns).";
+
+translate "The Great University of O1"
+to french "La Prestigieuse Université O1(dns) O1(ns)";
+
+translate "The People's School of O1"
+to french "O1(ns) du peuple";
+
+translate "Show the university's research notes"
+to french "Montrez les notes de recherche de l'université";
+
+translate "close"
+to french "fermer";
+
+translate "Donations to technology research is off limits during development sessions."
+to french "Les dons pour la recherche technologique ne sont pas actifs au cours des sessions de développement.";
+
+translate "You must be closer to the university to make a donation."
+to french "Vous devez être plus près de l'université pour faire un don.";
+
+translate "You do not have any O1"
+to french "Vous n'avez pas de O1(ns).";
+
+translate "Donate how much O1? (Max N1)"
+to french "Donner quelle quantité de O1(ns) ? (Max N1)";
+
+translate "You don't have that quantity of O1"
+to french "Vous n'avez pas assez de O1(np)";
+
+translate "When a University says they need water for research, they also need the jugs. Universities now have a policy whereby they won't accept a person's last water jug."
+to french "Lorsqu'une université a besoin d'eau pour ses recherches, elle a aussi besoin de cruches. Les universités ont une politique qui leur interdit d'accepter la dernière cruche d'une personne.";
+
+translate "Your donation has caused research to commence on O1"
+to french "Votre don a permis à la recherche en O1(ns) de commencer.";
+
+translate " in <1 minute"
+to french " dans <1 minute";
+
+translate " in N1."
+to french " dans N1.";
+
+translate "Showing N1 of N2"
+to french "N1 sur N2";
+
+translate "Nothing to research."
+to french "Rien à rechercher.";
+
+translate "You have learned Project Management"
+to french "Vous avez appris la gestion de travaux.";
+
+translate "Project no longer needs donations."
+to french "Ce projet n'a plus besoin de financement.";
+
+translate "Research Donate"
+to french "Donner à la recherche";
+
+translate "Research Complete"
+to french "Recherche accomplie";
+
+translate "Research has commenced on O1"
+to french "La recherche en O1(ns) a commencé";
+
+translate UProgress to french masculine 
+{
+ns "Progres"; np "Progres";
+}
+
+translate "The Stranger's University of O1"
+to french "Université de l'Etranger : O1(ns)";
+
+translate "Mentors cannot learn skills on Welcoming Island."
+to french "Les mentors ne peuvent pas apprendre de compétences sur l'île de Bienvenue.";
+
+translate "You have learned"
+to french "Vous avez appris";
+
+translate "You have learned "
+to french "Vous avez appris ";
+
+translate "Skills Available:"
+to french "Connaissances disponibles";
+
+translate "You already know more about O1 as this school does."
+to french "Vous en savez déjà plus sur O1(ns) que cette école ne peut vous en apprendre.";
+
+translate "You already know as much about O1 as this school does."
+to french "Vous en savez déjà autant sur O1(ns) que cette école ne peut vous en apprendre.";
+
+translate "You already know as much about O1 as the instructors at this school do."
+to french "Vous en savez déjà autant sur O1(ns) que les enseignants de cette école.";
+
+translate "You already know as much about O1 as the instructors at this university do."
+to french "Vous en savez déjà autant sur O1(ns) que les enseignants dans cette université.";
+
+translate "To learn O1, you need:"
+to french "Pour apprendre O1(ns), vous avez besoin de:";
+
+translate "To learn O1 from a school of O2, you need:"
+to french "Pour apprendre O1(ns) via une école de O2(ns), il vous faut:";
+
+translate "You will have use of O1 for the next "
+to french "Vous pouvez utiliser O1(ns) pendant ";
+
+translate "By the UoP Trial Accounts Law, passed by Taera, only those with paid accounts may learn from or donate to any University of Progress."
+to french "Selon la loi de UoP Trial Accounts, décrétée par Taera, seuls les joueurs ayant un compte payant peuvent apprendre ou faire un don aux universités du progrès.";
+
+translate "Before you can learn O1 you must learn:"
+to french "Avant de pouvoir apprendre O1(ns), vous devez connaître ";
+
+translate "You have already learned all you can about O1 from a O2 of O3. Visit other kinds of schools to expand your knowledge."
+to french "Vous avez déjà tout appris sur O1(ns) de O2(ns) de O3(ns). Visitez des écoles d'autres disciplines pour augmenter vos connaissances.";
+
+translate "Pay Half Price"
+to french "Payer la moitié du prix";
+
+translate "Cancel"
+to french "Annuler";
+
+translate "Pay Tuition"
+to french "Donner les éléments requis";
+
+translate "Use a Half Price"
+to french "Utiliser un apprentissage à  moitié prix";
+
+translate "Use a Free Skill"
+to french "Utiliser un apprentissage gratuit";
+
+translate "Pay Full Price"
+to french "Payer le prix régulier";
+
+translate "Your skill level has changed."
+to french "Votre niveau de connaissance a changé.";
+
+translate "You do not have unlimited half-price skills"
+to french "Vous n'avez pas d'apprentissage à moitié prix indéfiniment.";
+
+translate "You are out of half-price skills"
+to french "Vous n'avez plus d'apprentissages à moitié prix";
+
+translate "You are out of free skills"
+to french "Vous n'avez plus d'apprentissages gratuits.";
+
+translate "You no longer have the materials."
+to french "Vous n'avez plus les matériaux requis.";
+
+translate "To learn this skill, you must achieve level N1 or above."
+to french "Pour acquérir cette connaissance, vous devez au préalable avoir complété le niveau N1 ou plus élevé.";
+
+translate "You will have use of O1 for the next K1"
+to french "Vous pourrez utiliser O1(ns) pendant K1.";
+
+translate "You must be a citizen to learn that skill."
+to french "Vous devez être citoyen d'égypte pour apprendre cette compétence.";
+
+translate "O1 (tech level N1 of N2)"
+to french "O1(ns) (niveau N1 sur N2)";
+
+translate "You do not have unlimited half-price skills"
+to french "Vous n'avez pas de compétences moitié prix illimités";
+
+translate "You are out of half-price skills"
+to french "Vous n'avez plus de compétences à moitié prix";
+
+translate "You are out of free skills"
+to french "Vous n'avez plus de compétences gratuites";
+
+translate "You no longer have the materials."
+to french "Vous n'avez plus les ressources.";
+
+
+translate "The Hyksos have unlocked the secrets of O1!"
+to french "Hyksos a débloqué le secret de O1(ns) !";
+
+translate "The Kush have unlocked the secrets of O1!"
+to french "Kush a débloqué le secret de O1(ns) !";
+
+translate "The Meshwesh have unlocked the secrets of O1!"
+to french "Meshwesh a débloqué le secret de O1(ns) !";
+
+translate "Our scientists at the University of O1 have enough materials to begin investigation into O2 they will report back on their progress in due course."
+to french "Nos scientifiques à l'université O1(dns) O1(ns) ont assez de ressources pour commencer leurs recherches sur O2(ns) ils feront un retour sur leurs progrès dès que possible";
+
+translate "Our scientists have discovered the secrets of O1, they have shared this knowledge with all University of O2s under our control."
+to french "Nos scientifiques ont découvert les secrets de O1(ns); ils ont partagé cette connaissance avec toutes les Université de O2(ns) sous votre contrôle";
+

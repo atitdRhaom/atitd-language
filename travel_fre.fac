@@ -1,0 +1,320 @@
+module travel_fre;
+
+translate FlightOfFancy to french masculine
+{
+	ns "Caprice de voyage"; np "Caprices de voyage";
+	}
+translate "Throw a Flight of Fancy into the air"
+to french "Libérer un Caprice de voyage dans les airs";
+translate "You now have K1 of Offline Travel Time."
+to french "Vous possédez à présent K1 de temps de voyage.";
+translate "N1: K1 - K2"
+to french "N1: K1 - K2";
+
+translate "You have K1 of quick travel..."
+to french "Vous possédez K1 ";
+
+translate "Waypoint Travel"
+to french "Point de passage";
+
+translate "Set Waypoint N1"
+to french "Déterminer le point de passage N1";
+
+translate "Travel to Location"
+to french "Se rendre à";
+
+translate "Travel: K1"
+to french "Voyager: K1";
+
+translate "Use K1 of waypoint time to travel to K2?"
+to french "Utiliser K1 de temps de transport pour aller vers K2?";
+
+translate "You must select a destination."
+to french "Vous devez choisir une destination.";
+
+translate "You can't waypoint-travel if you can't walk!"
+to french "Impossible de voyager par points de passage si vous ne pouvez pas vous déplacer !";
+
+translate "You can't waypoint travel while doing the Initiation into the Discipline of the Human Body."
+to french "Vous ne pouvez pas utiliser les points de passage si vous êtes en train de passer l'initiation du Corps Humain.";
+
+translate "You can't waypoint-travel during a ritual."
+to french "Vous ne pouvez pas utiliser les points de passage durant un rituel.";
+
+translate "You don't have enough offline travel accumulated."
+to french "Vous n'avez pas assez de déplacement hors-connexion accumulé.";
+
+translate "You have been awarded 24 hours of offline travel time."
+to french "Vous avez gagné 24 heurs de déplacement hors-connexion.";
+
+translate "Award 24h Travel Time"
+to french "Récompense : 24h de déplacement";
+
+translate "Grow onions - grow N1 more manually."
+to french "Culture d'oignons - faites-en pousser encore N1 manuellement.";
+
+translate "Grow Garlic - grow N1 more manually."
+to french "Culture d'ails - faites-en pousser encore N1 manuellement.";
+
+translate "Grow Leeks - grow N1 more manually."
+to french "Culture de poireaux - faites-en pousser encore N1 manuellement.";
+
+translate "Grow Peppers - grow N1 more manually."
+to french "Culture de poivrons - faites-en pousser encore N1 manuellement.";
+
+translate "Grow Watermelons - grow N1 more manually."
+to french "Culture de pastèques - faites-en pousser encore N1 manuellement.";
+
+translate "Pick grass - pick N1 more manually."
+to french "Récolte d'herbe - récoltez-en encore N1 manuellement.";
+
+translate "Harvest wood - collect N1 more manually."
+to french "Récolte de bois - récoltez-en encore N1 manuellement.";
+
+translate "Grow Barley - grow N1 more manually."
+to french "Culture d'orge - faites-en pousser encore N1 manuellement.";
+
+translate "Grow cabbage - grow N1 more manually."
+to french "Culture de choux - faites-en pousser encore N1 manuellement.";
+
+translate "Grow wheat - grow N1 more manually."
+to french "Culture de blé - faites-en pousser encore N1 manuellement.";
+
+translate "Accumulate travel time, as if you were running"
+to french "Accumuler du temps de déplacement, comme si vous couriez.";
+
+translate "Grow carrots - grow N1 more manually."
+to french "Culture de carottes - faites-en encore pousser N1 manuellement.";
+
+translate "Gather Slate - gather N1 more manually."
+to french "Ramassez des ardoises - ramassez-en encore N1 manuellement.";
+
+translate "Gather Clay - gather N1 more manually."
+to french "Ramassez de l'argile - ramassez-en encore N1 manuellement.";
+
+translate "Set the Event Waypoint (GM Only)"
+to french "Déterminer le point de passage anim (GM seulement)";
+
+translate "Offline Chores"
+to french "Actions hors ligne";
+
+translate "You can't waypoint from a spirit arena.  Return home using a Shrine of Conflict."
+to french "Vous ne pouvez pas placer de point de passage dans un plan astral. Retournez chez vous en utilisant un sanctuaire de Conflit.";
+
+
+translate "Travel time remaining: N1"
+to french "Temps de déplacement restant : N1";
+translate "Use N1 of offline travel time to journey to K1?"
+to french "Uiliser N1 de temps de déplacement hors-ligne pour aller à K1 ?";
+translate "Options: Offline Chores"
+to french "Options : Actions hors-ligne";
+
+ 
+translate "Travel to Waypoint"
+to french "Aller à un point de passage"; 
+translate "Travel"
+to french "Aller à"; 
+translate "Waypoint Control"
+to french "Contrôle de points de passage"; 
+translate "Add a Waypoint"
+to french "Déterminer un point de passage"; 
+translate "Towns are too busy to waypoint travel in. Be sure you are at least 250 coordinates from a Chariot Stop."
+to french "Vous ne pouvez fixer un point de téléportation dans une ville. Assurez-vous d'être à au moins 250 coordonnées d'un Chariot."; 
+translate "You don't have any waypoints free."
+to french "Vos points de passages sont tous utilisés"; 
+translate "Name of new Waypoint:N1"
+to french "Nom du nouveau point de passage:N1"; 
+translate "Remove"
+to french "Retirer";  
+translate "Are you sure you want to remove the waypoint N1?"
+to french "Vous êtes sûr de vouloir retirer le point de passage N1 ?"; 
+translate "This trip requires K1 of waypoint time."
+to french "Ce voyage nécessite K1 de temps de téléportation"; 
+translate "You can't travel from here to there."
+to french "Vous ne pouvez aller d'ici à la-bas"; 
+translate "Use K1 of waypoint time to travel to N1?"
+to french "Utiliser K1 of waypoint time to travel to N1 ?"; 
+translate "Waypoints disabled when in GM jail"
+to french "La téléportation est désactivée en prison"; 
+translate "Harvest Wood"
+to french "Récolte de bois"; 
+translate "Grow Onions"
+to french "Culture d'oignons"; 
+translate "Grow Carrots"
+to french "Culture de carottes"; 
+translate "Pick Grass"
+to french "Récolte d'herbe"; 
+translate "Grow Barley"
+to french "Culture d'orge"; 
+translate "Grow cabbage"
+to french "Culture de choux"; 
+translate "Grow Wheat"
+to french "Culture de blé";
+
+translate "You may only travel to an event once. (Call a GM if you made a mistake.)"
+to french "Vous pouvez vous téléporter à un événement une fois seulement. (Appelez un GM si vous avez fait une erreur.)"; 
+
+translate "Return from the Event"
+to french "Retour de l'événement"; 
+
+translate "Travel Time: K1"
+to french "Temps de voyage: K1";
+
+translate "Calculating time..."
+to french "Estimation du temps de voyage...";
+
+translate "Use K1 of travel to your designated Expedition Site?"
+to french "Utiliser K1 de temps de voyage pour vous rendre à votre Site d'expédition?";
+
+translate "Use K1 of travel back home?"
+to french "Utiliser K1 de temps de voyage pour retourner chez vous?";
+
+translate "Checking your ritual..."
+to french "Vérification de votre Rituel...";
+
+translate "You can't waypoint-travel during a ritual."
+to french "Vous ne pouvez pas utiliser de points de passages si vous participez à un Rituel.";
+
+
+
+translate "N1: K1 - K2"
+to french "N1: K1 - K2";
+
+translate ExpeditionSite to french masculine
+{
+  ns "Site d'expédition"; np "Sites d'expédition";
+  }
+  
+translate ExplorationTravel to french feminine
+{
+ns "Expéditions"; np "Expéditions";
+  }
+  
+translate "Make this my Expedition Site"
+to french "Désigner comme étant mon site d'expédition";
+
+translate "Make this your Expedition Site? It will become active in about 2 hours."
+to french "Désigner ce site d'expédition comme étant vôtre? Vous pourrez l'utiliser dans 2 heures";
+
+translate "Make this your Expedition Site? Since this is the first time you are setting a Expedition Site, it will become active immediately. In the future there will be a 2 hour delay."
+to french "Désigner ce site d'expédition comme étant vôtre? Puisque c'est la première fois que vous désignez un site d'expédition, il est accessible immédiatement. À l'avenir, il y aura un délai de deux heures";
+
+translate "Travel back to my home"
+to french "Retourner chez moi";
+
+translate "You must first set both your designated Expedition Site."
+to french "Vous devez tout d'abord désigner vos deux destinations d'expédition.";
+
+translate "You may only travel from your designated Expedition Site."
+to french "Vous pouvez uniquement vous servir de votre site d'expédition désigné.";
+
+translate "You can't travel home for another K1."
+to french "Vous ne pouvez utiliser le site avant K1.";
+
+translate "You can't travel home if you can't walk!"
+to french "Vous ne pouvez pas utiliser le site si vous ne pouvez pas marcher!";
+
+translate "Your home is far, far away."
+to french "Votre lieu d'habitation est loin, très loin.";
+
+translate "Check for travel time"
+to french "Vérifiez votre temps de téléportation";
+
+translate "You don't have enough travel time accumulated. This trip requires K1."
+to french "Vous ne disposez pas de suffisamment de temps de téléportation. Ce voyage nécessite K1(np).";
+
+translate "Use N1 of travel back home?"
+to french "Utiliser N1 pour rentrer chez vous?";
+
+translate "Check my available travel time"
+to french "Vérifier mon temps disponible";
+
+translate "You have K1 of travel time left."
+to french "Vous avez K1 de disponible.";
+
+translate "Navigation/Visit my Expedition Site"
+to french "Orientation/Aller à mon site d'expédition";
+
+translate "Navigation"
+to french "Orientation";
+
+translate "Visit my Expedition Site"
+to french "Aller à mon site d'expédition";
+
+translate "You must first set both your Home Location and designated Expedition Site."
+to french "Vous devez tout d'abord désigner votre lieu d'habitation et votre site d'expéditions.";
+
+translate "You can't do this for another K1."
+to french "Vous ne pouvez pas avant K1.";
+
+translate "You can't do this near a Chariot Stop."
+to french "Vous ne pouvez pas près d'un chariot.";
+
+translate "You don't seem to remember the spot!"
+to french "Vous ne vous rappelez pas de l'endroit!";
+
+translate "You have no available travel time."
+to french "Vous n'avez pas de temps de transport disponible.";
+
+translate "This is already your Expedition Site."
+to french "Ceci est déjà votre site d'expédition.";
+
+translate "You can't travel from jail!"
+to french "Vous ne pouvez vous téléporter lorsqu'en prison.";
+
+translate "This Expedition Site is broken, and must be repaired before it can be used again."
+to french "Ce site d'expédition est endommagé, et doit être réparé avant de pouvoir être utilisé à nouveau.";
+
+translate "Expedition Site Repair"
+to french "Réparation de site d'expédition";
+
+translate "Donate Materials in order to repair this Expedition Site"
+to french "Faire don de matériel pour réparer ce site d'expédition";
+
+translate "You do not know how to add materials to repair this expedition site. Learn Chariot Repair of level 2 or higher and try again."
+to french "Vous ne savez pas comment réparer ce site d'expétition. Apprennez Réparation de chariot niveau 2 ou supérieur et réessayez.";
+
+translate "Assist in repairing Expedition Site"
+to french "Aider à réparer ce site d'expédition";
+
+translate "Set my home location"
+to french "Déterminer mon lieu d'habitation";
+
+translate "Pray for guidance home"
+to french "Prier pour retourner chez moi";
+
+translate "Pray for guidance towards: N1"
+to french "Prier pour me guider vers : N1";
+
+translate "Are you sure you want to set your current spot as your home location?"
+to french "Voulez-vous faire de cet endroit votre lieu d'habitation ?";
+
+translate "You have not set your home location."
+to french "Vous n'avez pas déterminé de lieu d'habitation.";
+
+translate "You seem to be lost."
+to french "Il semble que vous êtes perdu.";
+
+translate "Abandon all hope.  Contact a GM"
+to french "Aucune issue possible. Appelez un animateur.";
+
+translate "Abandon all hope.  This is not home.  Contact a GM"
+to french "Aucune issue possible. Ceci n'est pas un lieu d'habitation.  Appelez un animateur.";
+
+translate "Jail"
+to french "Prison";
+
+translate "Abandon All Hope Ye Who Enter Here!"
+to french "Aucune issue possible!";
+
+translate "Contact A GM For Assistance"
+to french "Appelez un animateur.";
+
+translate "You change your home location. You will be able to travel from your designated Expedition Site to here, starting in about two hours."
+to french "Vous modifiez votre lieu d'habitation. Vous pourrez vous rendre ici depuis votre site d'expédition, dans un délais de deux heures.";
+
+translate "You change your home location. Normally it would take two hours for Exploration Travel to become active, but, because this is the first time you have set a home location after learning Exploration Travel, it becomes active immediately."
+to french "Vous modifiez votre lieu d'habitation. Normalement, cela nécessite un délais de deux heures avant de devenir effectif. Cependant, comme c'est la première fois que vous déterminez votre lieu d'habitation depuis que vous avez appris Expéditions, cela prend effet immédiatement.";
+
+translate ""
+to french "";

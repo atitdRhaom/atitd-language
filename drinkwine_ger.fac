@@ -1,0 +1,242 @@
+module DrinkWine_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2007 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+
+translate "Beginner"
+to german "Anfänger";
+
+translate "Enthusiast"
+to german "Enthusiast";
+
+translate "Oenophile"
+to german "Weinkenner";
+
+translate "A sampling of 28 Wines"
+to german "Eine Sammlung von 28 Weinen";
+
+translate "Fourteen high (12%+) Alcohol Wines"
+to german "Vierzehn hochprozentige Weine (12%+)";
+
+translate "Fourteen good quality wines"
+to german "Vierzehn qualitativ gute Weine";
+
+translate "Seven older (3+ vintages) wines"
+to german "Sieben alte Weine (3+ Ernten)";
+
+translate "A sampling of 49 Wines"
+to german "Eine Sammlung von 49 Weinen";
+
+translate "Fourteen Sweet Wines"
+to german "Vierzehn süße Weine";
+
+translate "Fourteen very high (13%+) Alcohol Wines"
+to german "Vierzehn sehr hochprozentige Weine (13%+)";
+
+translate "Twenty-One very good quality wines"
+to german "Einundzwanzig qualitativ sehr gute Weine";
+
+translate "Fourteen older (5+ vintages) wines"
+to german "Vierzehn alte Weine (5+ Ernten)";
+
+translate "A sampling of 70 Wines"
+to german "Eine Sammlung von 70 Weinen";
+
+translate "Explorations of Berries (21 Wines)"
+to german "Erkundungen von Beerenweinen (21 Weine)";
+
+translate "Explorations of Tropical Fruit (14 Wines)"
+to german "Erkundungen von Tropenfruchtweinen (14 Weine)";
+
+translate "Explorations of Dried Fruit (7 Wines)"
+to german "Erkundungen von Trockenfruchtweinen (7 Weine)";
+
+translate "Sweet Flavors of Carmel (7 Wines)"
+to german "Süße Karamelaromen (7 Weine)";
+
+translate "Confluence of Lemon and Cherry (7 Wines)"
+to german "Vereinigung von Limone und Kirsche (7 Weine)";
+
+translate "Confluence of Walnut and Tobacco (1 Wine)"
+to german "Vereinigung von Walnuss und Tabak (1 Wein)";
+
+translate "Seven very old (9+ vintages) wines"
+to german "Sieben ser alte Weine (9+ Ernten)";
+
+translate "A sampling of 28 Wines. Tasted N1"
+to german "Eine Sammlung von 28 Weinen. N1 getestet";
+translate "A new wine experience: A sampling of 28 Wines"
+to german "Eine neue Weinerfahrung: Eine Sammlung von 28 Weinen";
+
+translate "Fourteen high (12%+) Alcohol Wines. Tasted N1"
+to german "Vierzehn hochprozentige Weine (12%+). N1 getestet";
+translate "A new wine experience: Fourteen high (12%+) Alcohol Wines"
+to german "Eine neue Weinerfahrung: Vierzehn hochprozentige Weine (12%+)";
+
+translate "Fourteen good quality wines. Tasted N1"
+to german "Vierzehn qualitativ gute Weine. N1 getestet";
+translate "A new wine experience: Fourteen good quality wines"
+to german "Eine neue Weinerfahrung: Vierzehn qualitativ gute Weine";
+
+translate "Seven older (3+ vintages) wines. Tasted N1"
+to german "Sieben alte Weine (3+ Ernten). N1 getestet";
+translate "A new wine experience: Seven older (3+ vintages) wines"
+to german "Eine neue Weinerfahrung: Sieben alte Weine (3+ Ernten)";
+
+translate "Top7, Stage 1: "
+to german "Top 7, Stufe 1: ";
+
+//translate "Considering taste K1 Raw Conc of N1"
+//to german "
+
+//translate "ConcFactor for ",WA," is ",ConcFactor," Age: ",age," Peak: ",peak," Base: ",base," Tanin: ",Tani
+//to german "";
+
+translate "Tasting notes for: K1\n"
+to german "Geschmacksnoten für: K1";
+
+translate "Stage 2, Top7 is "
+to german "Stufe 2, Top 7 sind ";
+
+translate "Adding K1 as N1"
+to german "K1 bis N1 hinzufügen";
+
+translate "Overflowing with flavors of O1"
+to german "Überwiegende Aromen von O1(pd)";
+translate "Bursting with O1"
+to german "Platzt vor O1(pd)";
+translate "Intense aromas of O1"
+to german "Intensive Aromen von O1(pd)";
+translate "Ample amounts of O1"
+to german "Reichliche Mengen von O1(pd)";
+translate "Displays O1"
+to german "Zeigt Aromen von O1(pd) auf";
+translate "Hints of O1"
+to german "Anzeichen von O1(pd)";
+translate "Just a fluttering of O1"
+to german "Ein Ansatz von O1(pd)";
+
+//translate "Popping ",Cat,": ",lis
+//to german "
+
+translate "A pleasant wine. Perhaps it would benefit from some aging?"
+to german "Ein angenehmer Wein. Möglicherweise würde er mit dem Alter besser werden?";
+translate "A hard wine, extremely dry."
+to german "Ein schwerer Wein, extrem trocken.";
+translate "Just a fluttering of sweetness."
+to german "Nur ein Ansatz von Süße.";
+translate "A warm hint of sweetness."
+to german "Eine weiche, leichte Süße.";
+translate "A delicious sweetness."
+to german "Eine köstliche Süße.";
+translate "A light dessert wine."
+to german "Ein leichter Dessertwein";
+translate "Luscious and sweet."
+to german "Köstlich und süß.";
+translate "A rich, honeyed dessert wine."
+to german "Ein schwerer, honigartiger Dessertwein.";
+translate "A luxuriously sweet and haunting wine."
+to german "Ein luxuriös süßer und unvergesslicher Wein.";
+translate "A mind-boggling, syrupy nectar."
+to german "Ein umwerfender, sirupartiger Nektar.";
+translate "A wine that would stand alone as Pharaoh's dessert."
+to german "Ein Wein, der ausschließlich als Pharaohs Nachtisch in Frage kommt.";
+
+
+translate "The wine is thin."
+to german "Der Wein ist dünn.";
+translate "The wine has just a hint of character."
+to german "Der Wein hat nur ansatzweise Charakter.";
+translate "Ahh, very passable, this, very passable."
+to german "Ahh, das ist sehr passabel, wirklich.";
+translate "A graceful wine, powerful and rich."
+to german "Ein begnadeter Wein, stark und reich.";
+translate "A wine of stunning proportions."
+to german "Ein Wein mit umwerfenden Anteilen.";
+translate "An astonishing wine of power and grace."
+to german "Ein erstaunlicher Wein mit Anmut und Energie.";
+translate "A spectacular example of the Vintner's art."
+to german "Ein spektakuläres Beispiel der Winzerskunst.";
+translate "A luxory wine, compelling and profound."
+to german "Ein luxuriöser Wein, unwiderstehlich und schwer.";
+translate "A thick, velvety wine of stupendous power."
+to german "Ein kräftiger, samtiger Wein mit erstaunlicher Kraft.";
+translate "An historic wine, of staggering proportions."
+to german "Ein historischer Wein mit umwerfenden Anteilen.";
+translate "A wine of such monumental proportions that you are moved to tears."
+to german "Ein mit so vielen imposanten Anteilen, dass du den Tränen nahe bist.";
+translate "A wine tasting experience that you will describe to your grandchildren."
+to german "Eine Weinprobenerfahrung, die du noch deinen Enkelkindern erzählen wirst.";
+translate "A wine worthy of Pharaoh's private collection."
+to german "Ein Wein, der Pharaohs Sammlung angemessen wäre.";
+
+translate "A new wine experience: K1"
+to german "Eine neue Weinerfahrung: K1";
+
+translate "You should really get a Wine Tasting Notebook."
+to german "Du solltest dir wirklich ein Weinprobenbuch zulegen.";
+
+translate "Your palette improved - you'll be able to detect more subtle flavors now!"
+to german "Deine Palette wurde erweitert - du wirst nun fähig sein, mehr subtile Aromen wahrzunehmen!";
+
+translate "Wine Tasting Notebooks"
+to german "Weinprobebücher";
+
+translate "Ask for a Beginner Notebook"
+to german "Frage nach einem Anfängerbuch";
+translate "Ask for an Enthusiast Notebook"
+to german "Frage nach einem Weinkennerbuch";
+
+translate "You receive a Beginner Notebook. Review it from your Special menu."
+to german "Du hast ein Anfängerbuch erhalten. Nutze dein Spezialmenü um darin zu lesen.";
+translate "You receive a Enthusiast Notebook. Review it from your Special menu."
+to german "Du hast ein Weinkennerbuch erhalten. Nutze dein Spezialmenü um darin zu lesen.";
+
+translate "Wine Notebooks"
+to german "Weinbücher";
+
+translate "Switch to Wine Notebook"
+to german "Wechsle das Weinbuch";
+
+translate "Switch to Beginner Notebook"
+to german "Wechsle zum Anfängerbuch";
+translate "Switch to Enthusiast Notebook"
+to german "Wechsle zum Weinkennerbuch";
+
+translate "Tastings will now fill your Beginner Wine Tasting Notebook."
+to german "Weinproben werden nun in dein Anfängerbuch eingetragen werden.";
+
+translate "Tastings will now fill your Enthusiast Wine Tasting Notebook."
+to german "Weinproben werden nun in dein Weinkennerbuch eingetragen werden.";
+
+translate "You have completed your Beginner Wine Tasting Notebook! Check with any School of the Human Body to see if there are any additional Wine Tasting Notebooks available."
+to german "Du hast dein Anfängerbuch komplett gefüllt! Besuche eine Schule des Menschlichen Körpers um nachzusehen, ob weiterführende Weinbücher zur Verfügung stehen.";
+
+translate "You have completed your Enthusiast Wine Tasting Notebook! Check with any School of the Human Body to see if there are any additional Wine Tasting Notebooks available."
+to german "Du hast dein Weinkennerbuch komplett gefüllt! Besuche eine Schule des Menschlichen Körpers um nachzusehen, ob weiterführende Weinbücher zur Verfügung stehen.";
+
+translate ". Tasted N1"
+to german ". N1 getestet";
+
+translate "Open Wine Notebook"
+to german "Öffne das Weinbuch";
+
+translate "Open Notebook"
+to german "Öffne den Notizblock";
+
+translate "Base"
+to german "Grundwert";
+translate "Peak"
+to german "Maximalwert";
+
+translate "Concentration Factor of K1 At age N1 is N2"
+to german "Konzentrationsfaktor von K1, Alter N1 ist N2";
+
+translate "Wine in chest at egypt N1 N2 K1: "
+to german "Wein in der Kiste in Ägypten N1 N2 K1: ";
+

@@ -1,0 +1,90 @@
+module messageboard_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002,2003,2004,2005 by MDO Games		           **
+//**                                                                       **
+//***************************************************************************
+//menues
+translate "Events"
+to german "Events";
+
+translate "Trade"
+to german "Handel";
+
+translate "Famous Guilds"
+to german "Berühmte Gilden";
+
+translate "Other"
+to german "Anderes";
+
+translate "Personals"
+to german "Persönliches";
+
+translate "Cancel"
+to german "Abbrechen";
+
+translate "Warning: Post was unsuccessful."
+to german "Warnung: Post war erfolglos.";
+
+translate "Add a new category of Message"
+to german "Füge eine neue Nachrichtenkategorie hinzu";
+
+translate "Category?"
+to german "Kategorie?";
+
+translate "Already contains "
+to german "Bereits vorhanden";
+
+translate "Remove a category of Message"
+to german "Entferne eine Nachrichtenkategorie ";
+
+translate "Remove:"
+to german "Entfernen:";
+
+translate "Really remove ?"
+to german "Wirklich entfernen ?";
+
+translate "Messages"
+to german "Nachrichten";
+
+translate "K1"
+to german "K1";
+
+translate "U1"
+to german "U1(name)";
+
+translate "U1 (N1)"
+to german "U1(name) N1)";
+
+translate "Add Support"
+to german "Hilfe hinzufügen";
+
+translate "Add now many K1? (Currently: K2)"
+to german "Wieviel K1 hinzufügen? (Momentan: K2)";
+
+translate "Post a new message"
+to german "Schreibe eine neue Nachricht";
+
+translate "To post a message unter K1 requires at least N1 Papyrus Paper. How many do you want to use?"
+to german "Um eine Nachricht unter K1 zu schreiben, benötigst Du mindestens N1 Papyruspapier. Wieviel möchtest Du benutzen?";
+
+translate "Enter your message title and text "
+to german "Gib den Nachrichtentitel und Text ein ";
+
+translate "Expire in how long? (H:MM)"
+to german "Laufzeit? (H:MM)";
+
+translate "never"
+to german "Niemals";
+
+translate "Expiration format should be H:MM. For instance, if the message should expire in 2 hours 30 minutes, type 2:30"
+to german "Das Format für die Laufzeit sollte H:MM sein, wenn Deine Nachricht also nach 2 Stunden und 30 Minuten verschwinden soll, gib 2:30 ein.";
+
+translate "Minimum quantity changed. Try posting again."
+to german "Mindestanzahl hat sich geändert. Versuche erneut zu posten.";
+
+translate "You don't have N1 O1"
+to german "Es fehlen N1 O1(N1?pn:sn)";

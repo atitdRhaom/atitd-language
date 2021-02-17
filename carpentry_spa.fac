@@ -1,0 +1,202 @@
+// Last Update: 2015/09/03
+// Verified COMPLETE 2015/09/05
+
+module Carpentry_spa;
+
+translate carpentry to spanish feminine {ns "Carpintería"; np "Carpintería";}
+
+translate WoodPlane to spanish masculine
+{
+ns "Tableador de Madera"; np "Tableador de Madera";
+}
+
+translate Slate to spanish masculine
+{
+ns "Pizarra"; np "Pizarra";
+}
+
+translate StoneBlade to spanish masculine
+{
+ns "Cuchilla de Piedra"; np "Cuchillas de Piedra";
+}
+
+translate Wood to spanish feminine
+{
+ns "Leña"; np "Leña";
+}
+
+translate Boards to spanish feminine
+{
+ns "Tabla"; np "Tablas";
+}
+
+translate SlateShovel to spanish feminine
+{
+ns "Pala de Piedra"; np "Palas de Piedra";
+}
+
+translate CarpentryShop to spanish masculine
+{
+ns "Taller de Carpintería"; np "Talleres de Carpintería";
+}
+
+translate HeavyMallet to spanish masculine
+{
+ns "Mazo Pesado"; np "Mazos Pesados";
+}
+
+translate LoomFrame to spanish masculine
+{
+ns "Marco de Tejero"; np "Marcos de Tejero";
+}
+
+translate Deckle to spanish masculine
+{
+ns "Deckle"; np "Deckle";
+}
+
+translate "Carpentry" to spanish "Carpintería";
+
+translate "Forge a Stone Blade"
+to spanish "Forga una Cuchilla de Piedra";
+
+translate "You need two pieces of slate: To attempt forging a stone blade, you need to carefully break one piece of slate with a second piece."
+to spanish "Necesitas dos piezas de pizarra: Para intentar forgar una Cuchilla de piedra, necesitas romper una pizarra con otra.";
+
+translate "Success! One of the stones shattered, and the other broke cleanly. You've made a stone blade."
+to spanish "Éxito! Una de las piedras se ha roto, y el otro se rompió perfectamente.  Haz fabricado una Cuchilla de piedra.";
+
+translate "Build a Wood Plane"
+to spanish "Construye un Tableador de Leña";
+
+translate "To build a Wood Plane, you need: "
+to spanish "Para construir un Tableador de Leña necesitas: ";
+
+translate "Repair this Wood Plane by replacing the blade"
+to spanish "Repara este Tableador con una Cuchilla de Piedra";
+
+translate "Plane a piece of wood into a board"
+to spanish "Trabaja una pieza de Leña en una Tabla";
+
+translate "You don't have any wood. Wood can be gathered from trees."
+to spanish "No tienes leña el cual puedes recoger de los árboles.";
+
+translate "The woodplane's blade broke. You'll need another blade to repair it."
+to spanish "La Cuchilla del Tableador se ha roto.  Neceistas reemplazarlo con otro.";
+
+translate "Build a Carpentry Shop"
+to spanish "Construye un Taller de Carpintería";
+
+translate "Before you will be able to use your Carpentry Shop to make boards you will first need to outfit it with a Carpentry Blade. Continue?"
+to spanish "Antes de poder hacer tablas en este Taller necesitarás primero installar una Cuchilla de carpintería.  Estas seguro querer continuar?";
+
+translate "To build a Carpentry Shop, you need: "
+to spanish "Para contruir un Taller de Carpintería necesitas: ";
+
+translate "Assemble a Slate Shovel"
+to spanish "Ensambla una Pala de Piedra";
+
+translate "It takes one stone blade and two boards to make a Slate Shovel"
+to spanish "Neceistas una Cuchilla de piedra y dos tablas para producir una Pala de Piedra";
+
+translate "Plane a piece of wood into a board"
+to spanish "Corta Leña en una Tabla";
+
+translate "The blade on your shop's plane has become dull and chipped, and must be replaced."
+to spanish "La Cuchilla en este Taller de Carpintería se ha desgastado. Necesitas Reemplazarlo.";
+
+translate "Start planing Wood into Boards"
+to spanish "Empieza a cortar Leña a Tablas";
+
+translate "You cannot run two carpentry shops at the same time."
+to spanish "No puedes trabajar con dos talleres de carpintería al mismo tiempo.";
+
+translate "Assemble a Heavy Mallet"
+to spanish "Ensambla un Mazo Pesado";
+
+translate "To make a Heavy Mallet you need:"
+to spanish "Para ensamblar un Mazo Pesado necesitas:";
+
+translate "Assemble a Sledgehammer"
+to spanish "Ensambla una Almádena";
+
+translate "To make a Sledgehammer you need:"
+to spanish "Para ensamblar una Almádena necesitas:";
+
+translate "Assemble a Slate Scythe"
+to spanish "Ensamble una Guadaña de Piedra";
+
+translate "To make a Flint Scythe you need:"
+to spanish "Para ensamblar una Guadaña de Piedra necesitas:";
+
+translate "This Scythe looks very primitive. It is not very good, but at least you can practice with it."
+to spanish "Esta Guadaña parece ser bastante primitiva.  No es la mejor, pero con ella puedes empezar a practicar.";
+
+translate "Assemble a Glass Scythe"
+to spanish "Ensambla una Guadaña de Vidrio";
+
+translate "To make a Glass Scythe you need:"
+to spanish "Para ensamblar una Guadaña de Vidrio necesitas:";
+
+translate "This Scythe looks very sturdy. With a bit more practice you think you can improve your technique."
+to spanish "Esta Guadaña aparentemente es más macizo.  Con un poco más de práctica puedes mejorar tu técnica de trabajo.";
+
+translate "Upgrade"
+to spanish "Moderniza";
+
+translate "Install a Carpentry Blade"
+to spanish "Instala una Cuchilla de Carpintería";
+
+translate "You need a Carpentry Blade of at least 3000 quality to upgrade this Carpentry Shop."
+to spanish "Necesitas una Cuchilla de Carpintería con una calidad mayor a 3000 para poder instalarlo en este Taller de Carpintería.";
+
+translate "Install a Carpentry Blade/O1"
+to spanish "Instala una Cuchilla de Carpintería/O1(name)";
+
+translate "Your Carpentry Blade is only N1 quality. You must use a blade of at least 3000 quality!"
+to spanish "Tu Cuchilla de Carpintería es solo de calidad N1.  Necesitas una Cuchilla con una calidad mínima de 3000 para poder instalarlo.";
+
+translate "Inspect the Carpentry Blade"
+to spanish "Revisa la Cuchilla de Carpintería";
+
+translate "Using your skill in Metallurgy, you inspect the blade... "
+to spanish "Usando la habilidad de Metalurgia, revisas la Cuchilla... ";
+
+translate "This Carpentry Blade can be used to plane at least N1 more boards."
+to spanish "La Cuchilla de carpintería se puede usar para fabricar un mínimo de N1 tablas.";
+
+translate "You can't quite tell. Improving your perception may help."
+to spanish "No puedes acertar en una respuesta.  Teniendo mejor percepción pudiera ser de ayuda.";
+
+translate "The Carpentry Blade is totally worn out."
+to spanish "Esta Cuchilla de Carpintería está completamente desgastada.";
+
+translate "Install a Vise Bench"
+to spanish "Instala una Abrazadera";
+
+translate "To upgrade this Carpentry Shop with a Vise Bench, you need: "
+to spanish "Para instalar una Abrazadera en este Taller de Carpintería necesitas: ";
+
+translate "Make a Loom Frame"
+to spanish "Fabrica un Marco de Tejero";
+
+translate "To make a Loom Frame, you need: "
+to spanish "Para fabricar un Marco de Tejero necesitas: ";
+
+translate "Make a Deckle"
+to spanish "Fabrica un Deckle";
+
+translate "To make a Deckle, you need: "
+to spanish "Para fabricar un Deckle necesitas: ";
+
+translate "Assemble an Iron Shovel"
+to spanish "Ensambla una Pala de Hierro";
+
+translate "To make a crude Iron Shovel, you need: "
+to spanish "Para fabricar una Pala de Hierro primitivo necesitas: ";
+
+translate "Debug/Add One Use to Carpentry Bench"
+to spanish "Debug/Agrega un Uso a este Taller de Carpintería";
+
+translate "Using your skill in Metallurgy, you inspect the blade.. You can't quite tell. Improving your perception may help."
+to spanish "Usando la habilidad de Metalurgia, revisas la Cuchilla... No puedes acertar en una respuesta.  Teniendo mejor percepción pudiera ser de ayuda.";

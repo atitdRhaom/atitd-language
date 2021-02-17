@@ -1,0 +1,97 @@
+module rabbits_fre;
+
+translate rabbit to french masculine
+{
+	ns "Lapin"; np "Lapins";
+	}
+
+translate rabbitbone to french masculine
+{ ns "Os de lapin"; np "Os de lapin";}
+
+translate "rabbit"
+to french "Lapin";
+
+translate "Rabbit Hutch"
+to french "Clapier à lapins";
+
+translate RabbitHutch to french masculine
+{
+  ns "Clapier à lapins"; np "Clapiers à lapins";
+}
+translate Rabbit to french masculine
+{
+  ns "Lapin"; np "Lapins";
+}
+translate RabbitMale to french masculine
+{
+  ns "Lapin mâle"; np "Lapins mâles";
+}
+translate RabbitFemale to french feminine
+{
+  ns "Lapin femelle"; np "Lapins femelles";
+}
+translate RabbitPelt to french feminine
+{
+  ns "Fourrure de lapin"; np "Fourrures de lapins";
+}
+translate RabbitMeat to french feminine
+{
+  ns "Viande de lapin"; np "Viande de lapin";
+}
+
+translate "To build a Rabbit Hutch you need:"
+to french "Pour construire un clapier à lapins, il vous faut :";
+
+translate "The hutch contains N1 male, and N2 female rabbits."
+to french "Ce clapier à lapins contient N1 mâles et N2 femelles.";
+
+translate "There are N1 carrots in the feed bowls"
+to french "Il y a N1 carottes dans les râteliers.";
+
+translate "The rabbits noticed that they were running out of food, and escaped!"
+to french "Les lapins n'étaient pas assez nourris, et se sont échappés !";
+
+translate "The hutch got overcrowded, and the rabbits all escaped!"
+to french "Le clapier était surpeuplé, et les lapins se sont échappés !";
+
+translate "Baby rabbits! N1 male, and N2 female."
+to french "Des bébés ! N1 mâles et N2 femelles.";
+
+translate "The rabbits are doing fine, but are not breeding."
+to french "Les lapins sont en bonne santé, mais ne se reproduisent pas.";
+
+translate "Put Male Rabbits in the hutch"
+to french "Mettre des mâles dans le clapier";
+
+translate "How many Males?"
+to french "Combien de mâles ?";
+
+translate "Put Female Rabbits in the hutch"
+to french "Mettre des femelles dans le clapier";
+
+translate "How many Females?"
+to french "Combien de femelles ?";
+
+translate "Feed the rabbits"
+to french "Nourrir les lapins";
+
+translate "How many Carrots?"
+to french "Combien de carottes ?";
+
+translate "Slaughter a Male Rabbit"
+to french "Abattre un lapin mâle";
+
+translate "Slaughter a Female Rabbit"
+to french "Abattre un lapin femelle";
+
+translate "Slaughter the last O1?"
+to french "Abattre O1(lns) dernier O1(ns) ?";
+
+translate "With expert knifework you were able to preserve a perfect rabbit pelt."
+to french "D'un geste habile du couteau, vous réussissez à ne pas endommager la fourrure du lapin.";
+
+translate "RabbitCheck: N1 N2"
+to french "Nombre de lapins : N1 N2";
+
+translate "With high dexterity, you are able to keep the bones of this rabbit intact after slaughtering it."
+to french "Avec une grande dextérité, vous avez pu préserver les os de ce lapin après l'avoir abbatu";

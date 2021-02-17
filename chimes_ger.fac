@@ -1,0 +1,291 @@
+Module Chimes_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+
+translate Eagle to german masculine
+{
+swa "Adler";
+	sn "Adler"; pn "Adler";
+	}
+
+translate Nightingale to german feminine
+{
+swa "Nachtigall";
+	sn "Nachtigall"; pn "Nachtigallen";
+	}
+
+translate Lark to german feminine
+{
+swa "Lerche";
+	sn "Lerche"; pn "Lerchen";
+	}
+
+translate Hummingbird to german masculine
+{
+swa "Kolibri";
+	sn "Kolibri"; pn "Kolibris";
+	}
+
+translate hawk to german masculine
+{
+swa "Falke";
+	sn "Falke"; pn "Falken";
+	}
+
+translate parrot to german masculine
+{
+swa "Papagei";
+	sn "Papagei"; pn "Papageien";
+	}
+
+translate buzzard to german masculine
+{
+swa "Bussard";
+	sn "Bussard"; pn "Bussarde";
+	}
+
+translate condor to german masculine
+{
+swa "Kondor";
+	sn "Kondor"; pn "Kondore";
+	}
+
+translate finch to german masculine
+{
+swa "Fink";
+	sn "Fink"; pn "Finken";
+	}
+
+translate sparrow to german masculine
+{
+swa "Spatz";
+	sn "Spatz"; pn "Spatzen";
+	}
+
+translate osprey to german masculine
+{
+swa "Seeadler";
+	sn "Seeadler"; pn "Seeadler";
+	}
+
+translate raven to german masculine
+{
+swa "Rabe";
+	sn "Rabe"; pn "Raben";
+	}
+
+translate albatross to german masculine
+{
+swa "Albatross";
+	sn "Albatross"; pn "Albatrosse";
+	}
+
+translate pheasant to german masculine
+{
+swa "Fasan";
+	sn "Fasan"; pn "Fasane";
+	}
+
+translate gull to german feminine
+{
+swa "Möwe";
+	sn "Möwe"; pn "Möwen";
+	}
+
+translate owl to german feminine
+{
+swa "Eule";
+	sn "Eule"; pn "Eulen";
+	}
+
+translate crane to german masculine
+{
+swa "Kranich";
+	sn "Kranich"; pn "Kraniche";
+	}
+
+translate warbler to german masculine
+{
+swa "Singvogel";
+	sn "Singvogel"; pn "Singvögel";
+	}
+
+translate puffin to german masculine
+{
+swa "Papageientaucher";
+	sn "Papageientaucher"; pn "Papageientauchermacareux";
+	}
+
+translate waxwing to german masculine
+{
+swa "Seidenschwanz";
+	sn "Seidenschwanz"; pn "Seidenschwänze";
+	}
+
+translate ChimeController to german masculine
+{
+swa "Glockenspiel-Steuerung";
+	sn "Glockenspiel-Steuerung"; pn "Glockenspiel-Steuerungen";
+}
+
+translate ChimeTower to german masculine
+{
+swa "Glockenspielturm";
+sn "Glockenspielturm"; pn "Glockenspieltürme";
+}
+
+translate "Soaring"
+to german "Ansteigend";
+
+translate "Diving"
+to german "Tauchend";
+
+translate "Hovering"
+to german "Schwebend";
+
+translate "Gliding"
+to german "Gleitend";
+
+translate "Floating"
+to german "Fließend";
+
+translate "Delete track "
+to german "Lösche Musikstück ";
+
+translate "The track listing has changed. Try again."
+to german "Die Liste der Musikstücke hat sich verändert. Versuche es erneut.";
+
+translate "You can't do this while the Chime Tower is open for judging."
+to german "Du kannst dies nicht tun, während sich der Glockenspielturm in der Wertung befindet.";
+
+translate "The tower supports a maximum of N1 tracks."
+to german "Der Turm kann ein Maximum an N1 Musikstücken verwalten.";
+
+translate "Install Chime:O1"
+to german "Einrichten des Liedes: O1(ns)";
+
+translate "Track Editor"
+to german "Abspielliste";
+
+translate "Track Editor:"
+to german "Abspielliste:";
+
+translate "Delicately touch the Chime Tower"
+to german "Berühre den Glockenspielturm";
+
+translate "Open Judging"
+to german "Starte die Bewertung";
+
+translate "Close Judging"
+to german "Beende die Bewertung";
+
+translate "Are you sure you want to close this? Doing so will wipe out all judgment points."
+to german "Bist du sicher, dass du dies beenden möchtest? Hierbei würden alle Bewertungspunkte gelöscht werden.";
+
+translate "Start the Test of the Windsong"
+to german "Beginne den Test des Windspiels";
+
+translate "You sign up for the Test of the Windsong and learn to build a Chime Tower."
+to german "Du schreibst dich für den Test des Windspieles ein und lernst einen Glockenspielturm zu bauen.";
+
+translate "Chime Tower"
+to german "Glockenturm";
+
+translate "Copper Wire (Chime Attachments)"
+to german "Kupferdraht (Glockenspielanbauten)";
+
+translate "Steel Wire (Chime support)"
+to german "Stahldraht (Glockenspielunterstütung)";
+
+translate "Iron Bars (Main Support Rod)"
+to german "Eisenbarren (Hauptunterstützungsgestänge)";
+
+translate "Cut Stone (Counterweight for base)"
+to german "Geschnittener Stein (Standfußgegengewicht)";
+
+translate "Concrete (Base)"
+to german "Beton (Standfuß)";
+
+translate "Blue Violet"
+to german "Blauviolett";
+
+translate "Blue Violet Paint"
+to german "Farbe: Blauviolett";
+
+translate "Crimson"
+to german "Karmesin";
+
+translate "Crimson Paint"
+to german "Farbe: Karmesin";
+
+translate "Dark Slate Grey"
+to german "Dunkles Schiefergrau";
+
+translate "Dark Slate Grey Paint"
+to german "Farbe: Dunkles Schiefergrau";
+
+translate "Amanti"
+to german "Amanti";
+
+translate "Amanti Turquiose (Decoration)"
+to german "Amanti Türkis (Dekoration)";
+
+translate "Amanti Garnet (Decoration)"
+to german "Amanti Granat (Dekoration)";
+
+translate "Dragyn's Eye"
+to german "Drachenauge";
+
+translate "Dragyn's Eye Amethyst (Decoration)"
+to german "Drachenauge Amethyst (Dekoration)";
+
+translate "Dragyn's Eye Lapis (Decoration)"
+to german "Drachenauge Lapislazuli (Dekoration)";
+
+translate "Appolonia"
+to german "Appolinia";
+
+translate "Appolonia gem of any type (Decoration)"
+to german "Appolonia jeder Edelsteinart (Dekoration)";
+
+translate "To build a Chime Tower you need:"
+to german "Um einen Glockenspielturm bauen zu können benötigst du:";
+
+translate "Advance one in The Test of the Windsong (Trial)"
+to german "Fördere Jemanden im Test des Windspieles (Trial)";
+
+translate "Advance one in The Test of the Windsong (Real)"
+to german "Fördere Jemanden im Test des Windspieles (Real)"; 
+
+translate "Advance winning design now"
+to german "Stelle deine Konstruktion nun vor";
+
+translate "Test of Flight: No winner"
+to german "Test des Fluges: kein Gewinner";
+
+translate "U1 got a score of N1 for K1"
+to german "U1(name) bekam N1 Punkte für K1.";
+
+translate "In the opinion of N1 judges, and with a score of N2, Egypt recognizes U1, for passing the Test of the Windsong for his design at N3."
+to german "Für die Konstruktion bei N3 würdigt Ägypten U1(name) für das Bestehen des Tests des Windspieles mit N1 Wertungen und einer Punktzahl von N2.";
+
+translate "Error: Could not find Chime designer at N1"
+to german "Fehler: Kein Designer bei N1.";
+
+translate "No designer for chime tower N1"
+to german "Der Glockenspielturm N1 hat keinen Designer.";
+
+translate "Could not find designer at N1"
+to german "Kein Designer bei N1";
+
+translate "N1 passing The Test of the Windsong."
+to german "N1 absolvieren den Test des Windspieles.";
+
+translate "Score for Chime at N1 is "
+to german "Wertung für das Glockenspiel bei N1 ist ";

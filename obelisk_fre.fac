@@ -1,0 +1,387 @@
+module obelisk_fre;
+
+translate Obelisk to french feminine
+{
+  ns "L'épreuve de l'Obélisque"; np "L'épreuve de l'Obélisque";
+}
+
+translate ObeliskConstruction to french feminine
+{
+  ns "Construction d'obélisques"; np "Construction d'obélisques";
+}
+
+translate ObelisksCutStone to french feminine
+{
+  ns "Taille d'obélisques"; np "Taille d'obélisques";
+}
+
+translate metallicobelisk to french masculine
+{
+  ns "Obélisque de métal"; np "Obélisques de métal";
+}
+
+translate CutStoneObelisk to french masculine
+{
+  ns "Obélisque de pierres taillées"; np "Obélisques de pierres taillées";
+}
+
+translate StandardObelisk to french masculine
+{
+  ns "Obélisque classique"; np "Obélisques classique";
+}
+
+translate DesertObelisk to french masculine
+{
+  ns "Obélisque du Désert"; np "Obélisques du Désert";
+}
+
+translate HardwoodObelisk to french masculine
+{
+  ns "Obélisque de bois dur"; np "Obélisques de bois dur";
+}
+
+translate MarbleObelisk to french masculine
+{
+  ns "Obélisque de Marbre"; np "Obélisques de Marbre";
+}
+
+translate CrystalObelisk to french masculine
+{
+  ns "Obélisque de Crystal"; np "Obélisques de Crystal";
+}
+translate BejeweledObelisk to french masculine
+{
+  ns "Obélisque incrusté de pierres précieuses"; np "Obélisques incrusté de pierres précieuses";
+}
+
+translate HeavenlyObelisk to french masculine
+{
+  ns "Obélisque Céleste"; np "Obélisque Céleste";
+}
+
+translate CrushedEggShells to french feminine
+{
+  ns "Coquille d'oeuf écrasée"; np "Coquilles d'oeufs écrasées";
+}
+
+translate "Black, Rotproof Boards"
+to french "Planches noires, imputrescibles";
+translate "Soft, Termite Resistant Boards"
+to french "Planches tendres, anti-termites";
+translate "Hard, Rotproof Treated Boards"
+to french "Planches dures, imputrescibles";
+
+translate "Crater Cut Gem"
+to french "Pierre taillée Cratère";
+translate "The Shark cut Lapis"
+to french "Pierre taillée Requin";
+translate "Lens cut Turquoise"
+to french "Pierre taillée Lentille";
+translate "Eyelet cut Gem"
+to french "Pierre taillée Oeil-de-Pie";
+
+translate "12%+ Alcohol Wine"
+to french "Vin avec 12%+ d'alcool";
+
+translate "O1, O2 moss"
+to french "Mousse O1(ns), O2(ns)";
+translate "This O1 is N1 cubits."
+to french "Cet O1(ns) mesure N1 coudées.";
+
+translate "Set Size of Obelisk"
+to french "Choisir la taille de l'obélisque";
+
+translate "What Size?"
+to french "Quelle taille?";
+
+translate "Mirrors to reflect the Sky" to french "Mirroirs pour refléter le ciel";
+translate "Leeks as an Offering" to french "Poirreaux en offrande";
+translate "Candles to Light the Way" to french "Bougies pour éclairer le chemin";
+
+translate "The test of the Obelisk requires that you build the largest Obelisk of its kind for The Meshwesh.\n"
+to french "L'épreuve de l'Obélisque vous défie de construire le plus grand obélisque de sa classe pour les Meshwesh.";
+translate "The test of the Obelisk requires that you build the largest Obelisk of its kind for The Kush.\n"
+to french "L'épreuve de l'Obélisque vous défie de construire le plus grand obélisque de sa classe pour les Kush.";
+translate "The test of the Obelisk requires that you build the largest Obelisk of its kind for The Hyksos.\n"
+to french "L'épreuve de l'Obélisque vous défie de construire le plus grand obélisque de sa classe pour les Hyksos.";
+
+translate "You must exceed the current largest Obelisk by at least a single cubit. Also, you must retain the title of largest Obelisk that The Meshwesh has ever controlled for at least K1 (for a Desert Obelisk.) while remaining inside The Meshwesh territory.\n"
+to french "Vous devez dépasser le plus grand obélisque existant d'au moins une coudée, mais votre obélisque doit demeurer le plus grand que les Meshwesh ait jamais contrôlé pour au moins K1 (pour un Obélisque du Désert) tout en restant à l'intérieur du territoire des Meshwesh.\n";
+translate "You must exceed the current largest Obelisk by at least a single cubit. Also, you must retain the title of largest Obelisk that The Kush has ever controlled for at least K1 (for a Desert Obelisk.) while remaining inside The Kush territory.\n"
+to french "Vous devez dépasser le plus grand obélisque existant d'au moins une coudée, mais votre obélisque doit demeurer le plus grand que les Kush ait jamais contrôlé pour au moins K1 (pour un Obélisque du Désert) tout en restant à l'intérieur du territoire des Kush.\n";
+translate "You must exceed the current largest Obelisk by at least a single cubit. Also, you must retain the title of largest Obelisk that The Hyksos has ever controlled for at least K1 (for a Desert Obelisk.) while remaining inside The Hyksos territory.\n"
+to french "Vous devez dépasser le plus grand obélisque existant d'au moins une coudée, mais votre obélisque doit demeurer le plus grand que les Hyksos ait jamais contrôlé pour au moins K1 (pour un Obélisque du Désert) tout en restant à l'intérieur du territoire des Hyksos.\n";
+
+translate "For each additional region The Meshwesh has the support of when the Obelisk is constructed, this time is reduced by K1 (again for a Desert Obelisk.)\n"
+to french "Pour chaque région additionnelle que supportent les Meshwesh lors de la construction de l'Obélisque, le temps est réduit de K1 (pour une Obélisque du Désert.)";
+translate "For each additional region The Kush has the support of when the Obelisk is constructed, this time is reduced by K1 (again for a Desert Obelisk.)\n"
+to french "Pour chaque région additionnelle que supportent les Kush lors de la construction de l'Obélisque, le temps est réduit de K1 (pour une Obélisque du Désert.)";
+translate "For each additional region The Hyksos has the support of when the Obelisk is constructed, this time is reduced by K1 (again for a Desert Obelisk.)\n"
+to french "Pour chaque région additionnelle que supportent les Hyksos lors de la construction de l'Obélisque, le temps est réduit de K1 (pour une Obélisque du Désert.)";
+
+
+translate "By meditating on Obelisks (Tests Menu), you can sense what the various kinds of obelisks are, and the heights of the Obelisks that came before."
+to french "En méditant sur les Obélisques (Menu 'Epreuves', vous pourrez voir les différents types d'Obélisques ainsi que leurs hauteurs précédentes.";
+
+
+translate "Are you sure you want to close the O1 challenge? You will lose all progress."
+to french "Etes-vous certain de vouloir fermer le challenge de O1(ns) ?\n\n Vous allez perdre tous vos progrès.";
+
+
+
+translate "Test of the Obelisk"
+to french "L'épreuve de l'Obélisque";
+
+translate "Start the Test of the Obelisk"
+to french "Se lancer dans l'épreuve de l'Obélisque";
+
+translate "You have completed Principles of the Obelisk."
+to french "Vous avez terminé les Principes de l'Obélisque.";
+
+translate "Meditate on Obelisks"
+to french "Méditer sur les obélisques";
+
+translate "Meditating on the Largest Obelisks..."
+to french "Vous méditez sur les plus grands obélisques...";
+
+translate "The largest O1 in this sector of Egypt is N1 cubits."
+to french "Le plus grand O1(ns) de la région mesure N1 coudées.";
+
+translate "The largest O1 in this sector of Egypt was N1 cubits."
+to french "Le plus grand O1(ns) de la région mesurait N1 coudées.";
+
+translate "The largest O1 in Egypt is N1 cubits"
+to french "Le plus grand O1(ns) en Egypte mesure N1 coudées.";
+translate "No O1 has yet been built in Egypt"
+to french "Aucun O1(ns) n'a encore été construit en Egypte";
+
+translate "The largest O1 in K1 is N1 cubits."
+to french "Le plus grand O1(ns) de K1 mesure N1 coudées.";
+translate "The largest O1 in Kush is N1 cubits."
+to french "Le plus grand O1(ns) de Kush mesure N1 coudées.";
+translate "The largest O1 in Karnak is N1 cubits."
+to french "Le plus grand O1(ns) de Karnak mesure N1 coudées.";
+translate "The largest O1 in Lower Egypt is N1 cubits."
+to french "Le plus grand O1(ns) de Basse-Egypte mesure N1 coudées.";
+translate "The largest O1 in Cradle of the Sun is N1 cubits."
+to french "Le plus grand O1(ns) du Berceau du Soleil mesure N1 coudées.";
+translate "The largest O1 in Seven Lakes is N1 cubits."
+to french "Le plus grand O1(ns) des Sept Lacs mesure N1 coudées.";
+translate "The largest O1 in Khartoum is N1 cubits."
+to french "Le plus grand O1(ns) de Khartoum mesure N1 coudées.";
+translate "The largest O1 in Sinai is N1 cubits."
+to french "Le plus grand O1(ns) de Sinaï mesure N1 coudées.";
+translate "The largest O1 in Upper Egypt is N1 cubits."
+to french "Le plus grand O1(ns) de Haute-Egypte mesure N1 coudées.";
+translate "The largest O1 in Fool's Paradise is N1 cubits."
+to french "Le plus grand O1(ns) de Fool's Paradise mesure N1 coudées.";
+translate "The largest O1 in Desert of Shades is N1 cubits."
+to french "Le plus grand O1(ns) du Desert des Ombres mesure N1 coudées.";
+translate "The largest O1 in Qatara is N1 cubits."
+to french "Le plus grand O1(ns) de Qatara mesure N1 coudées.";
+translate "The largest O1 in Tanis is N1 cubits."
+to french "Le plus grand O1(ns) de Tanis mesure N1 coudées.";
+
+translate " - It no longer stands."
+to french " - Il n'existe plus.";
+
+translate " - It still stands at N1,N2."
+to french " - Il se trouve en N1,N2.";
+
+translate "It still stands at N1,N2."
+to french "Il se trouve en N1,N2.";
+
+translate "It no longer stands."
+to french "Il n'existe plus.";
+
+translate "No O1 has yet been built in this part of Egypt."
+to french "Aucun O1(ns) n'a été construit dans cette région d'égypte.";
+
+translate "No O1 has yet been built in K1."
+to french "Aucun O1(ns) n'a été construit à K1.";
+translate "No O1 has yet been built in Kush."
+to french "Aucun O1(ns) n'a été construit à Kush.";
+translate "No O1 has yet been built in Karnak."
+to french "Aucun O1(ns) n'a été construit à Karnak.";
+translate "No O1 has yet been built in Lower Egypt."
+to french "Aucun O1(ns) n'a été construit en Basse-Egypte.";
+translate "No O1 has yet been built in Cradle of the Sun."
+to french "Aucun O1(ns) n'a été construit au Bearceau du Soleil.";
+translate "No O1 has yet been built in Seven Lakes."
+to french "Aucun O1(ns) n'a été construit aux Sept Lacs.";
+translate "No O1 has yet been built in Khartoum."
+to french "Aucun O1(ns) n'a été construit à Khartoum.";
+translate "No O1 has yet been built in Sinai."
+to french "Aucun O1(ns) n'a été construit à Sinaï.";
+translate "No O1 has yet been built in Upper Egypt."
+to french "Aucun O1(ns) n'a été construit en Haute-EGypte.";
+translate "No O1 has yet been built in Fool's Paradise."
+to french "Aucun O1(ns) n'a été construit à Fool's Paradise.";
+translate "No O1 has yet been built in Desert of Shades."
+to french "Aucun O1(ns) n'a été construit au Desert des Ombres.";
+translate "No O1 has yet been built in Qatara."
+to french "Aucun O1(ns) n'a été construit à Qatara.";
+translate "No O1 has yet been built in Tanis."
+to french "Aucun O1(ns) n'a été construit à Tanis.";
+
+translate " - To pass the test, you must build a O1 of N1 cubits."
+to french " - Pour passer cette épreuve, vous devez construire O1(uns) O1(ns) de N1 coudées.";
+
+translate " To pass the test, you must build a O1 of N1 cubits."
+to french " Pour passer cette épreuve, vous devez construire O1(uns) O1(ns) de N1 coudées.";
+
+translate "This obelisk has a strange electricity - Touch it?"
+to french "Une puissance étrange émane de cet Obélisque - le toucher?";
+
+translate "Allows one to build Obelisks, for the Test of the Obelisk"
+to french "Permet de bâtir des Obélisques, dans le cadre de l'épreuve de l'Obélisque";
+
+translate "Allows one to build Metallic Obelisks, which must be held for twice as long as Desert Obelisks."
+to french "Permet de bâtir des Obélisques de métal, qui doivent être maintenues pendant 2 fois plus longtemps que les Obéliques du désert.";
+
+translate "Allows one to build Cut stone Obelisks, which must be held for thrice as long as Desert Obelisks."
+to french "Permet de bâtir des Obélisques de métal, qui doivent être maintenues pendant 3 fois plus longtemps que les Obéliques du désert.";
+
+translate "Allows one to build Hardwood Obelisks, which must be held for four times as long as Desert Obelisks."
+to french "Permet de bâtir des Obélisques de bois rigides, qui doivent être maintenues pendant 4 fois plus longtemps que les Obélisques du désert";
+
+translate "Allows one to build Marble Obelisks, which must be held for five times as long as Desert Obelisks."
+to french "Permet de bâtir des Obélisques de marbre, qui doivent être maintenues pendant 5 fois plus longtemps que les Obélisques du désert";
+
+translate "Allows one to build Crystal Obelisks, which must be held for six times as long as Desert Obelisks."
+to french "Permet de bâtir des Obélisques de Crystal, qui doivent être maintenues pendant 6 fois plus longtemps que les Obélisques du désert";
+
+translate "Really disassemble this Obelisk, getting back the materials?"
+to french "Voulez-vous vraiment détruire cet obélisque et récupérer votre matériel ?";
+
+translate "Rigid Termite-Resistant Boards"
+to french "Planches traitées: rigides, anti-termites";
+
+translate "Black Rotproof Boards"
+to french "Planches traitées: noires, inputrescibles";
+
+translate "Hard Fireproof Boards"
+to french "Planches traitées: dures, ignifugées";
+
+translate "Blonde Termite-resistant Boards"
+to french "Planches traitées: blondes, anti-termites";
+
+translate "Slate for Trim"
+to french "Ardoises pour les ornement";
+translate "Dried flax as an Offering"
+to french "Lins séchés en tant qu'offrande";
+translate "Clay for Filler"
+to french "Argiles pour l'enduit";
+translate "Linen as an Offering"
+to french "Tissus en tant qu'offrande";
+translate "Flint as Consecration"
+to french "Silex pour la consécration";
+
+translate "Principles of the Obelisk will help you build a small Desert Obelisk. If you know how to build a more advanced type of Obelisk, doing so will also complete Principles of the Obelisk."
+to french "Les principes de l'Obélisque vous guideront dans la construction d'un petit Obélisque. Si vous savez comment construire un Obélisque plus haut, cela validera également ces Principes.";
+
+translate "Learn Project Management"
+to french "Apprendre Gestion de projets";
+translate "Create Bricks on a Brick Rack"
+to french "Faire des briques";
+translate "Create Bricks on a Brick Rack"
+to french "Faire des briques sur un moule à briques";
+translate "Create Boards" 
+to french "Faire des planches";
+translate "Gather Slate"
+to french "Récolter des ardoises";
+translate "Harvest Flax"
+to french "Récolter du lin";
+translate "Dry Flax in a Drying Rack or Flax Hammock"
+to french "Faire sécher du lin sur un tamis de séchage ou sur un hamac à lin";
+translate "Gather Clay"
+to french "Récolter de l'argile";
+translate "Make Linen"
+to french "Faire des tissus";
+translate "Gather Flint from Clay Beds"
+to french "Récolter des pierres à feu sur un terrain argileux";
+translate "Build a Small Construction Site"
+to french "Construire un petit site de construction";
+translate "Complete a size N1 or larger Obelisk"
+to french "Construire un obélisque d'au moins N1 coudées";
+
+translate "Build a Standard Obelisk"
+to french "Edifier un Obélisque Classique";
+translate "Build a Desert Obelisk"
+to french "Edifier un Obélisque du Désert";
+translate "Build a Cut Stone Obelisk"
+to french "Edifier un Obélisque de pierres taillées";
+translate "Build a Marble Obelisk"
+to french "Edifier un Obélisque de Marbre";
+translate "Build a Hardwood Obelisk"
+to french "Edifier un Obélisque de bois dur";
+translate "Build a Crystal Obelisk"
+to french "Edifier un Obélisque de Crystal";
+translate "Build a Bejeweled Obelisk"
+to french "Edifier un Obélisque incrusté de pierres précieuses";
+translate "Build a Heavenly Obelisk"
+to french "Edifier un Obélisque Céleste";
+
+translate "Obelisks can only be build in Egypt proper."
+to french "Les obélisques ne peuvent être construits qu'en égypte.";
+
+translate "Height to build, at least 7?"
+to french "Hauteur de construction, au moins 7 ?";
+
+translate "Largest O1 is N1 cubits. To pass test, you need N2 cubits. Height to build?"
+to french "Le plus grand O1(ns) mesure N1 coudées. Pour passer l'épreuve, vous il vous en faut un de N2 coudées. Quelle hauteur choisissez-vous ?";
+
+translate "Tallest O1 is N1 cubits. To pass test, you need N2 cubits. Height to build?"
+to french "Le plus grand O1(ns) mesure N1 coudées. Pour passer l'épreuve, vous il vous en faut un de N1 coudées. Quelle hauteur choisissez-vous ?";
+
+translate "That's too big an Obelisk!"
+to french "C'est trop haut pour un Obélisque!";
+
+translate "The size specified is not big enough to pass the Test of the Obelisk. Build anyway?"
+to french "La hauteur que vous avez spécifiée n'est pas assez élevée pour passer l'épreuve de l'Obélisque. Voulez-vous tout de même l'édifier ?";
+
+translate "To build a N1 cubit O1 you need:"
+to french "Pour O1(uns) O1(ns) de N1 coudées, il vous faut :";
+
+translate "You have successfully constructed an Obelisk of 7 cubits or higher!"
+to french "Vous avez brillament édifié un Obélisque d'au moins 7 coudées!";
+
+translate "You have successfully constructed a Desert Obelisk of 7 cubits or higher!"
+to french "Vous avez brillament édifié un Obélisque du désert d'au moins 7 coudées!";
+
+translate "This obelisk has power. Hold the power for K1 to pass the Test of the Obelisk"
+to french "Cette obélisque détient le pouvoir. Maintenez sa puissance pendant K1 pour passer l'épreuve de l'obélisque";
+
+translate "This obelisk is not large enough to pass the test.  It has no power.  If you wish, you have a seven-day grace period to disassemble the obelisk and reclaim your materials.  If you decide to do this, don't use \"tear down this obelisk\", use \"disassemble this obelisk.\""
+to french "Cet obélisque n'est pas assez haut pour valider l'épreuve. Il ne reflète aucune puissance. Si vous le souhaitez, vous disposez d'une période de sept jours pour recycler l'obélisque et récupérer tout votre matériel. Si vous décider de le faire, n'utilisez pas l'option \"Détruire cet Obélisque\", mais \"Désassembler cet Obélisque.\"";
+
+translate "Consecrate this Obelisk"
+to french "Consacrer cet Obélisque";
+
+translate "You are not signed up for the test: you cannot consecrate yet.  However, you can go sign up, then come back."
+to french "Vous n'avez pas commencé l'épreuve de l'Obélisque: vous ne pouvez pas encore consacrer. Cependant, vous pouvez aller vous inscrire puis revenir.";
+
+translate "You already passed the test: you cannot consecrate an obelisk.  However, somebody else could."
+to french "Vous avez déjà passé l'épreuve: vous ne pouvez pas consacrer. Cependant, quelqu'un d'autre peut s'en charger.";
+
+translate "Disassemble this Obelisk"
+to french "Désassembler cet Obélisque";
+
+translate "Allows one to build obelisks of Stone. Research is instantaneous."
+to french "Permet de construire des obélisques de pierre. La recherche est instantanée.";
+
+translate "You must have the skill 'Obelisk Construction' to build a Standard Obelisk."
+to french "Vous devez apprendre la 'Construction d'Obélisques' pour édifier un obélisque classique.";
+
+translate "You must have the skill 'Obelisks (Cut Stone)' to build a Cut Stone Obelisk."
+to french "Vous devez apprendre la compétence 'Obélisques (Pierre taillée)' pour édifier un obélisque de pierre taillée.";
+
+translate "Allows one to build obelisks of Stone."
+to french "Permet la construction d'obélisques de pierre.";
+
+translate "obelisks of cut stone"
+to french "Taille d'obélisques";
+
+translate "obelisks of cut stone (completed)"
+to french "Taille d'obélisques (Achevé)";
+

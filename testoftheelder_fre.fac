@@ -1,0 +1,9 @@
+module testoftheelder_fre_fre;
+
+translate "The Test of the Elder must be petitioned by a Lawmaker."
+to french "L'Epreuve des Sages doit être soumis par un législateut.";
+
+translate telder to french feminine
+{ ns "Epreuve des Sages"; np "Epreuves des Sages"; }
+
+

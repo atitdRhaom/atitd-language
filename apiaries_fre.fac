@@ -1,0 +1,88 @@
+module apiaries_fre;
+
+//menues
+translate "Apiary"
+to french "Rucher";
+
+translate "Projects/Apiary"
+to french "Projets/Rucher";
+
+translate "eGenesis Check this Apiary"
+to french "Demander à eGenesis de vérifier ce rucher";
+
+//objects
+
+translate Honey to french masculine
+{
+  ns "Miel"; np "Miels";
+}
+
+translate royaljelly to french masculine
+{
+  ns "Gelée royale"; np "Gelées royales";
+}
+
+translate Beeswax to french feminine
+{
+  ns "Cire d'abeilles"; np "Cires d'abeilles";
+}
+
+translate apiary to french masculine
+{
+   ns "Rucher"; np "Ruchers";
+   }
+   
+//texts
+
+translate "To build an Apiary you need:"
+to french "Pour construire un rucher il vous faut :";
+
+translate "N1 O1"
+to french "N1 O1(N1?np:ns)";
+
+translate "Check this Apiary for a Queen"
+to french "Chercher une reine dans le rucher";
+
+translate "Checking the hive..."
+to french "Vérification de la ruche...";
+
+translate "A queen bee has started to build a hive in this apiary."
+to french "Une reine a commencé à construire une ruche dans ce rucher.";
+
+translate "No signs of a queen bee. "
+to french "Vous ne voyez pas de reine.";
+
+translate "A queen bee would have started to build a hive in this apiary with chance N1. N2 N3"
+to french "Une reine a une chance sur N1 de construire une ruche dans ce rucher. N2 N3";
+
+translate "Check this Apiary for bees, wax and honey."
+to french "Chercher des abeilles, de la cire et du miel dans ce rucher.";
+
+translate "Speed"
+to french "Vitesse";
+
+translate "Due to your quick Speed checking, no bees escaped."
+to french "Vous avez vérifié rapidement, et aucune abeille ne s'est échappée.";
+
+translate "The apiary had approximately N1 bees which have produced N2 wax, N3 honey, and N4 royal jelly. About half the bees escaped when you checked."
+to french "Le rucher comporte approximativement N1 abeilles, qui ont produit N2 cires, N3 miels et N4 gelées royale. Environ la moitié des abeilles s'est échappée pendant que vous vérifiez.";
+
+translate "The apiary had approximately N1 bees which have produced N2 wax, N3 honey, and N4 royal jelly. Due to your quick Speed checking, no bees escaped."
+to french "Le rucher comporte approximativement N1 abeilles, qui ont produit N2 cires, N3 miels et N4 gelée royale. Vous avez vérifié rapidement, et aucune abeille ne s'est échappée.";
+
+translate "Inject the hive with Essential Extract"
+to french "Donnez à la ruche des extraits essentiels.";
+
+translate "For the next 12 hours, the hive will produce 3x the normal amount of wax, but no honey."
+to french "Au cours des 12 prochaines heures, le rucher produira trois fois plus de cire, mais pas de miel.";
+
+translate "Last checked about K1 ago."
+to french "Dernière vérification effectuée il y a environ K1.";
+   
+
+
+
+
+
+
+

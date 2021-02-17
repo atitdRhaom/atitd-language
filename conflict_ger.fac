@@ -1,0 +1,374 @@
+module conflict_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** german Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002,2003,2004,2005 by MDO Entertainment	           **
+//**                                                                       **
+//***************************************************************************
+
+//menues
+translate "Clear the arena"
+to german "Leere die Arena";
+translate "View the Combat Log"
+to german "Betrachte das Kampfverzeichnis";
+translate "Select an Opponent"
+to german "Wähle einen Gegner";
+translate "Something's wrong 320948324"
+to german "Etwas ist falsch 320948324";
+translate "Configure"
+to german "Konfiguriere";
+translate "Current rite: O1"
+to german "Aktueller Ritus: O1(pn)";
+translate "Current ante: N1 O1"
+to german "Aktueller Einsatz: N1 O1(N1?pn:sn)";
+translate "Rite"
+to german "Ritus";
+translate "Formal Duel"
+to german "Formelles Duell";
+translate "Command"
+to german "Befehl";
+translate "Configure"
+to german "Konfiguriere";
+translate "Ante"
+to german "Einsatz";
+
+translate "Start the Test of the Rite of Command"
+to german "Starte den Test des Ritus des Befehls";
+
+translate "Check rank in The Rite of the Formal Duel"
+to german "Prüfe Ränge im Ritus des formellen Duells";
+
+translate "Check rank in The Rite of the Skirmish"
+to german "Prüfe Ränge im Ritus des Scharmützels";
+
+translate "Check rank in The Rite of Command"
+to german "Prüfe Ränge im Ritus des Befehls";
+
+translate "You have been commanded to stand still by N1. You can go in 30 seconds.\a \a"
+to german "Dir wurde befohlen, für N1 still zu stehen. Du kannst Dich in 30 Sekunden wieder bewegen.";
+
+translate "Note: the power of command can be obtained by gaining skill in the Rite of Command.  This power enables you to issue one command per day.  There are a few commands to choose from, all nondestructive, like this one."
+to german "Hinweis: die Kraft des Befehls kann erhalten werden, indem man Fähigkeiten im Ritus des Befehls gewinnt. Diese Kraft ermöglicht Dir, einen Befehl pro Tag auszustellen.  Es stehen einige Befehle zur Auswahl, unzerstörbar, wie dieser hier.";
+
+translate "You have gained skill in the rite of command.  Once per day, you may issue a single command, using your Special Menu.  However, you can never command somebody of higher rank than you.\a \a"
+to german "Du hast eine Fertigkeit im Ritus des Befehls erworben. Einmal pro Tag kannst Du einen einzigen Befehl mit Deinem Spezialmenü herausgeben. Jedoch kannst Du Niemanden mit höherem Rang befehlen.";
+
+translate "At skill level 1, you have gained a new command: 'All Bow down to Me!'"
+to german "Mit Fertigkeitslevel 1 hast Du einen neuen Befehl erhalten: 'Alle Bogen zu Mir!'";
+
+translate "You have gained skill in the rite of command.  Once per day, you may issue a single command, using your Special Menu.  However, you can never command somebody of higher rank than you.\a \a"
+to german "Du hast eine Fertigkeit im Ritus des Befehl erworben. Einmal pro Tag kannst Du einen einzigen Befehl mit Deinem Spezialmenü herausgeben. Jedoch kannst Du Niemanden mit höherem Rang befehlen.";
+
+translate "At skill level 2, you have gained a new command: 'Stand Still and Listen!'"
+to german "Mit Fertigkeitslevel 2 hast Du einen neuen Befehl erhalten: 'Stillgestanden und Zugehört!'";
+
+translate "Issue Command"
+to german "Stelle Befehl aus";
+
+translate "'Follow Me!'"
+to german "'Folge Mir!'";
+
+translate "All Bow Down to Me!"
+to german "Alle Bogen zu Mir!";
+
+translate "'Stand Still and Listen!'"
+to german "'Stillgestanden und Zugehört!'";
+
+translate "You can only Command once per day. You must wait N1."
+to german "Du kannst nur einmal am Tag befehlen. Du mußt N1 warten.";
+
+translate "U1 has commanded you to follow!"
+to german "U1(name) hat Dir befohlen zu folgen!";
+
+translate "There was nobody of lower rank in a 300-foot radius to command."
+to german "Es ist niemand niedrigeren Ranges in Deinem 300-Fuß Umkreis zu befehligen.";
+
+translate "There was nobody of lower rank in a 500-foot radius to command."
+to german "Es ist niemand niedrigeren Ranges in Deinem 500-Fuß Umkreises zu befehligen.";
+
+//Josh: This still doesn't work. I tried O1(pn,sn) also K1
+translate "Rank in O1 is N1"
+to german "Rang im O1(pn) ist N1";
+
+translate "Rank in heket is N1"
+to german "Rang in Heket ist N1";
+
+translate "Ranks in Conflict are:"
+to german "Rang in Konflikt ist:";
+
+translate "Check Ranks in Conflict"
+to german "Prüfe die Ränge des Konfliktes";
+
+//objects
+translate StatueOfMontu to german feminine
+{
+  swa "Statue des Montu";
+  sn "Statue des Montu"; sg "Statue des Montu"; sd "Statue des Montu"; sa "Statue des Montu";
+  pn "Statuen des Montu"; pg "Statuen des Montu"; pd "Statuen des Montu"; pa "Statuen des Montu";
+}
+translate StatueOfSnake to german feminine
+{
+  swa "Statue der Schlange";
+  sn "Statue der Schlange"; sg "Statue der Schlange"; sd "Statue der Schlange"; sa "Statue der Schlange";
+  pn "Statuen der Schlange"; pg "Statuen der Schlange"; pd "Statuen der Schlange"; pa "Statuen der Schlange";
+}
+translate StatueOfLion to german feminine
+{
+  swa "Statue des Löwen";
+  sn "Statue des Löwen"; sg "Statue des Löwen"; sd "Statue des Löwen"; sa "Statue des Löwen";
+  pn "Statuen des Löwen"; pg "Statuen des Löwen"; pd "Statuen des Löwen"; pa "Statuen des Löwen";
+}
+translate FlamingAltar to german masculine
+{
+  swa "Flammenaltar";
+  sn "Flammenaltar"; sg "Flammenaltars"; sd "Flammenaltar"; sa "Flammenaltar";
+  pn "Flammenaltäre"; pg "Flammenaltäre"; pd "Flammenaltären"; pa "Flammenaltäre";
+}
+translate RiteCommand to german masculine
+{
+  swa "Ritus des Befehls";
+  sn "Ritus des Befehls"; 
+  pn "Riten des Befehls"; 
+}
+translate RiteSkirmish to german masculine
+{
+  swa "Ritus des Scharmützels";
+  sn "Ritus des Scharmützels"; 
+  pn "Riten des Scharmützels"; 
+}
+translate RiteFormalDuel to german masculine
+{
+  swa "Ritus des formellen Duells";
+  sn "Ritus des formellen Duells"; 
+  pn "Riten des formellen Duells"; 
+}
+translate RiteTwoBattleships to german masculine
+{
+  swa "Ritus der zwei Kriegsschiffe";
+  sn "Ritus der zwei Kriegsschiffe"; 
+  pn "Riten der zwei Kriegsschiffe"; 
+}
+translate RiteRaidingParty to german masculine
+{
+  swa "Ritus des Gruppen-Überfalls";
+  sn "Ritus des Gruppen-Überfalls"; 
+  pn "Riten des Gruppen-Überfalls"; 
+}
+
+translate RiteMelee to german masculine
+{
+  swa "Ritus des Tumultes";
+  sn "Ritus des Tumultes"; 
+  pn "Riten des Tumultes"; 
+}
+translate RiteChaos to german masculine
+{
+  swa "Ritus des Chaos";
+  sn "Ritus des Chaos"; 
+  pn "Riten des Chaos"; 
+}
+translate DuelingArena to german feminine
+{
+  swa "Duellarena";
+  sn "Duellarena"; sg "Duellarena"; sd "Duellarena"; sa "Duellarena";
+  pn "Duellarenen"; pg "Duellarenen"; pd "Duellarenen"; pa "Duellarenen";
+}
+
+
+//texts
+
+translate "U1 is doing something else."
+to german "U1(name) macht etwas anderes.";
+
+translate "U1 does not have the ante."
+to german "U1(name) hat den Einsatz nicht.";
+
+translate "This enables you to change the appearance of your chat bubble."
+to german "Dies ermöglicht dir, die Darstellung deiner Sprechblase zu ändern.";
+
+translate "You have passed the Rite of Command!"
+to german "Du hast den Ritus des Befehls bestanden!";
+
+translate "U1 has achieved level N1 in O1, and there's no reward implemented."
+to german "U1(name) hat die Stufe N1 im O1(pn) erreicht, es ist keine Belohnung vorgesehen.";
+
+translate "We have not programmed the corresponding reward.  Please contact the Pharaoh."
+to german "Wir haben die Belohnung nicht programmiert. Bitte sprich mit Pharaoh.";
+
+translate "Your skill in O1 has advanced to level N1. "
+to german "Deine Fertigkeit im O1(pn) ist zur Stufe N1 aufgestiegen. ";
+
+translate "Your skill in O1 has advanced to level N1. We have not programmed the corresponding reward.  Please contact the Pharaoh."
+to german "Deine Fertigkeit im O1(pn) ist zur Stufe N1 aufgestiegen. Wir haben die Belohnung nicht programmiert. Bitte sprich mit Pharaoh.";
+
+translate "To duel, you must register"
+to german "Für ein Duell mußt Du Dich";
+translate "at the University of Conflict."
+to german "an einer Uni des Konfliktes registrieren.";
+
+translate "Wager: "
+to german "Einsatz: ";
+
+translate "Wager: N1 O1"
+to german "Einsatz: N1 O1(N1?pn:sn)";
+
+translate "Show my Rank"
+to german "Zeige meinen Rang";
+
+translate "N1 in O1"
+to german "N1 im O1(pn)";
+
+translate "N1 Best score."
+to german "N1 Bester Wert.";
+
+translate "Resolving duel between U1 and U2."
+to german "Auflösung des Duells zwischen U1(name) und U2(name).";
+
+translate "Duel over: U1 wins."
+to german "Duell vorbei: U1(name) hat gewonnen.";
+
+translate "Match over: U1 wins."
+to german "Spiel vorbei: U1(name) hat gewonnen.";
+
+translate "Your duel with U1 has been cancelled. "
+to german "Dein Duell mit U1(name) wurde abgebrochen. ";
+//I think this won't work...but better than no translation
+
+translate "To select an opponent, you must have the ante: N1 O1"
+to german "Um einen Gegner zu wählen, musst du an Einsatz bringen: N1 O1(N1?pn:sn)";
+
+translate "Duel: U1 vs U2 in N1 seconds. Prepare yourself!"
+to german "Duell: U1(name) gegen U2(name) in N1 Sekunden. Bereitmachen!";
+
+translate "Please wait for an opponent."
+to german "Bitte warte auf einen Gegner.";
+
+translate "Select your opponent:"
+to german "Wähle Deinen Gegner:";
+
+translate "The duel is about to begin!"
+to german "Das Duell beginnt gleich!";
+
+translate "Please wait while your opponent studies his deck."
+to german "Bitte warte, während Dein Gegner seinen Stapel studiert.";
+
+translate "You now have time to study the deck before the duel begins."
+to german "Du hast nun Zeit, Deinen Stapel zu studieren, bevor das Duell beginnt.";
+
+translate "Duel: U1 vs U2"
+to german "Duell: U1(name) vs U2(name)";
+
+translate "Time: N1"
+to german "Zeit: N1";
+
+translate "Cards: N1"
+to german "Karten: N1";
+
+translate "The players can study the cards before the match begins."
+to german "Die Spieler können nun ihre Karten studieren, bevor der Wettkampf beginnt.";
+
+translate "The players should now advance to the podium."
+to german "Die Spieler können nun zum Podium vortreten.";
+
+translate "Please advance to the podium."
+to german "Bitte marschiere zum Podium.";
+
+translate "Duel begins in N1 seconds."
+to german "Duell beginnt in N1 Sekunden.";
+
+translate "When you're ready, choose"
+to german "Wenn Du bereit bist, wähle";
+
+translate "'Select an Opponent'"
+to german "'Wähle einen Gegner'";
+
+translate "from the menu"
+to german "aus dem Menü";
+
+translate "You are not Registered for"
+to german "Du bist nicht registriert für";
+
+translate "To Register, Visit the"
+to german "Um spielen zu können, mußt Du Dich";
+
+translate "University of Conflict"
+to german "an der Uni des Konfliktes registrieren.";
+
+translate "Please wait for your opponent to play his last card"
+to german "Bitte warte, bis Dein Gegner die letzte Karte spielt";
+
+translate "selecting"
+to german "auswählen";
+translate "pending"
+to german "schwebend";
+translate "holding"
+to german "haltend";
+translate "advancing"
+to german "schreitend";
+translate "dueling"
+to german "duellierend";
+translate "watching"
+to german "beobachtend";
+
+translate "Player U1 wins ring N1"
+to german "Spieler U1(name) gewinnt Ring N1";
+
+translate "Player: U1"
+to german "Spieler: U1(name)";
+
+translate "U1's N1 O1 takes a O2 in hand O3"
+to german "U1(name)'s O1(sn) nimmt ein O2(sd) in Hand O3(sn)";
+
+translate "You are officially registered and may participate in O1.  For now, the instructions for conflict are on the web-page at ataleinthedesert.com (click on the 'Rites of Conflict' link)."
+to german "Du bist offiziell registriert und kannst am O1(sd) teilnehmen. Momentan sind die Erklärungen des Konfliktes auf der Seite ataleinthedesert.com (klicke auf 'Riten des Befehls')";
+
+translate "U1's rank in O1 is N1"
+to german "U1(name)'s Rang im O1(sd) ist N1";
+
+translate "Rank in O1 is N1"
+to german "Rang im O1(sd) ist N1";
+
+translate "You have not begun any tests of Conflict."
+to german "Du hast noch keinen Test des Konfliktes begonnen.";
+
+translate "Cancel Duel"
+to german "Duell abbrechen";
+
+translate "Go Poof"
+to german "Lasse es puffen";
+
+translate "pow N1/N2"
+to german "St N1/N2";
+translate "pow -N1/N2"
+to german "St -N1/N2";
+translate "pow N1/-N2"
+to german "St N1/-N2";
+
+translate "Ring N1"
+to german "Reihe N1";
+translate "Ring N1:"
+to german "Reihe N1:";
+
+translate "  SN1: U1's O1"
+to german "  SN1: U1(name)'s O1(pn)";
+
+translate "  WN1: U1's O1"
+to german "  WN1: U1(name)'s O1(pn)";
+
+translate "U1's O1 (SN1) takes a O2 (WN2) in hand N3"
+to german "U1(name)'s O1(pn) (SN1) nimmt eine O2(pn) (WN2) in Hand N3";
+
+translate "U1's O1 power N1 (SN2) defeats U2's O2 power N3 (SN4)"
+to german "U1(name)'s O1(pn) Stärke N1 (SN2) besiegt U2(name)'s O2(pn) Stärke N3 (SN4)";
+
+translate "U1's O1 power -N1 (SN2) defeats U2's O2 power -N3 (SN4)"
+to german "U1(name)'s O1(pn) Stärke -N1 (SN2) besiegt U2(name)'s O2(pn) Stärke -N3 (SN4)";
+
+translate "U1's O1 power N1 (SN2) defeats U2's O2 power -N3 (SN4)"
+to german "U1(name)'s O1(pn) Stärke N1 (SN2) besiegt U2(name)'s O2(pn) Stärke -N3 (SN4)";
+
+translate "U1's O1 power -N1 (SN2) defeats U2's O2 power N3 (SN4)"
+to german "U1(name)'s O1(pn) Stärke -N1 (SN2) besiegt U2(name)'s O2(pn) Stärke N3 (SN4)";
+

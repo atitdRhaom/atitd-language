@@ -1,0 +1,1022 @@
+module oasistypes_fre;
+
+translate OAPAdzaka to french masculine 
+{ns "Adzaka"; np "Adzaka";}
+
+translate OAPAstar to french masculine 
+{ns "Astar"; np "Astar";}
+
+translate OAPBamboo to french masculine 
+{ns "Bamboo"; np "Bamboo";}
+
+translate OAPBigLeafPlant to french masculine 
+{ns "BigLeafPlant"; np "BigLeafPlant";}
+
+translate OAPBluePumilaGrass to french masculine 
+{ns "BluePumilaGrass"; np "BluePumilaGrass";}
+
+translate OAPBogMallow to french masculine 
+{ns "BogMallow"; np "BogMallow";}
+
+translate OAPBrushae to french masculine 
+{ns "Brushae"; np "Brushae";}
+
+translate OAPBuffaloGrass to french masculine 
+{ns "BuffaloGrass"; np "BuffaloGrass";}
+
+translate OAPCarbinaFern to french masculine 
+{ns "CarbinaFern"; np "CarbinaFern";}
+
+translate OAPCastora to french masculine 
+{ns "Castora"; np "Castora";}
+
+translate OAPCatsTongue to french masculine 
+{ns "CatsTongue"; np "CatsTongue";}
+
+translate OAPCattails to french masculine 
+{ns "Cattails"; np "Cattails";}
+
+translate OAPChantotinarae to french masculine 
+{ns "Chantotinarae"; np "Chantotinarae";}
+
+translate OAPChiffonFunnelPlant to french masculine 
+{ns "ChiffonFunnelPlant"; np "ChiffonFunnelPlant";}
+
+translate OAPCleareye to french masculine 
+{ns "Cleareye"; np "Cleareye";}
+
+translate OAPCobraWeed to french masculine 
+{ns "CobraWeed"; np "CobraWeed";}
+
+translate OAPColeus to french masculine 
+{ns "Coleus"; np "Coleus";}
+
+translate OAPCurltipSnakePlant to french masculine 
+{ns "CurltipSnakePlant"; np "CurltipSnakePlant";}
+
+translate OAPDarkKingsCrown to french masculine 
+{ns "DarkKingsCrown"; np "DarkKingsCrown";}
+
+translate OAPDarkPampasGrass to french masculine 
+{ns "DarkPampasGrass"; np "DarkPampasGrass";}
+
+translate OAPDatePalm to french masculine 
+{ns "Dattier"; np "Dattier";}
+
+translate OAPDravos to french masculine 
+{ns "Dravos"; np "Dravos";}
+
+translate OAPDwarfSacrificeWeed to french masculine 
+{ns "DwarfSacrificeWeed"; np "DwarfSacrificeWeed";}
+
+translate OAPEmeraldFlag to french masculine 
+{ns "EmeraldFlag"; np "EmeraldFlag";}
+
+translate OAPFirecrack to french masculine 
+{ns "Firecrack"; np "Firecrack";}
+
+translate OAPFullIsisHeaddress to french masculine 
+{ns "FullIsisHeaddress"; np "FullIsisHeaddress";}
+
+translate OAPGammaGrass to french masculine 
+{ns "GammaGrass"; np "GammaGrass";}
+
+translate OAPGargantuanTaro to french masculine 
+{ns "GargantuanTaro"; np "GargantuanTaro";}
+
+translate OAPGiantLavenderStonecrop to french masculine 
+{ns "GiantLavenderStonecrop"; np "GiantLavenderStonecrop";}
+
+translate OAPGoldenPampasGrass to french masculine 
+{ns "GoldenPampasGrass"; np "GoldenPampasGrass";}
+
+translate OAPGoldenStandard to french masculine 
+{ns "GoldenStandard"; np "GoldenStandard";}
+
+translate OAPGreenGroundCover to french masculine 
+{ns "GreenGroundCover"; np "GreenGroundCover";}
+
+translate OAPHaresTongueFern to french masculine 
+{ns "HaresTongueFern"; np "HaresTongueFern";}
+
+translate OAPHathorsCup to french masculine 
+{ns "HathorsCup"; np "HathorsCup";}
+
+translate OAPHellia to french masculine 
+{ns "Hellia"; np "Hellia";}
+
+translate OAPIsisHeaddress to french masculine 
+{ns "IsisHeaddress"; np "IsisHeaddress";}
+
+translate OAPIvoryFunnelPlant to french masculine 
+{ns "IvoryFunnelPlant"; np "IvoryFunnelPlant";}
+
+translate OAPKarroka to french masculine 
+{ns "Karroka"; np "Karroka";}
+
+translate OAPKingFern to french masculine 
+{ns "KingFern"; np "KingFern";}
+
+translate OAPKingsCrown to french masculine 
+{ns "KingsCrown"; np "KingsCrown";}
+
+translate OAPKivimira to french masculine 
+{ns "Kivimira"; np "Kivimira";}
+
+translate OAPKnotGrass to french masculine 
+{ns "KnotGrass"; np "KnotGrass";}
+
+translate OAPLambsEar to french masculine 
+{ns "LambsEar"; np "LambsEar";}
+
+translate OAPLaurelShrub to french masculine 
+{ns "LaurelShrub"; np "LaurelShrub";}
+
+translate OAPLowVermillionStandard to french masculine 
+{ns "LowVermillionStandard"; np "LowVermillionStandard";}
+
+translate OAPMadweedShrub to french masculine 
+{ns "MadweedShrub"; np "MadweedShrub";}
+
+translate OAPMaidensRuin to french masculine 
+{ns "MaidensRuin"; np "MaidensRuin";}
+
+translate OAPMassan to french masculine 
+{ns "Massan"; np "Massan";}
+
+translate OAPMilkWeed to french masculine 
+{ns "MilkWeed"; np "MilkWeed";}
+
+translate OAPMillefoil to french masculine 
+{ns "Millefoil"; np "Millefoil";}
+
+translate OAPNavarre to french masculine 
+{ns "Navarre"; np "Navarre";}
+
+translate OAPNightsBeauty to french masculine 
+{ns "NightsBeauty"; np "NightsBeauty";}
+
+translate OAPOlivePumilaGrass to french masculine 
+{ns "OlivePumilaGrass"; np "OlivePumilaGrass";}
+
+translate OAPOracleRoot to french masculine 
+{ns "OracleRoot"; np "OracleRoot";}
+
+translate OAPPalePampasGrass to french masculine 
+{ns "PalePampasGrass"; np "PalePampasGrass";}
+
+translate OAPPilgrimsSacrificeWeed to french masculine 
+{ns "PilgrimsSacrificeWeed"; np "PilgrimsSacrificeWeed";}
+
+translate OAPPirella to french masculine 
+{ns "Pirella"; np "Pirella";}
+
+translate OAPPranesh to french masculine 
+{ns "Pranesh"; np "Pranesh";}
+
+translate OAPPumilaGrass to french masculine 
+{ns "PumilaGrass"; np "PumilaGrass";}
+
+translate OAPQuince to french masculine 
+{ns "Quince"; np "Quince";}
+
+translate OAPRedCarpet to french masculine 
+{ns "RedCarpet"; np "RedCarpet";}
+
+translate OAPRippleLeafLily to french masculine 
+{ns "RippleLeafLily"; np "RippleLeafLily";}
+
+translate OAPRiverReeds to french masculine 
+{ns "RiverReeds"; np "RiverReeds";}
+
+translate OAPRosyStonecrop to french masculine 
+{ns "RosyStonecrop"; np "RosyStonecrop";}
+
+translate OAPRyegrass to french masculine 
+{ns "Ryegrass"; np "Ryegrass";}
+
+translate OAPSerpentsShade to french masculine 
+{ns "SerpentsShade"; np "SerpentsShade";}
+
+translate OAPShowyStonecrop to french masculine 
+{ns "ShowyStonecrop"; np "ShowyStonecrop";}
+
+translate OAPSilverbell to french masculine 
+{ns "Silverbell"; np "Silverbell";}
+
+translate OAPSnakePlant to french masculine 
+{ns "SnakePlant"; np "SnakePlant";}
+
+translate OAPSunsetGroundpalm to french masculine 
+{ns "SunsetGroundpalm"; np "SunsetGroundpalm";}
+
+translate OAPTallWaxySedge to french masculine 
+{ns "Carex cireux"; np "Carex cireux";}
+
+translate OAPTaro to french masculine 
+{ns "Taro"; np "Taro";}
+
+translate OAPTrunklessRadicalisPalm to french masculine 
+{ns "TrunklessRadicalisPalm"; np "TrunklessRadicalisPalm";}
+
+translate OAPUllern to french masculine 
+{ns "Ullern"; np "Ullern";}
+
+translate OAPVelvetHosta to french masculine 
+{ns "VelvetHosta"; np "VelvetHosta";}
+
+translate OAPVermillionStandard to french masculine 
+{ns "VermillionStandard"; np "VermillionStandard";}
+
+translate OAPVioletBard to french masculine 
+{ns "VioletBard"; np "VioletBard";}
+
+translate OAPWaterBlossom to french masculine 
+{ns "WaterBlossom"; np "WaterBlossom";}
+
+translate OAPWaterLeaf to french masculine 
+{ns "WaterLeaf"; np "WaterLeaf";}
+
+translate OAPWaxySedge to french masculine 
+{ns "WaxySedge"; np "WaxySedge";}
+
+translate OAPWidowsBrush to french masculine 
+{ns "WidowsBrush"; np "WidowsBrush";}
+
+translate OAPWildOats to french masculine 
+{ns "WildOats"; np "WildOats";}
+
+translate OAPWildSeaOats to french masculine 
+{ns "WildSeaOats"; np "WildSeaOats";}
+
+translate OAPWindmere to french masculine 
+{ns "Windmere"; np "Windmere";}
+
+translate OAPYellowGroundPalm to french masculine 
+{ns "YellowGroundPalm"; np "YellowGroundPalm";}
+
+translate OAPAllbright to french masculine 
+{ns "Allbright"; np "Allbright";}
+
+translate OAPAloe to french masculine 
+{ns "Aloe"; np "Aloe";}
+
+translate OAPAltarsBlessing to french masculine 
+{ns "AltarsBlessing"; np "AltarsBlessing";}
+
+translate OAPApiphenalm to french masculine 
+{ns "Apiphenalm"; np "Apiphenalm";}
+
+translate OAPApothecarysScythe to french masculine 
+{ns "ApothecarysScythe"; np "ApothecarysScythe";}
+
+translate OAPArtemisia to french masculine 
+{ns "Artemisia"; np "Artemisia";}
+
+translate OAPAsane to french masculine 
+{ns "Asane"; np "Asane";}
+
+translate OAPAshoka to french masculine 
+{ns "Ashoka"; np "Ashoka";}
+
+translate OAPAzureTristeria to french masculine 
+{ns "AzureTristeria"; np "AzureTristeria";}
+
+translate OAPBayTree to french masculine 
+{ns "BayTree"; np "BayTree";}
+
+translate OAPBeeBalm to french masculine 
+{ns "BeeBalm"; np "BeeBalm";}
+
+translate OAPBeetleLeaf to french masculine 
+{ns "BeetleLeaf"; np "BeetleLeaf";}
+
+translate OAPBhillawa to french masculine 
+{ns "Bhillawa"; np "Bhillawa";}
+
+translate OAPBlackPepperPlant to french masculine 
+{ns "BlackPepperPlant"; np "BlackPepperPlant";}
+
+translate OAPBloodBalm to french masculine 
+{ns "BloodBalm"; np "BloodBalm";}
+
+translate OAPBloodBlossom to french masculine 
+{ns "BloodBlossom"; np "BloodBlossom";}
+
+translate OAPBloodRoot to french masculine 
+{ns "BloodRoot"; np "BloodRoot";}
+
+translate OAPBloodwort to french masculine 
+{ns "Bloodwort"; np "Bloodwort";}
+
+translate OAPBlueberryTeaTree to french masculine 
+{ns "BlueberryTeaTree"; np "BlueberryTeaTree";}
+
+translate OAPBluebottleClover to french masculine 
+{ns "BluebottleClover"; np "BluebottleClover";}
+
+translate OAPBlueDamia to french masculine 
+{ns "BlueDamia"; np "BlueDamia";}
+
+translate OAPBlueTarafern to french masculine 
+{ns "BlueTarafern"; np "BlueTarafern";}
+
+translate OAPBlushingBlossom to french masculine 
+{ns "BlushingBlossom"; np "BlushingBlossom";}
+
+translate OAPBrassyCaltrops to french masculine 
+{ns "BrassyCaltrops"; np "BrassyCaltrops";}
+
+translate OAPBrownMuskerro to french masculine 
+{ns "BrownMuskerro"; np "BrownMuskerro";}
+
+translate OAPBullsBlood to french masculine 
+{ns "BullsBlood"; np "BullsBlood";}
+
+translate OAPBurntTarragon to french masculine 
+{ns "BurntTarragon"; np "BurntTarragon";}
+
+translate OAPButterflyDamia to french masculine 
+{ns "ButterflyDamia"; np "ButterflyDamia";}
+
+translate OAPButterroot to french masculine 
+{ns "Butterroot"; np "Butterroot";}
+
+translate OAPCamelmint to french masculine 
+{ns "Camelmint"; np "Camelmint";}
+
+translate OAPCaraway to french masculine 
+{ns "Caraway"; np "Caraway";}
+
+translate OAPCardamom to french masculine 
+{ns "Cardamom"; np "Cardamom";}
+
+translate OAPCassia to french masculine 
+{ns "Cassia"; np "Cassia";}
+
+translate OAPChaffa to french masculine 
+{ns "Chaffa"; np "Chaffa";}
+
+translate OAPChatinabrae to french masculine 
+{ns "Chatinabrae"; np "Chatinabrae";}
+
+translate OAPChives to french masculine 
+{ns "Chives"; np "Chives";}
+
+translate OAPChukkah to french masculine 
+{ns "Chukkah"; np "Chukkah";}
+
+translate OAPCicadaBean to french masculine 
+{ns "CicadaBean"; np "CicadaBean";}
+
+translate OAPCinnamon to french masculine 
+{ns "Cinnamon"; np "Cinnamon";}
+
+translate OAPCinquefoil to french masculine 
+{ns "Cinquefoil"; np "Cinquefoil";}
+
+translate OAPCirallis to french masculine 
+{ns "Cirallis"; np "Cirallis";}
+
+translate OAPCommonBasil to french masculine 
+{ns "CommonBasil"; np "CommonBasil";}
+
+translate OAPCommonRosemary to french masculine 
+{ns "CommonRosemary"; np "CommonRosemary";}
+
+translate OAPCommonSage to french masculine 
+{ns "CommonSage"; np "CommonSage";}
+
+translate OAPCorsacia to french masculine 
+{ns "Corsacia"; np "Corsacia";}
+
+translate OAPCovage to french masculine 
+{ns "Covage"; np "Covage";}
+
+translate OAPCranesbill to french masculine 
+{ns "Cranesbill"; np "Cranesbill";}
+
+translate OAPCreepingBlackNightshade to french masculine 
+{ns "CreepingBlackNightshade"; np "CreepingBlackNightshade";}
+
+translate OAPCreepingThyme to french masculine 
+{ns "CreepingThyme"; np "CreepingThyme";}
+
+translate OAPCrimsonClover to french masculine 
+{ns "CrimsonClover"; np "CrimsonClover";}
+
+translate OAPCrimsonLettuce to french masculine 
+{ns "CrimsonLettuce"; np "CrimsonLettuce";}
+
+translate OAPCrimsonNightshade to french masculine 
+{ns "CrimsonNightshade"; np "CrimsonNightshade";}
+
+translate OAPCrimsonWindleaf to french masculine 
+{ns "CrimsonWindleaf"; np "CrimsonWindleaf";}
+
+translate OAPCrumpledLeafBasil to french masculine 
+{ns "CrumpledLeafBasil"; np "CrumpledLeafBasil";}
+
+translate OAPCurlySage to french masculine 
+{ns "CurlySage"; np "CurlySage";}
+
+translate OAPCyanCressida to french masculine 
+{ns "CyanCressida"; np "CyanCressida";}
+
+translate OAPDaggerleaf to french masculine 
+{ns "Daggerleaf"; np "Daggerleaf";}
+
+translate OAPDalchini to french masculine 
+{ns "Dalchini"; np "Dalchini";}
+
+translate OAPDameshood to french masculine 
+{ns "Dameshood"; np "Dameshood";}
+
+translate OAPDankMullien to french masculine 
+{ns "DankMullien"; np "DankMullien";}
+
+translate OAPDarkOchoa to french masculine 
+{ns "DarkOchoa"; np "DarkOchoa";}
+
+translate OAPDarkRadish to french masculine 
+{ns "DarkRadish"; np "DarkRadish";}
+
+translate OAPDeadlyCatsclaw to french masculine 
+{ns "DeadlyCatsclaw"; np "DeadlyCatsclaw";}
+
+translate OAPDeadwoodTree to french masculine 
+{ns "DeadwoodTree"; np "DeadwoodTree";}
+
+translate OAPDewplant to french masculine 
+{ns "Dewplant"; np "Dewplant";}
+
+translate OAPDigweed to french masculine 
+{ns "Digweed"; np "Digweed";}
+
+translate OAPDrapeauDor to french masculine 
+{ns "DrapeauDor"; np "DrapeauDor";}
+
+translate OAPDustyBlueSage to french masculine 
+{ns "DustyBlueSage"; np "DustyBlueSage";}
+
+translate OAPDwarfWildLettuce to french masculine 
+{ns "DwarfWildLettuce"; np "DwarfWildLettuce";}
+
+translate OAPEarthApple to french masculine 
+{ns "EarthApple"; np "EarthApple";}
+
+translate OAPElegia to french masculine 
+{ns "Elegia"; np "Elegia";}
+
+translate OAPEnchantersPlant to french masculine 
+{ns "EnchantersPlant"; np "EnchantersPlant";}
+
+translate OAPFinlow to french masculine 
+{ns "Finlow"; np "Finlow";}
+
+translate OAPFireAllspice to french masculine 
+{ns "FireAllspice"; np "FireAllspice";}
+
+translate OAPFireLily to french masculine 
+{ns "FireLily"; np "FireLily";}
+
+translate OAPFivesleaf to french masculine 
+{ns "Fivesleaf"; np "Fivesleaf";}
+
+translate OAPFleabane to french masculine 
+{ns "Fleabane"; np "Fleabane";}
+
+translate OAPFumitory to french masculine 
+{ns "Fumitory"; np "Fumitory";}
+
+translate OAPGarcinia to french masculine 
+{ns "Garcinia"; np "Garcinia";}
+
+translate OAPGarlicChives to french masculine 
+{ns "GarlicChives"; np "GarlicChives";}
+
+translate OAPGingerRoot to french masculine 
+{ns "GingerRoot"; np "GingerRoot";}
+
+translate OAPGingerTarragon to french masculine 
+{ns "GingerTarragon"; np "GingerTarragon";}
+
+translate OAPGinsengRoot to french masculine 
+{ns "GinsengRoot"; np "GinsengRoot";}
+
+translate OAPGlechoma to french masculine 
+{ns "Glechoma"; np "Glechoma";}
+
+translate OAPGokhru to french masculine 
+{ns "Gokhru"; np "Gokhru";}
+
+translate OAPGoldenDubloons to french masculine 
+{ns "GoldenDubloons"; np "GoldenDubloons";}
+
+translate OAPGoldenGladalia to french masculine 
+{ns "GoldenGladalia"; np "GoldenGladalia";}
+
+translate OAPGoldenSellia to french masculine 
+{ns "GoldenSellia"; np "GoldenSellia";}
+
+translate OAPGoldenSweetgrass to french masculine 
+{ns "GoldenSweetgrass"; np "GoldenSweetgrass";}
+
+translate OAPGoldenThyme to french masculine 
+{ns "GoldenThyme"; np "GoldenThyme";}
+
+translate OAPHomesteadersPalm to french masculine 
+{ns "Palmier colon"; np "Palmier colon";}
+
+translate OAPHoneyMint to french masculine 
+{ns "HoneyMint"; np "HoneyMint";}
+
+translate OAPHouseleek to french masculine 
+{ns "Houseleek"; np "Houseleek";}
+
+translate OAPIceBlossom to french masculine 
+{ns "IceBlossom"; np "IceBlossom";}
+
+translate OAPIceMint to french masculine 
+{ns "IceMint"; np "IceMint";}
+
+translate OAPIndigoDamia to french masculine 
+{ns "IndigoDamia"; np "IndigoDamia";}
+
+translate OAPIpomoea to french masculine 
+{ns "Ipomoea"; np "Ipomoea";}
+
+translate OAPJaivanti to french masculine 
+{ns "Jaivanti"; np "Jaivanti";}
+
+translate OAPJaiyanti to french masculine 
+{ns "Jaiyanti"; np "Jaiyanti";}
+
+translate OAPJoyoftheMountain to french masculine 
+{ns "JoyoftheMountain"; np "JoyoftheMountain";}
+
+translate OAPKatakoRoot to french masculine 
+{ns "KatakoRoot"; np "KatakoRoot";}
+
+translate OAPKhokali to french masculine 
+{ns "Khokali"; np "Khokali";}
+
+translate OAPKingsCoin to french masculine 
+{ns "KingsCoin"; np "KingsCoin";}
+
+translate OAPLamae to french masculine 
+{ns "Lamae"; np "Lamae";}
+
+translate OAPLavenderNavarre to french masculine 
+{ns "LavenderNavarre"; np "LavenderNavarre";}
+
+translate OAPLavenderScentedThyme to french masculine 
+{ns "LavenderScentedThyme"; np "LavenderScentedThyme";}
+
+translate OAPLemonBasil to french masculine 
+{ns "LemonBasil"; np "LemonBasil";}
+
+translate OAPLemondrop to french masculine 
+{ns "Lemondrop"; np "Lemondrop";}
+
+translate OAPLemonGrass to french masculine 
+{ns "LemonGrass"; np "LemonGrass";}
+
+translate OAPLilia to french masculine 
+{ns "Lilia"; np "Lilia";}
+
+translate OAPLiquorice to french masculine 
+{ns "Liquorice"; np "Liquorice";}
+
+translate OAPLungclot to french masculine 
+{ns "Lungclot"; np "Lungclot";}
+
+translate OAPMahonia to french masculine 
+{ns "Mahonia"; np "Mahonia";}
+
+translate OAPMaliceWeed to french masculine 
+{ns "MaliceWeed"; np "MaliceWeed";}
+
+translate OAPMandrakeRoot to french masculine 
+{ns "MandrakeRoot"; np "MandrakeRoot";}
+
+translate OAPMaragosa to french masculine 
+{ns "Maragosa"; np "Maragosa";}
+
+translate OAPMeadowsweet to french masculine 
+{ns "Meadowsweet"; np "Meadowsweet";}
+
+translate OAPMedicago to french masculine 
+{ns "Medicago"; np "Medicago";}
+
+translate OAPMindanao to french masculine 
+{ns "Mindanao"; np "Mindanao";}
+
+translate OAPMiniatureBamboo to french masculine 
+{ns "MiniatureBamboo"; np "MiniatureBamboo";}
+
+translate OAPMiniatureLamae to french masculine 
+{ns "MiniatureLamae"; np "MiniatureLamae";}
+
+translate OAPMirabellisFern to french masculine 
+{ns "MirabellisFern"; np "MirabellisFern";}
+
+translate OAPMoonAloe to french masculine 
+{ns "MoonAloe"; np "MoonAloe";}
+
+translate OAPMountainMint to french masculine 
+{ns "MountainMint"; np "MountainMint";}
+
+translate OAPMyrrh to french masculine 
+{ns "Myrrh"; np "Myrrh";}
+
+translate OAPNaranga to french masculine 
+{ns "Naranga"; np "Naranga";}
+
+translate OAPNubianLiquorice to french masculine 
+{ns "NubianLiquorice"; np "NubianLiquorice";}
+
+translate OAPOctecsGrace to french masculine 
+{ns "OctecsGrace"; np "OctecsGrace";}
+
+translate OAPOrangeNiali to french masculine 
+{ns "OrangeNiali"; np "OrangeNiali";}
+
+translate OAPOrangeSweetgrass to french masculine 
+{ns "OrangeSweetgrass"; np "OrangeSweetgrass";}
+
+translate OAPOrris to french masculine 
+{ns "Orris"; np "Orris";}
+
+translate OAPPaleDhamasa to french masculine 
+{ns "PaleDhamasa"; np "PaleDhamasa";}
+
+translate OAPPaleOchoa to french masculine 
+{ns "PaleOchoa"; np "PaleOchoa";}
+
+translate OAPPaleRusset to french masculine 
+{ns "PaleRusset"; np "PaleRusset";}
+
+translate OAPPanoe to french masculine 
+{ns "Panoe"; np "Panoe";}
+
+translate OAPParadiseLily to french masculine 
+{ns "ParadiseLily"; np "ParadiseLily";}
+
+translate OAPPatchouli to french masculine 
+{ns "Patchouli"; np "Patchouli";}
+
+translate OAPPeppermint to french masculine 
+{ns "Peppermint"; np "Peppermint";}
+
+translate OAPPippali to french masculine 
+{ns "Pippali"; np "Pippali";}
+
+translate OAPPrimula to french masculine 
+{ns "Primula"; np "Primula";}
+
+translate OAPPrisniparni to french masculine 
+{ns "Prisniparni"; np "Prisniparni";}
+
+translate OAPPulmonariaOpal to french masculine 
+{ns "PulmonariaOpal"; np "PulmonariaOpal";}
+
+translate OAPPurpleTintiri to french masculine 
+{ns "PurpleTintiri"; np "PurpleTintiri";}
+
+translate OAPRedPepperPlant to french masculine 
+{ns "RedPepperPlant"; np "RedPepperPlant";}
+
+translate OAPRevivia to french masculine 
+{ns "Revivia"; np "Revivia";}
+
+translate OAPRhubarb to french masculine 
+{ns "Rhubarb"; np "Rhubarb";}
+
+translate OAPRoyalRosemary to french masculine 
+{ns "RoyalRosemary"; np "RoyalRosemary";}
+
+translate OAPRubia to french masculine 
+{ns "Rubia"; np "Rubia";}
+
+translate OAPSacredPalm to french masculine 
+{ns "Palmier Sacré"; np "Palmier Sacré";}
+
+translate OAPSagarGhota to french masculine 
+{ns "SagarGhota"; np "SagarGhota";}
+
+translate OAPSandalwood to french masculine 
+{ns "Sandalwood"; np "Sandalwood";}
+
+translate OAPSandyDustweed to french masculine 
+{ns "SandyDustweed"; np "SandyDustweed";}
+
+translate OAPSatsatchi to french masculine 
+{ns "Satsatchi"; np "Satsatchi";}
+
+translate OAPScaleyHardwood to french masculine 
+{ns "Arbre à écailles"; np "Arbre à écailles";}
+
+translate OAPSchisandra to french masculine 
+{ns "Schisandra"; np "Schisandra";}
+
+translate OAPShrubbyBasil to french masculine 
+{ns "ShrubbyBasil"; np "ShrubbyBasil";}
+
+translate OAPShrubSage to french masculine 
+{ns "ShrubSage"; np "ShrubSage";}
+
+translate OAPShyama to french masculine 
+{ns "Shyama"; np "Shyama";}
+
+translate OAPShyamalata to french masculine 
+{ns "Shyamalata"; np "Shyamalata";}
+
+translate OAPSicklyRoot to french masculine 
+{ns "SicklyRoot"; np "SicklyRoot";}
+
+translate OAPSilvertongueDamia to french masculine 
+{ns "SilvertongueDamia"; np "SilvertongueDamia";}
+
+translate OAPSkyGladalia to french masculine 
+{ns "SkyGladalia"; np "SkyGladalia";}
+
+translate OAPSoapwort to french masculine 
+{ns "Soapwort"; np "Soapwort";}
+
+translate OAPSorrel to french masculine 
+{ns "Sorrel"; np "Sorrel";}
+
+translate OAPSpinach to french masculine 
+{ns "Spinach"; np "Spinach";}
+
+translate OAPSpinnea to french masculine 
+{ns "Spinnea"; np "Spinnea";}
+
+translate OAPSteelBladegrass to french masculine 
+{ns "SteelBladegrass"; np "SteelBladegrass";}
+
+translate OAPStrawberryTea to french masculine 
+{ns "StrawberryTea"; np "StrawberryTea";}
+
+translate OAPStrychnos to french masculine 
+{ns "Strychnos"; np "Strychnos";}
+
+translate OAPSugarCane to french masculine 
+{ns "SugarCane"; np "SugarCane";}
+
+translate OAPSweetflower to french masculine 
+{ns "Sweetflower"; np "Sweetflower";}
+
+translate OAPSweetgrass to french masculine 
+{ns "Sweetgrass"; np "Sweetgrass";}
+
+translate OAPTamarask to french masculine 
+{ns "Tamarask"; np "Tamarask";}
+
+translate OAPTangerineDream to french masculine 
+{ns "TangerineDream"; np "TangerineDream";}
+
+translate OAPThunderPlant to french masculine 
+{ns "ThunderPlant"; np "ThunderPlant";}
+
+translate OAPThyme to french masculine 
+{ns "Thyme"; np "Thyme";}
+
+translate OAPTinyClover to french masculine 
+{ns "TinyClover"; np "TinyClover";}
+
+translate OAPTrilobe to french masculine 
+{ns "Trilobe"; np "Trilobe";}
+
+translate OAPTristeria to french masculine 
+{ns "Tristeria"; np "Tristeria";}
+
+translate OAPTrueTarragon to french masculine 
+{ns "TrueTarragon"; np "TrueTarragon";}
+
+translate OAPTsangto to french masculine 
+{ns "Tsangto"; np "Tsangto";}
+
+translate OAPTsatso to french masculine 
+{ns "Tsatso"; np "Tsatso";}
+
+translate OAPTurtlesShell to french masculine 
+{ns "TurtlesShell"; np "TurtlesShell";}
+
+translate OAPUmberBasil to french masculine 
+{ns "UmberBasil"; np "UmberBasil";}
+
+translate OAPUprightOchoa to french masculine 
+{ns "UprightOchoa"; np "UprightOchoa";}
+
+translate OAPVanillaTeaTree to french masculine 
+{ns "VanillaTeaTree"; np "VanillaTeaTree";}
+
+translate OAPVerdantTwoLobe to french masculine 
+{ns "VerdantTwoLobe"; np "VerdantTwoLobe";}
+
+translate OAPWasabi to french masculine 
+{ns "Wasabi"; np "Wasabi";}
+
+translate OAPWeepingPatala to french masculine 
+{ns "WeepingPatala"; np "WeepingPatala";}
+
+translate OAPWhitebelly to french masculine 
+{ns "Whitebelly"; np "Whitebelly";}
+
+translate OAPWhitePepperPlant to french masculine 
+{ns "WhitePepperPlant"; np "WhitePepperPlant";}
+
+translate OAPWildGarlic to french masculine 
+{ns "WildGarlic"; np "WildGarlic";}
+
+translate OAPWildLettuce to french masculine 
+{ns "WildLettuce"; np "WildLettuce";}
+
+translate OAPWildOnion to french masculine 
+{ns "WildOnion"; np "WildOnion";}
+
+translate OAPWildYam to french masculine 
+{ns "WildYam"; np "WildYam";}
+
+translate OAPWoodSage to french masculine 
+{ns "WoodSage"; np "WoodSage";}
+
+translate OAPXanat to french masculine 
+{ns "Xanat"; np "Xanat";}
+
+translate OAPXanosi to french masculine 
+{ns "Xanosi"; np "Xanosi";}
+
+translate OAPYava to french masculine 
+{ns "Yava"; np "Yava";}
+
+translate OAPYellowGentian to french masculine 
+{ns "YellowGentian"; np "YellowGentian";}
+
+translate OAPYellowTristeria to french masculine 
+{ns "YellowTristeria"; np "YellowTristeria";}
+
+translate OAPYigory to french masculine 
+{ns "Yigory"; np "Yigory";}
+
+translate OAPTextureReference to french masculine 
+{ns "TextureReference"; np "TextureReference";}
+
+translate OAPBlueGrass to french masculine 
+{ns "BlueGrass"; np "BlueGrass";}
+
+translate OAPCorpseWeed to french masculine 
+{ns "CorpseWeed"; np "CorpseWeed";}
+
+translate OAPDwarfSweetFlag to french masculine 
+{ns "DwarfSweetFlag"; np "DwarfSweetFlag";}
+
+translate OAPKurrat to french masculine 
+{ns "Kurrat"; np "Kurrat";}
+
+translate OAPLionsGrass to french masculine 
+{ns "LionsGrass"; np "LionsGrass";}
+
+translate OAPMarshGrass to french masculine 
+{ns "MarshGrass"; np "MarshGrass";}
+
+translate OAPNarrowLeafKingsCrown to french masculine 
+{ns "NarrowLeafKingsCrown"; np "NarrowLeafKingsCrown";}
+
+translate OAPPonySedge to french masculine 
+{ns "PonySedge"; np "PonySedge";}
+
+translate OAPRazorLeaf to french masculine 
+{ns "RazorLeaf"; np "RazorLeaf";}
+
+translate OAPSawGroundPalmetto to french masculine 
+{ns "SawGroundPalmetto"; np "SawGroundPalmetto";}
+
+translate OAPSpikyYucca to french masculine 
+{ns "SpikyYucca"; np "SpikyYucca";}
+
+translate OAPSweetFlag to french masculine 
+{ns "SweetFlag"; np "SweetFlag";}
+
+translate OAPThinleafYucca to french masculine 
+{ns "ThinleafYucca"; np "ThinleafYucca";}
+
+translate OAPAnaxi to french masculine 
+{ns "Anaxi"; np "Anaxi";}
+
+translate OAPAshPalm to french masculine 
+{ns "Palmier cendré"; np "Palmiers cendrés";}
+
+translate OAPBottleTree to french masculine 
+{ns "Arbre Gourde"; np "Arbre Gourde";}
+
+translate OAPBrambleHedge to french masculine 
+{ns "Ronces"; np "Ronces";}
+
+translate OAPBroadleafPalm to french masculine 
+{ns "Palmier à feuilles larges"; np "Palmiers à feuilles larges";}
+
+translate OAPButterleafTree to french masculine 
+{ns "Arbre Tartine"; np "Arbre Tartine";}
+
+translate OAPCeruleanBlue to french masculine 
+{ns "CeruleanBlue"; np "CeruleanBlue";}
+
+translate OAPChakkanutTree to french masculine 
+{ns "ChakkanutTree"; np "ChakkanutTree";}
+
+translate OAPCinnar to french masculine 
+{ns "Cinnar"; np "Cinnar";}
+
+translate OAPCoconutPalm to french masculine 
+{ns "Cocotier"; np "Cocotier";}
+
+translate OAPCricklewood to french masculine 
+{ns "Bois fendu"; np "Bois fendus";}
+
+translate OAPDeltaPalm to french masculine 
+{ns "Palmier du Delta"; np "Palmiers du Delta";}
+
+translate OAPFeatherTree to french masculine 
+{ns "Arbre Plume"; np "Arbre Plume";}
+
+translate OAPFernPalm to french masculine 
+{ns "Fougère"; np "Fougère";}
+
+translate OAPFoldedBirch to french masculine 
+{ns "FoldedBirch"; np "FoldedBirch";}
+
+translate OAPGiantCricklewood to french masculine 
+{ns "Bois fendus géants"; np "Bois fendus géants";}
+
+translate OAPHawthorn to french masculine 
+{ns "Aubépine"; np "Aubépine";}
+
+translate OAPHokkaido to french masculine 
+{ns "Hokkaido"; np "Hokkaido";}
+
+translate OAPKaeshra to french masculine 
+{ns "Kaeshra"; np "Kaeshra";}
+
+translate OAPLocustPalm to french masculine 
+{ns "LocustPalm"; np "LocustPalm";}
+
+translate OAPMiniatureFernPalm to french masculine 
+{ns "Fougère miniature"; np "Fougère miniature";}
+
+translate OAPMiniPalmetto to french masculine 
+{ns "Mini Palmier"; np "Mini Palmier";}
+
+translate OAPMonkeyPalm to french masculine 
+{ns "Palmier Singe"; np "Palmier Singe";}
+
+translate OAPOleaceae to french masculine 
+{ns "Oleaceae"; np "Oleaceae";}
+
+translate OAPOrrorin to french masculine 
+{ns "Orrorin"; np "Orrorin";}
+
+translate OAPPassam to french masculine 
+{ns "Passam"; np "Passam";}
+
+translate OAPPratyekaTree to french masculine 
+{ns "PratyekaTree"; np "PratyekaTree";}
+
+translate OAPRanyahn to french masculine 
+{ns "Ranyahn"; np "Ranyahn";}
+
+translate OAPRazorPalm to french masculine 
+{ns "RazorPalm"; np "RazorPalm";}
+
+translate OAPSavaka to french masculine 
+{ns "Savaka"; np "Savaka";}
+
+translate OAPSpindleTree to french masculine 
+{ns "Arbre fusain"; np "Arbre fusain";}
+
+translate OAPStoutPalm to french masculine 
+{ns "Palmier robuste"; np "Palmier robuste";}
+
+translate OAPTapacaeMiralis to french masculine 
+{ns "TapacaeMiralis"; np "TapacaeMiralis";}
+
+translate OAPToweringPalm to french masculine 
+{ns "Grand palmier"; np "Grands palmiers";}
+
+translate OAPUmbrellaPalm to french masculine 
+{ns "Palmier Parasol"; np "Palmier Parasol";}
+
+translate OAPWindriverPalm to french masculine 
+{ns "WindriverPalm"; np "WindriverPalm";}
+
+translate "Royal Palm" 
+to french "Palmier royal";
+
+translate oaproyalpalm to french masculine 
+{ns "Palmier royal"; np "Palmier royal";}
+
+translate "Gather O1 from this O2"
+to french "Prendre O1(dns) O1(ns) de ce O2(ns)";
+

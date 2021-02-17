@@ -1,0 +1,305 @@
+module ThothsPuzzle_fre;
+
+translate ThothsPuzzle to french masculine
+{
+  ns "Puzzle de Thot"; np "Puzzle de Thot";
+}
+
+translate NightSkyTable to french masculine
+{
+  ns "Planétarium"; np "Planétariums";
+}
+
+translate TryConstellation to french masculine
+{
+  ns "Constellation"; np "Constellation";
+}
+
+translate Constellation to french feminine
+{
+  ns "L'épreuve de la Constellation"; np "L'épreuve de la Constellation";
+}
+
+translate "The Test of the Constellation"
+to french "L'épreuve de la Constellation";
+
+translate "Build a Night Sky Table, and create a constellation of stars that is challenging to cover."
+to french "Construisez un planétarium, et créez une constellation d'étoiles difficile à recouvrir.";
+
+translate "Build a Night Sky Table and outfit it with a constellation of stars and clouds."
+to french "Construisez un Planétarium et décorez-le avec une constellation de nuages et d'étoiles";
+
+translate "With a clever arrangement of clouds, it should be just possible to cover all"
+to french "A l'aide d'un arrangement intelligent de nuages, il doit être possible de couvrir les étoiles";
+
+
+
+translate "The Principles of the Thought"
+to french "Les principes de la Pensée";
+
+translate "Make a Clay Lamp (Requires Pottery Skill)"
+to french "Fabriquer une lampe en argile (nécessite Poterie)";
+translate "Gather Papyrus"
+to french "Récolter du papyrus";
+translate "Dry Papyrus on a Drying Rack (Requires Flax Processing)"
+to french "Faire sécher du papyrus sur un tamis de séchage (nécessite Traitement du lin)";
+translate "Gather Clay"
+to french "Récolter de l'argile";
+translate "Gather Limestone"
+to french "Récolter du calcaire";
+translate "Spin Twine into Rope"
+to french "Tisser de l'étoupe en corde";
+translate "Build a Constellation Table"
+to french "Eriger un planétarium";
+translate "Open the Table for Judging"
+to french "Ouvrir le planétarium à l'évaluation";
+translate "Tear down your Constellation Table, OR do the following:"
+to french "Détruire le planétarium, OU suivez ces étapes :";
+translate "    Have Seven Judges solve and rate the puzzle"
+to french "    Que sept juges résolvent et évaluent le puzzle";
+translate "All of the above, OR solve three recent winning Constellations"
+to french "OU résoudre trois planétariums ayant passés l'épreuve";
+
+translate "You have completed Principles of the Constellation."
+to french "Vous avez terminé les Principes de la Constellation";
+
+translate "Night Sky Table"
+to french "Planétarium";
+
+translate "To build a Night Sky Table, you need: "
+to french "Pour construire un planétarium, il vous faut :";
+
+translate "Play this Constellation"
+to french "Jouer à ce planétarium";
+
+translate "You have solved the Constellation! You may now rate the design."
+to french "Vous avez résolu ce planétarium. Vous pouvez à présent évaluer la conception.";
+
+translate "A Constellation must have at least one Star, and one Cloud."
+to french "Une constellation doit comporter au moins une étoile, et un nuage.";
+
+translate "Before opening a Constellation, you must arrange the Clouds to cover all Stars."
+to french "Avant d'ouvrir un planétarium à l'évaluation, vous devez recouvrir les étoiles avec les nuages.";
+
+translate "Add a Piece"
+to french "Ajouter une pièce";
+
+translate "Only 14 Pieces are allowed."
+to french "Vous ne pouvez placer que 14 pièces.";
+
+translate "Build Thoth's Puzzle, and create a design that others find challenging."
+to french "Construisez un Puzzle de Thot, et concevez un puzzle que les autres trouveront intéressant.";
+
+translate "Make a Clay Lamp (Requires Pottery Skill)"
+to french "Fabriquer une lampe d'argile (Nécessite la connaissance de la Poterie)";
+translate "Gather Papyrus"
+to french "Récolter du papyrus";
+translate "Dry Papyrus on a Drying Rack (Requires Flax Processing)"
+to french "Faire secher du papyrus sur un tamis de sechage (Nécessite la connaissance du Traitement du lin)";
+translate "Gather Clay"
+to french "Récolter de l'argile";
+translate "Gather Limestone"
+to french "Récolter du calcaire";
+translate "Spin Twine into Rope"
+to french "Tisser de la ficelle en corde";
+translate "Build a Night Sky Table"
+to french "Construire un planétarium";
+translate "Open the Tabke for Judging"
+to french "Soumettre le planétarium à l'évaluation";
+translate "Tear down your Constellation Table, OR do the following:"
+to french "Détruisez votre planétarium, OU suivez les étapes ci-dessous : ";
+translate "    Have Seven Judges solve and rate the puzzle"
+to french "    Que sept juges résouent et évaluent le puzzle";
+translate "    Design rated Good by most judges"
+to french "    Obtenir des votes positifs de la plupart des juges";
+translate "All of the above, OR solve three recent winning Constellations"
+to french "Principe alternatif : résolvez trois constellations ayant passé l'épreuve récemment";
+
+translate "No judges have yet scored your design."
+to french "Personne n'a évalué votre puzzle pour l'instant.";
+
+translate "To claim rights as an Initiate of Thought, N1 people must judge your creation, and most must rate it at least Good.\n\n"
+to french "Pour revendiquer vos progrés en tant qu'initié à la Pensée, N1 personnes doivent juger votre puzzle, et la majorité doit le trouver au moins 'Bon'.\n\n";
+translate "To claim rights as an Initiate of Thought, N1 people must judge your creation, and most must rate it at least Good."
+to french "Pour revendiquer vos progrés en tant qu'initié à la Pensée, N1 personnes doivent juger votre puzzle, et la majorité doit le trouver au moins 'Bon'.";
+translate "So far, N1 judges have tended to rate it Poor."
+to french "Jusqu'a présent, N1 juges semblent avoir trouver votre puzzle Mauvais.";
+translate "So far, N1 judges have tended to rate it Fair."
+to french "Jusqu'a présent, N1 juges semblent avoir trouver votre puzzle Moyen";
+translate "So far, N1 judges have tended to rate it Good."
+to french "Jusqu'a présent, N1 juges semblent avoir trouver votre puzzle Bon.";
+translate "So far, N1 judges have tended to rate it Great."
+to french "Jusqu'a présent, N1 juges semblent avoir trouver votre puzzle Excelent.";
+translate "So far, N1 judges have tended to rate it Exceptional."
+to french "Jusqu'a présent, N1 juges semblent avoir trouver votre puzzle Exceptionel.";
+translate "So far, N1 judges have tended to rate it Brilliant."
+to french "Jusqu'a présent, N1 juges semblent avoir trouver votre puzzle Fantastique.";
+translate "So far, N1 judges have tended to rate it Monumental."
+to french "Jusqu'a présent, N1 juges semblent avoir trouver votre puzzle Monumental.";
+translate "So far, N1 judges have tended to rate it O1."
+to french "Jusqu'a présent, N1 juges semblent avoir trouver votre puzzle O1(ns).";
+
+translate "You have completed Principles of Thought."
+to french "Vous avez terminé les Principes de la Pensée.";
+
+translate "Are you sure you want to close this guide? You can restart it at any time."
+to french "Voulez-vous vraiment fermer ce guide? Vous pouvez le relancer à tout moment.";
+
+translate "Have N1 Judges solve and rate the Puzzle"
+to french "Que N1 juges résouent et évaluent votre puzzle";
+
+translate "So far: N1"
+to french "Jusqu'a présent: N1";
+
+translate "To prove your potential in the discipline of Thought, build Thoth's Puzzle, and create a design that others find challenging."
+to french "Pour prouver votre aptitude à la Discipline de la Pensée, construisez et concevez un Puzzle de Thot que les autres trouveront intéressant.";
+
+translate "Thoth's Puzzle"
+to french "Puzzle de Thot";
+
+translate "To build Thoth's Puzzle, you need: "
+to french "Pour construire un Puzzle de Thot, il vous faut: ";
+
+translate "To prove your potential in the discipline of Thought, you must know the pulse of the Egyptian people. You will create Thoth's Puzzle, a device that requires all of the lights built into it to be covered to complete.\a\a"
+to french "Pour prouver vos aptitudes à la Discipline de la Pensée, vous devrez prendre le pouls du Peuple égyptien. Vous concevrez un Puzzle de Thot. Pour réussir ce casse-tête, le but des joueurs sera de recouvrir tous les points lumineux que vous y aurez placé.";
+translate "You should encourage others to play it. To pass initiation, you must have a score of at least 250 with 7 individuals voting."
+to french "Vous devriez encourager les autres à y jouer. Pour réussir cette initiation, vous devez avoir un score d'au moins 250 points, avec au minimum 7 juges.";
+
+translate "[Extra]Designer: U1"
+to french "Concepteur: U1(name)";
+
+translate "[Extra]Player: U1"
+to french "Joueur: U1(name)";
+
+translate "Reset Thoth's Puzzle"
+to french "Réinitialiser le Puzzle de Thot";
+
+translate "Reset this Puzzle"
+to french "Réinitialiser ce puzzle";
+
+translate "Play Thoth's Puzzle"
+to french "Jouer à ce Puzzle de Thot";
+
+translate "You need to first select a piece."
+to french "Vous devez d'abord sélectionner une pièce.";
+
+translate "You have solved Thoth's Puzzle! You may now rate the design."
+to french "Vous avez résolu le Puzzle de Thot! Vous pouvez maintenant évaluer la conception.";
+
+translate "Forward"
+to french "En avant";
+translate "Back"
+to french "En arrière";
+translate "Left"
+to french "A gauche";
+translate "Right"
+to french "A droite";
+translate "Center"
+to french "Centrer";
+translate "Turn"
+to french "Tourner";
+translate "Add"
+to french "Ajouter";
+translate "Del"
+to french "Retirer";
+translate "Prev"
+to french "Précédent";
+translate "Next"
+to french "Suivant";
+
+translate "L-Block"
+to french "Bloc en L";
+translate "Square"
+to french "Carré";
+translate "Square1"
+to french "Carré1";
+translate "Square2"
+to french "Carré2";
+translate "Cross"
+to french "Croix";
+translate "Cave"
+to french "Bloc en U";
+translate "Beam3"
+to french "Rectangle";
+translate "Obtuse"
+to french "Triangle";
+translate "Elbow"
+to french "Coude";
+translate "Pacman"
+to french "Pacman";
+translate "T"
+to french "Bloc en T";
+translate "Boot"
+to french "Botte";
+translate "Hexagram"
+to french "Héxagonne";
+translate "Isis' Throne"
+to french "Trone d'Isis";
+translate "Kite"
+to french "Cerf-volant";
+translate "V-Kite"
+to french "Cerf-volant en V";
+translate "Pentagram"
+to french "Pentagonne";
+translate "Pet"
+to french "Animal";
+translate "Pyramid N1"
+to french "Pyramide N1";
+
+translate "Night Sky Table"
+to french "Constellation";
+
+translate "To build a Night Sky Table, you need: "
+to french "Pour construire une Constellation, il vous faut : ";
+
+translate "Build a Night Sky Table and arrange stars, and an assortment of clouds (pieces) that barely cover the stars. Challenge others to cover all stars with the clouds that you provide."
+to french "Erigez un planétarium, disposez des étoiles, ainsi qu'un assortiement de nuages (pièces) les recouvrant. Mettez ensuite au défi vos concitoyens de recouvrir les étoiles avec les nuages que vous leur donnez.";
+
+translate "Build a Night Sky Table and arrange stars, and an assortment of clouds (pieces) that barely cover the stars. "
+to french "Erigez un planétarium, disposez des étoiles, ainsi qu'un assortiement de nuages (pièces) les recouvrant. ";
+
+translate "Challenge others to cover all stars with the clouds that you provide."
+to french "Mettez ensuite au défi vos concitoyens de recouvrir les étoiles avec les nuages que vous leur donnez.";
+
+translate "Configure Pinholes"
+to french "Configurer les lanternes"; 
+
+translate "Too many Pinholes!"
+to french "Trop de lanternes!";
+
+translate "You need to add a light."
+to french "Vous devez ajouter une lanterne.";
+
+translate "Light would be out of bounds."
+to french "La lanterne serait en dehors des limites.";
+
+translate "Open Judging"
+to french "Soumettre à l'évaluation";
+
+translate "Thoth's Puzzle must have at least one Pinhole, and one Piece."
+to french "Le Puzzle de Thot doit comporter au moins une lanterne, et une pièce.";
+
+translate "Before opening a Thoth's Puzzle, you must arrange the pieces to cover all pinholes."
+to french "Avant d'ouvrir un Puzzle de Thot, vous devez couvrir toutes les lanterne à l'aide des pièces.";
+
+translate "Configure Pieces"
+to french "Configurer les pièces";
+
+translate "Piece to add:"
+to french "Pièce à ajouter:";
+
+translate "You need to first select a piece."
+to french "Vous devez d'abord sélectionner une pièce.";
+
+translate "You need to first add a piece."
+to french "Vous devez d'abord ajouter une pièce.";
+
+translate "Piece would hang out of bounds."
+to french "La pièce serait en dehors des limites.";
+
+translate "Not yet - this is for a special demo, coming up soon."
+to french "Pas encore - ceci est pour une démo spéciale, à venir très prochainement.";
+
+translate "You may only have 21 pinholes."
+to french "Vous ne pouvez placer que 21 lanternes.";
+

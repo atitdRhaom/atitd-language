@@ -1,0 +1,879 @@
+module flax_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**            German Version: Astrid "Infinyti" Werner                   **
+//**                            2011                                       **
+//**                                                                       **
+//***************************************************************************
+
+translate FlaxSeeds to german femininecollective
+{
+  swa "Flachssaat";
+  sn "Flachssaat"; sg "Flachssaat"; sd "Flachssaat"; sa "Flachssaat";
+  pn "Flachssaaten"; pg "Flachssaaten"; pd "Flachssaaten"; pa "Flachssaaten";
+}
+
+translate FlaxBed to german neuter
+{
+  swa "Flachsbeet";
+  sn "Flachsbeet"; sg "Flachsbeets"; sd "Flachsbeet"; sa "Flachsbeet";
+  pn "Flachsbeete"; pg "Flachsbeete"; pd "Flachsbeeten"; pa "Flachsbeete";
+}
+
+translate Flax to german masculine
+{
+  swa "Flachs";
+  sn "Flachs"; sg "Flachs"; sd "Flachs"; sa "Flachs";
+  pn "Flachs"; pg "Flachs"; pd "Flachs"; pa "Flachs";
+}
+
+translate RottenFlax to german masculine
+{
+  swa "verrotteter Flachs";
+  sn "verrottete Flachs"; sg "verrotteten Flachses"; sd "verrotteten Flachs"; sa "verrottete Flachs";
+  pn "verrotteten Flachs"; pg "verrotteten Flachs"; pd "verrotteten Flachs"; pa "verrotteten Flachs";
+}
+
+translate DriedFlax to german masculine
+{
+  swa "getrockneter Flachs";
+  sn "getrocknete Flachs"; sg "getrockneten Flachses"; sd "getrockneten Flachs"; sa "getrockneten Flachs";
+  pn "getrockneten Flachs"; pg "getrockneten Flachs"; pd "getrockneten Flachs"; pa "getrockneten Flachs";
+}
+
+translate Twine to german masculine
+{
+  swa "Zwirn";
+  sn "Zwirn"; sg "Zwirns"; sd "Zwirn"; sa "Zwirn";
+  pn "Zwirne"; pg "Zwirne"; pd "Zwirnen"; pa "Zwirne";
+}
+
+translate Thread to german masculine
+{
+  swa "Faden";
+  sn "Faden"; sg "Fadens"; sd "Faden"; sa "Faden";
+  pn "Fäden"; pg "Fäden"; pd "Fäden"; pa "Fäden";
+}
+
+translate Yarn to german neuter
+{
+  swa "Garn";
+  sn "Garn"; sg "Garns"; sd "Garn"; sa "Garn";
+  pn "Garne"; pg "Garne"; pd "Garnen"; pa "Garne";
+}
+
+translate WoolCloth to german masculine
+{
+  swa "Wollstoff";
+  sn "Wollstoff"; sg "Wollstoffes"; sd "Wollstoff"; sa "Wollstoff";
+  pn "Wollstoffe"; pg "Wollstoffe"; pd "Wollstoffen"; pa "Wollstoffe";
+}
+
+translate ClaySteepCanvas to german neuter
+{
+  swa "tondurchtränktes Tuch";
+  sn "tondurchtränkte Tuch"; sg "tondurchtränkten Tuches"; sd "tondurchtränkten Tuch"; sa "tondurchtränkte Tuch";
+  pn "tondurchtränkten Tücher"; pg "tondurchtränkten Tücher"; pd "tondurchtränkten Tüchern"; pa "tondurchtränkten Tücher";
+}
+
+translate ClaySteepWool to german neuter
+{
+  swa "tondurchtränkte Wolltuch";
+  sn "tondurchtränkte Wolltuch"; sg "tondurchtränkten Wolltuches"; sd "tondurchtränkten Wolltuch"; sa "tondurchtränkte Wolltuch";
+  pn "tondurchtränkten Wolltücher"; pg "tondurchtränkten Wolltücher"; pd "tondurchtränkten Wolltüchern"; pa "tondurchtränkten Wolltücher";
+}
+
+translate Lint to german masculine
+{
+  swa "Fussel";
+  sn "Fussel"; sg "Fussel"; sd "Fussel"; sa "Fussel";
+  pn "Fusseln"; pg "Fusseln"; pd "Fusseln"; pa "Fusseln";
+}
+
+translate Tow to german feminine
+{
+  swa "Flachsfaser";
+  sn "Flachsfaser"; sg "Flachsfaser"; sd "Flachsfaser"; sa "Flachsfaser";
+  pn "Flachsfasern"; pg "Flachsfasern"; pd "Flachsfasern"; pa "Flachsfasern";
+}
+
+translate Straw to german neutercollective
+{
+  swa "Stroh";
+  sn "Stroh"; sg "Strohs"; sd "Stroh"; sa "Stroh";
+  pn "Stroh"; pg "Stroh"; pd "Stroh"; pa "Stroh";
+}
+
+translate Linen to german neuter
+{
+  swa "Leinen";
+  sn "Leinen"; sg "Leinens"; sd "Leinen"; sa "Leinen";
+  pn "Leinen"; pg "Leinen"; pd "Leinen"; pa "Leinen";
+}
+
+translate Canvas to german neuter
+{
+  swa "Tuch";
+  sn "Tuch"; sg "Tuchs"; sd "Tuch"; sa "Tuch";
+  pn "Tücher"; pg "Tücher"; pd "Tüchern"; pa "Tücher";
+}
+
+translate FlaxHammock to german neuter
+{
+  swa "Flachstrockennetz";
+  sn "Flachstrockennetz"; sg "Flachstrockennetzes"; sd "Flachstrockennetz"; sa "Flachstrockennetz";
+  pn "Flachstrockennetze"; pg "Flachstrockennetze"; pd "Flachstrockennetzen"; pa "Flachstrockennetze";
+}
+translate DryingRack to german neuter
+{
+  swa "Trockengestell";
+  sn "Trockengestell"; sg "Trockengestells"; sd "Trockengestell"; sa "Trockengestell";
+  pn "Trockengestelle"; pg "Trockengestelle"; pd "Trockengestellen"; pa "Trockengestelle";
+}
+translate Sulfur to german masculine
+{
+  swa "Schwefel";
+  sn "Schwefel"; sg "Schwefels"; sd "Schwefel"; sa "Schwefel";
+  pn "Schwefel"; pg "Schwefel"; pd "Schwefeln"; pa "Schwefel";
+}
+translate Saltpeter to german masculine
+{
+  swa "Salpeter";
+  sn "Salpeter"; sg "Salpeters"; sd "Salpeter"; sa "Salpeter";
+  pn "Salpeter"; pg "Salpeter"; pd "Salpetern"; pa "Salpeter";
+}
+translate CFlaxSeeds to german femininecollective
+{
+  swa "Flachssaat";
+  sn "Flachssaat"; sg "Flachssaat"; sd "Flachssaat"; sa "Flachssaat";
+  pn "Flachssaaten"; pg "Flachssaaten"; pd "Flachssaaten"; pa "Flachssaaten";
+}
+translate DriedPapyrus to german masculine
+{
+  swa "getrockneter Papyrus";
+  sn "getrocknete Papyrus"; sg "getrockneten Papyrus"; sd "getrockneten Papyrus"; sa "getrockneten Papyrus";
+  pn "getrocknete Papyrii"; pg "getrocknete Papyrii"; pd "getrockneten Papyrii"; pa "getrockneten Papyrii";
+}
+
+translate SterilePapyrus to german masculine
+{
+  swa "unfruchtbarer Papyrus";
+  sn "unfruchtbare Papyrus"; sg "unfruchtbaren Papyrus"; sd "unfruchtbaren Papyrus"; sa "unfruchtbaren Papyrus";
+  pn "unfruchtbaren Papyrii"; pg "unfruchtbaren"; pd "unfruchtbaren Papyrii"; pa "unfruchtbaren Papyrii";
+}
+
+translate Cable to german neuter
+{
+  swa "Kabel";
+  sn "Kabel"; sg "Kabels"; sd "Kabel"; sa "Kabel";
+  pn "Kabel"; pg "Kabel"; pd "Kabeln"; pa "Kabel";
+}
+
+translate Sail to german neuter
+{
+  swa "Segel";
+  sn "Segel"; sg "Segels"; sd "Segel"; sa "Segel";
+  pn "Segel"; pg "Segel"; pd "Segeln"; pa "Segel";
+}
+translate Basket to german masculine
+{
+  swa "Korb";
+  sn "Korb"; sg "Korbes"; sd "Korb"; sa "Korb";
+  pn "Körbe"; pg "Körbe"; pd "Körben"; pa "Körbe";
+}
+translate HacklingRake to german masculine
+{
+  swa "stabiler Flachskamm";
+  sn "stabile Flachskamm"; sg "stabilen Flachskammes"; sd "stabilen Flachskamm"; sa "stabilen Flachskamm";
+  pn "stabilen Flachskämme"; pg "stabilen Flachskämme"; pd "stabilen Flachskämmen"; pa "stabilen Flachskämme";
+}
+translate FlaxComb to german masculine
+{
+  swa "einfacher Flachskamm";
+  sn "einfache Flachskamm"; sg "einfachen Flachskammes"; sd "einfachen Flachskamm"; sa "einfachen Flachskamm";
+  pn "einfachen Flachskämme"; pg "einfachen Flachskämme"; pd "einfachen Flachskämmen"; pa "einfachen Flachskämme";
+}
+translate FlaxGin to german masculine
+{
+  swa "Flachsentkörner";
+  sn "Flachsentkörner"; sg "Flachsentkörners"; sd "Flachsentkörner"; sa "Flachsentkörner";
+  pn "Flachsentkörner"; pg "Flachsentkörner"; pd "Flachsentkörnern"; pa "Flachsentkörner";
+}
+translate SmallDistaff to german neuter
+{
+  swa "kleines Spinnrad";
+  sn "kleine Spinnrad"; sg "kleinen Spinnrades"; sd "kleinen Spinnrad"; sa "kleinen Spinnrad";
+  pn "kleinen Spinnräder"; pg "kleinen Spinnräder"; pd "kleinen Spinnrädern"; pa "kleinen Spinnräder";
+}
+translate LargeDistaff to german neuter
+{
+  swa "großes Spinnrad";
+  sn "große Spinnrad"; sg "großen Spinnrades"; sd "großen Spinnrad"; sa "großen Spinnrad";
+  pn "großen Spinnräder"; pg "großen Spinnräder"; pd "großen Spinnrädern"; pa "großen Spinnräder";
+}
+translate HandLoom to german masculinecollective
+{
+  swa "Handwebstuhl";
+  sn "Handwebstuhl"; sg "Handwebstuhls"; sd "Handwebstuhl"; sa "Handwebstuhl";
+  pn "Handwebstühle"; pg "Handwebstühle"; pd "Handwebstühlen"; pa "Handwebstühle";
+}
+translate StudentsLoom to german masculinecollective
+{
+  swa "kleiner Webstuhl";
+  sn "kleine Webstuhl"; sg "kleinen Webstuhls"; sd "kleine Webstuhl"; sa "kleine Webstuhl";
+  pn "kleinen Webstühle"; pg "kleinen Webstühle"; pd "kleinen Webstühlen"; pa "kleinen Webstühle";
+}
+translate AutoLoom to german masculinecollective
+{
+  swa "automatischer Webstuhl";
+  sn "automatische Webstuhl"; sg "automatischen Webstuhls"; sd "automatischen Webstuhl"; sa "automatische Webstuhl";
+  pn "automatischen Webstühle"; pg "automatischen Webstühle"; pd "automatischen Webstühlen"; pa "automatischen Webstühle";
+}
+translate FlaxBed2 to german neutercollective
+{
+  swa "Flachsbeet";
+  sn "Flachsbeet"; sg "Flachsbeets"; sd "Flachsbeet"; sa "Flachsbeet";
+  pn "Flachsbeete"; pg "Flachsbeete"; pd "Flachsbeeten"; pa "Flachsbeete";
+}
+
+translate FlaxDryer to german masculinecollective
+{
+  swa "Flachstrockner";
+  sn "Flachstrockner"; sg "Flachstrockners"; sd "Flachstrockner"; sa "Flachstrockner";
+  pn "Flachstrockner"; pg "Flachstrockner"; pd "Flachstrocknern"; pa "Flachstrockner";
+}
+translate FlaxHammock to german neutercollective
+{
+  swa "Flachstrockennetz";
+  sn "Flachstrockennetz"; sg "Flachstrockennetz"; sd "Flachstrockennetz"; sa "Flachstrockennetz";
+  pn "Flachstrockennetze"; pg "Flachstrockennetze"; pd "Flachstrockennetzen"; pa "Flachstrockennetze";
+}
+translate DryingRack to german neutercollective
+{
+  swa "Trockengestell";
+  sn "Trockengestell"; sg "Trockengestells"; sd "Trockengestell"; sa "Trockengestell";
+  pn "Trockengestelle"; pg "Trockengestelle"; pd "Trockengestellen"; pa "Trockengestelle";
+}
+translate FlaxBundle to german neutercollective
+{
+  swa "Flachsbündel";
+  sn "Flachsbündel"; sg "Flachsbündels"; sd "Flachsbündel"; sa "Flachsbündel";
+  pn "Flachsbündel"; pg "Flachsbündel"; pd "Flachsbündeln"; pa "Flachsbündel";
+}
+translate Rope to german neuter
+{
+  swa "Seil";
+  sn "Seil"; sg "Seiles"; sd "Seil"; sa "Seil";
+  pn "Seile"; pg "Seile"; pd "Seilen"; pa "Seile";
+}
+translate LoomAutomation to german feminine
+{
+  swa "Webstuhlautomatisierung";
+  sn "Webstuhlautomatisierung"; sg "Webstuhlautomatisierung"; sd "Webstuhlautomatisierung"; sa "Webstuhlautomatisierung";
+  pn "Webstuhlautomatisierung"; pg "Webstuhlautomatisierung"; pd "Webstuhlautomatisierung"; pa "Webstuhlautomatisierung";
+}
+
+translate ThothsMetalCable to german neuter
+{
+  swa "Thoths Metallkabel";
+  sn "Thoths Metallkabel"; sg "Thoths Metallkabels"; sd "Thoths Metallkabel"; sa "Thoths Metallkabel";
+  pn "Thoths Metallkabel"; pg "Thoths Metallkabel"; pd "Thoths Metallkabeln"; pa "Thoths Metallkabel";
+}
+
+translate OctecsAlloyCable to german neuter
+{
+  swa "Octecs Kabel";
+  sn "Octecs Kabel"; sg "Octecs Kabels"; sd "Octecs Kabel"; sa "Octecs Kabel";
+  pn "Octecs Kabel"; pg "Octecs Kabel"; pd "Octecs Kabeln"; pa "Octecs Kabel";
+}
+
+
+translate "Flax Passes."
+	to german "Flachsdurchgänge.";
+
+translate "This building has fallen apart from the wind and rain."
+	to german "Dieses Gebäude zerfiel durch Wind- und Regeneinflüsse.";
+
+translate "Set SelfDestruct To Now"
+	to german "Selbstzerstörung aktvieren";
+
+translate "Flax Related"
+	to german "Flachsbezogen";
+
+translate "Build a Flax Comb"
+	to german "Baue einen Flachskamm";
+
+translate "To build a Flax Comb, you need: "
+	to german "Um einen Flachskamm zu bauen, benötigst du: ";
+
+translate "Build a Small Distaff"
+	to german "Baue ein kleines Spinnrad";
+
+translate "To build a Small Distaff, you need: "
+	to german "Um ein kleines Spinnrad zu bauen, benötigst du: ";
+
+translate "Build a Flax Hammock"
+	to german "Baue ein Flachstrockennetz";
+
+translate "To build a Flax Hammock, you need: "
+	to german "Um ein Flachstrockennetz zu bauen, benötigst du: ";
+
+translate "Build a Drying Rack"
+	to german "Baue ein Trockengestell";
+
+translate "To build a Drying Rack, you need: "
+	to german "Um ein Trockengestell zu bauen, benötigst du: ";
+
+translate "Dry Wheat"
+	to german "Trockne Weizen";
+
+translate "Which wheat do you wish to dry?"
+	to german "Welchen Weizen möchtest du trocknen?";
+
+translate "That isn't fresh wheat."
+	to german "Das ist kein frischer Weizen.";
+
+translate "Load how much wheat? (Max 100)"
+	to german "Wieviel Weizen trocknen? (Max 100)";
+
+translate "Dry All Wet Linen"
+	to german "Trockne alle feuchten Leinen";
+
+translate "Dry Wet Linen"
+	to german "Trockne das feuchte Leinen";
+
+translate "Load how much linen? (Max 4)"
+	to german "Wieviel Leinen laden? (Max 4)";
+
+translate "This O1 is drying Wet Linen"
+	to german "O1(^tsn) O1(sn) trocknet feuchtes Leinen";
+
+translate "Dry All Wet Rabbit Pelts"
+	to german "Trockne alle feuchten Hasenpelze";
+
+translate "Dry Rabbit Pelts"
+	to german "Trockne Hasenpelze";
+
+translate "This O1 is drying Wet Rabbit Pelt"
+	to german "O1(^tsn) O1(sn) trocknet feuchte Hasenfelle";
+
+translate "Dry Rotten Flax"
+	to german "Trockne verrotteten Flachs";
+
+translate "Load how much rotten flax? (Max 10)"
+	to german "Wieviel verrotteten Flachs laden? (Max 10)";
+
+translate "This O1 is drying Rotten Flax"
+	to german "O1(^tsn) O1(sn) trocknet verrotteten Flachs";
+
+translate "Dry Grass into Straw"
+	to german "Trockne Gras zu Stroh";
+
+translate "Load how much grass? (Max 200)"
+	to german "Wieviele Gräser laden? (Max 200)";
+
+translate "This O1 is drying Grass"
+	to german "O1(^tsn) O1(sn) trocknet Gras";
+
+translate "Dry Fertile Papyrus"
+	to german "Trockne fruchtbaren Papyrus";
+
+translate "Load how much papyrus? (Max 20)"
+	to german "Wieviel Papyrii laden? (Max 20)";
+
+translate "This O1 is drying Papyrus"
+	to german "O1(^tsn) O1(sn) trocknet Papyrus";
+
+translate "Dry Sterile Papyrus"
+	to german "Trockne unfruchtbaren Papyrus";
+
+translate "Load how much sterile papyrus? (Max 20)"
+	to german "Wieviel unfruchtbare Papyrii laden? (Max 20)";
+
+translate "This O1 is drying Sterile Papyrus"
+	to german "O1(^tsn) O1(sn) trocknet unfruchtbaren Papyrus";
+
+translate "This is a Flax Bundle, placed by U1"
+	to german "Dies ist ein Flachsbündel, von U1(name) gesetzt";
+
+translate "Sulfur in the water slows rotting."
+	to german "Schwefelwasser verzögert die Verrottungszeit.";
+
+translate "Rot flax in the water"
+	to german "Flachs im Wasser verrotten";
+
+translate "Rot how many flax?"
+	to german "Wieviel Flachs verrotten?";
+
+translate "You tie the flax to a buoy and drop it into the water so that it will rot."
+	to german "Du bündelst den Flachs zu einer Boje und wirfst sie ins Wasser, damit der Flachs verrottet.";
+
+translate "On the mainland, flax takes 5+ minutes to rot.  Here, it takes 3+ minutes.  It is wise to use the time efficiently by working on something else."
+	to german "Auf dem Festland benötigt Flachs mindestens 5 Minuten zum Verrotten. Hier dauert es nur 3 Minuten. Nutze die Wartezeit, indem du andere wichtige Dinge erledigst, z. B. weiteren Flachs anzubauen.";
+
+translate "To Rot Flax, you must use the command 'Rot Flax in Water' in the Skills menu, while standing next to a body of water. This will make a buoy appear in the water with your flax tied to it."
+	to german "Um Flachs verrotten zu lassen, benutze den Befehl 'Flachs im Wasser verrotten' in deinem Fertigkeitenmenü. Du musst dazu in der Nähe eines Ufers stehen. Du siehst, wie eine Boje mit deinem Flachs drumherum im Wasser aufschlägt.";
+
+translate "Get this rotten flax"
+	to german "Nimm diesen verrotteten Flachs";
+
+translate "Sink this rotten flax"
+	to german "Versenke diesen verrotteten Flachs";
+
+translate "Only flax bundles older than 3 days can be sunk."
+	to german "Nur Flaxbündel, die älter als 3 Tage sind, können versenkt werden.";
+
+translate "You destroy the bundle of flax."
+	to german "Du zerstörst ein Flachsbündel.";
+
+translate "This flax is only half-rotten" 
+	to german "Diese Flachse sind nur zur Hälfte verrottet";
+
+translate "Build a Hackling Rake"
+	to german "Baue einen stabilen Flachskamm";
+
+translate "To build a Hackling Rake, you need: "
+	to german "Um einen stabilen Flachskamm zu bauen, benötigst du: ";
+
+translate "This O1 has been upgraded with a pair of O2"
+	to german "O1(^tsn) O1(sn) wurde mit einem Paar O2(pn) aufgewertet";
+
+translate "Upgrade"
+	to german "Aufwerten";
+
+translate "Use a pair of Eyelet cut O1"
+	to german "Nutze ein Paar geschnitte O1(pn) (Öse)";
+
+translate "You need a pair of identical gems to upgrade."
+	to german "Du brauchst ein Paar identischer Edelsteine zum Aufwerten.";
+
+translate "Clean the O1."
+	to german "Reinige O1(tsa) O1(sd).";
+
+translate "Clean the O1?"
+	to german "Reinige O1(tsa) O1(sd)?";
+
+translate "Your O1 has worn out."
+	to german "O1(^tsn) O1(sn) ist verschlissen.";
+
+translate "Separate Rotten Flax (Step 1, Remove Straw)"
+	to german "Zerteile den verrotteten Flachs (Schritt 1, entferne Stroh)";
+
+translate "You don't have any Rotten Flax"
+	to german "Du hast keinen verrotteten Flachs";
+
+translate "Continue processing Rotten Flax (Step 2, Separate Tow)"
+	to german "Weiterverarbeitung des verrotteten Flachs (Schritt 2, Flachsfasern entfernen)";
+
+translate "Continue processing Rotten Flax (Step 3, Refine the Lint)"
+	to german "Weiterverarbeitung des verrotteten Flachses (Schritt 3, Fusseln herausfiltern)";
+
+translate "Build a Flax Gin"
+	to german "Baue einen Flachsentkörner";
+
+translate "You have sufficent knowledge to build the Flax Gin, but you lack the experience required to operate it. Build anyway?"
+	to german "Du hast genügend Wissen um einen Flachsentkörner bauen zu können, aber dir fehlt die Erfahrung, ihn auch bedienen zu können. Trotzdem bauen?";
+
+//translate "To actually USE a flax gin requires two people, who have shown proficiency in the Discipline of Art and Music (which you have not). Build anyway?"
+//to german "Um einen Flachsentkörner NUTZEN zu können, braucht man 2 Leute, die beide ihr Können in der Disziplin der Kunst und Musik unter Beweis gestellt haben (dies hast du nicht getan). Trotzdem bauen?";
+
+translate "Full Eye"
+	to german "Volles Auge";
+
+translate "Full Eye Turquoise"
+	to german "Türkis: Volles Auge";
+
+translate "To constuct a Flax Gin, you need:"
+	to german "Um einen Flachsentkörner zu bauen, benötigst du:";
+
+translate "Load Rotten Flax"
+	to german "Verrotteten Flachs laden";
+
+translate "Load how much Rotten Flax? (Max N1)"
+	to german "Wieviel verrotteten Flachs einladen? (Max N1)";
+
+translate "Reset The Mechanism"
+	to german "Setze den Mechanismus zurück";
+
+translate "Start the Flax Gin"
+	to german "Starte den Flachsentkörner";
+
+translate "Stop the Flax Gin"
+	to german "Stoppe den Flachsentkörner";
+
+translate "Restart The Flax Gin"
+	to german "Starte erneut den Flachsentkörner";
+
+translate "Stabilize The Mechanism"
+	to german "Stabilisiere den Mechanismus";
+
+translate "Operation of Flax Gins requires experience, come back when you have some more..."
+	to german "Die Bedienung eines Flachsentkörners benötigt Erfahrung. Komme wieder, wenn du welche gesammelt hast...";
+
+translate "You must remove all O1 before you can start the Flax Gin."
+	to german "Du musst alle O1(pn) entfernen, bevor du den Flachsentkörner starten kannst.";
+
+translate "You spin the flywheel of the strange machine, but it goes slowly and seems a bit off balance. Perhaps another artist could also spin it to help stabilize the mechanism."
+	to german "Du bedienst das Schwungrad dieser seltsamen Maschine, aber es geht nur langsam voran und scheint ein wenig aus dem Gleichgewicht zu sein. Vielleicht kann ein anderer Künstler mitarbeiten, um den Mechanismus zu stabilisieren.";
+
+translate "You successfully start the flax gin."
+	to german "Du startest erfolgreich den Flachsentkörner.";
+
+translate "Upgrade the base and hopper"
+	to german "Verbessere Fundament und Trichter";
+
+translate "To upgrade this building you need:"
+	to german "Um dieses Gebäude zu verbessern, benötigst du:";
+
+translate "Build a Small Distaff"
+	to german "Baue ein kleines Spinnrad";
+
+translate "To build a Small Distaff, you need: "
+	to german "Um ein kleines Spinnrad zu bauen benötigst du:";
+
+translate "Build a Large Distaff"
+	to german "Baue ein großes Spinnrad";
+
+translate "To build a Large Distaff, you need: "
+	to german "Um ein großes Spinnrad zu bauen, benötigst du:";
+
+translate "Load the Distaff with O1"
+	to german "Belade das Spinnrad mit O1(pn)";
+
+translate "Load the Distaff with Lint"
+	to german "Belade das Spinnrad mit Fusseln";
+
+translate "Load the Distaff with Tow"
+	to german "Belade das Spinnrad mit Flachsfasern";
+
+translate "Load the Distaff with Twine"
+	to german "Belade das Spinnrad mit Zwirn";
+
+translate "Load the Distaff with Wool"
+	to german "Belade das Spinnrad mit Wolle";
+
+translate "Load the Distaff with Steel Wire"
+	to german "Belade das Spinnrad mit Stahdraht";
+
+translate "Load the Distaff with Thoth's Metal Wire"
+	to german "Belade das Spinnrad mit Thoths Metalldraht";
+
+translate "Load the Distaff with Octec's Allow Wire'"
+	to german "Belade das Spinnrad mit Octecs Draht";
+
+translate "You don't have any O1."
+	to german "Du hast O1(kpn) O1(pn).";
+
+translate "You can only load one thing into the distaff."
+	to german "Du kannst nur eine Rohstoffart laden.";
+
+translate "Load the Distaff with Wire"
+	to german "Belade mit Draht";
+
+translate "This O1 is fully loaded."
+	to german "O1(tsn) O1(sn) is voll beladen.";
+
+translate "Load with how much O1? (max N1)"
+	to german "Lade wieviel O1(pn)? (Max N1)";
+
+translate "You could only load N1 O1."
+	to german "Du kannst nur N1 O1(N1?pn:sn) laden.";
+
+translate "O1 loaded with O2"
+	to german "O1(^tsn) O1(sn) ist beladen mit O2(pn)";
+
+translate "Stop the O1"
+	to german "Stoppe O1(tsn) O1(sn)";
+
+translate "Start spinning O1 into O2."
+	to german "Starte das Spinnen von O1(sd) zu O2(sd).";
+
+translate "Note: Only put one source material in the Distaff!"
+	to german "Achtung: Lade nur eine Materialart in das Spinnrad!";
+
+translate "The Distaff must have at least N1 O1 to start."
+	to german "Das Spinnrad muss mindestens N1 O1(N1?pn:sn) geladen haben.";
+
+translate "This O1 is spinning O2 into O3."
+	to german "O1(^tsn) O1(sn) spinnt O2(sn) zu O3(sn).";
+
+translate "Upgrade this distaff to spin wire into cable"
+	to german "Verbessere das Spinnrad, um Draht zu Kabel zu spinnen";
+
+translate "It takes a single pinch roller to upgrade a distaff"
+	to german "Man braucht eine Andruckrolle, um ein Spinnrad zu verbessern";
+
+translate "You can only upgrade distaffs that are inside compounds."
+	to german "Du kannst nur Spinnräder innerhalb einer Werkstatt verbessern.";
+
+translate "Are you sure you want to use a pinch roller to upgrade the distaff?"
+	to german "Bist du sicher, dass du eine Andruckrolle zur Verbesserung des Spinnrades einbauen möchtest?";
+
+translate "Build a Hand Loom"
+	to german "Baue einen Handwebstuhl";
+
+translate "To build a Hand Loom, you need: "
+	to german "Um einen Handwebstuhl zu bauen, benötigst du: ";
+
+translate "Build a Student's Loom"
+	to german "Baue einen kleinen Webstuhl";
+
+translate "To build a Student's Loom, you need: "
+	to german "Um einen kleinen Webstuhl zu bauen, benötigst du: ";
+
+translate "In Egypt proper, all Student's Looms must be built inside a Compound."
+	to german "In Ägpyten müssen alle kleinen Webstühle in einer Werkstatt gebaut werden.";
+
+translate "Weave Raw Silk into Silk Cloth"
+	to german "Webe Rohseide zu Seidenstoff";
+
+translate "You must first load the loom with Raw Silk. It takes 50 spools of Raw Silk to produce one square cubit of Silk Cloth."
+	to german "Du musst zuerst den Webstuhl mit Rohseide beladen. Um eine Quadratelle Seidentuch zu weben, benötigt man 50 Spulen Rohseide.";
+
+translate "Allows for the construction of automated looms."
+	to german "Erlaubt den Bau von automatisierten Webstühlen.";
+
+translate "You must first learn the basics of Automation."
+	to german "Du musst zuerst die Grundlagen der Automatisierung lernen.";
+
+translate "Automatic Loom"
+	to german "Automatischer Webstuhl";
+
+translate "Sheet Glass"
+	to german "Glasscheiben";
+
+translate "Steel Wire"
+	to german "Stahldraht";
+
+translate "Loom Frames"
+	to german "Webrahmen";
+
+translate "Carpentry Blade, 5000+ Quality"
+	to german "Zimmereiklinge, Qualität 5000+";
+
+translate "Brass Small Gears"
+	to german "Kleine Zahnräder";
+
+translate "Medium Gears"
+	to german "Mittlere Zahnräder";
+
+translate "Boards"
+	to german "Bretter";
+
+translate "Eyelet"
+	to german "Öse";
+
+translate "Eyelet gem, any type"
+	to german "Geschnittener Edelstein jeder Art, Öse"; 
+
+translate "To construct an Automatic Loom you need:"
+	to german "Um einen automatischen Webstuhl zu bauen, benötigst du:";
+
+translate "Moon Steel Sheeting: Plastic Nontoxic Ductile"
+	to german "Mondstahlblech: plastisch, ungiftig, dehnbar";
+
+translate "Hopper Upgrade"
+	to german "Trichterupgrade";
+
+translate "Hopper Upgrade Donation"
+	to german "Trichterupgrade Spende";
+
+translate "Upgrade and enlarge the hopper"
+	to german "Verbessere und vergrößere den Trichter";
+
+translate "Abandon Upgrade"
+	to german "Upgrade abbrechen";
+
+translate "Are you sure you want to abandon the upgrade? Any materials donated so far will stay within the building."
+	to german "Bist du sicher, dass du das Upgrade abbrechen möchtest? Alle bislang gespendeten Materialien werden im Gebäude verbleiben.";
+
+translate "Upgrade Abandoned."
+	to german "Upgrade abgebrochen";
+
+translate "Weave Thread into Linen"
+	to german "Webe Fäden zu Leinen";
+
+translate "Weave Twine into Canvas"
+	to german "Webe Zwirn zu Tüchern";
+
+translate "Weave Yarn into Wool Cloth"
+	to german "Webe Garn zu Wollstoff";
+
+translate "You need at least N1 O1 to start."
+	to german "Du brauchst zum Starten N1 O1(N1?pn:sn).";
+
+translate "Stop this Automatic Loom"
+	to german "Stoppe den automatischen Webstuhl";
+
+translate "Load the Automatic Loom with Thread"
+	to german "Belade den automatischen Webstuhl mit Fäden";
+
+translate "Load how much Thread? (Max N1)"
+	to german "Lade wieviel Fäden? (Max N1)";
+
+translate "Load the Automatic Loom with Twine"
+	to german "Belade den automatischen Webstuhl mit Zwirn";
+
+translate "Load how much Twine? (Max N1)"
+	to german "Lade wieviel Zwirn? (Max N1)";
+
+translate "Load the Automatic Loom with Yarn"
+	to german "Beladen den automatischen Webstuhl mit Garn";
+
+translate "Load how much Yarn? (Max N1)"
+	to german "Lade wieviel Garn? (Max N1)";
+
+translate "Weave Thread into Linen Cloth"
+	to german "Webe Fäden zu Leinen";
+
+translate "Weave Thread into a Sail"
+	to german "Webe Fäden zu Segel";
+
+translate "You must first load the loom with thread. It takes 400 cubits of thread to produce one square cubit of Linen."
+	to german "Du musst den Webstuhl zuerst mit Fäden beladen. Um eine Quadratelle Leinentuch zu weben, benötigt man 400 Ellen Fäden.";
+
+translate "As you wove the cloth, N1 of the loom's strings broke. You'll need to re-string the loom."
+	to german "Als du das Leinen gewoben hast, sind N1 der Webstuhlsaiten gerissen. Du musst den Webstuhl neu bespannen.";
+
+translate "Touch up a piece of Linen into a Sail"
+	to german "Fertige ein Segel aus einem Stück Leinen";
+
+translate "Weave Twine into Canvas"
+	to german "Webe Zwirn zu Tuch";
+
+translate "You must first load the loom with Twine. It takes 60 cubits of Twine to produce one square cubit of Canvas."
+	to german "Du musst den Webstuhl zuerst mit Zwirn beladen. Um eine Quadratelle Tuch zu weben, benötigt man 60 Ellen Zwirn.";
+
+translate "As you wove the canvas, N1 of the loom's strings broke. You'll need to re-string the loom."
+	to german "Als du das Tuch gewoben hast, sind N1 der Webstuhlsaiten gerissen. Du musst den Webstuhl neu bespannen.";
+
+translate "Weave Dried Papyrus into a Basket"
+	to german "Webe getrockntete Papyrii zu einem Korb";
+
+translate "This O1 is drying Grass"
+	to german "O1(^tsn) O1(sn) trocknet Gras";
+
+translate "You must first load the loom with Dried Papyrus. It takes 200 reeds to make a Basket."
+	to german "Du musst den Webstuhl zuerst mit getrockneten Papyrii beladen. Um einen Korb zu weben, benötigt man 200 Papyrii.";
+
+translate "As you wove the basket, N1 of the loom's strings broke. You'll need to re-string the loom."
+	to german "Als du den Korb gewoben hast, sind N1 der Webstuhlsaiten gerissen. Du musst den Webstuhl neu bespannen.";
+
+translate "Re-String this Student's Loom with N1 Twine."
+	to german "Bespanne diesen kleinen Webstuhl mit N1 Zwirnen.";
+
+translate "Used N1 twine from the loom to restring it."
+	to german "Beim Bespannen wurden N1 Zwirn verbraucht.";
+
+translate "Used N1 twine from your inventory to restring it."
+	to german "Beim Bespannen wurden N1 Zwirn aus deinem Inventar verbraucht.";
+
+translate "Insufficient twine in the Student's Loom or Inventory to completely repair it.  Used N1 twine to partially restring it."
+	to german "Nicht genug Zwirn im kleinen Webstuhl oder Inventar, um vollständig zu reparieren. N1 Zwirn zur Teilausbesserung genutzt.";
+
+translate "You must first load the loom with Yarn. It takes 60 cubits of Yarn to produce one square cubit of Wool Cloth."
+	to german "Du musst den Webstuhl zuerst mit Garn beladen. Um eine Quadratelle Wolltuch zu weben, benötigt man 60 Ellen Garn.";
+
+translate "Load the Loom with Dried Papyrus"
+	to german "Lade den Webstuhl mit getrockneten Papyrii";
+
+translate "Load how much dried papyrus? (Max N1)"
+	to german "Lade wieviel getrocknete Papyrii? (Max N1)";
+
+translate "Load the Loom with Thread"
+	to german "Lade den Webstuhl mit Fäden";
+
+translate "Load how much thread? (Max N1)"
+	to german "Lade wieviel Fäden? (Max N1)";
+
+translate "Load the Loom with Twine"
+	to german "Lade den Webstuhl mit Zwirn";
+
+translate "Load how much twine? (Max N1)"
+	to german "Lade wieviel Zwirn? (Max N1)";
+
+translate "Load the Loom with Raw Silk"
+	to german "Lade den Webstuhl mit Rohseide";
+
+translate "Load how much raw silk? (Max N1)"
+	to german "Lade wieviel Rohseide? (Max N1)";
+
+translate "Load the Loom with Yarn"
+	to german "Lade den Webstuhl mit Garn";
+
+translate "Load how much Yarn? (Max N1)"
+	to german "Lade wieviel Garn? (Max N1)";
+
+translate "Weed and Water this flax bed"
+	to german "Jäte und wässere dieses Flachsbeet";
+
+translate "Weed this flax bed"
+	to german "Jäte dieses Flachsbeet";
+
+translate "Somebody got there first!"
+	to german "Jemand Anders war schneller!";
+
+translate "You don't have any water."
+	to german "Du hast kein Wasser.";
+
+translate "Harvest seeds from this wild flax plant"
+	to german "Ernte Saaten von dieser wilden Flachspflanze";
+
+translate "The seeds have been picked clean."
+	to german "Die Saaten wurden alle abgepflückt.";
+
+translate "Flax: K1"
+	to german "Flachs: K1";
+
+translate "To plant a flax bed, you need: "
+	to german "Um Flachs zu pflanzen, benötigst du: ";
+
+translate "Don't stack flax, this is considered an exploit. (And yes, you can get around this check by repositioning the flax slightly - don't do that either - it's still an exploit.)"
+	to german "Staple keinen Flachs, dies wird als Exploit betrachtet. (Und ja, du kannst dies umgehen, indem du die Flachsbeete etwas versetzt - tue dies trotzdem nicht - es ist immernoch ein Exploit.)";
+
+translate "Rip out this flax bed by the roots "
+	to german "Reisse diesen Flachs mitsamt den Wurzeln aus";
+
+translate "Salvage the Harvest"
+	to german "Berge die Ernte";
+
+translate "This flax is not yet 5 days old!"
+	to german "Dieser Flachs ist noch keine 5 Tage alt!";
+
+translate "Harvest this flax"
+	to german "Ernte den Flachs";
+
+translate "The flax plant yielded no good materials. Poor soil can cause this. Use the ecology skills to help figure out why."
+	to german "Die Flachspflanze wirft keine gute Ernte ab. Verseuchtes Erdreich könnte der Grund sein. Nutze 'Ökologie', um den Grund zu erfahren.";
+
+//translate "This newly sown flax bed is growing..."
+//to german "Dies neu gesäete Flachsfeld wächst...";
+
+//translate "This flax bed is growing. Watch for weeds..."
+//to german "Das Flachsbeet wächst. Achte auf Unkraut...";
+
+//translate "Weeds have taken over this flax bed..."
+//to german "Unkraut überwuchert das Flachsbeet...";
+
+//translate "This flax bed has gone to seed..."
+//to german "Das Flachsbeet ist verwildert...";
+
+//translate "This flax is ready for harvest..."
+//to german "Der Flachs kann geerntet werden...";
+
+translate "Nile Green"
+	to german "Nilgrün";
+
+translate "Old Egypt"
+	to german "Altägypten";
+
+translate "Golden Age"
+	to german "Goldenes Zeitalter";
+
+translate "Bard's Song"
+	to german "Bards Lied";
+
+translate "All O1"
+	to german "Alle O1(pn)";

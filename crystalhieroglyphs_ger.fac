@@ -1,0 +1,290 @@
+module crystalhieroglyphs_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment	                   **
+//**                                                                       **
+//***************************************************************************
+
+translate CrystalHieroglyph to german feminine
+{
+  swa "Kristallhieroglyphe";
+  sn "Kristallhieroglyphe"; sg "Kristallhieroglyphe"; sd "Kristallhieroglyphe"; sa "Kristallhieroglyphe";
+  pn "Kristallhieroglyphen"; pg "Kristallhieroglyphen"; pd "Kristallhieroglyphen"; pa "Kristallhieroglyphen";
+}
+translate OctecsGhostBuilding to german feminine
+{
+  swa "Statue des Geistes Octecs";
+  sn "Statue des Geistes Octecs"; sg "Statue des Geistes Octecs"; sd "Statue des Geistes Octecs"; sa "Statue des Geistes Octecs";
+  pn "Statuen des Geistes Octecs"; pg "Statuen des Geistes Octecs"; pd "Statuen des Geistes Octecs"; pa "Statuen des Geistes Octecs";
+}
+translate CrystalGlyphAmenra to german masculine
+{
+  swa "Kristall 'Amen Ra'";
+  sn "Kristall 'Amen Ra'"; sg "Kristalles 'Amen Ra'"; sd "Kristall 'Amen Ra'"; sa "Kristall 'Amen Ra'";
+  pn "Kristalle 'Amen Ra'"; pg "Kristalle 'Amen Ra'"; pd "Kristallen 'Amen Ra'"; pa "Kristalle 'Amen Ra'";
+}
+translate CrystalGlyphAnubis to german masculine
+{
+  swa "Kristall 'Anubis'";
+  sn "Kristall 'Anubis'"; sg "Kristalles 'Anubis'"; sd "Kristall 'Anubis'"; sa "Kristall 'Anubis'";
+  pn "Kristalle 'Anubis'"; pg "Kristalle 'Anubis'"; pd "Kristallen 'Anubis'"; pa "Kristalle 'Anubis'";
+}
+translate CrystalGlyphBastet to german masculine
+{
+  swa "Kristall 'Bastet'";
+  sn "Kristall 'Bastet'"; sg "Kristalles 'Bastet'"; sd "Kristall 'Bastet'"; sa "Kristall 'Bastet'";
+  pn "Kristalle 'Bastet'"; pg "Kristalle 'Bastet'"; pd "Kristallen 'Bastet'"; pa "Kristalle 'Bastet'";
+}
+translate CrystalGlyphBes to german masculine
+{
+  swa "Kristall 'Bes'";
+  sn "Kristall 'Bes'"; sg "Kristalles 'Bes'"; sd "Kristall 'Bes'"; sa "Kristall 'Bes'";
+  pn "Kristalle 'Bes'"; pg "Kristalle 'Bes'"; pd "Kristallen 'Bes'"; pa "Kristalle 'Bes'";
+}
+translate CrystalGlyphButo to german masculine
+{
+  swa "Kristall 'Buto'";
+  sn "Kristall 'Buto'"; sg "Kristalles 'Buto'"; sd "Kristall 'Buto'"; sa "Kristall 'Buto'";
+  pn "Kristalle 'Buto'"; pg "Kristalle 'Buto'"; pd "Kristallen 'Buto'"; pa "Kristalle 'Buto'";
+}
+translate CrystalGlyphDua to german masculine
+{
+  swa "Kristall 'Dua'";
+  sn "Kristall 'Dua'"; sg "Kristalles 'Dua'"; sd "Kristall 'Dua'"; sa "Kristall 'Dua'";
+  pn "Kristalle 'Dua'"; pg "Kristalle 'Dua'"; pd "Kristallen 'Dua'"; pa "Kristalle 'Dua'";
+}
+translate CrystalGlyphHapy to german masculine
+{
+  swa "Kristall 'Hapy'";
+  sn "Kristall 'Hapy'"; sg "Kristalles 'Hapy'"; sd "Kristall 'Hapy'"; sa "Kristall 'Hapy'";
+  pn "Kristalle 'Hapy'"; pg "Kristalle 'Hapy'"; pd "Kristallen 'Hapy'"; pa "Kristalle 'Hapy'";
+}
+translate CrystalGlyphHathor to german masculine
+{
+  swa "Kristall 'Hathor'";
+  sn "Kristall 'Hathor'"; sg "Kristalles 'Hathor'"; sd "Kristall 'Hathor'"; sa "Kristall 'Hathor'";
+  pn "Kristalle 'Hathor'"; pg "Kristalle 'Hathor'"; pd "Kristallen 'Hathor'"; pa "Kristalle 'Hathor'";
+}
+translate CrystalGlyphHorus to german masculine
+{
+  swa "Kristall 'Horus'";
+  sn "Kristall 'Horus'"; sg "Kristalles 'Horus'"; sd "Kristall 'Horus'"; sa "Kristall 'Horus'";
+  pn "Kristalle 'Horus'"; pg "Kristalle 'Horus'"; pd "Kristallen 'Horus'"; pa "Kristalle 'Horus'";
+}
+translate CrystalGlyphIsis to german masculine
+{
+  swa "Kristall 'Isis'";
+  sn "Kristall 'Isis'"; sg "Kristalles 'Isis'"; sd "Kristall 'Isis'"; sa "Kristall 'Isis'";
+  pn "Kristalle 'Isis'"; pg "Kristalle 'Isis'"; pd "Kristallen 'Isis'"; pa "Kristalle 'Isis'";
+}
+translate CrystalGlyphMaat to german masculine
+{
+  swa "Kristall 'Maat'";
+  sn "Kristall 'Maat'"; sg "Kristalles 'Maat'"; sd "Kristall 'Maat'"; sa "Kristall 'Maat'";
+  pn "Kristalle 'Maat'"; pg "Kristalle 'Maat'"; pd "Kristallen 'Maat'"; pa "Kristalle 'Maat'";
+}
+translate CrystalGlyphMin to german masculine
+{
+  swa "Kristall 'Min'";
+  sn "Kristall 'Min'"; sg "Kristalles 'Min'"; sd "Kristall 'Min'"; sa "Kristall 'Min'";
+  pn "Kristalle 'Min'"; pg "Kristalle 'Min'"; pd "Kristallen 'Min'"; pa "Kristalle 'Min'";
+}
+translate CrystalGlyphMontu to german masculine
+{
+  swa "Kristall 'Montu'";
+  sn "Kristall 'Montu'"; sg "Kristalles 'Montu'"; sd "Kristall 'Montu'"; sa "Kristall 'Montu'";
+  pn "Kristalle 'Montu'"; pg "Kristalle 'Montu'"; pd "Kristallen 'Montu'"; pa "Kristalle 'Montu'";
+}
+translate CrystalGlyphOsiris to german masculine
+{
+  swa "Kristall 'Osiris'";
+  sn "Kristall 'Osiris'"; sg "Kristalles 'Osiris'"; sd "Kristall 'Osiris'"; sa "Kristall 'Osiris'";
+  pn "Kristalle 'Osiris'"; pg "Kristalle 'Osiris'"; pd "Kristallen 'Osiris'"; pa "Kristalle 'Osiris'";
+}
+translate CrystalGlyphSet to german masculine
+{
+  swa "Kristall 'Set'";
+  sn "Kristall 'Set'"; sg "Kristalles 'Set'"; sd "Kristall 'Set'"; sa "Kristall 'Set'";
+  pn "Kristalle 'Set'"; pg "Kristalle 'Set'"; pd "Kristallen 'Set'"; pa "Kristalle 'Set'";
+}
+translate CrystalGlyphShu to german masculine
+{
+  swa "Kristall 'Shu'";
+  sn "Kristall 'Shu'"; sg "Kristalles 'Shu'"; sd "Kristall 'Shu'"; sa "Kristall 'Shu'";
+  pn "Kristalle 'Shu'"; pg "Kristalle 'Shu'"; pd "Kristallen 'Shu'"; pa "Kristalle 'Shu'";
+}
+translate CrystalGlyphSobek to german masculine
+{
+  swa "Kristall 'Sobek'";
+  sn "Kristall 'Sobek'"; sg "Kristalles 'Sobek'"; sd "Kristall 'Sobek'"; sa "Kristall 'Sobek'";
+  pn "Kristalle 'Sobek'"; pg "Kristalle 'Sobek'"; pd "Kristallen 'Sobek'"; pa "Kristalle 'Sobek'";
+}
+translate CrystalGlyphTaweret to german masculine
+{
+  swa "Kristall 'Taweret'";
+  sn "Kristall 'Taweret'"; sg "Kristalles 'Taweret'"; sd "Kristall 'Taweret'"; sa "Kristall 'Taweret'";
+  pn "Kristalle 'Taweret'"; pg "Kristalle 'Taweret'"; pd "Kristallen 'Taweret'"; pa "Kristalle 'Taweret'";
+}
+translate CrystalGlyphThoth to german masculine
+{
+  swa "Kristall 'Thoth'";
+  sn "Kristall 'Thoth'"; sg "Kristalles 'Thoth'"; sd "Kristall 'Thoth'"; sa "Kristall 'Thoth'";
+  pn "Kristalle 'Thoth'"; pg "Kristalle 'Thoth'"; pd "Kristallen 'Thoth'"; pa "Kristalle 'Thoth'";
+}
+translate CrystalGlyphWepwawet to german masculine
+{
+  swa "Kristall 'Wepwawet'";
+  sn "Kristall 'Wepwawet'"; sg "Kristalles 'Wepwawet'"; sd "Kristall 'Wepwawet'"; sa "Kristall 'Wepwawet'";
+  pn "Kristalle 'Wepwawet'"; pg "Kristalle 'Wepwawet'"; pd "Kristallen 'Wepwawet'"; pa "Kristalle 'Wepwawet'";
+}
+translate OctecsGhost to german masculine
+{
+  swa "Test des Geistes Octecs";
+  sn "Test des Geistes Octecs"; sg "Test des Geistes Octecs"; sd "Test des Geistes Octecs"; sa "Test des Geistes Octecs";
+  pn "Test des Geistes Octecs"; pg "Test des Geistes Octecs"; pd "Test des Geistes Octecs"; pa "Test des Geistes Octecs";
+}
+
+translate MechanicalHeart to german neuter
+{
+  swa "Mechanisches Herz";
+  sn "Mechanische Herz"; sg "Mechanischen Herzens"; sd "Mechnischen Herzens"; sa "Mechanische Herz";
+  pn "Mechanischen Herzen"; pg "Mechanischen Herzen"; pd "Mechanischen Herzen"; pa "Mechanischen Herzen";
+}
+
+translate "Build the Statue of Octec's Ghost and install 3 distinct Crystal Hieroglyphs. All tasks prior to building the actual statue are optional."
+to german "Baue eine Statue des Geistes Octecs und installiere 3 verschiedene Kristallhieroglyphen. Alle vorherigen Aufgaben, um die tatsächliche Statue zu bauen sind optional.";
+
+translate "Mine Silver"
+to german "Schürfe Silber";
+translate "Cast a Brass Small Gear"
+to german "Giesse ein kleines Zahnrad";
+translate "Blow a Glass Rod"
+to german "Giesse eine Glasstange";
+translate "Make Steel Cable on a Distaff"
+to german "Wickle Kabel in einem Spinnrad";
+translate "Cut some Stone"
+to german "Schneide einige Steine";
+translate "Attune yourself to Oyster Shell Marble"
+to german "Stelle dich auf Austern Marmor ein";
+translate "Build an Oyster Shell Marble Quarry"
+to german "Baue einen Steinbruch für Austernmarmor";
+translate "Quarry Oyster Shell Marble (Perform final lift)"
+to german "Breche Austernmarmor (breche selbst erfolgreich ein Stück)";
+translate "Attune yourself to White Travertine"
+to german "Stelle dich auf Weißen Travertin ein";
+translate "Build a White Travertine Quarry"
+to german "Baue einen Steinbruch für Weißen Travertin";
+translate "Quarry White Travertine"
+to german "Breche Weißen Travertin";
+translate "Build the Statue of Octec's Ghost"
+to german "Baue eine Statue des Geistes Octecs";
+translate "Collect Crystal Hieroglyphs (School of Architecture)"
+to german "Sammle Kristallhieroglyphen (S Architektur)";
+translate "Install a Crystal Hieroglyph"
+to german "Baue einen Kristallhieroglyphen ein";
+translate "Install a 2nd Crystal Hieroglyph"
+to german "Baue einen 2ten Kristallhieroglyphen ein";
+translate "Install a 3rd Crystal Hieroglyph"
+to german "Baue einen 3ten Kristallhieroglyphen ein";
+
+translate "You have completed Principles of Octec's Ghost."
+to german "Du hast die Prinzipien des Geistes Octecs vervollständigt.";
+
+translate "Sorry, but you must have a paid account to begin the Test of Octec's Ghost."
+to german "Entschuldigung, aber du mußt einen Bezahlaccount haben, um den Test des Geistes Octecs starten zu können.";
+
+translate "You must do this in Egypt proper."
+to german "Du mußt das in Ägypten tun.";
+
+translate "The goal of this test is to complete the Statue of Octec's Ghost. The first step is to build it using a small construction site.  The second step is to activate it."
+to german "Das Ziel dieses Tests ist der Bau einer Statue des Geistes Octecs. Errichte als erstes eine kleine Baustelle. Der Zweite Schritt ist die Aktivierung.";
+
+translate "Internally, the Statue of Octec's Ghost is a peculiar machine.  Turning it on requires 20 devices called the Crystal Hieroglyphs.  You must obtain all 20."
+to german "Eigentlich ist die Statue von Octec's Geist eine sonderbare Maschine. Sie einzuschalten bedarf 20 verschiedener Kristallhieroglyphen. Du mußt alle 20 besitzen.";
+
+translate "Over time, the Schools of Architecture will provide you with 12 Crystal Hieroglyphs. Unfortunately, all 12 will be the same.  You need 20 hieroglyphs which are all different from each other to activate the statue.  You will have to trade for the Hieroglyphs that you need."
+to german "Von Zeit zu Zeit unterstützt dich die Schule der Architektur mit 12 Kristallhieroglyphen. Leider sind alle 12 Kristalle gleich. Du brauchst 20 Hieroglyphen, die alle unterschiedlich sein müssen, um die Statue zu aktivieren. Du wirst die Hieroglyphen erhandeln müssen, die du brauchst.";
+
+translate "You have already started the test of Octec's Ghost.  You received O1."
+to german "Du hast bereits den Test von Octec's Geist begonnen. Du hast O1(pn) erhalten.";
+
+translate "You have been assigned: O1. You have been given two. Visit the SCHOOL of Architecture to collect more."
+to german "Du hast erhalten: O1(sn). Dir wurden zwei gegeben. Besuche die SCHULE der Architektur, um mehr zu erhalten.";
+
+translate "Request a Crystal Hieroglyph"
+to german "Erbitte einen Kristallhieroglyphen";
+
+translate "You must wait another K1 to request another Hieroglyph."
+to german "Du mußt weitere K1 warten, um weitere Hieroglyphen zu erbitten.";
+
+translate "You have already received your allocation of crystal hieroglyphs."
+to german "Du hast bereits deine Zuteilung an Kristallhieroglyphen erhalten.";
+
+translate "You have received your last crystal Hieroglyph."
+to german "Du hast deinen letzten Kristallhieroglyphen erhalten.";
+
+translate "You have received a O1. You are still entitled to N1 more. Come back to any school of Architecture in another K1."
+to german "Du hast ein O1(sn) erhalten. Dir stehen weitere N1 zu. Kehre in K1 zu einer beliebigen Schule der Architektur zurück.";
+
+translate "Architecture"
+to german "Architektur";
+
+translate "Build the Statue of Octec's Ghost"
+to german "Baue eine Statue des Geistes Octecs";
+
+translate "To build the Statue of Octec's Ghost, you need: "
+to german "Um eine Statue des Geistes Octecs zu bauen benötigst du: ";
+
+translate "Turn the crystals off"
+to german "Schalte die Kristalle ab";
+
+translate "The crystals have been turned off. View them from the Utility menu"
+to german "Die Kristalle wurden abgeschaltet. Prüfe sie über dein Optionen-Menü";
+
+translate "Turn the crystals on"
+to german "Schalte die Kristalle an";
+
+translate "Install Glyph"
+to german "Installiere Hieroglyph";
+
+translate "You just installed the last crystal: you may activate the statue!"
+to german "Du hast gerade den letzten Kristall installiert: Du kannst nun die Statue aktivieren!";
+
+translate "Install Supplemental Glyph"
+to german "Installiere Ergänzungskristall";
+
+translate "You just installed the last crystal. You hear a satisfying click from the internal mechanism as if a compartment had opened."
+to german "Du hast den letzten Kristall eingebaut. Du hörst ein zufriedenstellendes Klicken aus dem inneren Mechanismus, als ob sich ein Fach geöffnet hätte.";
+
+translate "Glyph installed. Only N1 to go."
+to german "Kristall eingebaut. Nur noch N1 fehlen.";
+
+translate "Remove Glyph"
+to german "Entferne Hieroglyph";
+
+translate "Activate the Statue!"
+to german "Aktiviere die Statue!";
+
+translate "You must initiate into the Discipline of Architecture before you can pass tests."
+to german "Du mußt erst den Einführungstest der Architektur bestehen, bevor du weitere Tests bestehen kannst.";
+
+translate "You already passed the test - are you sure you want to activate another?"
+to german "Du hast diesen Test bereits bestanden - Bist du sicher, dass du einen anderen aktivieren willst?";
+
+translate "Activation cancelled."
+to german "Aktivierung abgebrochen.";
+
+translate "Somebody took a crystal while you were trying to activate it."
+to german "Jemand hat einen Kristall genommen, während du die Aktivierung versucht hast.";
+
+translate "You gaze at the silently spinning crystals, transfixed. Ancient knowledge fills your mind!"
+to german "Du starrst wie gebannt die sich drehenden Kristalle an. Altes Wissen füllt deinen Verstand!";
+
+translate "Mechanical Heart to U1"
+to german "Mechanisches Herz für U1(name)";
+
+translate "Ancient Mechanics to U1"
+to german "Alte Mechaniken für U1(name)";

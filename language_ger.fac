@@ -1,0 +1,109 @@
+module language_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002,2003,2004,2005 by MDO Entertainment               **
+//**                                                                       **
+//***************************************************************************
+
+translate English to german neutercollective
+{
+  swa "Englisch";
+  sn "Englisch"; sg "Englischen"; sd "Englisch"; sa "Englisch";
+  pn "Englisch"; pg "Englisch"; pd "Englisch"; pa "Englisch";
+}
+translate Spanish to german neutercollective
+{
+  swa "Spanisch";
+  sn "Spanisch"; sg "Spanisch"; sd "Spanisch"; sa "Spanisch";
+  pn "Spanisch"; pg "Spanisch"; pd "Spanisch"; pa "Spanisch";
+}
+translate French to german neutercollective
+{
+  swa "Französisch";
+  sn "Französisch"; sg "Französisch"; sd "Französisch"; sa "Französisch";
+  pn "Französisch"; pg "Französisch"; pd "Französisch"; pa "Französisch";
+}
+translate Norwegian to german neutercollective
+{
+  swa "Norwegisch";
+  sn "Norwegisch"; sg "Norwegisch"; sd "Norwegisch"; sa "Norwegisch";
+  pn "Norwegisch"; pg "Norwegisch"; pd "Norwegisch"; pa "Norwegisch";
+}
+
+translate Notranslate to german femininecollective
+{
+  swa "Rohfassung (unübersetzt)";
+  sn "Rohfassung (unübersetzt)"; sg "Rohfassung (unübersetzt)"; sd "Rohfassung (unübersetzt)"; sa "Rohfassung (unübersetzt)";
+  pn "Rohfassungen (unübersetzt)"; pg "Rohfassungen (unübersetzt)"; pd "Rohfassungen (unübersetzt)"; pa "Rohfassungen (unübersetzt)";
+}
+translate German to german neutercollective
+{
+  swa "Deutsch";
+  sn "Deutsch"; sg "Deutschen"; sd "Deutsch"; sa "Deutsch";
+  pn "Deutsch"; pg "Deutsch"; pd "Deutsch"; pa "Deutsch";
+}
+
+
+translate "English"
+to german "Englisch";
+
+translate "Spanish"
+to german "Spanisch";
+
+translate "French"
+to german "Französisch";
+
+translate "Norwegian"
+to german "Norwegisch";
+
+translate "German"
+to german "Deutsch";
+
+translate "No Translate (raw)"
+to german "Keine Übersetzung";
+
+translate "Language"
+to german "Sprache";
+
+translate "Interface"
+to german "Oberfläche";
+
+translate "Your language has been set to K1"
+to german "Deine Sprache wurde auf K1 gestellt";
+
+translate "Your language has been set to German"
+to german "Deine Sprache wurde auf Deutsch gestellt";
+
+translate "Your language has been set to English"
+to german "Deine Sprache wurde auf Englisch gestellt";
+
+translate "Your language has been set to French"
+to german "Deine Sprache wurde auf Französisch gestellt";
+
+
+translate "Fluency for Mentoring"
+to german "Mentorsprachen";
+
+translate "I can mentor in:"
+to german "Folgende Sprachen kann ich:";
+
+translate "Utility/Language/Interface/Default"
+to german "Optionen/Sprache/Oberfläche/Vorgabe";
+
+translate "fluent-english"
+to german "Fließend englisch";
+
+translate "fluent-french"
+to german "Fließend französisch";
+
+translate "fluent-german"
+to german "Fließend deutsch";
+
+translate "This is not a language:"
+to german "Dies ist keine Sprache:";
+
+translate "yes"
+to german "Ja";

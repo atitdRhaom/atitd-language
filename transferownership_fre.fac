@@ -1,0 +1,62 @@
+module transferownership_fre;
+
+translate "Give to another player"
+to french "Donner à un autre joueur";
+
+
+translate "Ownership"
+to french "Propriété";
+
+translate "Give this building to Selected player"
+to french "Donner cette construction au joueur désigné";
+
+translate "Give this guild building to another player"
+to french "Donne ce bâtiment de guilde à un autre joueur";
+
+
+translate "Give this building to Named player"
+to french "Donner ce bâtiment au joueur sélectionné";
+
+translate "Give this guild building to another player"
+to french "Donner ce bâtiment de guilde à un autre joueur";
+
+translate "already owns this O1" to french "possède déjà O1(cns) O1(ns)";
+
+translate "U1 already owns this O1" to french "U1(name) possède déjà O1(cns) O1(ns)";
+
+translate "Receive ownership of the O1"
+to french "Accepter la propriété de O1(ns)";
+
+translate "U1 has given you a O1."
+to french "U1(name) vous a donné O1(^uns) O1(ns).";
+
+translate "Donate to the public"
+to french "Offrir au bien commun";
+
+translate "Click another player to bring up their 'Receive Ownership' menu."
+to french "Cliquez sur un autre joueur pour afficher leur menu de transfert de propriété.";
+
+translate "Receive ownership of the O1"
+to french "Accepter la proprtéié de O1(ns)";
+
+translate "That building is no longer available to tranfer."
+to french "Cette construction n'est plus disponible pour un transfert.";
+
+translate "No such user U1(name)"
+to french "U1(name) n'existe pas.";
+
+translate "Who do you want to transfer it to?"
+to french "A qui voulez-vous le transferér ?";
+
+translate "Transfer the O1 to U1?"
+to french "Transférer O1(^ns) O1(ns) à U1(name)?";
+
+translate "Transferring..."
+to french "Transfert...";
+
+translate " U1 has given you a O1."
+to french "U1(name) vous a donné : O1(ns).";
+
+translate "Not a player or guild."
+to french "Ce n'est ni un joueur ni une guilde.";
+

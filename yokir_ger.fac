@@ -1,0 +1,203 @@
+module Yokir_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+
+translate YokirDesk to german masculine
+{
+swa "Yokirtisch"; sn "Yokirtisch"; pn "Yokirtische";
+}
+translate MemoryOfYokir to german femine
+{
+swa "Erinnerung des Yokir"; sn "Erinnerung des Yokir"; pn "Erinnerung des Yokir";
+}
+translate MetalOfYokir to german neuter
+{
+swa "Metall des Yokir"; sn "Metall des Yokir"; pn "Metalle des Yokir";
+}
+
+
+translate "Architecture"
+to german "Architektur";
+
+translate "Art and Music"
+to german "Kunst und Musik";
+
+translate "Thought"
+to german "Gedanken";
+
+translate "Pass"
+to german "Bestanden";
+
+translate "unknown"
+to german "unbekannt";
+
+translate "architecture"
+to german "Architektur";
+
+translate "art"
+to german "Kunst";
+
+translate "thought"
+to german "Gedanken";
+
+translate "Initiate"
+to german "Anfänger";
+translate "Student"
+to german "Student";
+translate "Prentice"
+to german "Lehrling";
+translate "Journeyman"
+to german "Geselle";
+translate "Scribe"
+to german "Schriftgelehrter";
+translate "Master"
+to german "Meister";
+translate "Sage"
+to german "Weiser";
+translate "Oracle"
+to german "Orakel";
+
+translate "You can't tear the table down while a game is in progress."
+to german "Du kannst während eines Spieles den Tisch nicht abreißen.";
+
+translate "Help Test Yokir"
+to german "Hilfe Yokirtest";
+
+translate "Start the Test of Yokir"
+to german "Starte den Test des Yokir";
+
+translate "There is a story from a time now forgotten by most, when Egypt was just a fledgling community. A derelict ship, far larger than our simple ferries, became beached on Egypt's shores. Inside, the Pharaoh and his scientists found a great treasure; thousands of debens of a brilliant yet durable metal unknown to Egypt. The Priests declared the bounty a gift from the Gods, sent to help Egypt build a great society. Pharaoh asked the people to come up with uses for the metal, and when they had come to an agreement on which was the most beneficial, he would hand it over."
+to german "Dies ist eine Geschichte aus einer vergessenen Zeit, als Ägypten noch eine Junge Gesellschaft war. Ein verfallenes Schiff, größer als unsere einfachen Fähren, standete am Ufer des Niles. Pharaoh und seine Wissenschaftler fanden darin einen großen Schatz: Tausende von Deben eines haltbaren, aber unbekannten Metalles. Die Priester sahen es als ein Geschenk der Götter an; gesandt, um Ägypten zu großer Macht zu verhelfen. Pharaoh bat die Menschen sich mit den Möglichkeiten des Metalles auseinander zu setzen. Sobald sie sich einig wären, würde er ihnen das Metall übergeben.";
+
+translate "Egypt immediately broke into camps, squabbling over how the metal should be used. The Architects wanted to construct huge obelisks out of the material, believing they could use it to harness the power of lightning. The Politicians wanted to mint the metal into currency, arguing that a permanent and universal currency would usher in a new age of prosperity and trade. The Philosophers demanded the metal be turned over to them for research, so that they could better understand the lands across the waters. The Artists wanted the beautiful metal to mold and shape into great works of art, so that future generations would remember the Culture of the past."
+to german "Ägypten teilte sich in Lagern auf, denn sie stritten über die Benutzung des Metalles. Die Architekten wollten riesige Obelisken erbauen und glaubten, sie könnten sich so die Kraft des Blitzes aneignen. Die Politiker wollten das Metall als neue Währung nutzen und argumentierten, als Universalwährung würde ein neues Zeitalter des Wohlstandes anbrechen. Die Philosophen beanspruchten das Metall für sich, damit die Kultur der fremden Länder jenseits des Niles besser erforscht werden könnten. Die Künstler wollten das schöne Metall, um große Kunstwerke zu formen, so daß zukünftige Generationen sich an vergangene Kulturen erinnern können.";
+
+translate "The bickering went on for many months, during which alliances between the groups rose and fell, always shifting, although more often that not it was the Architects and Politicians united against the Philosophers and Artists. As for the common people of Egypt, they went about their lives unconcerned about this controversy. In fact, they made light of it, devising a game of cards which imitated the various groups all vying for the Pharaoh's attention, and the constantly-changing alliances. The game was named 'Yokir,' after the name of the beached ship."
+to german "Die Zankerei hielt mehrere Monate an, Bündnisse wurden immer wieder geschlossen und aufgelöst. Jedoch stitten Architekten und Politiker immer häufiger mit den Philosphen und Künstlern. Was die gewöhnlichen Bürger betraf; sie gingen ihrem gewohnten Lebenswandel nach, unbeeinddruckt über diese Kontroverse. In Wirklichkeit nutzen sie die Gelegenheit und erfanden ein Kartenspiel, welches die verschiedenen, um Pharaohs Aufmerksamkeit buhlenden, Parteien darstellte. Das Spiel wurde nach dem gestrandeten Schiff'Yokir' benannt.";
+
+translate "What happened to the metal, we no longer know, other than that no group was able to lay claim to it. Some say the Stranger stole it during the uproar; others believe the Pharaoh became disgusted with the arguing and cast the ship back out to sea. However, the game played by the commoners remains today. Your challenge is to master this game, and get to know it well, so that the lessons of the past are not forgotten."
+to german "Das Wissen um den Nutzen des Metalles ging verloren, weil keine der Gruppen sich einigen konnte. Einige munkeln, der Fremde habe es während es Aufruhres gestohlen, Andere wiederum glauben, Pharaoh wurde der Sache überdrüssig und übergab das Schiff wieder dem Nil. Das Spiel gibt es jedoch noch heute. Eure Herausfoderung besteht darin, dieses Spiel zu erlernen und sich gut einzuprägen, damit die Spielregeln der Vergangenheit nicht in Vergessenheit geraten.";
+
+translate "Yokir Table"
+to german "Yokirtisch";
+
+translate "To build a Yokir Table you need:"
+to german "Um einen Yokirtisch zu bauen benötigst du:";
+
+translate "Agree to quit"
+to german "Einvernehmlicher Abbruch";
+
+translate "Game has been voluntarily stopped."
+to german "Das Spiel wurde freiwillig gestoppt.";
+
+translate "Game Over"
+to german "Spiel beendet";
+
+translate "Be a Spectator"
+to german "Sei ein Zuschauer";
+
+translate "Discard for Trump"
+to german "Trumpf ablegen";
+
+//translate "Pass" : "Call Trump"
+//to german "
+
+translate "trump"
+to german "trumpf";
+
+translate "Lead"
+to german "Führen";
+
+translate "Play"
+to german "Spielen";
+
+translate "Reset this Table"
+to german "Setze den Tisch zurück";
+
+translate "Resetting..."
+to german "Zurücksetzen...";
+
+translate "U1 has reset the table, resulting in a loss for U2 and a win for nobody."
+to german "U1(name) hat den Tisch zurückgesetzt. Ergebnis: U2(name) verliert und niemand gewinnt.";
+
+translate "Reset this Yokir Table"
+to german "Setze diesen Yokirtisch zurück";
+
+translate "Are you sure you want to abort this game? This will give you a loss. Instead, it's better to have everyone Agree to Quit using the menu."
+to german "Bist du sicher, dass du dieses Spiel abbrechen möchtest? Dies wird dir einen Verlust bescheren. Stattdessen wäre es besser, jeden Mitspieler um ein 'Einvernehmliches Abbrechen' im Menü zu bitten.";
+
+translate "Are you sure you want to abort this practice game?"
+to german "Bist du sicher, dass du dieses Übungsspiel abbrechen möchtest?";
+
+translate "U1 has reset the table. Since it was a practice game, there is no penalty."
+to german "U1(name) hat den Tisch zurückgesetzt. Da es ein Übungsspiel war, gab es keine Strafe.";
+
+translate "The match has been won by U1"
+to german "Die Partie wurde von U1(name) gewonnen";
+
+translate "card?"
+to german "karte?";
+
+translate "trump?"
+to german "trumpf?";
+
+translate "You must play a K1 card."
+to german "Du musst eine K1 Karte spielen.";
+
+translate "You are signed up to play a Tournament game "
+to german "Du hast dich für ein Turnierspiel eingetragen";
+
+translate "You are signed to play a Practice game "
+to german "Du hast dich für ein Übungsspiel eingetragen";
+
+translate "Play a Tournament game with U1"
+to german "Spiele mit U1(name) ein Turnierspiel";
+
+translate "Play a Practice game with U1"
+to german "Spiele mit U1(name) ein Übungsspiel";
+
+translate "Play a Tournament game with U1 and U2"
+to german "Spiele mit U1(name) und U2(name) ein Turnierspiel";
+
+translate "Play a Practice game with U1 and U2"
+to german "Spiele mit U1(name) und U2(name) ein Übungsspiel";
+
+translate "A Tournament game is in progress between U1, U2 und U3"
+to german "Zwischen U1(name), U2(name) und U3(name) findet ein Turnierspiel statt";
+
+translate "A Practice game is in progress between U1, U2 und U3"
+to german "Zwischen U1(name), U2(name) und U3(name) findet ein Übungsspiel statt";
+
+translate "Signing up..."
+to german "Trage dich ein...";
+
+translate "You are already playing a game."
+to german "Du spielst bereits ein Spiel.";
+
+translate "Opponent U1: "
+to german "Gegner U1(name): ";
+
+translate "Meditate on the Memory of Yokir"
+to german "Meditiere nach den Erinnerungen Yokirs";
+
+translate "You'll need a paid account to truly focus your mind on the Memory of Yokir."
+to german "Du brauchst einen Zahlaccount um deinen Geist vollkommen auf die Erinnerungen Yokirs ausrichten zu können.";
+
+translate "You found a piece of the Yokir's cargo!"
+to german "Du findest ein Stück aus Yokirs Ladung!";
+
+translate "Getting warmer."
+to german "Es wird wärmer.";
+
+translate "Getting colder."
+to german "Es wird kälter.";
+
+translate "Staying the same."
+to german "Unverändert.";
+

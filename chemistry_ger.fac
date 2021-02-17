@@ -1,0 +1,806 @@
+module chemistry_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2007 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+//menues
+
+translate TrashCan to german masculine
+{
+swa "Abfalleimer";
+sn "Abfalleimer"; sg "Abfalleimers"; sd "Abfalleimer"; sa "Abfalleimer";
+pn "Abfalleimer"; pg "Abfalleimer"; pd "Abfalleimern"; pa "Abfalleimer";
+}
+translate ChemLab to german neuter
+{
+swa "Chemielabor";
+sn "Chemielabor"; sg "Chemielabors"; sd "Chemielabor"; sa "Chemielabor";
+pn "Chemielabore"; pg "Chemielabore"; pd "Chemielaboren"; pa "Chemielabore";
+}
+translate PowderAmethyst to german neuter
+{
+swa "Amethystpulver";
+sn "Amethystpulver"; sg "Amethystpulvers"; sd "Amethystpulver"; sa "Amethystpulver";
+pn "Amethystpulver"; pg "Amethystpulver"; pd "Amethystpulvern"; pa "Amethystpulver";
+}
+translate PowderLapis to german neuter
+{
+swa "Lapispulver";
+sn "Lapispulver"; sg "Lapispulvers"; sd "Lapispulver"; sa "Lapispulver";
+pn "Lapispulver"; pg "Lapispulver"; pd "Lapispulvern"; pa "Lapispulver";
+}
+translate PowderTurquoise to german neuter
+{
+swa "Türkispulver";
+sn "Türkispulver"; sg "Türkispulvers"; sd "Türkispulver"; sa "Türkispulver";
+pn "Türkispulver"; pg "Türkispulver"; pd "Türkispulvern"; pa "Türkispulver";
+}
+translate PowderGarnet to german neuter
+{
+swa "Granatpulver";
+sn "Granatpulver"; sg "Granatpulvers"; sd "Granatpulver"; sa "Granatpulver";
+pn "Granatpulver"; pg "Granatpulver"; pd "Granatpulvern"; pa "Granatpulver";
+}
+translate PowderJade to german neuter
+{
+swa "Jadepulver";
+sn "Jadepulver"; sg "Jadepulvers"; sd "Jadepulver"; sa "Jadepulver";
+pn "Jadepulver"; pg "Jadepulver"; pd "n"; pa "Jadepulver";
+}
+translate PowderSunstone to german neuter
+{
+swa "Sonnensteinpulver";
+sn "Sonnensteinpulver"; sg "Sonnensteinpulvers"; sd "Sonnensteinpulver"; sa "Sonnensteinpulver";
+pn "Sonnensteinpulver"; pg "Sonnensteinpulver"; pd "Sonnensteinpulvern"; pa "Sonnensteinpulver";
+}
+translate PowderCitrine to german neuter
+{
+swa "Zitrinpulver";
+sn "Zitrinpulver"; sg "Zitrinpulvers"; sd "Zitrinpulver"; sa "Zitrinpulver";
+pn "Zitrinpulver"; pg "Zitrinpulver"; pd "Zitrinpulvern"; pa "Zitrinpulver";
+}
+translate PowderTopaz to german neuter
+{
+swa "Topaspulver";
+sn "Topaspulver"; sg "Topaspulvers"; sd "Topaspulver"; sa "Topaspulver";
+pn "Topaspulver"; pg "Topaspulver"; pd "Topaspulvern"; pa "Topaspulver";
+}
+translate PowderEmerald to german neuter
+{
+swa "Smaragdpulver";
+sn "Smaragdpulver"; sg "Smaragdpulvers"; sd "Smaragdpulver"; sa "Smaragdpulver";
+pn "Smaragdpulver"; pg "Smaragdpulver"; pd "Smaragdpulvern"; pa "Smaragdpulver";
+}
+translate PowdeSapphire to german neuter
+{
+swa "Saphirpulver";
+sn "Saphirpulver"; sg "Saphirpulvers"; sd "Saphirpulver"; sa "Saphirpulver";
+pn "Saphirpulver"; pg "Saphirpulver"; pd "Saphirpulver"; pa "Saphirpulver";
+}
+translate PowderRuby to german neuter
+{
+swa "Rubinpulver";
+sn "Rubinpulver"; sg "Rubinpulvers"; sd "Rubinpulver"; sa "Rubinpulver";
+pn "Rubinpulver"; pg "Rubinpulver"; pd "Rubinpulvern"; pa "Rubinpulver";
+}
+translate PowderDiamond to german neuter
+{
+swa "Diamantpulver";
+sn "Diamantpulver"; sg "Diamantpulvers"; sd "Diamantpulver"; sa "Diamantpulver";
+pn "Diamantpulver"; pg "Diamantpulver"; pd "Diamantpulvern"; pa "Diamantpulver";
+}
+translate PowderQuartz to german neuter
+{
+swa "Quarzpulver";
+sn "Quarzpulver"; sg "Quarzpulvers"; sd "Quarzpulver"; sa "Quarzpulver";
+pn "Quarzpulver"; pg "Quarzpulver"; pd "Quarzpulvern"; pa "Quarzpulver";
+}
+translate PowderWhitePearl to german neuter
+{
+swa "Weiße-Perlen-Pulver";
+sn "Weiße-Perlen-Pulver"; sg "Weiße-Perlen-Pulvers"; sd "Weiße-Perlen-Pulver"; sa "Weiße-Perlen-Pulver";
+pn "Weiße-Perlen-Pulver"; pg "Weiße-Perlen-Pulver"; pd "Weiße-Perlen-Pulvenr"; pa "Weiße-Perlen-Pulver";
+}
+translate PowderCoralPearl to german neuter
+{
+swa "Korallenrote-Perlen-Pulver";
+sn "Korallenrote-Perlen-Pulver"; sg "Korallenrote-Perlen-Pulvers"; sd "Korallenrote-Perlen-Pulver"; sa "Korallenrote-Perlen-Pulver";
+pn "Korallenrote-Perlen-Pulver"; pg "Korallenrote-Perlen-Pulver"; pd "Korallenrote-Perlen-Pulvern"; pa "Korallenrote-Perlen-Pulver";
+}
+translate PowderSmokePearl to german neuter
+{
+swa "Rauchblau-Perlen-Pulver";
+sn "Rauchblau-Perlen-Pulver"; sg "Rauchblau-Perlen-Pulvers"; sd "Rauchblau-Perlen-Pulver"; sa "Rauchblau-Perlen-Pulver";
+pn "Rauchblau-Perlen-Pulver"; pg "Rauchblau-Perlen-Pulver"; pd "Rauchblau-Perlen-Pulvern"; pa "Rauchblau-Perlen-Pulver";
+}
+translate PowderAquaPearl to german neuter
+{
+swa "Wasserblau-Perlen-Pulver";
+sn "Wasserblau-Perlen-Pulver"; sg "Wasserblau-Perlen-Pulvers"; sd "Wasserblau-Perlen-Pulver"; sa "Wasserblau-Perlen-Pulver";
+pn "Wasserblau-Perlen-Pulver"; pg "Wasserblau-Perlen-Pulver"; pd "Wasserblau-Perlen-Pulvern"; pa "Wasserblau-Perlen-Pulver";
+}
+translate PowderPinkPearl to german neuter
+{
+swa "Rosa-Perlen-Pulver";
+sn "Rosa-Perlen-Pulver"; sg "Rosa-Perlen-Pulvers"; sd "Rosa-Perlen-Pulver"; sa "Rosa-Perlen-Pulver";
+pn "Rosa-Perlen-Pulver"; pg "Rosa-Perlen-Pulver"; pd "Rosa-Perlen-Pulvern"; pa "Rosa-Perlen-Pulver";
+}
+translate PowderBeigePearl to german neuter
+{
+swa "Beige-Perlen-Pulver";
+sn "Beige-Perlen-Pulver"; sg "Beige-Perlen-Pulvers"; sd "Beige-Perlen-Pulver"; sa "Beige-Perlen-Pulver";
+pn "Beige-Perlen-Pulver"; pg "Beige-Perlen-Pulver"; pd "Beige-Perlen-Pulvern"; pa "Beige-Perlen-Pulver";
+}
+translate PowderBlackPearl to german neuter
+{
+swa "Schwarz-Perlen-Pulver";
+sn "Schwarz-Perlen-Pulver"; sg "Schwarz-Perlen-Pulvers"; sd "Schwarz-Perlen-Pulver"; sa "Schwarz-Perlen-Pulver";
+pn "Schwarz-Perlen-Pulver"; pg "Schwarz-Perlen-Pulver"; pd "Schwarz-Perlen-Pulvern"; pa "Schwarz-Perlen-Pulver";
+}
+translate LungSporeTestStrip to german neuter
+{
+swa "Litmustest: Lungenpilzerkrankung";
+sn "Litmustest: Lungenpilzerkrankung"; sg "Litmustest: Lungenpilzerkrankung"; sd "Litmustest: Lungenpilzerkrankung"; sa "Litmustest: Lungenpilzerkrankung";
+pn "Litmustest: Lungenpilzerkrankung"; pg "Litmustest: Lungenpilzerkrankung"; pd "Litmustest: Lungenpilzerkrankung"; pa "Litmustest: Lungenpilzerkrankung";
+}
+translate LungSporeNegative to german neuter
+{
+swa "Litmustest: Lungenpilz (Negativ)";
+sn "Litmustest: Lungenpilz (Negativ)"; sg "Litmustest: Lungenpilz (Negativ)"; sd "Litmustest: Lungenpilz (Negativ)"; sa "Litmustest: Lungenpilz (Negativ)";
+pn "Litmustest: Lungenpilz (Negativ)"; pg "Litmustest: Lungenpilz (Negativ)"; pd "Litmustest: Lungenpilz (Negativ)"; pa "Litmustest: Lungenpilz (Negativ)";
+}
+translate LungSporePositive to german neuter
+{
+swa "Litmustest: Lungenpilz (Positiv)";
+sn "Litmustest: Lungenpilz (Positiv)"; sg "Litmustest: Lungenpilz (Positiv)"; sd "Litmustest: Lungenpilz (Positiv)"; sa "Litmustest: Lungenpilz (Positiv)";
+pn "Litmustest: Lungenpilz (Positiv)"; pg "Litmustest: Lungenpilz (Positiv)"; pd "Litmustest: Lungenpilz (Positiv)"; pa "Litmustest: Lungenpilz (Positiv)";
+}
+translate PapyStrips to german feminine
+{
+swa "Papyrusstreifen";
+sn "Papyrusstreifen"; sg "Papyrusstreifens"; sd "Papyrusstreifen"; sa "Papyrusstreifen";
+pn "Papyrusstreifen"; pg "Papyrusstreifen"; pd "Papyrusstreifen"; pa "Papyrusstreifen";
+}
+translate LitmusTestStrip to german masculine
+{
+swa "Litmusteststreifen";
+sn "Litmusteststreifen"; sg "Litmusteststreifens"; sd "Litmusteststreifen"; sa "Litmusteststreifen";
+pn "Litmusteststreifen"; pg "Litmusteststreifen"; pd "Litmusteststreifen"; pa "Litmusteststreifen";
+}
+translate EQPositive to german neuter
+{
+swa "Positiv";
+sn "Positiv"; pn "Positiv";
+}
+translate EQNegative to german neuter
+{
+swa "Negativ";
+sn "Negativ"; pn "Negativ";
+}
+translate EQNeutral to german neuter
+{
+swa "Neutral";
+sn "Neutral"; pn "Neutral";
+}
+translate EQNo to german neuter
+{
+swa "Nein";
+sn "Nein"; pn "Nein";
+}
+translate EQBlank to german neuter
+{
+swa "Leer";
+sn "Leer"; pn "Leer";
+}
+translate EQAromatic to german neuter
+{
+swa "Aromatisch";
+sn "Aromatisch"; pn "Aromatisch";
+}
+translate EQAstringent to german neuter
+{
+swa "Herb";
+sn "Herb"; pn "Herb";
+}
+translate EQBitter to german neuter
+{
+swa "Bitter";
+sn "Bitter"; pn "Bitter";
+}
+translate EQSalty to german neuter
+{
+swa "Salzig";
+sn "Salzig"; pn "Salzig";
+}
+translate EQSpicy to german neuter
+{
+swa "Würzig";
+sn "Würzig"; pn "Würzig";
+}
+translate EQSour to german neuter
+{
+swa "Sauer";
+sn "Sauer"; pn "Sauer";
+}
+translate EQSweet to german neuter
+{
+swa "Süß";
+sn "Süß"; pn "Süß";
+}
+translate EQToxic to german neuter
+{
+swa "Giftig";
+sn "Giftig"; pn "Giftig";
+}
+translate EQKeyTemp to german feminine
+{
+swa "Temperatur";
+sn "Temperatur"; pn "Temperatur";
+}
+translate EQNeg1 to german neuter
+{
+swa "Ein bisschen reduziert";
+sn "Ein bisschen reduziert"; pn "Ein bisschen reduziert";
+}
+translate EQNeg2 to german neuter
+{
+swa "Etwas reduziert";
+sn "Etwas reduziert"; pn "Etwas reduziert";
+}
+translate EQNeg3 to german neuter
+{
+swa "Reduziert";
+sn "Reduziert"; pn "Reduziert";
+}
+translate EQNeg4 to german neuter
+{
+swa "Sehr reduziert";
+sn "Sehr reduziert"; pn "Sehr reduziert";
+}
+translate EQNeg5 to german neuter
+{
+swa "Extrem reduziert";
+sn "Extrem reduziert"; pn "Extrem reduziert";
+}
+translate EQPos1 to german neuter
+{
+swa "Ein bisschen angestiegen";
+sn "Ein bisschen angestiegen"; pn "Ein bisschen angestiegen";
+}
+translate EQPos2 to german neuter
+{
+swa "Etwas angestiegen";
+sn "Etwas angestiegen"; pn "Etwas angestiegen";
+}
+translate EQPos3 to german neuter
+{
+swa "Angestiegen";
+sn "Angestiegen"; pn "Angestiegen";
+}
+translate EQPos4 to german neuter
+{
+swa "Sehr angestiegen";
+sn "Sehr angestiegen"; pn "Sehr angestiegen";
+}
+translate EQPos5 to german neuter
+{
+swa "Extrem angestiegen";
+sn "Extrem angestiegen"; pn "Extrem angestiegen";
+}
+translate EssMacerator to german masculine
+{
+swa "Schredder";
+sn "Schredder"; sg "Schredders"; sd "Schredder"; sa "Schredder";
+pn "Schredder"; pg "Schredder"; pd "Schreddern"; pa "Schredder";
+}
+translate Essence to german femininecollective
+{
+swa "Essenz";
+sn "Essenz"; sg "Essenz"; sd "Essenz"; sa "Essenz";
+pn "Essenzen"; pg "Essenzen"; pd "Essenzen"; pa "Essenzen";
+}
+translate EssCompound to german feminine
+{
+swa "Verbindung";
+sn "Verbindung"; sg "Verbindung"; sd "Verbindung"; sa "Verbindung";
+pn "Verbindungen"; pg "Verbindungen"; pd "Verbindungen"; pa "Verbindungen";
+}
+translate LungCure to german feminine
+{
+swa "Aufbereitung: Lungenpilz (Medizin)";
+sn "Aufbereitung: Lungenpilz (Medizin)"; sg "Aufbereitung: Lungenpilz (Medizin)"; sd "Aufbereitung: Lungenpilz (Medizin)"; sa "Aufbereitung: Lungenpilz (Medizin)";
+pn "Aufbereitung: Lungenpilz (Medizin)"; pg "Aufbereitung: Lungenpilz (Medizin)"; pd "Aufbereitung: Lungenpilz (Medizin)"; pa "Aufbereitung: Lungenpilz (Medizin)";
+}
+
+translate "Trash"
+to german "Abfall";
+
+translate "Cruelty! You can't trash animals..."
+to german "Tierquäler! Du kannst keine Tiere wegwerfen...";
+
+translate "Trash how many O1? (Max N1)"
+to german "Wieviel O1(pn) wegwerfen? (Max N1)";
+
+translate "Are you sure? These items will be lost forever!"
+to german "Bist du sicher? Diese Gegenstände werden für immer verschwinden!";
+
+translate "Stash how many O1? (Max N1)"
+to german "Wieviel O1(pn) einlagern? (Max N1)";
+
+translate "Chemistry Laboratory"
+to german "Chemielabor";
+
+translate "To build a Chemistry Laboratory you need:"
+to german "Um ein Chemielabor zu bauen benötigst du:";
+
+translate "Manufacture"
+to german "Herstellen";
+
+translate "Essential Mixture"
+to german "Ätherische Mischung";
+
+translate "Install"
+to german "Einbauen";
+
+translate "Ink"
+to german "Tinte";
+
+translate "To make a batch of ink, you need:"
+to german "Um eine Ladung Tinte herzustellen benötigst du:";
+
+translate "Gunpowder"
+to german "Schießpulver";
+
+translate "To make a batch of Gunpowder, you need:"
+to german "Um eine Ladung Schießpulver herzustellen benötigst du:";
+
+translate "Pulverize"
+to german "Zermahlen";
+
+translate "Your pestle has worn out. You must install a new pestle to pulverize gems."
+to german "Dein Stößel ist abgenutzt. Du musst zum Zermahlen von Edelsteinen einen neuen Stößel bauen.";
+
+translate "To crush the O1 into powder, you need:"
+to german "Um O1(sn) zu zermahlen benötigst du:";
+
+translate "Install new Wooden Pestle"
+to german "Montiere einen neuen hölzernen Stößel";
+
+translate "You do not have a wooden pestle to install."
+to german "Du hast keinen hölzernen Stößel zur Verfügung.";
+
+translate "Lesser Instruction Ink"
+to german "Alltagstinte";
+
+translate "To make a batch of Lesser Instruction Ink, you need:"
+to german "Um eine Ladung Alltagstinte herzustellen benötigst du:";
+
+translate "Upgrade this bench to allow advanced reactions"
+to german "Verbessere diese Werkbank, um mehr Reaktionen zu erhalten";
+
+translate "To upgrade this bench, you need: "
+to german "Um diese Werkbank zu verbessern benötigst du: ";
+
+translate "You have upgraded your Chemistry Lab to allow for advanced reactions. You may now install glassware."
+to german "Du hast dein Chemielabor verbessert, um mehr Reaktionen zu erhalten. Du kannst nun Glaswaren einbauen.";
+
+translate "That item is not a valid O1"
+to german "Dies ist O1(ksn) entsprechendes O1(swa)";
+
+translate "You must uninstall your O1 before you can install a new one."
+to german "Du musst O1(tsn) O1(sn) ausbauen, befor du was Neues einbauen kannst.";
+
+translate "This lab does not have a O1 installed."
+to german "In diesem Labor ist O1(tsn) O1(sn) eingebaut.";
+
+translate "Are you sure you wish to remove this O1? If you are removing glassware with contents, the contents will be dumped out."
+to german "Bist du sicher, dass du O1(tsa) O1(sa) entfernen möchtest? Wenn du gefüllte Behälter entfernst, wird der Inhalt ausgeschüttet werden.";
+
+translate "Display Upgrades"
+to german "Zeige Aufwertungen";
+
+translate "Upgrades:"
+to german "Aufwertungen";
+
+translate "Not Installed"
+to german "Nicht eingebaut";
+
+translate "  Alcohol Lamp Installed"
+to german "  Alkohollampe eingebaut";
+
+translate "Chemistry Upgrade Level:"
+to german "Verbesserungsgrad Chemielabor:";
+
+translate "Attempt to Precisely Calibrate the Lab"
+to german "Versuche das Labor präzise zu kalibrieren";
+
+translate "Are you sure? This will destroy any calibration you already have set."
+to german "Bist du sicher? Dies wird jede andere gesetzte Kalibrierung zerstören.";
+
+translate "You must have all upgrades installed to calibrate the laboratory."
+to german "Um das Labor kalibrieren zu können musst du alle Upgrades eingebaut haben.";
+
+translate "You are able to calibrate the lab extremely precisely."
+to german "Du bist in der Lage das Labor sehr präzise zu kalibrieren.";
+
+translate "You are able to calibrate the lab somewhat precisely."
+to german "Du bist in der Lage das Labor einigermaßen präzise zu kalibrieren";
+
+translate "You are able to calibrate the lab a little better than before."
+to german "Du bist in der Lage das Labor etwas besser als zuvor zu kalibrieren.";
+
+translate "You are unable to calibrate the lab."
+to german "Du bist nicht in der Lage das Labor zu kalibrieren";
+
+translate "Precise Calibration Level: N1"
+to german "Präzise Kalibrierungsstufe: N1";
+
+translate "Create a batch of Lung Spore Test Solution"
+to german "Stelle eine Ladung Lungenpilz-Testlösung her";
+
+translate "You already have something in the beaker. Are you sure you want to throw it out and start a batch of Litmus Strip solution?"
+to german "Du hast bereits etwas in dem Becher. Bist du sicher, dass du das ausleeren und eine Ladung Litmus-Streifenlösung herstellen möchtest?";
+
+translate "You must install all of your upgrades."
+to german "Du musst alle deine Upgrades installieren.";
+
+translate "To mix this up, you need:"
+to german "Um dies zu vermischen benötigst du:";
+
+translate "This project used: N1 O1 N2 O2 N3 O3 N4 O4"
+to german "Dieses Projekt brauchte: N1 O1(pn), N2 O2(pn), N3 O3(pn), N4 O4(pn)";
+
+translate "Lung Spore Test Solution"
+to german "Lungenpilzlösung";
+
+translate "Put a Papyrus Strip into the Solution"
+to german "Tauche einen Papyrusstreifen in die Lösung";
+
+translate "You must have a Papyrus Strip to put into the Solution."
+to german "Du brauchst einen Papyrusstreifen, um ihn in die Lösung zu tauchen.";
+
+translate "You dip a papyrus strip into the paper. The beaker level decreases slightly, and you create a piece of litmus paper."
+to german "Du tauchst den Papyrusstreifen in die Lösung. Der Becherpegel fällt ein bisschen ab und du hast ein Stück Litmuspapier hergestellt.";
+
+translate "Lab Work"
+to german "Laborarbeiten";
+
+translate "Papyrus Strips"
+to german "Papyrusstreifen";
+
+translate "How many pieces of Papyrus Paper do you wish to turn into strips? Each paper makes 8 strips."
+to german "Wieviele der Papyrusblätter möchtest du in Streifen zerreißen? Jedes Blatt ergibt 8 Streifen.";
+
+translate "You don't have that much papyrus paper."
+to german "Du hast nicht so viel Papyruspapier.";
+
+translate "Reset All Calibrations on All Benches"
+to german "Setze alle Einstellungen aller Werkbanken zurück";
+
+translate "The sound of shifting glassware comes from the direction of the Chemistry Laboratory."
+to german "Der Klang der sich bewegenden Glasgegenstände kommt aus der Richtung des Chemielabors.";
+
+translate "Upgrade this bench to allow essence creation"
+to german "Verbessere diese Werkbank, um Essenzen herstellen zu können";
+
+translate "You have upgraded your Chemistry Lab to allow for essential essence creation. You may now extract essences from substances, as long as you have an Alcohol Lamp installed."
+to german "Du hast dein Chemielabor nun zur Herstellung von ätherischen Essenzen ausgestattet. Du kannst nun aus verschiedenen Substanzen Essenzen herstellen, solange du eine Alkohollampe eingebaut hast.";
+
+translate "Upgrade this bench with an Alcohol Lamp"
+to german "Rüste diese Werkbank mit einer Alkohollampe aus";
+
+translate "You have upgraded your Chemistry Lab with an Alcohol Lamp."
+to german "Du hast dein Chemielabor mit einer Alkohollampe ausgerüstet.";
+
+translate "Display Essence Qualities"
+to german "Zeige die Essenzeigenschaften";
+
+translate "Choose:"
+to german "Wähle:";
+
+translate "Essential Macerator"
+to german "Schredder";
+
+translate "Assemble an Essential Macerator"
+to german "Montiere einen Schredder";
+
+translate "To construct an essential macerator, you need:"
+to german "Um einen Schredder zu bauen benötigst du:";
+
+translate "Pearl"
+to german "Perlen";
+
+translate "Your pestle has worn out. You must install a new pestle to pulverize pearls."
+to german "Dein Stößel ist abgenutzt. Du musst zum Zermahlen von Perlen einen neuen Stößel bauen.";
+
+translate "Are you sure you want to grind your O1 into dust?"
+to german "Bist du sicher dass du dein O1(swa)) zu Staub zermahlen willst?";
+
+translate "Dispose"
+to german "Vernichten";
+
+translate "Dump Out Beaker Contents"
+to german "Becherinhalt ausleeren";
+
+translate "Are you sure you want to dump out the contents of the beaker?"
+to german "Bist du sicher, dass du den Becherinhalt ausleeren möchtest?";
+
+translate "Dump Out Florence Flask Contents"
+to german "Erlenmeyerkolbeninhalt ausleeren";
+
+translate "Are you sure you want to dump out the contents of the flask?"
+to german "Bist du sicher, dass du den Inhalt des Erlenmeyerkolbens ausleeren möchtest?";
+
+translate "Dump Out Test Tube Contents"
+to german "Reagenzglasinhalt ausleeren";
+
+translate "Are you sure you want to dump out the contents of the test tube?"
+to german "Bist du sicher, dass du den Reagenzglasinhalt ausleeren möchtest?";
+
+translate "Beaker Loaded: K1 - N1 doses"
+to german "Vorhandene Becher: K1 - N1 Portionen";
+
+translate "Florence Flask Loaded: K1 - N1 doses"
+to german "Vorhandene Erlenmeyerkolben: K1 - N1 Portionen";
+
+translate "Test Tube Loaded: K1 - N1 doses"
+to german "Vorhandene Reagenzgläser: K1 - N1 Portionen";
+
+translate "Positive Litmus Solution Completes in K1"
+to german "Positive Litmuslösung fertiggestellt in K1";
+
+translate "Negative Litmus Solution Completes in K1"
+to german "Negative Litmuslösung fertiggestellt in K1";
+
+translate "Dump Out Alcohol Lamp Contents"
+to german "Inhalt der Alkohollampe ausleeren";
+
+translate "Are you sure you want to dump out the contents of the alcohol lamp?"
+to german "Bist du sicher, dass du den Inhalt der Alkohollampe ausleeren möchtest?";
+
+translate "Essential Distillation"
+to german "Ätherische Destillation";
+
+translate "Remove Essential Material from the Macerator"
+to german "Entferne Material aus dem Schredder";
+
+translate "Place Essential Material Into the Macerator"
+to german "Fülle den Schredder mit Grundmaterialien";
+
+translate "Choose a material to macerate:"
+to german "Wähle ein zu zerkleinerndes Material:";
+
+translate "That item cannot be macerated."
+to german "Dieses Material kann nicht geschreddert werden.";
+
+translate "You need 10 debens to create an essential essence."
+to german "Du benötigst 10 Deben, um eine ätherische Essenz herzustellen.";
+
+translate "Fill Alcohol Lamp with Spirits"
+to german "Fülle die Alkoholampe mit Alkohol";
+
+translate "How much O1 do you want to put in the lamp? This cannot be extracted once filled."
+to german "Wieviel O1(pn) möchtest du in die Lampe füllen? Einmal gefüllt kann es nicht wieder entfernt werden.";
+
+translate "Start Essential Distillation"
+to german "Beginne die ätherische Destillation";
+
+translate "It takes 10 minutes to distill essence."
+to german "Die Destillation benötigt 10 Minuten.";
+
+translate "The distillation process is a success. You have produced N1 drops of Essence."
+to german "Der Destillationsprozess war ein Erfolg. Du hast N1 Essenztropfen hergestellt.";
+
+translate "The distillation process failed. The temperature was too cold, and the essence congealed in the pipe."
+to german "Der Destillationsprozess ist fehlgeschlagen. Die Temperatur war zu kalt und die Essenz ist i Rohr geronnen.";
+
+translate "The distillation process failed. The temperature was too hot, and the essence all evaporated out of the release valve."
+to german "Der Destillationsprozess ist fehlgeschlagen. Die Temperatur war zu heiß und die Essenz verdampfte über das Ablassventil.";
+
+translate "Mix Compound"
+to german "Mische eine Verbindung";
+
+translate "You must have five different types of essence in the crucible to create an essential compound."
+to german "Du brauchst fünf verschiedene Arten von Essenzen im Tiegel um eine Verbindung mischen zu können.";
+
+translate "You have succeeded in creating a new compound. What do you wish to name it?"
+to german "Du hast erfolgreich eine neue Verbindung hergestellt. Wie möchtest du sie nennen?";
+
+translate "You examine the compound as it is created, using a drop of Litmus Paper Solution. It seems to possess low levels of O1."
+to german "Du untersuchst die hergestellte Verbindung, indem du einen Tropfen der Litmuspapierlösung hinein gibst. Es scheint geringe Werte von O1(sn) zu besitzen.";
+
+translate "You examine the compound as it is created, using a drop of Litmus Paper Solution. It does not seem to possess low levels of any quality."
+to german "Du untersuchst die hergestellte Verbindung, indem du einen Tropfen der Litmuspapierlösung hinein gibst. Es scheint keinerlei Qualitätswerte zu haben.";
+
+translate "You examine the compound as it is created, using a drop of Litmus Paper Solution. It seems to possess high levels of O1."
+to german "Du untersuchst die hergestellte Verbindung, indem du einen Tropfen der Litmuspapierlösung hinein gibst. Es scheint große Werte von O1(sn)) zu besitzen.";
+
+translate "While you succeed with the creation of the compound, you have no Litmus Paper Solution with which to test its qualities."
+to german "Du hast erfolgreich eine Verbindung hergestellt, hast aber keine Litmuspapierlösung, mit dem du seine Qualitäten testen könntest.";
+
+translate "Add Essence to Compound"
+to german "Essenz einer Verbindung zufügen";
+
+translate "You can only place one of each type of essence in a compound. Each of the five must be different."
+to german "Du kannst nur von jeder Essenzart jeweils Eine in eine Verbindng geben. Jede der 5 muss unterschiedlich sein.";
+
+translate "You can only place 5 essences in an Essential Compound."
+to german "Du kannst nur 5 Essenzen in eine Verbindung geben.";
+
+translate "It requires N1 essence for each element of the Essential Compound."
+to german "Es werden N1 Essenzen jedes Elements der Verbindung benötigt.";
+
+translate "Display Loaded Essences"
+to german "Benutzte Essenzen anzeigen";
+
+translate "Display"
+to german "Anzeigen";
+
+translate "Essences:"
+to german "Essenzen:";
+
+translate "  Essence: K1"
+to german "  Essenz: K1";
+
+translate "Dump out Essences from Marble Crucible"
+to german "Schütte die Essenzen aus dem Marmortiegel";
+
+translate "Are you sure you want to dump out the essences and reset your essential compound?"
+to german "Bist du sicher, dass du die Essenzen ausschütten und somit deine Verbindung löschen möchtest?";
+
+translate "Mix a batch of Positive Litmus Strip Solution (Stage 1)"
+to german "Mische eine Ladung Positiver Litmusstreifenlösung (Stufe 1)";
+
+translate "You already have something in the beaker. Are you sure you want to throw it out and start a batch of Positive Litmus Strip solution?"
+to german "Du hast bereits etwas in dem Becher. Bist du sicher, dass du ihn ausleeren und eine neue Ladung Positiver Litmusstreifenlösung anmischen möchtest?";
+
+translate "It takes 5 minutes for the solution to settle properly."
+to german "Es braucht 5 Minuten, bis die Lösung sich vollständig abgesetzt hat.";
+
+translate "Your solution has settled."
+to german "Deine Lösung hat sich abgesetzt.";
+
+translate "Positive Litmus Paper Solution (Stage 1)"
+to german "Positive Litmuspapierlösung (Stufe 1)";
+
+translate "Check Moss Requirements for a batch of Positive Litmus Strip Solution (Stage 2)"
+to german "Überprüfe den Moosbedarf für eine Ladung Positiver Litmusstreifenlösung (Stufe 2)";
+
+translate "This solution requires three debens of O1."
+to german "Diese Lösung benötigt 3 Deben O1(sn))";
+
+translate "Add Moss to a batch of Positive Litmus Strip Solution (Stage 2)"
+to german "Füge Moos zu einer Ladung Positiver Litmusstreifenlösung zu (Stufe 2)";
+
+translate "Choose a moss to put into the Solution:"
+to german "Wähle ein Moss aus für die Lösung:";
+
+translate "You must select a Moss."
+to german "Du musst ein Moos auswählen.";
+
+translate "You do not have enough Moss."
+to german "Du hast nicht genug Moos.";
+
+translate "This is not the correct type of Moss."
+to german "Das ist nicht die richtige Moosart.";
+
+translate "You put the moss into the solution, and it changes to a deep greenish color. The solution begins to evaporate - stir it quickly to prevent this."
+to german "Du gibst das Moos in die Lösung und sie verändert sich farblich in ein tiefes Grün. Die Lösung beginnt zu verdampfen - rühre kräftig um, um dies zu verhindern.";
+
+translate "Positive Litmus Paper Solution (Stage 2)"
+to german "Positive Litmuspapierlösung (Stufe 2)";
+
+translate "You were unable to stir it fast enough, and the solution evaporated. You will have to start again."
+to german "Du warst nicht in der Lage schnell genug umzurühren und die Lösung ist verdampft. Du musst von neuem beginnen.";
+
+translate "You were able to stir it fast enough, and you kept N1 drops of solution, which is now complete."
+to german "Du konntest schnell genug umrühren und hast N1 Tropfen der fertigen Lösung erhalten.";
+
+translate "Positive Litmus Paper Solution"
+to german "Positive Litmuspapierlösung";
+
+translate "Stir a batch of Positive Litmus Strip Solution (Stage 3)"
+to german "Rühre eine Ladung Positiver Litmusstreifenlösung an (Stufe 3)";
+
+translate "You do not have a gold wire to stir the solution."
+to german "Du hast keinen Golddraht um die Lösung umzurühren.";
+
+translate "Mix a batch of Negative Litmus Strip Solution (Stage 1)"
+to german "Mische eine Ladung Negativer Litmusstreifenlösung (Stufe 1)";
+
+translate "You already have something in the beaker. Are you sure you want to throw it out and start a batch of Negative Litmus Strip solution?"
+to german "Du hast bereits etwas in dem Becher. Bist du sicher, dass du ihn ausleeren und eine neue Ladung Negativer Litmusstreifenlösung anmischen möchtest?";
+
+translate "Negative Litmus Paper Solution (Stage 1)"
+to german "Negative Litmuspapierlösung (Stufe 1)";
+
+translate "Check Moss Requirements for a batch of Negative Litmus Strip Solution (Stage 2)"
+to german "Überprüfe den Moosbedarf für eine Ladung Negativer Litmusstreifenlösung (Stufe 2)";
+
+translate "Add Moss to a batch of Negative Litmus Strip Solution (Stage 2)"
+to german "Füge Moos zu einer Ladung Negativer Litmusstreifenlösung zu (Stufe 2)";
+
+translate "Negative Litmus Paper Solution (Stage 2)"
+to german "Negative Litmuspapierlösung (Stufe 2)";
+
+translate "Negative Litmus Paper Solution"
+to german "Negative Litmuspapierlösung";
+
+translate "Refill with Positive Litmus Strip Solution"
+to german "Nachfüllen Positive Litmusstreifenlösung";
+
+translate "Refill with Negative Litmus Strip Solution"
+to german "Nachfüllen Negative Litmusstreifenlösung";
+
+translate "Stir a batch of Negative Litmus Strip Solution (Stage 3)"
+to german "Rühre eine Ladung Negativer Litmusstreifenlösung an (Stufe 3)";
+
+translate "You do not have a magnesium wire to stir the solution."
+to german "Du hast keinen Magnesiumdraht um die Lösung umzurühren.";
+
+translate "Prepare"
+to german "Anfertigen";
+
+translate "Analyze Essential Compound"
+to german "Analysiere die Verbindung";
+
+translate "Positive"
+to german "Positiv";
+
+translate "You do not have a blank Positive Litmus Test strip."
+to german "Du hast keinen leeren Postiven Litmusteststreifen.";
+
+translate "You examine the compound, using a Litmus Strip. It does not seem to possess high levels of any quality."
+to german "Du untersuchst die Verbindung mittels eines Litmusstreifens. Es scheint keinerlei Qualitätswerte aufzuweisen.";
+
+translate "You examine the compound, using a Litmus Strip. It seems to possess elevated levels of O1."
+to german "Du untersuchst die Verbindung mittels eines Litmusstreifens. Es scheint erhöhte Werte von O1(sn) aufzuweisen.";
+
+translate "Negative"
+to german "Negativ";
+
+translate "You do not have a blank Negative Litmus Test strip."
+to german "Du hast keinen leeren Negativen Litmusteststreifen.";
+
+translate "Lung Spore Treatment (Improved)"
+to german "Lungenpilzmedizin (verbessert)";
+
+translate "Convert a Compound into Improved Lung Spore Treatment"
+to german "Verarbeite eine Verbindung zu einer verbesserten Lungenpilzmedizin";
+
+translate "You must have a glass jar to put the treatment into."
+to german "Du brauchst eine Glasflasche, in die du die Medizin einfüllen kannst.";
+
+translate "You must have a jug of water with which to diffuse the compound."
+to german "Du musst einen Krug Wasser haben, in dem du die Verbindung diffundierst.";
+
+translate "Choose an essential compound: "
+to german "Wähle eine Verbindung: ";
+
+translate "That item is not a valid Essential Compound."
+to german "Dieser Gegenstand ist keine gültige Verbindung.";
+
+translate "Your compound is not correct. It requires: O1 (O2)O3 (O4)"
+to german "Deine Verbindung ist fehlerhaft. Sie benötigt: O1(sn) (O2(sn)) O3(sn) (O4(sn))";
+
+translate "Your compound meets the requirements. You mix it up with the water and fill up the jar with its contents."
+to german "Deine Verbindung erfüllt die Anforderungen. Du mischst sie mit dem Wasser und füllst alles in eine Glasflasche";
+
+translate "Create a batch of Lung Spore Cure"
+to german "Erstelle eine Ladung Lungenpilzmedizin";
+
+translate "It requires a quantity of 1000 water, 100 Powdered Emeralds, and 1 Wheat Extract to mix a batch of Lung Spore Cure."
+to german "Du benötigst 1000 Wasser, 100 Smaragdpulver und 1 Weizenextrakt um eine Ladung Lungenpilzmedizin zu mischen.";
+
+translate "You dump all of the water into the cistern, add the emeralds and wheat extract, and mix it up. The color of the water changes to a strange greenish amber."
+to german "Du schüttest das Wasser in die Zisterne, fügst die Smaragde und das Weizenextrakt hinzu und mischst es durch. Die Farbe des Wasser wandelt sich zu einem sonderbar grünlichen Bernstein.";
+
+translate "  O1 - N1"
+to german "  O1(sn) - N1";
+
+translate "  Chemistry Upgrade Level: N1"
+to german "  Chemieverbesserung Level: N1";

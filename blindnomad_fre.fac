@@ -1,0 +1,119 @@
+module blindnomad_fre;
+
+//menues
+
+translate "Add Cyan Pigment"
+to french "Ajouter du cyan";
+
+translate "Add Magenta Pigment"
+to french "Ajouter du magenta";
+
+translate "Add Yellow Pigment"
+to french "Ajouter du jaune";
+
+translate "Add Bleach"
+to french "Ajouter un agent blanchissant";
+
+//objects
+
+translate glasstubes to french masculine
+{
+  ns "Tube de verre"; np "Tube de verre";
+  }
+ 
+ translate CyanPigment to french masculine
+{
+  ns "Pigment cyan"; np "Pigments cyan";
+}
+translate MagentaPigment to french masculine
+{
+  ns "Pigment magenta"; np "Pigments magenta";
+}
+translate YellowPigment to french masculine
+{
+  ns "Pigment jaune"; np "Pigments jaunes";
+}
+translate Pigment to french masculine
+{
+  ns "Pigment"; np "Pigments";
+}
+translate Bleach to french masculine
+{
+  ns "Agent blanchissant"; np "Agents blanchissants";
+  }
+  
+translate "You don't have any O1."
+to french "Vous n'avez pas de O1(np)";
+
+translate "Put fresh water in the display tanks"
+to french "Verser de l'eau dans les citernes d'exposition";
+
+translate "You don't have 160 water."
+to french "Vous n'avez pas 160 mesures d'eau.";
+
+translate "Flush the display tanks into the challenge tanks"
+to french "Transvasez le contenu des citerne d'exposition dans les citernes de concours.";
+
+translate "Are you sure you want to wipe out the old challenge?"
+to french "Voulez-vous vraiment effacer l'ancien concours ?";
+
+translate "The colors do not match."
+to french "Les couleurs ne sont pas assorties.";
+
+translate "You didn't use the same amount of cyan."
+to french "Vous n'avez pas utilisé la même quantité de cyan.";
+
+translate "You didn't use the same amount of magenta."
+to french "Vous n'avez pas utilisé la même quantité de magenta.";
+
+translate "You didn't use the same amount of yellow."
+to french "Vous n'avez pas utilisé la même quantité de jaune.";
+
+translate "You didn't use the same amount of bleach."
+to french "Vous n'avez pas utilisé la même quantité d'agent blanchissant.";
+
+translate "You took too long."
+to french "Vous avez mis trop de temps.";
+
+translate "You have solved the riddle, however, no secret is revealed."
+to french "Vous avez résolu l'énigme, mais n'avez révélé aucun secret.";
+
+translate "You have solved the riddle. The creator's message is:"
+to french "Vous avez résolu l'énigme. Le message du créateur est :";
+
+translate "Cyan"
+to french "Cyan";
+
+translate "Magenta"
+to french "Magenta";
+
+translate "Yellow"
+to french "Jaune";
+
+translate "Bleach"
+to french "Agent blanchissant";
+
+translate "Time"
+to french "Temps";
+
+translate "Cyan N1"
+to french "Cyan N1";
+
+translate "Magenta N1"
+to french "Magenta N1";
+
+translate "Yellow N1"
+to french "Jaune N1";
+
+translate "Bleach N1"
+to french "Agent blanchissant N1";
+
+translate "Time N1"
+to french "Temps N1";
+
+translate "Analysis:"
+to french "Analyse:";
+
+translate "Analysis:"
+to french "Analyse:";
+

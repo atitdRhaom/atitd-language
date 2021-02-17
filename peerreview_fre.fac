@@ -1,0 +1,230 @@
+module PeerReview_fre;
+
+translate "Fraud"
+to french "Tricherie";
+translate "Unrated"
+to french "Non estimé";
+translate "Poor"
+to french "Mauvais";
+translate "Fair"
+to french "Honnête";
+translate "Good"
+to french "Bon";
+translate "Great"
+to french "Excellent";
+translate "Exceptional"
+to french "Exceptionnel";
+translate "Brilliant"
+to french "Fantastique";
+translate "Monumental"
+to french "Monumental";
+
+translate "You keep your Judgement as Poor."
+to french "Vous continuez à evaluer cette oeuvre Mauvaise.";
+translate "You keep your Judgement as Fair."
+to french "Vous continuez à evaluer cette oeuvre Honnête.";
+translate "You keep your Judgement as Good."
+to french "Vous continuez à evaluer cette oeuvre Bonne.";
+translate "You keep your Judgement as Great."
+to french "Vous continuez à evaluer cette oeuvre Excellente.";
+translate "You keep your Judgement as Exceptional."
+to french "Vous continuez à evaluer cette oeuvre Exceptionnelle.";
+translate "You keep your Judgement as Brilliant."
+to french "Vous continuez à evaluer cette oeuvre Fantastique.";
+translate "You keep your Judgement as Monumental."
+to french "Vous continuez à evaluer cette oeuvre Monumentale.";
+translate "You keep your Judgement as fraud."
+to french "Vous continuer à dénoncer une tricherie.";
+
+translate "You change your Judgement from Poor to Fair."
+to french "Vous modifiez votre jugement Mauvais pour Honnête.";
+translate "You change your Judgement from Poor to Good."
+to french "Vous modifiez votre jugement Mauvais pour Bon.";
+translate "You change your Judgement from Poor to Great."
+to french "Vous modifiez votre jugement Mauvais pour Excellent.";
+translate "You change your Judgement from Poor to Exceptional."
+to french "Vous modifiez votre jugement Mauvais pour Exceptionnel.";
+translate "You change your Judgement from Poor to Brilliant."
+to french "Vous modifiez votre jugement Mauvais pour Fantastique.";
+translate "You change your Judgement from Poor to Monumental."
+to french "Vous modifiez votre jugement Mauvais pour Monumental.";
+translate "You change your Judgement from Poor to Fraud."
+to french "Vous modifiez votre jugement Mauvais pour dénoncer une tricherie.";
+
+translate "You change your Judgement from Fair to Poor."
+to french "Vous modifiez votre jugement Honnête pour Mauvais.";
+translate "You change your Judgement from Fair to Good."
+to french "Vous modifiez votre jugement Honnête pour Bon.";
+translate "You change your Judgement from Fair to Great."
+to french "Vous modifiez votre jugement Honnête pour Excellent.";
+translate "You change your Judgement from Fair to Exceptional."
+to french "Vous modifiez votre jugement Honnête pour Exceptionnel.";
+translate "You change your Judgement from Fair to Brilliant."
+to french "Vous modifiez votre jugement Honnête pour Fantastique.";
+translate "You change your Judgement from Fair to Monumental."
+to french "Vous modifiez votre jugement Honnête pour Monumental.";
+translate "You change your Judgement from Fair to Fraud."
+to french "Vous modifiez votre jugement Honnête pour dénoncer une tricherie.";
+
+translate "You change your Judgement from Good to Fair."
+to french "Vous modifiez votre jugement Bon pour Honnête.";
+translate "You change your Judgement from Good to Poor."
+to french "Vous modifiez votre jugement Bon pour Mauvais.";
+translate "You change your Judgement from Good to Great."
+to french "Vous modifiez votre jugement Bon pour Excellent.";
+translate "You change your Judgement from Good to Exceptional."
+to french "Vous modifiez votre jugement Bon pour Exceptionnel.";
+translate "You change your Judgement from Good to Brilliant."
+to french "Vous modifiez votre jugement Bon pour Fantastique.";
+translate "You change your Judgement from Good to Monumental."
+to french "Vous modifiez votre jugement Bon pour Monumental.";
+translate "You change your Judgement from Good to Fraud."
+to french "Vous modifiez votre jugement Bon pour dénoncer une tricherie.";
+
+translate "You change your Judgement from Great to Fair."
+to french "Vous modifiez votre jugement Excellent pour Honnête.";
+translate "You change your Judgement from Great to Good."
+to french "Vous modifiez votre jugement Excellent pour Bon.";
+translate "You change your Judgement from Great to Poor."
+to french "Vous modifiez votre jugement Excellent pour Mauvais.";
+translate "You change your Judgement from Great to Exceptional."
+to french "Vous modifiez votre jugement Excellent pour Exceptionnel.";
+translate "You change your Judgement from Great to Brilliant."
+to french "Vous modifiez votre jugement Excellent pour Fantastique.";
+translate "You change your Judgement from Great to Monumental."
+to french "Vous modifiez votre jugement Excellent pour Monumental.";
+translate "You change your Judgement from Great to Fraud."
+to french "Vous modifiez votre jugement Excellent pour dénoncer une tricherie.";
+
+translate "You change your Judgement from Exceptional to Fair."
+to french "Vous modifiez votre jugement Exceptionnel pour Honnête.";
+translate "You change your Judgement from Exceptional to Good."
+to french "Vous modifiez votre jugement Exceptionnel pour Bon.";
+translate "You change your Judgement from Exceptional to Great."
+to french "Vous modifiez votre jugement Exceptionnel pour Excellent.";
+translate "You change your Judgement from Exceptional to Poor."
+to french "Vous modifiez votre jugement Exceptionnel pour Mauvais.";
+translate "You change your Judgement from Exceptional to Brilliant."
+to french "Vous modifiez votre jugement Exceptionnel pour Fantastique.";
+translate "You change your Judgement from Exceptional to Monumental."
+to french "Vous modifiez votre jugement Exceptionnel pour Monumental.";
+translate "You change your Judgement from Exceptional to Fraud."
+to french "Vous modifiez votre jugement Exceptionnel pour dénoncer une tricherie.";
+
+translate "You change your Judgement from Brilliant to Fair."
+to french "Vous modifiez votre jugement Fantastique pour Honnête.";
+translate "You change your Judgement from Brilliant to Good."
+to french "Vous modifiez votre jugement Fantastique pour Bon.";
+translate "You change your Judgement from Brilliant to Great."
+to french "Vous modifiez votre jugement Fantastique pour Excellent.";
+translate "You change your Judgement from Brilliant to Exceptional."
+to french "Vous modifiez votre jugement Fantastique pour Exceptionnel.";
+translate "You change your Judgement from Brilliant to Poor."
+to french "Vous modifiez votre jugement Fantastique pour Mauvais.";
+translate "You change your Judgement from Brilliant to Monumental."
+to french "Vous modifiez votre jugement Fantastique pour Monumental.";
+translate "You change your Judgement from Brilliant to Fraud."
+to french "Vous modifiez votre jugement Fantastique pour dénoncer une tricherie.";
+
+translate "You change your Judgement from Monumental to Fair."
+to french "Vous modifiez votre jugement Monumental pour Honnête.";
+translate "You change your Judgement from Monumental to Good."
+to french "Vous modifiez votre jugement Monumental pour Bon.";
+translate "You change your Judgement from Monumental to Great."
+to french "Vous modifiez votre jugement Monumental pour Excellent.";
+translate "You change your Judgement from Monumental to Exceptional."
+to french "Vous modifiez votre jugement Monumental pour Exceptionnel.";
+translate "You change your Judgement from Monumental to Brilliant."
+to french "Vous modifiez votre jugement Monumental pour Fantastique.";
+translate "You change your Judgement from Monumental to Poor."
+to french "Vous modifiez votre jugement Monumental pour Mauvais.";
+translate "You change your Judgement from Monumental to Fraud."
+to french "Vous modifiez votre jugement Monumental pour dénoncer une tricherie.";
+
+translate "You change your Judgement from Fraud to Fair."
+to french "Vous modifiez votre jugement Tricherie pour Honnête.";
+translate "You change your Judgement from Fraud to Good."
+to french "Vous modifiez votre jugement Tricherie pour Bon.";
+translate "You change your Judgement from Fraud to Great."
+to french "Vous modifiez votre jugement Tricherie pour Excellent.";
+translate "You change your Judgement from Fraud to Exceptional."
+to french "Vous modifiez votre jugement Tricherie pour Exceptionnel.";
+translate "You change your Judgement from Fraud to Brilliant."
+to french "Vous modifiez votre jugement Tricherie pour Fantastique.";
+translate "You change your Judgement from Fraud to Monumental."
+to french "Vous modifiez votre jugement Tricherie pour Monumental.";
+translate "You change your Judgement from Fraud to Poor."
+to french "Vous modifiez votre jugement Tricherie pour Mauvais.";
+
+
+translate "You record your Judgement as Fair."
+to french "Votre estimation a été prise en compte: Honnête.";
+translate "You record your Judgement as Good."
+to french "Votre estimation a été prise en compte: Bon.";
+translate "You record your Judgement as Great."
+to french "Votre estimation a été prise en compte: Excellent.";
+translate "You record your Judgement as Exceptional."
+to french "Votre estimation a été prise en compte: Exceptionnel.";
+translate "You record your Judgement as Brilliant."
+to french "Votre estimation a été prise en compte: Fantastique.";
+translate "You record your Judgement as Monumental."
+to french "Votre estimation a été prise en compte: Monumental.";
+translate "You record your Judgement as Poor."
+to french "Votre estimation a été prise en compte: Mauvais.";
+translate "You record your Judgement as Fraud."
+to french "Vous dénoncez une Tricherie.";
+
+
+translate "Check Statistics"
+to french "Consultez les statistiques";
+
+translate "By order of the Thought Statistics Act, introduced by Valherji, the following was recorded by those attempting this O1:"
+to french "En vertu de la loi Thought Statistic Act (Loi sur les Statistiques de Pensée), promulguée par Valherji, une trace des estimations a été conservée pour O1(cns) O1(ns):";
+
+translate "Unique Players: N1"
+to french "Joueurs individuels: N1";
+
+translate "Unique Players: (counting)"
+to french "Joueurs individuels: (calcul)";
+
+translate "Times Played: N1"
+to french "Nbr de fois essayé: N1";
+
+translate "Average Time of Play: K1"
+to french "Temps moyen de jeu: K1";
+
+translate "Times Solved: N1"
+to french "Nbr de fois réussi: N1";
+
+translate "Average Time to Solve: K1"
+to french "Temps moyen pour résoudre: K1";
+
+translate "Special Judging"
+to french "Estimation spéciales";
+
+translate "Vote "
+to french "Vote ";
+
+translate "You judge the O1 K1."
+to french "Vous estimez O1(cns) O1(ns) K1.";
+
+translate "Rate as a Fraud"
+to french "Dénoncer comme tricherie";
+
+translate "Registering your vote."
+to french "Prise en compte de votre vote.";
+
+translate "You were unable to glean any hints. Check again after the next series of advances."
+to french "Vous n'arrivez pas à glaner quelques indices. Essayez à nouveau après la prochaine série de passages.";
+
+translate "Note: Principles of Reason requires that you Meditate on Judgement Hints *after* Test Advances have happened, usually once per week."
+to french "Remarque: Les Principes de Raison vous demandent de Méditer sur les Indices de Jugement *après* la prochaine série de passage, qui survient habituellement une fois par semaine.";
+
+translate "Although this O1 was judged one of the best in the land, to count toward Principles, it must have won in the last 60 days."
+to french "Bien que O1(cns) O1(ns) ait été jugé comme étant l'un des meilleurs du pays, il doit avoir passé l'épreuve il y a moins de 60 jours pour être compté dans vos Principes.";
+
+translate "AllDoneExceptJudging called where Place is not a Player. Please call a Developer."
+to french "'AllDoneExceptJudging called where Place is not a Player'. Appellez un développeur.";
+
+translate "It looks like you are trying to tear down this O1 in order to bypass the Judging and Score requirements of O2. However, at least one other requirement is unfulfilled. Tear it down anyway?"
+to french "Il semble que vous essayiez de détruire O1(cns) O1(ns) afin d'éviter les phases d'évaluation du O2(ns). L'une des tâches n'est cependant pas effectuée, et détruire ne vous fera pas passer les principes. Voulez-vous réellement le détruire ?";

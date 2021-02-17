@@ -1,0 +1,251 @@
+module moss_fre;
+
+translate Moss to french feminine
+{
+	ns "Mousse"; np "Mousses";
+	}
+translate Herbiculture to french feminine
+{
+	ns "Herbiculture"; np "Herbiculture";
+	}
+
+//menues
+
+translate "Bless this Aqueduct, drinking from the Cool Waters"
+to french "Bénir cet aqueduc en buvant son eau fraiche";
+
+translate "You murmur a silent prayer to the gods, lean over the moss-covered cistern, and take a deep drink of the cool water. Your strength seems subtly enhanced."
+to french "Vous adressez une prière silencieuse aux dieux, vous appuyez sur la citerne couverte de mousses, et buvez une rasade d'eau fraiche. Votre Force semble s'améliorer sensiblement.";
+
+translate "You murmur a silent prayer to the gods, lean over the moss-covered cistern, and take a deep drink of the cool water. Your dexterity seems subtly enhanced."
+to french "Vous adressez une prière silencieuse aux dieux, vous appuyez sur la citerne couverte de mousses, et buvez une rasade d'eau fraiche. Votre Dextérité semble s'améliorer sensiblement.";
+
+translate "You murmur a silent prayer to the gods, lean over the moss-covered cistern, and take a deep drink of the cool water. Your endurance seems subtly enhanced."
+to french "Vous adressez une prière silencieuse aux dieux, vous appuyez sur la citerne couverte de mousses, et buvez une rasade d'eau fraiche. Votre Endurance semble s'améliorer sensiblement.";
+
+translate "You murmur a silent prayer to the gods, lean over the moss-covered cistern, and take a deep drink of the cool water. Your speed seems subtly enhanced."
+to french "Vous adressez une prière silencieuse aux dieux, vous appuyez sur la citerne couverte de mousses, et buvez une rasade d'eau fraiche. Votre Vitesse semble s'améliorer sensiblement.";
+
+translate "You murmur a silent prayer to the gods, lean over the moss-covered cistern, and take a deep drink of the cool water. Your constitution seems subtly enhanced."
+to french "Vous adressez une prière silencieuse aux dieux, vous appuyez sur la citerne couverte de mousses, et buvez une rasade d'eau fraiche. Votre Constitution semble s'améliorer sensiblement";
+
+translate "You murmur a silent prayer to the gods, lean over the moss-covered cistern, and take a deep drink of the cool water. Your focus seems subtly enhanced."
+to french "Vous adressez une prière silencieuse aux dieux, vous appuyez sur la citerne couverte de mousses, et buvez une rasade d'eau fraiche. Votre Concentration semble s'améliorer sensiblement.";
+
+translate "You murmur a silent prayer to the gods, lean over the moss-covered cistern, and take a deep drink of the cool water. Your perception seems subtly enhanced."
+to french "Vous adressez une prière silencieuse aux dieux, vous appuyez sur la citerne couverte de mousses, et buvez une rasade d'eau fraiche. Votre Perception semble s'améliorer sensiblement.";
+
+
+
+
+translate "You murmur a silent prayer to the gods, lean over the moss-covered cistern, and take a deep drink of the cool water. Your strength seems subtly enhanced, and the moss has somehow changed character a bit."
+to french "Vous adressez une prière silencieuse aux dieux, vous appuyez sur la citerne couverte de mousses, et buvez une rasade d'eau fraiche. Votre Force semble s'améliorer sensiblement, et les caractéristiques de la mousse se sont quelque peu modifiées.";
+
+translate "You murmur a silent prayer to the gods, lean over the moss-covered cistern, and take a deep drink of the cool water. Your dexterity seems subtly enhanced, and the moss has somehow changed character a bit."
+to french "Vous adressez une prière silencieuse aux dieux, vous appuyez sur la citerne couverte de mousses, et buvez une rasade d'eau fraiche. Votre Dextérité semble s'améliorer sensiblement, et les caractéristiques de la mousse se sont quelque peu modifiées.";
+
+translate "You murmur a silent prayer to the gods, lean over the moss-covered cistern, and take a deep drink of the cool water. Your endurance seems subtly enhanced, and the moss has somehow changed character a bit."
+to french "Vous adressez une prière silencieuse aux dieux, vous appuyez sur la citerne couverte de mousses, et buvez une rasade d'eau fraiche. Votre Endurance semble s'améliorer sensiblement, et les caractéristiques de la mousse se sont quelque peu modifiées.";
+
+translate "You murmur a silent prayer to the gods, lean over the moss-covered cistern, and take a deep drink of the cool water. Your speed seems subtly enhanced, and the moss has somehow changed character a bit."
+to french "Vous adressez une prière silencieuse aux dieux, vous appuyez sur la citerne couverte de mousses, et buvez une rasade d'eau fraiche. Votre Vitesse semble s'améliorer sensiblement, et les caractéristiques de la mousse se sont quelque peu modifiées.";
+
+translate "You murmur a silent prayer to the gods, lean over the moss-covered cistern, and take a deep drink of the cool water. Your constitution seems subtly enhanced, and the moss has somehow changed character a bit."
+to french "Vous adressez une prière silencieuse aux dieux, vous appuyez sur la citerne couverte de mousses, et buvez une rasade d'eau fraiche. Votre Constitution semble s'améliorer sensiblement, et les caractéristiques de la mousse se sont quelque peu modifiées.";
+
+translate "You murmur a silent prayer to the gods, lean over the moss-covered cistern, and take a deep drink of the cool water. Your focus seems subtly enhanced, and the moss has somehow changed character a bit."
+to french "Vous adressez une prière silencieuse aux dieux, vous appuyez sur la citerne couverte de mousses, et buvez une rasade d'eau fraiche. Votre Concentration semble s'améliorer sensiblement, et les caractéristiques de la mousse se sont quelque peu modifiées.";
+
+translate "You murmur a silent prayer to the gods, lean over the moss-covered cistern, and take a deep drink of the cool water. Your perception seems subtly enhanced, and the moss has somehow changed character a bit."
+to french "Vous adressez une prière silencieuse aux dieux, vous appuyez sur la citerne couverte de mousses, et buvez une rasade d'eau fraiche. Votre Perception semble s'améliorer sensiblement, et les caractéristiques de la mousse se sont quelque peu modifiées.";
+
+//no plural for coherence
+translate green to french feminine
+{
+	ns "verte"; np "verte";
+	}
+
+translate striped to french feminine
+{
+	ns "zébrée"; np "zébrée";
+	}
+translate calico to french feminine
+{
+	ns "cotonneuse"; np "cotonneuse";
+	}
+translate reticulated to french feminine
+{
+	ns "réticulée"; np "réticulée";
+	}
+translate fuzzy to french feminine
+{
+	ns "velue"; np "velue";
+	}
+translate prickly to french feminine
+{
+	ns "piquante"; np "piquante";
+	}
+translate spotted to french feminine
+{
+	ns "tavelée"; np "tavelée";
+	}
+translate slimy to french feminine
+{
+	ns "visqueuse"; np "visqueuse";
+	}
+translate phosphorescent to french feminine
+{
+	ns "phosphoréscente"; np "phosphoréscente";
+	}
+translate spongy to french feminine
+{
+	ns "spongieuse"; np "spongieuse";
+	}
+translate hairy to french feminine
+{
+	ns "filamenteuse"; np "filamenteuse";
+	}
+translate smelly to french feminine
+{
+	ns "odorante"; np "odorante";
+	}
+translate crackly to french feminine
+{
+	ns "lézardée"; np "lézardée";
+	}
+translate dry to french feminine
+{
+	ns "seche"; np "seche";
+	}
+translate mottled to french feminine
+{
+	ns "bigarrée"; np "bigarrée";
+	}
+
+
+translate "Some common moss grows here."
+to french "De la mousse commune pousse ici.";
+
+translate "Some K1 moss grows here."
+to french "De la mousse K1 pousse ici.";
+
+translate "Some O1, O2, O3 moss grows here."
+to french "De la mousse O1(ns), O2(ns) et O3(ns) pousse ici.";
+
+translate "Some O1 moss grows here."
+to french "De la mousse O1(ns) pousse ici.";
+
+translate "Some O1, O2 moss grows here."
+to french "De la mousse O1(ns) et O2(ns) pousse ici.";
+
+translate "Harvest the moss"
+to french "Prélever la mousse";
+
+translate "You harvest N1 O1 Moss."
+to french "Vous prélevez N1 mousses O1(N1?np:ns).";
+translate "You harvest N1 O1, O2 Moss."
+to french "Vous prélevez N1 mousses O1(N1?np:ns), O2(N1?np:ns).";
+translate "You harvest N1 O1, O2, O3 Moss."
+to french "Vous prélevez N1 mousses O1(N1?np:ns), O2(N1?np:ns), O3(ns).";
+translate "You harvest N1 O1, O2, O3, O4 Moss."
+to french "Vous prélevez N1 mousses O1(N1?np:ns), O2(N1?np:ns), O3(N1?np:ns), O4(N1?np:ns).";
+translate "You harvest N1 O1, O2, O3, O4, O5 Moss."
+to french "Vous prélevez N1 mousses O1(N1?np:ns), O2(N1?np:ns), O3(N1?np:ns), O4(N1?np:ns), O5(N1?np:ns).";
+translate "You harvest N1 O1, O2, O3, O4, O5, O6 Moss."
+to french "Vous prélevez N1 mousses O1(N1?np:ns), O2(N1?np:ns), O3(N1?np:ns), O4(N1?np:ns), O5(N1?np:ns), O6(N1?np:ns).";
+
+translate "Allows occasional identification and collection of herb seeds."
+to french "Permet l'identification occasionnelle et la récolte de graines d'herbe.";
+
+translate "Any kind of Moss"
+to french "Toutes sortes de mousses";
+
+translate "Green Moss"
+to french "Mousse verte";
+
+translate "Hairy Moss"
+to french "Mousse filamenteuse";
+
+translate "Calico Moss"
+to french "Mousse cotoneuse";
+
+translate "Phosphorescent Moss"
+to french "Mousse phosphoréscente";
+
+translate "Striped, Reticulated Moss"
+to french "Mousse zebrée, réticulée";
+
+translate "Striped, Calico Moss"
+to french "Mousse zebrée, cotoneuse";
+
+translate "Calico, Reticulated Moss"
+to french "Mousse réticulée, cotoneuse";
+
+translate "Striped"
+to french "zebrée";
+
+translate "Calico"
+to french "cotoneuse";
+
+translate "Reticulated"
+to french "réticulée";
+
+translate "Fuzzy"
+to french "confuse";
+
+translate "Prickly"
+to french "piquante";
+
+translate "Spotted"
+to french "tavelée";
+
+translate "Slimy"
+to french "vaseuse";
+
+translate "Phosphorescent"
+to french "phosphoréscente";
+
+translate "Spongy"
+to french "spongieuse";
+
+translate "Hairy"
+to french "filamenteuse";
+
+translate "Smelly"
+to french "odorante";
+
+translate "Crackly"
+to french "lézardée";
+
+translate "Dry"
+to french "seche";
+
+translate "Mottled"
+to french "bigarrée";
+
+translate "Green"
+to french "verte";
+
+translate "O1, O2"
+to french "O1(ns), O2(ns)";
+
+translate "O1, O2, O3"
+to french "O1(ns), O2(ns), O3(ns)";
+
+translate "O1, O2, O3, O4"
+to french "O1(ns), O2(ns), O3(ns), O4(ns)";
+
+translate "O1, O2, O3, O4, O5"
+to french "O1(ns), O2(ns), O3(ns), O4(ns), O5(ns)";
+
+translate "O1, O2, O3, O4, O5, O6"
+to french "O1(ns), O2(ns), O3(ns), O4(ns), O5(ns), O6(ns)";
+
+translate "O1, O2, O3, O4, O5, O6, O7"
+to french "O1(ns), O2(ns), O3(ns), O4(ns), O5(ns), O6(ns), O7(ns)";
+
+
+
+//objects
+translate "Herbiculture"
+to french "Herbiculture";

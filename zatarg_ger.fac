@@ -1,0 +1,58 @@
+module zatarg_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**            German Version: Astrid "Infinyti" Werner                   **
+//**                            2012                                       **
+//**                                                                       **
+//***************************************************************************
+
+translate lightningstriker to german masculinecollective
+{
+swa "Blitzschläger";
+sn "Blitzschläger"; sg "Blitzschläger"; sd "Blitzschlägers"; sa "Blitzschläger";
+pn "Blitzschläger"; pg "Blitzschläger"; pd "Blitzschlägern"; pa "Blitzschlägern";
+}
+
+translate "You can rotate the camera by moving the mouse pointer to the edge of the screen."
+  to german "Du kannst die Ansicht drehen, indem du mit dem Mauszeiger an den Rand deines Screens fährst.";
+
+translate "You can change the camera via the options menu (click yourself) or pressing keys F5 through F8"
+  to german "Du änderst die Art der Ansicht über dein Optionenmenü (klick dich selbst an) oder mit den Tasten F5 - F8";
+
+translate "Moving"
+  to german "Bewegen";
+
+translate "You can move around the world by clicking on the ground that you want to move to."
+  to german "Indem du den Boden anklickst, läufst du in die gewählte Richtung.";
+
+translate "You can open and close your friends list by pressing F11"
+  to german "Du öffnest und schließt deine Freundesliste mit F11";
+
+translate "You can talk to the players around you by selecting the \"Main\" tab."
+  to german "Du unterhältst dich mit Spielern in deiner Nähe über den \"Hauptkanal\" Tab";
+
+translate "You can open up a private chat by typing \"/chat\" followed by the name of the player."
+  to german "Indem du \"/chat <nickname>\" schreibst, öffnest du einen Privatchat mit dem entsprechenden Mitspieler.";
+
+translate "Hide Screen"
+  to german "Interface verbergen";
+
+translate "You can press F12 to hide the User Interface."
+  to german "Drücke F12 und du verbirgst das Spielerinterface.";
+
+translate "You can hide elements individually through the options menu"
+  to german "Du kannst einzelne Bereiche individuell über dein Optionenmenü einrichten";
+
+translate "Hotkeys"
+  to german "Hotkeys";
+
+translate "You can use hotkeys by minimizing your chat (press Enter) hovering your mouse over a building and pressing the corresponding key"
+  to german "Du kannst Hotkeys benutzen. Minimiere deinen Chat (Entertaste), fahre mit dem Mauszeiger über ein Gebäude und drücke die entsprechende Keytaste";
+
+translate "Commands"
+  to german "Befehle";
+
+translate "You can view a list of available commands by typing /cmd or /help"
+  to german "Lasse dir eine Liste der zur Verfügung stehenden Befehle anzeigen, indem du \"/cmd\" oder \"/help\" schreibst.";

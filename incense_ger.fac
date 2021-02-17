@@ -1,0 +1,279 @@
+module incense_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2007 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+
+
+// !!!STARK UNVOLLSTÄNDIG!!!
+
+translate ScentLab to german neuter
+{
+ swa "Duftlabor";
+  sn "Duftlabor"; sg "Duftlabors"; sd "Duftlabor"; sa "Duftlabor";
+  pn "Duftlabore"; pg "Duftlabore"; pd "Duftlaboren"; pa "Duftlabore";
+}
+translate ISHoney to german masculine
+{
+ swa "Honig";
+  sn "Honig"; sg "Honigs"; sd "Honig"; sa "Zwiebelsaat";
+  pn "Honig"; pg "Honig"; pd "Honig"; pa "Honig";
+}
+translate ISClover to german masculine
+{
+ swa "Klee";
+  sn "Klee"; sg "Klees"; sd "Klee"; sa "Klee";
+  pn "Klee"; pg "Klee"; pd "Klee"; pa "Klee";
+}
+translate ISFrankincesne to german masculine
+{
+ swa "Weihrauch";
+  sn "Weihrauch"; sg "Weihrauchs"; sd "Weihrauch"; sa "Weihrauch";
+  pn "Weihrauch"; pg "Weihrauch"; pd "Weihrauch"; pa "Weihrauch";
+}
+translate ISSandalwood to german neuter
+{
+ swa "Sandelholz";
+  sn "Sandelholz"; sg "Sandelholz"; sd "Sandelholz"; sa "Sandelholz"; 
+  pn "Sandelhölzer"; pg "Sandelhölzer"; pd "Sandelhölzern"; pa "Sandelhölzer"; 
+}
+translate ISMusk to german neuter
+{
+ swa "Moschus";
+  sn "Moschus"; sg "Moschus"; sd "Moschus"; sa "Moschus";
+  pn "Moschus"; pg "Moschus"; pd "Moschus"; pa "Moschus";
+}
+translate ISOpium to german neuter
+{
+ swa "Opium";
+  sn "Opium"; sg "Opiums"; sd "Opium"; sa "Opium";
+  pn "Opiat"; pg "Opiat"; pd "Opiaten"; pa "Opiat";
+}
+translate ISOrientalSpices to german neuter
+{
+ swa "Orientalisches Gewürz";
+  sn "Orientalische Gewürz"; sg "Orientalischen Gewürz"; sd "Orientalischen Gewürz"; sa "Orientalische Gewürz";
+  pn "Orientalischen Gewürze"; pg "Orientalischen Gewürze"; pd "Orientalischen Gewürzen"; pa "Orientalischen Gewürze";
+}
+translate ISMyrrh to german femininecollective
+{
+ swa "Myrrhe";
+  sn "Myrrhe"; sg "Myrrhe"; sd "Myrrhe"; sa "Myrrhe";
+  pn "Myrrhe"; pg "Myrrhe"; pd "Myrrhe"; pa "Myrrhe";
+}
+translate ISCitrus to german femininecollective
+{
+ swa "Zitrone";
+  sn "Zitrone"; sg "Zitrone"; sd "Zitrone"; sa "Zitrone";
+  pn "Zitronen"; pg "Zitronen"; pd "Zitronen"; pa "Zitronen";
+}
+translate ISPatchouli to german neuter
+{
+ swa "Patschuli";
+  sn "Patschuli"; sg "Patschulis"; sd "Patschuli"; sa "Patschuli";
+  pn "Patschuli"; pg "Patschuli"; pd "Patschuli"; pa "Patschuli";
+}
+translate ISJasmine to german masculine
+{
+ swa "Jasmin";
+  sn "Jasmin"; sg "Jasmins"; sd "Jasmin"; sa "Jasmin";
+  pn "Jasmin"; pg "Jasmin"; pd "Jasmin"; pa "Jasmin";
+}
+translate ISPine to german femininecollective
+{
+ swa "Kiefer";
+  sn "Kiefer"; sg "Kiefer"; sd "Kiefer"; sa "Kiefer";
+  pn "Kiefern"; pg "Kiefern"; pd "Kiefern"; pa "Kiefern";
+}
+translate ISFlowers to german femininecollective
+{
+ swa "Blumen";
+  sn "Blumen"; sg "Blumen"; sd "Blumen"; sa "Blumen";
+  pn "Blumen"; pg "Blumen"; pd "Blumen"; pa "Blumen";
+}
+translate ISClove to german femininecollective
+{
+ swa "Gewürznelke";
+  sn "Gewürznelke"; sg "Gewürznelke"; sd "Gewürznelke"; sa "Gewürznelke";
+  pn "Gewürznelken"; pg "Gewürznelken"; pd "Gewürznelken"; pa "Gewürznelken";
+}
+translate IncenseHolderOn to german feminine
+{
+ swa "Duftschalenhalter, angezündet";
+  sn "Duftschalenhalter, angezündet"; sg "Duftschalenhalter, angezündet"; sd "Duftschalenhalter, angezündet"; sa "Duftschalenhalter, angezündet";
+  pn "Duftschalenhalter, angezündet"; pg "Duftschalenhalter, angezündet"; pd "Duftschalenhalter, angezündet"; pa "Duftschalenhalter, angezündet";
+}
+translate IncenseHolderOff to german masculine
+{
+ swa "Duftschalenhalter";
+  sn "Duftschalenhalter"; sg "Duftschalenhalter"; sd "Duftschalenhalter"; sa "Duftschalenhalter";
+  pn "Duftschalenhalter"; pg "Duftschalenhalter"; pd "Duftschalenhalter"; pa "Duftschalenhalter";
+}
+translate Incense to german masculine
+{
+ swa "Duft";
+  sn "Duft"; sg "Duftes"; sd "Duft"; sa "Duft";
+  pn "Düfte"; pg "Düfte"; pd "Düften"; pa "Düfte";
+}
+translate Resin to german neuter
+{
+ swa "Harz";
+  sn "Harz"; sg "Harzes"; sd "Harz"; sa "Harz";
+  pn "Harzen"; pg "Harzen"; pd "Harzen"; pa "Harzen";
+}
+translate IncenseProng to german feminine
+{
+ swa "Räuchergabel";
+  sn "Räuchergabel"; sg "Räuchergabel"; sd "Räuchergabel"; sa "Räuchergabel";
+  pn "Räuchergabeln"; pg "Räuchergabeln"; pd "Räuchergabeln"; pa "Räuchergabeln";
+}
+
+translate "Delta Palm Resin"
+to german "Harz: Deltapalme";
+
+translate "Towering Palm Resin"
+to german "Harz: Gewaltige Palme";
+
+translate "Monkey Palm Resin"
+to german "Harz: Affenpalme";
+
+translate "Umbrella Palm Resin"
+to german "Harz: Schirmpalme";
+
+translate "Spindle Tree Resin"
+to german "Harz: Spindelbaum";
+
+translate "Cerulean Blue Resin"
+to german "Harz: Himmelsblau";
+
+translate "Cricklewood Resin"
+to german "Harz: Knitterholz";
+
+translate "Hawthorn Resin"
+to german "Harz: Hagedorn";
+
+translate "Allows one to expertly blend fragrant incense, using a Scent Lab and Incense Prong."
+to german "Erlaubt das Mischen wohlriechender Düfte mittels einer Räuchergabel in einem Duftlabor";
+
+translate "Projects"
+to german "Projekte";
+
+translate "Scent Lab"
+to german "Duftlabor";
+
+translate "Incense Burner"
+to german "Duftbecken";
+
+translate "Windproof Incense Burner"
+to german "Winddichtes Duftbecken";
+
+translate "To build a Scent Lab you need:"
+to german "Um ein Duftlabor zu bauen benötigst du:";
+
+translate "To build a Incense Burner, you need:"
+to german "Um ein Duftbecken zu bauen benötigst du:";
+
+translate "Resin Count: N1"
+to german "Harzanzahl: N1";
+
+translate "Resin oozes from the tree"
+to german "Harz rinnt den Stamm hinunter";
+
+translate "Gather the resin"
+to german "Sammle das Harz auf";
+
+translate "Nick the O1 with your Resin Wedge"
+to german "Ritze mit deinem Harzkeil eine Kerbe in O1(tsn) O1(sn)";
+
+translate "There isn't enough to gather."
+to german "Es ist nicht genug zum Einsammeln vorhanden.";
+
+translate "TestIncense:"
+to german "Testduft:";
+
+translate "weakness"
+to german "Schwächlichkeit";
+
+translate "clumsyness"
+to german "Ungeschicklichkeit";
+
+translate "lethargy"
+to german "Lethargie";
+
+translate "sluggishness"
+to german "Trägheit";
+
+translate "fragility"
+to german "Zerbrechlichkeit";
+
+translate "forgettfulness"
+to german "Vergesslichkeit";
+
+translate "confusion"
+to german "Verwirrung";
+
+translate "Start a batch of incense"
+to german "Stelle einen Satz Düfte her";
+
+translate "To start a batch of incense requires:"
+to german "Um einen Satz Düfte herzustellen benötigst du:";
+
+translate "You'll need to cut the materials in with a Pewter Incense Prong."
+to german "Du musst das Material mit einer Zinnräuchergabel einstechen.";
+
+translate "Add Herb"
+to german "Füge Kraut hinzu";
+
+translate "Added some K1"
+to german "Etwas K1 hinzugefügt";
+
+translate "Add Resin"
+to german "Füge Harz hinzu";
+
+translate "Added some K1 resin."
+to german "Etwas K1 Harz hinzugefügt.";
+
+translate "Add Petals of Ra"
+to german "Füge Blütenblätter des Ra hinzu";
+
+translate "Added some K1 petals."
+to german "Einge K1 Blütenblätter hinzugefügt.";
+
+translate "Take the Incense"
+to german "Nimm den Duft";
+
+translate "Name of Incense?"
+to german "Name des Duftes?";
+
+translate "Burn a little pinch of the mixture"
+to german "Verbrenne eine Prise dieser Mischung";
+
+
+// NEED TRANSLATION !!
+//translate "You catch a whiff of quality ",nth(lis,4)," ",nth(lis,3)," scented incense. You are //filled with a ",nth(lis,2)," ",nth(lis,0),", yet a bit of ",World.Antonym[nth(lis,1)],"."
+//
+translate "Light some Incense"
+to german "Verdampfe etwas Duft";
+
+translate "Snuff out the incense"
+to german "Lösche das Duftbecken";
+
+translate "You catch a heady whiff of O1 scented incense. It fills you with a K1 K2 and a bit of K3."
+to german "Du nimmt einen aufregenden Hauch von nach O1(sn) duftendem Rauch wahr.  Es erfüllt dich ein Gefühl von K1, K2 und ein wenig K3.";
+
+translate "Attribute to Increase:"
+to german "Eigenschaften der Räucherkerze:";
+
+translate "Attribute to Decrease:"
+to german "Eigenschaften der Minderung:";
+
+translate "Feeling:"
+to german "Gefühl:";
+
+translate "Scent:"
+to german "Duft:";
+

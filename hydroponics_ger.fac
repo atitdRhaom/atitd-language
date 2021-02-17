@@ -1,0 +1,48 @@
+Module hydroponics_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**            German Version: Astrid "Infinyti" Werner                   **
+//**                            2012                                       **
+//**                                                                       **
+//***************************************************************************
+
+translate Hydroponics to german feminine
+{
+  sn "Aquakultur"; sg "Aquakultur"; sd "Aquakultur"; sa "Aquakultur";
+  pn "Aquakulturen"; pg "Aquakulturen"; pg "Aquakulturen"; pa "Aquakulturen";
+}
+
+translate PapyrusTank to german masculine
+{
+  sn "Papyrustank"; sg "Papyrustank"; sd "Papyrustank"; sa "Papyrustank";
+  pn "Papyrustanks"; pg "Papyrustanks"; pg "Papyrustanks"; pa "Papyrustanks";
+}
+
+translate "Techniques to allow growing Papyrus in tanks."
+  to german "Ermöglichst das Anpflanzen von Papyrus in Tanks.";
+
+translate "To build a Papyrus Tank you need:"
+  to german "Um einen Papyrustank zu bauen, benötigst du:";
+
+translate "Plant Papyrus"
+  to german "Pflanze Papyrus an";
+
+translate "Plant how many seeds?"
+  to german "Wieviel Saat pflanzen?";
+
+translate "You don't have N1 K1."
+  to german "Du hast keine N1 K1.";
+
+translate "You must put at least one seed in the tank to start the growing process"
+  to german "Du musst mindestens eine Saat in den Tank setzen, um den Wachstumsprozess zu beginnen";
+
+translate "The Papyrus will be ready in about K1"
+  to german "Der Papyrus wird in ungefähr K1 erntbar sein.";
+
+translate "Harvest the Sterile Papyrus"
+  to german "Ernte den unfruchtbaren Papyrus";
+
+translate "Your K1 papyrus seeds produced N1 K2."
+  to german "Deine K1 Papyrussaat erzielte N1 K2.";

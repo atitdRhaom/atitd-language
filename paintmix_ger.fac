@@ -1,0 +1,489 @@
+module paintmix_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Games **
+//**    (C)opyright 2002,2003 by MDO Games			           **
+//**                                                                       **
+//***************************************************************************
+//menues
+
+translate PaintMixer to german feminine
+{
+swa "Farbmischerei";
+  sn "Farbmischerei"; sg "Farbmischerei"; sd "Farbmischerei"; sa "Farbmischerei";
+  pn "Farbmischerei"; pg "Farbmischerei"; pd "Farbmischerei"; pa "Farbmischerei";
+}
+
+translate Paint to german feminine
+{
+swa "Farbe";
+  sn "Farbe"; sg "Farbe"; sd "Farbe"; sa "Farbe";
+  pn "Farben"; pg "Farben"; pd "Farben"; pa "Farben";
+}
+translate Ribbons to german neuter
+{
+swa "Bändel";
+  sn "Bändel"; sg "Bändels"; sd "Bändel"; sa "Bändel";
+  pn "Bändel"; pg "Bändel"; pd "Bändeln"; pa "Bändel";
+}
+translate FabricDyeing to german feminine
+{
+swa "Gewebefärben";
+  sn "Gewebefärben"; sg "Gewebefärben"; sd "Gewebefärben"; sa "Gewebefärben";
+  pn "Gewebefärben"; pg "Gewebefärben"; pd "Gewebefärben"; pa "Gewebefärben";
+}
+translate TheScienceOfColor to german feminine
+{
+swa "Wissenschaft der Farben";
+	sn "Wissenschaft der Farben"; pn "Wissenschaft der Farben";
+	}
+translate MassProductionOfColor to german feminine
+{
+swa "Massenproduktion der Farben";
+	sn "Massenproduktion der Farben"; pn "Massenproduktionen der Farben";
+	}
+
+translate "Allows one to accurately mix paint colors"
+to german "Erlaubt die genaue Mischung von Farben";
+
+translate "TheScienceOfColor (Completed)"
+to german "Die Kunst der Farben (Komplett)";
+
+translate "You study methods for accurately mixing natural substances into subtle and brilliant paints."
+to german "Du studierst Methoden für eine genaue Mischung natürlicher Substanzen zu brillianten Farben und Bildern.";
+
+translate "Allows one to produce paints in large quantities."
+to german "Erlaubt die Produktion von Farben in großen Mengen.";
+
+translate "The art of delicately coloring fine silks"
+to german "Die Kunst des feinen Färbens von zarter Seide";
+
+translate "You practice the subtle art of creating beautiful ribbons of silk, using a pigment laboratory."
+to german "Du wendest die subtile Kunst der Fertigung wundervoller Seidenbändel, unter Verwendung einer Farbmischerei an.";
+
+translate "Allows one to dye fabrics"
+to german "Erlaubt Gewebe zu färben";
+
+translate "Pigment Laboratory"
+to german "Farbmischerei";
+
+translate "To build a Pigment Laboratory you need:"
+to german "Um eine Farbmischerei zu bauen benötigst du:";
+
+translate "Take the Paint"
+to german "Nimm die Farbe";
+
+translate "The paint is not concentrated enough. You must use at least 50 doses of tint to make the paint concentrated enough.  You can use the same tint multiple times."
+to german "Die Farbe ist nicht konzentriert genug. Du musst mindestens 50 Einheiten Tinte benutzen um die Farbe ausreichend zu konzentrieren. Du kannst die gleiche Tinte mehrmals benutzen.";
+
+translate "The paint is not concentrated enough. You must use at least 10 doses of tint to make the paint concentrated enough.  You can use the same tint multiple times."
+to german "Die Farbe ist nicht konzentriert genug. Du musst mindestens 10 Einheiten Tinte benutzen um die Farbe ausreichend zu konzentrieren. Du kannst die gleiche Tinte mehrmals benutzen.";
+
+translate "Make Colored Ribbons"
+to german "Stelle farbige Bändel her";
+
+translate "You do not have enough silk cloth."
+to german "Du hast nicht genug Seidentücher.";
+
+translate "Remove Ribbons"
+to german "Entferne die Bändel";
+
+translate "Ribbons"
+to german "Bändel";
+
+translate "Hand"
+to german "Hand";
+
+translate "Elbow"
+to german "Ellenbogen";
+
+translate "Wrist"
+to german "Handgelenk";
+
+translate "Ribbons of K1"
+to german "Bändel von K1";
+
+translate "You already have ribbons there."
+to german "Du trägst dort bereits Bändel.";
+
+translate "You do not have any K1 O1"
+to german "Du hast keine K1 O1(pn)";
+
+translate "The ribbons will get dirty in about an hour."
+to german "Die Bändel werden in ungefähr einer Stunde schmutzig werden.";
+
+translate "You don't have the necessary skill."
+to german "Du hast nicht die erforderliche Fähigkeit.";
+
+translate "You don't have any O1, and storage is empty."
+to german "Du hast O1(kpn)O1(pn) und das Lager ist leer.";
+
+translate "Given the current batch size, you need N1 O1"
+to german "Für die momentane Abmischmenge benötigst du N1 O1(N1?pn:sn)";
+
+translate "Ingredient"
+to german "Zutat";
+
+translate "Qty Stored"
+to german "Im Lager";
+
+translate "Concentration: N1"
+to german "Konzentration: N1";
+
+translate "Dye a piece of Linen"
+to german "Färbe ein Stück Leinen";
+
+translate "You do not have any linen."
+to german "Du hast kein Leinen";
+
+translate "Specific Paint"
+to german "Spezielle Farbe";
+
+translate "What color:"
+to german "Welche Farbe";
+
+translate "No such paint"
+to german "Keine solche Farbe vorhanden";
+
+translate "Alice Blue"
+to german "Alice-Blau";
+translate "Antique White"
+to german "Antik-Weiß";
+translate "Aqua"
+to german "Wasser";
+translate "Aquamarine"
+to german "Aquamarin";
+translate "Azure"
+to german "Azur";
+translate "Beige"
+to german "Beige";
+translate "Bisque"
+to german "Hummer";
+translate "Blanched Almond"
+to german "Blanchierte Mandel";
+translate "Blue"
+to german "Blau";
+translate "Blue Violet"
+to german "Blau-Violett";
+translate "Brown"
+to german "Braun";
+translate "Burly Wood"
+to german "Kräftiges Holz";
+translate "Cadet Blue"
+to german "Kadettenblau";
+translate "Chartreuse"
+to german "Helles Gelbgrün";
+translate "Carrot"
+to german "Karotte";
+translate "Chocolate"
+to german "Schokolade";
+translate "Coral"
+to german "Koralle";
+translate "Cornflower Blue"
+to german "Kornblumenblau";
+translate "Cornsilk"
+to german "Getreide";
+translate "Crimson"
+to german "Karmesinrot";
+translate "Cyan"
+to german "Zyan";
+translate "Dark Blue"
+to german "Dunkelblau";
+translate "Dark Cyan"
+to german "Dunkelzyan";
+translate "Dark Golden Rod"
+to german "Dunkle Goldrute";
+translate "Dark Grey"
+to german "Dunkelgrau";
+translate "Dark Green"
+to german "Dunkelgrün";
+translate "Dark Khaki"
+to german "Dunkelkhaki";
+translate "Dark Magenta"
+to german "Dunkles Magenta";
+translate "Dark Olive Green"
+to german "Dunkles Olivgrün";
+translate "Dark Orange"
+to german "Dunkles Orange";
+translate "Dark Orchid"
+to german "Dunkle Orchidee";
+translate "Dark Red"
+to german "Dunkelrot";
+translate "Dark Salmon"
+to german "Dunkle Lachsfarbe";
+translate "Dark Sea Green"
+to german "Dunkles Seegrün";
+translate "Dark Slate Blue"
+to german "Dunkles Schieferblau";
+translate "Dark Slate Grey"
+to german "Dunkles Schiefergrau";
+translate "Dark Turquoise"
+to german "Dunkles Türkis";
+translate "Dark Violet"
+to german "Dunkles Violett";
+translate "Deep Pink"
+to german "Kräftiges Rosa";
+translate "Deep Sky Blue"
+to german "Kräftiges Himmelsblau";
+translate "Dim Grey"
+to german "Schummriges Grau";
+translate "Dodger Blue"
+to german "Verwischtes Blau";
+translate "Feldspar"
+to german "Feldspat";
+translate "Fire Brick"
+to german "Feuerziegel";
+translate "Floral White"
+to german "Blütenweiß";
+translate "Forest Green"
+to german "Waldgrün";
+translate "Fuchsia"
+to german "Fuchsia";
+translate "Gainsboro"
+to german "Gainsboro";
+translate "Ghost White"
+to german "Geisterweiß";
+translate "Gold"
+to german "Gold";
+translate "Golden Rod"
+to german "Goldene Rute";
+translate "Grey"
+to german "Grau";
+translate "Green"
+to german "Grün";
+translate "Green Yellow"
+to german "Grün-Gelb";
+translate "Honey Dew"
+to german "Honigtau";
+translate "Hot Pink"
+to german "Kräftiges Rosa";
+translate "Indian Red"
+to german "Indisch Rot";
+translate "Indigo"
+to german "Indigo";
+translate "Ivory"
+to german "Elfenbein";
+translate "Khaki"
+to german "Khaki";
+translate "Lavender"
+to german "Lavendel";
+translate "Lavender Blush"
+to german "Lavendelröte";
+translate "Lawn Green"
+to german "Rasengrün";
+translate "Lemon Chiffon"
+to german "Zitronenchiffon";
+translate "Light Blue"
+to german "Hellblau";
+translate "Light Coral"
+to german "Helle Koralle";
+translate "Light Cyan"
+to german "Helles Zyan";
+translate "Light Golden Rod Yellow"
+to german "Helles Goldrutengelb";
+translate "Light Grey"
+to german "Hellgrau";
+translate "Light Green"
+to german "Hellgrün";
+translate "Light Pink"
+to german "Helles Rosa";
+translate "Light Salmon"
+to german "Helle Lachsfarbe";
+translate "Light Sea Green"
+to german "Helles Seegrün";
+translate "Light Sky Blue"
+to german "Helles Himmelsblau";
+translate "Light Slate Blue"
+to german "Helles Schieferblau";
+translate "Light Slate Grey"
+to german "Helles Schiefergrau";
+translate "Light Steel Blue"
+to german "Helles Stahlblau";
+translate "Light Yellow"
+to german "Hellgelb";
+translate "Lime"
+to german "Limone";
+translate "Lime Green"
+to german "Limonengrün";
+translate "Linen"
+to german "Leinen";
+translate "Magenta"
+to german "Magenta";
+translate "Maroon"
+to german "Kastanienbraun";
+translate "Medium Aqua Marine"
+to german "Mittleres Aquamarin";
+translate "Medium Blue"
+to german "Mittleres Blau";
+translate "Medium Orchid"
+to german "Mittlere Orchidee";
+translate "Medium Purple"
+to german "Mittleres Lila";
+translate "Medium Sea Green"
+to german "Mittleres Seegrün";
+translate "Medium Slate Blue"
+to german "Mittleres Schieferblau";
+translate "Medium Spring Green"
+to german "Mittleres Frühlingsgrün";
+translate "Medium Turquoise"
+to german "Mittleres Türkis";
+translate "Medium Violet Red"
+to german "Mittleres Violettrot";
+translate "Midnight Blue"
+to german "Mitternachtsblau";
+translate "Mint Cream"
+to german "Minzcreme";
+translate "Misty Rose"
+to german "Dornenrose";
+translate "Moccasin"
+to german "Mokkasine";
+translate "Navajo White"
+to german "Navajoweiß";
+translate "Navy"
+to german "Marineblau";
+translate "Old Lace"
+to german "Altes Gewebe";
+translate "Olive"
+to german "Olive";
+translate "Olive Drab"
+to german "Olivgrau";
+translate "Orange"
+to german "Orange";
+translate "Orange Red"
+to german "Orangerot";
+translate "Orchid"
+to german "Orchidee";
+translate "Pale Golden Rod"
+to german "Helle Goldrute";
+translate "Pale Green"
+to german "Blassgrün";
+translate "Pale Turquoise"
+to german "Helltürkis";
+translate "Pale Violet Red"
+to german "Helles Violettrot";
+translate "Papaya Whip"
+to german "Papayagerte";
+translate "Peach Puff"
+to german "Pfirsischfarbe";
+translate "Peru"
+to german "Peru";
+translate "Pink"
+to german "Rosa";
+translate "Plum"
+to german "Pflaume";
+translate "Powder Blue"
+to german "Pulverblau";
+translate "Purple"
+to german "Lila";
+translate "Red"
+to german "Rot";
+translate "Rosy Brown"
+to german "Rosinenbraun";
+translate "Royal Blue"
+to german "Königsblau";
+translate "Saddle Brown"
+to german "Sattelbraun";
+translate "Salmon"
+to german "Lachs";
+translate "Sandy Brown"
+to german "Sandbraun";
+translate "Sea Green"
+to german "Seegrün";
+translate "Sea Shell"
+to german "Seemuschel";
+translate "Sienna"
+to german "Sienna";
+translate "Silver"
+to german "Silber";
+translate "Sky Blue"
+to german "Himmelsblau";
+translate "Slate Blue"
+to german "Schieferblau";
+translate "Slate Grey"
+to german "Schiefergrau";
+translate "Snow"
+to german "Schneeweiß";
+translate "Spring Green"
+to german "Frühlingsgrün";
+translate "Steel Blue"
+to german "Stahlblau";
+translate "Tan"
+to german "Bräunlich";
+translate "Teal"
+to german "Blaugrün";
+translate "Thistle"
+to german "Distel";
+translate "Tomato"
+to german "Tomatenrot";
+translate "Turquoise"
+to german "Türkis";
+translate "Violet"
+to german "Violett";
+translate "Violet Red"
+to german "Violettrot";
+translate "Wheat"
+to german "Weizen";
+translate "White"
+to german "Weiß";
+translate "White Smoke"
+to german "Weißer Rauch";
+translate "Yellow"
+to german "Gelb";
+translate "Yellow Green"
+to german "Gelb-Grün";
+
+translate "Install a Batch Mixer"
+to german "Installiere einen Farbmischer";
+
+translate "To install a batch mixer, you need: "
+to german "Um einen Farbmischer zu installieren benötigst du: ";
+
+translate "Proceed?"
+to german "Fortfahren?";
+
+translate "Batch Size"
+to german "Mischmenge";
+
+translate "Make small batches (x1)"
+to german "Mache kleine Mengen (x1)";
+
+translate "Make medium batches (x10)"
+to german "Mache mittlere Mengen (x10)";
+
+translate "Make large batches (x100)"
+to german "Mache große Mengen (x100)";
+
+translate "You must finish the current batch first, then you can start a new, differently-sized batch."
+to german "Du musst zuerst die laufende Menge fertigstellen, dann kannst du eine neue Mischung in einer anderen Größe ansetzen.";
+
+translate "Catalyst: O1"
+to german "Katalysator: O1(sn)";
+
+translate "O1 (Purple)"
+to german "O1(sn) (Violett)";
+translate "O1 (Orange)"
+to german "O1(sn) (Orange)";
+translate "O1 (Brown)"
+to german "O1(sn) (Braun)";
+translate "O1 (Reddish)"
+to german "O1(sn) (Rötlich)";
+translate "O1 (Dark Green)"
+to german "O1(sn) (Dunkelgrün)";
+translate "O1 (Light Green)"
+to german "O1(sn) (Hellgrün)";
+translate "O1 (Bold Red)"
+to german "O1(sn) (Kräftiges Rot)";
+translate "O1 (Blue Grey)"
+to german "O1(sn) (Blaugrau)";
+translate "O1 (Black)"
+to german "O1(sn) (Schwarz)";
+translate "O1 (Rust)"
+to german "O1(sn) (Rostfarben)";
+translate "O1 (Aqua)"
+to german "O1(sn) (Wasserfarben)";
+
+translate "No such paint"
+to german "Keine solche Farbe";
+

@@ -1,0 +1,213 @@
+module fishing_fre;
+
+translate fishing to french feminine
+{
+	ns "Pêche"; np "Pêche";
+	}
+	
+translate fish to french masculine
+{
+	ns "Poisson"; np "Poissons";
+	}
+
+translate taxidermie to french feminine
+{
+	ns "Taxidermie"; np "Taxidermie";
+	}
+
+translate carp to french feminine
+{
+	ns "Carpe"; np "Carpes";
+	}
+
+translate perch to french feminine
+{
+	ns "Perche"; np "Perches";
+	}
+	
+translate catfish to french masculine
+{
+	ns "Poisson-chat"; np "Poissons-chats";
+	}
+
+translate tilapia to french masculine
+{
+	ns "Tilapia"; np "Tilapia";
+	}
+
+translate chromis to french masculine
+{
+	ns "Chromis"; np "Chromis";
+	}
+translate "Fishing"
+to french "Pêche";
+
+translate "Inspect Current Lure"
+to french "Inspecter l'appât actuel";
+
+translate "You do not currently use a lure."
+to french "Vous n'utilisez actuellement aucun appât";
+
+	
+translate "Abdju" to french "Poissons d'Abdju";
+translate "Oxyrynchus" to french "Esturgeon noir";
+translate "Phagrus" to french "Phagrus"; 
+translate "SerpentFish" to french "Anguille";
+translate "Tigerfish" to french "Poisson Tigre";
+translate "Catfish" to french "Poisson Chat";
+
+translate "MoonFish" to french "Poisson-lune";
+translate "Malapterurus" to french "Malapterurus";
+translate "Tilapia" to french "Tilipia";
+translate "Perch" to french "Perche";
+
+translate "Caught a Abju" to french "Attrapé un poisson Abju";
+translate "Caught a Catfish" to french "Attrapé un poisson-chat";
+translate "Caught a Carp" to french "Attrapé une carpe";
+translate "Caught a Perch" to french "Attrapé une perche";
+translate "Caught a Tilapia" to french "Attrapé un Tilipa";
+translate "Caught a Chromis" to french "Attrapé un Chromis";
+translate "Caught an Oxyrynchus" to french "Attrapé un Esturgeon noir";
+translate "Caught an Phagrus" to french "Attrapé un Phagrus";
+
+translate WoodenFishingPole to french feminine                 
+{ns "Canne à pêche en bois"; np "Cannes à pêche en bois";}
+                     	
+
+translate BasicFishingPole to french feminine
+{
+	ns "Canne à pêche rudimentaire"; np "Cannes à pêche rudimentaires";
+	}
+
+translate CraftsmansFishingPole to french feminine
+{
+	ns "Canne à pêche avancée"; np "Cannes à pêche avancées";
+	}
+
+translate HuntsmansFishingPole to french feminine
+{
+	ns "Canne à pêche de professionnel"; np "Cannes à pêche de professionnel";
+	}
+
+translate FineFishingPole to french feminine
+{
+	ns "Canne à pêche de qualité"; np "Cannes à pêche de qualité";
+	}
+
+translate NileDeepFishingPole to french feminine
+{
+	ns "Canne pour la pêche en eaux profondes"; np "Cannes pour la pêche en eaux profondes";
+	}
+
+translate RoyalFishingPole to french feminine
+{
+	ns "Canne à pêche royale"; np "Cannes à pêche royales";
+	}
+
+translate OsirisFishingPole to french feminine
+{
+	ns "Canne à pêche d'Osiris"; np "Cannes à pêche d'Osiris";
+	}
+//	
+
+
+translate "Reset my fishing trophies"
+to french "Réinitialiser mes trophées de pêche";
+
+translate "The school hands you a simple fishing pole with a simple lure, as part of your course materials."
+to french "L'école vous donne une canne à pêche basique avec un simple appât, comme nécessaire d'apprentissage.";
+
+translate "You know all that can be learned at this time."
+to french "Vous avez appris tout ce qui peut l'être actuellement .";
+
+translate "Fish"
+to french "Poisson";
+
+translate "You are already fishing!"
+to french "Vous êtes déjà en train de pêcher !";
+
+translate "The water is dead, and smells like rotten eggs."
+to french "L'eau est polluée et dégage une odeur d'oeuf pourri.";
+
+translate "This is not a good spot to fish."
+to french "Ce n'est pas un bon endroit pour la pêche.";
+
+translate "Don't know which way to turn"
+to french "Vous ne savez pas dans quel sens tourner.";
+
+translate "You need a fishing pole to fish."
+to french "Vous avez besoin d'une canne à pêche.";
+
+translate "You caught a O1 weighing N1 deben!"
+to french "Vous avez pris O1(uns) O1(ns) pesant N1 deben!";
+
+translate "You failed to catch anything. You do notice occasional rings in the water, indicating fish."
+to french "Vous n'avez rien pris du tout. Vous remarquez de temps en temps des ronds dans l'eau, indiquant la présence de poissons.";
+
+translate "You failed to catch anything, and the water seems to be totally dead."
+to french "Vous n'avez rien pris du tout, et les eaux ne semblent pas propices à la pêche.";
+
+translate "You need to use a O1 (Fresh) lure." to french "il faut utiliser un appât O1(ns) (frais)";
+
+translate "Caught a K1 deben K2." to french "Vous avez attrapé K1 debens de K2.";
+
+translate "N1 deben K1" to french "N1 deben(s) de K1";
+
+translate "Though you lost your lure, you did catch a K1"
+to french "Bien que vous ayez perdu votre appât, vous avez attrapé K1";
+
+//translate "That's one of the biggest O1 you have ever caught! Want to mount it?"
+//to french "C'est O1(uns) O1(ns) énorme que vous ayez pris là ! Voulez-vous l'empailler ?";
+
+//translate "Something happened - maybe you dropped the fish?"
+//to french "Il y a eu un problème - vous avez peut-être laissé le poisson s'échapper.";
+
+//translate "This fish was mounted K1 ago."
+//to french "Ce poisson a été empaillé il y a K1.";
+
+//translate "Mounted"
+//to french "Empaillé";
+
+//translate "A fishing contest has been declared! The largest mounted fish (requires the taxidermy skill) of each species wins a Huntsman's Fishing Pole for its owner. The contest ends in K1."
+//to french "Un concours de pêche a été annoncé! Le plus gros poisson empaillé (nécessite Taxidermie pour la fabrication) de chaque espèce gagne une canne à pêche de professionnel. Le concours se termine dans K1.";
+
+//translate "Our fishing contest has ended. Pharaoh will announce winners."
+//to french "Notre concours de pêche est terminé. Pharaoh va annoncer les gagnants.";
+
+//translate "Allows one to mount specimen fish."
+//to french "Permet d'empailler les poissons pour en faire des trophées.";
+
+//translate "Are you sure you want to reset all of your trophies? You won't lose any items, but will have a chance to mount smaller fishes."
+//to french "Voulez-vous vraiment réinitialiser tous vos trophées ? Vous ne perdrez rien, mais vous aurez la possibilité d'empailler de plus petits poissons.";
+
+//translate "Trophies reset."
+//to french "Trophées réinitialisés.";
+
+//translate "carp fish"
+//to french "Carpe";
+
+//translate "Contest ends in K1"
+//to french "Le concours se termine dans K1.";
+
+//translate "About to produce: O1"
+//to french "Sur le point de sortir : O1(ns)";
+
+//translate "Abdju Fish"
+//to french "Poisson d'Abdju";
+
+//translate "You are handed an incredibly rare and beautiful Nile Deep Fishing Pole."
+//to french "Vous recevez une rarissime et magnifique canne pour la pêche en eaux profondes.";
+
+//translate "You are handed a rare and beautiful Huntsman's Fishing Pole."
+//to french "Vous recevez une rarissime et magnifique canne à pêche de professionnel.";
+
+//translate "Top N1:"
+//to french "Les N1 meilleurs:";
+
+//translate "  Size N2 by U1"
+//to french "  Taille N2 par U1(name)";
+
+//translate "O1 of size N2 by U1"
+//to french "O1(ns) de taille N2 par U1(name)";
+
+

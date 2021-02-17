@@ -1,0 +1,435 @@
+module playernew_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**             German Version: Astrid "Infinyti" Werner                  **
+//**                             2011                                      **
+//**                                                                       **
+//***************************************************************************
+
+translate "Guild Affiliations"
+	to german "Gildenzugehörigkeit";
+
+translate "GAME DEVELOPER"
+	to german "SPIELENTWICKLER";
+
+translate "GAME MASTER"
+	to german "GAMEMASTER";
+
+translate "This person is a known criminal."
+	to german "Diese Person ist ein bekannter Verbrecher.";
+
+translate "Cheat"
+	to german "Cheat";
+
+translate "Curses"
+	to german "Flüche";
+
+translate "Discipline"
+	to german "Disziplin";
+
+translate "Goals"
+	to german "Ziele";
+
+translate "Learn"
+	to german "Lernen";
+
+translate "Statistic"
+	to german "Statistik";
+
+translate "Teleport"
+	to german "Teleport";
+
+translate "Tests"
+	to german "Tests";
+
+translate "Developer"
+	to german "Entwickler";
+
+translate "Game Master"
+	to german "Gamemaster";
+
+translate "World Builder"
+	to german "Welterbauer";
+
+translate "Options"
+	to german "Optionen";
+
+translate "Player Options"
+	to german "Spieleroptionen";
+
+translate "Change Password"
+	to german "Passwort ändern";
+
+translate "Chat Tabs"
+	to german "Chattabs";
+
+translate "Little Window"
+	to german "Kleines Fenster";
+
+translate "Toggle UI"
+	to german "Oberfläche umschalten";
+
+translate "Client Options"
+	to german "Clientoptionen";
+
+translate "Audio"
+	to german "Audio";
+
+translate "Camera"
+	to german "Kamera";
+
+translate "Chat-Related"
+	to german "Chatbezogenes";
+
+translate "Interface"
+	to german "Oberfläche";
+
+translate "Offline Chores"
+	to german "Offlineaufgaben";
+
+translate "One-Click and Related"
+	to german "1-Klick-Einstellungen";
+
+translate "Parameters"
+	to german "Parameter";
+
+translate "Video"
+	to german "Grafikeinstellungen";
+
+translate "Log Out"
+	to german "Ausloggen";
+
+translate "Quit"
+	to german "Beenden";
+
+translate "Content Advisor"
+	to german "Spielberater";
+
+translate "Toggle Invisibility"
+	to german "Wechsel Unsichtbarkeit";
+
+translate "Cloth Color"
+	to german "Kleidungsfarbe";
+
+translate "Skin Color"
+	to german "Hautfarbe";
+
+translate "Height"
+	to german "Größe";
+
+translate "Clothing"
+	to german "Kleidung";
+
+translate "Top"
+	to german "Oberbekleidung";
+
+translate "Bottom"
+	to german "Beinbekleidung";
+
+translate "Shoes"
+	to german "Schuhe";
+
+translate "Hat"
+	to german "Kopfbedeckung";
+
+translate "Accessory"
+	to german "Schmuck";
+
+translate "Back"
+	to german "Rücken";
+
+translate "Low Back"
+	to german "Unterer Rücken";
+
+translate "Chest"
+	to german "Brust";
+
+translate "Belly"
+	to german "Bauch";
+
+translate "Left Arm"
+	to german "Linker Arm";
+
+translate "Right Arm"
+	to german "Rechter Arm";
+
+translate "Left Forearm"
+	to german "Linker Unterarm";
+
+translate "Right Forearm"
+	to german "Rechter Unterarm";
+
+translate "Pattern 1"
+	to german "Muster 1";
+
+translate "Pattern 2"
+	to german "Muster 2";
+
+translate "Pattern 3"
+	to german "Muster 3";
+
+translate "Pattern 4"
+	to german "Muster 4";
+
+translate "Pattern 5"
+	to german "Muster 5";
+
+translate "Pattern 6"
+	to german "Muster 6";
+
+translate "Pattern 7"
+	to german "Muster 7";
+
+translate "Burgundy Red"
+	to german "Burgunderrot";
+
+translate "Tea Rose Orange"
+	to german "Teerosenorange";
+
+translate "Peach"
+	to german "Pfirsich";
+
+translate "Saffron Yellow"
+	to german "Safrangelb";
+
+translate "Forest Green"
+	to german "Waldgrün";
+
+translate "Dark Green"
+	to german "Dunkelgrün";
+
+translate "Lavender Blue"
+	to german "Lavendelblau";
+
+translate "Cerulean Blue"
+	to german "Cölinblau";
+
+translate "Indigo"
+	to german "Indigoblau";
+
+translate "Tyrian Purple"
+	to german "";
+
+translate "Beige"
+	to german "Beige";
+
+translate "Sepia"
+	to german "Sepiaschwarz";
+
+translate "Caput Mortuum"
+	to german "Violetbraun";
+
+translate "Slate Grey"
+	to german "Schiefergrau";
+
+translate "Black"
+	to german "Schwarz";
+
+translate "White"
+	to german "Weiß";
+
+translate "Red"
+	to german "Rot";
+
+translate "Deep Red"
+	to german "Dunkelrot";
+
+translate "Orange"
+	to german "Orange";
+
+translate "Yellow"
+	to german "Gelb";
+
+translate "Green"
+	to german "Grün";
+
+translate "Blue"
+	to german "Blau";
+
+translate "Purple"
+	to german "Lila";
+
+translate "Deep Purple"
+	to german "Dunkellila";
+
+translate "Very Tall"
+	to german "Sehr groß";
+
+translate "Tall"
+	to german "Groß";
+
+translate "Average"
+	to german "Mittelgroß";
+
+translate "Short"
+	to german "Klein";
+
+translate "Very Short"
+	to german "Sehr klein";
+
+translate "Son of Apophis"
+	to german "Sohn des Apophis";
+
+translate "Son of Djevin"
+	to german "Sohn des Djevin";
+
+translate "Son of Tefnakht"
+	to german "Sohn des Tefnakht";
+
+translate "Son of Ghee"
+	to german "Sohn des Ghee";
+
+translate "Daughter of Bes"
+	to german "Tochter der Bes";
+
+translate "Daughter of Nodjmet"
+	to german "Tochter der Nodjmet";
+
+translate "Daughter of Sjitek"
+	to german "Tochter der Sjitek";
+
+translate "Skin Texture 1"
+	to german "Hautfarbe 1";
+
+translate "Skin Texture 2"
+	to german "Hautfarbe 2";
+
+translate "Skin Texture 3"
+	to german "Hautfarbe 3";
+
+translate "Top 1"
+	to german "Oberbekleidung 1";
+
+translate "Top 2"
+	to german "Oberbekleidung 2";
+
+translate "Top 3"
+	to german "Oberbekleidung 3";
+
+translate "Top 4"
+	to german "Oberbekleidung 4";
+
+translate "Bottom 1"
+	to german "Beinbekleidung 1";
+
+translate "Bottom 2"
+	to german "Beinbekleidung 2";
+
+translate "Bottom 3"
+	to german "Beinbekleidung 3";
+
+translate "Belt"
+	to german "Gürtel";
+
+translate "Hat 1"
+	to german "Kopfbedeckung 1";
+
+translate "Hat 2"
+	to german "Kopfbedeckung 2";
+
+translate "Shoe 1"
+	to german "Schuhe 1";
+
+translate "Texture 1"
+	to german "Muster 1";
+
+translate "Texture 2"
+	to german "Muster 2";
+
+translate "Texture 3"
+	to german "Muster 3";
+
+translate "Texture 4"
+	to german "Muster 4";
+
+translate "Texture 5"
+	to german "Muster 5";
+
+translate "Turban"
+	to german "Turban";
+
+translate "Accessory 1"
+	to german "Schmuck 1";
+
+translate "Accessory 2"
+	to german "Schmuck 2";
+
+translate "Accessory 3"
+	to german "Schmuck 3";
+
+translate "Size"
+	to german "Größe";
+
+translate "Select avatar:"
+	to german "Avatar auswählen:";
+
+translate "Select avatar height:"
+	to german "Avatargröße auswählen:";
+
+translate "Select colors for:"
+	to german "Farben wählen für:";
+
+translate "No colors available!"
+	to german "Keine Farbwahl möglich!";
+
+translate "Select category:"
+	to german "Kategorie auswählen:";
+
+translate "Select clothing type:"
+	to german "Kleidungsart auswählen:";
+
+translate "Select pattern:"
+	to german "Muster auswählen:";
+
+translate "Select chat bubble:"
+	to german "Chatblase auswählen:";
+
+translate "Select skin texture:"
+	to german "Hautfarbe auswählen:";
+
+translate "Select chat text color:"
+	to german "Chattextfarbe auswählen:";
+
+translate "Animal"
+	to german "Tier";
+
+translate "Elemental"
+	to german "Elemente";
+
+translate "Floral"
+	to german "Blumig";
+
+translate "Geometric"
+	to german "Geometrisch";
+
+translate "Spiritual"
+	to german "Sprituell";
+
+translate "Glyph"
+	to german "Glyphen";
+
+translate "Foobar"
+	to german "Platzhalter";
+
+translate "Tattoo"
+	to german "Tattoo";
+
+translate "Old Password"
+	to german "Altes Passwort";
+
+translate "New Password"
+	to german "Neues Passwort";
+
+translate "Repeat\nNew Password"
+	to german "Neues\nPasswort wiederholen";
+
+translate "Blank passwords are not allowed."
+	to german "Leere Passwörter sind verboten.";
+
+translate "New Passwords don't match."
+	to german "Neue Passwörter decken sich nicht.";
+
+translate "Password changed."
+	to german "Passwort geändert.";

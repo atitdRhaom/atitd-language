@@ -1,0 +1,13 @@
+module windows_fre;
+
+translate "Passed Tests"
+to french "Epreuves réussies";
+
+translate "Bill"
+to french "Paiement";
+
+translate "Mile"
+to french "Hist";
+
+translate "Billing Information"
+to french "Détails de facturation";

@@ -1,0 +1,150 @@
+module FormalGarden_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+
+translate FormalGarden to german masculine
+{
+  swa "Test des Architektonischen Gartens";
+  sn "Test des Architektonischen Gartens"; pn "Test des Architektonischen Gartens";
+}
+translate FormalGardening to german neuter
+{
+  swa "Architektonischer Gartenbau";
+  sn "Architektonischer Gartenbau"; pn "Architektonischer Gartenbau";
+}
+translate Gazebo to german masculine
+{
+  swa "Pavillon";
+  sn "Pavillon"; pn "Pavillons";
+}
+translate FGStella to german masculine
+{
+  swa "Gartentafel";
+  sn "Gartentafel"; pn "Gartentafeln";
+}
+
+
+translate "Formal Gardens are arrangements of flowers and labeled Stellae describing the arrangements, geneology, and design philosophy of the space."
+to german "Architektonische Gärten sind Arrangements aus Blumen. Mithilfe von Gartentafeln werden ihre Stammbäume aufgelistet und Philosophie ihrer Anordnung innerhalb des Arrangements erklärt.";
+
+translate "Build a Gazebo"
+to german "Baue einen Pavillon";
+translate "Plant a Flower"
+to german "Pflanze eine Blume";
+translate "Crossbreed a Flower"
+to german "Kreuze eine Blume mit einer anderen";
+translate "Plant a Crossbred Flower"
+to german "Pflanze eine gekreuzte Blume";
+translate "Build a Stella"
+to german "Baue eine Gartentafel";
+translate "Label a Stella"
+to german "Beschrifte eine Gartentafel";
+translate "Open your Formal Garden for Judging"
+to german "Öffne deinen Architektonischen Garten zur Bewertung";
+translate "Have Seven Judges rate your Formal Garden"
+to german "Finde sieben Richter, die deinen Architektischen Garten bewerten";
+
+translate "You have completed Principles of the Formal Garden."
+to german "Du hast die Prinzipien des Architektonischen Gartens gemeistert.";
+
+translate "You sign up for the Test of the Formal Garden and learn to construct a Gazebo, the centerpeice of"
+to german "Du registrierst Dich für den Test des Architektonischen Gartens und lernst den Bau eines ";
+translate "any formal garden. You also learn to build decorative Stellae, which may contain information on your"
+to german "Pavillons; die Mitte eines jeden Gartens. Du lernst zudem dekorative Gartentafeln zu bauen, welche Informationen über deine";
+translate "plants. You are instructed that formal gardens must have between 7 and 100 flowers"
+to german "Blumen enthalten. Bitte beachte, dass dein achitektonischer Garten zwischen 7 - 100 Blumen";
+translate "within a 100 foot radius. Formal gardens may be judged by any Initiate of Art and Music, and should"
+to german "in einem Radius von 100 Fuss enthalten muss. Achitektonische Gärten können von Jedem, der die Einführung in die Disziplin der Kunst und Musik";
+translate "be judged for beauty and variety of flora, not raw volume of plant matter.\n\n"
+to german "bestanden hat, bewertet werden, und sollten nach Vielfalt und Schönheit bewertet werden, nicht nach Anzahl der Blumen.";
+translate "Unlike other art Tests, Formal Gardens may be tended after judging has opened."
+to german "Anders als bei andere Kunsttests, müssen architektonische Gärten nach dem Öffnen für eine Bewertung gepflegt werden.";
+
+translate "Formal Garden Gazebo"
+to german "Pavillon Architektonischer Garten";
+
+translate "Deep Sky Blue Paint"
+to german "Farbe: Dunkel Himmelblau";
+translate "Dark Red Paint"
+to german "Farbe: Dunkelrot";
+translate "Forest Green Paint"
+to german "Farbe: Waldgrün";
+translate "Slate Blue Paint"
+to german "Farbe: Schieferblau";
+translate "Navajo White Paint"
+to german "Farbe: Navajoweiss";
+translate "Maroon Paint"
+to german "Farbe: Kastanienbraun";
+translate "Medium Violet Red Paint"
+to german "Farbe: Mittleres Violettrot";
+translate "Bricks for the foundation"
+to german "Ziegel für das Fundament";
+translate "Blonde Rotproof Boards"
+to german "Bretter: Hell, Wasserfest";
+translate "Blonde Termite Resistant Boards"
+to german "Bretter: Hell, Termitenresistent";
+translate "Black Glossy Boards"
+to german "Bretter: Schwarz Glänzend";
+translate "Papyrus Paper for Recordkeeping"
+to german "Papyruspapier zum Aufzeichnen";
+
+translate "To build a Gazebo you need:"
+to german "Um einen Pavillon zu bauen benötigst du:";
+
+translate "Open for Judging"
+to german "Öffne zum Bewerten";
+
+translate "Formal gardens must have between 7 and 100 flowers within a 100 foot radius."
+to german "Architektonische Gärten müssen zwischen 7 und 100 Blumen innerhalb eines 100 Fuss Radius besitzen.";
+
+translate "Open for judging? Once open, a garden may not be closed."
+to german "Zur Bewertung öffnen? Einmal geöffnet, kann der Garten nicht mehr geschlossen werden!";
+
+translate "Your Formal Garden is open for judging."
+to german "Dein Architektonischer Garten ist nun zur Bewertung geöffnet.";
+
+translate "Label this Stella"
+to german "Beschrifte diese Tafel";
+
+translate "Label, 60 characters:"
+to german "Beschriftung, 60 Zeichen:";
+
+translate "Length of text is N1. Limit is 60."
+to german "Länge des Textes ist N1. Limit ist 60.";
+
+translate "Edit the description"
+to german "Bearbeite die Beschreibung";
+
+translate "Description, 250 characters:"
+to german "Beschreibung, 250 Zeichen:";
+
+translate "Length of text is N1. Limit is 250."
+to german "Länge des Textes ist N1. Limit ist 250.";
+
+translate "This garden has more than 100 flowers,"
+to german "Dieser Garten hat mehr als 100 Blumen.";
+
+translate "which violates the spirit of the Test."
+to german "Dies verletzt die Regeln des Testes.";
+
+translate "K1"
+to german "K1";
+
+translate "Read the gardener's notes"
+to german "Lese die Beschreibung des Gärtners";
+
+translate "Formal Garden Stella"
+to german "Gartentafel";
+
+translate "Stellae may only be built within 100 feet of a Gazebo."
+to german "Tafeln können nur innerhalb eines 100 Fuss Radius, ausgehend vom Pavillon, gebaut werden.";
+
+translate "To build a Formal Garden Stella, you need:"
+to german "Um eine Gartentafel zu bauen benötigst du:";
+

@@ -1,0 +1,25 @@
+module Macro_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+
+translate "Mute macro detector for 1 hour"
+to german "Deaktiviere den Macro-Detektor für 1 Stunde";
+
+translate "K1 is not macroing, verified by K2"
+to german "K1 benutzt keine Makros, überprüft von K2";
+
+translate "K1 may be macroing a O1."
+to german "K1 benutzt vielleicht Makros O1(sn)";
+
+translate "K1 may be macroing. (Fish)"
+to german "K1 benutzt vielleicht Makros. (Fischen)";
+
+translate "MacroCheck"
+to german "Überprüfe auf Makros";
+

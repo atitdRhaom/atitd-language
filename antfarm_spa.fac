@@ -1,0 +1,56 @@
+module AntFarm_Spa;
+
+// Spanish Translation for the AntFarm Module.
+// Translated by Arpallan on 
+// Spellcheck by: Christian on 
+
+translate MandibularGlue to spanish masculine
+{
+ns "Pegamento Mandibular"; np "Pegamentos Mandibulares";
+}
+
+translate QueenAnt to spanish feminine
+{
+ns "Hormiga Reina"; np "Hormigas Reina";
+}
+
+translate AntFarmController to spanish masculine
+{
+ns "Controlador de Hormigas"; np "Controladores de Hormigas";
+}
+
+translate Compost to spanish feminine
+{
+ns "Composta"; np "Composta";
+}
+
+translate "Mymecology"
+to spanish "Mymecología";
+
+translate "The leaves have been stripped from this plant"
+to spanish "Las hojas han sido removidas de esta planta";
+
+translate "You attempt to harvest the leaves, but the pollution levels are so high that these leaves are not suitable, and fall apart in your hands."
+to spanish "Intentas remover las hojas, pero los niveles de polución del área son tan altos que las hojas se desmoronan en tus manos.";
+
+translate AntColony to spanish feminine
+{
+ns "Colonia de Hormigas"; np "Colonias de Hormigas";
+}
+
+translate "Projects/Ant Colony"
+to spanish "Proyectos/Colonia de Hormigas";
+
+translate "Ant Colony"
+to spanish "Colonia de Hormigas";
+
+translate "To build an Ant Colony, you need: "
+to spanish "Para construir una Colonia de Hormigas necesitas: ";
+
+translate "The Colony has N1 Leaves"
+to spanish "La Colonia tiene N1 hojas.";
+
+translate "That is not Leaves."
+to spanish "Esas no son hojas.";
+
+

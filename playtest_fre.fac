@@ -1,0 +1,22 @@
+module playtest_fre;
+
+translate "Reposition this O1"
+to french "Déplacer O1(^cns) O1(ns)";
+
+translate "Steal how many?"
+to french "Voler combien ?";
+
+translate "Follow U1"
+to french "Suivre U1(name)";
+
+translate "Stop following!"
+to french "Ne plus suivre !";
+
+translate "Assume ownership of this O1"
+to french "Prendre la propriété de O1(ns)";
+
+translate "Allow Reposition"
+to french "Permettre le déplacement";
+
+translate "You can't move buildings that far."
+to french "Vous ne pouvez pas déplacer cette construction aussi loin.";

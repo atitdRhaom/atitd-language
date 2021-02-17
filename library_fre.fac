@@ -1,0 +1,83 @@
+module library_fre;
+
+translate librarybuilding to french feminine
+{
+ns "Bibliothèque"; np "Bibliothèques";
+}
+
+translate library to french feminine
+{
+ns "Bibliothèque d'Alexandrie"; np "Bibliothèques d'Alexandrie";
+}
+
+translate "Build a O1"
+to french "Construire une O1(ns)";
+
+translate plaster to french masculine
+{ns "Plâtre"; np "Plâtres";}
+
+translate "Mix a Batch of Plaster"
+to french "Mélanger du plâtre";
+
+translate "To make a batch of plaster requires:"
+to french "Pour faire du plâtre, il vous faut:";
+
+translate "To build a Library, you need:"
+to french "Pour construire une bibliothèque, il vous faut :";
+translate "How much water? (max 500)"
+to french "Combien d'eau ? (max 500)";
+
+translate "The shelves contain N1 Books."
+to french "Les étagères contiennent N1 livres.";
+
+translate "To enhance this Library requires:"
+to french "Pour améliorer cette bibliothèque il faut:";
+
+translate "Author a book"
+to french "Signer un livre";
+
+translate "Build a library"
+to french "Construisez une bibliothèque";
+
+translate "Collect 14 Books"
+to french "Rassemblez 14 livres";
+
+translate "Sorry, but the shelves are getting full. Come back once this Library has been expanded."
+to french "Désolé, mais les rayons sont pleins. Revenez lorsque cette librairie aura été agrandie.";
+
+translate "You begin the Test of the Library of Alexandria. Build your Library, and convince scholars to fill your shelves with unique tomes."
+to french "Vous commencez le test de la Bibliothèque d'Alexandrie. \nConstruisez votre bibliothèque et convainquez des étudiants à remplir vos rayons avec des exemplaires uniques.";
+
+translate "Those with the most books pass the Test, while runners-up get the option to expand their shelves."
+to french "Ceux avec le plus de livres passent le test, pendant que les finalistes ont l'option d'étendre leurs étagères.";
+
+translate "To inscribe a book, you need:"
+to french "Pour enregistrer un livre, il vous faut:";
+
+translate "Authored a book"
+to french "Etre l'auteur d'un livre";
+
+translate "You author a book for U1's Library. While the existing shelves appear to be filling, more shelves may be built in the future - check back occasionally."
+to french "Vous avez déposé votre livre dans la bibliothèque de U1(name). Alors que les étagères se remplissent, plus d'étagères pourront être construites dans le futur - vérifiez de temps en temps.";
+
+
+translate "Principles of the Library require you to build a Library and fill it with 14 books."
+to french "Les principes de la bibliothèque impliquent que vous construisiez une bibliothèque et que vous la remplissiez avec 14 livres.";
+
+translate "Upgrade with shelves and a Contemplation Basin"
+to french "Améliorez avec des étagères et un bassin de la contemplation";
+
+translate "Upgrade with shelves and a Meditation Platform"
+to french "Améliorez avec des étagères et une plateforme de méditation";
+
+translate "Upgrade with shelves and a Scholar's Atheneum"
+to french "Améliorez avec des étagères et un Atheneum pour les érudits";
+
+translate "Upgrade with shelves and a Reading Terrace"
+to french "Améliorez avec des étagères et une terrasse de lecture";
+
+translate "Upgrade with shelves and a Professor's Retreat"
+to french "Améliorez avec des étagères et une retraite de professeur";
+
+translate "Upgrade with shelves and a Rare Book Section"
+to french "Améliorez avec des étagères et une section de livres rares";

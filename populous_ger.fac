@@ -1,0 +1,12 @@
+module populous_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Games **
+//**    (C)opyright 2002,2003 by Joerg Schoenfelder, jschoenf@gmx.de       **
+//**                                                                       **
+//***************************************************************************
+//menues
+translate "Rescue Me!"
+to german "Rette Mich!";

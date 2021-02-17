@@ -1,0 +1,37 @@
+module alloy2_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment	                   **
+//**                                                                       **
+//***************************************************************************
+
+translate OxygenFurnace to german masculine
+{
+  swa "Sauerstoffofen";
+  sn "Sauerstoffofen"; sg "Sauerstoffofens"; sd "Sauerstoffofen"; sa "Sauerstoffofen";
+  pn "Sauerstofföfen"; pg "Sauerstofföfen"; pd "Sauerstofföfen"; pa "Sauerstofföfen";
+}
+
+translate "Oxygen Furnace"
+to german "Sauerstoffofen";
+
+translate "To build a Oxygen Furnace, you need: "
+to german "Um einen Sauerstoffofen zu bauen benötigst du: ";
+
+translate "Fire the Oxygen Furnace"
+to german "Befeuere den Sauerstoffofen";
+
+translate "Fire the OxygenFurnace using Priming Residue"
+to german "Befeuere Sauerstoffofen mit Schlackerückständen";
+
+translate "Fire the OxygenFurnace using Debug Residue"
+to german "Befeuere Sauerstoffofen mit Test Schlackerückständen";
+
+translate "You should place samples of at least two different metals in the OxygenFurnace."
+to german "Du solltest Stichproben von mindestens zwei verschiedenen Metallen in den Sauerstoffofen laden.";
+
+translate "You'll need N1 O1 to fire the OxygenFurnace."
+to german "Du brauchst N1 O1(N1?pn:sn) um den Sauerstoffofen zu befeuern.";

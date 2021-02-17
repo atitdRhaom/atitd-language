@@ -1,0 +1,420 @@
+Module safari_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment		           **
+//**                                                                       **
+//***************************************************************************
+
+translate Safari to german masculine
+{
+swa "Test der Safari";
+  sn "Test der Safari"; sg "Test der Safari"; sd "Test der Safari"; sa "Test der Safari"; 
+  pn "Test der Safari"; pg "Test der Safari"; pd "Test der Safari"; pa "Test der Safari";
+}
+translate gazelle to german feminine
+{
+swa "Gazelle";
+  sn "Gazelle"; sg "Gazelle"; sd "Gazelle"; sa "Gazelle";
+  pn "Gazellen"; pg "Gazellen"; pd"Gazellen"; pa"Gazellen";
+}
+
+translate falcon to german masculine
+{
+swa "Falke";
+  sn "Falke"; sg "Falken"; sd "Falken"; sa "Falken";
+  pn "Falken"; pg "Falken"; pd "Falken"; pa "Falken";
+}
+
+translate ibis to german masculine
+{
+swa "Ibis";
+  sn "Ibis"; sg "Ibisses"; sd "Ibis"; sa "Ibis";
+  pn "Ibisse"; pg "Ibissen"; pd "Ibissen"; pa "Ibissen";
+}
+
+translate desertrat to german feminine
+{
+swa "Wüstenratte";
+  sn "Wüstenratte"; sg "Wüstenratte"; sd "Wüstenratte"; sa "Wüstenratte";
+  pn "Wüstenratten"; pg "Wüstenratten"; pd "Wüstenratten"; pa "Wüstenratten";
+}
+
+translate otter to german masculine
+{
+swa "Otter";
+  sn "Otter"; sg "Otters"; sd "Otter"; sa "Otter";
+  pn "Otter"; pg "Ottern"; pd "Ottern"; pa "Otter";
+}
+
+translate bullfrog to german masculine
+{
+swa "Ochsenfrosch";
+  sn "Ochsenfrosch"; sg "Ochsenfroschs"; sd "Ochsenfrosch"; sa "Ochsenfrosch";
+  pn "Ochsenfrösche"; pg "Ochsenfröschens"; pd "Ochsenfröschen"; pa "Ochsenfrösche";
+}
+
+
+translate IbisFeathers to german feminine
+{
+swa "Ibisfeder";
+  sn "Ibisfeder"; sg "Ibisferders"; sd "Ibisfer"; sa "Ibisfeder";
+  pn "Ibisfedern"; pg "Ibisfedern"; pd "Ibisfedern"; pa "Ibisfedern";
+}
+
+translate FennecTrap to german feminine
+{
+swa "Wüstenfuchsfalle";
+  sn "Wüstenfuchsfalle"; sg "Wüstenfuchsfalles"; sd "Wüstenfuchsfalle"; sa "Wüstenfuchsfalle";
+  pn "Wüstenfuchsfallen"; pg "Wüstenfuchsfallens"; pd "Wüstenfuchsfallen"; pa "Wüstenfuchsfallen";
+}
+
+translate OtterHole to german neuter
+{
+swa "Otterloch";
+  sn "Otterloch"; sg "Otterlochs"; sd "Otterloch"; sa "Otterloch";
+  pn "Otterlöcher"; pg "Otterlöchers"; pd "Otterlöchern"; pa "Otterlöcher"; 
+}
+
+translate Falcons to german masculine
+{
+swa "Falke";
+  sn "Falke"; sg "Falkes"; sd "Falken"; sa "Falken"; 
+  pn "Falken"; pg "Falkens"; pd "Falken"; pa "Falken";
+}
+
+translate "The Principles of the Test of Safari will help you to understand how to catch each of the animals."
+to german "Die Prinzipien des Tests der Safari helfen Dir zu verstehen, wie man einzelne Tiere fangen kann.";
+
+translate "Build a Fennec Trap"
+to german "Baue eine Wüstenfuchsfalle";
+translate "See a Gazelle"
+to german "Finde eine Gazelle";
+translate "Force an Otter to move to another hole"
+to german "Treibe einen Otter zu einem anderen Loch";
+translate "Capture an Ibis"
+to german "Fange einen Ibis";
+translate "Drop a Rabbit for a hungry falcon"
+to german "Lege einen Hasen für einen hungrigen Falken ab";
+translate "Detect the signs of a Fennec"
+to german "Spüre Zeichen eines Wüstenfuches auf";
+
+translate "You have completed the Principles of the Test of Safari."
+to german "Du hast die Prinzipien des Tests der Safari vervollständigt.";
+
+translate "Test of the Safari"
+to german "Test der Safari";
+
+translate "Read my Log Book"
+to german "Aufzeichnungen";
+
+translate "You have tagged the following animals:\n"
+to german "Du hast die folgenden Tiere berührt:\n";
+
+translate "Gazelle"
+to german "Gazelle";
+translate "Falcons"
+to german "Falken";
+translate "Ibis"
+to german "Ibis";
+translate "Desert Rat"
+to german "Wüstenratte";
+translate "Otter"
+to german "Otter";
+translate "Bullfrog"
+to german "Ochsenfrosch";
+
+translate "    Gazelle: N1 (N2 remain)"
+to german "    Gazelle: N1 (N2 übrig)";
+translate "    Falcons: N1 (N2 remain)"
+to german "    Falken: N1 (N2 übrig)";
+translate "    Ibis: N1 (N2 remain)"
+to german "    Ibis: N1 (N2 übrig)";
+translate "    Desert Rat: N1 (N2 remain)"
+to german "    Wüstenratte: N1 (N2 übrig)";
+translate "    Otter: N1 (N2 remain)"
+to german "    Otter: N1 (N2 übrig)";
+translate "    Bullfrog: N1 (N2 remain)"
+to german "    Ochsenfrosch: N1 (N2 übrig)";
+
+
+translate "    Fennec: N1 (N2 types remain)"
+to german "    Wüstenfuchs: N1 (N2 Arten übrig)";
+
+translate "    Gazelle: N1 (Complete)"
+to german "    Gazelle: N1 (vollständig)";
+translate "    Falcons: N1 (Complete)"
+to german "    Falken: N1 (vollständig)";
+translate "    Ibis: N1 (Complete)"
+to german "    Ibis: N1 (vollständig)";
+translate "    Desert Rat: N1 (Complete)"
+to german "    Wüstenratte: N1 (vollständig)";
+translate "    Otter: N1 (Complete)"
+to german "    Otter: N1 (vollständig)";
+translate "    Bullfrog: N1 (Complete)"
+to german "    Ochsenfrosch: N1 (vollständig)";
+translate "    Fennec: N1 (Complete)"
+to german "    Wüstenfuchs: N1 (vollständig)";
+
+translate "Fennecs Captured: N1"
+to german "gefangene Füchse: N1";
+
+translate "In the Test of the Safari you will learn to track and capture seven species of Egyptian fauna. Each species has unique behaviors and tracking methods, and each must be accomplished four times. More information about each species can be found here."
+to german "Im Test der Safari wirst Du lernen, sieben Tierarten der ägyptischen Fauna aufzuspüren und zu fangen. Jede Art hat ein einzigartiges Verhalten und erfordert einzigartige Techniken zum Aufspüren. Du musst jede vier Mal erfolgreich anwenden um den Test zu bestehen. Mehr Informationen über jede Tierart findest du hier.";
+
+translate "Read about tracking Falcons"
+to german "Wie spürt man Falken auf";
+
+translate "To identify a Falcon Roost, drop a rabbit. A falcon will take it sometime within the next 5 minutes (but never within the first minute), and will fly off toward the nearest roost. Trees may be checked for roosts, but doing so is exhausting!"
+to german "Um ein Falkennest zu identifizieren musst du einen Hasen fallen lassen. Ein Falke wird ihn sich irgendwannn innerhalb der nächsten 5 Minuten schnappen (aber niemals in der ersten Minute) und zum nächstgelegenen Nest fliegen. Bäume können nach Nestern durchsucht werden, allerdings ist das sehr anstrengend!";
+
+translate "Read about tracking Fennecs"
+to german "Wie spürt man Wüstenfüchse auf";
+
+translate "Build a Fennec trap using boards and rope. Each night, traps on the outskirts of a pack will show signs of the creatures, and traps within 250 coordinates will capture one. At least four different subspecies of Fennecs must be captured and released."
+to german "Baue aus Brettern und Seilen eine Wüstenfuchsfalle. Jede Nacht werden Fallen in der Nähe eines Rudels Zeichen dieser Lebewesen zeigen und Fallen in 250 Koordinaten Abstand werden einen Fuchs fangen. Es müssen mindestens vier verschiedene Wüstenfuchsarten gefangen und wieder freigelassen werden.";
+
+translate "Read about tracking Bullfrogs"
+to german "Wie spürt man Ochsenfrösche auf";
+
+translate "Bullfrogs exhibit almost perfect camouflage, but their distinctive sound gives them away. High Dexterity helps capture these creatures."
+to german "Ochsenfrösche können sich beinahe perfekt in ihrer Umgebung tarnen, allerdings verrät sie ihr markanter Klang. Hohe Gewandheit hilft dir diese Geschöpfe zu fangen.";
+
+translate "Read about tracking Gazelles"
+to german "Wie spürt man Gazellen auf";
+
+translate "Gazelles run faster than humans. The key to tagging a Gazelle is to tire it out. Strong teamwork is a must."
+to german "Gazellen laufen schneller als Menschen. Der Schlüssel zum erfolgreichen Berühren liegt darin, die Gazelle müde zu machen. Starkes Teamwork ist ein Muss.";
+
+translate "Read about tracking Desert Rats"
+to german "Wie spürt man Wüstenratten auf";
+
+translate "Fast-moving Desert Rats blend perfectly with Egypt's terrain, but their distinctive tracks will lead to them every time. Be aware that the wind will cover up tracks over time."
+to german "Die schnell laufenden Wüstenratten gleichen sich perfekt an das ägyptische Gelände an, jedoch führen ihre verräterischen Spuren stets zu ihnen. Sei Dir bewusst, dass der Wind die Spuren mit der Zeit verwischt.";
+
+translate "Read about tracking Ibis"
+to german "Wie spürt man Ibisse auf";
+
+translate "Only one flock of Ibis inhabits Egypt. Tagging a single bird causes it to flee, but the rest of the flock is unfazed. The flock tends to move at night, and resettle in the morning."
+to german "Es lebt nur ein einziger Schwarm Ibisse in Ägypten. Wenn man einen einzelnen Vogel berührt, wird dieser fliehen, der Rest der Gruppe läßt sich davon allerdings nicht aus der Ruhe bringen. Der Schwarm neigt dazu in der Nacht zu wandern, um sich in den Morgenstunden wieder niederzulassen.";
+
+translate "Read about tracking Otters"
+to german "Wie spürt man Otter auf";
+
+translate "Otters build an underground network of tunnels. It is possible to put a stick (wood) down to block a portion of the network, but if too many holes are blocked, the Otter will get annoyed and eat a stick!"
+to german "Otter buddeln sich ein unterirdisches Netzwerk aus Tunneln. Es ist möglich ein Brett in ein Loch zu stecken, um einen Teil des Netzwerks zu blockieren. Falls du allerdings zu viele Löcher derart blockierst wird der Otter wütend werden und das Brett durchnagen!";
+
+translate "Capture this Ibis"
+to german "Fange diesen Ibis";
+
+translate "Admire this Ibis"
+to german "Bewundere diesen Ibis";
+
+translate "It's a splendid bird. Almost makes you wish you were on a safari."
+to german "Dies ist ein prächtiger Vogel. Du wünschst dir geradezu auf einer Safari zu sein.";
+
+translate "You may only capture one Ibis per Egyptian day."
+to german "Du kannst nur einen Ibis pro ägyptischem Tag fangen.";
+
+translate "You capture the Ibis, and record the capture in your logbook. You save some of the Ibis's plumage as a souvenir."
+to german "Du fängst den Ibis und trägst ihn in deinen Aufzeichnungen ein. Du behältst etwas von seinem Federkleid als Andenken.";
+
+translate "You have successfully captured an Ibis! You need four total to pass this part of the test."
+to german "Du hast erfolgreich einen Ibis gefangen! Du brauchst ingesamt vier um diesen Teil des Testes zu meistern.";
+
+translate "Warp To Otter Hole"
+to german "Teleport Otterloch";
+
+translate "A falcon grabs the rabbit and devours it!"
+to german "Ein Falke schnappt sich den Hasen und verschlingt ihn!";
+
+translate "A falcon grabs the rabbit and flies off to the North"
+to german "Ein Falke schnappt sich den Hasen und fliegt in Richtung Norden davon.";
+
+translate "A falcon grabs the rabbit and flies off to the Northeast"
+to german "Ein Falke schnappt sich den Hasen und fliegt in Richtung Nordosten davon.";
+
+translate "A falcon grabs the rabbit and flies off to the East"
+to german "Ein Falke schnappt sich den Hasen und fliegt in Richtung Osten davon.";
+
+translate "A falcon grabs the rabbit and flies off to the Southeast"
+to german "Ein Falke schnappt sich den Hasen und fliegt in Richtung Südosten davon.";
+
+translate "A falcon grabs the rabbit and flies off to the South"
+to german "Ein Falke schnappt sich den Hasen und fliegt in Richtung Süden davon.";
+
+translate "A falcon grabs the rabbit and flies off to the Southwest"
+to german "Ein Falke schnappt sich den Hasen und fliegt in Richtung Südwesten davon.";
+
+translate "A falcon grabs the rabbit and flies off to the West"
+to german "Ein Falke schnappt sich den Hasen und fliegt in Richtung Westen davon.";
+
+translate "A falcon grabs the rabbit and flies off to the Northwest"
+to german "Ein Falke schnappt sich den Hasen und fliegt in Richtung Nordwesten davon.";
+
+translate "Target is N1 N2"
+to german "Ziel ist N1 N2";
+
+translate "Your rabbit has been eaten by a hungry falcon! Follow the direction that it flies to discover its nest. Nests are found in trees."
+to german "Dein Hase wurde von einem hungrigen Falken gefressen! Folge seiner Flugrichtung zurück zu seinem Nest. Nester werden in Bäumen gefunden.";
+
+translate "Search for Falcon Roosts"
+to german "Suche nach Falkennestern";
+
+translate "You search, but can't find any evidence of a roost."
+to german "Du suchst, kannst aber keinerlei Anzeichen von Nestern finden.";
+
+translate "You find a Falcon Roost in the O1! You have now identified N1 Falcon Roosts!"
+to german "Du findest ein Falkennest in O1(dsd) O1(sd)! Du hast nun N1 Falkennester gefunden!";
+
+translate "Brown"
+to german "braune";
+translate "Ruddy"
+to german "rote";
+translate "Furry"
+to german "pelzige";
+translate "Short-Haired"
+to german "kurzhaarige";
+translate "Pygmy"
+to german "Pygmäen";
+translate "Sharp-Toothed"
+to german "scharfzahnige";
+translate "Bushy-Tailed"
+to german "buschelschwanzige";
+
+translate "Build a Fennec Trap"
+to german "Baue eine Wüstenfuchsfalle";
+
+translate "Fennec traps must be built on sand."
+to german "Wüstenfuchsfallen müssen auf Sand gebaut werden.";
+
+translate "To build a Fennec Trap you need:"
+to german "Um eine Wüstenfuchsfalle zu bauen benötigst du:";
+
+translate "You've built a Fennec Trap. Be sure to check this, and other traps from time to time. You need one of four different types to pass this part of the test."
+to german "Du hast eine Wüstenfuchsfalle gebaut. Prüfe diese und andere Fallen regelmäßig nach. Du brauchst jeweils eine von vier verschiedenen Arten um den Test zu bestehen.";
+
+translate "Check this trap"
+to german "Untersuche die Falle";
+
+translate "The trap is perfectly clean, not even a Fennec hair to be seen."
+to german "Die Falle ist unberührt, nicht einmal ein Haar eines Wüstenfuchses ist zu sehen.";
+
+translate "Although the trap doesn't contain a live animal, you definitely see signs of K1 Fennecs!"
+to german "Auch wenn die Falle kein lebendes Tier enthält findest du eindeutige Anzeichen von Füchsen (K1)!";
+
+translate "Although the trap doesn't contain a live animal, you definitely see signs of Furry Fennecs!"
+to german "Auch wenn die Falle kein lebendes Tier enthält findest du eindeutige Anzeichen von Pelz-Wüstenfüchsen!";
+
+translate "Although the trap doesn't contain a live animal, you definitely see signs of Short-Haired Fennecs!"
+to german "Auch wenn die Falle kein lebendes Tier enthält findest du eindeutige Anzeichen von Kurzhaar-Wüstenfüchsen!";
+
+translate "Although the trap doesn't contain a live animal, you definitely see signs of Sharp-Toothed Fennecs!"
+to german "Auch wenn die Falle kein lebendes Tier enthält findest du eindeutige Anzeichen von Scharfzahn-Wüstenfüchsen!";
+
+translate "Although the trap doesn't contain a live animal, you definitely see signs of Bushy-Tailed Fennecs!"
+to german "Auch wenn die Falle kein lebendes Tier enthält findest du eindeutige Anzeichen von Buschelschwanz-Wüstenfüchsen!";
+
+translate "Although the trap doesn't contain a live animal, you definitely see signs of Pygmy Fennecs!"
+to german "Auch wenn die Falle kein lebendes Tier enthält findest du eindeutige Anzeichen von Pygmäen-Wüstenfüchsen!";
+
+translate "Although the trap doesn't contain a live animal, you definitely see signs of Ruddy Fennecs!"
+to german "Auch wenn die Falle kein lebendes Tier enthält findest du eindeutige Anzeichen von Rot-Wüstenfüchsen!";
+
+translate "Although the trap doesn't contain a live animal, you definitely see signs of Brown Fennecs!"
+to german "Auch wenn die Falle kein lebendes Tier enthält findest du eindeutige Anzeichen von Braun-Wüstenfüchsen!";
+
+translate "You have captured a K1 Fennec! You let the little fellow go to rejoin his pack."
+to german "Du hast einen Wüstenfuchs (K1) gefangen! Du lässt den kleinen Burschen wieder frei, damit er zurück zu seinem Rudel zurück kann.";
+
+translate "You have captured a Bushy-Tailed Fennec! You let the little fellow go to rejoin his pack."
+to german "Du hast einen Buschelschwanz-Wüstenfuchs gefangen! Du lässt den kleinen Burschen wieder frei, damit er zurück zu seinem Rudel zurück kann.";
+
+translate "You have captured a Furry Fennec! You let the little fellow go to rejoin his pack."
+to german "Du hast einen Pelz-Wüstenfuchs gefangen! Du lässt den kleinen Burschen wieder frei, damit er zurück zu seinem Rudel zurück kann.";
+
+translate "You have captured a Short-Haired Fennec! You let the little fellow go to rejoin his pack."
+to german "Du hast einen Kurzhaar-Wüstenfuchs gefangen! Du lässt den kleinen Burschen wieder frei, damit er zurück zu seinem Rudel zurück kann.";
+
+translate "You have captured a Sharp-Toothed Fennec! You let the little fellow go to rejoin his pack."
+to german "Du hast einen Scharfzahn-Wüstenfuchs gefangen! Du lässt den kleinen Burschen wieder frei, damit er zurück zu seinem Rudel zurück kann.";
+
+translate "You have captured a Pygmy Fennec! You let the little fellow go to rejoin his pack."
+to german "Du hast einen Pygmäen-Wüstenfuchs gefangen! Du lässt den kleinen Burschen wieder frei, damit er zurück zu seinem Rudel zurück kann.";
+
+translate "You have captured a Ruddy Fennec! You let the little fellow go to rejoin his pack."
+to german "Du hast einen Rot-Wüstenfuchs gefangen! Du lässt den kleinen Burschen wieder frei, damit er zurück zu seinem Rudel zurück kann.";
+
+translate "You have captured a Brown Fennec! You let the little fellow go to rejoin his pack."
+to german "Du hast einen Braun-Wüstenfuchs gefangen! Du lässt den kleinen Burschen wieder frei, damit er zurück zu seinem Rudel zurück kann.";
+
+translate "Set up a Desert Rat Trap"
+to german "Stelle eine Wüstenrattenfalle auf.";
+
+translate "To set up a trap you need:"
+to german "Um eine Falle aufzustellen benötigst du:";
+
+translate "You trap and release the Desert Rat, bringing your count to N1."
+to german "Du fängst die Wüstenratte und lässt sie wieder laufen. Insgesamt hast du nun N1 Wüstenratte(n) gefangen.";
+
+translate "You quickly assemble a trap, but fail to catch a Desert Rat. You disassemble the trap and vow to grab the little creature next time."
+to german "Du stellst schnell eine Falle auf, schaffst es aber nicht die Wüstenratte zu fangen. Ärgerlich baust du die Falle wieder auseinander und schwörst dir, das kleine Biest beim nächsten Mal zu fangen.";
+
+translate "The wily otter scurries into her labyrinth of tunnels, resurfacing at another hole!"
+to german "Der gerissene Otter huscht in sein Tunnellabyrinth und taucht in einem anderen Loch wieder auf!";
+
+translate "The rascally otter ducks down into her tunnel, and pokes out another hole!"
+to german "Der freche Otter verschwindet in seinen Tunnel und schaut aus einem anderen Loch hinaus!";
+
+translate "The clever otter runs down into her maze, finds another hole, and mocks you!"
+to german "Der schlaue Otter rennt hinunter in seinen Irrgarten, findet ein anderes Loch und verspottet dich!";
+
+translate "You have forced the Otter to move to another hole. You must use sticks to pen the creature in, to capture it."
+to german "Du hast den Otter zu einem anderen Loch getrieben. Du musst Bretter benutzen, um die Kreatur einzusperren und zu fangen.";
+
+translate "You outwitted the Otter. You tag her, and she scurries off. You have now captured N1 otters."
+to german "Du überlistest den Otter. Du berührst ihn und er huscht davon. Du hast nun N1 Otter gefangen.";
+
+translate "The Otter ate one of your sticks!"
+to german "Der Otter hat eines deiner Bretter aufgefuttert!";
+
+translate "This is an O1"
+to german "Dies ist O1(asn) O1(swa)"; 
+
+translate "This is a O1"
+to german "Dies ist O1(asn) O1(swa)"; 
+
+translate "This seems to be some sort of animal's home."
+to german "Dies scheint eine Art Tierbehausung zu sein.";
+
+translate "Could not find a spot for Otter "
+to german "Kann keinen Platz für Otter finden ";
+
+translate "This seems to be some sort of animal's home."
+to german "Dies scheint irgendeine Art tierisches Zuhause zu sein.";
+
+translate "Remove the Board"
+to german "Entferne das Brett";
+
+translate "Insert a Board"
+to german "Stecke ein Brett hinein";
+
+translate "Grab the Otter"
+to german "Packe den Otter";
+
+translate "You don't have any boards."
+to german "Du hast keine Bretter";
+
+translate "You have gotten close enough to a bullfrog to clearly hear its croak! Search around and see if you can jump and find it."
+to german "Du bist nahe genug an einen Ochsenfrosch herangekommen, um sein Quaken klar zu hören! Suche die Umgebung ab und versuche, ob du ihn finden kannst.";
+
+translate "Capture a Bullfrog"
+to german "Fange einen Ochsenfrosch";
+
+translate "You leap to where you think you hear the bullfrog, but come up empty-handed. Your landing is hard, knocking the wind out of you."
+to german "Du springst zu der Stelle, von der du glaubtest den Ochsenfrosch zu hören. Du landest hart und bist völlig außer Puste, doch du stehst mit leeren Händen wieder auf.";
+
+translate "You capture (and release) a bullfrog! You have now caught N1 of the creatures."
+to german "Du fängst den Ochsenfrosch und lässt ihn wieder frei! Du hast nun N1 dieser Viecher gefangen.";

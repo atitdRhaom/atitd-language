@@ -1,0 +1,398 @@
+module fountains_fre;
+
+
+translate fcontroller to french masculine
+{
+  ns "Mécanisme de fontaines dansantes"; np "Mécanismes de fontaines dansantes";
+}
+
+translate Basin8 to french masculine
+{
+  ns "Petit bassin"; np "Petits bassins";
+}
+
+translate Basin12 to french masculine
+{
+  ns "Bassin moyen"; np "Bassins moyens";
+}
+
+translate Basin16 to french masculine
+{
+  ns "Grand bassin"; np "Grands bassins";
+}
+
+translate Basin20 to french masculine
+{
+  ns "Enorme bassin"; np "Enormes bassins";
+}
+
+translate NozCrystalFog to french masculine
+{
+  ns "Gicleur brume cristalline"; np "Gicleurs brume cristalline";
+}
+
+translate NozDirtyRain to french masculine
+{
+  ns "Gicleur pluie forte"; np "Gicleurs pluie forte";
+}
+
+translate NozFoggyShower to french masculine
+{
+  ns "Gicleur brume"; np "Gicleur brume";
+}
+
+translate NozLightRain to french masculine
+{
+  ns "Gicleur pluie fine"; np "Gicleurs pluie fine";
+}
+
+translate NozMistyBubbles to french masculine
+{
+  ns "Gicleur bruine"; np "Gicleurs bruine";
+}
+
+translate NozWhiteShower to french masculine
+{
+  ns "Gicleur jet blanc"; np "Gicleurs jet blanc";
+}
+
+translate "You sign up for the Test of Dancing Waters and learn to build complex mechanical fountains."
+to french "Vous vous êtes inscrit pour le test des Eaux Dansantes et avez appris à construire des fontaines à mécanisme complexes";
+
+translate "A group of 7 Journeymen of Art and Music, each carrying 777 water must petition for the Test of Dancing Waters."
+to french "Un groupe de 7 compagnons en Art et Musique, chacun portant 777 eaux doivent pétitionner pour l'épreuve des eaux dansantes";
+
+translate "Build a Fountain, a beautiful and dynamic display of water. You have the option of tearing down your Fountain early, skipping the Judging steps."
+to french "Construisez une fontaine, avec une visualisation belle et dynamique de l'eau. Vous avez la possibilité de détruire votre fontaine rapidement, évitant les étapes du jugement";
+
+translate "All basins must first be removed."
+to french "Tous les bassins doivent être d'abord retirés.";
+
+translate "All nozzles must first be removed."
+to french "Tous les gicleurs doivent être d'abord retirés.";
+
+translate "Particle Type "
+to french "Type de particule";
+
+translate "Particle Type K1"
+to french "Particule de type K1";
+
+translate "Basins"
+to french "Bassins";
+
+translate "Nozzle"
+to french "Gicleur";
+
+translate "Time N1"
+to french "Temps N1";
+
+translate "Build a Dancing Waters Mechanism"
+to french "Construisez un mécanisme d'Eaux dansantes";
+
+translate "Start the Mechanism, achieving at least 20% Mechanical Stress"
+to french "Démarrez le mécanisme et atteignez au moins 20% de stress mécanique";
+
+translate "Tear down your Fountain, OR do the following:"
+to french "Détruisez votre fontaine, OU faites ce qui suit";
+
+translate "Have seven Judges rate your Fountain"
+to french "Obtenez que sept judges notent votre fontaine";
+
+
+translate "Time N1 Gentle, N2 ft"
+to french "Temps N1 courbe douce, N2 pieds";
+
+translate "Time N1 Abrupt, N2 ft"
+to french "Temps N1 courbe abrupte, N2 pieds";
+
+translate "Time N1 Gentle, N2 ft, Spread N3%/N4%"
+to french "Temps N1 courbe douce, N2 pieds, étendue N3%/N4%";
+
+translate "Time N1 Abrupt, N2 ft, Spread N3%/N4%"
+to french "Temps N1 courbe abrupte, N2 pieds, étendue N3%/N4%";
+
+translate "You must be configuring a Fountain Controller to build Basins."
+to french "Vous devez configurer un contrôleur de fontaine pour construire des bassins";
+
+translate "Too far from the controller."
+to french "Trop loin du contrôleur";
+
+translate "Basin would be too far from the controller."
+to french "Le bassin serait trop loin du contrôleur";
+
+translate "To build a Basin you need:"
+to french "Pour construire un bassin, il vous faut:";
+
+translate "Add a Nozzle/"
+to french "Ajouter un gicleur/";
+
+translate "You are not configuring a Fountain."
+to french "Vous n'êtes pas en train de configurer une fontaine.";
+
+translate "No linked controller."
+to french "Aucun contrôleur n'est relié.";
+
+translate "Negative values are not allowed."
+to french "Les valeurs négatives ne sont pas permises.";
+
+translate "Enter Base Parameters"
+to french "Entrer les paramètres de base";
+
+translate "Enter Set N1 Parameters"
+to french "Entrer les paramètres de l'ensemble N1";
+
+translate "Dancing Waters"
+to french "Eaux dansantes";
+
+translate "Dancing Waters Mechanism"
+to french "Mécanisme d'eaux dansantes";
+
+translate "To build a Dancing Waters Mechanism you need:"
+to french "Pour construire un mécanisme d'eaux dansantes, vous avez besoin de:";
+
+translate "Cut Stone to lower water table"
+to french "Pierre taillée pour réduire le débit d'eau";
+
+translate "Concrete for base mechanism"
+to french "Béton pour la base du mécanisme";
+
+translate "Glass Pipes for delicate control"
+to french "Tuyaux de verre pour un controle précis";
+
+translate "Copper Pipe for main inflow and outflow"
+to french "Tuyaux de cuivre pour l'entrée et la sortie d'eau principales";
+
+translate "Period must be at least 1"
+to french "L'intervalle doit être d'au moins 1";
+
+translate "Maximum value allowed is "
+to french "La valeur maximale est de ";
+
+translate "Adjust the Fountain"
+to french "Ajuster la fontaine";
+
+translate "You can not adjust the fountain while it is open for judging."
+to french "Vous ne pouvez régler la fontaine pendant son évaluation. ";
+
+translate "Blank names are not allowed."
+to french "Vous devez nommer votre fontaine.";
+
+translate "Turn-Off value must be more than Turn-On value"
+to french "La valeur de fermeture doit être plus élevée que la valeur d'ouverture.";
+
+translate "Period must be between 1 and 300 seconds."
+to french "La durée doit être entre 1 et 300 secondes.";
+
+translate "Resolution must be between 1 and 60 seconds."
+to french "La résolution doit être entre 1 et 60 secondes.";
+
+translate "Resolution must be between 0 and N1"
+to french "La résolution doit être entre 1 et N1 secondes.";
+
+translate "close"
+to french "fermer";
+
+translate "O1, N1ft"
+to french "O1(ns), N1 pieds";
+
+translate "O1, N1 ft"
+to french "O1(ns), N1 pieds";
+
+translate "Sink at K1"
+to french "Enfoncer à K1";
+
+translate "All nozzles need at least one keyframe."
+to french "Tous les gicleurs doivent avoir au minimum un objectif.";
+
+translate "No associated FController"
+to french "Aucun contrôleur relié";
+
+translate "FController is somewhere else."
+to french "Le contrôleur est ailleurs.";
+
+translate "FController is too far away."
+to french "Le contrôleur est trop loin.";
+
+translate "Scanning"
+to french "Examen";
+
+translate "Scanning Noz K1"
+to french "Examiner le gicleur K1";
+
+translate "You need to have N1 water in inventory to raise the initial fill level to N2. You only have N3."
+to french "Vous devez avoir N1 eau dans votre inventaire pour élever le niveau à N2. Vous en avez seulement N3.";
+
+translate "You don't have that much water."
+to french "Vous n'avez pas autant d'eau.";
+
+translate "Add some Water"
+to french "Ajouter de l'eau";
+
+translate "Add Water"
+to french "Ajouter l'eau";
+
+translate "Drain some Water"
+to french "Retirer de l'eau";
+
+translate "Drain Water"
+to french "Retirer l'eau";
+
+translate "Make this my last Basin"
+to french "Faire de ce bassin mon dernier bassin";
+
+translate "The basin doesn't have that much water."
+to french "Le bassin n'a pas autant d'eau.";
+
+translate "Slide this basin around"
+to french "Bouger ce bassin";
+
+translate "You may only open a fountain for judging when it is running."
+to french "Vous ne pouvez soumettre une fontaine à l'évaluation uniquement quand elle fonctionne.";
+
+translate "Your fountain contains N1 leaks. Though it may run for a while, it can not be opened for judging until all leaks are fixed. Leaks can be identified on the map as blue circles, when the fountain is running."
+to french "Votre fontaine a N1 fuites. Malgré qu'elle peut fonctionner un moment, elle ne peut être évaluée avant que les fuites ne soient réparées. Les fuites peuvent être identifiées sur la carte par les ronds bleus, pendant le fonctionnement.";
+
+translate "You are about to close judging, and wipe scores by previous judges. Proceed?"
+to french "Vous êtes sur le point de fermer l'évaluation, et effacer les résultats accumulés. Continuer?";
+
+translate "Close Judging"
+to french "Fermer l'évaluation";
+
+translate "Remove a Nozzle/"
+to french "Retirer un gicleur/";
+
+translate "Fountain Editor"
+to french "Éditeur de fontaine";
+
+translate "Tighter"
+to french "Plus serré";
+
+translate "Wider"
+to french "Plus large";
+
+translate "Shorter"
+to french "Plus court";
+
+translate "Longer"
+to french "Plus long";
+
+translate "Lower"
+to french "Plus bas";
+
+translate "Low"
+to french "Bas";
+
+translate "Higher"
+to french "Plus haut";
+
+translate "High"
+to french "Haut";
+
+translate "Aim (Gentle)"
+to french "Courbe de visée(douce)";
+
+translate "Aim (Abrupt)"
+to french "Courbe de visée(abrupte)";
+
+translate "Configure Nozzle"
+to french "Configurer le gicleur";
+
+translate "Move While Dry?"
+to french "Animer lorsque vide?";
+
+translate "Start On?"
+to french "Débuter?";
+
+translate "Average Water Flow: N1"
+to french "Débit moyen: N1";
+
+translate "Synchronizing in N1"
+to french "Synchronisation en N1";
+
+translate "Basin Fill Levels"
+to french "Niveaux de remplissage du bassin";
+
+translate "The yellow circle is you. Clicking on it doesn't do anything."
+to french "Le cercle jaune représente l'endroit où vous êtes. Cliquer dessus n'a aucun effet.";
+
+translate "The large grey circle is the fountain controller. Clicking on it doesn't do anything."
+to french "Le grand cercle gris représente le contrôleur de fontaine. Cliquer dessus n'a aucun effet.";
+
+translate "The small grey circle represents the target point for the selected keyframe. Clicking on it has no effect."
+to french "Le petit cercle gris représente l'objectif du module sélectionné. Cliquer dessus n'a aucun effet.";
+
+translate "Stop"
+to french "Arrêter";
+
+translate "Name:"
+to french "Nom:";
+
+translate "Mechanical Stress: N1%"
+to french "Effort mécanique: N1%";
+
+translate "Turn-off Level:"
+to french "Niveau d'arrêt";
+
+translate "Config"
+to french "Configuration";
+
+translate "Initial Fill: N1"
+to french "Remplissage initial: N1";
+
+translate "Initial Fill:"
+to french "Remplissage initial:";
+
+translate "Configure Basin"
+to french "Configurer le bassin";
+
+translate "Turn-on Level:"
+to french "Niveau de départ";
+
+translate "Flow Rate:"
+to french "Débit:";
+
+translate "Period:"
+to french "Durée";
+
+translate "Resolution:"
+to french "Résolution:";
+
+translate "Period N1, Phase N2, Resolution N3. Turns on at N4, off at N5, and starts on. Moves when dry."
+to french "Durée N1, Phase N2, Résolution N3. S'active à N4, se désactive à N5 et débute. Animation lorsque vide.";
+ 
+translate "Period N1, Phase N2, Resolution N3. Turns on at N4, off at N5, and starts on. Freezes when dry."
+to french "Durée N1, Phase N2, Résolution N3. S'active à N4, se désactive à N5 et débute. Immobile lorsque vide";
+ 
+translate "Period N1, Phase N2, Resolution N3. Turns on at N4, off at N5, and starts off. Moves when dry."
+to french "ZDurée N1, Phase N2, Résolution N3. S'active à N4, se désactive à N5 et s'arrête. Animation lorsque vide.";
+ 
+translate "Period N1, Phase N2, Resolution N3. Turns on at N4, off at N5, and starts off. Freezes when dry."
+to french "Durée N1, Phase N2, Résolution N3. S'active à N4, se désactive à N5 et s'arrête. Immobile lorsque vide.";
+
+translate "The mechanism can not handle that much water flow."
+to french "Le mécanisme ne peut soutenir un débit d'eau aussi élevé.";
+
+translate "ConfigBasin"
+to french "Configuration du bassin";
+
+translate "Start the Test of Dancing Waters"
+to french "Commencer l'Épreuve des Eaux Dansantes";
+
+translate "You sign up for the test of Dancing Waters, and learn the art of building sophisticated, dynamic fountains."
+to french "Vous vous inscrivez à l'épreuve des Eaux Dansantes, et apprenez l'art de construire des fontaines dynamiques sophistiquées.";
+
+translate "Egypt recognizes "
+to french "L'égypte reconnaît ";
+
+translate "U1 passing The Test of Dancing Water."
+to french "U1(name) pour sa réussite de l'épreuve des eaux dansantes.";
+
+translate "No passes in The Test of Dancing Water."
+to french "que personne n'a passé l'épreuve des eaux dansantes.";
+
+translate "Score for FController at N1 is N2"
+to french "Le résultat du contrôleur en N1 est de N2";
+
+translate "The fountain's delicate machenery is not working, due to the vibrations of nearby fountain controllers."
+to french "Le mécanisme fragile de la fontaine ne fonctionne pas, dû à la vibration de contrôleurs de fontaine trop rapprochés.";
+

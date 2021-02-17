@@ -1,0 +1,206 @@
+module pilgrim_fre;
+
+
+translate Pilgrim to french masculine
+{
+  ns "L'épreuve de la voie du Pèlerin"; np "L'épreuve de la voie du Pèlerin";
+}
+translate PilgrimShrine to french masculine
+{
+  ns "sanctuaire de pèlerinage"; np "sanctuaires de pèlerinage";
+}
+translate PilgrimShrineConstruction to french feminine
+{
+  ns "construction d'un sanctuaire de pèlerinage"; np "construction d'un sanctuaire de pèlerinage";
+}
+
+translate Pilgrimage to french feminine
+{
+  ns "Pèlerinage"; np "Pèlerinage";
+}
+
+translate "Principles of the Pilgrim will guide you through establishing a Pilgrimage group, and making your first Tithe."
+to french "Les Principes du Pèlerin vont vous guider pour former un groupe de pèlerinage, et pour effectuer votre première offrande.";
+
+translate "Join (or form) a Pilgrimage"
+to french "Joignez-vous à (ou formez) ou groupe de pèlerin";
+translate "Expand to Seven Pilgrims"
+to french "Etendre le groupe à sept Pèlerins";
+translate "Tithe at a Shrine"
+to french "Effectuer une offrande à un sanctuaire";
+translate "Have all other Pilgrims Tithe"
+to french "Que les autres pèlerins fassent également une offrande";
+translate "Tithe at a Different Shrine"
+to french "Effectuer une offrande à un sanctuaire différent";
+translate "Have all Tithe at a Previous Shrine"
+to french "Effectuer une offrande supplémentaire à un sanctuaire déjà visité";
+translate "Accumulate 700 Points"
+to french "Accumuler 700 Points";
+
+translate "You have completed Principles of the Pilgrim. If you continue your Pilgrimage, try to score more points than any other Pilgrimage this week. This is known as Walking the Path of the Pilgrim, and will advance all members in the Discipline of Worship."
+to french "Vous avez terminé les Principes du Pèlerin. Si vous poursuivez votre pèlerinage, tentez de gagner plus de points que les autres groupes de pèlerins. Si vous suivez la voie du Pèlerin, tous les membres du groupe progresseront dans la discipline de la Vénération.";
+
+
+
+translate "This shrine requires a tithe of N1 O1. It is Holy."
+to french "Ce sanctuaire nécessite une dîme de N1 O1(ns). Il est sacré.";
+translate "This shrine requires a tithe of N1 O1. It is not Holy."
+to french "Ce sanctuaire nécessite une dîme de N1 O1(ns). Il n'est pas sacré.";
+
+
+translate "holy"
+to french "sacré";
+
+translate "unholy"
+to french "non sacré";
+
+translate "The Path of the Pilgrim"
+to french "La voie du Pèlerin";
+
+translate "Start the Test"
+to french "Commencer l'épreuve";
+
+translate "Pilgrim!"
+to french "Pèlerin !";
+
+translate "Tests/Path of the Pilgrim/Begin the Path of the Pilgrim"
+to french "Epreuves/La voie du Pèlerin/Commencer l'épreuve de la voie du Pèlerin";
+
+translate "Path of the Pilgrim"
+to french "La voie du Pèlerin";
+translate "Begin the Path of the Pilgrim"
+to french "Commencer l'épreuve de la voie du Pèlerin";
+
+translate "First, join someone else's pilgrimage by clicking on them, or form a new one by clicking on the University."
+to french "Tout d'abord, joignez-vous au pèlerinage de quelqu'un d'autre, ou lancez-en un nouveau en cliquant sur l'université.";
+translate "Next, visit as many holy pilgrim shrines as possible, making the requested donation to each."
+to french "Ensuite, allez dans autant de sanctuaires du Pèlerin que possible, et faites-y le don demandé.";
+
+translate "Shrines must be at least K1 apart, but a given shrine can be visited repeatedly."
+to french "Les sanctuaires de Pèlerin doivent être séparés d'au moins K1, mais un sanctuaire donné peut être visité plusieurs fois.";
+
+translate "About once per 7 realtime days, the group with the longest pilgrimage is promoted."
+to french "Environ 7 fois par jour réel, le groupe ayant accompli le plus long pèlerinage est promu.";
+
+translate "View my Pilgrimage"
+to french "Voir mon pèlerinage";
+
+translate "Tests/Worship/View my Pilgrimage"
+to french "Epreuves/Vénération/Voir mon pèlerinage";
+
+translate "The following pilgrimages tied:"
+to french "Les pèlerins suivants sont associés :";
+
+translate "Winning Pilgrimage:"
+to french "Pèlerinage gagnant";
+
+translate "This pilgrimage consists of U1"
+to french "Ce pèlerinage consiste en U1(name)";
+
+translate "The score for your pilgrimage is N1"
+to french "Le score de votre pèlerinage est de N1 ";
+
+translate "Form a new pilgrimage"
+to french "Former un nouveau pèlerinage";
+
+translate "You are already part of a pilgrimage."
+to french "Vous êtes déjà intégré à un pèlerinage";
+
+translate "You begin a pilgrimage. You can check your notes using your Tests menu."
+to french "Vous venez de commencer un pèlerinage. Vous pouvez vérifier vos notes en utilisant le menu d'Epreuves.";
+
+//translate "Tests/Worship/Join Pilgrimage"
+//to french "Epreuves/Vénération/Rejoindre un pèlerinage";
+
+translate "Worship"
+to french "Vénération";
+translate "Join Pilgrimage"
+to french "Rejoindre un pèlerinage";
+
+
+translate "Asking about joining the pilgrimage..."
+to french "Demande d'entrée dans un pèlerinage envoyée...";
+
+translate "There are already N1 pilgrims on that pilgrimage."
+to french "Ce pèlerinage regroupe déjà N1 pèlerins.";
+
+translate "U1 is asking to join your pilgrimage. Accept?"
+to french "U1(name) vous demande de rejoindre votre pèlerinage. Acceptez-vous ?";
+
+translate "You were not accepted as part of the pilgrimage."
+to french "Vous n'avez pas été accepté dans le pèlerinage.";
+
+translate "You have joined the pilgrimage. Check progress from your Tests menu."
+to french "Vous venez de rejoindre le pèlerinage. Consultez votre progression depuis le menu Epreuves.";
+
+translate "Dissolve my Pilgrimage"
+to french "Dissoudre le groupe de pèlerinage";
+
+//translate "Tests/Worship/Dissolve my Pilgrimage"
+//to french "Epreuves/Vénération/Dissoudre le groupe de pèlerinage";
+
+translate "Are you sure you want to dissolve your pilgrimage? You may lose a lot of work for your fellow pilgrims."
+to french "Voulez-vous vraiment dissoudre votre groupe de pèlerinage ? Vous perdrez beaucoup de travail pour quelques pèlerins.";
+
+translate "U1 has dissolved your pilgrimage."
+to french "U1(name) vient de dissoudre votre groupe de pèlerinage.";
+
+translate "Withdraw from Pilgrimage"
+to french "Quitter le groupe de pèlerinage";
+
+//translate "Tests/Worship/Withdraw from Pilgrimage"
+//to french "Epreuves/Vénération/Quitter le groupe de pèlerinage";
+
+translate "There is another, more holy N1 pilgrim shrine nearby. Seek that out."
+to french "Il existe un autre sanctuaire dans le voisinage, plus sacré N1. Trouvez-le.";
+
+translate "Tithe N1 O1"
+to french "Dîme N1 O1(ns)";
+
+translate "You don't have N1 O1"
+to french "Vous n'avez pas N1 O1(ns)";
+
+translate "You have already visited a shrine that is N1 from this one. You must be at least N2 from all other shrines."
+to french "Vous avez déjà visité un sanctuaire à N1 de celui-ci. Vous devez être à au moins N2 de tout autre sanctuaire.";
+
+translate "You tithe the requested N1 O1."
+to french "Vous vous acquittez de la dîme requise : N1 O1(ns).";
+
+translate "Although everyone in your group has tithed, the following failed to do it within two minutes, and will have to make an additional offering:"
+to french "Tout le monde dans votre groupe a versé la dîme, mais les personnes suivantes ne l'ont pas fait dans les deux minutes imparties et devront s'acquitter d'un don supplémentaire :";
+
+translate "Everyone in your group has tithed. You can check the pilgrimage from your Tests menu."
+to french "Tout le monde dans votre groupe s'est acquitté de la dîme. Vous pouvez vérifier l'évolution de votre pèlerinage dans le menu d'Epreuves.";
+
+//translate "Projects/Pilgrim Shrine/Offering of O1"
+//to french "Projets/Sanctuaire de pèlerinage/Offrande de O1(ns)";
+
+translate "Pilgrim Shrine"
+to french "Sanctuaire de pèlerinage";
+
+translate "Offering of O1"
+to french "Offrande de O1(ns)";
+
+translate "Pilgrim shrines are only holy when you own exactly one of them - consider the tithe carefully. "
+to french "Les sanctuaires de pèlerinage sont sacrés uniquement lorsque vous en possédez un - faites très attention à votre dîme.";
+
+translate "To build another, first tear down the previous one at N1, N2"
+to french "Pour en construire un autre, vous devez d'abord détruire le premier en N1 N2.";
+
+translate "Pilgrim shrines are only holy when you own exactly one of them. They can not be given to guilds, or donated to the public. If you wish to change your shrine's tithe, you will have to first tear down your previous pilgrim shrine."
+to french "Les sanctuaires de pèlerinage ne sont sacrés que lorsque vous en possédez un. Ils ne peuvent être donnés à des guildes ou au public. Si vous souhaitez modifier la dîme à verser à votre sanctuaire, vous devez d'abord détruire votre sanctuaire précédent.";
+
+translate "How many O1 should each pilgrim tithe?"
+to french "Combien de O1(np) doit payer chaque pèlerin ?";
+
+translate "The most holy O1 pilgrim shrine in this region requires a tithe of N1. You must exceed it."
+to french "Le sanctuaire le plus sacré de cette région demande une dîme de N1. Vous devez dépasser ce nombre.";
+
+translate "To build a pilgrim shrine that requires a tithe of N1 O1 requires:"
+to french "Si vous voulez construire un sanctuaire de pèlerinage qui demande une dîme de N1 O1(N1?np:ns), il vous faut :";
+
+translate "Pilgrim shrine K1 at N1, N2 owned by U1 is Unholy."
+to french "Le sanctuaire de pèlerinage K1 situé à N1 N2 et possédé par U1(name) n'est pas sacré."; 
+
+translate "Pilgrim shrine K1 at N1, N2 owned by U1 is heilig."
+to french "Le sanctuaire de pèlerinage K1 situé à N1 N2 et possédé par U1(name) est sacré.";

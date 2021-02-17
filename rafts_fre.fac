@@ -1,0 +1,146 @@
+module rafts_fre;
+
+translate FerryBoat to french masculine
+{
+	ns "Radeau rudimentaire"; np "Radeaux rudimentaires";
+	}
+	
+translate LongRangeFerry to french feminine
+{
+	ns "Navette longue-distance"; np "Navettes longue-distance";
+	}
+	
+translate "Ferries that can go a full 500 feet."
+to french "Les radeaux peuvent parcourir jusqu'à 500 pieds.";
+
+translate "Sailing" to french "Navigation";
+
+translate "To leave the island, you must build your Ferry Boat in water."
+to french "Pour quitter l'île, vous devez construire votre radeau dans l'eau";
+
+translate "Depart for Egypt on this ferry boat"
+to french "Partez pour l'Egypte sur ce radeau";
+
+translate "Linen (sail experiments)"
+to french "Tissus (recherche sur les voiles)";
+
+translate "Canvas (sail experiments)"
+to french "Tissages (recherche sur les voiles)";
+
+translate "Silk Cloth (sail experiments)"
+to french "Pièces de soie (recherche sur les voiles)";
+
+translate "Rigid Rotproof boards (sail rigging)"
+to french "Planches rigides imputrescibles (armature)";
+
+translate "Pliable Rotproof boards (sail rigging)"
+to french "Planches flexibles imputrescibles (armature)";
+
+translate "Rope (sail rigging)"
+to french "Cordes (maniement des voiles)";
+
+translate "Wood (flotation)"
+to french "Bois (flottaison)";
+
+translate "Tar (sealant)"
+to french "Goudrons (étanchéité)";
+
+translate "You have learned the skill of Ferry Construction, Level Two."
+to french "Vous avez appris la construction de navettes avancées.";
+
+translate "Long-Range Ferry"
+to french "Navettes longue distance";
+
+translate "Silk Cloth for the sails."
+to french "Pièces de soie pour les voiles";
+
+translate "Rigid Rotproof Boards for rigging."
+to french "Planches rigides imputrescibles pour l'armature";
+
+translate "Pliable Rotproof Boards for rigging."
+to french "Planches flexibles imputrescibles pour l'armature";
+
+translate "Rope for the sail rigging."
+to french "Cordes pour le maniement des voiles";
+
+translate "Wood for the buoyant mass."
+to french "Bois pour la coque.";
+
+translate "Tar to seal it, so your feet stay dry."
+to french "Goudrons pour assurer une bonne étanchéité.";
+
+translate "To build a Long-Range Ferry, you need:"
+to french "Pour construire une navette longue distance, il vous faut :";
+
+translate "Ferry Boat"
+to french "Radeau rudimentaire";
+
+translate "To build a Ferry Boat, you need: "
+to french "Pour construire un radeau rudimentaire, il vous faut : ";
+
+translate "Disassemble this Ferry Boat"
+to french "Démanteler le radeau";
+
+translate "Dissassemble this Ferry Boat?"
+to french "Démanteler le radeau ?";
+
+translate "Ferry Range = "
+to french "Autonomie du radeau = ";
+
+translate "Ride this Ferry Boat"
+to french "Embarquer dans ce radeau";
+
+translate "Either the water here is not deep enough, or you're too far from water.  Disassemble it and rebuild it closer to water."
+to french "Soit l'eau n'est pas assez profonde, soit vous en êtes trop éloigné. Démantelez votre radeau et reconstruisez-le plus près de l'eau.";
+
+translate "The other shore is not passable. You cannot ride from here."
+to french "L'autre côte n'est pas accessible. Vous ne pouvez pas vous y rendre d'ici.";
+
+translate "The body of water is too large.  This is just a ferry boat.  You can use it to ferry across small bodies of water."
+to french "L'étendue d'eau est trop grande. Vous n'avez qu'un radeau rudimentaire, il ne peut pas traverser de grande étendues d'eau.";
+
+translate "Error: Please tell Pharaoh that the mentor controller has not been installed."
+to french "Erreur : Veuillez prévenir Pharaoh que le vérificateur de mentorat n'a pas été installé.";
+
+translate "Mentors cannot use ferry boats to leave. You must return via the welcome banner."
+to french "Les mentors ne peuvent pas utiliser les radeaux pour partir. Vous devez revenir via la bannière d'accueil.";
+
+translate "To leave this place, you must build the ferry boat yourself.  You cannot use one built by somebody else."
+to french "Pour quitter cet endroit, vous devez construire un radeau vous-même. Vous ne pouvez pas utiliser un radeau construit par quelqu'un d'autre.";
+
+translate "Hint: To silence a player that is annoying you, type /ignore playername"
+to french "Astuce: Pour faire taire un joueur qui vous ennuie, tappez /ignore nom_du_joueur";
+
+translate "Hint: To hear them again, type /unignore playername"
+to french "Astuce: Pour l'entendre à nouveau, tappez /unignore nom_du_joueur";
+
+translate "The school hands you a sail, and explains that in the future, you can make sails of your own using a Loom."
+to french "L'école vous donne une voile, en vous expliquant qu'à l'avenir, vous pouvez fabriquer des voiles en utilisant un métier à tisser.";
+
+translate "You have earned the right to enter Egypt!"
+to french "Vous avez gagné le droit d'entrer en égypte !";
+
+translate "You attempt to sail for Egypt but the Welcoming Island gets in your way.\n"
+to french "Vous avez tenté de naviguer vers l'Egypte mais l'île de Bienvenue est dans votre chemin.\n";
+
+translate "Try diassembling this ferry and reassembling it on the open coast"
+to french "Essayez de désassembler ce radeau et de le ré-assembler sur la côte du large";
+
+
+translate "Caution - this is a one-way trip. If you're not ready, hit the close box on the travel dialog.  You can gather your stuff before you go."
+to french "Attention - c'est un voyage à sens unique. Si vous n'êtes pas encore prêt, fermez la fenêtre de choix de destinations. Vous pouvez prendre vos affaires avant de partir.";
+
+translate "Caution - this is a one-way trip, your raft will not survive a return journey!"
+to french "Attention - c'est un voyage à sens unique, votre radeau ne survivra pas à un voyage retour";
+
+translate "You can gather your stuff before you go."
+to french "Vous pouvez prendre vos affaires avant de partir.";
+
+translate "Before you set sail, which house do you belong to?, Your House will determine where you start in Egypt, it is possible to switch allegiances but will require negotiation to do so..."
+to french "Avant de lever les voiles, à quelle house allez-vous appartenir ? Votre house déterminera l'endroit où vous comencerez en Egypte, il est possible de changer d'allégence mais il faudra négocier...";
+
+translate "The travel dialog will show you a list of places you can go.  You should choose one.  Note: you can explore many locations, do not worry too much about which place you choose first."
+to french "La fenêtre de voyage vous donnera une liste d'endroits où vous rendre. Choisissez-en un. Note : vous pouvez explorer de nombreux endroits, ne vous souciez pas trop de votre premier choix";
+
+translate "Are you ready to leave?"
+to french "Etes-vous prêt à partir ?";

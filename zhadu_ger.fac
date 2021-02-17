@@ -1,0 +1,49 @@
+module zhadu_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment		           **
+//**                                                                       **
+//***************************************************************************
+
+translate ZhaduBoard to german neuter
+{
+swa "Zhadu-Brett";
+sn "Zhadu-Brett"; pn "Zhadu-Bretter";
+}
+translate WayOfZhadu to german masculine
+{
+swa "Weg des Zhadu";
+sn "Weg des Zhadu"; pn "Weg des Zhadu";
+}
+translate "Zhadu Board"
+to german "Zhadu-Brett";
+
+translate "You do not know the Way of Zhadu."
+to german "Du kennst den Weg des Zhadu nicht.";
+
+translate "Your Opponent does not know the Way of Zhadu."
+to german "Dein Gegener kennt den Weg des Zhadu nicht.";
+
+translate "You win."
+to german "Du hast gewonnen.";
+
+translate "You lose."
+to german "Du hast verloren.";
+
+translate "Share the Way of Zhadu"
+to german "Teile den Weg mit Zhadu";
+
+translate "The Way of Zhadu is now known."
+to german "Der Weg des Zhadu ist nun bekannt.";
+
+translate "Start the Test of Zhadu"
+to german "Starte den Test des Zhadu";
+
+translate "We know nothing of the Way of Zhadu. Find another willing to share."
+to german "Wir wissen nichts über den Weg des Zhadu. Finde jemanden, der bereit ist ihn mit dir zu teilen.";
+
+translate "Agree to a Stalemate"
+to german "Willige in ein Patt ein";

@@ -1,0 +1,112 @@
+module raelisculpture_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment		           **
+//**                                                                       **
+//***************************************************************************
+
+
+translate FuneraryTemple to german masculinecollective
+{
+swa "Totentempel";
+  sn "Totentempel"; sg "Totentempels"; sd "Totentempel"; sa "Totentempel";
+  pn "Totentempel"; pg "Totentempel"; pd "Totentempeln"; pa "Totentempel";
+}
+translate Funerary to german masculinecollective
+{
+swa "Test des Totentempels";
+  sn "Test des Totentempels"; sg "Test des Totentempels"; sd "Test des Totentempels"; sa "Test des Totentempels";
+  pn "Test des Totentempels"; pg "Test des Totentempels"; pd "Test des Totentempels"; pa "Test des Totentempels";
+}
+translate "The Glory of Funerary Temples comes more from the range of colors used in their construction than in the number of tiles."
+to german "Der heilige Totentempel erhält seine Kraft aus der Menge der Farbe. Die Anzahl der Kacheln ist dabei nur zweitranging.";
+
+translate "Build a Raeli Oven (optional)"
+to german "Baue einen Raeliofen (optional)";
+translate "Start the oven Dredging"
+to german "Starte die Grabung durch den Ofen";
+translate "Begin the Baking Process"
+to german "Starte den Brennvorgang";
+translate "Interrupt the Baking Process before the tiles are Black"
+to german "Unterbreche den Brennvorgang, bevor die Kacheln schwarz werden";
+translate "Build a Funerary Temple"
+to german "Baue einen Totentempel";
+translate "Glorify the Temple with at least 7 colors of Tiles"
+to german "Ehre den Tempel mit mindestens sieben verschiedenen Kachelfarben";
+translate "Achieve a Glory Rating of 7000"
+to german "Erreiche eine Ruhmeswertung von 7000";
+
+translate "You have completed the Principles of the Funerary Tempel."
+to german "Du hast die Prinzipien des Totentempels vervollständigt.";
+
+translate "Build a most glorious temple, in dazzling colors, to welcome spirits of those past back to earth. Temples' scores are heavily weighted on the variety of colors, and far less so on the quantity. The exact formula is a mystery."
+to german "Baue einen prächtigen Tempel in schillernden Farben, um die auf die Erde zurückkehrenden Seelen willkommen zu heißen. Die Tempelbewertungen hängen stark von der Vielfalt der Farben ab und weniger stark von deren Anzahl. Die genaue Formel ist ein Mysterium.";
+
+translate "Funerary Temple"
+to german "Totentempel";
+
+translate "Sheet glass for the windows"
+to german "Glasscheiben für die Fenster";
+
+translate "Fire bricks for the kiln shaft"
+to german "Feuerziegel für den Rauchabzug";
+
+translate "Gold for Trim"
+to german "Gold für Zierleisten";
+
+translate "Silver for Trim"
+to german "Silber für Zierleisten";
+
+translate "Iron Bars for roof supports"
+to german "Eisenbarren für die Dachkonstruktion";
+
+translate "Concrete for foundation"
+to german "Beton für das Fundament";
+
+translate "Cut Stone for subfoundation"
+to german "Geschnittene Steine für den Untergrund";
+
+translate "Mirrors for the reflectory bowl"
+to german "Spiegel für das Spiegelbecken";
+
+translate "Boards for structure"
+to german "Bretter für das Gerüst";
+
+translate "To build a Funerary Temple, you need: "
+to german "Um einen Totentempel zu bauen benötigst du: ";
+
+translate "View Raeli Tiles used"
+to german "Betrachte die benutzten Raelikacheln";
+
+translate "Tiles Used:\n"
+to german "Benutzte Kacheln:\n";
+
+translate "Glorify the Temple"
+to german "Verehre den Tempel";
+
+translate "Glorify with how many K1 Raeli Tiles? (Max N1)"
+to german "Verehre mit wievielen der K1 Raelikacheln? (Max N1)";
+
+translate "This Funerary Temple's glory is N1"
+to german "Die Pracht dieses Totentempels ist N1";
+
+translate "Funerary Controller"
+to german "Totentempelkontrolle";
+
+translate "Advance winning Temple now"
+to german "Fortschritt des gewinnenden Tempel";
+
+translate "FuneraryTemple: No winner"
+to german "Totentempel: Kein Gewinner";
+
+translate "Egypt recognizes U1 for passing the Test of the Funerary Temple for K1 Temple at N1. The Temple features the splendor of N2 colors of Raeli Tiles, for a Glory Rating of N3."
+to german "Ägypten ehrt U1(name) für das Bestehen des Tests des Totentempels mit K1 Tempel bei N1. Der Tempel zeigt die Pracht von N2 Raelikachelfarben, mit einer Ruhmesrate von N3.";
+
+translate "Error: Could not find FuneraryTemple owner at "
+to german "Fehler: Konnte keinen Totentempeleigentümer finden bei ";
+
+translate "Funerary Glory N1 Range N2 Size N3 Owned by U1"
+to german "Totentempelruhm N1, Entfernung N2, Größe N3, Eigentum von U1(name)";

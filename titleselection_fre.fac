@@ -1,0 +1,22 @@
+module titleselection_fre;
+
+translate "Title"
+to french "Titre";
+
+translate "O1 of O2"
+to french "O1(ns) en O2(ns)";
+
+translate "No Title Selected"
+to french "Aucun titre sélectionné";
+
+translate "Clear Selection"
+to french "Effacer la sélection";
+
+translate "By order of the Title Selection Act, introduced by themadass, you set your title to O1 of O2"
+to french "D'après la loi sur la selection du titre, par themadass, vous choisissez le titre O1(ns) en O2(ns)";
+
+translate "You set your title to K1"
+to french "Vous avez défini votre titre comme K1";
+
+
+

@@ -1,0 +1,127 @@
+Module host_fre;
+
+
+translate HostDesk to french masculine
+{
+  ns "Registre de l'Hôte"; np "Registre de l'Hôte";
+}
+
+translate tryhost to french masculine
+{
+  ns "Hôte"; np "Hôtes";
+}
+
+translate "Test of the Host"
+to french "Épreuve de l'Hôte";
+
+translate "Test of the Host is a test of your ability to gather your fellow Egyptians to engage in fun and interesting events. A minimum of 21 people must attend your event, which they will rate. The two hosts with the highest score each week passes the test."
+to french "L'épreuve de l'hote teste votre capacité à rassembler vos concitoyens égyptiens afin de vous engager dans des évènements amusants et intéressants. Un minimum de 21 personnes doit participer à l'évènement qu'ils évaleront. Les deux hôtes avec le meilleur score de chaque semaine passe le test";
+
+translate "You register for the Test of the Host. The citizens of Egypt will act as judges of your events and show their appreciation accordingly. You must amaze them with your creativity and delight them with recreation. Horus will frown upon any event that does not bring happiness and the gathering should judge the host in accordance with his will. "
+to french "Vous vous enregistrez à l'Épreuve de l'Hôte. \n\nLes citoyens d'égypte seront les juges de votre événement et l'évalueront.\nVous devez les surprendre par votre goût et votre créativité en les divertissant. \nHorus n'appréciera pas un événement qui n'apporte pas la joie. Vos invités vous évalueront selon les exigences d'Horus.";
+
+translate "View progress on the Test of the Host"
+to french "Consulter ma progression dans l'Épreuve de l'Hôte";
+
+translate "You have accumulated N1 points so far. (Completed events only.) Passing the Test requires N2 points."
+to french "Vous avez accumulé N1 points jusqu'ici. (événements terminés seulement).  \nRéussir l'épreuve nécessite N2 points.";
+
+translate "Organize well received events for your fellow Egyptians."
+to french "Oranisez des évènements appréciés par vos concitoyens égyptiens.";
+
+translate "Make some Linen"
+to french "Fabriquez quelques tissus";
+
+translate "Make some Paper"
+to french "Fabriquez quelques papiers";
+
+translate "Build a Host Display"
+to french "Construisez un registre de l'hôte";
+
+translate "Display of the Host"
+to french "Registre d'Hôte";
+
+translate "To build a Display of the Host you need:"
+to french "Pour construire un registre d'hôte, vous avez besoin de:";
+
+translate "Open the Event"
+to french "Lancer l'événement";
+
+translate "You must first enter a description for the event."
+to french "Vous devez d'abord faire une description de l'événement";
+
+translate "Name of your Event:"
+to french "Nommez votre événement";
+
+translate "This event is:"
+to french "Cet événement est:";
+
+translate "Private - I will control who joins"
+to french "Privé - Je choisis qui assiste";
+
+translate "Public - Anyone can join"
+to french "Public - N'importe qui peut s'y joindre";
+
+translate "This event will end in about K1."
+to french "Cet événement se terminera dans K1.";
+
+translate "Renew the Event"
+to french "Répéter l'événement";
+
+translate "The event has been renewed, and will end in K1"
+to french "L'événement a été lancé de nouveau et se terminera dans K1.";
+
+translate "Describe the event"
+to french "Décrire l'événement";
+
+translate "Description:K1"
+to french "Description:K1";
+
+translate "Read about the event"
+to french "Lire la description de l'événement";
+
+translate "Rate K1:"
+to french "Évaluer K1:";
+
+translate "Peasantly (0 points)"
+to french "Banal (0 points)";
+
+translate "Scholarly (1 Point)"
+to french "Réussi (1 Point)";
+
+translate "Oracular (3 points)"
+to french "Digne d'un Oracle (3 points)";
+
+translate "A total of N1 attended your event, giving a combind score of N2. Your score in the Test of the Host is N3."
+to french "N1 personnes ont participé à votre événement, vous attribuant une note combinée de N2. Vous avez jusqu'ici accumulé N3 points dans l'Épreuve de l'Hôte.";
+
+translate "Only N1 people attended your event, so no points are accumulated."
+to french "Seulement N1 personnes assistaient à votre événement, donc vous n'avez pas gagné de points.";
+
+translate "Participate in K1"
+to french "Participer à: K1";
+
+translate "You are already participating."
+to french "Vous y participez déjà.";
+
+translate "You are already attending an event."
+to french "Vous assistez déjà à un événement.";
+
+translate "You will be notified when the Host has made a decision."
+to french "Vous serez avisés lorsque l'hôte aura pris sa décision.";
+
+translate "U1 is asking to join K1. Accept?"
+to french "U1(name) demande à assister à: K1. Acceptez-vous?";
+
+translate "An invitiation was not extended."
+to french "Une invitation ne vous a pas été accordée.";
+
+translate "U1 welcomes you to K1."
+to french "U1(name) vous accepte à: K1";
+
+translate "U1 welcomes U2."
+to french "U1(name) accepte U2(name)";
+
+translate "Egypt recognizes the following for passing the Test of the Host: "
+to french "L'Egypte reconnait les joueurs suivants pour avoir passé l'épreuve de l'Hôte: ";
+

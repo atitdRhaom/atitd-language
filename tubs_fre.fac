@@ -1,0 +1,206 @@
+module tubs_fre;
+
+translate basictub to french masculine
+{
+	ns "Baquet rudimentaire"; np "Baquets rudimentaires";
+	}
+
+translate sturdytub to french masculine
+{
+	ns "Baquet résistant"; np "Baquets résistants";
+	}
+	
+translate MarbleTub to french masculine
+{
+ 	ns "Baquet de marbre"; np "Baquets de marbre";
+ 	}
+
+translate "The tub has crumbled to dust."
+to french "Le baquet a été réduit en poussière";
+	
+translate "Water level is N1"
+to french "Le niveau d'eau est de N1";
+
+translate "This tub has a Water Tank"
+to french "Ce baquet est équipé d'un réservoir d'eau";
+
+translate "Working on: Making pulp"
+to french "En cours: Fabrication de pulpe";
+
+translate "Working on: Rotting Dung"
+to french "En cours: Décomposition du fumier";
+translate "Working on: Rotting Flax"
+to french "En cours: Rouissement du lin";
+translate "Working on: Sulfur"
+to french "En cours: Soufre";
+translate "Working on: Drying Sulfur"
+to french "En cours: Fixation du soufre";
+translate "Working on: Evaporating Water"
+to french "En cours: Evaporation de l'eau";
+translate "Working on: Nothing"
+to french "En cours: Rien";
+
+translate "Dung"
+to french "Fumier";
+
+translate "Flax"
+to french "Lin";
+
+translate "Fill with Water"
+to french "Remplir d'eau";
+
+translate "You don't have that much water."
+to french "Vous n'avez autant d'eau";
+translate "You don't have that much Sawdust."
+to french "Vous n'avez autant de sciure";
+
+translate "Fill with Sulphurous Water"
+to french "Remplir d'eau sulfurée";
+
+translate "You must empty the Tub before you can add Sulphurous Water."
+to french "Vous devez vider le baquet avant de pouvoir y verser de l'eau sulfurée.";
+
+translate "How much Sulphurous Water?"
+to french "Quelle quantité d'eau sulfurée?";
+
+translate "How much Sawdust?"
+to french "Combien de sciure ?";
+
+translate "You don't have that much Sulphurous water."
+to french "Vous n'avez pas autant d'eau sulfurée.";
+
+translate "Rot Flax"
+to french "Laisser rouir du lin";
+
+translate "Wool Cloth"
+to french "Drap de laine";
+translate "Canvas"
+to french "Tissage";
+translate "You must first fill the tub with water."
+to french "Vous devez d'abord verser de l'eau dans le baquet.";
+
+translate "You cannot rot both Flax and Dung at the same time."
+to french "Vous ne pouvez pas laisser pourrir du lin et du fumier en même temps.";
+
+translate "Load how much Flax? (Max N1)"
+to french "Quelle quantité de lin? (Max N1)";
+
+translate "Rot Dung"
+to french "Laisser pourrir du fumier";
+
+translate "Make Pulp"
+to french "Fabriquez de la pulpe";
+
+translate "Steep in Clay"
+to french "Raidir dans l'argile";
+
+translate "Make Max Pulp"
+to french "Fabriquez le maximum de pulpe";
+
+translate "Load how much Rotten Flax? (Max N1)"
+to french "Quelle quantité de lin ? (Max N1)";
+
+translate "Load how much Dung? (Max N1)"
+to french "Quelle quantité de fumier? (Max N1)";
+
+translate "How much Dung?"
+to french "Quelle quantité de fumier?";
+
+translate "How much Flax ?"
+to french "Quelle quantité de Lin ?";
+
+translate "Tubs"
+to french "Baquets";
+
+translate "Your Clay Steeped Canvas will be done in K1"
+to french "Votre tissage raidi à l'argile sera prêt dans K1";
+
+translate "Your Clay Steeped Wool cloth will be done in K1"
+to french "Votre drap de laine raidi à l'argile sera prêt dans K1";
+translate "Your Clay Steeped Canvas is ready"
+to french "Votre tissage raidi à l'argile est prêt";
+translate "Your Clay Steeped Wool Cloth is ready"
+to french "Votre drap de laine raidi à l'argile est prêt";
+translate "Working on: Steeping Cloth"
+to french "Travail en cours: Raidir à l'argile";
+
+translate "Working on: Steeping Canvas"
+to french "Travail en cours: Tissage raidi à l'argile";
+translate "You don't have:"
+to french "Vous n'avez pas:";
+
+
+translate "Basic tub"
+to french "Baquet simple";
+
+translate "To build a Basic Tub, you need: "
+to french "Pour construire un baquet simple, il vous faut: ";
+
+translate "To build a Sturdy Tub, you need: "
+to french "Pour fabriquer un baquet résistant il vous faut : ";
+
+translate "Sturdy tub"
+to french "Baquet résistant";
+
+translate "Marble tub"
+to french "Bbaquet de marbre";
+
+translate "To build a Marble Tub, you need: "
+to french "Pour fabriquer un baquet de marbre, il vous faut : ";
+
+translate "Add Water Tank to Tub"
+to french "Ajouter un réservoir d'eau";
+
+translate "It is filled with N1 water."
+to french "Le baquet est remplit de N1 mesures d'eau.";
+
+translate "Load the tub with Flax"
+to french "Mettre du lin dans le baquet";
+
+translate "How much water?"
+to french "Quelle quantité d'eau ?";
+
+translate "Consuming N1 sulfur."
+to french "Consommation de N1 doses de souffre";
+
+translate "Are you sure you want to tear down this tub?"
+to french "Voulez-vous vraiment détruire ce baquet ?";
+
+translate "It has not been filled with water."
+to french "Le baquet n'a pas été rempli d'eau.";
+
+translate "You don't have any flax."
+to french "Vous n'avez pas de lin.";
+
+translate "Max"
+to french "Max";
+
+translate "Fill Completely with Water"
+to french "Remplir d'eau à ras bord";
+
+translate "You add N1 water to your tub."
+to french "Vous versez N1 cruches d'eau dans votre baquet.";
+
+translate "Fill Completely with Sulphurous Water"
+to french "Remplir d'eau sulfurée à ras bord";
+
+translate "You add N1 Sulfurous Water to your tub."
+to french "Vous versez N1 cruches d'eau sulfurée dans votre baquet.";
+
+translate "Rot Max Flax"
+to french "Laisser pourrir le maximum de lin";
+
+translate "You don't have that much Flax."
+to french "Vous n'avez pas autant de lin.";
+
+translate "You add N1 Flax to your tub."
+to french "Vous déposez N1 bottes de lin dans votre baquet.";
+
+translate "Rot Max Dung"
+to french "Laisser pourrir le maximum de fumier";
+
+translate "You don't have that much Dung."
+to french "Vous n'avez pas autant de fumier.";
+
+translate "You add N1 Dung to your tub."
+to french "Vous déposez N1 fumiers dans votre baquet.";

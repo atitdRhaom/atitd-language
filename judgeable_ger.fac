@@ -1,0 +1,210 @@
+module judgeable_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment      	           **
+//**                                                                       **
+//***************************************************************************
+
+translate Poor to german neuter
+{
+swa "Schlecht"; sn "Schlecht"; pn "Schlecht";
+}
+translate Fair to german neuter
+{
+swa "Billig"; sn "Billig"; pn "Billig";
+}
+translate Good to german neuter
+{
+swa "Gut"; sn "Gut"; pn "Gut";
+}
+translate Great to german neuter
+{
+swa "Großartig"; sn "Großartig"; pn "Großartig";
+}
+translate Exceptional to german neuter
+{
+swa "Außergewöhnlich"; sn "Außergewöhnlich"; pn "Außergewöhnlich";
+}
+translate Brilliant to german neuter
+{
+swa "Brilliant"; sn "Brilliant"; pn "Brilliant";
+}
+translate Monumental to german neuter
+{
+swa "Monumental"; sn "Monumental"; pn "Monumental";
+}
+translate "Poor"
+to german "Schlecht";
+
+translate "Fair"
+to german "Billig";
+
+translate "Good"
+to german "Gut";
+
+translate "Great"
+to german "Großartig";
+
+translate "Exceptional"
+to german "Außergewöhnlich";
+
+translate "Brilliant"
+to german "Brilliant";
+
+translate "Monumental"
+to german "Monumental";
+
+translate "Judging"
+to german "Bewerte";
+
+translate "Clear scores on this O1"
+to german "Lösche die Wertung O1(tsg) O1(sn)";
+
+translate "Score for this O1"
+to german "Bewerte O1(tsn) O1(sn)";
+
+translate "Examine Judging History"
+to german "Betrachte die Wertungsvergangenheit";
+
+translate "Examining..."
+to german "Untersuche...";
+
+translate "Visitors: N1" 
+to german "Besucher: N1";
+
+translate "Players: N1"
+to german "Spieler: N1";
+
+translate "Affect Score: No"
+to german "Punktebeeinflussung: Nein";
+
+translate "Affect Score: Yes"
+to german "Punktebeeinflussung: Ja";
+
+translate "Boost Judging Skill: No"
+to german "Erhöhung Wertungsfähigkeit: Nein";
+
+translate "Boost Judging Skill: Yes"
+to german "Erhöhung Wertungsfähigkeit: Ja";
+
+translate "Judgement Points: N1"
+to german "Richterpunkte: N1";
+
+translate "This O1 has no score (more judges needed.)"
+to german "O1(^tsn) O1(sn) hat keine Wertung (mehr Richter nötig.)";
+
+translate "Your average score is N1"
+to german "Deine durchschnittliche Bewertung ist N1";
+
+translate "Your standard deviation is N1"
+to german "Deine Standardabweichung ist N1";
+
+translate "Your average score is N1.N2"
+to german "Deine durchschnittliche Bewertung ist N1.N2";
+
+translate "Your standard deviation is N1.N2"
+to german "Deine Standardabweichung ist N1.N2";
+
+translate "Rate this K1 (N1)"
+to german "Bewerte mit K1 (N1)";
+
+translate "You already judged this O1. (This can sometimes happen if someone with a similar profile to yours already voted for it.)"
+to german "Du hast bereits für O1(tsn) O1(sn) gestimmt. (Das kann manchmal passieren, wenn jemand mit einem fast gleichen Profil wie Deines bereits gewählt hat.)";
+
+translate "Your judging affected the score of the O1!"
+to german "Deine Wertung wirkt sich auf O1(tsn) O1(sn) aus!";
+
+translate "You don't have enough judging experience to affect the score of the O1"
+to german "Du hast nicht genug Richtererfahrung, damit sich Deine Wertung auf O1(tsn) O1(sn) auswirkt";
+
+translate "Your judging skill has already increased as much as possible today."
+to german "Deine Richterfähigkeiten sind bereits auf die max. Steigerung für einen Tag angestiegen";
+
+translate "You increased your judging skill to N1"
+to german "Du erhöhst Deine Bewertungspunkte auf N1";
+
+translate "Your judgement is worth N1 times that of a new judge"
+to german "Deine Wertung ist das N1-fache eines neuen Richters wert";
+
+translate "Your judgement is worth N1.N2 times that of a new judge"
+to german "Deine Wertung ist das N1.N2-fache eines neuen Richters wert";
+
+
+/// Übersetzung:
+///    if (Place.JustWon) passed=", already passed";
+/// if (day==Actor.p_ScoreDay[kind]) if (actor.p_ScoreToday[kind] >= Place.MaxJudgePerDay)    MenuComment("Judging/Warning: You have judged ",Actor.p_ScoreToday[kind]," ",kind," today. Ability for today is capped.");
+/// if (Place.Power)
+///   {
+///   MenuComment("Judging/
+///
+
+translate "Warning: You have judged N1 O1 today. Ability for today is capped."
+to german "Warnung: Du hast N1 O1(pn) heute bewertet. Bewertungsmaximum für heute erreicht.";
+
+translate "You change your rating to N1."
+to german "Du änderst Deine Wertung auf N1.";
+
+translate "Registering your vote."
+to german "Registriere Deine Wertung.";
+
+translate "Rate this Poor"
+to german "Bewerte als Armselig";
+
+translate "Rate this Fair"
+to german "Bewerte als Billig";
+
+translate "Rate this Good"
+to german "Bewerte als Gut";
+
+translate "Rate this Great"
+to german "Bewerte als Großartig";
+
+translate "Rate this Exceptional"
+to german "Bewerte als Außergewöhnlich";
+
+translate "Rate this Brilliant"
+to german "Bewerte als Brilliant";
+
+translate "Rate this Monumental"
+to german "Bewerte als Monumental";
+
+translate "ScoreMule: U1 rated O1 owned by U2 as Poor"
+to german "Wertungsmeldung: U1(name) bewertet O1(dsa) O1(sn), im Eigentum von U2(name) als ärmlich";
+
+translate "Standard Deviation on O1 is N1 (U1)"
+to german "Standardabweichung O1(dsg) O1(sn) ist N1 (U1(name))";
+
+translate "You change your rating to K1."
+to german "Du änderst Deine Bewertung auf K1.";
+
+translate "Your judging affected the score of the O1!"
+to german "Deine Bewertung beeinflußt die Punktzahl O1(dsg) O1(sn)!";
+
+translate "Your judging score remained the same because you or someone like you has already judged this O1."
+to german "Deine Wertungspunktzahl bleibt gleich, weil jemand Ähnliches bereits O1(tsa) O1(sn) bewertet hat.";
+
+translate "You increased your judging skill to N1.N2"
+to german "Du erhöhst Deine Wertungspunktzahl auf N1.N2";
+
+translate "You increased your judging skill to N1"
+to german "Du erhöhst Deine Wertungspunktzahl auf N1";
+
+///Übersetzen
+///"Score for ",GetType(Place),": ",score," Judges: ",Place.Judges," Judgment Points: ",Place.Power," at ",Place->LocStr()," Username: ",Place.UserName," Designers: ",Place.Designers,Place.JustWon ? " (Just Won)" : "");
+///
+
+translate "No Score. No experienced judges. (U1 at N1 N2)"
+to german "Keine Wertung. Keine erfahrenen Richter. (U1(name) bei N1 N2)";
+
+translate "No Score. Only N1 judges. (U1 at N2 N3)"
+to german "Keine Wertung. Nur N1 Richter. (U1(name) bei N2 N3)";
+
+///Übersetzen
+///"Quickscore: Raw:",i," Skill:",skill," Count:",count," Total:",total," Squared:",squared," Average10k:",average10k," deviance100:",deviance100," (",Place.username,")")
+///
+
+translate "No winner: K1"
+to german "Kein Gewinner: K1";

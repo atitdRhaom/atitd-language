@@ -1,0 +1,82 @@
+module spiritarena_fre;
+
+translate ConflictShrine to french masculine
+{
+ns "sanctuaire de Conflit"; np "sanctuaires de Conflit";
+}
+
+translate "Conflict Shrine Construction"
+to french "construction de sanctuaires de Conflit";
+
+translate "Shrine of Conflict"
+to french "Sanctuaire de conflit";
+
+translate "Astrally project your spirit to a ghostly arena, where you can duel with distant players."
+to french "Projetez votre esprit sur le plan astral pour rejoindre une arène étherée afin de combattre des joueurs à distance.";
+
+translate "Send your Spirit to the Arena of K1"
+to french "Projetez votre esrit dans l'arène de K1";
+
+translate "The spirit arena controller is not active, contact egenesis."
+to french "Les commandes de l'arène spirituelle ne sont pas encore actives. Contactez Alchemic Dream.";
+
+translate "To use a Conflict Shrine, you must be a paid citizen of Egypt."
+to french "Pour utiliser un sanctuaire de Conflit, vous devez être un citoyen d'égypte et posséder un compte payant.";
+
+translate "You attempt to focus your mind on the Arena of K1"
+to french "Vous tentez de concentrer votre esprit sur l'arène de K1";
+
+translate "You attempt to focus your mind on the Arena of K1..."
+to french "Vous tentez de concentrer votre esprit sur l'arène de K1...";
+
+translate "You attempt to focus your mind on the Arena..."
+to french "Vous tentez de concentrer votre esprit sur l'arène...";
+
+translate "Send my Spirit back to Egypt"
+to french "Renvoyer mon esprit en égypte";
+
+translate "You sense your spirit returning to your body..."
+to french "Vous sentez votre esprit réintégrer votre corps...";
+
+translate "You could not concentrate any longer. You had to return to your body."
+to french "Impossible de vous concentrer plus longtemps. Vous avez dû retourner dans votre corps.";
+
+translate "You cannot focus your mind on the Arena of K1, it must be too crowded."
+to french "Impossible de vous concentrer sur l'arène de K1. Elle doit être surpeuplée.";
+
+translate ConflictShrineConstruction to french feminine
+{
+	ns "Constr. de sanct. du conflit"; np "Constr. de sanct. du conflit";
+	}
+
+translate "You attempt to focus your mind on the Welcoming Island"
+to french "Vous tentez de vous concentrer sur l'île de Bienvenue";
+
+translate "Send your spirit to K1"
+to french "Envoyez votre esprit rencontrer K1";
+
+translate "To use a Conflict Shrine, you must be a paid citizen of Egypt."
+to french "Pour utiliser un Sanctuaire du Conflit, vous devez posséder un compte payant.";
+
+translate "Travel to Wepwawet's K1 Arena Cost:  N1 O1"
+to french "Vous rendre dans l'arène Wepwawet de K1 vous coûtera : N1 O1(N1?np:ns)";
+
+translate "Travel to Wepawet's Arena"
+to french "Voyagez vers l'arène de Wepawet";
+
+translate "Seasons"
+to french "Saisons";
+
+translate "Not signed up"
+to french "Non enregistré";
+
+translate "O1 (Not signed up)"
+to french "O1(ns) (Non enregistré)";
+translate "O1 (Signed up)"
+to french "O1(ns) (Enregistré)";
+
+translate "Signups"
+to french "Enregistrements";
+
+translate "You don't have N1 O1."
+to french "Vous n'avez pas N1 O1(N1?np:ns).";

@@ -1,0 +1,163 @@
+module jugeable_fre;
+
+translate "Poor"
+to french "Mauvais";
+
+translate "Fair"
+to french "Honnête";
+
+translate "Good"
+to french "Bon";
+
+translate "Great"
+to french "Excellent";
+
+translate "Exceptional"
+to french "Exceptionnel";
+
+translate "Brilliant"
+to french "Fantastique";
+
+translate "Monumental"
+to french "Monumental";
+
+translate "Rate Later"
+to french "Jugez plus tard";
+
+translate "Judging"
+to french "Estimation";
+
+translate "Answers:"
+to french "Réponses:";
+
+translate "Clear scores on this O1"
+to french "Réinitialiser les scores sur O1(cns) O1(ns)";
+
+translate "Score for this O1"
+to french "Scores de O1(cns) O1(ns)";
+
+translate "Examine Judging History"
+to french "Voir l'historique des estimations";
+
+translate "Examining..."
+to french "Analyse...";
+
+translate "Visitors: N1" 
+to french "Visiteurs: N1";
+
+translate "Players: N1"
+to french "Joueurs: N1";
+
+translate "Judgement Points: N1"
+to french "Points de jugement : N1";
+
+translate "This O1 has no score (more judges needed.)"
+to french "O1(^cns) O1(ns) n'a pas été voté. Il faut plus de juges.";
+
+translate "You change your rating to N1."
+to french "Vous modifiez votre note : N1.";
+
+translate "Registering your vote."
+to french "Enregistrement de votre voix.";
+
+translate "Your judgement is worth N1 times that of a new judge"
+to french "Votre estimation vaut N1 fois celui d'un nouveau juge.";
+
+translate "Score is N1 (N2 judgesN3)"
+to french "Le score est N1 (N2 juges N3) ";
+
+translate ", Open for "
+to french ", ouvert depuis";
+
+translate ", already passed"
+to french ", déjà passé";
+
+translate "Rate this K1 (N1)"
+to french "Estimer ce K1 (N1)";
+
+translate "You already judged this O1. (This can sometimes happen if someone with a similar profile to yours already voted for it.)"
+to french "Vous avez déjà jugé O1(cns) O1(ns). (Cela peut parfois se produire quand quelqu'un vous ressemblant a précédemment voter cette oeuvre.)";
+
+translate "Your judging affected the score of the O1!"
+to french "Votre estimation affecte le score de O1(cns) O1(ns)!";
+
+translate "You don't have enough judging experience to affect the score of the O1"
+to french "Vous n'êtes pas assez expérimenté pour pouvoir affecter le score de O1(cns) (O1(ns)";
+
+translate "Warning: You have judged N1 O1 today. Ability for today is capped."
+to french "Attention: Vous avez juger N1 O1(N1?np:ns) aujourd'hui. Vous ne pouvez plus voter.";
+
+translate "You change your rating to N1."
+to french "Vous modifiez votre estimation de N1.";
+
+translate "Registering your vote."
+to french "Prise en compte de votre estimation.";
+
+translate "Poor"
+to french "Mauvais";
+
+translate "Fair"
+to french "Honnête";
+
+translate "Good"
+to french "Bon";
+
+translate "Great"
+to french "Excellent";
+
+translate "Exceptional"
+to french "Exceptionnel";
+
+translate "Brilliant"
+to french "Fantastique";
+
+translate "Monumental"
+to french "Monumental";
+
+translate "Rate this Poor"
+to french "Evaluer: Mauvais ";
+
+translate "Rate this Fair"
+to french "Evaluer: Honnête";
+
+translate "Rate this Good"
+to french "Evaluer: Bon";
+
+translate "Rate this Great"
+to french "Evaluer: Excellent";
+
+translate "Rate this Exceptional"
+to french "Evaluer: Exceptionnel";
+
+translate "Rate this Brilliant"
+to french "Evaluer: Fantastique";
+
+translate "Rate this Monumental"
+to french "Evaluer: Monumental";
+
+translate "ScoreMule: U1 rated O1 owned by U2 as Poor"
+to french "ScoreMule: U1(name) a estimé O1(lns) O1(ns) de U2(name) Mauvais";
+
+translate "You change your rating to K1."
+to french "Vous changez d'avis et évaluez cette oeuvre K1.";
+
+translate "Your judging affected the score of the O1!"
+to french "Votre estimation affecte le score de O1(cns) O1(ns)!";
+
+translate "Your judging score remained the same because you or someone like you has already judged this O1."
+to french "Votre score de juge ne change pas car vous ou quelqu'un vous ressemblant a déjà évaluer cette oeuvre.";
+
+//translate "Standard Deviation on O1 is N1 (U1)"
+//translate "You increased your judging skill to N1.N2"
+//translate "You increased your judging skill to N1"
+
+translate "No Score. No experienced judges. (U1 at N1 N2)"
+to french "Aucun score. Aucun juge expérimenté. (U1(name) à N1 N2)";
+
+translate "No Score. Only N1 judges. (U1 at N2 N3)"
+to french "Aucun score. Seulement N1 juges. (U1(name) à N2 N3)";
+
+translate "No winner: K1"
+to french "Pas de vainqueur: K1";
+
+

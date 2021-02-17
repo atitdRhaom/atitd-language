@@ -1,0 +1,174 @@
+module home_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2007 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+
+
+translate "Build a Tent"
+to german "Baue ein Zelt";
+
+translate "To build a Tent, you need: "
+to german "Um ein Zelt zu bauen benötigst du: ";
+
+translate "Homes are special, you may not build more than one. If you wish to move you must first tear down current home, located at N1 N2"
+to german "Häuser sind etwas Besonderes, du darfst nicht mehr als Eines bauen. Solltest du umziehen wollen, musst du zuerst dein bisheriges Zuhause abreißen. Es befindet sich bei N1 N2";
+
+translate "Build a Tent"
+to german "Baue ein Zelt";
+
+translate "To build a Tent, you need:"
+to german "Um ein Zelt zu bauen benötigst du:";
+
+translate "Housing"
+to german "Hausbau";
+
+translate "Small House"
+to german "Kleines Haus";
+
+translate "Termite-resistant boards for Structure"
+to german "Termitenresistente Bretter für die Struktur";
+
+translate "Rotproof boards for Structure"
+to german "Moderbeständige Bretter für die Struktur";
+
+translate "Fireproof boards for Structure"
+to german "Feuerfeste Bretter für die Struktur";
+
+translate "Nails for structure"
+to german "Nägel für die Struktur";
+
+translate "Oyster Shell Marble for Accents"
+to german "Austernmarmor für Akzente";
+
+translate "Linen for Interior"
+to german "Leinen für Innenausbau";
+
+translate "Rope for Framing"
+to german "Seil als Rahmen";
+
+translate "Concrete for Foundation"
+to german "Beton als Fundament";
+translate "Concrete for Foundataion"
+to german "Beton als Fundament";
+
+translate "Ivory Paint for Interiors"
+to german "Farbe: Elfenbein, für den Innenausbau";
+
+translate "To build a Small House you need:"
+to german "Um ein Kleines Haus zu bauen benötigst du:";
+
+translate "Medium House"
+to german "Mittleres Haus";
+
+translate "Rigid Rotproof Boards for structure"
+to german "Starre, moderbeständige Bretter für die Struktur";
+
+translate "Glossy White Boards for decor"
+to german "Glänzende, weiße Bretter als Dekor";
+
+translate "Glossy Blonde Boards for decor"
+to german "Glänzende, helle Bretter als Dekor";
+
+translate "Glossy Black Boards for decor"
+to german "Glänzende, schwarze Bretter als Dekor";
+
+translate "White Travertine for foyer"
+to german "Weißer Travertin für das Foyer";
+
+translate "Canary Granite for accents"
+to german "Kanarischer Granit für Akzente";
+
+translate "Light Green Paint"
+to german "Farbe: Hellgrün";
+
+translate "Light Blue Paint"
+to german "Farbe: Hellblau";
+
+translate "Golden Rod Paint"
+to german "Farbe: Goldrute";
+
+translate "To build a Medium House you need:"
+to german "Um ein Mittleres Haus zu bauen benötigst du:";
+
+translate "Large House"
+to german "Großes Haus";
+
+translate "Rigid Rotproof Boards for upper structure"
+to german "Starre, moderbeständige Bretter für die Dachstruktur";
+
+translate "Rigid Fireproof Boards for living area structure"
+to german "Starre, feuerfeste Bretter für den Wohnbereich";
+
+translate "Rigid Termite Resistant Boards for lower structure"
+to german "Starre, termitenresistente Bretter für die Bodenstruktur";
+
+translate "Hard Glossy White Boards for decor"
+to german "Harte, glänzende, weiße Bretter als Dekor";
+
+translate "Hard Glossy Blonde Boards for decor"
+to german "Harte, glänzende, helle Bretter als Dekor";
+
+translate "Hard Glossy Black Boards for decor"
+to german "Harte, glänzende, schwarze Bretter als Dekor";
+
+translate "Soft Nontoxic boards for living area finish"
+to german "Weiche, ungiftige Bretter für den Innenausbau des Wohnbereiches";
+
+translate "White Travertine for foyer"
+to german "Weißer Travertin für den Eingangsbereich";
+
+translate "Blue Pearl Marble for trim"
+to german "Blauer Marmor zur Verzierung";
+
+translate "Hornet's Wing Granite for window hilights"
+to german "Hornissenflügelgranit für die Fensterverzierung";
+
+translate "Mountain Marble for hallways"
+to german "Bergmarmor für den Hausflur";
+
+translate "Island Blue Marble, just to show off"
+to german "Blauer Inselmarmor, nur zum Prahlen";
+
+translate "Chartreuse Paint"
+to german "Farbe: Gelbgrün";
+
+translate "Aquamarine Paint"
+to german "Farbe: Aquamarin";
+
+translate "Rosy Brown Paint"
+to german "Farben: Altrosa";
+
+translate "Spring Green Paint"
+to german "Farben: Frühlingsgrün";
+
+translate "Tomato Paint"
+to german "Farben: Tomatenrot";
+
+translate "Cornflower Blue Raeli Tiles"
+to german "Raelikacheln: Kornblumenblau";
+
+translate "Dark Slate Grey Raeli Tiles"
+to german "Raelikacheln: Dunkles Schiefergrau";
+
+translate "Gainsboro Raeli Tiles"
+to german "Raelikacheln: Gainsboro";
+
+translate "Linen Raeli Tiles"
+to german "Farben:Leinenfarben";
+
+translate "Royal Blue Raeli Tiles"
+to german "Raelikacheln: Königsblau";
+
+translate "Ivory Raeli Tiles"
+to german "Raelikacheln: Elfenbein";
+
+translate "Black Raeli Tiles"
+to german "Raelikacheln: Schwarz";
+
+translate "To build a Large House you need:"
+to german "Um ein Großes Haus zu bauen benötigst du:";

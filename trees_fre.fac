@@ -1,0 +1,186 @@
+module trees_fre;
+
+translate Axe to french feminine
+{
+  ns "Hache"; np "Haches";
+}
+translate Thorns to french femininecollective
+{
+  ns "Epine"; np "Epines";
+}
+translate CactusSap to french feminine
+{
+  ns "Sève de cactus"; np "Sève de cactus";
+}
+translate Dates to french feminine
+{
+  ns "Datte"; np "Dattes";
+}
+
+translate FineSteelAxe to french feminine
+{
+  ns "Hache d'acier" ; np "Haches d'acier";
+}
+translate LawsonsFalseCypress to french masculine
+{
+ns "Cyprès de Lawson"; np "Cyprès de Lawson";
+}
+translate YoungOleanderWithBlossoms to french masculine
+{
+ns "Laurier-rose en fleurs"; np "Lauriers-roses en fleurs";
+}
+translate NorwaySpruce to french masculine
+{
+ns "Sapin de Norvège"; np "Sapins de Norvège";
+}
+translate SwedenSpruce to french masculine
+{
+ns "Sapin de Suède"; np "Sapins de Suède";
+}
+translate OakTree to french masculine
+{
+ns "Chêne"; np "Chênes";
+}
+translate WinterBeech to french masculine
+{
+ns "Hêtre"; np "Hêtres";
+}
+translate YoungSweetBirch to french masculine
+{
+ns "Jeune bouleau"; np "Jeunes bouleaux";
+}
+translate YoungAlder to french masculine
+{
+ns "Jeune aulne"; np "Jeunes aulnes";
+}
+translate YoungLombardyPoplar to french masculine
+{
+ns "Jeune peuplier"; np "Jeunes peupliers";
+}
+translate PalmTree to french masculine
+{
+ns "Palmier"; np "Palmiers";
+}
+translate OldHandsCactus to french masculine
+{
+ns "Grand cactus"; np "Grands cactus";
+}
+translate BarrelCactus to french masculine
+{
+ns "Petit cactus"; np "Petits cactus";
+}
+translate RoyalCactus to french masculine
+{
+ns "Cactus royal"; np "Cactus royaux";
+}
+
+translate "axe"
+to french "Hache";
+
+translate "Thorns"
+to french "Épines";
+
+translate "Turn this Norway Spruce into a Sweden Spruce"
+to french "Changer ce sapin de Norvège en sapin de Suède";
+
+translate "This bush gives thorns"
+to french "Ce buisson donne des épines";
+
+translate "All the thorns have been picked clean"
+to french "Toutes les épines ont été récoltées";
+
+translate "Gather thorns from this bush"
+to french "Prendre des épines sur ce buisson";
+
+translate "This o1 gives at least N1 wood"
+to French "o1(ns) donne au moins N1 bois";
+
+translate "Gathering thorns..."
+to french "Récolte d'épines...";
+
+translate "Someone got to the thorns first."
+to french "Quelqu'un a pris les épines avant vous.";
+
+translate "You were able to gather N1 thorns."
+to french "Vous avez récolté N1 épines.";
+
+translate "Fertilize this tree with Saltpeter"
+to french "Fertiliser l'arbre avec du salpêtre";
+translate "Fertilize this tree with some Saltpeter"
+to french "Fertiliser l'arbre avec du salpêtre";
+
+translate "More O1 will be available in N1."
+to french "Vous aurez plus de O1(ns) dans N1.";
+
+translate "Gathered wood where N1 is N2"
+to french "Couper du bois là où NA est N2.";
+
+translate "The tree will have more wood available in N1 seconds."
+to french "L'arbre donnera du bois dans N1 secondes.";
+
+translate "Gather o1 from o2"
+to french "Couper du o1(ns) de o2(cns)";
+
+translate "This tree has no wood for N1 seconds."
+to french "Vous devez attendre N1 secondes avant de couper à nouveau du bois.";
+
+translate "This is a palm tree"
+to french "C'est un palmier";
+
+translate "This palm tree has some sweet juicy dates!"
+to french "Ce palmier porte des dattes juteuses !";
+
+translate "This tree has some tiny dates, just starting to grow"
+to french "Vous remarquez quelques petites dattes qui viennent de pousser";
+
+translate "Cactus sap starts to seep out of the wound, come back later to collect it"
+to french "La sève commence à s'écouler de l'écorchure, revenez plus tard pour la ramasser";
+
+translate "-"
+to french "-";
+translate "*"
+to french "*";
+
+translate "You don't have any Saltpeter!"
+to french "Vous n'avez pas de salpêtre !";
+
+translate "Dates take between one and two hours to grow. Check the tree occasionally."
+to french "Les dattes mettent entre une et deux heures à pousser. Vérifiez de temps en temps.";
+
+translate "Harvest dates from this tree"
+to french "Ceuillir les dattes de cet arbre";
+
+translate "This O1 has accumulated N1 drops of Cactus Sap."
+to french "Ce O1(ns) a accumulé N1 gouttes de sève.";
+
+translate "You injure the cactus further, more sap starts to seep out"
+to french "Vous avez blessé ce cactus, plus de sève commence à couler";
+
+translate "You have collected a cactus sap." to french "Vous avez récolté de la sève de cactus";
+
+
+translate "-"
+to french "-";
+translate "*"
+to french "*";
+
+translate "cactus sap"
+to french "sève de cactus";
+
+translate "Collect the sap and Injure the Cactus"
+to french "Récolter la sève et blesser le cactus";
+
+translate "Collect the sap"
+to french "Récolter la sève";
+
+translate "The cactus already has sap oozing from it. It takes at least a minute for enough to bleed out to gather."
+to french "De la sève est déjà en train de couler du cactus. Il faut au moins une minute avant de pouvoir récolté ce qui est sorti.";
+
+translate "Sap starts oozing from the cactus. Cactus sap will be produced over the next few minutes."
+to french "La sève commence à couler du cactus. Vous en aurez assez pour la récolter dans quelques minutes.";
+
+translate "Injure the cactus"
+to french "Blesser le cactus pour faire couler la sève";
+
+translate "How odd - you find a nest with a chicken egg in the tree. You delicately remove the beautiful egg."
+to french "Comme c'est étrange - vous découvrez un nid dans l'arbre, avec un oeuf de poule. Vous prenez l'oeuf en faisant attention à ne pas le casser.";

@@ -1,0 +1,327 @@
+module glider_fre;
+
+translate GliderLauncher to french masculine
+{
+ns "rampe de lancement Raeli"; np "rampes de lancement Raeli";
+}
+
+translate GliderController to french masculine
+{
+ns "Épreuve de vol"; np "Épreuve de vol";
+}
+
+translate "Build a Raeli Gliderport, load it with a single glider, and perform launches in three directions."
+to french "Construisez une rampe de lancement pour planeur, chargez là avec un planeur, et effectuez des lancements dans trois directions";
+
+translate "When you work on a glider, even a little bit, it puts your signature on the glider.  If you want credit in the glider competition, the glider must be signed by you alone.  You would be wise to keep your guildmate's signatures off your design."
+to french "Lorsque vous travaillez à la conception d'un planeur, ne serait-ce qu'un petit peu, vous signez le planeur dans son ensemble. Si vous voulez être nommé dans un concours, vous devez avoir construit votre planeur sans l'aide de personne. Il est donc conseillé de ne pas demander aux membres de votre guilde de vous aider.";
+
+translate "Piece signed by: U1"
+to french "Réalisé par : U1(name)";
+
+translate "Done Editing, enable Judging"
+to french "Modifications terminées, jugement possible";
+
+translate "Enable Editing, Abort Judging"
+to french "Permettre les modifications, Jugements interrompus";
+
+translate "Please wait..."
+to french "Veuillez patienter...";
+
+translate "Cruising Altitude"
+to french "Altitude de croisière";
+
+translate "Cruising Altitude:"
+to french "Altitude de croisière :";
+
+translate "Generally, the glider tries to hug the ground.  If you lower this slider, the glider will fly very low, if you raise it, the glider will fly a little higher.  When the glider is very close to the ground, it has to maneuver to avoid even the smallest bumps and divots.  When the glider is higher, it can see farther ahead, and it can respond sooner to looming obstacles."
+to french "Habituellement, le planeur tend à rester près du sol. Si vous baissez ce paramètre, le planeur volera à très basse altitude. Si vous l'augmentez, le planeur volera un peu plus haut. Lorsque le planeur est très près du sol, il doit manoeuvrer pour éviter les petites bosses du terrain. Lorsqu'il vole plus haut, il peut voir à plus grande distance, et il est plus facile de manoeuvrer pour éviter les obstacles.";
+
+translate "Tendency to Dive to Cruising Altitude"
+to french "Tendance à descendre à l'altitude de croisière";
+
+translate "Tendency to Dive to Cruising Altitude:"
+to french "Tendance à descendre à l'altitude de croisière :";
+
+translate "If the glider has just executed a maneuver that left it high in the air, it will try to swoop back down towards its normal cruising altitude.  If this slider is low, the swoop downwards will be slow and gradual.  If this slider is very high, the swoop downwards will be dramatic, and sometimes, the glider will even overshoot, forcing it to take drastic measures to avoid crashing."
+to french "Si le planeur vient d'exécuter une manoeuvre et qu'il se retrouve haut dans les airs, il tentera de revenir à son altitude de croisière prédéterminée. Si ce réglage est faible, la redescente sera lente et progressive. Si ce paramètre est très élevé, la redescente pourra être dramatique, car parfois la trajectoire sera mal calculée, et il devra prendre des mesures d'urgence pour éviter de s'écraser au sol.";
+
+translate "Tendency to Roll when Upside Down"
+to french "Tendance à se redresser lorsqu'il est retourné";
+
+translate "Tendency to Roll when Upside Down:"
+to french "Tendance à se redresser lorsqu'il est retourné :";
+
+translate "If the glider has to take a drastic evasive maneuver, it may find itself upside down afterwards.  If this slider is high, the glider will tend to roll in order to correct itself.  If this slider is low, the glider will tend to loop in order to correct itself."
+to french "Si le planeur doit accomplir une manoeuvre d'évitement en urgence, il peut se retrouver retourné. Si ce réglage est élevé, le planeur tentera de se retourner pour retrouver une position classique. Si ce réglage est bas, le planeur accomplira une boucle pour se redresser.";
+
+translate "Tendency to Turn when Flying Tilted"
+to french "Tendance à virer lorsque le planeur penche";
+
+translate "Tendency to Turn when Flying Tilted:"
+to french "Tendance à virer lorsque le planeur penche :";
+
+translate "If an obstacle appears to the left of the glider, the glider will tilt to the right, in order to avoid the obstacle.  This tilting may cause the glider to veer off toward the right.  When this slider is high, the glider veers off a lot.  When this slider is low, the glider keeps going in a straight line despite the tilt."
+to french "Lorsqu'un obstacle se trouve à gauche du planeur, il penche vers la droite pour l'éviter. Cette manoeuvre peut entraîner une déviation vers la droite. Lorsque ce réglage est élevé, le planeur dévie beaucoup. Lorsqu'il est bas, le planeur garde le cap malgré la manoeuvre.";
+
+translate "Tendency to Pull up to Avoid Obstacles"
+to french "Tendance à se redresser pour éviter les obstacles ";
+
+translate "Tendency to Pull up to Avoid Obstacles:"
+to french "Tendance à se redresser pour éviter les obstacles :";
+
+translate "If the glider is headed straight toward an obstacle, it will pull up.  When this slider is low, the glider tends to underreact, barely clearing the top of the obstacle.  When this slider is high, the glider tends to overreact, pulling up way too far, and sometimes even into a loop."
+to french "Si le planeur fonce droit sur un obstacle, il se redresse. Lorsque ce réglage est bas, le planeur tend à très peu réagir, et à frôler le haut de l'obstacle. Losqu'il est élevé, le planeur réagit très violemment à la présence d'un obstacle, et peut même parfois faire une boucle.";
+
+translate "Tendency to Track Shape of Ground"
+to french "Tendance à suivre le relief du sol";
+
+translate "Tendency to Track Shape of Ground:"
+to french "Tendance à suivre le relief du sol :";
+
+translate "The glider has a tendency to follow the contour of the ground.  If this slider is too high, the glider sticks to the ground like glue, never letting go.  Unfortunately, this prevents interesting loops and rolls.  If this slider is too low, the glider flies off into the blue at the drop of a hat.  Unfortunately, the result is often a crash as the glider loops wildly."
+to french "Le planeur tend à suivre le relief au sol. Si le réglage est trop haut, le planeur suit le sol comme s'il y était collé, et n'en dévie jamais. Malheureusement, cela empêche les manoeuvres intéressantes. Si ce réglage est trop faible, le planeur part dans les cieux au moindre accident de terrain. Malheureusement, ceci entraîne souvent des accidents, car le planeur devient alors incontrôlable.";
+
+translate "Ability to Make Tight Rolls"
+to french "Capacité à faire des tonneaux";
+
+translate "Ability to Make Tight Rolls:"
+to french "Capacité à faire des tonneaux :";
+
+translate "Occasionally, the glider will tilt hard if an obstacle appears suddenly to one side.  This may send the glider into a roll.  When this slider is very high, the roll may be very tight.  If this slider is lower, the glider is prevented from overly-tight rolls."
+to french "Parfois, le planeur réagit fortement si un obstacle se présente brusquement sur un côté. Ceci peut le contraindre à faire un tonneau. Lorsque ce réglage est très élevé, le planeur effectue un tonneau très souvent. Lorsqu'il est bas, le planeur tend à faire peu de tonneaux.";
+
+translate "Ability to Make Tight Loops"
+to french "Capacité à faire des boucles";
+
+translate "Ability to Make Tight Loops:"
+to french "Capacité à faire des boucles :";
+
+translate "Occasionally, the glider will pull up very hard if an obstacle comes up suddenly.  This may send the glider into a loop.  When this slider is very high, the loop may be very tight.  If this slider is lower, the glider is prevented from overly-tight loops."
+to french "Parfois, le planeur se redresse brutalement si un obstacle se présente à lui. Ceci peut lui faire faire une boucle. Lorsque ce réglage est très haut, la boucle est très serrée. Lorsque le paramètre est bas, le planeur ne fait pas de boucles.";
+
+translate "Tweak the Gliders"
+to french "Régler les planeurs";
+
+translate "Tweak the Glider:"
+to french "Régler le planeur:";
+
+translate "Edit Control Pylons"
+to french "Modifier les pylônes de contrôle";
+
+translate "Edit Control Pylons:"
+to french "Modifier les pylônes de contrôle:";
+
+translate "Add me as a Designer"
+to french "M'ajouter comme concepteur";
+
+translate "If you put your name on this glider, it will have multiple signatures, and it will not be eligible for the glider competition. Are you sure you want to do this?"
+to french "Si vous mettez votre nom sur ce planeur, il sera signé de plusieurs personnes et ne pourra pas participer au concours. Voulez-vous vraiment faire cela ?";
+
+translate "Start a New Design"
+to french "Nouveau projet";
+
+translate "Are you sure you want to reset everything?"
+to french "Voulez-vous tout recommencer à zéro ?";
+
+translate "Aborted."
+to french "Annulé.";
+
+translate "You are not on the designer list. You must add yourself before editing the glider."
+to french "Vous n'êtes pas sur la liste des concepteurs. Vous devez vous inscrire avant de faire une modification.";
+
+translate "You must select 'show all' before editing pylons."
+to french "Vous devez choisir 'tout voir' avant de modifier les pylônes.";
+
+translate "Too many control pylons already."
+to french "Il y a déjà trop de pylônes de contrôle.";
+
+translate "No pylon nearby"
+to french "Pas de pylône à proximité";
+
+translate "Nearest Pylon: "
+to french "Pylône le plus proche : ";
+
+translate "Nearest Pylon: N1 N2"
+to french "Pylône le plus proche : N1 N2";
+
+translate "none"
+to french "aucun";
+
+translate "New Pylon"
+to french "Nouveau pylône";
+
+translate "Delete"
+to french "Effacer";
+
+translate "Show All"
+to french "Tout voir";
+
+translate "Hide All"
+to french "Tout cacher";
+
+translate "Launch a Glider"
+to french "Lancer un planeur";
+
+translate "Smoke Hue"
+to french "Intensité de la fumée";
+
+translate "Smoke Lightness"
+to french "Teinte de la fumée";
+
+translate "Disable Smoke"
+to french "Désactiver la fumée";
+
+translate "Enable Smoke"
+to french "Activer la fumée";
+
+translate "Color of the smoke trail, if present. Requires installation of a Color Kit."
+to french "Couleur de la traînée de fumée, si présente. Nécessite l'installation d'un système de coloration.";
+
+translate "Saturation of the smoke trail. For white, place the slider all the way at the left. For black, all the way right, and for a bright color, right in the middle. Requires installation of a Color Kit."
+to french "Saturation de la traînée de fumée. Pour le blanc, bouger le curseur complètement vers la gauche. Pour le noir, complètement à droite, et pour une couleur pâle directement au milieu. Nécessite l'installation d'un système de coloration.";
+
+translate "Changing the smoke hue or color requires both a smoke upgrade and a color kit."
+to french "Changer l'intensité ou la teinte de la fumée nécessite l'ajout d'un système de coloration et d'un système de fumée.";
+
+translate "Launch Sequence"
+to french "Lancement de séquence";
+
+translate "Glider N1 at K1 Angle N2"
+to french "Planeur N1 dans K1 Angle N2";
+
+translate "Set GliderMax"
+to french "nombre maximum de planeurs";
+
+translate "Number of Gliders?"
+to french "Nombre de planeurs?";
+
+translate "Toggle SmokeUpgrade (Now on : off)"
+to french "Option de fumée (Maintenant actif : inactif)";
+
+translate "You can't move the launcher this far."
+to french "Vous ne pouvez déplacer la rampe de lancement aussi loin.";
+
+translate "Start the Test of Flight"
+to french "Lancer l'épreuve de vol";
+
+translate "You sign up for the Test of Flight and learn to build a Raeli Gliderport."
+to french "Vous vous inscrivez à l'épreuve de vol et apprenez à construire une rampe de lancement Raeli";
+
+translate "Glider K1"
+to french "planeur K1";
+
+translate "Build a Raeli Gliderport"
+to french "Construisez une rampe de lancement Raeli";
+
+translate "Launch the Glider"
+to french "Lancer le planeur";
+
+translate "Change the Launch Angle of the Glider"
+to french "Changer l'angle de lancement du planeur";
+
+translate "Launch the Glider again"
+to french "Lancer le planeur une nouvelle fois";
+
+translate "Tear down your Raeli Gliderport OR do the following:"
+to french "Détruisez votre rampe de lancement Raeli OU faites ce qui suit:";
+
+translate "Open your Raeli Gliderport for Judging"
+to french "Ouvrez votre rampe de lancement Raeli aux jugements";
+
+translate "Have seven Judges rate your Raeli Gliderport"
+to french "Obtenez les votes de sept juges pour votre rampe de lancement raeli";
+
+translate "Launch"
+to french "lancement";
+
+translate "Set Launch Angle"
+to french "Régler l'angle de lancement";
+
+translate "Launch Angle, or 'none'"
+to french "Angle de lancement, ou 'aucun'";
+
+translate "Set Launch Time"
+to french "Régler le délai de lancement";
+
+translate "Launch time in seconds..."
+to french "Délai en secondes...";
+
+translate "Launch the Glider Sequence"
+to french "Lancement de la séquence de planage";
+
+translate "Wait N1 seconds for the Gliderport to reload."
+to french "La rampe de lancement sera prête dans N1 secondes.";
+
+translate "Wait K1 seconds for the Gliderport to reload."
+to french "La rampe de lancement sera prête dans K1 secondes.";
+
+translate "There must be at least a 0.20 second delay between launches."
+to french "Il doit s'écouler au moins 0.20 secondes entre les lancements.";
+
+translate "Right now, there is a limit of 5 gliders per launch sequence. This will soon be changed to 7."
+to french "Présentement, la limite est de 5 planeurs par séquence de lancement. Ca sera bientôt augmenté à 7.";
+
+translate "Launch List: "
+to french "Liste de lancement: ";
+
+translate "Push Launcher"
+to french "Déplacer la rampe de lancement";
+
+translate "Steel Sheeting (Housing)"
+to french "Revêtement d'acier (console)";
+
+translate "White Treated Boards (Glider Airframe)"
+to french "Planches de bois blanc traité (structure du planeur)";
+
+translate "Raeli Tiles of any color (Protects the mechanism)"
+to french "Tuiles Raeli de n'importe quelle couleur (Protège le mécanisme)";
+
+translate "Medium Gears (Launch Mechanism)"
+to french "Pignons moyens (entraînement du mécanisme)";
+
+translate "Steel Wire (Springs, Glider Airframe)"
+to french "Fils d'acier (Ressorts, structure du planeur)";
+
+translate "Silk Cloth (Glider Skin)"
+to french "Soie (Revêtement du planeur)";
+
+translate "To build a Raeli Gliderport you need:"
+to french "Pour construire une rampe de lancement Raeli, vous avez besoin de:";
+
+translate "Upgrade with Smoke Emitters"
+to french "Améliorer avec des émetteurs de fumée";
+
+translate "You need 100 gunpowder to upgrade the Raeli Gliderport. Only a microscopic amount is consumed per launch."
+to french "Vous avez besoin de 100 unités de poudre à canon pour améliorer la rampe. Une quantité minime est utilisée à chaque lancement.";
+
+translate "Upgrade with a Color Kit"
+to french "Améliorer avec un système de coloration";
+
+translate "You need 7 salts of all 15 types of metal."
+to french "Vous avec besoin de 7 sels de chacun des 15 types de métal.";
+
+translate "Add a glider to the launch tube"
+to french "Ajouter un planeur à la rampe de lancement";
+
+translate "To add a glider, you need:"
+to french "Pour ajouter un planeur, vous avez besoin de:";
+
+translate "Select a pile of treated boards:"
+to french "Choisir un lot de planches de bois traité.";
+
+translate "That is not treated boards."
+to french "Ce ne sont pas des planches de bois traité.";
+
+translate "That stack of treated boards does not seem correct."
+to french "Ce lot de planches de bois traité ne semble pas convenir.";
+
+translate "To add a glider, you need: "
+to french "Pour ajouter un planeur, vous avez besoin de: ";
+
+translate "Pliable White"
+to french "Pliables, blanches";
+
+translate "Glider N1 at N2.N3 Angle N4"
+to french "Planeur N1 en N2.N3 Angle N4";
+

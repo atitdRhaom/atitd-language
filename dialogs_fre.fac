@@ -1,0 +1,77 @@
+module dialogs_fre;
+
+translate "Yes"
+to french "Oui";
+
+translate "No"
+to french "Non";
+
+translate "Cancel"
+to french "Annuler";
+
+translate "close"
+to french "Fermer";
+
+translate "ALL"
+to french "TOUT";
+
+translate "No name entered"
+to french "Aucun nom saisi";
+
+translate "You must first make your selection."
+to french "Vous devez d'abord faire votre sélection.";
+
+translate "You must highlight an item from the list first"
+to french "Vous devez sélectionner un élément de la liste";
+
+translate "All previously hidden popups will now show again."
+to french "Tous les pop-up masqués précédemment seront affichés";
+
+translate "Inventory"
+to french "Inventaire";
+
+translate "EVERYTHING"
+to french "TOUT";
+
+translate "Please Wait..."
+to french "Veuillez patienter...";
+
+translate "You must be closer to the building to make a donation."
+to french "Vous devez être plus près du bâtiment pour faire un don.";
+
+translate "You must be closer to the building"
+to french "Vous devez être plus près du bâtiment";
+
+translate "Project was not correctly set up, contact developers."
+to french "Le projet n'est pas correctement paramétré. Contactez un développeur.";
+
+translate "The programmers made a mistake in the requirements list, please notify them."
+to french "Les programmeurs ont fait une erreur dans la liste des objets nécessaires. Veuillez les en avertir.";
+
+translate "Choose a specific item to donate:"
+to french "Choisissez un objet à donner :";
+
+translate "That item does not fit the description: "
+to french "Cet objet ne correspond pas à la decription : ";
+
+translate "Checking attributes..."
+to french "Vérification des attributs...";
+
+translate "Donate how many? (Max N1) (Donation will be DOUBLED)"
+to french "Quelle quantité donner ? (Max N1) (Les donations seront DOUBLEES)";
+
+translate "The building is no longer accepting materials."
+to french "Le bâtiment n'accepte plus de dons.";
+
+translate "You don't have Bringer of Knowledge."
+to french "Vous n'avez pas Fontaine de Connaissance.";
+
+translate "Donate how much O1 (Max N1)"
+to french "Donner combien de O1(np) ? (Max N1)";
+
+translate "When a University says they need water for research, they also need the jugs. Universities now have a policy whereby they won't accept a person's last water jug."
+to french "Lorsqu'une université déclare avoir besoin d'eau pour sa recherche, elle a aussi besoin des cruches pour la contenir. La politique des universités est de ne jamais accepter la dernière cruche d'eau d'un individu.";
+
+translate "Warning: When stored in chests, stronger beetles will eat weaker beetles."
+to french "Attention: Lorsqu'entreposées dans les coffres, les scarabées les plus robustes mangeront les plus faibles.";
+

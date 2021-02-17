@@ -1,0 +1,111 @@
+module rpgevent_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**            German Version: Astrid "Infinyti" Werner                   **
+//**                            2011                        	            **
+//**                                                                       **
+//***************************************************************************
+
+translate "Event Characters"
+	to german "Eventcharakter";
+
+translate "Token Types"
+	to german "Tokenarten";
+
+translate "Participation"
+	to german "Beteiligung";
+
+translate "TotalTokens"
+	to german "Token insgesamt";
+
+translate "Event Character U1 not found. Something is wrong. Call a Developer or this event will not work."
+	to german "Eventcharakter U1(name) wurde nicht gefunden, etwas stimmt nicht. Rufe einen Entwickler oder dieses Event wird nicht funktionieren.";
+
+translate "Event Character U1 already has a Language Transform. Call a Developer, or this event will not work."
+	to german "Eventcharakter U1(name) hatte schon eine Sprachveränderung. Rufe einen Entwickler oder dieses Event wird nicht funktionieren.";
+
+translate "Event Character U1 already has a Language Reverse Transform. Call a Developer, or this event will not work."
+	to german "Eventcharakter U1(name) hatte schon eine Sprachumkehrung. Rufe einen Entwickler oder dieses Event wird nicht funktionieren.";
+
+translate "Event Character U1 already appears to be in a running event. Call a Developer, or this event will not work."
+	to german "Eventcharakter U1(name) scheint bereits an einem anderen Event beteiligt zu sein. Rufe einen Entwickler oder dieses Event wird nicht funktionieren.";
+
+translate "Event Character U1 is not linked to a main character."
+	to german "Eventcharakter U1(name) ist keinem Hauptcharakter zugeordnet.";
+
+translate "U1 is not a player. Format is /rpglink <EventCharacter> <MainCharacter>"
+	to german "U1(name) ist kein Spieler. Befehl ist /rpglink <Eventcharakter><Hauptcharakter>";
+
+translate "RPG Character U1 is played by U2."
+	to german "RPG-Charakter U1(name) wird gespielt von U2(name)";
+
+translate "Player U1 plays characters U2."
+	to german "Spieler U1(name) spielt Charakter U2(name)";
+
+translate "U1 is not an RPG character, and doesn't play any other charaacters."
+	to german "U1(name) ist kein RPG-Charakter und spielt keine anderen Charaktere.";
+
+translate "U1 is not played by any other player."
+	to german "U1(name) wird nicht durch einen anderen Spieler gespielt.";
+
+translate "U1 plays N1 characters, which each must be unlinked separately: K1."
+	to german "U1(name) spielt N1 Charaktere, welche einzeln abgekoppelt werden müssen: K1";
+
+translate "Inconsistancy in RPG character U1. Call a Deveeloper."
+	to german "Unstimmigkeit bei RPG-Charakter U1(name). Rufe einen Entwickler.";
+
+translate "U1 is no longer an RPG character."
+	to german "U1(name) ist nicht länger ein RPG-Charakter.";
+
+translate "U1 is already linked to (played by) U2. To unlink, type /rpglink U3"
+	to german "U1(name) wird bereits gespielt durch U2(name). Um abzukoppeln, schreibe /rpglink U3(name)";
+
+translate "U1 is not a Player."
+	to german "U1(name) ist kein Spieler.";
+
+translate "Linked character U1 is an RPG character, played by U2. Linking can only be one level deep."
+	to german "Verlinkter Charakter U1(name) ist ein RPG-Charakter, gespielt durch U2(name).";
+
+translate "Linked RPG character U1 to main character U2."
+	to german "Verlinkter RPG-Charakter U1(name) für Hauptcharakter U2(name).";
+
+translate "You have been awarded one K1 point by U1."
+	to german "Dir wurde von U1(name) ein K1 Punkt verliehen.";
+
+translate "One K1 point has been removed by U1."
+	to german "Dir wurde von U1(name) ein K1 Punkt gestrichen.";
+
+translate "Award RP Points"
+	to german "RP Punktebelohnung";
+
+translate "Your role has begun in RPG Event K1."
+	to german "Spiele jetzt deine Rolle im RPG Event K1!";
+
+translate "Chats are being Unmangled - Use F2 for Normal"
+	to german "Chats werden auseinandergerissen - Drücke F2 für normale Einstellung";
+
+translate "Chats are shown Normally - Use F2 to Mangle"
+	to german "Chats werden normal angezeigt - Drücke F2, um sie zu trennen";
+
+translate "You have witnessed event character U1. After the event, you'll have a chance to rate K1 performance."
+	to german "Du hast Eventcharakter U1(name) miterlebt. Nach dem Event wirst du die Gelegenheit haben, K1 Darbietung zu bewerten.";
+
+translate "Should be able to rate in event K1"
+	to german "Sollte fähig sein, im Event K1 zu bewerten";
+
+translate "Should be able to rate K1"
+	to german "Sollte fähig sein, K1 zu bewerten";
+
+translate "Too much time has elapsed to rate in event K1, N1"
+	to german "Es ist zuviel Zeit vergangen, um im Event K1 N1 zu bewerten";
+
+translate "Judge Event Characters"
+	to german "Bewerte Eventcharakter";
+
+translate "Character: U1"
+	to german "Charakter: U1(name)";
+
+translate "Rate Performance "
+	to german "Bewerte Darbietung";

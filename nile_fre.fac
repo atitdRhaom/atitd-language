@@ -1,0 +1,40 @@
+module nile_fre;
+
+translate Silt to french feminine
+{
+  ns "Vase"; np "Vase";
+}
+translate papyrusplant to french masculine
+{ ns "Papyrus"; np "Papyrus"; }
+
+
+translate "Silt Generators"
+to french "Générateurs de vase";
+
+translate "Init Papyrus Generators"
+to french "Init Générateurs de papyrus";
+
+translate "Range at N1 is N2"
+to french "La distance de N1 est de N2";
+
+translate "Made a generator"
+to french "Construire un générateur";
+
+translate "Built N1 papyrus generators"
+to french "N1 générateurs de papyrus construits";
+
+translate "Papyrus: U1 grew N1 of O1 at coord N2 N3"
+to french "Papyrus : U1(name) a planté N1 O1(N1?np:ns) aux coordonnées N2 N3";
+
+translate "Papyrus: U1 failed to grow any at N1 N2"
+to french "Papyrus : U1(name) n'a pas réussi sa plantation en N1 N2";
+
+translate "Papyrus: U1 failed to grow any at N1 N2"
+to french "Papyrus: U1(name) n'a pas réussi sa plantation en N1 N2";
+
+translate "Papyrus: U1 will grow up to N1 at N2 N3"
+to french "Papyrus: U1(name) fait pousser N1 en N2 N3";
+
+translate "By order of the General Papyrus Restriction Law, passed by Surp on 9/2/2002, harvesting of papyrus is illegal, unless you have planted papyrus seeds between 10 and 30 minutes before."
+to french "Conformément à la loi générale sur la restriction de papyrus, votée par Surp le 2 septembre 2002, la récolte de papyrus est illégale sauf si vous avez planté les graines entre 10 et 30 minutes auparavant.";
+

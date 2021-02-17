@@ -1,0 +1,478 @@
+module humblepriests_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment      	           **
+//**                                                                       **
+//***************************************************************************
+
+
+
+translate HumbleAltar to german masculine
+{
+swa "ärmlicher Altar"; 
+  sn "ärmliche Altar"; 
+  pn "ärmlichen Altäre";
+}
+translate HumbleGodRitual to german neuter
+{
+swa "Demütigungsritual";
+  sn "Demütigungsritual"; pn "Demütigungsritual";
+}
+translate HumblePriestsRitual to german neuter
+{
+swa "Ritual der demütigen Priester";
+  sn "Ritual der demütigen Priester"; pn "Rituale der demütigen Priester";
+}
+translate HumbleGroup to german feminine
+{
+swa "Demütigungsgruppe";
+  sn "Demütigungsgruppe"; pn "Demütigungsgruppe";
+}
+translate SacrificialAshes to german feminine
+{
+swa "Opferasche";
+  sn "Opferasche"; sg "Opferasche"; sd "Opferasche"; sa "Opferasche";
+  pn "Opferasche"; pg "Opferasche"; pd "Opferasche"; pa "Opferasche";
+}
+translate HumbleNut to german feminine
+{
+swa "Nut";
+  sn "Nut"; pn "Nut";
+}
+translate HumbleHathor to german feminine
+{
+swa "Hathor";
+  sn "Hathor"; pn "Hathor";
+}
+translate HumbleTefnut to german feminine
+{
+swa "Tefnut";
+  sn "Tefnut"; pn "Tefnut";
+}
+translate HumbleThoth to german masculine
+{
+swa "Thoth";
+  sn "Thoth"; pn "Thoth";
+}
+translate HumbleMaat to german feminine
+{
+swa "Maat";
+  sn "Maat"; pn "Maat";
+}
+translate HumbleAmun to german masculine
+{
+swa "Amun";
+  sn "Amun"; pn "Amun";
+}
+translate HumblePtah to german masculine
+{
+swa "Ptah";
+  sn "Ptah"; pn "Ptah";
+}
+translate HumbleTayet to german feminine
+{
+swa "Tayet";
+  sn "Tayet"; pn "Tayet";
+}
+translate HumbleSobek to german masculine
+{
+swa "Sobek";
+  sn "Sobek"; pn "Sobek";
+}
+translate HumbleSet to german masculine
+{
+swa "Set";
+  sn "Set"; pn "Set";
+}
+translate HumbleHeket to german feminine
+{
+swa "Heket";
+  sn "Heket"; pn "Heket";
+}
+translate HumbleGeb to german masculine
+{
+swa "Geb";
+  sn "Geb"; pn "Geb";
+}
+
+translate "Principles of the Humble Priests will..."
+to german "Die Prinzipien der demütigen Priester wird...";
+
+translate "You have completed Principles of the Humble Priests."
+to german "Du hast die Prinzipien der demütigen Priester gemeistert.";
+
+translate "Set Altar Type"
+to german "Altarart einstellen";
+
+translate "Priests may humble themselves to O1 at this altar."
+to german "Priester dürfen sich vor O1(sn) an diesem Altar auf die Knie werfen.";
+
+
+translate "Humble yourself before five of twelve gods. The faithful will not choose their gods - rather, the gods will choose them. Begin by performing a Ritual of Humility, by yourself, at a common altar. Place candles on the left and right pillars, signifying enlightenment. Place a small diamond on the left focus to provide clarity, and a jug of water on the right focus, showing purity of spirit. Light the candles in the order placed. Further instruction will come to those enlightened."
+to german "\n\n\nFalle vor fünf von zwölf Göttern auf die Knie. Die Gläubigen suchen sich nicht ihre Götter aus - die Götter selbst tun dies. Beginne das Ritual durch Bezeugung deiner Demut an einem gewöhnlichen Altar. \nStelle Kerzen auf die linke und rechte Säule des Altars, um Erleuchtung darzustellen. \nLege als Synonym für die Reinheit einen kleinen Diamanten in die linke und stelle einen Krug Wasser auf die rechte Schale, als Zeichen der reinen Seele. \nEntzünde die Kerzen in der Reihenfolge, wie du sie aufgestellt hast. \nWeitere Anweisungen erhältst du im Anschluss.\n";
+
+translate "Test of the Humble Priests"
+to german "Test der demütigen Priester";
+
+translate "The gods have not yet called to you. Perhaps completing the Ritual of Enlightenment would garner their attention."
+to german "Die Götter haben noch nicht zu dir gesprochen. Möglicherweise würde das Beenden des Rituals der Erleuchtung ihre Aufmerksamkeit erregen.";
+
+translate "The Test of the Humble Priests. These gods have called to you:\n"
+to german "Der Test der demütigen Priester. Diese Gottheiten haben Dich gerufen:\n";
+
+translate "You are in a Devotional Group to O1, along with K1.\n"
+to german "Du bist in der frommen Anhängerschaft von O1(sn), gemeinsam mit K1.\n";
+
+translate "U1 Meditated"
+to german "U1(name) hat meditiert";
+
+translate "A fleeting vision of gods, calling to you. The vision is cloudy - perhaps if you were to sign up for the Test of the Humble Priests, the gods would reveal themselves more readily."
+to german "Du hast eine flüchtige Vision von Göttern, die Dich rufen. Die Vision ist umwölkt - möglicheweise würden sie sich dir deutlicher offenbaren, wenn Du den Test der demütigen Priester starten würdest.";
+
+translate "A vision! Twelve gods, surrounding you. Five step forward: K1."
+to german "Eine Vision! zwölf Götter, die Dich umkreisen. Fünf Schritte vorwärts: K1.";
+
+translate "Form a Devotional Group"
+to german "Bilde eine fromme Anhängerschaft";
+
+translate "Group formed for "
+to german "Anhängerschaft gebildet für ";
+
+translate "Disband the devotional group for O1"
+to german "Löse die fromme Anhängerschaft für O1(sn) auf";
+
+translate "Really disband this group consisting of K1?"
+to german "Möchtest du wirklich diese Anhängerschaft, aus K1 bestehend, auflösen?";
+
+translate "U1 has disbanded your Devotional Group to O1."
+to german "U1(name) hat eure fromme Anhängerschaft von O1(sn) aufgelöst.";
+
+translate "Ask to join Devotional Group for O1"
+to german "Frage um Aufnahme in die fromme Anhängerschaft von O1(sn) nach";
+
+translate "Already five members in that Devotional Group."
+to german "Es sind bereits fünf Mitglieder in dieser Anhängerschaft.";
+
+translate "U1 is asking to join your Devotional Group. Accept?"
+to german "U1(name) erbittet Aufnahme in eure fromme Anhängerschaft. Akzeptieren?";
+
+translate "U1 denied your request."
+to german "U1(name) lehnt deine Anfrage ab.";
+
+translate "You have joined a Devotional Group for O1."
+to german "Du trittst der frommen Anhängerschaft von O1(sn) bei.";
+
+translate "U1 has joined your devotional group."
+to german "U1(name) ist eurer Anhängerschaft beigetreten.";
+
+translate "O1 has called to you, the N1 humble priest!\n    First Priest lights the Flame of Humility.\n    First Priest burns specially prepared incense.\n    First Priest completes a sacrifice at the altar, resulting in Sacrificial Ashes.\n    Second Priest completes the Ritual of Humility using the Sacrificial Ashes.\n    Third Priest performs the Emotional Devotions in order.\n    Fourth Priest crumbles Moss in a holy location.\n    Fifth priest recites a Blessing of Humility.\n\nSpecial Instructions:\n"
+to german "O1(sn) hat Dich gerufen, du bist ergebener Priester Nummer N1!\n  Priester 1 entzündet die Flamme der Erleuchtung.\n    Priester 1 verbrennt speziell präparierten Duft.\n    Priester 1 bringt dem Altar ein Opfer dar, das eine Opferasche erschafft.\n    Priester 2 vervollständigt das Ritual der Erleuchtung durch die Benutzung der Opferasche.\n    Priester 3 wirft sich vor dem Altar auf die Knie.\n    Priester 4 zerkrümelt Moos auf einer heiligen Stätte.\n    Priester fünf spricht einen Segen der Erleuchtung.\n\nBesondere Anweisungen:\n";
+
+translate "    O1 requests O2 crumbled K1.\n"
+to german "    O1(sn) verlangt O2(sn)  K1 (zerbröselt).\n";
+
+translate "    The Emotional Devotions are:\n"
+to german "    Die frommen Gesten sind:\n";
+
+translate "    The ritual of Humility is completed without assistance, as follows:\n"
+to german "    Das Ritual der Erleuchtung ist ohne Mithilfe wie folgt durchzuführen:\n";
+
+translate "        Place candles on the pillars, left to right.\n"
+to german "        Stelle von rechts nach links Kerzen auf die Säulen.\n";
+
+translate "        Place a O1 and a O2 on the foci, left to right.\n"
+to german "        Platziere O1(asa) O1(sn) auf die linke und O2(asa) O2(sn) auf die rechte Schale.\n";
+
+translate "        Light the candles, right to left, then sprinkle the Sacrificial Ashes.\n        Extinguish the candles, right to left, then Meditate.\n"
+to german "        Zünde die Kerzen von rechts nach links an, dann streue die Opferasche.\n        Lösche die Kerzen von rechts nach links aus und meditiere.\n";
+
+translate "        Extinguish the candles, right to left, then Meditate.\n"
+to german "        Lösche die Kerzen von rechts nach links aus und meditiere.\n";
+
+translate "    O1 requests K1.\n"
+to german "    O1(sn) verlangt:K1.\n";
+
+translate "    A proper sacrifice to O1 is N1 K1.\n"
+to german "    Ein entsprechendes Opfer für O1(sn) ist: N1 K1.\n";
+
+translate "    Consult the other Priests for guidance in composing a proper Blessing.\n"
+to german "    Frage die anderen Priester um Mithilfe bei der Zusammenstellung einer gebührlichen Anbetung.\n";
+
+translate "    The Blessing should contain at least one of these phrases:\n"
+to german "    Die Anbetung muss mindestens eine dieser Abschnitte beinhalten:\n";
+
+translate "        K1\n"
+to german "        K1\n";
+
+translate "    But O1 will be insulted by any of these phrases:\n"
+to german "    Aber O1(sn) wird auf einer dieser Abläufe beleidigt reagieren:\n";
+
+translate "Commit these words to memory - visions are fleeting!\n"
+to german "Schreibe dir diese Worte hinter die Ohren - Visionen sind vergänglich!\n";
+
+translate "You will serve as the N1 humble priest."
+to german "Du wirst Priester N1 sein.";
+
+translate "Areas Required: "
+to german "Erforderliche Regionen: ";
+
+translate "Your group has failed to humble itself before O1: "
+to german "Deiner Anhängerschaft ist es nicht gelungen, vor O1(sn) zu bestehen: ";
+
+translate "Extinguish this Altar's Flame of Humility"
+to german "Lösche die Flamme der Erleuchtung auf diesem Altar.";
+
+translate "The Flame of Humility was extinguished."
+to german "Die Flamme der Erleuchtung wurde gelöscht.";
+
+translate "Light this Altar's Flame of Humility"
+to german "Zünde die Flamme der Erleuchtung auf diesem Altar an";
+
+translate "The Brazier was lit at the wrong time."
+to german "Die Kohlepfanne wurde zur falschen Zeitpunkt entzündet.";
+
+translate "When lighting the altar, you humbled yourself before the wrong god."
+to german "Du beleuchtest den Altar und huldigst dem falschen Gott.";
+
+translate "The first Humble Priest must light the Flame of Humility."
+to german "Priester 1 muss die Flamme der Erleuchtung anzünden.";
+
+translate "All priests must be present when the flame is lit."
+to german "Alle Priester müssen anwesend sein, während die Flamme brennt.";
+
+translate "The Incense was lit at the wrong time."
+to german "Der Duft wurde zum falschen Zeitpunkt entzündet.";
+
+translate "The first priest must light the Incense."
+to german "Priester 1 muss den Duft entzünden.";
+
+translate "The incense was not as O1 was expecting."
+to german "Der Duft war nicht das, was O1(sn) erwartet.";
+
+translate "Make a Sacrifice"
+to german "Mache ein Opfer";
+
+translate "Choose your sacrifice"
+to german "Wähle dein Opfer";
+
+translate "The sacrifice was made at the wrong time."
+to german "Das Opfer wurde zum falschen Zeitpunkt gemacht.";
+
+translate "The sacrifice was made at the wrong altar."
+to german "Das Opfer wurde am falschen Altar gemacht.";
+
+translate "The first Humble Priest must make the sacrifice."
+to german "Priester 1 muss die Opferung machen.";
+
+translate "The wrong sacrifice was made."
+to german "Das war das falsche Opfer.";
+
+translate "The sacrifice made did not satisfy O1."
+to german "Dein Opfer hat O1(sn) nicht erfreut.";
+
+translate "The correct sacrifice was made, but the quantity offered was not sufficient."
+to german "Das richtige Opfer wurde erbracht, aber die Menge war nicht ausreichend.";
+
+translate "A distant feeling of humility briefly enters your mind, but the vision is not distinct."
+to german "Ein leichtes Demutsgefühl dringt in Dich ein, aber die Vision ist nicht deutlich.";
+
+translate "A distant feeling of humility, but it seems all wrong."
+to german "Ein leichtes Demutsgefühl durchdringt Dich, aber es scheint alles falsch zu sein.";
+
+translate "A distant feeling of humility, but the gods don't seem to recognize the priest."
+to german "Ein leichtes Demutsgefühl, aber die Götter scheinen den Priester nicht wiederzuerkennen.";
+
+translate "A distant feeling of humility, though it seems that the timing was all wrong."
+to german "Ein leichtes Demutsgefühl, aber der Zeitpunkt scheint komplett falsch zu sein.";
+
+translate "A crystal clear vision - five priests humbling themselves before O1."
+to german "Eine kristallklare Vision - fünf Priester fallen vor O1(sn) auf die Knie.";
+
+translate "Command me from Heaven"
+to german "Ich bin dein Diener";
+
+translate "Take my Blood"
+to german "Nimm mein Blut";
+
+translate "Show me Mercy"
+to german "Habe Mitleid mit mir";
+
+translate "Enter my Soul"
+to german "Erfülle meinen Geist";
+
+translate "Share my Joy"
+to german "Teile meine Freude";
+
+translate "The Emotional Devotions were done at the wrong time."
+to german "Die demütigen Gesten wurden zu keinem guten Zeitpunkt gemacht.";
+
+translate "The third Humble Priest must perform the Emotional Devotions."
+to german "Der 3te demütige Priester muss die demütigen Gesten ausführen.";
+
+translate "The Emotional Devotions were not done in the correct order."
+to german "Die demütigen Gesten wurden nicht korrekt ausgeführt.";
+
+translate "Crumble Moss"
+to german "Zerkrümeltes Moos";
+
+translate "On top of a Mountain"
+to german "Auf einem Berggipfel";
+
+translate "Near a Ceremonial Tasting Table"
+to german "In der Nähe eines Zeremoniellen Ausschanks";
+
+translate "Near an aqueduct"
+to german "In der Nähe eines Äquaduktes";
+
+translate "On the banks of the river Nile"
+to german "Auf einer Sandbank des Niles";
+
+translate "Near a voting booth"
+to german "In der Nähe eines Wahlstandes";
+
+translate "Near a recent immigrant (No Initiations)"
+to german "In der Nähe eines neuen Einwanderers (keine Bürger)";
+
+translate "On a patch of clay"
+to german "Auf einem Tonfeld";
+
+translate "On grass, near water"
+to german "Auf Gras in der Nähe von Wasser";
+
+translate "On a boat"
+to german "Auf einem Boot";
+
+translate "Near a pyramid"
+to german "In der Nähe einer Pyramide";
+
+translate "Near a wild-growing mushroom"
+to german "In der Nähe von wildwachsender Pilze";
+
+translate "In a field of dirt"
+to german "Ín einem Schmutzfeld";
+
+translate "You did not offer the moss on a mountain top."
+to german "Du hast das Moosopfer nicht auf einem Berggipfel dargebracht.";
+
+translate "You did not offer the moss near a Ceremonial Tasting Table."
+to german "Du hast das Moosopfer nicht in der Nähe eines Zeremoniellen Ausschanks dargebracht.";
+
+translate "You did not offer the moss near an Aqueduct Tower."
+to german "Du hast das Moosopfer nicht in der Nähe eines Aquäduktturmes dargebracht.";
+
+translate "You did not offer the moss near a Voting Booth."
+to german "Du hast das Moosopfer nicht in der Nähe eines Wahlstandes dargebracht.";
+
+translate "You did not offer the moss near a recent immigrant (non-citizen)."
+to german "Du hast das Moosopfer nicht in der Nähe eines neuen Einwanderers (kein Bürger) dargebracht.";
+
+translate "You did not make the offering on a patch of Clay."
+to german "Du hast das Opfer nicht auf einem Tonfeld dargebracht.";
+
+translate "You did not make the offering of Moss on a patch of Clay."
+to german "Du hast das Moosopfer nicht auf einem Tonfeld dargebracht.";
+
+translate "You did not make the offering of Moss near natural water."
+to german "Du hast das Moosopfer nicht in der Nähe eines natürlichen Wasservorkommens dargebracht.";
+
+translate "You did not make the offering while riding on a boat."
+to german "Du hast das Opfer nicht während einer Bootsfahrt dargebracht.";
+
+translate "You did not make the offering near a Pyramid."
+to german "Du hast das Opfer nicht in der Nähe einer Pyramide dargebracht.";
+
+translate "You did not offer the moss near a wild-growing mushroom."
+to german "Du hast das Moosopfer nicht in der Nähe wildwachsender Pilze dargebracht.";
+
+translate "You did not make the offering of Moss on a patch of dirt."
+to german "Du hast das Moosopfer nicht in auf einem Schmutzfeld dargebracht.";
+
+translate "Which Moss?"
+to german "Welches Moos?";
+
+translate "You must select a Moss."
+to german "Du musst eine Moosart auswählen.";
+
+translate "The Moss was offered at the wrong time."
+to german "Das Moos wurde zum falschen Zeitpunkt geopfert.";
+
+translate "The fourth Humble Priest must make the offering of Moss."
+to german "Der 4te Priester muss ein Moosopfer darbringen.";
+
+translate "The moss offered was not the correct type."
+to german "Das dargebotene Moos war nicht die richtige Sorte.";
+
+translate "Recite a Blessing of Humility"
+to german "Rezitiere einen Segen der Erleuchtung";
+
+translate "You pray:"
+to german "Du betest:";
+
+translate "The gods would grow weary of such a long prayer. Compose another."
+to german "Die Götter würden bei einem solch' langen Gebet ermüden. Stelle ein anderes zusammen.";
+
+translate "U1 recites the Blessing of Humility: "
+to german "U1(name) rezitiert einen Segen der Erleuchtung.";
+
+translate "The prayer was recited at the wrong time."
+to german "Der Segen wurde zum falschen Zeitpunkt rezitiert.";
+
+translate "The fifth Humble Priest must recite the Devotional Prayer."
+to german "Der fünfte ergebene Priester muss ein demütiges Gebet rezitieren.";
+
+translate "All priests must be present at the altar when the blessing is recited."
+to german "Alle Priester müßen vor dem Altar stehen, während der Segen reziert wird.";
+
+translate "The devotional prayer was not complete."
+to german "Das fromme Gebet war nicht vollständig.";
+
+translate "A blashphemous phrase was included in the devotional prayer."
+to german "Ein blasphemischer Ausdruck war in dem frommen Gebet vorhanden.";
+
+translate "Seek a Blessing"
+to german "Strebe nach einem Segen";
+
+translate "Tests/Test of the Humble Priests/Seek a Blessing/Blessing of O1"
+to german "Tests/Test der demütigen Priester/Strebe nach einem Segen/Segen von O1(sn)";
+
+translate "Blessing of O1"
+to german "Segen von O1(sn)";
+
+translate "You can already perform the blessing of O1."
+to german "Du kannst bereits den Segen von O1(sn) vollziehen";
+
+translate "Are you sure you wish to seek the blessing of O1? You may only have the blessing of one god, and some blessings are much more valueable than others. Furthermore, it may not be apparent what a blessing actually does, though it is known that blessings only affect others, not the person performing the blessing."
+to german "Bist du sicher, dass du den Segen von O1(sn) erbitten möchtest? Du darfst nur den Segen eines Gottes haben und einige Segnungen sind nützlicher als Andere. Außerdem ist es nicht ersichtlich, was eine Segnung bewirkt, obwohl es bekannt ist, dass Segnungen nur Andere betreffen, nicht die Person, die den Segen ausspricht.";
+
+translate "You have secured the blessing of O1."
+to german "Du hast den Segen von O1(sn) auswendig gelernt";
+
+translate "Perform the Blessing of O1"
+to german "Rezitiere den Segen von O1(sn)";
+
+translate "You can only perform a blessing once per day. Wait another K1."
+to german "Du kannst nur einen Segen pro Tag vollziehen. Warte weitere K1.";
+
+translate "U1 has given you the blessing of O1."
+to german "U1(name) hat dir den Segen von O1(sn) gegeben.";
+
+translate "O1 is not pleased: "
+to german "O1(sn) ist nicht erfreut: ";
+
+translate "Your Devotional Group has pleased O1 and your prayer has been recorded for the ages."
+to german "O1(sn) segnet Deine fromme Anhängerschaft und Deine Gebete gehen in die Ewigkeit ein.";
+
+translate "Gods Passed: O1 Blessings: K1 (U2)"
+to german "Akz. Götter: Segnungen von O1(sn): K1 (U2(name))";
+
+translate " (at least 8% alcohol)"
+to german " (mindestens 8% Alkohol)";
+
+translate "Show My Progress"
+to german "Zeige meinen Fortschritt";
+
+translate "Begin the Test of the Humble Priests"
+to german "Beginne den Test der ergebenen Priester";

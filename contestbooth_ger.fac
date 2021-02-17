@@ -1,0 +1,161 @@
+module contestbooth_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002,200332004,2005 by MDO Entertainment	           **
+//**                                                                       **
+//***************************************************************************
+
+//menues
+
+translate "Read about this contest"
+to german "Lese etwas über diesen Wettbewerb";
+
+translate "Setup"
+to german "Einstellungen";
+
+translate "Set Description of Contest"
+to german "Setze Beschreibung des Wettbewerbs";
+
+translate "Mode: Open Registration"
+to german "Modus: Registrierung eröffnet";
+
+translate "Mode: Running Contest"
+to german "Modus: Laufender Wettbewerb";
+
+translate "Mode: Configuration"
+to german "Modus: Konfiguration";
+
+translate "Mode: Distribute Prizes"
+to german "Modus: Verleihe Preise";
+
+translate "Prohibit multiple entries"
+to german "Verbiete Mehrfacheinträge";
+
+translate "Allow multiple entries"
+to german "Erlaube Mehrfacheinträge";
+
+translate "Booth Setup"
+to german "Stand-Einstellungen";
+
+translate "Entry Fee"
+to german "Eintrittsgeld";
+
+translate "Set Name of Contest"
+to german "Setze den Namen des Wettbewerbs";
+
+translate "Set entry fee in O1"
+to german "Setze Eintrittsgeld auf O1(pn)";
+
+translate "Organization"
+to german "Organisation";
+
+translate "Contest Booth"
+to german "Wettbewerbsstand";
+
+translate "Record Keeping"
+to german "Buchführung";
+
+translate "Description of Contest"
+to german "Beschreibung des Wettbewerbs";
+
+translate "The fee for K1 is N1 O1"
+to german "Der Eintrittspreis für K1 ist N1 O1(sn)";
+
+translate "Distribute"
+to german "Verleihung";
+
+translate "Turn over some O1 to "
+to german "Überreiche einige O1(pn) an ";
+
+translate "Turn over some O1 to U1"
+to german "Überreiche einige O1(pn) an U1(name)";
+
+
+//objects
+
+translate ContestBooth to german masculine
+{
+  swa "Wettbewerbsstand";
+  sn "Wettbewerbsstand"; sg "Wettbewerbsstandes"; sd "Wettbewerbsstand"; sa "Wettbewerbsstand";
+  pn "Wettbewerbsstände"; pg "Wettbewerbsstände"; pd "Wettbewerbsständen"; pa "Wettbewerbsstände";
+}
+translate ContestOrganization to german feminine
+{ swa "Wettbewerbsorganisation"; sn "Wettbewerbsorganisation";  pn "Wettbewerbsorganisationen"; }
+
+//texts
+
+translate "You can't do this until the booth is empty."
+to german "Du kannst dies nicht tun, solange der Stand leer ist.";
+
+translate "You must name the contest."
+to german "Du mußt dem Wettbewerb einen Namen geben.";
+
+translate "You must set the entry type and quantity."
+to german "Du mußt die Art und Menge des Einsatzes bestimmen.";
+
+translate "Are you sure you want to end the contest? All record keeping about who payed will be lost."
+to german "Bist Du sicher, daß Du den Wettbewerb beenden willst? Alle Einträge, wer bezahlt hat, werden verloren sein.";
+
+translate "The fee to enter K1 is N1 O1"
+to german "Die Teilnahmegebühr für 'K1' ist N1 O1(N1?pn:sn)";
+
+translate "The booth is in configuration mode"
+to german "Der Stand ist im Konfigurations-Modus";
+
+translate "The booth is in open mode"
+to german "Der Stand ist im offenen Modus";
+
+translate "The booth is in running mode"
+to german "Der Stand ist im Spiel-Modus";
+
+translate "The booth is in distribution mode"
+to german "Der Stand ist im Ausschüttungs-Modus";
+
+translate "Allows one to efficiently run contests."
+to german "Erlaubt es, wirkungsvolle Wettbewerbe zu veranstalten.";
+
+translate "To build a Contest Booth, you need:"
+to german "Um einen Wettbewerbsstand zu bauen brauchst Du:";
+
+translate "You can't do this to an open contest booth. Close it first."
+to german "Du kannst dies nicht bei einem geöffneten Wettbewerbsstand tun. Schließe ihn erst.";
+
+translate "Name of Contest"
+to german "Name des Wettbewerbs";
+
+translate "How many O1 to enter?"
+to german "Wieviele O1(pn) als Eintritt?";
+
+translate "You must enter a specific number."
+to german "Du mußt eine bestimmte Nummer eingeben.";
+
+translate "Pay entry fee of N1 O1"
+to german "Zahle Eintritt von N1 O1(pn)";
+
+translate "Pay an additional entry fee of N1 O1"
+to german "Zahle zusätzliche Eintrittsgebühr von N1 O1(pn)";
+
+translate "You don't have N1 O1"
+to german "Du hast keine N1 O1(pn)";
+
+translate "Take how many O1 (max N1)"
+to german "Nimm wieviele O1(pn) (max N1)";
+
+translate "Take"
+to german "Nehmen";
+
+translate "You aren't entitled to N1 O1."
+to german "Du bist nicht anspruchsberechtigt auf N1 O1(N1?sa:pa).";
+
+translate "Are you sure you want to end the contest? All goods will be in your control for distribution."
+to german "Bist Du sicher, daß Du den Wettbewerb beenden willst? Alle Güter können durch Dich ausgeschüttet werden.";
+
+translate "Turned over O1"
+to german "Überreiche O1(pn)";
+
+translate "How many O1 to U1? (Max N1)"
+to german "Wieviele O1(pn) an U1(name) geben? (Max N1)";
+

@@ -1,0 +1,284 @@
+module obelisk_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**             German Version: Astrid "Infinyti" Werner                  **
+//**                             2011                                      **
+//**                                                                       **
+//***************************************************************************
+
+translate ObeliskBuilding to german masculine
+{
+  swa "Obelisk";
+  sn "Obelisk"; sg "Obelisks"; sd "Obelisk"; sa "Obelisk";
+  pn "Obelisken"; pg "Obelisken"; pd "Obelisken"; pa "Obelisken";
+}
+
+translate ObeliskConstruction to german feminine
+{
+  swa "Obelisken-Konstruktion";
+  sn "Obelisken-Konstruktion"; sg "Obelisken-Konstruktion"; sd "Obelisken-Konstruktion"; sa "Obelisken-Konstruktion";
+  pn "Obelisken-Konstruktion"; pg "Obelisken-Konstruktion"; pd "Obelisken-Konstruktion"; pa "Obelisken-Konstruktion";
+}
+
+translate DesertObelisk to german masculine
+{
+  swa "Wüstenobelisk";
+  sn "Wüstenobelisk"; sg "Wüstenobelisk"; sd "Wüstenobelisk"; sa "Wüstenobelisk";
+  pn "Felsenobelisk"; pg "Wüstenobelisk"; pd "Wüstenobelisk"; pa "Wüstenobelisk";
+}
+
+translate CutStoneObelisk to german masculine
+{
+  swa "Felsenobelisk";
+  sn "Felsenobelisk"; sg "Felsenobelisk"; sd "Felsenobelisk"; sa "Felsenobelisk";
+  pn "Felsenobelisk"; pg "Felsenobelisk"; pd "Felsenobelisk"; pa "Felsenobelisk";
+}
+
+translate HardwoodObelisk to german masculine
+{
+swa "Hartholzobelisk";
+sn "Hartholzobelisk"; sg "Hartholzobelisk"; sd "Hartholzobelisk"; sa "Hartholzobelisk";
+pn "Hartholzobelisken"; pg "Hartholzobelisk"; pd "Hartholzobelisk"; pa "Hartholzobelisk";
+}
+
+translate MarbleObelisk to german masculine
+{
+swa "Marmorobelisk";
+sn "Marmorobelisk"; sg "Marmorobelisk"; sd "Marmorobelisk"; sa "Marmorobelisk";
+pn "Marmorobelisken"; pg "Marmorobelisk"; pd "Marmorobelisk"; pa "Marmorobelisk";
+}
+
+translate CrystalObelisk to german masculine
+{
+swa "Kristallobelisk";
+sn "Kristallobelisk"; sg "Kristallobelisk"; sd "Kristallobelisk"; sa "Kristallobelisk";
+pn "Kristallobelisken"; pg "Kristallobelisken"; pd "Kristallobelisken"; pa "Kristallobelisken";
+}
+
+translate BejeweledObelisk to german masculine
+{
+  swa "Edelsteinobelisk";
+  sn "Edelsteinobelisk"; sg "Edelsteinobelisk"; sd "Edelsteinobelisk"; sa "Edelsteinobelisk";
+  pn "Edelsteinobelisken"; pg "Edelsteinobelisken"; pd "Edelsteinobelisken"; pa "Edelsteinobelisken";
+}
+
+translate HeavenlyObelisk to german masculine
+{
+  swa "Himmlischer Obelisk";
+  sn "Himmlische Obelisk"; sg "Himmlischen Obelisks"; sd "Himmlischen Obelisk"; sa "Himmlische Obelisk";
+  pn "Himmlischen Obelisken"; pg "Himmlischen Obelisken"; pd "Himmlischen Obelisken"; pa "Himmlischen Obelisken";
+}
+
+translate Obelisk to german masculine
+{
+  swa "Test der Obelisken";
+  sn "Test der Obelisken"; sg "Test der Obelisken"; sd "Test der Obelisken"; sa "Test der Obelisken";
+  pn "Test der Obelisken"; pg "Test der Obelisken"; pd "Test der Obelisken"; pa "Test der Obelisken";
+}
+
+translate CrushedEggShells to german feminine
+{
+  swa "zermahlene Eierschale";
+  sn "zermahlene Eierschale"; sg "zermahlenen Eierschale"; sd "zermahlene Eierschale"; sa "zermahlene Eierschale";
+  pn "zermahlenen Eierschalen"; pg "zermahlenen Eierschalen"; pd "zermahlenen Eierschalen"; pa "zermahlenen Eierschalen";
+}
+
+translate "This O1 is N1 cubits."
+to german "O1(^tsn) O1(sn) ist N1 Ellen hoch.";
+
+translate "Set Size of Obelisk"
+to german "Lege Obeliskhöhe fest";
+
+translate "What Size?"
+to german "Welche Höhe?";
+
+translate "The test of the Obelisk requires that you build the largest Obelisk of its kind in your region. "
+	to german "Der Test des Obelisken erfordert, dass du den größten Obelisken seiner Art in deiner Region baust.";
+
+translate "You must exceed the current largest Obelisk by just a single cubit, but, you must retain the title of "
+	to german "Du musst den schon existierenden größten Obelisken um eine einzige Elle übertreffen, aber du musst den Titel des ";
+
+translate "largest Obelisk for at least K1 (for a Desert Obelisk.)  By meditating on Obelisks (Tests Menu), "
+	to german "größten Obelisken für mindestens K1 (Wüstenobelisk) halten können. Wenn du über Obelisken meditierst (Testsmenü),";
+
+translate "you can sense what the various kinds of obelisks are, and the heights of the obelisks that came before."
+
+to german "siehst du die unterschiedlichen Arten und Höhen der Obelisken.";
+
+translate "The test of the Obelisk requires that you build the largest Obelisk of its kind in your region. You must exceed the current largest Obelisk by just a single cubit, but, you must retain the title of largest Obelisk for at least K1 (for a Desert Obelisk.)  By meditating on Obelisks (Tests Menu), you can sense what the various kinds of obelisks are, and the heights of the obelisks that came before."
+	to german "Der Test des Obelisken erfordert, dass du den größten Obelisken seiner Art in deiner Region baust. Du musst den schon existierenden größten Obelisken um eine einzige Elle übertreffen, aber du musst den Titel des größten Obelisken für mindestens K1 (Wüstenobelisk) halten können. Wenn du über Obelisken meditierst (Testsmenü), siehst du die unterschiedlichen Arten und Höhen der Obelisken.";
+
+translate "Test of the Obelisk"
+to german "Test der Obelisken";
+
+translate "Meditate on Obelisks"
+to german "Meditiere über Obelisken";
+
+translate "Meditating on the Largest Obelisks..."
+to german "Meditiere an den größten Obelisken...";
+
+translate "The largest O1 in K1 is N1 cubits."
+to german "Der größte O1(sn) in K1 ist N1 Ellen hoch.";
+translate "The largest O1 in Kush is N1 cubits."
+to german "Der größte O1(sn) in Kush ist N1 Ellen hoch.";
+translate "The largest O1 in Karnak is N1 cubits."
+to german "Der größte O1(sn) in Karnak ist N1 Ellen hoch.";
+translate "The largest O1 in Lower Egypt is N1 cubits."
+to german "Der größte O1(sn) in Lower Egypt ist N1 Ellen hoch.";
+translate "The largest O1 in Cradle of the Sun is N1 cubits."
+to german "Der größte O1(sn) in Cradle of the Sun ist N1 Ellen hoch.";
+translate "The largest O1 in Seven Lakes is N1 cubits."
+to german "Der größte O1(sn) in Seven Lakes ist N1 Ellen hoch.";
+translate "The largest O1 in Khartoum is N1 cubits."
+to german "Der größte O1(sn) in Khartoum ist N1 Ellen hoch.";
+translate "The largest O1 in Sinai is N1 cubits."
+to german "Der größte O1(sn) in Sinai ist N1 Ellen hoch.";
+translate "The largest O1 in Upper Egypt is N1 cubits."
+to german "Der größte O1(sn) in Upper Egypt ist N1 Ellen hoch.";
+translate "The largest O1 in Fool's Paradise is N1 cubits."
+to german "Der größte O1(sn) in Fool's Paradise ist N1 Ellen hoch.";
+translate "The largest O1 in Desert of Shades is N1 cubits."
+to german "Der größte O1(sn) in Desert of Shades ist N1 Ellen hoch.";
+translate "The largest O1 in Qatara is N1 cubits."
+to german "Der größte O1(sn) in Qatara ist N1 Ellen hoch.";
+translate "The largest O1 in Tanis is N1 cubits."
+to german "Der größte O1(sn) in Tanis ist N1 Ellen hoch.";
+
+translate "It still stands at N1,N2."
+to german "Er steht noch immer bei N1,N2.";
+
+translate "It no longer stands."
+to german "Er exisitiert nicht mehr.";
+
+translate "No O1 has yet been built in K1."
+to german "Kein O1(sn) wurde bisher in K1 gebaut.";
+translate "No O1 has yet been built in Kush."
+to german "Kein O1(sn) wurde bisher in Kush gebaut.";
+translate "No O1 has yet been built in Karnak."
+to german "Kein O1(sn) wurde bisher in Karnak gebaut.";
+translate "No O1 has yet been built in Lower Egypt."
+to german "Kein O1(sn) wurde bisher in Lower Egypt gebaut.";
+translate "No O1 has yet been built in Cradle of the Sun."
+to german "Kein O1(sn) wurde bisher in Cradle of the Sun gebaut.";
+translate "No O1 has yet been built in Seven Lakes."
+to german "Kein O1(sn) wurde bisher in Seven Lakes gebaut.";
+translate "No O1 has yet been built in Khartoum."
+to german "Kein O1(sn) wurde bisher in Khartoum gebaut.";
+translate "No O1 has yet been built in Sinai."
+to german "Kein O1(sn) wurde bisher in Sinai gebaut.";
+translate "No O1 has yet been built in Upper Egypt."
+to german "Kein O1(sn) wurde bisher in Upper Egypt gebaut.";
+translate "No O1 has yet been built in Fool's Paradise."
+to german "Kein O1(sn) wurde bisher in Fool's Paradise gebaut.";
+translate "No O1 has yet been built in Desert of Shades."
+to german "Kein O1(sn) wurde bisher in Desert of Shades gebaut.";
+translate "No O1 has yet been built in Qatara."
+to german "Kein O1(sn) wurde bisher in Qatara gebaut.";
+translate "No O1 has yet been built in Tanis."
+to german "Kein O1(sn) wurde bisher in Tanis gebaut.";
+
+translate "To pass the test, you must build a O1 of N1 cubits."
+to german "Um den Test zu bestehen mußt du einen O1(sn) mit N1 Ellen bauen.";
+
+translate "This obelisk has a strange electricity - Touch it?"
+to german "Dieser Obelisk steht unter Hochspannung - Anfassen?";
+
+translate "Allows one to build Obelisks, for the Test of the Obelisk"
+to german "Erlaubt den Bau von Obelisken für den Test der Obelisken";
+
+translate "Rigid Termite-Resistant Boards"
+to german "Bretter: starr, termitenresistent";
+
+translate "Black Rotproof Boards"
+to german "Bretter: Schwarz, moderbeständig";
+
+translate "Hard Fireproof Boards"
+to german "Bretter: Hart, feuerfest";
+
+translate "Blonde Termite-resistant Boards"
+to german "Bretter: Hell, termitenresistent";
+
+translate "Hard Fireproof Boards"
+to german "Bretter: Hart, feuerfest";
+
+translate "Principles of the Obelisk will help you build a small Desert Obelisk. If you know how to build a more advanced type of Obelisk, doing so will also complete Principles of the Obelisk."
+to german "Die Prinzipien der Obelisken hilft dir beim Bau eines kleinen Wüstenobelisken. Wenn du bereits weißt, wie du einen besseren Obeliskentyp bauen kannst, wird das trotzdem in den Prinzipien gewertet werden.";
+
+translate "Learn Project Management"
+to german "Lerne Projektverwaltung";
+translate "Create Bricks"
+to german "Forme Ziegel";
+translate "Create Boards"
+to german "Säge Bretter";
+translate "Gather Slate"
+to german "Sammle Schiefer";
+translate "Harvest Flax"
+to german "Ernte Flachs";
+translate "Dry Flax in a Drying Rack or Flax Hammock"
+to german "Trockne Flachs in einem Trockengestell oder einem Flachstrockennetz";
+translate "Gather Clay"
+to german "Sammle Ton";
+translate "Make Linen"
+to german "Webe Leinen";
+translate "Gather Flint from Clay Beds"
+to german "Sammle Feuersteine in einem Tonfeld";
+translate "Build a Small Construction Site"
+to german "Errichte eine kleine Baustelle";
+translate "Complete a size 7 or larger Obelisk"
+to german "Baue einen Obelisken mit 7 Ellen oder mehr";
+
+translate "Build a Desert Obelisk"
+to german "Baue einen Wüstenobelisken";
+translate "Build a Cut Stone Obelisk"
+to german "Baue einen Felsenobelisken";
+translate "Build a Marble Obelisk"
+to german "Baue einen Marmorobelisken";
+translate "Build a Hardwood Obelisk"
+to german "Baue einen Hartholzobelisken";
+translate "Build a Crystal Obelisk"
+to german "Baue einen Kristallobelisken";
+translate "Build a Bejeweled Obelisk"
+to german "Baue einen Edelsteinobelisken";
+translate "Build a Heavenly Obelisk"
+to german "Baue einen himmlischen Obelisken";
+
+translate "Obelisks can only be build in Egypt proper."
+to german "Obelisken können nur in Ägypten gebaut werden.";
+
+translate "Height to build, at least 7?"
+to german "Bauhöhe, mindestens 7?";
+
+translate "Largest O1 is N1 cubits. To pass test, you need N2 cubits. Height to build?"
+to german "Grösster O1(sn) hat N1 Ellen. Um den Test zu bestehen, benötigst du N2 Ellen. Bauhöhe?";
+
+translate "That's too big an Obelisk!"
+to german "Das ist für einen Obelisken zu hoch!";
+
+translate "The size specified is not big enough to pass the Test of the Obelisk. Build anyway?"
+to german "Die spezifizierte Größe reicht nicht aus, um den Test des Obelisken zu bestehen. Trotzdem bauen?";
+
+translate "To build an N1 cubit O1 you need:"
+to german "Um einen N1 Ellen hohen O1(swa) zu bauen benötigst du:";
+
+translate "You have successfully constructed a Desert Obelisk of 7 cubits or higher!"
+to german "Du hast erfolgreich einen Wüstenobelisken mit 7 Ellen oder mehr gebaut!";
+
+translate "This obelisk has power. Hold the power for N1 to pass the Test of the Obelisk"
+to german "Dieser Obelisk hat Kraft. Halte diese Kraft für N1 aufrecht, um den Test der Oblisken zu bestehen.";
+
+translate "This obelisk is not large enough to pass the test.  It has no power.  If you wish, you have a seven-day grace period to disassemble the obelisk and reclaim your materials.  If you decide to do this, don't use \"tear down this obelisk\", use \"disassemble this obelisk.\""
+to german "Dieser Obelisk ist nicht gross genug, um den Test zu bestehen. Er hat keine Kraft. Wenn du möchtest, kannst du innerhalb einer 7-Tage Frist den Obelisken auseinandernehmen und deine Materialien einsammeln. Möchtest du dies tun, dann nutze nicht \"Obelisk abreissen\", sondern \"Obelisk auseinandernehmen.\"";
+
+translate "Consecrate this Obelisk"
+to german "Segne diesen Obelisken";
+
+translate "You are not signed up for the test: you cannot consecrate yet.  However, you can go sign up, then come back."
+to german "Du bist nicht für den Test eingetragen: Du kannst jetzt nicht segnen. Starte den Test und komme dann zurück.";
+
+translate "You already passed the test: you cannot consecrate an obelisk.  However, somebody else could."
+to german "Du hast den Test bereits bestanden: Du kannst keinen Obelisken segnen. Dafür jemand anders.";
+
+translate "Disassemble this Obelisk"
+to german "Obelisken auseinandernehmen";

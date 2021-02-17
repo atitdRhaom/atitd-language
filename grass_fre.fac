@@ -1,0 +1,11 @@
+Module Grass_fre;
+
+
+translate "Your muscle memory seems to be improving: Your skill in Rhythmic Strength is now N1 out of N2"
+to french "Votre mémoire musculaire semble s'améliorer: Vos connaissances en force rythmique est maintenant de N1 sur N2";
+
+translate "Your muscle memory seems to be improving: Your skill in Rhythmic Strength is now N1 out of "
+to french "Votre mémoire musculaire semble s'améliorer: Vos connaissances en force rythmique est maintenant de N1 sur ";
+
+translate "skilllevel=N1 qual=N2 gatheramount=N3"
+to french "Niveau=N1 Qualité=N2 Vous récoltez maintenant en lot de N3 ";

@@ -1,0 +1,342 @@
+module orestone2_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**             German Version: Astrid "Infinyti" Werner                  **
+//**                             2011                                      **
+//**                                                                       **
+//***************************************************************************
+
+translate "Ore Stone"
+	to german "Erzgestein";
+
+				translate Orestone2 to german neuter
+			{
+			swa "Erzgestein";
+			sn "Erzgestein"; sg "Erzgesteins"; sd "Erzgestein"; sa "Erzgestein";
+			pn "Erzgesteine"; pg "Erzgesteine"; pd "Erzgesteinen"; pa "Erzgesteine";
+			}
+
+translate "Iron Mine"
+	to german "Eisenmine";
+
+				translate IronMine to german feminine
+			{
+			swa "Eisenmine";
+			sn "Eisenmine"; sg "Eisenmine"; sd "Eisenmine"; sa "Eisenmine";
+			pn "Eisenminen"; pg "Eisenminen"; pd "Eisenminen"; pa "Eisenminen";
+			}
+
+translate "Copper Mine"
+	to german "Kupfermine";
+
+				translate CopperMine to german feminine
+			{
+			swa "Kupfermine";
+			sn "Kupfermine"; sg "Kupfermine"; sd "Kupfermine"; sa "Kupfermine";
+			pn "Kupferminen"; pg "Kupferminen"; pd "Kupferminen"; pa "Kupferminen";
+			}
+
+translate "Zinc Mine"
+	to german "Zinkmine";
+
+				translate ZincMine to german feminine
+			{
+			swa "Zinkmine";
+			sn "Zinkmine"; sg "Zinkmine"; sd "Zinkmine"; sa "Zinkmine";
+			pn "Zinkminen"; pg "Zinkminen"; pd "Zinkminen"; pa "Zinkminen";
+			}
+
+translate "Gold Mine"
+	to german "Goldmine";
+
+				translate GoldMine to german feminine
+			{
+			swa "Goldmine";
+			sn "Goldmine"; sg "Goldmine"; sd "Goldmine"; sa "Goldmine";
+			pn "Goldminen"; pg "Goldminen"; pd "Goldminen"; pa "Goldminen";
+			}
+
+translate "Silver Mine"
+	to german "Silbermine";
+
+				translate SilverMine to german feminine
+			{
+			swa "Silbermine";
+			sn "Silbermine"; sg "Silbermine"; sd "Silbermine"; sa "Silbermine";
+			pn "Silberminen"; pg "Silberminen"; pd "Silberminen"; pa "Silberminen";
+			}
+
+translate "Aluminum Mine"
+	to german "Aluminiummine";
+
+				translate AluminiumMine to german feminine
+			{
+			swa "Aluminiummine";
+			sn "Aluminiummine"; sg "Aluminiummine"; sd "Aluminiummine"; sa "Aluminiummine";
+			pn "Aluminiumminen"; pg "Aluminiumminen"; pd "Aluminiumminen"; pa "Aluminiumminen";
+			}
+
+translate "Tin Mine"
+	to german "Zinnmine";
+
+				translate TinMine to german feminine
+			{
+			swa "Zinnmine";
+			sn "Zinnmine"; sg "Zinnmine"; sd "Zinnmine"; sa "Zinnmine";
+			pn "Zinnminen"; pg "Zinnminen"; pd "Zinnminen"; pa "Zinnminen";
+			}
+
+translate "Lead Mine"
+	to german "Bleimine";
+
+				translate LeadMine to german feminine
+			{
+			swa "Bleimine";
+			sn "Bleimine"; sg "Bleimine"; sd "Bleimine"; sa "Bleimine";
+			pn "Bleiminen"; pg "Bleiminen"; pd "Bleiminen"; pa "Bleiminen";
+			}
+
+translate "Magnesium Mine"
+	to german "Magnesiummine";
+
+				translate MagnesiumMine to german feminine
+			{
+			swa "Magnesiummine";
+			sn "Magnesiummine"; sg "Magnesiummine"; sd "Magnesiummine"; sa "Magnesiummine";
+			pn "Magnesiumminen"; pg "Magnesiumminen"; pd "Magnesiumminen"; pa "Magnesiumminen";
+			}
+
+translate "Antimony Mine"
+	to german "Antimonmine";
+
+				translate AntimonyMine to german feminine
+			{
+			swa "Antimonmine";
+			sn "Antimonmine"; sg "Antimonmine"; sd "Antimonmine"; sa "Antimonmine";
+			pn "Antimonminen"; pg "Antimonminen"; pd "Antimonminen"; pa "Antimonminen";
+			}
+
+translate "Platinum Mine"
+	to german "Platinummine";
+
+				translate PlatinumMine to german feminine
+			{
+			swa "Platinummine";
+			sn "Platinummine"; sg "Platinummine"; sd "Platinummine"; sa "Platinummine";
+			pn "Platinumminen"; pg "Platinumminen"; pd "Platinumminen"; pa "Platinumminen";
+			}
+
+translate "Tungsten Mine"
+	to german "Wolframmine";
+
+				translate TungstenMine to german feminine
+			{
+			swa "Wolframmine";
+			sn "Wolframmine"; sg "Wolframmine"; sd "Wolframmine"; sa "Wolframmine";
+			pn "Wolframminen"; pg "Wolframminen"; pd "Wolframminen"; pa "Wolframminen";
+			}
+
+translate "Titanium Mine"
+	to german "Titaniummine";
+
+				translate TitaniumMine to german feminine
+			{
+			swa "Titaniummine";
+			sn "Titaniummine"; sg "Titaniummine"; sd "Titaniummine"; sa "Titaniummine";
+			pn "Titaniumminen"; pg "Titaniumminen"; pd "Titaniumminen"; pa "Titaniumminen";
+			}
+
+translate "Lithium Mine"
+	to german "Lithiummine";
+
+				translate LithiumMine to german feminine
+			{
+			swa "Lithiummine";
+			sn "Lithiummine"; sg "Lithiummine"; sd "Lithiummine"; sa "Lithiummine";
+			pn "Lithiumminen"; pg "Lithiumminen"; pd "Lithiumminen"; pa "Lithiumminen";
+			}
+
+translate "Strontium Mine"
+	to german "Strontiummine";
+
+				translate StrontiumMine to german feminine
+			{
+			swa "Strontiummine";
+			sn "Strontiummine"; sg "Strontiummine"; sd "Strontiummine"; sa "Strontiummine";
+			pn "Strontiumminen"; pg "Strontiumminen"; pd "Strontiumminen"; pa "Strontiumminen";
+			}
+
+translate "Sand Mine"
+	to german "Sandmine";
+
+				translate SandMine to german feminine
+			{
+			swa "Sandmine";
+			sn "Sandmine"; sg "Sandmine"; sd "Sandmine"; sa "Sandmine";
+			pn "Sandminen"; pg "Sandminen"; pd "Sandminen"; pa "Sandminen";
+			}
+
+translate "Mine"
+	to german "Mine";
+
+				translate Mine5 to german feminine
+			{
+			swa "Mine";
+			sn "Mine"; sg "Mine"; sd "Mine"; sa "Mine";
+			pn "Minen"; pg "Minen"; pd "Minen"; pa "Minen";
+			}
+
+translate "Stone Color"
+	to german "Steinfarbe";
+
+translate "Crystal Shape"
+	to german "Kristallform";
+
+translate "Base Shape"
+	to german "Grundform";
+
+translate "Crystal Color"
+	to german "Kristallfarbe";
+
+translate "Base Color"
+	to german "Grundfarbe";
+
+translate "Stone Shape"
+	to german "Steinform";
+
+translate "Stone Pattern"
+	to german "Steinmuster";
+
+translate "Content Advisor"
+	to german "Ratgeber";
+
+translate "Rerandomize the Mine"
+	to german "Mine erneut starten";
+
+translate "Mine Type (Overwrites Configuration)"
+	to german "Minentyp (Überschreibt Config)";
+
+translate "Clean up the Field"
+	to german "Räume auf";
+
+translate "This mine can be worked again in K1."
+	to german "In dieser Mine kann wieder in K1 geschürft werden.";
+
+translate "Work this Mine, Normal"
+	to german "Arbeite in der Mine, Normal";
+
+translate "Work this Mine, Colorblind"
+	to german "Arbeite in der Mine, Farbenblind";
+
+translate "Wait another N1 seconds."
+	to german "Warte weitere N1 Sekunden.";
+
+translate "colorblind mining from U1"
+	to german "U1(name) nutzt Farbenblindenmodus";
+
+translate "Finalize Workload"
+	to german "Vollende die Auswahl";
+
+translate "You already harvested that Workload."
+	to german "Du hast die Auswahl bereits eingesammelt.";
+
+translate "That workload has no value."
+	to german "Diese Auswahl enthält nichts";
+
+translate "You workload just didn't have anything valuable in it. This is probably a bug: Call a Developer."
+	to german "Diese Auswahl hat keinerlei Werte. Möglicherweise handelt es sich um einen Bug: Rufe einen Entwickler.";
+
+translate "Your workload had: N1 O1"
+	to german "Deine Auswahl hatte: N1 O1(N1?pn:sn)";
+
+translate "You got coal and a O1"
+	to german "Du findest Kohle und O1(asn) O1(sn)";
+
+translate "[D]Set the Mine Type Name"
+	to german "[D] Vergebe Minentypnamen";
+
+translate "Add this to the Workload"
+	to german "Zur Auswahl hinzufügen";
+
+translate "Add this to the Workload and Finalize"
+	to german "Zur Auswahl hinzufügen und beenden";
+
+translate "Remove this from the Workload"
+	to german "Aus der Auswahl entfernen";
+
+translate "Yellow"
+	to german "Gelb";
+
+translate "Magenta"
+	to german "Violett";
+
+translate "Cyan"
+	to german "Türkis";
+
+translate "Black"
+	to german "Schwarz";
+
+translate "Red"
+	to german "Rot";
+
+translate "Green"
+	to german "Grün";
+
+translate "Blue"
+	to german "Blau";
+
+translate "Clouded"
+	to german "Trüb";
+
+translate "Striped"
+	to german "Gestreift";
+
+translate "Spotted"
+	to german "Gepunktet";
+
+translate "Volcanic"
+	to german "Vulkanisch";
+
+translate "Honeycombed"
+	to german "Wabenförmig";
+
+translate "Veined"
+	to german "Marmoriert";
+
+translate "Star"
+	to german "Stern";
+
+translate "Stone"
+	to german "Stein";
+
+translate "Crystals"
+	to german "Kristalle";
+
+translate "Base"
+	to german "Fundament";
+
+translate "Pattern"
+	to german "Muster";
+
+translate "Mines"
+	to german "Minen";
+
+translate "Surveying the area..."
+	to german "Erkunde die Umgebung...";
+
+translate "The mine would be too close to another mine - that's dangerous."
+	to german "Die Mine läge zu nahe an einer anderen - das ist gefährlich.";
+
+translate "To build a Mine you need:"
+	to german "Um eine Mine zu bauen brauchst du:";
+
+translate "Turn Off Colorblind Mining"
+	to german "Farbenblindmodus off";
+
+translate "Turn On Colorblind Mining"
+	to german "Farbenblindmodus on";
+
+translate "Stop Working this mine"
+	to german "Beende Minenarbeit";

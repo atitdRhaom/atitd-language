@@ -1,0 +1,58 @@
+module cooperage_fre;
+
+translate BarrelVice to french feminine
+{
+  ns "Tonnellerie"; np "Tonnelleries";
+}
+
+translate Cooperage to french feminine
+{
+  ns "Tonnellerie"; np "Tonnellerie";
+  }
+  
+translate "You need the Cooperage skill."
+to french "Vous devez apprendre la tonnellerie";
+
+translate "To make a Barrel Vice you need:"
+to french "Pour construire une tonnellerie, il vous faut :";
+
+translate "You need 100 boards and 2 copper straps."
+to french "Il vous faut 100 planches et deux bandes de cuivre";
+
+translate "Oldfire N1 Newfire N2"
+to french "Ancien feu N1 nouveau feu N2";
+
+translate "You incenerated the barrel!"
+to french "Vous avez fait brûler le tonneau !";
+
+translate "You're getting the hang of Cooperage - your skill is now N1."
+to french "Vous commencez à avoir le coup de main - votre compétence passe à N1.";
+
+translate "You should first use the 'Make a Barrel' option from the vice's menu."
+to french "Utilisez d'abord l'option 'Fabriquer un tonneau'.";
+
+translate "You don't have any wood."
+to french "Vous n'avez pas de bois.";
+
+translate "Fuel:"
+to french "Combust.";
+translate "Flame:"
+to french "Flamme";
+translate "Heat:"
+to french "Chaleur";
+translate "Progress:"
+to french "Progres.";
+translate "Add"
+to french "Ajouter";
+
+translate "Wood:"
+to french "Bois :";
+
+translate "Barrel Vice"
+to french "Tonneau";
+
+translate "Projects/Barrel Vice"
+to french "Projets/Tonnellerie";
+
+translate "Make a barrel"
+to french "Fabriquer un tonneau";

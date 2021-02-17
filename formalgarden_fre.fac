@@ -1,0 +1,156 @@
+module formalgarden_fre;
+
+translate FormalGardening to french masculine
+{
+  ns "Jardin décoratif"; np "Jardins décoratifs";
+}
+
+translate formalgarden to french feminine
+{
+  ns "L'épreuve du Jardin Décoratif"; np "L'épreuve du Jardin Décoratif";
+}
+
+translate Gazebo to french masculine
+{
+  ns "Gazebo"; np "Gazebos";
+}
+
+translate FGStella to french feminine
+{
+  ns "Stèle de jardin décoratif"; np "Stèles de jardin décoratif";
+}
+
+translate "The Test of the Formal Garden"
+to french "L'épreuve de jardin décoratif";
+
+translate "Tear down your Gazebo OR do the following:"
+to french "Détruisez votre Gazebo ou faites ce qui suit:";
+
+translate "The Test of Formal Garden must be unlocked by someone who holds five hundred Orchid Bulbs of any kind, or any mixture of different kinds."
+to french "L'épreuve du jardin décoratif doit être débloquée par quelqu'un possédant cinq cent bulbes d'Orchidée de n'importe quelle sorte, ou n'importe quel mélange de sortes différentes.";
+
+translate "Start the test of the Formal Garden"
+to french "Se lancer dans l'épreuve de jardin décoratif";
+
+translate "Formal Gardens are arrangements of flowers and labeled Stellae describing the arrangements, geneology, and design philosophy of the space. You have the option of tearing down your Gazebo early, skipping the Judging steps."
+to french "Les jardins décoratifs sont des arrangements de fleurs et de stelles nommées décrivant les arrangements, la généalogie et la phylosophie de l'espace. Vous avez la possibilité de détruire votre gazebo afin d'éviter les étapes du jugement.";
+
+translate "You sign up for the Test of the Formal Garden and learn to construct a Gazebo, the centerpiece of any formal garden. You also learn to build decorative Stellae, which may contain information on your plants. You are instructed that formal gardens must have between 7 and 100 flowers within a 100 foot radius. Formal gardens may be judged by any Initiate of Art and Music, and should be judged for beauty and variety of flora, not raw volume of plant matter."
+to french "Vous vous lancez dans l'épreuve du Jardin décoratif et apprenez à construire un gazebo, la pièce centrale de tout beau jardin. Vous apprenez aussi à construire des stèles décoratives qui peuvent présenter des informations sur les plantes qui poussent à cet endroit. On vous apprend aussi que les jardins décoratifs doivent comporter entre 7 et 100 fleurs dans un rayon de 100 pieds. Ces oeuvres peuvent ensuite être évalués par tout initié des Arts et de la Musique, en prenant en compte la variété et la beauté de la flore, et non uniquement la simple quantité de plantes qui s'y trouve.";
+
+translate "Unlike other art Tests, Formal Gardens may be tended after judging has opened."
+to french "A la différence des autres épreuves, les jardins décoratifs peuvent être entretenus une fois que le jugement est en cours.";
+
+translate "Formal Gardens are arrangements of flowers and labeled Stellae describing the arrangements, geneology, and design philosophy of the space."
+to french "Les jardins décoratifs consistent en des arrangemants de fleurs associés à des stèles décrivants ces arrangemants, la généalogie et la philosophie du jardin.";
+
+translate "Tear down your Gazebo OR do the following:"
+to french "Détruisez votre jardin décoratif ou faites ce qui suit:";
+
+translate "Formal Garden Gazebo"
+to french "Gazebo de jardin décoratif";
+
+translate "Build a Gazebo"
+to french "Bâtir un Gazebo";
+translate "Plant a Flower"
+to french "Planter une fleur";
+translate "Crossbreed a Flower"
+to french "Reproduire une fleur par croisement génétique";
+translate "Plant a Crossbred Flower"
+to french "Planter une fleur obtenue par croisement";
+translate "Build a Stella"
+to french "Placer une stèle";
+translate "Label a Stella"
+to french "Nommer une stèle";
+translate "Open your Formal Garden for Judging"
+to french "Ouvrir votre Jardin Décoratif à l'évaluation";
+translate "Have Seven Judges rate your Formal Garden"
+to french "Que sept juges évaluent votre Jardin Décoratif";
+translate "@Design rated Good by most judges"
+to french "Obtenir des votes positifs de la pluspart des juges";
+
+translate "To build a Gazebo you need:"
+to french "Pour construire un gazebo, il vous faut :";
+
+translate "Bricks for the foundation"
+to french "Briques pour les fondations";
+translate "Gold Foil for Decorative Inlay"
+to french "Feuilles d'or pour les incrustations";
+translate "Gold Bars for Decorative Edging"
+to french "Barres d'or pour l'ornement des bordures";
+translate "Silver Bars for Decorative Edging"
+to french "Barres d'argent pour l'ornement des bordures";
+translate "Nails to Secure the Boards"
+to french "Clous pour fixer les planches";
+translate "NonToxic Rotproof Termite Resistant Boards to protect the base"
+to french "Planches non toxiques, imputrescibles et anti-termites, pour protéger la base";
+translate "White Glossy Boards"
+to french "Planches blanches et vernies";
+translate "Black Glossy Boards"
+to french "Planches noires et vernies";
+translate "Hard Rigid Rotproof Boards as central support"
+to french "Planches dures, rigides et imputrescibles pour le soutenir l'ensemble";
+translate "Three Quills for Record Keeping"
+to french "Trois plumes pour le registre";
+translate "Ink for Record Keeping"
+to french "Encre pour le registre";
+translate "Papyrus Paper for Record Keeping"
+to french "Feuilles de papyrus pour le registre";
+translate "Blonde Rotproof Boards"
+to french "Planches traitées blondes, imputrescibles";
+translate "Blonde Termite Resistant Boards"
+to french "Planches traitées blondes, résistantes aux termites";
+translate "Black Glossy Boards"
+to french "Planches traitées noires, brillantes";
+
+translate "Open for Judging"
+to french "Soumettre à l'évaluation";
+
+translate "Formal gardens must have between 7 and 100 flowers within a 100 foot radius."
+to french "Les jardins décoratifs doivent comporter entre 7 et 100 fleurs dans un rayon de 100 pieds.";
+
+translate "Open for judging? Once open, a garden may not be closed."
+to french "Voulez-vous permettre de juger votre jardin ? Une fois qu'un jardin est ouvert au jugement, vous ne pouvez plus revenir sur votre décision !";
+
+translate "You Formal Garden is open for judging."
+to french "Votre jardin décoratif est ouvert au jugement d'autrui.";
+
+translate "This garden has more than 100 flowers,"
+to french "Ce jardin possède plus de 100 fleurs,";
+
+translate "which violates the spirit of the Test."
+to french "l'esprit de cette épreuve n'est pas respecté.";
+
+translate "This garden has more than 100 flowers, which violates the spirit of the Test."
+to french "Ce jardin possède plus de 100 fleurs, l'esprit de cette épreuve n'est pas respecté.";
+
+translate "K1"
+to french "K1";
+
+translate "Read the gardener's notes"
+to french "Consulter les notes du jardinier";
+
+translate "Formal Garden Stella"
+to french "Stèle de jardin décoratif";
+
+translate "Stellae may only be built within 100 feet of a Gazebo."
+to french "Les stèles ne peuvent être construites qu'à moins de 100 pieds d'un gazebo.";
+
+translate "To build a Formal Garden Stella, you need:"
+to french "Pour construire une stèle de jardin décoratif, il vous faut :";
+
+translate "Advance winning design now"
+to french "Proposer une candidature";
+
+translate "Formal Garden: No winner"
+to french "Jardin décoratif : pas de vainqueur";
+
+translate "In the opinion of N1 judges, and with a score of N2, Egypt recognizes U1, for passing the Test of Formal Garden for his design at N3 N4. "
+to french "Selon N1 juges, avec un score de N2, l'Egypte reconnaît que U1(name) passe l'épreuve de Jardin Artistique pour sa réalisation située en N3 N4.";
+
+translate "Error: Could not find Formal Garden designer at N1 N2"
+to french "Erreur : il n'y a pas de concepteur de jardin artistique en N1 N2";
+
+translate "To build a Formal Garden Stella, you need:"
+to french "Pour édifier une stèles de Jardin Décoratif, il vous faut :";
+

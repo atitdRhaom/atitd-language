@@ -1,0 +1,31 @@
+Module Login_fre;
+
+translate "Character"
+to french "Personnage";
+
+translate "Character Name"
+to french "Nom de personnage";
+
+translate "username:"
+to french "Pseudonyme";
+
+translate "Password"
+to french "Mot de passe";
+
+translate "Confirm Password"
+to french "Confirmer le mot de passe";
+
+translate "Login"
+to french "Entrer";
+
+translate "CREATE:"
+to french "CREER:";
+
+translate "New Character"
+to french "Nouveau compte";
+
+translate "creation"
+to french "création";
+
+translate "Sex"
+to french "Sexe";

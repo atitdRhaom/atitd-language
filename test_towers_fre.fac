@@ -1,0 +1,451 @@
+module Towers_fre;
+
+translate Towers to french feminine
+{
+	ns "L'épreuve des Tours"; np "L'épreuve des Tours";
+	}
+
+translate VTower to french feminine
+{
+	ns "Tour générique"; np "tTurs génériques";
+	}
+
+translate VTowerMonument to french feminine
+{
+	ns "Tour monumentale"; np "Tours monumentales";
+	}
+
+translate TowerSolidLand to french feminine
+{
+	ns "Tour de la terre ferme"; np "Tours de la terre ferme";
+	}
+
+translate TowerRichSoil to french feminine
+{
+	ns "Tour du sol fertile"; np "Tours du sol fertile";
+	}
+
+translate TowerNewLife to french feminine
+{
+	ns "Tour de la renaissance"; np "Tours de la renaissance";
+	}
+
+translate TowerHandOfMan to french feminine
+{
+	ns "Tour de la main de l'homme"; np "Tours de la main de l'homme";
+	}
+
+translate TowerRacingMind to french feminine
+{
+	ns "Tour de la pensée vive"; np "Tours de la pensée vive";
+	}
+
+translate towerlivingland to french feminine
+{
+	ns "Tour de la terre vivante"; np "Tours de la terre vivante";
+	}
+
+translate TowerNight to french feminine
+{
+	ns "Tour de la nuit"; np "Tours de la nuit";
+	}
+
+translate MonumentalSolidLand to french feminine
+{
+	ns "Tour monumentale de la terre ferme"; np "Tours monumentales de la terre ferme";
+	}
+
+translate MonumentalRichSoil to french feminine
+{
+	ns "Tour monumentale de la fertilité"; np "Tours monumentales de la fertilité";
+	}
+
+translate MonumentalNewLife to french feminine
+{
+	ns "Tour monumentale de la renaissance"; np "Tours monumentales de la renaissance";
+	}
+
+translate MonumentalHandOfMan to french feminine
+{
+	ns "Tour monumentale de la main de l'homme"; np "Tours monumentales de la main de l'homme";
+	}
+
+translate MonumentalRacingMind to french feminine
+{
+	ns "Tour monumentale de la pensée vive"; np "Tours monumentales de la pensée vive";
+	}
+
+translate MonumentalLivingLand to french feminine
+{
+	ns "Tour monumentale de la terre vivante"; np "Tours monumentales de la terre vivante";
+	}
+
+translate MonumentalNight to french feminine
+{
+	ns "Tour monumentale de la nuit"; np "Tours monumentales de la nuit";
+	}
+
+translate "Test of Towers"
+to french "Épreuve des tours";
+
+translate "The Hour of Towers occurs about once per three (Egypt) days. The schedule for the next seven Hours of Towers is shown on the calendar. When the hour arrives, build any number of Towers across the land. You control all land that is closest to one of your towers. Control an amount of land equal to all of Egypt to pass the Test of Towers."
+to french "L'Heure des tours arrive une fois tous les trois jours (jours d'égypte). L'horaire pour les sept prochaines constructions de tours est disponible à toutes les universités d'architecture. Le moment venu, construisez le nombre de tours de votre choix à travers l'égypte. Vous contrôlez les terres qui sont les plus rapprochées de chacune de vos tours. Contrôler l'équivalent de la superficie de l'égypte pour réussir l'épreuve des tours.";
+
+translate "Hint: Since you only have K1 to place your towers, contract with others to build for you. Be sure they transfer ownership before the end of the Hour of Towers."
+to french "Conseil: Puisque vous avez seulement K1 pour placer vos tours, demandez à d'autres de construire pour vous. Assurez-vous qu'ils vous transfèrent la tour avant la fin de l'épreuve.";
+
+translate "Principles of Towers challenges you to build two different kinds of Towers during Hours of Towers, and control a total of 7% of Egypt's land. Easy tower types include Towers of the Living Land, Rich Soil, and Hand of Man."
+to french "Les principes des tours vous mettent au défi de construire deux types différents de tours pendant les heures des tours, et contrôler au total 7% des terres d'égypte. Les types de tours faciles à réaliser sont les tours de la terre vivante, de la fertilité, et de la main de l'homme.";
+
+translate "Build a First Tower Type"
+to french "Erigez un premier type de tour";
+
+translate "Build a Second Tower Type"
+to french "Erigez un second type de tour";
+
+translate "Control 7% of Egypt"
+to french "Contrôler 7% de l'égypte";
+
+translate "You have completed Principles of Towers."
+to french "Vous avez complété les principes des tours.";
+
+translate "Done:"
+to french "Fait:";
+
+translate "Done"
+to french "Fait";
+
+translate "Not a O1"
+to french "Pas O1(uns) O1(ns)";
+
+translate "Initialized tower "
+to french "Tour commencée ";
+
+translate "Tests/K1/Status Report"
+to french "Épreuves/K1/Compte-rendu";
+
+translate "It is now the Hour of O1.\nTime left is: ."
+to french "C'est l'heure de O1(lns) O1(ns).\nTemps restant: .";
+
+translate "Status Report"
+to french "Compte-rendu";
+
+translate "Status Report:\n"
+to french "Compte-rendu:\n";
+
+//- After correction by Pluribus -//
+translate "Hour of the O1."
+to french "Heure de la O1(ns)";
+translate "Hour of the O1, No towers were built."
+to french "Heure de la O1(ns), aucune tour n'a été construite.";
+translate "No towers were built"
+to french "Aucune tour n'a été construite";
+translate "Hour of the O1, "
+to french "Heure de la O1(ns), ";
+
+Translate "N1 towers were built. The top N2 claims are:"
+to french "N1 tours ont été construites. Les N2 premières sont:";
+
+
+//translate "U1 claimed N1% using N2 towers"
+//to french "U1(name) a capturé N1% avec N2 tours";
+
+
+translate "U1 claimed "
+to french "U1(name) a capturé ";
+
+translate "% using N1 towers"
+to french "% avec N1 tours";
+
+translate "    Tower K1 at K2 K3\n"
+to french "    Tour K1 à K2 K3\n";
+
+translate "    Tower N1 at N2 N3\n"
+to french "    Tour N1 à N2 N3\n";
+
+translate "Owner U1 has N1\n"
+to french "U1(name) a N1 points\n";
+
+translate "Tests/K1/Prove Ability/"
+to french "Épreuves/K1/Démontrer vos capacités/";
+
+translate "Prove Ability"
+to french "Démontrer vos capacités";
+
+translate "To Prove Egypt's Ability to create the O1 requires:\n"
+to french "Pour démontrer à l'égypte votre capacité à bâtir O1(uns) O1(ns), vous avez besoin de:\n";
+
+translate "U1 has proven Egypt's ability to build the O1."
+to french "U1(name) a démontré à l'égypte sa capacité à bâtir O1(lns) O1(ns).";
+
+translate "All of Egypt"
+to french "Toute l'égypte";
+
+// - Part of what follows should be deleted when pluribus corrections +my translation has been tested - //
+translate "Hour of Towers"
+to french "Heure des tours";
+
+translate "The Hour of the O1 has begun."
+to french "L'heure de la O1(ns) est commencée";
+
+translate "The Hour of the O1 has ended. Scores will be reported in your main window in about a minute."
+to french "L'heure de la O1(ns) est terminée. Les résultats apparaîtront dans le canal système dans environ une minute.";
+
+translate "Hour of O1, N1 towers built. The top N2 claims are: K1"
+to french "Heure de O1(ns), N1 tours érigées. Les N2 premiers sont: K1";
+
+translate "U1 claimed N1.N2% using N3 towers. "
+to french "U1(name) a capturé N1.N2% avec N3 tours. ";
+
+translate "[Extra]With this Tower, U1 claimed N1% of Egypt, N2 ago."
+to french "[Extra]Avec cette tour, U1(name) a réclamé N1% de l'égypte, il y a de cela N2.";
+
+translate "Your Claim is N1% of Egypt"
+to french "Vous avez conquis N1% de l'égypte.";
+// ----------------------------
+
+translate "Tests/O1/"
+to french "Épreuves/O1(ns)/";
+
+translate "Your towers claimed N1.N2% of Egypt.\n"
+to french "Vos tours ont couvert N1.N2% de l'égypte.\n";
+
+translate "Test of Towers: Your total claim this hour was one of the top N1, so the full amount carries over.\n"
+to french "Épreuve des Tours: Vous êtes parmi les N1 qui ont réclamé le plus grand pourcentage de l'égypte, donc le pourcentage en entier sera pris en compte.\n";
+
+translate "Test of Towers: Your total claim this hour was not in the top N1. so just one seventh carries over.\n"
+to french "Épreuve des Tours: Vous ne faites pas partie des N1 qui ont réclamé le plus grand pourcentage de l'égypte. Par conséquent, seulement un septième de votre résultat sera comptabilisé.\n";
+
+translate "Your claim has risen from N1.N2% of Egypt to N3.N4% of Egypt."
+to french "Le pourcentage de l'égypte que vous réclamez passe de N1.N2% à N3.N4%.";
+
+translate "[Extra]This tower captured N1% of Egypt."
+to french "[Extra]Cette tour contrôle N1% de l'égypte.";
+
+translate "[Extra]This tower has captured K1% of Egypt."
+to french "[Extra]Cette tour a réussi à contrôler K1% de l'égypte.";
+
+translate "Add Tower called out of bounds. Contact Developers."
+to french "La tour ajoutée est hors-normes. Appelez un développeur.";
+
+translate "Total scores"
+to french "Pointage total";
+
+translate "Total scores: N1"
+to french "Pointage total: N1";
+
+translate "Total scores: "
+to french "Pointage total: ";
+
+translate "Hour of the O1, N1 towers build. The top N2 claims are :"
+to french "Heure de O1(ns), N1 tours construites. Les N2 premières sont :";
+
+translate "Scan for Nearby Towers"
+to french "Vérifier s'il y a d'autres tours dans les environs.";
+
+translate "This is too close to another Tower."
+to french "Vous êtes trop près d'une autre tour.";
+
+translate "This area is fine for building a Tower."
+to french "Vous pouvez construire une tour ici.";
+
+translate "Recover all materials from this O1"
+to french "Récupérer tout le matériel utilisé de O1(cns) O1(ns)";
+
+translate "Bricks for Structure"
+to french "Briques pour la structure.";
+
+translate "Clay Lamp for Illumination"
+to french "Lampe d'argile pour l'éclairage.";
+
+translate "Cut Stones for Reinforcement"
+to french "Pierres taillées pour solidifier.";
+
+translate "White Sand as an Offering"
+to french "Sables blancs en guise d'offrande.";
+
+translate "Medium Quartz for the Beacon"
+to french "Quartz moyens pour la balise.";
+
+translate "Onions as Offering"
+to french "Oignons en guise d'offrande.";
+
+translate "Carrots as Offering"
+to french "Carottes en guise d'offrande.";
+
+translate "Cabbage as Offering"
+to french "Choux en guise d'offrande.";
+
+translate "Leeks as Offering"
+to french "Poireaux en guise d'offrande.";
+
+translate "Garlic as Offering"
+to french "Ail en guise d'offrande.";
+
+translate "Saltpeter as Enrichment"
+to french "Salpêtres en guise d'engrais.";
+
+translate "Medium Topaz for the Beacon"
+to french "Topazes moyens pour la balise.";
+
+translate "Ash to demonstrate life's end"
+to french "Cendres pour signifier la fin de la vie.";
+
+Translate "Firebricks to show Permanence"
+to french "Briques réfractaires pour représenter la stabilité.";
+
+Translate "Charcoal to show man's control of nature"
+to french "Charbons de bois pour démontrer le contrôle de l'homme sur la nature.";
+
+Translate "Iron Bars to show Strength"
+to french "Barres de fer, signe de force.";
+
+Translate "Medium Rubies for the Beacon"
+to french "Rubis moyens pour la balise.";
+
+Translate "Eggs as Offering"
+to french "Oeufs en guise d'offrande.";
+
+Translate "Onion Seeds as Precious Gift"
+to french "Graine d'oignon, un cadeau précieux.";
+
+Translate "Carrot Seeds as Precious Gift"
+to french "Graine de carotte, un cadeau précieux.";
+
+Translate "Cabbage Seeds as Precious Gift"
+to french "Graine de chou, un cadeau précieux.";
+
+Translate "Leek Seeds as Precious Gift"
+to french "Graine de poireau, un cadeau précieux.";
+
+Translate "Garlic Seeds as Precious Gift"
+to french "Graine d'ail, un cadeau précieux.";
+
+Translate "Medium Sapphires for the Beacon"
+to french "saphir moyen pour la balise.";
+
+Translate "Papyrus Paper, showing Contemplation"
+to french "Papiers papyrus, témoin de contemplation";
+
+Translate "Cobra's Bite Extract, showing Daring"
+to french "Extraits de venin de cobra, représentant le sens du défi.";
+
+Translate "Nut's Essence, showing Daring"
+to french "Essence de noix, représentant le sens du défi.";
+
+Translate "Quicksilver, showing Haste"
+to french "Vif argents, gage de rapidité.";
+
+Translate "Lens Amethyst for the Beacon"
+to french "Lentille améthyste pour la balise.";
+
+Translate "Wood for Structure"
+to french "Bois pour la structure.";
+
+Translate "Medium Emeralds for the Beacon"
+to french "Emeraudes moyennes pour la balise.";
+
+Translate "Dates, sweet gift of Flora"
+to french "Dattes, offrande sucrée provenant de la flore.";
+
+Translate "Honey, sweet gift of Fauna"
+to french "Miel, offrande sucrée provenant de la faune.";
+
+Translate "Medium Diamonds for the Beacon"
+to french "Diamants moyens pour la balise.";
+
+Translate "Slate as Barrier"
+to french "Ardoises pour servir de barrière.";
+
+Translate "Night Granite as Shield"
+to french "Granits nuit pour servir de protection.";
+
+Translate "Dung Rot Mushrooms as Offering"
+to french "Pourritures en guise d'offrande.";
+
+Translate "Peasant's Foot Mushrooms as Offering"
+to french "Champignons Pied de Paysan en guise d'offrande.";
+
+Translate "Toad Skin Mushrooms as Offering"
+to french "Peaux de crapaud en guise d'offrande.";
+
+Translate "Sand Spore Mushrooms as Offering"
+to french "Spores des sables en guise d'offrande.";
+
+Translate "Earth Light Mushrooms as Offering"
+to french "Lumières de terre en guise d'offrande.";
+
+Translate "Eye of Osiris Mushrooms as Offering"
+to french "Champignons Oeil d'Osiris en guise d'offrande.";
+
+Translate "Bleeding Hand Mushrooms as Offering"
+to french "Mains sanglantes en guise d'offrande.";
+
+Translate "Dung Rot Mushrooms as Offering"
+to french "Pourritures en guise d'offrande.";
+
+translate "Check construction costs"
+to french "Vérifier le coût de construction";
+
+translate "Check construction costs/"
+to french "Vérifier le coût de construction/";
+
+translate "To build a O1:\n\n"
+to french "Pour construire O1(uns) O1(ns):\n\n";
+
+translate "Projects"
+to french "Projets";
+
+translate "Test of Towers: O1"
+to french "Épreuve des Tours: O1(ns)";
+
+translate "Your tower location is too remote."
+to french "Votre tour est trop éloignée.";
+
+translate "You may not build within 1000 feet of another Tower."
+to french "Vous ne pouvez construire à moins de 1000 pieds d'une autre tour.";
+
+translate "This tower may be out of bounds. Then again, this message may be in error. Anyway, contact the developers if something looks wrong."
+to french "Cette tour peut être hors des limites. Toutefois, ce message pourrait être une erreur. Contactez un développeur si quelque chose semble ne pas aller.";
+
+translate "Towers must be built in Egypt proper."
+to french "Les tours doivent être construites en égypte.";
+
+translate "To build a O1, you need: "
+to french "Pour construire O1(uns) O1(ns), vous avez besoin de: ";
+
+translate "Only one Monumental tower of each type may be built."
+to french "Une seule tour monumentale de chaque type peut être construite.";
+
+translate "Monumental Towers"
+to french "Tours monumentales";
+
+translate "Monumental Tower of the Rich Soil"
+to french "Tour monumentale de la fertilité";
+
+translate "Monumental Tower of the Solid Land"
+to french "Tour monumentale de la terre ferme";
+
+translate "Monumental Tower of the Hand of Man"
+to french "Tour monumentale de la main de l'homme";
+
+translate "Monumental Tower of the Living Land"
+to french "Tour monumentale de la terre vivante";
+
+translate "Monumental Tower of the Racing Mind"
+to french "Tour monumentale de la pensée vive";
+
+translate "Monumental Tower of New Life"
+to french "Tour monumentale de la renaissance";
+
+translate "Monumental Tower of Night"
+to french "Tour monumentale de la nuit";
+
+translate "Your claim is N1.N2% of Egypt"
+to french "Vous détenez N1.N2% de l'Egypte";
+
+translate "Hour of the O1, N1 towers built. The top N2 claims are: K1"
+to french "Heure de O1(lns) O1(ns), N1 tours construites. Les N2 meilleurs scores sont: K1";
+
+translate "This tower has captured N1.N2% of Egypt."
+to french "Cette tour a capturé N1.N2% du territoire de d'Egypte.";

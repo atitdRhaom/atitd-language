@@ -1,0 +1,14 @@
+module duelselect_fre;
+
+translate "Opponent must now select you."
+to french "Un adversaire doit maintenant vous choisir.";
+
+translate "Choose an Opponent."
+to french "Choisissez un adversaire.";
+
+translate "Now your opponent must choose you."
+to french "Maintenant un adversaire doit vous choisir.";
+
+translate "I'm Just Watching"
+to french "Je ne fais que regarder.";
+

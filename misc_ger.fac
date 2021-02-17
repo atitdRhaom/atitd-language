@@ -1,0 +1,90 @@
+module misc_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment		           **
+//**                                                                       **
+//***************************************************************************
+
+translate "Donate to the public"
+to german "Spende der Öffentlichkeit";
+
+translate "On behalf of U1"
+to german "Im Namen von U1(name)";
+
+translate "Public"
+to german "Öffentlich";
+
+translate "By order of the No Public Structures by a Trial Account, introduced by ThutmosesIII, only paid accoounts may make structures public."
+to german "Per Gesetzgebung der die Regelung öffentlicher Gebäude sichert, eingeführt durch ThutmosesIII, dürfen nur Zahlaccounts Gebäude öffentlich machen.";
+
+translate "Once you contribute something to the public, you can't undo your action. Are you sure you want to do this?"
+to german "Einmal der Öffentlichkeit gespendet, kannst du deine Aktion nicht mehr rückgängig machen. Willst du das wirklich tun?";
+
+translate "Contribute this to my guild"
+to german "Übergebe dies meiner Gilde";
+
+translate "Once you contribute something to your guild, you can't undo your action. Are you sure you want to do this?"
+to german "Einmal der Gilde überschrieben, kannst du deine Aktion nicht mehr rückgängig machen. Willst du das wirklich tun?";
+
+translate "This is too far away"
+to german "Dies ist zu weit weg";
+
+translate "Tear down this building"
+to german "Reiße dieses Gebäude ab";
+
+translate "Tear this down (Removal of Public Buildings Act)"
+to german "Reiße dies ab (Abrissgesetz von öffentlichen Gebäuden)";
+
+translate "You can not tear down this O1"
+to german "Du kannst O1(tsn) O1(sn) nicht abreißen";
+
+translate "Are you sure you want to tear down this O1?"
+to german "Bist du sicher, dass du O1(tsn) O1(sn) abreißen möchtest?";
+
+translate "Tear Down"
+to german "Reiße ab";
+
+translate "Cancel"
+to german "Abbruch";
+
+translate "Owner is U1"
+to german "Eigentümer ist U1(name)";
+
+translate "Add Pharaoh's seal of protection"
+to german "Füge Pharaohs Siegel des Schutzes hinzu";
+
+translate "You have N1 seals left. Use one on this sculpture?"
+to german "Du hast N1 Siegel übrig. Eines für diese Skulpture benutzen?";
+
+translate "Protected."
+to german "Geschützt.";
+
+translate "This sculpture is specially protected by Pharaoh"
+to german "Diese Skulpture ist speziell durch Pharaoh geschützt";
+
+translate "Toggle Help"
+to german "Hilfe umschalten";
+
+translate "That can't be done with a public building."
+to german "Das kann nicht mit einem öffentlichen Gebäude gemacht werden.";
+
+translate "What time is it?"
+to german "Wie spät ist es?";
+
+translate "Reclaim this from the public"
+to german "Beanspruche dies von der Öffentlichkeit";
+
+translate "Utility"
+to german "Nützliches";
+
+translate "Tear this down by order of the Ban Yoda law."
+to german "Reiße das Gebäude aufgrund des Ban Yoda Gesetzes ab.";
+
+translate "Tear this down by order of 'Building On Game Courts' law"
+to german "Reiße das Gebäude aufgrund des 'Gebäude auf Spielflächen'-Gesetzes ab";
+
+translate "That can't be done with a public building."
+to german "Das kann mit einem öffentlichen Gebäude nicht getan werden.";

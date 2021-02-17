@@ -1,0 +1,34 @@
+module chat_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**            German Version: Astrid "Infinyti" Werner                   **
+//**                            2012                                       **
+//**                                                                       **
+//***************************************************************************
+
+translate "Browsing to URL"
+  to german "Öffne die URL";
+
+translate "Sending message to U1..."
+  to german "Schicke die Nachricht an U1(name)... ";
+
+translate "U1 is not a player, plase DevCall"
+  to german "U1(name) ist kein Spieler, rufe einen Entwickler";
+
+translate "U1 is not a player, please DevCall"
+  to german "U1(name) ist kein Spieler, rufe einen Entwickler";
+
+translate "Tell"
+  to german "Sagen";
+
+translate "What would you like to do?"
+  to german "Was möchtest du tun?";
+
+translate "Traveling to U1"
+  to german "Reise zu U1(name)";
+
+translate "Player is logged out right now."
+  to german "Der Spieler ist momentan ausgeloggt.";
+

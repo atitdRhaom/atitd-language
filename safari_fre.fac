@@ -1,0 +1,426 @@
+Module safari_fre;
+
+translate Safari to french feminine
+{
+  ns "L'épreuve du Safari"; np "L'épreuve du Safari";
+}
+
+translate gazelle to french feminine
+{
+  ns "Gazelle"; np "Gazelles";
+}
+
+translate falcon to french masculine
+{
+  ns "Faucon"; np "Faucons";
+}
+
+translate ibis to french masculine
+{
+  ns "Ibis"; np "Ibis";
+}
+
+translate desertrat to french feminine
+{
+  ns "Gerbille"; np "Gerbilles";
+}
+
+translate otter to french feminine
+{
+  ns "Loutre"; np "Loutres";
+}
+
+translate bullfrog to french masculine
+{
+  ns "Crapaud taureau"; np "Crapauds taureau";
+}
+
+translate IbisFeathers to french masculine
+{
+  ns "Plume d'ibis"; np "Plume d'ibis";
+}
+
+translate FennecTrap to french masculine
+{
+  ns "Piège à fennec"; np "Pièges à fennec";
+}
+
+translate OtterHole to french masculine
+{
+  ns "Terrier de loutre"; np "Terrier de loutre";
+}
+
+translate Falcons to french masculine
+{
+  ns "Faucons"; np "Faucons";
+}
+
+translate Brown to french masculine
+{
+  ns "brun"; np "bruns";
+}
+
+translate Ruddy to french masculine
+{
+  ns "roux"; np "roux";
+}
+
+translate Furry to french masculine
+{
+  ns "angorra"; np "angorra";
+}
+
+translate Pygmy to french masculine
+{
+  ns "pygmée"; np "pygmée";
+}
+
+translate "Brown" to french "Brun";
+
+translate "Ruddy" to french "roux"; 
+
+translate "Furry" to french "Angorra"; 
+
+translate "Pygmy" to french "Pygmé"; 
+
+translate "Short-Haired" to french "Poils courts";
+
+translate "Bushy-Tailed" to french "Queue touffue";
+
+
+translate "The Principles of the Test of Safari will help you to understand how to catch each of the animals."
+to french "Les Principes du Safari vous aideront à comprendre comment traquer et attraper chaque espèce d'animal.";
+
+translate "Build a Fennec Trap"
+to french "Poser un piège à fennec";
+translate "See a Gazelle"
+to french "Repérer une gazelle";
+translate "Force an Otter to move to another hole"
+to french "Obliger une loutre à se déplacer vers un autre trou";
+translate "Capture an Ibis"
+to french "Capturer un ibis";
+translate "Drop a Rabbit for a hungry falcon"
+to french "Poser un lapin au sol pour attirer un faucon affamé";
+translate "Detect the signs of a Fennec"
+to french "Détecter les signes de la présence d'un fennec";
+
+translate "You have completed the Principles of the Test of Safari."
+to french "Vous avez terminé les Principes du Safari.";
+
+
+translate "Test of the Safari"
+to french "L'épreuve du Safari";
+
+translate "Read my Log Book"
+to french "Consulter mon carnet de route";
+
+translate "Gazelle"
+to french "Gazelle";
+translate "Falcons"
+to french "Faucons";
+translate "Ibis"
+to french "Ibis";
+translate "Desert Rat"
+to french "Gerbille";
+translate "Otter"
+to french "Loutre";
+translate "Bullfrog"
+to french "Crapaud taureau";
+
+translate "    Gazelle: N1 (N2 remain)"
+to french "    Gazelle: N1 (N2 restant)";
+translate "    Falcons: N1 (N2 remain)"
+to french "    Faucons: N1 (N2 restant)";
+translate "    Ibis: N1 (N2 remain)"
+to french "    Ibis: N1 (N2 restant)";
+translate "    Desert Rat: N1 (N2 remain)"
+to french "    Gerbille: N1 (N2 restant)";
+translate "    Otter: N1 (N2 remain)"
+to french "    Loutre: N1 (N2 restant)";
+translate "    Bullfrog: N1 (N2 remain)"
+to french "    Crapaud taureau: N1 (N2 restant)";
+
+
+translate "    Fennec: N1 (N2 types remain)"
+to french "    Fennec: N1 (N2 espèces restantes)";
+
+translate "    Gazelle: N1 (Complete)"
+to french "    Gazelle: N1 (terminé)";
+translate "    Falcons: N1 (Complete)"
+to french "    Faucons: N1 (terminé)";
+translate "    Ibis: N1 (Complete)"
+to french "    Ibis: N1 (terminé)";
+translate "    Desert Rat: N1 (Complete)"
+to french "    Gerbille: N1 (terminé)";
+translate "    Otter: N1 (Complete)"
+to french "    Loutre: N1 (terminé)";
+translate "    Bullfrog: N1 (Complete)"
+to french "    Crapaud taureau: N1 (terminé)";
+translate "    Fennec: N1 (Complete)"
+to french "    Fennec: N1 (terminé)";
+
+translate "   Fennecs Captured: N1"
+to french "   Fennecs capturés: N1";
+
+translate "        Fennecs Captured: K1, K2, K3, K4"
+to french "        Fennecs capturés : K1, K2, K3, K4";
+
+
+translate "In the Test of the Safari you will learn to track and capture seven species of Egyptian fauna. Each species has unique behaviors and tracking methods, and each must be accomplished four times. More information about each species can be found here."
+to french "Dans l'Épreuve du Safari, vous allez apprendre à traquer et capturer sept espèces animales d'égypte. Vous devrez adapter votre méthode de chasse pour chacune d'elles. Vous devez capturer quatre spécimens de chaque espèce. Vous pouvez ici-même obtenir de plus amples informations sur chacune des espèces.";
+
+translate "Read about tracking Falcons"
+to french "Se renseigner sur la traque des Faucons (falcons)";
+
+translate "To identify a Falcon Roost, drop a rabbit. A falcon will take it sometime within the next 5 minutes (but never within the first minute), and will fly off toward the nearest roost. Trees may be checked for roosts, but doing so is exhausting!"
+to french "Pour identifier un perchoir de faucon, déposez un lapin sur le sol. Un faucon le saisira peut être dans les 5 minutes qui suivent (mais jamais durant la première minute), et ira au perchoir le plus proche. Il est possible de vérifier si un arbre contient un perchoir à faucon, mais ceci est fatiguant !";
+
+translate "Read about tracking Fennecs"
+to french "Se renseigner sur la traque des Fennecs (fennecs)";
+
+translate "Build a Fennec trap using boards and rope. Each night, traps on the outskirts of a pack will show signs of the creatures, and traps within 250 coordinates will capture one. At least four different subspecies of Fennecs must be captured and released."
+to french "Construisez un piège à fennecs avec des planches et des cordes. Chaque nuit, les pièges en périphérie d'une meute de fennecs signaleront la présence de ceux-ci, et ceux disposés à moins de 250 pieds en captureront un. Il faut capturer et relâcher au moins quatres des sous-espèces de fennecs différentes.";
+
+translate "Read about tracking Bullfrogs"
+to french "Se renseigner sur la traque des Crapauds taureau (bullfrog)";
+
+translate "Bullfrogs exhibit almost perfect camouflage, but their distinctive sound gives them away. High Dexterity helps capture these creatures."
+to french "Ces crapeaux sont experts en camouflage mais leur chant si reconnaissable les perdra. Le fait d'avoir une grande dexterité facilite leur capture.";
+
+translate "Read about tracking Gazelles"
+to french "Se renseigner sur la traque des Gazelles (gazelles)";
+
+translate "Gazelles run faster than humans. The key to tagging a Gazelle is to tire it out. Strong teamwork is a must."
+to french "La gazelle court plus vite que l'humain. Fatiguer l'animal est la clef de la capture d'une gazelle. Un vrai travail d'équipe s'impose.";
+
+translate "Read about tracking Desert Rats"
+to french "Se renseigner sur la traque des Gerbilles (desert rats)";
+
+translate "Fast-moving Desert Rats blend perfectly with Egypt's terrain, but their distinctive tracks will lead to them every time. Be aware that the wind will cover up tracks over time."
+to french "Les gerbilles sont rapides et se confondent parfaitement avec le terrain, mais leurs empreintes vous permettrons de les retrouver à coup sûr. Notez que le vent effacera graduellement leurs pistes.";
+
+translate "Read about tracking Ibis"
+to french "Se renseigner sur la traque des Ibis (ibis)";
+
+translate "Only one flock of Ibis inhabits Egypt. Tagging a single bird causes it to flee, but the rest of the flock is unfazed. The flock tends to move at night, and resettle in the morning."
+to french "Il n'y a qu'une seule colonie d'Ibis en égypte. Cet oiseau s'envole dès qu'on le touche, mais le reste de la colonie demeure indifférent. La colonie a tendance à se déplacer la nuit et à se poser le matin.";
+
+translate "Read about tracking Otters"
+to french "Se renseigner sur la traque des Loutres (otter)";
+
+translate "Otters build an underground network of tunnels. It is possible to put a stick (wood) down to block a portion of the network, but if too many holes are blocked, the Otter will get annoyed and eat a stick!"
+to french "Les loutres construisent un réseau de tunnels souterrains. Il est possible de planter des bâtons de bois afin d'isoler une portion du complexe, mais si trop de trous sont bloqués, la loutre s'énervera et mangera un bâton !";
+
+translate "Capture this Ibis"
+to french "Capturer cet ibis";
+
+translate "Admire this Ibis"
+to french "Admirer cet ibis";
+
+translate "It's a splendid bird. Almost makes you wish you were on a safari."
+to french "C'est un oiseau superbe. Vous souhaiteriez presque faire un safari.";
+
+translate "You may only capture one Ibis per Egyptian day."
+to french "Vous ne pouvez capturer qu'un ibis par jour (d'égypte).";
+
+translate "You capture the Ibis, and record the capture in your logbook. You save some of the Ibis's plumage as a souvenir."
+to french "Vous attrappez l'ibis et notez la capture dans votre carnet de route.Vous gardez un peu de son plumage en souvenir.";
+
+translate "You have successfully captured an Ibis! You need four total to pass this part of the test."
+to french "Vous avez capturé un ibis! Vous en avez besoin de 4 en tout pour réussir cette partie de l'épreuve";
+
+translate "Warp To Otter Hole"
+to french "Se téléporter au terrier de la loutre";
+
+translate "A falcon grabs the rabbit and devours it!"
+to french "Un faucon s'empare du lapin et le dévore !";
+
+translate "A falcon grabs the rabbit and flies off to the K1"
+to french "Un faucon agrippe le lapin et s'envole dans la direction K1";
+
+translate "A falcon grabs the rabbit and flies off to the North"
+to french "Un faucon agrippe le lapin et s'envole vers le Nord";
+
+translate "A falcon grabs the rabbit and flies off to the Northeast"
+to french "Un faucon agrippe le lapin et s'envole vers le Nord-Est.";
+
+translate "A falcon grabs the rabbit and flies off to the East"
+to french "Un faucon agrippe le lapin et s'envole vers l'Est.";
+
+translate "A falcon grabs the rabbit and flies off to the Southeast"
+to french "Un faucon agrippe le lapin et s'envole vers le Sud-Est.";
+
+translate "A falcon grabs the rabbit and flies off to the South"
+to french "Un faucon agrippe le lapin et s'envole vers le Sud.";
+
+translate "A falcon grabs the rabbit and flies off to the Southwest"
+to french "Un faucon agrippe le lapin et s'envole vers le Sud-Ouest.";
+
+translate "A falcon grabs the rabbit and flies off to the West"
+to french "Un faucon agrippe le lapin et s'envole vers l'Ouest.";
+
+translate "A falcon grabs the rabbit and flies off to the Northwest"
+to french "Un faucon agrippe le lapin et s'envole vers le Nord-Ouest.";
+
+translate "Target is K1 K2"
+to french "La cible est à K1 K2";
+
+translate "Your rabbit has been eaten by a hungry falcon! Follow the direction that it flies to discover its nest. Nests are found in trees."
+to french "Votre lapin s'est fait dévoré par un faucon affamé! Suivez-le afin de découvrir son perchoir caché dans un arbre.";
+
+translate "Search for Falcon Roosts"
+to french "Chercher des perchoirs de faucons";
+
+translate "You search, but can't find any evidence of a roost."
+to french "Vous cherchez, mais ne trouvez aucune trace de perchoir.";
+
+translate "You find a Falcon Roost in the O1! You have now identified N1 Falcon Roosts!"
+to french "Vous trouvez un perchoir dans un O1(ns)! Nombre de perchoirs identifiés: N1";
+
+translate "Brown"
+to french "brun";
+translate "Ruddy"
+to french "roux";
+translate "Furry"
+to french "angorra";
+translate "Short-Haired"
+to french "à poil court";
+translate "Pygmy"
+to french "pygmée";
+translate "Sharp-Toothed"
+to french "à dents pointues";
+translate "Bushy-Tailed"
+to french "à queue touffue";
+
+translate "Build a Fennec Trap"
+to french "Poser un piège à fennec";
+
+translate "Fennec traps must be built on sand."
+to french "Les pièges a fennec doivent être posés sur le sable.";
+
+translate "To build a Fennec Trap you need:"
+to french "Pour poser un piège à fennec, il vous faut:";
+
+translate "You've built a Fennec Trap. Be sure to check this, and other traps from time to time. You need one of four different types to pass this part of the test."
+to french "Vous avez posé un piège à fennec. Pensez à inspecter les pièges régulièrement. Vous devez capturer un spécimen de chacune des quatre espèces de fennec pour réussir cette partie de l'épreuve.";
+
+translate "Check this trap"
+to french "Inspecter ce piège";
+
+translate "The trap is perfectly clean, not even a Fennec hair to be seen."
+to french "Le piège est vide. Pas meme un poil de fennec ne s'y trouve.";
+
+translate "Although the trap doesn't contain a live animal, you definitely see signs of O1 Fennecs!"
+to french "Aucun animal capturé, mais il est évident qu'un fennec O1(ns) est passé !";
+translate "Although the trap doesn't contain a live animal, you definitely see signs of K1 Fennecs!"
+to french "Aucun animal capturé, mais il est évident qu'un fennec K1 est passé !";
+translate "Although the trap doesn't contain a live animal, you definitely see signs of Furry Fennecs!"
+to french "Aucun animal capturé, mais il est évident qu'un fennec angorra est passé !";
+translate "Although the trap doesn't contain a live animal, you definitely see signs of Short-Haired Fennecs!"
+to french "Aucun animal capturé, mais il est évident qu'un fennec à poil court est passé !";
+translate "Although the trap doesn't contain a live animal, you definitely see signs of Sharp-Toothed Fennecs!"
+to french "Aucun animal capturé, mais il est évident qu'un fennec à dents pointues est passé !";
+translate "Although the trap doesn't contain a live animal, you definitely see signs of Bushy-Tailed Fennecs!"
+to french "Aucun animal capturé, mais il est évident qu'un fennec à queue touffue est passé !";
+translate "Although the trap doesn't contain a live animal, you definitely see signs of Pygmy Fennecs!"
+to french "Aucun animal capturé, mais il est évident qu'un fennec pygmée est passé !";
+translate "Although the trap doesn't contain a live animal, you definitely see signs of Ruddy Fennecs!"
+to french "Aucun animal capturé, mais il est évident qu'un fennec roux est passé !";
+translate "Although the trap doesn't contain a live animal, you definitely see signs of Brown Fennecs!"
+to french "Aucun animal capturé, mais il est évident qu'un fennec brun est passé !";
+
+translate "You have captured a K1 Fennec! You let the little fellow go to rejoin his pack."
+to french "Vous avez capturé un fennec K1! Vous laissez le petit animal s'echapper et rejoindre sa meute.";
+
+translate "You have captured a Bushy-Tailed Fennec! You let the little fellow go to rejoin his pack."
+to french "Vous avez capturé un fennec à queue touffue! Vous laissez le petit animal s'echapper et rejoindre sa meute.";
+
+translate "You have captured a Furry Fennec! You let the little fellow go to rejoin his pack."
+to french "Vous avez capturé un fennec angorra! Vous laissez le petit animal s'echapper et rejoindre sa meute.";
+
+translate "You have captured a Short-Haired Fennec! You let the little fellow go to rejoin his pack."
+to french "Vous avez capturé un fennec à poil court! Vous laissez le petit animal s'echapper et rejoindre sa meute.";
+
+translate "You have captured a Sharp-Toothed Fennec! You let the little fellow go to rejoin his pack."
+to french "Vous avez capturé un fennec à dents pointues! Vous laissez le petit animal s'echapper et rejoindre sa meute.";
+
+translate "You have captured a Pygmy Fennec! You let the little fellow go to rejoin his pack."
+to french "Vous avez capturé un fennec pygmée! Vous laissez le petit animal s'echapper et rejoindre sa meute.";
+
+translate "You have captured a Ruddy Fennec! You let the little fellow go to rejoin his pack."
+to french "Vous avez capturé un fennec roux! Vous laissez le petit animal s'echapper et rejoindre sa meute.";
+
+translate "You have captured a Brown Fennec! You let the little fellow go to rejoin his pack."
+to french "Vous avez capturé un fennec brun! Vous laissez le petit animal s'echapper et rejoindre sa meute.";
+
+translate "Set up a Desert Rat Trap"
+to french "Poser un piège à gerbille";
+
+translate "To set up a trap you need:"
+to french "Pour poser un piège à gerbille, vous avez besoin de:";
+
+translate "You trap and release the Desert Rat, bringing your count to N1."
+to french "Vous capturez et relâchez une gerbille. Vous en avez maintenant capturé N1.";
+
+translate "You quickly assemble a trap, but fail to catch a Desert Rat. You disassemble the trap and vow to grab the little creature next time."
+to french "Vous assemblez rapidement un piège, mais ne capturez rien. Vous démantelez le piège et faites le voeu de l'attrapper la prochaine fois.";
+
+translate "The wily otter scurries into her labyrinth of tunnels, resurfacing at another hole!"
+to french "La loutre futée se précipite dans son labyrinthe de tunnels et refait surface plus loin !";
+
+translate "The rascally otter ducks down into her tunnel, and pokes out another hole!"
+to french "Cette fripouille de loutre disparaît dans son tunnel, et sort par un autre trou !";
+
+translate "The clever otter runs down into her maze, finds another hole, and mocks you!"
+to french "La loutre, astucieuse, retourne dans son labyrinthe, trouve un autre trou, on dirait presque qu'elle vous nargue !";
+
+translate "You have forced the Otter to move to another hole. You must use sticks to pen the creature in, to capture it."
+to french "Vous forcez la loutre à aller à un autre trou. Vous devez utiliser des planches pour coincer l'animal et le capturer.";
+
+translate "You outwitted the Otter. You tag her, and she scurries off. You have now captured N1 otters."
+to french "Vous déjouez la loutre. Vous la touchez, et elle détale. Vous avez maintenant capturé N1 loutres.";
+
+translate "The Otter ate one of your sticks!"
+to french "La loutre a mangé un de vos bâtons !";
+
+translate "This is an O1"
+to french "c'est O1(uns) O1(ns)"; 
+
+translate "Could not find a spot for Otter "
+to french "Vous ne trouvez pas d'endroit où une loutre vit.";
+
+translate "This seems to be some sort of animal's home."
+to french "On dirait une sorte de terrier.";
+
+translate "Remove the Board"
+to french "Retirer la planche";
+
+translate "Insert a Board"
+to french "Mettre une planche";
+
+translate "Grab the Otter"
+to french "Attrappez la loutre";
+
+translate "You don't have any boards."
+to french "Vous n'avez pas de planches.";
+
+translate "You have gotten close enough to a bullfrog to clearly hear its croak! Search around and see if you can jump and find it."
+to french "Vous n'êtes pas assez proche d'un crapeau pour entendre son croissement! Cherchez aux alentours et repérez-en un.";
+
+translate "Capture a Bullfrog"
+to french "Attraper un Crapaud taureau";
+
+translate "You leap to where you think you hear the bullfrog, but come up empty-handed. Your landing is hard, knocking the wind out of you."
+to french "Vous bondissez vers l'endroit où vous croyez avoir entendu un croassement, mais vous vous retrouvez les mains vides. Vous tombez violemment, et vous avez le souffle coupé.";
+
+translate "You capture (and release) a bullfrog! You have now caught N1 of the creatures."
+to french "Vous capturez (et relâchez) un crapaud taureau ! Jusqu'ici, vous en avez attrappé N1.";
+
+translate "You have tagged the following animals:\n"
+to french "Vous avez attrappé les animaux suivants:\n";
+
+translate "Dead Bullfrog detected... "
+to french "Crapaud taureau mort détecté ...";
+
+translate "Falcons"
+to french "Faucons";

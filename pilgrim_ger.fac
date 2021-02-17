@@ -1,0 +1,232 @@
+Module Pilgrim_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment		           **
+//**                                                                       **
+//***************************************************************************
+
+
+translate Pilgrim to german masculine
+{
+  swa "Weg der Pilgerschaft";
+  sn "Weg der Pilgerschaft"; sg "Weg der Pilgerschaft"; sd "Weg der Pilgerschaft"; sa "Weg der Pilgerschaft";
+  pn "Weg der Pilgerschaft"; pg "Weg der Pilgerschaft"; pd "Weg der Pilgerschaft"; pa "Weg der Pilgerschaft";
+}
+translate PilgrimShrine to german masculine
+{
+  swa "Pilgerschrein";
+  sn "Pilgerschrein"; sg "Pilgerschrein"; sd "Pilgerschrein"; sa "Pilgerschrein";
+  pn "Pilgerschreine"; pg "Pilgerschreine"; pd "Pilgerschreine"; pa "Pilgerschreine";
+}
+translate PilgrimShrineConstruction to german feminine
+{
+  swa "Pilgerschrein-Konstruktion";
+  sn "Pilgerschrein-Konstruktion"; sg "Pilgerschrein-Konstruktion"; sd "Pilgerschrein-Konstruktion"; sa "Pilgerschrein-Konstruktion";
+  pn "Pilgerschrein-Konstruktion"; pg "Pilgerschrein-Konstruktion"; pd "Pilgerschrein-Konstruktion"; pa "Pilgerschrein-Konstruktion";
+}
+
+translate Pilgrimage to german feminine
+{
+  swa "Pilgerschaft";
+  sn "Pilgerschaft"; sg "Pilgerschaft"; sd "Pilgerschaft"; sa "Pilgerschaft";
+  pn "Pilgerschaft"; pg "Pilgerschaft"; pd "Pilgerschaft"; pa "Pilgerschaft";
+}
+translate "Principles of the Pilgrim will guide you through establishing a Pilgrimage group, and making your first Tithe."
+to german "Die Prinzipien der Pilgerschaft führt dich zur Zusammenstellung einer Pilgergruppe und zu deinem ersten Zehnt.";
+
+translate "Join (or form) a Pilgrimage"
+to german "Erstelle oder trete einer Pilgerschaft bei";
+translate "Expand to Seven Pilgrims"
+to german "Erweitere auf 7 Pilger";
+translate "Tithe at a Shrine"
+to german "Gib an einem Schrein deinen Zehnt ab";
+translate "Have all other Pilgrims Tithe"
+to german "Alle andere Pilger geben ihren Zehnt ab";
+translate "Tithe at a Different Shrine"
+to german "Gib deinen Zehnt an einem anderen Schrein ab";
+translate "Have all Tithe at a Previous Shrine"
+to german "Alle Pilger geben ihren Zehnt an einem vorherigen Schrein ab";
+translate "Accumulate 700 Points"
+to german "Sammle 700 Punkte an";
+
+translate "You have completed Principles of the Pilgrim. If you continue your Pilgrimage, try to score more points than any other Pilgrimage this week. This is known as Walking the Path of the Pilgrim, and will advance all members in the Discipline of Worship."
+to german "Du hast die Prinzipien der Pilgerschaft vervollständigt. Wenn du deine Pilgerschaft weiter verfolgst, versuche mehr Punkte als andere Pilgerschaften in dieser Woche anzusammeln. Dies ist bekannt unter der Begehung des Wegs der Pilgerschaft und steigert alle Mitglieder im Fortschritt der Verehrungsdisziplin.";
+
+
+translate "This shrine requires a tithe of N1 O1. It is Holy."
+to german "Dieser Schrein erfordert eine Gabe von N1 O1(N1?pn:sn). Er ist heilig";
+translate "This shrine requires a tithe of N1 O1. It is not Holy."
+to german "Dieser Schrein erfordert eine Gabe von N1 O1(N1?pn:sn). Er ist nicht heilig";
+
+translate "holy"
+to german "heilig";
+
+translate "unholy"
+to german "nicht heilig";
+
+translate "Path of the Pilgrim"
+to german "Pfad der Pilgerschaft of the Pilgrim";
+
+translate "Start the Test"
+to german "Beginne den Test";
+
+translate "Pilgrim!"
+to german "Pilger!";
+
+translate "First, join someone else's pilgrimage by clicking on them, or form a new one by clicking on the University."
+to german "Als erstes besuche den Pilgerschrein eines anderen und klicke ihn an, oder baue einen neuen, indem du die Universität anklickst.";
+translate "Next, visit as many holy pilgrim shrines as possible, making the requested donation to each."
+to german "Als nächstes besuche soviele heilige Pilgerschreine wie möglich und liefere die gewünschter Spende ab.";
+translate "Shrines must be at least K1 apart, but a given shrine can be visited repeatedly."
+to german "Pilgerschreine müssen mindestens K1 auseinanderliegen, aber ein vorgegebener Schrein kann immer wieder besucht werden.";
+translate "About once per 7 realtime days, the group with the longest pilgrimage is promoted."
+to german "Einmal in 7 echten Tagen wird die Gruppe mit der größten Pilgerfahrt belohnt.";
+
+translate "View my Pilgrimage"
+to german "Betrachte meine Pilgerschar";
+
+translate "Zero length pilgrimage list. This should never happen."
+to german "Leere Pilgerscharliste. Dies sollte niemals passieren.";
+
+translate "The following pilgrimages tied:"
+to german "Die folgenden Pilgerscharen sind punktegleich:";
+
+translate "The following pilgrimages tied:"
+to german "Die folgenden Pilger sind verbunden:";
+
+translate "Winning Pilgrimage:"
+to german "Siegreiche Pilgerschar";
+
+translate "Egypt recognizes "
+to german "Ägypten ehrt ";
+
+translate "Passing U1"
+to german "Bestanden U1(name)";
+
+//translate " for walking the Path of the Pilgrim. Their pilgrimage vistited N1 shrines, and accumulated a score of K1."
+//to german
+
+translate "This pilgrimage consists of U1"
+to german "Diese Pilgerschaft besteht aus U1(name)";
+
+translate "The score for your pilgrimage is N1."
+to german "Punkte für deine Pilgerschaft N1.";
+
+translate "Your Pilgrimage group is of proper size. You may tithe at shrines."
+to german "Deine Pilgerschargruppe hat die richtige Größe. Du darfst nun an Schreinen spenden.";
+
+translate "This pilgrimage won at K1"
+to german "Diese Pilgerschaft hat mit K1 gewonnen";
+
+translate "Form a new pilgrimage"
+to german "Bilde neue Pilgerschar";
+
+translate "You are already part of a pilgrimage."
+to german "Du bist schon in einer Pilgerschar";
+
+translate "You begin a pilgrimage. You can check your notes using your Tests menu."
+to german "Du beginnst eine Pilgerreise. Du kannst Informationen hierüber in deinem Testmenü abrufen.";
+
+translate "Worship"
+to german "Verehrung";
+translate "Join Pilgrimage"
+to german "Trete Pilgerschar bei";
+
+translate "Asking about joining the pilgrimage..."
+to german "Frage nach Beitritt zur Pilgerschar...";
+
+translate "There are already N1 pilgrims on that pilgrimage."
+to german "Es sind bereits N1 Pilger Mitglied dieser Pilgerschar.";
+
+translate "U1 is asking to join your pilgrimage. Accept?"
+to german "U1(name) fragt nach Aufnahme in die Pilgerschar. Akzeptieren?";
+
+translate "You were not accepted as part of the pilgrimage."
+to german "Du wurdest nicht in dieser Pilgerschar akzeptiert.";
+
+translate "You have joined the pilgrimage. Check progress from your Tests menu."
+to german "Du bist der Pilgerschar beigetreten. Kontrolliere den Fortschritt in deinem Testmenü.";
+
+translate "Dissolve my Pilgrimage"
+to german "Löse meine Pilgerschar auf";
+
+translate "Are you sure you want to dissolve your pilgrimage? You may lose a lot of work for your fellow pilgrims."
+to german "Bist du sicher, dass du die Pilgerschar auflösen willst? Du verlierst viel geleistete Arbeit deiner treuen Pilger.";
+
+translate "U1 has dissolved your pilgrimage."
+to german "U1(name) hat deine Pilgerschar aufgelöst.";
+
+translate "Withdraw from Pilgrimage"
+to german "Streiche mich aus der Pilgerschar";
+
+translate "There is another, more holy N1 pilgrim shrine nearby. Seek that out."
+to german "Es ist ein anderer, heiligerer N1 Pilgerschrein in der Nähe. Suche ihn auf.";
+
+translate "Tithe N1 O1"
+to german "Zehnt N1 O1(sn)";
+
+translate "You don't have N1 O1"
+to german "Du hast kein N1 O1(N1?pn:sn)";
+
+translate "You have already visited a shrine that is K1 from this one. You must be at least K2 from all other shrines."
+to german "Du hast bereits einen Schrein der K1 von hier weg ist, besucht. Du musst mindestens K2 von anderen Schreinen weg sein.";
+
+translate "You tithe the requested N1 O1."
+to german "Du spendest die verlangten N1 O1(N1?pn:sn).";
+
+translate "Although everyone in your group has tithed, the following failed to do it within two minutes, and will have to make an additional offering:"
+to german "Auch wenn alle Gruppenmitglieder spendeten, schlug die folgende Spende innerhalb von 2 Minuten fehl. Du wirst zusätzlich anbieten müssen:";
+
+translate "Everyone in your group has tithed. You can check the pilgrimage from your Tests menu."
+to german "Alle Gruppenmitglieder haben gespendet. Prüfe die Pilgerschar im Testmenü.";
+
+translate "Pilgrim Shrine"
+to german "Pilgerschrein";
+
+translate "Offering of O1"
+to german "Anbieten von O1(sn)";
+
+translate "Pilgrim shrines are only holy when you own exactly one of them - consider the tithe carefully. "
+to german "Pilgerschreine sind nur heilig, wenn du genau einen davon besitzt - bedenke die Spende sehr sorgfältig. ";
+
+translate "To build another, first tear down the previous one at N1, N2"
+to german "Um einen anderen zu bauen, reiße erst den alten ab. Koordinaten: N1, N2";
+
+translate "Pilgrim shrines are only holy when you own exactly one of them. They can not be given to guilds, or donated to the public. If you wish to change your shrine's tithe, you will have to first tear down your previous pilgrim shrine."
+to german "Pilgerschreine sind nur heilig, wenn du genau einen besitzt. Sie können nicht an Gilden oder an die Öffentlichkeit gespendet werden. Wenn du die Schreinspende ändern willst musst du erst den vorigen Schrein abreißen.";
+
+translate "How many O1 should each pilgrim tithe?"
+to german "Wieviel O1(sn) soll jeder Pilger spenden?";
+
+translate "The most holy O1 pilgrim shrine in this region requires a tithe of N1. You must exceed it."
+to german "Der heiligste O1(sn) Pilgerschrein in dieser Region erfordert eine Spende von N1. Du musst erweitern.";
+
+translate "To build a pilgrim shrine that requires a tithe of N1 O1 requires:"
+to german "Um einen Pilgerschrein zu bauen, der N1 O1(sn) Spende erfodert, brauchst du:";
+
+translate "Pilgrim shrine K1 at N1, N2 owned by U1 is Unholy."
+to german "Pilgerschrein K1 bei N1, N2 im Besitz von U1(name) ist nicht heilig."; 
+
+translate "Pilgrim shrine K1 at N1, N2 owned by U1 is heilig."
+to german "Pilgerschrein K1 bei N1, N2 im Besitz von U1(name) ist heilig."; 
+
+translate "This pilgrim shrine is the largest of its kind.  It should be consecrated now."
+to german "Der Pilgerschrein ist der größte seiner Art. Er sollte jetzt gesegnet werden.";
+
+translate "This pilgrim shrine is not the largest of its kind.  It cannot be consecrated.  However, you have a one-hour grace period to disassemble the shrine and recover the materials."
+to german "Dieser Pilgerschrein ist nicht der größte seiner Art. Er kann nicht gesegnet werden. Jedoch hast du eine Stunde Zeit, den Schrein auseinander zu bauen und die Materialien zu retten.";
+
+translate "Disassemble this Shrine"
+to german "Schrein auseinander nehmen";
+
+translate "This is the largest of its Kind, it must be Consecrated."
+to german "Der Pilgerschrein ist der größte seiner Art. Er sollte jetzt gesegnet werden.";
+
+translate "Consecrate this Pilgrim Shrine"
+to german "Segne diesen Pilgerschrein";
+
+translate "Pilgrim shrines are only holy when you own exactly one of them.  This shrine would not be holy, because you already have a shrine at N1, N2."
+to german "Pilgerschreine sind nur dann heilig, wenn man nur einen davon besitzt. Dieser Schrein wird nicht heilig werden, weil du bereits einen Schrein bein N1, N2 hast.";

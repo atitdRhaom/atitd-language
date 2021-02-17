@@ -1,0 +1,233 @@
+module RankSys_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+
+translate RSReflection to german feminine
+{
+  swa "Reflektion"; 
+  sn "Reflektion"; pn "Reflektionen";
+}
+translate RSTug to german feminine
+{
+  swa "Telepathie"; 
+  sn "Telepathie"; pn "Telepathie";
+}
+
+translate RSCommand to german feminine
+{
+  swa "Befehlsgewalt"; 
+  sn "Befehlsgewalt"; pn "Befehlsgewalten";
+}
+
+translate RSHeket to german neuter
+{
+  swa "Hekets Sprung"; 
+  sn "Hekets Sprung"; pn "Hekets Sprünge";
+}
+
+translate RSSeven to german feminine
+{
+  swa "Siebenklinge"; 
+  sn "Siebenklinge"; pn "Siebenklingen";
+}
+translate RSZhadu to german neuter
+{
+  swa "Zhadu"; 
+  sn "Zhadu"; pn "Zhadus";
+}
+translate RSKanivan to german neuter
+{
+  swa "Karnivan Tak"; 
+  sn "Karnivan Tak"; pn "Karnivan Tak";
+}
+translate RSWitagog to german neuter
+{
+  swa "Witagog"; 
+  sn "Witagog"; pn "Witagogs";
+}
+translate RSYokir to german neuter
+{
+  swa "Yokir"; 
+  sn "Yokir"; pn "Yokir";
+}
+
+translate "Tournament"
+to german "Tunier";
+
+translate "Tournament: O1"
+to german "Tunier: O1(sn)";
+
+translate "Standing of: U1"
+to german "Stand von: U1(name)";
+
+translate "Historical Best: N1.N2"
+to german "Beste Wertung: N1.N2";
+
+translate "Rank"
+to german "Rang";
+
+translate "Walks"
+to german "Durchgang";
+
+translate "Wins"
+to german "Siege";
+
+translate "Losses"
+to german "Verloren";
+
+translate "People Defeated:"
+to german "Gegner besiegt:";
+
+translate "Current Matches:"
+to german "Aktuelle Spiele:";
+
+translate "None Yet."
+to german "Niemanden zur Zeit.";
+
+translate "Did your opponent walk away and leave you stranded?"
+to german "Ist dein Gegner gegangen und hat dich alleine gelassen?";
+
+translate "This match was recorded as a 'cancellation without prejudice'."
+to german "Diese Begegnung wurde als 'kostenfreier Abbruch' gewertet.";
+
+translate "Only the current winner may cancel the match, except in case of a walkout."
+to german "Nur der aktuelle Gewinner kann das Spiel abbrechen.";
+
+translate "You do not have any wins, you cannot spend a win to cancel a loss."
+to german "Du hast keine Siege, Du kannst keinen Sieg einsetzen, um eine Niederlage zu entfernen.";
+
+translate "Discard Which Victory:"
+to german "Welchen Sieg verwerfen:";
+
+translate "You can only restart every N1, you must wait N2."
+to german "Du kannst nur alle N1 neustarten, du musst N2 warten.";
+
+translate "Are you sure you want to restart the O1 tournament?"
+to german "Sicher, dass du das O1(sn) Tunier neu starten möchtest?";
+
+translate "This person has been eliminated from the tournament because they have lost too many matches."
+to german "Diese Person wurde vom Tunier ausgeschlossen, da sie zu oft verloren hat.";
+
+translate "You have been eliminated from the tournament because you lost too many matches. Your options are to spend one of your wins to cancel one of your losses, or to restart the tournament entirely.  You can only restart every K1."
+to german "Du wurdest vom Tunier ausgeschlossen, da du zu oft verloren hast. Es besteht die Möglichkeit einen deiner Siege zu verwerfen und damit eine Niederlage zu entfernen oder das Tunier neu zu starten. Du kannst nur alle K1 neu starten.";
+
+translate "Spend a Win"
+to german "Opfere einen Sieg";
+
+translate "Full Restart"
+to german "Vollen Neustart";
+
+translate "Voluntary Restart"
+to german "Freiwilliger Neustart";
+
+translate "People Defeated:\n\nNone Yet."
+to german "Abgelehnte Spieler:\n\nKeiner bislang.";
+
+translate "Current Matches:"
+to german "Laufende Spiele:";
+
+translate "Current Matches:\n\nNone."
+to german "Laufende Spiele:\n\nKeine.";
+
+translate "Match Limit Reached"
+to german "Spiellimit erreicht";
+
+translate "Reset all RankSys Data"
+to german "Resette alle RankSys Daten";
+
+translate "Since you're different ranks, this game will be practice only."
+to german "Da du einen anderen Rang hast, wird dieses Spiel nur als Übung gewertet.";
+
+translate "Since one of you has already defeated the other, this game will be practice only."
+to german "Da einer von euch schon den Anderen besiegt hat, wird dieses Spiel nur als Übung gewertet.";
+
+translate "You already have too many matches in progress. You cannot start a new one. This game will be practice only."
+to german "Du hast zuviele Spiele laufen. Du kannst kein Neues starten. Dieses Spiel wird als Übung gewertet.";
+
+translate "Your opponent has too many matches in progress. He cannot start a new one. This game will be practice only."
+to german "Dein Gegner hat zuviele Spiele laufen. Er kann kein Neues starten. Dieses Spiel wird als Übung gewertet.";
+
+translate "Since you're different ranks, that game was practice only."
+to german "Da ihr verschiedenen Ränge habt, war dies ein Übungsspiel";
+
+translate "One of you has already lost too many matches, so this game will be practice only."
+to german "Einer von euch hat bereits zu viele Spiele verloren, darum wird dieses Spiel nur als Übung gewertet.";
+
+translate "Since one of you has already defeated the other, that game was practice only."
+to german "Da Einer von euch schon den Anderen besiegt hat, war dies nur ein Übungsspiel.";
+
+translate "You already have too many matches in progress. You cannot start a new one."
+to german "Du hast zuviele offene Spiele. Du kannst kein Neues starten.";
+
+translate "Your opponent has too many matches in progress. He cannot start a new one."
+to german "Dein Gegner hat zuviele offene Spiele. Er kann kein Neues starten.";
+
+translate "Your victory was added to your match advantage."
+to german "Dein Sieg wurde zu deinem Spielfortschritt hinzugezählt.";
+
+translate "Your loss was subtracted from your match advantage."
+to german "Deine Niederlage wurde von deiner Spielfortschritt abgezogen.";
+
+translate "You won the match, you are closer to the next rank!"
+to german "Du hast das Spiel gewonnen, du bist dem Rangaufstieg näher gekommen!";
+
+translate "You lost the match. Your opponent is closer to his next rank."
+to german "Du hast das Spiel verloren. Dein Gegner ist dem Rangaufstieg näher gekommen.";
+
+translate "You won the match. You advanced in rank!"
+to german "Du hast das Spiel gewonnen. Du steigst einen Rang auf!";
+
+translate "You lost the match. Your opponent advanced in rank."
+to german "Du hast das Spiel verloren. Dein Gegner steigt einen Rang auf.";
+
+translate "Game is not a SeasonGame"
+to german "Spiel ist kein Saisonspiel";
+
+translate "SeasonGame parameters are misconfigured."
+to german "Saisonspiel Parameter sind falsch konfiguriert.";
+
+translate "K1 is not a game"
+to german "K1 ist kein Spiel";
+
+translate "no such player "
+to german "Kein solcher Spieler ";
+
+translate "Display Victories"
+to german "Zeige Siege";
+
+translate "Rank System Controller"
+to german "Rangsystemkontrolle";
+
+translate "Distribute Victories"
+to german "Verteile Siege";
+
+translate "Are you sure you want to distribute Victories in O1 now?"
+to german "Bist du sicher, dass du jetzt Siege in O1(sn) vergeben möchtest?";
+
+translate "Final Report on O1"
+to german "Endbericht für O1(sn)";
+
+translate "Conflict Discipline Status Report"
+to german "Statusreport der Konfliktdiszipinen";
+
+translate "Conflict Status Report:\n"
+to german "Statusbericht Konflikt:\n";
+
+translate "Total of N1 progress points.\n"
+to german "Ingesamt N1 hinzugewonnene(r) Punkt(e).\n";
+
+translate "With N1 points, you are a O1 of Conflict.\n"
+to german "Mit N1 Punkt(en) bist du O1(asn) O1(sn) des Konfliktes.\n";
+
+translate "To make O1, gain another N1 points.\n"
+to german "Um O1(asn) O1(sn) zu werden, sammle N1 Punkt(e).\n";
+
+translate "Note: Points are based on your Level, not your Rank.\n"
+to german "Beachte: Punkte basieren auf deinem Level, nicht auf deinem Rang.\n";
+

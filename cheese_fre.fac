@@ -1,0 +1,36 @@
+module cheese_fre;
+
+// Cheese translations
+
+translate cheesemaking to french masculine
+{ ns "Fabrication de fromage"; np "Fabrications de fromage"; }
+
+translate sourmilk to french feminine
+{ ns "Cruche de lait aigre"; np "Cruches de lait aigre"; }
+
+translate Butter to french masculine
+{ ns "Beurre"; np "Beurres"; }
+
+translate butterchurn to french feminine
+{ ns "Baratte à beurre"; np "Barattes à beurre"; }
+
+translate "Cheese Making"
+to french "Fabrication de fromage";
+
+translate "Jugs of Sour Cows Milk"
+to french "Cruches de lait de vache aigre";
+
+translate "Butter Churn" to french "Baratte à beurre";
+translate "To build a K1, you need:"
+to french "Pour construire une K1 il vous faut :";
+
+translate "ButerMilk" to french "Babeurre";
+
+translate "Empty one jug of Sour Milk"
+to french "Vider une cruche de lait aigre";
+
+translate "Empty all jugs of Sour Milk"
+to french "Vider toutes les cruches de lait aigre";
+
+
+

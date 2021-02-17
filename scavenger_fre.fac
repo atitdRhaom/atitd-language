@@ -1,0 +1,456 @@
+module scavenger_fre;
+
+translate ScavengerHuntDesk to french masculine
+{
+	ns "Bureau de Chasse"; np "Bureau de Chasse";
+	}
+
+translate Venery to french feminine
+{
+	ns "L'épreuve de la Chasse au trésor"; np "L'épreuve de la Chasse au Trésor";
+	}
+translate VeneryCertificate to french masculine
+{
+	ns "Certificat de Chasse au trésor"; np "Certificats de Chasse au trésor";
+	}
+
+translate SimpleLockbox to french masculine
+{
+	ns "Coffre simple"; np "Coffres simples";
+	}
+translate "Principles of the Venery requires you to build a simple Venery and have seven judges rate it, averaging at least Good. Alternately, you can complete three winning Venery and show the Certificates to a School of Thought."
+to french "Les Principes de la Chasse au trésor vous défient de concevoir une Chasse au trésor rudimentaire qu'au moins sept juges évalueront 'Bonne'. Il y a une autre manière de réussir ces principes: terminer trois chasses au trésor qui sont passées et présenter les certificats à une école de la Pensée.";
+
+translate "Design a Venery, a treasure hunt around your home, throughout your neighborhood, or across Egypt. A good Venery can teach runners about local sites, and is neither too easy nor too difficult. After completing your design, if you wish to turn off the Venery menu on objects, turn off the option in 'Interface Options' under 'Show menu items for venery configuration'. This option was added when you started the Test of the Venery."
+
+to french "Concevez une chasse au trésor chez vous, dans les parrages, ou à travers l'Egypte. Une bonne chasse au trésor doit apporter aux concurrents des connaissances sur les sites locaux et ne doit être ni trop facile, ni trop difficile. Une fois la conception terminée, pour faire disparaître les options de chasse au trésor sur les objets, allez dans 'Option' puis 'Option d'interface' puis 'Tests:Afficher les options de configuration de chasse'. Cette option a été ajoutée lorsque vous avez démarré le test de la chasse au trésor.";
+
+translate "Principles of the Venery requires you to build a simple Venery and have seven judges rate it, averaging at least Good."
+to french "Le principe de la chasse au trésor nécessite de construire une chasse simple et d'obtenir que 7 juges la notent, avec un score moyen de Bon";
+
+translate "Configuring: K1"
+to french "Configuration: K1";
+
+translate "You can't hide keys in the Venery gathering point itself."
+to french "Vous ne pouvez pas cacher de clef dans le point de rassemblement lui-même.";
+
+translate "Make an Eyelet cut Amethyst (Optional)"
+to french "Tailler une améthyste Oeil-de-pie (facultatif)";
+translate "Make an Eyelet cut Lapis (Optional)"
+to french "Tailler un Lapis Oeil-de-pie (facultatif)";
+translate "Make an Eyelet cut Turquoise (Optional)"
+to french "Tailler une Turquoise Oeil-de-pie (facultatif)";
+translate "Make an Eyelet cut Garnet (Optional)"
+to french "Tailler un Grenat Oeil-de-pie (facultatif)";
+translate "Make a Simple Lockbox"
+to french "Forger un coffre simple";
+translate "Make Papyrus Paper"
+to french "Fabriquer des feuilles de papyrus";
+translate "Build a Venery Gathering Point"
+to french "Construire un Bureau de Chasse";
+translate "Install at least 7 Lockboxes"
+to french "Installer au moins 7 coffres simples";
+translate "Open your Venery"
+to french "Soumettre votre Chasse au trésor à l'évaluation";
+translate "Have 7 Judges run and rate your Venery"
+to french "Que 7 juges terminent et évaluent votre Chasse au trésor";
+translate "Design rated Good by most judges"
+to french "Obtenir des votes positifs de la plupart des juges";
+translate "Tear down your Venery Gathering Point, OR"
+to french "Détruisez votre chasse OU";
+translate "All of the above OR complete three recent winning Venerys"
+to french "Tout ce qui est au-dessus, OU complétez 3 chasses gagnantes récentes";
+
+translate "You have completed Principles of the Venery."
+to french "Vous avez terminé les Principes de la Chasse au trésor.";
+
+
+translate "ScavengerHuntDesk"
+to french "Bureau de chasse au charognard";
+
+translate "To build a Venery Gathering Point, you need:"
+to french "Pour construire un point de rassemblement pour la chasse, il vous faut :";
+
+translate "Start The Venery"
+to french "Lancer la Chasse au trésor";
+
+translate "Hide keys in lockboxes attached to objects across the land. Invite others to solve your puzzle, and rate your design. Up to seven people at a time may collaborate on the design, and any number may take part in the Venery."
+to french "Dissimulez des clés dans des coffres disséminés dans le pays, et invitez les autres à résoudre votre énigme et à noter la conception de votre oeuvre. Jusqu'à sept persones peuvent collaborer à la conception de cette énigme, et un nombre illimité de personnes peut y prendre part.";
+
+translate "Force Reset"
+to french "Réinitialiser";
+
+translate "The Venery"
+to french "La Chasse au trésor";
+
+translate "View my Keyring"
+to french "Mon trousseau de clés";
+
+translate "Total of N1 keys:"
+to french "Total de N1 clés :";
+
+translate "This Venery is being configured"
+to french "La Chasse au trésor est en cours de configuration";
+
+translate "Contestants may now sign up for this Venery"
+to french "Les participants peuvent maintenant s'inscrire à cette chasse au trésor";
+
+translate "This Venery is being played right now"
+to french "Cette Chasse au trésor est en cours";
+
+translate "Join the Venery!"
+to french "Participer à la chasse !";
+
+translate "Designers can not join the Venery."
+to french "Les concepteurs ne peuvent pas participer à la chasse.";
+
+translate "This desk is in a strange state. Call a developer."
+to french "Le bureau de chasse rencontre quelques problèmes. Contactez un développeur.";
+
+translate "You are already signed up."
+to french "Vous êtes déjà inscrit(e).";
+
+translate "You are already part of a Venery. Withdraw from that one first."
+to french "Vous participez déjà à une chasse. Quittez-la avant de vous inscrire dans une autre chasse.";
+
+translate "You are now signed up for the Venery: K1"
+to french "Vous êtes maintenant inscrit à la chasse au trésor K1";
+
+translate "Search for Keys"
+to french "Chercher des clés";
+
+translate "Searching..."
+to french "Vous fouillez...";
+
+translate "You find nothing."
+to french "Vous ne trouvez rien.";
+
+translate "You have solved the Venery. Your position is N1. You may now judge this Venery."
+to french "Vous avez résolu l'énigme de cette chasse. Votre position est N1. Vous pouvez maintenant apporter votre jugement.";
+
+translate "You have solved the Venery - well played, even though you are not one of the first N1 to do so."
+to french "Vous avez résolu l'énigme de cette chasse - bien joué, même si vous n'êtes pas dans les N1 premiers à la résoudre.";
+
+translate "Withdraw from the Venery"
+to french "Abandonner la chasse";
+
+translate "You have withdrawn from the Venery"
+to french "Vous avez abandonné la chasse";
+
+translate "Open Signups"
+to french "Ouvrir les inscriptions";
+
+translate "You must name the Venery"
+to french "Donnez un nom à votre chasse au trésor";
+
+translate "Signups are now open."
+to french "Les inscriptions sont maintenant ouvertes.";
+
+translate "Set number of Winners"
+to french "Déterminer le nombre de gagnants";
+
+translate "How Many Winners?"
+to french "Combien de gagnants ?";
+
+translate "Set maximum winners to N1"
+to french "Le nombre maximal de gagnants est de N1";
+
+translate "Share a Key"
+to french "Partager une clé";
+
+translate "You share a key with U1: K1"
+to french "Vous partagez une clé avec U1(name) : K1";
+
+translate "Venery is named: K1"
+to french "Le nom de la Chasse au trésor : K1";
+
+translate "Set the Welcome Text"
+to french "Entrer un texte d'accueil";
+
+translate "Welcome Text when a player joins the Venery..."
+to french "Texte d'accueil lorsqu'un joueur entre dans la chasse au trésor...";
+
+translate "Welcome Text Set."
+to french "Texte d'accueil validé.";
+
+translate "Call off the Venery"
+to french "Annuler la chasse";
+
+translate "Finish the Venery"
+to french "Terminer la chasse";
+
+translate "Any winners must vote BEFORE you finish the Venery. Proceed?"
+to french "Tous les gagnants doivent voter AVANT la fermeture de la chasse. Voulez-vous quand même valider ?";
+
+translate "You have called off the Venery."
+to french "Vous avez annulé la chasse.";
+
+translate "List Contestants"
+to french "Liste des participants";
+
+translate "No players have signed up."
+to french "Personne n'est inscrit.";
+
+translate "Gathering the list."
+to french "Dresser la liste.";
+
+translate "Players signed up so far:"
+to french "Joueurs inscrits :";
+
+translate "List Winners"
+to french "Liste des gagnants";
+
+translate "Winners so far:"
+to french "Les gagnants :";
+
+translate "Begin the Game!"
+to french "Commencer la partie !";
+
+translate "No locations in the Venery."
+to french "Aucun emplacement déterminé.";
+
+translate "The Venery has begun."
+to french "Que la chasse commence !.";
+
+translate "Withdraw"
+to french "Abandonner";
+
+translate "Are you sure you want to resign during the Venery?"
+to french "Voulez-vous vraiment abandonner la chasse ?";
+
+translate "You have withdrawn from the Venery."
+to french "Vous vous êtes retiré de la chasse.";
+
+translate "You are already a designer."
+to french "Vous êtes déjà un concepteur.";
+
+translate "You may only design one Venery at a time. Withdraw as a designer from the previous one."
+to french "Vous ne pouvez mettre en place qu'une chasse au trésor à la fois. Retirez-vous d'abord de votre chasse au trésor actuelle.";
+
+translate "This Venery already has 7 designers."
+to french "Cette Chasse au trésor possède déjà sept concepteurs.";
+
+translate "U1 has joined your Venery design team."
+to french "U1(name) a rejoint votre équipe de conception.";
+
+translate "Add a new Key type"
+to french "Ajouter un nouveau type de clé";
+
+translate "Name of new Key?"
+to french "Nom de la clé ?";
+
+translate "Key limit has been reached."
+to french "Limite du nombre de clés atteinte.";
+
+translate "Keys"
+to french "Clés";
+
+translate "Delete a Key"
+to french "Effacer une clé";
+
+translate "Totally remove key K1 from your game? This will remove objects that reference that key from the Venery."
+to french "Voulez-vous effacer la clé K1 ? Ceci retirera du même coup les objets liés à cette clé dans votre chasse au trésor.";
+
+translate "Rename a Key"
+to french "Renommer une clé";
+
+translate "Rename K1 to..."
+to french "Renommer la clé K1 en...";
+
+translate "Renamed key K1 to K2"
+to french "K1 a été renommée en K2";
+
+translate "Compile an overview"
+to french "Compiler une vue d'ensemble";
+
+translate "Compiling overview. This may take a while."
+to french "Compilation en cours. Veuillez patienter.";
+
+translate "The final location must require at least one key."
+to french "La dernière localisation nécessite au moins une clef.";
+
+translate "Status of this O1"
+to french "Statut de O1(cns) O1(ns)";
+
+translate "Inspecting the O1"
+to french "Inspection de O1(ns)";
+
+translate "Configure Lockbox"
+to french "Configuration du coffre";
+
+translate "Retrieving old keys..."
+to french "Récupération des anciennes clés...";
+
+translate "You must first install a lockbox."
+to french "Vous revez d'abord positionner un coffre.";
+
+translate "Hide a Key"
+to french "Cacher une clé";
+
+translate "None"
+to french "Aucun";
+
+translate "Hiding the key..."
+to french "Vous cachez la clé...";
+
+translate "Venery is named: K1"
+to french "Le bureau de chasse s'appelle K1";
+
+translate "Venery: K1 (N1 locations)"
+to french "Bureau de chasse: K1 (N1 lieux)";
+
+translate "Designer is: U1"
+to french "Le créateur est: U1(name)";
+
+translate "Keys are: K1"
+to french "Les clefs sont: K1";
+
+translate "Write a Hint"
+to french "Ecrire une aide";
+
+translate "Retrieving old Hint..."
+to french "Récupération de l'anciene aide...";
+
+translate "Write your Hint. Blank text removes a Hint."
+to french "Composez votre aide. Si vous laissez le champ vide, l'ancienne aide est effacée.";
+
+translate "Write a Clue"
+to french "Ecrire un indice";
+
+translate "Retrieving old clue..."
+to french "Récupération de l'ancien indice...";
+
+translate "Write your clue. Blank text removes a clue."
+to french "Composez votre indice. Si vous laissez le champ vide, l'ancien indice est effacé.";
+
+translate "Install a Lockbox"
+to french "Installer un coffre";
+
+translate "There is already a lockbox installed."
+to french "Un coffre est déjà installé.";
+
+translate "You don't have a lockbox. Lockboxes can be made at forges."
+to french "Vous n'avez pas de coffre. Les coffres se fabriquent grâce à une forge.";
+
+translate "Remove a Lockbox"
+to french "Retirer un coffre";
+
+translate "No lockbox has been installed!"
+to french "Aucun coffre installé !";
+
+translate "Make a Simple Lockbox"
+to french "Fabriquer un coffre simple";
+
+translate "To make a Simple Lockbox, you need:"
+to french "Pour fabriquer un coffre simple, il vous faut :";
+
+translate "Making a Simple Lockbox"
+to french "Vous fabriquez un coffre simple";
+
+translate "You have created a Simple Lockbox. Scraps of metal from the forge are used as keys - no need to create them."
+to french "Vous avez fabriqué un coffre simple. Vous avez utilisé des restes de métal pour en faire des clés, pas besoin de les fabriquer séparément.";
+
+translate "Your Lockbox is done."
+to french "Votre coffre est prêt.";
+
+translate "Register as a Designer"
+to french "Vous enregistrer comme concepteur";
+
+translate "You are now a designer of this Venery."
+to french "Vous êtes maintenant un des concepteurs de cette chasse.";
+
+translate "Withdraw as Designer from current Venery"
+to french "Ne plus être concepteur de la chasse en cours";
+
+translate "Withdrew as Designer."
+to french "Ne plus être concepteur";
+
+translate "Withdrew as a designer."
+to french "Ne plus être concepteur.";
+
+translate "List Designers"
+to french "Liste des concepteurs";
+
+translate "Designers are:"
+to french "Les concepteurs sont :";
+
+translate "Reset Lockbox Keys"
+to french "Réinitialiser les clés";
+
+translate "Configure Lockbox"
+to french "Configurer le coffre";
+
+translate "Name this venery"
+to french "Nommer cette Chasse au trésor";
+
+translate "Withdraw as a Designer"
+to french "Ne plus être concepteur";
+
+translate "This Venery is Open"
+to french "Cette Chasse au trésor est ouverte";
+
+translate "Attempt the Venery!"
+to french "Jouer à la Chasse au trésor!";
+
+translate "Check Last Runners"
+to french "Consulter l'historique";
+
+translate "Configure this Venery"
+to french "Configurer cette Chasse au trésor";
+
+translate "Last N1 runners:"
+to french "17 derniers joueurs:";
+
+translate "U1 started K1 ago. Status is Won. Win was in K2."
+to french "U1(name) a commencé il y a K1 et a remporté la victoire en K2.";
+
+translate "U1 started K1 ago. Status is Withdrawn."
+to french "U1(name) a commencé il y a K1 et a abandonné.";
+
+translate "U1 started K1 ago. Status is Playing."
+to french "U1(name) a commencé il y a K1 et n'a pas terminé.";
+
+translate "Stop Configuring Venery"
+to french "Abandonner la configuration de la Chasse au trésor";
+
+translate "Open the Venery for Designers"
+to french "Ouvrir la Chasse au trésor aux organisateurs";
+
+translate "Open the Venery to the Public"
+to french "Soumettre la Chasse au trésor à l'évaluation";
+
+translate "Set the Allowed Time"
+to french "Définir une limite de temps";
+
+translate "Name of this Venery?"
+to french "Nom de la Chasse au trésor?";
+
+translate "Award Certificates for times of at most: (H:MM, or All)"
+to french "Limite de temps (H:MM):";
+
+translate "Unknown format entered."
+to french "Format incorrect.";
+
+translate "O1 at egypt N1 N2 owned by U1"
+to french "O1(ns) en egypte N1 N2, appartient à U1(name)";
+
+translate "Keys required to unlock:"
+to french "Clé requises pour dévérouiller:";
+
+translate "Finished in K1"
+to french "Terminée en K1";
+
+translate "The Venery has changed since you ran it."
+to french "La Chasse au trésor a été modifiée depuis votre passage.";
+
+translate "Venery Certificate"
+to french "Certificats de Chasse au trésor";
+
+translate "The Venery had not won when you completed it, but has since. Fantastic discovery!"
+to french "La Chasse au trésor n'était pas passée quand vous l'avez faite, mais est passée depuis. Fantastique découverte!";
+
+translate "The Venery still stands."
+to french "La Chasse au trésor est encore ouverte.";
+
+translate "You have completed the Venery, and received a Certificate."
+to french "Vous avez terminé la Chasse au trésor, un certificat vous est remis.";

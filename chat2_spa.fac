@@ -1,0 +1,318 @@
+module chat2_spa;
+
+translate Microphone to spanish masculine
+{
+ns "Micrófono"; np "Micrófonos";
+}
+
+translate PublicMicrophone to spanish masculine
+{
+ns "Micrófono"; np "Micrófonos";
+}
+
+translate microphonenew to spanish masculine
+{
+ns "Micrófono"; np "Micrófonos";
+}
+
+translate "U1 has left the channel."
+to spanish "U1(name) ha salido del canal.";
+
+translate "Main" 
+to spanish "General";
+
+translate "Click here or press Enter to talk."
+to spanish "Haz click aquí o presiona ENTER para conversar.";
+
+translate "You can't chat to the U1 channel."
+to spanish "No puedes hablar en canal U1(name) .";
+
+translate "You can't chat to the Immigrants channel."
+to spanish "No puedes conversar en el canal de Inmigrantes.";
+
+translate "Vous ne pouvez pas parler dans le canal radioGermany."
+to spanish "No puedes conversar en el canal de RadioGermany.";
+
+translate "You can't chat to the RadioFrance channel."
+to spanish "No puedes conversar en el canal de RadioFrance.";
+
+translate "You can't chat to the System channel."
+to spanish "No puedes conversar en el canal del Sistema.";
+
+translate "Private Chat"
+to spanish "Conversación Privada";
+
+translate "Make a Microphone"
+to spanish "Crea un Micrófono";
+
+translate "Name of station?"
+to spanish "Nombre de la estación ?";
+
+translate "Guild channel K1: U1"
+to spanish "Canal de Gremio K1: U1(name)";
+
+translate "Two person channel: U1"
+to spanish "Canal Directo : U1(name)";
+
+translate "Persistant channel named K1: U1"
+to spanish "Canal persistente K1 : U1(name)";
+
+translate "chat-minimize"
+to spanish "conversación-minimizar";
+translate "U1 closes chat channel K1"
+to spanish "U1(name) cierra el canal de conversación K1";
+
+translate "U1 has left the channel."
+to spanish "U1(name) ha salido del canal.";
+
+translate "Channel list: K1 U1"
+to spanish "Lista de canales : K1 U1(name)";
+
+translate "Channel View: K1 U1"
+to spanish "Visualización de Canal : K1 U1(name)";
+
+translate "Channel Size: N1 U1"
+to spanish "Tamaño de Canal : N1 U1(name)";
+
+translate "Restore My Chat Window[hidden,key=Enter]"
+to spanish "Restaurar mi Conversación[hidden,key=Enter]";
+
+translate "Make this the world cartouche microphone"
+to spanish "Utilizar el Micrófono";
+
+translate "You can't chat to the K1 channel."
+to spanish "No puedes conversar en el canal K1.";
+
+translate "Turn logging Off"
+to spanish "Desactivar el Registro";
+
+translate "Turn Logging On"
+to spanish "Activar el Registro";
+
+translate "Configure Logging"
+to spanish "Configure el Registro";
+
+translate "URL to use for logging?"
+to spanish "Que URL se utilizará para el registro ?";
+
+translate "UAC Password"
+to spanish "Contraseña de UAC ?";
+
+translate "Private Chat"
+to spanish "Conversación Privada";
+
+translate "Chat Minimize: U1 K1 (U2)"
+to spanish "Minimiza la Conversación : U1(name) K1 (U2(name))";
+
+translate "Channel Name: K1"
+to spanish "Nombre del Canal : K1";
+
+translate "Failed to create channel K1"
+to spanish "Creación de Canal Fallida K1";
+
+translate "Attached new channel K1 to U1"
+to spanish "Canal Adjunto a U1(name)";
+
+translate "Make a Microphone"
+to spanish "Crear un Micrófono";
+
+translate "Name of station?"
+to spanish "Nombre de la estación ?";
+
+translate "To make a microphone you need:"
+to spanish "Para crear un micrófono necesitas :";
+
+translate "The name K1 is already taken."
+to spanish "El nombre K1 ya está siendo usado.";
+
+translate "Zero time channel K1"
+to spanish "Canal de tiempo cero K1";
+
+translate "Empty chat channel K1"
+to spanish "Vacía canal K1";
+
+translate "Stagnent chat channel: K1"
+to spanish "Canal Persistente : K1";
+
+translate "Active Chat Channel: K1"
+to spanish "Canal Activo : K1";
+
+translate "Listening: K1 (connected)"
+to spanish "Escuchando : K1 (connectado)";
+
+translate "Listening: K1 (disconnected)"
+to spanish "Escuchando : K1 (desconectado)";
+
+translate "Give this building to Named player"
+to spanish "Dale éste edifico a jugador (nombrado)";
+
+translate "Who do you want to transfer it to?"
+to spanish "A quién se lo quieres dar ?";
+
+translate "No such user U1."
+to spanish "U1(name) no existe.";
+
+translate "Transfer the O1 to U1?"
+to spanish "Transfiere O1(cns) O1(ns) a U1(name) ?";
+
+translate "Transferring..."
+to spanish "Transfiriendo...";
+
+translate "You submit your comment: "
+to spanish "Ofreces tu comentario: ";
+
+translate "Can't send a message - U1 is not logged into the game."
+to spanish "No se mandó tu comentario - U1(name) no está conectado en el juego.";
+
+translate "U1 is ignoring all incoming chats."
+to spanish "U1(name) está ignorando todas las conversaciónes entrantes.";
+
+translate "This is Microphone RadioFrance"
+to spanish "Este es el micrófono de RadioFrance";
+translate "This is Microphone RadioGermany"
+to spanish "Este es el micrófono de RadioGermany";
+translate "This is Microphone Events"
+to spanish "Este es el micrófono de Events";
+translate "This is Microphone ENN"
+to spanish "Este es el micrófono de ENN";
+translate "This is Microphone RadioG"
+to spanish "Este es el micrófono de RadioG";
+translate "This is Microphone RTrade"
+to spanish "Este es el micrófono de RTrade";
+translate "This is Microphone RFS"
+to spanish "Este es el micrófono de RFS";
+translate "This is Microphone R-Trade"
+to spanish "Este es el micrófono de R-Trade";
+translate "This is Microphone MMR"
+to spanish "Este es el micrófono de MMR";
+translate "This is Microphone GOO"
+to spanish "Este es el micrófono de GOO";
+translate "This is Microphone Boo"
+to spanish "Este es el micrófono de Boo";
+translate "This is Microphone UNIX"
+to spanish "Este es el micrófono de UNIX";
+translate "This is Microphone SPAM"
+to spanish "Este es el micrófono de SPAM";
+translate "This is Microphone Evil Radio"
+to spanish "Este es el micrófono de Evil Radio";
+translate "This is Microphone Village Voice"
+to spanish "Este es el micrófono de Village Voice";
+translate "This is Microphone ERC"
+to spanish "Este es el micrófono de ERC";
+translate "This is Microphone E!"
+to spanish "Este es el micrófono de E!";
+translate "This is Microphone FCN"
+to spanish "Este es el micrófono de FCN";
+translate "This is Microphone Channel 7"
+to spanish "Este es el micrófono de Channel 7";
+
+translate "Welcome Text to display on joining:"
+to spanish "Texto a desplegar al ingresar:";
+
+translate "Set the Question Text"
+to spanish "Especifíca el Texto de Pregunta";
+
+translate "Question to ask on joining:"
+to spanish "Pregunta a hacer al ingresar:";
+
+translate "Display the Call Board"
+to spanish "Mostrar el Tablero de Llamadas";
+
+translate "Talkshow"
+to spanish "Entrevista";
+
+translate "Disable"
+to spanish "Deshabilitar";
+
+translate "Area Host"
+to spanish "Anfitriones Múltiples";
+
+translate "Single Host"
+to spanish "Anfitrión Único";
+
+translate "Current Mode: Area Host"
+to spanish "Modo Actual: Anfitriones Múltiples";
+
+translate "Current Mode: Single Host"
+to spanish "Modo Actual: Anfitrión Único";
+
+translate "Current Mode: Disable"
+to spanish "Modo Actual: Deshabilitado";
+
+translate "Clear the Board"
+to spanish "Limpia el Tablero";
+
+translate "The name U1 is already taken: "
+to spanish "El nombre de U1(name) ya está siendo utilizado: ";
+
+translate "You can only kick people out of Island chat channels."
+to spanish "Solo puedes expulsar a personas en los canales de plática de la isla.";
+
+translate "U1 is on the Island, so chatting is usually fine. Really kick them from the channel?"
+to spanish "U1(name) se encuentra en la isla, por lo cual platicar es normalmente aceptable.  En verdad quieres expulsar a U1(name) del canal ?";
+
+translate "Removed U1 from U2."
+to spanish "U1(name) fué expulsado de U2(name).";
+
+translate "You have been removed from U1."
+to spanish "Haz sido expulsado de U1(name).";
+
+translate "Chat Tabs"
+to spanish "Pestañas de Conversación";
+
+translate "Drag Current Right"
+to spanish "Desplaza hacia la Derecha";
+
+translate "Drag Current Left"
+to spanish "Desplaza hacia la Izquierda";
+
+translate "Press Enter to Chat"
+to spanish "Presiona ENTER para Conversar Aquí";
+
+translate "Unfiltered"
+to spanish "Sin Filtro";
+
+translate "Folder N1"
+to spanish "Folder N1";
+
+translate "Guilds"
+to spanish "Gremios";
+
+translate "Default Chat Categories"
+to spanish "Categorías Predeterminadas de Conversación";
+
+translate "Drag Current"
+to spanish "Desplazar Actual";
+
+translate "Move Current To"
+to spanish "Desplazar Actual Hacia";
+
+translate "Rename"
+to spanish "Renombrar";
+
+translate "New name?"
+to spanish "Nuevo Nombre ?";
+
+translate "Main is already in K1!"
+to spanish "El canal General ya se encuentra en K1 !";
+
+translate "K1 is already in K2!"
+to spanish "K1 ya se encuentra en K2 !";
+
+translate "Chat Tab"
+to spanish "Canal de Conversación";
+
+translate "Private Chat"
+to spanish "Conversación Privada";
+
+translate "Main is automatically in every folder."
+to spanish "General se encuentra automáticamente en todos los folders.";
+
+translate "You cannot move a channel that you have not joined!"
+to spanish "No puedes desplazar un canal al cual no haz ingresado !";
+
+translate "Open Folder"
+to spanish "Folder Abierto";
+
+translate "Move to folder N1"
+to spanish "Desplaza a folder N1";

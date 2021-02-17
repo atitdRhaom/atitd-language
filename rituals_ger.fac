@@ -1,0 +1,87 @@
+module rituals_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment		           **
+//**                                                                       **
+//***************************************************************************
+
+
+translate VisionOfRedMetal to german feminine
+{
+swa "Vision des roten Metalles";
+sn "Vision des roten Metalles"; pn "Vision des roten Metalles";
+}
+translate VisionOfLiquidSilver to german feminine
+{
+swa "Vision des flüssigen Silbers";
+sn "Vision des flüssigen Silbers"; pn "Vision des flüssigen Silbers";
+}
+translate VisionOfBlackMetal to german feminine
+{
+swa "Vision des schwarzen Metalles";
+sn "Vision des schwarzen Metalles"; pn "Vision des schwarzen Metalles";
+}
+translate AstrologicalRitual to german neuter
+{
+swa "Astrologisches Ritual";
+sn "Astrologisches Ritual"; pn "Astrologisches Ritual";
+}
+translate RitualOfPlantGrowthSkill to german neuter
+{
+swa "Ritual des Pflanzenwachstums";
+sn "Ritual des Pflanzenwachstums"; pn "Ritual des Pflanzenwachstums";
+}
+translate RitualOfPlantGrowth to german neuter
+{
+swa "Ritual des Pflanzenwachstums";
+sn "Ritual des Pflanzenwachstums"; pn "Ritual des Pflanzenwachstums";
+}
+translate ExplorerRitual to german neuter
+{
+swa "Entdeckerritual";
+sn "Entdeckerritual"; pn "Entdeckerritual";
+}
+translate RitualOfPlantGrowthSkill to german neuter
+{
+swa "Ritual des Pflanzenwachstums";
+sn "Ritual des Pflanzenwachstums"; pn "Ritual des Pflanzenwachstums";
+}
+
+translate "The Ritual of Plant Growth: a fragile ritual to greatly boost the fertility of certain plants."
+to german "Ein schwieriges Ritual um das Wachstum verschiedener Pflanzen anzuregen.";
+
+translate "RitualOfPlantGrowthSkill (Completed)"
+to german "Ritual des Pflanzenwachstums (Komplett)";
+
+translate "The ritual of plant growth is as follows: you place cabbage seeds, barley (raw), onion seeds, and leek seeds onto an altar, left-to-right, then meditate.  You must know the Ritual of Plant Growth skill (which you do).  When successful, it will notify you that you have a fertile aura, that lasts eight hours.  There is only one problem: the altar must not be used for anything else but the ritual of plant growth.  If the altar has been used for anything else in the past week, the ritual of plant growth will not work."
+to german "Das Ritual des Pflanzenwachstums: Pflanze Kohlsaat, Gerste (roh), Zwiebelsaat und Lauchsaat auf einem Altar, von links nach rechts. Dann meditiere. Du musst das Ritual beherrschen. Wenn es erfolgreich ist, wirst du informiert, dass du eine fruchtbare Aura hast, die acht Stunden anhält. Es gibt nur ein Problem: Der Altar darf für nichts anderes als für diese Ritual benutzt werden. Wurde er in der letzten Woche für etwas anderes gebraucht, wird das Ritual nicht gelingen.";
+
+translate "An aura of fertility surrounds you! It will be with you for about 8 hours."
+to german "Eine Aura der Fruchtbarkeit umgibt dich! Sie wird dich für 8 Stunden begleiten.";
+
+translate "You receive a vision: You see yourself on on the point of Symphony Ridge, peering down at Jacob's Field."
+to german "Du erhältst eine Vision: Du siehst dich selbst auf dem Gipfel des Symphony Gebirgskammes und spähst auf das Jakobsfeld hinunter.";
+
+translate "You feel very confused. More digging? Uh, which way is home?"
+to german "Du bist sehr verwirrt. Mehr graben? Uh, welcher Weg führt nach Hause?";
+
+translate "You feel very confused. Which way is home?"
+to german "Du bist sehr verwirrt. Welcher Weg führt nach Hause?";
+
+translate "Feeling a Connection on K1"
+to german "Ein Verbindungsgefühl zu K1";
+
+translate "You feel a spiritual connection."
+to german "Du fühlst eine spirituelle Verbindung.";
+
+translate "A feeling of emptiness comes over you."
+to german "Ein Gefühl der Leere überkommt dich.";
+
+translate "For a brief moment you feel an aura of fertility. It quickly fades - something is not right."
+to german "Für einen kurzen Moment fühlst du eine Aura der Fruchtbarkeit. Es vreschwindet schnell - etwas ist nicht in Ordnung.";
+
+translate "You meditate, thinking back on your explorations..."
+to german "Du meditierst und erinnerst dich an vergangene Entdeckungen...";

@@ -1,0 +1,33 @@
+module matches_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-,2006 by MDO Entertainment		           **
+//**                                                                       **
+//***************************************************************************
+
+//menues
+
+translate "Ranks"
+to german "Ränge";
+
+translate "Rank in fakegame is N1"
+to german "Rang im Fakegame ist N1";
+
+translate "Reset Fakegame Rank"
+to german "Setze Fakegame Rang zurück";
+
+translate "FakeGame Match"
+to german "FakeGame Spiel";
+
+translate "Win against U1"
+to german "Gewinne gegen U1(name)";
+
+translate "Lose against U1"
+to german "Verliege gegen U1(name)";
+
+translate "Audit Ranks"
+to german "Zeige Ränge";
+

@@ -1,0 +1,138 @@
+module metal_fre;
+
+translate SmeltingPot to french masculine
+{
+  ns "Récipient de fonte"; np "Récipients de fonte";
+}
+translate DirtySmeltingPot to french masculine
+{
+  ns "Récipient de fonte sale"; np "Récipients de fonte sales";
+}
+
+translate CraftFurnace to french masculine
+{
+  ns "Four de métier"; np "Fours de métier";
+}
+translate BlastFurnace to french masculine
+{
+  ns "Haut-fourneau"; np "Haut-fourneau";
+}
+translate PreciousFurnace to french masculine
+{
+  ns "Four précieux"; np "Fours précieux";
+}
+translate OreInferno to french feminine
+{
+  ns "Fonderie"; np "Fonderies";
+}
+translate RedSand to french masculine
+{
+  ns "Sable rouge"; np "Sables rouges";
+}
+translate Quicksilver to french masculine
+{
+  ns "Vif-argent"; np "Vif-argent";
+}
+
+
+
+translate thescienceofmetal to french feminine
+{
+  ns "Science du métal"; np "Science du métal";
+}
+
+translate "Furnaces"
+to french "Fourneaux";
+
+translate "Smelting pot"
+to french "Récipient de fusion";
+
+translate "Dirty Smelting pot"
+to french "Récipient de fusion sale";
+
+translate "Craft furnace"
+to french "Four de métier";
+
+translate "Precious furnace"
+to french "Four précieux";
+
+translate "Blast furnace"
+to french "Haut-fourneau";
+
+translate "Ore Inferno"
+to french "Fonderie";
+
+translate "To build a Craft Furnace, you need: "
+to french "Pour construire un four de métier, il vous faut : ";
+
+translate "To build a Precious Furnace, you need: "
+to french "Pour construire un four précieux, il vous faut : ";
+
+translate "To build a Smelting Pot, you need: "
+to french "Pour construire un récipient de usion, il vous faut :";
+
+translate "To build a Dirty Smelting Pot, you need: "
+to french "Pour construire un récipient de fusion sale, il vous faut :";
+
+translate "To build an Craft Furnace you need:"
+to french "Pour construire un four de métier, il vous faut :";
+
+translate "To build an Precious Furnace you need:"
+to french "Pour construire un four précieux, il vous faut :";
+
+translate "To build an Blast Furnace you need:"
+to french "Pour construire un haut-fourneau, il vous faut :";
+
+translate "To build an Ore Inferno you need:"
+to french "Pour construire une fonderie, il vous faut :";
+
+translate "Fill the furnace with O1"
+to french "Remplir la fournaise avec O1(dns) O1(np)";
+
+translate "You don't have any O1"
+to french "Vous n'avez pas de O1(np)";
+
+translate "The O1 still needs N1 deben of O2 to fire."
+to french "O1(^lns) O1(ns) a encore besoin de N1 mesures de O2(ns) pour démarrer.";
+
+translate "The O1 is ready to fire."
+to french "O1(^lns) O1(ns) est prêt à être lancé.";
+
+translate "Fire the O1!"
+to french "Allumez O1(lns) O1(ns) !";
+
+translate "Before firing, you must remove any metal left in the furnace."
+to french "Avant d'allumer votre fourneau, vous devez retirer tout le métal qui reste.";
+
+translate "You need to fill the furnace with ore in order to fire it."
+to french "Vous devez mettre du minerai dans le fourneau avant de l'allumer.";
+
+translate "There isn't enough ore in the furnace to produce any metal."
+to french "Il n'y a pas assez de minerai dans le fourneau pour produire du métal.";
+
+translate "This furnace takes N1 seconds to fire... Firing now."
+to french "Il faut N1 secondes au fourneau pour se lancer... C'est parti.";
+
+translate "Your furnace produced N1 deben of O1"
+to french "Votre fourneau a produit N1 mesures de O1(ns)";
+translate ", and N1 deben of clinker."
+to french ", et N1 mesures de mâchefer.";
+
+translate "Your furnace produced a mess! Try firing a single kind of ore, or learning about alloys."
+to french "Le résultat est inexploitable ! Ne mettez qu'un seul type de minerai dans le fourneau, ou bien étudiez la fabrication des alliages.";
+
+translate "Load the furnace with O1"
+to french "Mettre O1(dns) O1(ns) dans le fourneau";
+
+translate "Load chamber with how much O1? (Max N1)"
+to french "Quelle quantité de O1(ns) mettre dans le fourneau ? (Max N1)";
+
+translate "Not enought fuel."
+to french "Combustible insuffisant.";
+
+translate "The O1 must be clean before starting a recipe."
+to french "Vous devez nettoyez O1(lns) O1(ns) avant de commencer à travailler.";
+
+translate "Dump this Ore Cart into the O1"
+to french "Vider ce chariot dans O1(lns) O1(ns)";
+

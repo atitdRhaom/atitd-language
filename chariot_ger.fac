@@ -1,0 +1,107 @@
+module chariot_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002,2003,2004,2005 by MDO Entertainment		   **
+//**                                                                       **
+//***************************************************************************
+//menues
+translate "You can quickly travel with this chariot..."
+to german "Du kannst mit diesem Streitwagen schnell reisen...";
+
+translate "Travel back to where I came from"
+to german "Reise zurück, von wo ich herkam";
+
+translate "Travel to the Meeting in the Deep Desert"
+to german "Reise zum Treffen in der tiefen Wüste";
+
+translate "Travel to Oz"
+to german "Reise nach Oz";
+translate "Travel to Shooting Star Park"
+to german "Reise zum Sternschnuppen-Park";
+translate "Travel to Pharaoh's Court"
+to german "Reise zu Pharaoh's Hof";
+translate "Travel to Suicide Point"
+to german "Reise zum Suizid-Punkt";
+translate "Travel to the Beta#2 Closing Ceremony (Nekhmet's Class)"
+to german "Reise zur Beta#2 geschlossenen Zeremonie (Nekhmet's Klasse)";
+translate "Travel to the Beta#3 Amnesty Session"
+to german "Reise zur Beta#3 Gnadenerlass-Gerichtsverhandlung";
+translate "Travel to the VoK Pyramid"
+to german "Reise zur VoK Pyramide";
+translate "Travel to The Mountain Market"
+to german "Reise zum Bergmarkt";
+translate "Travel to Tugament III (Pluribus's Class)"
+to german "Reise zu Tugament III (Pluribus's Klasse)";
+translate "Travel to The Charcoal Brazier"
+to german "Reise zur Holzkohlegrube";
+translate "Travel to the River Plains (Meffi's Class)"
+to german "Reise zu den Flussebenen (Meffi's Klasse)";
+translate "Travel to Tugament III (Pluribus's Class)"
+to german "Reise zu Tugament III (Pluribus's Klasse)";
+translate "Travel to Twin King's Ridge"
+to german "Reise zu zum Zweikönigsgrat";
+translate "Travel to Constitution Peak"
+to german "Reise zum Konstitutionsgipfel";
+translate "Travel to Symphony Ridge"
+to german "Reise zu Sinfoniegrat";
+translate "Travel to Jacob's Field (Otter's Class)"
+to german "Reise zu Jakobs Feld (Otter's Klasse)";
+translate "Travel to Oasis Island"
+to german "Reise zur Oaseninsel";
+translate "Travel to Sunset Pond"
+to german "Reise zum Sonnenaufgangssee";
+translate "Travel to The River Nile"
+to german "Reise zum Fluß Nil";
+translate "Travel to The Great Pyramid at Giza"
+to german "Reise zu den großen Pyramiden von Gizeh";
+translate "Travel to The Tetagok Dunes (Aukks' Class)"
+to german "Reise zu den Tetagok Dünen (Aukks' Klasse)";
+translate "Travel to The Idakan Slate Quarry"
+to german "Reise zu der Idakan Schiefermine";
+translate "Travel to Sokoban Township"
+to german "Reise zur Sokoban-Gemeinde";
+translate "Travel to Red Spring Bowl"
+to german "Reise zu der Roten Quellkugel";
+translate "Travel to University"
+to german "Reise zur Universität";
+translate "Travel to School"
+to german "Reise zur Schule";
+to german "Führerschaft (Stadthaus)";
+translate "The Human Body"
+to german "Der menschliche Körper";
+translate "Architecture"
+to german "Architektur";
+translate "Thought"
+to german "Gedanken";
+translate "Worship"
+to german "Verehrung";
+translate "Art & Music"
+to german "Kunst und Musik";
+translate "Conflict"
+to german "Konflikt";
+translate "The Human Body"
+to german "Der menschliche Körper";
+translate "Architecture (North)"
+to german "Architektur (Nord)";
+translate "Architecture#2"
+to german "Architektur#2";
+translate "Architecture#3"
+to german "Architektur#3";
+translate "The Old Battleground"
+to german "Das alte Schlachtfeld";
+translate "Travel to Builder Island"
+to german "Reise zur Entwicklerinsel";
+translate "Traveling..."
+to german "Reisen...";
+translate "Summon a Chariot"
+to german "Rufe einen Streitwagen";
+
+translate Chariot to german masculine
+{
+swa "Streitwagen";
+sn "Streitwagen"; sg "Streitwagens"; sd "Streitwagen"; sa "Streitwagen";
+pn "Streitwagen"; pg "Streitwagen"; pd "Streitwagen"; pa "Streitwagen";
+}

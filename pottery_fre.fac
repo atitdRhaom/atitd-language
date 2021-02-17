@@ -1,0 +1,321 @@
+module pottery_fre;
+
+translate PotteryWheel to french masculine
+{
+  ns "Tour de potier"; np "Tours de potier";
+}
+translate PotteryDeck to french feminine
+{
+  ns "Planche à poterie"; np "Planches à poterie";
+}
+translate ClayDome to french masculine
+{
+  ns "Dôme d'argile"; np "Dômes d'argile";
+}
+translate reinforcedkiln to french masculine
+{
+  ns "four renforcé"; np "fours renforcés";
+}
+
+translate Clay to french feminine
+{
+  ns "Argile"; np "Argiles";
+}
+
+translate WetJugs to french feminine
+{
+  ns "Cruche humide"; np "Cruches humides";
+}
+
+translate WetClayMortars to french masculine
+{
+  ns "Mortier en argile (humide)"; np "Mortiers en argile (humides)";
+}
+translate ClayMortars to french masculine
+{
+  ns "Mortier en argile"; np "Mortiers en argile";
+}
+
+--translate kiln to french masculine
+--{
+--  ns "Four"; np "Fours";
+--}
+
+translate BoxKiln to french masculine
+{
+  ns "Four carré"; np "Four carré";
+}
+
+translate kiln to french masculine
+{
+  ns "Véritable four"; np "Véritables fours";
+}
+
+translate VaultKiln to french masculine
+{
+  ns "Four à voûte"; np "Fours à voûte";
+}
+translate WetGrainMortars to french masculine
+{
+  ns "Mortier à grains (humide)"; np "Mortiers à grains (humides)";
+}
+translate GrainMortars to french masculine
+{
+  ns "Mortier à grains"; np "Mortiers à grains";
+}
+
+translate WetClayDome to french masculine
+{
+  ns "Dôme d'argile (humide)"; np "Dômes d'argile (humides)";
+}
+translate WetPipeSegment to french masculine
+{
+  ns "Segment de canalisation (humide)"; np "Segments de canalisation (humide)";
+}
+translate PipeSegment to french masculine
+{
+  ns "Segment de canalisation"; np "Segments de canalisation";
+}
+translate WetCistern to french masculine
+{
+  ns "Réservoir (humide)"; np "Réservoirs (humide)";
+}
+
+translate ReinforcedKiln to french masculine
+{
+  ns "Four renforcé"; np "Fours renforcés";
+}
+
+
+translate "Gather: Clay"
+to french "Ramasser: Argile";
+
+translate "Pottery"
+to french "Poterie";
+
+translate "True Kiln"
+to french "Four véritable";
+
+translate "Pottery Wheel"
+to french "Tour de potier";
+
+translate "Kilns" 
+to french "Fours";
+
+translate "Pottery Deck"
+to french "Planche à poterie";
+
+translate "Pottery Wheel"
+to french "Tour de potier";
+
+translate "Box Kiln"
+to french "Four carré";
+
+translate "True Kiln"
+to french "Four véritable";
+
+translate "Vault Kiln"
+to french "Four à voûte";
+
+translate "You'll have to pour some water on the packed earth to soften it."
+to french "Vous devez verser de l'eau sur la terre séchée pour l'amollir.";
+
+translate "Hmm... It seems that all the clay in this area has been gathered."
+to french "Hmm... Il semble que vous ayez ramassé toute l'argile de la zone.";
+
+translate "As you gather the clay, you also find a small hard piece of flint."
+to french "En ramassant de l'argile, vous tombez sur un petit morceau de silex.";
+
+translate "To build a Pottery Wheel, you need: "
+to french "Pour construire un tour de potier, il vous faut : ";
+translate "N1 O1"
+to french "N1 O1(N1?np:ns)";
+
+translate "To build a Pottery Deck, you need: "
+to french "Pour construire une planche à poterie, il vous faut : ";
+translate "N1 O1"
+to french "N1 O1(N1?pn:sn)";
+
+translate "Make a water jug"
+to french "Fabriquer une cruche d'eau";
+
+translate "Make a jug"
+to french "Fabriquer une cruche";
+
+translate "It takes 1 deben of clay to make a water jug"
+to french "Il vous faut une mesure d'argile pour fabriquer une cruche d'eau.";
+
+translate "Make a Clay Dome"
+to french "Fabriquer un dôme d'argile";
+
+translate "It takes 400 deben of clay to make a Clay Dome"
+to french "Il vous faut 400 mesures d'argile pour faire un dôme d'argile.";
+
+translate "Clay dome will be ready in 60 minutes."
+to french "Votre dôme d'argile sera prêt dans 60 minutes.";
+
+translate "Make a Pipe Segment"
+to french "Fabriquer un segment de canalisation";
+
+translate "It takes 100 deben of clay to make a Pipe Segment"
+to french "Il vous faut 100 mesures d'argile pour fabriquer un segment de canalisation";
+
+translate "Make a Cistern"
+to french "Fabriquer un réservoir";
+
+translate "It takes 350 deben of clay to make a Cistern"
+to french "Il vous faut 350 mesures d'argile pour fabriquer un réservoir";
+
+translate "Cistern will be ready in One Hour."
+to french "Le réservoir sera prêt dans une heure.";
+
+translate "Pipe Segment will be ready in one hour."
+to french "Le segment de canalisation sera prêt dans une heure.";
+
+translate "To build a Box Kiln, you need: "
+to french "Pour construire un four carré, il vous faut : ";
+
+translate "N1 O1"
+to french "N1 O1(N1?np:ns)";
+
+translate "To build a True Kiln, you need: "
+to french "Pour construire un four véritable, il vous faut : ";
+translate "N1 O1"
+to french "N1 O1(N1?np:ns)";
+
+translate "To build a Vault Kiln, you need: "
+to french "Pour construire un four à voûte, il vous faut : ";
+translate "N1 O1"
+to french "N1 O1(N1?np:ns)";
+
+translate "Load the kiln with wet firebricks."
+to french "Placer des briques réfractaires humides dans le four";
+
+translate "You don't have any wet firebricks."
+to french "Vous n'avez pas de briques réfractaires humides.";
+
+translate "The kiln is already fully loaded."
+to french "Le four est déjà plein.";
+
+translate "Load the kiln with wet jugs."
+to french "Placer des cruches humides dans le four.";
+
+translate "You don't have any wet jugs."
+to french "Vous n'avez pas de cruches humides.";
+
+translate "Load the kiln with wet grain mortars."
+to french "Placer des mortiers à grains humides dans le four";
+
+translate "You don't have any wet grain mortars."
+to french "Vous n'avez pas de mortiers à grains humides.";
+
+translate "Load the kiln with wood."
+to french "Mettre du bois dans le four";
+
+translate "The chamber is already filled with wood."
+to french "Vous avez déjà mis du bois dans le four.";
+
+translate "You don't have any wood."
+to french "Vous n'avez pas le bois.";
+
+translate "Fire the Box Kiln."
+to french "Allumer le four carré.";
+
+translate "You must first remove any completed firebricks from your box kiln."
+to french "Vous devez d'abord retirer les briques réfractaires du four.";
+
+translate "You haven't placed any wet firebricks in your box kiln."
+to french "Vous n'avez pas mis de briques réfractaires humides dans votre four carré.";
+
+translate "You haven't placed any wet items in your kiln."
+to french "Vous n'avez pas placé d'objets humides dans votre four.";
+
+translate "This Kiln requires N1 pieces of wood to fire."
+to french "Il vous faut mettre N1 morceau de bois dans le four pour l'allumer.";
+
+translate "Box kilns are inefficient, and require N1 pieces of wood to fire."
+to french "Les fours carrés sont inefficaces, il leur faut N1 morceaux de bois pour fonctionner.";
+
+translate "The Box Kiln has worn out and crumbled to dust."
+to french "Votre four carré était délabré et s'est effondré.";
+
+translate "Mould a Grain Mortar from Clay"
+to french "Fabriquer un mortier à grains à partir d'argile";
+
+translate "You need 4 clay to mould a Grain Mortar"
+to french "Il vous faut 4 mesures d'argile pour fabriquer un mortier à grains.";
+
+translate "Your Kiln has worn out and crumbled to dust."
+to french "Votre four était délabré et s'est effondré.";
+
+translate "Fill with wood"
+to french "Remplir de bois";
+
+translate "Load how much Wood? (Max N1)"
+to french "Quelle quandité de bois ? (Max N1)";
+
+translate "Load a Wet Clay Dome into the kiln"
+to french "Mettre un dôme d'argile humide dans le four";
+
+translate "You aren't carrying a Wet Clay Dome."
+to french "Vous n'avez pas de dôme d'argile humide.";
+
+translate "Fire the Kiln"
+to french "Allumer le four";
+
+translate "The vault kiln must be loaded with 100 wood."
+to french "Vous devez mettre 100 bois dans votre four à voûte.";
+
+translate "You haven't placed a wet clay dome into the vault kiln"
+to french "Vous n'avez pas mis de dôme d'argile humide dans le four à voûte";
+
+translate "You haven't placed anything in the Vault Kiln."
+to french "Vous n'avez rien mis dans le four.";
+
+translate "The Vault Kiln takes K1 to fire a O1."
+to french "Le four à voûte mettra K1 pour cuire O1(uns) O1(ns).";
+
+translate "The Vault Kiln takes one hour to fire a Clay Dome"
+to french "Le four à voûte demande une heure pour cuire un dôme d'argile.";
+
+translate "It takes N1 deben of Clay to make a Jug"
+to french "Il vous faut N1 mesures d'argile pour fabriquer une cruche.";
+
+translate "Load the kiln with wet clay mortars."
+to french "Placer des mortiers en argile humides dans le four.";
+
+translate "You don't have any wet clay mortars."
+to french "Vous n'avez pas de mortiers en argile humides.";
+
+translate "Mould a Clay Mortar"
+to french "Mouler un mortier en argile";
+
+translate "You need N1 clay to mould a Clay Mortar"
+to french "Il vous faut N1 mesures d'argile pour mouler un mortier en argile";
+
+translate "You're making progress toward building a Sacrificial Bonfire."
+to french "Vous progresser vers la construction d'un Feu Sacrificiel.";
+
+translate "Load a O1 into the Kiln"
+to french "Placer O1(uns) O1(ns) dans le four";
+
+translate "Everything must be unloaded first."
+to french "Vous devez d'abord tout retirer.";
+
+translate "You aren't carrying a O1"
+to french "Vous ne possédez pas de O1(ns)";
+
+translate "This O1 is Firing"
+to french "O1(^cns) O1(ns) est allumé";
+
+translate "Reinforced Kiln"
+to french "Four renforcé";
+
+translate "To build a Reinforced Kiln, you need: "
+to french "Pour construire un four renforcé, il vous faut : ";
+
+translate "Load the Kiln with Wet Clay Bricks"
+to french "Placer des briques en argile humides dans le four";
+
+translate "You don't have any Wet Clay Bricks."
+to french "Vous n'avez pas de briques en argile humides.";

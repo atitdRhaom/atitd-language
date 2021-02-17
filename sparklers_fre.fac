@@ -1,0 +1,105 @@
+module sparklers_fre;
+
+translate FireFountainK to french feminine
+{
+  ns "Fontaine de feu"; np "Fontaines de feu";
+}
+
+translate FireFountainR to french feminine
+{
+  ns "Fontaine de feu rouge"; np "Fontaines de feu rouge";
+}
+
+translate FireFountainG to french feminine
+{
+  ns "Fontaine de feu vert"; np "Fontaines de feu vert";
+}
+
+translate FireFountainB to french feminine
+{
+  ns "Fontaine de feu bleu"; np "Fontaines de feu bleu";
+}
+
+translate FireFountainConstruction to french feminine
+{
+  ns "Elaboration de feux d'artifice"; np "Elaboration de feu d'artifices";
+}
+
+translate SunThrower to french masculine
+{
+  ns "Soleil"; np "Soleils";
+}
+
+translate YarghsRevenge to french feminine
+{
+	ns "Vengeance de Yargh"; np "Vengeance de Yargh";
+	}
+
+translate FastCanary to french masculine
+{
+	ns "Canari véloce"; np "Canari véloce";
+	}
+
+translate BrightMillenium to french masculine
+{
+	ns "Millénaire resplendissant"; np "Millénaire resplendissant";
+	}
+
+translate SmokeBombNormal to french feminine
+{
+	ns "Bombe fumigène"; np "Bombes fumigènes";
+	}
+
+translate SmokeBombRed to french feminine
+{
+	ns "Bombe fumigène - Rouge"; np "Bombes fumigènes - Rouges";
+	}
+
+translate SmokeBombYellow to french feminine
+{
+	ns "Bombe fumigène - Jaune"; np "Bombes fumigènes - Jaunes";
+	}
+
+translate SmokeBombBlue to french feminine
+{
+	ns "Bombe fumigène - Bleue"; np "Bombes fumigènes - Bleues";
+	}
+
+translate "Fire Fountains"
+to french "Fontaine de feu";
+
+translate "Make a Fire Fountain"
+to french "Construire une fontaine de feu";
+
+translate "Make a Red Fire Fountain"
+to french "Construire une fontaine de feu rouge";
+
+translate "Make a Green Fire Fountain"
+to french "Construire une fontaine de feu vert";
+
+translate "Make a Blue Fire Fountain"
+to french "Construire une fontaine de feu bleu";
+
+translate "Make a Purple Fire Fountain"
+to french "Construire une fontaine de feu violet";
+
+translate "To build a O1 you need "
+to french "Pour construire O1(^uns) O1(ns), il vous faut : ";
+
+translate "Light the Fire Fountain!!"
+to french "Allumer la fontaine !!";
+
+translate "Light the Sun Thrower!!"
+to french "Allumer le soleil !!";
+
+translate "Check your inventory for a little prize."
+to french "Vérifiez votre inventaire, vous avez gagné un petit quelque chose.";
+
+translate "Door Prize"
+to french "Prix d'entrée";
+
+translate "I have a sun thrower ticket!"
+to french "J'ai un Ticket Soleil !";
+
+translate "Sun thrower ticket number?"
+to french "Numéro du ticket soleil ?";

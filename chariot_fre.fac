@@ -1,0 +1,132 @@
+module chariot_fre;
+
+translate Chariot to french masculine
+{
+ns "Chariot"; np "Chariots";
+}
+
+translate demochariotstop to french masculine
+{
+ns "Chariot"; np "Chariots";
+}
+
+translate "You can quickly travel with this chariot..."
+to french "Vous pouvez vous déplacer rapidement avec ce chariot...";
+
+translate "Travel back to where I came from"
+to french "Retourner d'où je viens";
+
+translate "Travel to the Meeting in the Deep Desert"
+to french "Se rendre à la réunion dans le désert lointain";
+
+translate "Travel to Oz"
+to french "Se rendre à Oz";
+
+translate "Travel to Shooting Star Park"
+to french "Se rendre au parc des Etoiles Filantes";
+
+translate "Travel to Pharaoh's Court"
+to french "Se rendre à la Cour de Pharaon";
+
+translate "Travel to Suicide Point"
+to french "Se rendre au lieu du Suicide";
+
+translate "Travel to The Mountain Market"
+to french "Se rendre au marché de la montagne";
+
+translate "Travel to Tugament III (Pluribus's Class)"
+to french "Se rendre à Tugament III (classe de Pluribus)";
+
+translate "Travel to The Charcoal Brazier"
+to french "Se rendre au Brasier de charbon de bois";
+
+translate "Travel to the River Plains (Meffi's Class)"
+to french "Se rendre dans les Plaines fluviales (classe de Meffi)";
+
+translate "Travel to Tugament III (Pluribus's Class)"
+to french "Se rendre à Tugament III (classe de Pluribus)";
+
+translate "Travel to Twin King's Ridge"
+to french "Se rendre à la crête des Deux Rois";
+
+translate "Travel to Constitution Peak"
+to french "Se rendre au Pic de la Constitution";
+
+translate "Travel to Symphony Ridge"
+to french "Se rendre à la crête de la Symphonie";
+
+translate "Travel to Jacob's Field (Otter's Class)"
+to french "Se rendre au champ de Jacob (classe d'Otter)";
+
+translate "Travel to Oasis Island"
+to french "Se rendre à l'île Oasis";
+
+translate "Travel to Sunset Pond"
+to french "Se rendre à la mare du Couchant";
+
+translate "Travel to The River Nile"
+to french "Se rendre auprès du Nil";
+
+translate "Travel to The Great Pyramid at Giza"
+to french "Se rendre à la grande pyramide de Gizeh";
+
+translate "Travel to The Tetagok Dunes (Aukks' Class)"
+to french "Se rendre aux dunes de Tetagok (classe d'Aukk)";
+
+translate "Travel to The Idakan Slate Quarry"
+to french "Se rendre à la carrière d'ardoise d'Idakan";
+
+translate "Travel to Sokoban Township"
+to french "Se rendre au canton de Sokoban";
+
+translate "Travel to Red Spring Bowl"
+to french "Se rendre au val de la Source Rouge";
+
+translate "Travel to University"
+to french "Se rendre à l'université";
+
+translate "Travel to School"
+to french "Se rendre à l'école";
+
+translate "The Human Body"
+to french "corps humain";
+
+translate "Architecture"
+to french "Architecture";
+
+translate "Thought"
+to french "Pensée";
+
+translate "Worship"
+to french "Vénération";
+
+translate "Art & Music"
+to french "Art & Musique";
+
+translate "Conflict"
+to french "Conflit";
+
+translate "The Human Body"
+to french "Corps Humain";
+
+translate "Architecture (North)"
+to french "Architecture (Nord)";
+
+translate "Architecture#2"
+to french "Architecture 2";
+
+translate "Architecture#3"
+to french "Architecture 3";
+
+translate "The Old Battleground"
+to french "Les anciens Champs de Bataille";
+
+translate "Travel to Builder Island"
+to french "Se rendre à l'île des Constructions";
+
+translate "Traveling..."
+to french "Voyage en cours...";
+
+translate "Summon a Chariot"
+to french "Appeler un Chariot";
+

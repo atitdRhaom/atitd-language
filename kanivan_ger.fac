@@ -1,0 +1,199 @@
+module KanivanTak_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment      	           **
+//**                                                                       **
+//***************************************************************************
+
+translate KanivanDesk to german masculine
+{
+swa "Kanivan Tisch";
+sn "Kanivan Tisch"; pn "Kanivan Tische";
+}
+
+translate KanivanTak to german masculine
+{
+swa "Kanivan Rang";
+sn "Kanivan Rang"; pn "Kanivan Ränge";
+}
+
+translate "Stalemate!"
+to german "Patt";
+
+translate "With no progress, game ends in: N1"
+to german "Ohne Vorschritt endet das Spiel: N1";
+
+translate "Switch to Tournament Mode"
+to german "Wechsel zum Turniermodus";
+
+translate "Switch to Practice Mode"
+to german "Wechsel zum Übungsmodus";
+
+translate "Match between U1 and U2"
+to german "Partie zwischen U1(name) und U2(name)";
+
+translate "U1 is waiting for an opponent."
+to german "U1(name) wartet auf einen Gegenspieler.";
+
+///"Play Kanivan Tak",Place.Practice ? " (Practice Game)" : "")
+
+///"Play Kanivan Tak against ",Place.PlayerName[-1],Place.Practice ? " (Practice Game)" : "")
+
+translate "You must first sign up for the Test of Kanivan Tak at any Great University of Conflict."
+to german "Du mußt dich zuerst für den Test des Kanivan Tak an der großen Universität des Konfliktes einschreiben.";
+
+translate "You must first sign up at any Great University of Conflict."
+to german "Du mußt dich zuerst an der großen Universität des Konfliktes einschreiben.";
+
+///"This is a ",Place.Practice ? "Practice" : "Tournament"," game."
+
+translate "Reset Board"
+to german "Brett zurücksetzen";
+
+translate "Jump"
+to german "Sprung";
+
+translate "Move"
+to german "Bewege";
+
+translate "King"
+to german "König";
+
+translate "Done Jump"
+to german "Getätigter Sprung";
+
+translate "Attack by Jumping"
+to german "Angriff durch Springen";
+
+translate "Too far away."
+to german "Zu weit weg.";
+
+translate "You must move no more than N1 degrees away from straight."
+to german "Du darfst nie mehr als N1 Grad abweichen.";
+
+translate "That jump would put your Tak out of bounds."
+to german "Dieser Sprung würde dein Tak ins Aus befördern.";
+
+translate "You can't make it over that Tak."
+to german "Du kannst dies nicht über diesen Tak tun.";
+
+translate "The attacking Tak would land on another Tak."
+to german "Der angreifende Tak würde auf einem anderen Tak landen.";
+
+translate "LLeft"
+to german "Links*2";
+
+translate "Left"
+to german "Links";
+
+translate "RRight"
+to german "Rechts*2";
+
+translate "Right"
+to german "Rechts";
+
+///"Transferred data to ",actor.username,": ",piece)
+
+translate "Start the Test of Kanivan Tak"
+to german "Beginne den Test des Kanivan Tak";
+
+translate "You are registered for the Test of Kanivan Tak. Your Taks always move 23 feet, and at any angle up to N1 degrees. Getting near the far end of the board allows you to change your Taks into kings, which can move backwards. Jumps are not mandatory. The game ends when a player loses their last Tak, or no progress (movement by a non-king, or any capture) is made for five consecutive moves."
+to german "Du hast dich für den Test des Kanivan Tak eingeschrieben. Deine Taks laufen immer 23 Fuß und in jedem Winkel bis hin zu N1 Grad. Sobald man an das andere Ende des Brettes ankommt, darf man seine Taks zu Könige verwandeln, welche auch rückwärts gehen können. Sprünge sind nicht vorgeschrieben. Das Spiel endet, sobald ein Spieler seinen letzten Tak verloren hat oder kein Weiterkommen (Bewegung mit einem Nicht-König oder einer Eroberung) in 5 aufeinanderfolgenden Zügen mehr möglich ist.";
+
+translate "Sanity Check"
+to german "Gesundheitsprüfung";
+
+translate "Insanity: "
+to german "Krankheit: ";
+
+translate "Your Tak.\n"
+to german "Dein Tak.";
+
+translate "Opponent is Moving."
+to german "Gegner ist am Zug.";
+
+translate "Opponent's Tak.\n"
+to german "Gegners Tak.";
+
+translate "Opponent is Moving."
+to german "Gegner ist am Zug.";
+
+translate "Done Jump"
+to german "Getätigter Sprung";
+
+translate "Complete your Jump"
+to german "Beende Deinen Sprung";
+
+translate "Extra-Attack!"
+to german "Extra-Angriff!";
+
+translate "Attack by Jumping"
+to german "Angriff durch Sprung";
+
+translate "Click Opponent's\n"
+to german "Klicke gegnerischen";
+
+translate "Tak to Jump"
+to german "Tak zum Sprung";
+
+///"Opponent's Tak.\nYour Turn." : "Opponent's Tak.\nOpponent's Turn.")
+
+translate "LBUT:"
+to german "LI:";
+
+translate "RBUT:"
+to german "RE:";
+
+translate "RRBUT:"
+to german "2*RE:";
+
+translate "LLBUT:"
+to german "2*LI:";
+
+translate "JUMP:"
+to german "SPRUNG:";
+
+translate "MOVE:"
+to german "BEWEGE:";
+
+translate "lleft"
+to german "links*2";
+
+translate "left"
+to german "links";
+
+translate "rright"
+to german "rechts*2";
+
+translate "right"
+to german "rechts";
+
+translate "move"
+to german "bewege";
+
+translate "jump"
+to german "sprung";
+
+translate "Game ends in N1"
+to german "Spiel endet in N1";
+
+translate "Describe the game of Kanivan Tak"
+to german "Beschreibe das Spiel des Kanivan Tak";
+
+translate "U1 already knows about Kanivan Tak."
+to german "U1(name) kennt bereits Kanivan Tak.";
+
+translate "U1 has described the game of Kanivan Tak to you."
+to german "U1(name) hat dir das Spiel Kanivan Tak beigebracht.";
+
+translate "You teach the game of Kanivan Tak to U1"
+to german "Du lehrst U1(name) das Spiel des Kanivan Tak";
+
+translate "Waiting for Opponent"
+to german "Warten auf einen Gegner";
+
+translate "In Progress"
+to german "Beschäftigt";

@@ -1,0 +1,1252 @@
+module wine2_ger;
+
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+
+translate VineCutting2 to german masculine
+{
+swa "Rebenverschnitt";
+  sn "Rebenverschnitt"; sg "Rebenverschnitts"; sd "Rebenverschnitt"; sa "Rebenverschnitt";
+  pn "Rebenverschnitte"; pg "Rebenverschnitte"; pd "Rebenverschnitte"; pa "Rebenverschnitte";
+}
+translate VineCutting to german masculine
+{
+swa "Rebenverschnitt";
+  sn "Rebenverschnitt"; sg "Rebenverschnitts"; sd "Rebenverschnitt"; sa "Rebenverschnitt";
+  pn "Rebenverschnitte"; pg "Rebenverschnitte"; pd "Rebenverschnitte"; pa "Rebenverschnitte";
+}
+translate Grapes2 to german feminine
+{
+swa "Traube";
+  sn "Traube"; sg "Traube"; sd "Traube"; sa "Traube";
+  pn "Trauben"; pg "Trauben"; pd "Trauben"; pa "Trauben";
+}
+translate Wine2 to german masculine
+{
+swa "Wein";
+  sn "Wein"; sg "Weines"; sd "Wein"; sa "Wein";
+  pn "Weine"; pg "Weine"; pd "Weinen"; pa "Weine";
+}
+translate Wine to german masculine
+{
+swa "Wein";
+  sn "Wein"; sg "Weines"; sd "Wein"; sa "Wein";
+  pn "Weine"; pg "Weine"; pd "Weinen"; pa "Weine";
+}
+translate Vineyard2 to german masculine
+{
+swa "Weinberg";
+  sn "Weinberg"; sg "Weinberges"; sd "Weinberg"; sa "Weinberg";
+  pn "Weinberge"; pg "Weinberge"; pd "Weinbergen"; pa "Weinberge";
+}
+translate Vineyard to german masculine
+{
+swa "Weinberg";
+  sn "Weinberg"; sg "Weinberges"; sd "Weinberg"; sa "Weinberg";
+  pn "Weinberge"; pg "Weinberge"; pd "Weinbergen"; pa "Weinberge";
+}
+translate Viticulture to german masculinecollective
+{
+swa "Weinanbau";
+  sn "Weinanbau"; 
+  pn "Weinanbau"; 
+}
+translate WineBarrel to german neuter
+{
+swa "Weinfass";
+  sn "Weinfass"; sg "Weinfasses"; sd "Weinfass"; sa "Weinfass";
+  pn "Weinfässer"; pg "Weinfässer"; pd "Weinfässern"; pa "Weinfässer";
+}
+translate smallBarrels to german neuter
+{
+swa "Kleines Fass";
+  sn "Kleine Fass"; sg "Kleinen Fasses"; sd "Kleinen Fass"; sa "Kleine Fass";
+  pn "Kleinen Fässer"; pg "Kleinen Fässer"; pd "Kleinen Fässern"; pa "Kleinen Fässer";
+}
+translate WAGrapefruit to german feminine
+{
+swa "Grapefrucht";
+  sn "Grapefrucht"; sg "Grapefrucht"; sd "Grapefrucht"; sa "Grapefrucht";
+  pn "Grapefrüchte"; pg "Grapefrüchte"; pd "Grapefrüchten"; pa "Grapefrüchte";
+}
+translate WALemon to german feminine
+{
+swa "Limone";
+  sn "Limone"; sg "Limone"; sd "Limone"; sa "Limone";
+  pn "Limonen"; pg "Limonen"; pd "Limonen"; pa "Limonen";
+}
+translate WABlackberry to german feminine
+{
+swa "Schwarzbeere";
+  sn "Schwarzbeere"; sg "Schwarzbeere"; sd "Schwarzbeere"; sa "Schwarzbeere";
+  pn "Schwarzbeeren"; pg "Schwarzbeeren"; pd "Schwarzbeeren"; pa "Schwarzbeeren";
+}
+translate WARaspberry to german feminine
+{
+swa "Himbeere";
+  sn "Himbeere"; sg "Himbeere"; sd "Himbeere"; sa "Himbeere";
+  pn "Himbeeren"; pg "Himbeeren"; pd "Himbeeren"; pa "Himbeeren";
+}
+translate WAStrawberry to german feminine
+{
+swa "Erdbeere";
+  sn "Erdbeere"; sg "Erdbeere"; sd "Erdbeere"; sa "Erdbeere";
+  pn "Erdbeeren"; pg "Erdbeeren"; pd "Erdbeeren"; pa "Erdbeeren";
+}
+translate WACassis to german neuter
+{
+swa "Cassis";
+  sn "Cassis"; sg "Cassis"; sd "Cassis"; sa "Cassis";
+  pn "Cassis"; pg "Cassis"; pd "Cassis"; pa "Cassis";
+}
+translate WACherry to german feminine
+{
+swa "Kirsche";
+  sn "Kirsche"; sg "Kirsche"; sd "Kirsche"; sa "Kirsche";
+  pn "Kirschen"; pg "Kirschen"; pd "Kirschen"; pa "Kirschen";
+}
+translate WAApricot to german feminine
+{
+swa "Aprikose";
+  sn "Aprikose"; sg "Aprikose"; sd "Aprikose"; sa "Aprikose";
+  pn "Aprikosen"; pg "Aprikosen"; pd "Aprikosen"; pa "Aprikosen";
+}
+translate WAPeach to german masculine
+{
+swa "Pfirsich";
+  sn "Pfirsich"; sg "Pfirsich"; sd "Pfirsich"; sa "Pfirsich";
+  pn "Pfirsiche"; pg "Pfirsiche"; pd "Pfirsichen"; pa "Pfirsiche";
+}
+translate WAApple to german masculine
+{
+swa "Apfel";
+  sn "Apfel"; sg "Apfel"; sd "Apfel"; sa "Apfel";
+  pn "Äpfel"; pg "Äpfel"; pd "Äpfeln"; pa "Äpfel";
+}
+translate WAPineapple to german feminine
+{
+swa "Ananas";
+  sn "Ananas"; sg "Ananas"; sd "Ananas"; sa "Ananas";
+  pn "Ananas"; pg "Ananas"; pd "Ananas"; pa "Ananas";
+}
+translate WAMelon to german feminine
+{
+swa "Melone";
+  sn "Melone"; sg "Melone"; sd "Melone"; sa "Melone";
+  pn "Melonen"; pg "Melonen"; pd "Melonen"; pa "Melonen";
+}
+translate WABanana to german feminine
+{
+swa "Banane";
+  sn "Banane"; sg "Banane"; sd "Banane"; sa "Banane";
+  pn "Bananen"; pg "Bananen"; pd "Bananen"; pa "Bananen";
+}
+translate WAStrawberryJam to german feminine
+{
+swa "Erdbeermarmelade";
+  sn "Erdbeermarmelade"; sg "Erdbeermarmelade"; sd "Erdbeermarmelade"; sa "Erdbeermarmelade";
+  pn "Erdbeermarmeladen"; pg "Erdbeermarmeladen"; pd "Erdbeermarmeladen"; pa "Erdbeermarmeladen";
+}
+translate WARaisin to german feminine
+{
+swa "Rosine";
+  sn "Rosine"; sg "Rosine"; sd "Rosine"; sa "Rosine";
+  pn "Rosinen"; pg "Rosinen"; pd "Rosinen"; pa "Rosinen";
+}
+translate WAPrune to german feminine
+{
+swa "Pflaume";
+  sn "Pflaume"; sg "Pflaume"; sd "Pflaume"; sa "Pflaume";
+  pn "Pflaumen"; pg "Pflaumen"; pd "Pflaumen"; pa "Pflaumen";
+}
+translate WAFig to german feminine
+{
+swa "Feige";
+  sn "Feige"; sg "Feige"; sd "Feige"; sa "Feige";
+  pn "Feigen"; pg "Feigen"; pd "Feigen"; pa "Feigen";
+}
+translate WAArtificialFruit to german feminine
+{
+swa "Künstl. Frucht";
+  sn "Künstl. Frucht"; sg "Künstl. Frucht"; sd "Künstl. Frucht"; sa "Künstl. Frucht";
+  pn "Künstl. Früchte"; pg "Künstl. Früchte"; pd "Künstl. Früchten"; pa "Künstl. Früchte";
+}
+translate WAMethylAnthranilate to german neuter
+{
+swa "Methyl-Anthranilat";
+  sn "Methyl-Anthranilat"; sg "Methyl-Anthranilat"; sd "Methyl-Anthranilat"; sa "Methyl-Anthranilat";
+  pn "Methyl-Anthranilate"; pg "Methyl-Anthranilate"; pd "Methyl-Anthranilate"; pa "Methyl-Anthranilate";
+}
+translate WAStemmy to german feminine
+{
+swa "Stemmy";
+  sn "Stemmy"; sg "Stemmy"; sd "Stemmy"; sa "Stemmy";
+  pn "Stemmy"; pg "Stemmy"; pd "Stemmy"; pa "Stemmy";
+}
+translate WAGrass to german neuter
+{
+swa "Gras";
+  sn "Gras"; sg "Grases"; sd "Gras"; sa "Gras";
+  pn "Gräser"; pg "Gräser"; pd "Gräsern"; pa "Gräser";
+}
+translate WABellPepper to german masculine
+{
+swa "Grüner Pfeffer";
+  sn "Grüne Pfeffer"; sg "Grünen Pfeffers"; sd "Grünem Pfeffer"; sa "Grüne Pfeffer";
+  pn "Grünen Pfeffer"; pg "Grünen Pfeffer"; pd "Grünen Pfeffern"; pa "Grünen Pfeffer";
+}
+translate WAEucalyptus to german masculine
+{
+swa "Eukalyptus";
+  sn "Eukalyptus"; sg "Eukalyptus"; sd "Eukalyptus"; sa "Eukalyptus";
+  pn "Eukalyptus"; pg "Eukalyptus"; pd "Eukalyptus"; pa "Eukalyptus";
+}
+translate WAMint to german feminine
+{
+swa "Minze";
+  sn "Minze"; sg "Minze"; sd "Minze"; sa "Minze";
+  pn "Minzen"; pg "Minzen"; pd "Minzen"; pa "Minzen";
+}
+translate WAGreenBeans to german feminine
+{
+swa "Grüne Bohne";
+  sn "Grüne Bohne"; sg "Grünen Bohne"; sd "Grünen Bohne"; sa "Grüne Bohne";
+  pn "Grünen Bohnen"; pg "Grünen Bohnen"; pd "Grünen Bohnen"; pa "Grünen Bohnen";
+}
+translate WAAsparagus to german masculine
+{
+swa "Spargel";
+  sn "Spargel"; sg "Spargels"; sd "Spargel"; sa "Spargel";
+  pn "Spargel"; pg "Spargel"; pd "Spargel"; pa "Spargel";
+}
+translate WAGreenOlive to german feminine
+{
+swa "Grüne Olive";
+  sn "Grüne Olive"; sg "Grünen Olive"; sd "Grünen Olive"; sa "Grüne Olive";
+  pn "Grünen Oliven"; pg "Grünen Oliven"; pd "Grünen Oliven"; pa "Grünen Oliven";
+}
+translate WABlackOlive to german feminine
+{
+swa "Schwarze Olive";
+  sn "Schwarze Olive"; sg "Schwarzen Olive"; sd "Schwarzen Olive"; sa "Schwarze Olive";
+  pn "Schwarzen Oliven"; pg "Schwarzen Oliven"; pd "Schwarzen Oliven"; pa "Schwarzen Oliven";
+}
+translate WAArtichoke to german feminine
+{
+swa "Artischocke";
+  sn "Artischocke"; sg "Artischocke"; sd "Artischocke"; sa "Artischocke";
+  pn "Artischocken"; pg "Artischocken"; pd "Artischocken"; pa "Artischocken";
+}
+translate WAStraw to german neuter
+{
+swa "Stroh";
+  sn "Stroh"; sg "Strohs"; sd "Stroh"; sa "Stroh";
+  pn "Stroh"; pg "Stroh"; pd "Stroh"; pa "Stroh";
+}
+translate WATea to german masculine
+{
+swa "Tee";
+  sn "Tee"; sg "Tees"; sd "Tee"; sa "Tee";
+  pn "Tee"; pg "Tee"; pd "Tee"; pa "Tee";
+}
+translate WATobacco to german masculine
+{
+swa "Tabak";
+  sn "Tabak"; sg "Tabaks"; sd "Tabak"; sa "Tabak";
+  pn "Tabak"; pg "Tabak"; pd "Tabak"; pa "Tabak";
+}
+translate WAWalnut to german feminine
+{
+swa "Walnuss";
+  sn "Walnuss"; sg "Walnuss"; sd "Walnuss"; sa "Walnuss";
+  pn "Walnüsse"; pg "Walnüsse"; pd "Walnüssen"; pa "Walnüsse";
+}
+translate WAHazelnut to german feminine
+{
+swa "Haselnuss";
+  sn "Haselnuss"; sg "Haselnuss"; sd "Haselnuss"; sa "Haselnuss";
+  pn "Haselnüsse"; pg "Haselnüsse"; pd "Haselnüssen"; pa "Haselnüsse";
+}
+translate WAAlmond to german feminine
+{
+swa "Mandel";
+  sn "Mandel"; sg "Mandel"; sd "Mandel"; sa "Mandel";
+  pn "Mandeln"; pg "Mandeln"; pd "Mandeln"; pa "Mandeln";
+}
+translate WAHoney to german masculine
+{
+swa "Honig";
+  sn "Honig"; sg "Honigs"; sd "Honig"; sa "Honig";
+  pn "Honige"; pg "Honige"; pd "Honigen"; pa "Honige";
+}
+translate WAButterscotch to german masculine
+{
+swa "Buttertoffee";
+  sn "Buttertoffee"; sg "Buttertoffees"; sd "Buttertoffee"; sa "Buttertoffee";
+  pn "Buttertoffies"; pg "Buttertoffies"; pd "Buttertoffies"; pa "Buttertoffies";
+}
+translate WAButter to german feminine
+{
+swa "Butter";
+  sn "Butter"; sg "Butter"; sd "Butter"; sa "Butter";
+  pn "Butter"; pg "Butter"; pd "Butter"; pa "Butter";
+}
+translate WASoySauce to german feminine
+{
+swa "Sojasoße";
+  sn "Sojasoße"; sg "Sojasoße"; sd "Sojasoße"; sa "Sojasoße";
+  pn "Sojasoßen"; pg "Sojasoßen"; pd "Sojasoßen"; pa "Sojasoßen";
+}
+translate WAChocolate to german feminine
+{
+swa "Schokolade";
+  sn "Schokolade"; sg "Schokolade"; sd "Schokolade"; sa "Schokolade";
+  pn "Schokoladen"; pg "Schokoladen"; pd "Schokoladen"; pa "Schokoladen";
+}
+translate WAMolasses to german masculine
+{
+swa "Sirup";
+  sn "Sirup"; sg "Sirups"; sd "Sirup"; sa "Sirup";
+  pn "Sirup"; pg "Sirup"; pd "Sirup"; pa "Sirup";
+}
+translate WAPhenolic to german neuter
+{
+swa "Phenolharz";
+  sn "Phenolharz"; sg "Phenolharzes"; sd "Phenolharz"; sa "Phenolharz";
+  pn "Phenolharze"; pg "Phenolharze"; pd "Phenolharzen"; pa "Phenolharze";
+}
+translate WAVanilla to german feminine
+{
+swa "Vanille";
+  sn "Vanille"; sg "Vanille"; sd "Vanille"; sa "Vanille";
+  pn "Vanille"; pg "Vanille"; pd "Vanille"; pa "Vanille";
+}
+translate WACedar to german feminine
+{
+swa "Zeder";
+  sn "Zeder"; sg "Zeder"; sd "Zeder"; sa "Zeder";
+  pn "Zedern"; pg "Zedern"; pd "Zedern"; pa "Zedern";
+}
+translate WAOak to german feminine
+{
+swa "Eiche";
+  sn "Eiche"; sg "Eiche"; sd "Eiche"; sa "Eiche";
+  pn "Eichen"; pg "Eichen"; pd "Eichen"; pa "Eichen";
+}
+translate WASmokey to german neuter
+{
+swa "Rauch";
+  sn "Rauch"; sg "Rauch"; sd "Rauch"; sa "Rauch";
+  pn "Rauch"; pg "Rauch"; pd "Rauch"; pa "Rauch";
+}
+translate WABurntToast to german masculine
+{
+swa "Verbrannter Toast";
+  sn "Verbrannte Toast"; sg "Verbrannten Toasts"; sd "Verbrannten Toast"; sa "Verbrannte Toast";
+  pn "Verbrannten Toasts"; pg "Verbrannten Toasts"; pd "Verbrannten Toasts"; pa "Verbrannten Toasts";
+}
+translate WACoffee to german masculine
+{
+swa "Kaffee";
+  sn "Kaffee"; sg "Kaffees"; sd "Kaffee"; sa "Kaffee";
+  pn "Kaffee"; pg "Kaffee"; pd "Kaffee"; pa "Kaffee";
+}
+translate WADusty to german masculine
+{
+swa "Staub";
+  sn "Staub"; sg "Staub"; sd "Staub"; sa "Staub";
+  pn "Staub"; pg "Staub"; pd "Staub"; pa "Staub";
+}
+translate WAMushroom to german masculine
+{
+swa "Pilz";
+  sn "Pilz"; sg "Pilzes"; sd "Pilz"; sa "Pilz";
+  pn "Pilze"; pg "Pilze"; pd "Pilzen"; pa "Pilze";
+}
+translate WAMildew to german masculine
+{
+swa "Mehltau";
+  sn "Mehltau"; sg "Mehltaus"; sd "Mehltau"; sa "Mehltau";
+  pn "Mehltaue"; pg "Mehltaue"; pd "Mehltauen"; pa "Mehltaue";
+}
+translate WAMoldyCork to german masculine
+{
+swa "Kork";
+  sn "Kork"; sg "Kork"; sd "Kork"; sa "Kork";
+  pn "Kork"; pg "Kork"; pd "Kork"; pa "Kork";
+}
+translate WATar to german masculine
+{
+swa "Teer";
+  sn "Teer"; sg "Teers"; sd "Teer"; sa "Teer";
+  pn "Teere"; pg "Teere"; pd "Teeren"; pa "Teere";
+}
+translate WAPlastic to german neuter
+{
+swa "Plastik";
+  sn "Plastik"; sg "Plastiks"; sd "Plastik"; sa "Plastik";
+  pn "Plastiken"; pg "Plastiken"; pd "Plastiken"; pa "Plastiken";
+}
+translate WAKerosene to german neuter
+{
+  sn "Kerosin"; sg "Kerosin"; sd "Kerosin"; sa "Kerosin";
+  pn "Kerosin"; pg "Kerosin"; pd "Kerosin"; pa "Kerosin";
+}
+translate WADiesel to german masculine
+{
+  sn "Diesel"; sg "Diesel"; sd "Diesel"; sa "Diesel";
+  pn "Diesel"; pg "Diesel"; pd "Diesel"; pa "Diesel";
+}
+translate WARubbery to german neuter
+{
+swa "Gummi";
+  sn "Gummi"; sg "Gummi"; sd "Gummi"; sa "Gummi";
+  pn "Gummis"; pg "Gummis"; pd "Gummis"; pa "Gummis";
+}
+translate WAHydrogenSulfide to german neuter
+{
+swa "Wasserstoff-Sulfid";
+  sn "Wasserstoff-Sulfid"; sg "Wasserstoff-Sulfids"; sd "Wasserstoff-Sulfid"; sa "Wasserstoff-Sulfid";
+  pn "Wasserstoff-Sulfide"; pg "Wasserstoff-Sulfide"; pd "Wasserstoff-Sulfiden"; pa "Wasserstoff-Sulfide";
+}
+translate WAMercaptan to german neuter
+{
+swa "Thiol";
+  sn "Thiol"; sg "Thiols"; sd "Thiol"; sa "Thiol";
+  pn "Thiole"; pg "Thiole"; pd "Thiolen"; pa "Thiole";
+}
+translate WAGarlic to german masculine
+{
+swa "Knoblauch";
+  sn "Knoblauch"; sg "Knoblauchs"; sd "Knoblauch"; sa "Knoblauch";
+  pn "Knoblauch"; pg "Knoblauch"; pd "Knoblauch"; pa "Knoblauch";
+}
+translate WASkunk to german neuter
+{
+swa "Stinktier";
+  sn "Stinktier"; sg "Stinktiers"; sd "Stinktier"; sa "Stinktier";
+  pn "Stinktiere"; pg "Stinktiere"; pd "Stinktieren"; pa "Stinktiere";
+}
+translate WACabbage to german masculine
+{
+swa "Kohl";
+  sn "Kohl"; sg "Kohls"; sd "Kohl"; sa "Kohl";
+  pn "Kohl"; pg "Kohl"; pd "Kohl"; pa "Kohl";
+}
+translate WABurntMatch to german neuter
+{
+swa "Abgebranntes Streichholz";
+  sn "Abgebrannte Streichholz"; sg "Abgebrannten Streichholzes"; sd "Abgebrannten Streichholz"; sa "Abgebrannte Streichholz";
+  pn "Abgebrannten Streichhölzer"; pg "Abgebrannten Streichhölzer"; pd "Abgebrannten Streichhölzern"; pa "Abgebrannten Streichhölzer";
+}
+translate WASulfur to german masculine
+{
+swa "Schwefel";
+  sn "Schwefel"; sg "Schwefel"; sd "Schwefel"; sa "Schwefel";
+  pn "Schwefel"; pg "Schwefel"; pd "Schwefel"; pa "Schwefel";
+}
+translate WAWetWool to german feminine
+{
+swa "Nasse Wolle";
+  sn "Nasse Wolle"; sg "Nassen Wolle"; sd "Nassen Wolle"; sa "Nasse Wolle";
+  pn "Nassen Wollen"; pg "Nassen Wollen"; pd "Nasser Wolle"; pa "Nassen Wollen";
+}
+translate WAFilterPad to german feminine
+{
+swa "Filterauflage";
+  sn "Filterauflage"; sg "Filterauflage"; sd "Filterauflage"; sa "Filterauflage";
+  pn "Filterauflagen"; pg "Filterauflagen"; pd "Filterauflagen"; pa "Filterauflagen";
+}
+translate WAWetCardboard to german feminine
+{
+swa "Nasse Pappe";
+  sn "Nasse Pappe"; sg "Nassen Pappe"; sd "Nassen Pappe"; sa "Nasse Pappe";
+  pn "Nassen Pappen"; pg "Nassen Pappen"; pd "Nassen Pappen"; pa "Nassen Pappen";
+}
+translate WAEthylAcetate to german neuter
+{
+swa "Äthylazetat";
+  sn "Äthylazetat"; sg "Äthylazetats"; sd "Äthylazetat"; sa "Äthylazetat";
+  pn "Äthylazetate"; pg "Äthylazetate"; pd "Äthylazetate"; pa "Äthylazetate";
+}
+translate WAAceticAcid to german feminine
+{
+swa "Essigsäure";
+  sn "Essigsäure"; sg "Essigsäure"; sd "Essigsäure"; sa "Essigsäure";
+  pn "Essigsäuren"; pg "Essigsäuren"; pd "Essigsäuren"; pa "Essigsäuren";
+}
+translate WAEthanol to german neuter
+{
+swa "Äthanol";
+  sn "Äthanol"; sg "Äthanols"; sd "Äthanol"; sa "Äthanol";
+  pn "Äthanole"; pg "Äthanole"; pd "Äthanolen"; pa "Äthanole";
+}
+translate WASharpSulfur to german feminine
+{
+swa "Schwerer Schwefel";
+  sn "Schwere Schwefel"; sg "Schweren Schwefels"; sd "Schweren Schwefel"; sa "Schwere Schwefel";
+  pn "Schweren Schwefel"; pg "Schweren Schwefel"; pd "Schweren Schwefeln"; pa "Schweren Schwefel";
+}
+translate WAFishy to german neuter
+{
+swa "Fisch";
+  sn "Fisch"; sg "Fisch"; sd "Fisch"; sa "Fisch";
+  pn "Fisch"; pg "Fisch"; pd "Fisch"; pa "Fisch";
+}
+translate WASoapy to german neuter
+{
+swa "Seife";
+  sn "Seife"; sg "Seife"; sd "Seife"; sa "Seife";
+  pn "Seifen"; pg "Seifen"; pd "Seifen"; pa "Seifen";
+}
+translate WASorbate to german neuter
+{
+swa "Sorbat";
+  sn "Sorbat"; sg "Sorbat"; sd "Sorbat"; sa "Sorbat";
+  pn "Sorbat"; pg "Sorbat"; pd "Sorbat"; pa "Sorbat";
+}
+translate WAFuselAlcohol to german masculine
+{
+swa "Fusel";
+  sn "Fusel"; sg "Fusel"; sd "Fusel"; sa "Fusel";
+  pn "Fusel"; pg "Fusel"; pd "Fuseln"; pa "Fusel";
+}
+translate WAHotAlcohol to german masculine
+{
+swa "Heißer Alkohol";
+  sn "Heiße Alkohol"; sg "Heißen Alkohols"; sd "Heißen Alkohol"; sa "Heiße Alkohol";
+  pn "Heißen Alkohole"; pg "Heißen Alkohole"; pd "Heißen Alkoholen"; pa "Heißen Alkohole";
+}
+translate WAAcetaldehyde to german neuter
+{
+swa "Azetaldehyd";
+  sn "Azetaldehyd"; sg "Azetaldehyds"; sd "Azetaldehyd"; sa "Azetaldehyd";
+  pn "Azetaldehyde"; pg "Azetaldehyde"; pd "Azetaldehyden"; pa "Azetaldehyde";
+}
+translate WAFlorYeast to german feminine
+{
+swa "Florhefe";
+  sn "Florhefe"; sg "Florhefe"; sd "Florhefe"; sa "Flor-Hefe";
+  pn "Florhefen"; pg "Florhefen"; pd "Florhefen"; pa "Florhefen";
+}
+translate WALeesy to german masculine
+{
+swa "Bodensatz";
+  sn "Bodensatz"; sg "Bodensatzes"; sd "Bodensatz"; sa "Bodensatz";
+  pn "Bodensätze"; pg "Bodensätze"; pd "Bodensätzen"; pa "Bodensätze";
+}
+translate WASaurkraut to german neuter
+{
+swa "Sauerkraut";
+  sn "Sauerkraut"; sg "Sauerkrauts"; sd "Sauerkraut"; sa "Sauerkraut";
+  pn "Sauerkraut"; pg "Sauerkraut"; pd "Sauerkraut"; pa "Sauerkraut";
+}
+translate WAButericAcid to german feminine
+{
+swa "Buttersäure";
+  sn "Buttersäure"; sg "Buttersäure"; sd "Buttersäure"; sa "Buttersäure";
+  pn "Buttersäuren"; pg "Buttersäuren"; pd "Buttersäuren"; pa "Buttersäuren";
+}
+translate WASweaty to german neuter
+{
+swa "Schweiß";
+  sn "Schweiß"; sg "Schweiß"; sd "Schweiß"; sa "Schweiß";
+  pn "Schweiß"; pg "Schweiß"; pd "Schweiß"; pa "Schweiß";
+}
+translate WALacticAcid to german feminine
+{
+swa "Milchsäure";
+  sn "Milchsäure"; sg "Milchsäure"; sd "Milchsäure"; sa "Milchsäure";
+  pn "Milchsäuren"; pg "Milchsäuren"; pd "Milchsäuren"; pa "Milchsäuren";
+}
+translate WAHorsey to german neuter
+{
+swa "Pferd";
+  sn "Pferd"; sg "Pferd"; sd "Pferd"; sa "Pferd";
+  pn "Pferd"; pg "Pferd"; pd "Pferd"; pa "Pferd";
+}
+translate WAMousey to german neuter
+{
+swa "Maus";
+  sn "Maus"; sg "Maus"; sd "Maus"; sa "Maus";
+  pn "Maus"; pg "Maus"; pd "Maus"; pa "Maus";
+}
+translate WAOrangeBlossom to german feminine
+{
+swa "Orangenblüte";
+  sn "Orangenblüte"; sg "Orangenblüte"; sd "Orangenblüte"; sa "Orangenblüte";
+  pn "Orangenblüten"; pg "Orangenblüten"; pd "Orangenblüten"; pa "Orangenblüten";
+}
+translate WARose to german feminine
+{
+swa "Rose";
+  sn "Rose"; sg "Rose"; sd "Rose"; sa "Rose";
+  pn "Rosen"; pg "Rosen"; pd "Rosen"; pa "Rosen";
+}
+translate WAViolet to german neuter
+{
+swa "Veilchen";
+  sn "Veilchen"; sg "Veilchens"; sd "Veilchen"; sa "Veilchen";
+  pn "Veilchen"; pg "Veilchen"; pd "Veilchen"; pa "Veilchen";
+}
+translate WAGeranium to german feminine
+{
+swa "Perlargonie";
+  sn "Pelargonie"; sg "Pelargonie"; sd "Pelargonie"; sa "Pelargonie";
+  pn "Pelargonien"; pg "Pelargonien"; pd "Pelargonien"; pa "Pelargonien";
+}
+translate WACloves to german feminine
+{
+swa "Nelke";
+  sn "Nelke"; sg "Nelke"; sd "Nelke"; sa "Nelke";
+  pn "Nelken"; pg "Nelken"; pd "Nelken"; pa "Nelken";
+}
+translate WABlackPepper to german masculine
+{
+swa "Schwarzer Pfeffer";
+  sn "Schwarze Pfeffer"; sg "Schwarzen Pfeffers"; sd "Schwarzen Pfeffer"; sa "Schwarze Pfeffer";
+  pn "Schwarzen Pfeffer"; pg "Schwarzen Pfeffer"; pd "Schwarzen Pfeffern"; pa "Schwarzen Pfeffer";
+}
+translate WALicorice to german feminine
+{
+swa "Lakritze";
+  sn "Lakritze"; sg "Lakritze"; sd "Lakritze"; sa "Lakritze";
+  pn "Lakritzen"; pg "Lakritzen"; pd "Lakritzen"; pa "Lakritzen";
+}
+translate WACitrus to german feminine
+{
+swa "Zitrus";
+  sn "Zitrus"; sg "Zitrus"; sd "Zitrus"; sa "Zitrus";
+  pn "Zitrus"; pg "Zitrus"; pd "Zitrus"; pa "Zitrus";
+}
+translate WABerry to german feminine
+{
+swa "Beere";
+  sn "Beere"; sg "Beere"; sd "Beere"; sa "Beere";
+  pn "Beeren"; pg "Beeren"; pd "Beeren"; pa "Beeren";
+}
+translate WATreeFruit to german feminine
+{
+swa "Teefrucht";
+  sn "Teefrucht"; sg "Teefrucht"; sd "Teefrucht"; sa "Teefrucht";
+  pn "Teefrüchte"; pg "Teefrüchte"; pd "Teefrüchten"; pa "Teefrüchte";
+}
+translate WATropicalFruit to german feminine
+{
+swa "Tropenfrucht";
+  sn "Tropenfrucht"; sg "Tropenfrucht"; sd "Tropenfrucht"; sa "Tropenfrucht";
+  pn "Tropenfrüchte"; pg "Tropenfrüchte"; pd "Tropenfrüchten"; pa "Tropenfrüchte";
+}
+translate WADriedFruit to german neuter
+{
+swa "Dörrobst";
+  sn "Dörrobst"; sg "Dörrobst"; sd "Dörrobst"; sa "Dörrobst";
+  pn "Dörrobst"; pg "Dörrobst"; pd "Dörrobst"; pa "Dörrobst";
+}
+translate WAOddFruit to german feminine
+{
+swa "Seltsame Frucht";
+  sn "Seltsame Frucht"; sg "Seltsamne Frucht"; sd "Seltsamen Frucht"; sa "Seltsame Frucht";
+  pn "Seltsamen Früchte"; pg "Seltsamen Früchte"; pd "Seltsamen Früchten"; pa "Seltsamen Früchte";
+}
+translate WAFresh to german feminine
+{
+swa "Frische";
+  sn "Frische"; sg "Frische"; sd "Frische"; sa "Frische";
+  pn "Frische"; pg "Frische"; pd "Frische"; pa "Frische";
+}
+translate WACooked to german neuter
+{
+swa "Gekocht";
+  sn "Gekocht"; sg "Gekocht"; sd "Gekocht"; sa "Gekocht";
+  pn "Gekocht"; pg "Gekocht"; pd "Gekocht"; pa "Gekocht";
+}
+translate WADried to german neuter
+{
+swa "Verdorrt";
+  sn "Verdorrt"; sg "Verdorrt"; sd "Verdorrt"; sa "Verdorrt";
+  pn "Verdorrt"; pg "Verdorrt"; pd "Verdorrt"; pa "Verdorrt";
+}
+translate WANutty to german neuter
+{
+swa "Nuss";
+  sn "Nuss"; sg "Nuss"; sd "Nuss"; sa "Nuss";
+  pn "Nüssen"; pg "Nüssen"; pd "Nüssen"; pa "Nüssen";
+}
+translate WACarmelized to german neuter
+{
+swa "Karamell";
+  sn "Karamell"; sg "Karamell"; sd "Karamell"; sa "Karamell";
+  pn "Karamell"; pg "Karamell"; pd "Karamell"; pa "Karamell";
+}
+translate WAPhenolic to german neuter
+{
+swa "Phenol";
+  sn "Phenol"; sg "Phenol"; sd "Phenol"; sa "Phenol";
+  pn "Phenolen"; pg "Phenolen"; pd "Phenolen"; pa "Phenolen";
+}
+translate WAResinous to german neuter
+{
+swa "Harz";
+  sn "Harz"; sg "Harz"; sd "Harz"; sa "Harz";
+  pn "Harzen"; pg "Harzen"; pd "Harzen"; pa "Harzen";
+}
+translate WABurned to german neuter
+{
+swa "Verbrannt";
+  sn "Verbrannt"; sg "Verbrannt"; sd "Verbrannt"; sa "Verbrannt";
+  pn "Verbrannt"; pg "Verbrannt"; pd "Verbrannt"; pa "Verbrannt";
+}
+translate WAEarthy to german neuter
+{
+swa "Erde";
+  sn "Erde"; sg "Erde"; sd "Erde"; sa "Erde";
+  pn "Erde"; pg "Erde"; pd "Erde"; pa "Erde";
+}
+translate WAMoldy to german neuter
+{
+swa "Abgestanden";
+  sn "Abgestanden"; sg "Abgestanden"; sd "Abgestanden"; sa "Abgestanden";
+  pn "Abgestanden"; pg "Abgestanden"; pd "Abgestanden"; pa "Abgestanden";
+}
+translate WAPetroleum to german neuter
+{
+swa "Petroleum";
+  sn "Petroleum"; sg "Petroleum"; sd "Petroleum"; sa "Petroleum";
+  pn "Petroleum"; pg "Petroleum"; pd "Petroleum"; pa "Petroleum";
+}
+translate WASulfur to german masculine
+{
+swa "Schwefel";
+  sn "Schwefel"; sg "Schwefel"; sd "Schwefel"; sa "Schwefel";
+  pn "Schwefel"; pg "Schwefel"; pd "Schwefel"; pa "Schwefel";
+}
+translate WAPapery to german neuter
+{
+swa "Papier";
+  sn "Papier"; sg "Papier"; sd "Papier"; sa "Papier";
+  pn "Papier"; pg "Papier"; pd "Papier"; pa "Papier";
+}
+translate WAPungent to german neuter
+{
+swa "Schärfe";
+  sn "Schärfe"; sg "Schärfe"; sd "Schärfe"; sa "Schärfe";
+  pn "Schärfe"; pg "Schärfe"; pd "Schärfe"; pa "Schärfe";
+}
+translate WAOddChemical to german neuter
+{
+swa "Skurrile Chemie";
+  sn "Skurrile Chemie"; sg "Skurrile Chemie"; sd "Skurrile Chemie"; sa "Skurrile Chemie";
+  pn "Skurrile Chemie"; pg "Skurrile Chemie"; pd "Skurriler Chemie"; pa "Skurrile Chemie";
+}
+translate WAHot to german neuter
+{
+swa "Schärfe";
+  sn "Schärfe"; sg "Schärfe"; sd "Schärfe"; sa "Schärfe";
+  pn "Schärfe"; pg "Schärfe"; pd "Schärfe"; pa "Schärfe";
+}
+translate WACool to german neuter
+{
+swa "Kühle";
+  sn "Kühle"; sg "Kühle"; sd "Kühle"; sa "Kühle";
+  pn "Kühle"; pg "Kühle"; pd "Kühle"; pa "Kühle";
+}
+translate WAOxidized to german neuter
+{
+swa "Oxydation";
+  sn "Oxydation"; sg "Oxydation"; sd "Oxydation"; sa "Oxydation";
+  pn "Oxydation"; pg "Oxydation"; pd "Oxydation"; pa "Oxydation";
+}
+translate WAYeasty to german neuter
+{
+swa "Hefe";
+  sn "Hefe"; sg "Hefe"; sd "Hefe"; sa "Hefe";
+  pn "Hefen"; pg "Hefen"; pd "Hefen"; pa "Hefen";
+}
+translate WALactic to german neuter
+{
+swa "Milch";
+  sn "Milch"; sg "Milch"; sd "Milch"; sa "Milch";
+  pn "Milch"; pg "Milch"; pd "Milch"; pa "Milch";
+}
+translate WAAnimal to german neuter
+{
+swa "Tier";
+  sn "Tier"; sg "Tier"; sd "Tier"; sa "Tier";
+  pn "Tier"; pg "Tier"; pd "Tier"; pa "Tier";
+}
+translate WAFloral to german neuter
+{
+swa "Blume";
+  sn "Blume"; sg "Blume"; sd "Blume"; sa "Blume";
+  pn "Blumen"; pg "Blumen"; pd "Blumen"; pa "Blumen";
+}
+translate WASpicey to german neuter
+{
+swa "Würze";
+  sn "Würze"; sg "Würze"; sd "Würze"; sa "Würze";
+  pn "Würze"; pg "Würze"; pd "Würze"; pa "Würze";
+}
+translate WAFruity to german neuter
+{
+swa "Frucht";
+  sn "Frucht"; sg "Frucht"; sd "Frucht"; sa "Frucht";
+  pn "Früchten"; pg "Früchten"; pd "Früchten"; pa "Früchten";
+}
+translate WAVegetative to german neuter
+{
+swa "Pflanze";
+  sn "Pflanze"; sg "Pflanze"; sd "Pflanze"; sa "Pflanze";
+  pn "Pflanzen"; pg "Pflanzen"; pd "Pflanzen"; pa "Pflanzen";
+}
+translate WAWoody to german neuter
+{
+swa "Holz";
+  sn "Holz"; sg "Holz"; sd "Holz"; sa "Holz";
+  pn "Hölzer"; pg "Hölzer"; pd "Hölzern"; pa "Hölzer";
+}
+
+translate WACaramelized to german neuter
+{
+swa "Karamel";
+  sn "Karamell"; sg "Karamel"; sd "Karamel"; sa "Karamel";
+  pn "Karamel"; pg "Karamel"; pd "Karamel"; pa "Karamel";
+}
+
+translate WAChemical to german neuter
+{
+swa "Chemie";
+  sn "Chemie"; sg "Chemie"; sd "Chemie"; sa "Chemie";
+  pn "Chemie"; pg "Chemie"; pd "Chemie"; pa "Chemie";
+}
+
+translate WAMicrobiological to german neuter
+{
+swa "Mikrobakterien";
+  sn "Mikrobakterien"; sg "Mikrobakterien"; sd "Mikrobakterien"; sa "Mikrobakterien";
+  pn "Mikrobakterien"; pg "Mikrobakterien"; pd "Mikrobakterien"; pa "Mikrobakterien";
+}
+
+translate "Allows for the cultivation of grapes."
+to german "Ermöglicht die Kultivierung von Trauben.";
+
+translate "Vineyard"
+to german "Weinberg";
+
+translate "To build a vineyard, you need:"
+to german "Um einen Weinberg zu bauen benötigst du:";
+
+translate "Build a Vineyard"
+to german "Weinberg";
+
+translate "Ask for a grape vine cutting"
+to german "Frage nach einem Rebenverschnitt";
+
+translate "We're very short on vine clippings right now. Here's what we're doing: Donate a Tilapia to the viticulture program. If we happen to have an extra vine cutting on hand, we will give you one. Does that seem ok?"
+to german "Im Augenblick sind unsere Vorräte an Weinsetzlingen sehr knapp. Wir machen Folgendes: Spende einen Buntbarsch für das Weinanbauprogramm. Wenn wir einen Setzling übrig haben, werden wir dir einen geben. Bist du damit einverstanden?";
+
+translate "You don't have any Tilapia!"
+to german "Du hast keinen Buntbarsch!";
+
+translate "We don't have any vine cuttings right now. It's best to ask another grower for a cutting. So long, and thanks for the fish."
+to german "Wir haben momentan keinerlei Setzlinge. Am besten fragst du einen Weinbauern nach Setzlingen. Bis bald und danke für den Fisch.";
+
+translate "This is a O1, Growing K1"
+to german "Dies ist O1(asn) O1(sn), Zucht K1";
+
+translate "This is a O1, Growing Balance"
+to german "Dies ist O1(asn) O1(sn), Zucht Balance";
+translate "This is a O1, Growing Distraction"
+to german "Dies ist O1(asn) O1(sn), Zucht Distraction";
+translate "This is a O1, Growing Amusement"
+to german "Dies ist O1(asn) O1(sn), Zucht Amusement";
+translate "This is a O1, Growing Contemplation"
+to german "Dies ist O1(asn) O1(sn), Zucht Contemplation";
+translate "This is a O1, Growing Appreciation"
+to german "Dies ist O1(asn) O1(sn), Zucht Appreciation";
+translate "This is a O1, Growing Wisdom"
+to german "Dies ist O1(asn) O1(sn), Zucht Wisdom";
+translate "This is a O1, Growing Frivolity"
+to german "Dies ist O1(asn) O1(sn), Zucht Frivolity";
+
+translate "This is your O1, Growing K1"
+to german "Dies ist dein O1(sn), Zucht K1";
+
+translate "This is your O1, Growing Balance"
+to german "Dies ist Dein O1(sn), Zucht Balance";
+translate "This is your O1, Growing Distraction"
+to german "Dies ist dein O1(sn), Zucht Distraction";
+translate "This is your O1, Growing Amusement"
+to german "Dies ist dein O1(sn), Zucht Amusement";
+translate "This is your O1, Growing Contemplation"
+to german "Dies ist dein O1(sn), Zucht Contemplation";
+translate "This is your O1, Growing Appreciation"
+to german "Dies ist dein O1(sn), Zucht Appreciation";
+translate "This is your O1, Growing Wisdom"
+to german "Dies ist dein O1(sn), Zucht Wisdom";
+translate "This is your O1, Growing Frivolity"
+to german "Dies ist dein O1(sn), Zucht Frivolity";
+
+translate ", Growing K1"
+to german ", Zucht K1";
+
+translate "Fertilize the vine"
+to german "Dünge die Weinrebe";
+
+translate "Warning: Fertilizing a vine has a chance of burning the plant, killing it. You might want to first take a cutting of the vine. Proceed anyway? (This warning will go away once you've made your first Vine Cutting.)"
+to german "Achtung: Düngen von Wein kann die Pflanze verbrennen und abtöten. Du kannst zuerst einen Setzling schneiden. Trotzdem fortfahren? (Diese Warnung wird nach deinem ersten Rebenschnitt verschwinden.)";
+
+translate "The ammonia in the fish burned the roots, ruining the crop!"
+to german "Das Ammoniak des Fisches verbrennt die Wurzen und ruiniert die Ernte!";
+
+translate "The vine has died, and should be salvaged"
+to german "Die Rebe ist verdorrt und sollte entsorgt werden";
+
+translate "Tear off the dead vines"
+to german "Entferne die abgestorbenen Reben";
+
+translate "Grapes are starting to shrivel"
+to german "Die Trauben beginnen zu vertrocknen";
+
+translate "Leaves are wilting"
+to german "Die Blätter verwelken";
+
+translate "Leaves shimmer with moisture"
+to german "Die Blätter schimmern feucht";
+
+translate "Stems look especially fat"
+to german "Die Triebe sehen besonders dick aus";
+
+translate "A musty smell can be detected"
+to german "Du stellst einen muffigen Geruch fest";
+
+translate "Vines are sagging a bit"
+to german "Die Reben hängen ein wenig herunter";
+
+translate "Leaves rustle in the breeze"
+to german "Die Blätter rascheln im Wind";
+
+translate "Tend: Aerate the Soil"
+to german "Pflege: Lockere den Boden auf";
+
+translate "Tend: Trim the Lower Leaves"
+to german "Pflege: Schneide die unteren Blätter";
+
+translate "Tend: Tie the Vines to the Trellis"
+to german "Pflege: Binde die Ranken an das Spalier";
+
+translate "Tend: Pinch off the weakest stems"
+to german "Pflege: Schneide schwächliche Zweige ab";
+
+translate "Tend: Mist the Grapes"
+to german "Pflege: Befeuchte die Trauben";
+
+translate "Tend: Shade the Leaves"
+to german "Pflege: Beschatte die Blätter";
+
+translate "Tend: Spread out the Vines"
+to german "Pflege: Breite die Ranken aus";
+
+translate "This Vine can be Tended now"
+to german "Diese Rebe kann jetzt gepflegt werden";
+
+translate "This Vine can be Tended in K1"
+to german "Diese Rebe kann in K1 gepflegt werden";
+
+translate "Tend: "
+to german "Pflege: ";
+
+translate "Tend"
+to german "Pflege";
+translate "Cutting"
+to german "Schneiden";
+
+translate "Warning: Tending a vine when you don't know what you're doing can kill it. You might want to first take a cutting of the vine. Proceed anyway? (This warning will go away once you've made your first Vine Cutting.)"
+to german "Warnung: Wenn du eine Weinrebe pflegen möchtest, aber nicht weisst, wie es geht, könntest du sie abtöten. Du kannst zuerst einen Setzling schneiden. Trotzdem fortfahren? (Diese Warnung wird nach deinem ersten Rebenschnitt verschwinden.)";
+
+translate "Take a Cutting of the Vine"
+to german "Nimm einen Rebensetzling von dieser Rebe";
+
+translate "The vine has no cuttings to take. Wait another K1."
+to german "Die Rebe hat keine Setzlinge. Warte weitere K1.";
+
+translate "Harvest the Grapes"
+to german "Ernte die Trauben";
+
+translate "Are you sure you want to harvest these grapes?"
+to german "Bist du sicher, dass du diese Trauben ernten möchtest?";
+
+translate "Examine Grapes"
+to german "Untersuche die Trauben";
+
+//translate "A bunch of K1 grapes, grown N1 ago at N1 N2 N3"
+//to german "Ein 
+
+translate "Vigor: N1"
+to german "Gesundheit: N1";
+translate "Grapes: N1"
+to german "Trauben: N1";
+translate "Quality: N1"
+to german "Qualität: N1";
+translate "Sugar: N1"
+to german "Zucker: N1";
+translate "Skin: N1"
+to german "Schale: N1";
+translate "Color: N1"
+to german "Farbe: N1";
+translate "Acid: N1"
+to german "Säure: N1";
+translate "Hue: "
+to german "Farbton: ";
+
+translate "White"
+to german "Weiss";
+translate "Rose"
+to german "Rose";
+translate "Light Red"
+to german "Hellrot";
+translate "Dark Red"
+to german "Dunkelrot";
+translate "Purple-Red"
+to german "Purpurrot";
+translate "Purple"
+to german "Purpur";
+translate "Deep Purple"
+to german "Dunkles Purpur";
+
+translate "Wine Barrel"
+to german "Weinfass";
+
+translate "To build a Wine Barrel, you need: "
+to german "Um ein Weinfass zu bauen benötigst du: ";
+
+translate "Barrel contains N1 bunches of grapes."
+to german "Das Weinfass enthält N1 Weintrauben.";
+
+translate "Crush the Grapes and Seal the Barrel"
+to german "Zerstampfe die Trauben und dichte das Fass ab";
+
+translate "There are not enough grapes for even a single bottle of wine!"
+to german "Du hast nicht mal für eine einzige Weinflasche ausreichend Trauben!";
+
+translate "You need a Barrel Tap. Ask someone with the Whittling skill."
+to german "Du brauchst einen Fassdeckel. Frage jemanden mit Schnitzfertigkeit."; 
+
+translate "There are some old grapes in the barrel which have spoiled."
+to german "Es sind noch alte, vergammelte Trauben in dem Fass.";
+
+translate "Label for this wine:"
+to german "Weinbezeichnung:";
+
+translate "Wine barrel has been sealed, and fermentation has begun."
+to german "Das Weinfass wurde versiegelt und die Gärung hat begonnen.";
+
+translate "Add Grapes"
+to german "Fülle Weintrauben ein";
+
+translate "The grapes have spoiled, and should be thrown away."
+to german "Die Trauben sind verdorben und sollten weggeworfen werden.";
+
+translate "Empty the contents of the barrel onto the ground."
+to german "Leere den Fassinhalt auf dem Boden aus.";
+
+translate "Are you sure you want to empty the barrel onto the ground?"
+to german "Bist du sicher, daß du den Fassinhalt auf den Boden ausleeren willst?";
+
+translate "Open the Barrel and Bottle the Wine"
+to german "Öffne das Fass und fülle den Wein ab";
+
+translate "You need N1 Wine Bottles."
+to german "Du brauchst N1 Weinflaschen.";
+
+translate "Siphon a Barrel Sample"
+to german "Entnehme eine Probe aus dem Fass";
+
+translate "Future Barrel Sample"
+to german "Nächste mögliche Probeentnahme";
+
+translate "Siphon"
+to german "Abfüllen";
+
+translate "Siphoning..."
+to german "Entnahme...";
+
+translate "K1 Vintage"
+to german "Ernte K1";
+
+translate "This K1, Vintage N1 White Wine has:"
+to german "Weinsorte K1, Ernte N1 Weisswein hat:"; 
+translate "This K1, Vintage N1 Rose Wine has:"
+to german "Weinsorte K1, Ernte N1 Roséwein hat:"; 
+translate "This K1, Vintage N1 Light Red Wine has:"
+to german "Weinsorte K1, Ernte N1 heller Rotwein hat:"; 
+translate "This K1, Vintage N1 Dark Red Wine has:"
+to german "Weinsorte K1, Ernte N1 dunkler Rotwein hat:"; 
+//translate "This U1, Vintage N1 Purple-Red Wine has:"
+//to german "Weinsorte U1(name), Ernte N1 purpurfarbener Rotwein hat:"; 
+//translate "This U1, Vintage N1 Purple Wine has:"
+//to german "Weinsorte U1(name), Ernte N1 K2-wein hat:"; 
+//translate "This U1, Vintage N1 Wine has:"
+//to german "Weinsorte U1(name), Ernte N1 K2-wein hat:"; 
+
+//translate "Dark Red"
+//to german "Dunkelrot";
+//translate "Purple-Red"
+//to german "Purpurrot";
+//translate "Purple"
+//to german "Purpur";
+//translate "Deep Purple"
+//to german "Dunkles Purpur";
+
+translate "Alcohol N1.N2%" 
+to german "Alkohol N1.N2%";
+
+translate "Residual Sugar N1.N2%"
+to german "Restzucker N1.N2%";
+
+translate "Tannin N1.N2"
+to german "Tannin N1.N2";
+
+translate "Acid N1.N2"
+to german "Säure N1.N2";
+
+translate "Projects/Wine Barrel"
+to german "Projekte/Böttcherei/Weinfass";
+
+translate "Bless for Old Ugly"
+to german "Erbitte eine Rebe Old Ugly";
+
+translate "Crush the grapes"
+to german "Zerdrücke die Weintrauben";
+
+translate "Write a set of labels for this barrel"
+to german "Schreibe ein Set Beschriftungen für dieses Fass";
+
+translate "To write a set of wine labels requires:"
+to german "Ein Set Weinbeschriftungen benötigt:";
+
+translate "There is no wine left to taste."
+to german "Es ist kein Wein mehr zum Probieren da.";
+
+translate "Begin bottling the wine"
+to german "Fülle Wein in Flaschen ab";
+
+translate "Are you sure you want to begin bottling the wine?"
+to german "Bist du sicher, dass du Wein in Flaschen abfüllen willst?";
+
+translate "You don't see a good spot to take a cutting. Give it at least K1 to grow."
+to german "Du kannst keine gute Stelle zum Beschneiden entdecken. Lasse die Reben noch K1 wachsen.";
+
+translate "Name of the special bottling? (You can leave this blank)"
+to german "Name der Spezialabfüllung? (Du kannst das freilassen)";
+
+translate "Fill a glass jar with Wine"
+to german "Fülle Wein in eine Glasflasche";
+
+translate "You need a glass jar to bottle the wine."
+to german "Du brauchst eine Glasflasche um Wein darin abzufüllen.";
+
+translate "There is not enough wine left to bottle."
+to german "Es ist nicht mehr genug Wein zum Abfüllen in Flaschen da.";
+
+translate "Grow"
+to german "Anpflanzen";
+
+translate "Are you sure you're ready to harvest? The cutting will be lost at the same time."
+to german "Bist du sicher, dass du jetzt ernten willst? Die Rebe wird im gleichen Moment verschwinden.";
+
+translate "Seal the barrel and begin fermenting"
+to german "Dichte das Weinfass ab und beginne die Gärung";
+
+translate "Wine barrel has been sealed."
+to german "Das Weinfass wurde abgedichtet.";
+
+translate "Clean out the barrel"
+to german "Reinige das Fass";
+
+translate "You empty the barrel onto the ground."
+to german "Du leerst das Fass aus.";
+
+translate "Grow K1"
+to german "Züchte K1";
+
+translate "Taste Vintage N1"
+to german "Probiere Weinlese N1";
+
+translate "Vintage"
+to german "Weinlese";
+
+translate "Sampling the wine..."
+to german "Probiere den Wein...";
+
+translate "You detect: "
+to german "Du entdeckst: ";
+
+translate "Vintage would be: N1"
+to german "Die Ernte wäre: N1";
+
+//texts
+translate "three"
+to german "drei";
+translate "two"
+to german "zwei";
+translate "one"
+to german "eins";
+
+translate "Taste Vintage "
+to german "Probiere Weinernte ";
+
+translate "Harvest the Grapes"
+to german "Ernte die Weintrauben";
+
+translate "Prune the vine"
+to german "Beschneide die Pflanze";
+
+translate "Water the vine"
+to german "Bewässere die Pflanze";
+
+translate "You don't have any water."
+to german "Du hast kein Wasser.";
+
+translate "Spray the vine"
+to german "Besprühe die Weinrebe";
+
+translate "Growing: K1"
+to german "Wachstum: K1";
+
+translate "Take a vine cutting"
+to german "Nimm eine Weinrebe";
+
+translate "Grapes: N1"
+to german "Weintrauben: N1";
+
+translate "Concentration: N1"
+to german "Konzentration: N1";
+
+translate "Life: N1"
+to german "Leben: N1";
+
+translate "Insect Damage: N1"
+to german "Insektenschaden: N1";
+
+translate "How many O1?"
+to german "Wieviele O1(sn)?";
+
+translate "How many K1?"
+to german "Wieviele K1?";
+
+translate "Grapes must be crushed N1 more times."
+to german "Die Weintrauben müssen noch N1 mal zerdrückt werden.";
+
+translate "Barrel contains juice from N1 bunches of grapes."
+to german "Das Weinfass enthält Saft von N1 Weintrauben.";
+
+translate "Create Special Wine"
+to german "Erstelle einen speziellen Wein";
+

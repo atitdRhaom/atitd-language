@@ -1,0 +1,220 @@
+module trees_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Games **
+//**    (C)opyright 2002,2003 by MDO Games			           **
+//**                                                                       **
+//***************************************************************************
+//menues
+
+//objects
+
+translate Axe to german feminine
+{
+swa "Axt";
+  sn "Axt"; sg "Axt"; sd "Axt"; sa "Axt";
+  pn "Äxte"; pg "Äxte"; pd "Äxte"; pa "Äxte";
+}
+translate Thorns to german masculine
+{
+swa "Dorn";
+  sn "Dorn"; sg "Dorns"; sd "Dorn"; sa "Dorn";
+  pn "Dornen"; pg "Dornen"; pd "Dornen"; pa "Dornen";
+}
+translate CactusSap to german masculinecollective
+{
+swa "Kaktussaft";
+  sn "Kaktussaft"; sg "Kaktussaftes"; sd "Kaktussaft"; sa "Kaktussaft";
+  pn "Kaktussaft"; pg "Kaktussaft"; pd "Kaktussaft"; pa "Kaktussaft";
+}
+translate Dates to german feminine
+{
+swa "Dattel";
+  sn "Dattel"; sg "Dattel"; sd "Dattel"; sa "Dattel";
+  pn "Datteln"; pg "Datteln"; pd "Datteln"; pa "Datteln";
+}
+
+translate FineSteelAxe to german feminine
+{
+swa "Feine Stahlaxt";
+  sn "Feine Stahlaxt"; sg "feinen Stahlaxt"; sd "feinen Stahlaxt"; sa "feinen Stahlaxt";
+  pn "Feine Stahläxte"; pg "feinen Stahläxte"; pd "feinen Stahläxten"; pa "feinen Stahläxte";
+}
+translate LawsonsFalseCypress to german femininecollective
+{
+swa "Lawsons Zypresse";
+sn "Lawsons Zypresse"; sd "Lawsons Zypresse";
+pn "Lawsons Zypressen"; pd "Lawsons Zypressen";
+}
+translate YoungOleanderWithBlossoms to german masculinecollective
+{
+swa "blühender Oleander";
+sn "blühende Oleander"; sd "blühenden Oleander";
+pn "blühenden Oleandern"; pd "blühenden Oleandern";
+}
+translate NorwaySpruce to german masculinecollective
+{
+swa "norwegische Fichte";
+sn "norwegische Fichte"; sd "norwegischen Fichte";
+pn "norwegischen Fichten"; pd "norwegischen Fichten";
+}
+translate SwedenSpruce to german masculinecollective
+{
+swa "schwedische Fichte";
+sn "schwedische Fichte"; sd "schwedischen Fichte";
+pn "schwedischen Fichten"; pd "schwedischen Fichten";
+}
+translate OakTree to german femininecollective
+{
+swa "Eiche";
+sn "Eiche"; sd "Eiche";
+pn "Eichen"; pd "Eichen";
+}
+translate WinterBeech to german femininecollective
+{
+swa "Winterbuche";
+sn "Winterbuche"; sd "Winterbuche";
+pn "Winterbuchen"; pd "Winterbuchen";
+}
+translate YoungSweetBirch to german femininecollective
+{
+swa "junge Birke";
+sn "junge Birke"; sd "jungen Birke";
+pn "jungen Birken"; pd "jungen Birken";
+}
+translate YoungAlder to german femininecollective
+{
+swa "junge Erle";
+sn "junge Erle"; sd "jungen Erle";
+pn "jungen Erlen"; pd "jungen Erlen";
+}
+translate YoungLombardyPoplar to german femininecollective
+{
+swa "junge Pappel";
+sn "junge Pappel"; sd "jungen Pappel";
+pn "jungen Pappeln"; pd "jungen Pappeln";
+}
+translate PalmTree to german femininecollective
+{
+swa "Palme";
+sn "Palme"; sd "Palme";
+pn "Palmen"; pd "Palmen";
+}
+translate OldHandsCactus to german masculinecollective
+{
+swa "grosser Kaktus";
+sn "grosser Kaktus"; sd "grosser Kaktus";
+pn "grosse Kakteen"; pd "grosse Kakteen";
+}
+translate BarrelCactus to german masculinecollective
+{
+swa "kleiner Kaktus";
+sn "kleiner Kaktus"; sd "kleiner Kaktus";
+pn "kleine Kakteen"; pd "kleine Kakteen";
+}
+translate RoyalCactus to german masculinecollective
+{
+swa "königlicher Kaktus";
+sn "königlicher Kaktus"; sd "königlicher Kaktus";
+pn "königliche Kakteen"; pd "königliche Kakteen";
+}
+
+//texts
+
+translate "Turn this Norway Spruce into a Sweden Spruce"
+to german "Ändere diese norwegische in eine schwedische Fichte";
+
+translate "This bush gives thorns"
+to german "Dieser Busch hat Dornen";
+
+translate "All the thorns have been picked clean"
+to german "Alle Dornen wurden bereits gepflückt";
+
+translate "Gather thorns from this bush"
+to german "Sammle die Dornen dieses Busches";
+
+translate "Gather wood from this tree"
+to german "Sammle Holz von diesem Baum";
+
+translate "Gathering thorns..."
+to german "Sammle die Dornen...";
+
+translate "Someone got to the thorns first."
+to german "Jemand hat die Dornen zuerst gepflückt.";
+
+translate "You were able to gather N1 thorns."
+to german "Du konntest N1 Dornen pflücken.";
+
+translate "Fertilize this tree with Saltpeter"
+to german "Dünge diesen Baum mit Salpeter";
+translate "Fertilize this tree with some Saltpeter"
+to german "Dünge diese Palme mit etwas Salpeter";
+
+translate "More O1 will be available in N1."
+to german "Mehr O1(pd) sind in N1 verfügbar.";
+
+translate "This tree gives at least N1 wood."
+to german "Dieser Baum gibt mindestens N1 Holz.";
+
+translate "Gathered wood where N1 is N2"
+to german "Sammelte Holz, wo N1 N2 ist.";
+
+translate "With keen Perception, you were able to get a bit more wood, without harming the tree."
+to german "Mit deiner feinen Wahrnehmung war es dir möglich, etwas mehr Holz zu bekommen, ohne dem Baum zu schaden.";
+
+translate "The tree will have more wood available in N1 seconds."
+to german "Der Baum wird in N1 Sekunden wieder Holz liefern.";
+
+translate "Gather wood from this tree"
+to german "Sammle Holz von diesem Baum";
+
+translate "This tree has no wood for N1 seconds."
+to german "Dieser Baum hat für N1 Sekunden kein Holz mehr.";
+
+translate "This is a palm tree"
+to german "Das ist eine Palme";
+
+translate "This palm tree has some sweet juicy dates!"
+to german "Diese Palme hat ein paar süßschmeckende Datteln!";
+
+translate "This tree has some tiny dates, just starting to grow"
+to german "Diese Palme hat ein paar winzige Datteln, die gerade wachsen";
+
+translate "-"
+to german "-";
+translate "*"
+to german "*";
+
+translate "You don't have any Saltpeter!"
+to german "Du hast keinen Salpeter!";
+
+translate "Dates take between one and two hours to grow. Check the tree occasionally."
+to german "Datteln brauchen zwischen ein bis zwei Stunden, um zu wachsen. Schaue zeitweise hier nach.";
+
+translate "Harvest dates from this tree"
+to german "Ernte Datteln von diesem Baum";
+
+translate "This O1 has accumulated N1 drops of Cactus Sap."
+to german "Dieser O1(sn) hat N1 Tropfen Kaktussaft produziert.";
+
+translate "-"
+to german "-";
+translate "*"
+to german "*";
+
+translate "Collect the sap from this Cactus"
+to german "Sammle Saft von diesem Kaktus";
+
+translate "The cactus already has sap oozing from it. It takes at least a minute for enough to bleed out to gather."
+to german "Aus dem Kaktus fliesst bereits Saft. Es braucht aber mindestens noch eine Minute, damit genug zum ernten da ist.";
+
+translate "Sap starts oozing from the cactus. Cactus sap will be produced over the next few minutes."
+to german "Saft beginnt aus dem Kaktus zu fliessen. Es wird die nächsten Minuten Saft produziert.";
+
+translate "Injure the cactus to produce sap"
+to german "Verletze den Kaktus, um Saft zu produzieren";
+
+translate "How odd - you find a nest with a chicken egg in the tree. You delicately remove the beautiful egg."
+to german "Wie ungewöhnlich - Du findest ein Nest mit einem Hühnerei im Baum. Vorsichtig entfernst Du das Ei aus dem Nest.";

@@ -1,0 +1,169 @@
+module newcharcoal_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment		           **
+//**                                                                       **
+//***************************************************************************
+
+translate ScienceOfCharcoal to german feminine
+{
+swa "Wissenschaft der Holzkohle"; sn "Wissenschaft der Holzkohle"; pn "Wissenschaft der Holzkohle";
+}
+translate CharcoalHearth to german masculine
+{
+swa "Holzkohleherd"; sn "Holzkohleherd"; pn "Holzkohleherde";
+}
+translate CharcoalOven to german masculine
+{
+swa "Holzkohleofen"; sn "Holzkohleofen"; pn "Holzkohleöfen";
+}
+translate CharcoalBrazier to german neuter
+{
+swa "Holzkohlebecken"; sn "Holzkohlebecken"; pn "Holzkohlebecken";
+}
+translate Charcoal to german feminine
+{
+swa "Holzkohle";
+  sn "Holzkohle"; sg "Holzkohle"; sd "Holzkohle"; sa "Holzkohle";
+  pn "Holzkohle"; pg "Holzkohle"; pd "Holzkohlen"; pa "Holzkohle";
+}
+translate "This difficult class requires a students to have permanent Focus of at least 7."
+to german "Diese schwierige Klasse erwartet von einem Studenten einen dauerhaften Fokus von mindestens 7."; 
+
+translate "Projects"
+to german "Projekte";
+
+translate "Charcoal Brazier"
+to german "Holzkohle/Holzkohlebecken";
+
+translate "Charcoal"
+to german "Holzkohle";
+
+translate "Charcoal Hearth"
+to german "Holzkohleherd";
+
+translate "Charcoal Oven"
+to german "Holzkohleofen";
+
+translate "7000+ Quality Barometer"
+to german "Qualität 7000+ Barometer";
+
+translate "To build a Charcoal Hearth, you need: "
+to german "Um einen Holzkohleherd zu bauen benötigst du: ";
+
+translate "To build a Charcoal Oven, you need: "
+to german "Um einen Holzkohleofen zu bauen, benötigst du: ";
+
+translate "Take the leftover wood out first."
+to german "Nimm erst das übrige Holz heraus.";
+
+translate "You must know The Science of Charcoal"
+to german "Du musst die Kunst der Holzkohleherstellung kennen";
+
+translate "You do not have N1 wood."
+to german "Du hast keine N1 Holz.";
+
+translate "Wood in your inventory: N1"
+to german "Holz in deinem Inventar: N1";
+
+translate "Water in your inventory: N1"
+to german "Wasser in deinem Inventar: N1";
+
+translate "Charcoal produced on success: N1"
+to german "Hergestellte HK bei Gelingen: N1";
+
+translate "Wood needed to get started: N1"
+to german "Benötigtes Holz zum Starten: N1";
+
+translate "You successfully made a batch of charcoal."
+to german "Du hast erfolgreich eine Ladung Holzkohle hergestellt.";
+
+translate "The oven has cooled.  The wood in the oven did not charcoalize, take it back out."
+to german "Der Ofen ist abgekühlt. Das Holz wurde nicht zu Holzkohle. Nimm es wieder heraus.";
+
+translate "The charcoal burst into flames!  Everything was reduced to cinders."
+to german "Die Holzkohle ist verbrannt! Alles ist zu Asche geworden.";
+
+translate "The fire was snuffed by lack of air. The oven is cooling."
+to german "Das Feuer wurde durch Luftmangel erstickt. Der Ofen kühlt ab.";
+
+translate "The regulator is a training device."
+to german "Der Regler ist ein Übungsmittel.";
+
+translate "Turning it on lowers the randomness, but"
+to german "Eine Reduktion vermindert den Zufallsfaktor aber";
+
+translate "slows down the function of the hearth."
+to german "verlangsamt auch die Funktion des Herdes.";
+
+translate "Current Regulation Level: N1"
+to german "Aktuelle Reglereinstellung: N1 ";
+
+translate "Regulator/-"
+to german "Regler/-";
+
+translate "Set Level 0 (unregulated, full speed)"
+to german "Setze Level 0 (unreguliert, volle Leistung)";
+
+translate "Set Level 1"
+to german "Setze Level 1";
+
+translate "Set Level 2"
+to german "Setze Level 2";
+
+translate "Set Level 3"
+to german "Setze Level 3";
+
+translate "Set Level 4"
+to german "Setze Level 4";
+
+translate "Set Level 5 (regulated, very slow)"
+to german "Setze Level 5 (reguliert, sehr langsam)";
+
+translate "You cannot adjust the regulator when making a batch. You only adjust the regulator between batches."
+to german "Du kannst den Regler nicht während der Produktion verschieben. Du kannst ihn nur zwischen den Produktionen verändern.";
+
+translate "U1 is running a hearth."
+to german "U1(name) arbeitet an einem Herd";
+
+translate "You don't have any wood!"
+to german "Du hast kein Holz!";
+
+translate "The wood hopper is full!"
+to german "Das Holzlager ist voll!";
+
+translate "You don't have any water!"
+to german "Du hast kein Wasser!";
+
+translate "The fire is already soaked!"
+to german "Das Feuer ist bereits aus!";
+
+translate "Regulator"
+to german "Regler";
+
+translate "Heat"
+to german "Hitze";
+
+translate "Oxygen"
+to german "O²";
+
+translate "Wood"
+to german "Holz";
+
+translate "Water"
+to german "Wasser";
+
+translate "Vent Control"
+to german "Belüftung";
+
+translate "Danger"
+to german "Gefahr";
+
+translate "Progress"
+to german "Fortschr.";
+
+translate "Add"
+	to german "++";

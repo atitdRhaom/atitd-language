@@ -1,0 +1,499 @@
+module scavenger_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2007 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+
+translate Venery to german feminine
+{
+swa "Schnitzeljagd";
+  sn "Schnitzeljagd"; sg "Schnitzeljagd"; sd "Schnitzeljagd"; sa "Schnitzeljagd";
+  pn "Schnitzeljagden"; pg "Schnitzeljagden"; pd "Schnitzeljagden"; pa "Schnitzeljagden";
+}
+
+translate ScavengerHuntDesk to german masculine
+{
+swa "Schnitzeljagdtisch";
+sn "Schnitzeljagdtisch"; pn "Schnitzeljagdtische";
+}
+translate VeneryCertificate to german neuter
+{
+swa "Schnitzeljagdzertifikat";
+  sn "Schnitzeljagdzertifikat"; sg "Schnitzeljagdzertifikats"; sd "Schnitzeljagdzertifikat"; sa "Schnitzeljagdzertifikat";
+  pn "Schnitzeljagdzertifikate"; pg "Schnitzeljagdzertifikate"; pd "Schnitzeljagdzertifikaten"; pa "Schnitzeljagdzertifikate";
+}
+
+translate SimpleLockbox to german feminine
+{
+swa "Einfache Lockbox";
+sn "Einfache Lockbox"; pn "Einfache Lockboxen";
+}
+translate VeneryController to german neuter
+{
+swa "Venery Kontrollpult";
+sn "Venery Kontrollpult"; pn "Venery Kontrollpulte";
+}
+
+translate "Principles of the Venery requires you to build a simple Venery and have seven judges rate it, averaging at least Good. Alternately, you can complete three winning Venery and show the Certificates to a School of Thought."
+to german "Die Prinzipien der Schnitzeljagd zeigen dir, wie du eine einfache Schnitzeljagd erstellst. Du benötigst hierzu mindestens 7 Richter, die dein Werk mit Gut bewerten. Alternativ kannst du auch drei Schnitzeljagden spielen und die Zertifikate an einer Schule der Gedanken einreichen.";
+
+translate "Make an Eyelet cut Amethyst (Optional)"
+to german "Schneide aus einem Amethyst eine Öse (Optional)";
+translate "Make an Eyelet cut Lapis (Optional)"
+to german "Schneide aus einem Lapis eine Öse (Optional)";
+translate "Make an Eyelet cut Turquoise (Optional)"
+to german "Schneide aus einem Türkis eine Öse (Optional)";
+translate "Make an Eyelet cut Garnet (Optional)"
+to german "Schneide aus einem Granat eine Öse (Optional)";
+translate "Make a Simple Lockbox"
+to german "Schmiede eine einfache Lockbox";
+translate "Make Papyrus Paper"
+to german "Stelle Papyruspapier her";
+translate "Build a Venery Gathering Point"
+to german "Baue einen Schnitzeljagdtisch";
+translate "Install at least 7 Lockboxes"
+to german "Installiere mindestens 7 Lockboxen";
+translate "Open your Venery"
+to german "Eröffne deine Schnitzeljagd";
+translate "Have 7 Judges run and rate your Venery"
+to german "Finde sieben Richter, die deine Jagd, spielen und bewerten";
+translate "Design rated Good by most judges"
+to german "Die meisten Richter müssen mit Gut abstimmen";
+
+translate "You have completed Principles of the Venery."
+to german "Du hast die Prinzipien der Schnitzeljagd gemeistert.";
+
+translate "Design a Venery, a treasure hunt around your home, throughout your neighborhood, or across Egypt. A good Venery can teach runners about local sites, and is neither too easy nor too difficult."
+to german "Stelle eine Schnitzeljagd zusammen, einen Parcour rund um dein Heim, in deiner Nachbarschaft oder quer durch Ägypten. Eine gute Schnitzeljagd kann den Läufern neue Örtlichkeiten eröffnen und ist weder zu leicht noch zu schwer.";
+
+translate "To build a Venery Gathering Point, you need:"
+to german "Um einen Schnitzeljagdpunkt zu bauen benötigst du:";
+
+translate "Start The Venery"
+to german "Beginne die Schnitzeljagd";
+
+translate "Hide keys in lockboxes attached to objects across the land. Invite others to solve your puzzle, and rate your design. Up to seven people at a time may collaborate on the design, and any number may take part in the Venery."
+to german "Verstecke Schlüssel in Lockboxen, die sich in Objekten im ganzen Land befinden. Lade andere ein, dein Rätsel zu lösen und zu bewerten. Bis zu 7 Mitspieler können beim Design zusammenarbeiten und jeder kann bei der Jagd mitmachen.";
+
+translate "Force Reset"
+to german "Reset erzwingen";
+
+translate "The Venery"
+to german "Die Schnitzeljagd";
+
+translate "View my Keyring"
+to german "Betrachte den Schlüsselring";
+
+translate "Total of N1 keys:"
+to german "Insgesamt N1 Schlüssel:";
+
+translate "This Venery is being configured"
+to german "Diese Schnitzeljagd wurde konfiguriert";
+
+translate "This Venery can be tested by Designers"
+to german "Diese Schnitzeljagd kann von Designern getestet werden";
+
+translate "This Venery is Open"
+to german "Diese Schnitzeljagd ist eröffnet";
+
+translate "Attempt this Venery (as designer)"
+to german "Teste diese Schnitzeljagd (als Designer)";
+
+translate "Attempt the Venery!"
+to german "Teste die Schnitzeljagd!";
+
+translate "Are you sure you wish to restart?"
+to german "Bist du sicher, daß du nochmal beginnen möchtest?";
+
+translate "Restarting"
+to german "Neustart";
+
+translate "Time Limit: No Limit"
+to german "Zeitlimit: Keine Begrenzung";
+translate "Time Limit: N1 hours"
+to german "Zeitlimit: N1 Stunden";
+
+translate "Time Limit: "
+to german "Zeitlimit: ";
+
+translate "Search for Keys"
+to german "Suche nach Schlüsseln";
+
+translate "Searching..."
+to german "Suche...";
+
+translate "You find nothing."
+to german "Du findest nichts.";
+
+translate "You found a key! The key is:"
+to german "Du hast einen Schlüssel gefunden! Der Schlüssel ist:";
+
+translate "Here is your next clue:"
+to german "Hier ist dein nächster Hinweis:";
+
+translate "You have already received a Certificate for this win."
+to german "Du hast bereits für diesen Gewinn ein Zertifikat erhalten.";
+
+translate "You have completed the Venery, and received a Certificate."
+to german "Du hast die Schnitzeljagd vervollständigt und ein Zertifikat erhalten.";
+
+translate "Won"
+to german "Gewonnen";
+
+translate "You completed the Venery, but took N1 which was longer than the N2 allowed."
+to german "Du hast die Schnitzeljagd vervollständigt, aber du hast N1 gebraucht, was länger ist, als die erlaubten N2.";
+
+translate "Lost"
+to german "Verloren";
+
+translate "You don't have the keys you need, but here's a hint:"
+to german "Du hast keinen passenden Schlüssel, aber hier ist ein Tipp:";
+
+translate "Show Completed Venery Certificates"
+to german "Reiche deine Schnitzeljagdzertifikate ein";
+
+translate "You need 3 completed certificates from winning Venerys."
+to german "Du benötigst drei Zertifikate, die deine Siege bei Schnitzeljagden belegen.";
+
+translate "Of the N1 Venery Certificates that you are carrying, only N2 of them were winning venerys completed by you."
+to german "Von den N1 Schnitzeljagdzertifikaten, die du bei dir trägst, sind nur N2 davon von dir selbt gewonnen worden.";
+
+translate "Withdraw"
+to german "Zurücktreten";
+
+translate "Withdraw from the Venery"
+to german "Rücktritt von der Schnitzeljagd";
+
+translate "You have withdrawn from the Venery."
+to german "Du wurdest von der Jagd gestrichen.";
+
+translate "Configure"
+to german "Konfigurieren";
+
+translate "Open the Venery for Designers"
+to german "Öffne die Schnitzeljagd für Designer";
+
+translate "Open the Venery to the Public"
+to german "Öffne die Schnitzeljagd für die Öffentlichkeit";
+
+translate "You must name the Venery"
+to german "Du musst der Jagd einen Namen geben";
+
+translate "Venerys must have at least 7 locations."
+to german "Schnitzeljagden müssen mind. 7 Stationen haben.";
+
+translate "The final location must require at least one key."
+to german "Die letzte Station benötigt mindestens einen Schlüssel.";
+
+translate "Set the Allowed Time"
+to german "Lege die erlaubte Zeit fest";
+
+translate "Award Certificates for times of at most: (H:MM, or All)"
+to german "Vergebe Zertifikate für Zeiten von max: (H:MM, oder Alles)";
+
+translate "Unknown format entered."
+to german "Unbekanntes Format eingegeben.";
+
+translate "Share a Key"
+to german "Teile einen Schlüssel";
+
+translate "You share a key with U1: K1"
+to german "Du teilst mit U1(name) den Schlüssel: K1";
+
+translate "U1 offers a key, but you already have it: K1"
+to german "U1(name) bietet dir einen Schlüssel an, aber du hast bereits: K1";
+
+translate "U1 shares a key with you: K1"
+to german "U1(name) teilt einen Schlüssel mit dir: K1";
+
+translate "Name this Venery"
+to german "Benenne diese Jagd";
+
+translate "Name of this Venery?"
+to german "Name der Jagd?";
+
+translate "Venery is named: K1"
+to german "Jagd heißt nun: K1";
+
+translate "Set the Welcome Text"
+to german "Setze Willkommenstext";
+
+translate "Welcome Text when a player joins the Venery..."
+to german "Willkommenstext wenn ein Spieler die Jagd mitmacht...";
+
+translate "Welcome Text Set."
+to german "Willkommenstext gesetzt.";
+
+translate "Check Last Runners"
+to german "Prüfe die letzten Läufer";
+
+translate "Checking..."
+to german "Prüfe...";
+
+translate "Last N1 runners:"
+to german "Die letzten N1 Läufer:";
+
+translate "U1 started K1 ago. Status is K2."
+to german "U1(name) startete vor K1. Status ist K2.";
+
+translate "Win was in K1."
+to german "Sieg war in K1.";
+
+translate "Loss was in K1."
+to german "Niederlage war in K1.";
+
+translate "Are you sure you want to resign during the Venery?"
+to german "Bist du sicher, dass du während der Jagd von der Liste gestrichen werden willst?";
+
+translate "Withdrawn"
+to german "Zurückgetreten";
+
+translate "You have withdrawn from the Venery."
+to german "Du wurdest aus der Liste gestrichen.";
+
+translate "No current designer."
+to german "Kein momentaner Designer.";
+
+translate "Switch designers and reset all judging? Type RESET to proceed."
+to german "Wechsle den Designer und setze alle Wertungen zurück? Wenn ja, schreibe RESET.";
+
+translate "Add a new Key type"
+to german "Füge neuen Schlüsseltyp hinzu";
+
+translate "Name of new Key?"
+to german "Name des Schlüssels?";
+
+translate "Key limit has been reached."
+to german "Maximum an Schlüsseln erreicht.";
+
+translate "Keys"
+to german "Schlüssel";
+
+translate "Delete a Key"
+to german "Zerstöre einen Schlüssel";
+
+translate "Totally remove key K1 from your game? This will remove objects that reference that key from the Venery."
+to german "Schlüssel K1 aus dem Spiel entfernen? Dies entfernt Objekte von der Jagd, die mit dem Schlüssel in Verbindung stehen.";
+
+translate "Key removed: K1"
+to german "Schlüssel entfernt: K1";
+
+translate "Rename a Key"
+to german "Neuer Name für Schlüssel";
+
+translate "Rename K1 to..."
+to german "Ändere Name von K1 zu...";
+
+translate "Renamed key K1 to K2"
+to german "Name von K1 auf K2 geändert";
+
+translate "Compile an overview"
+to german "Erzeuge eine Übersicht";
+
+translate "Compiling overview. This may take a while."
+to german "Erzeuge Übersicht. Das kann einen Moment dauern.";
+
+///translate "Venery: ",Place.Name!="" ? Place.Name : "(No Name)"," (",length(place.s_locations)," locations)"
+///to german
+
+///translate "\nTime Limit: ",Place.MaxTimeAllowed ? TimeStringExt(Place.MaxTimeAllowed) : "No Limit"
+///to german 
+
+///translate "\nKeys are: ",keystr,"\nDesigner is: ",des,"\n\n"
+///to german
+
+translate "Overview: "
+to german "Überblick: ";
+
+translate "Configuring: "
+to german "Konfiguriere: ";
+
+translate "Status of this O1"
+to german "Status von O1(sn)";
+
+translate "Inspecting the O1"
+to german "Inspiziere O1(sn)";
+
+translate "O1 at N1 N2 owned by U1"
+to german "O1(sn) bei N1 N2, Eigentümer ist U1(name)";
+
+translate "Player U1"
+to german "Spieler U1(name)";
+
+translate "Empty Lockbox, No Clues."
+to german "Leere Lockbox, keine Hinweise.";
+
+translate "Hint: K1"
+to german "Tipp: K1";
+
+translate "Requires: K1"
+to german "Anforderungen: K1";
+
+translate "Clue: K1"
+to german "Hinweis: K1";
+
+translate "Gives: K1"
+to german "Benennungen: K1";
+
+translate "None"
+to german "Nichts";
+
+translate "Keys required to unlock:"
+to german "Zum Öffnen benötigte Schlüssel:";
+
+translate "Configure Lockbox"
+to german "Konfiguriere Lockbox";
+
+translate "Retrieving old keys..."
+to german "Rufe alte Schlüssel ab...";
+
+translate "You must first install a lockbox."
+to german "Du musst erst eine Lockbox installieren.";
+
+translate "Desk has been removed."
+to german "Der Tisch wurde entfernt.";
+
+translate "Hide a Key"
+to german "Verstecke einen Schlüssel";
+
+translate "None"
+to german "Keinen";
+
+translate "You can't hide keys in the Venery gathering point itself."
+to german "Du kannst keine Schlüssel verstecken, die auf sich selbst verweisen.";
+
+translate "Hiding the key..."
+to german "Verstecke den Schlüssel...";
+
+translate "You must first install a lockbox."
+to german "Du musst zuerst eine Lockbox installieren.";
+
+translate "Key K1 hidden in O1 at N1 N2"
+to german "Schlüssel K1 versteckt in O1(dsd) O1(sd) bei N1 N2";
+
+translate "No keys are now hidden in O1 at N1 N2"
+to german "Es sind nun keine Schlüssel in O1(dsd) O1(sd) bei N1 N2";
+
+translate "Write a Hint"
+to german "Gib einen Tipp";
+
+translate "Retrieving old Hint..."
+to german "Rufe alten Tipp ab...";
+
+translate "Write your Hint. Blank text removes a Hint."
+to german "Gib einen Tipp. Leerer Text entfernt einen Tipp.";
+
+translate "Write a Clue"
+to german "Schreibe einen Hinweis";
+
+translate "Retrieving old clue..."
+to german "Rufe alte Hinweise ab...";
+
+translate "Write your clue. Blank text removes a clue."
+to german "Schreibe deinen Hinweis. Leerer Text entfernt einen Hinweis.";
+
+translate "Install a Lockbox"
+to german "Installiere eine Lockbox";
+
+translate "There is already a lockbox installed."
+to german "Es ist bereits eine Lockbox installiert.";
+
+translate "You don't have a lockbox. Lockboxes can be made at forges."
+to german "Du hast keine Lockbox. Sie können in Schmieden hergestellt werden.";
+
+translate "Remove a Lockbox"
+to german "Entferne eine Lockbox";
+
+translate "No lockbox has been installed!"
+to german "Keine Lockbox installiert!";
+
+translate "Make a Simple Lockbox"
+to german "Baue eine einfache Lockbox";
+
+translate "To make a Simple Lockbox, you need:"
+to german "Um eine einfache Lockbox zu bauen benötigst du:";
+
+translate "Making a Simple Lockbox"
+to german "Schmiede eine einfache Lockbox";
+
+translate "You have created a Simple Lockbox. Scraps of metal from the forge are used as keys - no need to create them."
+to german "Du hast eine einfache Lockbox hergestellt. Metallsplitter aus der Schmiede dienen als Schlüssel - sie müssen nicht extra hergestellt werden.";
+
+translate "Your Lockbox is done."
+to german "Deine Lockbox ist fertig.";
+
+translate "Configure this Venery"
+to german "Konfiguriere diese Jagd";
+
+translate "Claim this Venery as my own"
+to german "Beanspruche diese Jagd als mein Eigentum";
+
+translate "As a designer, you have the right to claim this design as your own, eliminating the other designers. In fact, for this Venery to pass, one of you must do so. Claim it?"
+to german "Als Designer hast du das Recht, dieses Design als dein Eigenes zu beanspruchen und die anderen Designer zu entfernen. Tatsächlich muss einer von euch dies tun, um die Jagd zu beenden. Beanspruchen?";
+
+translate "Set Designer to Username"
+to german "Trage als Designer ein";
+
+translate "Stop Configuring Venery"
+to german "Beende die Einstellungen der Jagd";
+
+translate "List All Designers"
+to german "Alle Designer anzeigen";
+
+translate "Read"
+to german "Lesen";
+
+translate "Venery Certificate"
+to german "Schnitzeljagdzertificat";
+
+translate "Reading..."
+to german "Lese...";
+
+translate "Designed by U1"
+to german "Erstellt von U1(name)";
+
+translate "Venery had already won when you completed it."
+to german "Die Jagd wurde bereits gewonnen, als du sie vervollständigt hast.";
+
+translate "The Venery had not won when you completed it, but has since. Fantastic discovery!"
+to german "Die Jagd war noch nicht gewonnen, als du sie vervollständigt hast, aber danach. Fantastische Entdeckungsreise!";
+
+translate "The Venery no longer stands."
+to german "Die Schnitzeljagd besteht nicht mehr.";
+
+translate "The Venery still stands."
+to german "Die Schnitzeljagd besteht noch.";
+
+translate "The Venery has changed since you ran it."
+to german "Die Schnitzeljagd hat sich geändert, seit du sie begonnen hast.";
+
+translate "Reading this certificate has contributed toward your Focus!"
+to german "Das Lesen des Zertifikates hat deinen Fokus gesteigert!";
+
+translate "Advance one in The Venery (Trial)"
+to german "Bringe jemanden in 'Der Schnitzeljagd' weiter (Trial)";
+
+translate "Advance one in The Venery (Real)"
+to german "Bringe jemanden in Der Schnitzeljagd weiter (Real)";
+
+translate "Could not find designer at N1 N2"
+to german "Kann bei N1 N2 keinen Designer finden";
+
+translate "U1 passing The Venery."
+to german "U1(name) absolviert die Schnitzeljagd.";
+
+translate "Retaining N1 advances."
+to german "N1 Fortschritte zurückbehalten.";
+
+translate "Score for Venery at N1 N2 is N3"
+to german "Wertung der Schnitzeljagd bei N1 N2 ist N3";
+
+translate "Disqualify from Judging"
+to german "Aus der Wertung entfernen";
+
+translate "Really disqualify from judging? This is permanent, and can not be reversed on this Table."
+to german "Sicher, dass du die Jagd aus der Wertung entfernen möchtest? Dies ist dauerhaft und kann an diesem Tisch nicht wieder rückgängig gemacht werden.";

@@ -1,0 +1,10 @@
+module FWTeaser_fre;
+
+
+translate "A fireworks display will begin in 20 minutes at the O1 at K1 N1 N2"
+to french "Une exhibition de feu d'artifice aura lieu dans 20 minutes à O1(ns) en K1 N1 N2";
+
+translate "The fireworks display has concluded"
+to french "L'exhibition de feu d'artifice est terminée";
+
+

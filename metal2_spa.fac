@@ -1,0 +1,238 @@
+module metal2_spa;
+
+
+translate Quicksilver to spanish neutercollective
+{
+  ns "Azogue"; np "Azogues"; 
+}
+translate RasFurnace to spanish masculine
+{
+  ns "Horno de Ra"; np "Hornos de Ra"; 
+}
+translate DirtySmeltingPot to spanish masculine
+{
+  ns "Recipiente de fusión sucia"; np "Recipientes sucios de fusión";
+}
+translate CraftFurnace to spanish masculine
+{
+  ns "Horno profesional"; np "Hornos profesional"; 
+}
+translate AmalgamationFurnace to spanish masculine
+{
+  ns "Horno a amalgama"; np "Hornos a amalgama"; 
+}
+translate PreciousFurnace to spanish masculine
+{
+  ns "Horno precioso"; np "Hornos precioso"; 
+}
+translate PersephoneFurnace to spanish masculine
+{ ns "Horno de Perséphone"; np "Hornos de Perséphone";}
+
+translate BlastFurnace to spanish masculine
+{
+  ns "Alto Horno"; np "Altos Hornos"; 
+}
+translate OreInferno to spanish neutercollective
+{
+  ns "Fundición"; np "Fundiciones"; 
+}
+translate FragileFurnace to spanish masculine
+{
+  ns "Horno frágil"; np "Hornos frágiles"; 
+}
+translate FineFurnace to spanish masculine
+{
+  ns "Horno robusto"; np "Hornos robustos"; 
+}
+translate IntermixChamber to spanish feminine
+{
+  ns "Cámara de mezcla"; np "Cámaras de mezcla"; 
+}
+translate DrossFurnace to spanish masculine
+{
+  ns "Horno a escorias"; np "Hornos a escorias";
+}
+
+translate HadesFurnace to spanish masculine
+{ns "Horno de Hadès"; np "Hornos de Hadès";}
+
+translate FleetFurnace to spanish masculine
+{
+  ns "Horno rápido"; np "Hornos rápidos"; 
+}
+translate SmeltingPot to spanish masculine
+{
+  ns "Recipiente de fusión"; np "Recipientes de fusión"; 
+}
+translate SmeltingBlock to spanish masculine
+{
+  ns "Bloque de fusión"; np "Bloques de fusión"; 
+}
+translate OreMangle to spanish feminine
+{
+  ns "Prensa a mineral"; np "Prensas a mineral"; 
+}
+translate PigbackKiln to spanish masculine
+{
+  ns "Horno a Fuelle"; np "Hornos a Fuelle"; 
+}
+translate VitiationKiln to spanish masculine
+{
+  ns "Horno que hay que contaminar"; np "Hornos que hay que contaminar"; 
+}
+translate OscillationKiln to spanish masculine
+{
+  ns "Horno oscilante"; np "Hornos oscilante"; 
+}
+translate BulletFurnace to spanish masculine
+{
+  ns "Pequeño horno"; np "Pequeños hornos"; 
+}
+translate CompressionFurnace to spanish masculine
+{
+  ns "Horno a compresión"; np "Hornos a compresión"; 
+}
+
+translate BlastFurnace to spanish masculine
+{
+  ns "Horno en explosión"; np "Hornos en explosión"; 
+}
+
+translate GyrationCell to spanish feminine
+{
+  ns "Centrifugadora"; np "Centrifugadoras"; 
+}
+translate charcoal to spanish masculine
+{
+  ns "Carbón"; np "Carbones"; 
+}
+
+translate "Furnaces"
+to spanish "Hornos";
+
+translate "Fleet Furnace"
+to spanish "Horno rápido";
+
+translate "To build a Fleet Furnace, you need: "
+to spanish "Para construir un horno rápido, usted hace falta : ";
+
+translate "Bullet Furnace"
+to spanish "Horno redondo";
+
+translate "To build a Bullet Furnace, you need: "
+to spanish "Para construir horno redondo, usted hace falta :";
+
+translate "Compression Furnace"
+to spanish "Horno a compresión";
+
+translate "To build a Compression Furnace, you need: "
+to spanish "Para construir un horno a compresión, usted hace falta :";
+
+translate "Blast Furnace"
+to spanish "Horno en explosión";
+
+translate "To build a Blast Furnace, you need: "
+to spanish "Para construir un horno en explosión, usted hace falta :";
+
+translate "Smelting will complete in K1"
+to spanish "Fusión acabada en K1";
+
+translate "Make a vial of Quicksilver (Takes 24 hours)"
+to spanish "Hacer un frasco de azogue (Necesita 24 horas)";
+
+translate "To make a vial of Quicksilver you need:"
+to spanish "Para hacer un frasco de azogue, usted hace falta :";
+
+translate "Fire the O1!"
+to spanish "Encender O1(cns) O1(ns)!";
+
+translate "Fire the O1"
+to spanish "Encender O1(cns) O1(ns)";
+
+translate "There is no Ore in the O1."
+to spanish "No hay mineral en O1(cns) O1(ns).";
+
+translate "Remove all metal before firing the O1."
+to spanish "Retirar todo el metal producido, antes de encender O1(cns) O1(ns).";
+
+translate "N1 O1 per second"
+to spanish "N1 O1(N1?np:ns) por secundo";
+
+translate "N1 O1 per minute"
+to spanish "N1 O1(N1?np:ns) por minuto";
+
+translate "N1 O1 per hour"
+to spanish "N1 O1(N1?np:ns) por hora";
+
+translate "O1 per day"
+to spanish "O1(np) al día";
+
+translate "To start a O1 requires N1 O2, plus N2 O3 per hour."
+to spanish "Para iniciar O1(uns) O1(ns), usted hace falta N1 O2(N1?np:ns), y N2 O3(np) por hora.";
+
+translate "Load the O1 with O2"
+to spanish "Sostener O1(cns) O1(ns) con O2(ns)";
+
+translate "Load how much O1? (Max 5)"
+to spanish "¿ Cuál cantidad de O1(np)? (Max 5)";
+
+translate "Load how much O1? (Max N1)"
+to spanish "¿ Cuál cantidad de O1(np)? (Max N1)";
+
+translate "Smelting Pot"
+to spanish "Recipiente de fusión";
+
+translate "To build a Smelting Pot, you need: "
+to spanish "Para construir un recipiente de fusión, usted hace falta :";
+
+translate "Smelting Block"
+to spanish "Bloque de fusión";
+
+translate "To build a Smelting Block, you need: "
+to spanish "Para construir un block de fusión, usted hace falta :";
+
+translate "Vitiation Kiln"
+to spanish "Horno que hay que contaminar";
+
+translate "To build a Vitiation Kiln, you need: "
+to spanish "Para construir un horno que hay que contaminar, usted hace falta : ";
+
+translate "Pigback Kiln"
+to spanish "Horno a Fuelle";
+
+translate "To build a Pigback Kiln, you need: "
+to spanish "Para construir un horno a fuelle, necesitas :";
+
+translate "Oscillation Kiln"
+to spanish "Horno oscilante";
+
+translate "To build a Oscillation Kiln, you need: "
+to spanish "Para construir un horno oscilante, usted hace falta :";
+
+translate "    Max Runtime: N1"
+to spanish "    El tiempo de funcionamiento max : N1";
+translate "    Max Runtime: K1"
+to spanish "    El tiempo de funcionamiento max : K1";
+translate "    FireTime: N1"
+to spanish "    El tiempo de combustión : N1";
+translate "    FireTime: K1"
+to spanish "    El tiempo de combustión : K1";
+translate "    Max Fuel Used: N1"
+to spanish "    Carburante consumido max : N1";
+translate "Reaction Chamber: N1 O1"
+to spanish "Compartimiento de reacción : N1 O1(N1?np:ns)";
+translate "Fuel Remaining: N1"
+to spanish "Carburante restante : N1";
+
+translate "Open the Chamber"
+to spanish "Abre la cámara";
+    
+translate "Ore Conversion not present. Call a developer."
+to spanish "No hay conversión de mineral. Llama un desarrollador.";
+
+translate "Gyration Furnace"
+to spanish "Centrifugadora";
+
+translate "To build a Gyration Cell, you need: "
+to spanish "Para construir una centrifugadora, necesitas: ";
+

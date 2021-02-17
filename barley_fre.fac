@@ -1,0 +1,135 @@
+module barley_fre;
+
+translate WeedKiller to french masculine
+{
+  ns "Herbicide"; np "Herbicides";
+}
+
+translate GrainFertilizer to french masculine
+{
+  ns "Engrais"; np "Engrais";
+}
+
+translate BarleyBed to french masculine
+{
+  ns "Plant d'orge"; np "Plants d'orge";
+}
+
+translate Barley to french feminine
+{
+  ns "Orge"; np "Orges";
+}
+
+
+//translate GreenThumb to french masculinecollective
+
+translate MaltingTray to french masculine
+{
+  ns "Tamis à malt"; np "Tamis à malt";
+}
+
+translate "How much Barley?"
+to french "Combien d'orge ?";
+
+translate "You don't have that much Raw Barley."
+to french "Vous n'avez pas autant d'orge crue";
+
+translate "Request a packet of Barley"
+to french "Demander un sac d'orge";
+
+translate "You already got a packet of barley."
+to french "Vous avez déjà un sac d'orge.";
+
+translate "We can only give barley to people with paid accounts."
+to french "Nous ne donnons de l'orge qu'à des gens qui possèdent un compte payé.";
+
+translate "You don't have any grain fertilizer."
+to french "Vous n'avez pas d'engrais.";
+
+translate "You don't have any water."
+to french "Vous n'avez pas d'eau.";
+
+translate "You don't have any weed killer."
+to french "Vous n'avez pas d'herbicide.";
+
+translate "Barley"
+to french "Orge";
+
+translate "To plant barley, you need: "
+to french "Pour planter de l'orge, il vous faut :";
+
+translate "To build a Malting Tray, you need: "
+to french "Pour construire un tamis à malt il vous faut :";
+
+translate "Malt Barley"
+to french "Malter l'orge";
+
+translate "To malt barley, you need: "
+to french "Pour traiter l'orge, il vous faut :";
+
+translate "The Malt"
+to french "Le malt";
+
+translate "The barley is germinating..."
+to french "L'orge est en train de germer...";
+
+translate "Barley: in Danger"
+to french "Orge : en danger";
+
+translate "Barley: Growing"
+to french "Orge : en croissance";
+
+translate "Barley: Ready to Harvest"
+to french "Orge : prête pour la moisson";
+
+translate "Fertilizer:"
+to french "Engrais :";
+
+translate "Weed Killer:"
+to french "Herbicide :";
+
+translate "Water:"
+to french "Eau :";
+
+translate "Harvest"
+to french "Moissonner";
+
+translate "Supplies/"
+to french "En stock/";
+
+translate "Farming"
+to french "Agriculture";
+
+translate "Build a Malting Tray"
+to french "Construire un tamis à malt";
+
+translate "Take/The Malt [key=T]"
+to french "Prendre/Malt [key=T]";
+
+translate "You already know all there is at this time."
+to french "Vous avez déjà acquis toutes les connaissances disponibles actuellement.";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

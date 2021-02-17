@@ -1,0 +1,86 @@
+module AntFarm_fre;
+
+translate MandibularGlue to french feminine { ns "Sécretion mandibulaire"; np "Sécretions mandibulaires"; }
+translate Leaves to french feminine { ns "Feuille fraiche"; np "Feuilles fraiches"; }
+translate DeadAnt to french feminine { ns "Fourmi morte"; np "Fourmis mortes"; }
+translate AntColony to french feminine { ns "Colonie de fourmis"; np "Colonies de fourmis"; }
+translate QueenAnt to french feminine { ns "Reine fourmi"; np "Reines fourmi"; }
+translate Myrmecology to french feminine { ns "Myrmécologie"; np "Myrmécologie"; }
+translate Compost to french masculine { ns "Compost"; np "Compost"; }
+translate "To build a Ant Colony need:" to french "Pour construire une colonie de fourmis, vous avez besoin de:";
+translate "Techniques to allow breeding of Ants." to french "Enseigne les techniques d'élevage des fourmis.";
+translate "Fresh (Same Week) Leaves" to french "Feuilles fraiches (de cette semaine)";
+translate "Semi-Fresh (Same or previous Week) Leaves" to french "Feuilles semi-fraiches (cette semaine ou la précédente)";
+translate "The leaves have been stripped from this plant" to french "Cette plante a été effeuillée";
+
+translate "Nontoxic, Termite Resistant Boards" to french "Planches traitées non toxiques, résistantes aux termites";
+
+translate advancedmyrmecology to french feminine
+{ ns "Myrmécologie avancée"; np "Myrmécologies avancées"; }
+
+translate "Harvest the Leaves" to french "Prélever les feuilles";
+
+translate "Sheet Glass" to french "Feuilles de verre";
+
+translate "You attempt to harvest the leaves, but the pollution levels are so high that these leaves are not suitable, and fall apart in your hands."
+to french "Vous essayez de prélever les feuilles, mais le niveau de pollution est trop élevé. Les feuilles ne sont pas viables et se décomposent dans vos mains.";
+
+translate "You do not have a Queen Ant to seed the colony with!"
+to french "Vous n'avez pas de Reine fourmi pour ensemencer la colonie !";
+
+translate "O1: Week N1" to french "O1(np) : semaine N1";
+
+translate "Week N1" to french "semaine N1";
+
+translate "U1 has given you N1 O1:Week N2." to french "U1(name) vous a donné N1 O1(N1?np:ns): semaine N2.";
+
+translate "Ant Colony" to french "Colonie de fourmis";
+
+translate "To build an Ant Colony, you need: "
+to french "Pour construire une colonie de fourmis, il vous faut :";
+
+translate "The Colony has N1 Leaves"
+to french "Cette colonie contient N1 feuilles";
+
+translate "Add some Leaves"
+to french "Ajouter des feuilles";
+
+translate "Select some Leaves:"
+to french "Sélectionnez des feuilles :";
+
+translate "That is not Leaves."
+to french "Ce ne sont pas des feuilles.";
+
+translate "The leaves look particularly succulent."
+to french "Les feuilles semblent particulièrement succulentes.";
+
+translate "Ants only eat fresh Leaves."
+to french "Les fourmies ne mangent que les feuilles fraiches.";
+
+translate "The leaves selected are not fresh enough."
+to french "Les feuilles sélectionnées ne sont pas assez fraiches.";
+
+translate "Check the Health of the Colony"
+to french "Regarder comment se porte la colonie";
+
+translate "The colony's health, on a scale from 0 to 21 is N1"
+to french "L'état de la colonie, sur une echelle de 0 à 21, est N1";
+
+translate "This week, the colony's health increased."
+to french "Cette semaine, l'état de santé de la colonie s'est amélioré.";
+
+translate "This week, the colony's health decreased due to lack of food."
+to french "Cette semaine, l'état de santé de la colonie s'est dégradé dû à un manque de nourriture.";
+
+translate "This week, the queen died."
+to french "Cette semaine, la reine est morte.";
+
+translate "This week, a second queen was born. Get it to a new Colony QUICKLY!"
+to french "Cette semaine, une deuxième reine est née. Placez là RAPIDEMENT dans une nouvelle colonie !";
+
+translate "The Colony has accumulated N1 deben of Mandibular Glue."
+to french "La colonie a accumulé N1 debens de sécretion mandibulaire.";
+
+translate "Seed this Colony with a Queen"
+to french "Initier cette colonie avec une reine";
+

@@ -1,0 +1,335 @@
+module pottery_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+
+translate PotteryWheel to german femininecollective
+{
+ swa "Töpferscheibe";
+  sn "Töpferscheibe"; sg "Töpferscheibe"; sd "Töpferscheibe"; sa "Töpferscheibe";
+  pn "Töpferscheiben"; pg "Töpferscheiben"; pd "Töpferscheiben"; pa "Töpferscheiben";
+}
+translate PotteryDeck to german femininecollective
+{
+ swa "Töpferei";
+  sn "Töpferei"; sg "Töpferei"; sd "Töpferei"; sa "Töpferei";
+  pn "Töpfereien"; pg "Töpfereien"; pd "Töpfereien"; pa "Töpfereien";
+}
+translate ClayDome to german femininecollective
+{
+swa "Tonkuppel";
+  sn "Tonkuppel"; sg "Tonkuppel"; sd "Tonkuppel"; sa "Tonkuppel";
+  pn "Tonkuppeln"; pg "Tonkuppeln"; pd "Tonkuppeln"; pa "Tonkuppeln";
+}
+
+translate Clay to german masculinecollective
+{
+ swa "Ton";
+  sn "Ton"; sg "Tons"; sd "Ton"; sa "Ton";
+  pn "Ton"; pg "Ton"; pd "Ton"; pa "Ton";
+}
+translate WetJugs to german masculinecollective
+{
+ swa "feuchte Tonkrug";
+  sn "feuchte Tonkrug"; sg "feuchte Tonkrug"; sd "feuchten Tonkrug"; sa "feuchten Tonkrug";
+  pn "feuchte Tonkrüge"; pg "feuchte Tonkrüge"; pd "feuchten Tonkrügen"; pa "feuchte Tonkrüge";
+}
+translate WetClayMortars to german masculinecollective
+{
+ swa "feuchte Tonmörser";
+  sn "feuchte Tonmörser"; sg "feuchte Tonmörser"; sd "feuchten Tonmörser"; sa "feuchten Tonmörser";
+  pn "feuchte Tonmörser"; pg "feuchte Tonmörser"; pd "feuchten Tonmörser"; pa "feuchte Tonmörser";
+}
+translate ClayMortars to german masculinecollective
+{
+ swa "Tonmörser";
+  sn "Tonmörser"; sg "Tonmörser"; sd "Tonmörser"; sa "Tonmörser";
+  pn "Tonmörser"; pg "Tonmörser"; pd "Tonmörser"; pa "Tonmörser";
+}
+translate Kiln to german masculinecollective
+{
+ swa "Ofen";
+  sn "Ofen"; sg "Ofens"; sd "Ofen"; sa "Ofen";
+  pn "Öfen"; pg "Öfen"; pd "Öfen"; pa "Öfen";
+}
+
+translate BoxKiln to german masculinecollective
+{
+ swa "Kastenofen";
+  sn "Kastenofen"; sg "Kastenofens"; sd "Kastenofen"; sa "Kastenofen";
+  pn "Kastenöfen"; pg "Kastenöfen"; pd "Kastenöfen"; pa "Kastenöfen";
+}
+translate TrueKiln to german masculinecollective
+{
+ swa "Brennofen";
+  sn "Brennofen"; sg "Brennofens"; sd "Brennofen"; sa "Brennofen";
+  pn "Brennöfen"; pg "Brennöfen"; pd "Brennöfen"; pa "Brennöfen";
+}
+translate VaultKiln to german masculinecollective
+{
+ swa "Brennkammerofen";
+  sn "Brennkammerofen"; sg "Brennkammerofens"; sd "Brennkammerofen"; sa "Brennkammerofen";
+  pn "Brennkammeröfen"; pg "Brennkammeröfen"; pd "Brennkammeröfen"; pa "Brennkammeröfen";
+}
+translate WetGrainMortars to german masculinecollective
+{
+ swa "feuchte Getreidemörser";
+  sn "feuchte Getreidemörser"; sg "feuchte Getreidemörser"; sd "feuchten Getreidemörser"; sa "feuchten Getreidemörser";
+  pn "feuchte Getreidemörser"; pg "feuchte Getreidemörser"; pd "feuchten Getreidemörser"; pa "feuchte Getreidemörser";
+}
+translate GrainMortars to german masculinecollective
+{
+ swa "Getreidemörser";
+  sn "Getreidemörser"; sg "Getreidemörsers"; sd "Getreidemörser"; sa "Getreidemörser";
+  pn "Getreidemörser"; pg "Getreidemörser"; pd "Getreidemörsern"; pa "Getreidemörser";
+}
+
+translate WetClayDome to german feminine
+{
+ swa "Feuchte Tonkuppel";
+  sn "Feuchte Tonkuppel"; sg "Feuchten Tonkuppel"; sd "Feuchte Tonkuppel"; sa "Feuchte Tonkuppel";
+  pn "Feuchten Tonkuppeln"; pg "Feuchten Tonkuppeln"; pd "Feuchten Tonkuppeln"; pa "Feuchten Tonkuppeln";
+}
+translate WetPipeSegment to german neuter
+{
+ swa "Feuchtes Rohrsegment";
+  sn "Feuchte Rohrsegment"; sg "Feuchten Rohrsegments"; sd "Feuchten Rohrsegment"; sa "Feuchte Rohrsegment";
+  pn "Feuchten Rohrsegmente"; pg "Feuchten Rohrsegmente"; pd "Feuchten Rohrsegmenten"; pa "Feuchten Rohrsegmente";
+}
+translate PipeSegment to german neuter
+{
+ swa "Rohrsegment";
+  sn "Rohrsegment"; sg "Rohrsegments"; sd "Rohrsegment"; sa "Rohrsegment";
+  pn "Rohrsegmente"; pg "Rohrsegmente"; pd "Rohrsegmenten"; pa "Rohrsegmente";
+}
+translate WetCistern to german feminine
+{
+ swa "Feuchte Zisterne";
+  sn "Feuchte Zisterne"; sg "Feuchten Zisterne"; sd "Feuchte Zisterne"; sa "Feuchte Zisterne";
+  pn "Feuchten Zisternen"; pg "Feuchten Zisternen"; pd "Feuchten Zisternen"; pa "Feuchten Zisternen";
+}
+translate Cistern to german feminine
+{
+ swa "Zisterne";
+  sn "Zisterne"; sg "Zisterne"; sd "Zisterne"; sa "Zisterne";
+  pn "Zisternen"; pg "Zisternen"; pd "Zisternen"; pa "Zisternen";
+}
+
+translate "Gather: Clay"
+to german "Sammle: Ton";
+
+translate "Build a Pottery Wheel"
+to german "Baue eine Töpferscheibe";
+
+translate "Projects/Build a Pottery Deck"
+to german "Projekte/Diverses/Töpferei";
+
+translate "Projects/Build a Pottery Wheel"
+to german "Projekte/Töpferei/Baue ein Töpferrad";
+
+translate "Kilns"
+to german "Öfen";
+
+translate "Build a Box Kiln"
+to german "Baue einen Kastenofen";
+
+translate "Build a True Kiln"
+to german "Baue einen Brennofen";
+
+translate "Build a Vault Kiln"
+to german "Baue einen Kammernofen";
+
+translate "Build a Pottery Deck"
+to german "Baue eine Töpferei";
+
+translate "You'll have to pour some water on the packed earth to soften it."
+to german "Du mußt etwas Wasser auf den harten Boden träufeln, um ihn zu lockern.";
+
+translate "Hmm... It seems that all the clay in this area has been gathered."
+to german "Mhh... Es scheint, als wäre der komplette Ton in dieser Gegend bereits aufgesammelt.";
+
+translate "As you gather the clay, you also find a small hard piece of flint."
+to german "Während du den Ton einsammelst, findest du ein kleines, hartes Stück Feuerstein.";
+
+translate "To build a Pottery Wheel, you need: "
+to german "Um eine Töpferscheibe zu bauen benötigst du: ";
+translate "N1 O1"
+to german "N1 O1(N1?pn:sn)";
+
+translate "To build a Pottery Deck, you need: "
+to german "Um eine Töpferei zu bauen benötigst du: ";
+translate "N1 O1"
+to german "N1 O1(N1?pn:sn)";
+
+translate "Make a Jug"
+to german "Forme einen Krug";
+
+translate "It takes 1 deben of Clay to make a Jug"
+to german "Man benötigt 1 Klumpen Ton, um einen Krug zu formen";
+
+translate "Make a Clay Dome"
+to german "Baue eine Tonkuppel";
+
+translate "It takes 400 deben of clay to make a Clay Dome"
+to german "Man benötigt 400 Klumpen Ton, um eine Tonkuppel zu bauen";
+
+translate "Clay dome will be ready in 60 minutes."
+to german "Die Tonkuppel wird in 1 Stunde fertig sein.";
+
+translate "Make a Pipe Segment"
+to german "Mache ein Rohrsegment";
+
+translate "It takes 100 deben of clay to make a Pipe Segment"
+to german "Man benötigt 100 Klumpen Ton, um ein Rohrsegment zu bauen";
+
+translate "Make a Cistern"
+to german "Baue eine Zisterne";
+
+translate "It takes 350 deben of clay to make a Cistern"
+to german "Man benötigt 350 Klumpen Ton, um eine Zisterne zu bauen";
+
+translate "Cistern will be ready in One Hour."
+to german "Die Zisterne wird in 1 Stunde fertig sein.";
+
+translate "Pipe Segment will be ready in one hour."
+to german "Das Rohrsegment wird in 1 Stunde fertig sein.";
+
+translate "To build a Box Kiln, you need: "
+to german "Um einen Kastenofen zu bauen benötigst du: ";
+translate "N1 O1"
+to german "N1 O1(N1?pn:sn)";
+
+translate "To build a True Kiln, you need: "
+to german "Um einen Brennofen zu bauen benötigst du: ";
+translate "N1 O1"
+to german "N1 O1(N1?pn:sn)";
+
+translate "To build a Vault Kiln, you need: "
+to german "Um einen Brennkammerofen zu bauen benötigst du: ";
+translate "N1 O1"
+to german "N1 O1(N1?pn:sn)";
+
+translate "Load the Kiln with Wet Firebricks."
+to german "Belade den Ofen mit feuchten Feuerziegeln";
+
+translate "You don't have any Wet Firebricks."
+to german "Du hast keine feuchten Feuerziegel.";
+
+translate "The Kiln is already fully loaded."
+to german "Der Ofen ist bereits voll beladen.";
+
+translate "Load the Kiln with Wet Jugs."
+to german "Belade den Ofen mit feuchten Tonkrügen";
+
+translate "You don't have any Wet Jugs."
+to german "Du hast keine feuchten Tonkrüge.";
+
+translate "Load the Kiln with Wet Clay Mortars."
+to german "Belade den Ofen mit feuchten Getreidemörsern";
+
+translate "You don't have any Wet Clay Mortars."
+to german "Du hast keine feuchten Getreidemörser.";
+
+translate "Load the Kiln with Wood."
+to german "Belade den Ofen mit Holz";
+
+translate "The chamber is already filled with Wood."
+to german "Die Kammer ist bereits mit Holz befüllt.";
+
+translate "You don't have any wood."
+to german "Du hast kein Holz.";
+
+translate "Fire the Box Kiln."
+to german "Befeuere den Kastenofen.";
+
+translate "You must first remove any completed firebricks from your Box Kiln."
+to german "Du mußt zuerst die bereits gebrannten Feuerziegel aus dem Kastenofen entfernen.";
+
+translate "You haven't placed any wet firebricks in your Box Kiln."
+to german "Du hast keine feuchten Feuerziegel in den Kastenofen gelegt.";
+
+translate "You haven't placed any wet items in your Kiln."
+to german "Du hast keine feuchten Gegenstände in den Ofen gelegt.";
+
+translate "This Kiln requires N1 pieces of wood to fire."
+to german "Dieser Ofen benötigt N1 Holz zum Befeuern.";
+
+translate "Box kilns are inefficient, and require N1 pieces of wood to fire."
+to german "Kastenöfen sind ineffizient und verbrauchen N1 Stück Holz beim feuern.";
+
+translate "The Box Kiln has worn out and crumbled to dust."
+to german "Der Kastenofen ist ausgebrannt und zu Staub zerfallen.";
+
+translate "Mould a Clay Mortar"
+to german "Forme einen Tonmörser";
+
+translate "You need 4 clay to mould a Clay Mortar"
+to german "Du benötigst 4 Klumpen Ton, um einen Tonmörser zu formen";
+
+translate "Fireing"
+to german "Befeuere";
+
+translate "Fire the Kiln"
+to german "Befeuere den Ofen";
+
+translate "Your Kiln has worn out and crumbled to dust."
+to german "Dein Ofen ist ausgebrannt und zu Staub zerfallen.";
+
+translate "Fill with wood"
+to german "Befülle mit Holz";
+
+translate "Load how much Wood? (Max N1)"
+to german "Wieviel Holz? (Max N1)";
+
+translate "Load a Wet Clay Dome into the kiln"
+to german "Belade den Ofen mit einer feuchten Tonkuppel";
+
+translate "You aren't carrying a Wet Clay Dome."
+to german "Du hast keine feuchte Tonkuppel.";
+
+translate "Fire the Kiln"
+to german "Befeuere den Ofen";
+
+translate "The Vault Kiln must be loaded with 100 wood."
+to german "Der Brennkammernofen muss mit 100 Holz beladen sein.";
+
+translate "You haven't placed anything in the Vault Kiln."
+to german "Du hast Nichts in den Brennkammerofen geladen.";
+
+translate "You haven't placed a wet clay dome into the vault kiln"
+to german "Du hast keine feuchte Tonkuppel in den Brennkammernofen gelegt";
+
+translate "The Vault Kiln takes K1 to fire a O1."
+to german "Der Brennkammerofen braucht K1 um O1(dpn) O1(pn) zu brennen.";
+
+translate "The Vault Kiln takes one hour to fire a Clay Dome"
+to german "Der Brennkammernofen braucht eine Stunde, um eine Tonkuppel zu brennen";
+
+translate "Load the kiln with wet clay mortars."
+to german "Belade den Ofen mit feuchten Tonmörsern.";
+
+translate "You don't have any wet clay mortars."
+to german "Du hast keine feuchten Tonmörser.";
+
+translate "Mould a Clay Mortar"
+to german "Forme einen Tonmörser";
+
+translate "You need 4 clay to mould a Clay Mortar"
+to german "Du benötigst 4 Ton, um einen Tonmörser zu formen";
+
+translate "You're making progress toward building a Sacrificial Bonfire."
+to german "Du machst im Bau eines Opferfeuers Fortschritte.";
+
+translate "Load a O1 into the Kiln"
+to german "Lade einen O1(sn) in den Ofen";
+
+translate "Everything must be unloaded first."
+to german "Alles muß zuerst entnommen werden.";
+
+translate "You aren't carrying a O1"
+to german "Du hast keine O1(pn)";

@@ -1,0 +1,345 @@
+Module decay_fre;
+
+// nothing left in this file, everything has been includedin decay2_fre
+
+translate "Strict Density: U1"
+to french "Densité stricte : U1(name)";
+
+
+translate cornerstone to french feminine
+{
+	ns "Pierre d'angle"; np "Pierres d'angle";
+	}
+
+translate StructureRepair to french feminine
+{
+	ns "Réparation de structures"; np "Réparation de structures";
+	}
+translate raelishards to french masculine
+{
+	ns "Fragments de tuiles Raeli"; np "Fragments de tuiles Raeli";
+	}
+
+translate "You own N1 Cornerstones"
+to french "Vous possédez N1 pierre(s) d'angle";
+
+translate "Remove my Cornerstone"
+to french "Retirer ma pierre d'angle";
+
+translate "The O1 must be repaired first."
+to french "O1(^lns) O1(ns) doit être réparé d'abord.";
+
+translate "Structure repair is difficult work. Rest another K1."
+to french "La réparation de structures est un travail difficile. Reposez-vous encore K1.";
+
+translate "You were not able to make any needed repairs."
+to french "Vous n'avez pu rien réparer.";
+
+translate "Repair by Anyone"
+to french "Réparable par n'importe qui";
+
+translate "You repaired some of the damage."
+to french "Vous avez réparé une partie des dommages.";
+
+translate "Repairable by K1"
+to french "Réparable par K1";
+
+translate "Condition is: Perfect"
+to french "Etat: Parfait";
+
+translate "Condition is: Near-Perfect"
+to french "Etat: Presque parfait";
+
+translate "Condition is: Good"
+to french "Etat: Bon ";
+
+translate "Condition is: Serviceable"
+to french "Etat: Utilisable";
+
+translate "Condition is: Almost Serviceable"
+to french "Etat: Presque utilisable";
+
+translate "Condition is: Cracking"
+to french "Etat: Endommagé";
+
+translate "Condition is: Crumbling"
+to french "Etat: S'écroule";
+
+translate "Condition is: Rotting"
+to french "condition: En ruines";
+
+translate "Condition is: K1"
+to french "Etat: K1";
+
+translate "This Compound is in perfect shape (N1 Cornerstones)"
+to french "Cet atelier est en parfaite condition (N1 pierre d'angle)";
+
+translate "This Compound is in perfect shape (No Cornerstones)"
+to french "Cet atelier est en parfaite condition (aucune pierre d'angle)";
+
+translate "(N1 O1)"
+to french "(N1 O1(N1?np:ns))";
+
+translate "Install a Cornerstone"
+to french "Installer une pierre d'angle";
+
+translate "You have already installed a cornerstone here."
+to french "Vous avez déjà installé une pierre d'angle ici";
+
+translate "You don't have any more cornerstones."
+to french "Vous n'avez plus de pierres d'angles";
+
+translate "Remove my Cornerstone"
+to french "Retirer ma pierre d'angle";
+
+translate "Show my Cornerstones"
+to french "Montrer mes pierres d'angle";
+
+translate "Maintain this O1"
+to french "entretenir O1(cns) O1(ns)";
+
+translate "The compound is undergoing a blueprint upgrade. You must finish or abandon the upgrade before you can do maintenance."
+to french "L'atelier est en cours de modifications. Vous devez les terminer ou les abandonner avant de procéder à un entretien";
+
+translate "To maintain this Compound you need:"
+to french "Pour entretenir cet atelier vous avez besoin de :";
+
+translate "N1 O1"
+to french "N1 O1(N1?np:ns)";
+
+translate "Abandon Maintenance"
+to french "Abandonner l'entretien";
+
+translate "Checking..."
+to french "Vérification...";
+
+translate "Repair level set to O1"
+to french "Permission de réparer réglée à O1(ns)";
+
+translate "You have N1 Cornerstones available.\n"
+to french "Vous avez N1 Pierre(s) d'angle(s) disponible(s).\n";
+
+translate "    One is installed in a O1 at egypt N1 N2"
+to french "    Une installée dans O1(uns) O1(ns) situé à N1 N2";
+
+translate "Canopy"
+to french "Atelier";
+
+translate "Are you sure you want to abandon the compound maintenance?"
+to french "Êtes-vous certain de vouloir annuler les réparations de cet atelier ?";
+
+translate "Abandon Maintenance"
+to french "Abandonner les réparations";
+
+translate "Maintain this Compound"
+to french "Réparer cet atelier";
+
+translate "Allows one to partially repair decayed workshops and buildings."
+to french "Permet de réparer partiellement les outils et bâtiments.";
+
+translate "This compound's protection level is N1% (No Cornerstones)"
+to french "La protection de cet atelier est de N1%  (aucune pierre d'angle)";
+
+translate "Protection level: "
+to french "Niveau de protection: ";
+
+translate "Protection level: Perfect shape (1 Cornerstones)"
+to french "Niveau de protection: Parfait état (1 pierre d'angle";
+
+translate "Protection level: Perfect shape (No Cornerstones)"
+to french "Niveau de protection: Parfait état (Aucune pierre d'angle";
+
+translate "Protection level: N1% (1 Cornerstones)"
+to french "Niveau de protection: N1% (1 pierre d'angle";
+
+translate "Protection level: N1% (No Cornerstones)"
+to french "Niveau de protection: N1% (Aucune pierre d'angle)";
+
+translate " (No Cornerstones)"
+to french " (aucune pierre d'angle)";
+
+translate "Protection level: K1 K2"
+to french "Niveau de protection: K1 K2";
+
+translate "(N1 Cornerstones)"
+to french "(N1 pierre d'angle)";
+
+translate "This Compounds protection level has been at 0% for K1"
+to french "La protection de cet atelier est à 0% depuis K1";
+
+translate "This Compounds protection level has been at 0% for K1 (No Cornerstones)"
+to french "La protection de cet atelier est à 0% depuis K1 (Aucune pierre d'angle)";
+
+translate "This Compounds protection level has been at 0% for K1 (N1 Cornerstones)"
+to french "La protection de cet atelier est à 0% depuis K1 (N1 pierre d'angle)";
+
+translate "This Compounds protection level is N1% (No Cornerstones)"
+to french "La protection de cet atelier est de N1% (Aucune pierre d'angle)";
+
+translate "This Compounds protection level is N1% (N2 Cornerstones)"
+to french "La protection de cet atelier est de N1% (N2 pierre d'angle)";
+
+translate "This Trade Center's protection level is N1% (No Cornerstones)"
+to french "La protection de ce centre de commerce est de N1%  (aucune pierre d'angle)";
+
+translate "This Trade Center is in perfect shape (N1 Cornerstones)"
+to french "Ce centre de commerce est en parfaite condition (N1 pierre d'angle)";
+
+translate "This Trade Center is in perfect shape (No Cornerstones)"
+to french "Ce centre de commerce est en parfaite condition (aucune pierre d'angle)";
+
+translate "This Trade Center's protection level has been at 0% for K1"
+to french "La protection de ce centre de commerce est à 0% depuis K1.";
+
+
+//following pasted from decay_fre.fac file
+
+
+translate "Maintain this building - New system"
+to french "Entretenir cette construction - Nouveau système";
+
+translate "Add ten hours of decay"
+to french "Ajouter 10 heures de dégradation";
+
+translate "Reinforce this building"
+to french "Renforcer cette construction";
+
+translate "Remove reinforcements from this building"
+to french "Retirer les renforts de cette construction";
+
+translate "Remove all building reinforcements"
+to french "Retirer les renforts de toutes les constructions";
+
+translate "Decay and Crowding"
+to french "Dégradation et population";
+
+translate "Select System"
+to french "Choisir le système";
+
+translate "Learn about Decay and Crowding Systems"
+to french "Plus d'infos sur les systèmes de dégradation et de population";
+
+translate "Maintain this building"
+to french "Réparer la construction";
+
+translate "Maintain this building"
+to french "Entretenir cette construction";
+
+translate "This O1 is in like-new condition."
+to french "O1(^cns) O1(ns) est comme au premier jour.";
+
+translate "This O1 is starting to look a bit worn."
+to french "O1(^cns) O1(ns) semble un peu endommagé.";
+
+translate "This O1 could use some maintenance."
+to french "O1(^cns) O1(ns) a besoin d'entretien.";
+
+translate "This O1 is really starting to crumble."
+to french "O1(^cns) O1(ns) est bien délabré.";
+
+translate "This O1 is about to fall apart."
+to french "O1(^cns) O1(ns) est sur le point de s'écrouler.";
+
+translate "This O1 is unusable. Maintain it."
+to french "O1(^cns) O1(ns) est inutilisable. Il faut une réparation !";
+
+translate "This O1 is in like-new condition. (N1)"
+to french "O1(^cns)) O1(ns) est comme au premier jour. (N1)";
+
+translate "This O1 is starting to look a bit worn. (N1)"
+to french "O1(^cns) O1(ns) semble un peu endommagé. (N1)";
+
+translate "This O1 could use some maintenance. (N1)"
+to french "O1(^cns) O1(ns) a besoin d'entretien. (N1)";
+
+translate "This O1 is really starting to crumble. (N1)"
+to french "O1(^cns) O1(ns) est bien délabré. (N1)";
+
+translate "This O1 is about to fall apart. (N1)"
+to french "O1(^cns) O1(ns) est sur le point de s'écrouler. (N1)";
+
+translate "This O1 is unusable. Maintain it. (N1)"
+to french "O1(^cns) O1(ns) est inutilisable. Il faut une réparation ! (N1)";
+
+translate "This O1 is at N1% of new condition. You must perform Maintenance to continue using it."
+to french "O1(^cns) O1(ns) est à N1% de condition. Vous devez le rénover avant de l'utiliser.";
+
+translate "This O1 is at N1% of new condition."
+to french "O1(^cns) O1(ns) est à N1% de sa condition maximale.";
+
+translate "To perform N1% of repairs requires:"
+to french "Pour réparer N1%, il vous faut :";
+
+translate "N1 O1 (missing)"
+to french "N1 O1(N1?np:ns) (manquant)";
+
+translate "There is no cost to maintain it."
+to french "Aucun coût d'entretien.";
+
+translate "Do what percentage of maintenance?"
+to french "Quel degré d'entretien effectuer ?";
+
+translate "This has accumulated N1 seconds of decay."
+to french "N1 secondes de dégradation accumulées.";
+
+translate "This building is in like-new condition. It wouldn't have started to decay for over N1. Nevertheless, touching it up doesn't hurt - it's now in totally perfect condition."
+to french "Cette construction est comme neuve. Elle ne commencera pas à se dégrader avant N1. Mais la retaper un peu ne lui fera pas de mal - le bâtiment est maintenant en parfait état.";
+
+translate "You maintain the O1 back to perfect condition. There is no cost."
+to french "Votre O1(ns) est maintenant en parfait état. Ceci ne vous a rien coûté. ";
+
+translate "To perform Maintenance, you need:"
+to french "Pour effectuer la maintenance, il vous faut :";
+translate "N1 O1"
+to french "N1 O1(N1?np:ns)";
+
+translate "Costs reflect a N1% Structure Maintenance reduction."
+to french "Les coûts reflètent N1% de réduction de l'entretien de la construction.";
+
+translate "The O1 is too far gone. It should be torn down."
+to french "O1(^cns) O1(ns) est trop délabré. Vous feriez mieux de tout détruire.";
+
+translate "Someone else is already maintaining the building."
+to french "Quelqu'un d'autre est déjà en train de restaurer cette construction.";
+
+translate "You touch up the O1. There is no cost."
+to french "Vous restaurez O1(lns) O1(ns). Les travaux ne coûtent rien. ";
+
+translate "You have already reinforced N1 buildings."
+to french "Vous avez déjà renforcé N1 constructions.";
+
+translate "You have specially reinforced the O1. You may reinforce a total of N1 buildings."
+to french "Vous avez déjà renforcé O1(cns) O1(ns). Vous pouvez rénover un total de N1 constructions. ";
+
+translate "Are you sure you want to remove ALL of your building reinforcements?"
+to french "Voulez-vous vraiment retirer TOUS vos renforts de construction ?";
+
+translate "It has been specially reinforced by you"
+to french "C'est vous qui avez renforcé cette construction.";
+
+translate "It has been specially reinforced by U1"
+to french "Cette construction a été renforcée par U1(name).";
+
+
+translate "You can choose whether your buildings are subject to decay, or to stricter crowding limits. If you choose decay, then your buildings decay at about 1% per logged-in hour, and when decay reaches 50%, you'll have to maintain them by replacing some of the original building materials. If you choose to be subject to stricter crowding limits, your buildings are permanent and will never decay. You'll only be able to build when the number of physical objects within a 250 foot radius is 50 or less. (Normally you can build when the number of objects within a 500 foot radius is 250 or less.) You can switch between the two systems to see which you prefer."
+to french "Vous pouvez choisir si vos constructions sont sujettes à la dégradation, ou bien si vous leur imposez des limites de population. Si vous choisissez la dégradation, vos constructions se dégradent d'environ 1% par heure où vous êtes connecté. Lorsque cette dégradation atteint 50%, vous devez rénover vos construction en remplaçant quelques uns des matériaux de construction d'origine. Si vous choisissez d'obéir à des limites de fréquentation strictes, vos constructions sont permanentes et ne se dégradent jamais. Mais vous ne serez capable de construire qu'un bâtiment que quand le nombre d'objets présents dans un rayon de 250 pieds est de 50 ou moins. (Normalement, vous pouvez construire lorsque le nombre d'objets présents dans un rayon de 500 pieds est de 250 ou moins. Vous pouvez adopter l'un ou l'autre système pour décider lequel vous préférez.";
+
+translate "Select Yes to use the stricter crowding system. Select No to use the Building Decay system."
+to french "Choisissez Oui pour utiliser le contrôle de population. Choisissez Non pour utiliser la dégradation des constructions.";
+
+translate "You have reinforced some buildings. Reinforcements will be lost. Proceed?"
+to french "Vous avez renforcé des constructions. Les renforcements seront perdus. Continuer ?";
+
+translate "Now using the stricter crowding control system."
+to french "Vous êtes maintenant en mode de contrôle de population.";
+
+translate "Buildings are now subject to decay."
+to french "Vos constructions se dégradent à présent.";
+
+translate "Strict Density: U1"
+to french "Densité stricte : U1(name)";
+
+translate "Attempt to repair this O1"
+to french "Essayer de réparer O1(cns) O1(ns)";
+translate "U1 damaged this building on K1"
+to french "U1(name) a endommé cette structure K1";

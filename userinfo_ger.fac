@@ -1,0 +1,183 @@
+module userinfo_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**            German Version: Astrid "Infinyti" Werner                   **
+//**                            2012                                       **
+//**                                                                       **
+//***************************************************************************
+
+translate "General"
+  to german "Allgemein";
+
+translate "You may only have a maximum of 200 notes"
+  to german "Du darfst max. 200 Mitteilungen schreiben";
+
+translate "Note? (250 chars)"
+  to german "Mitteilung? (250 Zeichen)";
+
+translate "Really this note?"
+  to german "Bestimmt diese Mitteilung?";
+
+translate "Really delete all your notes?"
+  to german "Willst du wirklich alle deine Mitteilungen löschen?";
+
+translate "Are you 100% certain?"
+  to german "Bist du dir 100% sicher?";
+
+translate "Guilds"
+  to german "Gilden";
+
+translate "Notes"
+  to german "Mitteilungen";
+
+translate "Connected (AFK)"
+  to german "Eingeloggt (AFK)";
+
+translate "Connected"
+  to german "Eingeloggt";
+
+translate "Disconnected"
+  to german "Ausgeloggt";
+
+translate "Married to: U1"
+  to german "Verheiratet mit: U1(name)";
+
+translate "Acro"
+  to german "Akro";
+
+translate "N1 facets taught."
+  to german "N1 Facetten gelehrt.";
+
+translate "NB: Only the author can see their notes."
+  to german "NB: Nur der Autor kann deren Mitteilungen sehen.";
+
+translate "Edit Note"
+  to german "Mitteilung editieren";
+
+translate "Add Note"
+  to german "Mitteilung hinzufügen";
+
+translate "Delete All Notes"
+  to german "Lösche alle Mitteilungen";
+
+translate "GM Notes: N1"
+  to german "GM Mitteilungen: N1";
+
+translate "Show GM Notes"
+  to german "Zeige GM Mitteilungen";
+
+translate "Members"
+  to german "Mitglieder";
+
+translate "Guild Roster is Secret."
+  to german "Die Liste der Gildenmitglieder ist geheim.";
+
+translate "Looking up info..."
+  to german "Suche nach Infos";
+
+translate "Could not find: U1"
+  to german "Nicht zu finden: U1(name)";
+
+translate "K1 is a Microphone."
+  to german "K1 ist ein Mikrofon.";
+
+translate "K1 is an otter at K2."
+  to german "K1 ist ein Otter bei K2.";
+
+translate "Guild Location is Hidden."
+  to german "Der Gildenstandort ist verborgen.";
+
+translate "Closed."
+  to german "Geschlossen.";
+
+translate "Full."
+  to german "Voll.";
+
+translate "(N1/N2)"
+  to german "(N1/N2)";
+
+translate "(paid account)"
+  to german "(bezahlter Account)";
+
+translate "(in exile)"
+  to german "(in Verbannung)";
+
+translate "(expired or closed account)"
+  to german "(abgelaufener oder geschlossener Account)";
+
+translate "(military leave)"
+  to german "(militärabwesend)";
+
+translate "(trial account)"
+  to german "(Testaccount)";
+
+translate "(K1)"
+  to german "(K1)";
+
+translate "(Temporarily Exiled)"
+  to german "(Vorübergehend verbannt)";
+
+translate "(Buildings have been removed)"
+  to german "(Gebäude wurden entfernt)";
+
+translate "Language K1"
+  to german "Sprache K1";
+
+translate "First Login K1 ago"
+  to german "Erster Login K1 her";
+
+translate "Logged in for K1"
+  to german "Seit K1 eingeloggt";
+
+translate "Last Login K1 long ago."
+  to german "Letzter Login K1 her.";
+
+translate "Unpaid for K1"
+  to german "Seit K1 unbezahlt";
+
+translate "Paid for another K1"
+  to german "Für weitere K1 bezahlt";
+
+translate "Legacy"
+  to german "Vermächtnis";
+
+translate "Location K1 K2 K3"
+  to german "Standort K1 K2 K3";
+
+translate "Last Location K1 K2 K3"
+  to german "Letzter Standort K1 K2 K3";
+
+translate "Travel Time K1"
+  to german "Reisezeit K1";
+
+translate "Email K1 (Verified)"
+  to german "Email K1 (geprüft)";
+
+translate "Email K1 (Not Verified)"
+  to german "Email K1 (nicht geprüft)";
+
+translate "IP Adress"
+  to german "IP Adresse";
+
+translate "Flags"
+  to german "Flag";
+
+translate "Online(aprx)K1 in N1 logins"
+  to german "Online K1 in N1 Logins";
+
+translate "Preorder 12 Month"
+  to german "Vorbestellung 12 Monate";
+
+translate "Preorder 6 Month"
+  to german "Vorbestellung 6 Monate";
+
+translate "Preorder 3 Month"
+  to german "Vorbestellung 3 Monate";
+
+translate "Timezone"
+  to german "Zeitzone";
+
+translate "Video Card"
+  to german "Grafikkarte";

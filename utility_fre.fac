@@ -1,0 +1,370 @@
+module utility_fre;
+
+translate "N1 second"
+to french "N1 seconde";
+translate "N1 seconds"
+to french "N1 secondes";
+translate "N1 minute"
+to french "N1 minute";
+translate "N1 minutes"
+to french "N1 minutes";
+translate "N1 hour"
+to french "N1 heure";
+translate "N1 hours"
+to french "N1 heures";
+translate "N1 days"
+to french "N1 jours";
+translate "N1 day"
+to french "N1 jour";
+
+translate "N1 d"
+to french "N1 j";
+
+translate "N1 minute N2 second"
+to french "N1 minute N2 seconde";
+translate "N1 minute N2 seconds"
+to french "N1 minute N2 secondes";
+translate "N1 minutes N2 second"
+to french "N1 minutes N2 seconde";
+translate "N1 minutes N2 seconds"
+to french "N1 minutes N2 secondes";
+
+translate "N1 hour N2 second"
+to french "N1 heure N2 seconde";
+translate "N1 hour N2 seconds"
+to french "N1 heure N2 secondes";
+translate "N1 hours N2 second"
+to french "N1 heures N2 seconde";
+translate "N1 hours N2 seconds"
+to french "N1 heures N2 secondes";
+
+translate "N1 hour N2 minute"
+to french "N1 heure N2 minute";
+translate "N1 hour N2 minutes"
+to french "N1 heure N2 minutes";
+translate "N1 hours N2 minute"
+to french "N1 heures N2 minute";
+translate "N1 hours N2 minutes"
+to french "N1 heures N2 minutes";
+
+translate "N1 hour N2 minute N3 second"
+to french "N1 heure N2 minute N3 seconde";
+translate "N1 hour N2 minutes N3 second"
+to french "N1 heure N2 minutes N3 seconde";
+translate "N1 hour N2 minute N3 seconds"
+to french "N1 heure N2 minute N3 secondes";
+translate "N1 hour N2 minutes N3 seconds"
+to french "N1 heure N2 minutes N3 secondes";
+translate "N1 hours N2 minute N3 second"
+to french "N1 heures N2 minute N3 seconde";
+translate "N1 hours N2 minutes N3 second"
+to french "N1 heures N2 minutes N3 seconde";
+translate "N1 hours N2 minute N3 seconds"
+to french "N1 heures N2 minute N3 secondes";
+translate "N1 hours N2 minutes N3 seconds"
+to french "N1 heures N2 minutes N3 secondes";
+
+
+
+translate "N1 day N2 second"
+to french "N1 jour N2 seconde";
+translate "N1 day N2 seconds"
+to french "N1 jour N2 secondes";
+translate "N1 day N2 minute"
+to french "N1 jour N2 minute";
+translate "N1 day N2 minutes"
+to french "N1 jour N2 minutes";
+translate "N1 day N2 hour"
+to french "N1 jour N2 heure";
+translate "N1 day N2 hours"
+to french "N1 jour N2 heures";
+
+translate "N1 day N2 minute N3 second"
+to french "N1 jour N2 minute N3 seconde";
+translate "N1 day N2 minute N3 seconds"
+to french "N1 jour N2 minute N3 secondes";
+translate "N1 day N2 minutes N3 second"
+to french "N1 jour N2 minutes N3 seconde";
+translate "N1 day N2 minutes N3 seconds"
+to french "N1 jour N2 minutes N3 secondes";
+
+translate "N1 day N2 hour N3 second"
+to french "N1 jour N2 heure N3 seconde";
+translate "N1 day N2 hour N3 seconds"
+to french "N1 jour N2 heure N3 secondes";
+translate "N1 day N2 hours N3 second"
+to french "N1 jour N2 heures N3 seconde";
+translate "N1 day N2 hours N3 seconds"
+to french "N1 jour N2 heures N3 secondes";
+
+translate "N1 day N2 hour N3 minute"
+to french "N1 jour N2 heure N3 minute";
+translate "N1 day N2 hour N3 minutes"
+to french "N1 jour N2 heure N3 minutes";
+translate "N1 day N2 hours N3 minute"
+to french "N1 jour N2 heures N3 minute";
+translate "N1 day N2 hours N3 minutes"
+to french "N1 jour N2 heures N3 minutes";
+
+translate "N1 day N2 hour N3 minute N4 second"
+to french "N1 jour N2 heure N3 minute N4 seconde";
+translate "N1 day N2 hour N3 minutes N4 second"
+to french "N1 jour N2 heure N3 minutes N4 seconde";
+translate "N1 day N2 hour N3 minute N4 seconds"
+to french "N1 jour N2 heure N3 minute N4 secondes";
+translate "N1 day N2 hour N3 minutes N4 seconds"
+to french "N1 jour N2 heure N3 minutes N4 secondes";
+translate "N1 day N2 hours N3 minute N4 second"
+to french "N1 jour N2 heures N3 minute N4 seconde";
+translate "N1 day N2 hours N3 minutes N4 second"
+to french "N1 jour N2 heures N3 minutes N4 seconde";
+translate "N1 day N2 hours N3 minute N4 seconds"
+to french "N1 jour N2 heures N3 minute N4 secondes";
+translate "N1 day N2 hours N3 minutes N4 seconds"
+to french "N1 jour N2 heures N3 minutes N4 secondes";
+
+
+
+translate "N1 days N2 second"
+to french "N1 jours N2 seconde";
+translate "N1 days N2 seconds"
+to french "N1 jours N2 secondes";
+translate "N1 days N2 minute"
+to french "N1 jours N2 minute";
+translate "N1 days N2 minutes"
+to french "N1 jours N2 minutes";
+translate "N1 days N2 hour"
+to french "N1 jours N2 heure";
+translate "N1 days N2 hours"
+to french "N1 jours N2 heures";
+
+translate "N1 days N2 minute N3 second"
+to french "N1 jours N2 minute N3 seconde";
+translate "N1 days N2 minute N3 seconds"
+to french "N1 jours N2 minute N3 secondes";
+translate "N1 days N2 minutes N3 second"
+to french "N1 jours N2 minutes N3 seconde";
+translate "N1 days N2 minutes N3 seconds"
+to french "N1 jours N2 minutes N3 secondes";
+
+translate "N1 days N2 hour N3 second"
+to french "N1 jours N2 heure N3 seconde";
+translate "N1 days N2 hour N3 seconds"
+to french "N1 jours N2 heure N3 secondes";
+translate "N1 days N2 hours N3 second"
+to french "N1 jours N2 heures N3 seconde";
+translate "N1 days N2 hours N3 seconds"
+to french "N2 jours N2 heures N3 secondes";
+
+translate "N1 days N2 hour N3 minute"
+to french "N1 jours N2 heure N3 minute";
+translate "N1 days N2 hour N3 minutes"
+to french "N1 jours N2 heure N3 minutes";
+translate "N1 days N2 hours N3 minute"
+to french "N1 jours N2 heures N3 minute";
+translate "N1 days N2 hours N3 minutes"
+to french "N1 jours N2 heures N3 minutes";
+
+translate "N1 days N2 hour N32 minute N4 second"
+to french "N1 jours N2 heure N3 minute N4 seconde";
+translate "N1 days N2 hour N3 minutes N4 second"
+to french "N1 jours N2 heure N3 minutes N4 seconde";
+translate "N1 days N2 hour N3 minute N4 seconds"
+to french "N1 jours N2 heure N3 minute N4 secondes";
+translate "N1 days N2 hour N3 minutes N4 seconds"
+to french "N1 jours N2 heure N3 minutes N4 secondes";
+translate "N1 days N2 hours N3 minute N4 second"
+to french "N1 jours N2 heures N3 minute N4 seconde";
+translate "N1 days N2 hours N3 minutes N4 second"
+to french "N1 jours N2 heures N3 minutes N4 seconde";
+translate "N1 days N2 hours N3 minute N4 seconds"
+to french "N1 jours N2 heures N3 minute N4 secondes";
+translate "N1 days N2 hours N3 minutes N4 seconds"
+to french "N1 jours N2 heures N3 minutes N4 secondes";
+
+
+
+
+
+
+
+
+
+
+
+translate "N1 second RT"
+to french "N1 seconde RT";
+translate "N1 seconds RT"
+to french "N1 secondes RT";
+translate "N1 minute RT"
+to french "N1 minute RT";
+translate "N1 minutes RT"
+to french "N1 minutes RT";
+translate "N1 hour RT"
+to french "N1 heure RT";
+translate "N1 hours RT"
+to french "N1 heures RT";
+translate "N1 days RT"
+to french "N1 jours RT";
+
+translate "N1 minute N2 second RT"
+to french "N1 minute N2 seconde RT";
+translate "N1 minute N2 seconds RT"
+to french "N1 minute N2 secondes RT";
+translate "N1 minutes N2 second RT"
+to french "N1 minutes N2 seconde RT";
+translate "N1 minutes N2 seconds RT"
+to french "N1 minutes N2 secondes RT";
+
+translate "N1 hour N2 second RT"
+to french "N1 heure N2 seconde RT";
+translate "N1 hour N2 seconds RT"
+to french "N1 heure N2 secondes RT";
+translate "N1 hours N2 second RT"
+to french "N1 heures N2 seconde RT";
+translate "N1 hours N2 seconds RT"
+to french "N1 heures N2 secondes RT";
+
+translate "N1 hour N2 minute RT"
+to french "N1 heure N2 minute RT";
+translate "N1 hour N2 minutes RT"
+to french "N1 heure N2 minutes RT";
+translate "N1 hours N2 minute RT"
+to french "N1 heures N2 minute RT";
+translate "N1 hours N2 minutes RT"
+to french "N1 heures N2 minutes RT";
+
+translate "N1 hour N2 minute N3 second RT"
+to french "N1 heure N2 minute N3 seconde RT";
+translate "N1 hour N2 minutes N3 second RT"
+to french "N1 heure N2 minutes N3 seconde RT";
+translate "N1 hour N2 minute N3 seconds RT"
+to french "N1 heure N2 minute N3 secondes RT";
+translate "N1 hour N2 minutes N3 seconds RT"
+to french "N1 heure N2 minutes N3 secondes RT";
+translate "N1 hours N2 minute N3 second RT"
+to french "N1 heures N2 minute N3 seconde RT";
+translate "N1 hours N2 minutes N3 second RT"
+to french "N1 heures N2 minutes N3 seconde RT";
+translate "N1 hours N2 minute N3 seconds RT"
+to french "N1 heures N2 minute N3 secondes RT";
+translate "N1 hours N2 minutes N3 seconds RT"
+to french "N1 heures N2 minutes N3 secondes RT";
+
+
+
+translate "N1 day N2 second RT"
+to french "N1 jour N2 seconde RT";
+translate "N1 day N2 seconds RT"
+to french "N1 jour N2 secondes RT";
+translate "N1 day N2 minute RT"
+to french "N1 jour N2 minute RT";
+translate "N1 day N2 minutes RT"
+to french "N1 jour N2 minutes RT";
+translate "N1 day N2 hour RT"
+to french "N1 jour N2 heure RT";
+translate "N1 day N2 hours RT"
+to french "N1 jour N2 heures RT";
+
+translate "N1 day N2 minute N3 second RT"
+to french "N1 jour N2 minute N3 seconde RT";
+translate "N1 day N2 minute N3 seconds RT"
+to french "N1 jour N2 minute N3 secondes RT";
+translate "N1 day N2 minutes N3 second RT"
+to french "N1 jour N2 minutes N3 seconde RT";
+translate "N1 day N2 minutes N3 seconds RT"
+to french "N1 jour N2 minutes N3 secondes";
+
+translate "N1 day N2 hour N3 second RT"
+to french "N1 jour N2 heure N3 seconde RT";
+translate "N1 day N2 hour N3 seconds RT"
+to french "N1 jour N2 heure N3 secondes RT";
+translate "N1 day N2 hours N3 second RT"
+to french "N1 jour N2 heures N3 seconde RT";
+translate "N1 day N2 hours N3 seconds RT"
+to french "N1 jour N2 heures N3 secondes RT";
+
+translate "N1 day N2 hour N3 minute RT"
+to french "N1 jour N2 heure N3 minute RT";
+translate "N1 day N2 hour N3 minutes RT"
+to french "N1 jour N2 heure N3 minutes RT";
+translate "N1 day N2 hours N3 minute RT"
+to french "N1 jour N2 heures N3 minute RT";
+translate "N1 day N2 hours N3 minutes RT"
+to french "N1 jour N2 heures N3 minutes";
+
+translate "N1 day N2 hour N3 minute N4 second RT"
+to french "N1 jour N2 heure N3 minute N4 seconde RT";
+translate "N1 day N2 hour N3 minutes N4 second RT"
+to french "N1 jour N2 heure N3 minutes N4 seconde RT";
+translate "N1 day N2 hour N3 minute N4 seconds RT"
+to french "N1 jour N2 heure N3 minute N4 secondes RT";
+translate "N1 day N2 hour N3 minutes N4 seconds RT"
+to french "N1 jour N2 heure N3 minutes N4 secondes RT";
+translate "N1 day N2 hours N3 minute N4 second RT"
+to french "N1 jour N2 heures N3 minute N4 seconde RT";
+translate "N1 day N2 hours N3 minutes N4 second RT"
+to french "N1 jour N2 heures N3 minutes N4 seconde RT";
+translate "N1 day N2 hours N3 minute N4 seconds RT"
+to french "N1 jour N2 heures N3 minute N4 secondes RT";
+translate "N1 day N2 hours N3 minutes N4 seconds RT"
+to french "N1 jour N2 heures N3 minutes N4 secondes RT";
+
+
+
+translate "N1 days N2 second RT"
+to french "N1 jours N2 seconde RT";
+translate "N1 days N2 seconds RT"
+to french "N1 jours N2 secondes RT";
+translate "N1 days N2 minute RT"
+to french "N1 jours N2 minute RT";
+translate "N1 days N2 minutes RT"
+to french "N1 jours N2 minutes";
+translate "N1 days N2 hour RT"
+to french "N1 jours N2 heure RT";
+translate "N1 days N2 hours RT"
+to french "N1 jours N2 heures RT";
+
+translate "N1 days N2 minute N3 second RT"
+to french "N1 jours N2 minute N3 seconde RT";
+translate "N1 days N2 minute N3 seconds RT"
+to french "N1 jours N2 minute N3 secondes RT";
+translate "N1 days N2 minutes N3 second RT"
+to french "N1 jours N2 minutes N3 seconde RT";
+translate "N1 days N2 minutes N3 seconds RT"
+to french "N1 jours N2 minutes N3 secondes RT";
+
+translate "N1 days N2 hour N3 second RT"
+to french "N1 jours N2 heure N3 seconde RT";
+translate "N1 days N2 hour N3 seconds RT"
+to french "N1 jours N2 heure N3 secondes RT";
+translate "N1 days N2 hours N3 second RT"
+to french "N1 jours N2 heures N3 seconde RT";
+translate "N1 days N2 hours N3 seconds RT"
+to french "N2 jours N2 heures N3 secondes RT";
+
+translate "N1 days N2 hour N3 minute RT"
+to french "N1 jours N2 heure N3 minute RT";
+translate "N1 days N2 hour N3 minutes RT"
+to french "N1 jours N2 heure N3 minutes RT";
+translate "N1 days N2 hours N3 minute RT"
+to french "N1 jours N2 heures N3 minute RT";
+translate "N1 days N2 hours N3 minutes RT"
+to french "N1 jours N2 heures N3 minutes RT";
+
+translate "N1 days N2 hour N32 minute N4 second RT"
+to french "N1 jours N2 heure N3 minute N4 seconde RT";
+translate "N1 days N2 hour N3 minutes N4 second RT"
+to french "N1 jours N2 heure N3 minutes N4 seconde RT";
+translate "N1 days N2 hour N3 minute N4 seconds RT"
+to french "N1 jours N2 heure N3 minute N4 secondes RT";
+translate "N1 days N2 hour N3 minutes N4 seconds RT"
+to french "N1 jours N2 heure N3 minutes N4 secondes RT";
+translate "N1 days N2 hours N3 minute N4 second RT"
+to french "N1 jours N2 heures N3 minute N4 seconde RT";
+translate "N1 days N2 hours N3 minutes N4 second RT"
+to french "N1 jours N2 heures N3 minutes N4 seconde RT";
+translate "N1 days N2 hours N3 minute N4 seconds RT"
+to french "N1 jours N2 heures N3 minute N4 secondes RT";
+translate "N1 days N2 hours N3 minutes N4 seconds RT"
+to french "N1 jours N2 heures N3 minutes N4 secondes RT";

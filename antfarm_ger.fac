@@ -1,0 +1,166 @@
+module antfarm_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**            German Version: Astrid "Infinyti" Werner                   **
+//**                            2012                                       **
+//**                                                                       **
+//***************************************************************************
+
+translate Myrmecology to german feminine
+{
+  swa "Ameisenkunde";
+    sn "Ameisenkunde"; pn "Ameisenkunde";
+}
+
+translate MandibularGlue to german neutercollective
+{
+  swa "Mandibelsekret";
+    sn "Mandibelsekret"; pn "Mandibelsekret";
+}
+
+translate QueenAnt to german feminine
+{
+  swa "Ameisenkönigin";
+    sn "Ameisenkönigin"; pn "Ameisenköniginnen";
+}
+
+translate Leaves to german feminine
+{
+  swa "Blätter";
+    sn "Blätter"; pn "Blätter";
+}
+
+translate AntFarmController to german feminine
+{
+  swa "Ameisenfarmregler";
+    sn "Ameisenfarmregler"; pn "Ameisenfarmregler";
+}
+
+translate Compost to german masculinecollective
+{
+  swa "Kompost";
+    sn "Kompost"; pn "Kompost";
+}
+
+translate DeadAnt to german feminine
+{
+  swa "tote Ameise";
+    sn "tote Ameise"; pn "toten Ameisen";
+}
+
+translate AntColony to german neuter
+{
+  swa "Ameisenvolk";
+    sn "Ameisenvolk"; pn "Ameisenvölker";
+}
+
+translate "Myrmecology"
+  to german "Ameisenkunde";
+
+translate "Techniques to allow breeding of Ants."
+  to german "Erlaubt das Züchten von Ameisen.";
+
+translate "Fresh (Same Week) Leaves"
+  to german "Frische Blätter (selbe Woche)";
+
+translate "Semi-Fresh (Same or previous Week) Leaves"
+  to german "Halbfrische Blätter (selbe oder vorherige Woche)";
+
+translate "Nontoxic, Termite Resistant Boards"
+  to german "Ungiftige, termitenresistente Bretter";
+
+translate "Iron Bars"
+  to german "Eisenbarren";
+
+translate "To build a Ant Colony need:"
+  to german "Um ein Ameisenvolk zu gründen, benötigst du:";
+
+translate "Seed this Colony with a Queen"
+  to german "Setze eine Königin in dieses Volk";
+
+translate "You do not have a Queen Ant to seed the colony with!"
+  to german "Du hast keine Ameisenkönigin für dieses Volk!";
+
+translate "Remove Queen Ant"
+  to german "Ameisenkönigin herausnehmen";
+
+translate "Remove the second Queen"
+  to german "Die zweite Königin herausnehmen";
+
+translate "You take the Queen. You should get it to a new colony QUICKLY, or she will die."
+  to german "Du nimmst die Königin. Du solltest sie rasch in ein neues Volk setzen, ansonsten wird sie sterben.";
+
+translate "Possible Plant Type: K1"
+  to german "Mögliche Pflanzenart: K1";
+
+translate "Hid a Queen Ant at K1"
+  to german "Verstecke bei K1 eine Ameisenkönigin";
+
+translate "Add Extra Queens to the world for this week"
+  to german "Verteile in der Welt für diese Woche zusätzliche Königinnen";
+
+translate "How many ants do you wish to hide in plants?"
+  to german "Wieviele Ameisen möchtest du in den Pflanzen verstecken?";
+
+translate "How many ants per week?"
+  to german "Wieviele Ameisen pro Woche?";
+
+translate "Compost"
+  to german "Kompost";
+
+translate "The leaves have been stripped from this plant"
+  to german "Die Blätter dieser Pflanzen wurden abgerupft";
+
+translate "The leaves look particularly succulent."
+  to german "Die Blätter sehen besonders saftig aus.";
+
+translate "Harvest the Leaves"
+  to german "Pflücke die Blätter ab";
+
+translate "You attempt to harvest the leaves, but the pollution levels are so high that these leaves are not suitable, and fall apart in your hands."
+  to german "Du versuchst, die Blätter abzurupfen, aber die Umweltverschmutzung ist so groß, dass diese Blätter nicht genießbar sind, sie zerfallen in deinen Händen.";
+
+translate "The Colony has N1 Leaves"
+  to german "Das Volk hat N1 Blätter";
+
+translate "Add some Leaves"
+  to german "Blätter füttern";
+
+translate "Select some Leaves:"
+  to german "Wähle Blätter aus:";
+
+translate "That is not Leaves."
+  to german "Das sind keine Blätter.";
+
+translate "Ants only eat fresh Leaves."
+  to german "Ameisen fressen nur frische Blätter.";
+
+translate "Error on Leaves. Please DevCall."
+  to german "Mit den Blättern stimmt etwas nicht. Rufe einen Entwickler.";
+
+translate "The leaves selected are not fresh enough."
+  to german "Die ausgewählten Blätter sind nicht frisch genug.";
+
+translate "Check the Health of the Colony"
+  to german "Prüfe das Befinden des Volkes";
+
+translate "The colony's health, on a scale from 0 to 21 is N1"
+  to german "Das Befinden des Volkes liegt auf einer Skala von 0 bis 21 auf N1";
+
+translate "This week, the colony's health increased."
+  to german "Das Ameisenvolk hat sich während dieser Woche vergrößert.";
+
+translate "This week, the colony's health decreased due to lack of food."
+  to german "Wegen Futtermangels geht es dem Ameisenvolk diese Woche nicht gut.";
+
+translate "This week, the queen died."
+  to german "Diese Woche starb die Königin.";
+
+translate "This week, a second queen was born. Get it to a new Colony QUICKLY!"
+  to german "In dieser Woche wurde eine zweite Königin geboren. Bringe sie SCHNELL zu einem neuen Volk!";
+
+translate "The Colony has accumulated N1 deben of Mandibular Glue."
+  to german "Das Ameisenvolk hat N1 Deben Mandibelsekret angesammelt.";
+

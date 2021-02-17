@@ -1,0 +1,402 @@
+module chat2_fre;
+
+// added here translation for all chat options to avoid creating chatfre.fac
+translate "What would you like to do?"
+to french "Que souhaitez-vous faire ?";
+translate "Chat"
+to french "Chatter";
+translate "Tell"
+to french "Murmurez";
+translate "Warp To"
+to french "Téléporter vers";
+translate "ascending"
+to french "croissant";
+translate "descending"
+to french "décroissant";
+
+translate Microphone to french masculine
+{
+ns "Microphone"; np "Microphones";
+}
+
+translate PublicMicrophone to french masculine
+{
+ns "Microphone"; np "Microphones";
+}
+
+translate "U1 has left the channel."
+to french "U1(name) a quitté la discussion";
+
+translate "Main" 
+to french "Général";
+translate "System" 
+to french "Système";
+
+translate "Move Tab left"
+to french "Déplacer l'onglet à gauche";
+
+translate "Move Tab right"
+to french "Déplacer l'onglet à droite";
+
+translate "See information about this player"
+to french "Voir l'information pour ce joueur";
+
+translate "See information about this guild"
+to french "Voir l'information pour cette guilde";
+
+translate "Remove U1 from your friends list"
+to french "Supprimer U1(name) de votre liste d'amis";
+
+translate "Add U1 to your friends list"
+to french "Ajouter U1(name) à votre lsite d'amis";
+
+translate "Click here or press Enter to talk."
+to french "Cliquez ici ou appuyez sur Entrée pour parler";
+
+translate "You can't chat to the U1 channel."
+to french "Vous ne pouvez pas parler dans le canal U1(name)";
+
+translate "You can't chat to the Immigrants channel."
+to french "Vous ne pouvez pas parler dans le canal Immigrants.";
+
+translate "Vous ne pouvez pas parler dans le canal radioGermany."
+to french "Radio ist ein Einwegmedium.";
+
+translate "You can't chat to the RadioFrance channel."
+to french "Vous ne pouvez pas parler dans le canal RadioFrance.";
+
+translate "You can't chat to the System channel."
+to french "Vous ne pouvez pas parler dans le canal System.";
+
+translate "Private Chat"
+to french "Discussion privée";
+
+translate "Make a Microphone"
+to french "Utiliser un micro";
+
+translate "Name of station?"
+to french "Nom de station ?";
+
+translate "Guild channel K1: U1"
+to french "Canal de guilde K1: U1(name)";
+
+translate "Two person channel: U1"
+to french "Canal direct : U1(name)";
+
+translate "Persistant channel named K1: U1"
+to french "Canal persistant K1 : U1(name)";
+
+translate "You already have a private chat open with U1."
+to french "Vous avez déjà un chat privé avec U1(name)";
+
+translate "Do you want to open another?"
+to french "Voulez-vous en ouvrir un autre ?";
+
+translate "chat-minimize"
+to french "réduire la fenêtre";
+
+translate "U1 closes chat channel K1"
+to french "U1(name) ferme le canal K1";
+
+translate "U1 has left the channel."
+to french "U1(name) a quitté le canal.";
+
+translate "Channel list: K1 U1"
+to french "Liste des canaux : K1 U1(name)";
+
+translate "Channel View: K1 U1"
+to french "Voir les canaux : K1 U1(name)";
+
+translate "Channel Size: N1 U1"
+to french "Fréquentation : N1 U1(name)";
+
+translate "Restore My Chat Window[hidden,key=Enter]"
+to french "Réinitialiser ma fenêtre[hidden,key=Enter]";
+
+translate "Make this the world cartouche microphone"
+to french "Utiliser un micro";
+
+translate "You can't chat to the K1 channel."
+to french "Vous ne pouvez pas parler sur le canal K1.";
+
+translate "Turn logging Off"
+to french "Désactiver les logs";
+
+translate "Turn Logging On"
+to french "Activer les logs";
+
+translate "Configure Logging"
+to french "Configurer les logs";
+
+translate "URL to use for logging?"
+to french "URL à utiliser pour les logs ?";
+
+translate "UAC Password"
+to french "Mot de passe UAC ?";
+
+translate "The tab is already in that folder!"
+to french "L'onglet est déjà dans ce dossier!";
+
+translate "Private Chat"
+to french "Discussion privée";
+
+translate "Chat Minimize: U1 K1 (U2)"
+to french "Réduire la fenêtre : U1(name) K1 (U2(name))";
+
+translate "Re-Sort channels"
+to french "Retrier les canaux";
+
+translate "Alphabetize Folder"
+to french "Ordre alphabetique";
+
+translate "Channel Name: K1"
+to french "Nom du canal : K1";
+
+translate "Failed to create channel K1"
+to french "Impossible de créer le canal K1";
+
+translate "Attached new channel K1 to U1"
+to french "Canal K1 associé à U1(name)";
+
+translate "Make a Microphone"
+to french "Lancer une session micro";
+
+translate "Name of station?"
+to french "Nom de la station ?";
+
+translate "To make a microphone you need:"
+to french "Pour lancer cette session il vous faut :";
+
+translate "The name K1 is already taken."
+to french "Le nom K1 est déjà utilisé.";
+
+translate "Zero time channel K1"
+to french "Canal sans compte de temps K1";
+
+translate "Empty chat channel K1"
+to french "Canal vide K1";
+
+translate "Stagnent chat channel: K1"
+to french "Canal persistant : K1";
+
+translate "Active Chat Channel: K1"
+to french "Canal actif : K1";
+
+translate "Listening: K1 (connected)"
+to french "Vous écoutez : K1 (connecté)";
+
+translate "Listening: K1 (disconnected)"
+to french "Vous écoutez : K1 (déconnecté)";
+
+translate "Give this building to Named player"
+to french "Donner ce bâtiment au joueur désigné";
+
+translate "Who do you want to transfer it to?"
+to french "A qui voulez-vous le transférer ?";
+
+translate "No such user U1."
+to french "U1(name) n'existe pas.";
+
+translate "Transfer the O1 to U1?"
+to french "Voulez-vous transférer O1(cns) O1(ns) à U1(name) ?";
+
+translate "Transferring..."
+to french "Transfert...";
+
+translate "You submit your comment: K1"
+to french "Vous avez soumis votre commentaire: K1";
+
+translate "You submit your comment: "
+to french "Vous avez soumis votre commentaire: ";
+
+translate "Can't send a message - U1 is not logged into the game."
+to french "Impossible d'envoyer un message - U1(name) n'est pas en jeu.";
+
+translate "U1 is ignoring all incoming chats."
+to french "U1(name) ne désire pas recevoir de messages.";
+
+translate "This is Microphone RadioFrance"
+to french "C'est le micro Radiofrance";
+translate "This is Microphone RadioGermany"
+to french "C'est le micro RadioGermany";
+translate "This is Microphone Events"
+to french "C'est le micro Events";
+translate "This is Microphone ENN"
+to french "C'est le micro ENN";
+translate "This is Microphone RadioG"
+to french "C'est le micro RadioG";
+translate "This is Microphone RTrade"
+to french "C'est le micro RTrade";
+translate "This is Microphone RFS"
+to french "C'est le micro RFS";
+translate "This is Microphone R-Trade"
+to french "C'est le micro R-Trade";
+translate "This is Microphone MMR"
+to french "C'est le micro MMR";
+translate "This is Microphone GOO"
+to french "C'est le micro GOO";
+translate "This is Microphone Boo"
+to french "C'est le micro Boo";
+translate "This is Microphone UNIX"
+to french "C'est le micro UNIX";
+translate "This is Microphone SPAM"
+to french "C'est le micro SPAM";
+translate "This is Microphone Evil Radio"
+to french "C'est le micro Evil Radio";
+translate "This is Microphone Village Voice"
+to french "C'est le micro Village Voice";
+translate "This is Microphone ERC"
+to french "C'est le micro ERC";
+translate "This is Microphone E!"
+to french "C'est le micro E!";
+translate "This is Microphone FCN"
+to french "C'est le micro FCN";
+translate "This is Microphone Channel 7"
+to french "C'est le micro Channel 7";
+
+translate "Welcome Text to display on joining:"
+to french "Texte de bienvenue à afficher à l'entrée:";
+
+translate "Set the Question Text"
+to french "Déterminer la question";
+
+translate "Question to ask on joining:"
+to french "Question à poser en entrant:";
+
+translate "Display the Call Board"
+to french "Afficher le panneau de modération";
+
+translate "Talkshow"
+to french "Paramêtres de discussion";
+
+translate "Disable"
+to french "Désactivé";
+
+translate "Area Host"
+to french "Proximité";
+
+translate "Single Host"
+to french "Hôte unique";
+
+translate "Current Mode: Area Host"
+to french "Paramêtrage actuel: Proximité";
+
+translate "Current Mode: Single Host"
+to french "Paramêtrage actuel: Hôte unique";
+
+translate "Current Mode: Disable"
+to french "Paramêtrage actuel: Désactivé";
+
+translate "Clear the Board"
+to french "Nettoyer le panneau de modération";
+
+translate "The name U1 is already taken: "
+to french "Le nom U1(name) est déjà utilisé: ";
+
+translate "You can only kick people out of Island chat channels."
+to french "Vous pouvez expulser uniquement sur les canaux autres que celui de l'île de départ.";
+
+translate "U1 is on the Island, so chatting is usually fine. Really kick them from the channel?"
+to french "U1(name) est sur l'île de départ, donc parler est accepté. Voulez-vous vraiment l'expulser du canal?";
+
+translate "Removed U1 from U2."
+to french "U1(name) expulsé de U2(name).";
+
+translate "You have been removed from U1."
+to french "Vous avez été exclu de U1(name).";
+
+translate "Chat Tabs"
+to french "Canaux de discussion";
+
+translate "Drag Current Right"
+to french "Deplacer ce canal vers la droite";
+
+translate "Drag Current Left"
+to french "Deplacer ce canal vers la gauche";
+
+translate "Press Enter to Chat"
+to french "Tapez Entrée pour revenir en mode Discussion";
+
+translate "Unfiltered"
+to french "Non filtré";
+
+translate "Folder N1"
+to french "Dossier N1";
+
+translate "Guilds"
+to french "Guildes";
+
+translate "Default Chat Categories"
+to french "Catégories par défaut";
+
+translate "Drag Current"
+to french "Déplacer le canal actif";
+
+translate "Move Current To"
+to french "Classer le canal actif";
+
+translate "Rename"
+to french "Renommer";
+
+translate "New name?"
+to french "Nouveau nom ?";
+
+translate "Main is already in K1!"
+to french "Le canal Général est déjà classé dans le dossier K1 !";
+
+translate "K1 is already in K2!"
+to french "K1 est déjà classé dans le dossier K2 !";
+
+translate "Chat Tab"
+to french "Canal de discussion";
+
+translate "Private Chat"
+to french "Canal privé";
+
+translate "Main is automatically in every folder."
+to french "Le cana Général est par défaut présent dans tous les dossiers.";
+
+translate "You cannot move a channel that you have not joined!"
+to french "Vous ne pouvez pas déplacer un canal que vous n'avez pas activer !";
+
+translate "Open Foler"
+to french "Dossier libre";
+
+translate "Move to folder N1"
+to french "Déplacer dans le dossier N1";
+
+translate "Oops, you closed RadioFrance!"
+to french "Oups, vous avez fermé RadioFrance !";
+translate "Oops, you closed RadioGermany!"
+to french "Oups, vous avez fermé RadioGermany !";
+translate "Oops, you closed RadioSpain!"
+to french "Oups, vous avez fermé RadioSpain !";
+
+translate "This channel is the translation of the System channel and any other official communication."
+to french "Ce canal est la traduction du canal System et de toute autre annonce officielle.";
+
+translate "You can rejoin RadioFrance at any time by typing K1."
+to french "Vous pouvez rouvrir RadioFrance à tout moment en tapant K1.";
+translate "You can rejoin RadioGermany at any time by typing K1."
+to french "Vous pouvez rouvrir RadioGermany à tout moment en tapant K1.";
+translate "You can rejoin RadioSpain at any time by typing K1."
+to french "Vous pouvez rouvrir RadioSpain à tout moment en tapant K1.";
+
+translate "Don't display again"
+to french "Ne plus afficher";
+
+translate "U1 is Busy and may not reply. Chat anyway?"
+to french "U1(name) est occupé et pourrait ne pas répondre. Continuer ?";
+
+translate "System Translation for K1"
+to french "Traduction de System en K1";
+
+translate "This is the K1 translation of Official communications."
+to french "C'est la traduction en K1 des communications officielles";
+
+translate "What is Radio France?"
+to french "Qu'est ce que Radio France ?";
+
+translate "This is Radio France"
+to french "Ici Radio France :";
+

@@ -1,0 +1,153 @@
+module worship_fre;
+
+translate SethStatue to french feminine
+{
+  ns "Statue de Seth"; np "Statues de Seth";
+}
+
+translate "Vision Ritual"
+to french "Rituel de vision";
+
+translate "Supplies"
+to french "Réserves";
+
+translate "Vision Ritual of Red Metal"
+to french "Rituel de vision du métal rouge";
+
+translate "Vision Ritual of White Metal"
+to french "Rituel de vision du métal blanc";
+
+translate "Vision Ritual of Black Metal"
+to french "Rituel de vision du métal noir";
+
+translate "Ask for some leather"
+to french "Demander du cuir";
+
+translate "Ask for some Vegetable Seeds"
+to french "Demander des graines de légumes";
+
+translate "Ask for some flax seeds"
+to french "Demander des graines de lin";
+
+translate "Play as my wife "
+to french "Jouer sur le compte de ma femme ";
+
+translate "Play as my husband "
+to french "Jouer sur le compte de mon mari ";
+
+translate "Play as my wife U1"
+to french "Jouer sur le compte de ma femme U1(name)";
+
+translate "Play as my spouse U1"
+to french "Jouer sur le compte de U1(name)";
+
+translate "Play as my husband U1"
+to french "Jouer sur le compte de mon mari U1(name)";
+
+translate "To find copper ore:"
+to french "Pour trouver du minerai de cuivre :";
+
+translate "  Acolyte #1: Small Ruby on L Pillar"
+to french "Acolyte 1 : Petit rubis sur pilier gauche";
+
+translate "  Acolyte #1: Small Ruby on L Focus"
+to french "Acolyte 1 : Petit rubis sur pilier gauche";
+
+translate "  Acolyte #1: Small Ruby on R Focus"
+to french "Acolyte 1 : Petit rubis sur focus droit";
+
+translate "  Acolyte #1: Small Ruby on R Pillar"
+to french "Acolyte 1 : Petit rubis sur focus droit";
+
+translate "  Priest: Meditate on Altar"
+to french "  Prêtre : Méciter auprès de l'autel";
+
+translate "To find iron ore:"
+to french "Pour trouver du minerai de fer ::";
+
+translate "  Acolyte #1: Small Quartz on L Pillar"
+to french "Acolyte 1 : Petit quartz sur pilier gauche";
+
+translate "  Acolyte #2: Water on L Focus"
+to french "Acolyte 2 : Eau sur focus gauche";
+
+translate "  Acolyte #2: Water on R Focus"
+to french "Acolyte 2 : Eau sur focus droit";
+
+translate "  Acolyte #1: Small Quartz on R Pillar"
+to french "Acolyte 1 : Petit quartz sur pilier droit";
+
+translate "To find aluminium ore:"
+to french "Pour trouver du minerai d'aluminium :";
+
+translate "  Acolyte #1: Water on L Pillar"
+to french "Acolyte 1 : Eau sur pilier gauche";
+
+translate "  Acolyte #2: Water on L Focus"
+to french "Acolyte 2 : Eau sur focus gauche";
+
+translate "  Acolyte #3: Water on R Focus"
+to french "Avolyte 3 : Eau sur focus droit";
+
+translate "  Acolyte #4: Water on R Pillar"
+to french "Acolyte 4 : Eau sur pilier droit";
+
+translate "  Priests #1, #2, #3: Meditate on Altar"
+to french "  Prêtres 1, 2 et 3 : Méciter auprès de l'autel";
+
+translate "We're planning to give away leather once we can raise enough livestock. We don't have the technology needed yet to raise large numbers of animals. A donation to the university will help."
+to french "Nous pensons donner du cuir dès que nous aurons la possibilité d'élever du bétail. Nous ne connaissons pas encore les techniques d'élevage d'animaux en grand nombre. Un don à l'université serait plus qu'apprécié.";
+
+translate "Sorry, but you must have a paid account to get leather."
+to french "Nous sommes désolés, mais pour obtenir du cuir il vous faut un compte payant.";
+
+translate "Sorry - there's a limit of 2 pieces of leather per citizen."
+to french "Désolé - Nous avons limité le cuir à deux morceaux par personne";
+
+translate "We're still setting up our seed program. Once farming research has been completed, we'll start giving away a packet of seeds to anyone interested in farming."
+to french "Nous travaillons sur notre programme de graines. Lorsque nos recherches agricoles seront achevées, nous commencerons à distribuer des graines aux personnes intéressées par l'agriculture.";
+
+translate "Sorry, but we only give seeds to citizens. Come back once you've passed the requirements."
+to french "Nous sommes désolés, mais nous ne donnons des graines qu'aux citoyens. Revenez lorsque vous aurez rempli les critères.";
+
+translate "Sorry, but you must have a paid account to get seeds."
+to french "Nous sommes désolés, mais nous ne donnons les graines qu'aux comptes payants.";
+
+translate "Each citizen is limited to a packet of N1 seeds. Our agricultural scientists have learned that under some conditions it is possible to grow additional seeds. Remember, certain crops only grow in specific soil types."
+to french "Chaque citoyen est limité à N1 graines. Nos scientifiques ont appris que dans certaines conditions, il était possible de créer de nouvelles variétés de plantes. Souvenez-vous que certaines plantes ne poussent que sur certains sols.";
+
+translate "You get 6 O1. Other people that received different kinds of seeds may be willing to trade."
+to french "Vous obtenez 6 O1(np). D'autres personnes ont reçu d'autres graines, pensez à faire des échanges.";
+
+translate "Grow vegetables while you can. A crop blight is forcast, and strains of seeds may change in the near future."
+to french "Faites pousser des légumes tant que vous le pouvez. Nos scientifiques prédisent une épidémie, et les variétés existantes pourraient changer dans un futur proche.";
+
+translate "You already got enough free flax seeds. Trade with others for different strains."
+to french "Vous avez déjà obtenu assez de graines de lin. Echangez ces graines avec d'autres personnes pour diversifier vos cultures.";
+
+translate "Flax seeds have been placed in your inventory."
+to french "Vous avez reçu des graines de lin dans votre inventaire.";
+
+translate "You can only do this during official sessions."
+to french "Vous ne pouvez faire cela qu'en session officielle.";
+
+translate "U1 is connected - you can only switch when they are logged out."
+to french "U1(name) est en ligne. Vous ne pouvez changer que lorsqu'ils sont déconnectés.";
+
+translate "Will consume N1 O1 from O2 owned by U1"
+to french "Consommation de N1 O1(N1?np:ns) de O2(ns) possédé par U1(name)";
+
+translate "You have only been given three flax seeds.  Try growing them (Plant menu) in different ways to see if you can get them to reproduce."
+to french "Nous vous avons donné seulement 3 graines de lin.";
+
+translate "Once you have figured out how to create an unlimited seed supply, start growing flax for the fibers."
+to french "Une fois que vous aurez trouvé la façon de vous faire un stock de graines, essayez de les faire pousser pour en obtenir du lin.";
+
+translate "If you do not succeed in creating more seeds, come back here in five minutes and we will give you some more."
+to french "Si vous n'avez pas réussi à obtenir d'autres graines, revenez dans cinq minutes et nous vous en donnerons d'autres.";
+
+translate "We gave you flax seeds very recently.  You need to wait five minutes between requests."
+to french "Nous vous avons donné des graines de lin il y a très peu de temps. Vous devez attendre cinq minutes entre les demandes.";
+
+translate "If you have even one flax seed, you can reproduce it.  Experiment until you figure out how."
+to french "Même s'il ne vous reste qu'une graine de lin, vous pouvez les reproduire. Expérimentez jusqu'à ce que vous découvriez comment.";

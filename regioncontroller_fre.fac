@@ -1,0 +1,76 @@
+module regioncontroller_fre;
+
+translate tributepost to french masculine
+{ ns "Bureau de la tribue"; np "Bureau de la Tribue";}
+
+translate "Arsinoe" to french "Arsinoe";
+translate "Abydos" to french "Abydos";
+translate "Meshwesh" to french "Meshwesh";
+translate "Kush" to french "Kush";
+translate "Giza" to french "Giza";
+
+translate "You have left the area controlled by The Meshwesh"
+to french "Vous avez quité la région controlée par Les Meshwesh";
+
+translate "You may find that the Citizens and Scientists of this new area are unwilling or unable to assist you."
+to french "Vous trouverez peut-être des citoyens et des scientifiques de cette nouvelle région qui refuseront de vous aider ou qui ne le pourront pas.\n";
+
+translate "You can change their minds by finding the local O1 and convincing them to align to The Meshwesh."
+to french "Vous pouvez les faire changer d'avis en trouvant O1(lns) O1(ns) et en les convainquant de s'allier avec les MeshWesh";
+
+translate "You have left the area controlled by The Hyksos"
+to french "Vous avez quité la région controlée par Les Hyksos";
+
+translate "You may find that the Citizens and Scientists of this new area are unwilling or unable to assist you."
+to french "Vous trouverez peut-être des citoyens et des scientifiques de cette nouvelle région qui refuseront de vous aider ou qui ne le pourront pas.\n";
+
+translate "You can change their minds by finding the local O1 and convincing them to align to The Hyksos."
+to french "Vous pouvez les faire changer d'avis en trouvant O1(lns) O1(ns) et en les convainquant de s'allier avec les Hyksos";
+
+translate "This region is not accepting Tribute."
+to french "Cette région n'accepte aucun tribu";
+
+translate "This region is accepting tribute to change allegiance"
+to french "Cette région accepte des tribus pour changer d'allégence";
+
+translate "Tribute required: O1"
+to french "Tribu demandé : O1(ns)";
+
+translate "Meshwesh has tributed N1 so far"
+to french "Meshwesh a donné N1 jusqu'à présent";
+
+translate "Hyksos has tributed N1 so far"
+to french "Hyksos a donné N1 jusqu'à présent";
+
+translate "Kush has tributed N1 so far"
+to french "Kush a donné N1 jusqu'à présent";
+
+translate "Arsinoe" to french "Arsinoe";
+translate "Abydos" to french "Abydos";
+translate "Meshwesh" to french "Meshwesh";
+translate "Kush" to french "Kush";
+--translate "Giza" to french "Giza";
+
+translate "K1 is now supporting the K2" to french "K1 supporte maintenant K2";
+translate "is no longer supporting anyone." to french "ne supporte plus personne";
+
+
+translate "Pay tribute"
+to french "Payez le tribu";
+
+translate "How many O1 do you wish to pay?"
+to french "Avec combien de O1(ns) voulez-vous contribuer ?";
+
+
+translate "has been taken over by "
+to french "a été soumis à ";
+
+-- translate "Arsinoe has been taken over by Meshwesh"
+-- to french "Arsinoe a été soumis à Meshwesh";
+
+translate "U1 has consumed great power, I trust they used it wisely..."
+to french "U1(name) a utilisé la grande puissance, je lui fais confiance, il l'a utilisé sagement...";
+
+translate "Join House Chat" to french "Rejoindre le chat de la house";
+
+

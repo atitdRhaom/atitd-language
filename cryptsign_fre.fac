@@ -1,0 +1,6 @@
+module CryptoSign_fre;
+
+translate CryptoSign to french feminine
+{
+  ns "Tablette étrange"; np "Tablettes étranges";
+}

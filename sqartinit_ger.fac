@@ -1,0 +1,288 @@
+Module SQArtInit_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**            German Version: Astrid "Infinyti" Werner                   **
+//**                            2012                                       **
+//**                                                                       **
+//***************************************************************************
+
+//menues
+
+translate "Build a Sculpture that others find interesting."
+to german "Baue eine Skulptur, die Andere interessant finden könnten.";
+
+translate "Make Rope"
+	to german "Stelle Seile her";
+
+translate "Make Linen"
+	to german "Stelle Leinen her";
+
+translate "Build a Sculpture Base"
+	to german "Baue eine Skulpturbaustelle";
+
+translate "Add first item to sculpture"
+	to german "Füge den 1. Gegenstand in die Skulptur ein";
+
+translate "Add 2nd item"
+	to german "Füge den 2. Gegenstand ein";
+
+translate "Add 3rd and more items"
+	to german "Füge den 3. und mehr Gegenstände ein";
+
+translate "Open for judging"
+	to german "Öffne zur Bewertung";
+
+translate "Tear down your sculpture, OR do the following:"
+	to german "Reiße deine Skulptur ab, ODER tue Folgendes:";
+
+translate "Receive 21 Interesting Votes"
+	to german "Erhalte 21 positive Bewertungen";
+
+translate "Claim Rights as an Initiate of Art & Music"
+	to german "Fordere dein Recht als Eingeweihter in Kunst und Musik ein";
+
+translate "You have completed Principles of Art and Music."
+to german "Du hast die Prinzipien der Kunst & Musik gemeistert.";
+
+translate "Are you sure you want to close this guide? You can restart it at any time."
+	to german "Bist du sicher, dass du diese Anleitung schließen möchtest? Du kannst ihn jederzeit wieder starten.";
+
+
+
+
+translate "So far: "
+to german "Bislang: ";
+
+translate "No"
+to german "Nein";
+
+translate "To prove your potential in the discipline of Art, you must build a sculpture and exhibit it.  Then, N1 people must proclaim the sculpture to be interesting."
+to german "Um dein künstlerisches Potential zu beweisen, musst du eine Skulptur erschaffen und ausstellen. N1 Spieler müssen diese Skulptur als interessant bewerten.";
+
+translate "To prove your potential in the discipline of Art, you must build a "
+to german "Um dein künstlerisches Potential zu beweisen, musst du eine ";
+translate "sculpture and exhibit it.  Then, 21 people must proclaim the "
+to german "Skulptur erschaffen und ausstellen. 21 Spieler müssen diese ";
+translate "sculpture to be interesting."
+to german "Skulptur als interessant bewerten.";
+translate "To build a sculpture, look in your Projects/Decorative menu."
+to german "Um eine Skulptur zu bauen, schaue ins Menü 'Projekte/Dekoration'.";
+translate "Equipment needed: 100 Boards, 10 Rope, and 4 Linen."
+to german "Benötigtes Material:100 Bretter,10 Seile und 4 Leinen.";
+
+translate "Decorative"
+to german "Dekoratives";
+
+translate "Build a Sculpture"
+to german "Baue eine Skulptur";
+
+translate "To build a Sculpture, you need: "
+to german "Um eine Skulptur zu bauen benötigst du: ";
+
+translate "Note: All materials that you use in a sculpture are ruined by the rods used to attach them. Don't sculpt with materials that you can not replace."
+to german "Beachte: Alle Materialien, die du für eine Skulptur benutzt werden durch das Gestänge ruiniert. Arbeite nicht mit Materialien, die du nicht ersetzen kannst.";
+
+translate "Sculpture at N1 N2 with N3 by U1"
+to german "Skulpture bei N1 N3 mit N3 von U1(name)";
+
+translate "Proclaim this to be Interesting!"
+to german "Dies als interessant bewerten!";
+
+translate "You register your vote of approval."
+to german "Du registrierst deine Stimme der Anerkennung.";
+
+translate "Open this for judging"
+to german "Zur Bewertung öffnen";
+
+translate "Only the owner of a sculpture may open it for judging."
+to german "Nur der Besitzer der Skulptur darf zur Bewertung öffnen.";
+
+//translate "Open this Sculpture for...",<<"Principles of Art and Music","The current Sculpture Contest"
+//to german 
+
+translate "Open your work for judging? This can not be undone, although it is possble to continue work after judging has started."
+to german "Dein Werk zur Bewertung öffnen? Dies kann nicht mehr rückgängig gemacht werden, auch wenn es möglich ist, die Arbeit nach dem Starten fortzuführen.";
+
+translate "Proclaim this to be an Eyesore!"
+to german "Erkläre dies zu einem Schandfleck!";
+
+translate "You register your vote of disapproval."
+to german "Du registrierst deine Stimme der Mißbilligung.";
+
+translate "Claim your rights as an Initiate of Art!"
+to german "Fordere dein Recht als Kunsteingeweihter!";
+
+translate "Tear down this Sculpture"
+	to german "Reiße diese Skulptur ab";
+
+translate "It looks like you are trying to tear down your sculpture to complete Principles of Art and Music. Is this correct?"
+	to german "Es scheint, als möchtest du deine Skulptur abreißen, um die Prinzipien der Kunst & Musik zu vervollständigen. Ist das richtig?";
+
+
+//translate "Because this sculpture was claimed under the DPPRA, you can't use it to initiate into the Discipline of Art."
+//to german "Weil diese Skulptur nach dem DPPRA übernommen wurde kannst du sie nicht als Einführung in die Kunst benutzen.";
+
+translate "Title: K1"
+to german "Titel: K1";
+
+translate "Votes so far, at least:"
+to german "Bisherige Wertungen, mindestens:";
+
+translate "* N1 Eyesore"
+to german "* N1 Schandfleck";
+
+translate "* N1 Interesting"
+to german "* N1 Interessant";
+
+translate "This sculpture is condemned, and will collapse in K1"
+to german "Diese Skulptur verdammt und wird in K1 zusammenfallen";
+
+translate "Title this Piece"
+to german "Gib deinem Kunstwerk einen Titel";
+
+translate "Enter the Title:"
+to german "Titel des Kunstwerks:";
+
+translate "My Sculpture"
+to german "Meine Skulptur";
+
+translate "Enter the Title: My Sculpture"
+to german "Titel des Kunstwerks: Meine Skulptur";
+
+translate "The maximum length for a title is 80 characters"
+to german "Maximale Bezeichnungslänge: 80 Zeichen";
+
+translate "Slashes are not allowed"
+to german "Schrägstriche sind nicht erlaubt";
+
+translate "Brackets are not allowed"
+to german "Klammern sind nicht erlaubt";
+
+translate "Empty"
+to german "Leer";
+
+translate "Move Object"
+to german "Bewege das Objekt";
+ 
+translate "Move "
+to german "Bewegen ";
+
+translate "Move N1 (empty)"
+to german "Bewege Objekt N1 (leer)";
+
+translate "Move N1 (O1)"
+to german "Bewege Objekt N1 (O1(sn))";
+
+translate "Clear Object"
+to german "Lösche das Objekt";
+
+translate "Clear N1 (O1)"
+to german "Lösche Objekt N1 (O1(sn))";
+
+translate "Clear N1 (Empty)"
+to german "Lösche Objekt N1 (leer)";
+
+translate "Really remove O1 from the sculpture? You will not get the item back."
+to german "Willst du wirklich O1(dsn) O1(sn) aus der Skulptur entfernen? Du wirst den Gegenstand nicht zurückbekommen.";
+
+translate "Load Object"
+to german "Lade Objekt";
+
+translate "Load "
+to german "Laden ";
+
+translate "Load N1 (O1)"
+to german "Bestücke Platz N1 (O1(sn))";
+
+translate "Load N1 (Empty)"
+to german "Bestücke Platz N1 (leer)";
+
+translate "Item to Add to Sculpture:"
+to german "Gegenstand der Skulptur hinzufügen:";
+
+translate "Adding a model to a sculpture would violate your artistic integrity."
+to german "Eine Arbeitsvorlage einer Skulptur hinzuzufügen würde deine künstlerische Rechtschaffenheit in Verruf bringen.";
+
+translate "Unique items cannot be used in a sculpture."
+to german "Einmalige Objekte können nicht in einer Skulptur verarbeitet werden.";
+
+translate "This particular unique item cannot be used in a sculpture."
+to german "Dieser einzigartige Gegenstand kann nicht in Skulpturen verwendet werden.";
+
+translate "You can only have one color of Raeli tile per sculpture. Remove all tiles to change the color."
+to german "Du kannst nur eine Raelikachelfarbe pro Skulptur verwenden. Entferne alle Kacheln, um die Farbe zu verändern.";
+
+translate "That item cannot be placed onto a sculpture."
+to german "Dieser Gegenstand kann nicht der Skulptur beigefügt werden.";
+
+translate "You don't have any O1"
+to german "Du hast O1(ksn) O1(sn)";
+
+translate "Movement"
+to german "Bewegung";
+
+translate "Rotation"
+to german "Drehung";
+
+translate "Editing Slot N1 (empty)"
+to german "Bearbeite Platz N1 (leer)";
+
+translate "Editing Slot N1 (O1)"
+to german "Bearbeite Platz N1 (O1(sn))";
+
+translate "Editing Slot N1"
+to german "Bearbeite Platz N1";
+
+translate "Judge"
+to german "Bewerten";
+
+translate "Score="
+to german "Punkte=";
+
+translate "[Extra]Your score for this piece is N1"
+to german "Dein Punktestand für diese Arbeit ist N1";
+
+translate "[Extra]So far, N1 judges have voted."
+to german "Bisher haben N1 Richter abgestimmt.";
+
+translate "Set Sculpture Count to 2"
+to german "Setze Skulpturzähler auf 2";
+
+translate "Set Sculpture Count to 4"
+to german "Setze Skulpturzähler auf 4";
+
+translate "Sculpture Judging Podium"
+to german "Skulpturen Wertungspodium";
+
+translate " Warning: Not all judges have voted!"
+to german " Warnung: Nicht alle Richter haben gewertet!";
+
+//translate Count: ",Place.SculptureCount," Points: ",total," ",warn," By: ",Place.Sculptor," At: ",Place->LocStr())
+//to german "
+
+translate "Slot N1:Empty"
+to german "Platz N1:leer";
+
+translate "Slot N1:O1"
+to german "Platz N1:O1(sn)";
+
+translate "This is a Monument of Egypt, as passed into law by Talies"
+to german "Dies ist ein ägyptisches Monument, festgelegt durch das Gesetz von Talies";
+
+translate "Votes so far: At least N1"
+to german "Bisherige Bewertungen: mindestens N1";
+
+translate "Condemn this sculpture"
+to german "Verfluche diese Skulptur";
+
+
+//objects
+
+translate Sculpture to german feminine
+{
+swa "Skulptur";
+  sn "Skulptur"; sg "Skulptur"; sd "Skulptur"; sa "Skulptur";
+  pn "Skulpturen"; pg "Skulpturen"; pd "Skulpturen"; pa "Skulpturen";
+}

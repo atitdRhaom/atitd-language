@@ -1,0 +1,65 @@
+module flying_fre;
+
+translate HotAirBalloon to french masculine
+{
+  ns "Ballon à air chaud"; np "Ballons à air chaud";
+}
+
+translate CollapsedBalloon to french masculine
+{
+  ns "Dirigeable endommagé"; np "Dirigeables endommagés";
+}
+
+translate "Allows the creation and operation of Flying Airships"
+to french "Permet la construction et le maniement de ballons à air chaud";
+
+translate "Ride"
+to french "Utiliser";
+
+translate "Launch the Balloon"
+to french "Lancer le ballon";
+
+translate "Land"
+to french "Atterrir";
+
+translate "Airship"
+to french "Ballon à air chaud";
+
+translate "Pliable, Fireproof Blonde boards"
+to french "Planches flexibles, ignifugées";
+
+translate "To build a Airship, you need:"
+to french "Pour assembler un ballon à air chaud, il vous faut :";
+
+translate "Pack up Airship"
+to french "Désassembler le ballon";
+
+translate "Are you sure you want to pack up this Airship?"
+to french "Voulez-vous vraiment désassembler ce ballon à air chaud ?";
+
+translate "Unpack Airship"
+to french "Assembler le ballon à air chaud";
+
+translate "Are you sure you want to unpack this Airship?"
+to french "Voulez-vous vraiment assembler ce ballon ?";
+
+translate "elevation"
+to french "Altitude";
+
+translate "A gust of wind blows you back!"
+to french "Une raffale de vent vous cloue au sol !";
+
+translate "Go Higher"
+to french "Plus haut";
+
+translate "Go Lower"
+to french "Plus bas";
+
+translate "The balloon does not seem capable of greater height."
+to french "Le ballon semble incapable d'aller plus haut.";
+
+translate "You're getting very low!"
+to french "Vous vous rapprochez dangereusement du sol !";
+
+translate "Landing..."
+to french "Atterrissage...";

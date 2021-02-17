@@ -1,0 +1,94 @@
+module command3_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-20065 by MDO Entertainment	                     **
+//**                                                                       **
+//***************************************************************************
+
+
+translate "Public"
+to german "Öffentlich";
+
+translate "K1 is not an Entity."
+to german "K1 ist kein Ding.";
+
+translate "Name not found."
+to german "Name nicht gefunden.";
+
+translate "Owners list is "
+to german "Liste der Eigentümer ";
+
+translate "Vote Status: "
+to german "Wahlbericht: ";
+
+translate "U1 voted for U2 "
+to german "U1(name) wählte U2(name)";
+
+translate "U1 doesn't seem to be part of a DPD Chat Channel."
+to german "U1(name) scheint kein Teil eines DPD Chatkanals zu sein.";
+
+translate "yes"
+to german "Ja";
+
+translate " (connected)\n"
+to german " (Online)\n";
+
+translate " (disconnected)\n"
+to german " (Offline)\n";
+
+translate "Not a player: "
+to german "Kein Spieler: ";
+
+translate "Empty Field: K1 on player U1"
+to german "Leeres Feld: K1 bei Spieler U1(name)";
+
+translate "Channel not found: "
+to german "Chatkanal nicht gefunden:";
+
+translate "Could not find "
+to german "Unauffindbar ";
+
+translate "No home/house for "
+to german "Keine Heimat/kein Haus für ";
+
+translate "Man"
+to german "Mann";
+
+translate "Woman"
+to german "Frau";
+
+translate "Male"
+to german "Männlich";
+
+translate "Female"
+to german "Weiblich";
+
+translate "Not a skill."
+to german "Dies ist kein Skill";
+
+translate "Extend Someone's Free Account Time"
+to german "Kürze freie Spielzeit eines Testaccounts";
+
+translate "Name of player to extend account?"
+to german "Name des Spielers des zu kürzenden Accounts?";
+
+translate "Only expired or free accounts, not K1 accounts."
+to german "Nur abgel. oder freie Accounts, keine K1 Accounts.";
+
+translate "How many hours? Current number is "
+to german "Wieviele Stunden? Momentane Nummer ist ";
+
+translate "Extended trail time on user U1 by N1 hours."
+to german "Gekürzte Trialzeit für Spieler U1(name) von N1 Stunden.";
+
+translate "Your account is now paid."
+to german "Dein Account ist jetzt bezahlt.";
+
+translate "Not a Physical: K1 "
+to german "Körperlos: K1";
+
+translate "Banner code is U1"
+to german "Bannercode ist U1(name)";

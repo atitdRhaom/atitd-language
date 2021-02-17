@@ -1,0 +1,157 @@
+module geb_fre;
+
+translate StatueOfGeb to french feminine
+{
+ns "Statue de Geb"; np "Statues de Geb";
+}
+translate StatueOfNut to french feminine
+{
+ns "Statue de Nut"; np "Statues de Nut";
+}
+
+translate "Festival of Geb and Nut"
+to french "Festival en l'honneur de Geb et Nut";
+
+translate "Come Egypt.  Let us celebrate Nut, goddess of the sky and the heavens, and her husband-brother, Geb, the god of the earth.  This is thier festival, thier celebration."
+to french "Approche, peuple de l'Egypte.  Gloire à Nut, déesse du ciel et des cieux, et à son mari et frère à la fois, Geb, le dieu de la terre.  Ce festival et cette fête leur sont consacrés.";
+
+translate "The Festival of Geb and Nut has now started.  Please seek out and honor the couple.  Meditate on their statues across Egypt to see what sacrifice they want.  The priests inform me that only the first sacrifice of an item by someone is acceptable to the couple.  Make it worth it.  "
+to french "Le festival en l'honneur de Geb et Nut commence. A vous de chercher et d'honorer le couple. Recueillez-vous sur leurs statues à travers l'Egypte, et voyez quels sacrifices ils souhaitent.  Les prêtres m'informent que seul le premier sacrifice d'un type d'objet donné est accepté par le couple divin, agissez donc en homme refléchi.";
+
+translate "The Festival of Geb and Nut has now concluded.  The priests will be making thier awards shortly."
+to french "Le festival en l'honneur de Geb et Nut vient de se conclure.  Les prêtres vont remettre leurs récompenses dans un instant.";
+
+translate " (Done)"
+to french " (Achevé)";
+
+translate "Make a sacrifice to this K1"
+to french "Faire un sacrifice à cette K1";
+
+translate "You have already honored this K1 with K2. Try at a later time."
+to french "Vous avez déjà honorer cette K1 avec des K2. Réessayez plus tard.";
+
+translate "Sacrifice how many K1?"
+to french "Sacrifier combien de K1 ?";
+
+translate "Honor Geb with a Medium Topaz"  
+to french "Honorer Geb avec un topaze moyen";   
+translate "Honor Geb with 600 Copper Ore" 
+to french "Honorer Geb avec 600 minerais de cuivre";   
+translate "Honor Geb with 700 Limestone"  
+to french "Honorer Geb avec 700 pierres calcaires";   
+translate "Honor Geb with 700 Sand"   
+to french "Honorer Geb avec 700 mesures de sable";   
+translate "Honor Geb with 100 White Sand"     
+to french "Honorer Geb avec 100 mesures de sable blanc";   
+translate "Honor Geb with a pail of red sand"   
+to french "Honorer Geb avec une mesure de sable rouge";   
+translate "Honor Geb with a deben of Lead Ore"  
+to french "Honorer Geb avec une mesure de minerai de plomb";   
+translate "Honor Geb with 800 clay"           
+to french "Honorer Geb avec 800 mesures de glaise";   
+translate "Honor Geb with 3 pieces of flint"  
+to french "Honorer Geb avec 3 pierres à feu";   
+translate "Honor Nut with 500 Honey"       
+to french "Honorer Nut avec 500 mesures de miel";   
+translate "Honor Nut with 50 Papyrus"     
+to french "Honorer Nut avec 50 Papyrus";   
+translate "Honor Nut with 600 Flax"      
+to french "Honorer Nut avec 600 mesures de lin";   
+translate "Honor Nut with 500 Leeks"     
+to french "Honorer Nut avec 500 poireaux";   
+translate "Honor Nut with 700 Carrots"  
+to french "Honorer Nut avec 700 carottes";   
+translate "Honor Nut with 500 Garlic"    
+to french "Honorer Nut avec 500 gousses d'ail";   
+translate "Honor Nut with 100 Cabbage"   
+to french "Honorer Nut avec 100 choux";  
+translate "Honor Nut with 7 Dates"      
+to french "Honorer Nut avec 7 dattes";   
+translate "Honor Nut with a single cabbage seed"
+to french "Honorer Nut avec une seule graine de chou";   
+translate "Honor Nut with ten vials of Cactus Sap"
+to french "Honorer Nut avec 10 fioles de sève de cactus"; 
+
+translate "Honor Geb with a Medium Topaz (done)"  
+to french "Honorer Geb avec un topaze moyen (Achevé)";   
+translate "Honor Geb with 600 Copper Ore (done)" 
+to french "Honorer Geb avec 600 minerais de cuivre (Achevé)";   
+translate "Honor Geb with 700 Limestone (done)"  
+to french "Honorer Geb avec 700 pierres calcaires (Achevé)";   
+translate "Honor Geb with 700 Sand (done)"   
+to french "Honorer Geb avec 700 Sand (Achevé)";   
+translate "Honor Geb with 100 White Sand (done)"     
+to french "Honorer Geb avec 100 mesures de sable blanc (Achevé)";   
+translate "Honor Geb with a pail of red sand (done)"   
+to french "Honorer Geb avec une mesure de sable rouge (Achevé)";   
+translate "Honor Geb with a deben of Lead Ore (done)"  
+to french "Honorer Geb avec une mesure de minerai de plomb (Achevé)";   
+translate "Honor Geb with 800 clay (done)"           
+to french "Honorer Geb avec 800 mesures de glaise (Achevé)";   
+translate "Honor Geb with 3 pieces of flint (done)"  
+to french "Honorer Geb avec 3 pierres à feu (Achevé)";   
+translate "Honor Nut with 500 Honey (done)"       
+to french "Honorer Nut avec 500 mesures de miel (Achevé)";   
+translate "Honor Nut with 50 Papyrus (done)"     
+to french "Honorer Nut avec 50 Papyrus (Achevé)";   
+translate "Honor Nut with 600 Flax (done)"      
+to french "Honorer Nut avec 600 mesures de lin (Achevé)";   
+translate "Honor Nut with 500 Leeks (done)"     
+to french "Honorer Nut avec 500 poireaux (Achevé)";   
+translate "Honor Nut with 700 Carrots (done)"  
+to french "Honorer Nut avec 700 carottes (Achevé)";   
+translate "Honor Nut with 500 Garlic (done)"    
+to french "Honorer Nut avec 500 gousses d'ail (Achevé)";   
+translate "Honor Nut with 100 Cabbage (done)"   
+to french "Honorer Nut avec 100 choux (Achevé)";  
+translate "Honor Nut with 7 Dates (done)"      
+to french "Honorer Nut avec 7 dattes (Achevé)";   
+translate "Honor Nut with a single cabbage seed (done)"
+to french "Honorer Nut avec une seule graine de chou (Achevé)";   
+translate "Honor Nut with ten vials of Cactus Sap (done)"
+to french "Honorer Nut avec 10 fioles de sève de cactus (Achevé)"; 
+
+translate "You don't have N1 O1."
+to french "Vous n'avez pas N1 O1(N1?np:ns)";
+translate "You don't have N1 K1."
+to french "Vous n'avez pas N1 K1";
+
+translate "Your sacrifice of N1 different kinds of offering is one of the best in the land. Geb and Nut's highest blessing is certain."
+to french "Votre sacrifice de N1 différentes sortes d'offrandes fait parti des meilleurs sacrifices du pays. Geb et Nut vous accorderont certainement leur bénédiction.";
+
+translate "Your sacrifice earns you Geb and Nut's blessing."
+to french "Votre sacrifice vous vaut la bénédiction de Geb et Nut.";
+
+translate "Your sacrifice of N1 different kinds of offering earns you Geb and Nut's blessing."
+to french "Votre sacrifice de N1 différentes sortes d'offrandes vous vaut la bénédiction de Geb et Nut.";
+
+translate "Meditate on the statue"
+to french "Méditer auprès de la statue";
+
+translate "No vision presents itself. Perhaps the festival has not started yet."
+to french "Vous n'avez pas de vision. Peut-être le festival n'a t'il pas encore commencé ?";
+
+translate "This O1 requires a sacrifice of at LEAST N1 K1."
+to french "O1(cns) O1(ns) demande un sacrifice d'au MOINS N1 K1.";
+
+translate "Geb and Nut have been honored with N1 offerings by:"
+to french "Geb et Nut ont reçu N1 sacrifices de la part de:";
+translate "U1"
+to french "U1(name)";
+translate "and others."
+to french "et autres.";
+translate "U1 and others."
+to french "U1(name) et autres.";
+
+translate "U1 has made N1 offerings."
+to french "U1(name) a effectué N1 offrandes.";
+
+translate "See my score for this building (dev only)"
+to french "Afficher mon score pour cet édifice (Dev seulement)";
+
+translate "Your sacrifice of K1 K2 has been accepted."
+to french "Votre sacrifice de K1 K2 a été accepté.";
+
+translate "No Sacrifices, No Score"
+to french "Aucun sacrifice, aucun score";
+

@@ -1,0 +1,212 @@
+Module crystalacoustics_fre;
+
+
+translate PureChime to french masculine
+{
+  ns "Carillon parfait"; np "Carillons parfaits";
+}
+
+translate crystalacoustics to french masculine
+{
+  ns "Sons de crystal"; np "Sons de crystal";
+}
+
+translate AcousticsLaboratory to french masculine
+{
+  ns "Laboratoire acoustique"; np "Laboratoires acoustiques";
+}
+
+translate "Allows Acoustic Laboratories, capable of tuning simple glass rods into melodic chimes."
+to french "Permet de construire des laboratoires acoustiques, capables de régler de simples tiges de verre en carillons mélodieux.";
+
+translate "To build a Accoustics Laboratory you need:"
+to french "Pour construire un laboratoire acoustique, il vous faut :";
+
+translate "Wool Cloth for sound insulation"
+to french "Tissus de laine pour l'insonorisation";
+
+translate "Laboratories"
+to french "Laboratoires";
+
+translate "Acoustics Laboratory"
+to french "Laboratoire acoustique";
+
+translate "Steel Sheeting (Fireproof Surface)"
+to french "Revêtement d'acier (surface à l'épreuve du feu)";
+
+translate "Steel wire to hang the curing chimes"
+to french "fils d'acier pour suspendre les carillons";
+
+translate "Cut Stone (Foundation Base)"
+to french "Pierres taillées (pour la base)";
+
+translate "Rigid Fireproof boards for Brazier Support (Bottom)"
+to french "Planches ignifuges rigides pour le support du brasier (base)";
+
+translate "Hard Fireproof boards for Brazier Support (Top)"
+to french "Planches ignifuges dures pour support du brasier (haut)";
+
+translate "Soft, pliable boards for Finishing Area"
+to french "Planches flexibles en bois mou pour la finition";
+
+translate "Hard but pliable boards for Finishing Area supports"
+to french "Planches en bois dur, mais flexibles pour la finition";
+
+translate "Black Raeli Tiles (Bench Surface)"
+to french "Tuiles Raeli blanches(surface)";
+
+translate "White Raeli Tiles (Bench Surface)"
+to french "Tuiles Raeli noires(surface)";
+
+translate "Concrete (Base)"
+to french "Béton (base)";
+
+translate "Tuning"
+to french "Réglage";
+
+translate "Plunge into Hot Water"
+to french "Plonger dans l'eau chaude";
+
+translate "Plunge into Cold Water"
+to french "Plonger dans l'eau froide";
+
+translate "Stress with Shearing Force"
+to french "Tester la résistance";
+
+translate "Bathe in Quicksilver"
+to french "Tremper dans le mercure";
+
+translate "Shine with Silk Cloth"
+to french "Polir avec de la soie";
+
+translate "Clean with Worm Spirits"
+to french "Nettoyer à l'aide d'extrait de ver";
+
+translate "Mill with Aluminum Powder"
+to french "Moudre avec de la poudre d'aluminium";
+
+translate "Expose to Intense Light"
+to french "Exposer à la lumière intense";
+
+translate "Shock against Heavy Block"
+to french "Frapper contre un bloc solide";
+
+translate "Polish using Rabbit Pelts"
+to french "Polir en utilisant des peaux de lapin";
+
+translate "Coat in Beeswax"
+to french "Enduire de cire d'abeille";
+
+translate "Looped too many times"
+to french "Trop de répétition";
+
+translate "Upgrades"
+to french "Améliorations";
+
+translate "Install a Hot Water Bath"
+to french "Installer un bain d'eau chaude";
+
+translate "Install a Cold Water Bath"
+to french "Installer un bain d'eau froide";
+
+translate "Add a Quicksilver Bath"
+to french "Ajouter un bain de mercure";
+
+translate "Install Shearing Clamp"
+to french "Installez une pince coupante";
+
+translate "Set up a Reflectory"
+to french "Mettre un réflecteur en place";
+
+translate "Create a Tumbling Chamber"
+to french "Créer une chambre de culbutage";
+
+//translate "Create a Tumbling Chamber"
+//to french "";
+
+translate "Outfit with a set of Silks"
+to french "Équiper de tissus de soie";
+
+translate "Add a Spirits Cistern"
+to french "Ajouter un réservoir à extraits";
+
+translate "Select the Worm Spirit (Fire or better):"
+to french "Choisir l'extrait de ver (feu ou mieux)";
+
+translate "You must select a spirit"
+to french "Vous devez choisir un extrait";
+
+translate "You must select a Worm Spirit."
+to french "Vous devez choisir un extrait de ver";
+
+translate "Your Worm Spirits must be of Fire or better quality."
+to french "Vos extraits de ver doivent être au moins de feu ou de meilleure qualité.";
+
+translate "You need 10 K1."
+to french "Vous avez besoin de 10 K1.";
+
+translate "Fit a Marble Base"
+to french "Installer une base de marbre";
+
+translate "Fill Fine Mill with Aluminum Powder"
+to french "Mettre de la poudre d'aluminium dans le moulin de précision.";
+
+translate "Pour a Heavy Block of Concrete"
+to french "Ajouter un bloc de béton";
+
+translate "Line Slide Winch with Rabbit Pelts"
+to french "Équiper le tendeur avec des peaux de lapin";
+
+translate "Attach a Cauldron of Beeswax"
+to french "Ajouter un chaudron de cire d'abeille";
+
+translate "Store a supply of Cactus Sap"
+to french "Mettre une réserve de sève de cactus";
+
+translate "Play this chime"
+to french "Faire jouer ce carillon";
+
+translate "The sound is as pure as crystal. You hear: "
+to french "Le son a la pureté du cristal. Vous entendez: ";
+
+translate "The sound is as pure as water after a rain. You think you hear: "
+to french "Le son a la pureté de l'eau après la pluie. Vous croyez entendre: ";
+
+translate "The sound is as pure as sandstorm air. It's hard to say what you hear."
+to french "Le son a la pureté de l'air d'une tempête de sable. Il est difficile de dire ce que vous entendez.";
+
+translate "The sound is as pure as a charcoal oven's smokestack."
+to french "Le son a la pureté d'une fumée de four à charbon.";
+
+translate "Unexpected Purity. Call a developer."
+to french "Niveau de pureté non prévu. Appelez un développeur.";
+
+translate "Shatter (discard) this Chime"
+to french "Briser (jeter) ce carillon";
+
+translate "Are you sure you want to shatter the chime?"
+to french "Vous voulez vraiment briser ce carillon?";
+
+translate "Remove this Chime"
+to french "Retirer ce carillon";
+
+translate "The chime's melody is not pure."
+to french "La mélodie de ce carillon n'est pas pure.";
+
+translate "Chime out of range"
+to french "Carillon hors normes";
+
+translate "Start working a Wind Chime"
+to french "Commencer à faire un carillon";
+
+translate "AcousticsLaboratory not initialized. Call a developer."
+to french "AcousticsLaboratory n'est pas validé. Appelez un développeur.";
+
+translate "You need a Fine Glass Rod."
+to french "Vous avez besoin d'une belle tige de verre.";
+
+translate ""
+to french "";
+
+translate ""
+to french "";

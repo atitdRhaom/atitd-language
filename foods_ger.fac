@@ -1,0 +1,36 @@
+module foods_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment      	           **
+//**                                                                       **
+//***************************************************************************
+
+translate ChickenMeat to german neutercollective
+{
+  swa "Hühnerfleisch";
+  sn "Hühnerfleisch"; sg "Hühnerfleisches"; sd "Hühnerfleisch"; sa "Hühnerfleisch";
+  pn "Hühnerfleisch"; pg "Hühnerfleisch"; pd "Hühnerfleisch"; pa "Hühnerfleisch";
+}
+translate "Malagueta"
+to german "Fahrt";
+
+translate "Osho Sho"
+to german "Osho Sho";
+
+translate "Ukpo"
+to german "Ukpo";
+
+translate "Korerima"
+to german "Korerima";
+
+translate "Rooibos"
+to german "Rotbusch";
+
+translate "Baobab"
+to german "Baobab";
+
+translate "Kuka"
+to german "Kuka";

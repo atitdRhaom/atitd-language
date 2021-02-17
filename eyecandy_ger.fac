@@ -1,0 +1,42 @@
+module eyecandy_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Games **
+//**    (C)opyright 2002,2003 MDO Games			 	           **
+//**                                                                       **
+//***************************************************************************
+
+//menues
+
+//objects
+translate Hawk to german masculine
+{
+  swa "schwerer Fels";
+  sn "schwere Fels"; sg "schweren Felses"; sd "schweren Fels"; sa "schweren Fels";
+  pn "schweren Felsen"; pg "schweren Felsen"; pd "schweren Felsen"; pa "schweren Felsen";
+}
+translate SulfurCloud to german feminine
+{
+  swa "Schwefelwolke";
+  sn "Schwefelwolke"; sg "Schwefelwolke"; sd "Schwefelwolke"; sa "Schwefelwolke";
+  pn "Schwefelwolken"; pg "Schwefelwolken"; pd "Schwefelwolken"; pa "Schwefelwolken";
+}
+translate Fountain to german masculinecollective
+{
+  swa "Springbrunnen";
+  sn "Springbrunnen"; sg "Springbrunnens"; sd "Springbrunnen"; sa "Springbrunnen";
+  pn "Springbrunnen"; pg "Springbrunnen"; pd "Springbrunnen"; pa "Springbrunnen";
+}
+translate DriedFountain to german masculinecollective
+{
+  swa "verfallener Springbrunnen";
+  sn "verfallene Springbrunnen"; sg "verfallenen Springbrunnens"; sd "verfallenen Springbrunnen"; sa "verfallenen Springbrunnen";
+  pn "verfallenen Springbrunnen"; pg "verfallenen Springbrunnen"; pd "verfallenen Springbrunnen"; pa "verfallenen Springbrunnen";
+}
+
+//texts
+
+translate "This rock is unusually heavy."
+to german "Dieser Fels ist unnatürlich schwer.";

@@ -1,0 +1,169 @@
+module thistle_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment		           **
+//**                                                                       **
+//***************************************************************************
+
+
+translate ThistleSeeds to german feminin
+{
+  swa "Distelsaat";
+  sn "Distelsaat"; sg "Distelsaat"; sd "Distelsaat"; sa "Distelsaat";
+  pn "Distelsaaten"; pg "Distelsaaten"; pd "Distelsaaten"; pa "Distelsaaten";
+}
+
+translate ThistleGarden to german masculine
+{
+  swa "Distelgarten";
+  sn "Distelgarten"; sg "Distelgarten"; sd "Distelgarten"; sa "Distelgarten";
+  pn "Distelgarten"; pg "Distelgarten"; pd "Distelgarten"; pa "Distelgarten";
+}
+
+translate Thistle to german feminin
+{
+  swa "Distel";
+  sn "Distel"; sg "Distel"; sd "Distel"; sa "Distel";
+  pn "Disteln"; pg "Disteln"; pd "Disteln"; pa "Disteln";
+}
+
+translate "Grow thistle, a nutritious food for sheep, silkworms, and other animals."
+to german "Pflanze Disteln an, ein nahrhaftes Nahrungsmittel für Schafe, Seidenwürmer und andere Tiere.";
+
+translate "Dung (a fertilizer)"
+to german "Dung (Dünger)";
+
+translate "Saltpeter (a fertilizer)"
+to german "Salpeter (Dünger)";
+
+translate "Dirt, for the plant beds"
+to german "Schmutz für die Pflanzbeete";
+
+translate "Copper Straps, to build planters"
+to german "Kupferschlaufen für Wachstumshilfen";
+
+translate "Nails, to build planters"
+to german "Nägel für Wachstumshilfen";
+
+translate "Rotproof termite-resistant boards"
+to german "Moderbeständige, termitenresistente Bretter";
+
+translate "Rotproof nontoxic boards"
+to german "Moderbeständige, ungiftige Bretter";
+
+translate "Onions, for nutrient comparison"
+to german "Zwiebeln, für Nährstoffvergleich";
+
+translate "K1 (Completed)"
+to german "K1 (Komplett)";
+
+translate "You learn how to build a thistle garden. You have been given 5 thistle seeds."
+to german "Du hast Distel-Gartenbau gelernt. Dir wurden 5 Distelsaaten gegeben.";
+
+translate "Thistle Garden"
+to german "Distelgarten";
+
+translate "To build a Thistle Garden, you need:"
+to german "Um einen Distelgarten zu bauen benötigst du:";
+
+translate "Info: Read about Thistle Gardens"
+to german "Info: Lese etwas über den Distelgarten";
+
+translate "Information about Thistle Gardens"
+to german "Informationen über den Distelgarten";
+
+translate "Thistle is a weed that is impossible to kill: if you plant it, it will grow.  Thistle is edible to many insects and animals, and it can contain a surprising variety of vitamins. The amount of vitamins produced depends on how the thistle was cared for. "
+to german "Disteln sind ein schwer zu vernichtendes Unkraut: wenn du es anpflanzt, wird es wachsen. Disteln sind für viele Insekten und Tiere genießbar, und sie können verschiedene Vitamine enthalten. Die Anzahl der Vitamine, die produziert werden, liegt in der Sorgfalt der Behandlung. ";
+
+translate "The readout shows five nutrients.  You can adjust these directly by pushing the appropriate button.  They are: "
+to german "In der Nährstofftafel werden 5  Nährstoffe angezeigt.  Du kannst diese dazugeben, wenn du die dazugehörigen Buttons drückst.  Diese sind: ";
+
+translate "  Nit (nitrogen, a nutrient, from dung)"
+to german "  Nit (Nitrogen, ein Nährstoff aus Dung)";
+
+translate "  Pot (potassium, a nutrient, from saltpeter)"
+to german "  Pot (Potassum, ein Nährstoff aus Salpeter)";
+
+translate "  H20 (water, a nutrient, applied directly)"
+to german "  H2O (Wasser, ein direkter Nährstoff)";
+
+translate "  Oxy (oxygen, a nutrient, from aerating the soil)"
+to german "  Oxy (Oxygen, ein Nährstoff aus Kohlendioxid gesättigten Boden)";
+
+translate "  Sun (sunlight, a nutrient, controlled using the canopy)"
+to german "  Sun (Sonnenlicht, ein Nährstoff, durch die Abdeckhaube kontrolliert)";
+
+translate "The readout also shows seven vitamins:"
+to german "Angezeigt werden außerdem 7 Vitamine: ";
+
+translate "  Asc (ascorbin, a vitamin)"
+to german "  Asc (Ascorbin, ein Vitamin)";
+
+translate "  Bio (biotin, a vitamin)"
+to german "  Bio (Biotinm ein Vitamin)";
+
+translate "  Car (carotene, a vitamin)"
+to german "  Car (Karotin, ein Vitamin)";
+
+translate "  Fol (folin, a vitamin)"
+to german "  Fol (Folin, ein Vitamin)";
+
+translate "  Nia (niacin, a vitamin)"
+to german "  Nia (Niacin, ein Vitamin)";
+
+translate "  Pyr (pyroxidine, a vitamin)"
+to german "  Pyr (Pyroxidin, ein Vitamin)";
+
+translate "  Thi (thiamine, a vitamin)"
+to german "  Thi (Thiamin, ein Vitamin)";
+
+translate "As it grows, the thistle converts nitrogen or potassium into vitamins, and it converts vitamins into other vitamins.  For example:"
+to german "Wenn die Distel wächst, wird Nitrogen oder Potassium in Vitamine umgewandelt und Vitamine wieder in andere Vitamine. Zum Beispiel: ";
+
+translate "  If H20 is high enough, thistle converts Nit to Asc."
+to german "  Wenn der Wassergehalt hoch genug ist, wird Nit in Asc umgewandelt.";
+
+translate "  If Sun is low  enough, thistle converts Asc to Car."
+to german "  Wenn der Sonneneinfluss niedrig gehalten wird, wird Asc in Car umgewandelt.";
+
+translate "  If Oxy is high enough, thistle converts Car to Asc."
+to german "  Wenn Oxy hoch genug ist, wird Car in Asc umgewandelt.";
+
+translate "It will take experimentation to learn all the things that thistle can convert.  Once you know what it can convert, and under what conditions, you can encourage it to produce the vitamins you need."
+to german "Um alle Dinge zu lernen die umgewandelt werden können, benötigt es Zeit und man muss experimentieren. Wenn du einmal weißt, wie was umgewandelt werden kann und unter welchen Voraussetzungen, wirst du es steuern können, die Vitamine zu bekommen, die du brauchst.";
+
+translate "Thistle is affected by day-to-day weather variation. On certain days, thistle just won't do certain conversions. Every morning, you will have to test the thistle to see which conversions it will do, and make your plans accordingly."
+to german "Disteln werden von der Wetterveränderung beeinflusst. An bestimmten Tagen wandeln Disteln bestimmte Vitamine nicht um.";
+
+translate "Crop: Abort the crop"
+to german "Anbau: Anpflanzung abbrechen";
+
+translate "Nothing is growing yet."
+to german "Es ist nichts angepflanzt.";
+
+translate "Crop: Plant a Crop"
+to german "Anbau: Anpflanzen";
+
+translate "Crop: Harvest the Crop"
+to german "Anbau: Ernten";
+
+translate "You must wait until the thistle is full-grown (the counter will read N1)"
+to german "Du mußt warten, bis die Distel ausgewachsen ist (Der Zähler muss N1 betragen)";
+
+translate "You do not have any thistle seeds"
+to german "Du hast keine Distelsaaten";
+
+translate "You can only adjust nutrient levels when the thistle is growing."
+to german "Du kannst die Nährstoffe nur zugeben, während die Distel wächst.";
+
+translate "You do not have any "
+to german "Du besitzt kein ";
+
+translate "You can only tend the garden when the thistle is growing"
+to german "Du kannst den Garten nur bedienen, während die Distel wächst";
+
+translate "This nutrient chart will begin to fill when the thistle is planted."
+to german "Die Nährstofftafel beginnt mitzuschreiben, sobald die Distel angepflanzt ist.";

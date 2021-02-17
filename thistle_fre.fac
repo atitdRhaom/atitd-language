@@ -1,0 +1,180 @@
+module thistle_fre;
+
+translate ThistleSeeds to french feminine
+{
+  ns "Graine de chardon"; np "Graines de chardons";
+}
+
+translate ThistleGarden to french masculine
+{
+  ns "Jardin de chardons"; np "Jardins de chardons";
+}
+
+translate Thistle to french masculine
+{
+  ns "Chardon"; np "Chardons";
+}
+
+translate "Grow thistle, a nutritious food for sheep, silkworms, and other animals."
+to french "Faire pousser du chardon, un aliment nourrissant pour les moutons, les vers à soie et d'autres animaux.";
+
+translate "Current Batch Size is: N1"
+to french "La Quantité actuelle  est de : N1";
+
+translate "You do not have enough thistle seeds"
+to french "Vous n'avez pas assez de graines de chardons";
+
+translate "You set the batch size to: N1"
+to french "Vous avez défini la quantité de chardons à : N1";
+
+translate "Dung (a fertilizer)"
+to french "Fumier (engrais)";
+
+translate "Saltpeter (a fertilizer)"
+to french "Salpêtre (engrais)";
+
+translate "Dirt, for the plant beds"
+to french "Terreau pour les plantations";
+
+translate "Copper Straps, to build planters"
+to french "Bandes de cuivre pour la plantation";
+
+translate "Nails, to build planters"
+to french "Clous pour la plantation";
+
+translate "Rotproof termite-resistant boards"
+to french "Planches imputrescibles et anti-termites";
+
+translate "Rotproof nontoxic boards"
+to french "Planches imputrescibles non toxiques";
+
+translate "Onions, for nutrient comparison"
+to french "Oignons pour les comparaisons nutritionnelles";
+
+translate "K1 (Completed)"
+to french "K1 (Achevé)";
+
+translate "Make small batches (5)" to french "Faire un petit batch (5)";
+translate "Make medium batches (25)" to french "Faire un batch moyen (25)";
+translate "Make large batches (50)" to french "Faire un grand batch (50)";
+
+translate "You learn how to build a thistle garden. You have been given 5 thistle seeds."
+to french "Vous avez appris à construire des jardins de chardons. Vous avez reçu 5 graines de chardons.";
+
+translate "Thistle Garden"
+to french "Jardin de chardons";
+
+translate "Rotproof termite-resistant"
+to french "Planches imputrescibles et anti-termites";
+
+translate "Rotproof nontoxic boards"
+to french "Planches imputrescibles non toxiques";
+
+translate "Info: Read about Thistle Gardens"
+to french "Info : Eléments sur les jardins de chardons";
+
+translate "Information about Thistle Gardens"
+to french "Eléments sur les jardins de chardons";
+
+translate "Thistle is a weed that is impossible to kill: if you plant it, it will grow.  Thistle is edible to many insects and animals, and it can contain a surprising variety of vitamins. The amount of vitamins produced depends on how the thistle was cared for. "
+to french "Le chardon est une plante impossible à éradiquer. Si vous la plantez, elle pousse. Le chardon est consommé par de nombreux insectes et animaux, et il peut contenir une surprenante diversité de vitamines. La variété de vitamines dépend des soins apportés au chardon pendant sa pousse.";
+
+translate "The readout shows five nutrients.  You can adjust these directly by pushing the appropriate button.  They are: "
+to french "L'affichage montre cinq éléments nutritionnels. Vous pouvez les régler directement en cliquant sur les boutons appropriés. Ces éléments sont :";
+
+translate "  Nit (nitrogen, a nutrient, from dung)"
+to french "  Az (Azote, un élément provenant du fumier)";
+
+translate "  Pot (potassium, a nutrient, from saltpeter)"
+to french "  Pot (Potassum, un élément provenant du salpêtre)";
+
+translate "  H20 (water, a nutrient, applied directly)"
+to french "  H2O (Eau, un élément apporté par arrosage)";
+
+translate "  Oxy (oxygen, a nutrient, from aerating the soil)"
+to french "  Oxy (Oxygène, un élément obtenu par aération du sol)";
+
+translate "  Sun (sunlight, a nutrient, controlled using the canopy)"
+to french "  Sun (Soleil, un élément contrôlé en utilisant la couverture)";
+
+translate "The readout also shows seven vitamins:"
+to french "Il existe aussi sept vitamines : ";
+
+translate "  Asc (ascorbin, a vitamin)"
+to french "  Asc (Ascorbine)";
+
+translate "  Bio (biotin, a vitamin)"
+to french "  Bio (Biotine)";
+
+translate "  Car (carotene, a vitamin)"
+to french "  Car (Carotène)";
+
+translate "  Fol (folin, a vitamin)"
+to french "  Fol (Foline)";
+
+translate "  Nia (niacin, a vitamin)"
+to french "  Nia (Niacine)";
+
+translate "  Pyr (pyroxidine, a vitamin)"
+to french "  Pyr (Pyroxidine)";
+
+translate "  Thi (thiamine, a vitamin)"
+to french "  Thi (Thiamine)";
+
+translate "As it grows, the thistle converts nitrogen or potassium into vitamins, and it converts vitamins into other vitamins.  For example:"
+to french "En poussant, le chardon convertit l'azote ou le potassium en vitamines, et convertit les vitamines en autres vitamines. Par exemple :";
+
+translate "  If H20 is high enough, thistle converts Nit to Asc."
+to french "  S'il y a assez d'eau, le chardon convertit l'azote en ascorbine.";
+
+translate "  If Sun is low  enough, thistle converts Asc to Car."
+to french "  S'il y a assez de soleil, le chardon convertit l'ascorbine en carotène.";
+
+translate "  If Oxy is high enough, thistle converts Car to Asc."
+to french "  S'il y a assez d'oxygène, le chardon convertit la carotène en ascorbine.";
+
+translate "It will take experimentation to learn all the things that thistle can convert.  Once you know what it can convert, and under what conditions, you can encourage it to produce the vitamins you need."
+to french "Vous devrez faire des expériences pour apprendre toutes les choses que le chardon peut ainsi convertir. Vous pourrez alors créer les conditions nécessaires à l'obtention des vitamines dont vous avez besoin.";
+
+translate "Thistle is affected by day-to-day weather variation. On certain days, thistle just won't do certain conversions. Every morning, you will have to test the thistle to see which conversions it will do, and make your plans accordingly."
+to french "Le chardon est sensible aux variations climatiques au jour le jour. Certains jours, le chardon ne fera pas certaines conversions. Chaque matin, vous devrez tester les chardons pour voir les conversions qu'il effectuera, et planifier votre travail en conséquence.";
+
+translate "Crop: Abort the crop"
+to french "Plantation : arrêter";
+
+translate "Nothing is growing yet."
+to french "Rien ne pousse encore.";
+
+translate "Crop: Plant a Crop"
+to french "Plantation : planter";
+
+translate "Crop: Harvest the Crop"
+to french "Plantation : cueillir";
+
+translate "You must wait until the thistle is full-grown (the counter will read N1)"
+to french "Vous devez attendre que le chardon ait poussé (le compteur affichera N1)";
+
+translate "You do not have any thistle seeds"
+to french "Vous n'avez pas de graines de chardon";
+
+translate "You do not have any or enough O1"
+to french "Vous n'avez pas assez de O1(ns)";
+
+translate "Are you sure you want to abort the crop?"
+to french "Etes-vous certain de vouloir interrompre la récolte ?";
+
+translate "You can only adjust nutrient levels when the thistle is growing."
+to french "Vous ne pouvez ajuster les niveaux de nutriments que lorsque le chardon est en phase de croissance.";
+
+translate "Upgrade Thistle Garden for larger batches"
+to french "Amélorez les jardins à chardons pour de plus grandes quantités";
+
+translate "To upgrade this thistle garden you need:"
+to french "Pour améliorez ce jardin à chadons, il vous faut:";
+
+translate "You can only tend the garden when the thistle is growing"
+to french "Vous ne pouvez entretenir le jardin que lorsque le chardon est en phase de croissance";
+
+translate "This nutrient chart will begin to fill when the thistle is planted."
+to french "Cette table de nutriments se remplira à la plantation des chardons.";
+

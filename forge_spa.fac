@@ -1,0 +1,1331 @@
+module forge_spa;
+
+// COMPLETE 2015/09/08
+// Translated by Armanhotep
+
+translate foils to spanish feminine
+{ ns "Hoja"; np "Hojas";}
+
+translate "Your O1 is ready." to spanish "Tu O1(ns) se ha terminado de enfriar.";
+translate "You'll need the following to make O1:" to spanish "Para fabricar O1(uns) O1(ns), necesitas:";
+translate Magnesium to spanish masculine
+{
+  ns "Magnesio"; np "Magnesio";
+}
+translate "Bars" to spanish "Barras";
+translate "Fuel" to spanish "Combustible";
+translate "Gearwork" to spanish "Partes para Engranajes";
+translate "Hardware" to spanish "Ferretería";
+translate "Tools" to spanish "Herramienta";
+translate "Pots" to spanish "Ollas";
+translate MagnesiumOre to spanish masculine
+{
+  ns "Mena de Magnesio"; np "Mena de Magnesio";
+}
+translate leadpipe to spanish masculine
+{
+  ns "Tubo de Plomo"; np "Tubos de Plomo";
+}
+
+translate Bars to spanish masculine
+{ ns "Barra"; np "Barras";}
+translate copperbars to spanish feminine
+{ ns "Barra de Cobre"; np "Barras de Cobre";}
+translate IronBars to spanish feminine
+{ ns "Barra de Hierro"; np "Barras de Hierro";}
+translate GoldBars to spanish feminine
+{ ns "Barra de Oro"; np "Barras de Oro";}
+translate SilverBars to spanish feminine
+{ ns "Barra de Plata"; np "Barras de Plata";}
+translate steelbars to spanish feminine
+{ ns "Barra de Acero"; np "Barras de Acero";}
+
+translate AluminumBars to spanish feminine
+{ ns "Barra de Aluminio"; np "Barras de Aluminio";}
+translate AntimonyBars to spanish feminine
+{ ns "Barre de Antimonio"; np "Barras de Antimonio";}
+translate BrassBars to spanish feminine
+{ ns "Barra de Latón"; np "Barras de Latón";}
+translate BronzeBars to spanish feminine
+{ ns "Barra de Bronce"; np "Barras de Bronce";}
+// translate CopperBars to spanish feminine
+// { ns "Barra de Cobre"; np "Barres de Cobre";}
+// translate GoldBars to spanish feminine
+//{ ns "Barra de Oro"; np "Barres de Oro";}
+translate IronBars to spanish feminine
+{ ns "Barra de Hierro"; np "Barras de Hierro";}
+translate LeadBars to spanish feminine
+{ ns "Barra de Plomo"; np "Barras de Plomo";}
+translate LithiumBars to spanish feminine
+{ ns "Barra de Litio"; np "Barras de Litio";}
+translate MagnesiumBars to spanish feminine
+{ ns "Barra de Magnesio"; np "Barras de Magnesio";}
+translate MetalBlueBars to spanish feminine
+{ ns "Barra de Metal Azúl"; np "Barras de Metal Azul";}
+translate MoonSteelBars to spanish feminine
+{ ns "Barra de Acero Lunar"; np "Barras Acero Lunar";}
+translate OctecsAlloyBars to spanish feminine
+{ ns "Barra de Aleación Octec"; np "Barras de Aleación Octec";}
+translate PewterBars to spanish feminine
+{ ns "Barra de Peltre"; np "Barras de Peltre";}
+translate PlatinumBars to spanish feminine
+{ ns "Barra de Platino"; np "Barras de Platino";}
+//translate SilverBars to spanish feminine
+//{ ns "Barra de Plata"; np "Barras de Plata";}
+//translate SteelBars to spanish feminine
+//{ ns "Barra de Acero"; np "Barres de Acero";}
+translate SunSteelBars to spanish feminine
+{ ns "Barra de Acero Solar"; np "Barras de Acero Solar";}
+translate ThothsMetalBars to spanish feminine
+{ ns "Barra de Metal de Thoth"; np "Barras de Metal de Thoth";}
+translate TinBars to spanish feminine
+{ ns "Barra de Estaño"; np "Barras de Estaño";}
+translate TitaniumBars to spanish feminine
+{ ns "Barra de Titanio"; np "Barras de Titanio";}
+translate WaterMetalBars to spanish feminine
+{ ns "Barra de Hidrometal"; np "Barras de Hidrometal";}
+translate ZincBars to spanish feminine
+{ ns "Barra de Zinc"; np "Barras de Zinc";}
+ 
+translate Gear to spanish masculine
+{ ns "Engranaje"; np "Engranajes"; }
+translate SmallGear to spanish masculine
+{ns "Engranaje Pequeño"; np "Engranajes Pequeños";}
+translate Flywheel to spanish
+{ ns "Volante Motor"; np "Volantes Motor"; }
+translate SmallFlywheel to spanish
+{ ns "Volante Motor Pequeño"; np "Volantes Motor Pequeños"; }
+translate MediumFlywheel to spanish
+{ ns "Volante Motor Mediano"; np "Volantes Motor Medianos"; }
+translate LargeFlywheel to spanish
+{ ns "Volante Motor Grande"; np "Volantes Motor Grandes"; }
+
+translate AntimonySheeting to spanish feminine
+{ ns "Lámina de Antimonio"; np "Láminas de Antimonio"; }
+translate thothsmetalsheeting to spanish feminine
+{ ns "Lámina de Metal de Thoth"; np "Lámina de Metal de Thoth"; }
+translate goldsheeting to spanish feminine
+{ns "Lámina de Oro"; np "Láminas de Oro";}
+translate AluminumSheeting to spanish feminine
+{ ns "Lámina de Aluminio"; np "Láminas Aluminio"; }
+translate brasssheeting to spanish feminine
+{ ns "Lámina de Latón"; np "Láminas de Latón";}
+translate bronzesheeting to spanish feminine
+{ ns "Lámina de Bronce"; np "Láminas de Bronce";}
+translate ironsheeting to spanish feminine
+{ ns "Lámina de Hierro"; np "Láminas de Hierro";}
+translate lithiumsheeting to spanish feminine
+{ ns "Lámina de Litio"; np "Láminas de Litio";}
+translate magnesiumsheeting to spanish feminine
+{ ns "Lámina de Magnesio"; np "Láminas de Magnesio";}
+translate pewtersheeting to spanish feminine
+{ ns "Lámina de Peltre"; np "Láminas de Peltre";}
+translate sunsteelsheeting to spanish feminine
+{ ns "Lámina de Acero Solar"; np "Láminas de Acero Solar";}
+translate titaniumsheeting to spanish feminine
+{ ns "Lámina en Titanio"; np "Láminas de Titanio";}
+translate watermetalsheeting to spanish feminine
+{ ns "Lámina de Hidrometal"; np "Láminas de Hidrometal";}
+translate zincsheeting to spanish feminine
+{ ns "Lámina de Zinc"; np "Láminas de Zinc";}
+translate leadsheeting to spanish feminine
+{ns "Lámina de Plomo"; np "Láminas de Plomo";}
+translate platinumsheeting to spanish feminine
+{ns "Lámina de Platino"; np "Láminas de Platino";}
+translate steelsheeting to spanish feminine
+{ns "Lámina de Acero"; np "Láminas de Acero";}
+
+translate AntimonyFoil to spanish feminine
+{ ns "Hoja de Antimonio"; np "Hojas de Antimonio"; }
+translate AluminumFoil to spanish feminine
+{ ns "Hoja de Aluminio"; np "Hojas de Aluminio"; }
+translate brassfoil to spanish feminine
+{ ns "Hoja de Latón"; np "Hojas de Latón";}
+translate bronzefoil to spanish feminine
+{ ns "Hoja de Bronce"; np "Hojas de Bronce";}
+translate ironfoil to spanish feminine
+{ ns "Hoja de Hierro"; np "Hojas de Hierro";}
+translate lithiumfoil to spanish feminine
+{ ns "Hoja de Litio"; np "Hojas de Litio";}
+translate magnesiumfoil to spanish feminine
+{ ns "Hoja de Magnesio"; np "Hojas de Magnesio";}
+translate metalbluefoil to spanish feminine
+{ ns "Hoja de Metal Azul"; np "Hojas de Metal Azul";}
+translate moonsteelfoil to spanish feminine
+{ ns "Hoja de Acero Lunar"; np "Hojas de Acero Lunar";}
+translate octecsalloyfoil to spanish feminine
+{ ns "Hoja de Aleación de Octec"; np "Hojas de Aleación de Octec";}
+translate pewterfoil to spanish feminine
+{ ns "Hoja de Peltre"; np "Hojas de Peltre";}
+translate steelfoil to spanish feminine
+{ ns "Hoja de Acero"; np "Hojas de Acero";}
+translate sunsteelfoil to spanish feminine
+{ ns "Hoja de Acero Solar"; np "Hoja de Acero Solar";}
+translate thothsmetalfoil to spanish feminine
+{ ns "Hoja de Metal de Thoth"; np "Hojas de Metal de Thoth";}
+translate Tinfoil to spanish feminine
+{ ns "Hoja de Estaño"; np "Hojas de Estaño";}
+translate Titaniumfoil to spanish feminine
+{ ns "Hoja de Titanio"; np "Hojas de Titanio";}
+translate Watermetalfoil to spanish feminine
+{ ns "Hoja de Hidrometal"; np "Hojas de Hidrometal";}
+translate Zincfoil to spanish feminine
+{ ns "Hoja de Zinc"; np "Hojas de Zinc";}
+translate copperfoil to spanish feminine
+{ns "Hoja de Cobre"; np "Hojas de Cobre";}
+translate leadfoil to spanish feminine
+{ns "Hoja de Plomo"; np "Hojas de Plomo";}
+translate silverfoil to spanish feminine
+{ns "Hoja de Plata"; np "Hojas de Plata";}
+translate platinumfoil to spanish feminine
+{ns "Hoja de Platino"; np "Hojas de Platino";}
+
+translate AluminumWire to spanish masculine
+{
+ns "Alambre de Aluminio"; np "Alambres de Aluminio";
+}
+
+translate MediumGear to spanish masculine
+{
+  ns "Engranaje Mediano"; np "Engranajes Medianos";
+}
+
+translate LargeGear to spanish masculine
+{
+  ns "Engranaje Grande"; np "Engranaje Grande";
+}
+
+translate PinchRoller to spanish masculine
+{ns "Rodillo de Presión"; np "Rodillos de Presión";}
+
+translate Sheeting to spanish feminine
+{ns "Lámina"; np "Láminas";}
+
+translate CopperSheeting to spanish feminine
+{ns "Lámina de Cobre"; np "Láminas de Cobre";}
+translate TinSheeting to spanish feminine
+{ns "Lámina de Estaño"; np "Láminas de Estaño";}
+translate GoldSheeting to spanish feminine
+{ns "Lámina de Oro"; np "Láminas de Oro";}
+translate SilverSheeting to spanish feminine
+{ns "Lámina de Plata"; np "Láminas de Plata";}
+translate MetalBlueSheeting to spanish feminine
+{ns "Lámina de Metal Azul"; np "Láminas de Metal Azul";}
+translate OctecsAlloySheeting to spanish feminine
+{ns "Lámina de Aleación de Octec"; np "Láminas de Aleación de Octec";}
+
+translate ExtrusionPlate to spanish masculine
+{ns "Plato de Extrusión"; np "Platos de Extrusión";}
+
+translate CopperPipe to spanish masculine
+{ns "Tubo de Cobre"; np "Tubos de Cobre";}
+
+translate Straps to spanish masculine
+{ns "Tira"; np "Tiras";}
+
+translate CopperStrap to spanish masculine
+{ns "Tira de Cobre"; np "Tira de Cobre";}
+
+
+translate LeadChisel to spanish masculine
+{ns "Cincel de Plomo"; np "Cinceles de Plomo";}
+
+translate Forge to spanish feminine
+{
+  ns "Fragua"; np "Fraguas";
+}
+
+translate StudentsForge to spanish feminine
+{
+  ns "Fragua de Estudiante"; np "Fraguas de Estudiante";
+}
+
+translate MastersForge to spanish feminine
+{
+  ns "Fragua del Maestro"; np "Fraguas del Maestro";
+}
+
+translate StudentsCastingBox to spanish masculine
+{ns "Molde del Estudiante"; np "Moldes del Estudiante";}
+translate masterscastingbox to spanish masculine
+{ns "Molde del Maestro"; np "Moldes del Maestro";}
+
+translate IronBlade to spanish feminine
+{ns "Cuchilla de Hierro"; np "Cuchillas de Hierro";}
+translate SteelBlade to spanish feminine
+{ns "Cuchilla de Acero"; np "Cuchillas de Acero";}
+
+translate Wire to spanish masculine
+{ns "Alambre"; np "Alambres";}
+translate SteelWire to spanish masculine
+{ns "Alambre de Acero"; np "Alambres de Acero";}
+translate CopperWire to spanish masculine
+{ns "Alambre de Cobre"; np "Alambres de Cobre";}
+translate Goldwire to spanish masculine
+{ns "Alambre de Oro"; np "Alambres de Oro";}
+translate SilverWire to spanish masculine
+{ns "Alambre de Plata"; np "Alambres de Plata";}
+translate MagWire to spanish masculine
+{ns "Alambre de Magnesio"; np "Alambres de Magnesio";}
+translate MetalBlueWire to spanish masculine
+{ns "Alambre de Metal Azul"; np "Alambres de Metal Azul";}
+translate OctecsAlloyWire to spanish masculine
+{ns "Alambre de Aleación de Octec"; np "Alambres de Aleación de Octec";}
+translate ThothsMetalWire to spanish masculine
+{ns "Alambre de Metal de Thot"; np "Alambres de Metal de Thot";}
+
+translate GoldFoil to spanish feminine
+{ns "Hoja de Oro"; np "Hojas de Oro";}
+
+translate Nails to spanish masculine
+{
+  ns "Clavo"; np "Clavos";
+}
+
+translate Bearings to spanish masculine
+{
+  ns "Balero"; np "Baleros";
+}
+
+translate BrassPlate to spanish feminine
+{
+  ns "Plato de Latón"; np "Platos de Latón";
+}
+
+translate AluminumPlate to spanish feminine
+{
+  ns "Plato de Aluminio"; np "Platos de Aluminio";
+}
+
+translate LeadMallet to spanish masculine
+{
+  ns "Mazo de Plomo"; np "Mazos de Plomo";
+}
+
+translate IronPot to spanish feminine
+{
+  ns "Olla de Hierro"; np "Ollas de Hierro";
+}
+
+translate ScrewGears to spanish masculine
+{
+  ns "Engranaje de Broca"; np "Engranajes de Broca";
+}
+
+translate AncientForge to spanish feminine
+{
+  ns "Fragua Antigua"; np "Fraguas Antiguas";
+  }
+
+translate PincherClaw to spanish feminine
+{
+ns "Pinza en Garra"; np "Pinzas en Garra";
+}
+
+translate GoldPanning to spanish feminine
+{
+ns "Búsqueda de Oro"; np "Búsquedas de Oro";
+}
+
+translate PincherAxle to spanish masculine
+{
+ns "Eje de Pinza"; np "Ejes de Pinza";
+}
+
+translate HeavyMalletHead to spanish feminine
+{
+ns "Cabeza de Mazo Pesado"; np "Cabezas de Mazo Pesado";
+}
+
+translate IncenseProng to spanish masculine
+{
+ns "Pico para Incienso"; np "Picos para Incienso";
+}
+
+translate Washer to spanish feminine
+{
+ns "Arandela"; np "Arandelas";
+}
+
+translate Bolt to spanish masculine
+{
+ns "Cerrojo"; np "Cerrojos";
+}
+
+translate AnvilBed to spanish feminine
+{
+ns "Cabeza de Yunque"; np "Cabezas de Yunque";
+}
+
+translate BrassPot to spanish feminine
+{
+ns "Olla de Latón"; np "Ollas de Latón";
+}
+translate steelpot to spanish feminine
+{ ns "Olla de Acero"; np "Ollas de Acero";}
+
+translate HeavyLeadBowl to spanish masculine
+{
+  ns "Cuenco de Plomo"; np "Cuencos de Plomo";
+} 
+
+translate coppercookpots to spanish feminine
+{
+ns "Cacerola de Cobre"; np "Cacerolas de Cobre";
+}
+
+translate moonsteelsheeting to spanish feminine
+{
+ns "Lámina de Acero Lunar"; np "Láminas de Acero Lunar";
+}
+
+translate SilverBowl to spanish masculine
+{
+ns "Cuenco de Plata"; np "Cuencos de Plata";
+}
+
+
+translate shearingchisel to spanish masculine
+{ ns "Cincel Cortador"; np "Cinceles Cortadores";}
+
+translate Tongs to spanish feminine
+{
+ns "Tenaza"; np "Tenazas";
+}
+
+translate MWrench to spanish feminine
+{
+ns "Llave Inglesa"; np "Llaves Inglesas";
+}
+
+translate OriPellet to spanish feminine
+{
+ns "Pelotilla de Orichalcum"; np "Pelotillas de Orichalcum";
+}
+
+translate IronStrap to spanish feminine
+{
+ns "Tira de Hierro"; np "Tiras de Hierro";
+}
+
+translate AluminumStrap to spanish feminine
+{
+ns "Tira de Aluminio"; np "Tiras de Aluminio";
+}
+
+translate WaterMetalStrap to spanish feminine
+{
+ns "Tira de Hidrometal"; np "Tiras de Hidrometal";
+}
+
+translate "This O1 is lit. It has N1 O2 in the chamber."
+to spanish "El fuego de O1(cns) O1(ns) está prendido. O1(^pns) contieme N1 O2(N1?np:ns).";
+
+translate "This O1 is lit."
+to spanish "El fuego de O1(cns) O1(ns) esta prendido.";
+
+
+translate "This O1's fire is out. There is  N1 O2 in the chamber."
+to spanish "El fuego de O1(cns) O1(ns) esta apagado, y contiene N1 O2(N1?np:ns).";
+
+translate "This O1's fire is out."
+to spanish "El fuego de O1(cns) O1(ns) está apagado.";
+translate "There is N1 O1 in the chamber."
+to spanish "Hay N1 O1(N1?np:ns) en la cámara.";
+
+translate "Your project is cooling."
+to spanish "Tu proyecto se está enfriando.";
+
+translate "Fill this O1 with O2"
+to spanish "Rellenar O1(cns) O1(ns) con O2(ns)";
+
+translate "Forges"
+to spanish "Fraguas";
+
+translate "Sheeting"
+to spanish "Lámina";
+
+translate "Cogs"
+to spanish "Rueda Dentada";
+
+translate "Fountain Nozzles"
+to spanish "Boquilla de Fuente";
+
+translate "Fuel"
+to spanish "Combustible";
+
+translate "Foils"
+to spanish "Hojas";
+
+translate "Straps"
+to spanish "Tiras";
+
+translate "Pipes"
+to spanish "Tubos";
+
+translate "Plates"
+to spanish "Platos";
+
+translate "Make Iron Cookpot"
+to spanish "Fabrica una Cacerola de Hierro";
+
+translate "Make Stainless Steel Pot"
+to spanish "Fabrica una Olla de Acero Inoxidable";
+
+translate "Make Brass Pot"
+to spanish "Fabrica una Olla de Latón";
+
+translate "Make Iron Pot"
+to spanish "Fabrica una Olla de Hierro";
+
+translate "Gem Shearing Chisel"
+to spanish "Cincel Cortador de Gemas";
+
+translate "Make a Gem Shearing Chisel"
+to spanish "Fabrica un Cincel Cortardor de Gemas";
+
+translate "Nails"
+to spanish "Clavos";
+
+//translate "A Gem Shearing Chisel requires 7 Moonsteel,\n(Stainless),\n(Hard)\n of Purity 4 or higher"
+//to spanish "Nécessite 7 acier Lunar, \ninoxidable, \nDur \n avec une pureté de 4 ou plus";
+
+translate "A Gem Shearing Chisel requires 7 Moonsteel,"
+to spanish "Necesitas 7 Acero Lunar para un Cincel Cortador de Gemas, ";
+translate "(Stainless),"
+to spanish "(Inoxidable),";
+translate "(Hard)"
+to spanish "(Duro)";
+translate " of Purity 4 or higher"
+to spanish " de Pureza 4 o mayor";
+
+translate "You need 30 deben of Iron to make a Pinch Roller."
+to spanish "Ocupas 30 debens de Hierro para fabricar un Rodillo de Presión.";
+
+translate "Your forge needs 40 deben of Copper to make an Extrusion Plate."
+to spanish "Necesitas 40 debens de cobre para fabricar una Plato de Extrusión.";
+
+translate "You need fifteen deben of Gold to forge a Gold Bar."
+to spanish "Ocupas 15 debens de Oro para fabricar una Barra de Oro";
+
+translate "(Stainless, Insulative, and Non Toxic),"
+to spanish "(Inoxidable, Aislante, y No Tóxico,";
+
+translate "Student's Forge"
+to spanish "Fragua de Estudiante";
+
+translate "Master's Forge"
+to spanish "Fragua de Maestro";
+
+translate "Student's Casting Box"
+to spanish "Molde de Estudiante";
+
+translate "Master's Casting Box"
+to spanish "Molde de Maestro";
+
+translate "Put out this forge's fire. (Ruins any project in progress.)"
+to spanish "Apagar el fuego de esta fragua. (Todo proyecto en curso será arruinado.)";
+
+translate "Start this forge's fire"
+to spanish "Inicia ésta Fragua";
+
+translate "Start fire in this O1"
+to spanish "Iniciar el fuego de O1(cns) O1(ns)";
+
+translate "Upgrade"
+to spanish "Mejorar";
+
+translate "Upgrade this forge with a Nail Mould"
+to spanish "Mejorar esta fragua con un molde para clavos";
+
+translate "Upgrade this forge with a pair of Pinch Rollers"
+to spanish "Mejorar esta fragua con un par de Rodillos de Presión";
+
+translate "Add how much O1?"
+to spanish "Agregar que cantidad de O1(np) ?";
+
+translate "To build a Students Forge, you need: "
+to spanish "Para contruir una Fragua de Estudiante necesitas:";
+
+translate "To build a Masters Forge, you need: "
+to spanish "Para construir una Fragua de Maestro necesitas :";
+
+translate "To build a Student's Casting Box, you need: "
+to spanish "Para construir un Molde de Estudiante necesitas :";
+
+translate "To build a Master's Casting Box, you need: "
+to spanish "Para construir un Molde de Maestro necesitas :";
+
+translate "Are you sure you want to put out the fire? Doing so will ruin any project that is in progress."
+to spanish "¿Estas seguro de querer apagar el fuego? Al hacer esto, arruinarás el projecto en curso.";
+
+translate "The fire chamber must have at least N1 deben of O1 to start. N2 deben will be consumed immediately, and N3 additional deben will be consumed per minute."
+to spanish "La cámara de fuego debe tener N1 deben de O1(ns) para iniciar. N2 deben se consumirá de inmediato, y N3 serán consumidos cada minuto. ";
+
+translate "The fire on your forge went out."
+to spanish "El fuego de tu fragua se ha extinguido.";
+
+translate "You need one deben of iron to make a blade."
+to spanish "Necesitas 1 deben de hierro para fabricar una cuchilla.";
+
+translate "You have fashioned an iron blade. The blade will take two minutes to cool."
+to spanish "Haz formado una cuchilla de hierro.  Se tardará 2 minutos en enfriar.";
+
+translate "Your blade has cooled."
+to spanish "Tu cuchilla a enfriado.";
+
+translate "Make a set of 4 iron blades"
+to spanish "Forjar 4 cuchillas de hierro";
+
+translate "You need 4 debens of iron to make a set of blades."
+to spanish "Neceistas 4 deben de hierro para forjar un set de cuchillas.";
+
+translate "You have fashioned a set of 4 iron blades. They will take two minutes to cool."
+to spanish "Haz forjado un set de 4 cuchillas.  Tomarán dos minutos para enfriar.";
+
+translate "Your blades have cooled."
+to spanish "Tus cuchillas han enfriado.";
+
+translate "Make a steel blade"
+to spanish "Forjar una Cuchilla de Acero.";
+
+translate "Iron Pot"
+to spanish "Olla de Fierro";
+
+translate "Stainless steel pot"
+to spanish "Olla de Acero Inoxidable";
+
+translate "Brass Pot"
+to spanish "Olla de Latón";
+
+translate "You need one deben of steel to make a blade."
+to spanish "Ocupas un deben de Acero para forjar una cuchilla.";
+
+translate "You have fashioned a steel blade. The blade will take six minutes to cool."
+to spanish "Haz forjado una cuchilla de acero. La cuchilla tomará seis minutos en enfriar.";
+
+translate "Make a set of 4 steel blades"
+to spanish "Forjar un set de 4 cuchillas de acero";
+
+translate "Make a set of 4 Bolts"
+to spanish "Fabrica un set de 4 Cerrojos";
+
+translate "You need 4 debens of steel to make a set of blades."
+to spanish "Necesitas 4 deben de Acero para fabricar un set de cuchillas.";
+
+translate "You have fashioned a set of 4 iron blades. They will take six minutes to cool."
+to spanish "Haz forjado un set de 4 cuchillas de hierro.  Tomarán seis minutos en enfriar.";
+
+translate "Your blades have cooled."
+to spanish "Las cuchillas han enfriado.";
+
+translate "Make O1"
+to spanish "Fabrica O1(uns) O1(ns)";
+
+translate "You need two deben of iron to forge an Iron Bar."
+to spanish "Ocupas dos deben de hierro para forjar una Barra de Hierro.";
+
+translate "You need five deben of steel to forge a Steel Bar."
+to spanish "Ocupas cinco deben de acero para forjar una Barra de Acero";
+
+translate "You have fashioned an Iron Bar. It will take fifteen minutes to cool."
+to spanish "Haz forjado una Barra de Hierro.  Tomará quince minutos en enfriar.";
+
+translate "Your Iron Bar has cooled."
+to spanish "Tu Barra de Hierro se ha enfriado.";
+
+translate "You need twenty deben of Gold to forge an Gold Bar."
+to spanish "Ocupas 20 deben de Oro para forjar una Barra de Oro.";
+
+translate "You have fashioned some Gold Bars. It will take five minutes to cool."
+to spanish "Haz forjado una Barra de Oro.  Tomará quince minutos en enfriar.";
+
+translate "Your Gold Bar has cooled."
+to spanish "Votre barre de Oro est refroidie.";
+
+translate "You need twenty deben of Silver to forge an Silver Bar."
+to spanish "Il vous faut vingt mesures de Plata pour forger une barre de Plata.";
+
+translate "Making an Silver Bar"
+to spanish "Fabrication d'une barre de Plata";
+
+translate "Your silver bar has cooled."
+to spanish "Votre barre de Plata est refroidie.";
+
+translate "You'll need a Nail Mould."
+to spanish "Vous avez besoin d'un moule à clous. Trouvez un tailleur de pierres pour vous aider.";
+
+translate "You'll need two Pinch Rollers. These can be made at a master's forge."
+to spanish "Il vous faut deux rouleaux à pression. Ils peuvent être fabriqués dans une forge de maître.";
+
+translate "Make some Copper Sheeting"
+to spanish "Forger des Láminas de Cobre";
+
+translate "You'll need six deben of Copper."
+to spanish "Il vous faut six mesures de Cobre.";
+
+translate "Make a set of copper straps"
+to spanish "Forger une série de Tiras de Cobre";
+
+translate "Make a Copper Strap"
+to spanish "Forger une Tira de Cobre";
+
+translate "Your forge needs 3 deben of copper to make a set of copper straps."
+to spanish "Votre forge nécessite 3 mesure de Cobre pour donner une série de Tiras de Cobre.";
+
+translate "Your forge needs 3 deben of Copper to make a Copper Strap."
+to spanish "Votre forge nécessite 3 mesure de Cobre pour donner une Tira de Cobre.";
+
+translate "You have made a Copper Strap. It will take two minutes to cool."
+to spanish "Vous avez forgé une Tira de Cobre. Attendez deux minutes qu'elle refroidisse.";
+
+translate "Make an Iron Strap"
+to spanish "Forger une Tira de Hierro";
+
+translate "Your forge needs 2 deben of Iron to make a Iron Strap."
+to spanish "Votre forge nécessite 2 mesure de Hierro pour donner une Tira de Hierro.";
+
+translate "You have made a Iron Strap. It will take three minutes to cool."
+to spanish "Vous avez forgé une Tira de Hierro. Attendez trois minutes qu'elle refroidisse.";
+
+translate "Make an Aluminum Strap"
+to spanish "Forger une Tira d'aluminium";
+
+translate "Steam Mechanics"
+to spanish "Mécaniques à vapeur";
+
+translate "Make some Lead Pipe"
+to spanish "Fabriquez des tuyeaux de Plomo";
+
+translate "Make some Lead Sheeting"
+to spanish "Fabriquez des Láminas en Plomo";
+
+translate "Make a Large Flywheel"
+to spanish "Fabriquez un grand volant";
+
+translate "Make a Medium Flywheel"
+to spanish "Fabriquez un volant moyen";
+
+translate "Make a small Flywheel"
+to spanish "Fabriquez un petit volant";
+
+translate "To make a Medium Flywheel you need:"
+to spanish "Pour fabriquer un volant moyen, vous avez besoin de:";
+
+translate "To make a Small Flywheel you need:"
+to spanish "Pour fabriquer un petit volant, vous avez besoin de:";
+
+translate "Your forge needs 5 deben of Aluminum to make a Aluminum Strap."
+to spanish "Votre forge nécessite 5 mesure d'aluminium pour donner une Tira de Hierro.";
+
+translate "You have made a Aluminum Strap. It will take one minute to cool."
+to spanish "Vous avez forgé une Tira d'aluminium. Attendez une minutes qu'elle refroidisse.";
+
+translate "Make a Water Metal Strap"
+to spanish "Forger une Tira de métal acqueux";
+
+translate "Your forge needs 5 deben of Water Metal to make a Water Metal Strap."
+to spanish "Votre forge nécessite 5 mesure de métal acqueux pour donner une Tira de Hierro.";
+
+translate "You have made a Water Metal Strap. It will take one minute to cool."
+to spanish "Vous avez forgé une Tira de métal acqueux. Attendez une minutes qu'elle refroidisse.";
+
+translate "Wire"
+to spanish "Alambre de Metal";
+
+translate "Make some Steel Wire"
+to spanish "Fabrica Alambre de Acero";
+
+translate "Your forge needs 2 deben of steel to make Steel Wire."
+to spanish "Ocupas 2 deben de Acero para fabricar Alambre de Acero.";
+
+translate "Make some Copper Wire"
+to spanish "Fabrica Alambre de Cobre";
+
+translate "Your forge needs 2 deben of copper to make Copper Wire."
+to spanish "Ocupas 2 deben de Cobre para fabricar Alambre de Cobre";
+
+translate "Make some Gold Wire"
+to spanish "Fabrica Alambre de Oro";
+
+translate "Your forge needs 1 deben of Gold to make Gold Wire."
+to spanish "Ocupas 1 deben de Oro para fabricar Alambre de Oro";
+
+translate "Make a Pinch Roller"
+to spanish "Fabrica un Rodillo de Presión";
+
+translate "Your Pinch Roller is ready." to spanish "Tu Rodillo de Presión está listo.";
+
+translate "You need 30 deben of Iron to make a Pinch Roller."
+to spanish "Ocupas 30 deben de Hierro para fabricar un Rodillo de Presión.";
+
+//translate "Pinch rollers are massive 80 deben iron cylinders. Since your forge is not close enough to water to use that as a cooling source, cooling them will take 12 hours. Proceed anyway?"
+//to spanish "Les rouleaux à pression sont de gros cylindres de 80 mesures de Hierro. Comme votre forge n'est pas assez proche de l'eau pour l'utiliser comme source de refroidissement, il faudra 12 heures pour les refroidir. Voulez-vous quand même lancer le processus ?";
+
+translate "Pinch Roller will be done in K1"
+to spanish "El Rodillo de Presión estará listo en K1.";
+
+translate "Make a batch of Nails"
+to spanish "Hacer un lote de Clavos";
+
+translate "You need one deben of Iron to make a batch of Nails."
+to spanish "Necesitas 1 deben de Hierro para fabricar un lote de Clavos.";
+
+translate "You have made a batch of Nails. They will be cool in K1"
+to spanish "Haz fabricado un lote de Clavos.  Tomarán K1 para enfriar.";
+
+translate "Your Nails are ready."
+to spanish "Los Clavos están listos.";
+
+translate "Make a Bearing"
+to spanish "Fabrica un Balero";
+
+translate "To make a Bearing you need:"
+to spanish "Para fabricar un Balero, necesitas:";
+
+translate "N1 O1"
+to spanish "N1 O1(N1?np:ns)";
+
+translate "Bearing will be done in K1"
+to spanish "El Balero estará listo en K1";
+
+translate "Your Bearing is ready."
+to spanish "Tu balero está listo.";
+
+translate "Make a set of 10 Bearings"
+to spanish "Fabrica un set de 10 Baleros";
+
+translate "To make a set of 10 Bearings you need:"
+to spanish "Para fabricar un set de 10 Baleros necesitas:";
+
+translate "Your Bearings will be done in K1"
+to spanish "Los Baleros estarán listos en K1";
+
+translate "Bearing will be done in K1"
+to spanish "El Balero estará listo en K1";
+
+translate "Your Bearings are ready."
+to spanish "Los Baleros estarán listos.";
+
+translate "Make a Set of 10 Small Gears"
+to spanish "Fabrica un set de 10 Engranajes Pequeños";
+
+translate "Make a Shovel Blade"
+to spanish "Fabrica una Cuchilla de Pala";
+
+translate "Make a Shovel Blade (poor quality)"
+to spanish "Fabrica una Cuchilla de Pala (Calidad Pobre)";
+
+translate "To make a shovel blade you need:"
+to spanish "Para fabricar una Cuchilla de Palla necesitas:";
+
+translate "To make a Shovel Blade (poor quality) you need:"
+to spanish "Para fabricar una Cuchilla de Pala (Calidad Pobre) necesitas:";
+
+translate "Shovel Blade will be done in K1"
+to spanish "Cuchilla de Pala estará lista en K1";
+
+translate "Shovel Blade will be done in K1. It will be poor quality because it was not forged at an anvil, but it will get you started."
+to spanish "La Cuchilla de Pala estará lista en K1. Será de calidad pobre ya que no fue forjada en un yunque, pero será suficiente para empezar.";
+
+translate "Your shovel blade is ready."
+to spanish "Tu Cuchilla de Pala está lista.";
+
+translate "Make a Lead Mallet"
+to spanish "Fabrica un Mazo de Plomo";
+
+translate "Make a Brass Mallet"
+to spanish "Fabrica un Mazo de Latón";
+
+translate "To make a Lead Mallet you need:"
+to spanish "Para fabricar un Mazo de Plomo necesitas:";
+
+translate "To make a Brass mallet you need:"
+to spanish "Para fabricar un Mazo de Latón necesitas:";
+
+translate "Lead Mallet will be done in K1"
+to spanish "El Mazo de Plomo estará listo en K1";
+
+translate "Brass Mallet will be done in K1"
+to spanish "El Mazo de Latón estará listo en K1";
+
+translate "Your Lead Mallet is ready."
+to spanish "El Mazo de Plomo está listo.";
+
+translate "Your Brass mallet is ready."
+to spanish "El Mazo de Latón está listo.";
+
+translate "Make a Cookpot"
+to spanish "Fabrica una Cacerola";
+
+translate "To make a Cookpot you need:"
+to spanish "Para fabricar una Cacerola necesitas:";
+
+translate "A stainless Steel Pot requires 20 Steel,"
+to spanish "Un Olla de Acero Inoxidable requiere 20 debens de Acero,";
+
+translate "Cookpot will be done in K1"
+to spanish "La Cacerola estará listo en K1";
+
+translate "Your Cookpot is ready."
+to spanish "La Cacerola está lista.";
+
+translate "Make a Small Gear"
+to spanish "Fabrica un Engranaje Pequeño";
+
+translate "To make a Small Gear you need:"
+to spanish "Para fabricar un Engranaje Pequeño necesitas:";
+
+translate "Your Small Gear will be done in K1"
+to spanish "El Engranaje Pequeño estará listo en K1";
+
+translate "Your Small Gear is ready."
+to spanish "El Engranaje Pequeño está listo.";
+
+translate "Make a Medium Gear"
+to spanish "Fabrica un Engranaje Mediano";
+
+translate "To make a Medium Gear you need:"
+to spanish "Para fabricar un Engranaje Mediano necesitas :";
+
+translate "Your Medium Gear will be done in K1"
+to spanish "El Engranaje Mediano estará listo en K1.";
+
+translate "Your Medium Gear is ready."
+to spanish "El Engranaje Mediano está listo.";
+
+translate "Make a large Gear"
+to spanish "Fabrica un Engranaje Grande";
+
+translate "To make a Large Gear you need:"
+to spanish "Para fabricar un Engranaje Grande:";
+
+translate "Your Large Gear will be done in K1"
+to spanish "El Engranaje Grande estará listo en K1.";
+
+translate "Your Large Gear is ready."
+to spanish "Tu Engranaje Grande está listo.";
+
+translate "Make an Iron Pot"
+to spanish "Forja un Olla de Hierro";
+
+translate "To make an Iron Pot you need:"
+to spanish "Para forjar una Olla de Hierro, necesitas:";
+
+translate "Your Iron Pot will be done in K1"
+to spanish "La Olla de Hierro estará listo en K1.";
+
+translate "Make a Brass Plate"
+to spanish "Fabrica un Plato de Latón";
+
+translate "To make an Brass Plate you need:"
+to spanish "Para fabricar un Plato de Latón, necesitas:";
+
+translate "Your Brass Plate will be done in K1"
+to spanish "El Plato de Latón estará listo en K1.";
+
+translate "Your Brass Plate is ready."
+to spanish "El Plato de Latón está listo.";
+
+translate "Make a Screw Gear"
+to spanish "Fabrica un Engranaje de Broca";
+
+translate "To make a Screw Gear you must stash:"
+to spanish "Para fabricar un Engranaje de Broca, necesitas depositar:";
+
+translate "Your Screw Gear will be done in K1"
+to spanish "El Engranaje de Broca estará listo en K1";
+
+translate "Your Screw Gear is ready."
+to spanish "El Engranaje de Broca está listo.";
+
+translate "Stash (For large Projects)"
+to spanish "Deposita (Para Proyectos Grandes)";
+
+translate "By the Public Buildings Enabling Act, passed into law by FaceAnkh on 3/28/2003, Public Forges and Casting Boxes may only be extinguished by the person who lit them."
+to spanish "Selon la Loi sur l'accès aux Bâtiments Publics, passée par FaceAnkh le 28/03/2003, les forges publiques ne peuvent être éteintes que par la personne qui les a activées.";
+
+translate "Make a pair of Pincher Claw"
+to spanish "Fabrica unas Pinzas en Garra";
+
+translate "Pincher Claw Require 50 Aluminum Plated Metal Blue,"
+to spanish "Para fabricar Pinzas en Garra ocupas 50 Aluminio Chapado en Metal Azul";
+translate "(Stainless, Toxic, and Hard), of Purity 6 or higher,"
+to spanish "(Inoxidable, Tóxico, Duro), con Pureza de 6 o mayor";
+translate "and 50 Beeswax"
+to spanish "y 50 Cera";
+
+translate "You have made a Pincher Claw. It will be cool in K1"
+to spanish "Haz fabricado unas Pinzas en Garra. Tomará K1 en enfriar.";
+
+translate "Your Pincher Claw is ready."
+to spanish "Las Pinzas en Garra están listas.";
+
+translate "To make a Pincher Claw you need:"
+to spanish "Para fabricar unas Pinzas en Garra necesitas:";
+
+translate "Your Pincher Claw will be done in K1"
+to spanish "Las Pinzas en Garra estarán listos en K1.";
+
+translate "Your Pincher Claw is ready."
+to spanish "Las Pinzas en Garra están listas.";
+
+translate "Make a Pincher Axle"
+to spanish "Fabrica un Eje de Pinza";
+
+translate "To make a Pincher Axle you need:"
+to spanish "Para fabricar un Eje de Pinza necesitas:";
+
+translate "Your Pincher Axle will be done in K1"
+to spanish "El Eje de Pinza estará listo en K1.";
+
+translate "Your Pincher Axle is ready."
+to spanish "El Eje de Pinza está listo.";
+
+translate "Blacksmith Tools"
+to spanish "Herramienta de Herrero";
+
+translate "You need the Blacksmithing skill to do this."
+to spanish "Ocupas la Habilidad de Herrero para hacer esto.";
+
+translate "Upgrade this forge with an Extrusion Plate"
+to spanish "Mejora esta Fragua con un Plato de Extrusión";
+
+translate "You'll need an Extrusion Plate. This can be made at a master's forge."
+to spanish "Il vous faut une Plato d'extrusion. Elle peut être fabriquée dans une forge de maître.";
+
+translate "Make some Copper Pipe"
+to spanish "Fabrica un Tubo de Cobre";
+
+translate "You'll need 10 deben of Copper."
+to spanish "Ocupas 10 deben de Cobre.";
+
+translate "Make an Iron Poker"
+to spanish "Fabrica un Atizador de Hierro";
+
+translate "You need five deben of iron to forge an iron poker."
+to spanish "Neceistas cinco deben de Hierro para forjar un Atizador de Hierro.";
+
+translate "Your iron poker has cooled."
+to spanish "El Atizador de Hierro ha enfriado";
+
+translate "Your shovel blade is ready."
+to spanish "La Cuchilla de Pala está lista.";
+
+translate "Make a Lead Chisel"
+to spanish "Fabrica un Cincel de Plomo";
+
+translate "To make a Lead Chisel you need:"
+to spanish "Para fabricar un Cincel de Plomo necesitas:";
+
+translate "Lead Chisel will be done in K1."
+to spanish "El Cincel de Plomo estará listo en K1.";
+
+translate "Your Lead Chisel is ready."
+to spanish "El Cincel de Plomo está listo.";
+
+translate "Make an Extrusion Plate"
+to spanish "Fabrica un Plato de Extrusión";
+
+translate "Your forge needs 60 deben of Copper to make an Extrusion Plate."
+to spanish "Para fabricar un Plato de Extrusión necesitas 60 deben de Cobre.";
+
+translate "You have made an Extrusion Plate. It will take thirty minutes to cool."
+to spanish "Haz fabricado un Plato de Extrusión. Tomará 30 minutos para enfriar.";
+
+translate "Your Extrusion Plate is ready."
+to spanish "El Plato de Extrusión está listo.";
+
+translate "Make a Heavy Lead Bowl"
+to spanish "Fabrica un Cuenco de Plomo";
+
+translate "You need 20 debens of Lead and Wax to make a Heavy Lead Bowl."
+to spanish "Necesitas 20 deben de Plomo y Cera para fabricar un Cuenco de Plomo";
+
+translate "Your Bowl has cooled."
+to spanish "Tu Cuenco ha enfriado.";
+
+translate "Make a Heavy Mallet Head"
+to spanish "Fabrica una Cabeza de Mazo Pesado";
+
+translate "To make a Heavy Mallet Head you need:"
+to spanish "Para fabricar una Cabeza de Mazo Pesado necesitas:";
+
+translate "Heavy Mallet Head will be done in N1."
+to spanish "La Cabeza de Mazo Pesado estará listo en N1.";
+
+translate "Your Heavy Mallet Head is ready."
+to spanish "La Cabeza de Mazo Pesado está listo.";
+
+translate "Make a Nozzle"
+to spanish "Fabrica una Boquilla";
+
+translate "Your O1 has cooled."
+to spanish "Tu O1(ns) ha enfriado.";
+
+translate "Make a Pewter Incense Prong"
+to spanish "Fabrica un Pico para Incienso ";
+
+translate "You need one deben of Pewter and Wax to make an Incense Prong."
+to spanish "Necesitas 1 deben de Peltre y Cera para fabricar un Pico para Incienso.";
+
+translate "You have fashioned a Pewter Incense Prong. It will take three minutes to cool."
+to spanish "Vous avez fabriqué un pic à encens en fer blanc. Il sera refroidi dans trois minutes.";
+
+translate "Your Incense Prong has cooled."
+to spanish "Votre pic à encens est refroidi.";
+
+translate "Make a Steel Blade"
+to spanish "Fabrica una Cuchilla de Acero";
+
+translate "You need five deben of steel to forge a steel blade."
+to spanish "Neceistas 5 deben de Acero para fabricar una Cuchilla de Acero.";
+
+translate "Your steel blade has cooled."
+to spanish "La Cuchilla de Acero ha enfriado.";
+
+translate "Make a O1"
+to spanish "Fabrica O1(uns) O1(ns)";
+
+translate "You need N1 deben of O1 and Wax to make a O2."
+to spanish "Vous avez besoin de N1 mesures de O1(ns) et de cire pour fabriquer O2(uns) O2(ns).";
+
+translate "Your project has cooled."
+to spanish "El proyecto ha enfriado.";
+
+translate "Make a set of 12 Washers"
+to spanish "Fabrica un set de 12 Arandelas";
+
+translate "To make a small set of Washers, you need:"
+to spanish "Para fabricar un set pequeño de Arandelas necesitas:";
+
+translate "Washers will be done in K1"
+to spanish "Las Arandelas estarán listas en K1.";
+
+translate "Your set of washers are ready."
+to spanish "El set de Arandelas está lista.";
+
+translate "Make a set of 60 Washers"
+to spanish "Fabrica un set de 60 Arandelas";
+
+translate "To make a large set of Washers, you need:"
+to spanish "Para hacer un set grande de Arandelas necesitas:";
+
+translate "Make a Crude Reel"
+to spanish "Fabrica un Carrete Rudimentario";
+
+translate "To make a crude reel you need:"
+to spanish "Para fabricar un Carrete Rudimentario:";
+
+translate "Crude reel will be done in K1"
+to spanish "El Carrete Rudimentario estará listo en K1.";
+
+translate "Your crude reel is ready."
+to spanish "Tu Carrete Rudimentario está listo.";
+
+translate "Make a Fine Reel"
+to spanish "Fabrica un Carrete Fino";
+
+translate "To make a fine reel you need:"
+to spanish "Para fabricar un Carrete Fino necesitas:";
+
+translate "Fine reel will be done in K1"
+to spanish "El Carrete Fino estará listo en K1.";
+
+translate "Your fine reel is ready."
+to spanish "El Carrete Fino está listo.";
+
+translate "Make a set of 4 Bolt"
+to spanish "Fabrico un set de 4 Cerrojos";
+
+translate "To make a Bolt you need:"
+to spanish "Para fabricar un Cerrojo necesitas:";
+
+translate "Your Bolt will be done in K1"
+to spanish "Tu Cerrojo estará listo en K1.";
+
+translate "Your Bolts is ready."
+to spanish "Los Cerrojos están listos.";
+
+translate "Make a set of 40 Bolts"
+to spanish "Fabrica un set de 40 Cerrojos";
+
+translate "To make a set of 40 bolts you need:"
+to spanish "Para fabricar un set de 40 Cerrojos necesitas:";
+
+translate "Your Bolts will be done in K1"
+to spanish "Los Cerrojos estarán listos en K1.";
+
+translate "Your bolts are ready."
+to spanish "Los Cerrojos están listos.";
+
+translate "This mallet can be used to tap glass rods into the ground to search for Limestone Tooth blocks, to be assembled into a pyramid."
+to spanish "Este Mazo puede usarse para golpear varas de vidrio al suelo en busqueda de bloques de piedra caliza para construir pirámides.";
+
+translate "Make an Anvil Bed"
+to spanish "Fabrica una Cabeza de Yunque";
+
+translate "To make an Anvil Bed you need:"
+to spanish "Para fabricar una Cabeza de Yunque necesitas:";
+
+translate "Your Anvil Bed will be done in K1"
+to spanish "La Cabeza de Yunque estará listo en K1.";
+
+translate "To make a set of 10 Small Gears you need:"
+to spanish "Para fabricar un set de 10 Engranajes Pequeños necesitas:";
+
+translate "Your Small Gears will be done in K1"
+to spanish "Los Engranajes Pequeños estarán listos en K1.";
+
+translate "Your Small Gears are ready."
+to spanish "Los Engranajes Pequeños están listos.";
+
+translate "Your iron pot is ready."
+to spanish "Votre Olla de Hierro est prêt.";
+
+translate "This O1 is Making and Iron Pot" to spanish "Este O1(ns) está fabricando una Olla de Hierro";
+
+translate "Make a Brass Olla"
+to spanish "Fabrica una Olla de Latón";
+
+translate "To make a Brass Pot you need:"
+to spanish "Para fabricar una Olla de Latón necesitas:";
+
+translate "Your Brass Pot will be done in K1"
+to spanish "La Olla de Latón estará listo en K1.";
+
+translate "Your Brass Pot is ready."
+to spanish "La Olla de Latón está lista.";
+
+translate "Make a Silver Bowl"
+to spanish "Fabrica un Cuenco de Plata";
+
+translate "To make a Silver Bowl you need:"
+to spanish "Para fabricar un Cuenco de Plata necesitas:";
+
+translate "Silver Bowl will be done in K1"
+to spanish "El Cuenco de Plata estará listo en K1";
+
+translate "You've completed the Silver Bowl used in a Sacrificial Bonfire."
+to spanish "Haz completado un Cuenco de Plata, el cual se usa en una Hoguera Sacrificatoria.";
+
+translate "Your Silver Bowl is ready."
+to spanish "El Cuenco de Plata está listo.";
+
+translate "This O1 is Making an Iron Pot" to spanish "O1(ens) O1(ns) esta fabricando una Olla de Hierro.";
+
+translate "Treated Metal Sheeting requires"
+to spanish "Forger un Lámina nécessite";
+
+translate "2 debens of Treated Metal"
+to spanish "2 debens de métal traité";
+
+translate "That item is not Treated Metal."
+to spanish "Este artículo no es Metal Tratado.";
+
+translate "You do not have enough Treated Metal."
+to spanish "Vous n'avez pas assez de métal traité.";
+
+translate "You have made some Treated Metal Sheeting. It will be cool in K1"
+to spanish "Vous avez forgé un Lámina de métal traité. Il sera refroidi dans K1";
+
+translate "Your Treated Metal Sheeting is ready."
+to spanish "Tu Lámina de Metal Tratado está listo.";
+
+translate "Make a Copper Cookpot"
+to spanish "Fabrica una Cacerola de Cobre";
+
+translate "Copper Cookpot will be done in K1"
+to spanish "La Cacerola de Cobre estará lista en K1.";
+
+translate "Iron Cookpot will be done in K1"
+to spanish "La Cacerola de Hierro estará lista en K1.";
+
+translate "This O1 is making a Cookpot" to spanish "O1(ens) O1(ns) esta fabricando una Cacerola";
+translate "This O1 is making a Large Gear" to spanish "O1(ens) O1(ns) está fabricando un Engranaje Grande";
+translate "This O1 is making a Medium Gear" to spanish "O1(ens) O1(ns) está fabricando un Engranaje Mediano";
+
+translate "Make a pair of Tongs"
+to spanish "Fabrica unas Tenazas";
+
+translate "That item is not Treated Metal."
+to spanish "El artículo no es Metal Tratado.";
+
+translate "That item does not have the correct requirements."
+to spanish "Este artículo no tiene los requisitos correctos.";
+
+translate "You do not have enough Treated Metal."
+to spanish "No tienes suficiente Metal Tratado.";
+
+translate "You have made a pair of Tongs. They will be cool in K1"
+to spanish "Vous avez forgé une paire de pincette. Elles seront prêtes dans K1";
+
+translate "Your Tongs are ready."
+to spanish "Vos pincettes sont prêtes.";
+
+translate "Make a Monkey Wrench"
+to spanish "Fabrica una Llave Inglesa";
+
+translate "To make a Monkey Wrench you need:"
+to spanish "Para fabricar una Llave Inglesa necesitas:";
+
+translate "Your Monkey Wrench will be done in K1"
+to spanish "Tu Llave Inglesa estará lista en K1";
+
+translate "Your Monkey Wrench is ready."
+to spanish "La Llave Inglesa está lista.";
+
+translate "Make an Aluminum Plate"
+to spanish "Fabrica un Plato en Aluminio";
+
+translate "To make an Aluminum Plate you need:"
+to spanish "Para fabricar un Plato de Aluminio necesitas:";
+
+translate "Your Aluminum Plate will be done in K1"
+to spanish "El Plato de Aluminio estará listo en K1";
+
+translate "Your Aluminum Plate is ready."
+to spanish "El Plato de Aluminio está listo.";
+
+translate "Make 4 Orichalcum Pellets"
+to spanish "Fabrica 4 Pelotillas de Orichalcum";
+
+translate "To make a small batch of Orichalcum Pellets, you need:"
+to spanish "Para fabricar un lote pequeño de Pelotillas de Orichalcum necesitas:";
+
+translate "Orichalcum Pellets will be done in K1"
+to spanish "Las Pelotillas de Orichalcum estarán listas en K1";
+
+translate "Your small batch of Orichalcum Pellets are ready."
+to spanish "El lote pequeño de Pelotillas de Orichalcum está lista.";
+
+translate "Make 40 Orichalcum Pellets"
+to spanish "Fabrica 40 Pelotillas de Orichalcum";
+
+translate "To make a large batch of Orichalcum Pellets, you need:"
+to spanish "Para fabricar un lote grande de Pelotillas de Orichalcum necesitas:";
+
+translate "Orichalcum Pellets will be done in K1"
+to spanish "Las Pelotillas de Orichalcum estarán listas en K1";
+
+translate "Your large batch of Orichalcum Pellets are ready."
+to spanish "El lote grande de Pelotillas de Orichalcum está listo.";
+
+translate "This O1 is Making O2"
+to spanish "O1(^cns) O1(ns) está fabricando O2(uns) O2(ns)";
+
+translate "This O1 is Making a small batch of Orichalcum Pellets"
+to spanish "O1(^cns) O1(ns) fabrica un lote pequeño de Pelotillas de Orichalcum";
+
+translate "This O1 is Making a large batch of Orichalcum Pellets"
+to spanish "O1(^cns) O1(ns) fabrica un lote grande de Pelotillas de Orichalcum";
+
+translate "Construct the Forge of Geb and Nut from the Plans"
+to spanish "Construir una Fragua de Geb y Nut usando los planos.";
+
+translate "Are you sure? You will not be able to tear this down and get your plans back!"
+to spanish "¿Estás seguro? No podrás destruirlo y no recuperarás tus planos!";
+
+translate "To build a Forge of Geb and Nut, you need:"
+to spanish "Para construir una Fragua de Geb y Nut necesitas:";
+

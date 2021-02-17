@@ -1,0 +1,386 @@
+module fwvote_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+
+
+translate PyroDeskDarkenedSky to german neuter
+{
+swa "Feuerwerksstadion 'Dunkler Himmel'";
+sn "Feuerwerksstadion 'Dunkler Himmel'"; sg "Feuerwerksstadions 'Dunkler Himmel'"; sd "Feuerwerksstadion 'Dunkler Himmel'"; sa "Feuerwerksstadion 'Dunkler Himmel'";
+pn "Feuerwerksstadien 'Dunkler Himmel'"; pg "Feuerwerksstadien 'Dunkler Himmel'"; pd "Feuerwerksstadien 'Dunkler Himmel'"; sa "Feuerwerksstadien 'Dunkler Himmel'";
+}
+translate PyroDesk to german neuter
+{
+swa "Feuerwerksstadion";
+sn "Feuerwerksstadion"; sg "Feuerwerksstadions"; sd "Feuerwerksstadion"; sa "Feuerwerksstadion";
+pn "Feuerwerksstadien"; pg "Feuerwerksstadien"; pd "Feuerwerksstadien"; sa "Feuerwerksstadien";
+}
+translate Pyrotechnics to german masculine
+{
+swa "Test des Feuerwerks";
+sn "Test des Feuerwerks"; sg "Test des Feuerwerks"; sd "Test des Feuerwerks"; sa "Test des Feuerwerks";
+pn "Test des Feuerwerks"; pg "Test des Feuerwerks"; pd "Test des Feuerwerks"; sa "Test des Feuerwerks";
+}
+
+translate "this Pyrotechnics Stadium Headquarters"
+to german "dieses Feuerwerksstadion";
+
+translate "Pyro Desk Judge Report: N1 / N2 U1 at N3, N4"
+to german "Feuerwerksbewertungsbericht: N1 / N2 U1(name) bei N3, N4";
+
+translate "This is an Exhibition Contest"
+to german "Dies ist ein Schau-Wettbewerb";
+
+translate "Contestants signed up: N1"
+to german "Eingetragene Teilnehmer: N1";
+
+translate "Judge Threshold: N1"
+to german "Punktrichter: N1";
+
+translate "Contest is running. N1 of N2 contestants have fired."
+to german "Der Wettbewerb hat angefangen, N1 von N2 Kandidaten haben abgefeuert.";
+
+translate "Exhibition is running. N1 of N2 contestants have fired."
+to german "Die Schau hat angefangen, N1 von N2 Kandidaten haben abgefeuert.";
+
+translate "Set next contest as Official"
+to german "Nächster Wettbewerb ist offiziell";
+
+translate "Set next contest as Exhibition"
+to german "Nächster Wettbewerb ist Schau";
+
+translate "Contest is running. N1 of N2 contestants have fired."
+to german "Wettbewerb läuft. N1 von N2 Kandidaten haben gefeuert.";
+
+translate "Judges so far: N1. Still need N2 judges to hold the contest."
+to german "Punktrichter bisher: N1. Benötigt werden N2 Punktrichter, um den Wettbewerb aufrecht zu halten.";
+
+translate "Judges so far: N1. Waiting to see if N2 additional offers are accepted."
+to german "Punktrichter bisher: N1. Mal sehen, ob N2 Bewerber angenommen wurden.";
+
+translate "Only found N1 judges, which is less than the N2 needed to hold a contest. You can try again in N3."
+to german "Es wurden nur N1 Punktrichter gefunden, N2 werden benötigt, um den Wettbewerb aufrecht zu halten. In N3 kann es nochmal versucht werden.";
+
+translate "Set the Judge Preferred count (now N1)"
+to german "Setze bevorzugte Richtergrenzwert (jetzt N1)";
+
+translate "Judges Preferred? (1-200)"
+to german "Bevorzugte Richtergrenzwert? (1-200)";
+
+translate "The preferred count can not be less than the threshold."
+to german "Die bevorzugte Zahl kann nicht kleiner als der Grenzwert sein.";
+
+translate "Judge preferred count for K1 is now N1"
+to german "Bevorzugte Punktrichter-Anzahl für K1 ist nun N1";
+
+translate "Legitimacy of this contest is N1 so far. To start, a Legitimacy of N2 must be reached."
+to german "Die Rechtmäßigkeit dieses Wettbewebs ist jetzt N1. Um zu starten, müssen N2 erreicht werden.";
+
+translate "Legitimacy of N1 reached. Contest will start in K1."
+to german "Die Rechtmäßigkeit wurde erreicht. Der Wettbewerb wird in K1 starten.";
+
+translate "Legitimacy of only N1 reached. Contest is cancelled, but you can try again now."
+to german "Es wurde nur eine Rechtmäßigkeit von N1 erreicht. Der Wettbewerb wurde abgesagt, aber du kannst es jetzt nochmals versuchen.";
+
+translate "The contest has a Legitimacy of N1. Searching for judges now."
+to german "Der Wettbewerb hat eine Rechtmäßigkeit von N1. Suche nun Richter.";
+
+translate "Set Name"
+to german "Setze Name";
+
+translate "Name of this Pyrotechnics Stadium Headquarters?"
+to german "Name dieses Feuerwerksstadions?";
+
+translate "Register as a future judge at K1"						
+to german "Registriere mich als zukünftigen Punktrichter bei K1";
+
+translate "You may now be asked to judge contests at K1"				
+to german "Du wirst nun gefragt, ob du als Punktrichter bei K1 teilnehmen möchtest.";
+
+translate "You are signed up to judge contests at this headquarters"
+to german "Du bist nun als Punktrichter an diesem Feuerwerksstadion eingetragen";
+
+translate "Resign as a judge at K1"		
+to german "Als Punkterichter an K1 zurücktreten";
+
+translate "this Pyrotechnics Stadium Headquarters"
+to german "diesem Feuerwerksstation";
+
+translate "You will no longer be asked to judge contests at K1"		
+to german "Du bist nicht länger als Punktrichter bei K1 eingetragen.";
+
+translate "There is now a new destination in your Navigation menu. You have a new temporary waypoint."
+to german "Du hast nun ein neuen vorrübergehenden Wegpunkt im Navigationsmenü.";
+
+translate "Fireworks Contest"
+to german "Feuerwerkswettbewerb";
+
+translate "U1 accepted the offer to judge."
+to german "U1(name) akzeptiert das Angebot zur Bewertung.";
+translate "U1 rejected the offer to judge."
+to german "U1(name) lehnt das Angebot zur Bewertung ab.";
+
+translate "Status: Signups"
+to german "Status: Anmeldung";
+
+translate "Status: Waiting for any contestant to arm"
+to german "Status: Warte auf Kandidaten um zu beginnen";
+
+translate "Status: Waiting for K1 to fire"
+to german "Status: Warte bis K1 feuert";
+
+translate "Status: Voting on K1"
+to german "Status: Bewertung für K1";
+
+translate "Status: Housekeeping"
+to german "Status: Organisiere";
+
+translate "Voting disabled for U1 since you are too far away."
+to german "Bewertung wurde deaktiviert, weil U1(name) zu weit entfernt ist.";
+
+translate "You voted for K1: "
+to german "K1 bewertet:";
+
+//translate "Got a vote of N1 influence K1 from U1"
+//to german "N1 
+
+translate "Principles of Pyrotechnics will walk you through the steps needed to exhibit your first shell at a Pyrotechnics Competition. This is one of the most involved yet rewarding Tests in the game."
+to german "Die Prinzipien des Feuerwerks führen dich durch einzelne Schritte, um deine eigene Granate an einem Feuerwerkswettbewerb vorzuführen. Dieser Test ist einer der lohnenswertesten in diesem Spiel.";
+translate "Request a Portable Star Lab"
+to german "Erbitte ein Tragbares Leuchtkugellabor";
+translate "Register as a Watcher at a Portable Star Lab"
+to german "Als Beobachter an einem Tragb. Leuchtkugellabor registrieren";
+translate "Watch 7 Stars launch from a Portable Star Lab"
+to german "Betrache 7 Leuchtkugeln, abgeschossen von einem Tragb. Leuchtkugellabor";
+translate "Make Gunpowder"
+to german "Schießpulver herstellen";
+translate "Grind Aluminum into Powder"
+to german "Mahle Aluminium zu Puder";
+translate "Learn the Neutralization Skill from a University of Thought"
+to german "Lerne an einer U Gedanken die Fähigkeit 'Neutralisierung'";
+translate "Learn any Star Recipe from the University of Art & Music"
+to german "Lerne jedes Leuchtkugelrezept von der U Kunst&Musik";
+translate "Build an Acid Bath"
+to german "Baue ein Säurebad";
+translate "Start a batch of Salts"
+to german "Beginne eine Ladung Metallsalze";
+translate "Complete 21 Salts"
+to german "Produziere 21 Metallsalze";
+translate "Build a Star Rack"
+to german "Baue ein Leuchtkugellabor";
+translate "Make a Batch of Stars"
+to german "Mache eine Ladung Leuchtkugeln";
+translate "Build a Mortar"
+to german "Baue einen Mörser";
+translate "Arm and Test-Fire a Mortar"
+to german "Lade und feuere einen Mörser ab";
+translate "Register as an Exhibitor for a Fireworks Show"
+to german "Registriere dich als Aussteller einer Feuerwerksshow";
+translate "Exhibit your legitimate shell at a show"
+to german "Stelle die auf dich zertifizierte Granate auf der Show vor";
+
+translate "You are now signed up for the Test of Pyrotechnics. To read about various aspects of pyrotechnics "
+to german "Du bist nun für den Test des Feuerwerks registriert. Um mehr über die verschiedenen Möglichkeiten ";
+translate "competitions, including exhibiting, judging, and scoring, visit any "
+to german "der Feuerwerkstechnik, die Bewertung deiner Feuerwerke, Wettbewerbe und ";
+translate "Pyrotechnics Stadium Headquarters."
+to german "Punktevergaben zu erfahren, besuche ein Feuerwerksstadion.";
+
+translate "You are now signed up for the Test of Pyrotechnics. To read about various aspects of pyrotechnics competitions, including exhibiting, judging, and scoring, visit any Pyrotechnics Stadium Headquarters."
+to german "Du bist nun für den Test des Feuerwerks registriert. Um mehr über die verschiedenen Möglichkeiten der Feuerwerkstechnik, die Bewertung deiner Feuerwerke, Wettbewerbe und Punktevergaben zu erfahren, besuche ein Feuerwerksstadion.";
+
+translate "Instructions"
+to german "Anleitungen";
+
+translate "Exhibiting"
+to german "Ausstellung";
+
+translate "Gather a group of exhibitors. A group's Legitimacy is measured by how many in the group are competing against others they have never competed against. Once the first person registers as an exhibitor, others have K1 to register. Next, judges will be asked to attend the contest."
+to german "Vereine Aussteller in einer Gruppe. Die Rechtmäßigkeit einer Gruppe hängt davon ab, wieviele aus dieser Gruppe gegen andere zum ersten Mal antreten. Nur die erste Person registriert sich als Aussteller, die anderen haben K1 zum Registrieren. Als nächstes werden Richter um Teilnahme an dem Wettbewerb anfragen.";
+
+translate "Registering to Judge"
+to german "Richterregistrierung";
+
+translate "If you would like to judge a Pyrotechnics competition, you must register as a judge at the Stadium Headquarters. You won't automatically be asked to judge every contest - there's a random element to who among the registered judges is asked. If you accept an offer to judge, a temporary waypoint will be added to your navigation options. Repeatedly agreeing to judge, but then failing to actually judge will cause you to be un-registered from that stadium."
+to german "\nWenn du als Richter in einem Feuerwerkswettbewerb agieren möchtest, mußt du dich an einem Feuerwerksstadion registrieren. Du wirst nicht automatisch als Richter für jeden Wettbewerb eingetragen - es gibt eine Zufallsauswahl, welcher der registrierten Richter ausgewählt wird. Wenn du einer Richteranfrage zustimmst, wird ein temporärer Wegpunkt in deinem Navigationsmenü angelegt. Wenn Richter wiederholt ihrer Aufgabe zustimmen, sie aber nicht erfüllen, werden von diesem Stadion ausgeschlossen.";
+
+translate "Voting on Shells"
+to german "Granaten bewerten";
+
+translate "After each shell is launched, a voting widget will appear in the lower-left of all judges' screens. Rate each shell from Poor to Monumental. Scores are normalized against past judging history, and weighted according to the number and makeup of contests previously judged. A judge's influence is shown on the widget. Scores are on a scale from 100 to 700, with 400 being the average."
+to german "\nNachdem jede Granate abgefeuert wurde, erscheint bei allen Richtern links unten ein Wahlfenster. Bewerte jede Granate von Schlecht bis zu Monumental. Die Punkte werden der vorhergehenden Wertungshistorie angepasst. Es findet keine absolute Beurteilung statt, sondern es werden vergangene Beurteilungen mit einbezogen und anhand von Anzahl und Gestaltung gewertet. Die Ergebnisse werden am Stadion auf einer Skala von 100-700 angezeigt, wobei 400 den Mittelwert darstellt."; 
+
+translate "Legitimacy Now: N1, With you at least N2."
+to german "Rechtmäßigkeit jetzt: N1, mit Dir mindestens N2.";
+
+translate "Register as a Walk-in Contestant"
+to german "Als unerfahrener Kandidat einschreiben";
+
+translate "Legitimacy Now: N1"
+to german "Rechtmäßigkeit jetzt: N1";
+
+translate "Register as an exhibitor"
+to german "Als Kandidat einschreiben";
+
+translate "You can only register when a contest starts. Check the calendar."
+to german "Du kannst dich nur zu einem bevorstehenden Wettbewerb registrieren. Prüfe den Kalender.";
+
+translate "You can't do this while a contest is running."
+to german "Du kannst dich nicht einschreiben, wenn ein Wettbewerb läuft.";
+
+translate "You can't organize a new contest for K1."
+to german "Du kannst für K1 keinen neuen Wettbewerb organisieren.";
+
+translate "You can't sign up while the test is going on."
+to german "Du kannst dich nicht einschreiben, solange ein Test läuft";
+
+translate "You are already signed up."
+to german "Du bist bereits eingeschrieben.";
+
+translate "You can't judge and compete."
+to german "Du kannst nicht Punktrichter und Kandidat sein.";
+
+translate "U1 joins as a Walk-In exhibitor"
+to german "U1(name) tritt als unerfahrener Aussteller bei";
+
+translate "You are already part of another contest. (DevCall if you think this is a bug.)"
+to german "Du nimmst bereits an einem anderen Wettbewerb teil. (Rufe einen Dev, wenn du meinst, dies sei ein Bug.)";
+
+translate "You will receive credit for registering, once this competition's Legitimacy reaches K1 and the show starts."
+to german "Du wirst Anerkennung für deine Registrierung erhalten, sobald dieser Wettbewerb eine Rechtmäßigkeit von K1 erreicht hat und die Show beginnt.";
+
+translate "You are signed up as contestant number N1"
+to german "Du bist eingeschrieben als Kandidat N1.";
+
+translate "Reset this desk"
+to german "Setze Stadion zurück";
+
+translate "The Test of Pyrotechnics is starting. Claim your spot by pressing the Arm button, when you are ready."
+to german "Der Feuerwerkswettbewerb beginnt. Fordert eure Plätze ein indem ihr den -Laden- Knopf drückt, sobald ihr fertig seid.";
+
+translate "The Test of Pyrotechnics is starting. Watch the sky, and vote."
+to german "Der Test des Feuerwerks beginnt. Beobachte den Himmel und bewerte.";
+
+translate "The Test of Pyrotechnics will start in K1 - be sure to get there in time to compete."
+to german "Der Test des Feuerwerks wird in K1 beginnen - stelle sicher, dass du pünktlich anwesend sein wirst.";
+
+translate "The Test of Pyrotechnics will start in K1 - be sure to get there in time to judge."
+to german "Der Test des Feuerwerks wird in K1 beginnen -  stelle sicher, dass du pünktlich zum Bewerten anwesend sein wirst.";
+
+translate "First contestant may now arm their mortar."
+to german "Der erste Kandidat darf nun seinen Mörser beladen.";
+
+translate "U1 took too long to fire. Anyone may now claim the next spot."
+to german "U1(name) brauchte zu lange zum Abfeuern. Jemand anders darf nun den nächsten Platz einnehmen.";
+
+translate "Warning: Nobody has armed their mortar in 60 seconds. If nobody arms in the next 60 seconds, the contest will end."
+to german "Warnung: Niemand hat seinen Mörser in den letzten 60 Sekunden geladen. Wenn niemand seinen Mörser in den nächsten 60 Sekunden bereit macht, wird der Wettbewerb abgebrochen!";
+
+translate "Warning: Nobody has armed their mortar in 90 seconds. If nobody arms in the next 30 seconds, the contest will end."
+to german "Warnung: Niemand hat seinen Mörser in den letzten 90 Sekunden geladen. Wenn niemand seinen Mörser in den nächsten 60 Sekunden bereit macht, wird der Wettbewerb abgebrochen!";
+
+translate "Calculating the winner and awarding points."
+to german "Der Gewinner und die Punkte werden berechnet.";
+
+translate "The following contestants were eliminated due to fraud votes: K1."
+to german "Die folgenden Teilneher wurden aufgrund Betrugsmeldungen entfernt: K1.";
+
+translate "Ground Fireworks are not being distributed now, because K1 already exists as a ground firework. A Developer may be able to help renaming the shell."
+to german "Das Bodenfeuerwerk wird nicht verteilt, weil K1 als Feuerwerk bereits existiert. Ein Entwickler kann dir beim Umbenennen der Granate helfen.";
+
+translate "Score: N1"
+to german "Punkte: N1";
+
+translate "You already fired your shell. Wait until the contest is over."
+to german "Du hast deine Ladung abgefeuert. Warte bis der Wettbewerb zu Ende ist.";
+
+translate "About to launch: O1."
+to german "Laden: O1(sn)";
+
+translate "Your turn - fire when ready. You have K1."
+to german "Du bist dran - Feuere wenn du bereit bist. Du hast K1.";
+
+translate "U1 is now firing. Wait until judging is over to claim your spot."
+to german "U1(name) feuert nun. Warte bis nach der Bewertung, um deinen Platz einzunehmen.";
+
+translate "You have already said you want to go next. Fire when ready."
+to german "Du hast bereits bestätigt, dass du nächster sein möchtest. Feuere, wenn du bereit bist.";
+
+translate "It's still a voting period. Wait a bit."
+to german "Es läuft bereits eine Bewertung. Warte ein wenig.";
+
+translate "Voted for U1 are all in. By the opinion of N1 judges, the shell was disqualified."
+to german "Alle Stimme für U1(name) eingegangen. N1 Richter sind der Meinung diese Grantate zu diqualifizieren.";
+
+translate "Votes for U1 are all in. N1 judges voted. Score: K2"
+to german "Alle Stimmen für U1(name) sind eingegangen. N1 Richter haben bewertet. Wertung: K2";
+
+translate "K1 has been launched. Judges should now be voting."
+to german "K1 wurde abgefeuert. Richter sollten nun bewerten.";
+
+translate " So far, U1 leads the show!"
+to german " Bislang liegt U1(name) an der Spitze!";
+
+translate "Votes for U1 are all in. N1 judges voted."
+to german "Bewertungen für U1(name) sind abgegeben. N1 Punktrichter haben bewertet.";
+
+translate "All contestants have launched."
+to german "Alle Kandidaten sind anwesend.";
+
+translate "Contestant N1 may now arm his mortar."
+to german "Kandidat N1 möge nun seinen Mörser laden.";
+
+translate "FWJudge: K1 at N1"
+to german "Punktrichter: K1 bei N1";
+
+translate "Add a contestant"
+to german "Füge Kandidaten hinzu";
+
+translate "Player to add:"
+to german "Spieler hinzufügen:";
+
+translate "Can not add U1 because they are a judge."
+to german "Du kannst U1(name) nicht hinzufügen, weil sie Richter sind.";
+
+translate "Already signed up."
+to german "Bereits eingetragen.";
+
+translate "No name entered."
+to german "Kein Name eingetragen";
+
+translate "Get Next Show"
+to german "Zur nächsten Show wechseln";
+
+translate "Could not get next show."
+to german "Kann nicht zur nächsten Show wechseln";
+
+translate "Schedule a Contest Here"
+to german "Kündige hier einen Wettbewerb an";
+
+translate "How long until start? (Example: 6:00 for six hours.)"
+to german "Wie lange zum Start? >(Bsp: für 6 Stunden.)";
+
+translate "View the Schedule"
+to german "Prüfe die Ankündigung";
+
+translate "Next contest at N1 N2 on K1"
+to german "Nächster Wettbewerb bei N1 N2 um K1";
+
+translate "Pyrotechnics Contest Schedule:"
+to german "Feuerwerkswettbewerb Bekanntgabe:";
+
+translate "Check progress in the Test of Pyrotechnics"
+to german "Prüfe Fortschritt im Test des Feuerwerks";
+
+translate "Progress in the Test of Pyrotechnics:"
+to german "Fortschritt Test des Feuerwerks:";
+
+translate "K1 ago"
+to german "K1 her";
+

@@ -1,0 +1,122 @@
+module Vegetables_fre;
+
+
+translate onionbed2 to french masculine
+{ ns "Plant d'oignon"; np "Plants d'oignons";}
+
+translate carrotbed2 to french masculine
+{ ns "Plant de carotte"; np "Plants de carottes";}
+
+translate leekbed2 to french masculine
+{ ns "Plant de poireau"; np "Plants de poireaux";}
+
+translate cabbagebed2 to french masculine
+{ ns "Plant de choux"; np "Plants de choux";}
+
+translate garlicbed2 to french masculine
+{ ns "Plant d'ail"; np "Plants d'ails";}
+
+translate watermelonbed2 to french masculine
+{ ns "Plant de pastèque"; np "Plants de pastèques";}
+
+translate Cucumberbed2 to french masculine
+{ ns "Plant de concombre"; np "Plants de concombres";}
+
+translate eggplantbed2 to french masculine
+{ ns "Plant d'aubergine"; np "Plants d'aubergines";}
+
+translate ccabbageseeds to french feminine
+{ ns "Graine de choux"; np "Graines de choux";}
+
+translate conionseeds to french feminine
+{ ns "Graine d'oignon"; np "Graines d'oignons";}
+
+translate ccarrotseeds to french feminine
+{ ns "Graine de carotte"; np "Graines de carottes";}
+
+translate cleekseeds to french feminine
+{ ns "Graine de poireau"; np "Graines de poireaux";}
+
+translate cgarlicseeds to french feminine
+{ ns "Graine d'ail"; np "graines d'ail";}
+
+translate cwatermelonseeds to french feminine
+{ ns "Graine de pastèque"; np "Graines de pastèque";}
+
+translate ccucumberseeds to french feminine
+{ ns "Graine de concombre"; np "Graines de concombres";}
+
+translate ceggplantseeds to french feminine
+{ ns "Graine d'aubergine"; np "Graines d'aubergines";}
+
+translate cpepperseeds to french feminine
+{ ns "Graine de poivron"; np "Graines de poivrons";}
+
+translate cabbage to french masculine
+{ ns "Choux"; np "Choux"; }
+
+translate watermelons to french feminine
+{ ns "Pastèque"; np "Pastèques"; }
+
+translate carrot to french feminine
+{ ns "Carotte"; np "Carottes"; }
+
+translate onions to french masculinecollective
+{ ns "Oignon"; np "Oignons"; }
+
+translate leek to french masculine
+{ ns "Poireau"; np "Poireaux"; }
+
+translate garlic to french masculine
+{ ns "ail"; np "ails"; }
+
+translate cucumber to french masculine
+{ ns "Concombre"; np "Concombres"; }
+
+translate eggplant to french femininecollective
+{ ns "Aubergine"; np "Aubergines"; }
+
+translate Pepper to french masculine
+{ ns "Poivron"; np "Poivrons"; }
+
+translate "Vegetable Bed"
+to french "Plant de légume";
+
+translate "Vegetable Seeds"
+to french "Graine de légume";
+
+translate "You don't have any water."
+to french "Vous n'avez pas d'eau";
+
+translate "Harvest these O1"
+to french "Récolter O1(cns) O1(ns)";
+
+translate "You harvested N1 O1 and N2 O2 seeds."
+to french "Vous avez récolté N1 O1(N1?np:ns) et N2 graine(s) de O2(N2?np:ns).";
+
+translate "Picked up N1 O1:K1."
+to french "Ramassé N1 O1(N1?np:ns): K1.";
+
+translate " Grew a Seed"
+to french " Faire pousser une graine";
+
+translate "Water these O1"
+to french "Arroser O1(cns) O1(ns)";
+
+translate "Your O1 has withered and died. Perhaps you are not tending it correctly?"
+to french "Votre O1(ns) s'est desséché et est mort. Peut-être ne l'avez-vous pas cultivé correctement ?";
+
+translate "Your O1 didn't produce anything useful. Maybe the land is not suitable?"
+to french "Votre O1(ns) s'est désseché et est mort. Peut-être que le type de sol n'est pas adéquat ?";
+
+//what,", Grew 77"));
+//Achieved(string(what,", Grew 777"));
+//Achieved(string(what,", Grew 7777"));
+//Achieved(string(what,", Grew 77777"));
+//Achieved(string(what," Grew 777777"));
+//Achieved(string(what," Grew 7777777"));
+
+
+
+
+

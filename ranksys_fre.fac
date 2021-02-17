@@ -1,0 +1,175 @@
+module RankSys_fre;
+
+translate RSReflection to french feminine
+{
+	ns "Réflexion"; np "Réflexion";
+	}
+
+translate RSTug to french feminine
+{
+	ns "Télépathie"; np "Télépathie";
+	}
+
+translate RSCommand to french masculine
+{
+	ns "Rite de Commandement"; np "Rite de Commandement";
+	}
+
+translate RSHeket to french masculine
+{
+	ns "Râteau d'Heket"; np "Râteau d'Heket";
+	}
+
+translate RSSeven to french feminine
+{
+	ns "Sept lames"; np "Sept lames";
+	}
+	
+translate RSZhadu to french masculine
+{
+	ns "Zhadu"; np "Zhadu";
+	}
+	
+translate "Tournament"
+to french "Tournoi";
+
+translate "Tournament: O1"
+to french "Tournoi : O1(ns)";
+
+translate "Did your opponent walk away and leave you stranded?"
+to french "Votre adversaire vous a-t-il abandonné sur place ?";
+
+translate "This match was recorded as a 'cancellation without prejudice'."
+to french "Cette partie a été enregistrée comme 'annulation sans préjudice'";
+
+translate "Only the current winner may cancel the match, except in case of a walkout."
+to french "Seul le joueur qui mène peut annuler la partie, sauf s'il s'en va.";
+
+translate "The score changed. Try again."
+to french "Le score a changé. Essayez à nouveau.";
+
+translate "You do not have any wins, you cannot spend a win to cancel a loss."
+to french "Vous n'avez pas de victoires, vous ne pouvez pas dépenser une victoire pour annuler une défaite.";
+
+translate "Discard Which Victory:"
+to french "Annuler quelle victoire ?";
+
+translate "You can only restart every N1"
+to french "Réinitialisation possible tous les N1";
+
+translate "Are you sure you want to restart the O1 tournament?"
+to french "Voulez-vous vraiment recommencer le tournoi de O1(ns) ?";
+
+translate "Rank"
+to french "Rang";
+
+translate "Walks"
+to french "Marche";
+
+translate "Wins"
+to french "Victoires";
+
+translate "Losses"
+to french "Défaites";
+
+translate "This person has been eliminated from the tournament because they have lost too many matches."
+to french "Cette personne a été éliminée du tournoi car elle a perdu trop de rencontres.";
+
+translate "You have been eliminated from the tournament because you lost too many matches. Your options are to spend one of your wins to cancel one of your losses, or to restart the tournament entirely.  You can only restart every N1"
+to french "Vous avez été éliminé du tournoi car vous avez perdu trop de rencontres. Vous avez la possibilité de dépenser une victoire pour annuler une de vos défaites, ou de recommencer le tournoi depuis le début. Vous ne pouvez recommencer que tous les N1.";
+
+translate "Spend a Win"
+to french "Dépenser une victoire";
+
+translate "Full Restart"
+to french "Tour recommencer";
+
+translate "Voluntary Restart"
+to french "Annulation volontaire";
+
+translate "People Defeated:"
+to french "Joueurs battus :";
+
+translate "None Yet."
+to french "Personne pour l'instant";
+
+translate "Current Matches:"
+to french "Parties en cours :";
+
+translate "None."
+to french "Aucune.";
+
+translate "Reset all RankSys Data"
+to french "Réinitialiser les données RankSys";
+
+translate "Since you're different ranks, this game will be practice only."
+to french "Comme vous êtes d'un niveau différent, il ne s'agira que d'une partie amicale.";
+
+translate "Since one of you has already defeated the other, this game will be practice only."
+to french "Comme l'un de vous a déjà battu l'autre, il ne s'agira que d'une partie amicale.";
+
+translate "You already have too many matches in progress. You cannot start a new one. This game will be practice only."
+to french "Vous avez déjà trop de parties en cours. Vous ne pouvez pas en lancer une nouvelle. Il ne s'agira que d'une partie amicale.";
+
+translate "Your opponent has too many matches in progress. He cannot start a new one. This game will be practice only."
+to french "Votre adversaire a trop de parties en cours. Il ne peut pas en lancer un enouvelle. Il ne s'agira que d'une partie amicale.";
+
+translate "Since you're different ranks, that game was practice only."
+to french "Comme vous êtes d'un niveau différent, il ne s'agira que d'une partie amicale.";
+
+translate "Since one of you has already defeated the other, that game was practice only."
+to french "Comme l'un de vous a déjà battu l'autre, il ne s'agira que d'une partie amicale.";
+
+translate "Your victory was added to your match advantage."
+to french "Votre victoire a été ajoutée à votre différence de points.";
+
+translate "Your loss was subtracted from your match advantage."
+to french "Votre défaite a été retirée de votre différence de points.";
+
+translate "You won the match, you are closer to the next rank!"
+to french "Vous avez gagné la partie, vous vous rapprochez du niveau suivant !";
+
+translate "You lost the match. Your opponent is closer to his next rank."
+to french "Vous avez perdu la partie. Votre adversaire se rapproche du niveau suivant.";
+
+translate "You won the match. You advanced in rank!"
+to french "Vous avez gagné la partie. Vous avez gagné un niveau !";
+
+translate "You lost the match. Your opponent advanced in rank."
+to french "Vous avez perdu la partie. Votre adversaire a gagné un niveau.";
+
+translate "Game is not a SeasonGame"
+to french "Ce n'est pas une partie officielle.";
+
+translate "SeasonGame parameters are misconfigured."
+to french "Les parties officielles ne sont pas bien configurées.";
+
+translate "O1 is not a game"
+to french "O1(ns) n'est pas un jeu.";
+
+translate "no such player U1"
+to french "Joueur U1(name) inexistant";
+
+translate "Rank System Controller"
+to french "Système de niveaux";
+
+translate "Display Victories"
+to french "Afficher les victoires";
+
+translate "Trial Report on O1"
+to french "Rapport de tests sur O1(ns)";
+
+translate "Distribute Victories"
+to french "Distribuer des victoires";
+
+translate "Are you sure you want to distribute Victories in O1 now?"
+to french "Voulez-vous distribuer des victoires dans O1(ns) ?";
+
+translate "Final Report on O1"
+to french "Rapport final sur O1(ns)";
+
+translate "Latest Results"
+to french "Derniers résultats";
+
+translate "Standing of: U1"
+to french "Niveau de: U1(name)";

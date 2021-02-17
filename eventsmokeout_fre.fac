@@ -1,0 +1,7 @@
+Module EventSmokeOut_fre;
+
+translate "You have now smoked with at least N1 friends, including K1."
+to french "Vous avez fum� en compagnie d'au moins N1 amis, dont K1.";
+
+translate "A wonderful bowl of herbs, enjoyed with friends. Alas, no new friends partook of the mellow smoke with you."
+to french "Un merveilleux bol d'herbes, appr�ci� entre amis. H�las, aucun nouvel ami n'a pris part � ce regroupement.";

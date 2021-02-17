@@ -1,0 +1,200 @@
+module raeli_spa;
+
+translate raelioven to spanish masculine
+{
+	ns "Horno Raeli"; np "Hornos raeli";
+	}
+
+translate raelitiles to spanish feminine
+{
+	ns "Teja Raeli"; np "Tejas Raeli";
+	}
+
+translate RaeliPottery to spanish feminine
+{
+	ns "Alfarería Raeli"; np "Alfarerías Raeli";
+	}
+
+translate "Enable the Clay Dredge"
+to spanish "Permitir la extracción de arcilla";
+translate "Disable the Clay Dredge"
+to spanish "Desactivar la extracción de arcilla";
+
+translate "Rediscovery of the lost art of Raeli Tiles: fine, traditional tiles in dramatic colors."
+to spanish "Redescubra el arte perdido de los Tejas Raeli, y de sus asociaciones de colores.";
+
+translate "You must learn how to make structures stronger first"
+to spanish "Usted debe primero enterarse cómo a reforzar la estructura";
+
+translate "Clay Bricks for Main Chamber"
+to spanish "Fregar en arcilla para el fógon principal";
+
+translate "Strengthen the Mechanism"
+to spanish "Renforzar el macanismo";
+
+translate "Copper Wire for Mechanism Tensioner"
+to spanish "Cables acero para el tensor de macanismo";
+translate "Moonsteel Sheeting - Heat Reflector Research"
+to spanish "Revestimiento de acero lunar - Investigación sobre los reflectores de calor";
+translate "Small Gears for Drivetrain"
+to spanish "Pequeños piñones para la tracción";
+translate "Bearings for Driveshaft"
+to spanish "Rodamientos para el eje de transmisión";
+translate "Cement for Platform"
+to spanish "Cemento para el plataforma";
+translate "Cut Stone for Counterweight"
+to spanish "Piedras cortadas para el contrapeso";
+translate "Rope for Countertensioner"
+to spanish "Cuaerdas pour conta tensor";
+translate "Crucibles for Collection Oven"
+to spanish "Crisol para el Fógon";
+translate "Glass Pipes for Thermostatic Regulator"
+to spanish "Tubos de vidrio para el regulador temostático";
+translate "Medium Gears for Drivetrain Attachment Point"
+to spanish "Piñones medios para punto de atadero del entrainements";
+translate "Iron Bars for Base Housing"
+to spanish "Barra de hierro para caja de base";
+translate "Shovel Blades for Collector"
+to spanish "Láminas de pala para colector";
+translate "Pinch Roller for Crushing Mechanism"
+to spanish "Rodillo a presión para trituración mecánica";
+
+translate "2000+ Quality Carpentry Blade"
+to spanish "Lámina de carpintería qualidad 2000+ ";
+translate "3000+ Quality Carpentry Blade"
+to spanish "Lámina de carpintería qualidad 3000+";
+translate "4000+ Quality Carpentry Blade"
+to spanish "Lámina de carpintería qualidad 4000+";
+translate "5000+ Quality Carpentry Blade"
+to spanish "Lámina de carpintería qualidad 5000+";
+translate "6000+ Quality Carpentry Blade"
+to spanish "Lámina de carpintería qualidad	 6000+";
+
+translate "Royal Palm Resin (Main Shaft Encasement Experiments)"
+to spanish "Resina de Palmera Real";
+translate "Mini Palmetto Resin (Main Shaft Encasement Experiments)"
+to spanish "Resina de Palmera Mini";
+translate "Miniature Fern Palm Resin (Main Shaft Encasement Experiments)"
+to spanish "Resina de Helecho Miniature";
+translate "Bottle Tree Resin (Main Shaft Encasement Experiments)"
+to spanish "Resina de árbol Calabaza";
+translate "Umbrella Palm Resin (Main Shaft Encasement Experiments)"
+to spanish "Resina de árbol Sombrilla";
+translate "Hawthorn Resin (Main Shaft Encasement Experiments)"
+to spanish "Resina de Espino ";
+translate "Folded Birch Resin (Main Shaft Encasement Experiments)"
+to spanish "Resina de Folded Birch";
+translate "Pratyeka Tree Resin (Main Shaft Encasement Experiments)"
+to spanish "Resina de Pratyeka";
+translate "Spindle Tree Resin (Main Shaft Encasement Experiments)"
+to spanish "Resina de árbol Carboncillo";
+translate "Locust Palm Resin (Main Shaft Encasement Experiments)"
+to spanish "Resina de Locust";
+translate "Coconut Palm Resin (Main Shaft Encasement Experiments)"
+to spanish "Resina de Cocotero";
+translate "Butterleaf Tree Resin (Main Shaft Encasement Experiments)"
+to spanish "Resina de árbol Rebanada";
+translate "Kaeshra Resin (Main Shaft Encasement Experiments)"
+to spanish "Resina de Kaeshra";
+translate "Giant Cricklewood Resin (Main Shaft Encasement Experiments)"
+to spanish "Resina de Bosque Hendidos Gigantes";
+translate "Ranyahn Resin (Main Shaft Encasement Experiments)"
+to spanish "Resina de Ranyahn";
+translate "Cinnar Resin (Main Shaft Encasement Experiments)"
+to spanish "Resina de Cinnar";
+translate "Delta Palm Resin (Main Shaft Encasement Experiments)"
+to spanish "Resina de Palmera de la Delta";
+translate "Cerulean Blue Resin (Main Shaft Encasement Experiments)"
+to spanish "Resina de Cerulean Blue";
+translate "Towering Palm Resin (Main Shaft Encasement Experiments)"
+to spanish "Resina de Grandes Palmeras";
+translate "Monkey Palm Resin (Main Shaft Encasement Experiments)"
+to spanish "Resina de Palmera Mono";
+translate "Cricklewood Resin (Main Shaft Encasement Experiments)"
+to spanish "Resina de Bosque Hendidos";
+
+//----
+translate "Steel Sheeting for heat reflector"
+to spanish "Revestimiento de acero termorreflenctante";
+
+translate "Sheet glass for the oven chamber"
+to spanish "Revestimiento de vidiro para el fogón del horno";
+
+translate "Fire bricks for the internal kiln"
+to spanish "Ladrillos refractarios para el interior del horno";
+
+translate "Large gear for the drive mechanism"
+to spanish "Gruesos piñones para el mecanismo de escolta";
+
+translate "Thermometers to monitor the kiln"
+to spanish "Termómetros para vigilar el horno";
+
+translate "You learn to make Raeli Ovens using O1 Resin to encase the main shaft. Other Regions may hold the secret to using different types of resins."
+to spanish "Usted aprendió a construir horno Raeli utilizando la Resina O1(ns) Para recubrir el rodillo primario";
+
+translate "You already know how to make Raeli Ovens using O1 Resin! Other Regions may hold the secret to using different types of resins."
+to spanish "Usted ya sabe cómo construir horno Raeli utilizando Resina O1(ns)! Otras regiones detienen posiblemente el secreto de la utilización de otras Resinas.";
+
+translate "You learn to build and operate Raeli Ovens to make the so-called 'lost art' Raeli Tiles."
+to spanish "Usted aprende a construir y a utilizar horno Raeli para fabricar lo que se designa como el arte perdido de las tejas raeli.";
+
+translate "Raeli Oven"
+to spanish "Horno Raeli";
+
+translate "Upgrade Oven with Clay Dredge"
+to spanish "Mejore este horno con una draga en arcilla";
+
+translate "Raeli ovens closer than 800 feet will interfere with each other."
+to spanish "El horno Raeli funciona mal si son por menos de 800 pies unos de otros.";
+
+translate "To build a Raeli Oven, you need: "
+to spanish "Para construir un horno Raeli, usted hace falta :";
+
+translate "Begin the Baking Process"
+to spanish "Lanzar el proceso de cocción";
+
+translate "Nearby ovens are interfering with this one."
+to spanish "Los hornos de la vecindad impiden ésta funcionar bien.";
+
+translate "No tiles were produced. Watch the dredging phase more carefully."
+to spanish "Ninguna teja producida. Vigile la etapa final más atentamente.";
+
+translate "It takes 100 petroleum to begin the baking process."
+to spanish "Hacen falta 100 unidades de petróleo para comenzar la cocción.";
+
+translate "Interrupt the Baking Process"
+to spanish "Interrumpir el proceso de cocción";
+
+translate "Start dredging"
+to spanish "Comenzar la extracción";
+
+translate "Show Raeli Color"
+to spanish "Color Raeli";
+
+translate "Non-owners may not use Oven"
+to spanish "Sólo los propietarios pueden utilizar este horno";
+
+translate "Only Owners may bake tiles in this Oven"
+to spanish "Sólo los propietarios pueden cocer tejas en este horno";
+
+translate "For this Oven, Owner keeps N1%"
+to spanish "Los propietarios guardan N1%";
+
+translate "You do not have permission to bake tiles in this Oven."
+to spanish "Usted no está autorizado de cocer tejas en este horno.";
+
+translate "You do not have permission to interrupt the baking process in this Oven."
+to spanish "Usted no está autorizado de interrumpir el proceso de cocción de este horno.";
+
+translate "You do not have permission to start dredging with this Oven."
+to spanish "Usted no está autorizado de lanzar el proceso de cocción de este horno.";
+
+translate "It takes 25 Charcoal to begin the baking process."
+to spanish "Hacen falta 25 carbones para arrancar la cocción";
+
+// passing the test - System messages
+
+translate "Egypt recognizes K1 for passing the Test of the Funerary Temple."
+to spanish "Egipto reconoce K1 Para haber pasado la prueba del Templo funerario";
+translate "Egypt recognizes K1 for passing the Test of the Funerary Temple. Retaining K2 passes."
+to spanish "Egipto reconoce K1 Para haber pasado la prueba del Templo funerario. K2 pasos retenidos";

@@ -1,0 +1,124 @@
+Module Priesthood_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment      	           **
+//**                                                                       **
+//***************************************************************************
+
+translate TryWorship to german feminine
+{
+swa "Verehrung"; sn "Verehrung"; pn "Verehrung";
+}
+translate RitualOfInitiation to german feminine
+{
+swa "Eröffnungsritual"; sn "Eröffnungsritual"; pn "Eröffnungsritual";
+}
+
+translate "You must present your demonstration items (Grilled Fish and Camel Milk) as part of a group of 21 people. Only the Petitioner needs to carry the items. There are just N1 people nearby."
+to german "Du musst deine Vorführgegenstände (gegrillter Fisch und Kamelmilch) als Teil einer Gruppe von 21 Leuten darreichen. Nur der Antragsteller muss die Gegenstände tragen. Es sind nur N1 Leute in der Umgebung.";
+
+translate "Are you sure you want to abandon Principles of Worship? Progress will be lost, though you can restart at any time."
+to german "Bist du sicher, dass du die Prinzipien der Verehrung abbrechen möchtest? Dein Fortschritt wird verloren sein, aber du kannst jederzeit neu beginnen.";
+
+translate "Perform the Ritual of Initiation"
+to german "Vollziehe das Eröffnungsritual";
+translate "Horus Offering: Bow Down"
+to german "Horus Opfer: Werfe dich nieder";
+translate "Horus Incantation: \"Praise Horus, King of Egypt!\""
+to german "Horus Beschwörung: \"Praise Horus, King of Egypt!\"";
+translate "Isis Offering: Plant a bed of Flax"
+to german "Isis Opfer: Pflanze ein Flachsbeet";
+translate "Isis Incantation: \"Praise Isis, whose seed is forever fertile!\""
+to german "Isis Beschwörung: \"Praise Isis, whose seed is forever fertile!\"";
+translate "Osiris Offering: Drop a Beetle into a Mine"
+to german "Osiris Opfer: Werfe einen Käfer in eine Mine";
+translate "Osiris Incantation: \"Praise Osiris, who was Reborn like the Scarab!\""
+to german "Osiris Beschwörung: \"Praise Osiris, who was Reborn like the Scarab!\"";
+translate "Thoth Offering: Learn a new skill"
+to german "Thoth Opfer: Lerne eine neue Fertigkeit";
+translate "Thoth Incantation: \"Praise Thoth, the Magician who created Science!\""
+to german "Thoth Beschwörung: \"Praise Thoth, the Magician who created Science!\"";
+translate "Ra Offering: Light a Ritual Torch in Deep Desert"
+to german "Ra Opfer: Entzünde eine Ritualfackel in der tiefsten Wüste";
+translate "Ra Incantation: \"Praise Ra, of the Blazing Eye!\""
+to german "Ra Beschwörung: \"Praise Ra, of the Blazing Eye!\"";
+translate "Bastet Offering: Place Camel Milk in a Grassy Field near Water"
+to german "Bastet Opfer: Stelle Kamelmilch auf grasigem Untergrund in Wassernähe ab";
+translate "Bastet Incantation: \"Praise Bastet, who teaches grace and elegance!\""
+to german "Bastet Beschwörung: \"Praise Bastet, who teaches grace and elegance!\"";
+translate "Amun Offering: Eat a meal of Grilled Fish"
+to german "Amun Opfer: Esse gegrillten Fisch";
+translate "Amun Incantation: \"Praise Amun, who gives us reason to celebrate!\""
+to german "Amun Beschwörung \"Praise Amun, who gives us reason to celebrate!\"";
+translate "Perform the Closing Ceremony"
+to german "Vollziehe die Abschlusszeremonie";
+translate "You will have 25 minutes from when you begin."
+to german "Du hast 25 Minuten Zeit vom Start bis zum Abschluss der Zeremonie. Prüfe die Wiki, welche Materialien du für die Rituale benötigst.";
+
+translate "Time Remaining: N1"
+to german "Verbleibende Zeit: N1";
+
+translate "Done"
+to german "Erledigt";
+
+translate "To become a follower of the Egyptian Gods, you must perform the ritual of initiation.  Note: this initiation is the hardest of all.  It requires that you have a relatively high technology level.  Do not attempt it unless you already have access to canvas, metal, and farm animals.  We have not yet put the instructions into the game, instead, you will have to go to our web page to read them - look under 'PlayGuides'."
+to german "\nUm ein Anhänger der ägyptischen Götter \nzu werden, musst du das Ritual der \nEinführung absolvieren. Hinweis: \nDas Ritual ist sehr schwierig. \nDu benötigst ein relativ hohes \ntechnisches Wissen. Beginne nicht damit, bevor du nicht Zugang zu \nSeilen, Metall und Tierhaltung hast. \nWeitere Hinweise findest du in der Wiki \n(http://wiki.atitd.net) \nGib das Suchwort 'Einfuehrung Verehrung' ein.";
+
+translate "It appears that you are attempting the Ritual of Initiation, however, U1 has not signed up for the Initiation into Worship."
+to german "Es kann passieren, dass du das Einführungsritual durchführen kannst, U1(name) jedoch nicht für den Einführungstest in die Verehrung eingetragen ist.";
+
+translate "You cannot perform the Ritual of Initiation together because U1 is not yet a citizen."
+to german "Du kannst das Ritual der Einfphrung nicht mit U1(name) machen, da er kein Einwohner ist.";
+
+translate "You cannot perform the Ritual of Initiation together because U1 is already a follower."
+to german "Du kannst das Ritual der Einführung nicht mit U1(name) machen, da er schon Anhänger ist.";
+
+translate "You have gained the attention of the gods, and they are watching to see if you can complete the ritual correctly.  You have 25 minutes."
+to german "Du hast die Aufmerksamkeit der Götter erregt und sie beobachten, ob du das Ritual korrekt beenden kannst. Du hast 25 Minuten.";
+
+translate "The gods have lost interest in your request to become a follower.  You will need to restart the ritual to regain their attention."
+to german "Die Götter haben kein Interesse mehr an einem Bemühen ein Anhänger zu werden. Du wirst das Ritual nochmal beginnen müssen, um ihre Aufmerksamkeit neu zu erregen.";
+
+translate "O1 is pleased with the gift!"
+to german "O1(sn) ist mit der Opfergabe zufrieden!";
+
+translate "O1 is pleased with the prayer!"
+to german "O1(sn) ist mit der Anbetung zufrieden!";
+
+translate "All the gods have been appeased!  Return to the altar for the closing ceremony."
+to german "Alle Götter wurden zufrieden gestellt! Kehre zum Altar zurück für die Schlusszeremonie.";
+
+translate "You should not perform the closing ceremony unless all the gods are pleased."
+to german "Du solltest die Schlusszeremonie nicht ausführen, bevor nicht alle Götter zufrieden sind.";
+
+translate Horus to german masculine
+{
+swa "Horus"; sn "Horus"; pn "Horus";
+}
+translate Isis to german feminine
+{
+swa "Isis"; sn "Isis"; pn "Isis";
+}
+translate Osiris to german masculine
+{
+swa "Osiris"; sn "Osiris"; pn "Osiris";
+}
+translate Thoth to german masculine
+{
+swa "Thoth"; sn "Thoth"; pn "Thoth";
+}
+translate Ra to german masculine
+{
+swa "Ra"; sn "Ra"; pn "Ra";
+}
+translate Bastet to german feminine
+{
+swa "Bastet"; sn "Bastet"; pn "Bastet";
+}
+translate Amun to german masculine
+{
+swa "Amun"; sn "Amun"; pn "Amun";
+}

@@ -1,0 +1,148 @@
+Module UserInfo_spa;
+
+translate "You may only have a maximum of 200 notes"
+to spanish "Solo puedes tener un máximo de 200 notas";
+
+translate "Note? (250 chars)"
+to spanish "Nota ? (250 carácteres)";
+
+translate "Really this note?"
+to spanish "En serio esta nota ?";
+
+translate "Really delete all your notes?"
+to spanish "Estás seguro de que quieres borrar todas tus notas ?";
+
+translate "Are you 100% certain?"
+to spanish "Estás 100% seguro ?";
+
+translate "General"
+to spanish "General";
+
+translate "Guilds"
+to spanish "Gremios";
+
+translate "Notes"
+to spanish "Notas";
+
+translate "U1, Level N1 O1 of O2 (paid account)"
+to spanish "U1(name), Nivel N1 O1(ns) de O2(ns) (cuenta pagada)";
+
+translate "U1, Level N1 O1 of O2 (trial account)"
+to spanish "U1(name), Nivel  N1 O1(ns) de O2(ns) (cuenta tentativa)";
+
+translate "U1, Level N1 O1 of O2 (quit)"
+to spanish "U1(name), niveau N1 O1(ns) en O2(ns) (marchado)";
+
+translate "U1, Level N1 O1 of O2 (expired or closed)"
+to spanish "U1(name), niveau N1 O1(ns) en O2(ns) (cuenta expirada o cerrada)";
+
+translate "Peasant U1 (trial account)"
+to spanish "Paysan U1(name) (cuenta tentativa)";
+
+translate "Citizen U1, Level N1 (trial account)"
+to spanish "Citoyen U1(name), niveau N1 (cuenta tentativa)";
+
+translate "Citizen U1, Level N1 (paid account)"
+to spanish "Citoyen U1(name), niveau N1 (cuenta pagada)";
+
+translate "Connected (AFK)"
+to spanish "Connecté(e) (Ausente)";
+
+translate "Connected"
+to spanish "Conectado";
+
+translate "Disconnected"
+to spanish "Desconectado";
+
+translate "First Login: "
+to spanish "Primera Entrada : ";
+
+translate "Last Login: "
+to spanish "Última Conexión : ";
+
+translate "Logged in for: "
+to spanish "Conectado por : ";
+
+translate "Married to: "
+to spanish "Casado(a) con : ";
+
+translate "Edit Note"
+to spanish "Modifica una Nota";
+
+translate "Add Note"
+to spanish "Agrega una Nota";
+
+translate "Delete Note"
+to spanish "Borra una Nota";
+
+translate "Delete All Notes"
+to spanish "Borra todas las Notas";
+
+translate "Elder:"
+to spanish "Erudito :";
+
+translate "Patriarch:"
+to spanish "Patriarca :";
+
+translate "Kinsman:"
+to spanish "Pariente :";
+
+translate "Fellow:"
+to spanish "Socio :";
+
+translate "Member:"
+to spanish "Miembro :";
+
+translate "Associate:"
+to spanish "Asociado :";
+
+translate "Initiate:"
+to spanish "Novato :";
+
+translate "Looking up info..."
+to spanish "Buscando la información...";
+
+translate "Location: :"
+to spanish "Localización : ";
+
+translate "Guild U1 (N1/N2)"
+to spanish "Gremio U1(name) (N1/N2)";
+
+translate "Pyramid Lake N1 N2"
+to spanish "Lago de la Pirámide N1 N2";
+translate "Adn N1 N2"
+to spanish "Edén N1 N2";
+translate "Falcon Bay N1 N2"
+to spanish "Bahía de Halcónes N1 N2";
+translate "Cat Claw Ridge N1 N2"
+to spanish "Canto Garra Felina N1 N2";
+translate "Queen's Retreat N1 N2"
+to spanish "Retiro de la Reina N1 N2";
+translate "Heaven's Gate N1 N2"
+to spanish "Puerta del Cielo N1 N2";
+translate "Nomads' Paradise N1 N2"
+to spanish "Paraiso del Nómada N1 N2";
+
+translate "U1 is an otter at Adn N1 N2"
+to spanish "U1(name) esta nutria está en Eden N1 N2";
+translate "U1 is an otter at Pyramid Lake N1 N2"
+to spanish "U1(name) esta nutria está en Lago de la Pirámide N1 N2";
+translate "U1 is an otter at Falcon Bay N1 N2"
+to spanish "U1(name) esta nutria está en Bahía de Halcónes N1 N2";
+translate "U1 is an otter at Cat Claw Ridge N1 N2"
+to spanish "U1(name) esta nutria está en Canto Garra Felina N1 N2";
+translate "U1 is an otter at Queen's Retreat N1 N2"
+to spanish "U1(name) esta nutria está en el Retiro de la Reina N1 N2";
+translate "U1 is an otter at Nomads' Paradise N1 N2"
+to spanish "U1(name) esta nutria está en el Paraiso del Nómada N1 N2";
+translate "U1 is an otter at Heaven's Gate N1 N2"
+to spanish "U1(name) esta nutria está en Puerta del Cielo N1 N2";
+
+translate "Guild Location is Hidden."
+to spanish "La localización de este Gremio esta oculto.";
+
+translate "Guild Roster is Secret."
+to spanish "La lista de miembros está oculta.";
+
+translate "Could not find: U1"
+to spanish "U1(name) no fué encontrado.";

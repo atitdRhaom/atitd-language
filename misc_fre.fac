@@ -1,0 +1,137 @@
+module misc_fre;
+
+translate "Donate to the public"
+to french "Céder au public";
+
+translate "On behalf of U1"
+to french "De la part de U1(name)";
+
+translate "Contribute this to my guild"
+to french "Donner une contribution à ma guilde";
+
+translate "Contribute this to my Primary Guild"
+to french "Faire don à ma guilde principale";
+
+translate "Tear down this building"
+to french "Détruire cette construction";
+
+translate "Salvage this abandoned building"
+to french "Recycler cette construction abandonnée";
+
+translate "What time is it?"
+to french "Quelle heure est-il ?";
+
+translate "Utility"
+to french "Outils";
+
+translate "Check for coverage under the Tear Down Buildings Act"
+to french "Contrôler selon la loi de destruction des bâtiments";
+
+translate "Public buildings must be unused for 7 days to be covered under the Tear Down Buildings Act. This has only been unused for K1."
+to french "Les bâtiments publics doivent être abandonnés pendant 7 jours pour tomber sous le coup de la loi de destruction des bâtiments. Cette construction n'est abandonnée que depuis K1.";
+
+translate "This property is protected and could not be torn down."
+to french "C'est une propriété protégée, impossible de la détruire.";
+
+translate "Once you contribute something to the public, you can't undo your action. Are you sure you want to do this?"
+to french "Lorsque vous avez donné quelque chose au public, vous ne pouvez plus revenir en arrière. Voulez-vous vraiment faire cela ?";
+
+translate "Once you contribute something to your guild, you can't undo your action. Are you sure you want to do this?"
+to french "Lorsque vous avez donné quelque chose à la guilde, vous ne pouvez plus revenir en arrière. Voulez-vous vraiment faire cela ?";
+
+translate "This is too far away"
+to french "Vous êtes trop loin";
+
+translate "By order of the General Salvage Law, passed by Meffi on 11/14/2002, buildings must have been abandoned for 4 hours before they become salvageable. This U1 has only been abandoned for N1."
+to french "Conformément à la loi sur le Recyclage général, votée par Meffi le 14 novembre 2002, toutes les constructions doivent être abandonnées depuis 4 heures avant d'être recyclables. U1(^cns) U1(ns) n'est abandonné que depuis N1.";
+
+translate "Tear this down by order of the Ban Yoda law."
+to french "Détruire cette construction conformément à la loi.";
+
+translate "Tear this down by order of 'Building On Game Courts' law"
+to french "Détruire conformément à la loi sur la construction en terrain de jeu";
+
+translate "Do you really want to tear down the U1?"
+to french "Voulez-vous vraiment détruire U1(^cns) U1(ns) ?";
+
+translate "Salvaging..."
+to french "Recyclage...";
+
+translate "Some weird bug in WaitUntilTimeOfDay"
+to french "Bug dans WaitUntilTimeOfDay";
+
+translate "That can't be done with a public building."
+to french "Impossible sur un bâtiment public.";
+
+translate "You must highlight an item from the list first"
+to french "Vous devez d'abord faire une sélection dans la liste.";
+
+translate "N1"
+to french "N1";
+
+translate "Reclaim this from the public"
+to french "Reprendre au public";
+
+translate "Tear down this condemned O1"
+to french "Détruire O1(cns) O1(ns) condamné(e)";
+
+translate "By order of the 'Obelisk Abuse Prevention Act', you cannot tear down obelisks for 30 days."
+to french "Par ordre de la Loi sur la Prévention des Abus en matière d'Obélisques, il est impossible de détruire un obélisque pendant 30 jours.";
+
+translate "Add Pharaoh's seal of protection"
+to french "Apposer le sceau de protection de Pharaoh";
+
+translate "This sculpture is specially protected by Pharaoh"
+to french "Cette sculpture est protégée par décret spécial de Pharaoh";
+
+translate "Check the Addition to the Departed Persons Reclamation Act"
+to french "Consulter l'amendement à la Loi sur les Personnes Disparues";
+
+translate "Last used K1 ago"
+to french "Inutilisé depuis K1";
+
+translate "Could not find honored party U1. Report this to a developer."
+to french "Impossible de trouver l'individu honoré U1(name). Veuillez contacter un développeur.";
+
+translate "This mentor shrine is not covered under the DPA because the honored party, U1, is not a departed person as defined by the act."
+to french "Ce sanctuaire de mentor n'est pas concerné par la loi sur les personnes disparues, car la personne honorée, U1(name), n'est pas une personne disparue selon cette loi.";
+
+translate "Under the Departed Persons Act, 2nd Amendment, passed by Timtekh, this sculpture can not be torn down because it has less than 20 votes registered."
+to french "En vertu du second amendement à la loi sur les personnes disparues, par Timketh, cette sculpture ne peut pas être détruite car elle possède moins de 20 votes enregistrés.";
+
+translate "Could not find the original builder. It could be a very old, but guild-owned building. Since this is also a Monument of Egypt as desfined by law, the safe thing to do is to disallow destruction."
+to french "Impossible de trouver le constructeur d'origine. Cette construction doit être très ancienne, mais possédée par une guilde. Comme c'est également un monument d'égypte tel que défini par la loi, il est recommandé de ne pas autoriser sa destruction.";
+
+translate "Under the Departed Persons Act, 2nd Amendment, passed by Timtekh, this sculpture can not be torn down because the number of Eyesore votes (N1) plus the number of days since the sculptor left Egypt (N2) does not exceed the number of interesting proclaimations (N3)."
+to french "En vertu de la loi sur les personnes disparues, second amendement, par Timeketh, cette sculpture ne peut être détruite car le nombre de voix en sa défaveur (N1) plus le nombre de jours depuis le départ du sculpteur des terres d'égypte (N2) ne dépasse pas le nombre de voix prononcées en faveur de la sculpture (N3).";
+
+translate "Could not find owner. Report this to eGenesis. (1)"
+to french "Impossible de trouver le propriétaire. Contactez eGenesis. (1)";
+
+translate "Could not find owner. Report this to eGenesis. (2)"
+to french "Impossible de trouver le propriétaire. Contactez eGenesis. (2)";
+
+translate "Although this property could be torn down, you would need Salvage level-1 to do so."
+to french "Même si cette propriété peut être détruite, vous devez posséder un niveau-1 en recyclage pour le faire.";
+
+translate "Check for coverage under the Tear Down Buildings Act"
+to french "Statut par rapport à la loi sur la destruction des constructions";
+
+translate "Public buildings must be unused for 7 days to be covered under the Tear Down Buildings Act. This has only been unused for N1."
+to french "Les bâtiments publics doivent être abandonnés depuis 7 jours pour être soumis à la loi sur la destruction des constructions. Cette construction n'est inutilisée que depuis N1.";
+
+translate "Challenge complete"
+to french "Principes terminés";
+
+translate "Clipboard"
+to french "Presse-papier";
+
+translate "You moved while picking up."
+to french "Vous ne devez pas bouger alors que vous ramassez.";
+/////////////Official Characters /infos///////////////
+
+
+
+
+
+

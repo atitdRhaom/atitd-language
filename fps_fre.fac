@@ -1,0 +1,13 @@
+Module fps_fre;
+
+translate "K1: K2, K3"
+to french "K1: K2, K3";
+
+translate "K1: N1, N2"
+to french "K1: N1, N2";
+
+translate "Year K1, K2 K3, K4pm"
+to french "An K1, K2 K3 K4, après-midi";
+translate "Year K1, K2 K3, K4am"
+to french "An K1, K2 K3 K4, matin";
+

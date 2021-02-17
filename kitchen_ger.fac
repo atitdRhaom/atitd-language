@@ -1,0 +1,550 @@
+module kitchen_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**            German Version: Astrid "Infinyti" Werner                   **
+//**                            2011                        	            **
+//**                                                                       **
+//***************************************************************************
+
+
+translate Coconuts to german feminine
+{
+ swa "Kokosnuss";
+  sn "Kokosnuss"; sg "Kokosnuss"; sd "Kokosnuss"; sa "Kokosnuss";
+  pn "Kokosnüsse"; pg "Kokosnüsse"; pd "Kokosnüsse"; pa "Kokosnüsse";
+}
+translate CoconutMeat to german neutercollective
+{
+ swa "Kokosnussfleisch";
+  sn "Kokosnussfleisch"; sg "Kokosnussfleisch"; sd "Kokosnussfleisch"; sa "Kokosnussfleisch";
+  pn "Kokosnussfleisch"; pg "Kokosnussfleisch"; pd "Kokosnussfleisches"; pa "Kokosnussfleisch";
+}
+translate Kitchen to german feminine
+{
+ swa "Küche";
+  sn "Küche"; sg "Küche"; sd "Küche"; sa "Küche";
+  pn "Küchen"; pg "Küchen"; pd "Küchen"; pa "Küchen";
+}
+
+translate CarrotJuice to german masculine
+{
+ swa "Karottensaft";
+  sn "Karottensaft"; sg "Karottensafts"; sd "Karottensaft"; sa "Karottensaft";
+  pn "Karottensäfte"; pg "Karottensäfte"; pd "Karottensäften"; pa "Karottensäfte";
+}
+
+translate Cookpots to german masculine
+{
+ swa "Eisenkochtopf";
+  sn "Eisenkochtopf"; sg "Eisenkochtopfes"; sd "Eisenkochtopf"; sa "Eisenkochtopf";
+  pn "Eisenkochtöpfe"; pg "Eisenkochtöpfe"; pd "Eisenkochtöpfen"; pa "Eisenkochtöpfe";
+}
+translate CopperCookpots to german masculine
+{
+ swa "Kupferkochtopf";
+  sn "Kupferkochtopf"; sg "Kupferkochtopfes"; sd "Kupferkochtopf"; sa "Kupferkochtopf";
+  pn "Kupferkochtöpfe"; pg "Kupferkochtöpfe"; pd "Kupferkochtöpfen"; pa "Kupferkochtöpfe";
+}
+
+translate TonicOfClarity to german neuter
+{
+ swa "Elixier der Reinheit";
+  sn "Elixier der Reinheit"; sg "Elixiers der Reinheit"; sd "Elixier der Reinheit"; sa "Elixier der Reinheit";
+  pn "Elixiere der Reinheit"; pg "Elixiere der Reinheit"; pd "Elixieren"; pa "Elixiere der Reinheit";
+}
+
+translate TonicBrewing to german neuter
+{
+ swa "Elexierbrauen";
+  sn "Elexierbrauen"; 
+  pn "Elexierbrauen";
+}
+
+translate HarvestElixer to german neutercollective
+{
+ swa "Düngemittel";
+  sn "Düngemittel"; sg "Düngemittels"; sd "Düngemittel"; sa "Düngemittel";
+  pn "Düngemittel"; pg "Düngemittel"; pd "Düngemitteln"; pa "Düngemittel";
+}
+translate EssentialExtract to german neuter
+{
+ swa "Spezielle Extrakt";
+  sn "Spezielle Extrakt"; sg "Speziellen Extraktes"; sd "Speziellen Extrakt"; sa "Spezielle Extrakt";
+  pn "Speziellen Extrakte"; pg "Speziellen Extrakte"; pd "Speziellen Extrakten"; pa "Speziellen Extrakte";
+}
+
+translate SheepSuppliment to german feminine
+{
+ swa "Schafsalbe";
+  sn "Schafsalbe"; sg "Schafsalbe"; sd "Schafsalbe"; sa "Schafsalbe";
+  pn "Schafsalben"; pg "Schafsalben"; pd "Schafsalben"; pa "Schafsalben";
+}
+translate EssentialExtract to german masculine
+{
+ swa "Bienenextrakt";
+  sn "Bienenextrakt"; sg "Bienenextrakts"; sd "Bienenextrakt"; sa "Bienenextrakt";
+  pn "Bienenextrakte"; pg "Bienenextrakte"; pd "Bienenextrakten"; pa "Bienenextrakte";
+}
+translate Gastronomy to german femininecollective
+{
+ swa "Gastronomie";
+  sn "Gastronomie"; 
+  pn "Gastronomie"; 
+}
+translate Beeswax to german neuter
+{
+ swa "Bienenwachs";
+  sn "Bienenwachs"; sg "Bienenwachs"; sd "Bienenwachs"; sa "Bienenwachs";
+  pn "Bienenwachs"; pg "Bienenwachs"; pd "Bienenwachs"; pa "Bienenwachs";
+}
+
+translate BagLunch to german feminine
+{
+ swa "Brotzeit";
+  sn "Brotzeit";
+  pn "Brotzeiten";
+}
+
+translate BoxLunch to german neuter
+{
+ swa "Lunchpaket";
+  sn "Lunchpaket";
+  pn "Lunchpakete";
+}
+
+translate "Build a Kitchen"
+	to german "Baue eine Küche";
+
+translate "To build a Kitchen, you need: "
+	to german "Um eine Küche zu bauen benötigst du: ";
+
+translate "Recipes"
+	to german "Rezepte";
+
+translate "Tonic of Clarity"
+	to german "Elixier der Reinheit";
+
+translate "Tonic Brewing"
+	to german "Elixierbraukunst";
+
+translate "How many doses?"
+	to german "Wieviel Portionen?";
+
+translate "You need:"
+	to german "Du brauchst:";
+
+translate "The tonic will be ready in ten minutes."
+	to german "Das Elixier wird in 10 Minuten fertig sein.";
+
+translate "Tonics"
+	to german "Elixiere";
+
+translate "Special"
+	to german "Spezial";
+
+translate "Learn to make Tonic of Clarity"
+	to german "Lerne, wie man das Elixier der Reinheit herstellt";
+
+translate "If you need to cure poison that affects your mind, a Tonic of clarity can be made at a Kitchen by combining one iron knot mushroom and one dead tongue mushroom."
+	to german "Wenn du dich von Gift heilen willst, das deine Gedanken vernebelt, kannst Du ein Elixier der Reinheit in der Küche herstellen. Du benötigst einen Eisenstich- und einen Todeszungenpilz.";
+
+translate "The tonic has no effect."
+	to german "Das Elixier hat keinen Effekt.";
+
+translate "Your poison level is now N1"
+	to german "Dein Vergiftungsgrad ist nun N1";
+
+translate "U1 has poison level N1"
+	to german "U1(name) hat einen Vergiftungsgrad von N1";
+
+translate "Harvest Elixer"
+	to german "Düngemittel";
+
+translate "To make a batch of Harvest Elixer, you need:"
+	to german "Um eine Ladung Düngemittel herzustellen benötigst du:";
+
+translate "The Harvest Elixer will be ready in five minutes."
+	to german "Das Düngemittel wird in fünf Minuten fertig sein.";
+
+translate "Elixir of Regrowth"
+	to german "Elixier des erneuten Wachstums";
+
+translate "In order to make the Elixir of Regrowth, you need:"
+	to german "Um eine Ladung Elixier des erneuten Wachstums herzustellen benötigst du:";
+
+translate "The Elixir of Regrowth will be ready in ten minutes."
+	to german "Das Elixier des erneuten Wachstums wird in zehn Minuten fertig sein.";
+
+translate "Sheep Supplement"
+	to german "Schafsalbe";
+
+translate "To make Sheep Supplement, you need:"
+	to german "Um eine Schafsalbe herzustellen benötigst du:";
+
+translate "The salve will be ready in ten minutes."
+	to german "Die Salbe wird in zehn Minuten fertig sein.";
+
+translate "To make a 3x dose of Sheep Supplement, you need:"
+	to german "Um eine 3x Portion der Schafsalbe herzustellen benötigst du:";
+
+translate "Sheep Supplement, 3x dose"
+	to german "Schafsalbe, 3x Portion";
+
+translate "Essential Extract"
+	to german "Essentielles Extrakt";
+
+translate "To make a batch of Essential Extract, used to increase an apiary's wax output, you need:"
+	to german "Um eine Ladung essentiellen Extraktes herzustellen, der die Wachsproduktion im Bienenhaus steigert, brauchst du:";
+
+translate "The Extract will be ready in three minutes."
+	to german "Das Extrakt wird in 3 Minuten fertig sein.";
+
+translate "Mixing..."
+	to german "Mischen...";
+
+translate "There is nothing in the pot"
+	to german "Es ist nichts im Topf";
+
+translate "There is not enough food in the pot for a serving"
+	to german "Es ist nicht genug Essen im Topf für eine Portion";
+
+translate "There is enough food in the pot for one serving"
+	to german "Es ist gerade genug Essen für eine Portion im Topf";
+
+translate "There is food in the pot for N1 servings"
+	to german "Es ist Essen für N1 Portionen im Topf";
+
+translate "Mix"
+	to german "Mische";
+
+translate "Add O1"
+	to german "Füge O1(pn) hinzu";
+
+translate "You don't have the Cooking skill."
+	to german "Du hast keinen Kochskill.";
+
+translate "Mix how much O1?"
+	to german "Wieviel O1(pn) hineinmischen?";
+
+translate "Special Mix"
+	to german "Spezialmix";
+
+translate "Show the recipe"
+	to german "Zeige das Rezept";
+
+translate "Only the Chef can do that during the festival."
+	to german "Nur der Chefkoch kann dies während des Festivals tun.";
+
+translate "Recipe is:"
+	to german "Das Rezept:";
+
+translate "Show Recipes to Non Guild Members"
+	to german "Zeige Rezepte für Gildenfremde";
+
+translate "Hide Recipes to Non Guild Members"
+	to german "Verstecke Rezepte vor Gildenfremden";
+
+translate "Ownership"
+	to german "Eigentum";
+
+translate "Cookpot can be emptied by: K1"
+	to german "Kochtopf darf gelehrt werden von: K1";
+
+translate "Cookpot can be emptied by: U1"
+	to german "Kochtopf kann geleert werden durch: U1(name)";
+
+translate "Permission for Emptying"
+	to german "Erlaubnis zum Ausleeren";
+
+translate "Public"
+	to german "Öffentlich";
+
+translate "Private"
+	to german "Privat";
+
+translate "Clean out the cook pot"
+	to german "Reinige den Kochtopf";
+
+translate "During the festival, only the chef, owner, or patriarch of the owning guild may clean a non-empty cookpot."
+	to german " Während des Festivals darf nur der Chef, Eigentümer oder Patriarch der besitzhabenden Gilde einen noch gefüllten Kochtopf leeren.";
+
+translate "You don't have permission to empty the cookpot."
+	to german "Du hast nicht die Erlaubnis, den Topf zu reinigen.";
+
+translate "Are you sure you want to clean this cookpot?"
+	to german "Bist du sicher, dass du diesen Kochtopf reinigen möchtest?";
+
+translate "Separate Oil from Flax Seeds"
+	to german "Gewinne Öl aus Flachssaaten";
+
+translate "You need 10 flax seeds."
+	to german "Du benötigst 10 Flachssaaten.";
+
+translate "Nice work. Sacrificial Bonfires require lots of oil to start. Hint: Team up with others to share the cost of building one."
+	to german "Gute Arbeit, Opferfeuer benötigen viel Öl zum Anfeuern. Tipp: Verbünde dich mit Anderen, um sich die Kosten für ein Gebäude zu teilen.";
+
+translate "Separate Coconut Meat and Coconut Water"
+	to german "Trenne Kokosnussfleisch von Kokosnusswasser";
+
+translate "Crush Egg Shells"
+	to german "Zermahle Eierschalen";
+
+translate "How many eggs to crush?"
+	to german "Wieviele Eierschalen zermahlen?";
+
+translate "You don't have that many."
+	to german "Soviel hast du nicht.";
+
+translate "Crush Cabbage for Cabbage juice"
+	to german "Zerstampfe Kohl für Kohlsaft";
+
+translate "Crush many Cabbages at once for Juice"
+	to german "Zerstampfe viele Kohlköpfe auf einmal für Kohlsaft";
+
+translate "How many cabbages to be crushed?"
+	to german "Wieviele Kohlköpfe zerstampfen?";
+
+translate "Grate Carrots for Carrot Juice"
+	to german "Rasple Karotten für Karottensaft";
+
+translate "Grate many Carrots at once for Juice"
+	to german "Rasple viele Karotten auf einmal für Karottensaft";
+
+translate "How many carrots to be grated?"
+	to german "Wieviele Karotten raspeln?";
+
+translate "You don't have any Cabbage."
+	to german "Du hast keinen Kohl.";
+
+translate "Make Wheat Extract"
+	to german "Stelle Weizenextrakt her";
+
+translate "You need 20,000 wheat to make a drop of extract."
+	to german "Für einen Tropfen Extrakt benötigst du 20k Weizen.";
+
+translate "Upgrade this Kitchen with an Iron Cookpot"
+	to german "Erweitere deine Küche mit einem Eisenkochtopf";
+
+translate "You need an Iron Cookpot to upgrade the Kitchen."
+	to german "Du brauchst einen Eisenkochtopf, um die Küche zu erweitern.";
+
+translate "Upgrade this Kitchen with a Copper Cookpot"
+	to german "Erweitere deine Küche mit einem Kupferkochtopf";
+
+translate "You need a Copper Cookpot to upgrade the Kitchen."
+	to german "Du brauchst einen Kupferkochtopf, um die Küche zu erweitern.";
+
+translate "Make a Candle"
+	to german "Gieße eine Kerze";
+
+translate "You need 2 lumps of Beeswax to make a Candle."
+	to german "Du brauchst 2 Klumpen Bienenwachs, um eine Kerze herzustellen.";
+
+translate "Eat some Grilled Fish"
+	to german "Esse etwas gegrillten Fisch";
+
+translate "Fix Herbs"
+	to german "Bestimme Kräuter";
+
+translate "Report on Masterpieces"
+	to german "Berichte über Meisterwerke";
+
+translate "Randomize Masterpieces"
+	to german "Willkürliche Meisterwerke";
+
+translate "Used Gastro Slot "
+	to german "Benutzter Gastro Slot ";
+
+translate "Cancelled."
+	to german "Abgebrochen.";
+
+translate "Cook"
+	to german "Kochen";
+
+translate "Cook (Iron Pot)"
+	to german "Koche (Eisenkochtopf)";
+
+translate "Cook (Copper Pot)"
+to german "Koche (Kupferkochtopf)";
+
+translate "You need at least 7 pieces of food in the pot to make a serving."
+	to german "Du brauchst mindestens 7 Zutaten im Topf, um eine Portion herstellen zu können.";
+
+translate "Name of Recipe?"
+	to german "Name des Rezeptes?";
+
+translate "Recipe names longer than 60 characters are not permitted.  Please try a shorter name"
+	to german "Rezeptnamen mit mehr als 60 Zeichen sind nicht erlaubt. Wähle einen kürzeren Namen.";
+
+translate "Your dish is a masterpiece! Invite those pursuing gastronomy to sample the extraordinary flavor."
+	to german "Dein Gericht ist ein Meisterwerk! Lade Gastronomen ein, damit sie dieses besondere Aroma kosten können.";
+
+translate "Cooked Masterpiece: "
+	to german "Kochmeisterwerk: ";
+
+translate "The flavors are muddled."
+	to german "Die Aromen sind verpfuscht.";
+
+translate "Masterpiece cooked by U1 at K1"
+	to german "Meisterwerk gekocht von U1(name) bei K1";
+
+//translate "The combination of O1 and O2 in this recipe is particularly delicious."
+//to german "Die Kombination von O1(pn) und O2(pn) in diesem Rezept ist besonders deliziös";
+
+//translate "but for some reason the O1 and the O2 didn't go together that well."
+//to german" aber aus verschiedenen Gründen harmonieren O1(pn) und O2(pn) miteinander nicht so gut.";
+
+translate "You complete the dish."
+	to german "Du vollendest das Gericht.";
+
+translate "Critically evaluate this dish"
+	to german "Beurteile kritisch dieses Gericht";
+
+translate "Critical evaluation would not be in the spirit of the festival!"
+	to german "Eine kritische Bewertung würde nicht im Sinne des Festivals sein!";
+
+translate "Effect: K1"
+	to german "Effekt: K1";
+
+translate "Allow people to eat multiple meals quickly"
+	to german "Erlaube den Leuten, mehrere Gerichte schnell zu essen";
+
+translate "Prevent people from eating multiple meals quickly"
+	to german "Hindere die Leute daran, mehrere Gerichte schnell zu essen";
+
+translate "Preservation"
+	to german "Konservierung";
+
+translate "To Go"
+	to german "Zum Mitnehmen";
+
+translate "Make some Bag Lunches"
+	to german "Mache einige Brotzeiten";
+
+translate "Make some Box Lunches"
+	to german "Mache einige Lunchpakete";
+
+translate "You must first name your recipe."
+	to german "Du musst zuerst dein Rezept betiteln.";
+
+translate "How many O1 K1?"
+	to german "Wieviel O1(pn) K1?";
+
+translate "You may only take a meal from this Kitchen once per minute."
+	to german "Du darfst aus dieser Küche nur eine Mahlzeit/Minute nehmen.";
+
+translate "Eww, the food was spoiled!"
+	to german "Örgs, das Essen war verdorben!";
+
+translate "You enjoy some "
+	to german "Du genießt ";
+
+translate "Food will remain fresh for about K1 (N1 Servings)"
+	to german "Das Essen wird noch K1 haltbar sein (N1 Portionen)";
+
+translate "The food looks a bit iffy, and has an odd smell."
+	to german "Das Essen sieht etwas eigentümlich aus und hat einen sonderbaren Geruch.";
+
+translate "The food is spoiled."
+	to german "Das Essen ist verdorben.";
+
+translate "This dish is a masterpiece"
+	to german "Dieses Gericht ist ein Meisterwerk";
+
+translate "Enjoy the food"
+	to german "Genieße das Essen";
+
+//translate "By order of the Public Kitchen Usage act by FoxKids, you may only eat from this kitchen once per minute."
+//to german "Per Gesetz für öffentliche Küchenbenutzung von FoxKids, ist es dir nur einmal pro Minute erlaubt, von dieser Küche zu essen.";
+
+translate "Yuck! It's spoiled!"
+	to german "Igitt! Es ist verdorben!";
+
+translate "Uhhh... You don't feel so good!"
+	to german "Uhhh... Du fühlst dich überhaupt nicht gut!";
+
+translate "You eat a bit, but the food doesn't really do anything for you."
+	to german "Du isst ein wenig, aber das Essen ändert nicht wirklich etwas an dir.";
+
+translate "You sample the expertly prepared cuisine, but alas, your palate is familiar with these flavors. Your gastronomy skill remains at "
+	to german "Du probierst die meisterhafte Kochkunst, aber leider kennt dein Gaumen bereits diesen Geschmack. Dein Gastronomieskill bleibt bei ";
+
+translate "Magnificent! The flavors do a dance on your palate, a waltz if you are not mistaken. Your Gastronomy skill is now N1."
+	to german "Großartig! Diese Aromen tanzen in deinem Gaumen, vermutlich ist es ein Walzer. Dein Gastronomieskill ist nun N1.";
+
+translate "The humble flavors of this dish touch you on an emotional level. A tear, a gasp! Delightful! Your Gastronomy skill is now N1."
+	to german "Die großartigen Aromen dieses Essens rühren dein Herz an. Eine Träne, ein Keuchen! Entzückend! Dein Gastronomieskill ist nun N1.";
+
+translate "What a delicious pairing of flavors! Your Gastronomy skill is now N1."
+to german "Welch delikate Verbindung aus Aromen! Dein Gastronomieskill ist nun N1.";
+
+translate "You enjoy the dish greatly. Your Gastronomy skill is now N1."
+to german "Du genießt diese Mahlzeit ausnehmend. Dein Gastronomieskill ist nun N1.";
+
+translate "Huh, that food is pretty good. Your Gastronomy skill is now N1."
+to german "Huh, dieses Essen ist wirklich gut. Dein Gastronomieskill ist nun N1.";
+
+translate "Hmm, fancy grub ain't bad. Your Gastronomy skill is now N1."
+to german "Hmm, phantasievoller Fraß, nicht schlecht. Dein Gastronomieskill ist nun N1.";
+
+translate "You eat some K1."
+to german "Du isst etwas K1.";
+
+translate "Animate"
+	to german "Beleben";
+
+translate "O1(+N1)"
+to german "O1(sn)(+N1)";
+translate "O1(-N1)"
+to german "O1(sn)(-N1)";
+translate "strength(+N1)"
+to german "Stärke(+N1)"; 
+translate "dexterity(+N1)"
+to german "Gewandheit(+N1)"; 
+translate "endurance(+N1)"
+to german "Ausdauer(+N1)";
+translate "speed(+N1)"
+to german "Schnelligkeit(+N1)";
+translate "constitution(+N1)"
+to german "Konstitution(+N1)";
+translate "focus(+N1)"
+to german "Fokus(+N1)"; 
+translate "perception(+N1)"
+to german "Empfindung(+N1)"; 
+translate "strength(-N1)"
+to german "Stärke(-N1)"; 
+translate "dexterity(-N1)"
+to german "Gewandheit(-N1)"; 
+translate "endurance(-N1)"
+to german "Ausdauer(-N1)";
+translate "speed(-N1)"
+to german "Schnelligkeit(-N1)";
+translate "constitution(-N1)"
+to german "Konstitution(-N1)";
+translate "focus(-N1)"
+to german "Fokus(-N1)"; 
+translate "perception(-N1)"
+to german "Empfindung(-N1)"; 
+
+translate "Upgrade Kitchen with a Coconut Crusher"
+	to german "Erweitere die Küche mit einem Kokosnussbrechwerk";
+
+translate "To upgrade this kitchen you need: "
+	to german "Um diese Küche zu verbessern brauchst du: ";
+
+translate "Crusher"
+	to german "Brechwerk";
+
+translate "Start crushing coconuts"
+	to german "Zerbreche Kokosnüsse";
+
+translate "You must first load the crusher with coconuts."
+	to german "Zuerst musst du Kokosnüsse in das Brechwerk füllen.";
+
+translate "Stop the crusher"
+	to german "Brechwerk anhalten";
+
+translate "The crusher is running"
+	to german "Das Brechwerk arbeitet";

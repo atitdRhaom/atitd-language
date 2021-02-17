@@ -1,0 +1,188 @@
+Module Camels_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment	                   **
+//**                                                                       **
+//***************************************************************************
+
+translate CamelFarm to german masculine
+{
+  swa "Kamelstall";
+  sn "Kamelstall"; sg "Kamelstalls"; sd "Kamelstall"; sa "Kamelstall";
+  pn "Kamelställe"; pg "Kamelställe"; pd "Kamelställen"; pa "Kamelställe";
+}
+translate CamelMilk to german femininecollective
+{
+  swa "Kamelmilch";
+  sn "Kamelmilch"; sg "Kamelmilch"; sd "Kamelmilch"; sa "Kamelmilch";
+  pn "Kamelmilch"; pg "Kamelmilch"; pd "Kamelmilch"; pa "Kamelmilch";
+}
+translate CamelMeat to german neutercollective
+{
+  swa "Kamelfleisch";
+  sn "Kamelfleisch"; sg "Kamelfleisches"; sd "Kamelfleisch"; sa "Kamelfleisch";
+  pn "Kamelfleisch"; pg "Kamelfleisch"; pd "Kamelfleisch"; pa "Kamelfleisch";
+}
+translate Wool to german femininecollective
+{
+  swa "Wolle";
+  sn "Wolle"; sg "Wolle"; sd "Wolle"; sa "Wolle";
+  pn "Wolle"; pg "Wolle"; pd "Wolle"; pa "Wolle";
+}
+translate Dung to german masculinecollective
+{
+  swa "Dung";
+  sn "Dung"; sg "Dunges"; sd "Dung"; sa "Dung";
+  pn "Dung"; pg "Dung"; pd "Dung"; pa "Dung";
+}
+translate CamelPheromoneMale to german neuter 
+{ 
+  swa "Kamelpheromon männlich"; 
+  sn "Kamelpheromon männlich"; sg "Kamelpheromones männlich"; sd "Kamelpheromon männlich"; sa "Kamelpheromon männlich"; 
+  pn "Kamelpheromone männlich"; pg "Kamelpheromone männlich"; pd "Kamelpheromonen männlich"; pa "Kamelpheromone männlich"; 
+} 
+ translate CamelPheromoneFemale to german neuter 
+{ 
+  swa "Kamelpheromon weiblich"; 
+  sn "Kamelpheromon weiblich"; sg "Kamelpheromones weiblich"; sd "Kamelpheromon weiblich"; sa "Kamelpheromon weiblich"; 
+  pn "Kamelpheromone weiblich"; pg "Kamelpheromone weiblich"; pd "Kamelpheromonen weiblich"; pa "Kamelpheromone weiblich"; 
+} 
+
+translate "View log of Emergency Feeding"
+to german "Aufzeichnungen über Notfütterungen";
+
+translate "There were no emergency feedings."
+to german "Es gab keine Notfütterungen.";
+
+translate "Last few emergency feedings:"
+to german "Die letzten Notfütterungen:";
+
+translate "K1 ago:"
+to german "K1 her:";
+
+translate "  Pen contained N1 camels."
+to german "  Stall beherbergt N1 Kamele.";
+translate "  Pen contained N1 straw."
+to german "  Stall beinhaltet N1 Stroh.";
+translate "  U1 added N1 straw."
+to german "  U1(name) hat N1 Stroh gespendet.";
+
+translate "Share the mind of the Wild Camels"
+to german "Teile die Gedanken der wilden Kamele";
+
+translate "It has N1 Male Camels, and N2 Female Camels."
+to german "Der Stall hat N1 männliche und N2 weibliche Kamele.";
+
+translate "The feed trough has N1 Straw."
+to german "Der Futtertrog beinhaltet N1 Stroh.";
+
+translate "Open the door"
+to german "Öffne die Tür";
+
+translate "Close the door"
+to german "Schließe die Tür";
+
+translate "Farming"
+to german "Landwirtschaft";
+
+translate "Build a Dromedary Pen"
+to german "Baue einen Kamelstall";
+
+translate "Treat the Female Camels to a taste of Honey"
+to german "Mache den weiblichen Kamelen mit Honig eine Freude";
+
+translate "Load the trough with Straw"
+to german "Fülle den Trog mit Stroh";
+
+translate "Check for signs of wild camels"
+to german "Suche nach Zeichen von wilden Kamelen";
+
+translate "Check the health of your camels"
+to german "Prüfe die Gesundheit deiner Kamele";
+
+translate "Slaughter a Male Camel"
+to german "Schlachte ein männliches Kamel";
+
+translate "Slaughter a Female Camel"
+to german "Schlachte ein weibliches Kamel";
+
+translate "You sense that the last night, a wild camel found a new home, and enjoyed a meal of N1 straw."
+to german "Du hast das Gefühl, dass heute ein wildes Kamel ein neues Heim gefunden und N1 Stroh gefressen hat.";
+
+translate "Camel ate N1 straw."
+to german "Die Kamele haben N1 Stroh gegessen.";
+
+translate "A Male Camel settled into your pen last night."
+to german "Ein männliches Kamel hat sich letzte Nacht in deinem Stall niedergelassen.";
+
+translate "A Female Camel settled into your pen last night."
+to german "Ein weibliches Kamel hat sich letzte Nacht in deinem Stall niedergelassen.";
+
+translate "There are signs of wild camels eating some of the straw last night."
+to german "Du findest Anzeichen dafür, dass wilde Kamele heute Nacht etwas vom Stroh gefressen haben.";
+
+//translate "By order of the Guild Dromedary Pen Protection Act, passed by Meffi on 11/12/2002, opening or closing the door on a guild owned Dromedary Pen, by anyone not a member, is illegal."
+//to german "Das Öffnen oder Schließen der Tür von Kamelställen in Gildenbesitz durch Nicht-Mitglieder ist durch den 'Guild Dromedary Protection Act' von Meffi verboten.";
+
+translate "Dromedary pens will only attract camels in the sandy desert."
+to german "Kamelställe ziehen nur in sandiger Wüste Kamele an.";
+
+translate "To build a dromedary pen you need:"
+to german "Um einen Kamelstall zu bauen benötigst du: ";
+
+translate "No signs of wild camels."
+to german "Keine Zeichen von wilden Kamelen.";
+
+translate "You need N1 Honey - the camels are so pushy that you have to feed them all, not just the ones who recently gave birth!"
+to german  "Du brauchst N1 Honig - Die Kamele sind so aufdringlich, daß Du alle füttern mußt, nicht nur die, die geboren haben!";
+
+translate "A Female Camel was born recently."
+to german "Ein weibliches Kamel ist kürzlich geboren worden.";
+
+translate "A Male Camel was born recently."
+to german "Ein männliches Kamel ist kürzlich geboren worden.";
+
+translate "The Camels look healthy"
+to german "Die Kamele sehen gesund aus";
+
+translate "No Camels live here."
+to german "Es leben keine Kamele hier.";
+
+translate "A Female Camel died of starvation recently."
+to german "Ein weibliches Kamel erlitt den Hungertod.";
+
+translate "A Male Camel died of starvation recently."
+to german "Ein männliches Kamel erlitt den Hungertod.";
+
+translate "Your Camels are about to die of starvation."
+to german "Deine Kamele werden bald den Hungertod sterben.";
+
+translate "Your Camels are looking totally emaciated."
+to german "Deine Kamele sehen total abgemagert aus.";
+
+translate "Your Camels are looking pretty thin."
+to german "Deine Kamele sehen ziemlich dünn aus.";
+
+translate "You don't have any Straw."
+to german "Du hast kein Stroh.";
+
+translate "Load trough with how much Straw? (Max N1)"
+to german "Mit wieviel Stroh den Trog füllen? (Max N1)";
+
+translate "You are about to kill your LAST Female Camel. Are you sure you want to do this?"
+to german "Du bist gerade dabei, dein LETZTES weibliches Kamel zu töten. Willst du dies wirklich tun?";
+
+translate "You are about to kill your LAST Male Camel. Are you sure you want to do this?"
+to german "Du bist gerade dabei, dein LETZTES männliches Kamel zu töten. Willst du dies wirklich tun?";
+ 
+translate "Collect a drop of Male Camel Pheromone" 
+to german "Hebe einen Tropfen Pheromon eines männlichen Kamels auf"; 
+ 
+translate "Collect a drop of Female Camel Pheromone" 
+to german "Hebe einen Tropfen Pheromon eines weiblichen Kamels auf"; 
+ 
+translate "You don't see any signs of wild Camels yet." 
+to german "Du siehst bislang keinerlei Anzeichen wilder Kamele."; 

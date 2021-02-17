@@ -1,0 +1,315 @@
+Module Oasis_fre;
+
+translate Wood to french masculine
+{
+ns "Bois"; np "Bois";
+}
+
+translate Oasis to french feminine
+{
+ns "Oasis"; np "Oasis";
+}
+translate opherb to french feminine
+{
+ns "Herbe"; np "Herbes";
+}
+
+translate oaktree to french masculine
+{
+ns "Chêne"; np "Chênes";
+}
+
+translate winterbeech to french masculine
+{
+ns "Hêtre hivernal"; np "Hêtres hivernaux";
+}
+
+translate youngsweetbirch to french masculine
+{
+ns "Jeune Bouleau"; np "Jeunes Bouleaux";
+}
+
+translate youngalder to french masculine
+{
+ns "Jeune Aulne"; np "Jeunes Aulnes";
+}
+
+translate younglombardypoplar to french masculine
+{
+ns "Jeune Peuplier"; np "Jeunes Peupliers";
+}
+
+translate treestump to french masculine
+{
+ns "Souche d'arbre"; np "Souches d'arbre";
+}
+
+translate palmfrond to french masculine
+{
+ns "Palme"; np "Palmes";
+}
+
+translate gebsSilvertokenOftheforest to french feminine
+{
+ns "Gratitude Sylvestre de Geb"; np "Gratitude Sylvestre de Geb";
+}
+
+translate "You have harvested O1 N1 times in a row correctly."
+to french "Vous avez cueilli O1(ns) N1 fois d'affilée correctement";
+
+translate "Forage this O1"
+to french "Cueillez ce O1(ns)";
+
+translate "You harvest O1 by memory."
+to french "Vous cueillez ce O1(ns) de mémoire";
+
+translate "Examine this plant"
+to french "Examiner cette plante";
+
+translate "Gather Dates and Fertilize with Saltpeter"
+to french "Rammassez les dates et fertilisez avec du salpêtre";
+
+translate "You have taken the dates. The tree will produce more if you fertilize it with Saltpeter."
+to french "Vous avez rammassé les dates. L'arbre produira plus lorsqu'il est fertilisé avec du salpêtre";
+
+translate "It is a O1. Though it doesn't seem particularly useful right now, as your skills improve, you may find a use for this."
+to french "C'est O1(uns) O1(ns). Ce n'est pas particulièrement utile pour l'instant, mais si vous améliorez vos connaissances, vous pourriez trouver une utilité.";
+
+translate "Type:"
+to french "Type.";
+
+translate "More thorns in K1"
+to french "Epines supplémentaires dans K1";
+
+translate "Gather Thorns"
+to french "Prendre des épines";
+
+translate "This O1 produces at least N1 wood"
+to french "Ce O1(ns) produit au moins N1 bois";
+
+-- Dupe in oasistypes_fre.fac caused odd translation.
+-- commenting this out fixed the transation
+-- translate "Gather O1 from this O2"
+-- to french "Prendre O1(dns) O1(np) de O2(cns)";
+
+translate "You gathered N1 thorns."
+to french "Vous avez récolté N1 épines";
+
+translate "This O1 has no O2 for N1 seconds."
+to french "Ce O1(ns) donnera O2(dns) O2(ns) dans N1 secondes .";
+
+translate "The O1 will have more O2 available in N1 seconds."
+to french "Ce O1(ns) donnera O2(dns) O2(ns) dans N1 secondes.";
+
+translate "Your hatchet is not high enough quality to help gather wood. You can still gather at the normal rate."
+to french "Votre hachette n'est pas d'assez bonne qualité pour assister à la récolte de bois. Vous pouvez quand même couper du bois normallement.";
+
+translate "Congrats, you just advanced in enhanced woodcutting... Now: N1"
+to french "Félicitation, vous avez amélioré vos connaissances en bûcheronnage... Désormais: N1";
+
+translate "With keen Perception, you were able to get a bit more wood, without harming the tree."
+to french "Grâce à votre excellente perception, vous avez récolté un peu plus de bois, sans blesser l'arbre.";
+
+translate "How odd - you find a nest with a chicken egg in the tree. You delicately remove the beautiful egg."
+to french "Etrange - vous venez de trouver un nid de poule rempli d'oeuf dans l'arbre. Vous prenez délicatement les oeufs.";
+
+translate "Well done. Hint: Sacrificial bonfires take a huge quantity of wood - it's easiest to work on the bonfire with others."
+to french "Bien joué. Indice: Les Feu Sacrificiels demandent une énorme quantité de bois - il est plus facile d'utiliser le feu avec d'autres personnes.";
+
+translate "Fertilize with SaltPeter"
+to french "Fertiliser avec du salpêtre";
+
+translate "You don't have any Saltpeter."
+to french "Vous n'avez pas de salpêtre .";
+
+translate "A new tree is growing here"
+to french "Un nouvel arbre pousse ici";
+
+translate "Use Elixir of Regrowth"
+to french "Utiliser l'elixir de régénération";
+
+translate "You don't have any Elixir of Regrowth"
+to french "Vous n'avez pas d'elixir de régénération";
+
+translate "Force Immediate Regrowth"
+to french "Induire la régénération instantannée";
+
+translate "Force 10 second Regrowth"
+to french "Induire la régénération en 10 secondes";
+
+translate "Clear-Cut this tree"
+to french "Couper cet arbre";
+
+translate "You see no fruit on this Date Palm"
+to french "Vous ne voyez aucun fruit dans ce dattier";
+
+translate "You see some immature dates growing"
+to french "Vous apercevez de petites dattes vertes qui poussent";
+
+translate "This Palm Tree has some dates on it!"
+to french "Des dattes ont poussées sur ce palmier!";
+
+translate "Gather some fresh juicy Dates"
+to french "Recueillir les dattes juteuses";
+
+translate "You collected N1 delicious dates."
+to french "Vous avez récolté N1 délicieuses dattes.";
+
+translate "Date palms are found throughout Egypt, and when fertilized, can be a source of tasty and nourishing Dates."
+to french "Les dattiers poussent à travers l'égypte, et peuvent produire des dattes délicieuses et nourrissantes lorsqu'ils sont fertilisés.";
+
+translate "You see some Coconuts!"
+to french "Vous appercevez des noix de coco!";
+
+translate "Gather the Coconuts"
+to french "Récolter les noix de coco";
+
+translate "You collected N1 coconuts!"
+to french "Vous avez récolté N1 noix de coco!";
+
+translate "Pull down a perfect Palm Frond!"
+to french "Arracher une palme!";
+
+translate "Coconuts! N1 at N2 N3"
+to french "Noix de coco! N1 à N2 N3";
+
+translate "Cut away the outer stem"
+to french "Couper la tige extérieure (Cut away)";
+
+translate "Harvest the Root pith"
+to french "Récolter la moelle des racines (Harvest)";
+
+translate "Trim the Root fibres"
+to french "Ebarber les fibres racinaires (Trim)";
+
+translate "Snip the leaf stems"
+to french "Pincer les tiges des feuilles (Snip)";
+
+translate "Peel back the stem base"
+to french "Eplucher la base de la tige (Peel back)";
+
+translate "Scrape off the stem pith"
+to french "Racler la moelle de la tige (Scrape off)";
+
+translate "Remove the Tap Root"
+to french "Oter la racine principale (Remove)";
+
+translate "Pick out the seeds"
+to french "Recueillir les graines (Pick out)";
+
+translate "Crush the stems"
+to french "Ecraser les tiges (Crush)";
+
+translate "Pluck the leaves"
+to french "Détacher les feuilles (Pluck)";
+
+translate "Squeeze out the sap"
+to french "Presser la sève (Squeeze out)";
+
+translate "Scrape away the leaf hairs"
+to french "Erafler les feuilles (Scrape away)";
+
+translate "You Cut away the outer stem..."
+to french "Vous coupez la tige extérieure...";
+
+translate "You Harvest the Root pith..."
+to french "Vous récoltez la moelle des racines...";
+
+translate "You Trim the Root fibres..."
+to french "Vous ébarbez les fibres racinaires...";
+
+translate "You Snip the leaf stems..."
+to french "Vous pincez les tiges des feuilles...";
+
+translate "You Peel back the stem base..."
+to french "Vous épluchez la base de la tige...";
+
+translate "You Scrape off the stem pith..."
+to french "Vous raclez la moelle de la tige...";
+
+translate "You Remove the Tap Root..."
+to french "Vous ôtez la racine principale...";
+
+translate "You Pick out the seeds..."
+to french "Vous recueillez les graines...";
+
+translate "You Crush the stems..."
+to french "Vous écrasez les tiges...";
+
+translate "You Pluck the leaves..."
+to french "Vous détachez les feuilles...";
+
+translate "You Squeeze out the sap..."
+to french "Vous pressez la sève...";
+
+translate "You Scrape away the leaf hairs..."
+to french "Vous éraflez les feuilles...";
+
+translate "This is some type of herb"
+to french "C'est un type d'herbe";
+
+translate "Forage"
+to french "Cueillir";
+
+translate "The sickly herb bruises and dies."
+to french "L'herbe meutrie se flétrie et meurt.";
+
+translate "Yes, your technique is correct. You identify the herb as O1, and harvest N1 deben."
+to french "Oui, votre technique est correcte. Vous identifiez une O1(ns) et en obtenez N1 deben.";
+
+translate "Yes, your technique is correct. You identify the herb as O1. Your Silver Sickle allows you a better harvest! You harvest N1 deben."
+to french "Oui, votre technique est correcte. Vous identifiez une O1(ns). Votre faucille en argent vous permet d'en cueillir davantage! Vous en obtenez N1 deben.";
+
+translate "Yes, your technique is correct. You identify the herb as O1, and harvest N1 deben, along with N2 seeds."
+to french "Oui, votre technique est correcte. Vous identifiez une O1(ns) et en obtenez N1 deben, ainsi que N2 graines.";
+
+translate "Hmm, you must have misidentified the herb. Your clumsy technique kills the delicate flora."
+to french "Hmm, vous avez mal identifié l'herbe. Votre technique maladroite tue la fleur délicate.";
+
+translate "Teach Foraging"
+to french "Enseigner les techniques de cueillette";
+
+translate "You teach Foraging to U1"
+to french "Vous enseignez la cueillette à U1(name)";
+
+translate "You learn Foraging techniques."
+to french "Vous apprenez les techniques de cueillette.";
+
+translate "Memorized Foraging Techniques"
+to french "Techniques de cueillette mémorisées";
+
+translate "You have memorized the technique to forage O1." 
+to french "Vous avez mémorisé la technique pour cueillir O1(ns)";
+
+translate "Memorized N1 Foraging Techniques."
+to french "N1 techniques de cueillette mémorisées.";
+
+//translate "By order of the Wood Source Protection Act by Tumaini, You are prohibited from cutting wood from this tree"
+//to french "";
+
+//translate "You mark the tree protected, as specified in the Wood Source Protection Act, passed by Tumaini."
+//to french "";
+
+translate "You have taken the resin. The tree will produce more if you nick it with a resin wedge."
+to french "Vous avez pris la résine. L'arbre en produira davantage si vous le blessez avec un collecteur à résine.";
+
+translate "Eat this herb, fresh from the Earth"
+to french "Manger cette herbe à peine cueillie";
+
+translate "You can only eat wild herbs from the ground."
+to french "Vous ne pouvez manger que des herbes à peine cueillies.";
+
+translate "Really eat this herb? This can affect your stats."
+to french "Manger cette herbe ? Cela peut affecter vos stats.";
+
+//Herbing Festival//
+
+translate "You have not seen this herb this festival! It has been added to your total."
+to french "Vous n'avez pas encore rencontré cette herbe durant ce festival! Votre total a été mis à jour.";
+
+translate "Congratulations! This is the designated Festival Herb! This has been added to your total."
+to french "Félicitation ! C'est l'herbe cible de ce festival ! Votre total a été mis à jour.";
+
+translate "You have seen this herb this festival, but the debens harvested have been added to your total."
+to french "Vous avez déjà rencontré cette herbe durant le présent festival, la quantité récoltée a été ajouté à votre total.";
+

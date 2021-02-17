@@ -1,0 +1,289 @@
+module raeli_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**            German Version: Astrid "Infinyti" Werner                   **
+//**                            2012                                       **
+//**                                                                       **
+//***************************************************************************
+
+
+translate RaeliOven to german masculine
+{
+swa "Raeliofen";
+  sn "Raeliofen"; sg "Raeliofens"; sd "Raeliofen"; sa "Raeliofen";
+  pn "Raeliöfen"; pg "Raeliöfen"; pd "Raeliöfen"; pa "Raeliöfen";
+}
+
+translate RaeliTiles to german feminine
+{
+swa "Raelikachel";
+  sn "Raelikachel"; sg "Raelikachel"; sd "Raelikachel"; sa "Raelikachel";
+  pn "Raelikacheln"; pg "Raelikacheln"; pd "Raelikacheln"; pa "Raelikacheln";
+}
+
+translate BrokenRaeliTiles to german feminine
+{
+swa "Gebrochene Raelikachel";
+  sn "Gebrochene Raelikachel"; sg "Gebrochenen Raelikachel"; sd "Gebrochenen Raelikachel"; sa "Gebrochene Raelikachel";
+  pn "Gebrochenen Raelikacheln"; pg "Gebrochenen Raelikacheln"; pd "Gebrochenen Raelikacheln"; pa "Gebrochenen Raelikacheln";
+}
+
+translate RaeliPottery to german feminine
+{
+swa "Raelikachelherstellung";
+sn "Raelikachelherstellung"; pn "Raelikachelherstellung";
+}
+
+translate RaeliOp to german masculine
+{
+swa "Raelibedienung";
+sn "Raelibedienung"; pn "Raelibedienung";
+}
+
+translate "Raeli Pottery"
+	to german "Raelikachelherstellung";
+
+translate "Rediscovery of the lost art of Raeli Tiles: fine, traditional tiles in dramatic colors."
+	to german "Die Wiederentdeckung einer verlorenen Kunst der Raelikacheln: dünne, traditionelle Kacheln in unglaublichen Farben.";
+
+translate "2000+ Quality Carpentry Blade"
+	to german "Sägeblatt, Qulität 2000+";
+
+translate "3000+ Quality Carpentry Blade"
+	to german "Sägeblatt, Qulität 3000+";
+
+translate "4000+ Quality Carpentry Blade"
+	to german "Sägeblatt, Qulität 44000+";
+
+translate "5000+ Quality Carpentry Blade"
+	to german "Sägeblatt, Qulität 5000+";
+
+translate "6000+ Quality Carpentry Blade"
+	to german "Sägeblatt, Qulität 6000+";
+
+translate "Royal Palm Resin (Main Shaft Encasement Experiments)"
+	to german "Harz Royal Palm (Experimente für Umhüllung Hauptwelle)";
+
+translate "Mini Palmetto Resin (Main Shaft Encasement Experiments)"
+	to german "Harz Minipalme (Experimente für Umhüllung Hauptwelle)";
+
+translate "Miniature Fern Palm Resin (Main Shaft Encasement Experiments)"
+	to german "Harz kleine Farnpalme (Experimente für Umhüllung Hauptwelle)";
+
+translate "Bottle Tree Resin (Main Shaft Encasement Experiments)"
+	to german "Harz Flaschenbaum (Experimente für Umhüllung Hauptwelle)";
+
+translate "Umbrella Palm Resin (Main Shaft Encasement Experiments)"
+	to german "Harz Regenschirmpalme (Experimente für Umhüllung Hauptwelle)";
+
+translate "Hawthorn Resin (Main Shaft Encasement Experiments)"
+	to german "Harz Hawthorn (Experimente für Umhüllung Hauptwelle)";
+
+translate "Folded Birch Resin (Main Shaft Encasement Experiments)"
+	to german "Harz Folded Birch (Experimente für Umhüllung Hauptwelle)";
+
+translate "Pratyeka Tree Resin (Main Shaft Encasement Experiments)"
+	to german "Harz Pratyeka Tree (Experimente für Umhüllung Hauptwelle)";
+
+translate "Spindle Tree Resin (Main Shaft Encasement Experiments)"
+	to german "Harz Spindle Tree (Experimente für Umhüllung Hauptwelle)";
+
+translate "Locust Palm Resin (Main Shaft Encasement Experiments)"
+	to german "Harz Locust Palm (Experimente für Umhüllung Hauptwelle)";
+
+translate "Coconut Palm Resin (Main Shaft Encasement Experiments)"
+	to german "Harz Kokosnusspalme (Experimente für Umhüllung Hauptwelle)";
+
+translate "Butterleaf Tree Resin (Main Shaft Encasement Experiments)"
+	to german "Harz Butterleaf Tree (Experimente für Umhüllung Hauptwelle)";
+
+translate "Kaeshra Resin (Main Shaft Encasement Experiments)"
+	to german "Harz Kaeshra (Experimente für Umhüllung Hauptwelle)";
+
+translate "Giant Cricklewood Resin (Main Shaft Encasement Experiments)"
+	to german "Harz Giant Cricklewood (Experimente für Umhüllung Hauptwelle)";
+
+translate "Ranyahn Resin (Main Shaft Encasement Experiments)"
+	to german "Harz Ranyahn (Experimente für Umhüllung Hauptwelle)";
+
+translate "Cinnar Resin (Main Shaft Encasement Experiments)"
+	to german "Harz Cinnar (Experimente für Umhüllung Hauptwelle)";
+
+translate "Delta Palm Resin (Main Shaft Encasement Experiments)"
+	to german "Harz Delta Palm (Experimente für Umhüllung Hauptwelle)";
+
+translate "Cerulean Blue Resin (Main Shaft Encasement Experiments)"
+	to german "Harz Cerulean Blue (Experimente für Umhüllung Hauptwelle)";
+
+translate "You learn to make Raeli Ovens using K1 Resin to encase the main shaft. Other Regions may hold the secret to using different types of resins."
+	to german "Du ummantelst mit K1 Harz die Hauptwelle und lernst damit den Bau von Raeliöfen. Andere Regionen können das Geheimnis unter Verwendung verschiedener Arten von Harzen bereithalten.";
+
+translate "You already know how to make Raeli Ovens using K1 Resin! Other Regions may hold the secret to using different types of resins."
+	to german "Du weisst bereits, wie man unter Verwendung von K1 Harz Raeliöfen baut. Andere Regionen können das Geheimnis unter Verwendung verschiedener Arten von Harzen bereithalten.";
+
+translate "You learn to build and operate Raeli Ovens to make the so-called 'lost art' Raeli Tiles."
+	to german "Du lernst den Bau und das Bedienen eines Raeliofens, die sogenannte 'verlorene Kunst' der Raelikachelherstellung.";
+
+translate "Raeli Oven"
+	to german "Raeliofen";
+
+translate "Using K1 Resin"
+	to german "Nutze K1 Harz";
+
+translate "Raeli ovens closer than 800 feet will interfere with each other."
+	to german "Raeliöfen, die näher als 800 Fuß zueinander stehen, werden sich gegenseitig behindern.";
+
+translate "Clay Bricks for Main Chamber"
+	to german "Tonziegel für die Hauptkammer";
+
+translate "Plaster for sealing"
+	to german "Putz für Versiegelung";
+
+translate "Copper Wire for Mechanism Tensioner"
+	to german "Kupferdraht für den Vorrichtungsspanner";
+
+translate "Moonsteel Sheeting"
+	to german "Mondstahlverschalung";
+
+translate "Small Gears for Drivetrain"
+	to german "Kleine Zahnräder für den Antrieb";
+
+translate "Clay Steeped Wool Cloth, for insulation"
+	to german "Tongetränkte Wolltücher für die Dämmung";
+
+translate "Bearings for Driveshaft"
+	to german "Kugellager für die Antriebswelle";
+
+translate "Cement for Platform"
+	to german "Zement für die Plattform";
+
+translate "Cut Stone for Counterweight"
+	to german "Geschnittene Steine für das Ausgleichsgewicht";
+
+translate "Rope for Countertensioner"
+	to german "Seile zum Spannen des Zählwerkes";
+
+translate "Crucibles for Collection Oven"
+	to german "Tiegel für den Brennofen";
+
+translate "Glass Pipes for Thermostatic Regulator"
+	to german "Glasröhren für den Thermostat";
+
+translate "Medium Gears for Drivetrain Attachment Point"
+	to german "Mittlere Zahnräder für den Verbindungspunkt des Antriebes";
+
+translate "Iron Bars for Base Housing"
+	to german "Eisenbarren für die Sockelhülle";
+
+translate "Shovel Blades for Collector"
+	to german "Schaufelblätter für den Sammler";
+
+translate "Pinch Roller for Crushing Mechanism"
+	to german "Andruckrollen für den Mechanismus des Brechers";
+
+translate "5000+ Quality Carpentry Blade"
+	to german "Sägeblatt mit einer Qualität von 5000+";
+
+translate "Resin (Main Shaft Encasement)"
+	to german "Harz (Umhüllung Hauptwelle)";
+
+translate "To build a Raeli Oven, you need: "
+	to german "Um einen Raeliofen bauen zu können benötigst du: ";
+
+translate "Check for Interference"
+	to german "Prüfe auf Störungen";
+
+translate "Nearby ovens are interfering with this one."
+	to german "Öfen in der Nähe behindern diesen hier.";
+
+translate "There are no nearby ovens interfering with this one."
+	to german "Es sind keine Öfen in der Nähe, die diesen behindern würden.";
+
+translate "Set Owner Percentage"
+	to german "Lege Eigentümervergütung fest";
+
+translate "Worker Gets All"
+	to german "Arbeiter bekommt alles";
+
+translate "Owner Keeps N1%"
+	to german "Eigentümer behält N1%";
+
+translate "Owner Keeps All"
+	to german "Eigentümer behält alles";
+
+translate "Non-owners may not use Oven"
+	to german "Nichteigentümer dürfen den Ofen nicht nutzen";
+
+translate "Only Owners may bake tiles in this Oven"
+	to german "Nur Eigentümer dürfen in diesem Ofen Kacheln brennen";
+
+translate "For this Oven, Owner keeps N1%"
+	to german "An diesem Ofen behält der Eigentümer N1% ein.";
+
+translate "Begin the Baking Process"
+	to german "Starte den Brennprozess";
+
+translate "Nearby ovens are interfering with this one."
+	to german "Nahegelegene Öfen behindern diesen hier.";
+
+translate "You do not have permission to bake tiles in this Oven."
+	to german "Du hast keine Erlaubnis, in diesem Ofen Kacheln zu brennen.";
+
+translate "No tiles were produced. Watch the dredging phase more carefully."
+to german "Es wurden keine Kacheln produziert. Beobachte die Baggerphase sorgsamer.";
+
+translate "It takes 25 Charcoal to begin the baking process."
+	to german "Es werden 25 Holzkohlen benötigt, um den Brennprozess zu beginnen.";
+
+translate "Interrupt the Baking Process"
+	to german "Unterbreche den Brennprozess";
+
+translate "You do not have permission to interrupt the baking process in this Oven."
+	to german "Du hast keine Erlaubnis in diesem Ofen den Brennprozess zu unterbrechen.";
+
+translate "Start dredging"
+	to german "Baggern starten";
+
+translate "You do not have permission to start dredging with this Oven."
+	to german "Du hast keine Erlaubnis an diesem Ofen den Baggervorgang zu starten.";
+
+translate "Upgrade Oven with Clay Dredge"
+	to german "Ofen mit einem Tonnetz verbessern";
+
+translate "To upgrade this building you need:"
+	to german "Um dieses Gebäude zu verbessern, benötigst du:";
+
+translate "Enable the Clay Dredge"
+	to german "Tonnetz einspannen";
+
+translate "Disable the Clay Dredge"
+	to german "Tonnetz ausspannen";
+
+translate "Harvest the Clay"
+	to german "Ton sammeln";
+
+translate "You do not have permission to harvest the clay from this Oven."
+	to german "Du hast nicht die Erlaubnis, den Ton dieses Ofens zu sammeln.";
+
+translate "No clay was produced. Watch the dredging phase more carefully."
+	to german "Kein Ton hergestellt. Beobachte die Baggerphase sorgsamer.";
+
+translate "Outside Egypt"
+	to german "Ausserhalb Ägyptens";
+
+translate "No such raeli"
+	to german "Diese Raeli gibt es nicht";
+
+translate "Raeli Ovens must be placed on rocky terrain, 200-300 feet above sea level."
+	to german "Raeliöfen müssen auf felsigem Gebiet stehen, 200-300 Fuß über dem Meeresspiegel.";
+
+translate "Raeli Ovens must be placed on Dirt."
+	to german "Raeliöfen müssen auf Schmutz gebaut werden.";
+
+translate "Raeli Ovens must be placed on a large patch of dirt. Though you are on dirt, the patch is not big enough."
+	to german "Raeliöfen müssen auf einem großen Schmutzfeld stehen. Auch wenn du auf Schmutz stehst, ist das Feld nicht groß genug.";
+
+translate "Raeli Ovens must be placed on Clay."
+	to german "Raeliöfen müssen auf Ton stehen.";

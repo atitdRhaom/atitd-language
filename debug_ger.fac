@@ -1,0 +1,181 @@
+module debug_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Games **
+//**    (C)opyright 2002,2003 by MDO Games			           **
+//**                                                                       **
+//***************************************************************************
+
+//menues
+translate "Learn O1"
+to german "Lerne O1(sn)";
+
+translate "Skill N1"
+to german "Fertigkeit N1";
+
+translate "Group N1-N2"
+to german "Gruppe N1-N2";
+
+translate "Group A-N1"
+to german "Gruppe A-N1";
+
+translate "Group B-N1"
+to german "Gruppe B-N1";
+
+translate "Group C-N1"
+to german "Gruppe C-N1";
+
+translate "Group D-N1"
+to german "Gruppe D-N1";
+
+translate "Group E-N1"
+to german "Gruppe E-N1";
+
+translate "Group F-N1"
+to german "Gruppe F-N1";
+
+translate "Group G-N1"
+to german "Gruppe G-N1";
+
+translate "Group H-N1"
+to german "Gruppe H-N1";
+
+translate "Group I-N1"
+to german "Gruppe I-N1";
+
+translate "Group J-N1"
+to german "Gruppe J-N1";
+
+translate "Group K-N1"
+to german "Gruppe K-N1";
+
+translate "Group L-N1"
+to german "Gruppe L-N1";
+
+translate "Group M-N1"
+to german "Gruppe M-N1";
+
+translate "Group N-N1"
+to german "Gruppe N-N1";
+
+translate "Group O-N1"
+to german "Gruppe O-N1";
+
+translate "Group P-N1"
+to german "Gruppe P-N1";
+
+translate "Group Q-N1"
+to german "Gruppe Q-N1";
+
+translate "Group R-N1"
+to german "Gruppe R-N1";
+
+translate "Group S-N1"
+to german "Gruppe S-N1";
+
+translate "Group T-N1"
+to german "Gruppe T-N1";
+
+translate "Group U-N1"
+to german "Gruppe U-N1";
+
+translate "Group V-N1"
+to german "Gruppe V-N1";
+
+translate "Group W-N1"
+to german "Gruppe W-N1";
+
+translate "Group X-N1"
+to german "Gruppe X-N1";
+
+translate "Group Y-N1"
+to german "Gruppe Y-N1";
+
+translate "Group Z-N1"
+to german "Gruppe Z-N1";
+
+translate "Cheat"
+to german "Cheat";
+
+translate "Discipline"
+to german "Disziplin";
+
+translate "Lower level to O1"
+to german "Senke Stufe auf O1(sn)";
+
+translate "Raise level to O1"
+to german "Hebe Stufe auf O1(sn)";
+
+translate "Keep level at O1"
+to german "Behalte Stufe auf O1(sn)";
+
+translate "Cheat"
+to german "Cheat";
+
+translate "Goals"
+to german "Ziele";
+
+translate "Teleport"
+to german "Teleportiere";
+
+translate "Oz"
+to german "Oz";
+
+translate "Builder Island"
+to german "Builderinsel";
+
+translate "University"
+to german "Universität";
+translate "The Human Body"
+to german "Der menschliche Körper";
+
+translate "Architecture"
+to german "Architektur";
+
+translate "Thought"
+to german "Gedanken";
+
+translate "Worship"
+to german "Verehrung";
+
+translate "Art"
+to german "Kunst";
+
+translate "Performed all Citizenship Tasks"
+to german "alle Bürger-Voraussetzungen erfüllt";
+
+translate "Clear all"
+to german "Lösche alle Ziele";
+
+translate "Initiate into O1"
+to german "Einführung in O1(sn)";
+
+translate "Uninitiate from O1"
+to german "Lösche Einführung in O1(sn)";
+
+translate "Remove this object"
+to german "Entferne das Objekt";
+
+translate "Show sprite ID"
+to german "Zeige Objektnummer";
+
+translate "Print the Entire Database for this O1"
+to german "Drucke Datenblatt von: O1(sn)";
+
+translate "Are you sure you want to remove this O1"
+to german "Bist Du sicher, dass Du O1(sn) entfernen willst";
+
+translate "This is an Unknown. You should never see this!"
+to german "Dies ist unbekannt. Du solltest es nie sehen!";
+
+translate "Make this Invisible"
+to german "Mache dies unsichtbar";
+
+translate "Temporarily gain access"
+to german "Vorrübergehend Eigentum ergreifen";
+
+translate "You already have access."
+to german "Du hast schon Zugriff.";
+

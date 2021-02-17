@@ -1,0 +1,132 @@
+module ibuild_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002,2003,2004,2005 by MDO Entertainment               **
+//**                                                                       **
+//***************************************************************************
+//menues
+//translate "Debug/Setup/Accumulate Restricted Areas"
+//translate "Debug/StopBuild!"
+//translate "Debug/Reset Build"
+//translate "Debug/Snag this object"
+//to german "Debug/Nimm das Objekt mit";
+//translate "Debug/Unsnag this object"
+//to german "Debug/Lege das Objekt ab";
+//translate "Debug/Move the snagged object"
+//to german "Debug/Bewege das mitgeführte Objekt";
+
+
+translate "By order of the Buildings in Others Camps Act, you may not build within 100 feet of a guild hall."
+to german "Nach dem Gesetz zum Schutz vor Bauaktionen in fremden Lagern, darfst Du nichts innerhalb eines Radius von 100 Fuß um eine Gildenhalle herum bauen.";
+
+
+translate "Game Master"
+to german "Gamemaster";
+
+translate "Add this O1 to the Snag List"
+to german "O1(sn) zur Bearbeitungsliste hinzufügen";
+
+translate "Clear the snag-list"
+to german "Lösche die Bearbeitungsliste.";
+
+translate "Move the snagged objects"
+to german "Bewege das zu bearbeitende Objekt";
+
+translate "Snagged Objects: N1 plus N2 Compounds"
+to german "Zu bearbeitende Objekte: N1 plus N2 Werkstatt";
+
+translate "Snagged Objects: N1"
+to german "Zu bearbeitende Objekte: N1";
+
+translate "Send Snagged Objects back"
+to german "Schiebe zu bearbeitende Objekte wieder zurück";
+
+translate "Send this object back"
+to german "Schiebe dieses Objekt zurück";
+
+translate "Update Owner"
+to german "Akualisiere Eigentümer";
+
+
+//texts
+
+translate "Build"
+to german "Baue";
+
+translate "Cancel"
+to german "Abbrechen";
+
+translate "ok"
+to german "Ok";
+
+translate "?"
+to german "?";
+
+translate "To build a O1 you need:"
+to german "Um O1(tsn) O1(sn) zu bauen benötigst Du:";
+
+translate "N1 more needed"
+to german "N1 mehr benötigt";
+
+translate "N1 too many"
+to german "N1 zuviel";
+
+translate "Running? "
+to german "Rennst du? ";
+
+translate "Already Building."
+to german "Es wird bereits gebaut.";
+
+translate "Building isnt permitted in GM Jail. (Contact a GM)"
+to german "Bauen ist im GM Gefängnis nicht erlaubt. (Rufe einen GM)";
+
+translate "You may not build within 300 feet of a school or university."
+to german "Du darfst nicht innerhalb eines Radius von 300 Fuß in der Nähe von Schulen oder Universitäten bauen.";
+
+translate "This area is too crowded to build in (N1% of capacity.) Move further away."
+to german "Diese Gegend ist zu überfüllt, um hier zu bauen (N1 % Kapazität). Gehe weiter weg von hier.";
+
+translate "Warning: This area is getting crowded. It is at N1% of capacity. Build anyway?"
+to german "Warnung: Diese Gegend ist langsam überfüllt. Sie hat N1 % der Kapazität erreicht. Trotzdem bauen?";
+
+translate "You may not move during a crowding check."
+to german "Du darfst Dich während einer Überfüllungsprüfung nicht bewegen.";
+
+translate "By order of the Buildings in Others Camps Act, you may not build within 100 feet of a guild hall."
+to german "Per Gebäudebaugesetz in anderen Lagern muß ein Abstand von 100 Fuß zu einer Gildenhalle eingehalten werden.";
+
+translate "Building this O1 requires:"
+to german "Um O1(tsn) O1(sn) zu bauen, benötigst Du:";
+
+translate "Nothing is needed to build this O1"
+to german "Es wird Nichts benötigt, um O1(tsd) O1(sd) zu bauen.";
+
+translate "This can not be rotated."
+to german "Dies kann nicht gedreht werden.";
+
+translate "You are repositioning a O1. If you hit cancel, it will revert to it's original location."
+to german "Du verschiebst O1(tsn) O1(sn). Wenn Du auf Abbrechen drückst, wird die alte Position wieder eingenommen.";
+
+translate "You are repositioning a O1. If you hit cancel, it will revert to it's original location."
+to german "Die richtest O1(tsd) O1(sd) neu aus. Wenn du abbrichst, wird das Objekt wieder an den alten Platz gestellt.";
+
+translate "Can only move or build one thing at a time."
+to german "Du kannst nur eine Sache gleichzeitig verschieben oder bauen.";
+
+translate "You may not build very close to a road or game court."
+to german "Es ist nicht erlaubt in der Nähe von Straßen oder Spiel-Arenen zu bauen.";
+
+translate "NOTICE: While on the island, your buildings will vanish if you don't login once a day."
+to german "BEACHTE: Während Du Dich auf der Willkommensinsel befindest, werden Deine Gebäude verschwinden, wenn Du einmal täglich einloggst.";
+
+translate "Can only move or build one thing at a time."
+to german "Du kannst nicht zugleich mehrere Sachen bauen oder bewegen.";
+
+translate "This spot is too close to a chariot stop."
+to german "Diese Stelle ist zu nahe an einer Streiwagen-Haltebucht.";
+
+translate "Can't move two things at once. Already moving a O1 at egypt N1 N2."
+to german "Du kannst nicht zwei Dinge auf einmal verschieben. Du verschiebst gerade O1(dsa) O1(sa) bei N1 N2.";

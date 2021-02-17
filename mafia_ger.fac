@@ -1,0 +1,307 @@
+module mafia_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2007 by MDO-Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+
+translate MortuaryTemple to german feminine
+{
+  swa "Leichenhalle";
+  sn "Leichenhalle"; sg "Leichenhalle"; sd "Leichenhalle"; sa "Leichenhalle";
+  pn "Leichenhallen"; pg "Leichenhallen"; pd "Leichenhallen"; pa "Leichenhallen";
+}
+
+translate DesecratedTemple to german feminine
+{
+  swa "Entweihte Leichenhalle";
+  sn "Entweihte Leichenhalle"; sg "Entweihten Leichenhalle"; sd "Entweihte Leichenhalle"; sa "Entweihte Leichenhalle";
+  pn "Entweihten Leichenhallen"; pg "Entweihten Leichenhallen"; pd "Entweihten Leichenhallen"; pa "Entweihten Leichenhallen";
+}
+
+translate "Werewolf"
+to german "Werwolf";
+
+translate "Seer"
+to german "Seher";
+
+translate "Normal Villager"
+to german "Einfacher Bürger";
+
+translate "Werewolf Percentage"
+to german "Werwolf Prozentsatz";
+
+translate "Seer Percentage"
+to german "Seher Prozentsatz";
+
+translate "Round Time"
+to german "Rundenanzahl";
+
+translate "Villager Votes per Round"
+to german "Bürgerwahlen pro Runde";
+
+translate "Werewolf Votes to Kill"
+to german "Lynchwahl: Werwolfanzahl";
+
+translate "Villager Votes to Kill"
+to german "Lynchwahl: Bürgeranzahl";
+
+translate "Smells per Round"
+to german "Gerüche pro Runde";
+
+translate "Seerings per Round"
+to german "Sichtungen pro Runde";
+
+translate "Werewolf: Could not find a Seer."
+to german "Werwolf: Kann keinen Seher finden.";
+
+translate "Werewolf: Could not find a Werewolf."
+to german "Werwolf: Kann keinen Werwolf finden.";
+
+translate "Set Nokills to -10"
+to german "Stelle Nokills auf -10";
+
+translate "Daytime, day N1 - Try to blend in."
+to german "Mitten am Tag, Tag N1 - Versuche dich zu verwandeln.";
+
+translate "Daytime, day N1 - Watch for suspicious behavior and vote."
+to german "Mitten am Tag, Tag N1 - Halte nach verdächtigem Verhalten Ausschau und wähle.";
+
+translate "Evening, day N1 - Begin your hunt!"
+to german "Abend, Tag N1 - Beginne deine Jagd!";
+
+translate "Evening, day N1 - Watch your back!"
+to german "Abend, Tag N1 - Halte dir den Rücken frei!";
+
+translate "You were lynched under suspicion of lycanthropy."
+to german "Du wurdest aufgrund des Verdachtes, ein Werwolf zu sein gelyncht.";
+
+translate "You tried to lynch U1, but not enough others did."
+to german "Du hast versucht, U1(name) zu lynchen, aber du hast zuwenig Unterstützung von Anderen bekommen.";
+
+translate "You lynched U1. Examining the body shows that they were a K1."
+to german "Du hast U1(name) gelyncht. Beim Untersuchen des Körpers zeigt sich, dass dies ein K1 war.";
+
+translate "Smell this Mortuary Temple"
+to german "Schnüffle an dieser Leichenhalle";
+
+translate "You can't get the scent. You'll be able to smell more tomorrow."
+to german "Du kannst keine Fährte aufnehmen. Morgen wirst du in der Lage sein, mehr zu entdecken.";
+
+translate "Sniffling around..."
+to german "Schnüffle herum...";
+
+translate "U1 is an outsider. (Not Playing)"
+to german "U1(name) ist ein Outsider. (Spielt nicht)";
+
+translate "From the scent of the Mortuary Temple, you can tell that U1 is a Werewolf!"
+to german "Die Fährte der Leichenhallle sagt dir, dass U1(name) ein Werwolf ist!";
+
+translate "From the scent of the Mortuary Temple, you can tell that U1 was a Werewolf!"
+to german "Die Fährte der Leichenhallle sagt dir, dass U1(name) ein Werwolf war!";
+
+translate "From the scent of the Mortuary Temple, you can tell that U1 is not a Werewolf."
+to german "Die Fährte der Leichenhallle sagt dir, dass U1(name) kein Werwolf ist.";
+
+translate "From the scent of the Mortuary Temple, you can tell that U1 was not a Werewolf."
+to german "Die Fährte der Leichenhallle sagt dir, dass U1(name) kein Werwolf war.";
+
+translate "Smell U1"
+to german "Beschnüffle U1(name)";
+
+translate "You can tell that U1 is a Werewolf!"
+to german "Du kannst sicher sagen, dass U1(name) ein Werwolf ist!";
+
+translate "You can tell that U1 is not a Werewolf."
+to german "Du kannst sicher sagen, dass U1(name) kein Werwolf ist.";
+
+translate "Attack a Villager"
+to german "Greife einen Bürger an";
+
+translate "Who are you attacking?"
+to german "Wen greifst du an?";
+
+translate "You have not yet gotten the scent from your prey, or from their Mortuary Temple."
+to german "Du hast von deinem Opfer oder seiner Totenhalle noch keine Witterung aufgenommen.";
+
+translate "You get up, and turn your eyes away from K1. "
+to german "Du stehts auf und wendest deine Augen von K1 ab. ";
+
+translate "You have already made your kill for the night."
+to german "Du hast heute nacht bereits ein Opfer erlegt.";
+
+translate "You hunch down, poised to attack U1..."
+to german "Du duckst dich, bereit U1(name) anzugreifen...";
+
+translate "You attack, killing U1!"
+to german "Du greifst an und tötest U1(name)";
+
+translate "You were attacked by werewolves! You are dead."
+to german "Du wurdest von Werwölfen angegriffen. Du bist tot.";
+
+translate "You are Dead"
+to german "Du bist tot";
+
+translate "You are a Werewolf"
+to german "Du bist ein Werwolf";
+
+translate "You are a Seer"
+to german "Du bist ein Seher";
+
+translate "You are a normal Villager"
+to german "Du bist ein normaler Bürger";
+
+translate "Werewolf Event: Vote to Lynch"
+to german "Werwolfevent: Lynchabstimmung";
+
+translate "Who do you vote to Lynch?"
+to german "Wer soll gelyncht werden?";
+
+translate "U1 is already dead."
+to german "U1(name) ist bereits tot.";
+
+translate " As a Seer, your vote only helps your successful kills count."
+to german " Als Seher unterstützt deine Wahl nur die Anzahl deiner eigenen Tötungen.";
+
+translate "You change your vote form U1 to U2"
+to german "Du änderst deine Wahl von U1(name) auf U1(name)";
+
+translate "You enter your vote to lynch U1."
+to german "Du bist dafür U1(name) zu lynchen.";
+
+translate "It is twilight. Check again in a few moments."
+to german "Es dämmert. Prüfe in ein paar Augenblicken nochmals.";
+
+translate "Daytime, day N1."
+to german "Mitten am Tag, Tag N1.";
+
+translate "Evening, day N1."
+to german "Abend, Tag N1.";
+
+translate "You are alive."
+to german "Du bist am Leben.";
+
+translate "You are Dead."
+to german "Du bist tot.";
+
+translate "To participate, you must build a Mortuary Temple."
+to german "Um teilzunehmen musst du eine Leichenhalle bauen.";
+
+translate "You are a Werewolf."
+to german "Du bist ein Werwolf.";
+
+translate "You were a Werewolf."
+to german "Du warst ein Werwolf.";
+
+translate "You know the scent of U1."
+to german "Du kennst die Fährte von U1(name).";
+
+translate "You know the scent of U1 U2."
+to german "Du kennst die Fährte von U1(name) U2(name).";
+
+translate "You know the scent of U1 U2 U3."
+to german "Du kennst die Fährte von U1(name) U2(name) U3(name).";
+
+translate "You are poised to kill U1."
+to german "Du bist bereit U1(name) zu töten.";
+
+translate "You recently killed U1."
+to german "Du hast kürzlich U1(name) getötet.";
+
+translate "You are a Seer."
+to german "Du bist ein Seher.";
+
+translate "You were a Seer."
+to german "Du warst ein Seher.";
+
+translate "You are a Villager."
+to german "Du bist ein Bürger.";
+
+translate "You were a Villager."
+to german "Du warst ein Bürger.";
+
+translate "You have voted to lynch U1."
+to german "Du hast abgestimmt, U1(name) zu lynchen.";
+
+translate "You recently lynched U1."
+to german "Du hast kürzlich U1(name) gelyncht.";
+
+translate "You have participated in the lynchings of N1 actual werewolves.\n"
+to german "Du hast dich am Lynchen von N1 aktuellen Werwölfen beteiligt.";
+
+translate "You have also participated in the lynchings of N1 innocent villagers.\n"
+to german "Du hast dich ebenso am Lynchen von N1 unschuldigen Bürgern beteiligt.";
+
+translate "You have been a part of N1 failed lynchings.\n"
+to german "Du bist ein Teil von N1 fehlgeschlagendenen Lynchmorden gewesen.";
+
+translate "Your score is N1.\n"
+to german "Deine Wertung ist N1.";
+
+translate "Seer for Lycanthropy"
+to german "Weissage eine Werwolfsverwandlung";
+
+translate "Who do you want to Seer?"
+to german "Wen möchtest du weissagen?";
+
+translate "Seering..."
+to german "Weissagen...";
+
+translate "U1 is an Outsider."
+to german "U1(name) ist ein Außenseiter";
+
+translate "U1 is already dead."
+to german "U1(name) ist bereits tot.";
+
+translate "U1 is a Werewolf!"
+to german "U1(name) ist ein Werwolf!";
+
+translate "U1 is not a Werewolf."
+to german "U1(name) ist kein Werwolf.";
+
+translate "Build a Mortuary Temple"
+to german "Baue eine Leichenhalle";
+
+translate "You must be near a chariot stop to build a Mortuary Temple."
+to german "Du musst in der Nähe einer Streitwagenhaltebucht sein um eine Totenhalle bauen zu können.";
+
+translate "Mortuary Temples must be built out in the open, and not within compounds or other structures. It is possible to get around this automatic check, but it is considered cheating to do so."
+to german "Totenhallen müssen im Freien gebaut werden, nicht innerhalb Werkstätten oder anderen Bauten. Es ist möglich, diese automatische Prüfung zu umgehen, aber das würde Cheaten bedeuten. Also Finger weg.";
+
+translate "You are only K1 coordinates from the chariot stop. You must be at least 10 coordinates away."
+to german "Du bist nur K1 Koordinaten von der Streitwagenhaltebucht entfernt. Du musst mindestens 10 Koordinaten entfernt sein.";
+
+translate "You are K1 coordinates from the chariot stop, which is too far. You must be no more than 50 coordinates away."
+to german "Du bist nur K1 Koordinaten von der Streitwagenhaltebucht entfernt. Du darfst dich nicht mehr als 50 Koordinaten von ihr entfernen.";
+
+translate "You may not have more than one Mortuary Temple."
+to german "Du darfst nicht mehr als eine Leichenhalle besitzen.";
+
+translate "To build a Mortuary Temple you need:"
+to german "Um eine Leichenhalle zu bauen benötigst du:";
+
+translate "Villagers: N1, Seers: N2, Werewolves: N3 Peace: N4"
+to german "Bürger: N1, Seher: N2, Werwölfe N3, Frieden N4";
+
+translate "Round N1 ends in K1"
+to german "Die Runde N1 endet in K1";
+
+translate "This is a O1 belonged to Normal Villager U1"
+to german "Dies ist O1(asn) O1(sa) und gehörte dem einfachen Bürger U1(name)";
+
+translate "This is a O1 belonged to Werewolf U1"
+to german "Dies ist O1(asn) O1(sa) und gehörte dem Werwolf U1(name)";
+
+translate "This is a O1 belonged to Seer U1"
+to german "Dies ist O1(asn) O1(sa) und gehörte dem Seher U1(name)";
+
+translate "Daytime, day N1. There are N2 Werewolves, and N3 Villagers and Seers."
+to german "Tagsüber, Tag N1. Es gibt N2 Werwölfe und N3 Bürger und Seher.";
+translate "Evening, day N1. There are N2 Werewolves, and N3 Villagers and Seers."
+to german "Abends, Tag N1. Es gibt N2 Werwölfe und N3 Bürger und Seher.";
+
+translate "Warning: There are N1 other temples piled at approximately the same place."
+to german "Warnung: Dort sind N1 andere Hallen nahezu auf derselben Stelle zusammengebaut.";

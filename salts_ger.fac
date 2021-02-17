@@ -1,0 +1,141 @@
+Module salts_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment		           **
+//**                                                                       **
+//***************************************************************************
+
+
+translate AcidBath to german neuter
+{
+swa "Säurebad";
+  sn "Säurebad"; sg "Säurebades"; sd "Säurebad"; sa "Säurebad";
+  pn "Säurebäder"; pg "Säurebäder"; pd"Säurebädern"; pa"Säurebäder";
+}
+translate SaltsOfMetal to german femininecollective
+{
+swa "Metallsalze";
+  sn "Metallsalze"; sg "Metallsalze"; sd "Metallsalze"; sa "Metallsalze";
+  pn "Metallsalze"; pg "Metallsalze"; pd "Metallsalzen"; pa "Metallsalze";
+}
+translate SaltsOfIron to german femininecollective
+{
+swa "Eisensalze";
+  sn "Eisensalze"; sg "Eisensalze"; sd "Eisensalze"; sa "Eisensalze";
+  pn "Eisensalze"; pg "Eisensalze"; pd "Eisensalzen"; pa "Eisensalze";
+}
+translate SaltsOfCopper to german femininecollective
+{
+swa "Kupfersalze";
+  sn "Kupfersalze"; sg "Kupfersalze"; sd "Kupfersalze"; sa "Kupfersalze";
+  pn "Kupfersalze"; pg "Kupfersalze"; pd "Kupfersalzen"; pa "Kupfersalze";
+}
+translate SaltsOfLithium to german femininecollective
+{
+swa "Lithiumsalze";
+  sn "Lithiumsalze"; sg "Lithiumsalze"; sd "Lithiumsalze"; sa "Lithiumsalze";
+  pn "Lithiumsalze"; pg "Lithiumsalze"; pd "Lithiumsalzen"; pa "Lithiumsalze";
+}
+translate SaltsOfLead to german femininecollective
+{
+swa "Bleisalze";
+  sn "Bleisalze"; sg "Bleisalze"; sd "Bleisalze"; sa "Bleisalze";
+  pn "Bleisalze"; pg "Bleisalze"; pd "Bleisalzen"; pa "Bleisalze";
+}
+translate SaltsOfTin to german femininecollective
+{
+swa "Zinnsalze";
+  sn "Zinnsalze"; sg "Zinnsalze"; sd "Zinnsalze"; sa "Zinnsalze";
+  pn "Zinnsalze"; pg "Zinnsalze"; pd "Zinnsalzen"; pa "Zinnsalze";
+}
+translate SaltsOfAluminum to german femininecollective
+{
+swa "Aluminiumsalze";
+  sn "Aluminiumsalze"; sg "Aluminiumsalze"; sd "Aluminiumsalze"; sa "Aluminiumsalze";
+  pn "Aluminiumsalze"; pg "Aluminiumsalze"; pd "Aluminiumsalzen"; pa "Aluminiumsalze";
+}
+translate SaltsOfMagnesium to german femininecollective
+{
+swa "Magnesiumsalze";
+  sn "Magnesiumsalze"; sg "Magnesiumsalze"; sd "Magnesiumsalze"; sa "Magnesiumsalze";
+  pn "Magnesiumsalze"; pg "Magnesiumsalze"; pd "Magnesiumsalzen"; pa "Magnesiumsalze"; 
+}
+translate SaltsOfSilver to german femininecollective
+{
+swa "Silbersalze";
+  sn "Silbersalze"; sg "Silbersalze"; sd "Silbersalze"; sa "Silbersalze"; 
+  pn "Silbersalze"; pg "Silbersalze"; pd "Silbersalzen"; pa "Silbersalze";
+}
+translate SaltsOfGold to german femininecollective
+{
+swa "Goldsalze";
+  sn "Goldsalze"; sg "Goldsalze"; sd "Goldsalze"; sa "Goldsalze"; 
+  pn "Goldsalze"; pg "Goldsalze"; pd "Goldsalzen"; pa "Goldsalze";
+}
+translate SaltsOfZinc to german femininecollective
+{
+swa "Zinksalze";
+  sn "Zinksalze"; sg "Zinksalze"; sd "Zinksalze"; sa "Zinksalze"; 
+  pn "Zinksalze"; pg "Zinksalze"; pd "Zinksalzen"; pa "Zinksalze";
+}
+translate SaltsOfAntimony to german femininecollective
+{
+swa "Antimonysalze";
+  sn "Antimonysalze"; sg "Antimonysalze"; sd "Antimonysalze"; sa "Antimonysalze"; 
+  pn "Antimonysalze"; pg "Antimonysalze"; pd "Antimonysalzen"; pa "Antimonysalze";
+}
+translate SaltsOfPlatinum to german femininecollective
+{
+swa "Platinsalze";
+  sn "Platinsalze"; sg "Platinsalze"; sd "Platinsalze"; sa "Platinsalze"; 
+  pn "Platinsalze"; pg "Platinsalze"; pd "Platinsalzen"; pa "Platinsalze";
+}
+translate SaltsOfTungsten to german femininecollective
+{
+swa "Wolframsalze";
+  sn "Wolframsalze"; sg "Wolframsalze"; sd "Wolframsalze"; sa "Wolframsalze"; 
+  pn "Wolframsalze"; pg "Wolframsalze"; pd "Wolframsalzen"; pa "Wolframsalze";
+}
+translate SaltsOfTitanium to german femininecollective
+{
+swa "Titansalze";
+  sn "Titansalze"; sg "Titansalze"; sd "Titansalze"; sa "Titansalze"; 
+  pn "Titansalze"; pg "Titansalze"; pd "Titansalzen"; pa "Titansalze";
+}
+
+translate Neutralization to german femininecollective
+{
+swa "Neutralisierung";
+  sn "Neutralisierung"; sg "Neutralisierung"; sd "Neutralisierung"; sa "Neutralisierung"; 
+  pn "Neutralisierungen"; pg "Neutralisierungen"; pd "Neutralisierungen"; pa "Neutralisierungen";
+}
+
+translate "Pyrotechnics"
+to german "Pyrotechnik";
+
+translate "Acid Bath"
+to german "Säurebad";
+
+translate "To build an Acid Bath you need:"
+to german "Um ein Säurebad zu bauen benötigst du:";
+
+translate "Precipitate: N1 O1"
+to german "Ablagerung: N1 O1(N1?pn:sn)";
+
+translate "Filter the Precipitate"
+to german "Filtere die Ablagerungen heraus";
+
+translate "Start a batch of O1 Salts"
+to german "Mache eine Ladung O1(pn)salze ";
+
+translate "To make Salts of O1 you need:"
+to german "Um Salze aus O1(sn) herzustellen benötigst Du:";
+
+translate "The metal dances violently when it hits the acid bath, but then the reaction slows to a gentle fizz."
+to german "Das Metall tanzt heftig, als es in das Säurebad fällt, aber dann verwandelt sich die Reaktion zu einem Zischen.";
+
+translate "Allows the construction and use of Acid Baths, to make Metallic Salts"
+to german "Erlaubt den Bau und die Nutzung eines Säurebades, um Metallische Salze herzustellen";

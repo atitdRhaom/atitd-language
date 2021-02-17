@@ -1,0 +1,48 @@
+Module RAGatherFishQuantity;
+
+RegionalActivity RAGatherFishQuantity<"Gather Fish Quantity">;
+
+default World.RQSpecificActivitySettingMin[*, RAGatherFishQuantity] = 1;
+default World.RQSpecificActivitySettingMax[*, RAGatherFishQuantity] = 50;
+
+subroutine GetTaskDescription(region) of RAGatherFishQuantity {
+	if (IsA(World.RQSpecificActivityType[region, RAGatherFishQuantity], ATFirst)) {
+		return (String("First House to catch enough fish"));
+	}
+	if (IsA(World.RQSpecificActivityType[region, RAGatherFishQuantity], ATHouse)) {
+		return (String("House to catch the most fish of any type"));
+	}
+	if (IsA(World.RQSpecificActivityType[region, RAGatherFishQuantity], ATCoop)) {
+		return (String("Catch enough fish of any type"));
+	}
+
+	return ("Unknown Objective [RAGatherFishQuantity]");
+}
+
+subroutine PickAsActivity(region) of RAGatherFishQuantity {
+	var result = TRTwister(0, 1);
+	if (result) {
+		var choice = TRTwister(1, 9);
+		if (choice <= 3) {
+			PostAssign(World.RQSpecificActivityType[region, RAGatherFishQuantity], ATFirst);
+			PostAssign(World.RQWeeklyMax[region, RAGatherFishQuantity], TRTwister(World.RQSpecificActivitySettingMin[region, RAGatherFishQuantity], World.RQSpecificActivitySettingMax[region, RAGatherFishQuantity]) * 100);
+		} else if (choice <= 6) {
+			PostAssign(World.RQSpecificActivityType[region, RAGatherFishQuantity], ATHouse);
+			PostAssign(World.RQWeeklyMax[region, RAGatherFishQuantity], -1);
+		} else {
+			PostAssign(World.RQSpecificActivityType[region, RAGatherFishQuantity], ATCoop);
+			PostAssign(World.RQWeeklyMax[region, RAGatherFishQuantity], TRTwister(World.RQSpecificActivitySettingMin[region, RAGatherFishQuantity], World.RQSpecificActivitySettingMax[region, RAGatherFishQuantity]) * 100);
+		}
+	}
+	return (result);
+}
+
+subroutine TriggerActivity(amount, extraData) of RAGatherFishQuantity {
+	var region = Actor->GetCurrentRegion();
+
+	if (contains(World.HouseHomeRegions[Actor.House], region)) {
+		amount = amount * 2;
+	}
+
+	Actor.RAActivityBuffer[RAGatherFishQuantity, region, Actor.House] += amount;
+}

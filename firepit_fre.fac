@@ -1,0 +1,153 @@
+module firepit_fre;
+
+translate Firepit to french masculine
+{
+  ns "Foyer"; np "Foyers";
+}
+translate GrilledCabbage to french masculine
+{
+  ns "Chou grillé"; np "Choux grillés";
+}
+translate GrilledCarrot to french feminine
+{
+  ns "Carotte grillée"; np "Carottes grillées";
+}
+translate GrilledCucumber to french masculine
+{
+  ns "Concombre grillé"; np "Concombres grillés";
+}
+translate GrilledEggplant to french feminine
+{
+  ns "Aubergine grillée"; np "Aubergines grillées";
+}
+translate GrilledGarlic to french neuter
+{
+  ns "Ail grillé"; np "Ails grillés";
+}
+translate GrilledLeek to french masculine
+{
+  ns "Poireau grillé"; np "Poireaux grillés";
+}
+translate GrilledOnion to french masculine
+{
+  ns "Oignon grillé"; np "Oignons grillés";
+}
+translate GrilledPepper to french masculine
+{
+  ns "Poivron grillé"; np "Poivrons grillés";
+}
+translate GrilledWatermelon to french masculine
+{
+  ns "Melon d'eau grillé"; np "Melons d'eau grillés";
+}
+translate Firebuilding to french masculine
+{
+  ns "Construction de foyer"; np "Construction de foyer";
+}
+translate SharpStick to french masculine
+{
+  ns "Bâton effilé"; np "Bâtons effilés";
+}
+translate IronPoker to french masculine
+{
+  ns "Tisonnier"; np "Tisonniers";
+}
+translate Tinder to french neuter
+{
+  ns "Copeau de bois"; np "Copeaux de bois";
+}
+
+translate "Allows the ability to start fires where needed with flint and tinder."
+to french "Permet d'allumer des feux lorsque nécessaire avec des pierres et des copeaux de bois.";
+
+translate "Firepit"
+to french "Foyer";
+
+translate "To build a Firepit, you need: "
+to french "Pour construire un foyer, il vous faut: ";
+
+translate "Place Wood in Firepit"
+to french "Mettre du bois dans le foyer";
+
+translate "You must place N1 wood into the firepit to construct a proper fire."
+to french "Vous devez mettre N1 bois dans le foyer pour faire un feu convenable.";
+
+translate "Place Tinder in Firepit"
+to french "Mettre des copeaux de bois dans le foyer";
+
+translate "Place O1 in Firepit"
+to french "Mettre O1(dns) O1(ns) dans le foyer";
+
+translate "You must place tinder into the firepit to construct a proper fire."
+to french "Vous devez mettre des copeaux de bois dans le foyer pour faire un feu convenable.";
+
+translate "You must have a piece of flint to light the fire."
+to french "Vous devez vous munir d'un silex pour allumer le foyer.";
+
+translate "The tinder catches the spark, and the fire flares into life."
+to french "L'étincelle embrase les copeaux de bois, et les flammes jaillissent.";
+
+translate "The tinder catches the spark, and the fire flares into life. You learn a bit more about Firebuilding, as well."
+to french "L'étincelle embrase les copeaux de bois, et les flammes jaillissent. Vous en apprenez également un peu plus sur la construction de foyers.";
+
+translate "The tinder catches the spark and burns up, but the fire doesn't catch. You will have to replace the tinder."
+to french "L'étincelle embrase les copeaux de bois et l'enflamme, mais le feu ne prend pas. Vous allez devoir remplacer les copeaux de bois.";
+
+translate "The spark lands on the tinder and it smoulders, but does not light.."
+to french "L'étincelle tombe sur les copeaux de bois qui dégage de la fumée, mais ne prend pas feu...";
+
+translate "Remove Wood from Firepit"
+to french "Retirer le bois du foyer";
+
+translate "Remove Tinder from Firepit"
+to french "Retirer les copeaux de bois du foyer";
+
+translate "Add some O1 to the fire."
+to french "Ajouter O1(dns) O1(ns) au feu.";
+
+translate "Add how much O1 to the fire?"
+to french "Ajouter combien de O1(ns) au feu?";
+
+translate "You can't put more than N1 of any item into the firepit."
+to french "Vous ne pouvez pas mettre plus de N1 de chaque élément dans le foyer.";
+
+translate "You don't have N1 O1."
+to french "Vous n'avez pas N1 O1(N1?np:ns).";
+
+translate "Stoke the Fire with your O1"
+to french "Attiser le feu avec votre O1(ns).";
+
+translate "Stoke the Fire with your Sharpened Stick"
+to french "Attiser le feu avec votre bâton effilé";
+
+translate "Stoke the Fire with your Iron Poker"
+to french "Attiser le feu avec votre tisonnier";
+
+translate "You stoke the fire with your Sharpened Stick, but it catches fire and burns up."
+to french "Vous attisez le feu avec votre bâton effilé, mais il prend feu et brûle.";
+
+translate "You stoke the fire at the wrong time, and you ruin the fire prematurely."
+to french "Vous attisez le feu au mauvais moment, et éteignez le feu prématurément.";
+
+translate "This O1 is burning merrily"
+to french "Ce O1(ns) brûle joyeusement";
+
+translate "This O1 is smouldering out"
+to french "Ce O1(ns) est en train de mourrir";
+
+translate "Your Firepit has smouldered out."
+to french "Votre foyer est parti en fumée.";
+
+translate "Grill O1 on the fire."
+to french "Faire griller O1(dnp) O1(np) sur le feu";
+
+translate "You must place your food on a Sharpened Stick to cook it in the fire."
+to french "Vous devez mettre votre nourriture sur un bâton effilé pour la faire cuire dans le feu.";
+
+translate "Eat some O1"
+to french "Manger O1(dns) O1(ns)";
+
+translate "Strike flint into the tinder and blow to start fire"
+to french "Percuter le silex avec les copeaux de bois et souffler pour allumer un feu";
+
+

@@ -1,0 +1,59 @@
+Module RAGatherHerb;
+
+RegionalActivity RAGatherHerb<"Collect [type] Herbs">;
+
+default World.RQSpecificActivitySettingMin[*, RAGatherHerb] = 1;
+default World.RQSpecificActivitySettingMax[*, RAGatherHerb] = 40;
+
+subroutine GetTaskDescription(region) of RAGatherHerb {
+	if (IsA(World.RQSpecificActivityType[region, RAGatherHerb], ATFirst)) {
+		return (String("First House to gather enough ", World.RQSpecificActivitySetting[region, RAGatherHerb], " herbs"));
+	}
+	if (IsA(World.RQSpecificActivityType[region, RAGatherHerb], ATHouse)) {
+		return (String("House to gather the most ", World.RQSpecificActivitySetting[region, RAGatherHerb], " herbs"));
+	}
+	if (IsA(World.RQSpecificActivityType[region, RAGatherHerb], ATCoop)) {
+		return (String("Gather enough ", World.RQSpecificActivitySetting[region, RAGatherHerb], " herbs"));
+	}
+
+	return ("Unknown Objective [RAGatherHerb]");
+}
+
+subroutine PickAsActivity(region) of RAGatherHerb { 
+	var result = TRTwister(0, 1);
+	if (result) {
+		var herbs=<<>>;
+		for h derivedfinal(OPHerb) {
+			if (World.s_herbrarity[h] >= 500) {
+				herbs=append(herbs,h);
+			}
+		}
+
+		var kind = nth(herbs, TRTwister(0, length(herbs)-1));
+		PostAssign(World.RQSpecificActivitySetting[region, RAGatherHerb], kind);
+
+		var choice = TRTwister(1, 9);
+		if (choice <= 3) {
+			PostAssign(World.RQSpecificActivityType[region, RAGatherHerb], ATFirst);
+			PostAssign(World.RQWeeklyMax[region, RAGatherHerb], TRTwister(World.RQSpecificActivitySettingMin[region, RAGatherHerb], World.RQSpecificActivitySettingMax[region, RAGatherHerb]) * 10);
+		} else if (choice <= 6) {
+			PostAssign(World.RQSpecificActivityType[region, RAGatherHerb], ATHouse);
+			PostAssign(World.RQWeeklyMax[region, RAGatherHerb], -1);
+		} else {
+			PostAssign(World.RQSpecificActivityType[region, RAGatherHerb], ATCoop);
+			PostAssign(World.RQWeeklyMax[region, RAGatherHerb], TRTwister(World.RQSpecificActivitySettingMin[region, RAGatherHerb], World.RQSpecificActivitySettingMax[region, RAGatherHerb]) * 10);
+		}
+	}
+	return (result);
+}
+
+subroutine TriggerActivity(amount, extraData) of RAGatherHerb {
+	if (IsA(World.RQSpecificActivitySetting[Actor->GetCurrentRegion(), RAGatherHerb], extraData)) {
+		var region = Actor->GetCurrentRegion();
+
+		if (contains(World.HouseHomeRegions[Actor.House], region)) {
+			amount = amount * 2;
+		}
+		Actor.RAActivityBuffer[RAGatherAnyHerb, region, Actor.House] += amount;
+	}
+}

@@ -1,0 +1,130 @@
+Module basic_fre;
+
+translate masculine to french
+{
+	lns "le"; uns "un"; dns "du"; cns "ce"; tns "tout le";  ans "au"; pns "il"; 
+	lnp "les"; unp "des"; dnp "des"; cnp "ces"; tnp "tous les"; anp "aux"; pnp "ils";
+	}
+
+translate feminine to french
+{
+	lns "la"; uns "une"; dns "de la"; cns "cette"; tns "toute la"; ans "à la"; pns "elle";
+	lnp "les"; unp "des"; dnp "des"; cnp "ces"; tnp "toutes les"; anp "aux"; pnp "elles";
+	}
+	
+translate masculinecollective to french
+{
+	lns "l'"; uns "un"; dns "de l'"; cns "cet"; tns "tout l'"; ans "à l'"; pns "il"; ons "d'";
+	lnp "les"; unp "des"; dnp "des"; cnp "ces"; tnp "tous les"; anp "aux"; pnp "ils"; onp "d'";
+	}
+	
+translate femininecollective to french
+{
+	lns "l'"; uns "une"; dns "de l'"; cns "cette"; tns "toute l'"; ans "à l'"; pns "elle"; ons "d'";
+	lnp "les"; unp "des"; dnp "des"; cnp "ces"; tnp "toutes les"; anp "aux"; pnp "elles"; onp "d'";
+	}
+
+translate "Cancel"
+to french "Annuler";
+
+translate "Main"
+to french "Général";
+
+translate "Immigrants"
+to french "Immigrants";
+
+translate "inventory"
+to french "Inventaire";
+
+translate "This is your O1"
+to french "C'est votre O1(ns)";
+
+translate "Do you really want to tear down the O1?"
+to french "Voulez-vous vraiment détruire O1(cns) O1(ns) ?";
+
+translate "Tear this down by order of the Special Salvage law."
+to french "Détruire cette construction par ordre de la loi sur le recyclage.";
+
+translate "U1 has left the channel."
+to french "U1(name) a quitté la discussion.";
+
+translate "Take/O1 (N1)"
+to french "Prendre/O1(N1?np:ns) (N1)";
+
+translate "Stash/O1 (N1)"
+to french "Déposer/O1(N1?np:ns) (N1)";
+
+translate "O1 (N1)"
+to french "O1(N1?np:ns) (N1)";
+
+translate "O1 N1"
+to french "O1(N1?np:ns) N1";
+
+translate "N1 O1"
+to french "N1 O1(N1?np:ns)";
+
+translate "N1 O1:K1"
+to french "N1 O1(N1?np:ns) : K1";
+
+translate "U1: N1"
+to french "U1(name) : N1";
+
+translate "U1-N1"
+to french "U1(name) - N1";
+
+translate "  * N1 O1"
+to french "  * N1 O1(N1?np:ns)";
+
+translate "O1:K1"
+to french "O1(ns) : K1";
+
+//translate "O1"
+//to french "O1(np)";
+
+translate "O1"
+to french "O1(^swa)";
+ 
+translate "O1 O2"
+to french "O1(np) O2(np)";
+ 
+translate "O1 O2 O3"
+to french "O1(np) O2(np) O3(np)";
+ 
+translate "O1 O2 O3 O4"
+to french "O1(np) O2(np) O3(np) O4(np)";
+ 
+translate "O1 O2 O3 O4 O5"
+to french "O1(np) O2(np) O3(np) O4(np) O5(np)";
+
+translate "U1"
+to french "U1(name)";
+
+translate "Downloading N1kb"
+to french "Téléchargement de N1kb";
+
+translate "Downloading N1k"
+to french "Téléchargement N1k";
+
+translate "Patching N1 files"
+to french "Ajout de N1 fichiers";
+
+translate "Processing..."
+to french "Traitement...";
+
+translate "stash"
+to french "Entreposer";
+
+translate "Pick up the O1"
+to french "Prendre O1(lns) O1(ns)";
+
+translate "O1 (Completed)"
+to french "O1(np) (achevé)";
+
+translate "O1 (Current Level: N1)"
+to french "O1(np) (Niveau actuel: N1)";
+
+translate "O1 (Level N1)"
+to french "O1(np) (Niveau N1)";
+
+translate "O1 (Level: N1)"
+to french "O1(np) (Niveau: N1)";

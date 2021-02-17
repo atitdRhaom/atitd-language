@@ -1,0 +1,257 @@
+module witagog_fre;
+
+translate trybeginwitagog to french feminine
+{ ns "Bases du Witagog"; np "Bases du Witagog"; }
+
+translate "Read \"How do I play Witagog?\" at a Witagog Desk"
+to french "Lire \"Comment jouer à Witagog ? \"sur un plateau de Witagog";
+
+translate "Learn how to play Witagog"
+to french "Apprender à jouer au Witagog";
+
+translate "Play a game of Witagog"
+to french "Faire une partie de Witagog";
+
+translate "Improve a Witagog's Stats"
+to french "Améliorer les stats d'un Witagog";
+
+translate "Add a leg to a Witagog"
+to french "Ajouter une jambe à un Witagog";
+
+translate "Move a Witagog"
+to french "Déplacer un Witagog";
+
+translate "Attack another Witagog"
+to french "Attaquer un autre Witagog";
+
+translate "Finish a game of Witagog"
+to french "Terminer une partie de Witagog";
+
+translate "                                        The Rules of Witagog"
+to french "                                        Les règles du Witagog";
+translate "Each Witagog arena is different."
+to french "Chaque Arène de Witagog est différente";
+translate "Witagog's can travel along the stone tiled surface only."
+to french "Les Witagogs peuvent se déplacer uniquement sur les surfaces pavées";
+
+translate "Witagogs are beetle-like contraptions, they can be upgraded to move faster or fight better."
+to french "Les Witagog ressemblent à des scarabés, ils peuvent être améliorés pour se déplacer plus vite ou mieux combattre";
+translate "Witagogs have the following charactaristics:"
+to french "Les Witagog ont les caractéristiques suivantes:";
+translate "   Strength -- The higher the strength the more damage the Witagog can inflict."
+to french "   Force -- Plus la force est grande, plus le Witagog pourra infliger de dommages.";
+translate "   Defense -- The higher the defense the more damage the Witagog can inflict in retaliation."
+to french "   Défense -- Plus la défense est grande, plus le Witagog pourra infliger de dommages en représailles";
+translate "   Max HP -- The higher the Max HP the more hitpoints the Witagog can have."
+to french "   Max HP -- Plus le Max HP est grand, plus le Witagog peut avoir de points de vie.";
+translate "   Heal -- The higher the Heal the more hitpoints the Witagog recovers each turn."
+to french "   Soins -- Plus les soins sont élevés, plus le Witagog pourra récupérer de points de vie à chaque tour.";
+translate "   Speed -- The higher the Speed the less it costs to move the Witagog."
+to french "   Vitesse -- Plus la vitesse est élevée, moins cela coûtera pour déplacer le Witagog.";
+translate "   Legs -- Each leg allows the Witagog to move or attack in the direction the leg is facing."
+to french "   Jambes -- Chaque jambe permet au Witagog de se déplacer ou d'attaquer dans la direction de la jambe.";
+translate "Moving Phase:"
+to french "Phase de déplacement:";
+
+translate "Turns take play in two phases, the Moving Phase and the Building Phase."
+to french "Il y a deux phases par tour, la phase de déplacement et la phase de construction.";
+translate "The first turn is only played with the Building Phase. Each turn thereafter is played with the Moving Phase and then the Building Phase."
+to french "Le premier tour comporte seulement la phase de construction. Chacun des tours suivants comportera les 2 phases.";
+translate "A player has 49 'move points' per Moving Phase. Every time you move a Witagog it depletes your points in relation to the Witagog's speed. If you do not have enough points to move the Witagog you cannot move the Witagog."
+to french "Un joueur a 49 points de déplacement par phase de déplacement. Chaque fois que vous déplacer un Witadog, les points correspondants à la vitesse sont décomptés. Si vous n'avez pas assez de points pour déplacer le Witagog, il ne se déplacera pas";
+translate "In the moving phase you can move your Witagog in any direction that it has a leg."
+to french "Dans la phase de déplacement, vous ne pouvez déplacer le Witagog que dans une direction d'une jambe.";
+translate "You can push your opponent's Witagog along the path by moving into it."
+to french "Vous pouvez pousser le Witagog ennemi le long du chemin en avançant vers lui.";
+translate "Building Phase:"
+to french "Phase de construction";
+translate "A player has 49 'build points' per Building Phase. Except from the very first phase where the player only has 33 'build points'."
+to french "Un joueur a 49 points de construction par phase de construction, sauf pour la toute première phase où le joueur n'a que 33 points de construction.";
+translate "You can spend these points to upgrade the charactaristics of your Witagogs."
+to french "Vous pouvez utiliser ces points pour améliorer les caractéristiques de votre Witagog.";
+translate "You can also attack your opponent's Witagogs if your Witagog has the appropriate leg."
+to french "Vous pouvez aussi attaquer votre ennemi Witagog si votre Witagog a la jambe correspondante.";
+translate "Attacking:"
+to french "Attaque";
+translate "When you attack an opponent's Witagog you deal damage to it equal to your Witagog's strength."
+to french "Lorsque vous attaquez votre ennemi Witagog, vous infligez des domages égaux à la force de votre Witagog.";
+translate "The opponent's Witagog will deal damage to your Witagog equal to it's defense."
+to french "Le Witagog ennemi vous infligera des dommages égaux aux points de sa défense.";
+translate "If you did not kill the opponent's witagog it will deal defensive damage again."
+to french "Si vous n'avez pas tué le Witagog ennemi, il vous infligera à nouveau des dommages.";
+
+translate "Win the game by defeating all of your opponent's Witagogs OR"
+to french "Pour gagner, il faut battre tous les Witagog ennemis OU";
+translate "Have one of your Witagogs spend 3 consecutive turns in the opponent's archway."
+to french "Avoir passé 3 tours consécutifs dans l'arche ennemie";
+
+translate WitagogDesk to french masculine
+{
+  ns "Bureau de Witagog"; np "Bureaux de Witagog";
+}
+
+translate WitagogAlcove to french feminine
+{
+  ns "Arche de Witagog"; np "Arche de Witagog";
+}
+
+translate WitagogMastery to french feminine
+{
+  ns "Maîtrise du Witagog"; np "Maîtrise du Witagog";
+}
+
+
+translate "Set Rank/"
+to french "Choisir le rang";
+
+translate "Set Rank"
+to french "Choisir le rang";
+
+translate "Unrestricted"
+to french "Sans restriction";
+
+translate "Configure this desk"
+to french "Configurer ce bureau";
+
+translate "End Witagog Configure"
+to french "Terminer la configuration de ce Witagog";
+
+translate "Witagog: Set Blue Alcove here"
+to french "Witagog: Mettre une arche bleue ici";
+
+translate "Witagog: Set Green Alcove here"
+to french "Witagog: Mettre une arche verte ici";
+
+translate "Witagog: Add Blue"
+to french "Witagog: Ajouter un bleu";
+
+translate "Witagog: Add Green"
+to french "Witagog: Ajouter un vert";
+
+translate "Already a Witagog here."
+to french "Il y a déjà un Witagog ici";
+
+translate "Remove this Witagog"
+to french "Retirer ce Witagog";
+
+translate "[Extra]Practice Mode"
+to french "[Extra]Mode pratique";
+
+translate "[Extra]Tournament Mode, "
+to french "[Extra]Mode tournoi, ";
+
+translate "Tournament Mode, Rank N1"
+to french "Mode Tournoi, Rang N1";
+
+translate "[Extra]To play, you must register"
+to french "[Extra]Pour jouer, vous devez vous enregistrer";
+
+translate "[Extra]at the University of Conflict."
+to french "[Extra]à l'Université de Conflit.";
+
+translate "[Extra]Wager: N1 O1"
+to french "[Extra]Coût: N1 O1(N1?np:ns)";
+
+translate "[Extra]Wager: Free"
+to french "[Extra]Coût: Gratuit";
+
+translate "[Extra]This Witagog court is under construction."
+to french "[Extra]Ce terrain de Witagog est en construction.";
+
+translate "Play Witagog"
+to french "Jouer à Witagog";
+
+translate "You must first sign up for the Test of Witagog at the Great University of Conflict."
+to french "Vous devez d'abord vous enregistrer à l'épreuve du Witagog à la Grande Université du Conflit.";
+
+translate "Force game to start"
+to french "Forcer le début de la partie";
+
+translate "Play Witagog against U1"
+to french "Jouer à Witagog contre U1(name)";
+translate "Play Witagog against 0"
+to french "Jouer à Witagog contre ";
+
+translate "You do not have enough O1."
+to french "Vous n'avez pas assez de O1(np)";
+
+translate "Your opponent does not have enough O1 for an offering."
+to french "Votre adversaire n'a pas assez de O1(np) à offrir.";
+
+translate "This game will not affect ranks because the court is in Practice Mode."
+to french "Cette partie n'affectera pas le classement, le terrain étant en mode Pratique.";
+
+translate "This game will not affect ranks because the court is designated only for Rank N1, players, at least one of the players is not that rank."
+to french "Cette partie n'affectera pas le classement, le terrain est conçu pour les joueurs de rang N1, et au moins un joueur n'est pas de ce rang.";
+
+translate "Not your turn"
+to french "Ce n'est pas votre tour";
+
+translate "Are you sure you want to end "
+to french "Êtes vous sûr de vouloir arrêter ";
+
+translate "Your Witagogs have triumphed!"
+to french "Vos Witagogs gagnent!";
+
+translate "Your Witagogs have been defeated!"
+to french "Vos Witagogs ont été vaincus!";
+
+translate "It is not your turn"
+to french "Ce n'est pas votre tour";
+
+translate "You can't build your Witagogs in Move phase."
+to french "Vous ne pouvez construire vos Witagogs en phase Mouvement.";
+
+translate "N1 points needed."
+to french "N1 points nécessaires.";
+
+translate "You may move a piece"
+to french "Vous pouvez bouger une pièce";
+
+translate "You can build. You have N1 points left."
+to french "Vous pouvez construire. Il vous reste N1 points.";
+
+translate "Not your Witagog"
+to french "Ce n'est pas votre Witagog";
+
+translate "Out of Bounds"
+to french "Hors des limites";
+
+translate "This piece does not know how to move that way."
+to french "Cette pièce ne sait pas aller dans cette direction.";
+
+translate "Attacking not allowed in Move phase."
+to french "Attaquer n'est pas possible en phase de mouvement.";
+
+translate "You need N1 points."
+to french "Vous avez besoin de N1 points.";
+
+translate "No opponent to attack"
+to french "Aucun adversaire à attaquer.";
+
+translate "Can't attack your own Witagogs!."
+to french "Vous ne pouvez attaquer vos propres Witagogs!";
+
+translate "Diagonal legs can only be added after adjacent legs."
+to french "Les pattes en diagonale peuvent être ajoutées seulement après les pattes adjacentes l'ont été.";
+
+translate "Opponent's Witagog, HP:"
+to french "Witagog de l'adversaire, HP:";
+
+translate "My Witagog, HP:"
+to french "Mon Witagog, HP:";
+
+translate "Start the Test of Witagog"
+to french "Lancer l'épreuve du Witagog";
+
+translate "You are now registered for the Test of Witagog. "
+to french "Vous êtes maintenant inscrit à l'épreuve du Witagog. ";
+
+translate "Strength: "
+to french "Force :";
+
+translate "Heal: "
+to french "Soin : ";
+
+translate "Speed: "
+to french "Vitesse : ";

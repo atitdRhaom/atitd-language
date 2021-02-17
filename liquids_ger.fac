@@ -1,0 +1,64 @@
+module water_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**            German Version: Astrid "Infinyti" Werner                   **
+//**                            2012                                       **
+//**                                                                       **
+//***************************************************************************
+
+translate Jugs to german masculine
+{
+ swa "Krug";
+  sn "Krug"; sg "Krugs"; sd "Krug"; sa "Krug";
+  pn "Krüge"; pg "Krüge"; pd "Krügen"; pa "Krüge";
+}
+
+translate Water to german masculine
+{
+ swa "Krug mit Wasser";
+  sn "Krug mit Wasser"; sg "Krugs mit Wasser"; sd "Krug mit Wasser"; sa "Krug mit Wasser";
+  pn "Krüge mit Wasser"; pg "Krüge mit Wasser"; pd "Krügen mit Wasser"; pa "Krüge mit Wasser";
+}
+
+translate SulphurousWater to german neutercollective
+{
+ swa "schwefelhaltiges Wasser";
+  sn "schwefelhaltige Wasser"; sg "schwefelhaltigen Wassers"; sd "schwefelhaltigen Wasser"; sa "schwefelhaltigem Wasser";
+  pn "schwefelhaltige Wasser"; pg "schwefelhaltige Wasser"; pd "schwefelhaltigen Wasser"; pa "schwefelhaltige Wasser";
+}
+
+translate Tadpoles to german feminine
+{
+ swa "Kaulquappe";
+  sn "Kaulquappe"; sg "Kaulquappe"; sd "Kaulquappe"; sa "Kaulquappe";
+  pn "Kaulquappen"; pg "Kaulquappen"; pd "Kaulquappen"; pa "Kaulquappen";
+}
+
+translate "You can't carry any more O1."
+	to german "Du kannst nicht mehr O1(pn) tragen.";
+
+translate "While scooping up water, you got some tadpoles! They're really cute, and weigh practically nothing. Maybe you'll find a use for them."
+	to german "Während du Wasser schöpfst, hast du einige Kaulquappen gefunden! Sie sind niedlich und wiegen fast gar nichts. Vielleicht findest du eine Verwendung für sie.";
+
+translate "Empty jugs"
+	to german "Krüge leeren";
+
+translate "Empty one jug of water"
+	to german "Leere einen Krug Wasser";
+
+translate "Empty all jugs of water"
+	to german "Leere alle Krüge mit Wasser";
+
+translate "If you want to gather clay, use the action icon. Did you really mean to just discard the water?"
+	to german "Wenn du Ton sammeln willst, nutze das Aktionsicon. Oder willst du das Wasser wirklich wegschütten?";
+
+translate "Empty one jug of sulphurous water"
+	to german "Leere einen Krug schwefelhaltigen Wassers";
+
+translate "Empty all jugs of sulphurous water"
+	to german "Leere alle Krüge schwefelhaltigen Wassers";
+
+translate "Titration techniques to permanently change a body of water to sulpherous water."
+	to german "Titrationstechniken, um Wasser dauerhaft zu schwefligem Wasser zu verändern.";

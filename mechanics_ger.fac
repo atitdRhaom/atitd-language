@@ -1,0 +1,38 @@
+module mechanics_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Games **
+//**    (C)opyright 2002,2003 by MDO Games			           **
+//**                                                                       **
+//***************************************************************************
+//menues
+
+//objects
+
+//texts
+
+translate "Attempt to tune this O1"
+to german "Versuche, O1(tsd) O1(sd) zu verbessern";
+
+translate "You may not attempt tuning during development sessions."
+to german "Du darfst während Entwicklungssitzungen keine Verbesserungen versuchen.";
+
+translate "You succeed in tuning the O1. It will now work faster."
+to german "Dir ist es gelungen O1(tsd) O1(sd) zu verbessern. Es arbeitet nun schneller.";
+
+translate "This has been tuned to level N1 by U1"
+to german "Dies wurde von U1(name) auf Stufe N1 verbessert";
+
+translate "You are too tired from your last tuning attempt. Wait another K1."
+to german "Du bist von Deinem letzten Versuch noch zu müde. Warte noch K1.";
+
+translate "Attempting to tune this O1..."
+to german "Versuche O1(tsa) O1(sa) zu beschleunigen...";
+
+translate "You attempt to tune the O1 but it's beyond your skill level. Unless you improve your skill, you will never figure out how to tune this particular O2 although you may have luck with others."
+to german "Du versuchst O1(tsa) O1(sa) zu beschleunigen, aber es ist jenseits Deiner Fähigkeitsstufe. Bevor Du nicht Deine Fähigkeiten verbesserst, wirst Du nicht herausfinden, wie Du O2(tsa) O2(sa) beschleunigen kannst, auch wenn Du Glück bei Anderen haben könntest.";
+
+translate "You attempt to tune the O1 but you can't figure out a way to improve it. Your skill is high enough that it may or may not be possible on a future attempt."
+to german "Du versuchst O1(tsa) O1(sa) zu beschleunigen, aber Du weißt nicht wie. Deine Fähigkeit ist hoch genug, sodaß ein weiterer Versuch vielleicht Erfolg hat, vielleicht aber auch nicht.";

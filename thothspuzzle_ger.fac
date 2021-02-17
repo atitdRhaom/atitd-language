@@ -1,0 +1,199 @@
+module ThothsPuzzle_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment		           **
+//**                                                                       **
+//***************************************************************************
+
+translate "The Test of Constellation"
+	to german "Der Test des Sternenbildes";
+
+translate NightSkyTable to german masculine
+{
+swa "Tisch des Nachthimmels";
+	sn "Tisch des Nachthimmels";
+	pn "Tische des Nachthimmels";
+}
+translate "Constellation"
+	to german "Sternenbild";
+
+translate "Build a Night Sky Table, and create a constellation of stars that is challenging to cover."
+	to german "Baue einen Tisch des Nachthimmels und erstelle ein Sternenbild.";
+
+translate "Make a Clay Lamp (Requires Pottery Skill)"
+	to german "Baue eine Tonlampe (benötigt Töpferei)";
+translate "Gather Papyrus"
+	to german "Sammle Papyrus";
+translate "Dry Papyrus on a Drying Rack (Requires Flax Processing)"
+	to german "Trockne Papyrus in einem Trockengestell (benötigt Flachsverarbeitung)";
+translate "Gather Clay"
+	to german "Sammle Ton";
+translate "Gather Limestone"
+	to german "Sammle Kalkstein";
+translate "Spin Twine into Rope"
+	to german "Spinne Zwirn zu Seilen";
+translate "Build a Night Sky Table"
+	to german "Baue einen Tisch des Nachthimmels";
+translate "Open the Puzzle for Judging"
+	to german "Öffne das Puzzle zur Bewertung";
+translate "Tear down your Constellation Table, OR do the following:"
+	to german "Reisse deinen Sternenbildtisch ab ODER tue folgendes:";
+translate "@    Have Seven Judges solve and rate the puzzle"
+	to german "Finde sieben Richter, die das Puzzle bewerten";
+translate "@    Design rated Good by most judges"
+	to german "Die meisten Richter müssen mit 'Gut' abstimmen";
+translate "@All of the above, OR solve three recent winning Constellations"
+	to german "Alles obenstehende, ODER spiele erfolgreich drei bereits frisch abgeschlossene Sternenbilder";
+
+translate "You have completed Principles of Constellation."
+	to german "Du hast die Prinzipien des Sternenbildes abgeschlossen.";
+
+translate "L-Block"
+to german "L-Block";
+
+translate "Boot"
+	to german "Pflaster";
+
+translate "Isis"
+	to german "Isis";
+
+translate "Throne"
+	to german "Thron";
+
+translate "Kite"
+	to german "Drachen";
+
+translate "Maat"
+	to german "Maat";
+
+translate "Pacman"
+	to german "Pacman";
+
+translate "Pentagram"
+	to german "Pentagramm";
+
+translate "Pet"
+	to german "Tier";
+
+translate "Pyramid 1"
+	to german "Pyramide 1";
+
+translate "Pyramid 2"
+	to german "Pyramide 2";
+
+translate "Square"
+	to german "Quadrat";
+
+translate "V-Kite"
+	to german "V-Drachen";
+
+translate "Night Sky Table"
+	to german "Tisch des Nachthimmels";
+
+translate "To build a Night Sky Table, you need: "
+	to german "Um einen Tisch des Nachthimmels zu bauen, brauchst du: ";
+
+translate "Build a Night Sky Table and arrange stars, and an assortment of clouds (pieces) that barely cover the stars. "
+	to german "Baue einen Tisch des Nachthimmels und setze Sterne. Lege eine Auswahl an Wolken (Teile) an, die grade noch die Sterne bedecken.";
+
+translate "Challenge others to cover all stars with the clouds that you provide."
+	to german "Fordere andere Spieler heraus, alle Sterne mit deinen Wolken abzudecken.";
+
+translate "[Extra]Designer: U1"
+	to german "Entwickler: U1(name)";
+
+translate "Reset Constellation"
+	to german "Sternenbild zurücksetzen";
+
+translate "Reset this Puzzle"
+	to german "Puzzle zurücksetzen";
+
+translate "Play this Constellation"
+	to german "Spiele dieses Sternenbild";
+
+translate "Set up Light Grid"
+	to german "Sichere mit einem Lichtgitter";
+
+translate "You have solved the Constellation! You may now rate the design."
+	to german "Du hast das Sternenbild abgedeckt! Du kannst nun das Design bewerten.";
+
+translate "You may only have 21 pinholes."
+	to german "Du darfst nur 21 Nadellöcher haben.";
+
+translate "Open Judging"
+	to german "Bewertung eröffnen";
+
+translate "A Constellation must have at least one Star, and one Cloud."
+	to german "Ein Sternenbild muss mindestens einen Stern und eine Wolke haben.";
+
+translate "Before opening a Constellation, you must arrange the Clouds to cover all Stars."
+	to german "Bevor du ein Sternenbild freigeben darfst, musst du die Wolken über allen Sternen anordnen.";
+
+translate "Close Judging"
+	to german "Bewertung schließen";
+
+translate "Are you sure you want to close this? Doing so will wipe out all judgment points."
+	to german "Bist du sicher, dass du dies schließen möchtest? Du wirst alle Wertungspunkte verlieren.";
+
+translate "Add a Piece"
+	to german "Ein Teil hinzufügen";
+
+translate "Only 14 Pieces are allowed."
+	to german "Es sind nur 14 Stück erlaubt.";
+
+
+
+//translate "No judges have yet scored your design."
+//to german "Keine Richter haben dein Werk bislang bewertet.";
+
+//translate "To claim rights as an Initiate of Thought, N1 people must judge your creation, and most must rate it at least Good.\n\n"
+//to german "Um Rechte als Eingeweihter der Gedanken einzufordern, müssen N1 Leute dein Werk bewertet haben, die meisten davon mit mindestens Gut.";
+//translate "So far, N1 judges have tended to rate it Poor."
+//to german "Bislang haben N1 Richter auf Schlecht bewertet.";
+//translate "So far, N1 judges have tended to rate it Fair."
+//to german "Bislang haben N1 Richter auf Billig bewertet.";
+//translate "So far, N1 judges have tended to rate it Good."
+//to german "Bislang haben N1 Richter auf Gut bewertet.";
+//translate "So far, N1 judges have tended to rate it Great."
+//to german "Bislang haben N1 Richter auf Großartig bewertet.";
+//translate "So far, N1 judges have tended to rate it Exceptional."
+//to german "Bislang haben N1 Richter auf Außergewöhnlich bewertet.";
+//translate "So far, N1 judges have tended to rate it Brilliant."
+//to german "Bislang haben N1 Richter auf Brilliant bewertet.";
+//translate "So far, N1 judges have tended to rate it Monumental."
+//to german "Bislang haben N1 Richter auf Monumental bewertet.";
+//translate "So far, N1 judges have tended to rate it O1."
+//to german "Bislang haben N1 Richter auf O1(sn) bewertet.";
+
+//translate "Are you sure you want to close this guide? You can restart it at any time."
+//to german "Bist du sicher, dass du diese Hilfe schließen möchtest? Du kannst sie jederzeit erneut starten.";
+
+//translate "So far: N1"
+//to german "Bislang: N1";
+
+//translate "Design rated Good by most judges"
+//to german "Design wurde mit Gut von den meisten Richtern bewertet";
+
+//translate "Forward"
+//to german "Vorwärts";
+//translate "Back"
+//to german "Zurück";
+//translate "Left"
+//to german "Links";
+//translate "Right"
+//to german "Rechts";
+//translate "Center"
+//to german "Mitte";
+//translate "Turn"
+//to german "Drehen";
+//translate "Add"
+//to german "Dazu";
+//translate "Del"
+//to german "Entf";
+//translate "Prev"
+//to german "Vor";
+//translate "Next"
+//to german "Weiter";

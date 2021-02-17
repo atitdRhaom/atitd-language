@@ -1,0 +1,90 @@
+module mechanics_fre;
+
+translate springbox to french feminine
+{ns "Boite à ressort"; np "Boite à ressort";}
+
+translate "This O1 requires a O2 K1 K2 K3 of any quality. The higher the quality, the better the performance."
+to french "O1(cns) O1(ns) nécessite une O2(ns) K1 K2 K3 d'une qualité quelconque. Plus haute est la qualité, meilleures sont les performances";
+
+translate "Spring Box: Choose Spring and Gearbox to Combine"
+to french "Boîte à ressort: Choisissez le ressort et la boîte à pignons à combiner";
+
+translate "Disassemble a Spring Box"
+to french "Désassemblez une boîte à ressort";
+
+translate "Attempt to tune this O1"
+to french "Tenter de régler O1(cns) O1(ns)";
+
+translate "You may not attempt tuning during development sessions."
+to french "Vous ne pouvez pas faire de réglages pendant les sessions de développement.";
+
+translate "You are too tired from your last tuning attempt. Wait another K1."
+to french "Vous êtes encore trop fatigué de votre dernier réglage. Attendez encore K1";
+
+translate "Attempting to tune this O1..."
+to french "Vous tentez de régler O1(cns) O1(ns)...";
+
+translate "You succeed in tuning the O1. It will now work faster."
+to french "Vous avez réussi à régler O1(cns) O1(ns). Vous pourrez le faire fonctionner beaucoup plus vite.";
+
+translate "You attempt to tune the O1 but it's beyond your skill level. Unless you improve your skill, you will never figure out how to tune this particular O2, although you may have luck with others."
+to french "Vous tentez de régler O1(lns) O1(ns), mais cela dépasse vos connaissances. Si vous n'apprenez pas de nouvelles techniques, vous ne comprendrez jamais comment effectuer ce réglage correctement pour ce dispositif, même si vous arrivez à en régler d'autres.";
+
+translate "You attempt to tune the O1 but you can't figure out a way to improve it. Your skill is high enough that it may or may not be possible on a future attempt."
+to french "Vous tentez de régler votre O1(ns), mais vous ne trouvez pas de solution valable. Votre compétence est pourtant suffisante, et il sera peut-être possible de mieux le régler ultérieurement.";
+
+translate "This has been tuned to level N1"
+to french "Réglage effectué au niveau N1";
+translate "This has been tuned to level N1 by U1"
+to french "Réglage effectué au niveau N1 par U1(name)";
+
+translate "You are too tired from your last tuning attempt. Wait another N1"
+to french "Vous êtes encore trop fatigué de votre dernier réglage. Attendez N1";
+
+translate "Attempting to tune this O1..."
+to french "Vous tentez de régler O1(cns) O1(ns)..";
+
+translate "You succeed in tuning the O1. It will now work faster."
+to french "Réglage réussi. O1(lns) O1(ns) sera beaucoup plus efficace maintenant.";
+
+translate "You attempt to tune the O1 but it's beyond your skill level. Unless you improve your skill, you will never figure out how to tune this particular O2 although you may have luck with others."
+to french "Vous tentez de régler O1(lns) O1(ns), mais vous n'avez pas les connaissances nécessaires. Si vous n'étudiez pas, vous ne comprendrez jamais comment améliorer O1(^cns) O1(ns), même si vous réussissez à en régler d'autres.";
+
+translate "You attempt to tune the O1 but you can't figure out a way to improve it. Your skill is high enough that it may or may not be possible on a future attempt."
+to french "Vous tentez de régler votre O1(ns), mais vous ne trouvez pas de solution valable. Votre compétence est pourtant suffisante, et il sera peut-être possible de mieux le régler ultérieurement.";
+
+translate "O1 has been applied to this device"
+to french "De l'O1(ns) a été appliquée sur cet appareil";
+
+translate "Gear Oil is already flowing through the gears. Wait until it wears off before applying more."
+to french "L'huile pour pignon se répand déjà dans les engrenages. Attendez qu'elle s'écoule avant d'en appliquer davantage.";
+
+translate "You apply the O1 to the O2. The gears run more smoothly now."
+to french "Vous appliquez l'O1(ns) à O2(lns) O2(ns). Les rouages tournent à présent avec plus de fluidité.";
+
+translate "Assemble a Spring Box"
+to french "Assembler une boîte à ressort";
+
+translate "Install Spring Box"
+to french "Installez une boîte à ressorts";
+
+translate "Are you sure? Installing a Spring Box will increase production."
+to french "Etes-vous sûr ? Installer une boîte à ressort augmentera votre production";
+
+translate "A Spring Box has been installed in this building"
+to french "Une boîte à ressort a été installée";
+
+translate "Remove Spring Box"
+to french "Enlever la boîte à ressort";
+
+translate "This Spring Box does not meet the requirements."
+to french "Cette boîte à ressort ne remplit pas les conditions nécessaires";
+
+translate "Are you sure? This will decrease production of this building. The requirements will also change"
+to french "Etes-vous sur? Cela ferait décroitre la production. Les pré-requis changeront aussi";
+
+translate "You must remove the old spring box first."
+to french "Vous devez enlever l'ancienne boîte à ressorts d'abord";
+
+translate "WARNING: You won't be able to put it back afterwards."
+to french "ATTENTION: Vous ne pourrez pas la remettre ensuite";

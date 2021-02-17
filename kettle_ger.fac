@@ -1,0 +1,690 @@
+module kettle_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment       	           **
+//**                                                                       **
+//***************************************************************************
+//menues
+
+translate Kettle to german masculine
+{
+swa "Kessel";
+  sn "Kessel"; sg "Kessels"; sd "Kessel"; sa "Kessel";
+  pn "Kessel"; pg "Kessel"; pd "Kesseln"; pa "Kessel";
+}
+translate BeerKettle to german masculine
+{
+swa "Bierkessel";
+  sn "Bierkessel"; sg "Bierkessels"; sd "Bierkessel"; sa "Bierkessel";
+  pn "Bierkessel"; pg "Bierkessel"; pd "Bierkessel"; pa "Bierkessel";
+}
+translate BeerKettleKit to german masculine
+{
+swa "Bierkesselsatz";
+  sn "Bierkesselsatz"; sg "Bierkesselsatzes"; sd "Bierkesselsatz"; sa "Bierkesselsatz";
+  pn "Bierkesselsätze"; pg "Bierkesselsätze"; pd "Bierkesselsätzen"; pa "Bierkesselsätze";
+}
+translate BeerBrewing to german neutercollective
+{
+swa "Bierbrauen";
+  sn "Bierbrauen"; sg "Bierbrauens"; sd "Bierbrauen"; sa "Bierbrauen";
+  pn "Bierbrauen"; pg "Bierbrauen"; pd "Bierbrauen"; pa "Bierbrauen";
+}
+translate Acid to german feminine
+{
+swa "Säure";
+  sn "Säure"; sg "Säure"; sd "Säure"; sa "Säure";
+  pn "Säuren"; pg "Säuren"; pd "Säuren"; pa "Säuren";
+}
+translate Salt to german neuter
+{
+swa "Salz";
+  sn "Salz"; sg "Salzes"; sd "Salz"; sa "Salz";
+  pn "Salze"; pg "Salze"; pd "Salzen"; pa "Salze";
+}
+translate ToxinExtraction to german neuter
+{
+swa "Giftgewinnung";
+  sn "Giftgewinnung";
+  pn "Giftgewinnung";
+}
+translate Desiccation to german feminine
+{
+swa "Dehydration";
+  sn "Dehydration"; sg "Dehydration"; sd "Dehydration"; sa "Dehydration";
+  pn "Dehydration"; pg "Dehydration"; pd "Dehydration"; pa "Dehydration";
+}
+translate BAVPotent to german feminine
+{
+swa "Sehr stark";
+  sn "Sehr stark"; sg "Sehr stark"; sd "Sehr stark"; sa "Sehr stark";
+  pn "Sehr stark"; pg "Sehr stark"; pd "Sehr stark"; pa "Sehr stark";
+}
+translate BAPotent to german feminine
+{
+swa "Stark";
+  sn "Stark"; sg "Stark"; sd "Stark"; sa "Stark";
+  pn "Stark"; pg "Stark"; pd "Stark"; pa "Stark";
+}
+translate BAFruity to german feminine
+{
+swa "Fruchtig";
+  sn "Fruchtig"; sg "Fruchtig"; sd "Fruchtig"; sa "Fruchtig";
+  pn "Fruchtig"; pg "Fruchtig"; pd "Fruchtig"; pa "Fruchtig";
+}
+translate BASpicy to german feminine
+{
+swa "Würzig";
+  sn "Würzig"; sg "Würzig"; sd "Würzig"; sa "Würzig";
+  pn "Würzig"; pg "Würzig"; pd "Würzig"; pa "Würzig";
+}
+translate BASweet to german feminine
+{
+swa "Süß";
+  sn "Süß"; sg "Süß"; sd "Süß"; sa "Süß";
+  pn "Süß"; pg "Süß"; pd "Süß"; pa "Süß";
+}
+translate BADry to german feminine
+{
+swa "Trocken";
+  sn "Trocken"; sg "Trocken"; sd "Trocken"; sa "Trocken";
+  pn "Trocken"; pg "Trocken"; pd "Trocken"; pa "Trocken";
+}
+translate BABrown to german feminine
+{
+swa "Braun";
+  sn "Braun"; sg "Braun"; sd "Braun"; sa "Braun";
+  pn "Braun"; pg "Braun"; pd "Braun"; pa "Braun";
+}
+translate BABlack to german feminine
+{
+swa "Schwarz";
+  sn "Schwarz"; sg "Schwarz"; sd "Schwarz"; sa "Schwarz";
+  pn "Schwarz"; pg "Schwarz"; pd "Schwarz"; pa "Schwarz";
+}
+translate baBarley to german feminine
+{
+swa "Gerste";
+  sn "Gerste"; sg "Gerste"; sd "Gerste"; sa "Gerste";
+  pn "Gerste"; pg "Gerste"; pd "Gerste"; pa "Gerste";
+}
+translate baOrange to german feminine
+{
+swa "Orange";
+  sn "Orange"; sg "Orange"; sd "Orange"; sa "Orange";
+  pn "Orange"; pg "Orange"; pd "Orange"; pa "Orange";
+}
+translate baBanana to german feminine
+{
+swa "Banane";
+  sn "Banane"; sg "Banane"; sd "Banane"; sa "Banane";
+  pn "Banane"; pg "Banane"; pd "Banane"; pa "Banane";
+}
+translate baCherry to german feminine
+{
+swa "Kirsche";
+  sn "Kirsche"; sg "Kirsche"; sd "Kirsche"; sa "Kirsche";
+  pn "Kirsche"; pg "Kirsche"; pd "Kirsche"; pa "Kirsche";
+}
+translate baDate to german feminine
+{
+swa "Dattel";
+  sn "Dattel"; sg "Dattel"; sd "Dattel"; sa "Dattel";
+  pn "Dattel"; pg "Dattel"; pd "Dattel"; pa "Dattel";
+}
+translate baHoney to german feminine
+{
+swa "Honig";
+  sn "Honig"; sg "Honig"; sd "Honig"; sa "Honig";
+  pn "Honig"; pg "Honig"; pd "Honig"; pa "Honig";
+}
+translate baNutmeg to german feminine
+{
+swa "Muskatnuss";
+  sn "Muskatnuss"; sg "Muskatnuss"; sd "Muskatnuss"; sa "Muskatnuss";
+  pn "Muskatnuss"; pg "Muskatnuss"; pd "Muskatnuss"; pa "Muskatnuss";
+}
+translate baCinnamon to german feminine
+{
+swa "Zimt";
+  sn "Zimt"; sg "Zimt"; sd "Zimt"; sa "Zimt";
+  pn "Zimt"; pg "Zimt"; pd "Zimt"; pa "Zimt";
+}
+
+
+translate "Build a Kettle"
+to german "Baue einen Kessel";
+
+translate "To build a Kettle, you need: "
+to german "Um einen Kessel zu bauen benötigst du: ";
+
+translate "Build a Beer Kettle"
+to german "Baue einen Bierkessel";
+
+translate "To build a Beer Kettle, you need: "
+to german "Um einen Bierkessel zu bauen benötigst du: ";
+
+translate "Beer Kettle: "
+to german "Bierkessel: ";
+
+translate "Pick up the Kettle"
+to german "Hebe den Kessel auf";
+
+translate "The kettle can only be taken when it is not in use."
+to german "Der Kessel kann nur aufgehoben werden, wenn er nicht in Gebrauch ist.";
+
+//translate "By the Public Disassembly Act, passed into law by Ravious on 3/29/2003, Public Kettles may only be taken by the person who donated them, or by Fellows in the case of a guild donated kettle."
+//to german "Per öffentlichem Demontagegesetz, eingeführt am 29/03/03 von Ravious, dürfen öffentliche Kessel nur von der Person genommen werden, die sie gespendet haben oder von Gefährten, wenn einer Gilde gespendet wurde.";
+
+translate "Do you want to dump the entire mess out?"
+to german "Möchtest du den ganzen Schlamassel ausleeren?";
+
+translate "Choose Beer Ingredient:"
+to german "Wähle Bierzutaten:";
+
+translate "You can only use Malt and Honey in beer."
+to german "Du kannst nur Malz und Honig in Bier verwenden.";
+
+translate "You may only add ten ingredients, at most."
+to german "Du kannst höchstens 10 Zutaten verwenden.";
+
+translate "How many O1 should I add?"
+to german "Wieviel O1(pn) sollte ich hinzufügen?";
+
+translate "Can only add ingredients when beer is brewing."
+to german "Zutaten können nur während des Brauvorganges hinzugefügt werden.";
+
+translate "Added N1 O1"
+to german "N1 O1(N1?pn:sn) hinzugefügt";
+
+translate "Soup"
+to german "Suppe";
+
+translate "Nonalcoholic Soup"
+to german "Nichtalkoholische Suppe";
+translate "Moldy Soup"
+to german "Modrige Suppe";
+translate "Vinegar Soup"
+to german "Essigsuppe";
+translate "Nasty Soup"
+to german "Ekelige Suppe";
+translate "Grassy Soup"
+to german "Grasige Suppe";
+translate "Sour Soup"
+to german "Saure Suppe";
+translate "Bitter Soup"
+to german "Bittere Suppe";
+translate "Caustic Soup"
+to german "Beissende Suppe";
+translate "Cloying Soup"
+to german "Widerliche Suppe";
+
+translate "Moldy Beer"
+to german "Modriges Bier";
+translate "Vinegar Beer"
+to german "Essigbier";
+translate "Nasty Beer"
+to german "Ekeliges Bier";
+translate "Grassy Beer"
+to german "Grasiges Bier";
+translate "Sour Beer"
+to german "Saures Bier";
+translate "Bitter Beer"
+to german "Bitteres Bier";
+translate "Caustic Beer"
+to german "Beissendes Bier";
+translate "Cloying Beer"
+to german "Widerliches Bier";
+
+translate "Muddled flavors."
+to german "Vermischte Aromen.";
+
+translate "Bold O1 flavor. " 
+to german "Geschmack: ungewöhnlich nach O1(sn) ";
+translate "Noticeable O1 flavor. " 
+to german "Geschmack: beachtlich nach O1(sn). ";
+translate "Hint of O1 flavor. " 
+to german "Geschmack: leicht nach O1(sn). ";
+
+translate "Beer. " 
+to german "Bier. ";
+
+//translate "O1 Beer. " 
+//to german "Bier mit Aroma nach: O1(sn) ";
+//translate "O1 O2 Beer. " 
+//to german "Bier mit Aromen nach: O1(sn) O2(sn) ";
+//translate "O1 O2 O3 Beer. " 
+//to german "Bier mit Aromen nach: O1(sn) O2(sn) O3(sn) ";
+//translate "O1 O2 O3 O4 Beer. " 
+//to german "Bier mit Aromen nach: O1(sn) O2(sn) O3(sn) O4(sn) ";
+//translate "O1 O2 O3 O4 O5 Beer. " 
+//to german "Bier mit Aromen nach: O1(sn) O2(sn) O3(sn) O4(sn) O5(sn) ";
+//translate "O1 O2 O3 O4 O5 O6 Beer. " 
+//to german "Bier mit Aromen nach: O1(sn) O2(sn) O3(sn) O4(sn) O5(sn) O6(sn) ";
+
+translate "Yeast-N1" 
+to german "Hefe-N1";
+translate "Acetobacter-N1" 
+to german "Acetobacter-N1";
+translate "Lactobacillus-N1" 
+to german "Lactobazillus-N1";
+translate "Mold-N1" 
+to german "Schimmelpilze-N1";
+
+translate "No Microorganisms"
+to german "Keine Mikroorganismen";
+
+translate "Brief Description:" 
+to german "Brief Description:";
+
+translate "--- Alcohol: N1 ---"
+to german "--- Alcohol: N1 ---";
+
+translate "--- Color: N1 ---"
+to german "--- Farbe: N1 ---";
+
+translate "--- Mold: N1 ---"
+to german "--- Schimmelpilze: N1 ---";
+
+translate "--- Vitamins: N1 ---"
+to german "--- Vitamine: N1 ---";
+
+translate "--- Glucose (sweet): N1 ---"
+to german "--- Glukose (süß): N1 ---";
+
+translate "--- Maltose (sweet): N1 ---"
+to german "--- Maltose (süß): N1 ---";
+
+translate "--- Lactose (sweet): N1 ---"
+to german "--- Laktose (süß): N1 ---";
+
+translate "--- Citric Acid (sour): N1 ---"
+to german "--- Zitronensäure (sauer): N1 ---";
+
+translate "--- Lactic Acid (sour): N1 ---"
+to german "--- Milchsäure (sauer): N1 ---";
+
+translate "--- Acetic Acid (sour): N1 ---"
+to german "--- Essigsäure (sauer): N1 ---";
+
+translate "--- Barley Flavor (pleasant): N1 ---"
+to german "--- Gerstenaroma (süffig): N1 ---";
+
+translate "--- Orange Flavor (fruity): N1 ---"
+to german "--- Orangenaroma (fruchtig): N1 ---";
+
+translate "--- Banana Flavor (fruity): N1 ---"
+to german "--- Bananenaroma (fruchtig): N1 ---";
+
+translate "--- Cherry Flavor (fruity): N1 ---"
+to german "--- Kirscharoma (fruchtig): N1 ---";
+
+translate "--- Date Flavor (fruity): N1 ---"
+to german "--- Dattelaroma  (fruchtig): N1 ---";
+
+translate "--- Honey Flavor (fruity): N1 ---"
+to german "--- Honigaroma (fruchtig): N1 ---";
+
+translate "--- Nutmeg Flavor (slightly bitter): N1 ---"
+to german "--- Muskatnussaroma (leicht bitter): N1 ---";
+
+translate "--- Cinnamon Flavor (slightly bitter): N1 ---"
+to german "--- Zimtaroma (leicht bitter): N1 ---";
+
+translate "--- Tannin Flavor (very bitter): N1 ---"
+to german "--- Tanninaroma (sehr bitter): N1 ---";
+
+translate "--- Grassy Flavor (unpleasant): N1 ---"
+to german "--- Grasaroma (widerlich): N1 ---";
+
+translate "--- Nasty Flavors (unpleasant): N1 ---"
+to german "--- Ekelige Aromen (widerlich): N1 ---";
+
+translate "Microbes Detected:"
+to german "Mikroben entdeckt:";
+
+translate "Name your beer:"
+to german "Benenne dein Bier:";
+
+translate "The beer is no good. Throwing it out."
+to german "Das Bier ist nicht gut. Schütte es weg.";
+
+translate "Beer: K1"
+to german "Bier: K1";
+
+translate "Yeast Test"
+to german "Hefetest";
+
+translate "Beer"
+to german "Bier";
+
+translate "Potash"
+to german "Pottasche";
+translate "Weed Killer"
+to german "Unkrautmittel";
+translate "Flower Fert."
+to german "Blumendünger";
+translate "Grain Fert."
+to german "Getreidedünger";
+translate "Arsenic"
+to german "Arsen";
+translate "Acid"
+to german "Säure";
+translate "Salt"
+to german "Salz";
+translate "Sulfur"
+to german "Schwefel";
+
+translate "Begin"
+to german "Start";
+translate "Discard"
+to german "Verwerfen";
+translate "Take"
+to german "Nehmen";
+translate "Stoke"
+to german "Schüren";
+translate "Ignite"
+to german "Anzünden";
+translate "Wait"
+to german "Warten";
+
+translate "To make a batch of Grain Fertilizer, you need: "
+to german "Um eine Ladung Getreidedünger herzustellen benötigst du: ";
+
+translate "To make a batch of Flower Fertilizer, you need:"
+to german "Um eine Ladung Blumendünger herzustellen benötigst du:";
+
+translate "To make a batch of Weed Killer, you need:"
+to german "Um eine Ladung Unkrautmittel zu machen benötigst du:";
+
+translate "To make a batch of Arsenic, you need:"
+to german "Um eine Ladung Arsen herzustellen benötigst du:";
+
+translate "To make a batch of potash, you need:"
+to german "Um eine Ladung Pottasche herzustellen benötigst du:";
+
+translate "Ash quantity unexpected. Report this as a bug."
+to german "Aschenmenge unerwartet. Bitte als Bug melden.";
+
+translate "How much wood? (Max 5)"
+to german "Wieviel Holz? (Max 5)";
+
+translate "To make a batch of acid, you need:"
+to german "Um eine Ladung Säure herzustellen benötigst du:";
+
+translate "To make a batch of sulfur, you need:"
+to german "Um eine Ladung Schwefel herzustellen benötigst du:";
+
+translate "To make a batch of salt, you need:"
+to german "Um eine Ladung Salz herzustellen benötigst du:";
+
+translate "To make a batch of beer, you need:"
+to german "Um eine Ladung Bier herzustellen benötigst du:";
+
+translate "Ingredient"
+to german "Zutat";
+
+translate "Seal"
+to german "Verschließen";
+
+translate "You need a small barrel to put the beer in."
+to german "Du brauchst ein kleines Fass, um Bier einzufüllen.";
+
+translate "Beer Kettle Recipes:"
+to german "Bierkesselrezepte:";
+
+translate "Yeast-Test"
+to german "Hefe-Test";
+
+translate "Kettle Recipes Known:"
+to german "Bekannte Kesselrezepte:";
+
+translate "Potash (confirm)"
+to german "Pottasche (bestätigen)";
+translate "Potash (stalled)"
+to german "Pottasche (gestoppt)";
+translate "Potash (cooking)"
+to german "Pottasche (kocht)";
+translate "Potash (done)"
+to german "Pottasche (fertig)";
+
+translate "Place 5 Ash in a kettle"
+to german "Schütte 5 Asche in einem ";
+translate "of 25 water. Then, evaporate"
+to german "Kessel mit 25 Wasser. Lasse das";
+translate "the water by boiling it off."
+to german "Wasser durch Kochen verdunsten.";
+
+translate "Ash: 5"
+to german "Asche: 5";
+translate "Water: N1"
+to german "Wasser: N1";
+translate "Wood: N1"
+to german "Holz: N1";
+
+translate "The fire is not lit."
+to german "Das Feuer brennt nicht.";
+
+translate "The fire is burning."
+to german "Das Feuer brennt.";
+
+translate "Potash: N1"
+to german "Pottasche: N1";
+
+translate "The recipe is complete."
+to german "Das Rezept ist fertig.";
+
+translate "Place 25 Sulphurous Water"
+to german "Schütte 25 Krüge Schwefelwasser";
+translate "in kettle. Evaporate"
+to german "in einem Kessel. Lasse das";
+translate "water by boiling."
+to german "durch Kochen verdunsten.";
+
+translate "Sulfur (confirm)"
+to german "Schwefel (bestätigen)";
+translate "Sulfur (cooking)"
+to german "Schwefel (kocht)";
+translate "Sulfur (stalled)"
+to german "Schwefel (gestoppt)";
+translate "Sulfur (done)"
+to german "Schwefel (fertig)";
+
+translate "Place 25 Sulphurous Water"
+to german "Schütte 25 Krüge Schwefelwasser";
+translate "and 1 Salt in kettle."
+to german "und 1 Salz in einem Kessel.";
+translate "React by boiling."
+to german "Reaktion durch Kochen.";
+
+translate "Acid (confirm)"
+to german "Säure (bestätigen)";
+translate "Acid (cooking)"
+to german "Säure (kocht)";
+translate "Acid (stalled)"
+to german "Säure (gestoppt)";
+translate "Acid (done)"
+to german "Säure (fertig)";
+
+translate "Place 25 Coconut Water in"
+to german "Schütte 25 Kokosnusswasser in";
+translate "Kettle. Evaporate"
+to german "in einen Kessel. Lasse";
+translate "the water by boiling it off."
+to german "das Wasser durch Kochen verdunsten.";
+
+translate "Salt (confirm)"
+to german "Salz (bestätigen)";
+translate "Salt (cooking)"
+to german "Salz (kocht)";
+translate "Salt (stalled)"
+to german "Salz (gestoppt)";
+translate "Salt (done)"
+to german "Salz (fertig)";
+
+translate "Place 1 Carp and 5 water"
+to german "Lege 1 Karpfen und 5 Wasser in";
+translate "in a kettle, and 5 wood"
+to german "einen Kessel und 5 Holz";
+translate "underneath.  Ignite."
+to german "darunter. Anzünden.";
+translate "Let it cook until it cools."
+to german "Lasse es kochen, bis es abkühlt.";
+
+translate "The grain fertilizer is"
+to german "Der Getreidedünger ist";
+translate "being prepared. Please wait."
+to german "in Arbeit. Bitte warte.";
+
+translate "The grain fertilizer is"
+to german "Der Getreidedünger ist ";
+translate "ready.  Go ahead and take it."
+to german "fertig. Nimm ihn heraus.";
+
+translate "Fertilizer: 50"
+to german "Dünger: 50";
+
+translate "Grain Fertilizer (confirm)"
+to german "Getreidedünger (bestätigen)";
+translate "Grain Fertilizer (cooking)"
+to german "Getreidedünger (kocht)";
+translate "Grain Fertilizer (stalled)"
+to german "Getreidedünger (gestoppt)";
+translate "Grain Fertilizer (done)"
+to german "Getreidedünger (fertig)";
+
+translate "Place 1 Catfish, 1 Tilapia,"
+to german "Lege 1 Katzenwels, 1 Buntbarsch, ";
+translate "1 Perch in a kettle, and"
+to german "1 Barsch in einen Kessel und ";
+translate "5 wood underneath.  Ignite."
+to german "5 Holz darunter. Anzünden.";
+
+translate "The flower fertilizer is"
+to german "Der Blumendünger ist ";
+translate "being prepared. Please wait."
+to german "in Arbeit. Bitte warte.";
+
+translate "The flower fertilizer is"
+to german "Der Blumendünger ist ";
+translate "ready.  Go ahead and take it."
+to german "fertig. Nimm ihn heraus.";
+
+translate "Flower Fertilizer (confirm)"
+to german "Blumendünger (bestätigen)";
+translate "Flower Fertilizer (cooking)"
+to german "Blumendünger (kocht)";
+translate "Flower Fertilizer (stalled)"
+to german "Blumendünger (gestoppt)";
+translate "Flower Fertilizer (done)"
+to german "Blumendünger (fertig)";
+
+translate "Cook 1 toad skin"
+to german "Koche 1 Krötenhautpilz ";
+translate "mushroom and 5 water"
+to german "und 5 Wasser "; 
+translate "over 5 wood.  Let it cook"
+to german "über 5 Holz. Lasse es kochen ";
+translate "until it goes out."
+to german "bis es ausgeht.";
+
+translate "The weed killer is"
+to german "Das Unkrautmittel ist ";
+translate "being prepared. Please wait."
+to german "in Arbeit. Bitte warte.";
+
+translate "The weed killer is"
+to german "Das Unkrautmittel ist ";
+translate "ready.  Go ahead and take it."
+to german "fertig. Nimm es heraus.";
+
+translate "Weed Killer: 50"
+to german "Unkrautmittel: 50";
+
+translate "Weed Killer (confirm)"
+to german "Unkrautmittel (bestätigen)";
+translate "Weed Killer (cooking)"
+to german "Unkrautmittel (kocht)";
+translate "Weed Killer (stalled)"
+to german "Unkrautmittel (gestoppt)";
+translate "Weed Killer (done)"
+to german "Unkrautmittel (fertig)";
+
+translate "Cook 1 each Scorpion's Brood"
+to german "Koche jeweils 1 Skorpionsbrutpilz";
+translate "and Razor's Edge mushroom,"
+to german "und Rasiermesserpilz mit"; 
+translate "and 5 oil over 5 wood. "
+to german "5 Öl über 5 Holz.";
+translate "Steep until it goes out."
+to german "Röste es, bis es ausgeht.";
+
+translate "The arsenic is leeching from"
+to german "Das Arsen löst sich aus";
+translate "the Mushrooms. Please wait."
+to german "den Pilzen. Bitte warte.";
+
+translate "The Arsenic Extract is"
+to german "Das Arsenextrakt ist ";
+translate "ready.  Go ahead and take it."
+to german "fertig. Nimm es heraus.";
+
+translate "Arsenic Extract: 8"
+to german "Arsenextrakt: 8";
+
+translate "Arsenic Extract (confirm)"
+to german "Arsenextrakt (bestätigen)";
+translate "Arsenic Extract (cooking)"
+to german "Arsenextrakt (röstet)";
+translate "Arsenic Extract (stalled)"
+to german "Arsenextrakt (gestoppt)";
+translate "Arsenic Extract (done)"
+to german "Arsenextrakt (fertig)";
+
+translate "Place 25 water in a Kettle,"
+to german "Fülle 25 Wasser in den Kessel,";
+translate "and 60 wood underneath."
+to german "und 60 Holz darunter.";
+translate "Ignite. Gradually add"
+to german "Anzünden. Stufenweise Zutaten";
+translate "ingredients.  After it cools,"
+to german "zufügen. Nach dem Abkühlen";
+translate "let stand, then close lid."
+to german "stehenlassen, Deckel schließen.";
+
+translate "Place 25 water in a Kettle,"
+to german "Fülle 25 Wasser in den Kessel,";
+translate "and 60 wood underneath."
+to german "und 60 Holz darunter.";
+translate "Boil to sterilize the "
+to german "Steriliziere das Wasser durch";
+translate "water.  After it cools,"
+to german "Kochen. Nach dem Abkühlen";
+translate "let stand, then close lid."
+to german "stehenlassen, Deckel schließen.";
+
+translate "Time left: N1"
+to german "Restzeit: N1";
+translate "Ingredients: O1"
+to german "Zutaten: O1(pn)";
+
+translate "Beer (confirm)"
+to german "Bier (bestätigen)";
+translate "Yeast-Test (confirm)"
+to german "Hefetest (bestätigen)";
+translate "Beer (brewing)"
+to german "Bier (braut)";
+translate "Beer (fermentation)"
+to german "Bier (Gärung)";
+
+translate "Lid is Open"
+to german "Deckel ist geöffnet";
+
+translate "Lid is Closed"
+to german "Deckel ist geschlossen";
+
+translate "Taking the beer..."
+to german "Nehme das Bier...";

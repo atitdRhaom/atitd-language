@@ -1,0 +1,597 @@
+Module character_spa;
+
+translate thought to spanish masculine
+{
+	ns "Pensamiento"; np "Pensamientos";
+	}
+
+translate worship to spanish masculine
+{
+	ns "Adoración"; np "Adoración";
+	}
+	
+translate TheHumanBody to spanish masculinecollective
+{
+	ns "el Cuerpo Humano"; np "Cuerpos Humanos";
+	}
+
+translate architecture to spanish feminine
+{
+	ns "Arquitectura"; np "Arquitectura";
+	}
+	
+translate conflict to spanish masculine
+{
+	ns "Conflicto"; np "Conflictos"; 
+	}
+	
+translate Art to spanish masculine
+{
+	ns "Arte y Música"; np "Arte y Música";
+	}
+
+translate Citizen to spanish masculine
+{
+	ns "Ciudadano"; np "Ciudadanos";
+	}
+
+//menues//
+
+translate "Citizen"
+to spanish "Ciudadano";
+
+translate "AFK-Mode"
+to spanish "Ausente";
+
+translate "Stand up"
+to spanish "Levantarse";
+
+translate "Thought"
+to spanish "Pensamiento";
+
+translate "Worship"
+to spanish "Adoración";
+
+translate "The Human Body"
+to spanish "Cuerpo Humano";
+
+translate "Architecture"
+to spanish "Arquitectura";
+
+translate "Conflict"
+to spanish "Conflicto";
+
+translate "Art and Music"
+to spanish "Arte y Música";
+
+translate "Harmony"
+to spanish "Armonía";
+
+//ranks//
+
+translate RankPeasant to spanish masculine
+{
+	ns "Campesino"; np "Campesinos";
+	}
+
+translate Citizen to spanish masculine
+{
+	ns "Ciudadano"; np "Ciudadanos";
+	}
+
+translate RankStudent to spanish masculine
+{
+	ns "Estudiante"; np "Estudiantes";
+	}
+
+translate RankPrentice to spanish masculine
+{
+	ns "Aprendiz"; np "Aprendices";
+	}
+
+translate RankJourneyman to spanish masculine
+{
+	ns "Estatal"; np "Estatales";
+	}
+	
+translate RankScribe to spanish masculine
+{
+	ns "Secretario"; np "Secretarios";
+	}
+
+translate RankMaster to spanish masculine
+{
+	ns "Maestro"; np "Maestros";
+	}
+
+translate RankSage to spanish masculine
+{
+	ns "Erudito"; np "Eruditos";
+	}
+
+translate RankOracle to spanish masculine
+{
+	ns "Oráculo del Faraón"; np "Oráculos del Faraón";
+	}
+	
+translate RankInitiate to spanish masuline
+{
+	ns "Neófito"; np "Neófitos";
+	}
+
+translate RankPeasant to spanish feminine
+{
+	ns "Campesina"; np "Campesinas";
+	}
+
+translate RankStudent to spanish feminine
+{
+	ns "Etudiante"; np "Etudiantes";
+	}
+
+translate RankPrentice to spanish feminine
+{
+	ns "Aprendiz"; np "Aprendices";
+	}
+
+translate RankJourneyman to spanish femenine
+{
+	ns "Estatal"; np "Estatales";
+	}
+	
+translate RankMonumentBuilder to spanish masculine
+{
+	ns "Maestro de Obra de Un Monumento"; np "Maestros de Obra de Un Monumento";
+	}
+
+
+
+
+//caracs//
+
+	translate strength to spanish masculine
+{
+	ns "Fuerza"; np "Fuerzas";
+	}
+
+	translate dexterity to spanish masculine
+{
+	ns "Agilidad"; np "Agililes";
+	}
+
+	translate endurance to spanish masculine
+{
+	ns "Fortaleza"; np "Fortalezas";
+	}
+
+	translate speed to spanish masculine
+{
+	ns "Rapidez"; np "Rapidez";
+	}
+
+	translate constitution to spanish masculine
+{
+	ns "Vitalidad"; np "Vitalidad";
+	}
+
+	translate focus to spanish masculine
+{
+	ns "Concentración"; np "Concentración";
+	}
+
+translate "strength"
+to spanish "Fuerza";
+translate "Str"
+to spanish "Fue";
+translate "dexterity"
+to spanish "Destreza";
+translate "endurance"
+to spanish "Fortaleza";
+translate "speed"
+to spanish "Rapidez";
+translate "Spd"
+to spanish "Rap";
+translate "Constitution"
+to spanish "Vitalidad";
+translate "Cons"
+to spanish "Vit";
+translate "focus"
+to spanish "Concentración";
+translate "Foc"
+to spanish "Conc";
+translate "perception"
+to spanish "Percepción";
+
+translate "Nuke my inventory"
+to spanish "Destruye mi Inventario";
+
+translate "Debug Daemons"
+to spanish "Eliminar Errores de Daemons";
+
+translate "Connection timer"
+to spanish "Cronómetro de Conexión";
+
+translate "Death"
+to spanish "Muerte";
+
+translate "Citizen U1"
+to spanish "Ciudadano U1(name)";
+
+translate "Peasant U1"
+to spanish "Campesino U1(name)";
+
+translate "U1, O1 of O2"
+to spanish "U1(name), O1(ns) de O2(ns)";
+
+translate "You have advanced in the discipline of O1. Your title is now O2"
+to spanish "Haz avanzado en la disciplina de O1(ns). Tu título ahora es de O2(ns).";
+
+translate "You have advanced in the discipline of O1. Your title is now O2."
+to spanish "Haz avanzado en la disciplina de O1(ns). Tu título ahora es de O2(ns).";
+
+translate "Your husband has passed the Test of O1 within the discipline of O2. His title is now O3"
+to spanish "Tu esposo ha pasado la Prueba de O1(ns) de la disciplina de O2(ns). Su título ahora es de O3(ns).";
+
+translate "Your wife has passed the Test of O1 within the discipline of O2. Her title is now O3"
+to spanish "Tu esposa ha pasado la Prueba de O1(ns) de la disciplina de O2(ns). Su nuevo título es de O3(ns).";
+
+translate "Well done! Your title is now K1."
+to spanish "Bien hecho! Tu título ahora es de K1.";
+
+translate "You have successfully been initiated into the discipline of O1! Many new goals have opened to you."
+to spanish "Te haz iniciado en la disiplina de O1(ns) ! Se te han abierto nuevas metas.";
+
+translate "Hint: Read about our Legal System using your Utility/Information menu."
+to spanish "Pista : Revisa la información sobre el Sistema Legal usando tu menu de Utilidades/Información.";
+
+translate "Utility/Information/Legal System Information"
+to spanish "Utilidades/Información/Información sobre el Sistema Legal";
+
+translate "Legal system information"
+to spanish "Información sobre el Sistema Legal";
+
+translate "You feel dizzy. Something is wrong."
+to spanish "Te sientes mareado.  Algo no se encuentra bien.";
+
+translate "You have become a citizen, and you have experienced Egypt for 90 minutes. You may now build a shrine to one of your mentors, using your projects menu."
+to spanish "Te has convertido en un ciudadano, y haz experimentado la vida en Egipto por 90 minutos.  Ahora tienes la oportunidad de construir una capilla tu a mentor usando el menu de Proyectos.";
+
+translate "You have completed all the tasks required for citizenship!"
+to spanish "Haz completado todas las tareas requeridas para tu ciudadanía !";
+
+translate "You have a new title! Check your character menu."
+to spanish "Tienes un nuevo título! Checa tu menú.";
+
+translate "Many new goals are now available to you!  Check your goals by clicking the shining-star icon."
+to spanish "Nuevas metas están disponibles para ti! Checha tus metas haciendo click sobre el ícono de la piramide iluminada.";
+
+translate "You no longer need tips. The tip window is gone."
+to spanish "Ya no necesitas ayuda. La ventana de ayuda ha desaparecido.";
+
+translate "Bounty Bug on O1!"
+to spanish "Regalo de Error O1(ns)!";
+
+translate "Computed weight was N1 and recorded weight was N2."
+to spanish "El Peso computado fué de N1 y un peso de N2 fué encontrado.";
+
+translate "Computed bulk was N1 and recorded bulk was N2."
+to spanish "El Bulto computado fué de N1 y el bulto encontrado fué de N2.";
+
+translate "Now you've got to reproduce it. If you can get this consistantly, report to eGenesis for a fun prize."
+to spanish "Ahora lo tienes que reproducir.  Si puedes de manera consistence, reportalo a eGenesis para una recompensa.";
+
+translate "You are carrying more than you can manage. You need to drop some goods."
+to spanish "Estas cargando mas de lo que puedes.  Necesitas deshacerte de cosas de tu inventario.";
+
+translate "You seem to be stuck. The system has moved you a bit to help."
+to spanish "Al parecer estás atorado. El sistema te ha movido un poco para ayudar.";
+
+translate "Consume error."
+to spanish "Error de Consumo.";
+
+translate "Non-vector passed to eConsumeList."
+to spanish "Un No Vector ha sido pasado a eConsumeList.";
+
+translate "Non-vector passed to eProduceList."
+to spanish "Un No Vector ha sido pasado a eProduceList.";
+
+translate "Consume error for O1 owned by U1."
+to spanish "Error de consumo para O1(ns) poseído por U1(name).";
+
+translate "You are too dizzy to run."
+to spanish "Estas demasiado mareado para correr.";
+
+translate "Emote/Gait: Walking"
+to spanish "Gesto/Paso: Caminar";
+
+translate "Emote/Gait: Running"
+to spanish "Gesto/Paso: Correr";
+
+translate "Gait: Running"
+to spanish "Paso: Correr";
+
+translate "Gait: Walking"
+to spanish "Paso: Caminar";
+
+translate "Gait: Jogging"
+to spanish "Paso: Trotando";
+
+translate "Emote/Gait: Zooming"
+to spanish "Gesto/Paso: Acercando";
+
+translate "Utility/Edit my Info Text"
+to spanish "Utilidades/Edita mi Texto";
+
+translate "Edit my info text"
+to spanish "Edita mi texto de información";
+
+translate "Text to be displayed on the /info screen:"
+to spanish "Texto a mostrar en la pantalla de /info";
+
+translate weight to spanish masculine
+{
+	ns "Peso"; np "Peso";
+	}
+	
+	translate bulk to spanish masculine
+{
+	ns "Bulto"; np "Bultos";
+	}
+
+translate "Grandson, O1 of O2"
+to spanish "Nieto, O1(ns) de O2(ns)";
+
+translate "Granddaughter, O1 of O2"
+to spanish "Nieta, O1(ns) de O2(ns)";
+
+
+translate "Emote"
+to spanish "Gestos";
+
+translate "Confident"
+to spanish "Confidente";
+
+translate "Calm"
+to spanish "Calma";
+
+translate "Aggressive"
+to spanish "Agresivo";
+
+translate "Bored"
+to spanish "Aburrido";
+
+translate "Cute"
+to spanish "Curioso";
+
+translate "Irritated"
+to spanish "Irritado";
+
+translate "Elderly"
+to spanish "Mayor";
+
+translate "Elderly01"
+to spanish "Mayor01";
+
+translate "Elderly02"
+to spanish "Mayor02";
+
+translate "Impatient"
+to spanish "Impaciente";
+
+translate "Haughty"
+to spanish "Arrogante";
+
+translate "Normal"
+to spanish "Normal";
+
+translate "Celebrate"
+to spanish "Celebrar";
+
+translate "Bow"
+to spanish "Inclinarse";
+
+translate "Gender: Man Language: O1"
+to spanish "Género: Lenguage Masculino: O1(ns)";
+translate "Gender: Woman Language: O1"
+to spanish "Género: Lenguage Femenino: O1(ns)";
+
+translate "U1, Level N1 O1 of O2"
+to spanish "U1(name), Nivel N1, O1(ns) de O2(ns)";
+
+translate "Player U1, Level N1 O1 of O2 (paid account) is connected."
+to spanish "U1(name), Nivel N1, O1(ns) de O2(ns) (cuenta pagada) está conectado.";
+translate "Player U1 (paid account) is disconnected."
+to spanish "U1(name) (cuenta pagada) está desconectado.";
+translate "Player U1 (expired or closed account) is disconnected."
+to spanish "U1(name) (cuenta expirada or cerrada) está desconectado.";
+translate "Player U1 (quit) is disconnected."
+to spanish "U1(name) (marchado) está desconectado.";
+
+translate "Player U1, Level N1 O1 of O2 (trial account) is connected."
+to spanish "U1(name), Nivel N1, O1(ns) de O2(ns) (cuenta tentativa) está conectado.";
+translate "Player U1, Level N1 O1 of O2 (trial account) is connected (but AFK)."
+to spanish "U1(name), Nivel N1, O1(ns) de O2(ns) (cuenta tentativa) está conectado (pero Ausente).";
+translate "Player U1 (trial account) is disconnected."
+to spanish "U1(name) (cuenta tentativa) está desconectado.";
+
+translate "U1, K1 of O1"
+to spanish "U1(name), K1 de O1(ns)";
+
+translate "Well done! Your title is now O1."
+to spanish "Bien Hecho! Ahora tu título es O1(ns).";
+
+translate "Over weight or bulk. Call a developer."
+to spanish "Sobrepeso o sobrebulto.  Llama a un programador.";
+
+translate "Too large a quantity. Call a developer."
+to spanish "La cantidad es demasiado grande.  Llama a un programador.";
+
+translate "Citizen U1, Level N1"
+to spanish "Ciudadano U1(name), Nivel N1";
+
+translate "Guild Affiliations"
+to spanish "Afiliaciones Gremiales";
+
+translate "You can't go there."
+to spanish "No puedes pasar por ahí.";
+
+translate "You jostled the explosives too much, and they exploded! You're disoriented for a few moments."
+to spanish "Haz agitado los explosivos demasiado, y han explotado! Estas desorientado pero solo por unos momentos.";
+
+translate "You feel the power of the gods flow through you, but your metals don't seem to fuse. Pay for the account and try again."
+to spanish "Sientes el poder de los Dioses pasar por tu cuerpo, pero los metales no se fusionan.  Paga por tu cuenta y vuelve a intentar.";
+
+translate "Advance"
+to spanish "Avanzar";
+
+translate "Later"
+to spanish "Más tarde";
+
+translate "Message will be saved for a maximum of 7 days from when it was sent."
+to spanish "El Mensaje se guardará por un máximo de 7 días desde el momento en que fue enviado.";
+
+//numbers//
+	
+translate NumZero to spanish masculine
+{
+	ns "cero";
+	}
+	translate NumOne to spanish masculine
+{
+	ns "uno";
+	}
+	translate NumOne to spanish feminine
+{
+	ns "uno";
+	}
+	translate NumTwo to spanish masculine
+{
+	ns "dos";
+	}
+	translate NumThree to spanish masculine
+{
+	ns "tres";
+	}
+	translate NumFour to spanish masculine
+{
+	ns "cuatro";
+	}
+	translate NumFive to spanish masculine
+{
+	ns "cinco";
+	}
+	translate NumSix to spanish masculine
+{
+	ns "seis";
+	}
+	translate NumSeven to spanish masculine
+{
+	ns "siete";
+	}
+	translate NumEight to spanish masculine
+{
+	ns "ocho";
+	}
+	translate NumNine to spanish masculine
+{
+	ns "nueve";
+	}
+	translate NumTen to spanish masculine
+{
+	ns "diez";
+	}
+
+translate Zeroth to spanish masculine
+{
+	ns "sin rango";
+	}
+
+	translate First to spanish feminine
+{
+	ns "primera"; np "primeras";
+	}
+	translate Second to spanish masculine
+{
+	ns "segundo"; np "segundos";
+	}
+	translate Third to spanish masculine
+{
+	ns "tercer"; np "terceros";
+	}
+	translate Fourth to spanish masculine
+{
+	ns "cuarto"; np "cuartos";
+	}
+	translate Fifth to spanish masculine
+{
+	ns "quinto"; np "quintos";
+	}
+
+	translate Sixth to spanish masculine
+{
+	ns "sexto"; np "sextos";
+	}
+	translate Seventh to spanish masculine
+{
+	ns "séptimo"; np "séptimos";
+	}
+	translate Eighth to spanish masculine
+{
+	ns "octavo"; np "octavos";
+	}
+	translate Ninth to spanish masculine
+{
+	ns "noveno"; np "novenos";
+	}
+	translate Tenth to spanish masculine
+{
+	ns "décimo"; np "décimos";
+	}
+	translate OrdZero to spanish masculine
+{
+	ns "sin rango";
+	}
+	translate OrdOne to spanish masculine
+{
+	ns "primero"; np "primeros";
+	}
+	translate OrdOne to spanish feminine
+{
+	ns "primera"; np "primeras";
+	}
+	translate OrdTwo to spanish masculine
+{
+	ns "segundo"; np "segundos";
+	}
+	translate OrdThree to spanish masculine
+{
+	ns "tercero"; np "terceros";
+	}
+	translate OrdFour to spanish masculine
+{
+	ns "cuarto"; np "cuartos";
+	}
+	translate OrdFive to spanish masculine
+{
+	ns "quinto"; np "quintos";
+	}
+	translate OrdSix to spanish masculine
+{
+	ns "sexto"; np "sextos";
+	}
+	translate OrdSeven to spanish masculine
+{
+	ns "séptimo"; np "séptimos";
+	}
+	translate OrdEight to spanish masculine
+{
+	ns "octavo"; np "octavos";
+	}
+	translate OrdNine to spanish masculine
+{
+	ns "noveno"; np "novenos";
+	}
+	translate OrdTen to spanish masculine
+{
+	ns "décimo"; np "décimos";
+	}

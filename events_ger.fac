@@ -1,0 +1,154 @@
+module events_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**            German Version: Astrid "Infinyti" Werner                   **
+//**                            2011                        	            **
+//**                                                                       **
+//***************************************************************************
+
+translate "You need to be at least a Fellow to do this."
+to german "Du musst mindestens ein Genosse sein um dies zu tun.";
+
+translate "Partial"
+to german "Teilweise gefüllt";
+
+translate "Empty"
+to german "Leer";
+
+translate "Full"
+to german "Voll";
+
+translate "Prize Hoppers are: K1"
+to german "Preisbehälter sind: K1";
+
+translate "Delete Prize"
+to german "Preis löschen";
+
+translate "Unload Hoppers"
+to german "Preisbehälter leeren";
+
+translate "Review Prize Hoppers"
+to german "Preisbehälter prüfen";
+
+translate "Load Hoppers"
+to german "Preisbehälter füllen";
+
+translate "Duration in Minutes"
+to german "Laufzeit in Minuten";
+
+translate "Location"
+to german "Ort";
+
+translate "All of Egypt"
+to german "Ganz Ägypten";
+
+translate "New Event"
+to german "Neue Veranstaltung";
+
+translate "Start Date"
+to german "Startdatum";
+
+translate "Title"
+to german "Titel";
+
+translate "Description"
+to german "Beschreibung";
+
+translate "Start Message"
+to german "Startbenachrichtigung";
+
+translate "End Message"
+to german "Abschlussbenachrichtigung";
+
+translate "Configure an Event"
+to german "Richte ein Event ein";
+
+translate "No title for Event."
+to german "Event hat keinen Titel.";
+
+translate "Date is in the wrong format."
+to german "Das Datum hat ein falsches Format.";
+
+translate "Event would have already ended."
+to german "Das Event sollte bereits beendet sein.";
+
+translate "Hoppers are not full, and you don't have the Conjure-in-Live flag."
+to german "Die Preisbehälter sind nicht voll und du hast nicht den passenden flag.";
+
+translate "Conjure all Materials: O1?"
+to german "Alle Materialien herzaubern: O!(pn)?";
+
+translate "Location:"
+to german "Ort:";
+
+translate "New Event:"
+to german "Neue Veranstaltung:";
+
+translate "Start Date:"
+to german "Startdatum:";
+
+translate "Title:"
+to german "Titel:";
+
+translate "Description:"
+to german "Beschreibung:";
+
+translate "Start Message:"
+to german "Startbenachrichtigung:";
+
+translate "End Message:"
+to german "Abschlussbenachrichtigung:";
+
+translate "You don't have N1 O1:K1 in inventory."
+to german "Du hast O1(kpn) N1 O1(N1?pn:sn) in deinem Inventar.";
+
+translate "Nothing was loaded, probably because no Prize Hoppers have been defined."
+to german "Es wurde nichts geladen, möglicherweise wurde kein Preisbehälter ausgewählt.";
+
+translate "Global Prize Catalog"
+to german "Umfassender Preiskatalog";
+
+translate "Add a Prize Type"
+to german "Preis hinzufügen";
+
+translate "Added O1 to the Global Event Prize Catalog."
+to german "O1(pn) zum umfassenden Preiskatalog hinzugefügt.";
+
+translate "Remove a Prize Type"
+to german "Entferne einen Preis";
+
+translate "Removed O1 to the Global Event Prize Catalog."
+to german "O1(pn) aus dem umfassenden Preiskatalog entfernt.";
+
+//248 weiterführend (unvollständig)
+
+
+
+translate "You won N1 K1 K2."
+to german "Du hast N1 K1 K2 gewonnen.";
+
+translate "You won N1 K1."
+to german "Du hast N1 K1 gewonnen.";
+
+translate "Trinket"
+	to german "Schmuckstück";
+
+translate "Chelle's Diamond Necklace"
+	to german "Chelles Diamantenkollier";
+
+translate "Jezebella's Silk Slippers"
+	to german "Jezebellas Seidenschuhe";
+
+translate "Eighteen's Crown"
+	to german "Eighteens Krone";
+
+translate "Orchid's Golden Spade"
+	to german "Orchids Goldener Spaten";
+
+translate "Deeva's Scepter"
+	to german "Deevas Szepter";
+
+translate "Nchanter's Steel Chain"
+	to german "Nchanters Stahlkette";

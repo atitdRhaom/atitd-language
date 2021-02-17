@@ -1,0 +1,129 @@
+module barrelgrinder_fre;
+
+//menues
+
+translate "Barrel Grinder"
+to french "Tonneau à concasser";
+
+translate "Projects/Barrel Grinder"
+to french "Projets/Tonneau à concasser";
+
+translate "Repair the Barrel Grinder's mechanism"
+to french "Réparer le mécanisme du tonneau à concasser";
+
+translate "Wind the Barrel Grinder's spring"
+to french "Remonter le ressort du tonneau à concasser";
+
+translate "Load how much aluminum? (Max 100)"
+to french "Quelle quantité d'aluminium ? (Max 100)";
+
+translate "Load how much silver? (Max 100)"
+to french "Quelle quantité d'argent ? (Max 100)";
+
+//objets
+
+translate BarrelGrinder to french masculine
+{
+  ns "Tonneau à concasser"; np "Tonneaux à concasser";
+}
+translate MetalPowder to french feminine
+{
+  ns "Poudre de métaux"; np "Poudres de métaux";
+}
+
+
+translate SilverPowder to french feminine
+{
+  ns "Poudre d'argent"; np "Poudres d'argent";
+}
+
+translate Silver to french masculine
+{
+  ns "Argent"; np "Argents";
+}
+
+translate Aluminumpowder to french feminine
+{  ns "Poudre d'aluminium"; np "Poudres d'aluminium";}
+
+translate AntimonyPowder to french feminine
+{  ns "Poudre d'antimoine"; np "Poudres d'antimoine";}
+translate BrassPowder to french feminine
+{  ns "Poudre de laiton"; np "Poudres de laiton";}
+translate BronzePowder to french feminine
+{  ns "Poudre de Bronze"; np "Poudres de Bronze";}
+translate CopperPowder to french feminine
+{  ns "Poudre de Cuivre"; np "Poudres de Cuivre";}
+translate GoldPowder to french feminine
+{  ns "Poudre d'Or"; np "Poudres d'Or";}
+translate IronPowder to french feminine
+{  ns "Poudre de Fer"; np "Poudres de Fer";}
+translate LeadPowder to french feminine
+{  ns "Poudre de Plomb"; np "Poudres de Plomb";}
+translate LithiumPowder to french feminine
+{  ns "Poudre de Lithium"; np "Poudres de Lithium";}
+translate MagnesiumPowder to french feminine
+{  ns "Poudre de Magnesium"; np "Poudres de Magnesium";}
+translate MetalBluePowder to french feminine
+{  ns "Poudre de Métal Bleu"; np "Poudres de Métal Bleu";}
+translate MoonsteelPowder to french feminine
+{  ns "Poudre d'acier lunaire"; np "Poudres d'acier lunaire";}
+translate OctecsalloyPowder to french feminine
+{  ns "Poudre d'alliage d'Octec"; np "Poudres d'alliage d'Octec";}
+translate PewterPowder to french feminine
+{  ns "Poudre de Fer blanc"; np "Poudres de Fer Blanc";}
+translate PlatinumPowder to french feminine
+{  ns "Poudre de Platine"; np "Poudres de Platine";}
+translate SteelPowder to french feminine
+{  ns "Poudre d'Acier"; np "Poudres d'Acier";}
+translate SunsteelPowder to french feminine
+{  ns "Poudre d'acier solaire"; np "Poudres d'acier solaire";}
+translate thothsmetalPowder to french feminine
+{  ns "Poudre de métal de Thoth"; np "Poudres de métal de Thoth";}
+translate tinPowder to french feminine
+{  ns "Poudre d'Etain"; np "Poudres d'Etain";}
+translate titaniumPowder to french feminine
+{  ns "Poudre de Titane"; np "Poudres de Titane";}
+translate tungstenPowder to french feminine
+{  ns "Poudre de Tungsten"; np "Poudres de Tungsten";}
+translate watermetalPowder to french feminine
+{  ns "Poudre de métal d'Eau"; np "Poudres de métal d'Eau";}
+translate ZincPowder to french feminine
+{  ns "Poudre de Zinc"; np "Poudres de Zinc";}
+//texts
+
+translate "To build a barrel grinder, you need: "
+to french "Pour construire un tonneau à concasser, il vous faut :";
+
+translate "Load the Barrel Grinder with Aluminum"
+to french "Mettre de l'aluminium dans le tonneau à concasser";
+
+translate "Load how much aluminum?"
+to french "Quelle quantité d'aluminium ?";
+
+translate "Load the Barrel Grinder with Silver"
+to french "Mettre de l'argent dans le tonneau à concasser";
+
+translate "Load the Barrel Grinder with O1"
+to french "Mettre O1(lns) O1(ns) dans le tonneau à concasser";
+
+translate "Load how much silver? (Max N1)"
+to french "Quelle quantité d'argent ? (Max N1)";
+
+translate "Start grinding aluminum into powder"
+to french "Concasser l'aluminium en poudre";
+
+translate "Start grinding silver into powder"
+to french "Concasser l'argent en poudre";
+
+translate "When the grinder stopped moving, the mechanism bound up. You must first repair it."
+to french "Lorsque le concasseur a cessé de tourner, le mécanisme s'est brisé. Vous devez le réparer.";
+
+translate "To repair the Barrel Grinder you need:"
+to french "Pour réparer le tonneau à concasser, il vous faut :";
+
+translate "N1 O1"
+to french "N1 O1(N1?np:ns)";
+
+translate "Spring: N1"
+to french "Ressort : N1";
+

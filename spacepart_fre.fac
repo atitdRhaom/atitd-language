@@ -1,0 +1,100 @@
+module SpacePart_fre;
+
+
+translate reflectingpool to french masculine
+{
+	ns "Bassin de Réflexion"; np "Bassins de Réflexion";
+	}
+	
+	translate ReflectionMastery to french feminine
+{
+	ns "Maîtrise de Réflection"; np "Maîtrises de Réflection";
+	}
+	
+translate "Start the Test of Reflection"
+to french "Commencer l'Épreuve de Réflection";
+
+translate "We show respect to military leaders of ages past by engaging in direct one-on-one competition. Though Egypt's original battles were military in nature, today we engage in more cerebral competition. To initiate into the Discipline of Conflict, win seven games of Reflection. Hint: Most Chariot Stops have Reflecting Pools nearby."
+to french "Nous honorons les dirigeants militaires des temps anciens en nous engageant dans une compétition à un contre un. Bien que les batailles originales de l'égypte aient été de nature militaires, aujourd'hui nous nous engageons dans un combat plus cérébral. Pour devenir initié de la Discipline de Conflit, remportez sept parties de Réflection. \n\nConseil: Vous pouvez trouver des Piscines de Réflections près de la majorité des Arrêts de Chariot.";
+
+translate "In the Test of Reflection, you will need to fit pieces into a three dimensional board, attempting to "
+to french "Dans l'Épreuve de Réflection, vous devrez insérer des pièces dans un plan tridimensionnel, tout en ";
+
+translate "fit the final piece."
+to french "essayant de placer la dernièere pièce possible.";
+
+translate "Are you sure you want to concede?"
+to french "Êtes-vous sûr de vouloir concéder la partie ?";
+
+translate "Bubbles Left: N1"
+to french "Bulles restantes: N1";
+
+translate "Claim my win"
+to french "Revendiquer ma victoire";
+
+translate "Next to move: U1"
+to french "Prochain mouvement: U1(name)";
+
+translate "Reflect!"
+to french "Réflection !";
+
+translate "Concede"
+to french "Abandonner";
+translate "U1 has used The Reflection!"
+to french "U1(name) a utilisé la Réflection";
+
+translate "Setting up game..."
+to french "Préparation...";
+
+translate "Looped more than 200 times. Call a developer."
+to french "Plus de 200 boucles. Appelez un développeur.";
+
+translate "Game Master"
+to french "Animateur";
+
+translate "Reset the Game"
+to french "Réinitialiser la partie";
+
+translate "Play against Self"
+to french "Jouer contre soi-même";
+
+translate "Ante is N1 "
+to french "La mise est de N1 ";
+
+translate "Play Reflection"
+to french "Jouer une partie de Réflection";
+
+translate "Play Reflection against "
+to french "Jouer une partie de Réflection contre ";
+
+translate "You must first sign up for the Test of Reflection at the Great University of Conflict."
+to french "Pour jouer, vous devez tout d'abord activer l'Épreuve de Réflection à la Grande Université du Conflit";
+
+translate "This game will not affect ranks because the pool is in Practice Mode."
+to french "Ceci est une partie de pratique. Elle n'affectera pas votre rang.";
+
+translate "Withdraw from game"
+to french "Se retirer de la partie.";
+
+translate "Select"
+to french "Selectionner";
+
+translate " has used The Reflection!"
+to french " a utilisé la Réflection";
+
+translate "N1 O1"
+to french "N1 O1(N1?np:ns)";
+
+translate "You are already playing a game."
+to french "Vous avez déjà une partie en cours.";
+
+translate "                                        The Rules of Reflection"
+to french "                                        Les règles de Réflexion\n";
+
+translate "Players take turns connecting three points above the pool into triangles."
+to french "Les joueurs se relaient pour connecter trois points au dessus de la piscine pour former des triangles.";
+translate "You cannot make a triangle if it would pass through another triangle."
+to french "Vous ne pouvez pas former un triangle si celui-ci devait couper un autre triangle.\n";
+translate "The Player who makes the last successful triangle wins the game."
+to french "Le joueur ayant dessiné le dernier triangle gagne le jeu.";
+

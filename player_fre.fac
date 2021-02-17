@@ -1,0 +1,1199 @@
+module player_fre;
+
+translate Shirt to french feminine
+{
+ns "Chemise";
+}
+translate Hair to french masculine
+{
+ns "Cheveux";
+}
+translate Shawl to french masculine
+{
+ns "Col et hanches";
+}
+translate Elbows to french masculine
+{
+ns "Coudes";
+}
+translate Knees to french masculine
+{
+ns "Genoux";
+}
+translate Hands to french feminine
+{
+ns "Mains";
+}
+translate Feet to french masculine
+{
+ns "Pieds";
+}
+translate Belt to french feminine
+{
+ns "Ceinture";
+}
+translate Pleats to french masculine
+{
+ns "Pagne";
+}
+translate Halter to french masculine
+{
+sn "Licol";
+}
+translate Skirt to french feminine
+{
+ns "Jupe";
+}
+translate BodySuit to french masculine
+{
+ns "Justaucorps";
+}
+translate Gauntlets to french masculine
+{
+ns "Gants";
+}
+
+translate Bracelets to french amsculine
+{
+ns "Bracelets";
+}
+translate Collar to french masculine
+{
+ns "Collier";
+}
+translate Shoes to french feminine
+{
+ns "Chaussures";
+}
+translate SkirtHem to french masculine
+{
+ns "Ourlet";
+}
+translate SkirtTrim to french masculine
+{
+ns "Ornement de jupe";
+}
+translate SkirtTrimLow to french masculine
+{
+ns "Ornement de jupe (bas)";
+}
+translate SkirtTrimMid to french masculine
+{
+ns "Ornement de jupe (moyen)";
+}
+translate Legwarmers to french masculine
+{
+ns "Bandages de jambes";
+}
+translate Gloves to french masculine
+{
+ns "Gants";
+}
+translate Sleeves to french feminine
+{
+ns "Manches";
+}
+translate Slip to french feminine
+{
+ns "Combinaison";
+}
+translate Slippers to french feminine
+{
+ns "Pantoufles";
+}
+translate Vest to french feminine
+{
+ns "Veste";
+}
+translate Bandages to french masculine
+{
+ns "Bandages";
+}
+
+translate HatBand to french feminine
+{
+ns "Bande de chapeau";
+}
+translate Hat to french masculine
+{
+ns "Chapeau";
+}
+translate Pants to french masculine
+{
+ns "Pantalon";
+}
+
+translate lowercollar to french masculine
+{
+ns "Bas du collier";
+}
+
+translate uppercollar to french masculine
+{
+ns "Haut du collier";
+}
+
+translate pleatstrim to french masculine
+{
+ns "Motif du pagne";
+}
+
+translate necklace to french masculine
+{
+ns "Collier";
+}
+
+translate HairTie to french feminine
+{
+ns "Coupe de cheveux";
+}
+
+translate shins to french masculine
+{
+ns "Mollets";
+}
+
+translate Midsection to french feminine
+{
+ns "Taille";
+}
+
+translate InnerDress to french masculine
+{
+ns "Jupons";
+}
+
+translate Dress to french feminine
+{
+ns "Robe";
+}
+
+translate DressMiddle to french feminine
+{
+ns "Robe, milieu";
+}
+
+translate Robe to french feminine
+{
+ns "Robe";
+}
+
+translate Sandals to french feminine
+{
+ns "Sandales";
+}
+
+translate waistandthighs to french feminine
+{
+ns "Taille";
+}
+
+translate armband to french masculine
+{
+ns "Bracelets biceps";
+}
+
+translate forearmband to french masculine
+{
+ns "Bracelets avant-bras";
+}
+
+translate boots to french feminine
+{
+ns "Bottes";
+}
+
+translate cap to french feminine
+{
+ns "Coiffe";
+}
+
+translate loincloth to french masculine
+{
+ns "Pagne";
+}
+
+translate sash to french feminine
+{
+ns "Bandoulière";
+}
+
+translate breastplate to french masculine
+{
+ns "Pectoral";
+}
+
+translate forearmguard to french masculine
+{
+ns "Bracelets";
+}
+
+translate helmet to french masculine
+{
+ns "Casque";
+}
+
+translate Hood to french masculine
+{
+ns "Capuchon";
+}
+
+translate tunic to french feminine
+{
+ns "Tunique";
+}
+
+translate wrap to french feminine
+{
+ns "Frange";
+}
+
+translate cuffs to french feminine
+{
+ns "Manchettes";
+}
+
+translate BagClothing to french feminine
+{
+ns "Sac";
+}
+
+translate Veil to french masculine
+{
+ns "Voile";
+}
+
+translate RopeClothing to french feminine
+{
+ns "Corde";
+}
+
+translate Bandana to french masculine
+{
+ns "Bandana";
+}
+
+translate Goatee to french masculine
+{
+ns "Bouc";
+}
+
+translate Earrings to french feminine
+{
+ns "Boucles d'oreille";
+}
+
+translate eyes to french masculine
+{
+ns "Yeux";
+}
+
+translate pantcuff to french masculine
+{
+ns "Ourlets";
+}
+
+translate headband to french masculine
+{
+ns "Bandeau";
+}
+
+translate undershirt to french masculine
+{
+ns "Tricot";
+}
+
+translate wristband to french masculine
+{
+ns "Bracelets";
+}
+
+translate armor to french feminine
+{
+ns "Armure";
+}
+
+
+translate "Choose a New Starting Spot"
+to french "Choisir un nouvel endroit pour commencer";
+
+translate "Choose Starting Spot near a Friend"
+to french "Choisir de commencer près d'un ami";
+
+translate "Nomadic" to french "Nomade";
+
+translate "Shirt"
+to french "Chemise";
+translate "Hair"
+to french "Cheveux";
+translate "Abs and Neck"
+to french "Col et Hanches";
+translate "Elbow Wrap"
+to french "Coudes";
+translate "Knee Wrap"
+to french "Genoux";
+translate "Hand Wrap"
+to french "Mains";
+translate "Foot Wrap"
+to french "Pieds";
+translate "Belt"
+to french "Ceinture";
+translate "Pleats"
+to french "Jupe";
+translate "Halter Top"
+to french "Licol";
+translate "Skirt"
+to french "Jupe";
+translate "Body Suit"
+to french "Justaucorps";
+translate "Gauntlets"
+to french "Gants";
+translate "Bracelets"
+to french "Bracelets";
+translate "Collar"
+to french "Collier";
+translate "Shoes"
+to french "Chaussures";
+translate "Skirt Hem"
+to french "Ornement de jupe";
+translate "Skirt Trim"
+to french "Ourlet de jupe";
+translate "Leg Warmers"
+to french "Jambières";
+translate "Gloves"
+to french "Gants";
+translate "Sleeves"
+to french "Manches";
+translate "Bandages"
+to french "Bandages";
+translate "Hat Band"
+to french "Bande de chapeau";
+translate "Hat"
+to french "Chapeau";
+translate "Pants"
+to french "Pantalon";
+
+translate "Guild: U1"
+to french "Guilde : U1(name)";
+
+translate "Build"
+to french "Construire";
+
+translate "Plant"
+to french "Planter";
+
+translate "Gather"
+to french "Récolter";
+
+translate "Drop"
+to french "Abandonner";
+
+translate "Put"
+to french "Déposer";
+
+translate "Stash"
+to french "Entreposer";
+
+translate "Legal"
+to french "Lois";
+
+translate "Give"
+to french "Donner";
+
+translate "Take"
+to french "Prendre";
+
+translate "Everything"
+to french "Tout";
+
+translate "Misc"
+to french "Divers";
+
+translate "Projects"
+to french "Projets";
+
+translate "Mentor"
+to french "Mentor";
+
+translate "Bless"
+to french "Se prosterner";
+
+translate "Legal"
+to french "Légal";
+
+translate "Navigation"
+to french "Orientation";
+
+translate "Navigation Tools"
+to french "Outils d'orientation";
+
+translate "Show the Map (F3)"
+to french "Afficher la carte (F3)";
+
+translate "Show the Compass (F4)"
+to french "Afficher la boussole (F4)";
+
+translate "Free Transport for Newcomers"
+to french "Transport gratuit pour les nouveaux arrivants";
+
+translate "Utility"
+to french "Outils";
+
+translate "Billing"
+to french "Paiement";
+
+translate "Select a default payment type"
+to french "Choisir un moyen de paiement par défaut";
+
+translate "Learn"
+to french "Apprendre";
+
+translate "Ownership"
+to french "Propriété";
+
+translate "Utility Menu"
+to french "Menu d'outils";
+
+translate "Bug Reports"
+to french "Rapports de bug";
+
+translate "Filter"
+to french "Filtre";
+
+translate "Log Out"
+to french "Déconnexion";
+
+translate "Quit"
+to french "Quitter";
+
+translate "Bug Reports"
+to french "Rapport de bugs";
+translate "Bug Reports/Bug Reports"
+to french "Rapport de bugs/Rapport de bugs";
+translate "Bug Reports/-"
+to french "Rapport de bugs/-";
+translate "Bug Reports/*"
+to french "Rapport de bugs/*";
+translate "Bug Reports/Filter"
+to french "Rapport de bugs/Filtre";
+translate "Bug Reports/Log Out"
+to french "Rapport de bugs/Déconnexion";
+
+
+translate "Options:"
+to french "Options :";
+
+translate "Trade"
+to french "Commerce";
+
+translate "Configure"
+to french "Configurer";
+
+translate "Cheat"
+to french "Triche";
+
+translate "Debug Info"
+to french "Infos débuggage";
+
+translate "Debug Misc"
+to french "Divers débuggage";
+
+translate "Debug Ecosys"
+to french "Ecosys débuggage";
+
+translate "Debug"
+to french "Débugagge";
+
+translate "James"
+to french "James";
+
+translate "Someone you don't recognize"
+to french "Quelqu'un que vous ne connaissez pas";
+
+translate "Appearance"
+to french "Apparence";
+
+translate "Special"
+to french "Spécial";
+
+translate "Tests"
+to french "Epreuves";
+
+translate "Ranks"
+to french "Grades";
+
+translate "Ownership"
+to french "Propriété";
+
+translate "Setup"
+to french "Paramètres";
+
+translate "Inventory"
+to french "Inventaire";
+
+translate "Study"
+to french "Etudier";
+
+translate "Character Appearance"
+to french "Personnage - Apparence";
+
+translate "Character Selection"
+to french "Personnage - Sélection";
+
+translate "Character Height"
+to french "Personnage - Taille";
+
+translate "Chat Bubble"
+to french "Bulle de dialogue";
+
+translate "Chat Color"
+to french "Couleur du texte";
+
+translate "Black"
+to french "Noir"; 
+
+translate "Red"
+to french "Rouge"; 
+
+translate "Appearance"
+to french "Apparence";
+
+translate "Chat Color"
+to french "Couleur du texte";
+
+translate "Default"
+to french "Défaut"; 
+
+translate "Green"
+to french "Vert"; 
+
+translate "Blue"
+to french "Bleu"; 
+
+translate "Purple"
+to french "Lilas";
+
+translate "Orange"
+to french "Orange";
+
+translate "Yellow"
+to french "Jaune";
+
+translate "Grey"
+to french "Gris";
+
+translate "Blonde"
+to french "Blond";
+
+translate "Brown"
+to french "Brun";
+
+translate "Whites"
+to french "Blanc";
+
+translate "Black"
+to french "Noir";
+
+translate "Greys"
+to french "Gris";
+
+translate "Blues"
+to french "Bleu";
+
+translate "Pure White"
+to french "Blanc pur";
+
+translate "Faded White"
+to french "Blanc cassé";
+
+translate "Smoky White"
+to french "Blanc fumé";
+
+translate "Light Grey"
+to french "Gris clair";
+
+translate "Slate Grey"
+to french "Gris ardoise";
+
+translate "Dark Grey"
+to french "Gris sombre";
+
+translate "Sky Blue"
+to french "Bleu ciel";
+
+translate "Navy Blue"
+to french "Bleu marine";
+
+translate "Deep Blue"
+to french "Bleu sombre";
+
+translate "Reds"
+to french "Rouge";
+
+translate "Bright Red"
+to french "Rouge vif";
+
+translate "Brick Red"
+to french "Rouge brique";
+
+translate "Reddish Grey"
+to french "Gris rougeâtre";
+
+translate "Burgundy Red"
+to french "Bourgogne";
+
+translate "Deep Red"
+to french "Rouge sombre";
+
+translate "Very Deep Red"
+to french "Rouge très sombre";
+
+translate "Greens"
+to french "Vert";
+
+translate "Forest Green"
+to french "Vert forêt";
+
+translate "Bright Green"
+to french "Vert vif";
+
+translate "Olive Green"
+to french "Vert olive";
+
+translate "Faded Green"
+to french "Vert pastel";
+
+translate "Deep Green"
+to french "Vert sombre";
+
+translate "Golden Yellow"
+to french "Jaune vert";
+
+translate "Bright Yellow"
+to french "Jaune vif";
+
+translate "Yellows"
+to french "Jaune";
+
+translate "Faded Yellow"
+to french "Jaune pastel";
+
+translate "Light Tan"
+to french "Beige clair";
+
+translate "Browns"
+to french "Maron";
+
+translate "Muddy Brown"
+to french "Boue";
+
+translate "Chocolate"
+to french "Chololat";
+
+translate "Deep Purple"
+to french "Violet sombre";
+
+translate "Purples"
+to french "Violet";
+
+translate "Light Pink"
+to french "Rose pastel";
+
+translate "Purples"
+to french "Violet";
+
+translate "Faded Purple"
+to french "Violet pastel";
+
+translate "Tyrian Purple"
+to french "Pourpre de Tyr";
+
+translate "Tea Rose Orange"
+to french "Orange thé rose";
+
+translate "Peach"
+to french "Pêche";
+
+translate "Lavender Blue"
+to french "Bleu lavande";
+
+translate "Cerulean Blue"
+to french "Bleu Céruléen";
+
+translate "Burgundy Red"
+to french "Bordeaux";
+
+translate "Saffron Yellow"
+to french "Jaune saffran";
+
+translate "Caput Mortuum"
+to french "Caput Mortuum";
+
+translate "Clothing Type"
+to french "Type de vêtement";
+
+translate "Clothing"
+to french "Type de vêtement";
+
+translate "Top: "
+to french "Haut : ";
+translate "Top: O1"
+to french "Haut : O1(ns)";
+
+translate "Top"
+to french "Haut";
+translate "Bottom"
+to french "Bas";
+translate "Accessory"
+to french "Accessoires";
+
+translate "Top N1"
+to french "Haut N1";
+translate "Bottom N1"
+to french "Bas N1";
+translate "Shoe N1"
+to french "Chaussure N1";
+translate "Hat N1"
+to french "Chapeau N1";
+
+translate "Select Clothing Type:"
+to french "Choisissez un style de vêtement";
+
+translate "Select pattern:"
+to french "Choisissez un motif";
+
+translate "Select category:"
+to french "Choisissez une catégorie";
+
+translate "Select skin texture:"
+to french "Choisissez une texture de peau";
+
+translate "Select avatar height:"
+to french "Choisissez la taille de l'avatar";
+
+translate "Select colors for:"
+to french "Choisissez les couleurs pour";
+
+translate "Select Chat Bubble:"
+to french "Choisissez une bulle de dialogie";
+
+translate "Select Avatar:"
+to french "Choisissez un avatar";
+
+translate "Bottom: "
+to french "Bas : ";
+translate "Bottom: O1"
+to french "Bas : O1(ns)";
+
+translate "Shoe: "
+to french "Chaussure : ";
+translate "Shoe: O1"
+to french "Chaussure : O1(ns)";
+
+translate "Hat: "
+to french "Coiffe : ";
+translate "Hat: O1"
+to french "Coiffe : O1(ns)";
+
+translate "Accessory: "
+to french "Accessoires : ";
+translate "Accessory: O1"
+to french "Accessoires : O1(ns)";
+
+translate "Clothing Texture"
+to french "Texture des vêtements";
+
+translate "Clothing Color"
+to french "Couleur des vêtements";
+
+translate "Cloth Color"
+to french "Couleur des vêtements";
+
+translate "Clothing Texture"
+to french "Couleur des vêtements";
+
+translate "Skin Color"
+to french "Couleur de peau";
+
+translate "Skin: "
+to french "Peau : ";
+translate "Skin: O1"
+to french "Peau : O1(ns)";
+
+translate "Skin Texture N1"
+to french "Texture de peau N1";
+
+
+translate "The following Chat Bubbles are"
+to french "Voici les bulles de discussion accessibles"; 
+
+translate "available to somebody of your rank:"
+to french "à une personne de votre niveau :";
+
+translate "Standard Chat Bubble"
+to french "Bulle standard";
+
+translate "Military Swords Bubble"
+to french "Bulle militaire";
+
+translate "Blank bubble"
+to french "Bulle vide";
+
+translate "Presence of Horus"
+to french "Présence d'Horus";
+
+translate "Scholar of the 2nd Age"
+to french "Etudiant de second cycle";
+
+translate "Patron of the Land"
+to french "Propriétaire terrien";
+
+translate "Pharaoh Bubble"
+to french "Pharaoh";
+
+translate "Bless"
+to french "Bénédiction";
+
+translate "O1 Color"
+to french "Couleur: O1(ns)";
+
+translate "Character Height"
+to french "Taille";
+
+translate "Height"
+to french "Taille";
+
+translate "Gigantic"
+to french "Gigantesque";
+
+translate "Very Tall"
+to french "Très grand";
+
+translate "Tall"
+to french "Grand";
+
+translate "Average"
+to french "Moyen";
+
+translate "Short"
+to french "Petit";
+
+translate "Very Short"
+to french "Très petit";
+
+translate "Razak Size"
+to french "Grand comme Razak";
+
+translate "Miniscule"
+to french "Minuscule";
+
+translate "Debug Highlight"
+to french "Débuggage - Liste";
+
+translate "Hilight N1"
+to french "Relief N1";
+
+translate "Hilight Off"
+to french "Relief désactivé off";
+
+translate "Character Selection"
+to french "Sélection du personnage";
+
+translate "Male Character N1"
+to french "Homme N1";
+
+translate "Female Character N1"
+to french "Femme N1";
+
+translate "Skin Color"
+to french "Couleur de peau";
+
+translate "Light"
+to french "Claire";
+
+translate "Medium Light"
+to french "Bronzage léger";
+
+translate "Medium"
+to french "Moyen";
+
+translate "Medium Dark"
+to french "Très bronzée";
+
+translate "Dark"
+to french "Noire";
+
+
+translate "You may only create new characters during an official play session. Register for the beta at www.egenesis.com to be notified of play sessions."
+to french "Vous ne pouvez créer un nouveau personnage que pendant une session de jeu officielle. Enregistrez-vous à la bêta sur www.egenesis.com pour être prévenu des sessions de jeu.";
+
+translate "male"
+to french "homme";
+translate "female"
+to french "femme";
+translate "cancel"
+to french "annuler";
+translate "password1"
+to french "Mot de passe 1";
+translate "Passwort2"
+to french "Mot de passe 2";
+translate "You must select a gender"
+to french "Choisissez un sexe";
+translate "Your passwords must match."
+to french "Les mots de passe doivent correspondre.";
+translate "The Username U1 is already taken."
+to french "Le nom U1(name) est déjà utilisé.";
+
+translate "NEW USER: U1"
+to french "Nouveau joueur : U1(name)";
+translate "Character U1 created. You may now log in."
+to french "Le personnage U1(name) est créé. Vous pouvez vous connecter.";
+translate "That username is already taken."
+to french "Ce nom est déjà utilisé.";
+
+translate "The server is up in Development Mode. Unless you are a World Builder, or have been specially asked by one of the development team members to log in, plase wait until the next play session."
+to french "Le serveur est en mode Développement. Si vous n'avez pas de droits d'administration, ou bien si personne de l'équipe de développement ne vous a demandé de vous connecter, veuillez attendre la prochaine session de jeu.";
+
+translate "Although the server is up, this isn't an official play session. If you have already played in an official session you may log in and explore if you'd like, but be aware that nothing you do will be saved."
+to french "Le serveur est actif, mais n'est pas en session de jeu. Si vous avez déjà joué en session officielle, vous pouvez vous connecter et explorer le monde, mais sachez qu'aucune de vos actions ne sera sauvegardée.";
+
+translate "The developers are preparing the server for the upcoming official session. Only developers may log in right now. "
+to french "Les développeurs préparent le serveur pour la prochaine session officielle. Seuls les développeurs peuvent se connecter actuellement.";
+
+translate "Although the server is up, this isn't an official play session. You may log in if you want, and but THIS GAME IS NOT FUN unless it's during an official session when there are other people around. Also, nothing you do will be saved."
+to french "Le serveur est actif, mais ce n'est pas une session de jeu officielle. Vous pouvez vous connecter, mais vous ne profiterez pleinement du jeu que dans les sessions officielles, où vous aurez la possibilité de rencontrer d'autres personnes. Notez aussi qu'aucune de vos actions ne sera sauvegardée.";
+
+translate "Player Identification: U1"
+to french "Identification du personnage : U1(name)";
+
+translate "You must type in a name for your player."
+to french "Vous devez entrer un nom pour votre personnage.";
+
+translate "Privileged users must use a password"
+to french "Les utilisateurs privilégiés doivent utiliser un mot de passe";
+
+translate "No such player."
+to french "Joueur inconnu.";
+
+translate "That's the wrong password."
+to french "Mot de passe incorrect.";
+
+translate "Your character has been banned."
+to french "Votre personnage a été banni.";
+
+translate "Your character account is suspended for the next N1"
+to french "Votre personnage est suspendu pendant encore N1.";
+
+translate "The Server is open for Developers only."
+to french "Le serveur n'est accessible que par les développeurs.";
+
+translate "Emote"
+to french "Gestuelles";
+
+translate "thrash1"
+to french "Jeter1";
+
+translate "thrash2"
+to french "Jeter2";
+
+translate "thrash3"
+to french "Jeter3";
+
+translate "thrash4"
+to french "Jeter4";
+
+translate "thrash5"
+to french "Jeter5";
+
+translate "thrash"
+to french "Jeter";
+
+translate "bend"
+to french "Ramasser";
+
+translate "gesture"
+to french "Tendre la main";
+
+translate "reach"
+to french "Geste";
+
+translate "cardiac"
+to french "Souffrance";
+
+translate "bless"
+to french "bénédiction";
+
+translate "backflip"
+to french "Salto arrière";
+
+translate "Dance"
+to french "Danse";
+
+translate "wave"
+to french "Signe de la main";
+
+translate "Laugh"
+to french "S'esclaffer";
+
+translate "Shake Head"
+to french "Secouer la tête";
+
+translate "Bow"
+to french "S'incliner";
+
+translate "Gait: Walking"
+to french "Allure : marche";
+
+translate "Gait: Running"
+to french "Allure : course";
+
+translate "Gait: Zooming"
+to french "Zoom";
+
+translate "What time is it?"
+to french "Quelle heure est-il ?";
+
+translate "It is day N1: N2 O1"
+to french "Nous sommes N1: N2 O1(ns)";
+
+
+translate "Enter credit card# and expiration date (mm/yy) below, or the word PayByCash if you plan to use that option. During Beta, use credit card"
+to french "Entrez votre numéro de carte et votre date d'expiration (mm/aa), ou PaybyCash si vous souhaitez utiliser cette option. Pendant la bêta, utilisez une carte de crédit";
+
+translate "for free play."
+to french "pour jouer gratuitement.";
+
+translate "That name is not allowed."
+to french "Ce nom n'est pas autorisé.";
+
+translate "Attempt to connect from blocked port."
+to french "Tentative de connexion à partir d'un port bloqué.";
+
+translate "Banned character U1 tried to log in."
+to french "Le personnage banni U1(name) a tenté de se connecter.";
+
+translate "Your character has been banned."
+to french "Votre personnage a été banni.";
+
+translate "Doing a redirect"
+to french "Redirection";
+
+translate "Choose your gender:"
+to french "Sexe :";
+
+translate "That's the wrong password."
+to french "Mauvais mot de passe.";
+
+translate "The Server is open for Developers only."
+to french "Le serveur n'est accessible qu'aux développeurs.";
+
+translate "The Server is open for Builders only."
+to french "Le serveur n'est accessible qu'aux constructeurs.";
+
+translate "Your character account is suspended for the next K1."
+to french "Votre compte a été suspendu pendant encore K1.";
+
+translate "The account you entered was cancelled. To reactivate it, call eGenesis at 1-412-367-1000."
+to french "Votre compte a été annulé. Pour le réactiver, contactez contact@alchemicdream.com";
+
+translate "Warp to random starting spot"
+to french "Me téléporter à un point aléatoire";
+
+translate "enter email address for newsletter"
+to french "Entrer une adresse électronique pour le bulletin d'information";
+
+translate "Email address? Enter None to skip newsletter."
+to french "Adresse courrier ? Tapez None pour désactiver.";
+
+translate "Select a language"
+to french "Choix de la langue";
+
+translate "That character name has been reserved. If you are the one that reserved it, there is no need to go through the character creation process - your character has already been created for you."
+to french "Ce nom est déjà réservé. Si vous êtes la personne qui l'a réservé, il est inutile de passer par l'étape de création de personnage - tout a déjà été créé pour vous.";
+
+translate "The limit on free accounts for your ISP has been reached. Call eGenesis at 1-412-367-1000 for an exception. Create a paid account?"
+to french "La limite de comptes gratuits pour votre fournisseur d'accès a été atteinte. Contactez eGenesis au 1-412-367-1000 ou Alchemic Dream pour faire une exception. Voulez-vous créer un compte payant ?";
+
+translate "Username U1, or something very similar, is already taken."
+to french "Le nom U1(name), ou un nom très similaire, est déjà pris.";
+
+translate "Here I am: U1"
+to french "Me voici : U1(name)";
+
+translate "Guest Account"
+to french "Invité";
+
+translate "Son of Heka"
+to french "Fils d'Heka";
+
+translate "Son of Sobek"
+to french "Fils de Sobek";
+
+translate "Son of Amun"
+to french "Fils d'Amun";
+
+translate "Son of Baal"
+to french "Fils de Baal";
+
+translate "Son of As"
+to french "Fils d'As";
+
+translate "Son of Horus"
+to french "Fils d'Horus";
+
+translate "Son of Apophis"
+to french "Fils d'Apophis";
+
+translate "Son of Levin"
+to french "Fils de Levin";
+
+translate "Son of Tefnakht"
+to french "Fils de Tefnakht";
+
+translate "Son of Djevin"
+to french "Fils de Djevin";
+
+translate "Son of Ghee"
+to french "Fils de Ghî";
+
+translate "Daughter of Sjitek"
+to french "Fille de Sjitek";
+
+translate "Daughter of Bes"
+to french "Fille de Bes";
+
+translate "Daughter of Nodjmet"
+to french "Fille de Nodjmet";
+
+translate "O1 Style N1"
+to french "O1(ns) Style N1";
+
+translate "Player Options"
+to french "Joueur";
+
+translate "Change Password"
+to french "Changer le mot de passe";
+
+translate "Little Window"
+to french "Petite fenêtre";
+
+translate "Toggle UI"
+to french "Eléments d'interface";
+
+translate "Chat-Related"
+to french "Discussion";
+
+translate "Client Options"
+to french "Client";
+
+translate "Remove Vault Medallion"
+to french "Retirer le Vault Medaillon";
+
+translate "Wear Vault Medallion"
+to french "Porter le Vault Medaillon";
+
+translate "Reset Show Popups"
+to french "Réinitialiser les popups";
+
+translate "No colors available!"
+to french "Aucune couleur disponible !";

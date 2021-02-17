@@ -1,0 +1,214 @@
+Module MileStones_fre;
+
+translate "Achievements"
+to french "Exploits";
+
+translate "Achieved Citizenship on K1"
+to french "Citoyenneté obtenue le K1";
+
+translate "Show progress (Old)"
+to french "Montrez les progrès (Ancien)";
+
+translate "Current Progress"
+to french "Progrès en cours";
+
+translate "Completed the O1 K1"
+to french "O1(ns) achevé le K1";
+
+translate "Created first high quality O1 of quality N1 on K1"
+to french "Premier(e) O1(ns) de qualité N1 le K1";
+
+translate "Created first perfect O1 on K1"
+to french "Premier(e) O1(ns) de parfaite qualité le K1";
+
+translate "Your first goal is to become a Citizen of Egypt"
+to french "Votre premier objectif est de devenir Citoyen égyptien";
+
+translate "Not yet a citizen of Egypt"
+to french "Vous n'êtes pas encore un citoyen";
+
+translate "Compare Achievements"
+to french "Comparer les exploits";
+
+translate "K1 wants to compare achievements with you, OK?"
+to french "K1 souhaite comparer ses exploits avec les vôtres, êtes-vous d'accord ?";
+
+translate "K1 does not want to compare achievements with you."
+to french "K1 ne souhaite pas comparer ses exploits avec les vôtres.";
+
+translate "U1 told you of the following achievements; \n"
+to french "U1(name) vous fait part des exploits suivants ;";
+
+translate "Display Achievements"
+to french "Afficher vos exploits";
+
+translate "No known achievements"
+to french "Aucun exploit connu";
+
+translate "You have not found any achievements yet."
+to french "Vous n'avez découvert aucun exploit.";
+
+translate "You have introduced yourself to K1"
+to french "Vous vous êtes présenté à K1";
+
+translate "U1 has introduced themself to you."
+to french "U1(name) s'est présenté à vous.";
+
+translate "Introduce yourself to Sami"
+to french "Se présenter à Sami";
+
+translate "Met Pluribus"
+to french "Rencontrer Pluribus";
+
+translate "U1 has introduced themself to you."
+to french "U1(name) s'est présenté à vous.";
+
+translate "You have achieved: K1"
+to french "Vous avez accompli : K1";
+
+translate "Completed K1"
+to french "Terminé : K1";
+
+translate "Have heard of K1"
+to french "Entendu parler de : K1";
+
+translate "Player is too far away"
+to french "Le joueur est trop éloigné";
+
+translate "K1 known in all of Egypt."
+to french "K1 connus partout en Egypte.";
+
+translate "Completed: K1"
+to french "Terminé : K1";
+
+translate "Know of: K2"
+to french "Découvert : K2";
+
+translate "You did not tell U1 of any Achievements."
+to french "Vous n'avez appris aucun exploit à U1(name).";
+
+translate "You told U1 of K1 Achievements!"
+to french "Grâce à vous, U1(name) a découvert K1 exploits !";
+
+translate "U1 did not tell you of any Achievements."
+to french "U1(name) ne vous a fait découvrir aucun exploit.";
+
+translate "U1 told you of K1 Achievements!"
+to french "Grâce à U1(name), vous avez découvert K1 exploit(s) !";
+
+translate "Achieved "
+to french "Accompli : ";
+translate "Reached N1 constitution"
+to french "Atteint N1 constitution";
+translate "Reached N1 dexterity"
+to french "Atteint N1 dextérité";
+translate "Reached N1 endurance"
+to french "Atteint N1 endurance";
+translate "Reached N1 focus "
+to french "Atteint N1 focus";
+translate "Reached N1 speed"
+to french "Atteint N1 vitesse";
+translate "Reached N1 strength"
+to french "Atteint N1 force";
+translate "Reached N1 perception"
+to french "Atteint N1 perception";
+translate "Met Telanoc"
+to french "Rencontrer Telanoc";
+
+translate "Has heard of "
+to french "Entendu parler de : ";
+
+translate "You have completed K1 out of the K2 achievements that you know of."
+to french "Vous avez accompli K1 exploits sur les K2 dont vous avez entendu parler.";
+
+translate "Lit a Firework"
+to french "Allumer un feu d'artifice";
+translate "Caught a N1+ Deben O1 "
+to french "Attraper O1(uns) O1(ns) (N1+ debens)";
+
+translate "O1 Grew a Seed"
+to french "Obtenir une graine de O1(ns)";
+translate "O1, Grew N1"
+to french "Cultiver N1 O1(N1?np:ns)";
+
+translate "Caught a O1 "
+to french "Attraper O1(uns) O1(ns)";
+
+translate "Experienced an Egyptian Snowstorm"
+to french "Assister à une tempête de neige";
+translate "Harvested N1 Papyrus"
+to french "Récolter N1 Papyrus";
+translate "Wrote a law that passed"
+to french "Faire passer une loi";
+
+translate "Beetles Mulched: N1\n"
+to french "Scarabés écrasés: N1";
+
+translate "Cabbage Harvested: N1\n"
+to french "Choux cueillis: N1";
+
+translate "Carrots Harvested: N1\n"
+to french "Carrotes cueillies: N1";
+
+translate "Cucumbers Harvested: N1\n"
+to french "Concombres cueillis: N1";
+
+translate "Eggplant Harvested: N1\n"
+to french "Aubergines cueillies: N1";
+
+translate "Flax Harvested: N1\n"
+to french "Lin cueilis: N1";
+
+translate "Garlic Harvested: N1\n"
+to french "Ails cueillis: N1";
+
+translate "Herbs Harvested: N1\n"
+to french "Herbes cueillies: N1";
+
+translate "Leeks Harvested: N1\n"
+to french "Poireaux cueillis: N1";
+translate "Types of Mushrooms Gathered: N1\n"
+to french "Types de champignons ramassés: N1";
+
+translate "Number of Mushrooms Gathered: N1\n"
+to french "Nombre de champignons ramassés: N1";
+
+translate "Onions Harvested: N1\n"
+to french "Oignons cueillis: N1";
+
+translate "Peppers Harvested: N1\n"
+to french "Poivrons cueillis: N1";
+
+translate "Papyrus Gathered: N1\n"
+to french "Papyrus ramassés: N1";
+
+translate "Watermelons Harvested: N1\n"
+to french "Melons cueillis: N1";
+
+
+translate "K1K2"
+to french "K1K2";
+
+translate "Introduce yourself to K1"
+to french "Se présenter à K1";
+
+translate "Perfect Crystalization of O1 in a Reactory."
+to french "Crystallisation parfaite O1(dns) O1(ns) dans un réacteur";
+
+translate "Found a Cicada cage that has been undisturbed for a week"
+to french "Trouver une cage à cigalles non découverte depuis une semaine";
+
+translate "Beat Sami in O1"
+to french "Battre Sami au jeu O1(ns)";
+
+translate "Beetles, Mulched 88888"
+to french "Scarabées, en écrabouiller 88888";
+
+translate "Gathered N1 Different Fresh Mushrooms"
+to french "Récolter N1 champignons différents";
+
+translate "Picked N1 Fresh Mushrooms"
+to french "Récolter N1 champignons";
+
+translate "Just learned of "
+to french "Vient de découvrir ";

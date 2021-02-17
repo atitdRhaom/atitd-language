@@ -1,0 +1,45 @@
+Module animals_fre;
+
+
+translate Gazelle to french feminine
+{
+  ns "Gazelle"; np "Gazelles";
+}
+
+translate Lasso to french masculine
+{
+  ns "Lasso"; np "Lassos";
+}
+
+translate safari to french masculine
+{
+  ns "Safari"; np "Safari";
+}
+
+translate "Recover: N1 Tired: N2 LastBolt: N3 Time-LastBolt: N4"
+to french "Recover: N1 Tired: N2 LastBolt: N3 Time-LastBolt: N4";
+
+translate "You've successfully discovered a Gazelle! You need to tag four of these total to finish this portion of the Test."
+to french "Vous avez attrappé une gazelle !  Vous devez en marquer quatre en tout pour compléter cette partie de l'épreuve.";
+
+translate "The Gazelle looks like it is about to collapse."
+to french "La gazelle semble être sur le point de s'écrouler.";
+
+translate "The Gazelle is really starting to slow down."
+to french "La gazelle commence à ralentir considérablement.";
+
+translate "The Gazelle appears to be breathing hard."
+to french "La gazelle semble avoir de la difficulté à respirer.";
+
+translate "Tag this Gazelle"
+to french "Marquer cette gazelle.";
+
+translate "You already tagged this Gazelle"
+to french "Vous avez déjà marqué cette gazelle.";
+
+translate "Trying to tag the Gazelle..."
+to french "Tentative pour marquer la gazelle...";
+
+translate "You Tagged the Gazelle!"
+to french "Vous avez marqué la gazelle!";
+

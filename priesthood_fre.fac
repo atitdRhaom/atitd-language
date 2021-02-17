@@ -1,0 +1,152 @@
+module priesthood_fre;
+
+translate "Start the Ritual of Initiation"
+to french "Commencer le Rituel d'Initiation";
+
+translate "To become a follower of the Egyptian Gods, you must perform the ritual of initiation.  Note: this initiation is the hardest of all.  It requires that you have a relatively high technology level.  Do not attempt it unless you already have access to canvas, metal, and farm animals. Be sure you are well prepared before you start."
+to french "Pour devenir le suivant les dieux égyptiens, vous devez d'abord passer par un rituel d'initiation. note : cette initiation est la plus difficile de toutes, et nécessite un niveau technologique assez élevé. N'essayez pas de le passer si vous ne connaissez pas l'art du tissage, du métal et de l'élevage d'animaux. Soyez sûr d'être bien préparé avant de vous lancer.";
+
+translate "You cannot perform the Ritual of Initiation together because U1 is not yet a citizen."
+to french "Vous ne pouvez pas passer le Rituel d'Initiation avec U1(name), car U1(name) n'est pas encore citoyen.";
+
+translate "You cannot perform the Ritual of Initiation together because U1 is already a follower."
+to french "Vous ne pouvez pas passer le Rituel d'Initiation avec U1(name), car U1(name) est déjà un disciple.";
+
+translate "You have gained the attention of the gods, and they are watching to see if you can complete the ritual correctly.  You have 25 minutes."
+to french "Vous avez obtenu l'attention des dieux, et ils vous surveillent pour savoir si vous allez accomplir le rituel correctement. Vous avez 25 minutes.";
+
+translate "The gods have lost interest in your request to become a follower.  You will need to restart the ritual to regain their attention."
+to french "Les dieux n'écoutent plus votre demande. Vous devez recommencer le rituel depuis le début pour attirer de nouveau leur attention.";
+
+translate "All the gods have been appeased!  Return to the altar for the closing ceremony."
+to french "Tous les dieux ont été apaisés ! Retournez à l'autel pour la cérémonie finale.";
+
+translate "You should not perform the closing ceremony unless all the gods are pleased."
+to french "Il est déconseillé d'effectuer la cérémonie finale tant que tous les dieux n'ont pas été apaisés.";
+
+translate "K1 is pleased with the prayer!"
+to french "K1 apprécie votre prière !";
+
+
+
+translate TryWorship to french masculine
+{
+  ns "Vénération"; np "Vénération";
+}
+translate RitualOfInitiation to french masculine
+{
+  ns "Rituel initiatique"; np "Rituels initiatique";
+}
+
+translate "As part of a group of N1 people, the petitioner (you) must carry,\n"
+to french "Dans le cadre d'un groupe de N1 personnes, le signataire de la pétition doit porter :\n";
+
+translate "You are on your own." to french "Vous êtes tout seul";
+
+translate "You must present your demonstration items (Grilled Fish, Camel Milk, and Iron Ore) as part of a group of 21 people. Only the Petitioner needs to carry the items. There are just N1 people nearby."
+to french "Vous devez emmener les objets du rituel (poisson grillé, lait de chamelle et minerai de fer) accompagné d'un groupe de 21 personnes. Seul le quémandeur doit porter les objets. Il y a seulement N1 personnes autour de vous.";
+
+translate "Are you sure you want to abandon Principles of Worship? Progress will be lost, though you can restart at any time."
+to french "Voulez-vous vraiment abandonner les Pirncipes de la Vénération? La progression sera perdue, mais vous pourrez recommencer à tout moment.";
+
+translate "Perform the Ritual of Initiation"
+to french "Accomplir le rituel initiatique";
+translate "Horus Offering: Bow Down"
+to french "Offrande pour Horus: Se prosterner";
+//translate "Horus Incantation: \"Praise Horus, King of Egypt!\""
+//to french "Incantation pour Horus: \ "Praise Horus, King of Egypt!\"";
+translate "Isis Offering: Plant a bed of Flax"
+to french "Offrande pour Isis: Planter du lin";
+//translate "Isis Incantation: \"Praise Isis, whose seed is forever fertile!\""
+//to french "Incantation pour Isis: \"Praise Isis, whose seed is forever fertile!\"";
+translate "Osiris Offering: Drop a Beetle into a Mine"
+to french "Offrande pour Osiris: Déposer un scarabée dans une mine";
+//translate "Osiris Incantation: \"Praise Osiris, who was Reborn like the Scarab!\""
+//to french "Incantation pour Osiris: \"Praise Osiris, who was Reborn like the Scarab!\"";
+translate "Thoth Offering: Learn a new skill"
+to french "Offrande pour Thot: Apprendre une nouvelle compétence";
+//translate "Thoth Incantation: \"Praise Thoth, the Magician who created Science!\""
+//to french "Incantation pour Thot: \"Praise Thoth, the Magician who created Science!\"";
+translate "Ra Offering: Light a Ritual Torch in Deep Desert"
+to french "Offrande pour Râ: Allumer une torche en plein milieu du désert";
+//translate "Ra Incantation: \"Praise Ra, of the Blazing Eye!\""
+//to french "Incantation pour Râ: \"Praise Ra, of the Blazing Eye!\"";
+translate "Bastet Offering: Place Camel Milk in a Grassy Field near Water"
+to french "Offrande pour Bastet: Déposer une bouteille de lait de chamelle sur une pelouse prés d'un plan d'eau";
+//translate "Bastet Incantation: \"Praise Bastet, who teaches grace and elegance!\""
+//to french "Incantation pour Bastet: \"Praise Bastet, who teaches grace and elegance!\"";
+translate "Amun Offering: Eat a meal of Grilled Fish"
+to french "Offrande pour Amon: Manger un poisson grillé";
+//translate "Amun Incantation: \"Praise Amun, who gives us reason to celebrate!\""
+//to french "Incantation pour Amon: \"Praise Amun, who gives us reason to celebrate!\"";
+translate "Perform the Closing Ceremony"
+to french "Accomplir la cérémonie de clôture";
+translate "You will have 25 minutes from when you begin."
+to french "Vous avez 25 minutes à partir du moment où vous commencez.";
+
+translate "Time Remaining: N1"
+to french "Remps restant: N1";
+translate "Time Remaining: K1"
+to french "Remps restant: K1";
+
+translate "Done"
+to french "Fait";
+
+translate "To become a follower of the Egyptian Gods, you must perform the ritual of initiation.  Note: this initiation is the hardest of all.  It requires that you have a relatively high technology level.  Do not attempt it unless you already have access to canvas, metal, and farm animals.  We have not yet put the instructions into the game, instead, you will have to go to our web page to read them - look under 'PlayGuides'."
+to french "\Pour devenir un fidèle des dieux égyptiens \nvous devez accomplir le rituel initiatique \nRemarque: cette initiation est la plus dure de toutes. \nVous devez connaitre des technologies avancées. \nNe vous y tenter pas à moins de savoir des tissages, du métal, et des produits animaliers. \nNous n'avons pas inclue les instructions en jeu. \n Vous devrez consulter notre guide\nsur notre site internet \n(http://atitd.mondespersistants.com/?article=8). \nSection Guides/Guides épreuves.";
+
+translate "It appears that you are attempting the Ritual of Initiation, however, U1 has not signed up for the Initiation into Worship."
+to french "Il semble que vous tentiez le rituel initiatique, cepen,dant, U1(name) ne s'est pas inscrit à l'initiation de la Vénération.";
+
+translate "You cannot perform the Ritual of Initiation together because U1 is not yet a citizen."
+to french "Vous ne pouvez pas accomplir le rituel initiatique ensemble parce que U1(name) n'est pas encore un citoyen.";
+
+translate "You cannot perform the Ritual of Initiation together because U1 is already a follower."
+to french "Vous ne pouvez pas accomplir le rituel initiatique parce que U1(name) est déjà un fidèle.";
+
+translate "You have gained the attention of the gods, and they are watching to see if you can complete the ritual correctly.  You have 25 minutes."
+to french "Vous avez l'attention des dieux, et ils regardent si vous pouvez accomplir le rituel correctement.";
+
+translate "The gods have lost interest in your request to become a follower.  You will need to restart the ritual to regain their attention."
+to french "Les dieux ont rejeté votre demande de devenir un de leur fidèle. Vous devez recommencer et regagner leur attention.";
+
+translate "O1 is pleased with the gift!"
+to french "O1(ns) est satisfait de l'offrande!";
+
+translate "O1 is pleased with the prayer!"
+to french "O1(ns) est satisfait de l'incantation!";
+
+translate "All the gods have been appeased!  Return to the altar for the closing ceremony."
+to french "Tous les dieux sont apaisés! Retournez à l'autel pour la cérémonie de clôture.";
+
+translate "You should not perform the closing ceremony unless all the gods are pleased."
+to french "Vous ne devriez pas accomplir la cérémonie de clôture à moins d'avoir satisfait les dieux.";
+
+translate Horus to french masculine
+{
+  ns "Horus"; np "Horus";
+}
+translate Isis to french feminine
+{
+  ns "Isis"; np "Isis";
+}
+translate Osiris to french masculine
+{
+  ns "Osiris"; np "Osiris";
+}
+translate Thoth to french masculine
+{
+  ns "Thot"; np "Thot";
+}
+translate Ra to french masculine
+{
+  ns "Râ"; np "Râ";
+}
+translate Bastet to french feminine
+{
+  ns "Bastet"; np "Bastet";
+}
+translate Amun to french masculine
+{
+  ns "Amon"; np "Amon";
+}

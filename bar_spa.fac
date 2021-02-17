@@ -1,0 +1,26 @@
+Module Bar_spa;
+
+// Spanish translation file for Modula Bar
+// Translated by: Arpallan on 02/12/2009
+// Spell Check by:  on  .
+
+
+translate WineBar to spanish feminine
+{
+ns "Mesa Ceremonial de Bebida"; np "Mesas Ceremoniales de Bebida";
+}
+
+translate "Ceremonial Tasting Table"
+to spanish "Mesa Ceremonal de Bebida";
+
+translate "To build a Ceremonial Tasting Table, you need:"
+to spanish "Para construir una Mesa Ceremonial de Bebida, necesitas:";
+
+translate "You're going to drink the entire bottle yourself? It would be better to share at a Tasting Table.  Are you sure you want to drink it yourself?"
+to spanish "Vas a tomar la botella completa tu solo?  Sería mejor compartirla en una Mesa Ceremonial de Bebida.  Estas seguro se continuar?";
+
+translate BeerTasting to spanish masculine
+{
+ns "Catar Cerveza"; np "Catar Cerveza";
+}
+

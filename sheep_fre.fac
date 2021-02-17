@@ -1,0 +1,339 @@
+module sheep_fre;
+
+translate SheepFemale to french feminine
+{
+  ns "Brebis"; np "Brebis";
+}
+translate SheepMale to french masculine
+{
+  ns "Bélier"; np "Béliers";
+}
+translate SheepPen to french feminine
+{
+  ns "Bergerie"; np "Bergeries";
+}
+
+translate demosheeppen to french feminine
+{
+  ns "Bergerie"; np "Bergeries";
+}
+
+translate Sheep to french masculine
+{
+  ns "Mouton"; np "Moutons";
+}
+translate Mutton to french feminine
+{
+  ns "Viande de mouton"; np "Viandes de mouton";
+}
+translate Wool to french feminine
+{
+  ns "Laine"; np "Laines";
+}
+translate Bone to french masculinecollective
+{ ns "Os"; np "Os";}
+
+translate SheepBone to french masculinecollective
+{ ns "Os de mouton"; np "Os de mouton";}
+
+
+
+translate SheepFarm to french feminine
+{
+  ns "Bergerie moderne"; np "Bergeries modernes";
+}
+
+translate sheepmale to french masculine
+{
+  ns "Bélier"; np "Béliers";
+}
+
+translate sheepfemale to french feminine
+{
+  ns "Brebis"; np "Brebis";
+}
+
+translate "Everything looks fine."
+to french "Tout a l'air parfait.";
+
+translate "Build a Sheep Pen"
+to french "Construire une bergerie";
+
+translate "Herd"
+to french "Troupeau";
+
+translate "Take a male sheep from the pen"
+to french "Prendre un bélier de la bergerie";
+
+translate "Take a female sheep from the pen"
+to french "Prendre une brebis de la bergerie";
+
+translate "Place a male sheep in the pen"
+to french "Mettre un bélier dans la bergerie";
+
+translate "Place a female sheep in the pen"
+to french "Mettre une brebis dans la bergerie";
+
+translate "Slaughter"
+to french "Abattre";
+
+translate "Slaughter a male sheep"
+to french "Abattre un bélier";
+
+translate "Slaughter a female sheep"
+to french "Abattre une brebis";
+
+translate "Examine the herd"
+to french "Examiner le troupeau";
+
+translate "Fill the feed trough with Onions"
+to french "Remplir la mangeoire avec des oignons";
+
+translate "Separate the Males and Females"
+to french "Séparer les mâles et les femelles";
+
+translate "Allow the males and females to mingle"
+to french "Réunir les mâles et les femelles";
+
+translate "There are no sheep in the herd."
+to french "Il n'y a aucun mouton dans le troupeau";
+
+translate "Slaughter this sheep"
+to french "Abattre ce mouton";
+
+translate "This is a O1"
+to french "C'est O1(uns) O1(ns)";
+
+translate "This is a 1 O1"
+to french "C'est O1(uns) O1(ns)";
+
+translate "Sheep will only prosper in grassy areas."
+to french "Les moutons ne peuvent être élevés que dans les zones herbeuses.";
+
+translate "To build a sheep pen, you need:"
+to french "Pour construire une bergerie, il vous faut :";
+
+translate "Hard White Boards (structure)" to french "Planches traitées blanches et dures (structure)";
+translate "Nontoxic White Boards (structure)" to french "Planches traitées non toxiques, blanches (structure)";
+translate "Bricks (structure)" to french "Briques (structure)";
+translate "Cut Stone (flooring)" to french "Pierres taillées (revêtement de sol)";
+translate "Concrete (foundation)" to french "Béton (fondations)";
+translate "Linen (sterile bedding)" to french "Tissus (Couchage stérile)";
+translate "White Paint (cleanliness)" to french "Peinture blanche (Propreté)";
+translate "Thermometer (climate control)" to french "Thermomètre (Contrôle de la température)";
+translate "Jugs (clean food handling)" to french "Cruches (manipulation propre de la nourriture)";
+
+
+translate "There are no O1 in the pen."
+to french "Il n'y a pas de O1(np) dans l'enclos.";
+
+translate "Live sheep can spread sheep pox to humans. It's OK to slaughter sick sheep, but you can't move them."
+to french "Les moutons peuvent transmettre la vérole du mouton aux humains. Vous avez l'autorisation de tuer les moutons malades, mais pas de les déplacer.";
+
+translate "You are not carrying a O1"
+to french "Vous n'avez pas de O1(ns)";
+
+translate "There are no O1 in this pen."
+to french "Il n'y a pas de O1(np) dans cet enclos.";
+
+translate "You have been infected with SheepPox! If you cough on others, you'll infect them as well."
+to french "Vous avez été infecté par la vérole du mouton! Si vous toussez sur d'autres personnes, vous les contaminerez également.";
+
+translate "Cough on this person"
+to french "Tousser sur cette personne";
+
+translate "You are not carrying a O1"
+to french "Vous n'avez pas de O1(ns)";
+
+translate "There are no O1 in this pen."
+to french "Il n'y a pas de O1(ns) dans cette bergerie.";
+
+translate "U1 removed a O1 on from the pen."
+to french "U1(name) a retiré O1(uns) O1(ns) de la bergerie.";
+
+translate "U1 placed a O1 in the pen."
+to french "U1(name) a mis O1(uns) O1(ns) dans la bergerie.";
+
+translate "Are you sure you want to slaughter the LAST O1?"
+to french "Voulez-vous vraiment abattre O1(lns) dernier(e) O1(ns)";
+
+translate "The pen contains N1 males and N2 females."
+to french "L'enclos contient N1 mâles et N2 femelles.";
+
+translate "The feed trough has N1 onions."
+to french "La mangeoire contient N1 oignons.";
+
+translate "The sheep are infected with Sheep Pox, and are spreading it to nearby pens."
+to french "Les moutons sont infectés par la vérole, et la maladie se répand d'enclos en enclos.";
+
+translate "The sheep are infected with Sheep Pox!"
+to french "Vos moutons ont contracté la vérole !";
+
+translate "You don't have any onions."
+to french "Vous n'avez pas d'oignons.";
+
+translate "Load trough with how many Onions? (Max N1)"
+to french "Mettre combien d'oignons ? (Max N1)";
+
+translate "A O1 recently died of Sheep Pox."
+to french "O1(^uns) O1(ns) est récemment mort(e) de la vérole.";
+
+translate "The pen is empty."
+to french "L'enclos est vider.";
+
+translate "The sheep seem to be searching around for food. Perhaps they would enjoy some tasty onions?"
+to french "Les moutons semblent chercher de la nourriture. Peut-être apprécieraient-ils des oignons ?";
+
+translate "The sheep are looking a bit thin. You should grow some onions to feed them."
+to french "Les moutons semblent un peu maigres. Vous devriez cultiver des oignons pour les nourrir.";
+
+translate "The sheep are starving! Get them some onions to eat, QUICK!"
+to french "Les moutons sont affamés ! Donnez-leur des oignons à manger, et faites vite !";
+
+translate "A O1 starved recently. The herd is in bad shape. Get them some onions to eat."
+to french "O1(^uns) O1(ns) est mort(e) de faim récemment. Votre troupeau est en piteux état. Donnez-lui des oignons à manger.";
+
+translate "The sheep have contracted Sheep Pox!" 
+to french "Vos moutons ont contracté la vérole !";
+
+translate "The sheep are looking healthy and frisky."
+to french "Vos moutons ont l'air en pleine forme.";
+
+translate "The sheep ran away! Sheep are much easier to kill in a pen."
+to french "Le mouton s'est enfui ! Il est plus facile de tuer un mouton dans un enclos.";
+
+translate "Cough on this person"
+to french "Tousser sur cette personne";
+
+translate "You have been infected with SheepPox! If you cough on others, you'll infect them as well."
+to french "Vous avez contracté la vérole ! Si vous toussez sur les autres, vous leur transmettrez la maladie.";
+
+translate "Cure Sheep Pox"
+to french "Soigner la vérole";
+
+translate "To cure Sheep Pox, you must eat 50 garlic."
+to french "Pour soigner la vérole, vous devez manger 50 gousses d'ail.";
+
+translate "Males and females are housed together"
+to french "Les mâles et les femelles sont réunis.";
+
+translate "Males and females are separated"
+to french "Les mâles et les femelles sont séparés.";
+
+translate "Apply Sheep Pox Salve"
+to french "Appliquer le traitement anti-vérole";
+
+translate "You apply the salve, curing the sheep."
+to french "Vous avez appliqué le traitement, vos moutons sont guéris.";
+
+translate "Herd has N1 males and N2 females."
+to french "Votre troupeau comporte N1 mâles et N2 femelles.";
+
+translate "A clean environment and better nutrition allows you to"
+to french "Un environnement sain et une meilleure alimentation vous permettent";
+translate "raise large numbers of sheep without fear of Pox."
+to french "d'élever un grand nombre de moutons sans craindre la vérole.";
+translate "Onions (sheep food)"
+to french "Oignons (nourriture)";
+
+translate "Garlic (nutrition tests)"
+to french "Ail (essais de nourriture)";
+
+translate "Cabbage (nutrition tests)"
+to french "Choux (essais de nourriture)";
+
+translate "High-Ascorbin Thistle (nutrition tests)"
+to french "Chardon enrichi en ascorbine (essais de nourriture)";
+
+translate "High-Biotin Thistle (nutrition tests)"
+to french "Chardons enrichis en biotine (essais de nourriture)";
+
+translate "High-Carotene Thistle (nutrition tests)"
+to french "Chardons enrichis en carotène (essais de nourriture)";
+
+translate "High-Folin Thistle (nutrition tests)"
+to french "Chardons enrichis en foline (essais de nourriture)";
+
+translate "High-Niacin Thistle (nutrition tests)"
+to french "Chardons enrichis en niacine (essais de nourriture)";
+
+translate "High-Pyroxidine Thistle (nutrition tests)"
+to french "Chardons enrichis en pyrocidine (essais de nourriture)";
+
+translate "High-Thiamine Thistle (nutrition tests)"
+to french "Chardons enrichis en thiamine (essais de nourriture)";
+
+translate "Rigid White Boards (enclosure tests)"
+to french "Planches de bois blanc rigide (essais d'enclos)";
+
+translate "Rigid Black Boards (enclosure tests)"
+to french "Planches de bois noir rigide (essais d'enclos)";
+
+translate "Rigid Nontoxic Boards (enclosure tests)"
+to french "Planches de bois rigide non toxique (essais d'enclos)";
+
+translate "Linen (sanitation tests)"
+to french "Tissu (essais d'assainissement)";
+
+translate "Grain Spirits of Water (sanitation tests)"
+to french "Extraits de grains d'eau (essais d'assainissement)";
+
+translate "Wood Spirits of Water (sanitation tests)"
+to french "Extraits de bois d'eau (essais d'assainissement)";
+
+translate "You learn how to build a modern sheep farm."
+to french "Vous avez appris à construire une bergerie moderne.";
+
+translate "Build a Modern Sheep Farm"
+to french "Construire une bergerie moderne";
+
+translate "To build a modern sheep farm, you need:"
+to french "Pour construire une bergerie moderne il vous faut :";
+
+translate "The Feed Trough has N1 Thistle."
+to french "Le râtelier comporte N1 chardons.";
+
+translate "Supplement the feed trough with Thistle"
+to french "Ajouter des chardons dans le râtelier";
+
+translate "That is not thistle."
+to french "Ce ne sont pas des charadons.";
+
+translate "How many do you want to load?"
+to french "Combien de chardons ?";
+
+translate "You do not have that much."
+to french "Vous n'avez pas assez de chardon.";
+
+translate "View log of Emergency Feeding"
+to french "Voir la liste des réapprovisionnements d'urgence";
+
+translate "There were no emergency feedings."
+to french "Pas de réapprovisionnements en urgence.";
+
+translate "Last few emergency feedings:"
+to french "Les derniers réapprovisionnements de nourriture en urgence :";
+
+translate "The feed trough has N1 Thistles"
+to french "Le ratelier contient N1 chardons";
+
+translate "The sheep need K1 and K2."
+to french "Les moutons ont besoin de K1 et de K2.";
+
+translate "Slaughtered a Wild Sheep"
+to french "Abattre un mouton sauvage";
+
+translate "*does not contain any sheep*"
+to french "*n'héberge aucun mouton*";
+
+translate "Shear Sheep for Wool"
+to french "Tondre les moutons pour la laine";
+
+translate "The sheep haven't produced any wool yet."
+to french "Les moutons n'ont produit aucune laine pour le moment.";
+
+translate "You collect N1 wool"
+to french "Vous collectez N1 coudées de laine.";
+
+translate "With high dexterity, you are able to keep the bones of this sheep intact after slaughtering it."
+to french "Avec une grande dextérité, vous avez pu garder intacts les os de ce mouton après l'avoir abattu";

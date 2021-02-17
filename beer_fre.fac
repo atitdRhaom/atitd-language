@@ -1,0 +1,190 @@
+module beer_fre;
+
+//menues
+
+translate "Farming"
+to french "Agriculture";
+
+translate "Build a Grain Oven"
+to french "Construire un four à grain";
+
+translate "To construct a Grain Oven, you need:"
+to french "Pour construire un Four à Grain, il vous faut:";
+
+translate "Beer Brewing"
+to french "Brassage de la bière";
+
+//objects
+
+translate grainoven to french masculine
+{
+	ns "Four à grains"; np "Fours à grains";
+	}
+
+translate beer to french feminine
+{
+	ns "Bière"; np "Bières";
+	}
+
+translate barleyraw to french feminine
+{
+	ns "Orge (crue)"; np "Orges (crues)";
+	}
+	
+translate barleylightroasted to french feminine
+{
+	ns "Orge (légèrement dorée)"; np "Orges (légèrement dorées)";
+	}
+
+translate barleymediumroasted to french feminine
+{
+	ns "Orge (moyennement cuite)"; np "Orges (moyennement cuites)";
+	}
+	
+translate barleydarkroasted to french feminine
+{
+	ns "Orge (très cuite)"; np "Orges (très cuites)";
+	}
+	
+translate barleyburnt to french feminine
+{
+	ns "Orge (brûlée)"; np "Orges (brûlées)";
+	}
+	
+translate wheatraw to french masculine
+{
+	ns "Blé (cru)"; np "Blés (crus)";
+	}
+	
+translate wheat to french masculine
+{
+	ns "Blé"; np "Blés";
+	}
+
+translate wheatlightroasted to french masculine
+{
+	ns "Blé (légèrement doré)"; np "Blés (légèrement dorés)";
+	}
+	
+translate wheatmediumroasted to french masculine
+{
+	ns "Blé (moyennement cuit)"; np "Blés (moyennement cuits)";
+	}
+	
+translate wheatdarkroasted to french masculine
+{
+	ns "Blé (très cuit)"; np "Blés (très cuits)";
+	}
+	
+translate wheatburnt to french masculine
+{
+	ns "Blé (brûlé)"; np "Blés (brûlés)";
+	}
+
+translate maltraw to french masculine
+{
+	ns "Malt (cru)"; np "Malts (crus)";
+	}
+	
+translate maltlightroasted to french masculine
+{
+	ns "Malt (légèrement doré)"; np "Malts (légèrement dorés)";
+	}
+	
+translate maltmediumroasted to french masculine
+{
+	ns "Malt (moyennement cuit)"; np "Malts (moyennement cuits)";
+	}
+	
+translate maltdarkroasted to french masculine
+{
+	ns "Malt (très cuit)"; np "Malts (très cuits)";
+	}
+
+translate maltburnt to french masculine
+{
+	ns "Malt (brûlé)"; np "Malts (brûlés)";
+	}
+	
+translate QuickBrewing to french masculine
+{
+ns "Brassage rapide"; np "Brassage rapide";
+}
+
+translate "QuickBrewing (Completed)"
+to french "Brassage rapide (Achevé)";
+
+translate "To learn quick brewing, you must already know beer brewing, and you must have a great deal of experience with festivals.  Your standing with the festival gods must add up to N1.  The skill costs 500 barley."
+to french "Pour apprendre le brassage rapide, vou devez connaître les techniques de brassage de la bière et avoir une grande expérience des festivals. Vos relations avec les dieux des festivals doivent être de N1 au moins. Cette compétence demande 500 mesures d'orge pour être enseignée.";
+	
+//texts
+
+translate "The grain oven contains nothing to take."
+to french "Il n'y à rien à prendre dans le four à grain.";
+
+translate "You must select an item in the list before pressing 'Take'."
+to french "Vous devez choisir un objet dans la liste avant de le prendre.";
+
+translate "Select Wood, or a Grain:"
+to french "Choisissez du bois, ou un ingrédient :";
+
+translate "You can only put wood and grain into the grain oven."
+to french "Vous ne pouvez mettre que du bois ou des céréales dans le four à grains.";
+
+translate "How many O1 should I put in?"
+to french "Quelle quantité de O1(ns) utiliser ?";
+
+translate "You do not have N1 O1"
+to french "Vous n'avez pas N1 O1(N1?np:ns)";
+
+translate "Beer Kettle Recipes:"
+to french "Recettes du chaudron à bierre";
+
+translate "The oven is overloaded.  It will do nothing until you remove some bulk."
+to french "Votre four est trop rempli. Vous devez le vider un peu avant de continuer.";
+
+translate "The oven uses N1 wood every 10 seconds. It does not have enough."
+to french "Le four utilise N1 bois toutes les 10 secondes. Il n'y en a pas assez.";
+
+translate "Allows one to brew beer of many flavors"
+to french "Permet de brasser des bières de saveur différente";
+
+translate " (Completed)"
+to french " (Achevé)";
+
+translate "Wheat"
+to french "Blé";
+
+translate "Malt"
+to french "Malt";
+
+translate "Raw:"
+to french "Cru:";
+
+translate "Light:"
+to french "Léger:";
+
+translate "Med:"
+to french "Moyen:";
+
+translate "Dark:"
+to french "Très cuit:";
+
+translate "Burnt:"
+to french "Brûlé:";
+
+translate "Grain (Abstract)"
+to french "Grain (générique)";
+
+translate "Wheat (Abstract)"
+to french "Blé (générique)";
+
+translate "Malt (Abstract)"
+to french "Malt (générique)";
+
+translate "Wood"
+to french "Bois";
+
+translate "Start"
+to french "Lancer";
+

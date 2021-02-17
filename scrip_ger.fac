@@ -1,0 +1,275 @@
+module scrip_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2007 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+
+translate Scrip to german masculine
+{
+swa "Geldschein";
+  sn "Geldschein"; sg "Geldschein"; sd "Geldschein"; sa "Geldschein"; 
+  pn "Geldscheine"; pg "Geldscheine"; pd "Geldscheine"; pa "Geldscheine";
+}
+translate Certificate to german neuter
+{
+swa "Zertifikat";
+  sn "Zertifikat"; sg "Zertifikat"; sd "Zertifikat"; sa "Zertifikat"; 
+  pn "Zertifikate"; pg "Zertifikate"; pd "Zertifikate"; pa "Zertifikate";
+}
+translate Mint to german feminine
+{
+swa "Prägemaschine";
+  sn "Prägemaschine"; sg "Prägemaschine"; sd "Prägemaschine"; sa "Prägemaschine"; 
+  pn "Prägemaschinen"; pg "Prägemaschinen"; pd "Prägemaschinen"; pa "Prägemaschinen";
+}
+translate CertificatePress to german feminine
+{
+swa "Zertifikatpresse";
+  sn "Zertifikatpresse"; sg "Zertifikatpresse"; sd "Zertifikatpresse"; sa "Zertifikatpresse"; 
+  pn "Zertifikatpressen"; pg "Zertifikatpressen"; pd "Zertifikatpressen"; pa "Zertifikatpressen";
+}
+translate OracleOfArchitecture to german neuter
+{
+swa "Orakel der Architektur";
+  sn "Orakel der Architektur"; sg "Orakel der Architektur"; sd "Orakel der Architektur"; sa "Orakel der Architektur"; 
+  pn "Orakel der Architektur"; pg "Orakel der Architektur"; pd "Orakel der Architektur"; pa "Orakel der Architektur";
+}
+translate MediumHydraulicCylinders to german masculine
+{
+swa "mittl. Hydraulikzylinder";
+  sn "mittl. Hydraulikzylinder"; sg "mittl. Hydraulikzylinders"; sd "mittl. Hydraulikzylinder"; sa "mittl. Hydraulikzylinder"; 
+  pn "mittl. Hydraulikzylinder"; pg "mittl. Hydraulikzylinder"; pd "mittl. Hydraulikzylindern"; pa "mittl. Hydraulikzylinder";
+}
+translate MediumStonemetalGears to german neuter
+{
+swa "mittl. Steinmetallzahnrad";
+  sn "mittl. Steinmetallzahnrad"; sg "mittl. Steinmetallzahnrades"; sd "mittl. Steinmetallzahnrad"; sa "mittl. Steinmetallzahnrad"; 
+  pn "mittl. Steinmetallzahnräder"; pg "mittl. Steinmetallzahnräder"; pd "mittl. Steinmetallzahnrädern"; pa "mittl. Steinmetallzahnräder";
+}
+translate MeshWire to german masculine
+{
+swa "Maschendraht";
+  sn "Maschendraht"; sg "Maschendrahts"; sd "Maschendraht"; sa "Maschendraht"; 
+  pn "Maschendrähte"; pg "Maschendrähte"; pd "Maschendrähten"; pa "Maschendrähte";
+}
+translate Ink to german femininecollective
+{
+swa "Tinte";
+  sn "Tinte"; sg "Tinte"; sd "Tinte"; sa "Tinte"; 
+  pn "Tinten"; pg "Tinten"; pd "Tinten"; pa "Tinten";
+}
+translate Minting to german feminine
+{
+swa "Geldherstellung";
+  sn "Geldherstellung"; sg "Geldherstellung"; sd "Geldherstellung"; sa "Geldherstellung"; 
+  pn "Geldherstellung"; pg "Geldherstellung"; pd "Geldherstellung"; pa "Geldherstellung";
+}
+translate Certification to german feminine
+{
+swa "Zertifizierung";
+  sn "Zertifizierung"; sg "Zertifizierung"; sd "Zertifizierung"; sa "Zertifizierung"; 
+  pn "Zertifizierung"; pg "Zertifizierung"; pd "Zertifizierung"; pa "Zertifizierung";
+}
+
+
+translate "Allows anyone to print money."
+to german "Erlaubt die Herstellung von Geld.";
+
+translate "Mint"
+to german "Prägemaschine";
+
+translate "Allows anyone to print unique, serialized certificates."
+to german "Erlaubt das Prägen von einzigartigen, nummerierten Zertifikaten.";
+
+translate "To build a Mint, you need:"
+to german "Um eine Prägemaschine zu bauen benötigst du:";
+
+translate "Certificate Press"
+to german "Zertifikatpresse";
+
+translate "To build a Certificate Press, you need:"
+to german "Um eine Zertifikatpresse zu bauen benötigst du:";
+
+translate "Allocated: "
+to german "Zugewiesen: ";
+
+translate "Failed to allocate: "
+to german "Zuweisung fehlgeschlagen: ";
+
+translate "Set Currency Name"
+to german "Wähle Währungsbezeichnung";
+
+translate "Name of currency? Note: This can never be changed."
+to german "Bezeichnung der Währung? Achtung: Kann nicht mehr geändert werden.";
+
+translate "Currencies can't contain double spaces, dashes, or other things likely to confuse people."
+to german "Währungen dürfen keine doppelten Leerzeichen, Gedankenstriche oder andere Zeichen haben, um die Leute nicht zu verwirren.";
+
+translate "Your currency name will be: <K1> Check for capitalization or other typos. Proceed?"
+to german "Der Name der Währung lautet: <K1> . Achte auf evtl. Rechtschreibfehler. Fortfahren?";
+
+translate "Currency type for this mint has been permanently set to K1."
+to german "Währungstyp für diese Prägemaschine wurde dauerhaft auf K1 gesetzt.";
+
+translate "The name K1 is already taken."
+to german "Die Bezeichnung K1 gibt es bereits.";
+
+translate "Set Certificate Name"
+to german "Zertifikatsbezeichnung setzen";
+
+translate "Name of certificates? Note: This can never be changed."
+to german "Bezeichnung des Zertifikates? Achtung: Kann nicht mehr geändert werden.";
+
+translate "Certificates can't contain double spaces, dashes, or other things likely to confuse people."
+to german "Zertifizierungen dürfen keine doppelten Leerzeichen, Gedankenstriche oder andere Zeichen haben, um die Leute nicht zu verwirren.";
+
+translate "Your certificate name will be: <K1> Check for capitalization or other typos. Proceed?"
+to german "Der Name der Zertifizierung lautet: <K1> . Achte auf evtl. Rechtschreibfehler. Fortfahren?";
+
+translate "Certificate type for this mint has been permanently set to K1."
+to german "Zertifizierungstyp für diese Prägemaschine wurde dauerhaft auf K1 gesetzt.";
+
+translate "This mint has issued N1 K1 scrip."
+to german "Diese Prägemaschine hat N1 K1 Geldnoten hergestellt.";
+
+translate "This press has issued N1 K1 certificates."
+to german "Diese Prägemaschine hat N1 K1 Zertifikate hergestellt.";
+
+translate "Supplies: N1 Ink, N2 Paper"
+to german "Zubehör: N1 Tinte, N2 Papier";
+
+translate "Supplies: N1 Paper, N2 K1"
+to german "Zubehör: K1 Papier, N2 K1";
+
+translate "Supplies: N1 Paper, 0 Ink"
+to german "Zubehör: N1 Papier, 0 Tinte";
+
+translate "Reset the Mint's counter"
+to german "Zähler zurücksetzen";
+
+translate "Are you sure you want to reset the mint's counter?"
+to german "Bist du sicher, dass du den Zähler der Prägemaschine zurücksetzen willst?";
+
+translate "Reset the currency"
+to german "Währung zurücksetzen";
+
+translate "Set Denomimation to N1"
+to german "Setze Notenwert auf N1";
+
+translate "Set Denomimation to other"
+to german "Setze Notenwert auf anderen Wert";
+
+translate "Enter a denomination, up to 1 million:"
+to german "Wähle Notenwert bis zu 1 Million:";
+
+translate "Denomination is set to N1."
+to german "Notenwert ist auf N1 gesetzt.";
+
+translate "Load the hopper with Papyrus Paper"
+to german "Belade den Trichter mit Papyruspapier";
+
+translate "You don't have any Papyrus Paper"
+to german "Du hast kein Papyruspapier";
+
+translate "Cut and Load how much paper? Each sheet makes 15 notes."
+to german "Schneide und lade wieviel Papier? Jeder Bogen ergibt 15 Geldnoten.";
+
+translate "You don't have enough."
+to german "Du hast nicht genug.";
+
+translate "Load how much paper? Each sheet makes one certificate."
+to german "Wieviel Papier laden? Jeder Bogen ergibt 1 Zertifikat.";
+
+translate "Fill the well with Ink"
+to german "Befülle die Welle mit Tinte";
+
+translate "Fill with how much ink? (Max N1)"
+to german "Mit wieviel Tinte beladen? (Max N1)";
+
+translate "Print a K1 K2 note"
+to german "Drucke eine K1 K2 Geldnote";
+
+translate "Print"
+to german "Drucken";
+
+translate "There is no paper in the hopper."
+to german "Kein Papier im Schacht.";
+
+translate "There is no ink in the well."
+to german "Keine Tinte auf der Welle.";
+
+translate "Print a Certificate"
+to german "Drucke ein Zertifikat";
+
+translate "Shred"
+to german "Zerreißen";
+
+translate "Shred how many K1?"
+to german "Zerreiße wieviel K1?";
+
+translate "Choose a type of paper:"
+to german "Wähle die Papierart:";
+
+translate "That cannot be used as paper."
+to german "Dies kann nicht als Papier benutzt werden.";
+
+translate "You cannot combine paper types. Please remove the paper already inside the press before putting new paper in."
+to german "Du kannst verschiedene Papierarten nicht miteinander kombinieren. Bitte entferne das bereits eingelegte Papier, bevor du neues einlegst.";
+
+translate "Fill with how much paper? (Max N1)"
+to german "Wieviel Papier einlegen? (Max. N1)";
+
+translate "Choose a type of ink:"
+to german "Wähle die Art der Tinte:";
+
+translate "That cannot be used as ink."
+to german "Dies kann nicht als Tinte benutzt werden.";
+
+translate "You cannot combine inks. Please remove the ink already inside the press before putting new ink in."
+to german "Du kannst verschiedene Arten von Tinte nicht miteinander kombinieren. Bitte entferne die bereits eingefüllte Tinte, bevor du neue einfüllst.";
+
+translate "Certificates require Papyrus Paper. Please load the press with Papyrus Paper."
+to german "Zertifikate benötigen Papyruspapier. Bitte belade die Presse damit.";
+
+translate "Certificates require basic ink. Please load the press with ink or basic ink."
+to german "Zertifikate benötigen einfache Tinte. Bitte belade die Presse mit Tinte oder einfacher Tinte.";
+
+translate "Maintenance"
+to german "Maschinenpflege";
+
+translate "Remove Plate"
+to german "Platte entfernen";
+
+translate "Are you sure you want to remove the imprint plate?"
+to german "Bist du sicher, dass du die Druckplatte entfernen möchtest?";
+
+translate "You remove the plate, breaking the bolts that hold it in."
+to german "Du entfernst die Platte, dabei brechen die Befestigungsschrauben.";
+
+translate "Install Plate"
+to german "Platte einbauen";
+
+translate "You need a Spanner Wrench to install a new plate."
+to german "Um eine neue Platte einbauen zu können benötigst du einen Ringschlüssel.";
+
+translate "You require four Bolts to fasten the plate to the mechanism, as well as twelve washers to provide proper spacing."
+to german "Um die Platte zu befestigen benötigst du vier Schrauben, sowie 12 Unterlagsschreiben, um einen exakten Abstand zu erreichen.";
+
+translate "Choose a plate to install into the press:"
+to german "Wähle die einzusetzende Platte:";
+
+translate "That item is not a valid plate."
+to german "Dieser Gegenstand ist keine gültige Platte.";
+
+translate "You install the new plate, using your wrench to tighten the new bolts and washers into place."
+to german "Du baust die neue Platten ein und ziehst nochmals mit dem Schraubenschlüssel die neuen Schrauben und Unterlagsscheiben fest.";
+
+translate "Print a Template"
+to german "Drucke eine Matrize";
+
+translate "You do not have the correct materials loaded. Each template requires: "
+to german "Du hast nicht die benötigten Materialien geladen. Jede Matrize benötigt: ";

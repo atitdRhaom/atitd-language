@@ -1,0 +1,483 @@
+module distill_fre;
+
+//variables of spirits translation formula ?
+//var Str=string(nth(World.SpiritKindList,k1)," Spirits of ",nth(World.SpiritQualList,k2));
+//var Unique=string("spirits:",k2,":",k1,":",Str);
+      
+      
+translate Distillation to french feminine
+{
+	ns "Distillation"; np "Distillation";
+	}
+	
+translate DistillationExperiments1 to french feminine
+{
+	ns "Expériences de distillation"; np "Expériences de distillation";
+	}
+	
+translate Spirits to french masculine
+{
+	ns "Extrait"; np "Extraits";
+	}
+
+translate alembic to french masculine
+{
+	ns "Alambic"; np "Alambics";
+	}
+
+translate "Ra"
+to french "Râ";
+
+translate "Life"
+to french "Vie";
+
+translate "Air"
+to french "Air";
+
+translate "Fire"
+to french "Feu";
+
+translate "Water"
+to french "Eau";
+
+translate "Fruit"
+to french "Fruit";
+
+translate "Vegetable"
+to french "Légume";
+
+translate "Mineral"
+to french "Minerai";
+
+translate "Fish"
+to french "Poisson";
+
+translate "Grey"
+to french "Gris";
+
+translate "Grey Spirits"
+to french "Extraits";
+
+translate "Distillation (completed)"
+to french "Distillation (Achevé)";
+
+translate "Allows one to carefully separate volitile compounds from liquid."
+to french "Permet la séparation des composants volatiles de différents liquides.";
+
+translate "Copper Sheeting (Flame Shield)"
+to french "Revêtement de cuivre (Pare-Feu)";
+
+translate "Small Gears (Flow Control)"
+to french "Petits pignons (Contrôle du débit)";
+
+translate "Thermometers"
+to french "Thermomètres";
+
+translate "Gunpowder (Theory Research)"
+to french "Poudre à canon (Recherche théorique)";
+
+translate "Beer of any type (Temperature Research)"
+to french "Bières de toutes sortes (Recherche sur la température)";
+
+translate "Dry Beer of any type (Temperature Research)"
+to french "Bière amère tout type (Recherche sur la température)";
+
+translate "Potent Beer (Temperature Research)"
+to french "Bière forte (Recherche sur la température)";
+
+translate "Dry, Potent Beer (Temperature Research)"
+to french "Bière forte et amère (Recherche sur la température)";
+
+translate "Very Potent Beer (Temperature Research)"
+to french "Bière très forte (Recherche sur la température)";
+
+translate "Dry, Very Potent Beer (Temperature Research)"
+to french "Bière amère, très forte (Recherche sur la température)";
+
+translate "Wine with any alcohol (T. Research)"
+to french "Vins et alcool (Recherche sur la température)";
+
+translate "Wine with at least 6% alcohol (T. Research)"
+to french "Vin mini 6% d'alcool (Recherche sur la température)";
+
+translate "Wine with at least 12% alcohol (T. Research)"
+to french "Vin mini 12% d'alcool (Recherche sur la température)";
+
+translate "Wine with at least 6 Tannin (T. Research)"
+to french "Vin avec tannin mini 6 (Recherche sur la température)";
+
+translate "Verify spirits, checking U1 against O1"
+to french "Vérification de U1(name) par rapport à O1(ns)";
+
+translate "Distillation Experiments"
+to french "Expériences de distillation";
+
+translate "Scientists will assist with research on use of Alembics. (Information only)"
+to french "Les scientifiques proposent leur assistance dans la recherche sur l'utilisation des alambics (A titre d'information seulement).";
+
+translate "After much research we concluded that there are in fact nine different chemical components that make up Spirits. Each has a different boiling point, and due to the valve mechanism on an alembic, it is possible to boil off just those spirits with a boiling point equal to the solution temperature (rather than those equal or above.)"
+to french "Après de nombreuses recherches, nous en sommes arrivés à la conclusion qu'il existait neuf composés chimiques constituant les extraits. Chacun de ces composants possède une température d'ébullition spécifique, et grâce au dispositif de valves présent sur un alambic, il est possible de faire entrer ces extraits en ébullition à une température égale à la température de la solution (plutôt qu'à une température égale ou supérieure).";
+
+translate "The nine types of spirits, from lowest boiling point to highest are: Rock, Wood, Worm, Grain, Grass, Fruit, Vegetable, Mineral, Fish. Spirits are then further categorized by purity level, with the most pure referred to as Spirits of Ra, followed by Spirits of Life, Air, Fire, Water, Earth. The term Grey Spirits indicates that either the spirit is even less pure than Earth spirits, *or* contains compounds with an average boiling point above Fish Spirits."
+to french "Les neuf types d'extraits, classés par ordre croissant de point d'ébullition, sont : la pierre, le bois, le ver, le grain, l'herbe, le fruit, le légume, le minéral, et le poisson. Les extraits sont ensuite classés en catégories de pureté. Les plus purs sont appelés extraits de Râ, puis viennent les extraits de la Vie, de l'Air, du Feu, de l'Eau et de la Terre. Le terme 'extraits' indique un extrait moins pur qu'un extrait de la Terre, *ou* qui contient des composants possédant une température d'ébullition supérieure à celle des extraits de poisson.";
+
+translate "Not all distillable materials contain all spirit types. Beer, for example contains Rock, Wood, Worm and Grain spirits. Beers with the 'Dry' flavor also contain small amounts of Fruit and Vegetable Spirits. Potent beers contain 25% more spirits total than normal beers. Very Potent Beers contain 50% more."
+to french "Tous les éléments que l'on peut distiller ne contiennent pas tous les types d'extraits. La bière, par exemple, contient de l'extrait de Bois, de Ver, de Grain et d'Herbe. Les bières dites 'Amères' contiennent aussi une petite quantité d'extraits de Poisson et de Légume. Les bières dites 'Fortes' contiennent un quart d'extrait de plus qu'une bière normale. Les bières très fortes en contiennent la moitié en plus.";
+
+translate "The pressure and heat of an alembic cause a chemical reaction in wine whereby tanins are converted into Wood, Worm and Grain spirits. Residual sugar further increases the spirits' weight, providing vegetable, mineral, and a tiny amount of fish spirits. Since the condensing stage of an Alembic tends to average the weights of the circulating components, it is theoretically possible to distill intermediate types of spirits by distilling a high boiling point spirit such as Vegetable, and then a bit of a low boiling point spirit like Grass. When this is done, the result would be Fruit Spirits. It is unknown whether these can be made with enough purity to prevent classification as Grey Spirits."
+to french "La pression et la chaleur d'un alembic entrainent une réaction chimique du tannin présent dans le vin, qui est transformé en extraits de Bois, de Ver, ou de Grain. La quantité de sucre résiduel est déterminante pour la qualité de l'extrait : légume, minéral ou poisson. Comme le type d'extraits est basé sur une moyenne de composants, il est théoriquement possible de distiller des types intermédiaires d'extraits en distillant un extrait à point d'ébullition élevé, comme le légume, puis ensuite un extrait à plus faible point d'ébullition, comme l'Herbe. Lorsque l'opération est achevée, il en résulte un extrait de Fruit. On ne sait pas encore si ces extraits peuvent exister à un état de pureté suffisante pour les empêcher d'être considérés comme des extraits.";
+
+translate "Gold Wire (Safety Valve Mechanism)"
+to french "Fil d'or (Mécanisme de valve de sûreté)";
+
+translate "Glass Jars (Base, Pot, Sink)"
+to french "Cruches de verre (Base, Récipient, Evier)";
+
+translate "To build an Alembic you need:"
+to french "Pour construire un alambic, il vous faut :";
+
+translate "N1 O1"
+to french "N1 O1(N1?np:ns)";
+
+translate "Add Beer"
+to french "Ajouter de la bière";
+
+translate "Add Beer/K1"
+to french "Ajouter de la bière/K1";
+
+translate "Add Wine"
+to french "Ajouter du vin";
+
+translate "Add Wine/K1"
+to french "Ajouter du vin/K1";
+
+translate "You learn to build and operate an Alembic."
+to french "Vous apprenez la construction et le maniement des alambics.";
+
+translate "Add Beer/"
+to french "Ajouter de la bière/";
+
+translate "Simulate Beer"
+to french "Simulation de bière";
+
+translate "Add Wine/"
+to french "Ajouter du vin/";
+
+translate "Load the Alembic with Charcoal"
+to french "Mettre du charbon dans l'alambic";
+
+translate "Load how much Charcoal? (Max N1)"
+to french "Quelle quantité de charbon ? (Mx N1)";
+
+translate "Load the Alembic with Petroleum"
+to french "Mettre du pétrole dans l'alambic";
+
+translate "Load how much petroleum? (Max N1)"
+to french "Quelle quantité de pétrole ? (Mx N1)";
+
+translate "The fuel supply ran out, causing the mixture to quickly cool, and empty through the safety valve."
+to french "La réserve de combustible est vide. Le mélange s'est rapidement refroidi, puis s'est vidé par la valve de sûreté.";
+
+translate "spirits"
+to french "Extraits";
+
+//translate "Grass" - duplicate, see visions_fre
+//to french "Herbe";
+translate "Rock"
+to french "Roche";
+translate "Wood"
+to french "Bois";
+translate "Worm"
+to french "Ver";
+translate "Grain"
+to french "Grain";
+translate "Fruit"
+to french "Fruits";
+translate "Vegetable"
+to french "Légumes";
+translate "Mineral"
+to french "Minerai";
+translate "fish"
+to french "Poisson";
+translate "grey"
+to french "Gris";
+
+translate "Clean the Alembic"
+to french "Nettoyer l'alambic";
+
+translate "Clean the Alembic - are you sure?"
+to french "Nettoyer l'alambic - Etes-vous certain ?";
+
+translate "Reverse the flow and bottle the Distillate"
+to french "Renverser l'écoulement et mettre le distillat en bouteille";
+
+translate "There is no distillate in the sink."
+to french "Il n'y a pas de distillat dans le récipient.";
+
+translate "Dump just the Distillate"
+to french "Ne jeter que le distillat";
+
+translate "Pot: N1"
+to french "Pot : N1";
+
+translate "Sink: N1"
+to french "Récipient : N1";
+
+translate "Distillation"
+to french "Distillation";
+
+translate "K1 is not one of the spirit types."
+to french "K1 n'est pas classé comme extrait.";
+
+translate "K1 is not one of the spirit quality levels."
+to french "K1 n'est pas un niveau de qualité d'extrait.";
+
+translate "Sludge of Ra"
+to french "précipité de Râ";
+
+translate "Fish Spirits of Ra"
+to french "Extraits de poisson de Râ";
+
+translate "Mineral Spirits of Ra"
+to french "Extraits minérals de Râ";
+
+translate "Vegetable Spirits of Ra"
+to french "Extraits de légumes de Râ";
+
+translate "Fruit Spirits of Ra"
+to french "Extraits de fruits de Râ";
+
+translate "Grass Spirits of Ra"
+to french "Extraits d'herbe de Râ";
+
+translate "Grain Spirits of Ra"
+to french "Extraits de grain de Râ";
+
+translate "Worm Spirits of Ra"
+to french "Extraits de vers de Râ";
+
+translate "Wood Spirits of Ra"
+to french "Extraits de bois de Râ";
+
+translate "Rock Spirits of Ra"
+to french "Extraits de pierre de Râ";
+
+translate "Sludge of Life"
+to french "précipité de la vie";
+
+translate "Fish Spirits of Life"
+to french "Extraits de poisson de la vie";
+
+translate "Mineral Spirits of Life"
+to french "Extraits minérals de la vie";
+
+translate "Vegetable Spirits of Life"
+to french "Extraits de légumes de la vie";
+
+translate "Fruit Spirits of Life"
+to french "Extraits de fruits de la vie";
+
+translate "Grass Spirits of Life"
+to french "Extraits d'herbe de la vie";
+
+translate "Grain Spirits of Life"
+to french "Extraits de grain de la vie";
+
+translate "Worm Spirits of Life"
+to french "Extraits de vers de la vie";
+
+translate "Wood Spirits of Life"
+to french "Extraits de bois de la vie";
+
+translate "Rock Spirits of Life"
+to french "Extraits de pierre de la vie";
+
+translate "Sludge of Air"
+to french "précipité de l'air";
+
+translate "Fish Spirits of Air"
+to french "Extraits de poisson de l'air";
+
+translate "Mineral Spirits of Air"
+to french "Extraits minérals de l'air";
+
+translate "Vegetable Spirits of Air"
+to french "Extraits de légumes de l'air";
+
+translate "Fruit Spirits of Air"
+to french "Extraits de fruits de l'air";
+
+translate "Grass Spirits of Air"
+to french "Extraits d'herbe de l'air";
+
+translate "Grain Spirits of Air"
+to french "Extraits de grain de l'air";
+
+translate "Worm Spirits of Air"
+to french "Extraits de vers de l'air";
+
+translate "Wood Spirits of Air"
+to french "Extraits de bois de l'air";
+
+translate "Rock Spirits of Air"
+to french "Extraits de pierre de l'air";
+
+translate "Sludge of Fire"
+to french "précipité de feu";
+
+translate "Fish Spirits of Fire"
+to french "Extraits de poisson de feu";
+
+translate "Mineral Spirits of Fire"
+to french "Extraits minérals de feu";
+
+translate "Vegetable Spirits of Fire"
+to french "Extraits de légumes de feu";
+
+translate "Fruit Spirits of Fire"
+to french "Extraits de fruits de feu";
+
+translate "Grass Spirits of Fire"
+to french "Extraits d'herbe de feu";
+
+translate "Grain Spirits of Fire"
+to french "Extraits de grain de feu";
+
+translate "Worm Spirits of Fire"
+to french "Extraits de vers de feu";
+
+translate "Wood Spirits of Fire"
+to french "Extraits de bois de feu";
+
+translate "Rock Spirits of Fire"
+to french "Extraits de pierre de feu";
+
+translate "Grey Spirits of Air"
+to french "Extraits gris de l'air";
+
+translate "Grey Spirits of Earth"
+to french "Extraits gris de la terre";
+
+translate "Grey Spirits of Fire"
+to french "Extraits gris de feu";
+
+translate "Grey Spirits of Grey"
+to french "Extraits gris de Gris";
+
+translate "Grey Spirits of Life"
+to french "Extraits gris de la vie";
+
+translate "Grey Spirits of Ra"
+to french "Extraits gris de Ra";
+
+translate "Grey Spirits of Water"
+to french "Extraits gris de l'eau";
+
+
+translate "Sludge of Water"
+to french "précipité d'eau";
+
+translate "Fish Spirits of Water"
+to french "Extraits de poisson d'eau";
+
+translate "Mineral Spirits of Water"
+to french "Extraits minérals d'eau";
+
+translate "Vegetable Spirits of Water"
+to french "Extraits de légumes d'eau";
+
+translate "Fruit Spirits of Water"
+to french "Extraits de fruits d'eau";
+
+translate "Grass Spirits of Water"
+to french "Extraits d'herbe d'eau";
+
+translate "Grain Spirits of Water"
+to french "Extraits de grain d'eau";
+
+translate "Worm Spirits of Water"
+to french "Extraits de vers d'eau";
+
+translate "Wood Spirits of Water"
+to french "Extraits de bois d'eau";
+
+translate "Rock Spirits of Water"
+to french "Extraits de pierre d'eau";
+
+translate "Sludge of Earth"
+to french "précipité de la terre";
+
+translate "Fish Spirits of Earth"
+to french "Extraits de poisson de la terre";
+
+translate "Mineral Spirits of Earth"
+to french "Extraits minérals de la terre";
+
+translate "Vegetable Spirits of Earth"
+to french "Extraits de légumes de la terre";
+
+translate "Fruit Spirits of Earth"
+to french "Extraits de fruits de la terre";
+
+translate "Grass Spirits of Earth"
+to french "Extraits d'herbe de la terre";
+
+translate "Grain Spirits of Earth"
+to french "Extraits de grain de la terre";
+
+translate "Worm Spirits of Earth"
+to french "Extraits de vers de la terre";
+
+translate "Wood Spirits of Earth"
+to french "Extraits de bois de la terre";
+
+translate "Rock Spirits of Earth"
+to french "Extraits de pierre de la terre";
+
+translate "Sludge of Grey"
+to french "précipité Gris";
+
+translate "Fish Spirits of Grey"
+to french "Extraits de poisson Gris";
+
+translate "Mineral Spirits of Grey"
+to french "Extraits minérals Gris";
+
+translate "Vegetable Spirits of Grey"
+to french "Extraits de légumes Gris";
+
+translate "Fruit Spirits of Grey"
+to french "Extraits de fruits Gris";
+
+translate "Grass Spirits of Grey"
+to french "Extraits d'herbe Gris";
+
+translate "Grain Spirits of Grey"
+to french "Extraits de grain Gris";
+
+translate "Worm Spirits of Grey"
+to french "Extraits de vers Gris";
+
+translate "Wood Spirits of Grey"
+to french "Extraits de bois Gris";
+
+translate "Rock Spirits of Grey"
+to french "Extraits de pierre Gris";
+
+translate "Allows one to carefully separate volatile compounds from liquid."
+to french "Permet de séparer délicatement les composés volatiles des liquides.";
+
+translate "Distillation Coil, 5000+ Quality"
+to french "Serpentin, Qualité 5000 et plus";
+
+translate "Distillation Coil, 4000+ Quality"
+to french "Serpentin, Qualité 4000 et plus";
+
+translate "Distillation Coil, 3000+ Quality"
+to french "Serpentin, Qualité 3000 et plus";
+
+translate "K1 Spirits of K2"
+to french "Extraits de K1 K2";
+
+translate "Read Scientists Notes on O1"
+to french "Consulter les notes des scientifiques tiré des O1(ns)";

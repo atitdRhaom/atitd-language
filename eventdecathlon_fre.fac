@@ -1,0 +1,25 @@
+Module EventDecathlon_fre;
+
+translate "Show my Egyptian Decathlon Statistics"
+to french "Afficher mes statistique pour l'Decathlon";
+
+translate "Egyptian Decathlon:"
+to french "Decathlon �gyptien :";
+
+translate "    Raw score for O1: "
+to french "    Score brut pour O1(ns) :";
+
+translate "Note: Scores are not simply added; they are each individually scaled 0 to 100, where 100 is the most anyone achieved in this contest. It's not linear though, so if the best onion farmer harvested 50, and you harvested 25, they'd get 100 points and you'd get 75."
+to french "Remarque : les scores ne sont pas simplement ajout�s ; ils vont chacun de 0 � 100, avec 100 �tant le plus haut score atteint dans ce concours. Ce n'est cependant pas lin�aire, donc si le meilleur cultivateur d'oignons en a cultiv� 50, et vous 25, il obtient 100 points, et vous 75.";
+
+translate "Show my previous Egyptian Decathlon Score"
+to french "Afficher mon score dans le pr�c�dent Decathlon";
+
+translate "    Final score for O1: N1 (raw score: N2.)"
+to french "    Score final pour O1(ns) : N1 (score brut : N2)";
+
+translate "Participated in N1 events."
+to french "A particip� � N1 concours.";
+
+translate "Final Score: N1."
+to french "Score final : N1";

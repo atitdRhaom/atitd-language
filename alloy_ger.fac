@@ -1,0 +1,277 @@
+module alloy_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**            German Version: Astrid "Infinyti" Werner                   **
+//**                            2012                                       **
+//**                                                                       **
+//***************************************************************************
+
+translate Brass to german Neutercollective
+{
+  swa "Messing";
+  sn "Messing"; sg "Messings"; sd "Messing"; sa "Messing";
+  pn "Messing"; pg "Messing"; pd "Messing"; pa "Messing";
+}
+
+translate Bronze to german femininecollective
+{
+  swa "Bronze";
+  sn "Bronze"; sg "Bronze"; sd "Bronze"; sa "Bronze";
+  pn "Bronze"; pg "Bronze"; pd "Bronze"; pa "Bronze";
+}
+
+translate Steel to german masculinecollective
+{
+  swa "Stahl";
+  sn "Stahl"; sg "Stahls"; sd "Stahl"; sa "Stahl";
+  pn "Stahl"; pg "Stahl"; pd "Stahl"; pa "Stahl";
+}
+
+translate MetalBlue to german Neutercollective
+{
+  swa "Blaumetall";
+  sn "Blaumetall"; sg "Blaumetalls"; sd "Blaumetall"; sa "Blaumetall";
+  pn "Blaumetalle"; pg "Blaumetalle"; pd "Blaumetallen"; pa "Blaumetalle";
+}
+
+translate WaterMetal to german Neutercollective
+{
+  swa "Wassermetall";
+  sn "Wassermetall"; sg "Wassermetalls"; sd "Wassermetall"; sa "Wassermetall";
+  pn "Wassermetall"; pg "Wassermetall"; pd "Wassermetall"; pa "Wassermetall";
+}
+
+translate Pewter to german Neutercollective
+{
+  swa "Hartzinn";
+  sn "Hartzinn"; sg "Hartzinns"; sd "Hartzinn"; sa "Hartzinn";
+  pn "Hartzinn"; pg "Hartzinn"; pd "Hartzinn"; pa "Hartzinn";
+}
+
+translate SunSteel to german Neutercollective
+{
+  swa "Sonnenmetall";
+  sn "Sonnenmetall"; sg "Sonnenmetalls"; sd "Sonnenmetall"; sa "Sonnenmetall";
+  pn "Sonnenmetalle"; pg "Sonnenmetalle"; pd "Sonnenmetallen"; pa "Sonnenmetalle";
+}
+
+translate MoonSteel to german masculine
+{
+  swa "Mondstahl";
+  sn "Mondstahl"; sg "Mondstahls"; sd "Mondstahl"; sa "Mondstahl";
+  pn "Mondstahl"; pg "Mondstahl"; pd "Mondstahl"; pa "Mondstahl";
+}
+
+translate ThothsMetal to german Neutercollective
+{
+  swa "Thoths Metall";
+  sn "Thoths Metall"; sg "Thoths Metalls"; sd "Thoths Metall"; sa "Thoths Metall";
+  pn "Thoths Metalle"; pg "Thoths Metalle"; pd "Thoths Metallen"; pa "Thoths Metall";
+}
+
+translate OctecsAlloy to german feminine
+{
+  swa "Octecs Legierung";
+  sn "Octecs Legierung"; sg "Octecs Legierung"; sd "Octecs Legierung"; sa "Octecs Legierung";
+  pn "Octecs Legierungen"; pg "Octecs Legierungen"; pd "Octecs Legierungen"; pa "Octecs Legierungen";
+}
+
+translate Reactory to german masculine
+{
+  swa "Reaktor";
+  sn "Reaktor"; sg "Reaktors"; sd "Reaktor"; sa "Reaktor";
+  pn "Reaktoren"; pg "Reaktoren"; pd "Reaktoren"; pa "Reaktoren";
+}
+
+translate PrimingResidue to german masculine
+{
+  swa "Schlackerückstand";
+  sn "Schlackerückstand"; sg "Schlackerückstandes"; sd "Schlackerückstand"; sa "Schlackerückstand";
+  pn "Schlackerückstände"; pg "Schlackerückstände"; pd "Schlackerückstände"; pa "Schlackerückstände";
+}
+
+translate "The reactory has already crystalized."
+  to german "Der Reaktor hat bereits kristallisiert.";
+
+translate "The reactory is cold."
+  to german "Der Reaktor ist kalt.";
+
+translate "The reactory is still heating up."
+  to german "Der Reaktor wurde bereits angefahren.";
+
+translate "The alloy crystalized with a strength of N1%"
+  to german "Die Legierung kristallisiert mit einem Härtegrad von N1%";
+
+translate "Perfect Crystalization of O1 in a Reactory."
+  to german "Eine perfekte Kristallisierung von O1(sd) in einem Reaktor.";
+
+translate "Are you sure you want to abandon the upgrade? You will lose all materials donated so far."
+  to german "Bist du sicher, dass du das Upgrade abbrechen willst? Du wirst alle bislang eingelagerten Materialien verlieren.";
+
+translate "Add 2x hopper"
+  to german "2x Trichter hinzufügen";
+
+translate "Adding a x2 production hopper"
+  to german "Hinzufügen eines 2-fachen Produktionstrichters";
+
+translate "Add 4x hopper"
+  to german "4x Trichter hinzufügen";
+
+translate "Titanium Metal Sheeting: Hard Stainless"
+  to german "Titanblech: hart rostfrei";
+
+translate "Adding a 4x production hopper"
+  to german "Hinzufügen eines 4-fachen Produktionstrichters";
+
+translate "Sun Steel Metal Sheeting: Hard Stainless Insulative"
+  to german "Sonnenstahlblech: hart, rostfrei, isolierend ";
+
+translate "Adding a 7x production hopper"
+  to german "Hinzufügen eines 7-fachen Produktionstrichters";
+
+translate "/Normal Batch"
+  to german "/normale Charge";
+
+translate "/2x Batch"
+  to german "/2-fache Charge";
+
+translate "/4x Batch"
+  to german "/4-fache Charge";
+
+translate "/7x Batch"
+  to german "/7-fache Charge";
+
+translate "Make an Alloy/"
+  to german "Legierung herstellen/";
+
+translate "To make a batch of O1 you need:"
+  to german "Um eine Charge O1(sd) herzustellen, benötigst du:";
+
+translate "The reactory is heating."
+  to german "Der Reaktor heizt auf.";
+
+translate "Abandon the Batch"
+  to german "Charge abbrechen";
+
+translate "You will lose all materials in the Reactory. Proceed?"
+  to german "Du wirst sämtliche Materialien aus dem Reaktor verlieren. Fortfahren?";
+
+translate "Reheat the Reactory"
+  to german "Heize den Reaktor nochmal an";
+
+translate "O1 is a complex alloy that contains unstable crystals. Batches can not be reheated. You can abandon the batch from the Utility menu."
+  to german "O1(sn) ist eine schwierige Legierung, die labile Kristalle beinhaltet. Chargen können nicht erneut erhitzt werden. Du kannst die Charge im Menü 'Nützliches' abbrechen.";
+
+translate "To reheat this alloy, you need:"
+  to german "Um diese Legierung erneut zu erhitzen, benötigst du:";
+
+translate "Reactory: Threshold is less than 1 - call a Developer."
+  to german "Reaktor: Schwelle ist kleiner als 1 - rufe einen Entwickler.";
+
+translate "Reactory: Threshold is too high - call a Developer."
+  to german "Reaktor: Schwelle ist zu hoch - rufe einen Entwickler.";
+
+translate "Reactory: No Potential Crystals - call a Developer."
+  to german "Reaktor: Keine möglichen Kristalle - rufe einen Entwickler.";
+
+translate "Reactory: No chance to produce any final product - Call a Developer."
+  to german "Reaktor: Unmöglich, ein Endprodukt herzustellen - rufe einen Entwickler.";
+
+translate "Reactory: Possible to produce more than 100 percent - Call a Developer."
+  to german "Reaktor: Möglich, mehr als 100% herzustellen - rufe einen Entwickler.";
+
+translate "The Reactory is heating, K1 remain"
+  to german "Der Reaktor heizt, K1 verbleiben";
+
+translate "The O1 Crystalized with strength N1%, giving N2 O2"
+  to german "O1(^tsn) O1(sn) kristallisierte mit einem Härtegrad von N1%, ergibt N2 O2(N2?pn:sn)";
+
+
+translate "No O1 formed. You'll need a tighter crystallization."
+  to german "Kein O1(sa) gebildet. Du brauchst eine festere Kristallisation.";
+
+translate "Furnaces"
+  to german "Schmelzöfen";
+
+translate "Reactory"
+  to german "Reaktor";
+
+translate "To build a Reactory, you need: "
+  to german "Um einen Reaktor zu bauen, benötigst du: ";
+
+
+
+
+
+
+////////////////////////////////////////////////////////////////////////
+--Verschobene Dinge, noch zu bearbeiten! (20120118))
+
+
+translate "You can't take any O1 from the O2 while it is working."
+to german "Du kannst während der Arbeit O1(ksn) O1(sn) aus O2(tsd) O2(sd) nehmen."; 
+
+translate "You can't take any O1 from the O2 while it is warming up." 
+to german "Du kannst während des Anheizens O1(ksn) O1(sn) aus O2(tsd) O2(sd) nehmen."; 
+
+translate "Load how much O1? (Max N1)"
+to german "Wieviel O1(sn) laden? (Max N1)";
+
+translate "Fuel the O1 with O2"
+to german "Fülle O1(tsa) O1(sa) mit O2(sd)";
+
+translate "This O1 requires N1 O2 to fuel."
+to german "O1(^tsn) O1(sn) benötigt N1 O2(N1?pn:sn) als Brennstoff.";
+
+translate "Force Reactory to working"
+to german "Erzwinge Reaktorarbeit";
+
+translate "Fire the Reactory"
+to german "Befeuere den Reaktor";
+
+translate "Fire the Reactory using Priming Residue"
+to german "Befeuere Reaktor mit Schlackerückständen";
+
+translate "Fire the Reactory using Debug Residue"
+to german "Befeuere Reaktor mit Test Schlackerückständen";
+
+translate "You should place samples of at least two different metals in the reactory."
+to german "Du solltest Proben von mindestens 2 verschiedenen Metallen in den Reaktor füllen.";
+
+translate "You'll need N1 O1 to fire the Reactory."
+to german "Du benötigst N1 O1(N1?pn:sn), um den Reaktor zu befeuern.";
+
+translate "O1 has been working for K1"
+to german "O1(sn) arbeitet seit K1";
+
+translate "Dope the Mixture using Towering Palm Resin"
+to german "Strecke die Mischung mit Harz der Gewaltigen Palme";
+
+translate "You need 7 drops of Towering Palm Resin to dope the mixture."
+to german "Du benötigst 7 Tropfen Harz der Gewaltigen Palme um die Mischung zu strecken.";
+
+translate "Force open the Chamber"
+to german "Erzwinge Kammeröffnung";
+
+translate "Open the Chamber"
+to german "Öffne die Kammer";
+
+translate "Doping: "
+to german "Strecken: ";
+
+translate "Qty: "
+to german "Anz.:";
+
+translate "Penalty: "
+to german "Strafe: ";
+
+translate "A successful reaction! You produced N1 O1."
+to german "Eine erfolgreiche Reaktion! Du hast N1 O1(N1?pn:sn) hergestellt.";
+
+translate "An unsuccessful experiment. Only Clinker was produced, though the clinker does seem to contain specks of some unknown material."
+to german "Ein mißlungenes Experiment. Es wurde nur Klinker produziert, auch wenn es scheint, dass er Teile eines unbekannten Materials enthält.";
+
+translate "An unsuccessful experiment. Only Clinker was produced."
+to german "Ein misslungenes Experiment. Es wurde nur Klinker produziert.";

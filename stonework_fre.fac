@@ -1,0 +1,471 @@
+Module stonework_fre;
+
+
+translate Shovel to french feminine
+{
+  ns "Pelle"; np "Pelles";
+}
+translate StoneChips to french masculine
+{ns "Eclat de pierre"; np "Eclats de pierre";}
+
+translate marblemortar to french masculine
+{
+  ns "Mortier à marbre"; np "Mortiers à marbre";
+}
+translate MarbleDust to french feminine
+{
+  ns "Poussière de marbre"; np "Poussières de marbre";
+}
+
+translate WhiteAlabasterDust to french feminine
+{  ns "Poussière d'Albâtre blanc"; np "Poussières d'Albâtre blanc";}
+translate JadeDust to french feminine
+{  ns "Poussière de Jade"; np "Poussières de Jade";}
+translate YellowAlabasterDust to french feminine
+{  ns "Poussière d'Albâtre jaune"; np "Poussières d'Albâtre jaune";}
+translate RoseAlabasterDust to french feminine
+{  ns "Poussière d'Albâtre Rose"; np "Poussières d'Albâtre rose";}
+ translate CherryTravertineDust to french feminine
+{  ns "Poussière de Travertin cerise"; np "Poussières de Travertin cerise";}
+ translate WhiteTravertineDust to french feminine
+{  ns "Poussière de Travertin blanc"; np "Poussières de Travertin blanc";}
+ translate CanaryGraniteDust to french feminine
+{  ns "Poussière de granite Canarie"; np "Poussières de granite Canarie";}
+ translate HornetsWingGraniteDust to french feminine
+{  ns "Poussière de granite Aile-de-Frelon"; np "Poussières de granite Aile-de-Frelon";}
+ translate MudGraniteDust to french feminine
+{  ns "Poussière de granite Boueux"; np "Poussières de granite Boueux";}
+ translate NightGraniteDust to french feminine
+{  ns "Poussière de granite Nuit"; np "Poussières de granite Nuit";}
+ translate TigersEyeGraniteDust to french feminine
+{  ns "Poussière de granite Oeil-du-Tigre"; np "Poussières de granite Oeil-du-Tigre";}
+ translate BluePearlMarbleDust to french feminine
+{  ns "Poussière de marbre Perle Bleue"; np "Poussières de marbre Perle Bleue";}
+ translate GreenSunMarbleDust to french feminine
+{  ns "Poussière de marbre Soleil Vert"; np "Poussières de marbre Soleil Vert";}
+ translate BlueMoonMarbleDust to french feminine
+{  ns "Poussière de marbre Lune Bleue"; np "Poussières de marbre Lune Bleue";}
+ translate MonkeyMarbleDust to french feminine
+{  ns "Poussière de marbre Singe"; np "Poussières de marbre Singe";}
+ translate SerpentineMarbleDust to french feminine
+{  ns "Poussière de marbre Serpentin"; np "Poussières de marbre Serpentin";}
+ translate GreyStarMarbleDust to french feminine
+{  ns "Poussière de marbre Etoile grise"; np "Poussières de marbre Etoile grise";}
+ translate LeopardsPawMarbleDust to french feminine
+{  ns "Poussière de marbre Patte de Léopard"; np "Poussières de marbre Patte de Léopard";}
+ translate IslandBlueMarbleDust to french feminine
+{  ns "Poussière de marbre Ile Bleue"; np "Poussières de marbre Ile Bleue";}
+ translate MountainMarbleDust to french feminine
+{  ns "Poussière de marbre des Montagnes"; np "Poussières de marbre des Montagnes";}
+ translate TangerineMarbleDust to french feminine
+{  ns "Poussière de marbre Clémentine"; np "Poussières de marbre Clémentine";}
+ translate FireRockDust to french feminine
+{  ns "Poussière de marbre Rocs Flamboyants"; np "Poussières de marbre Rocs Flamboyants";}
+ translate BloodGraniteDust to french feminine
+{  ns "Poussière de granite Sanglant"; np "Poussières de granite Sanglant";}
+ translate GhostGraniteDust to french feminine
+{  ns "Poussière de granite Fantôme"; np "Poussières de granite Fantôme";}
+ translate OnyxDust to french feminine
+{  ns "Poussière d'Onyx"; np "Poussières d'Onyx";}
+ translate AngelsStoneDust to french feminine
+{  ns "Poussière de Pierre des Anges"; np "Poussières de Pierre des Anges";}
+ translate PuzzleGraniteDust to french feminine
+{  ns "Poussière de granite Enigmatique"; np "Poussières de granite Enigmatique";}
+
+translate SmallStoneBlock to french masculine
+{ ns "Petit block de pierre"; np "Petits blocks de pierre";}
+
+translate Masonsbench to french feminine
+{
+  ns "Planche de maçon"; np "Planches de maçon";
+}
+translate Flystone to french feminine
+{
+  ns "Meule de pierre"; np "Meules de pierre";
+}
+translate Crucibles to french masculine
+{
+  ns "Creuset"; np "Creusets";
+}
+translate Flint to french masculine
+{
+  ns "Silex"; np "Silex";
+}
+translate Rocksaw to french feminine
+{
+  ns "Scie à pierre"; np "Scies à pierre";
+}
+translate Nailmould to french masculine
+{
+  ns "Moule à clous"; np "Moules à clous";
+}
+
+translate Cuttablestone to french feminine
+{
+  ns "Pierre exploitable"; np "Pierres exploitables";
+}
+
+translate CutStone to french feminine
+{
+  ns "Pierre taillée"; np "Pierres taillées";
+}
+
+translate HoleInGround to french masculine
+{
+  ns "Trou dans le sol"; np "Trous dans le sol";
+}
+translate AncientCoin to french feminine
+{
+  ns "Monnaie ancienne"; np "Monnaies anciennes";
+}
+translate Gypsum to french masculine
+{
+  ns "Gypse"; np "Gypses";
+}
+translate Bauxite to french feminine
+{
+  ns "Bauxite"; np "Bauxites";
+}
+translate Pulley to french feminine
+{
+  ns "Poulie"; np "Poulies";
+}
+
+
+translate "Upgrade this Mason's Bench to allow Marble cutting"
+to french "Améliorez cette planche de maçon pour permettre de couper du marbre";
+
+translate "This upgrade requires 500 Powdered Diamond to complete."
+to french "Cette amélioration nécessite 500 poudre de diamants";
+ 
+translate "Stonework"
+to french "Travail de la pierre";
+
+translate "Rock Saw"
+to french "Scie à pierre";
+
+translate "Mason's Bench"
+to french "Planche de maçon";
+
+translate "Make a Cut Stone"
+to french "Préparer une pierre taillée";
+
+translate "You don't have a cuttable stone."
+to french "Vous n'avez pas de pierre exploitable.";
+
+translate "Dig a Hole"
+to french "Creuser un trou";
+
+translate "You cannot dig holes too close together."
+to french "Vous ne pouvez pas creuser trop près d'un autre trou.";
+
+translate "To dig a hole, you need: "
+to french "Pour creuser un trou, il vous faut : ";
+
+translate "Dig as a Programmer"
+to french "Creuser en tant que programmeur";
+
+translate "Dig Deeper"
+to french "Plus profond";
+
+translate "Digging..."
+to french "Vous creusez...";
+
+translate "To build a Rock Saw, you need: "
+to french "Pour fabriquer une scie à pierres, il vous faut : ";
+
+translate "Cut a medium stone into a pair of flystones"
+to french "Tailler une pierre moyenne en deux meules de pierre";
+
+translate "You don't have a medium stone."
+to french "Vous n'avez pas de pierre moyenne.";
+
+translate "Remove the flystones"
+to french "Retirez les meules de pierre";
+
+translate "To build a Mason's Bench, you need: "
+to french "Pour construire une planche de maçon, il vous faut :: ";
+translate "N1 O1"
+to french "N1 O1(N1?np:ns)";
+
+translate "Cut a medium stone into a crucible"
+to french "Tailler une pierre moyenne en creuset";
+
+translate "You don't have a medium stone!"
+to french "Vous n'avez pas de pierre moyenne.";
+
+translate "Cutting a crucible takes about ten minutes."
+to french "La taille d'un creuset prend environ 10 minutes.";
+
+translate "Cut a medium stone into a nail mould"
+to french "Tailler une pierre moyenne en moule à clous";
+
+translate "Cut a Medium Stone into a O1"
+to french "Tailler une pierre moyenne en O1(ns)";
+ 
+translate "Cutting a Small Stone Block takes about twelve minutes."
+to french "La coupe d'un petit bloc de pierre prend environ 12 minutes.";
+
+translate "Your small stone block is ready."
+to french "Votre petit bloc de pierre est prêt.";
+
+translate "Your crucible is ready."
+to french "Votre creuset est prêt";
+
+translate "Cutting a nail mould takes about seven minutes."
+to french "Tailler un moule à clous prend environ sept minutes.";
+
+translate "Bless for special prizes"
+to french "Méditer pour des prix spéciaux";
+
+translate "Your shovel broke."
+to french "Votre pelle s'est brisée.";
+
+translate "You need a shovel to dig."
+to french "Vous avez besoin d'une pelle pour creuser.";
+
+translate "Cut a Pulley from a Cuttable Stone"
+to french "Tailler une poulie à partir d'une pierre exploitable";
+
+translate "Cutting a Cut Stone takes about three minutes."
+to french "Faire une pierre taillée prend environ trois minutes.";
+
+translate "You just unearthed a cuttable stone. These can be cut on rock saws, and used to build a Pathmaker."
+to french "Vous venez d'extraire une pierre exploitable. Ces pierres peuvent être taillées sur une scie à pierre, et servent entre autres à construire un Traceur de Canaux";
+
+translate "Stones take about 3 minutes to cut. You can work on other things while the rocksaw works."
+to french "Les pierres se taillent en 3 minutes. Vous pouvez vaquer à d'autres occupations pendant que la Scie à pierre fonctionne.";
+
+translate "Cutting a Pulley takes about ten minutes."
+to french "Tailler une poulie prend environ dix minutes.";
+
+translate "Cutting a pair of Flystones takes about five minutes."
+to french "Tailler une paire de meules de pierre nécessite environ cinq minutes.";
+
+translate "Cut White Alabaster Marble into a Marble Mortar"
+to french "Tailler un mortier à marbre à partir d'un morceau d'Albâtre blanc";
+
+translate "You don't have White Alabaster Marble!"
+to french "Vous n'avez pas d'Albâtre blanc!";
+
+translate "Grind Oyster Shell Marble into Marble Dust"
+to french "Broyer du marbre Coquille d'Huître en poussière de marbre";
+
+
+translate "You don't have Oyster Shell Marble!"
+to french "Vous n'avez pas de marbre Coquille d'Huître!";
+
+translate "This O1 is making a Crucible"
+to french "O1(^cns) O1(ns) taille un Creuset";
+
+translate "This O1 is making a pair of Flystones"
+to french "O1(^cns) O1(ns) taille une paire de meules de pierre";
+
+translate "This O1 is making a Pulley"
+to french "O1(^cns) O1(ns) taille une poulie";
+
+translate "This O1 is making a Cut Stone"
+to french "O1(^cns) O1(ns) taille pierre coupée";
+
+translate "Your flystones are ready."
+to french "Vos meules de pierre sont prêtes";
+
+translate "Your pulley is ready."
+to french "Votre poulie est prête";
+
+translate "Your cut stone is ready."
+to french "Votre pierre coupée est prête";
+
+
+translate masonry to french feminine
+{
+	ns "Maçonnerie"; np "Maçonnerie";
+	}
+	
+translate bauxite to french feminine
+{
+	ns "Bauxite"; np "Bauxites";
+	}
+
+translate gypsum to french masculine
+{
+	ns "Gypse"; np "Gypses";
+	}
+
+translate clinker to french masculine
+{
+	ns "Mâchefer"; np "Mâchefers";
+	}
+
+translate cement to french masculine
+{
+	ns "Ciment"; np "Ciments";
+	}
+	
+translate concrete to french masculine
+{
+	ns "Béton"; np "Bétons";
+	}
+	
+translate clinkervat to french feminine
+{
+	ns "Cuve à mâchefer"; np "Cuves à mâchefer";
+	}
+
+translate "Titanium Sheeting: Hard Stainless"
+to french "Revêtement en titane: Dur inoxydable";
+translate "Sun Steel Sheeting: Hard Stainless Insulative"
+to french "Revêtement en acier solaire: Dur, inoxydable, Isolant";
+
+translate "Invention of Cement and Concrete, and other structural elements"
+to french "Invention du ciment et du béton ainsi que d'autres éléments de structure";
+
+translate "Upgraded Reactories, that can hold double, quadruple and sevenfold batch sizes."
+to french "Réacteurs amélioriés qui peuvent contenir des capacités doubles, quadruples et 7x.";
+
+translate "Masonry"
+to french "Maçonnerie";
+
+translate "With your new skill, you will be able to extract Clinker as a byproduct of all smelting."
+to french "Grâce à cette nouvelle technique, vous pourrez extraire du mâchefer comme produit secondaire de la fonte.";
+
+translate "Upgrades to Distaffs, Flax Gins, and Brick Machines."
+to french "Amélioration pour les rouets, égreneuses à lins et machines à briques";
+
+translate "Read about Bauxite and Gypsum"
+to french "Renseignez-vous au sujet de la beauxite et du gypse.";
+
+translate "Our scientists suspect that Bauxite and Gypsum are common just under the surface in certain regions of Egypt, and totally absent in other parts. Depth of deposits should be comparable to that of cuttable stones."
+to french "Nos scientifiques pensent que la bauxite et le gypse se trouvent couramment sous la surface dans certaines régions d'égypte, mais pas du tout dans d'autres régions. La profondeur des gisements serait comparable à celle des pierres qu'il est possible de tailler.";
+
+translate "Build a Heavy Clinker Vat"
+to french "Construire une grande cuve à mâchefer";
+
+translate "Build a Clinker Vat"
+to french "Construire une cuve à mâchefer";
+
+translate "Charcoal-Fired"
+to french "Au charbon de bois";
+
+translate "Coal-Fired"
+to french "Au charbon";
+
+translate "Petroleum-Fired"
+to french "Au pétrole";
+
+translate "To build a Clinker Vat, you need: "
+to french "Pour construire une cuve à mâchefer, il vous faut :";
+
+translate "To build a Clinker Vat (O1), you need: "
+to french "Pour construire une cuve à mâchefer (O1(ns)), il vous faut :";
+
+translate "Fixed Clinker Vat "
+to french "Cuve à mâchefer réparée";
+
+translate "Load the vat with O1"
+to french "Remplir la cuve de O1(np)";
+
+translate "Load how much O1? (Max N1)"
+to french "Quelle quantité de O1(np) ? (Max N1)";
+
+translate "Fuel level is N1"
+to french "Niveau de combustible : N1";
+
+translate "The fuel receptacle is full."
+to french "Le réservoir à combustible est plein";
+
+translate "The vat already has the maximum amount of fuel."
+to french "La cuve est pleine de combustible à ras bord.";
+
+translate "How much fuel? (max N1)"
+to french "Quelle quantité de combustible ? (Max N1)";
+
+translate "You don't have N1 O1."
+to french "Vous n'avez pas N1 O1(N1?np:ns).";
+
+translate "Pour water into the vat"
+to french "Verser de l'eau dans la cuve";
+
+translate "The vat already has the maximum amount of water."
+to french "La cuve est déjà pleine d'eau.";
+
+translate "How much water?"
+to french "Quelle quantité d'eau ?";
+
+translate "You don't have N1 water."
+to french "Vous n'avez pas N1 mesures d'eau.";
+
+translate "Load the vat with O1"
+to french "Remplir la cuve de O1(np)";
+
+translate "Break apart the hardened mass with a sledgehammer"
+to french "Briser le produit durci avec une masse";
+
+translate "You don't have a sledgehammer."
+to french "Vous n'avez pas de masse.";
+
+translate "Breaking up a hardened mass from a clinker vat is exhausting work, and with your endurance will tire you for K1. Proceed?"
+to french "Briser une masse dure prise dans la cuve est un travail exténuant, et votre endurance baissera de K1. Voulez-vous continuer ?";
+
+translate "It must be stirred within K1"
+to french "Il faut remuer dans les K1";
+
+translate "Stir the cement"
+to french "Remuer le ciment";
+
+translate "You stir the cement to prevent it from hardening into the vat. The Cement is N1% complete"
+to french "Vous remusez le ciment pour éviter sa solidification dans la cuve. Le ciment est achevé à N1%";
+
+translate "Make a batch of Cement"
+to french "Faire une fournée de ciment";
+
+translate "Remove all the cement before starting a new batch."
+to french "Retirez le ciment avant de lancer une nouvelle fournée.";
+
+translate "To start a batch of cement, load the vat with:"
+to french "Pour commencer une fournée de ciment, remplissez la cuve de :";
+
+translate "The vat must contain 500 water to start."
+to french "Pour commencer, la cuve doit contenir 500 mesures d'eau.";
+
+translate "You must load the vat with N1 O1 to begin."
+to french "Vous devez remplir la cuve avec N1 O1(N1?np:ns) pour commencer.";
+
+translate "You will have to stir the huge every N1 minutes over the next hour. At first, you must stir once, but as time goes on you must stir more vigorously, requiring multiple people."
+to french "Vous devez remuer le mélange toutes les N1 minutes au cours de la prochaine heure. Tout d'abord vous devez remuer une seule fois, puis de plus en plus vigoureusement, ce qui demande plusieurs personnes.";
+
+translate "The last batch hardened in the vat! You must break it apart with a sledgehammer to make a new batch."
+to french "La dernière fournée a durci dans la cuve ! Vous devez la briser avec une masse pour pouvoir utiliser la cuve à nouveau.";
+
+translate "Make a batch of Concrete"
+to french "Faire une fournée de béton";
+
+translate "To make a batch of concrete requires:"
+to french "Pour faire une fournée de béton il vous faut :";
+
+translate "The water level must be at least 100"
+to french "Le niveau d'eau doit être d'au moins 100";
+
+translate "[Extra]Fuel level is N1"
+to french "[Extra]Niveau de combustible : N1";
+
+translate "Load the vat with O1(ns)"
+to french "Mettre O1(dns) O1(ns) dans la cuve";
+
+translate "[Extra]It must be stirred within N1"
+to french "[Extra]Doit être remué avant N1";
+
+translate "You don't have that."
+to french "Vous ne possédez pas cela.";
+
+translate "The batch of cement you started has hardened in the vat! You'll have to break it apart with a sledgehammer."
+to french "Le ciment a durci dans la cuve ! Vous devez le briser avec une masse.";
+
+translate "To prevent hardening, stir N1 times in the next K2"
+to french "Pour empêcher la masse de durcir, remuez-la N1 fois au cours des prochaines K2";
+
+translate "It needs no stirring for K1"
+to french "Il n'est plus nécessaire de remuer pendant K1.";
+
+
+

@@ -1,0 +1,1076 @@
+Module Towers;
+
+default World.DebugTowers=0;
+
+--
+-- In a many block, a pair <<a,b>> is used to indicate:
+--   a - If the block contains a tower, this should be zero. Otherwise, it should be the closest distance of any tower
+--       owning some of the land within. It's used to know when to own an entire multiple block.
+--   b - Used for extinguishing, but only when the invading tower is outside the block. It's the furthest distance that
+--       causes ownership within the block.
+--
+
+Building VTower<"Generic Tower"> guard OnFoot;
+Building VTowerMonument<"Tower Monument"> guard OnFoot;
+VTower TowerSolidLand<"Solid Land Tower">;
+VTower TowerRichSoil<"Rich Soil Tower">;
+VTower TowerNewLife<"New Life Tower">;
+VTower TowerHandOfMan<"Hand of Man Tower">;
+VTower TowerRacingMind<"Racing Mind Tower">;
+VTower TowerLivingLand<"Living Land Tower">;
+VTower TowerNight<"Night Tower">;
+default VTower.IBuildRadius=0;
+default World.ToTTypes=<<TowerSolidLand>>;
+
+default World.ToTLookup[TowerSolidLand] = 0;
+default World.ToTLookup[TowerRichSoil]	= 1;
+default World.ToTLookup[TowerNewLife]	= 2;
+default World.ToTLookup[TowerHandOfMan]	= 3;
+default World.ToTLookup[TowerRacingMind]= 4;
+default World.ToTLookup[TowerLivingLand]= 5;
+default World.ToTLookup[TowerNight]	= 6;
+
+default World.ToTRLookup[0] = TowerSolidLand;
+default World.ToTRLookup[1] = TowerRichSoil;
+default World.ToTRLookup[2] = TowerNewLife;
+default World.ToTRLookup[3] = TowerHandOfMan;
+default World.ToTRLookup[4] = TowerRacingMind;
+default World.ToTRLookup[5] = TowerLivingLand;
+default World.ToTRLookup[6] = TowerNight;
+
+default World.ToTQuant=512;
+default World.ToTPeriod=1200;
+default World.ToTWait0=43200;
+default World.ToTWait1=129600;
+default World.ToTTopN=14;
+
+secret AuditPos of VTower {
+	print("VTower ",Place," at ",BetterDiv(xPos(Place)+World.ToTQuant/2,World.ToTQuant)," ",betterdiv(yPos(Place)+World.ToTQUant/2,World.ToTQuant));
+}
+
+subroutine disthp(x0,y0,x1,y1) of Entity {
+	return(dist(x0*1000,y0*1000,x1*1000,y1*1000));
+}
+
+Test Towers<"Test of Towers">;
+default UArchitecture.Knows[Towers] = 1;  // 0 - Not Active, 1 - Exists.
+default TeachingFacility.DemonstrateItems[Towers] = << 10,Bricks,0,0,
+                                                    10,CutStone,0,0,
+                                                     1,ClayLamp,0,0,
+                                                    10,MediumQuartz,0,0,
+                                                   100,Onions,0,0,
+                                                   100,Carrots,0,0,
+                                                   100,Cabbage,0,0,
+                                                   100,Leeks,0,0,
+                                                   100,Garlic,0,0,
+                                                   100,Saltpeter,0,0,
+                                                    10,MediumTopaz,0,0 >>;
+
+subroutine StartTest of Towers {
+	NotifyBBig(String("The Hour of Towers occurs about once per three (Egypt) days. The schedule for the next seven Hours of Towers is shown on the calendar. "
+          "When the hour arrives, build any number of Towers across the land. You control all land that is closest "
+          "to one of your towers. Control an amount of land equal to all of Egypt for each Tower Type to Pass - Test of Towers.\n\n"
+          "Hint: Since you only have ",TimeString(World.ToTPeriod)," to place your towers, contract with others "
+          "to build for you. Be sure they transfer ownership before the end of the Hour of Towers."));
+}
+
+default World.MissionText[Towers] = "The Hour of Towers occurs about once per three (Egypt) days. The schedule for the next seven Hours of Towers is shown on the calendar. \nWhen the hour arrives, build any number of Towers across the land. You control all land that is closest to one of your towers. Control an amount of land equal to all of Egypt for each Tower Type to Pass - Test of Towers.";
+default World.Mission[Towers]= <<   "@Control 100% of Egypt with Solid Land Towers",
+				    "@Control 100% of Egypt with Rich Soil Towers",
+				    "@Control 100% of Egypt with New Life Towers",
+				    "@Control 100% of Egypt with Hand of Man Towers",
+				    "@Control 100% of Egypt with Racing Mind Towers",
+				    "@Control 100% of Egypt with Living Land Towers",
+				    "@Control 100% of Egypt with Night Towers",
+				    >>;
+
+subroutine MissionDone of Towers {
+	if (!Place.Passed[Architecture,Towers]) {
+		Advance(Architecture,Towers);
+	}
+}
+
+subroutine GetDone(index) of Towers {
+	var PTot = (World.X1-World.X0)/World.ToTQuant*(World.Y1-World.Y0)/World.ToTQuant;
+	var pct = MulDiv(10000,Place.p_ToTScore[World.ToTRLookup[index]],PToT);
+	if (pct < 10000) {
+		return(FormatFixed2(pct));
+	} else {
+		return("Done");
+	}
+}
+
+subroutine Initialize of TowerController {
+	ControlPanel->Initialize();
+	if (World.The[getType(Place)]!=Place) return();
+	Place.ToTTypes=World.ToTTypes;
+	Wait(5);
+	Start(Place->Daemon());
+}
+
+subroutine AddSpecialTower(st) of Player {
+	st=GetObject(st);
+	if (!IsA(st,VTower)) fail("Not a VTower");
+	if (!contains(Place.p_TowerTypesBuilt,st)) Place.p_TowerTypesBuilt=append(Place.p_TowerTypesBuilt,st);
+}
+
+default Player.p_TowerTypesBuilt=<<>>;
+subroutine Initialize of VTower {
+	DoNotPredict();
+	if (!contains(Actor.p_TowerTypesBuilt, getType(Place))) {
+		Actor.p_TowerTypesBuilt=append(Actor.p_TowerTypesBuilt, getType(Place));
+	}
+	Place.OriginalType=GetType(Place);
+	Place.BuildMaterials=<<Bricks,0,0>>;
+	print("Initialized tower ",World.ToTRunning," ",World.ToTKind," ",GetType(Place)," ",World.The[TowerController]);
+	if (World.ToTRunning>0) if (World.ToTKind==getType(Place)) Start(World.The[TowerController]->AddTower(Place,xPos(Place),yPos(Place)));
+}
+
+Plan of Player {
+	[menu] if (Actor.DoingTest[Towers]) if (World.ToTRunning>0) Item("Tests/",Architecture,"/",towers,"/Status Report");
+	[action]
+		NotifyQ("It is now the Hour of ",World.ToTKind,".\nTime left is: \k",TimeStringExt(World.ToTRunning+World.ToTPeriod-Time()),".");
+}
+
+Plan of TowerController {
+	[menu]
+		Item("Status Report");
+	[action]
+		DoNotPredict();
+		var str="Report:\n";
+		var PTot=(World.X1-World.X0)/World.ToTQuant*(World.Y1-World.Y0)/World.ToTQuant;
+		for x,y in (Place.s_Score[x]=y) if (IsA(x,VTower)) {
+			var pct=MulDiv(y,10000,PTot);
+			str = String(str,"    Tower \k",FormatFloat(pct),"\k at ",nth(Place.s_TowerLoc[x],0)," ",nth(Place.s_TowerLoc[x],1),"\n");
+			Place.s_OwnerPoints[x.Owner]+=y;
+		}
+		str = String(str,"\n");
+		for x,y in (Place.s_OwnerPoints[x]=y) {
+			var pct=MulDiv(y,10000,PTot);
+			str = String(str,"Owner ",x.UserName," has \k",FormatFloat(pct),"\k\n");
+			Reset(Place.s_OwnerPoints[x]);
+		}
+		NotifyBExtraWide(str);
+}
+
+
+Plan of UArchitecture {
+	[menu] if (contains(World.TestActive,Towers)) for kind derivedfinal(VTower) if (!contains(World.ToTTypes,kind)) Item("Tests/",Towers,"/Prove Ability/",Kind);
+	[action]
+		var req=Kind->GetRequirements();
+		var missing = Actor->eHasComplex1List(req);
+		if (!predicting()) {
+			if (!missing) World.The[TowerController]->AddTowerType(kind);
+			else          Actor->NotifyBExtraWide(String("To Prove Egypt's Ability to create the ",kind," requires:\n",missing));
+		}
+}
+
+secret AddTowerType(kind) of TowerController {
+	if (contains(Place.ToTTypes,kind)) return();
+	Place.ToTTypes=append(Place.ToTTypes,kind);
+	PostAssign(World.ToTTypes,Place.ToTTypes);
+	Start(World.SysChanLog->Post(String(Actor.UserName," has proven Egypt's ability to build the ",kind,".")));
+}
+
+default TowerController.Schedule=<<>>;
+secret Daemon of TowerController {
+	[action]
+		TerminatePlan(Place,"daemon");
+	[time 0 every 60 forever]
+		if (contains(World.TestActive,Towers) & !Running(Place,"manualstart")) DaemonStep();
+}
+
+Plan of TowerController guard debug {
+	[menu]
+		Item("Nuke the Schedule");      
+	[action]
+		if (!YesOrNo(Actor,String("Are you sure you want to nuke the schedule?"))) fail();  
+		if (!predicting()) NukeSchedule();
+}
+  
+secret NukeSchedule of TowerController {
+	for time,type,ID inlist(Place.Schedule) World.The[BulletinPanel]->KillBulletinByID(ID);   
+	Reset(Place.Schedule); 
+}
+
+secret DaemonStep of TowerController {
+	while (length(Place.Schedule) & nth(Place.Schedule,0)<IDate()-20) {
+		var ID=nth(Place.Schedule,2);
+		Place.Schedule=SubVector(Place.Schedule,3,1000000); -- Discard very old ones.
+		World.The[BulletinPanel]->KillBulletinByID(ID);
+	}
+	if (length(Place.Schedule)<21) {
+		var base=IDate();
+		if (length(Place.Schedule)) base=nth(Place.Schedule,length(Place.Schedule)-3);
+		var next=base+random(Place,World.ToTWait0/60,World.ToTWait1/60);
+		var ttype=nth(World.ToTTypes,random(Place,0,length(World.ToTTypes)-1));
+		var ID=World.The[BulletinPanel]->NewBulletin(next,Next+1000000,String("test:",towers),"Hour of Towers","All of Egypt",String("Hour of the ",ttype,"."),0,0);
+		Place.Schedule=append(Place.Schedule,next,ttype,ID);
+	}
+	if (IDate()>=nth(Place.Schedule,0)) {
+		var ID=nth(Place.Schedule,2);
+		-- print("ID of Hour of Towers is ",ID);
+		ResetMe();
+		var kind=nth(Place.Schedule,1);
+		StartHourOfTowers(kind);
+		Wait(World.ToTPeriod);
+		EndHourOfTowers();
+		World.The[BulletinPanel]->KillBulletinByID(ID);
+		Place.Schedule=SubVector(Place.Schedule,3,1000000);
+	}
+}
+
+Plan ToTShowSchedule of TowerController {
+	[menu] Item("Display the Schedule");
+	[action]
+		var str = String("Schedule for the next ",length(Place.Schedule)/2," Hours of Towers:\n");
+		if (World.ToTRunning>0) str = String(str,"    Hour of the ",World.ToTKind," is NOW, and ends in ",timestringext(World.ToTPeriod-time()+World.ToTRunning),".\n");
+		for i,j,id inlist(Place.Schedule) if (i>=IDate()) str = String(str,"    Hour of the ",j," in ",TimeStringExt(60*(i-IDate()))," RT.\n");
+		NotifyBExtraWide(str);
+}
+
+Plan of TowerController guard idle {
+	[menu] 
+		if (idle(Place)) Item("Start the Daemon");
+	[action]
+		if(!predicting()) Start(Place->Daemon()); 
+}
+
+Plan of TowerController guard busy {
+	[menu] Item("Stop the Daemon");
+	[action] StopWork(Place);
+}
+
+subroutine NotifyHourOfTowers(msg) of Player {
+	if (!IsConnected(Place)) fail();
+	if (!Place.DoingTest[Towers]) fail();
+	if (Place.p_InterfaceOption["no-tower-msg"]) fail();
+	Notify2(Place,msg);
+}
+
+subroutine BeginTimerForTowers(kind, duration) of Player {
+	var startTime = time();
+	var endTime = time() + duration;
+	Place->UINotificationMinorCountdown(String("Hour of ", kind), startTime, endTime, String("test:",Towers), 0);
+}
+
+default VTower.NeverTearDown = 1;
+
+Plan TearItDown of VTower {}
+
+Plan ManualStart of TowerController {
+	[menu]
+		for kind inlist(<<TowerSolidLand,TowerRichSoil,TowerNewLife,TowerHandOfMan,TowerRacingMind,TowerLivingLand,TowerNight>>) Item("Start/Hour of the ",kind);
+	[action]
+		ResetMe();
+		if (!predicting()) {
+			StartHourOfTowers(kind);
+			Wait(World.ToTPeriod);
+			EndHourOfTowers();
+		}
+}
+
+secret StartHourOfTowers(kind) of TowerController {
+	for i=(0,15) {
+		FMultiStart(16,i,Player->NotifyHourOfTowers(String("The Hour of the ",kind," has begun.")));
+		FMultiStart(16,i,Player->BeginTimerForTowers(kind, World.ToTPeriod));
+		Wait(1);
+	}
+	PostAssign(World.ToTRunning,time());
+	PostAssign(World.ToTKind,kind);
+}
+
+secret ToTClearCurrent of Player {
+	if (Place.p_ToTTowerCount) print("p_ToTTowerCount 1 is ",Place.p_ToTTowerCount," for ",Place.UserName);
+	Reset(Place.p_ToTCurrentScore);
+	Reset(Place.p_ToTInTop7);
+	Reset(Place.p_ToTTowerCount);
+}
+
+secret SendPointsToOwner of VTower {
+	Start(Place.Owner->ToTReceivePoints(Place.Score));
+}
+
+secret ToTReceivePoints(points) of Player {
+	if (Place.DoingTest[Towers]) {
+		Place.p_ToTCurrentScore+=points;
+		Place.p_ToTTowerCount+=1;
+	}
+}
+
+secret ToTReportScore(wh) of Player  { 
+	if (Place.p_ToTCurrentScore) {
+		Start(wh->ReceiveScore(Place.p_ToTCurrentScore,Place.p_ToTTowerCount,Place));
+	}
+}
+
+secret ClearToT of Player {
+	Reset(Place.ToTScore);
+}
+
+secret ReceiveScore(score,towercount,pl) of TowerController {
+	if (Score>Place.Threshold) {
+		Place.Top7=append(score,towercount,pl,Place.Top7);
+		Place.Top7=KSort(Place.Top7,3);
+		if (length(Place.Top7) >3*World.ToTTopN) Place.Top7=deleterange(Place.Top7,0,3);
+		if (length(Place.Top7)==3*World.ToTTopN) Place.Threshold=nth(Place.Top7,0);
+	}
+}
+
+Plan EndHourOfTowers of TowerController {
+	[menu] Item("End the Hour of Towers now.");
+	[action]
+		TerminatePlan(Place,"manualstart");
+		DoNotPredict();
+		--if (!YesOrNo("Are you sure you want to force the Hour of Towers to end?")) fail();
+		PostAssign(World.ToTRunning,-1);
+		for i=(0,15) {
+			FMultiStart(16,i,Player->ToTClearCurrent());
+			FMultiStart(16,i,Player->NotifyHourOfTowers(String("The Hour of the ",World.ToTKind," has ended. Scores will be reported in your main window in about a minute.")));
+			Wait(1);
+		}
+		-- Accumulate and win.
+		MultiStart(VTower->SendPointsToOwner());
+		Wait(5);
+		Place.Threshold=0;
+		Place.Top7=<<>>;
+		for i=(0,15) {
+			FMultiStart(16,i,Player->ToTReportScore(Place));
+			Wait(1);
+		}
+		Wait(5);
+		for sc,tc,who inlist(Place.Top7) {
+			who.p_ToTCurrentScore = 7 * who.p_ToTCurrentScore;
+			who.p_ToTInTop7+=1;
+		}
+		for i=(0,15) {
+			FMultiStart(16,i,Player->ToTAddToPermanentScoreAndAdvance(Place));
+			Wait(1);
+		}
+		Wait(5);
+		MultiStart(VTower->BulldozeMe());
+		var str = String("Hour of the ",World.ToTKind,", \z");
+		if (!Place.TowerCount) {
+			str = String(str,"No towers were built.");
+		} else {
+			str = String(str,Place.TowerCount," towers were built. The top ",length(Place.Top7)/3," claims are:");
+		}
+		var PTot=(World.X1-World.X0)/World.ToTQuant*(World.Y1-World.Y0)/World.ToTQuant;
+		for i=(0,length(Place.Top7)/3-1) {
+			var sc=nth(Place.Top7,i*3+0);
+			var tc=nth(Place.Top7,i*3+1);
+			var who=nth(Place.Top7,i*3+2);
+			var pct=MulDiv(sc,10000,PTot);
+			str = String(str,"\z ",who.UserName," claimed \k",FormatFloat(pct),"\k% using ",tc," towers.\z");
+		}
+		Start(World.SysChanLog->Post(str));
+		PostAssign(World.ToTRunning,0);
+}
+
+Plan of VTowerMonument guard Anyone {
+	[menu]
+		var pct0=MulDiv(Place.Score,10000,(World.X1-World.X0)/World.ToTQuant*(World.Y1-World.Y0)/World.ToTQuant);
+		MenuComment("[Extra]With this Tower, ",Place.WinOwnerName," claimed \k",FormatFloat(pct0),"\k% of Egypt, ",TimeStringExt(time()-Place.WinTime)," ago.");
+}
+
+--Plan of Player {
+--	[menu]
+--		if (!Actor.DoingTest[Towers]) fail();
+--		var PTot=(World.X1-World.X0)/World.ToTQuant*(World.Y1-World.Y0)/World.ToTQuant;
+--		var pct0=MulDiv(Place.p_ToTScore,10000,PTot);
+--		MenuComment("Tests/",Architecture,"/",towers,"/Your Claim is \k",FormatFloat(pct0),"\k% of Egypt");
+--		MenuComment("Tests/",Architecture,"/",towers,"/-");
+--		MenuItems(String("Tests/",Architecture,"/",towers,"/*"));
+--}
+
+secret ToTAddToPermanentScoreAndAdvance(towerController) of Player {
+	if (!Place.p_ToTCurrentScore) fail();
+	var PTot=(World.X1-World.X0)/World.ToTQuant*(World.Y1-World.Y0)/World.ToTQuant;
+	var pct0=MulDiv(Place.p_ToTScore[World.ToTKind],10000,PTot);
+	Place.p_ToTScore[World.ToTKind] += Place.p_ToTCurrentScore / 7;
+	var pct1=MulDiv(Place.p_ToTScore[World.ToTKind],10000,PTot);
+
+	var str = String("Your ", World.ToTKind, "'s claimed \k",FormatFloat(MulDiv(Place.p_ToTCurrentScore/7,10000,PTot)),"\k% of Egypt.\n");
+	if (Place.p_ToTInTop7) str = String(str,"Test of Towers: Your total claim this hour was one of the top ",World.ToTTopN,", so the full amount carries over.\n");
+	else                   str = String(str,"Test of Towers: Your total claim this hour was not in the top ",World.ToTTopN,". so just one seventh carries over.\n");
+	str = String(str,"Your claim has risen from \k",FormatFloat(pct0),"\k% of Egypt to \k",FormatFloat(pct1),"\k% of Egypt.");
+
+	if (pct1 >= 10000) {
+		if (Place->AddTalentPoints(1, String("Towers", World.ToTKind))) {
+			Place->UINotificationStandard("Talent Points Awarded", String("You received 1 Talent Point for achieving 100% control with a ", World.ToTKind, "!"), Towers, 0);
+			Place.ToTCompleted += 1;
+		}
+	}
+
+	Place->Console(str);
+	Place->MissionDo(Towers, -1);
+}
+
+Plan of VTowerMonument guard Anyone {
+	[menu]
+		var PTot=(World.X1-World.X0)/World.ToTQuant*(World.Y1-World.Y0)/World.ToTQuant;
+		var pct=MulDiv(Place.Score,10000,PTot);
+		MenuComment("[Extra]This tower captured \k",FormatFloat(pct),"\k% of Egypt.");
+}
+
+Plan of VTower guard Anyone {
+	[menu]
+		var PTot=(World.X1-World.X0)/World.ToTQuant*(World.Y1-World.Y0)/World.ToTQuant;
+		var pct=MulDiv(Place.Score,10000,PTot);
+		MenuComment("[Extra]This tower has captured \k",FormatFloat(pct),"\k% of Egypt.");
+}
+
+subroutine VecEqual(v1,v2) of Entity {
+	if (length(v1)!=length(v2)) return(0);
+	for i=(0,length(v1)-1) if (nth(v1,i)!=nth(v2,i)) return(0);
+	return(1);
+}
+
+ControlPanel TowerController<"Tower Controller"> unguard Idle;
+
+Plan of TowerController guard Debug {
+	[menu]
+		var count;
+		Item("Debug/Add One Tower") count=1;
+		Item("Debug/Add Ten Towers") count=10;
+		Item("Debug/Add One Hundred Towers") count=100;
+		Item("Debug/Add One Thousand Towers") count=1000;
+	[action]
+		DoNotPredict();
+		--wait(10);
+		var lis=<<>>;
+		for i=(0,count-1) {
+			var x=random(Place,World.X0,World.X1-1);
+			var y=random(Place,World.Y0,World.Y1-1);
+			var t = SysBuild(World.MainPlane,x,y,VTower);
+			lis=append(lis,t,x,y);
+		}
+		print("Start AddTower");
+		for t,x,y inlist(lis) AddTower(t,x,y);
+		print("End AddTower");
+}
+
+secret AddTower(NT,NX,NY) of TowerController {
+	print("Adding a tower ",NT," at ",NX," ",NY," ",Actor.UserName);
+	var quant=World.ToTQuant;
+	var bx0=World.X0/quant;
+	var by0=World.Y0/quant;
+	var bx1=(World.X1-1)/quant;
+	var by1=(World.Y1-1)/quant;
+	var NXQ=BetterDiv(NX+quant/2,quant);
+	var NYQ=BetterDiv(NY+quant/2,Quant);
+	if (!Seq(bx0,NXQ,bx1) | !Seq(BY0,NYQ,BY1)) fail("Add Tower called out of bounds. Contact Developers. ",bx0," ",nxq," ",bx1," ",by0," ",nyq," ",by1);
+	Place.TowerCount+=1;
+	Place.TouchList=<<>>;
+	if (!Place.s_Quad[1]) {
+		Place.s_Quad[1]=NT;
+		Place.s_TowerLoc[NT]=<<BetterDiv(NX+quant/2,quant),BetterDiv(NY+quant/2,Quant)>>;
+		Place.s_Score[NT]=(bx1-bx0+1)*(by1-by0+1);
+		NT.Score         =(bx1-bx0+1)*(by1-by0+1);
+		return();
+	}
+	var PT=GetTower(NXQ,NYQ);
+	if (!PT) fail("Error in AddTower. Contact developers.");
+	var px=nth(Place.s_TowerLoc[PT],0);
+	var py=nth(Place.s_TowerLoc[PT],1);
+	if (px==NXQ & py==NYQ) {-- Check to prevent stealing by being right on top.
+		Place.s_TowerLoc[NT]=<<NXQ,NYQ>>;
+		Place.s_Score[NT]=0;
+		NT.Score=0;
+		return();
+	}
+	if (TypeVector(Place.s_Quad[1])) SplitMultiple(1,bx0,by0,bx1,by1,NT,NXQ,NYQ);
+	else                             SplitSingle  (1,bx0,by0,bx1,by1,NT,NXQ,NYQ);
+	for x inlist (Place.TouchList) Start(x->SetScore(Place.s_Score[x]));
+	Reset(Place.TouchList);
+}
+
+secret PrintMap of TowerController guard debug {
+	[action]
+		DoNotPredict();
+		var quant=World.ToTQuant;
+		var bx0=World.X0/quant;
+		var by0=World.Y0/quant;
+		var bx1=(World.X1-1)/quant;
+		var by1=(World.Y1-1)/quant;
+		for ty=(0,by1-by0+1) {
+			var y=by1-ty;
+			var str="";
+			for x=(bx0,bx1) {
+				var tow=gettower(x,y);
+				var c=char(65+mod(hash(string(tow)),26));
+				str=string(str,c);
+			}
+			print(str);
+		}
+}
+
+Plan of TowerController guard debug {
+	[menu] Item("Print Map");
+	[action]
+		DoNotPredict();
+		PrintMap();
+}
+
+Plan of TowerController guard Debug {
+	[menu] Item("Recalc Nearest and Furthest");
+	[action]
+		var quant=World.ToTQuant;
+		var x0=World.X0/quant;
+		var y0=World.Y0/quant;
+		var x1=(World.X1-1)/quant;
+		var y1=(World.Y1-1)/quant;
+		DoNotPredict();
+		RecalcFurthest(1,x0,y0,x1,y1);
+		Recalcnearest(1,x0,y0,x1,y1);
+}
+
+secret GetTower(x,y) of TowerController {
+	var quant=World.ToTQuant;
+	var x0=World.X0/quant;
+	var y0=World.Y0/quant;
+	var x1=(World.X1-1)/quant;
+	var y1=(World.Y1-1)/quant;
+	var found;
+	var q=1;
+	while (q<World.Pow2[2*11]) {
+		if (!Place.s_Quad[q]) return(0);
+		else if (TypeSprite(Place.s_Quad[q])) return(Place.s_Quad[q]);
+		else {
+			var HX=BetterDiv(X1-X0,2);
+			var HY=BetterDiv(Y1-Y0,2);
+			if (seq(x0,x,x0+hx) & seq(y0,y,y0+hy)) {
+				q=q*4+0;
+				x1=x0+hx;
+				y1=y0+hy;
+			} else if (seq(x0+hx+1,x,x1) & seq(y0,y,y0+hy)) {
+				q=q*4+1;
+				x0=x0+hx+1;
+				y1=y0+hy;
+			} else if (seq(x0,x,x0+hx) & seq(y0+hy+1,y,y1)) {
+				q=q*4+2;
+				x1=x0+hx;
+				y0=y0+hy+1;
+			} else if (seq(x0+hx+1,x,x1) & seq(y0+hy+1,y,y1)) {
+				q=q*4+3;
+				x0=x0+hx+1;
+				y0=y0+hy+1;
+			} else return(0);
+		}
+	}
+}
+
+Plan ResetMe of TowerController guard Debug {
+	[menu] Item("Reset Me");
+	[action]
+	--    StopWork(Place);
+	PostAssign(World.ToTRunning,0);
+	PostAssign(World.ToTKind,0);
+	Reset(Place.s_Quad[*]);
+	Reset(Place.s_TowerLoc[*]);
+	Reset(Place.s_Score[*]);
+	Reset(Place.TowerCount);
+}
+
+secret ClearQuadChildren(QIndex,QX0,QY0,QX1,QY1) of TowerController {
+	if (!Seq(1,QIndex,World.Pow2[2*11]-1)) return();
+	var lis=Place.s_Quad[QIndex];
+	if (!Lis) return();
+	Reset(Place.s_Quad[QIndex]);
+	if (TypeSprite(lis)) {
+		Place.s_Score[lis]-=(QX1-QX0+1)*(QY1-QY0+1);
+		if (!contains(Place.TouchList,lis)) Place.TouchList=append(Place.TouchList,lis);
+		return();
+	}
+	var HX=BetterDiv(QX1-QX0,2);
+	var HY=BetterDiv(QY1-QY0,2);
+	ClearQuadChildren(QIndex*4+0,QX0     ,QY0     ,QX0+HX,QY0+HY);
+	ClearQuadChildren(QIndex*4+1,QX0+HX+1,QY0     ,QX1   ,QY0+HY);
+	ClearQuadChildren(QIndex*4+2,QX0     ,QY0+HY+1,QX0+HX,QY1);
+	ClearQuadChildren(QIndex*4+3,QX0+HX+1,QY0+HY+1,QX1   ,QY1);
+}
+
+secret RecalcFurthest(QIndex,X0,Y0,X1,Y1) of TowerController {
+	if (QIndex>=World.Pow2[2*11]) return(-1);
+	var lis=Place.s_Quad[QIndex];
+	var HX=BetterDiv(X1-X0,2);
+	var HY=BetterDiv(Y1-Y0,2);
+	if (TypeVector(lis)) {
+		var nf=max(RecalcFurthest(QIndex*4+0,X0     ,Y0     ,X0+HX,Y0+HY),
+		       RecalcFurthest(QIndex*4+1,X0+HX+1,Y0     ,X1   ,Y0+HY),
+		       RecalcFurthest(QIndex*4+2,X0     ,Y0+HY+1,X0+HX,Y1   ),
+		       RecalcFurthest(QIndex*4+3,X0+HX+1,Y0+HY+1,X1   ,Y1   ));
+		Place.s_Quad[QIndex]=<<nth(lis,0),nf>>;
+		return(nf);
+	}
+	var px,py;
+	if (!lis) return(max(x1-x0,y1-y0));
+	px=nth(Place.s_TowerLoc[lis],0);
+	py=nth(Place.s_TowerLoc[lis],1);
+	return(max(disthp(px,py,x0,y0),
+             disthp(px,py,x1,y0),
+             disthp(px,py,x0,y1),
+             disthp(px,py,x1,y1)));
+}
+
+secret RecalcNearest(QIndex,X0,Y0,X1,Y1) of TowerController {
+	if (QIndex>=World.Pow2[2*11]) return(-1);
+	var lis=Place.s_Quad[QIndex];
+	var HX=BetterDiv(X1-X0,2);
+	var HY=BetterDiv(Y1-Y0,2);
+	if (TypeVector(lis)) {
+		var nn=min(RecalcNearest(QIndex*4+0,X0     ,Y0     ,X0+HX,Y0+HY),
+		       RecalcNearest(QIndex*4+1,X0+HX+1,Y0     ,X1   ,Y0+HY),
+		       RecalcNearest(QIndex*4+2,X0     ,Y0+HY+1,X0+HX,Y1   ),
+		       RecalcNearest(QIndex*4+3,X0+HX+1,Y0+HY+1,X1   ,Y1   ));
+		Place.s_Quad[QIndex]=<<nn,nth(lis,1)>>;
+		return(nn);
+	}
+	var px,py;
+	if (!lis) return(max(x1-x0,y1-y0));
+	px=nth(Place.s_TowerLoc[lis],0);
+	py=nth(Place.s_TowerLoc[lis],1);
+	if (seq(x0,px,x1)) if (seq(y0,py,y1)) return(0);
+	return(min(disthp(px,py,x0,y0),
+             disthp(px,py,x1,y0),
+             disthp(px,py,x0,y1),
+             disthp(px,py,x1,y1)));
+}
+
+secret SplitMultiple(QIndex,QX0,QY0,QX1,QY1,NT,NX,NY) of TowerController {
+	if (QX0>QX1) return(<<1000000,-1000000>>);
+	if (QY0>QY1) return(<<1000000,-1000000>>);
+	--print("InSplit ",QIndex," Multiple ",QX0," ",QY0," ",QX1," ",QY1);
+	if (QIndex>=World.Pow2[2*11]) return(<<1000000,-1000000>>);
+	var d0=disthp(QX0,QY0,NX,NY);
+	var d1=disthp(QX1,QY0,NX,NY);
+	var d2=disthp(QX0,QY1,NX,NY);
+	var d3=disthp(QX1,QY1,NX,NY);
+	var lis=Place.s_Quad[QIndex];
+	if (!TypeVector(lis)) print("Error: SplitMultiple ",QIndex," called on single type quad.");
+
+	var Closest=nth(lis,0);
+	var Furthest=nth(lis,1);
+
+	if (World.DebugTowers) {
+		print("Recursing in SplitMultiple ",QIndex," on ",nx," ",ny," and ",lis," bounds ",QX0," ",QY0," to ",QX1," ",QY1," ", "Closest: ",closest," Furthest: ",Furthest," D ",d0," ",d1," ",d2," ",d3);
+	}
+
+	if (max(d0,d1,d2,d3)<=Closest) {
+		if (World.DebugTowers) print("SplitMultiple: Own");
+		ClearQuadChildren(QIndex,QX0,QY0,QX1,QY1);
+		Place.s_TowerLoc[NT]=<<NX,NY>>;
+		Place.s_Quad[QIndex]=NT;
+		Place.s_Score[NT]+=(QX1-QX0+1)*(QY1-QY0+1);
+		if (!contains(Place.TouchList,nt)) Place.TouchList=append(Place.TouchList,nt);
+		if (seq(QX0,NX,QX1)) if (seq(QY0,NY,QY1)) return(<<0,max(d0,d1,d2,d3)>>);
+		return(<<min(d0,d1,d2,d3),max(d0,d1,d2,d3)>>);
+	}
+	if (Furthest<min(d0,d1,d2,d3)) if (!seq(QX0,NX,QX1) | !seq(QY0,NY,QY1)) {
+		if (World.DebugTowers) print("SplitMultiple: Extinguish");
+		return(Place.s_Quad[QIndex]);
+	}
+
+	Place.s_Quad[QIndex]=<<min(closest,d0,d1,d2,d3),max(furthest,d0,d1,d2,d3)>>;
+	var HX=BetterDiv(QX1-QX0,2);
+	var HY=BetterDiv(QY1-QY0,2);
+	var r0,r1,r2,r3;
+
+	var q=Place.s_Quad[QIndex*4+0];
+	if (TypeVector(q)) r0=SplitMultiple(QIndex*4+0,QX0     ,QY0     ,QX0+HX,QY0+HY,NT,NX,NY);
+	else               r0=SplitSingle  (QIndex*4+0,QX0     ,QY0     ,QX0+HX,QY0+HY,NT,NX,NY);
+
+	var q=Place.s_Quad[QIndex*4+1];
+	if (TypeVector(q)) r1=SplitMultiple(QIndex*4+1,QX0+HX+1,QY0     ,QX1   ,QY0+HY,NT,NX,NY);
+	else               r1=SplitSingle  (QIndex*4+1,QX0+HX+1,QY0     ,QX1   ,QY0+HY,NT,NX,NY);
+
+	var q=Place.s_Quad[QIndex*4+2];
+	if (TypeVector(q)) r2=SplitMultiple(QIndex*4+2,QX0     ,QY0+HY+1,QX0+HX,QY1   ,NT,NX,NY);
+	else               r2=SplitSingle  (QIndex*4+2,QX0     ,QY0+HY+1,QX0+HX,QY1   ,NT,NX,NY);
+
+	var q=Place.s_Quad[QIndex*4+3];
+	if (TypeVector(q)) r3=SplitMultiple(QIndex*4+3,QX0+HX+1,QY0+HY+1,QX1   ,QY1   ,NT,NX,NY);
+	else               r3=SplitSingle  (QIndex*4+3,QX0+HX+1,QY0+HY+1,QX1   ,QY1   ,NT,NX,NY);
+
+	Place.s_Quad[QIndex]=<<min(nth(r0,0),nth(r1,0),nth(r2,0),nth(r3,0)), max(nth(r0,1),nth(r1,1),nth(r2,1),nth(r3,1))>>;
+	return(Place.s_Quad[QIndex]);
+}
+
+Plan of TowerController guard Debug {
+	[menu] Item("Total Scores");
+	[action]
+		DoNotPredict();
+		var rval;
+		for x,y in (Place.s_Score[x]=y) rval+=y;
+		Actor->Console(String("Total Score: ",rval));
+}
+
+secret SplitSingle(QIndex,QX0,QY0,QX1,QY1,NT,NX,NY) of TowerController {
+	if (QX0>QX1) return(<<1000000,-1000000>>);
+	if (QY0>QY1) return(<<1000000,-1000000>>);
+	--print("InSplit ",QIndex," Single ",QX0," ",QY0," ",QX1," ",QY1);
+	if (QIndex>=World.Pow2[2*11]) return(<<1000000,-1000000>>);
+	var d0=disthp(QX0,QY0,NX,NY);
+	var d1=disthp(QX1,QY0,NX,NY);
+	var d2=disthp(QX0,QY1,NX,NY);
+	var d3=disthp(QX1,QY1,NX,NY);
+	var lis=Place.s_Quad[QIndex];
+	if (!typesprite(lis)) print("Error: SplitSingle ",QIndex," called on multiple type quad.");
+	var px=nth(Place.s_TowerLoc[lis],0);
+	var py=nth(Place.s_TowerLoc[lis],1);
+	--print("SplitSingle ",QIndex," on ",nx," ",ny," and ",lis," bounds ",QX0," ",QY0," to ",QX1," ",QY1);
+	var p0=disthp(QX0,QY0,px,py);
+	var p1=disthp(QX1,QY0,px,py);
+	var p2=disthp(QX0,QY1,px,py);
+	var p3=disthp(QX1,QY1,px,py);
+	if (World.DebugTowers) {
+		print("Recursing in SplitSingle ",QIndex," on ",nx," ",ny," and ",lis," bounds ",QX0," ",QY0," to ",QX1," ",QY1," ", "Distances are ",d0,"/",p0," ",d1,"/",p1," ",d2,"/",p2," ",d3,"/",p3);
+	}
+	if (d0<=p0 & d1<=p1 & d2<=p2 & d3<=p3) {
+		Place.s_TowerLoc[NT]=<<NX,NY>>;
+		Place.s_Quad[QIndex]=NT;
+		Place.s_Score[lis]-=(QX1-QX0+1)*(QY1-QY0+1);
+		if (!contains(Place.TouchList,lis)) Place.TouchList=append(Place.TouchList,lis);
+		Place.s_Score[NT]+=(QX1-QX0+1)*(QY1-QY0+1);
+		if (!contains(Place.TouchList,NT)) Place.TouchList=append(Place.TouchList,NT);
+		if (seq(QX0,NX,QX1)) if (seq(QY0,NY,QY1)) return(<<0,max(d0,d1,d2,d3)>>);
+		return(<<min(d0,d1,d2,d3),max(d0,d1,d2,d3)>>);
+	}
+
+	if (p0<=d0 & p1<=d1 & p2<=d2 & p3<=d3) {
+		if (seq(QX0,px,QX1)) if (seq(QY0,py,QY1)) return(<<0,max(p0,p1,p2,p3)>>);
+		return(<<min(p0,p1,p2,p3),max(p0,p1,p2,p3)>>);
+	}
+
+	Place.s_Score[lis]-=(QX1-QX0+1)*(QY1-QY0+1);
+	if (!contains(Place.TouchList,lis)) Place.TouchList=append(Place.TouchList,lis);
+	var HX=BetterDiv(QX1-QX0,2);
+	var HY=BetterDiv(QY1-QY0,2);
+
+	var r0=SplitPair  (QIndex*4+0,QX0     ,QY0     ,QX0+HX,QY0+HY,NT,NX,NY,lis,px,py);
+	var r1=SplitPair  (QIndex*4+1,QX0+HX+1,QY0     ,QX1   ,QY0+HY,NT,NX,NY,lis,px,py);
+	var r2=SplitPair  (QIndex*4+2,QX0     ,QY0+HY+1,QX0+HX,QY1   ,NT,NX,NY,lis,px,py);
+	var r3=SplitPair  (QIndex*4+3,QX0+HX+1,QY0+HY+1,QX1   ,QY1   ,NT,NX,NY,lis,px,py);
+	Place.s_Quad[QIndex]=<<min(nth(r0,0),nth(r1,0),nth(r2,0),nth(r3,0)), max(nth(r0,1),nth(r1,1),nth(r2,1),nth(r3,1))>>;
+	return(Place.s_Quad[QIndex]);
+}
+
+secret SplitPair(QIndex,QX0,QY0,QX1,QY1,NT,NX,NY,PT,PX,PY) of TowerController {
+	if (QX0>QX1) return(<<1000000,-1000000>>);
+	if (QY0>QY1) return(<<1000000,-1000000>>);
+	--print("InSplit ",QIndex," Pair ",QX0," ",QY0," ",QX1," ",QY1);
+	if (QIndex>=World.Pow2[2*11]) return();
+	--print("SplitPair ",QIndex," on ",nx," ",ny," and ",px," ",py," bounds ",QX0," ",QY0," to ",QX1," ",QY1);
+	var d0=disthp(QX0,QY0,NX,NY);
+	var d1=disthp(QX1,QY0,NX,NY);
+	var d2=disthp(QX0,QY1,NX,NY);
+	var d3=disthp(QX1,QY1,NX,NY);
+
+	var p0=disthp(QX0,QY0,PX,PY);
+	var p1=disthp(QX1,QY0,PX,PY);
+	var p2=disthp(QX0,QY1,PX,PY);
+	var p3=disthp(QX1,QY1,PX,PY);
+
+	if (World.DebugTowers) {
+		print("Recursing in SplitPair ",QIndex," on ",nx," ",ny," and ",px," ",py," bounds ",QX0," ",QY0," to ",QX1," ",QY1," ", "Distances are ",d0,"/",p0," ",d1,"/",p1," ",d2,"/",p2," ",d3,"/",p3);
+	}
+
+	if (d0<=p0 & d1<=p1 & d2<=p2 & d3<=p3) {
+		--ClearQuadChildren(QIndex,QX0,QY0,QX1,QY1);
+		Place.s_TowerLoc[NT]=<<NX,NY>>;
+		Place.s_Quad[QIndex]=NT;
+		Place.s_Score[nt]+=(QX1-QX0+1)*(QY1-QY0+1);
+		if (!contains(Place.TouchList,NT)) Place.TouchList=append(Place.TouchList,NT);
+		var r1;
+		if (!seq(QX0,NX,QX1) | !seq(QY0,NY,QY1)) r1=min(d0,d1,d2,d3);
+		var r2=max(d0,d1,d2,d3);
+		return(<<r1,r2>>);
+	}
+	if (d0>=p0 & d1>=p1 & d2>=p2 & d3>=p3) {
+		--ClearQuadChildren(QIndex,QX0,QY0,QX1,QY1);
+		Place.s_TowerLoc[PT]=<<PX,PY>>;
+		Place.s_Quad[QIndex]=PT;
+		Place.s_Score[PT]+=(QX1-QX0+1)*(QY1-QY0+1);
+		if (!contains(Place.TouchList,PT)) Place.TouchList=append(Place.TouchList,PT);
+		var r1;
+		if (!seq(QX0,PX,QX1) | !seq(QY0,PY,QY1)) r1=min(p0,p1,p2,p3);
+		var r2=max(p0,p1,p2,p3);
+		return(<<r1,r2>>);
+	}
+
+	--  Place.s_Quad[QIndex]=<<min(d0,d1,d2,d3,p0,p1,p2,p3),max(d0,d1,d2,d3,p0,p1,p2,p3)>>;
+	var HX=BetterDiv(QX1-QX0,2);
+	var HY=BetterDiv(QY1-QY0,2);
+	var r0=SplitPair(QIndex*4+0,QX0     ,QY0     ,QX0+HX,QY0+HY,NT,NX,NY,PT,PX,PY);
+	var r1=SplitPair(QIndex*4+1,QX0+HX+1,QY0     ,QX1   ,QY0+HY,NT,NX,NY,PT,PX,PY);
+	var r2=SplitPair(QIndex*4+2,QX0     ,QY0+HY+1,QX0+HX,QY1   ,NT,NX,NY,PT,PX,PY);
+	var r3=SplitPair(QIndex*4+3,QX0+HX+1,QY0+HY+1,QX1   ,QY1   ,NT,NX,NY,PT,PX,PY);
+	Place.s_Quad[QIndex]=<<min(nth(r0,0),nth(r1,0),nth(r2,0),nth(r3,0)), max(nth(r0,1),nth(r1,1),nth(r2,1),nth(r3,1))>>;
+	return(Place.s_Quad[QIndex]);
+}
+
+subroutine SetScore(sc) of VTower {
+	Place.Score=sc;
+}
+
+subroutine AuditScore of VTower {
+	var PTot=(World.X1-World.X0)/World.ToTQuant*(World.Y1-World.Y0)/World.ToTQuant;
+	var pct=MulDiv(Place.Score,10000,PTot);
+	print("Tower at ",Place->LocStr()," has captured \k",FormatFloat(pct),"\k% of Egypt.");
+}
+
+subroutine InitGraphic of VTower { SetGraphic(Place,"model=towerhandofman effect=ps-diamond(flare)"); }
+subroutine InitGraphic of TowerSolidLand { SetGraphic(Place,"model=towersolidland effect=ps-diamond(flare)"); }
+subroutine InitGraphic of TowerRichSoil { SetGraphic(Place,"model=towerrichsoil effect=ps-topaz(flare)"); }
+subroutine InitGraphic of TowerNewLife { SetGraphic(Place,"model=towernewlife effect=ps-sapphire(flare)"); }
+subroutine InitGraphic of TowerHandOfMan { SetGraphic(Place,"model=towerhandofman effect=ps-ruby(flare)"); }
+subroutine InitGraphic of TowerRacingMind { SetGraphic(Place,"model=towerracingmind effect=ps-amethyst(flare)"); }
+subroutine InitGraphic of TowerLivingLand { SetGraphic(Place,"model=towerlivingland effect=ps-emerald(flare)"); }
+subroutine InitGraphic of TowerNight { SetGraphic(Place,"model=towernight effect=ps-diamond(flare)"); }
+
+Plan of Player {
+	[menu] if (Actor.DoingTest[Towers]) if (World.ToTRunning>0) Item("Tests/",Architecture,"/",Towers,"/Scan for Nearby Towers");
+	[action]
+		if (length(ScanRadius(1000,VTower))) Actor->Console("This is too close to another Tower.");
+		else Actor->Console("This area is fine for building a Tower.");
+}
+
+Plan of VTower {
+	[menu] if (World.ToTRunning==0) Item("Utility/Recover all materials from this ", getType(Place));
+	[action]
+		SalvageBulldozeAll();
+}
+
+subroutine GetRequirements of TowerSolidLand {
+	return(<<  1000,Bricks              ,0,"Bricks for Structure",
+		      1,ClayLamp            ,0,"Clay Lamp for Illumination",
+		     10,CutStone            ,0,"Cut Stones for Reinforcement",
+		     20,WhiteSand           ,0,"White Sand as an Offering",
+		      7,MediumQuartz        ,0,"Medium Quartz for the Beacon">>);
+}
+
+subroutine GetRequirements of TowerRichSoil {
+	return(<<  1000,Bricks              ,0,"Bricks for Structure",
+		      1,ClayLamp            ,0,"Clay Lamp for Illumination",
+		     20,Onions              ,0,"Onions as Offering",
+		     20,Carrots             ,0,"Carrots as Offering",
+		     20,Cabbage             ,0,"Cabbage as Offering",
+		     20,Leeks               ,0,"Leeks as Offering",
+		     20,Garlic              ,0,"Garlic as Offering",
+		     50,Saltpeter           ,0,"Saltpeter as Enrichment",
+		      7,MediumTopaz         ,0,"Medium Topaz for the Beacon">>);
+}
+
+subroutine GetRequirements of TowerHandOfMan {
+	return(<<1000,Bricks              ,0,"Bricks for Structure",
+              1,ClayLamp            ,0,"Clay Lamp for Illumination",
+            100,Ash                 ,0,"Ash to demonstrate life's end",
+            250,Firebricks          ,0,"Firebricks to show Permanence",
+             50,Charcoal            ,0,"Charcoal to show man's control of nature",
+              4,IronBars            ,0,"Iron Bars to show Strength",
+              7,MediumRuby          ,0,"Medium Rubies for the Beacon">>);
+}
+
+subroutine GetRequirements of TowerNewLife {
+  return(<<1000,Bricks              ,0,"Bricks for Structure",
+              1,ClayLamp            ,0,"Clay Lamp for Illumination",
+              7,Egg                 ,0,"Eggs as Offering",
+              1,COnionSeeds         ,0,"Onion Seeds (of any type) as Precious Gift",
+              1,CCarrotSeeds        ,0,"Carrot Seeds (of any type) as Precious Gift",
+              1,CCabbageSeeds       ,0,"Cabbage Seeds (of any type) as Precious Gift",
+              1,CLeekSeeds          ,0,"Leek Seeds as (of any type) Precious Gift",
+              1,CGarlicSeeds        ,0,"Garlic Seeds (of any type) as Precious Gift",
+              7,MediumSapphire      ,0,"Medium Sapphires for the Beacon">>);
+  }
+
+subroutine GetRequirements of TowerRacingMind {
+  return(<<1000,Bricks              ,0,"Bricks for Structure",
+              1,ClayLamp            ,0,"Clay Lamp for Illumination",
+            100,PaperPapyrus        ,0,"Papyrus Paper, showing Contemplation",
+              1,NutsEssence	   ,0,"Nut's Essence, showing Daring",
+              3,QuickSilver         ,0,"Quicksilver, showing Haste",
+              1,CutAmethyst         ,"Lens","Lens Amethyst for the Beacon">>);
+}
+
+subroutine GetRequirements of TowerLivingLand {
+  return(<<1000,Wood                ,0,"Wood for Structure",
+              1,ClayLamp            ,0,"Clay Lamp for Illumination",
+              7,MediumEmerald       ,0,"Medium Emeralds for the Beacon",
+             70,Dates               ,0,"Dates, sweet gift of Flora",
+            280,Honey               ,0,"Honey, sweet gift of Fauna">>);
+  }
+
+subroutine GetRequirements of TowerNight {
+  return(<<1000,Bricks              ,0,"Bricks for Structure",
+              1,ClayLamp            ,0,"Clay Lamp for Illumination",
+              7,MediumDiamond       ,0,"Medium Diamonds for the Beacon",
+             70,Slate               ,0,"Slate as Barrier",
+              2,NightGranite        ,0,"Night Granite as Shield",
+              3,MushroomPeasantFoot ,0,"Peasant's Foot Mushrooms as Offering",
+              3,MushroomToadSkin    ,0,"Toad Skin Mushrooms as Offering",
+              3,MushroomSandSpore   ,0,"Sand Spore Mushrooms as Offering",
+              3,MushroomEarthLight  ,0,"Earth Light Mushrooms as Offering",
+              3,MushroomEyeOfOsiris ,0,"Eye of Osiris Mushrooms as Offering",
+              3,MushroomBleedingHand,0,"Bleeding Hand Mushrooms as Offering",
+              3,MushroomDungRot     ,0,"Dung Rot Mushrooms as Offering">>);
+}
+
+Plan of UArchitecture {
+	[menu] if (Actor.DoingTest[Towers]) for Kind inlist(World.ToTTypes) Item("Tests/",Towers,"/Check construction costs/",kind);
+	[action]
+		var text = String("To build a ",kind,":\n\n",ReqTextComplex(Kind->GetRequirements()));
+		eDialogInteract(Actor,60,Place,pdialog,@NotifyVarDialog,"tahoma(10)tl",400,300,text);
+}
+
+Plan of MediumConstructionSite {
+	[menu]
+		if (!Actor.DoingTest[Towers]) fail();
+		if (World.ToTRunning<=0) fail();
+		var kind=World.ToTKind;
+		var req=Kind->GetRequirements();
+		Item("Projects/Tests/",Architecture,"/",Towers,"/Test of Towers: ",kind);
+	[action]
+		if (!seq(nth(World.Bounds[plane(Place)],0),xPos(Place),nth(World.Bounds[plane(Place)],2)) | !seq(nth(World.Bounds[plane(Place)],1),yPos(Place),nth(World.Bounds[plane(place)],3))) {
+			fail("Your tower location is too remote.");
+		}
+		if (ScanRadiusNearestTo(1000,VTower,xPos(Place),yPos(Place))) {
+			fail("You may not build within 1000 feet of another Tower.");
+		}
+		DoNotPredict();
+		var quant=World.ToTQuant;
+		var bx0=World.X0/quant;
+		var by0=World.Y0/quant;
+		var bx1=(World.X1-1)/quant;
+		var by1=(World.Y1-1)/quant;
+		var NXQ=BetterDiv(xPos(Place)+quant/2,quant);
+		var NYQ=BetterDiv(yPos(Place)+quant/2,Quant);
+		if (!Seq(bx0,NXQ,bx1) | !Seq(BY0,NYQ,BY1)) {
+			NotifyQ("This tower may be out of bounds. Then again, this message may be in error. Anyway, contact the developers if something looks wrong.");
+		}
+		InitiateBuildComplex(String("To build a ",kind,", you need: "), req, kind,0);
+}
+
+
+Building MonumentalTower guard OnFoot;
+MonumentalTower MonumentalSolidLand<"Monumental Solid Land Tower">;
+MonumentalTower MonumentalRichSoil<"Monumental Rich Soil Tower">;
+MonumentalTower MonumentalNewLife<"Monumental New Life Tower">;
+MonumentalTower MonumentalHandOfMan<"Monumental Hand of Man Tower">;
+MonumentalTower MonumentalRacingMind<"Monumental Racing Mind Tower">;
+MonumentalTower MonumentalLivingLand<"Monumental Living Land Tower">;
+MonumentalTower MonumentalNight<"Monumental Night Tower">;
+
+
+subroutine InitGraphic of MonumentalSolidLand { TowerSolidLand->InitGraphic(); }
+subroutine InitGraphic of MonumentalRichSoil { TowerRichSoil->InitGraphic(); }
+subroutine InitGraphic of MonumentalNewLife { TowerNewLife->InitGraphic(); }
+subroutine InitGraphic of MonumentalHandOfMan { TowerHandOfMan->InitGraphic(); }
+subroutine InitGraphic of MonumentalRacingMind { TowerRacingMind->InitGraphic(); }
+subroutine InitGraphic of MonumentalLivingLand { TowerLivingLand->InitGraphic(); }
+subroutine InitGraphic of MonumentalNight { TowerNight->InitGraphic(); }
+
+subroutine Initialize of MonumentalTower {
+	var ac = Place.InitData;
+	if (IsA(ac.p_MonumentalTower[getType(Place)], getType(Place))) {
+		ac->Console(String("Only one Monumental tower of each type may be built."));
+		SalvageBulldozeAll(); -- Only if someone is attempting an exploit.
+		fail();
+	}
+	ac.p_MonumentalTower[getType(Place)] = Place;
+}
+
+Plan of MediumConstructionSite {
+	[menu]
+		if (!Actor.DoingTest[Towers]) fail();
+		var kind;
+		if (Place.p_ToTScore[World.ToTRLookup[0]] >= 100) { Item("Projects/Tests/",Architecture,"/",Towers,"/Monumental Towers/",MonumentalSolidLand)  Kind=MonumentalSolidLand; }
+		if (Place.p_ToTScore[World.ToTRLookup[1]] >= 100) Item("Projects/Tests/",Architecture,"/",Towers,"/Monumental Towers/",MonumentalRichSoil)   Kind=MonumentalRichSoil;
+		if (Place.p_ToTScore[World.ToTRLookup[2]] >= 100) Item("Projects/Tests/",Architecture,"/",Towers,"/Monumental Towers/",MonumentalNewLife)    Kind=MonumentalNewLife;
+		if (Place.p_ToTScore[World.ToTRLookup[3]] >= 100) Item("Projects/Tests/",Architecture,"/",Towers,"/Monumental Towers/",MonumentalHandOfMan)  Kind=MonumentalHandOfMan;
+		if (Place.p_ToTScore[World.ToTRLookup[4]] >= 100) Item("Projects/Tests/",Architecture,"/",Towers,"/Monumental Towers/",MonumentalRacingMind) Kind=MonumentalRacingMind;
+		if (Place.p_ToTScore[World.ToTRLookup[5]] >= 100) Item("Projects/Tests/",Architecture,"/",Towers,"/Monumental Towers/",MonumentalLivingLand) Kind=MonumentalLivingLand;
+		if (Place.p_ToTScore[World.ToTRLookup[6]] >= 100) Item("Projects/Tests/",Architecture,"/",Towers,"/Monumental Towers/",MonumentalNight)      Kind=MonumentalNight;
+	[action]
+		if (!Predicting()) if (IsA(Actor.p_MonumentalTower[kind],kind)) fail("Only one Monumental tower of each type may be built.");
+		var req;
+		if (kind==MonumentalRichSoil) {
+			req=<<7000,Bricks              ,0,"Bricks for Structure",
+				7,ClayLamp             ,0,"Clay Lamp for Illumination",
+				140,Onions             ,0,"Onions as Offering",
+				140,Carrots            ,0,"Carrots as Offering",
+				140,Cabbage            ,0,"Cabbage as Offering",
+				140,Leeks              ,0,"Leeks as Offering",
+				140,Garlic             ,0,"Garlic as Offering",
+				350,Saltpeter          ,0,"Saltpeter as Enrichment",
+				28,MediumTopaz         ,0,"Medium Topaz for the Beacon">>;
+		} else if (kind==MonumentalSolidLand) {
+		      req=<<7000,Bricks              ,0,"Bricks for Structure",
+			       7,ClayLamp            ,0,"Clay Lamp for Illumination",
+			      70,CutStone            ,0,"Cut Stones for Reinforcement",
+			     140,WhiteSand           ,0,"White Sand as an Offering",
+			      49,MediumQuartz        ,0,"Medium Quartz for the Beacon">>;
+		} else if (kind==MonumentalHandOfMan)
+      req=<<7000,Bricks              ,0,"Bricks for Structure",
+               7,ClayLamp            ,0,"Clay Lamp for Illumination",
+             700,Ash                 ,0,"Ash to demonstrate life's end",
+            1750,Firebricks          ,0,"Firebricks to show Permanence",
+             350,Charcoal            ,0,"Charcoal to show man's control of nature",
+              28,IronBars            ,0,"Iron Bars to show Strength",
+              28,MediumRuby          ,0,"Medium Rubies for the Beacon">>;
+    else if (Kind==MonumentalLivingLand)
+      req=<<7000,Wood                ,0,"Wood for Structure",
+               7,ClayLamp            ,0,"Clay Lamp for Illumination",
+              49,MediumEmerald       ,0,"Medium Emeralds for the Beacon",
+             490,Dates               ,0,"Dates, sweet gift of Flora",
+            1960,Honey               ,0,"Honey, sweet gift of Fauna">>;
+    else if (Kind==MonumentalRacingMind)
+      req=<<7000,Bricks              ,0,"Bricks for Structure",
+               7,ClayLamp            ,0,"Clay Lamp for Illumination",
+             700,PaperPapyrus        ,0,"Papyrus Paper, showing Contemplation",
+               7,NutsEssence	     ,0,"Nut's Essence, showing Daring",
+              21,QuickSilver         ,0,"Quicksilver, showing Haste",
+               7,CutAmethyst         ,"Lens","Lens Amethyst for the Beacon">>;
+    else if (Kind==MonumentalNewLife)
+      req=<<7000,Bricks              ,0,"Bricks for Structure",
+               7,ClayLamp            ,0,"Clay Lamp for Illumination",
+              49,Egg                 ,0,"Eggs as Offering",
+               7,COnionSeeds         ,0,"Onion Seeds (of any type) as Precious Gift",
+               7,CCarrotSeeds        ,0,"Carrot Seeds (of any type) as Precious Gift",
+               7,CCabbageSeeds       ,0,"Cabbage Seeds (of any type) as Precious Gift",
+               7,CLeekSeeds          ,0,"Leek Seeds as (of any type) Precious Gift",
+               7,CGarlicSeeds        ,0,"Garlic Seeds as (of any type) Precious Gift",
+              49,MediumSapphire      ,0,"Medium Sapphires for the Beacon">>;
+    else if (Kind==MonumentalNight)      req=<<1000,Bricks              ,0,"Bricks for Structure",
+               7,ClayLamp            ,0,"Clay Lamp for Illumination",
+              49,MediumDiamond       ,0,"Medium Diamonds for the Beacon",
+             490,Slate               ,0,"Slate as Barrier",
+              14,NightGranite        ,0,"Night Granite as Shield",
+              21,MushroomPeasantFoot ,0,"Peasant's Foot Mushrooms as Offering",
+              21,MushroomToadSkin    ,0,"Toad Skin Mushrooms as Offering",
+              21,MushroomSandSpore   ,0,"Sand Spore Mushrooms as Offering",
+              21,MushroomEarthLight  ,0,"Earth Light Mushrooms as Offering",
+              21,MushroomEyeOfOsiris ,0,"Eye of Osiris Mushrooms as Offering",
+              21,MushroomBleedingHand,0,"Bleeding Hand Mushrooms as Offering",
+              21,MushroomDungRot     ,0,"Dung Rot Mushrooms as Offering">>;
+		if (!Req) fail("Not yet implemented - Please Contact a Developer");
+		InitiateBuildComplex(String("To build a ",kind,", you need: "), req, kind, Actor);    
+}
+
+secret GiveTowerStuff(towertype) of Player {
+	var obj=GetObject(towertype);
+	if (!IsA(obj,VTower)) fail("Not a VTower: ",towertype);
+	var req=obj->GetRequirements();
+	for qty,kind,template,desc inlist(req) if (IsA(kind,portable)) eProduce(kind,qty);
+	eProduceList(<<canvas,2,Rope,8>>);
+}
+
+Plan of VTower guard eGenesisOnly {
+	[menu] Item("Developer/Salvage This Tower");
+	[action] SalvageBulldozeAll();
+}
+
+secret ReportWL(who) of VTower {
+	var PTot=(World.X1-World.X0)/World.ToTQuant*(World.Y1-World.Y0)/World.ToTQuant;
+	var pct=MulDiv(Place.Score,10000,PTot);
+	Start(who->AddWarpList(plane(Place),xPos(Place),yPos(Place),String("Size ",Place.Size," ",getType(Place)," at ",Place->LocStr()," owned by ",Place.UserName)));
+}

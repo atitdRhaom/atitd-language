@@ -1,0 +1,222 @@
+module container_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment                        **
+//**                                                                       **
+//***************************************************************************
+//menues
+translate "This O1 is K1."
+to german "O1(^tsn) O1(sn) ist K1.";
+
+translate "Take/Everything [key=T]"
+to german "Nehmen/Alles [key=T]";
+
+translate "Maintain this building"
+to german "Repariere dieses Gebäude";
+
+translate "Tear down this building"
+to german "Reiße dieses Gebäude ab";
+
+translate "It is at N1% condition."
+to german "Der Zustand ist N1 %";
+
+translate "It was donated to the public by U1"
+to german "Es wurde der Öffentlichkeit von U1(name) gespendet.";
+
+translate "This O1 belongs to the public"
+to german "O1(^tsn) O1(sn) gehört der Öffentlichkeit";
+
+translate "It's locked"
+to german "Es ist abgeschlossen";
+
+translate "You don't have permission to use the O1."
+to german "Du hast keine Erlaubnis, O1(tsn) O1(sn) zu benutzen.";
+
+translate "This O1 belongs to U1"
+to german "O1(^tsn) O1(sn) gehört U1(name)";
+
+translate "U1 takes from a public O1"
+to german "U1(name) nimmt aus O1(tsn) öffentlichen O1(sn)";
+
+translate "You can't take things from a O1 while it is working."
+to german "Du kannst keine Sachen während der Produktion aus dem O1(sd) nehmen.";
+
+translate "O1 contains N1 O2. Take how many?"
+to german "O1(^tsn) O1(sn) enthält N1 O2(N1?pn:sn). Wieviele nehmen?";
+
+translate "O1 contains N1 O2:K1. Take how many?"
+to german "O1(^tsn) O1(sn) enthält N1 O2(N1?pn:sn):K1. Wieviele nehmen?";
+
+translate "This is a O1"
+to german "Dies ist O1(asn) O1(swa)";
+
+translate "This is a O1, beloning to U1"
+to german "Dies ist O1(asn) O1(sn), Eigentum von U1(name)";
+
+translate "This is Microphone K1"
+to german "Dies ist das Mikrofon K1";
+
+translate "Caution: You can use this, but it"
+to german "Achtung: Du kannst dies benutzen, aber es";
+
+translate "will vanish when U1 leaves."
+to german "wird verschwinden, wenn U1(name) uns verlässt.";
+
+translate "In Egypt, buildings are permanent."
+to german" In Ägypten sind Gebäude dauerhaft.";
+
+translate "U1 (N1 of N2)"
+to german "U1(name) (N1 von N2)";
+
+translate "Stashable by The Public"
+to german "Jedermann darf einlagern";
+
+translate "Stashable by Initiate"
+to german "Lagererlaubnis für Anwärter";
+translate "Stashable by Associate"
+to german "Lagererlaubnis für Gefährten";
+translate "Stashable by Member"
+to german "Lagererlaubnis für Mitglieder";
+translate "Stashable by Kinsman"
+to german "Lagererlaubnis für Angehöriger";
+translate "Stashable by Fellow"
+to german "Lagererlaubnis für Genossen";
+translate "Stashable by Patriarch"
+to german "Lagererlaubnis für Stammesoberhaupt";
+translate "Stashable by Elder"
+to german "Lagererlaubnis für Stammesältester";
+
+
+translate "The O1 can't hold any more O2."
+to german "O1(^tsn) O1(sn) kann nicht mehr O2(sa) aufnehmen.";
+
+translate "Note: The O1 only has room for N1 O2."
+to german "Anmerkung: O1(^tsn) O1(sn) hat nur Platz für N1 O2(N1?pa:sa)";
+
+translate "The O1 doesn't have room for any O2."
+to german "O1(^tsn) O1(sn) hat keinen Platz mehr für O2(asa) O2(sa).";
+
+translate "The O1 doesn't have N1 O2."
+to german "O1(^tsn) O1(sn) hat keine N1 O2(pa).";
+
+translate "walkable"
+to german "begehbar";
+
+translate "Using your Salvage Skill, you recovered:"
+to german "Unter Verwendung deiner Bergungsfähigkeit erhältst du:";
+
+//texts
+translate "Maintain this building"
+to german "Repariere dieses Gebäude";
+
+translate "Tear down this building"
+to german "Reisse dieses Gebäude ab";
+
+translate "This is your O1"
+to german "O1(^tsn) O1(sn) gehört dir";
+
+translate "This Guild-Owned O1 belongs to U1"
+to german "O1(^tsn) O1(sn) ist Gildeneigentum von U1(name)";
+
+translate "View Contents"
+to german "Zeige Inhalt";
+
+translate "Designate as a Display Chest"
+to german "Stelle den Inhalt aus";
+
+translate "You designate this chest as publicly viewable."
+to german "Du bestimmst diesen Stauraum als öffentlichen Ausstellungsraum.";
+
+translate "By order of the Display Chest Law, passed by Shelomit on 3/29/2003, you designate this chest as publicly viewable."
+to german "Per Ausstellungsraumgesetz, eingeführt von Shelomit am 29.03.2003, bestimmst Du diesen Stauraum als öffentlichen Ausstellungsraum.";
+
+translate "Clear the Display Chest designation"
+to german "Entferne die öffentliche Ausstellungserlaubnis";
+
+translate "You set the chest back to private."
+to german "Du hast diese Kiste wieder auf Privat gesetzt.";
+
+translate "You do not have stash rights to that container."
+to german "Du hast keine Verstauerlaubnis für diese Kiste.";
+
+translate "You need to stand closer to the container."
+to german "Du stehst nicht nahe genug an der Kiste.";
+
+translate "Negative bulk in chest."
+to german "Negative Masse in der Kiste.";
+
+translate "Negative bulk in chest. Call a developer."
+to german "Negative Masse in der Kiste. Rufe einen Entwickler.";
+
+translate "A public O1"
+to german "Öffentlich: O1(sn).";
+
+
+translate "check out the O1 here"
+to german "ABCDEFG O1(^tsn) O1(sn) gehört dir";
+
+translate "Viewable by the public"
+to german "Inhalt sichtbar für Alle";
+
+translate "Not viewable by the public"
+to german "Inhalt nicht sichtbar für Alle";
+
+translate "View the contents of this chest"
+to german "Betrachte Inhalt der Kiste";
+
+translate "Built K1 ago.(K2)"
+to german "Erbaut vor K1.(K2)";
+
+translate "Built K1 ago by U1 (K2)"
+to german "Erbaut vor K1 von U1(name) (K2)";
+
+translate "You built it K1 ago. (K2)"
+to german "Von dir erbaut vor K1. (K2)";
+
+translate "Built some time ago."
+to german "Erbaut vor einiger Zeit.";
+
+translate "You must identify what you want to stash."
+to german "Du musst festlegen, was du ablegen möchtest.";
+
+translate "Cruelty! You may not stash rabbits in containers."
+to german "Tierquäler! Du kannst keine Hasen in Kisten sperren.";
+
+translate "Cruelty! You may not stash sheep in containers."
+to german "Tierquäler! Du kannst keine Schafe in Kisten sperren.";
+
+translate "Cruelty! You may not stash chickens in containers."
+to german "Tierquäler! Du kannst keine Hühner in Kisten sperren.";
+
+translate "You must identify what you want to take."
+to german "Du musst festlegen, was du nehmen möchtest.";
+
+translate "You cannot take those out."
+to german "Das kannst du nicht herausnehmen.";
+
+translate "The container does not contain any more of those."
+to german "Die Kiste enthält davon nichts mehr.";
+
+translate "There is not enough room in the container."
+to german "Es ist nicht genügend Platz in der Kiste.";
+
+translate "You don't have any more of those"
+to german "Du hast davon nichts mehr.";
+
+translate "You can't put a O1 into a O2"
+to german "Du kannst O1(kpn) O1(pn) in O2(asn) O2(sn) legen.";
+
+translate "Label this O1"
+to german "Gib O1(tsg) O1(sn) eine Bezeichnung";
+
+translate "Name this O1"
+to german "Benenne O1(^tsn) O1(sn)";
+
+translate "K1 (N1)"
+to german "K1 (N1)";
+
+translate "Quality N1"
+to german "Qualität N1";

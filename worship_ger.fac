@@ -1,0 +1,211 @@
+module worship_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002,2003,2004,2005 by MDO Entertainment               **
+//**                                                                       **
+//***************************************************************************
+
+translate SethStatue to german feminine
+{
+  swa "Statue des Seth";
+  sn "Statue des Seth"; sg "Statue des Seth"; sd "Statue des Seth"; sa "Statue des Seth";
+  pn "Statuen des Seth"; pg "Statuen des Seth"; pd "Statuen des Seth"; pa "Statuen des Seth";
+}
+
+translate "Study/Vision Ritual/Vision Ritual of Liquid Metal"
+to german "Studiere/Visionen Ritual/Visionen Ritual des Flüssigen Metalles";
+
+translate "Study/Vision Ritual/Vision Ritual of Red Metal"
+to german "Studiere/Visionen Ritual/Visionen Ritual des Roten Metalles";
+
+translate "Study/Vision Ritual/Vision Ritual of Black Metal"
+to german "Studiere/Visionen Ritual/Visionen Ritual des Schwarzen Metalles";
+
+translate "Study/Vision Ritual/Vision Ritual of white Metal"
+to german "Studiere/Visionen Ritual/Visionen Ritual des Weissen Metalles";
+
+translate "Vision Ritual of Liquid Metal"
+to german "Visionenritual des flüssigen Metalls";
+
+translate "Supplies"
+to german "Hilfsgüter";
+
+translate "Vision Ritual"
+to german "Visionenritual";
+
+translate "Vision Ritual of Red Metal"
+to german "Visionenritual des roten Metalls";
+
+translate "Vision Ritual of White Metal"
+to german "Visionenritual des weißen Metalls";
+
+translate "Vision Ritual of Black Metal"
+to german "Visionenritual des schwarzen Metalls";
+
+translate "Ask for some leather"
+to german "Frage nach etwas Leder";
+
+translate "Ask for some Vegetable Seeds"
+to german "Frage nach Gemüsesaaten";
+
+translate "Ask for some flax seeds"
+to german "Frage nach ein paar Flachssaaten";
+
+translate "Play as my wife "
+to german "Spiele als meine Frau ";
+
+translate "Play as my husband "
+to german "Spiele als mein Mann ";
+
+translate "Play as my wife U1"
+to german "Spiele als meine Frau U1(name)";
+
+translate "Play as my husband U1"
+to german "Spiele als mein Mann U1(name)";
+
+
+translate "U1's account is not currently active."
+to german "U1(name)'s Account ist momentan nicht aktiviert.";
+
+translate "You can only do this during official sessions."
+to german "Du kannst dies nur in offiziellen Spiel-Sitzungen tun.";
+
+translate "U1 is connected - you can only switch when they are logged out."
+to german "U1(name) spielt gerade - Du kannst nur wechseln, wenn der Partner ausgeloggt ist.";
+
+
+
+//objects
+
+//texts
+
+translate "To find copper ore:"
+to german "Um Kupfererz zu finden:";
+
+translate "Acolyte #1: Large Ruby on L Pillar"
+to german "Gefolgsmann #1: Grosser Rubin auf L Säule";
+
+translate "Acolyte #2: Large Ruby on L Focus"
+to german "Gefolgsmann #2: Grosser Rubin auf L Schale";
+
+translate "Acolyte #3: Large Ruby on R Focus"
+to german "Gefolgsmann #3: Grosser Rubin auf R Schale";
+
+translate "Acolyte #4: Large Ruby on R Pillar"
+to german "Gefolgsmann #4: Grosser Rubin auf R Säule";
+
+translate "Priest: Mediate on Altar"
+to german "Priester: Meditiere am Altar";
+
+translate "  Acolyte #1: Small Ruby on L Pillar"
+to german "Gefolgsmann #1: Kleiner Rubin auf L Säule";
+
+translate "  Acolyte #1: Small Ruby on L Focus"
+to german "Gefolgsmann #1: Kleiner Rubin auf L Schale";
+
+translate "  Acolyte #1: Small Ruby on R Focus"
+to german "Gefolgsmann #1: Kleiner Rubin auf R Schale";
+
+translate "  Acolyte #1: Small Ruby on R Pillar"
+to german "Gefolgsmann #1: Kleiner Rubin auf R Säule";
+
+translate "  Priest: Meditate on Altar"
+to german "  Priester: Meditiere am Altar";
+
+translate "To find iron ore:"
+to german "Um Eisenerz zu finden:";
+
+translate "  Acolyte #1: Small Quartz on L Pillar"
+to german "Gefolgsmann #1: Kleiner Quarz auf L Säule";
+
+translate "  Acolyte #2: Water on L Focus"
+to german "Gefolgsmann #2: Wasser auf L Schale";
+
+translate "  Acolyte #2: Water on R Focus"
+to german "Gefolgsmann #2: Wasser auf R Schale";
+
+translate "  Acolyte #1: Small Quartz on R Pillar"
+to german "Gefolgsmann #1: Kleiner Quarz auf R Säule";
+
+translate "To find aluminium ore:"
+to german "Um Aluminiumerz zu finden:";
+
+translate "  Acolyte #1: Water on L Pillar"
+to german "Gefolgsmann #1: Wasser auf L Säule";
+
+translate "  Acolyte #2: Water on L Focus"
+to german "Gefolgsmann #2: Wasser auf L Schale";
+
+translate "  Acolyte #3: Water on R Focus"
+to german "Gefolgsmann #3: Wasser auf R Schale";
+
+translate "  Acolyte #4: Water on R Pillar"
+to german "Gefolgsmann #4: Wasser auf R Säule";
+
+translate "  Priests #1, #2, #3: Meditate on Altar"
+to german "  Priester #1, #2, #3: Meditiere am Altar";
+
+translate "We're planning to give away leather once we can raise enough livestock. We don't have the technology needed yet to raise large numbers of animals. A donation to the university will help."
+to german "Wir planen, Leder herauszugeben, sobald wir genug Vieh haben. Wir haben nicht die Technologie, um größere Mengen an Tieren zu züchten. Eine Spende an der Universität wird helfen.";
+
+translate "Sorry, but you must have a paid account to get leather."
+to german "Entschuldige, aber du musst einen Zahlaccount haben, um Leder zu erhalten.";
+
+translate "Sorry - there's a limit of 2 pieces of leather per citizen."
+to german "Entschuldige - Das Limit pro Einwohner sind 2 Stück Leder.";
+
+translate "We're still setting up our seed program. Once agriculture research has been completed, we'll start giving away a packet of seeds to anyone interested in farming."
+to german "Wir planen immer noch unser Saatprogramm. Sobald Landwirtschaft komplett erforscht ist, werden wir einen Packen Saatgut an jeden interessierten Landwirt herausgeben.";
+
+translate "Sorry, but we only give seeds to citizens. Come back once you've passed the requirements."
+to german "Entschuldigung, nur Einwohner können Saaten erhalten. Kehre zurück, wenn Du die Voraussetzung erfüllt hast.";
+
+translate "As you are about to leave, a funny looking scientist with a green hat slips you an extra package of exotic seeds."
+to german "Als Du bereits im Begriff warst zu gehen, steckt Dir ein lustig aussehender Wissenschaftler mit einem grünen Hut ein Päckchen exotischer Saaten zu.";
+
+translate "Sorry, but you must have a paid account to get seeds."
+to german "Entschuldige, aber Du musst einen Zahlaccount haben, um Saaten zu erhalten.";
+
+translate "Each citizen is limited to a packet of 4 seeds. Our agricultural scientists have learned that under some conditions it is possible to grow additional seeds. Remember, certain crops only grow in specific soil types."
+to german "Jeder Einwohner erhält bis zu 4 Päckchen Saaten. Unsere Landwirtschafts-Forscher haben gelernt, daß man unter gewissen Konditionen weitere Saaten züchten kann. Merke Dir, daß Saaten nur in den dafür vorgesehenen Umgebungen gedeien.";
+
+translate "You get 4 O1. Other people that received different kinds of seeds may be willing to trade."
+to german "Du erhältst 4 O1(pn). Andere Leute haben andere Arten Saaten erhalten und möchten vielleicht mit Dir handeln.";
+
+translate "Grow vegetables while you can. A crop blight is forcast, and strains of seeds may change in the near future."
+to german "Züchte Gemüse so oft es geht. Eine Erntefäule wird erwartet und Saatstämme könnten sich in naher Zukunft ändern.";
+
+translate "You already got enough free flax seeds. Trade with others for different strains."
+to german "Du hast bereits genügend freie Flachssaaten. Handele mit anderen Spielern für verschiedene Arten.";
+
+translate "We gave you flax seeds very recently.  You need to wait two minutes between requests."
+to german "Wir haben Dir erst kürzlich Flachssaaten gegeben. Du musst nach jeder Anfrage 2 Minuten warten.";
+
+
+translate "If you have even one flax seed, you can reproduce it.  Experiment until you figure out how."
+to german "Wenn Du nur noch 1 Flachssaat hast, kannst Du sie vermehren. Experimentiere herum, um es herauszufinden, wie.";
+
+translate "You have only been given three flax seeds.  Try growing them (Plant menu) in different ways to see if you can get them to reproduce."
+to german "\n\nDir wurden nur 3 Flachssaaten gegeben. Säe sie auf verschiedene Weisen aus (Pflanz-Menü) um herauszufinden, wie Du sie vermehren kannst.";
+
+translate "Once you have figured out how to create an unlimited seed supply, start growing flax for the fibers."
+to german "Sobald Du herausgefunden hast, wie Du sie unendlich weiter vermehren kannst, beginne damit Flachs anzubauen, um weitere Rohstoffe zu erhalten.";
+
+translate "If you do not succeed in creating more seeds, come back here in two minutes and we will give you some more."
+to german "Solltest Du keinen Erfolg in ihrer Vermehrung haben, komme in 2 Minuten wieder und wir werden Dir erneut einige Saaten geben.\n";
+
+translate "Flax seeds have been placed in your inventory."
+to german "Flachssaaten wurden Dir in Dein Inventar gelegt.";
+
+translate "You can only do this during official sessions."
+to german "Du kannst dies nur in offiziellen Spiel-Sitzungen tun.";
+
+translate "U1 is connected - you can only switch when they are logged out."
+to german "U1(name) spielt gerade - Du kannst nur wechseln, wenn der Partner ausgeloggt ist.";
+
+translate "Will consume N1 O1 from O2 owned by U1"
+to german "Verbrauche N1 O1(N1?pn:sn) aus O2(dsd) O2(sd) von U1(name)";
+

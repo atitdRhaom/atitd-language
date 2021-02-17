@@ -1,0 +1,2068 @@
+module oasistypes_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002,2003,2004,2005 by MDO Entertainment	           **
+//**                                                                       **
+//***************************************************************************
+
+translate OAPCurltipSnakePlant to german feminine
+{
+swa "Kräuselnde Schlingpflanze";
+pwa "Kräuselnde Schlingpflanzen";
+  sn "Kräuselnde Schlingpflanze"; sg "Kräuselnden Schlingpflanze"; sd "Kräuselnden Schlingpflanze"; sa "Kräuselnde Schlingpflanze";
+  pn "Kräuselnden Schlingpflanzen"; pg "Kräuselnden Schlingpflanzen"; pd "Kräuselnden Schlingpflanzen"; pa "Kräuselnden Schlingpflanzen";
+ }
+
+translate OAPDatePalm to german femininecollective
+{
+swa "Dattelpalme";
+   sn "Dattelpalme"; sg "Dattelpalme"; sd "Dattelpalme"; sa "Dattelpalme";
+   pn "Dattelpalmen"; pg "Dattelpalmen"; pd "Dattelpalmen"; pa "Dattelpalmen";
+ }
+ 
+ translate OAPGreenGroundCover to german feminine
+ {
+ swa "Grüne Bodenbedeckung";
+   sn "Grüne Bodenbedeckung"; sg "Grünen Bodenbedeckung"; sd "Grünen Bodenbedeckung"; sa "Grüne Bodenbedeckung";
+   pn "Grünen Bodenbedeckungen"; pg "Grünen Bodenbedeckungen"; pd "Grünen Bodenbedeckungen"; pa "Grünen Bodenbedeckungen";
+ }
+ 
+ translate OAPRippleLeafLily to german femininecollective
+ {
+ swa "Gerippte Blattlilie";
+   sn "Gerippte Blattlilie"; sg "Gerippten Blattlilie"; sd "Gerippten Blattlilie"; sa "Gerippte Blattlilie";
+   pn "Gerippten Blattlilien"; pg "Gerippten Blattlilien"; pd "Gerippten Blattlilien"; pa "Gerippten Blattlilien";
+ }
+ 
+  translate OAPStoutPalm to german femininecollective
+  {
+  swa "Stämmige Palme";
+    sn "Stämmige Palme"; sg "Stämmigen Palme"; sd "Stämmigen Palme"; sa "Stämmige Palme";
+    pn "Stämmigen Palmen"; pg "Stämmigen Palmen"; pd "Stämmigen Palmen"; pa "Stämmigen Palmen";
+ }
+ 
+ translate OAPYellowGroundPalm to german feminine
+ {
+ swa "Gelbfußpalme";
+   sn "Gelbfußpalme"; sg "Gelbfußpalme"; sd "Gelbfußpalme"; sa "Gelbfußpalme";
+   pn "Gelbfußpalmen"; pg "Gelbfußpalmen"; pd "Gelbfußpalmen"; pa "Gelbfußpalmen";
+ }
+ 
+  translate OAPSnakePlant to german femininecollective
+  {
+  swa "Schlangenpflanze";
+    sn "Schlangenpflanze"; sg "Schlangenpflanze"; sd "Schlangenpflanze"; sa "Schlangenpflanze";
+    pn "Schlangenpflanzen"; pg "Schlangenpflanzen"; pd "Schlangenpflanzen"; pa "Schlangenpflanzen";
+ }
+  translate OAPMiniPalmetto to german femininecollective
+  {
+  swa "Minipalme";
+    sn "Minipalme"; sg "Minipalme"; sd "Minipalme"; sa "Minipalme";
+    pn "Minipalmen"; pg "Minipalmen"; pd "Minipalmen"; pa "Minipalmen";
+ }
+  translate OAPBigLeafPlant to german femininecollective
+  {
+  swa "Dickblattpflanze";
+    sn "Dickblattpflanze"; sg "Dickblattpflanze"; sd "Dickblattpflanze"; sa "Dickblattpflanze";
+    pn "Dickblattpflanzen"; pg "Dickblattpflanzen"; pd "Dickblattpflanzen"; pa "Dickblattpflanzen";
+ }
+  translate OAPThinleafYucca to german femininecollective
+  {
+  swa "Dünnblatt-Yucca";
+    sn "Dünnblatt-Yucca"; sg "Dünnblatt-Yucca"; sd "Dünnblatt-Yucca"; sa "Dünnblatt-Yucca";
+    pn "Dünnblatt-Yuccas"; pg "Dünnblatt-Yuccas"; pd "Dünnblatt-Yuccas"; pa "Dünnblatt-Yuccas";
+ }
+  translate OAPSpikyYucca to german femininecollective
+  {
+  swa "Dornenyucca";
+    sn "Dornenyucca"; sg "Dornenyucca"; sd "Dornenyucca"; sa "Dornenyucca";
+    pn "Dornenyuccas"; pg "Dornenyuccas"; pd "Dornenyuccas"; pa "Dornenyuccas";
+ }
+  translate OAPToweringPalm to german femininecollective
+  {
+  swa "Gewaltige Palme";
+    sn "Gewaltige Palme"; sg "Gewaltigen Palme"; sd "Gewaltigen Palme"; sa "Gewaltige Palme";
+    pn "Gewaltigen Palmen"; pg "Gewaltigen Palmen"; pd "Gewaltigen Palmen"; pa "Gewaltigen Palmen";
+ }
+  translate OAPBottleTree to german masculine
+  {
+  swa "Flaschenbaum";
+    sn "Flaschenbaum"; sg "Flaschenbaumes"; sd "Flaschenbaum"; sa "Flaschenbaum";
+    pn "Flaschenbäume"; pg "Flaschenbäume"; pd "Flaschenbäumen"; pa "Flaschenbäume";
+ }
+  translate OAPWaxySedge to german neuter
+  {
+  swa "Wachszyperngras";
+    sn "Wachszyperngras"; sg "Wachszyperngrases"; sd "Wachszyperngras"; sa "Wachszyperngras";
+    pn "Wachszyperngräser"; pg "Wachszyperngräser"; pd "Wachszyperngräsern"; pa "Wachszyperngräser";
+ }
+  translate OAPCamelmint to german feminine
+  {
+  swa "Camelmint";
+    sn "Camelmint"; 
+    pn "Camelmints"; 
+ }
+  translate OAPRoyalPalm to german femininecollective
+  {
+  swa "Königliche Palme";
+    sn "Königliche Palme"; sg "Königlichen Palme"; sd "Königlichen Palme"; sa "Königliche Palme";
+    pn "Königliche Palmen"; pg "Königlichen Palmen"; pd "Königlichen Palmen"; pa "Königlichen Palmen";
+ }
+  translate OAPBuffaloGrass to german neuter
+  {
+  swa "Büffelgras";
+    sn "Büffelgras"; sg "Büffelgrases"; sd "Büffelgras"; sa "Büffelgras";
+    pn "Büffelgräser"; pg "Büffelgräser"; pd "Büffelgräsern"; pa "Büffelgräser";
+ }
+  translate OAPOracleRoot to german feminine
+  {
+  swa "Orakelwurzel";
+    sn "Orakelwurzel"; sg "Orakelwurzel"; sd "Orakelwurzel"; sa "Orakelwurzel";
+    pn "Orakelwurzeln"; pg "Orakelwurzeln"; pd "Orakelwurzeln"; pa "Orakelwurzeln";
+ }
+  translate OAPTextureReference to german femine
+  {
+  swa "Texturreferenz";
+    sn "Texturreferenz"; sg "Texturreferenz"; sd "Texturreferenz"; sa "Texturreferenz";
+    pn "Texturreferenzen"; pg "Texturreferenzen"; pd "Texturreferenzen"; pa "Texturreferenzen";
+ }
+  translate OAPGiantCricklewood to german neuter
+  {
+  swa "Riesiges Knitterholz";
+    sn "Riesige Knitterholz"; sg "Riesigen Knitterholzes"; sd "Riesigen Knitterholz"; sa "Riesige Knitterholz";
+    pn "Riesigen Knitterhölzer"; pg "Riesige Knitterhölzer"; pd "Riesigen Knitterhölzern"; pa "Riesige Knitterhölzer";
+ }
+  translate OAPFirecrack to german masculine
+  {
+  swa "Felberich";
+    sn "Felberich"; sg "Felberichs"; sd "Felberich"; sa "Felberich";
+    pn "Felberiche"; pg "Felberiche"; pd "Felberichen"; pa "Felberiche";
+ }
+  translate OAPCattails to german neuter
+  {
+  swa "Katzenschwanz";
+    sn "Katzenschwanz"; sg "Katzenschwanzes"; sd "Katzenschwanz"; sa "Katzenschwanz";
+    pn "Katzenschwänze"; pg "Katzenschwänze"; pd "Katzenschwänzen"; pa "Katzenschwänze";
+ }
+  translate OAPMiniatureFernPalm to german femininecollective
+  {
+  swa "Kleine Farnpalme";
+    sn "Kleine Farnpalme"; sg "Kleinen Farnpalme"; sd "Kleinen Farnpalme"; sa "Kleine Farnpalme";
+    pn "Kleinen Farnpalmen"; pg "Kleinen Farnpalmen"; pd "Kleinen Farnpalmen"; pa "Kleinen Farnpalmen";
+ }
+  translate OAPCricklewood to german neuter
+  {
+  swa "Knitterholz";
+    sn "Knitterholz"; sg "Knitterholzes"; sd "Knitterholz"; sa "Knitterholz";
+    pn "Knitterhölzer"; pg "Knitterhölzer"; pd "Knitterhölzern"; pa "Knitterhölzer";
+ }
+   translate OAPDarkRadish to german masculine
+   {
+   swa "DarkRadish";
+     sn "DarkRadish";
+     pn "DarkRadish"; 
+ }
+   translate OAPTinyOilPalm to german feminine
+   {
+   swa "Kleine Ölpalme";
+     sn "Kleine Ölpalme"; sg "Kleinen Ölpalme"; sd "Kleinen Ölpalme"; sa "Kleine Ölpalmen";
+     pn "Kleine Ölpalmen"; pg "Kleine Ölpalmen"; pd "Kleinen Ölpalmen"; pa "Kleine Ölpalmen";
+ }
+    translate OAPOilPalm to german feminine
+    {
+    swa "Ölpalme";
+      sn "Ölpalme"; sg "Ölpalme"; sd "Ölpalme"; sa "Ölpalme";
+      pn "Ölpalmen"; pg "Ölpalmen"; pd "Ölpalmen"; pa "Ölpalmen";
+ }
+     translate OAPSpikedFishtree to german masculine
+     {
+     swa "Stacheliger Fischbaum";
+       sn "Stachelige Fischbaum"; sg "Stacheligen Fischbaumes"; sd "Stacheligen Fischbaum"; sa "Stachelige Fischbaum";
+       pn "Stacheligen Fischbäume"; pg "Stacheligen Fischbäume"; pd "Stacheligen Fischbäumen"; pa "Stacheligen Fischbäume";
+ }
+      translate OAPChicory to german masculine
+      {
+      swa "Zichorie";
+        sn "Zichorie"; sg "Zichorie"; sd "Zichorie"; sa "Zichorie";
+        pn "Zichorien"; pg "Zichorien"; pd "Zichorien"; pa "Zichorien";
+ }
+        translate OAPBloodBark to german feminine
+        {
+        swa "Blutborke";
+          sn "Blutborke"; sg "Blutborke"; sd "Blutborke"; sa "Blutborke";
+          pn "Blutborken"; pg "Blutborken"; pd "Blutborken"; pa "Blutborken";
+ }
+     translate OAPOilPalm to german feminine
+     {
+     swa "Ölpalme";
+       sn "Ölpalme"; sg "Ölpalme"; sd "Ölpalme"; sa "Ölpalme";
+       pn "Ölpalmen"; pg "Ölpalmen"; pd "Ölpalmen"; pa "Ölpalmen";
+ }
+  translate OAPPhoenixPalm to german feminine
+    {
+    swa "Phönixpalme";
+      sn "Phönixpalme"; sg "Phönixpalme"; sd "Phönixpalme"; sa "Phönixpalme";
+      pn "Phönixpalmen"; pg "Phönixpalmen"; pd "Phönixpalmen"; pa "Phönixpalmen";
+ }
+      translate OAPRedMaple to german masculinecollective
+      {
+      swa "Rotahorn";
+        sn "Rotahorn"; sg "Rotahorns"; sd "Rotahorn"; sa "Rotahorn";
+        pn "Rotahorn"; pg "Rotahorn"; pd "Rotahorn"; pa "Rotahorn";
+ }
+       translate OAPTrilobellia to german feminine
+       {
+       swa "Trilobellia";
+         sn "Trilobellia"; sg "Trilobellia"; sd "Trilobellia"; sa "Trilobellia";
+         pn "Trilobellien"; pg "Trilobellien"; pd "Trilobellien"; pa "Trilobellien";
+ }
+translate OAPArconis to german feminine
+{
+swa "Arconis";
+  sn "Arconis"; sg "Arconis"; sd "Arconis"; sa "Arconis";
+  pn "Arconis"; pg "Arconis"; pd "Arconis"; pa "Arconis";
+}
+translate OAPElephantia to german feminine
+{
+swa "Elefantia";
+  sn "Elefantia"; sg "Elefantia"; sd "Elefantia"; sa "Elefantia";
+  pn "Elefantien"; pg "Elefantien"; pd "Elefantien"; pa "Elefantien";
+}
+translate OAPBeetleNut to german masculine
+{
+swa "Betelnussbaum";
+  sn "Betelnussbaum"; sg "Betelnussbaums"; sd "Betelnussbaum"; sa "Betelnussbaum";
+  pn "Betelnussbäume"; pg "Betelnussbäume"; pd "n"; pa "Betelnussbäume";
+}
+   translate OAPVelvetHosta to german femininecollective
+   {
+   swa "Samt-Taglilie";
+     sn "Samt-Taglilie"; sg "Samt-Taglilie"; sd "Samt-Taglilie"; sa "Samt-Taglilie";
+     pn "Samt-Taglilien"; pg "Samt-Taglilien"; pd "Samt-Taglilien"; pa "Samt-Taglilien";
+ }
+    translate OAPChives to german masculine
+    {
+    swa "Chives";
+      sn "Chives"; 
+      pn "Chives"; 
+ }
+   translate OAPGarlicChives to german masculinecollective
+   {
+   swa "Garlic Chives";
+     sn "Garlic Chives"; 
+     pn "Garlic Chives"; 
+ }
+   translate OAPWildLettuce to german masculine
+   {
+   swa "Wild Lettuce";
+     sn "Wild Lettuce";
+     pn "Wild Lettuces"; 
+ }
+   translate OAPCrimsonLettuce to german masculine
+   {
+   swa "Crimson Lettuce";
+     sn "Crimson Lettuce";
+     pn "Crimson Lettuces"; 
+ }
+   translate OAPDwarfWildLettuce to german masculine
+   {
+   swa "Dwarf Wild Lettuce";
+     sn "Dwarf Wild Lettuce";
+     pn "Dwarf Wild Lettuces";
+ }
+   translate OAPLionsGrass to german neutercollective
+   {
+   swa "Löwengras";
+     sn "Löwengras"; sg "Löwengrases"; sd "Löwengras"; sa "Löwengras";
+     pn "Löwengräser"; pg "Löwengräser"; pd "Löwengräsern"; pa "Löwengräser";
+ }
+ 
+    translate OAPBlueGrass to german neuter
+    {
+    swa "Blaugras";
+      sn "Blaugras"; sg "Blaugrases"; sd "Blaugras"; sa "Blaugras";
+      pn "Blaugräser"; pg "Blaugräser"; pd "Blaugräsern"; pa "Blaugräser";
+ }
+ 
+     translate OAPPonySedge to german neuter
+     {
+     swa "Ponyzyperngras";
+       sn "Ponyzyperngras"; sg "Ponyzyperngrases"; sd "Ponyzyperngras"; sa "Ponyzyperngras";
+       pn "Ponyzyperngräser"; pg "Ponyzyperngräser"; pd "Ponyzyperngräsern"; pa "Ponyzyperngräser";
+ }
+      translate OAPWaterLeaf to german neuter
+      {
+      swa "Wasserblatt";
+        sn "Wasserblatt"; sg "Wasserblattes"; sd "Wasserblatt"; sa "Wasserblatt";
+        pn "Wasserblätter"; pg "Wasserblätter"; pd "Wasserblättern"; pa "Wasserblätter";
+   }
+   
+translate OAPPumilaGrass to german neuter
+  {
+swa "Pumilagras";
+sn "Pumilagras"; sg "Pumilagrases"; sd "Pumilagras"; sa "Pumilagras";
+pn "Pumilagräser"; pg "Pumilagräser"; pd "Pumilagräsern"; pa "Pumilagräser";
+ }
+translate OAPBluePumilaGrass to german neuter
+ {
+swa "Blaues Pumilagras";
+sn "Blaue Pumilagras"; sg "Blauen Pumilagrases"; sd "Blauen Pumilagras"; sa "Blaue Pumilagras";
+pn "Blauen Pumilagräser"; pg "Blauen Pumilagräser"; pd "Blauen Pumilagräsern"; pa "Blauen Pumilagräser";
+ }
+ 
+translate OAPOlivePumilaGrass to german neuter
+{
+swa "Dunkles Pumilagras";
+  sn "Dunkle Pumilagras"; sg "Dunklen Pumilagrases"; sd "Dunklen Pumilagras"; sa "Dunkle Pumilagras";
+  pn "Dunklen Pumilagräser"; pg "Dunklen Pumilagräser"; pd "Dunklen Pumilagräsern"; pa "Dunklen Pumilagräser";
+ }
+
+translate OAPGoldenPampasGrass to german neuter
+{
+swa "Goldpampagras";
+  sn "Goldpampagras"; sg "Goldpampagrases"; sd "Goldpampagras"; sa "Goldpampagras";
+  pn "Goldpampagräser"; pg "Goldpampagräser"; pd "Goldpampagräsern"; pa "Goldpampagräser";
+ }
+translate OAPDarkPampasGrass to german neuter
+{
+swa "Dunkles Pampagras";
+  sn "Dunkle Pampagras"; sg "Dunklen Pampagrases"; sd "Dunklen Pampagras"; sa "Dunkle Pampagras";
+  pn "Dunklen Pampagräser"; pg "Dunklen Pampagräser"; pd "Dunklen Pampagräsern"; pa "Dunklen Pampagräser";
+ }
+translate OAPPalePampasGrass to german neuter
+{
+swa "Helles Pampasgras";
+  sn "Helle Pampasgras"; sg "Hellen Pampasgrases"; sd "Hellen Pampasgras"; sa "Helle Pampasgras";
+  pn "Hellen Pampasgräser"; pg "Hellen Pampasgräser"; pd "Hellen Pampasgräsern"; pa "Hellen Pampasgräser";
+ }
+translate OAPBrambleHedge to german neuter
+{
+swa "Brombeergehölz";
+  sn "Brombeergehölz"; sg "Brombeergehölzes"; sd "Brombeergehölz"; sa "Brombeergehölz";
+  pn "Brombeergehölze"; pg "Brombeergehölze"; pd "Brombeergehölzen"; pa "Brombeergehölze";
+ }
+translate OAPWildOnion to german femininecollective
+{
+swa "Wild Onion";
+  sn "Wild Onion"; 
+  pn "Wild Onions"; 
+ }
+translate OAPRazorLeaf to german neuter
+{
+swa "Rasierblatt";
+  sn "Rasierblatt"; sg "Rasierblattes"; sd "Rasierblatt"; sa "Rasierblatt";
+  pn "Rasierblätter"; pg "Rasierblätter"; pd "Rasierblättern"; pa "Rasierblätter";
+ }
+translate OAPShowyStonecrop to german masculine
+{
+swa "Prächtiger Mauerpfeffer";
+  sn "Prächtige Mauerpfeffer"; sg "Prächtigen Mauerpfeffers"; sd "Prächtigen Mauerpfeffer"; sa "Prächtige Mauerpfeffer";
+  pn "Prächtigen Mauerpfeffer"; pg "Prächtigen Mauerpfeffer"; pd "Prächtigen Mauerpfeffern"; pa "Prächtigen Mauerpfeffer";
+ }
+translate OAPGiantLavenderStonecrop to german masculine
+{
+swa "Lilaner Riesenmauerpfeffer";
+  sn "Lilane Riesenmauerpfeffer"; sg "Lilanen Riesenmauerpfeffers"; sd "Lilanen Riesenmauerpfeffer"; sa "Lilane Riesenmauerpfeffer";
+  pn "Lilanen Riesenmauerpfeffer"; pg "Lilanen Riesenmauerpfeffer"; pd "Lilanen Riesenmauerpfeffern"; pa "Lilanen Riesenmauerpfeffer";
+ }
+translate OAPTaro to german femininecollective
+{
+swa "Riesige Wasserbrotwurzel";
+  sn "Wasserbrotwurzel"; sg "Wasserbrotwurzel"; sd "Wasserbrotwurzel"; sa "Wasserbrotwurzel";
+  pn "Wasserbrotwurzeln"; pg "Wasserbrotwurzeln"; pd "Wasserbrotwurzeln"; pa "Wasserbrotwurzeln";
+ }
+translate OAPGargantuanTaro to german neuter
+{
+swa "Riesige Wasserbrotwurzel";
+  sn "Riesige Wasserbrotwurzel"; sg "Riesigen Wasserbrotwurzel"; sd "Riesigen Wasserbrotwurzel"; sa "Riesige Wasserbrotwurzel";
+  pn "Riesigen Wasserbrotwurzeln"; pg "Riesigen Wasserbrotwurzeln"; pd "Riesigen Wasserbrotwurzeln"; pa "Riesigen Wasserbrotwurzeln";
+ }
+translate OAPPaleRusset to german neuter
+{
+swa "Pale Russet";
+  sn "Pale Russet"; 
+  pn "Pale Russets";
+ }
+translate OAPRosyStonecrop to german masculinecollective
+{
+swa "Roter Mauerpfeffer";
+  sn "Rote Mauerpfeffer"; sg "Roten Mauerpfeffers"; sd "Roten Mauerpfeffer"; sa "Rote Mauerpfeffer";
+  pn "Roter Mauerpfeffer"; pg "Roter Mauerpfeffer"; pd "Roter Mauerpfeffer"; pa "Roter Mauerpfeffer";
+ }
+translate OAPMilkWeed to german neuter
+{
+swa "Schwalbenwurzgewächs";
+  sn "Schwalbenwurzgewächs"; sg "Schwalbenwurzgewächses"; sd "Schwalbenwurzgewächs"; sa "Schwalbenwurzgewächs";
+  pn "Schwalbenwurzgewächse"; pg "Schwalbenwurzgewächse"; pd "Schwalbenwurzgewächsen"; pa "Schwalbenwurzgewächse";
+ }
+translate OAPLemonGrass to german neuter
+{
+swa "Lemon Grass";
+  sn "Lemon Grass";
+  pn "Lemon Grass";
+ }
+translate OAPCreepingThyme to german masculine
+{
+swa "Creeping Thyme";
+  sn "Creeping Thyme";
+  pn "Creeping Thymes";
+ }
+
+translate OAPThyme to german masculine
+{
+swa "Thyme";
+  sn "Thyme";
+  pn "Thymes";
+ }
+translate OAPGoldenThyme to german masculine
+{
+swa "Golden Thyme";
+  sn "Golden Thyme"; 
+  pn "Golden Thymes";
+ }
+translate OAPLavenderScentedThyme to german masculine
+{
+swa "Lavender Scented Thyme";
+  sn "Lavender Scented Thyme";
+  pn "Lavender Scented Thymes";
+ }
+translate OAPSorrel to german masculine
+{
+swa "Sorrel";
+  sn "Sorrel"; 
+  pn "Sorrels";
+ }
+translate OAPWildGarlic to german masculinecollective
+{
+swa "WildGarlic";
+  sn "WildGarlic";
+  pn "WildGarlics";
+ }
+translate OAPChiffonFunnelPlant to german feminine
+{
+swa "Chiffon-Trichterpflanze";
+  sn "Chiffon-Trichterpflanze"; sg "Chiffon-Trichterpflanze"; sd "Chiffon-Trichterpflanze"; sa "Chiffon-Trichterpflanze";
+  pn "Chiffon-Trichterpflanzen"; pg "Chiffon-Trichterpflanzen"; pd "Chiffon-Trichterpflanzen"; pa "Chiffon-Trichterpflanzen";
+ }
+translate OAPNubianLiquorice to german neuter
+{
+swa "Nubian Liquorice";
+  sn "Nubian Liquorice"; 
+  pn "Nubian Liquorice";
+ }
+translate OAPMyrrh to german femininecollective
+{
+swa "Myrrh";
+  sn "Myrrh";
+  pn "Myrrhs";
+ }
+translate OAPHaresTongueFern to german masculine
+{
+swa "Hasenzungenfarn";
+  sn "Hasenzungenfarn"; sg "Hasenzungenfarns"; sd "Hasenzungenfarn"; sa "Hasenzungenfarn";
+  pn "Hasenzungenfarne"; pg "Hasenzungenfarne"; pd "Hasenzungenfarnen"; pa "Hasenzungenfarne";
+ }
+translate OAPCobraWeed to german masculine
+{
+swa "Kobraknöterich";
+  sn "Kobraknöterich"; sg "Kobraknöterichs"; sd "Kobraknöterich"; sa "Kobraknöterich";
+  pn "Kobraknöterichen"; pg "Kobraknöterichen"; pd "Kobraknöterichen"; pa "Kobraknöterichen";
+ }
+  translate OAPHawthorn to german masculine
+  {
+  swa "Hagedorn";
+    sn "Hagedorn"; sg "Hagedorns"; sd "Hagedorn"; sa "Hagedorn";
+    pn "Hagedornen"; pg "Hagedornen"; pd "Hagedornen"; pa "Hagedornen";
+ }
+  translate OAPFernPalm to german femininecollective
+  {
+  swa "Farnpalme";
+    sn "Farnpalme"; sg "Farnpalme"; sd "Farnpalme"; sa "Farnpalme";
+    pn "Farnpalmen"; pg "Farnpalmen"; pd "Farnpalmen"; pa "Farnpalmen";
+ }
+translate OAPKnotGrass to german neuter
+{
+swa "Knotengras";
+  sn "Knotengras"; sg "Knotengrases"; sd "Knotengras"; sa "Knotengras";
+  pn "Knotengräser"; pg "Knotengräser"; pd "Knotengräser"; pa "Knotengräser";
+ }
+translate OAPWaterBlossom to german feminine
+{
+swa "Wasserblüte";
+  sn "Wasserblüte"; sg "Wasserblüte"; sd "Wasserblüte"; sa "Wasserblüte";
+  pn "Wasserblüten"; pg "Wasserblüten"; pd "Wasserblüten"; pa "Wasserblüten";
+ }
+translate OAPCardamom to german masculinecollective
+{
+swa "Cardamom";
+  sn "Cardamom";
+  pn "Cardamoms"; 
+ }
+translate OAPCicadaBean to german femininecollective
+{
+swa "Cicada Bean";
+  sn "Cicada Bean";
+  pn "Cicada Beans";
+ }
+translate OAPSerpentsShade to german masculine
+{
+swa "Schlangenschatten";
+  sn "Schlangenschatten"; sg "Schlangenschattens"; sd "Schlangenschatten"; sa "Schlangenschatten";
+  pn "Schlangenschatten"; pg "Schlangenschatten"; pd "Schlangenschatten"; pa "Schlangenschatten";
+ }
+translate OAPSugarCane to german neuter
+{
+swa "Sugar Cane";
+  sn "Sugar Cane";
+  pn "SugarCanes";
+ }
+translate OAPSandalwood to german neuter
+{
+swa "Sandal wood";
+  sn "Sandal wood";
+  pn "Sandal woods";
+ }
+translate OAPSawGroundPalmetto to german feminine
+{
+swa "Sägerpalme";
+  sn "Sägerpalme"; sg "Sägerpalme"; sd "Sägerpalme"; sa "Sägerpalme";
+  pn "Sägerpalmen"; pg "Sägerpalmen"; pd "Sägerpalmen"; pa "Sägerpalmen";
+ }
+translate OAPGammaGrass to german neuter
+{
+swa "Gammagras";
+  sn "Gammagras"; sg "Gammagrases"; sd "Gammagras"; sa "Gammagras";
+  pn "Gammagräser"; pg "Gammagräser"; pd "Gammagräsern"; pa "Gammagräser";
+ }
+translate OAPTrunklessRadicalisPalm to german feminine
+{
+swa "Ausgetrocknete Palme";
+  sn "Ausgetrocknete Palme"; sg "Ausgetrockneten Palme"; sd "Ausgetrockneten Palme"; sa "Ausgetrocknete Palme";
+  pn "Ausgetrockneten Palmen"; pg "Ausgetrockneten Palmen"; pd "Ausgetrockneten Palmen"; pa "Ausgetrockneten Palmen";
+ }
+translate OAPBrownMuskerro to german masculine
+{
+swa "Brown Muskerro";
+  sn "Brown Muskerro"; 
+  pn "Brown Muskerros"; 
+ }
+translate OAPKhokali to german feminine
+{
+swa "Khokali";
+  sn "Khokali";
+  pn "Khokalis";
+ }
+translate OAPBlueTarafern to german masculine
+{
+swa "Blue Tarafern";
+  sn "Blue Tarafern"; 
+  pn "Blue Taraferns"; 
+ }
+translate OAPBhillawa to german feminine
+{
+swa "Bhillawa";
+  sn "Bhillawa";
+  pn "Bhillawas";
+ }
+translate OAPPrisniparni to german neuter
+{
+swa "Prisniparni";
+  sn "Prisniparni";
+  pn "Prisniparnis";
+ }
+translate OAPCrimsonWindleaf to german neuter
+{
+swa "Crimson Windleaf";
+  sn "Crimson Windleaf"; 
+  pn "Crimson Windleafs";
+ }
+translate OAPDankMullien to german neuter
+{
+swa "Dank Mullien";
+  sn "Dank Mullien";
+  pn "Dank Mulliens";
+ }
+translate OAPDaggerleaf to german neuter
+{
+swa "Daggerleaf";
+  sn "Daggerleaf"; 
+  pn "Daggerleafs";
+ }
+translate OAPWeepingPatala to german neuter
+{
+swa "Weeping Patala";
+  sn "Weeping Patala";
+  pn "Weeping Patalas";
+ }
+translate OAPDrapeauDor to german neuter
+{
+swa "Drapeau D´or";
+  sn "Drapeau D´ or";
+  pn "Drapeau D´ors"; 
+ }
+translate OAPBrassyCaltrops to german neuter
+{
+swa "Brassy Caltrops";
+  sn "Brassy Caltrops";
+  pn "Brassy Caltrops";
+ }
+translate OAPBloodBlossom to german feminine
+{
+swa "Blood Blossom";
+  sn "Blood Blossom";
+  pn "Blood Blossoms";
+ }
+translate OAPIceBlossom to german feminine
+{
+swa "Ice Blossom";
+  sn "Ice Blossom"; 
+  pn "Ice Blossoms"; 
+ }
+translate OAPBlushingBlossom to german feminine
+{
+swa "Blushing Blossom";
+  sn "Blushing Blossom"; 
+  pn "Blushing Blossoms";
+ }
+translate OAPStrychnos to german neuter
+{
+swa "Strychnos";
+  sn "Strychnos"; 
+  pn "Strychnos"; 
+ }
+translate OAPMirabellisFern to german masculine
+{
+swa "Mirabellis Fern";
+  sn "Mirabellis Fern"; 
+  pn "Mirabellis Ferns";
+ }
+translate OAPAnaxi to german neuter
+{
+swa "Anaxi";
+  sn "Anaxi"; sg "Anaxis"; sd "Anaxi"; sa "Anaxi";
+  pn "Anaxis"; pg "Anaxis"; pd "Anaxis"; pa "Anaxis";
+ }
+    translate OAPCoconutPalm to german femininecollective
+    {
+    swa "Kokosnußpalme";
+      sn "Kokosnußpalme"; sg "Kokosnußpalme"; sd "Kokosnußpalme"; sa "Kokosnußpalme";
+      pn "Kokosnußpalmen"; pg "Kokosnußpalmen"; pd "Kokosnußpalmen"; pa "Kokosnußpalmen";
+ }
+translate OAPCeruleanBlue to german neuter
+{
+swa "Himmelsblau";
+  sn "Himmelsblau"; sg "Himmelsblaus"; sd "Himmelsblau"; sa "Himmelsblau";
+  pn "Himmelsblaue"; pg "Himmelsblaue"; pd "Himmelsblauen"; pa "Himmelsblaue";
+ }
+translate OAPPirella to german feminine
+{
+swa "Pirella";
+  sn "Pirella"; sg "Pirella"; sd "Pirella"; sa "Pirella";
+  pn "Pirellas"; pg "Pirellas"; pd "Pirellas"; pa "Pirella";
+ }
+translate OAPAdzaka to german feminine
+{
+swa "Adzaka";
+  sn "Adzaka"; sg "Adzaka"; sd "Adzaka"; sa "Adzaka";
+  pn "Adzakas"; pg "Adzakas"; pd "Adzakas"; pa "Adzakas";
+ }
+translate OAPBrushae to german feminine
+{
+swa "Brushae";
+  sn "Brushae"; sg "Brushae"; sd "Brushae"; sa "Brushae";
+  pn "Brushaen"; pg "Brushaen"; pd "Brushaen"; pa "Brushaen";
+ }
+translate OAPBullsBlood to german neuter
+{
+swa "Bull's Blood";
+  sn "Bull's Blood"; 
+  pn "Bull's Bloods"; 
+ }
+translate OAPWidowsBrush to german feminine
+{
+swa "Witwenbürste";
+  sn "Witwenbürste"; sg "Witwenbürste"; sd "Witwenbürste"; sa "Witwenbürste";
+  pn "Witwenbürsten"; pg "Witwenbürsten"; pd "Witwenbürsten"; pa "Witwenbürsten";
+ }
+translate OAPTamarask to german neuter
+{
+swa "Tamarask";
+  sn "Tamarask"; 
+  pn "Tamarasks";
+ }
+translate OAPFumitory to german neuter
+{
+swa "Fumitory";
+  sn "Fumitory"; 
+  pn "Fumitories"; 
+ }
+translate OAPBurntTarragon to german neuter
+{
+swa "Burnt Tarragon";
+  sn "Burnt Tarragon"; 
+  pn "Burnt Tarragons";
+ }
+translate OAPGingerTarragon to german neuter
+{
+swa "Ginger Tarragon";
+  sn "Ginger Tarragon"; 
+  pn "Ginger Tarragons";
+ }
+translate OAPTrueTarragon to german neuter
+{
+swa "True Tarragon";
+  sn "True Tarragon";
+  pn "True Tarragons";
+ }
+translate OAPKatakoRoot to german neuter
+{
+swa "Katako Root";
+  sn "Katako Root";
+  pn "Katako Roots"; 
+ }
+translate OAPLamae to german neuter
+{
+swa "Lamae";
+  sn "Lamae"; 
+  pn "Lamaes";
+ }
+translate OAPMiniatureLamae to german neuter
+{
+swa "Miniature Lamae";
+  sn "Miniature Lamae"; 
+  pn "Miniature Lamaes"; 
+ }
+translate OAPSpinnea to german neuter
+{
+swa "Spinnea";
+  sn "Spinnea"; 
+  pn "Spinneas";
+ }
+translate OAPChakkanutTree to german masculine
+{
+swa "Chakka-Nussbaum";
+  sn "Chakka-Nussbaum"; sg "Chakka-Nussbaumes"; sd "Chakka-Nussbaum"; sa "Chakka-Nussbaum";
+  pn "Chakka-Nussbäume"; pg "Chakka-Nussbäume"; pd "Chakka-Nussbäume"; pa "Chakka-Nussbäume";
+ }
+translate OAPCaraway to german neuter
+{
+swa "Caraway";
+  sn "Caraway"; 
+  pn "Caraways";
+ }
+translate OAPMonkeyPalm to german feminine
+{
+swa "Affenpalme";
+  sn "Affenpalme"; sg "Affenpalme"; sd "Affenpalme"; sa "Affenpalme";
+  pn "Affenpalmen"; pg "Affenpalmen"; pd "Affenpalmen"; pa "Affenpalmen";
+ }
+ translate OAPLocustPalm to german feminine
+ {
+ swa "Schotendornpalme ";
+   sn "Schotendornpalme "; sg "Schotendornpalme "; sd "Schotendornpalme "; sa "Schotendornpalme ";
+   pn "Schotendornpalmen"; pg "Schotendornpalmen"; pd "Schotendornpalmen"; pa "Schotendornpalmen";
+ }
+translate OAPEmeraldFlag to german feminine
+{
+swa "Smaragd Araceae ";
+  sn "Smaragd Araceae "; sg "Smaragd Araceae"; sd "Smaragd Araceae"; sa "Smaragd Araceae";
+  pn "Smaragd Araceaen"; pg "Smaragd Araceaen"; pd "Smaragd Araceaen"; pa "Smaragd Araceaen";
+ }
+translate OAPYigory to german neuter
+{
+swa "Yigory";
+  sn "Yigory";
+  pn "Yigorys";
+ }
+translate OAPTrilobe to german neuter
+{
+swa "Trilobe";
+  sn "Trilobe";
+  pn "Trilobes";
+ }
+translate OAPLambsEar to german neuter
+{
+swa "Eselsohr";
+  sn "Eselsohr"; sg "Eselsohrs"; sd "Eselsohr"; sa "Eselsohr";
+  pn "Eselsohren"; pg "Eselsohren"; pd "Eselsohren"; pa "Eselsohren";
+ }
+translate OAPAloe to german feminine
+{
+swa "Aloe";
+  sn "Aloe";
+  pn "Aloen";
+ }
+translate OAPGingerRoot to german neuter
+{
+swa "Ginger Root";
+  sn "Ginger Root";
+  pn "Ginger Roots";
+ }
+translate OAPNightsBeauty to german feminine
+{
+swa "Schönheit der Nacht";
+  sn "Schönheit der Nacht"; sg "Schönheit der Nacht"; sd "Schönheit der Nacht"; sa "Schönheit der Nacht";
+  pn "Schönheiten der Nacht"; pg "Schönheiten der Nacht"; pd "Schönheiten der Nacht"; pa "Schönheiten der Nacht";
+ }
+translate OAPBlackPepperPlant to german feminine
+{
+swa "Black Pepper Plant";
+  sn "Black Pepper Plant";
+  pn "Black Pepper Plants";
+ }
+translate OAPRedPepperPlant to german feminine
+{
+swa "Red Pepper Plant";
+  sn "Red Pepper Plant";
+  pn "Red Pepper Plants";
+ }
+translate OAPWhitePepperPlant to german feminine
+{
+swa "White Pepper Plant";
+  sn "White Pepper Plant";
+  pn "White Pepper Plants";
+ }
+translate OAPSpinach to german masculine
+{
+swa "Spinach";
+  sn "Spinach";
+  pn "Spinachs";
+ }
+translate OAPMillefoil to german feminine
+{
+swa "Schafgarbe";
+  sn "Schafgarbe"; sg "Schafgarbe"; sd "Schafgarbe"; sa "Schafgarbe";
+  pn "Schafgarben"; pg "Schafgarben"; pd "Schafgarben"; pa "Schafgarben";
+ }
+translate OAPCommonSage to german neuter
+{
+swa "Common Sage";
+  sn "Common Sage";
+  pn "Common Sages";
+ }
+translate OAPDustyBlueSage to german neuter
+{
+swa "Dusty Blue Sage";
+  sn "Dusty Blue Sage";
+  pn "Dusty Blue Sages";
+ }
+translate OAPWoodSage to german neuter
+{
+swa "Wood Sage";
+  sn "Wood Sage";
+  pn "Wood Sages";
+ }
+translate OAPMoonAloe to german feminine
+{
+swa "Moon Aloe";
+  sn "Moon Aloe";
+  pn "Moon Aloen";
+ }
+translate OAPShrubSage to german neuter
+{
+swa "Shrub Sage";
+  sn "Shrub Sage";
+  pn "Shrub Sages";
+ }
+translate OAPCommonRosemary to german masculine
+{
+swa "Common Rosemary";
+  sn "Common Rosemary";
+  pn "Common Rosemarys";
+ }
+translate OAPRoyalRosemary to german masculine
+{
+swa "Royal Rosemary";
+  sn "Royal Rosemary";
+  pn "Royal Rosemarys";
+ }
+translate OAPMaidensRuin to german feminine
+{
+swa "Eberraute";
+  sn "Eberraute"; sg "Eberraute"; sd "Eberraute"; sa "Eberraute";
+  pn "Eberrauten"; pg "Eberrauten"; pd "Eberrauten"; pa "Eberrauten";
+ }
+translate OAPBogMallow to german feminine
+{
+swa "Sumpfmalve";
+  sn "Sumpfmalve"; sg "Sumpfmalve"; sd "Sumpfmalve"; sa "Sumpfmalve";
+  pn "Sumpfmalven"; pg "Sumpfmalven"; pd "Sumpfmalven"; pa "Sumpfmalven";
+ }
+translate OAPCatsTongue to german feminine
+{
+swa "Katzenzunge";
+  sn "Katzenzunge"; sg "Katzenzunge"; sd "Katzenzunge"; sa "Katzenzunge";
+  pn "Katzenzungen"; pg "Katzenzungen"; pd "Katzenzungen"; pa "Katzenzungen";
+ }
+translate OAPKurrat to german masculine
+{
+swa "Ägyptischer Lauch";
+  sn "Ägyptische Lauch"; sg "Ägyptischen Lauchs"; sd "Ägyptischen Lauch"; sa "Ägyptische Lauch";
+  pn "Ägyptische Lauch"; pg "Ägyptische Lauch"; pd "Ägyptische Lauch"; pa "Ägyptische Lauch";
+ }
+translate OAPBeetleLeaf to german neuter
+{
+swa "Beetle Leaf";
+  sn "Beetle Leaf";
+  pn "Beetle Leafs";
+ }
+translate OAPPippali to german feminine
+{
+swa "Pippali";
+  sn "Pippali";
+  pn "Pippalis";
+ }
+translate OAPPurpleTintiri to german feminine
+{
+swa "Purple Tintiri";
+  sn "Purple Tintiri";
+  pn "Purple Tintiris";
+ }
+translate OAPSandyDustweed to german neuter
+{
+swa "Sandy Dustweed";
+  sn "Sandy Dustweed";
+  pn "Sandy Dustweed";
+ }
+translate OAPMaragosa to german feminine
+{
+swa "Maragosa";
+  sn "Maragosa";
+  pn "Maragosas";
+ }
+translate OAPChukkah to german feminine
+{
+swa "Chukkah";
+  sn "Chukkah";
+  pn "Chukkahs";
+ }
+translate OAPCovage to german neuter
+{
+swa "Covage";
+  sn "Covage";
+  pn "Covages";
+ }
+translate OAPDameshood to german neuter
+{
+swa "Dameshood";
+  sn "Dameshood";
+  pn "Dameshoods";
+ }
+translate OAPNaranga to german feminine
+{
+swa "Naranga";
+  sn "Naranga";
+  pn "Narangas";
+ }
+translate OAPTangerineDream to german masculine
+{
+swa "Tangerine Dream";
+  sn "Tangerine Dream";
+  pn "Tangerine Dreams";
+ }
+translate OAPDeadlyCatsclaw to german feminine
+{
+swa "Deadly Catsclaw";
+  sn "Deadly Catsclaw";
+  pn "Deadly Catsclaws";
+ }
+translate OAPFleabane to german feminine
+{
+swa "Fleabane";
+  sn "Fleabane";
+  pn "Fleabanes";
+ }
+translate OAPCurlySage to german neuter
+{
+swa "Curly Sage";
+  sn "Curly Sage";
+  pn "Curly Sages";
+ }
+translate OAPVerdantTwoLobe to german neuter
+{
+swa "Verdant Two Lobe";
+  sn "Verdant Two Lobe";
+  pn "Verdant Two Lobes";
+ }
+translate OAPCyanCressida to german feminine
+{
+swa "Cyan Cressida";
+  sn "Cyan Cressida";
+  pn "Cyan Cressidas";
+ }
+translate OAPHomesteadersPalm to german feminine
+{
+swa "Homesteaders Palm";
+  sn "Homesteaders Palm";
+  pn "Homesteaders Palms";
+ }
+translate OAPDeadwoodTree to german masculine
+{
+swa "Deadwood Tree";
+  sn "Deadwood Tree";
+  pn "Deadwood Trees";
+ }
+translate OAPScaleyHardwood to german neuter
+{
+swa "Scaley Hardwood";
+  sn "Scaley Hardwood";
+  pn "Scaley Hardwood";
+ }
+translate OAPKaeshra to german feminine
+{
+swa "Kaeshra";
+  sn "Kaeshra"; sg "Kaeshra"; sd "Kaeshra"; sa "Kaeshra";
+  pn "Kaeshras"; pg "Kaeshras"; pd "Kaeshras"; pa "Kaeshras";
+ }
+translate OAPTapacaeMiralis to german femininecollective
+{
+swa "Tapacae Miralis";
+  sn "Tapacae Miralis"; sg "Tapacae Miralis"; sd "Tapacae Miralis"; sa "Tapacae Miralis";
+  pn "Tapacae Miralis"; pg "Tapacae Miralis"; pd "Tapacae Miralis"; pa "Tapacae Miralis";
+ }
+translate OAPAshPalm to german feminine
+{
+swa "Aschepalme";
+  sn "Aschepalme"; sg "Aschepalme"; sd "Aschepalme"; sa "Aschepalme";
+  pn "Aschepalmen"; pg "Aschepalmen"; pd "Aschepalmen"; pa "Aschepalmen";
+ }
+translate OAPOrris to german feminine
+{
+swa "Orris";
+  sn "Orris";
+  pn "Orris";
+ }
+translate OAPQuince to german feminine
+{
+swa "Quitte";
+  sn "Quitte"; sg "Quitte"; sd "Quitte"; sa "Quitte";
+  pn "Quitten"; pg "Quitten"; pd "Quitten"; pa "Quitten";
+ }
+translate OAPRyegrass to german neuter
+{
+swa "Roggengras";
+  sn "Roggengras"; sg "Roggengrases"; sd "Roggengras"; sa "Roggengras";
+  pn "Roggengräser"; pg "Roggengräser"; pd "Roggengräser"; pa "Roggengräser";
+ }
+translate OAPHathorsCup to german masculine
+{
+swa "Hathor's Becher";
+  sn "Hathor's Becher"; sg "Hathor's Bechers"; sd "Hathor's Becher"; sa "Hathor's Becher";
+  pn "Hathor's Becher"; pg "Hathor's Becher"; pd "Hathor's Bechern"; pa "Hathor's Becher";
+ }
+translate OAPKarroka to german feminine
+{
+swa "Karroka";
+  sn "Karroka"; sg "Karroka"; sd "Karroka"; sa "Karroka";
+  pn "Karrokas"; pg "Karrokas"; pd "Karrokas"; pa "Karrokas";
+ }
+translate OAPCirallis to german feminine
+{
+swa "Cirallis";
+  sn "Cirallis";
+  pn "Cirallis";
+ }
+translate OAPKivimira to german feminine
+{
+swa "Kivimira";
+  sn "Kivimira"; sg "Kivimira"; sd "Kivimira"; sa "Kivimira";
+  pn "Kivimiras"; pg "Kivimiras"; pd "Kivimiras"; pa "Kivimiras";
+ }
+translate OAPNavarre to german neuter
+{
+swa "Navarra";
+  sn "Navarra"; sg "Navarra"; sd "Navarra"; sa "Navarra";
+  pn "Navarras"; pg "Navarras"; pd "Navarras"; pa "Navarras";
+ }
+translate OAPElegia to german feminine
+{
+swa "Elegia";
+  sn "Elegia";
+  pn "Elegias";
+ }
+translate OAPFireAllspice to german neuter
+{
+swa "Fire Allspice";
+  sn "Fire Allspice";
+  pn "Fire Allspices";
+ }
+translate OAPLungclot to german neuter
+{
+swa "Lungclot";
+  sn "Lungclot";
+  pn "Lungclots";
+ }
+translate OAPTsangto to german neuter
+{
+swa "Tsangto";
+  sn "Tsangto";
+  pn "Tsangtos";
+ }
+translate OAPLavenderNavarre to german neuter
+{
+swa "Lavender Navarre";
+  sn "Lavender Navarre";
+  pn "Lavender Navarres";
+ }
+translate OAPGoldenSellia to german feminine
+{
+swa "Golden Sellia";
+  sn "Golden Sellia";
+  pn "Golden Sellias";
+ }
+translate OAPSilvertongueDamia to german feminine
+{
+swa "Silvertongue Damia";
+  sn "Silvertongue Damia";
+  pn "Silvertongue Damias";
+ }
+translate OAPBlueDamia to german feminine
+{
+swa "Blue Damia";
+  sn "Blue Damia";
+  pn "Blue Damias";
+ }
+translate OAPButterflyDamia to german feminine
+{
+swa "Butterfly Damia";
+  sn "Butterfly Damia";
+  pn "Butterfly Damias";
+ }
+translate OAPIndigoDamia to german feminine
+{
+swa "Indigo Damia";
+  sn "Indigo Damia";
+  pn "Indigo Damias";
+ }
+translate OAPAsane to german feminine
+{
+swa "Asane";
+  sn "Asane";
+  pn "Asanes";
+ }
+ translate OAPGoldenGladalia to german feminine
+ {
+ swa "Golden Gladalia";
+   sn "Golden Gladalia";
+   pn "Golden Gladalias";
+ }
+translate OAPBloodRoot to german neuter
+{
+swa "Blood Root";
+  sn "Blood Root";
+  pn "Blood Roots";
+ }
+translate OAPSkyGladalia to german feminine
+{
+swa "Sky Gladalia";
+  sn "Sky Gladalia";
+  pn "Sky Gladalias";
+ }
+translate OAPDeltaPalm to german feminine
+{
+swa "Deltapalme";
+  sn "Deltapalme"; sg "Deltapalme"; sd "Deltapalme"; sa "Deltapalme";
+  pn "Deltapalmen"; pg "Deltapalmen"; pd "Deltapalmen"; pa "Deltapalmen";
+ }
+translate OAPHellia to german feminine
+{
+swa "Hellia";
+  sn "Hellia"; sg "Hellia"; sd "Hellia"; sa "Hellia";
+  pn "Hellias"; pg "Hellias"; pd "Hellias"; pa "Hellias";
+ }
+translate OAPWhitebelly to german feminine
+{
+swa "Whitebelly";
+  sn "Whitebelly"; 
+  pn "Whitebellys"; 
+ }
+translate OAPMarshGrass to german neuter
+{
+swa "Sumpfgras";
+  sn "Sumpfgras"; sg "Sumpfgrases"; sd "Sumpfgras"; sa "Sumpfgras";
+  pn "Sumpfgräser"; pg "Sumpfgräser"; pd "Sumpfgräsern"; pa "Sumpfgräser";
+ }
+translate OAPSunsetGroundpalm to german feminine
+{
+swa "Gebogene Bodenpalme";
+  sn "Gebogene Bodenpalme"; sg "Gebogenen Bodenpalme"; sd "Gebogenen Bodenpalme"; sa "Gebogene Bodenpalme";
+  pn "Gebogenen Bodenpalmen"; pg "Gebogenen Bodenpalmen"; pd "Gebogenen Bodenpalmen"; pa "Gebogenen Bodenpalmen";
+}
+ translate OAPRiverReeds to german neuter
+{
+swa "Flussschilf";
+  sn "Flussschilf"; sg "Flussschilfes"; sd "Flussschilf"; sa "Flussschilf";
+  pn "Flussschilfe"; pg "Flussschilfe"; pd "Flussschilfen"; pa "Flussschilfe";
+ }
+ translate OAPVioletBard to german neutercollective
+{
+swa "Bardenveilchen";
+  sn "Bardenveilchen"; sg "Bardenveilchens"; sd "Bardenveilchen"; sa "Bardenveilchen";
+  pn "Bardenveilchen"; pg "Bardenveilchen"; pd "Bardenveilchen"; pa "Bardenveilchen";
+ }
+ translate OAPCorpseWeed to german neuter
+{
+swa "Leichengras";
+  sn "Leichengras"; sg "Leichengrases"; sd "Leichengras"; sa "Leichengras";
+  pn "Leichengräser"; pg "Leichengräser"; pd "Leichengräsern"; pa "Leichengräser";
+ }
+translate OAPBloodBalm to german masculine
+{
+swa "Blood Balm";
+  sn "Blood Balm"; 
+  pn "Blood Balms"; 
+ }
+translate OAPBeeBalm to german masculine
+{
+swa "Bee Balm";
+  sn "Bee Balm"; 
+  pn "Bee Balms"; 
+ }
+ translate OAPDarkKingsCrown to german feminine
+{
+swa "Teufelskrone";
+  sn "Teufelskrone"; sg "Teufelskrone"; sd "Teufelskrone"; sa "Teufelskrone";
+  pn "Teufelskronen"; pg "Teufelskronen"; pd "Teufelskronen"; pa "Teufelskronen";
+ }
+ translate OAPNarrowLeafKingsCrown to german feminine
+{
+swa "Kleinblättrige Königskrone";
+  sn "Kleinblättrige Königskrone"; sg "Kleinblättrigen Königskrone"; sd "Kleinblättrigen Königskrone"; sa "Kleinblättrige Königskrone";
+  pn "Kleinblättrigen Königskronen"; pg "Kleinblättrigen Königskronen"; pd "Kleinblättrigen Königskronen"; pa "Kleinblättrigen Königskronen";
+ }
+ translate OAPKingsCrown to german feminine
+{
+swa "Königskrone";
+  sn "Königskrone"; sg "Königskrone"; sd "Königskrone"; sa "Königskrone";
+  pn "Königskronen"; pg "Königskronen"; pd "Königskronen"; pa "Königskronen";
+ }
+translate OAPMountainMint to german feminine
+{
+swa "Mountain Mint";
+  sn "Mountain Mint"; 
+  pn "Mountain Mints"; 
+ }
+translate OAPHoneyMint to german feminine
+{
+swa "Honey Mint";
+  sn "Honey Mint"; 
+  pn "Honey Mints"; 
+ }
+translate OAPIceMint to german feminine
+{
+swa "Ice Mint";
+  sn "Ice Mint"; 
+  pn "Ice Mints"; 
+ }
+translate OAPFireLily to german feminine
+{
+swa "Fire Lily";
+  sn "Fire Lily"; 
+  pn "Fire Lilys"; 
+ }
+translate OAPWildYam to german feminine
+{
+swa "Wild Yam";
+  sn "Wild Yam"; 
+  pn "Wild Yams"; 
+ }
+translate OAPMandrakeRoot to german feminine
+{
+swa "Mandrake Root";
+  sn "Mandrake Root"; 
+  pn "Mandrake Roots"; 
+ }
+ translate OAPIsisHeaddress to german feminine
+{
+swa "Isis' Frisur";
+  sn "Isis' Frisur"; sg "Isis' Frisur"; sd "Isis' Frisur"; sa "Isis' Frisur";
+  pn "Isis' Frisuren"; pg "Isis' Frisuren"; pd "Isis' Frisuren"; pa "Isis' Frisuren";
+ }
+ translate OAPFullIsisHeaddress to german feminine
+{
+swa "Ganze Isis' Frisur";
+  sn "Ganze Isis' Frisur"; sg "Ganze Isis' Frisur"; sd "Ganze Isis' Frisur"; sa "Ganze Isis' Frisur";
+  pn "Ganze Isis' Frisur"; pg "Ganze Isis' Frisur"; pd "Ganze Isis' Frisur"; pa "Ganze Isis' Frisur";
+ }
+ translate OAPPilgrimsSacrificeWeed to german neuter
+{
+swa "Geheiligtes Pilgergras";
+  sn "Geheiligte Pilgergras"; sg "Geheiligten Pilgergrases"; sd "Geheiligten Pilgergras"; sa "Geheiligte Pilgergras";
+  pn "Geheiligten Pilgergräser"; pg "Geheiligten Pilgergräser"; pd "Geheiligten Pilgergräser"; pa "Geheiligten Pilgergräser";
+ }
+ translate OAPDwarfSacrificeWeed to german neuter
+{
+swa "Geheiligtes Zwergengras";
+  sn "Geheiligte Zwergengras"; sg "Geheiligten Zwergengrases"; sd "Geheiligten Zwergengras"; sa "Geheiligte Zwergengras";
+  pn "Geheiligten Zwergengräser"; pg "Geheiligten Zwergengräser"; pd "Geheiligten Zwergengräser"; pa "Geheiligten Zwergengräser";
+ }
+translate OAPCinnamon to german masculine
+{
+swa "Cinnamon";
+  sn "Cinnamon"; 
+  pn "Cinnamons"; 
+ }
+translate OAPGinsengRoot to german neuter
+{
+swa "Ginseng Root";
+  sn "Ginseng Root"; 
+  pn "Ginseng Roots"; 
+ }
+ translate OAPIvoryFunnelPlant to german feminine
+{
+swa "Elfenbeintrichterpflanze";
+  sn "Elfenbeintrichterpflanze"; sg "Elfenbeintrichterpflanze"; sd "Elfenbeintrichterpflanze"; sa "Elfenbeintrichterpflanze";
+  pn "Elfenbeintrichterpflanzen"; pg "Elfenbeintrichterpflanzen"; pd "Elfenbeintrichterpflanzen"; pa "Elfenbeintrichterpflanzen";
+ }
+ translate OAPCleareye to german neuter
+{
+swa "Helles Auge";
+  sn "Helle Auge"; sg "Hellen Auges"; sd "Hellen Auge"; sa "Helle Auge";
+  pn "Hellen Augen"; pg "Hellen Augen"; pd "Hellen Augen"; pa "Hellen Augen";
+ }
+translate OAPAltarsBlessing to german neuter
+{
+swa "Altars Blessing";
+  sn "Altars Blessing"; 
+  pn "Altars Blessings"; 
+ }
+translate OAPPeppermint to german feminine
+{
+swa "Peppermint";
+  sn "Peppermint"; 
+  pn "Peppermints"; 
+ }
+ translate OAPColeus to german masculinecollective
+{
+swa "Coleus";
+  sn "Coleus"; sg "Coleus"; sd "Coleus"; sa "Coleus";
+  pn "Coleus"; pg "Coleus"; pd "Coleus"; pa "Coleus";
+ }
+ translate OAPButterleafTree to german masculine
+{
+swa "Butterblattbaum";
+  sn "Butterblattbaum"; sg "Butterblattbaums"; sd "Butterblattbaum"; sa "Butterblattbaum";
+  pn "Butterblattbäume"; pg "Butterblattbäume"; pd "Butterblattbäumen"; pa "Butterblattbäume";
+ }
+translate OAPMaliceWeed to german neuter
+{
+swa "Malice Weed";
+  sn "Malice Weed"; 
+  pn "Malice Weeds"; 
+ }
+translate OAPGokhru to german masculine
+{
+swa "Gokhru";
+  sn "Gokhru"; 
+  pn "Gokhrus"; 
+ }
+translate OAPSagarGhota to german neuter
+{
+swa "Sagar Ghota";
+  sn "Sagar Ghota"; 
+  pn "Sagar Ghotas"; 
+ }
+translate OAPYava to german neuter
+{
+swa "Yava";
+  sn "Yava"; 
+  pn "Yavas"; 
+ }
+translate OAPAshoka to german neuter
+{
+swa "Ashoka";
+  sn "Ashoka"; 
+  pn "Ashokas"; 
+ }
+translate OAPJaivanti to german neuter
+{
+swa "Jaivanti";
+  sn "Jaivanti"; 
+  pn "Jaivantis"; 
+ }
+translate OAPJaiyanti to german neuter
+{
+swa "Jaiyanti";
+  sn "Jaiyanti"; 
+  pn "Jaiyantis"; 
+ }
+translate OAPDewplant to german feminine
+{
+swa "Dewplant";
+  sn "Dewplant"; 
+  pn "Dewplants"; 
+ }
+translate OAPRubia to german feminine
+{
+swa "Rubia";
+  sn "Rubia"; 
+  pn "Rubias"; 
+ }
+translate OAPLemondrop to german masculine
+{
+swa "Lemondrop";
+  sn "Lemondrop"; 
+  pn "Lemondrops"; 
+ }
+translate OAPSweetflower to german feminine
+{
+swa "Sweetflower";
+  sn "Sweetflower"; 
+  pn "Sweetflowers"; 
+ }
+translate OAPHouseleek to german neuter
+{
+swa "Houseleek";
+  sn "Houseleek"; 
+  pn "Houseleeks"; 
+ }
+translate OAPCranesbill to german neuter
+{
+swa "Cranesbill";
+  sn "Cranesbill"; 
+  pn "Cranesbills"; 
+ }
+translate OAPGoldenDubloons to german feminine
+{
+swa "Golden Dubloons";
+  sn "Golden Dubloons"; 
+  pn "Golden Dubloons"; 
+ }
+translate OAPSacredPalm to german feminine
+{
+swa "Sacred Palm";
+  sn "Sacred Palm"; 
+  pn "Sacred Palms"; 
+ }
+translate OAPParadiseLily to german feminine
+{
+swa "Paradise Lily";
+  sn "Paradise Lily"; 
+  pn "Paradise Lilys"; 
+ }
+  translate OAPOrrorin to german masculine
+ {
+ swa "Orrorin";
+   sn "Orrorin"; sg "Orrorins"; sd "Orrorin"; sa "Orrorin";
+   pn "Orrorins"; pg "Orrorins"; pd "Orrorins"; pa "Orrorins";
+ }
+ translate OAPHokkaido to german masculine
+{
+swa "Hokkaido";
+  sn "Hokkaido"; sg "Hokkaidos"; sd "Hokkaido"; sa "Hokkaido";
+  pn "Hokkaidos"; pg "Hokkaidos"; pd "Hokkaidos"; pa "Hokkaidos";
+ }
+ translate OAPPratyekaTree to german masculine
+{
+swa "Pratyekabaum";
+  sn "Pratyekabaum"; sg "Pratyekabaumes"; sd "Pratyekabaum"; sa "Pratyekabaum";
+  pn "Pratyekabäume"; pg "Pratyekabäume"; pd "Pratyekabäumen"; pa "Pratyekabäume";
+ }
+ translate OAPSavaka to german neuter
+{
+swa "Savaka";
+  sn "Savaka"; sg "Savakas"; sd "Savaka"; sa "Savaka";
+  pn "Savakas"; pg "Savakas"; pd "Savakas"; pa "Savakas";
+ }
+translate OAPBloodwort to german neuter
+{
+swa "Bloodwort";
+  sn "Bloodwort"; 
+  pn "Bloodworts"; 
+ }
+ translate OAPWindmere to german masculine
+{
+swa "Windweiher";
+  sn "Windweiher"; sg "Windweihers"; sd "Windweiher"; sa "Windweiher";
+  pn "Windweiher"; pg "Windweiher"; pd "Windweihern"; pa "Windweiher";
+ }
+ translate OAPAstar to german masculine
+{
+swa "Astar";
+  sn "Astar"; sg "Astars"; sd "Astar"; sa "Astar";
+  pn "Astars"; pg "Astars"; pd "Astars"; pa "Astars";
+ }
+ translate OAPDravos to german masculine
+{
+swa "Dravos";
+  sn "Dravos"; sg "Dravos"; sd "Dravos"; sa "Dravos";
+  pn "Dravos"; pg "Dravos"; pd "Dravos"; pa "Dravos";
+ }
+ translate OAPSilverbell to german feminine
+{
+swa "Silberglocke";
+  sn "Silberglocke"; sg "Silberglocke"; sd "Silberglocke"; sa "Silberglocke";
+  pn "Silberglocken"; pg "Silberglocken"; pd "Silberglocken"; pa "Silberglocken";
+ }
+translate OAPLilia to german feminine
+{
+swa "Lilia";
+  sn "Lilia"; 
+  pn "Lilias"; 
+ }
+ translate OAPChantotinarae to german feminine
+{
+swa "Chantotinarae";
+  sn "Chantotinarae"; sg "Chantotinarae"; sd "Chantotinarae"; sa "Chantotinarae";
+  pn "Chantotinaraen"; pg "Chantotinaraen"; pd "Chantotinaraen"; pa "Chantotinaraen";
+ }
+translate OAPPatchouli to german neuter
+{
+swa "Patchouli";
+  sn "Patchouli"; 
+  pn "Patchoulis"; 
+ }
+translate OAPEnchantersPlant to german feminine
+{
+swa "Enchanters Plant";
+  sn "Enchanters Plant"; 
+  pn "Enchanters Plants"; 
+ }
+translate OAPAllbright to german neuter
+{
+swa "Allbright";
+  sn "Allbright"; 
+  pn "Allbrights"; 
+ }
+translate OAPThunderPlant to german feminine
+{
+swa "Thunder Plant";
+  sn "Thunder Plant"; 
+  pn "Thunder Plants"; 
+ }
+translate OAPPaleOchoa to german feminine
+{
+swa "Pale Ochoa";
+  sn "Pale Ochoa"; 
+  pn "Pale Ochoas"; 
+ }
+translate OAPUprightOchoa to german feminine
+{
+swa "Upright Ochoa";
+  sn "Upright Ochoa"; 
+  pn "Upright Ochoas"; 
+ }
+translate OAPTsatso to german neuter
+{
+swa "Tsatso";
+  sn "Tsatso"; 
+  pn "Tsatsos"; 
+ }
+translate OAPDarkOchoa to german feminine
+{
+swa "Dark Ochoa";
+  sn "Dark Ochoa"; 
+  pn "Dark Ochoas"; 
+ }
+translate OAPApothecarysScythe to german feminine
+{
+swa "Apothecarys Scythe";
+  sn "Apothecarys Scythe"; 
+  pn "Apothecarys Scythes"; 
+ }
+translate OAPBluebottleClover to german neuter
+{
+swa "Bluebottle Clover";
+  sn "Bluebottle Clover"; 
+  pn "Bluebottle Clovers"; 
+ }
+translate OAPCrimsonClover to german neuter
+{
+swa "Crimson Clover";
+  sn "Crimson Clover"; 
+  pn "Crimson Clovers"; 
+ }
+translate OAPTinyClover to german neuter
+{
+swa "Tiny Clover";
+  sn "Tiny Clover"; 
+  pn "Tiny Clovers"; 
+ }
+ translate OAPBroadleafPalm to german feminine
+{
+swa "Breitblattpalme";
+  sn "Breitblattpalme"; sg "Breitblattpalme"; sd "Breitblattpalme"; sa "Breitblattpalme";
+  pn "Breitblattpalmen"; pg "Breitblattpalmen"; pd "Breitblattpalmen"; pa "Breitblattpalmen";
+ }
+ translate OAPRazorPalm to german feminine
+{
+swa "Rasierpalme";
+  sn "Rasierpalme"; sg "Rasierpalme"; sd "Rasierpalme"; sa "Rasierpalme";
+  pn "Rasierpalmen"; pg "Rasierpalmen"; pd "Rasierpalmen"; pa "Rasierpalmen";
+ }
+ translate OAPCarbinaFern to german masculine
+{
+swa "Carbinafarn";
+  sn "Carbinafarn"; sg "Carbinafarns"; sd "Carbinafarn"; sa "Carbinafarn";
+  pn "Carbinafarne"; pg "Carbinafarne"; pd "Carbinafarnen"; pa "Carbinafarne";
+ }
+translate OAPFinlow to german neuter
+{
+swa "Finlow ";
+  sn "Finlow "; 
+  pn "Finlows"; 
+ }
+translate OAPEarthApple to german masculine
+{
+swa "Earth Apple";
+  sn "Earth Apple"; 
+  pn "Earth Apples"; 
+ }
+translate OAPCommonBasil to german neuter
+{
+swa "Common Basil";
+  sn "Common Basil"; 
+  pn "Common Basils"; 
+ }
+translate OAPUmberBasil to german neuter
+{
+swa "Umber Basil";
+  sn "Umber Basil"; 
+  pn "Umber Basils"; 
+ }
+translate OAPCrumpledLeafBasil to german neuter
+{
+swa "Crumpled Leaf Basil";
+  sn "Crumpled Leaf Basil"; 
+  pn "Crumpled Leaf Basils"; 
+ }
+translate OAPLemonBasil to german neuter
+{
+swa "Lemon Basil";
+  sn "Lemon Basil"; 
+  pn "Lemon Basils"; 
+ }
+translate OAPCinquefoil to german neuter
+{
+swa "Cinquefoil";
+  sn "Cinquefoil"; 
+  pn "Cinquefoils"; 
+ }
+translate OAPLiquorice to german neuter
+{
+swa "Liquorice";
+  sn "Liquorice"; 
+  pn "Liquorices"; 
+ }
+translate OAPBayTree to german masculine
+{
+swa "BayTree";
+  sn "BayTree"; 
+  pn "BayTrees"; 
+ }
+translate OAPBlueberryTeaTree to german masculine
+{
+swa "Blueberry Tea Tree";
+  sn "Blueberry Tea Tree"; 
+  pn "Blueberry Tea Trees"; 
+ }
+translate OAPVanillaTeaTree to german masculine
+{
+swa "Vanilla Tea Tree";
+  sn "Vanilla Tea Tree"; 
+  pn "Vanilla Tea Trees"; 
+ }
+translate OAPSoapwort to german neuter
+{
+swa "Soapwort";
+  sn "Soapwort"; 
+  pn "Soapworts"; 
+ }
+translate OAPShrubbyBasil to german neuter
+{
+swa "Shrubby Basil";
+  sn "Shrubby Basil"; 
+  pn "Shrubby Basils"; 
+ }
+translate OAPCrimsonNightshade to german masculine
+{
+swa "Crimson Nightshade";
+  sn "Crimson Nightshade"; 
+  pn "Crimson Nightshades"; 
+ }
+translate OAPCreepingBlackNightshade to german masculine
+{
+swa "Creeping Black Nightshade";
+  sn "Creeping Black Nightshade"; 
+  pn "Creeping Black Nightshades"; 
+ }
+translate OAPPulmonariaOpal to german masculine
+{
+swa "Pulmonaria Opal";
+  sn "Pulmonaria Opal"; 
+  pn "Pulmonaria Opals"; 
+ }
+translate OAPPaleDhamasa to german neuter
+{
+swa "Pale Dhamasa";
+  sn "Pale Dhamasa"; 
+  pn "Pale Dhamasas"; 
+ }
+translate OAPShyama to german feminine
+{
+swa "Shyama";
+  sn "Shyama"; 
+  pn "Shyamas"; 
+ }
+translate OAPShyamalata to german feminine
+{
+swa "Shyamalata";
+  sn "Shyamalata"; 
+  pn "Shyamalatas"; 
+ }
+translate OAPFivesleaf to german neuter
+{
+swa "Fivesleaf";
+  sn "Fivesleaf"; 
+  pn "Fivesleafs"; 
+ }
+translate OAPDalchini to german feminine
+{
+swa "Dalchini";
+  sn "Dalchini"; 
+  pn "Dalchinis"; 
+ }
+translate OAPCorsacia to german feminine
+{
+swa "Corsacia";
+  sn "Corsacia"; 
+  pn "Corsacias"; 
+ }
+translate OAPGarcinia to german feminine
+{
+swa "Garcinia";
+  sn "Garcinia"; 
+  pn "Garcinias"; 
+ }
+translate OAPTurtlesShell to german masculine
+{
+swa "Turtles Shell";
+  sn "Turtles Shell"; 
+  pn "Turtles Shells"; 
+ }
+translate OAPOctecsGrace to german feminine
+{
+swa "Octecs Grace";
+  sn "Octecs Grace"; 
+  pn "Octecs Graces"; 
+ }
+translate OAPOrangeNiali to german feminine
+{
+swa "Orange Niali";
+  sn "Orange Niali"; 
+  pn "Orange Nialis"; 
+ }
+translate OAPMeadowsweet to german neuter
+{
+swa "Meadowsweet";
+  sn "Meadowsweet"; 
+  pn "Meadowsweets"; 
+ }
+translate OAPKingsCoin to german feminine
+{
+swa "Kings Coin";
+  sn "Kings Coin"; 
+  pn "Kings Coins"; 
+ }
+translate OAPDigweed to german neuter
+{
+swa "Digweed ";
+  sn "Digweed "; 
+  pn "Digweed "; 
+ }
+translate OAPJoyoftheMountain to german neuter
+{
+swa "Joy of the Mountain";
+  sn "Joy of the Mountain"; 
+  pn "Joy of the Mountains"; 
+ }
+translate OAPXanosi to german neuter
+{
+swa "Xanosi";
+  sn "Xanosi"; 
+  pn "Xanosis"; 
+ }
+translate OAPRevivia to german feminine
+{
+swa "Revivia";
+  sn "Revivia"; 
+  pn "Revivias"; 
+ }
+translate OAPPanoe to german neuter
+{
+swa "Panoe";
+  sn "Panoe"; 
+  pn "Panoes"; 
+ }
+translate OAPTristeria to german feminine
+{
+swa "Tristeria";
+  sn "Tristeria"; 
+  pn "Tristerias"; 
+ }
+translate OAPYellowTristeria to german feminine
+{
+swa "Yellow Tristeria";
+  sn "Yellow Tristeria"; 
+  pn "Yellow Tristerias"; 
+ }
+translate OAPAzureTristeria to german feminine
+{
+swa "Azure Tristeria";
+  sn "Azure Tristeria"; 
+  pn "Azure Tristerias"; 
+ }
+translate OAPChaffa to german neuter
+{
+swa "Chaffa";
+  sn "Chaffa"; 
+  pn "Chaffas"; 
+ }
+translate OAPCassia to german feminine
+{
+swa "Cassia";
+  sn "Cassia"; 
+  pn "Cassias"; 
+ }
+translate OAPSicklyRoot to german neuter
+{
+swa "Sickly Root";
+  sn "Sickly Root"; 
+  pn "Sickly Roots"; 
+ }
+translate OAPXanat to german masculine
+{
+swa "Xanat";
+  sn "Xanat"; 
+  pn "Xanats"; 
+ } 
+translate OAPTallWaxySedge to german neuter
+{
+swa "Dünnes Wachszyperngras";
+  sn "Dünne Wachszyperngras"; sg "Dünnen Wachszyperngras"; sd "Dünnen Wachszyperngras"; sa "Dünne Wachszyperngras";
+  pn "Dünnen Wachszyperngräsern"; pg "Dünnen Wachszyperngräsern"; pd "Dünnen Wachszyperngräsern"; pa "Dünnen Wachszyperngräsern";
+ }
+ translate OAPFinlow to german feminine
+{
+swa "Finlow";
+  sn "Finlow"; sg "Finlow"; sd "Finlow"; sa "Finlow";
+  pn "Finlows"; pg "Finlows"; pd "Finlows"; pa "Finlows";
+ }
+ translate OAPRedCarpet to german masculine
+{
+swa "Roter Teppich";
+  sn "Rote Teppich"; sg "Roten Teppichs"; sd "Roten Teppich"; sa "Rote Teppich";
+  pn "Roten Teppiche"; pg "Roten Teppiche"; pd "Roten Teppichen"; pa "Roten Teppiche";
+ }
+ translate OAPSpindleTree to german masculine
+{
+swa "Spindelbaum";
+  sn "Spindelbaum"; sg "Spindelbaums"; sd "Spindelbaum"; sa "Spindelbaum";
+  pn "Spindelbäume"; pg "Spindelbäume"; pd "Spindelbäumen"; pa "Spindelbäume";
+ }
+ translate OAPGoldenStandard to german masculine
+{
+swa "Gewöhnlicher Goldwurz";
+  sn "Gewöhnliche Goldwurz"; sg "Gewöhnlichen Goldwurzes"; sd "Gewöhnliche Goldwurz"; sa "Gewöhnliche Goldwurz";
+  pn "Gewöhnlichen Goldwurze"; pg "Gewöhnlichen Goldwurze"; pd "Gewöhnlichen Goldwurzen"; pa "Gewöhnlichen Goldwurze";
+ }
+ translate OAPUmbrellaPalm to german feminine
+{
+swa "Schirmpalme";
+  sn "Schirmpalme"; sg "Schirmpalme"; sd "Schirmpalme"; sa "Schirmpalme";
+  pn "Schirmpalmen"; pg "Schirmpalmen"; pd "Schirmpalmen"; pa "Schirmpalmen";
+ }
+ translate OAPMadweedShrub to german feminine
+{
+swa "Unkrautstaude";
+  sn "Unkrautstaude"; sg "Unkrautstaude"; sd "Unkrautstaude"; sa "Unkrautstaude";
+  pn "Unkrautstauden"; pg "Unkrautstauden"; pd "Unkrautstauden"; pa "Unkrautstauden";
+ }
+ translate OAPWildSeaOats to german masculine
+{
+swa "Wilder Meerhafer";
+  sn "Wilde Meerhafer"; sg "Wilden Meerhafers"; sd "Wilden Meerhafer"; sa "Wilde Meerhafer";
+  pn "Wilden Meerhafer"; pg "Wilden Meerhafer"; pd "Wilden Meerhafer"; pa "Wilden Meerhafer";
+ }
+ translate OAPWildOats to german masculine
+{
+swa "Wilder Hafer";
+  sn "Wilde Hafer"; sg "Wilden Hafers"; sd "Wilde Hafer"; sa "Wilde Hafer";
+  pn "Wilden Hafer"; pg "Wilden Hafer"; pd "Wilden Hafern"; pa "Wilden Hafer";
+ }
+ translate OAPVermillionStandard to german masculine
+{
+swa "Zinnoberroter Wurz";
+  sn "Zinnoberrote Wurz"; sg "Zinnoberroten Wurz"; sd "Zinnoberroten Wurz"; sa "Zinnoberrote Wurz";
+  pn "Zinnoberroten Wurze"; pg "Zinnoberroten Wurze"; pd "Zinnoberroten Wurzen"; pa "Zinnoberroten Wurze";
+ }
+ translate OAPLowVermillionStandard to german masculine
+{
+swa "Karmesinroter Wurz";
+  sn "Karmesinrote Wurz"; sg "Karmesinroten Wurzes"; sd "Karmesinroten Wurz"; sa "Karmesinrote Wurz";
+  pn "Karmesinroten Wurze"; pg "Karmesinroten Wurze"; pd "Karmesinroten Wurzen"; pa "Karmesinroten Wurze";
+ }
+ translate OAPDwarfSweetFlag to german masculine
+{
+swa "Zwergkalmus";
+  sn "Zwergkalmus"; sg "Zwergkalmuses"; sd "Zwergkalmus"; sa "Zwergkalmus";
+  pn "Zwergkalmus"; pg "Zwergkalmus"; pd "Zwergkalmus"; pa "Zwergkalmus";
+ }
+ translate OAPSweetFlag to german masculine
+{
+swa "Kalmus";
+  sn "Kalmus"; sg "Kalmuses"; sd "Kalmus"; sa "Kalmus";
+  pn "Kalmus"; pg "Kalmus"; pd "Kalmus"; pa "Kalmus";
+ }
+ translate OAPWindriverPalm to german feminine
+{
+swa "Flusswindpalme";
+  sn "Flusswindpalme"; sg "Flusswindpalme"; sd "Flusswindpalme"; sa "Flusswindpalme";
+  pn "Flusswindpalmen"; pg "Flusswindpalmen"; pd "Flusswindpalmen"; pa "Flusswindpalmen";
+ }
+ translate OAPFoldedBirch to german feminine
+{
+swa "Raubirke";
+  sn "Raubirke"; sg "Raubirke"; sd "Raubirke"; sa "Raubirke";
+  pn "Raubirken"; pg "Raubirken"; pd "Raubirken"; pa "Raubirken";
+ }
+ translate OAPRanyahn to german feminine
+{
+swa "Ranyahn";
+  sn "Ranyahn"; sg "Ranyahn"; sd "Ranyahn"; sa "Ranyahn";
+  pn "Ranyahns"; pg "Ranyahns"; pd "Ranyahns"; pa "Ranyahns";
+ }
+ translate OAPCastora to german feminine
+{
+swa "Castora";
+  sn "Castora"; sg "Castora"; sd "Castora"; sa "Castora";
+  pn "Castoras"; pg "Castoras"; pd "Castoras"; pa "Castoras";
+ }
+ translate OAPLaurelShrub to german masculine
+{
+swa "Lorbeerbusch";
+  sn "Lorbeerbusch"; sg "Lorbeerbusches"; sd "Lorbeerbusch"; sa "Lorbeerbusch";
+  pn "Lorbeerbüsche"; pg "Lorbeerbüsche"; pd "Lorbeerbüschen"; pa "Lorbeerbüsche";
+ }
+ translate OAPPassam to german neuter
+{
+swa "Passam";
+  sn "Passam"; sg "Passams"; sd "Passam"; sa "Passam";
+  pn "Passams"; pg "Passams"; pd "Passams"; pa "Passams";
+ }
+ translate OAPUllern to german neuter
+{
+swa "Ullern";
+  sn "Ullern"; sg "Ullerns"; sd "Ullern"; sa "Ullern";
+  pn "Ullerns"; pg "Ullerns"; pd "Ullerns"; pa "Ullerns";
+ }
+ translate OAPCinnar to german masculine
+{
+swa "Cinnar";
+  sn "Cinnar"; sg "Cinnars"; sd "Cinnar"; sa "Cinnar";
+  pn "Cinnars"; pg "Cinnars"; pd "Cinnars"; pa "Cinnars";
+ }
+translate OAPPranesh to german masculine
+{
+swa "Pranesh";
+  sn "Pranesh"; sg "Praneshs"; sd "Pranesh"; sa "Pranesh";
+  pn "Praneshs"; pg "Praneshs"; pd "Praneshs"; pa "Praneshs";
+}
+
+
+
+
+
+translate OAPCaramelBlossom to german feminine
+{
+swa "Karamelblüte";
+  sn "Karamelblüte"; sg "Karamelblüte"; sd "Karamelblüte"; sa "Karamelblüte";
+  pn "Karamelblüten"; pg "Karamelblüten"; pd "Karamelblüten"; pa "Karamelblüten";
+}
+translate OAPTangerineSunbell to german feminine
+{
+swa "Orangefarbene Glockenblume";
+  sn "Orangefarbene Glockenblume"; sg "Orangefarbenen Glockenblume"; sd "Orangefarbenen Glockenblume"; sa "Orangefarbene Glockenblume";
+  pn "Orangefarbene Glockenblumen"; pg "Orangefarbene Glockenblumen"; pd "Orangefarbenen Glockenblumen"; pa "Orangefarbene Glockenblumen";
+}
+translate OAPViolet to german neuter
+{
+swa "Veilchen";
+  sn "Veilchen"; sg "Veilchens"; sd "Veilchen"; sa "Veilchen";
+  pn "Veilchen"; pg "Veilchen"; pd "Veilchen"; pa "Veilchen";
+}
+translate OAPPrettyPinks to german feminine
+{
+swa "Gänseblümchen";
+  sn "Gänseblümchen"; sg "Gänseblümchens"; sd "Gänseblümchen"; sa "Gänseblümchen";
+  pn "Gänseblümchen"; pg "Gänseblümchen"; pd "Gänseblümchen"; pa "Gänseblümchen";
+}
+translate OAPCrimsonScatterbell to german feminine
+{
+swa "Blutrote Wiesenblume";
+  sn "Blutrote Wiesenblume"; sg "Blutroten Wiesenblume"; sd "Blutroten Wiesenblume"; sa "Blutrote Wiesenblume";
+  pn "Blutroten Wiesenblumen"; pg "Blutroten Wiesenblumen"; pd "Blutroten Wiesenblumen"; pa "Blutroten Wiesenblumen";
+}
+translate OAPLemonScatterbell to german feminine
+{
+swa "Gelbe Wiesenblume";
+  sn "Gelbe Wiesenblume"; sg "Gelben Wiesenblume"; sd "Gelben Wiesenblume"; sa "Gelbe Wiesenblume";
+  pn "Gelben Wiesenblumen"; pg "Gelben Wiesenblumen"; pd "Gelben Wiesenblumen"; pa "Gelben Wiesenblumen";
+}
+translate OAPVelvetNightflower to german feminine
+{
+swa "Samtige Nachtblume";
+  sn "Samtige Nachtblume"; sg "Samtigen Nachtblume"; sd "Samtigen Nachtblume"; sa "Samtige Nachtblume";
+  pn "Samtigen Nachtblumen"; pg "Samtigen Nachtblume"; pd "Samtigen Nachtblumen"; pa "Samtigen Nachtblumen";
+}
+translate OAPPaleScatterbell to german feminine
+{
+swa "Helle Wiesenblume";
+  sn "Helle Wiesenblume"; sg "Hellen Wiesenblume"; sd "Hellen Wiesenblume"; sa "Helle Wiesenblume";
+  pn "Hellen Wiesenblumen"; pg "Hellen Wiesenblumen"; pd "Hellen Wiesenblumen"; pa "Hellen Wiesenblumen";
+}
+translate OAPPaleMorningbell to german feminine
+{
+swa "Helle Morgenschelle";
+  sn "Helle Morgenschelle"; sg "Hellen Morgenschelle"; sd "Hellen MorgenschellePranesh"; sa "Helle Morgenschelle";
+  pn "Hellen Morgenschellen"; pg "Hellen Morgenschellen"; pd "Hellen Morgenschellen"; pa "Hellen Morgenschellen";
+}
+translate OAPGoldenBugle to german feminine
+{
+swa "Goldene Hornblume";
+  sn "Goldene Hornblume"; sg "Goldenen Hornblume"; sd "Goldenen Hornblume"; sa "Goldene Hornblume";
+  pn "Goldenen Hornblumen"; pg "Goldenen Hornblumen"; pd "Goldenen Hornblumen"; pa "Goldenen Hornblumen";
+}
+translate OAPBlueBugle to german feminine
+{
+swa "Blaue Hornblume";
+  sn "Blaue Hornblume"; sg "Blauen Hornblume"; sd "Blauen Hornblume"; sa "Blaue Hornblume";
+  pn "Blauen Hornblumen"; pg "Blauen Hornblumen"; pd "Blauen Hornblumen"; pa "Blauen Hornblumen";
+}
+translate OAPVitrex to german neuter
+{
+swa "Vitrex";
+  sn "Vitrex"; sg "Vitrex"; sd "Vitrex"; sa "Vitrex";
+  pn "Vitrex"; pg "Vitrex"; pd "Vitrex"; pa "Vitrex";
+}
+translate OAPOleaceae to german masculine
+{
+swa "Olivenbaum";
+  sn "Olivenbaum"; sg "Olivenbaums"; sd "Olivenbaum"; sa "Olivenbaum";
+  pn "Olivenbäume"; pg "Olivenbäume"; pd "Olivenbäume"; pa "Olivenbäume";
+}
+translate OAPCanaryGroundmaple to german masculine
+{
+swa "Kanarischer Bodenahorn";
+  sn "Kanarische Bodenahorn"; sg "Kanarischen Bodenahorns"; sd "Kanarischen Bodenahorn"; sa "Kanarische Bodenahorn";
+  pn "Kanarischen Bodenahorn"; pg "Kanarischen Bodenahorn"; pd "Kanarischen Bodenahorn"; pa "Kanarischen Bodenahorn";
+}
+translate OAPBamboo to german masculine
+{
+swa "Bambus";
+  sn "Bambus"; sg "Bambus"; sd "Bambus"; sa "Bambus";
+  pn "Bambus"; pg "Bambus"; pd "Bambus"; pa "Bambus";
+}

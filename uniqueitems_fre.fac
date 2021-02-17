@@ -1,0 +1,10 @@
+module uniqueitems_fre;
+
+translate "Pick up the O1:K1"
+to french "Prendre O1(lns) O1(ns):K1";
+
+translate "Picked up O1:K1."
+to french "O1(ns):K1 ramassé.";
+
+translate "You're carrying too much - drop some stuff before picking up any K1."
+to french "Vous êtes trop chargé. Abandonnez quelque chose avant de prendre K1.";

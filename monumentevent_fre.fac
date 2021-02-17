@@ -1,0 +1,90 @@
+module monumentevent_fre;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** french version - Asnath                                               **
+//**                                                                       **
+//***************************************************************************
+ 
+translate T1MonumentOfArchitecture to french masculine
+{ns "Antique Monument d'Architecture"; np "Monuments Antiques d'Architecture";}
+translate T1MonumentOfTheHumanBody to french masculine
+{ns "Antique Monument du Corps Humain"; np "Antique Monument du Corps Humain";}
+translate T1MonumentOfArtAndMusic to french masculine
+{ns "Antique Monument des Arts et Musique"; np "Antique Monument des Arts et Musique";}
+translate T1MonumentOfConflict to french masculine
+{ns "Antique Monument du Conflit"; np "Antique Monument du Conflit";}
+translate T1MonumentOfLeadership to french masculine
+{ns "Antique Monument du Commandement"; np "Antique Monument du Commandement";}
+translate T1MonumentOfThought to french masculine
+{ns "Antique Monument de la Pensée"; np "Antique Monument de la Pensée";}
+translate T1MonumentOfWorship to french masculine
+{ns "Antique Monument de Vénération"; np "Antique Monument de Vénération";}
+translate T1MonumentOfWorshipKemet to french masculine
+{ns "Antique Monument de Vénération Kemet"; np "Antique Monument de Vénération Kemet";}
+
+translate T2MonumentOfArchitecture to french masculine
+{ns "Antique Monument d'Architecture"; np "Monuments Antiques d'Architecture";}
+translate T2MonumentOfTheHumanBody to french masculine
+{ns "Antique Monument du Corps Humain"; np "Monuments Antique du Corps Humain";}
+translate T2MonumentOfLeadership to french masculine
+{ns "Antique Monument du Commandement"; np "Antique Monument du Commandement";}
+translate T2MonumentOfWorship to french masculine
+{ns "Antique Monument de Vénération"; np "Antique Monument de Vénération";}
+
+translate T3MonumentOfArchitecture to french masculine
+{ns "Antique Monument d'Architecture"; np "Monuments Antiques d'Architecture";}
+translate T3MonumentOfArtAndMusic to french masculine
+{ns "Antique Monument des Arts et Musique"; np "Antique Monument des Arts et Musique";}
+translate T3MonumentOfTheHumanBody to french masculine
+{ns "Antique Monument du Corps Humain"; np "Monuments Antique du Corps Humain";}
+translate T3MonumentOfHarmony to french masculine
+{ns "Antique Monument d'Harmonie"; np "Monuments Antiques d'Harmonie";}
+translate T3MonumentOfLeadership to french masculine
+{ns "Antique Monument du Commandement"; np "Antique Monument du Commandement";}
+translate T3MonumentOfThought to french masculine
+{ns "Antique Monument de la Pensée"; np "Antique Monument de la Pensée";}
+translate T3MonumentOfWorship to french masculine
+{ns "Antique Monument de Vénération"; np "Antique Monument de Vénération";}
+
+translate T5MonumentOfArchitecture to french masculine
+{ns "Antique Monument d'Architecture"; np "Monuments Antiques d'Architecture";}
+translate T5MonumentOfHarmony to french masculine
+{ns "Antique Monument "; np "Antique Monument ";}
+translate T5MonumentOfTheHumanBody to french masculine
+{ns "Antique Monument du Corps Humain"; np "Antique Monument du Corps Humain";}
+translate T5MonumentOfWorship to french masculine
+{ns "Antique Monument de Vénération"; np "Antique Monument de Vénération";}
+
+translate T6MonumentOfArchitecture to french masculine
+{ns "Antique Monument d'Architecture"; np "Monuments Antiques d'Architecture";}
+translate T6MonumentOfArtAndMusic to french masculine
+{ns "Antique Monument des Arts et Musique"; np "Antique Monument des Arts et Musique";}
+translate T6MonumentOfTheHumanBody to french masculine
+{ns "Antique Monument du Corps Humain"; np "Monuments Antique du Corps Humain";}
+translate T6MonumentOfHarmony to french masculine
+{ns "Antique Monument d'Harmonie"; np "Monuments Antiques d'Harmonie";}
+translate T6MonumentOfLeadership to french masculine
+{ns "Antique Monument du Commandement"; np "Antique Monument du Commandement";}
+translate T6MonumentOfThought to french masculine
+{ns "Antique Monument de la Pensée"; np "Antique Monument de la Pensée";}
+translate T6MonumentOfWorship to french masculine
+{ns "Antique Monument de Vénération"; np "Antique Monument de Vénération";}
+
+
+translate "Ancient Monument of Architecture"
+to french "Ancient Monument d'Architecture";
+translate "Ancient Monument of Worship"
+to french "Ancient Monument de Vénération";
+translate "Ancient Monument of The Human Body"
+to french "Ancient Monument du Corps Humain";
+translate "Ancient Monument of Thought"
+to french "Ancient Monument de la Pensée";
+translate "Ancient Monument of Art And Music"
+to french "Ancient Monument des Arts et Musique";
+translate "Ancient Monument of Harmony"
+to french "Ancient Monument d'Harmonie";
+translate "Ancient Monument of Leadership"
+to french "Ancient Monument du Commandement";
+

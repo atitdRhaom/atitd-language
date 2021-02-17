@@ -1,0 +1,199 @@
+Module NewGlower_fre;
+
+
+translate GlowerLab to french masculine 
+{
+  ns "Laboratoire d'étoiles portatif"; np "laboratoires d'étoiles portatifs";
+}
+
+translate StarRack to french masculine 
+{
+  ns "Support à étoiles"; np "Supports à étoiles";
+}
+
+translate EgyptianCandle to french masculine 
+{
+  ns "Chandelle égyptienne"; np "Chandelles égyptienne";
+}
+
+translate PlanetarySalute to french masculine 
+{
+  ns "Salut Planétaire"; np "Saluts Planétaire";
+}
+
+translate CStar to french feminine 
+{
+  ns "Etoile"; np "Etoiles";
+}
+
+translate "Star"
+to french "Etoile";
+
+translate "Star Rack"
+to french "Support à étoiles";
+
+translate "Make Stars"
+to french "Fabriquer un lot d'étoiles";
+
+translate "Rename the Favorite Star"
+to french "Renommer l'étoile favorite";
+
+translate "What would you like to name the Star?"
+to french "Qeul nom voulez-vous donner à cette étoile?";
+
+translate "Designate the last Star as Best"
+to french "Désigner cette étoile comme la meilleure.";
+
+translate "Stars must be named."
+to french "Les étoiles doivent porter un nom.";
+
+translate "Shots Left:"
+to french "Reste: ";
+
+translate "Favorite Star K1 watched by N1 watchers."
+to french "Étoile favorite K1 observée par N1 personnes.";
+
+translate "Launch a new star (Shake the color box)"
+to french "Lancer une nouvelle étoile (secouer la boîte à couleurs)";
+
+translate "Launch Favorite Star: "
+to french "Lancer l'étoile favorite: ";
+
+translate "Launch the previous Star"
+to french "Lancer l'étoile précédente";
+
+translate "You already know the recipe for making K1 stars."
+to french "Vous connaissez déjà la recette pour fabriquer une K1";
+
+translate "All people who are watching should declare that before launching any stars."
+to french "Toute personne voulant observer doit s'enregistrer avant le lancement d'une étoile.";
+
+translate "Read the Recipe for the last fired Star"
+to french "Lire la recette de la dernière étoile lancée.";
+
+translate "The recipe for 10 stars is:"
+to french "La recette pour 10 étoiles est: ";
+
+translate "Request a Portable Star Lab"
+to french "Demander un laboratoire d'étoiles portatif.";
+
+translate "By order of the Pyrotechnics Research Act, introduced by Sedelyan, only paid accounts that have been in Egypt for at least 14 days may request a Portable Star Lab."
+to french "En vertu de la loi Pyrotechnics Research Act, promulguée par Sedelyan, seuls les comptes payants étant en égypte depuis 14 jours peuvent demander un laboratoire d'étoiles portatif.";
+
+translate "Consulting the Scientists..."
+to french "Nous consultons les savants...";
+
+translate "Asking for the lab repeatedly just interrupts the scientists. It takes the scientists two minutes to answer the door and walk back to their lab!"
+to french "Demander un laboratoire de façon répétitive ne fait que retarder les savants. Ils perdent deux minutes à venir répondre à la porte et retourner à leur travail!";
+
+translate "We *just* finished this Portable Star Lab, and we will entrust it to you. Star labs represent many hours of work on behalf of our scientists, so please assemble a group of fellow artists to evaluate the stars it produces."
+to french "Nous venons *tout juste* de terminer ce laboratoire d'étoiles portatif, et nous allons vous le confier. Les fabriquer représente beaucoup d'heures de travail de la part de nos savants, donc nous vous demandons de réunir plusieurs de vos amis artistes pour évaluer les étoiles qu'il produit.";
+
+translate "Sorry, our scientists are still building the next Portable Star Lab."
+to french "Désolés, nos savants travaillent à construire le prochain laboratoire d'étoiles portatif.";
+translate "We *just* finished this Portable Star Lab, and we will entrust it to you. Star labs represent many hours "
+to french "Nous venons *tout juste* de terminer ce laboratoire d'étoiles portatif, et nous allons vous le confier. ";
+translate "of work on behalf of our scientists, so please assemble a group of fellow artists to evaluate the stars it produces."
+to french "Les fabriquer représente beaucoup d'heures de travail de la part de nos savants, donc nous vous demandons de réunir plusieurs de vos amis artistes pour évaluer les étoiles qu'il produit.";
+
+translate "Just by requesting a Portable Star Lab, you have completed a part of Principles of Pyrotechnics. Later on, you'll want to watch test-launches of different Stars, along with other Pyrotechnicians, to progress in Principles of Pyrotechnics."
+to french "En demandant un laboratoire portable d'étoiles, vous avez terminé une partie des principes de la pyrotechnie. Plus tard, vous aurez envie de regarder des essais de lancements de différentes étoiles, avec d'autres pyrotechniciens, pour progresser dans les principes de la pyrotechnie";
+
+translate "Register as a watcher"
+to french "S'enregistrer en tant qu'observateur.";
+
+translate "You are already registered."
+to french "Vous êtes déjà enregistré.";
+
+translate "You register as a watcher."
+to french "Vous vous enregistrez en tant qu'observateur.";
+
+translate "Turn in Star Lab"
+to french "Soumettre le laboratoire d'étoiles";
+
+translate "Turning it in..."
+to french "Soumission en cours...";
+
+translate "No favorite Star has been designated."
+to french "Aucune étoile favorite n'a été désignée.";
+
+translate "The name K1 is already taken. Try renaming the star."
+to french "le nom K1 est déjà utilisé. Essayez un autre nom.";
+
+translate "Learn Star Formula"
+to french "Apprendre une formule d'étoile";
+
+translate "Squat Canary (Common)"
+to french "Canari accroupi(commun)";
+
+translate "Squat Canary"
+to french "Canari accroupi";
+
+translate "Flying Frog (Common)"
+to french "Grenouille volante(commun)";
+
+translate "Flying Frog"
+to french "Grenouille volante";
+
+translate "You learn the recipe for making K1 stars."
+to french "Vous avez appris la recette pour fabriquer les étoiles K1.";
+
+translate "Attend the Invite-Only Pyrotechnics Preview"
+to french "Assister à la présentation de pyrotechnique sur invitation.";
+
+translate "Pyrotechnics"
+to french "Pyrotechnie";
+
+translate "Star Rack"
+to french "Support à étoiles";
+
+translate "To build a Star Rack you need:"
+to french "Pour construire un support à étoiles, vous avez besoin de:";
+
+translate "Stars will be done in "
+to french "Les étoiles seront prêtes dans ";
+
+translate "Make Stars"
+to french "Fabriquer des étoiles";
+
+translate "How many K1?"
+to french "combien de K1?";
+
+translate "To make a batch of N1 K1 you need:"
+to french "Pour fabriquer N1 K1, vous avez besoin de :";
+
+translate "Decommission this Star Lab"
+to french "Désarmer ce laboratoire d'étoiles.";
+
+translate "The lab has been decomissioned. Next time, be sure to designate *some* star as favorite!"
+to french "Le laboratoire a été désarmé. La prochaine fois, assurez-vous de désogner *quelques* étoiles comme favorites!";
+
+translate "You have learned a clever way of tightly wrapping a single Star in a piece of Rotten Flax to form a primitive pyrotechnic device. In the future you may wish to persue the Test of Pyrotechnics, where you will be able to create sophisticated fireworks and exhibit them in competition."
+to french "Vous avez appris une façon astucieuse d'envelopper solidement une seule étoile dans un morceau de lin roui pour en faire un appareil pyrotechnique primitif. A l'avenir vous pouvez espérer participer à l'épreuve de Pyrotechnie, où vous pourrez créer des feux d'artifice sophistiqués et les montrer dans un concours.";
+
+translate "Make Egyptian Candle Fireworks"
+to french "Fabriquer des chandelles égyptiennes";
+
+translate "Make how many K1 Egyptian Candles?"
+to french "Fabriquer combien de chandelles égyptiennes K1?";
+
+translate "You need N1 rotten flax to wrap the stars."
+to french "Vous avez besoin de N1 lins rouis pour envelopper les étoiles.";
+
+translate "Light the K1 Egyptian Candle"
+to french "Allumer la chandelle égyptienne K1.";
+
+translate "You can only light single candles, not piles."
+to french "Vous pouvez allumer une chandelle à la fois.";
+
+translate "Ask for a package of Wild Planet Pyrotechnic Stars"
+to french "Demander un assortiment d'étoiles pyrotechniques Planète sauvage.";
+
+translate "Shots Left: N1"
+to french "Tirs restants: N1";
+
+translate "Launch Favorite Star: O1"
+to french "Tirer l'étoile favorite: O1(ns)";
+
+translate "Favorite Star O1 watched by N1 watchers."
+to french "L'étoile favorite O1(ns) a été observée par N1 personnes.";

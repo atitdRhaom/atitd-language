@@ -1,0 +1,47 @@
+Module gamemap_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Games **
+//**    (C)opyright 2002,2003 by MDO Games			           **
+//**                                                                       **
+//***************************************************************************
+//menues
+
+translate "Jail. Call a GM."
+to german "Ällabätsch! Rufe einen GM.";
+
+translate "Show the Map (F3)"
+to german "Zeige die Karte (F3)";
+
+translate "Toggle the Map (F3)"
+to german "Zeige die Karte (F3)";
+
+translate "Landmarks"
+to german "Sehenswürdigkeiten";
+
+translate "Add a Landmark"
+to german "Füge Sehenswürdigkeit hinzu";
+
+translate "Maximum of N1 landmarks reached."
+to german "Maximum von N1 Sehenswürdigkeiten erreicht.";
+
+translate "Name of Landmark?"
+to german "Name der Sehenswürdigkeit?";
+
+translate "Replace Landmark K1?"
+to german "Ersetze Name der Sehenswürdigkeit K1?";
+
+translate "Delete Landmark"
+to german "Lösche Sehenswürdigkeit";
+
+//Josh: This doesn't work:
+translate "Are you sure you want to delete landmark K1?"
+to german "Bist du sicher, dass du die Sehenswürdigkeit K1 löschen willst?";
+
+translate "Abandon All Hope.  Contact a GM.: N1, N2"
+to german "Ällabätsch!    Rufe einen GM.: N1, N2";
+
+translate "Welcoming Island"
+to german "Willkommensinsel";

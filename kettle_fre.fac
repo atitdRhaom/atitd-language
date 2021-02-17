@@ -1,0 +1,794 @@
+module kettle_fre;
+
+translate Kettle to french masculine
+{
+  ns "Chaudron"; np "Chaudrons";
+}
+translate BeerBrewing to french masculine
+{
+  ns "Brassage de bière"; np "Brassage de bière";
+}
+translate Potash to french feminine
+{
+  ns "Potasse"; np "Potasse";
+}
+
+translate BeerKettle to french masculine
+{
+  ns "Chaudron à bière"; np "Chaudrons à bière";
+}
+translate BeerKettleKit to french masculine
+{
+  ns "Kit d'assemblage de chaudron à bière"; np "Kits d'assemblage de chaudron à bière";
+}
+
+translate Acid to french masculine
+{
+  ns "Acide"; np "Acides";
+}
+translate Salt to french masculine
+{
+  ns "Sel"; np "Sels";
+}
+translate ToxinExtraction to french feminine
+{
+  ns "Extraction de toxines"; np "Extraction de toxines";
+}
+translate Desiccation to french feminine
+{
+  ns "Dessication"; np "Dessication";
+}
+translate BAVPotent to french feminine
+{
+  ns "Très forte"; np "Très forte";
+}
+translate BAPotent to french feminine
+{
+  ns "Forte"; np "Forte";
+}
+translate BAFruity to french feminine
+{
+  ns "Fruitée"; np "Fruitée";
+}
+translate BASpicy to french feminine
+{
+  ns "Epicée"; np "Epicée";
+}
+translate BASweet to french feminine
+{
+  ns "Sucrée"; np "Sucrée";
+}
+translate BADry to french feminine
+{
+  ns "Sèche"; np "Sèche";
+}
+translate BABrown to french feminine
+{
+  ns "Brune"; np "Brune";
+}
+translate BABlack to french feminine
+{
+  ns "Noire"; np "Noire";
+}
+translate baBarley to french feminine
+{
+  ns "Orge"; np "Orge";
+}
+translate baOrange to french feminine
+{
+  ns "Orange"; np "Orange";
+}
+translate baBanana to french feminine
+{
+  ns "Bannane"; np "Bannane";
+}
+translate baCherry to french feminine
+{
+  ns "Cerise"; np "Cerise";
+}
+translate baDate to french feminine
+{
+  ns "Datte"; np "Datte";
+}
+translate baHoney to french masculine
+{
+  ns "Miel"; np "Miel";
+}
+translate baNutmeg to french feminine
+{
+  ns "Noix de muscade"; np "Noix de muscade";
+}
+translate baCinnamon to french feminine
+{
+  ns "Cannelle"; np "Cannelle";
+}
+
+translate baBread to french masculine
+{
+  ns "Pain"; np "Pain";
+}
+translate baGrapefruit to french masculine
+{
+  ns "Pamplemousse"; np "Pamplemousse";
+}
+translate baPear to french feminine
+{
+  ns "Poire"; np "Poire";
+}
+translate baBlackberry to french feminine
+{
+  ns "Mûre"; np "Mûre";
+}
+translate baPrune to french feminine
+{
+  ns "Prune"; np "Prune";
+}
+translate baJasmine to french masculine
+{
+  ns "Jasmin"; np "Jasmin";
+}
+translate baClove to french masculine
+{
+  ns "Clou de girofle"; np "Clou de girofle";
+}
+translate baVanilla to french feminine
+{
+  ns "Vanille"; np "Vanille";
+}
+translate baHerbs to french feminine
+{
+  ns "Herbe"; np "Herbe";
+}
+
+
+translate "Kettle"
+to french "Chaudron";
+translate "Beer Kettle"
+to french "Chaudron à biere";
+
+translate "To build a Kettle, you need: "
+to french "Pour fabriquer un chaudron, il vous faut : ";
+translate "To build a Beer Kettle, you need: "
+to french "Pour assembler un chaudron à biere, il vous faut : ";
+
+
+translate "Magically create Barley Malt"
+to french "Créer du malt d'orge par magie";
+
+translate "Magically create Water"
+to french "Créer de l'eau par magie";
+
+translate "Magically create Wood"
+to french "Créer du bois par magie";
+
+translate "Disassemble this Kettle"
+to french "Démanteler ce chaudron";
+
+
+
+
+
+translate "The kettle can only be taken when it is not in use."
+to french "Un chaudron ne peut être démantelé que lorsqu'il n'est pas utilisé.";
+
+translate "Kettle Recipes Known:"
+to french "Recettes connues :";
+
+translate "Potash"
+to french "Potasse";
+
+translate "Beer"
+to french "Bière";
+
+translate "Place 5 Ash in a kettle"
+to french "Placer 5 cendres dans un chaudron";
+translate "of 25 water. Then, evaporate"
+to french "avec 25 mesures d'eau, laisser ";
+translate "the water by boiling it off."
+to french "évaporer l'eau par ébullition.";
+translate "Begin"
+to french "Lancer";
+translate "Cancel"
+to french "Annuler";
+translate "Place 5 Ash in a kettle of 25 water. Then, evaporate the water by boiling it off."
+to french "Placer 5 cendres dans un chaudron de 25 mesures d'eau, laisser évaporer l'eau par ébullition.";
+
+translate "Potash (confirm)"
+to french "Potasse (confirmer)";
+translate "Potash (stalled)"
+to french "Potasse (plongée)";
+translate "Potash (cooking)"
+to french "Potasse (cuisson)";
+translate "Potash (done)"
+to french "Potasse (prête)";
+
+translate "Ash: N1"
+to french "Cendres : N1";
+translate "Water: N1"
+to french "Eau: N1";
+translate "Wood: N1"
+to french "Bois: N1";
+
+translate "Place 3 Rotten Fish, and"
+to french "Mettre 3 poissons pourris";
+
+translate "5 water in a kettle, and"
+to french "et 5 eaux dans un chaudron";
+
+translate "Geb's Tears (confirm)"
+to french "Larmes de Geb (confirmer)";
+translate "Place 30 Flower Bulbs,"
+to french "Mettre 30 bulbes de fleurs";
+translate "and 20 water in a kettle,"
+to french "et 20 mesures d'eau dans un chaudron";
+translate "20 wood underneath."
+to french "et 20 bois en dessous";
+translate "Cook until it cools."
+to french "Cuire jusqu'à refroidissement";
+
+
+translate "The fire is not lit."
+to french "Le feu n'est pas allumé.";
+
+translate "Ignite"
+to french "Allumer";
+
+translate "Discard"
+to french "Jeter";
+
+translate "The fire is burning."
+to french "Le feu brûle.";
+
+translate "Stoke"
+to french "Alimenter";
+
+translate "Stoke Max"
+to french "Alimenter (Max)";
+
+translate "Potash: N1"
+to french "Potasse : N1";
+
+translate "The recipe is complete."
+to french "La cuisson est complète.";
+
+translate "Take"
+to french "Prendre";
+
+translate "Beer (confirm)"
+to french "Bière (confirmer)";
+translate "Place 25 water in a Kettle,"
+to french "Mettez 25 mesures d'eau dans un chaudron,";
+translate "and 60 wood underneath."
+to french "et 60 bois dessous.";
+translate "Ignite. Gradually add"
+to french "Allumez. Ajoutez les ingrédients";
+translate "ingredients.  After it cools,"
+to french "progressivement. Laissez refroidir";
+translate "let stand, then close lid."
+to french "et reposer, fermez le couvercle.";
+
+translate "Place 25 water in a Kettle, and 60 wood underneath. Ignite. Gradually add ingredients.  After it cools, let stand, then close lid."
+to french "Placez 25 mesures d'eau dans un chaudron, et 60 bois dessous. Allumez. Ajoutez les ingrédients progressivement. Laissez refroidir et reposer, fermez le couvercle.";
+
+translate "After it cools, let stand, then close lid."
+to french "Une fois le mélange refroidi, laissez reposer puis mettez le couvercle.";
+
+translate "Begin"
+to french "Commencer";
+
+translate "Time left: N1"
+to french "Temps restant : N1";
+translate "Ingredients: N1"
+to french "Ingrédients : N1";
+
+translate "Beer (brewing)"
+to french "Bière (brassage)";
+
+translate "Ingredient"
+to french "Ingrédient";
+
+translate "Beer (fermentation)"
+to french "Bière (fermentation)";
+
+translate "Lid is Open"
+to french "Le couvercle est ouvert";
+
+translate "Lid is Closed"
+to french "Le couvercle est fermé";
+
+translate "Wait"
+to french "Attendre";
+
+translate "Seal"
+to french "Sceller";
+
+translate "Taking the beer..."
+to french "Extraction de la bière...";
+
+translate "Do you want to dump the entire mess out?"
+to french "Voulez-vous tout vider par terre ?";
+
+translate "Choose Beer Ingredient:"
+to french "Choisissez un ingrédient pour la bière :";
+
+translate "That is not a beer ingredient"
+to french "Ce n'est pas un ingrédient pour la bière";
+
+translate "Can only add ingredients when beer is brewing."
+to french "Vous ne pouvez ajouter des ingrédients qu'en brassant la bière.";
+
+translate "How many O1 should I add?"
+to french "Ajouter combien de O1(np) ?";
+
+translate "Added N1 O1"
+to french "N1 O1(N1?np:ns) ajoutés";
+
+translate baVPotent 
+to french { adj "très fort"; }
+translate baPotent  
+to french { adj "fort"; }
+translate baSweet   
+to french { adj "doux"; }
+translate baDry     
+to french { adj "sec"; }
+translate baFruity  
+to french { adj "fruité"; }
+translate baSpicy   
+to french { adj "épicé"; }
+translate baBrown   
+to french { adj "brun"; }
+translate baBlack   
+to french { adj "noir"; }
+
+translate baBarley 
+to french { adj "houblonné"; }
+translate baOrange 
+to french { adj "orange"; }
+translate baBanana 
+to french { adj "banane"; }
+translate baCherry 
+to french { adj "cerise"; }
+translate baDate 
+to french { adj "dattes"; }
+translate baHoney 
+to french { adj "miel"; }
+translate baNutmeg 
+to french { adj "noix de muscade"; }
+translate baCinnamon 
+to french { adj "cannelle"; }
+
+translate "Nonalcoholic beer"
+to french "bière sans alcool";
+translate "Moldy beer"
+to french "bière fermentée";
+translate "Vinegar beer"
+to french "bière aigre";
+translate "Nasty beer"
+to french "mauvaise bière";
+translate "Grassy beer"
+to french "bière boisée";
+translate "Sour beer"
+to french "bière acide";
+translate "Bitter beer"
+to french "bière amère";
+translate "Caustic beer"
+to french "bière caustique";
+translate "Cloying beer"
+to french "bière abominable";
+
+translate "Nonalcoholic soup"
+to french "soupe sans alcool";
+translate "Moldy beer"
+to french "soupe fermentée";
+translate "Vinegar beer"
+to french "soupe aigre";
+translate "Nasty beer"
+to french "mauvaise soupe";
+translate "Grassy beer"
+to french "soupe boisée";
+translate "Sour beer"
+to french "soupe acide";
+translate "Bitter beer"
+to french "soupe amère";
+translate "Caustic beer"
+to french "soupe caustique";
+translate "Cloying beer"
+to french "soupe abominable";
+
+
+translate "Brief Description: " 
+to french "Brève description : ";
+
+translate "--- Alcohol: N1 ---"
+to french "--- Alcool : N1 ---";
+
+translate "--- Color: N1 ---"
+to french "--- Couleur : N1 ---";
+
+translate "--- Mold: N1 ---"
+to french "--- Fermentation : N1 ---";
+
+translate "--- Vitamins: N1 ---"
+to french "--- Vitamines : N1 ---";
+
+translate "--- Glucose (sweet): N1 ---"
+to french "--- Glucose (doux): N1 ---";
+
+translate "--- Maltose (sweet): N1 ---"
+to french "--- Maltose (doux): N1 ---";
+
+translate "--- Lactose (sweet): N1 ---"
+to french "--- Lactose (doux): N1 ---";
+
+translate "--- Citric Acid (sour): N1 ---"
+to french "--- Acide citrique (aigre): N1 ---";
+
+translate "--- Lactic Acid (sour): N1 ---"
+to french "--- acide lactique (aigre): N1 ---";
+
+translate "--- Acetic Acid (sour): N1 ---"
+to french "--- Acide acétique (aigre): N1 ---";
+
+translate "--- Barley Flavor (pleasant): N1 ---"
+to french "--- Saveur d'orge (agréable): N1 ---";
+
+translate "--- Orange Flavor (fruity): N1 ---"
+to french "--- Saveur d'orange (fruité): N1 ---";
+
+translate "--- Bread Flavor (pleasant): N1 ---"
+to french "--- Saveur de pain (agréable) : N1 ---";
+
+translate "--- Pear Flavor (fruity): N1 ---"
+to french "--- Saveur de pêche (fuitée) :  N1 ---";
+translate "--- Blackberry Flavor (fruity): N1 ---"
+to french "--- Saveur de mûre (fruitée) : N1 ---";
+translate "--- Prune Flavor (fruity): N1 ---"
+to french "--- Saveur de prune (fuitée) : N1 ---";
+translate "--- Jasmine Flavor (pleasant): N1 ---"
+to french "--- Saveur de jasmin (agréable) : N1 ---";
+translate "--- Clove Flavor (slightly bitter): N1 ---"
+to french "--- Saveur de trèfle (légèrement amère) : N1 ---";
+translate "--- Vanilla Flavor (pleasant): N1 ---"
+to french "--- Saveur vanille (agréable) : N1 ---";
+
+translate "--- Banana Flavor (fruity): N1 ---"
+to french "--- Saveur de banane (fruité): N1 ---";
+
+translate "--- Cherry Flavor (fruity): N1 ---"
+to french "--- Saveur de cerise (fruité): N1 ---";
+
+translate "--- Date Flavor (fruity): N1 ---"
+to french "--- Saveur de dattes (fruité): N1 ---";
+
+translate "--- Honey Flavor (fruity): N1 ---"
+to french "--- Saveur de miel (fruité): N1 ---";
+
+translate "--- Nutmeg Flavor (slightly bitter): N1 ---"
+to french "--- Saveur de noix de muscade (légèrement amer): N1 ---";
+
+translate "--- Cinnamon Flavor (slightly bitter): N1 ---"
+to french "--- Saveur de cannelle (légèrement amer): N1 ---";
+
+translate "--- Tannin Flavor (very bitter): N1 ---"
+to french "--- Saveur de tanin (très amer): N1 ---";
+
+translate "--- Grassy Flavor (unpleasant): N1 ---"
+to french "--- Saveur d'herbe (désagréable): N1 ---";
+
+translate "--- Nasty Flavors (unpleasant): N1 ---"
+to french "--- Mauvais goût (déplaisant) : N1 ---";
+
+
+translate "Microbes Detected:"
+to french "Microbes détectés :";
+
+translate "Yeast Test"
+to french "Tester les levures";
+
+translate "Yeast Test (fermentation)"
+to french "Tests des levures (fermentation)";
+
+translate "No Microorganisms"
+to french "Aucun micro-organisme";
+
+translate "Yeast-N1" 
+to french "Levure-N1";
+translate "Acetobacter-N1" 
+to french "Acéto-bactérie-N1";
+translate "Lactobacillus-N1" 
+to french "lacto-bactérie-N1";
+translate "Mold-N1" 
+to french "Fermentation-N1";
+
+translate "The beer is no good. Throwing it out."
+to french "La bière est imbuvable.";
+
+translate "Muddled flavors."
+to french "Saveurs mélangées.";
+
+translate "Bold O1 flavor. " 
+to french "Très forte saveur de O1(adj). ";
+translate "Noticeable O1 flavor. " 
+to french "Saveur remarquée de O1(adj). ";
+translate "Hint of O1 flavor. " 
+to french "Légère saveur de O1(adj). ";
+
+translate "Beer. " 
+to french "Bière. ";
+translate "O1 Beer. " 
+to french "Bière O1(adj). ";
+translate "O1 O2 Beer. " 
+to french "Bière O1(adj) O2(adj). ";
+translate "O1 O2 O3 Beer. " 
+to french "Bière O1(adj) O2(adj) O3(adj). ";
+translate "O1 O2 O3 O4 Beer. " 
+to french "Bière O1(adj) O2(adj) O3(adj) O4(adj). ";
+translate "O1 O2 O3 O4 O5 Beer. " 
+to french "Bière O1(adj) O2(adj) O3(adj) O4(adj) O5(adj). ";
+translate "O1 O2 O3 O4 O5 O6 Beer. " 
+to french "Bière O1(adj) O2(adj) O3(adj) O4(adj) O5(adj) O6(adj). ";
+
+translate "To make a batch of potash, you need:"
+to french "Pour faire de la potasse, il vous faut :";
+translate "N1 O1"
+to french "N1 O1(N1?np:ns)";
+
+translate "Ash quantity unexpected. Report this as a bug."
+to french "Quantité de cendres inattendue. Veuillez le signaler comme un bug.";
+
+translate "How much wood? (Max 5)"
+to french "Quelle quantité de bois ? (Max 5)";
+
+translate "To make a batch of beer, you need:"
+to french "Pour faire de la bière, il vous faut :";
+
+translate "To make a batch of Grain Fertilizer, you need: "
+to french "Pour faire de l'engrais, il vous faut : ";
+
+translate "To make a batch of Flower Fertilizer, you need:"
+to french "Pour faire de l'engrais à fleurs, il vous faut :";
+
+translate "Eat-Drink"
+to french "Manger-Boire";
+
+translate "Taste Beer"
+to french "Goûter la bière";
+
+translate "Drink Beer"
+to french "Boire la bière";
+
+translate "Beer U1"
+to french "Bière U1(name)";
+
+translate "Weed Killer"
+to french "Herbicide";
+
+translate "Flower Fert."
+to french "Engrais à fleurs";
+
+translate "Grain Fert."
+to french "Engrais à grains";
+
+translate "Grain Fertilizer (confirm)"
+to french "Engrais à grains (confirmer)";
+
+translate "Place 1 Carp and 5 water"
+to french "Mettez 1 carpe et 5 mesures d'eau";
+
+translate "in a kettle, and 5 wood"
+to french "dans un chaudron chauffé avec";
+
+translate "underneath.  Ignite."
+to french "5 bois. Allumez.";
+
+translate "Let it cook until it cools."
+to french "Laissez chauffer puis refroidir.";
+
+translate "Grain Fertilizer (cooking)"
+to french "Engrais à grains (cuisson)";
+
+translate "The grain fertilizer is"
+to french "L'engrais à grain est en cours de";
+
+translate "being prepared. Please wait."
+to french "préparation. Veuillez patienter.";
+
+translate "Grain Fertilizer (done)"
+to french "Engrais à grain (prêt)";
+
+translate "The grain fertilizer is"
+to french "L'engrais à grains est ";
+
+translate "ready.  Go ahead and take it."
+to french "prêt. Recueillez le résultat.";
+
+translate "Fertilizer: 50"
+to french "Engrais : 50";
+
+translate "Flower Fertilizer (confirm)"
+to french "Engrais à fleurs (confirmer)";
+
+translate "Place 1 Catfish, 1 Tilapia,"
+to french "Mettez 1 poisson-chat, 1 tilapie et ";
+
+translate "1 Perch in a kettle, and"
+to french "1 perche dans le chaudron, et chauffez";
+
+translate "5 wood underneath.  Ignite."
+to french "avez 5 bois. Allumez.";
+
+translate "Flower Fertilizer (cooking)"
+to french "Engrais à fleurs (cuisson)";
+
+translate "The flower fertilizer is"
+to french "L'engrais à fleurs est en cours de";
+
+translate "being prepared. Please wait."
+to french "préparation. Veuillez patienter.";
+
+translate "Flower Fertilizer (done)"
+to french "Engrais à fleurs (prêt)";
+
+translate "The flower fertilizer is"
+to french "L'engrais à fleurs est prêt. ";
+
+translate "ready.  Go ahead and take it."
+to french "Recueillez le résultat.";
+
+translate "Weed Killer (confirm)"
+to french "Herbicide (confirmer)";
+
+translate "To make a batch of Weed Killer, you need:"
+to french "Pour faire de l'herbicide, il vous faut :";
+
+translate "Cook 1 toad skin"
+to french "Faites cuire 1 champignon peau";
+
+translate "mushroom and 5 water"
+to french "de crapaud et 5 mesures d'eau "; 
+
+translate "over 5 wood.  Let it cook"
+to french "avec 5 bois. Laissez cuire";
+
+translate "until it goes out."
+to french "jusqu'à la fin.";
+
+translate "Weed Killer (cooking)"
+to french "Herbicide (cuisson)";
+
+translate "The weed killer is"
+to french "L'herbicide est en cours de ";
+
+translate "being prepared. Please wait."
+to french "préparation. Veuillez patienter.";
+
+translate "Weed Killer (done)"
+to french "Herbicide (prêt)";
+
+translate "The weed killer is"
+to french "L'herbicide est prêt. ";
+
+translate "ready.  Go ahead and take it."
+to french "Recueillez le résultat.";
+
+translate "Weed Killer: 50"
+to french "Herbicide : 50";
+
+translate "You can only use Malt and Honey in beer."
+to french "Pour la bière, vous ne pouvez utiliser que du malt et du miel.";
+
+translate "You may only add ten ingredients, at most."
+to french "Vous ne pouvez ajouter que 10 ingrédients maximum.";
+
+translate "Very Potent"
+to french "Très fort";
+
+translate "Potent"
+to french "Fort";
+
+translate "You need a small barrel to put the beer in."
+to french "Il vous faut un petit tonneau pour votre bière.";
+
+translate "Pick up the Kettle"
+to french "Prendre le chaudron";
+
+translate "Yeast-Test (confirm)"
+to french "Essai de levure (confirmer)";
+
+translate "Boil to sterilize the "
+to french "Faites bouillir pour stériliser ";
+
+translate "water.  After it cools,"
+to french "l'eau. Une fois refroidie,";
+
+translate "let stand, then close lid."
+to french "laissez reposer, puis mettez le couvercle.";
+
+translate "Acid (confirm)"
+to french "Acide (confirmer)";
+translate "Acid (stalled)"
+to french "Acide (plongé)";
+translate "Acid (cooking)"
+to french "Acide (cuisson)";
+translate "Acid (done)"
+to french "Acide (prêt)";
+
+translate "To make a batch of acid, you need:"
+to french "Pour faire de l'acide, il vous faut :";
+
+translate "Place 25 Sulphurous Water"
+to french "Verser 25 cuches d'eau sulfurée";
+translate "and 1 Salt in kettle."
+to french "et 1 sel dans un chaudron.";
+translate "React by boiling."
+to french "Porter à ébulition.";
+
+translate "Salt (confirm)"
+to french "Sel (confirmer)";
+translate "Salt (stalled)"
+to french "Sel (plongée)";
+translate "Salt (cooking)"
+to french "Sel (cuisson)";
+translate "Salt (done)"
+to french "Sel (prêt)";
+
+translate "To make a batch of Salt, you need:"
+to french "Pour faire du sel, il vous faut :";
+
+translate "Place 25 Coconut Water in"
+to french "Verser 25 lait de coco dans un";
+
+translate "Kettle. Evaporate"
+to french "chaudron. Porter à";
+
+translate "the water by boiling it off."
+to french "ébulition pour évaporer l'eau.";
+
+translate "Arsenic (confirm)"
+to french "Arsenic (confirmer)";
+translate "Arsenic (cooking)"
+to french "Arsenic (cuisson)";
+translate "Arsenic (done)"
+to french "Arsenic (prêt)";
+
+translate "To make a batch of Arsenic, you need:"
+to french "Pour faire de l'arsenic, il vous faut :";
+
+translate "Cook 1 each Scorpion's Brood"
+to french "Cuire 1 champi. Couvée de scorpion";
+
+translate "and Razor's Edge mushroom,"
+to french "et 1 champi. Lame de rasoir,";
+
+translate "and 5 oil over 5 wood. "
+to french "et 5 huile avec 5 bois.";
+
+translate "Steep until it goes out."
+to french "Macérer jusqu'à extinction";
+
+//translate "The arsenic is leeching from"
+
+//translate "the Mushrooms. Please wait."
+
+//translate "The Arsenic Extract is"
+
+//translate "ready.  Go ahead and take it."
+
+translate "Sulfur (confirm)"
+to french "Soufre (confirmer)";
+translate "Sulfur (stalled)"
+to french "Soufre (plongée)";
+translate "Sulfur (cooking)"
+to french "Soufre (cuisson)";
+translate "Sulfur (done)"
+to french "Soufre (prêt)";
+
+translate "To make a batch of sulfur, you need:"
+to french "Pour faire du soufre, il vous faut :";
+
+translate "Place 25 Sulphurous Water"
+to french "Verser 25 cruches d'eau sulfurée";
+
+translate "in kettle. Evaporate"
+to french "dans un chaudron. Porter à";
+

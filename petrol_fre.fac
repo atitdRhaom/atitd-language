@@ -1,0 +1,26 @@
+module petrol_fre;
+
+translate AlternativeFuels to french masculine
+{
+  ns "Energies alternatives"; np "Energies alternatives";
+}
+
+translate TarPit to french masculine
+{
+  ns "Puits à goudron"; np "Puits à goudron";
+}
+
+translate "Basic tech (nothing new to build), opens other technology, quick research"
+to french "Technologie basique (aucune nouvelle option de construction), ouvre la voie à d'autres technologies, recherches rapides";
+
+translate "Advances Egypt from the Metal Age to the Cultural Age"
+to french "Fait passer l'égypte de l'âge du Métal à l'âge Culturel";
+
+translate "TheScienceOfMetal (Completed)"
+to french "Science du Métal (Achevé)";
+
+translate "This is a Tar Pit"
+to french "C'est un puit à goudron";
+
+translate "Gather some Tar"
+to french "Puiser du goudron";

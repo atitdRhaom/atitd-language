@@ -1,0 +1,102 @@
+Module Wheat_fre;
+
+translate wheatbed to french masculine
+{
+  ns "Plant de blé"; np "Plants de blé";
+}
+
+translate wheatshemu to french masculine
+{
+  ns "Blé de Shemu"; np "Blés de Shemu";
+}
+translate wheatakhet to french masculine
+{
+  ns "Blé d'Akhet"; np "Blés d'Akhet";
+}
+translate wheatperet to french masculine
+{
+  ns "Blé de Peret"; np "Blés de Peret";
+}
+
+translate wheatextract to french feminine
+{
+  ns "Essence de blé"; np "Essences de blé";
+}
+
+translate "Ask for a set of Wheat"
+to french "Demander un sac de blé";
+
+translate "Water this Wheat Bed"
+to french "Arroser ce plant de blé";
+
+translate "This is too close to another wheat bed."
+to french "C'est trop proche d'un autre plant de blé.";
+
+translate "That type of wheat is out of season."
+to french "Ce n'est pas la bonne saison pour cette espèce de blé.";
+
+translate "Wheat is extremly precious, and we must ration it. You already gotten a set of Wheat from us."
+to french "Le blé est une denrée précieuse et nous devons le rationner. Vous avez déjà obtenu un sac de blé de notre part.";
+
+translate "Wheat is in extremely short supply, and so we can only give it to those with paid accounts."
+to french "Les stocks de blé sont très faibles et nous ne pouvons en donner qu'à ceux qui ont des comptes payants";
+
+translate "Wheat is extremely precious, and you may only get one set, regardless of how many universities you visit. Other universities may, however, have different strains, so it may pay to wait. Would you like to take one set from our stock?"
+
+to french "Le blé est très précieux et vous ne pourrez en obtenir qu'un seul sac, peu importe le nombre d'universités que vous visitez. Cependant, d'autres universités pourraient en avoir d'autres types ainsi cela vaut-il la peine d'attendre. Voulez-vous un sac de notre stock ?";
+
+translate "Grows on Dirt"
+to french "Pousse sur du terreau";
+translate "Grows on Clay"
+to french "Pousse sur un sol argileux";
+translate "Grows on Sand"
+to french "Pousse sur du sable";
+translate "Grows on Grass"
+to french "Pousse sur un sol herbeux";
+translate "Needs less water"
+to french "Exige moins d'eau";
+
+translate "Impervious to soot"
+to french "Indifférent à la suie";
+translate "Impervious to heavy metal"
+to french "Indifférent aux métaux lourds";
+translate "Resistant to Weed 1"
+to french "Resistant à la mauvais herbe 1";
+translate "Resistant to Weed 2"
+to french "Resistant à la mauvais herbe 2";
+translate "Resistant to Weed 3"
+to french "Resistant à la mauvais herbe 3";
+translate "Resistant to Weed 4"
+to french "Resistant à la mauvais herbe 4";
+translate "Resistant to Weed 5"
+to french "Resistant à la mauvais herbe 5";
+translate "Resistant to Weed 6"
+to french "Resistant à la mauvais herbet 6";
+translate "Resistant to Weed 7"
+to french "Resistant à la mauvais herbe 7";
+
+translate "Warning: Grows on Nothing"
+to french "Attention: Ne pousse sur aucun sol";
+
+translate "For some reason, the wheat stalks were weak, and no good grain could be harvested."
+to french "Pour une raison inconnue, les pousses de blé étaient trop faibles, et aucun grain viable n'a pu être récolté.";
+
+translate "You harvest N1 grains of O1."
+to french "Vous récoltez N1 grains de O1(ns).";
+translate "You harvest N1 grains of Druze."
+to french "Vous récoltez N1 grains de Druze.";
+translate "You harvest N1 grains of Druze."
+to french "Vous récoltez N1 grains d'Abacua.";
+translate "You harvest N1 grains of Santeria."
+to french "Vous récoltez N1 grains de Santeria.";
+
+translate "Harvest this Wheat"
+to french "Récolter le blé";
+
+translate "Make Wheat Extract"
+to french "Extraire l'essence du blé";
+
+translate "You need N1,N2 wheat to make a drop of extract."
+to french "Il vous faut N1 N200 sacs de blé pour extraire une goutte d'essence.";
+
+

@@ -1,0 +1,16 @@
+module matches_fre;
+
+translate "Reset Fakegame Rank"
+to french "Réinitialiser le niveau du jeu";
+
+translate "FakeGame Match"
+to french "Partie de ";
+
+translate "Win against U1"
+to french "Victoire contre U1(name)";
+
+translate "Lose against U1"
+to french "Défaite contre U1(name)";
+
+translate "Audit Ranks"
+to french "Classement";

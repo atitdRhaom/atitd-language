@@ -1,0 +1,544 @@
+module conflict_fre;
+
+translate trybegincommand to french feminine
+{ ns "Bases du commmandement"; np "Bases du Rite du commandement";}
+
+translate StatueofMontu to french feminine
+{
+	ns "Statue de Montu"; np "Statues de Montu";
+	}
+
+translate StatueOfSnake to french feminine
+{
+	ns "Statue du Serpent"; np "Statues du Serpent";
+	}
+
+translate StatueOfLion to french feminine
+{
+	ns "Statue du Lion"; np "Statues du Lion";
+	}
+
+translate FlamingAltar to french masculine
+{
+	ns "Autel flamboyant"; np "Autels flamboyants";
+	}
+
+translate RiteCommand to french masculine
+{
+	ns "Rite de Commandement"; np "Rites de Commandement";
+	}
+
+translate RiteSkirmish to french masculine
+{
+	ns "Rite d'Escarmouche"; np "Rites d'Escarmouche";
+	}
+	
+translate RiteFormalDuel to french masculine
+{
+	ns "Rite du Duel officiel"; np "Rites des Duels officiels";
+	}
+	
+translate RiteTwoBattleships to french masculine
+{
+	ns "Rite des deux Vaisseaux de guerre"; np "Rites des deux Vaisseaux de guerre";
+	}
+	
+translate RiteRaidingParty to french masculine
+{
+	ns "Rite du Groupe de Chasse"; np "Rites du Groupe de chasse";
+	}
+
+translate RiteMelee to french masculine
+{
+	ns "Rite de Mêlée"; np "Rites de Mêlée";
+	}
+
+translate RiteChaos to french masculine
+{
+	ns "Rite du Chaos"; np "Rites du Chaos";
+	}
+	
+translate DuelingArena to french feminine
+{
+	ns "Arène de duel"; np "Arènes de duel";
+	}
+
+
+translate "Learn how to play Rite of Command"
+to french "Apprendre à jouer au Rite du Commandement";
+
+translate "Read \"How do I play Rite of Command?\" at a Command Desk"
+to french "Lire \"Comment jourer au Rite du commandement ? \" sur un bureau de commandement";
+
+translate "Pick an Opponent and play a game of Rite of Command"
+to french "Choisir un adversaire et faire une partie de Rite du Commandement";
+
+translate "Place a card"
+to french "Poser une carte";
+
+translate "Defeat an opponent in combat"
+to french "Vaincre un adversaire dans un combat";
+
+translate "Finish a game of Rite of Command"
+to french "Terminer une partie de Rite du commandement";
+
+translate "Wepawet's Arena"
+to french "Arènes de Wepawet";
+
+translate "O1 Arena"
+to french "Arène de O1(ns)";
+translate "Spirit Arena"
+to french "Arène Spirituelles";
+translate "Spirit Arena (O1): K1, K2"
+to french "Spirit Arena (O1(ns)): K1, K2";
+
+translate "Rite of Command Tournament"
+to french "Tournoi du Rite de Commandement";
+
+translate "King's Convoy Tournament"
+to french "Tournoi du convoi du Roi";
+
+translate "Heket's Rake Tournament"
+to french "Tournoi du rateau de Heket";
+
+translate "Clear the arena"
+to french "Vider l'arène";
+
+translate "View the Combat Log"
+to french "Voir l'enregistrement du combat";
+
+translate "One of the players does not have the ante"
+to french "Un des joueurs n'a pas misé";
+
+translate "One of the players does not have the ante, or the skill"
+to french "Un des joueurs n'a pas misé, ou n'a pas la compétence requise.";
+
+translate "setup"
+to french "En création";
+
+translate "Card"
+to french "Carte";
+
+translate "reading"
+to french "Choix";
+
+translate "Select an Opponent"
+to french "Choisir un adversaire";
+
+translate "Something's wrong 320948324"
+to french "Il y a un problème 320948324";
+
+translate "Configure"
+to french "Configurer";
+
+translate "Current rite: O1"
+to french "Rite actuel : O1(ns)";
+
+translate "Current ante: N1 O1"
+to french "Mise actuelle : N1 O1(N1?np:ns)";
+
+translate "Rite"
+to french "Rite";
+
+translate "Formal Duel"
+to french "Duel officiel";
+
+translate "Skirmish"
+to french "Escarmouche";
+
+translate "Command"
+to french "Commandement";
+
+translate "Ante"
+to french "Mise";
+
+translate "check"
+to french "Consulter";
+
+translate "Start the Test of the Rite of Command"
+to french "Commencer l'épreuve du rite de Commandement";
+
+translate "Check rank in The Rite of the Formal Duel"
+to french "Consulter le niveau dans le rite du Duel officiel";
+
+translate "Check rank in The Rite of the Skirmish"
+to french "Consulter le niveau dans le rite de l'Escarmouche";
+
+translate "Check rank in The Rite of Command"
+to french "Consulter le niveau dans le rite de Commandement";
+
+translate "Ranks in Conflict are:"
+to french "Les niveaux en Conflit sont :";
+
+translate "Check Ranks in Conflict"
+to french "Vérifier les niveaux en Conflit";
+
+translate "U1 is doing something else."
+to french "U1(name) est occupé à autre chose.";
+
+translate "U1 does not have the ante."
+to french "U1(name) n'a pas d'engagement.";
+
+translate "This enables you to change the appearance of your chat bubble."
+to french "Cette option vous permet de changer l'apparence du cartouche de votre nom.";
+
+translate "You have passed the Rite of Command!"
+to french "Vous venez de passer le rite de Commandement !";
+
+translate "U1 has achieved level N1 in O1, and there's no reward implemented."
+to french "U1(name) a atteint le niveau N1 en O1(ns), mais il n'y a pas de récompense.";
+
+translate "We have not programmed the corresponding reward.  Please contact the Pharaoh."
+to french "Nous n'avons pas programmé la récompense correspondante. Veuillez contacter Pharaoh.";
+
+translate "Your skill in O1 has advanced to level N1. "
+to french "Votre compétence en O1(ns) a progressé au niveau N1.";
+
+translate "Your skill in O1 has advanced to level N1. We have not programmed the corresponding reward.  Please contact the Pharaoh."
+to french "Votre compétence en O1(ns) a progressé au niveau N1. Nous n'avons pas programmé la récompense correspondante. Veuillez contacter Pharaoh.";
+
+translate "To duel, you must register"
+to french "Pour un duel, vous devez vous enregistrer";
+
+translate "at the University of Conflict."
+to french "à l'université du Conflit.";
+
+translate "Wager: "
+to french "Engagement :";
+
+translate "Wager: N1 O1"
+to french "Engagement : N1 O1(N1?np:ns)";
+
+translate "Show my Rank"
+to french "Afficher mon niveau";
+
+translate "N1 in O1"
+to french "N1 en O1(ns)";
+
+translate "N1 Best score."
+to french "N1 meilleur score";
+
+translate "Resolving duel between U1 and U2."
+to french "Résolution de l'affrontement entre U1(name) et U2(name)";
+
+translate "Duel over: U1 wins."
+to french "Duel terminé : U1(name) a gagné.";
+
+translate "Match over: U1 wins."
+to french "Affrontement terminé : U1(name) l'emporte.";
+
+translate "ASSIGNING RANK POINTS. PLACE=N1 PLANE(PLACE)=K1"
+to french "ASSIGNATION DES POINTS. PLACE=N1 PLAN=K1";
+
+translate "fight"
+to french "Combat";
+
+translate "You have been commanded to stand still by U1.  You can go in 30 seconds.\a \aNote: the power of command can be obtained by gaining skill in the Rite of Command.  This power enables you to issue one command per day.  There are a few commands to choose from, all nondestructive, like this one."
+to french "U1(name) vous a demandé de ne pas bouger. Vous pourrez vous déplacer dans 30 secondes.\a \aNote : Le pouvoir du Commandement peut être obtenu en vous améliorant dans le Rite de Commandement. Ce pouvoir vous permet d'exiger quelque chose une fois par jour. Vous avez le choix entre plusieurs commandes, dont aucune n'est destructrice, celle-ci par exemple.";
+
+translate "Issue Command"
+to french "Commander";
+
+translate "'Follow Me!'"
+to french "'Suivez-moi !'";
+
+translate "You can only Command once per day. You must wait N1."
+to french "Vous ne pouvez Commander qu'une fois par jour. Vous devez attendre encore N1.";
+
+translate "U1 has commanded you to follow!"
+to french "U1(name) exige que vous le suiviez !";
+
+translate "'All Bow Down to Me!'"
+to french "'Prosternez-vous tous devant moi !'";
+
+translate "There was nobody of lower rank in a 300-foot radius to command."
+to french "Personne n'est présent à moins de 300 pieds de vous pour obéir à votre ordre.";
+
+translate "'Stand Still and Listen!'"
+to french "'Ne bougez plus et écoutez-moi !'";
+
+translate "There was nobody of lower rank in a 500-foot radius to command."
+to french "Personne n'est présent à moins de 500 pieds de vous pour obéir à votre ordre.";
+
+translate "You have gained skill in the rite of command.  Once per day, you may issue a single command, using your Special Menu.  However, you can never command somebody of higher rank than you.\a \aAt skill level 1, you have gained a new command: 'All Bow down to Me!'"
+to french "Vous avez acquis une nouvelle compétence dans le rite de commandement. Une fois par jour, vous pouvez commander quelque chose en utilisant votre menu Spécial. Néanmoins, vous ne pourrez jamais exiger quelque chose d'une personne possédant un niveau plus élevé que le vôtre.\a \aAu niveau 1, vous avez gagné une nouvelle commande : 'Prosternez-vous tous demant moi !'";
+
+translate "You have gained skill in the rite of command.  Once per day, you may issue a single command, using your Special Menu.  However, you can never command somebody of higher rank than you.\a \aAt skill level 2, you have gained a new command: 'Stand Still and Listen!'"
+to french "Vous avez acquis une nouvelle compétence dans le rite de commandement. Une fois par jour, vous pouvez commander quelque chose en utilisant votre menu Spécial. Néanmoins, vous ne pourrez jamais exiger quelque chose d'une personne possédant un niveau plus élevé que le vôtre.\a \aAu niveau 2, vous avez gagné une nouvelle commande : 'Ne bougez plus et écoutez-moi !'";
+
+translate "Your duel with U1 has been cancelled. "
+to french "Votre affrontement contre U1(name) a été annulé. ";
+
+translate "To select an opponent, you must have the ante: N1 O1"
+to french "Pour choisir un adversaire, vous devez avoir l'engagement : N1 O1(N1?np:ns)";
+
+translate "Duel: U1 vs U2 in N1 seconds. Prepare yourself!"
+to french "Duel : U1(name) contre U2(name) dans N1 secondes. Préparez-vous !";
+
+translate "Please wait for an opponent."
+to french "Veuillez attendre un adversaire.";
+
+translate "Select your opponent:"
+to french "Choisissez votre adversaire :";
+
+translate "The duel is about to begin!"
+to french "Le duel va commencer !";
+
+translate "Please wait while your opponent studies his deck."
+to french "Veuillez patienter : votre adversaire étudie ses cartes.";
+
+translate "You now have time to study the deck before the duel begins."
+to french "Vous avez le temps de regarder vos cartes avant le début du duel.";
+
+translate "Duel: U1 vs U2"
+to french "Duel : U1(name) contre U1(name)";
+
+translate "The players can study the cards before the match begins."
+to french "Les joueurs peuvent étudier les cartes avant le début de la partie.";
+
+translate "Time: N1"
+to french "Temps : N1";
+
+translate "The players can study the cards before the match begins."
+to french "Les joueurs peuvent étudier les cartes avant le début de la partie.";
+
+translate "Duel: U1 vs U2"
+to french "Duel : U1(name) contre U1(name)";
+
+translate "The players should now advance to the podium."
+to french "Les joueurs peuvent maintenant s'avancer jusqu'au podium.";
+
+translate "Time: N1"
+to french "Temps : N1";
+
+translate "timeleft"
+to french "temps restant";
+
+translate "Please wait for your opponent to play his last card"
+to french "Attendez que votre adversaire joue sa dernière carte.";
+
+translate "The players should now advance to the podium."
+to french "Les joueurs peuvent maintenant s'avancer jusqu'au podium.";
+
+translate "Duel: U1 vs U2"
+to french "Duel : U1(name) contre U2(name)";
+
+translate "Please advance to the podium."
+to french "Veuillez vous avancer jusqu'au podium.";
+
+translate "Duel begins in N1 seconds."
+to french "Début du duel dans N1 secondes !";
+
+translate "When you're ready, choose"
+to french "Lorsque vous êtes prêt, choisissez";
+
+translate "Select an Opponent"
+to french "'Choisissez un adversaire'";
+
+translate "from the menu"
+to french "depuis le menu";
+
+translate "You are not Registered for"
+to french "Vous n'êtes pas inscrit à";
+
+translate "To Register, Visit the"
+to french "Pour vous enregistrez, allez à";
+
+translate "University of Conflict"
+to french "l'université de Conflit";
+
+translate "Please wait for your opponent to play his last card"
+to french "Veuillez attendre que votre adversaire ait abattu sa dernière carte";
+
+translate "selecting"
+to french "sélection";
+
+translate "pending"
+to french "en attente";
+
+translate "holding"
+to french "retenue";
+
+translate "Player: U1"
+to french "Joueur: U1(name)";
+
+translate "advancing"
+to french "Avancée";
+
+translate "effective"
+to french "en cours";
+
+translate "dueling"
+to french "Duel";
+
+translate "watching"
+to french "Spectateur";
+
+translate "Player U1 wins ring N1"
+to french "U1(name) gagne sur le champ N1";
+
+translate "U1's N1 O1 takes a O2 in hand O3"
+to french "Les O1(np) de U1(name) prennent O2(uns) O2(ns) dans la main O3(ns)";
+
+translate "You are officially registered and may participate in O1.  For now, the instructions for conflict are on the web-page at ataleinthedesert.com (click on the 'Rites of Conflict' link)."
+to french "Vous êtes officiellement enregistré et pouvez prendre part à O1(ns). Pour l'instant, les instructions concernant le conflit se trouvent sur ataleinthedesert.com (cliquez sur 'Rites de Conflit')";
+
+translate "U1's rank in O1 is N1"
+to french "U1(name) est de niveau N1 en O1(ns)";
+
+translate "Rank in O1 is N1"
+to french "Niveau en O1(ns) : N1";
+
+translate "Rank in O1 is K1"
+to french "Le classement en O1(ns): K1";
+
+translate "Ranks in Conflict are:"
+to french "Le classement pour l'épreuve de conflit est le suivant:";
+
+translate "You have not begun any tests of Conflict."
+to french "Vous n'avez pas encore commencé une épreuve de conflit.";
+
+translate "Cancel Duel"
+to french "Annuler le duel";
+
+translate "Rite of Command"
+to french "Rite de commandement";
+
+translate "Forfeit my win"
+to french "Déclarer forfait";
+
+translate "Really forfeit the Rite of Command and start over? Type FORFEIT if so..."
+to french "Voulez-vous vraiment déclarer forfait et tout recommencer ? Si oui, tapez FORFEIT...";
+
+translate "Forfeit cancelled."
+to french "Vous retirez votre forfait.";
+
+translate "Forfeited Rite of Command. Good luck advancing!"
+to french "Vous avez déclaré forfait. Bonne chance pour la suite !";
+
+translate "Go Poof"
+to french "Disparaître";
+
+translate "pow N1/N2"
+to french "puis N1/N2";
+
+translate "pow -N1/N2"
+to french "puis -N1/N2";
+
+translate "pow N1/-N2"
+to french "puis N1/-N2";
+
+translate "Ring N1"
+to french "Ring N1";
+
+translate "Ring N1:"
+to french "Ring N1:";
+
+translate "  SN1: U1's O1"
+to french "  SN1: O1(ns) de U1(name)";
+
+translate "  WN1: U1's O1"
+to french "  WN1: O1(ns) de U1(name)";
+
+translate "U1's O1 (SN1) takes a O2 (WN2) in hand N3"
+to french "O1(^lns) O1(ns) de U1(name) (SN1) prend un O2(ns) (QN2) dans la main N3";
+
+translate "U1's O1 power N1 (SN2) defeats U2's O2 power N3 (SN4)"
+to french "O1(^lns) O1(ns) de U1(name) puissance N1 (SN1) triomphe O2(dns) O2(ns) de U2(name) puissance N3 (SN4)";
+
+translate "U1's O1 power -N1 (SN2) defeats U2's O2 power -N3 (SN4)"
+to french "O1(^lns) O1(ns) de U1(name) puissance -N1 (SN1) triomphe O2(dns) O2(ns) de U2(name) puissance -N3 (SN4)";
+
+translate "U1's O1 power N1 (SN2) defeats U2's O2 power -N3 (SN4)"
+to french "O1(^lns) O1(ns) de U1(name) puissance N1 (SN1) triomphe O2(dns) O2(ns) de U2(name) puissance -N3 (SN4)";
+
+translate "U1's O1 power -N1 (SN2) defeats U2's O2 power N3 (SN4)"
+to french "O1(^lns) O1(ns) de U1(name) puissance -N1 (SN1) triomphe O2(dns) O2(ns) de U2(name) puissance N3 (SN4)";
+
+translate "Travel to Wepwawet's O1 Arena"
+to french "Se rendre dans l'arène Wepwawet de O1(ns)";
+
+translate "Spirit Arena"
+to french "Arène Spirituelle";
+
+translate "Sign up to compete in the Rite of Command season"
+to french "Inscription: Saison du Rite du commandement";
+
+translate "Telepathy Season"
+to french "Saison de la Télépathie";
+
+translate "King's Convoy Season"
+to french "Saison du Convoi du Roi";
+
+translate "Heket's Rake Season"
+to french "Saison du rateau de Heket";
+
+translate "Kanivan tak Season"
+to french "Saison du Kanivan Tak";
+
+translate "Reflection Season"
+to french "Saison de la Réflexion";
+
+translate "Rite of Command Season"
+to french "Saison du Rite de Commandement";
+
+translate "Witagog Season"
+to french "Saison du Witagog";
+
+translate "Yokir Season"
+to french "Saison du Yokir";
+
+translate "Zhadu Season"
+to french "Saison du Zhadu";
+
+translate "Conflict Seasons - O1"
+to french "Saison des Conflits - O1(ns)";
+
+
+translate "                                        The Rules of Rite of Command"
+to french "                                      Les règles du Rite du commandement";
+
+translate "The arena:"
+to french "L'arène:";
+translate "The arena is made up of three levels."
+to french "L'arène est faite de 3 niveaux.";
+translate "   Level 1 is the furthest from the Dueling Arena desk."
+to french "   Niveau 1 qui se trouve le plus loin de la table de duels de l'arène";
+translate "   Level 2 is in between Levels 1 and 3"
+to french "   Niveau 2 qui se trouve entre le niveau 1 et 3";
+translate "   Level 3 is the closest to the Dueling Arena desk."
+to french "   Niveau 3 est le plus proche de la table de l'arène des conflits";
+translate "Levels run in a straight line and new cards are added at the end of the line."
+to french "Le jeu se joue sur une ligne et les nouvelles cartes sont ajoutées à la fin de la ligne.";
+translate "A deck of cards is randomly assigned. Each player has the same deck of cards but in a different order."
+to french "Un jeu de carte est distribué aléatoirement. Chaque joueur a le même jeu, mais dans un ordre différent.";
+translate "Players have 2 minutes to review the deck of cards"
+to french "Les joueurs ont 2 minutes pour découvrir leur jeu.";
+translate "On each turn a player will draw a card from the deck and choose the level in which to play the card."
+to french "A chaque tour, un joueur prend une carte de sa pioche et choisi la ligne où la placer.";
+translate "Cards:"
+to french "Cartes:";
+translate "There are two types of card; soldiers and weapons."
+to french "Il y a deux types de cartes; les soldats et les armes.";
+translate "Weapons have a type (e.g. Blunt, Blade) and a Power rating. They may be more effective against specific soldiers."
+to french "Les armes ont un type (ex. Lame) et une puissance. Elles seront plus efficaces sur certains soldats que d'autres.";
+translate "Soldiers have a class, a number of hands and weapon preference."
+to french "Les soldats ont une classe, un nombre de mains et une arme préférée.";
+translate "   They can only hold weapons of their preference."
+to french "   Ils ne peuvent se servir que de leurs armes préférées.";
+translate "   They can only hold the number of weapons their hands will allow."
+to french "   Ils peuvent tenir uniquement le nombre d'arme que leurs mains leur permet.";
+translate "When all cards are played combat begins and a winner is decided."
+to french "Lorsque toutes les cartes sont placées, le combat commence et le gagnant est désigné.";
+translate "Each soldier will look along the line and consider weapons in order. A soldier will take any and every weapon he can regardless of who placed it until he runs out of weapons or his hands are full."
+to french "Chaque soldat va regarder la ligne et considérer les armes dans l'ordre. Un soldat donné prendra toutes les armes, peu importe qui les a placées, jusqu'à ce qu'il n'y ait plus d'armes ou que ses mains soient pleines.";
+translate "The soldiers for each player will then fight with the first soldier in the Level for Player 1 fighting the first soldier in the Level for Player 2."
+to french "Les soldats de chaque joueur se batteront ainsi : Sur un niveau, le premier soldat du joueur 1 se battera contre le premier soldat du joueur 2.";
+translate "   The soldier with the greatest power will win. It will then take 3 damage to it's power due to battle fatigue and fight again."
+to french "   Le soldat avec la puissance la plus grande gagnera. Il supportera 3 coups à sa puissance dûs à la fatigue de la bataille puis pourra se battre à nouveau.";
+translate "The player who has soldiers left in the Level at the end of battle win's the level."
+to french "Le joueur qui a le plus de soldats restant sur le niveau à la fin de la bataille gagne le niveau.";
+translate "The player that wins the most levels overall wins the game."
+to french "Le joueur qui gagne le plus de niveaux en tout gagne le jeu.";
+
+

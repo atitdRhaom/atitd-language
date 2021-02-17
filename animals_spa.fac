@@ -1,0 +1,34 @@
+Module animals_spa;
+
+translate Gazelle to spanish feminine
+{
+  ns "Gacela"; np "Gacelas";
+}
+translate safari to spanish masculine
+{
+  ns "Safari"; np "Safari";
+}
+translate "Tag this Gazelle"
+to spanish "Acaricie a esta gacela.";
+
+translate "You already tagged this Gazelle"
+to spanish "Ya ha acariciado esta gacela.";
+
+translate "Trying to tag the Gazelle..."
+to spanish "Tratando de acariciar esta gacela...";
+
+translate "You Tagged the Gazelle!"
+to spanish "Usted ha acariciado esta gacela!";
+
+
+translate "You've successfully discovered a Gazelle! You need to tag four of these total to finish this portion of the Test."
+to spanish "Haz descubierto una Gacela! Necesitas acariciar cuatro de ellas para terminar esta porción de la Prueba.";
+
+translate "The Gazelle looks like it is about to collapse."
+to spanish "La Gacela parece estar a punto de colapsar.";
+
+translate "The Gazelle is really starting to slow down."
+to spanish "La Gacela esta perdiendo velocidad.";
+
+translate "The Gazelle appears to be breathing hard."
+to spanish "La Gacela aparentemente está agitada.";

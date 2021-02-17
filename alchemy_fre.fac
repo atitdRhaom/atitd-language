@@ -1,0 +1,317 @@
+module alchemy_fre;
+
+
+translate AlchemistsBench to french feminine
+{
+	ns "Table d'alchimiste"; np "Tables d'alchimiste";
+	}
+
+translate CookPots to french masculine
+{
+	ns "Pot à cuisson"; np "Pots à cuisson";
+	}
+
+translate Tincture to french feminine
+{
+	ns "Teinture"; np "Teintures";
+	}
+
+translate Alchemy to french feminine
+{
+	ns "Alchimie"; np "Alchimie";
+	}
+
+translate ReducingAgent to french masculine
+{
+	ns "Agent de réduction"; np "Agents de réduction";
+	}
+	
+translate Scrying to french feminine
+{
+	ns "Analyse"; np "Analyses";
+	}
+	
+translate "Allows the formulation of complex alchemical agents with a cornucopia of properties."
+to french "Permet la composition d'agents alchimiques complexes possédant tout un éventail de propriétés";
+
+translate "Iron Cook Pots"
+to french "Pots de cuisson en fer";
+
+translate "Thermometers"
+to french "Thermomètres";
+
+translate "Papyrus Paper (for Fume Hoods)"
+to french "Papier de papyrus (pour les condensateurs de vapeur)";
+
+translate "Glass Jars (pre-mix)"
+to french "Jarres de verre (mélange préparé)";
+
+translate "You learn to build and operate an Alchemist's Bench, and understand techniques for peering into an alchemical solution to discern it's components. You also learn recipes and techniques for using Reducting Agent to purify and isolate components of the alchemical solution. Furthermore, your Alchemy skill allows you to now learn the optional skill Scrying, at any School of Thought."
+to french "Vous apprenez à construire et utiliser une table d'alchimiste, ainsi que les techniques pour étudier une solution alchimique afin d'en déterminer les composants. Vous apprenez également les formules et techniques d'utilisation de l'agent de réduction, afin de purifier et d'isoler des composants de la solution alchimique. De plus, vos connaissances en alchimie vous permettent à présent de pouvoir d'Analyse si vous vous rendez dans une Ecole de Pensée.";
+
+translate "Basic Tincture "
+to french "Teinture basique";
+
+translate "Alchemy"
+to french "Alchimie";
+
+translate "Alchemist's Bench"
+to french "Table d'alchimiste";
+
+translate "To build an Alchemist's Bench you need:"
+to french "Pour construire une table d'alchimiste, il vous faut: ";
+
+translate "Warning: Alchemists benches can be destroyed if misused. Consult an experienced alchemist to learn how to avoid this."
+to french "Attention : les tables d'alchimiste peuvent être détruites si elles ne sont pas utilisées convenablement. Consultez un alchimiste expérimenté afin d'éviter une catastrophe.";
+
+translate "Mix a batch of Reducing Agent"
+to french "Préparer une dose d'agent de réduction";
+
+translate "For a batch of Reducing Agent, you need: "
+to french "Pour une dose d'agent de réduction, il vous faut : ";
+
+translate "Mix Cheat/Tincture"
+to french "Mélanges/Teinture";
+
+translate "Mix Cheat/"
+to french "Mélanges/";
+
+translate "Tincture K1"
+to french "Teinture K1";
+
+translate "Tincture "
+to french "Teinture ";
+
+translate "Mix"
+to french "Mélanger";
+
+translate "Reducing Agent"
+to french "Agent de réduction";
+
+translate "How much O1 ?"
+to french "Combien de O1(np) ?";
+
+translate "You don't have enough Tincture "
+to french "Vous n'avez pas assez de teintures";
+
+translate "Inject Reducing Agent from the bottom"
+to french "Injectez l'agent de réduction par le fond";
+
+translate "You don't have any reducing agent"
+to french "Vous n'avez pas d'agents de réduction";
+
+translate "Dump out the flask"
+to french "Jeter le contenu de la fiole";
+
+translate "Filter the precipitate"
+to french "Filtrer le précipité";
+
+translate "No precipitate has formed."
+to french "Le mélange n'a pas précipité";
+
+translate "The tincture isn't heavy enough to settle out."
+to french "La teinture n'est pas assez épaisse.";
+
+translate "The precipitate is mottled in color, indicating impurities."
+to french "Le précipité montre plusieurs couleurs, preuve qu'il contient des impuretés";
+
+translate "Sprinkle Reducing Agent on the surface"
+to french "Disséminer l'agent de réduction à la surface";
+
+translate "Load the Alchemist's Bench with Petroleum"
+to french "Mettre du pétrole dans la table d'alchimiste";
+
+translate "Load how much petroleum? (Max N1)"
+to french "Quelle quantité de pétrole ? (Max N1)";
+
+translate "Stir the solution"
+to french "Remuer la solution";
+
+translate "Your Alchemist's Bench has no fuel."
+to french "Il manque du combustible à votre installation";
+
+translate "The bench blew up!"
+to french "La table a explosé !";
+
+translate "Alchemy Control Panels not initialized. Call a developer."
+to french "Le panneau de contrôle alchimique n'est pas initialisé. Contactez un développeur.";
+
+//translate "Injected property N1 in position N2 of panel N3"
+//to french "";
+
+translate "Surgical Removal"
+to french "Enlever";
+
+translate "Gravity Two"
+to french "Gravité 2";
+
+translate "Panel Number?"
+to french "Panel N°?";
+
+translate "Position Number?"
+to french "Position numéro?";
+
+translate "Gravity Three"
+to french "Gravité 3";
+
+translate "View Discoveries and Properties"
+to french "Afficher les découvertes et les propriétés";
+
+translate "Alchemy Panel N1: Scyrings= N2 Discoveries= N3"
+to french "Panel Alchimique N1: Analyses= N2 Découvertes= N3";
+
+translate "* : N1 Gravity One : "
+to french "* : N1 Gravité 1: ";
+translate "* : N1 Gravity Two : "
+to french "* : N1 Gravité 2: ";
+translate "* : N1 Gravity Three : "
+to french "* : N1 Gravité 3: ";
+
+//translate "Inject Gravity 1 Discovery (Immediate)/N1 (K1)"
+//to french "";
+
+//translate "Inject Gravity 2 Discovery (Immediate)/N1 (K1)"
+//to french "";
+
+//translate "Inject Gravity 3 Discovery (Immediate)/N1 (K1)"
+//to french "";
+
+//translate "Inject K1 about how many discoveries from now?"
+//to french "";
+
+translate "Scry of K1 discovered property, N2"
+to french "Analyse de la découverte K1, N2";
+
+translate "Scry of K1 did not discover anything."
+to french "L'analyse de K1 n'a rien révélé de nouveau.";
+
+translate "Scry Tincture/"
+to french "Analyser la teinture/";
+
+translate "Scrying..."
+to french "Analyse...";
+
+translate "You don't scry any useful properties to Tincture K1"
+to french "Vous ne découvrez pas de propriétés intéressantes dans la teinture K1";
+
+translate "You scry the property of Tincture K1 and discern: "
+to french "Vous analysez les propriétés de la teinture K1, et vous discernez :";
+
+translate "Flush the Chamber"
+to french "Rincer le récipient";
+
+translate "Are you sure you want to flush the chamber losing the contents?"
+to french "Etes-vous certain de vouloir rincer le récipient, perdant ainsi son contenu?";
+
+translate "Chamber Contains N1 O1"
+to french "Le récipient contient N1 O1(N1?np:ns)";
+
+translate "Infusion Requires Tincture K1"
+to french "La perfusion nécessite la teinture K1";
+ 
+translate "Infuse the Chamber with K1"
+to french "Perfuser le récipient avec K1";
+
+translate "You don't have enough Tinkture K1"
+to french "Vous n'avez pas assez de teintures K1";
+
+translate "Meld Large Diamonds"
+to french "Moudre des gros diamants";
+
+translate "Meld Large Quartz"
+to french "Moudre des gros quartz";
+
+translate "Meld Large Rubies"
+to french "Moudre des gros rubis";
+
+translate "Meld Large Topaz"
+to french "Moudre des gros topazes";
+
+translate "Meld Large Emerald"
+to french "Moudre des grosses émeraudes";
+
+translate "Meld Large Sapphire"
+to french "Moudre des gros saphirs";
+
+translate "Meld"
+to french "Moudre";
+
+translate "Large Diamonds"
+to french "Gros diamants";
+
+translate "Large Quartz"
+to french "Gros quartz";
+
+translate "Large Rubies"
+to french "Gros rubis";
+
+translate "Large Topaz"
+to french "Gros topazes";
+
+translate "Large Emerald"
+to french "Grosse émeraudes";
+
+translate "Large Sapphire"
+to french "Gros saphirs";
+
+translate "Transmute Ash"
+to french "Transmuter de la cendre";
+
+translate "Transmute"
+to french "Transmuter";
+
+translate "Ash to Potash"
+to french "Cendre en potasse";
+
+translate "Transmute Limestone"
+to french "Transmuter du calcaire";
+
+translate "Alchemical Alignment"
+to french "Alignement Alchimique";
+
+translate "Limestone to Lime"
+to french "Calcaire en chaux";
+
+translate "Alchemic Alignment: Transmute Limestone"
+to french "Alignement alchimique: Transmuter du calcaire";
+
+translate "Alchemic Alignment: Transmute Ash"
+to french "Alignement alchimique: Transmuter de la cendre";
+
+translate "Alchemic Alignment: Meld Large Rubies"
+to french "Alignement alchimique: Moudre des gros rubis";
+
+translate "Alchemic Alignment: Meld Large Diamonds"
+to french "Alignement alchimique: Moudre des gros diamants";
+
+translate "Alchemic Alignment: Meld Large Topaz"
+to french "Alignement alchimique: Moudre des grosses topazes";
+
+translate "Alchemic Alignment: Meld Large Emerald"
+to french "Alignement alchimique: Moudre des grosses émeraudes";
+
+translate "Alchemic Alignment: Meld Large Sapphire"
+to french "Alignement alchimique: Moudre des gros saphirs";
+
+translate "Transmute Lead into Arsenic"
+to french "Transmuter le plomb en arsenic";
+
+translate "Transmute Tin Ore into Arsenic"
+to french "Transmuter du minerai d'étain en arsenic";
+
+translate "Meld Large Quartz"
+to french "Moudre des gros quartz";
+
+translate "You Scry: The chamber must be infused with K1"
+to french "Vous analysez: La chambre doit être perfusée avec K1";
+
+translate "Alchemy Controller"
+to french "Panneau de contrôle alchimique";
+
+translate "That position has already been scryed, and can not be removed"
+to french "Cette position a déjà été analysée et ne peut être retirée.";
+
+translate "Scry Tincture/"
+to french "Analyser la teinture/";
+
+

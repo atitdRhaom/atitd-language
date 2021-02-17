@@ -1,0 +1,233 @@
+module bricks_fre;
+
+translate BrickMachine to french feminine
+{
+  ns "Machine à briques"; np "Machines à briques";
+}
+translate BrickRackAlignment to french masculine
+{
+  ns "Alignement de moules à briques"; np "Alignement de moules à briques";
+    }
+translate ImpBrickRack to french masculine
+{
+  ns "Moule à briques résistant"; np "Moules à briques résistants";
+}
+translate BrickRackBuilding to french masculine
+{
+  ns "Moule à briques fragile"; np "Moules à briques fragiles";
+}
+translate Grass to french femininecollective
+{
+  ns "Herbe"; np "Herbes";
+}
+translate Mud to french feminine
+{
+  ns "Boue"; np "Boues";
+}
+translate Sand to french masculine
+{
+  ns "Sable"; np "Sables";
+}
+translate Bricks to french feminine
+{
+  ns "Brique"; np "Briques";
+}
+translate WetFireBricks to french feminine
+{
+  ns "Brique réfractaire humide"; np "Briques réfractaires humides";
+}
+translate FireBricks to french feminine
+{
+  ns "Brique réfractaire"; np "Briques réfractaires"; 
+}
+translate BrickRack to french masculine
+{
+  ns "Moule à briques fragile"; np "Moules à briques fragiles";
+}
+translate WhiteSand to french masculine
+{
+  ns "Sable blanc"; np "Sables blanc";
+}
+translate RedSand to french masculine
+{
+  ns "Sable rouge"; np "Sables rouge";
+}
+translate Basket to french masculine
+{
+  ns "Panier"; np "Paniers";
+}
+
+translate WetClayBricks to french feminine
+{
+  ns "Brique humide en argile"; np "Briques humides en argile";
+}
+
+translate ClayBricks to french feminine
+{
+  ns "Brique en argile"; np "Briques en argile";
+}
+
+translate "Bricks"
+to french "Briques";
+
+translate "Build a Brick Mould"
+to french "Construire un moule à briques";
+
+translate "Improved Brick Rack Construction"
+to french "Construction de moules à briques résistants";
+
+Translate "To build a Brick Rack, you need: "
+to French "Pour construire un moule à briques, il vous faut : ";
+
+translate "To make Bricks, you need: "
+to french "Pour faire des briques, il faut faut: ";
+
+translate "Brick Rack Alignment"
+to french "Alignement de moules à briques";
+    
+Translate "Brick Rack"
+to French "Moule à briques";
+
+translate "The flimsy Brick Rack has fallen apart due to heavy use. Research more technology to find a sturdier Brick Rack."
+to french "Le moule à briques fragile est tombé en ruines suite à un usage intense. Cherchez une meilleure technologie pour fabriquer des moules plus résistants.";
+
+translate "Allows one to drop brick racks so they align to a grid."
+to french "Vous permet de disposer les moules à briques en alignement.";
+
+translate "To make Firebricks, you need: "
+to french "Pour faire des briques réfractaires il vous faut : ";
+
+translate "You moved! To gather, you must stand in one place."
+to french "Vous avez bougé ! Pour récolter, vous devez rester à la même place.";
+
+translate "The bricks are drying..."
+to french "Les briques sont en train de sécher...";
+
+translate "This area has been picked clean."
+to french "La zone a été nettoyée.";
+
+translate "Note: Big piles of grass take longer to dry."
+to french "Note : les gros tas d'herbe mettent plus longtemps à sécher.";
+
+translate "Gather how much O1?"
+to french "Quelle quantité de O1(ns) ?";
+
+translate "Note: White sand is made of small, hard crystals, like coarsely ground quartz. Due to it's weight, you won't be able to carry much."
+to french "Remarque : le sable blanc est composé de petits cristaux tels le quartz. En raison de son poids, vous ne pouvez en porter qu'en quantité limitée.";
+
+translate "Build a Brick Machine"
+to french "Construire une machine à briques";
+
+translate "To build a Brick Machine, you need:"
+to french "Pour construire une machine à briques, il vous faut :";
+
+translate "Load the Brick Machine with Mud"
+to french "Mettre de la boue dans la machine à briques";
+
+translate "Load the Brick Machine with Sand"
+to french "Mettre du sable dans la machine à briques";
+
+translate "Load how much mud? (Max N1)"
+to french "Quelle quantité de boue ? (Max N1)";
+
+translate "Load how much sand? (Max N1)"
+to french "Quelle quantité de sable ? (Max N1)";
+
+translate "Load how much clay? (Max N1)"
+to french "Quelle quantité d'argile? (Max N1)";
+
+translate "Load how much Silt? (Max N1)"
+to french "Quelle quantité de vase? (Max N1)";
+
+translate "Load the Brick Machine with Straw"
+to french "Mettre de la paille dans la machine à briques";
+
+translate "Load how much Straw? (Max N1)"
+to french "Quelle quantité de paille ? (Max N1)";
+
+translate "Load the Brick Machine with Silt"
+to french "Mettre de la vase dans la machine à briques";
+
+translate "Start the machine making Bricks"
+to french "Lancer la fabrication de briques";
+
+translate "Start the machine making Firebricks"
+to french "Lancer la fabrication de briques réfractaires";
+
+translate "Start the machine making Clay Bricks"
+to french "Lancer la fabrication de briques en argile";
+
+translate "The brick machine must first be filled with at least:"
+to french "Pour fonctionner la machine à briques à besoin d'au moins :";
+
+translate "Stop the Brick Machine"
+to french "Arrêter la machine à briques";
+
+translate "Your Scythe is not high enough quality to help gather grass. You can still gather at the normal rate."
+to french "Votre faux n'est pas d'assez bonne qualité pour assister à récolter l'herbe. Cependant vous pouvez toujours ramasser normallement.";
+
+translate "Gather: Sand[hidden]"
+to french "Récolter: Sable[hidden]";
+
+translate "Gather: Mud[hidden]"
+to french "Récolter: Boue[hidden]"; 
+
+translate "To upgrade this building you need:"
+to french "Pour perfectionner ce bâtiment, il vous faut :";
+
+translate "making Bricks"
+to french "Fabrication de briques";
+
+translate "making Firebricks"
+to french "Fabrication de briques refractaires";
+
+translate "O1 (completed)"
+to french "O1(ns) (achevé)";
+
+translate "Drop & Align a Brick Rack"
+to french "Poser & aligner un moule à briques";
+
+translate "Pick up the Brick Rack"
+to french "Prendre le moule à briques";
+
+translate "Make bricks"
+to french "Faire des briques";
+
+translate "Make bricks [key=B]"
+to french "Faire des briques [key=B]";
+
+translate "Make firebricks [key=F]"
+to french "Faire des briques réfractaires [key=F]";
+
+translate "Make firebricks"
+to french "Faire des briques réfractaires";
+
+translate "Upgrade the base and hopper"
+to french "Perfectionner la base et la trémie";
+
+translate "To build an Improved Brick Rack, you need: "
+to french "Pour construire un moule à briques résistant, vous avez besoin de: ";
+
+translate "Improved Brick Rack"
+to french "Moule à briques résistant";
+
+translate "Firebricks"
+to french "Briques refractaires";
+
+translate "This O1 is making bricks"
+to french "O1(^cns) O1(ns) fabrique des briques";
+
+translate "This O1 is making Firebricks"
+to french "O1(^cns) O1(ns) fabrique des briques réfractaires";
+
+translate "Make Clay Bricks"
+to french "Faire des briques en argile";
+
+translate "It's confusing which brick rack you are pointing at. (Don't stack brick racks.)"
+to french "Difficile de déterminer quel moule à briques vous utilisez (n'empilez pas les moules).";
+
+translate "To make Clay Bricks, you need: "
+to french "Pour fabriquer des briques en argile, il vous faut :";
+
+translate "Load the Brick Machine with Clay"
+to french "Mettre de l'argile dans la machine à brique";

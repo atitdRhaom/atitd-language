@@ -1,0 +1,44 @@
+module artvote_spa;
+
+
+translate "Ask for my Compound Judging Assignment"
+to spanish "Pide tu Asignatura de Evaluación Hogares";
+
+translate "Check Compound Judging Assignment"
+to spanish "Checa tu Asignatura de Evaluación de Hogares";
+
+translate "Total of N1 compounds to judge:\n"
+to spanish "Total de Hogares a Evaluar: N1\n";
+
+translate "    Compound at N1 owned by U1 rated N2\n"
+to spanish "    Hogar en N1 de U1 calificado N2\n";
+
+translate "    Compound at N1 (Not Rated)\n"
+to spanish "    Hogar en N1 (Sin Calificación)\n";
+
+translate "Compound Judging/Rate this Compound "
+to spanish "Evaluación de Hogar/Evalúa este Hogar";
+
+translate "Compound Judging/"
+to spanish "Evaluación de Hogar/";
+
+translate "Rate this Compound "
+to spanish "Evalúa este Hogar";
+
+translate "You rated this Compound N1."
+to spanish "Haz evaluado a este Hogar con N1 puntos.";
+
+translate "Compound got N1 from N2 judges at N3 U1"
+to spanish "Hogar recibió N1 de N2 personas en N3 U1(name).";
+
+translate "[Extra]Nominations for Art Contest: "
+to spanish "[Extra]Nominations pour le concours d'art: ";
+
+translate "Nominate this compound"
+to spanish "Voter pour cet atelier";
+
+translate "You nominate the compound owned by U1, removing your previous nomination."
+to spanish "Vous votez pour l'atelier de U1(name), retirant ainsi votre vote précédent.";
+
+translate "You nominate the compound owned by U1."
+to spanish "Vous votez pour l'atelier de U1(name).";

@@ -1,0 +1,17 @@
+Module testcontrol_fre;
+
+translate "Census of permanent Citizens: N1"
+to french "Registres des citoyens permanents: N1";
+
+translate "Discipline of O1:"
+to french "Discipline : O1(ns)";
+
+translate "Read the Census Report"
+to french "Consulter le registre du recensement";
+
+translate "- O1: N1"
+to french "- O1(np): N1";
+
+translate "Please wait..."
+to french "Veuillez patienter...";
+

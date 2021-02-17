@@ -1,0 +1,147 @@
+module ecosys_fre;
+
+translate Ecology to french feminine
+{
+  ns "Ecologie"; np "Ecologie";
+}
+
+translate "You learn, among other things, how to test for the presence of heavy metal pollution by mixing a pinch of soil with some water, and observing whether tadpoles placed in that water die. A new item has been added to your skills menu."
+to french "Vous apprenez, entre autres choses, comment tester la présence de métaux lourds en mélangeant une pincée de terre à de l'eau, et en observant si les têtards que vous mettez dans cette eau survivent ou non. Une nouvelle option a été ajoutée à votre menu Compétences.";
+
+translate "You learn how, by mixing some soil and cabbage juice together, to detect the acidity level of the area."
+to french "Vous apprenez comment, en mélangeant de la terre et du jus de chou, détecter le niveau d'acidité de la zone.";
+
+translate "You learn how, by rubbing a piece of brittle dried flax with soil, to gauge the ground water level."
+to french "Vous apprenez comment, en frottant du lin séchée sur le sol, estimer la présence d'eau souterraine dans le sol.";
+
+translate "You learn how to gauge the phosphorus level of an area by using a pinch of soil and the remains of a beetle."
+to french "Vous apprenez à mesurer le taux de concentration en phosphore dans la zone en utilisant une pincée de terre et des restes de scarabée.";
+
+translate "You learn how to gauge the soot level of an area by using a piece of papyrus paper and a bit of cactus sap."
+to french "Vous apprenez à mesurer le taux de concentration de cendres dans la zone en utilisant une feuille de papyrus et quelques gouttes de sève de cactus";
+
+translate "Ecology"
+to french "Ecologie";
+
+translate "Test the soot levels in the area"
+to french "Tester le taux de concentration de cendres dans la zone";
+
+translate "You study the soot levels in the area, you need:"
+to french "Vous analysez le niveau de cendre dans la zone, il vous faut:";
+
+translate "You determine that the soot level in this area is N1."
+to french "Vous déterminez que le taux de concentration de cendres dans cette zone est de N1.";
+
+translate "Test the groundwater levels in the area"
+to french "Tester le niveau des eaux souterraines dans la zone";
+
+translate "You determine that the groundwater level this area is N1. (baseline is 100)"
+to french "Vous déterminez que le niveau des eaux souterraines dans cette zone est de N1. (sur une echelle de 100)";
+
+translate "Test the phosphorus levels in the area"
+to french "Tester la concentration en phosphore dans la zone";
+
+translate "Test the nitrogen levels in the area"
+to french "Tester le niveau de nitrates dans le sol";
+
+translate "Test the salinity levels in the area"
+to french "Tester le niveau de salinité dans la zone";
+
+translate "Test the potassium levels in the area"
+to french "Tester le niveau de potassium dans la zone";
+
+translate "Select a beetle to dissect:"
+to french "Choisissez un scarabée à disséquer:";
+
+translate "That is not a beetle.  A beetle is required in order to study phosporus levels."
+to french "Ce n'est pas un scarabée. Un scarabée est nécessaire pour analyser la concentration de phosphore.";
+
+translate "You need a beetle in order to study the phosporus levels."
+to french "Vous avez besoin d'un scarabée pour analyser la concentration de phosphore.";
+
+translate "You determine that the phosphorus level this area is N1. (baseline is 100)"
+to french "Vous déterminez que la concentration de phosphore dans cette zone est de N1. (sur une echelle de 100)";
+
+translate "Test the acidity levels in the soil"
+to french "Tester le niveau d'acidité du sol.";
+
+translate "You need a sample of cabbage juice to mix with the soil."
+to french "Vous avez besoin d'un échantillon de jus de chou pour mélanger à la terre.";
+
+translate "You determine that the acidity in this area is N1."
+to french "Vous déterminez que l'acidité dans cette zone est de N1.";
+
+translate "Test the area for heavy metals"
+to french "Tester la zone pour détecter la présence de métaux lourds";
+
+translate "You need both water and tadpoles to test for heavy metals."
+to french "Vous avez besoin d'eau et de têtards pour tester la présence de métaux lourds.";
+
+translate "How many tadpoles?"
+to french "Combien de têtards ?";
+
+translate "You don't have that many tadpoles."
+to french "Vous n'avez pas autant de tétard.";
+
+translate "The tadpoles all survived. If you suspect that there is heavy metal in the area, you should re-run the test with more tadpoles."
+to french "Les têtards ont survécu. Si vous pensez que le sol de la zone contient des métaux lourds, vous pouvez refaire le test avec plus de têtards.";
+
+translate "As you mix a pinch of soil in with the water and tadpoles, N1 of the N2 little tadpoles die."
+to french "Vous mélangez une pincée de terre dans l'eau où se trouvent les têtards. N1 têtards sur N2 meurent.";
+
+translate "acidity"
+to french "Acidité";
+
+translate "salinity"
+to french "Salinité";
+
+translate "soot"
+to french "Cendre";
+
+translate "Finished Writing Maps"
+to french "Les cartes sont prêtes";
+
+translate "Test for area acidity using Cabbage Juice"
+to french "Tester l'acidité de la zone en utilisant du jus de chou.";
+
+translate "Test for heavy metals using tadpoles"
+to french "Tester la présence de métaux lourds dans le sol en utilisant des têtards";
+
+translate "You have learned all there is to know about Ecology at this time."
+to french "Vous avez appris toutes les connaissances écologiques de votre temps.";
+
+translate "You need a drop of cabbage juice to mix with the soil."
+to french "Vous avez besoin d'une goutte de jus de chou pour la mélanger à la terre.";
+
+translate "You study the salinity levels in the area, you need:"
+to french "Pour étudier le niveau de salinité de la zone, il vous faut:";
+
+translate "You determine that the salinity level in this area is N1."
+to french "Vous déterminez que le niveau de salinité de la zone est N1.";
+
+translate "You study the potassium levels in the area, you need:"
+to french "Pour étudier le niveau de potassium de la zone, il vous faut:";
+
+translate "You study the nitrogen levels in the area, you need:"
+to french "Pour étudier le niveau de nitrates de la zone, il vous faut:";
+
+translate "Testing the soil..."
+to french "Tests du sol en cours...";
+
+translate "You determine that the acidity in this area is N1."
+to french "Vous déterminez que l'acidité de la zone est de N1.";
+
+translate "You determine that the potassium level in this area is N1.(Baseline is 100)"
+to french "Vous déterminez que le niveau de potassium de la zone est de N1.(Base de 100)";
+
+translate "You determine that the nitrogen level in this area is N1. (Baseline is 100)"
+to french "Vous déterminez que le niveau de nitrates de la zone est de N1. (Base de 100)";
+
+translate "Mixing a pinch of soil with the water and tadpoles."
+to french "Vous mélangez une pincée de terre dans l'eau où se trouvent les têtards.";
+
+translate "Test for area groundwater using Dried Flax"
+to french "Testez la présence d'eau souterraine en utilisant du lin séché.";
+
+translate "You need a bundle of dried flax to rub with soil."
+to french "Vous devez frotter de la terre sur une botte de lin séché.";

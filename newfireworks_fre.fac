@@ -1,0 +1,200 @@
+module fireworks_fre;
+
+translate newmortar to french masculine
+{
+  ns "Mortier de Pyrotechnie"; np "Mortiers de Pyrotechnie";
+}
+
+translate groundfireworknew to french masculine
+{
+  ns "Feu d'artifice"; np "Feux d'artifice";
+}
+
+translate "Forward"
+to french "En avant";
+translate "Backward"
+to french "En arrière";
+translate "Pitch Up"
+to french "Hausser";
+translate "Pitch Down"
+to french "Baisser";
+translate "Yaw Right"
+to french "Virage à droite";
+translate "Yaw Left"
+to french "Virage à gauche";
+translate "Ring"
+to french "Anneau";
+translate "Fan"
+to french "Dispersion";
+translate "Omni"
+to french "Eclatement";
+translate "Random"
+to french "Aléatoire";
+translate "Comet"
+to french "Comette";
+translate "Sparkle"
+to french "Etincelle";
+translate "Fader"
+to french "Affaiblissement";
+translate "Flash"
+to french "Flash";
+
+translate "Fireworks Editor"
+to french "Menu de conception de feux d'artifice";
+
+translate "Stage N1"
+to french "Etape N1";
+
+translate "Launch From: "
+to french "Lancer à partir de : ";
+translate "Flight Time: "
+to french "Temps de vol : ";
+translate "Rockets: "
+to french "Fusées : ";
+translate "Direction: "
+to french "Direction : ";
+translate "Launch Speed: "
+to french "Vitesse au départ :";
+translate "Launch Roll: "
+to french "Rotation au départ : ";
+translate "Thrust Forward: "
+to french "Poussée avant : ";
+translate "Thrust Pitch Up: "
+to french "Poussée ascendante : ";
+translate "Thrust Yaw Right: "
+to french "Poussée latérale : ";
+translate "Launch Reps: "
+to french "Rép. du lancement : ";
+translate "Launch Offset: "
+to french "Retardement : ";
+translate "Star: "
+to french "Etoile : ";
+translate "Gravity: "
+to french "Gravité : ";
+translate "Launch Inertia: "
+to french "Inertie au lancement : ";
+translate "ADD:"
+to french "AJOUTER :";
+translate "FIRE:"
+to french "LANCER :";
+translate "Add"
+to french "Ajouter";
+translate "Stage"
+to french "Etape";
+translate "Test"
+to french "Test";
+translate "Fire"
+to french "Lancer";
+translate "Flight Time: N1.N2s"
+to french "Durée du vol: N1.N2s.";
+translate "Name:"
+to french "Nom :";
+translate "NAME:"
+to french "Nom :";
+translate "Test-Fire"
+to french "Essai";
+
+translate "    Duration: "
+to french "    Durée : ";
+translate "    NRockets: "
+to french "    NFusées : ";
+translate "    LaunchFrom: "
+to french "    Lancer à partir de : ";
+translate "    LaunchDirection: "
+to french "    Direction : ";
+translate "    LaunchSpeed: "
+to french "    Vitesse au départ :";
+translate "    LaunchRoll: "
+to french "    Rotation au départ : ";
+translate "    LaunchInertia: "
+to french "    Inertie au lancement : ";
+translate "    ThrustFW: "
+to french "    Poussée avant : ";
+translate "    ThrustUp: "
+to french "    Poussée ascendante : ";
+translate "    ThrustSB: "
+to french "    Poussée latérale : ";
+translate "    ThrustGravity: "
+to french "    Gravité : ";
+translate "    LaunchRep: "
+to french "    Rép. du lancement : ";
+translate "    LaunchOffs: "
+to french "    Retardement : ";
+translate "    Unused: "
+to french "    Inutilisé : ";
+
+translate "Edit Design"
+to french "Modifier la conception";
+
+translate "Somebody is already editing."
+to french "Quelqu'un est en train de modifier la conception.";
+
+translate "Name of Firework?"
+to french "Nom des feux ?";
+
+translate "Maximum number of stages reached."
+to french "Limite du nombre d'étapes atteinte.";
+
+translate "Launching..."
+to french "Lancement...";
+
+translate "Are you sure you want to discard the existing design?"
+to french "Voulez-vous vraiment supprimer la conception existante ?";
+
+translate "Test-Fire"
+to french "Essai";
+
+translate "Disarm (Remove any armed materials)"
+to french "Désarmer (Récupérer le matériel)";
+
+translate "Check Launch Costs"
+to french "Voir les coûts du lancement";
+
+translate "To arm this mortar:"
+to french "Pour armer ce mortier:";
+
+translate "1 Papyrus Paper"
+to french "1 Feuille de papyrus";
+
+translate "N1 Gunpowder"
+to french "N1 Poudres à canon";
+
+translate "N1 Placeholder Star"
+to french "N1 fusées provisoires";
+
+translate "Arm the Shell"
+to french "Armer la fusée";
+
+translate "Armed shell."
+to french "Fusée armée.";
+
+translate "You don't have the required components. Check the launch cost."
+to french "Vous n'avez pas les éléments requis. Regarder le coût du lancement.";
+
+translate "Fire the Shell"
+to french "Tirer la fusée";
+
+translate "You must first arm the shell. This is not dangerous - firing an armed shell requires you to type LAUNCH."
+to french "Vous devez d'abord armer la fusée. Cela ne présente aucun danger - pour lancer la fusée, tapez LAUNCH.";
+
+translate "You must first arm the shell."
+to french "Vous devez d'abord armer la fusée.";
+
+translate "To launch, type LAUNCH"
+to french "Pour tirer, tapez LAUNCH";
+
+translate "To build a Mortar you need:"
+to french "Pour construire un mortier, il vous faut:";
+
+translate "Unnamed"
+to french "SansNom";
+
+translate "<None>"
+to french "<Aucun>";
+translate " sec"
+to french " sec";
+translate "ft/s2"
+to french "pieds/s2";
+
+translate "Star"
+to french "Etoile";

@@ -1,0 +1,565 @@
+Module character_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**            German Version: Astrid "Infinyti" Werner                   **
+//**                            2012                                       **
+//**                                                                       **
+//***************************************************************************
+
+
+translate Thought to german feminine
+{ swa "Gedanken"; sn "Gedanken"; pn "Gedanken"; }
+
+translate Worship to german feminine
+{ swa "Verehrung"; sn "Verehrung"; pn "Verehrung"; }
+
+translate TheHumanBody to german feminine
+{ swa "Menschlicher Körper"; sn "Menschlicher Körper"; pn "Menschlichen Körper"; }
+
+translate Architecture to german feminine
+{ swa "Architektur"; sn "Architektur"; pn "Architekturen"; }
+
+translate Conflict to german feminine
+{ swa "Konflikt"; sn "Konflikt"; pn "Konflikte"; }
+
+translate Art to german feminine
+{ swa "Kunst & Musik"; sn "Kunst & Musik"; pn "Kunst & Musik"; }
+
+translate "Thought"
+to german "Gedanken";
+
+translate "Worship"
+to german "Verehrung";
+
+translate "The Human Body"
+to german "Menschlicher Körper";
+
+translate "Architecture"
+to german "Architektur";
+
+translate "Conflict"
+to german "Konflikt";
+
+translate "Art and Music"
+to german "Kunst & Musik";
+
+translate RankPeasant to german masculine
+{
+swa "Einwanderer"; sn "Einwanderer"; pn "Einwanderer";
+}
+
+translate RankStudent to german masculine
+{
+swa "Schüler"; sn "Schüler"; pn "Schüler";
+}
+
+translate RankPrentice to german masculine
+{
+swa "Lehrling"; sn "Lehrling"; pn "Lehrlinge";
+}
+
+translate RankJourneyman to german masculine
+{
+swa "Geselle"; sn "Geselle"; pn "Gesellen";
+}
+
+translate RankScribe to german masculine
+{
+swa "Schriftgelehrter"; sn "Schriftgelehrte"; pn "Schriftgelehrten";
+}
+
+translate RankMaster to german masculine
+{
+swa "Meister"; sn "Meister"; pn "Meister";
+}
+
+translate RankSage to german masculine
+{
+swa "Weiser"; sn "Weise"; pn "Weisen";
+}
+
+translate RankOracle to german neutercollective
+{
+swa "Orakel"; sn "Orakel"; pn "Orakel";
+}
+
+translate RankMonumentBuilder to german masculine
+{
+swa "Monumenterschaffer"; sn "Monumenterschaffer"; pn "Monumenterschaffer";
+}
+
+translate RankInitiate to german masculine
+{
+swa "Anfänger"; sn "Anfänger"; pn "Anfänger";
+}
+
+translate "Peasant"
+	to german "Einwanderer";
+
+translate "Student"
+	to german "Schüler";
+
+translate "Prentice"
+	to german "Lehrling";
+
+translate "Journeyman"
+	to german "Geselle";
+
+translate "Scribe"
+	to german "Schriftgelehrter";
+
+translate "Master"
+	to german "Meister";
+
+translate "Sage"
+	to german "Weiser";
+
+translate "Pharaoh's Oracle"
+	to german "Pharaohs Orakel";
+
+translate "Monument Builder"
+	to german "Monumenterschaffer";
+
+translate "Initiate"
+	to german "Anfänger";
+
+translate NumZero to german feminine
+{
+swa "Null"; sn "Null"; pn "Null"; }
+
+translate NumOne to german feminine
+{
+swa "Eins"; sn "Eins"; pn "Eins";
+}
+
+translate NumTwo to german feminine
+{
+swa "Zwei"; sn "Zwei"; pn "Zwei";
+}
+
+translate NumThree to german feminine
+{
+swa "Drei"; sn "Drei"; pn "Drei";
+}
+
+translate NumFour to german feminine
+{
+swa "Vier"; sn "Vier"; pn "Vier";
+}
+
+translate NumFive to german feminine
+{
+swa "Fünf"; sn "Fünf"; pn "Fünf";}
+
+translate NumSix to german feminine
+{
+swa "Sechs"; sn "Sechs"; pn "Sechs";
+}
+
+translate NumSeven to german feminine
+{
+swa "Sieben"; sn "Sieben"; pn "Sieben";
+}
+
+translate NumEight to german feminine
+{
+swa "Acht"; sn "Acht"; pn "Acht";
+}
+
+translate NumNine to german feminine
+{
+swa "Neun"; sn "Neun"; pn "Neun";
+}
+
+translate NumTen to german feminine
+{
+swa "Zehn"; sn "Zehn"; pn "Zehn";
+}
+
+translate NumEleven to german feminine
+{
+swa "Elf"; sn "Elf"; pn "Elf";
+}
+
+translate NumTwelve to german feminine
+{
+swa "Zwölf"; sn "Zwölf"; pn "Zwölf";
+}
+
+translate NumThirteen to german feminine
+{
+swa "Dreizehn"; sn "Dreizehn"; pn "Dreizehn";
+}
+
+translate NumFourteen to german feminine
+{
+swa "Vierzehn"; sn "Vierzehn"; pn "Vierzehn";
+}
+
+translate "Zero"
+	to german "Null";
+
+translate "One"
+	to german "Eins";
+
+translate "Two"
+	to german "Zwei";
+
+translate "Three"
+	to german "Drei";
+
+translate "Four"
+	to german "Vier";
+
+translate "Five"
+	to german "Fünf";
+
+translate "Six"
+	to german "Sechs";
+
+translate "Seven"
+	to german "Sieben";
+
+translate "Eight"
+	to german "Acht";
+
+translate "Nine"
+	to german "Neun";
+
+translate "Ten"
+	to german "Zehn";
+
+translate "Eleven"
+	to german "Elf";
+
+translate "Twelve"
+	to german "Zwölf";
+
+translate "Thirteen"
+	to german "Dreizehn";
+
+translate "Fourteen"
+	to german "Vierzehn";
+
+translate Ordzero to german feminine
+{
+swa "Nullte"; sn "Nullte"; pn "Nullte";
+}
+translate OrdOne to german feminine
+{
+swa "Erste"; sn "Erste"; pn "Erste";
+}
+translate OrdTwo to german feminine
+{ sn "Zweite"; }
+translate OrdThree to german feminine
+{
+swa "Dritte"; sn "Dritte"; pn "Dritte";
+}
+translate OrdFour to german feminine
+{
+swa "Vierte"; sn "Vierte"; pn "Vierte";
+}
+translate OrdFive to german feminine
+{
+swa "Fünfte"; sn "Fünfte"; pn"Fünfte";
+}
+translate OrdSix to german feminine
+{
+swa "Sechste"; sn "Sechste"; pn "Sechste";
+}
+translate OrdSeven to german feminine
+{
+swa "Siebte"; sn "Siebte"; pn "Siebte";
+}
+translate OrdEight to german feminine
+{
+swa "Achte"; sn "Achte"; pn "Achte";
+}
+translate OrdNine to german feminine
+{
+swa "Neunte"; sn "Neunte"; pn "Neunte";
+}
+translate OrdTen to german feminine
+{
+swa "Zehnte"; sn "Zehnte"; pn "Zehnte";
+}
+
+translate "Zeroth"
+	to german "Nullte";
+
+translate "First"
+	to german "Erste";
+
+translate "Second"
+	to german "Zweite";
+
+translate "Third"
+	to german "Dritte";
+
+translate "Fourth"
+	to german "Vierte";
+
+translate "Fifth"
+	to german "Fünfte";
+
+translate "Sixth"
+	to german "Sechste";
+
+translate "Seventh"
+	to german "Siebte";
+
+translate "Eighth"
+	to german "Achte";
+
+translate "Ninth"
+	to german "Neunte";
+
+translate "Tenth"
+	to german "Zehnte";
+
+translate OrdQZero to german feminine
+{
+swa "0te"; sn "0te"; pn "0te";
+}
+translate OrdQOne to german feminine
+{
+swa "1te"; sn "1te"; pn "1te";
+}
+translate OrdQTwo to german feminine
+{
+swa "2te"; sn "2te"; pn "2te";
+}
+translate OrdQThree to german feminine
+{
+swa "3te"; sn "3te"; pn "3te";
+}
+translate OrdQFour to german feminine
+{
+swa "4te"; sn "4te"; pn "4te";
+}
+translate OrdQFive to german feminine
+{
+swa "5te"; sn "5te"; pn "5te";
+}
+translate OrdQSix to german feminine
+{
+swa "6te"; sn "6te"; pn "6te";
+}
+translate OrdQSeven to german feminine
+{
+swa "7te"; sn "7te"; pn "7te";
+}
+translate OrdQEight to german feminine
+{
+swa "8te"; sn "8te"; pn "8te";
+}
+translate OrdQNine to german feminine
+{
+swa "9te"; sn "9te"; pn "9te";
+}
+translate OrdQTen to german feminine
+{
+swa "10te"; sn "10te"; pn "10te";
+}
+translate "0th"
+	to german "0te";
+
+translate "1st"
+	to german "1te";
+
+translate "2nd"
+	to german "2te";
+
+translate "3rd"
+	to german "3te";
+
+translate "4th"
+	to german "4te";
+
+translate "5th"
+	to german "5te";
+
+translate "6th"
+	to german "6te";
+
+translate "7th"
+	to german "7te";
+
+translate "8th"
+	to german "8te";
+
+translate "9th"
+	to german "9te";
+
+translate "10th"
+	to german "10te";
+
+translate "strength"
+  to german "Stärke";
+
+translate "dexterity"
+  to german "Gewandtheit";
+
+translate "endurance"
+  to german "Ausdauer";
+
+translate "speed"
+  to german "Schnelligkeit";
+
+translate "constitution"
+  to german "Konstitution";
+
+translate "focus"
+  to german "Fokus";
+
+translate "perception"
+  to german "Empfindung";  
+
+translate ", Level N1"
+	to german ", Level N1";
+
+translate "Level N1"
+	to german "Level N1";
+
+translate "U1, K1 of O1"
+	to german "U1(name), K1 der Disziplin O1(sn)";
+
+translate "U1, Level N1 O1 of O2"
+	to german "U1(name), Level N1 O1(swa) von O2(sn)";
+
+translate "AFK-Mode"
+	to german "AFK-Modus";
+
+translate "Stand up"
+	to german "Aufstehen";
+
+translate "Utility"
+	to german "Nützliches";
+
+translate "Information"
+	to german "Information";
+
+translate "Legal System Information"
+	to german "Gesetzestexte";
+
+translate "Nuke my inventory"
+	to german "Lösche mein Inventar";
+
+translate "Citizen U1"
+	to german "Bürger U1(name)";
+
+translate "Peasant U1"
+	to german "Einwanderer U1(name)";
+
+translate "You have advanced in the discipline of O1. Your title is now U1, K1 of O2."
+to german "Du hast die Disziplin O1(sn) gemeistert. Dein Titel ist nun U1(name), K1 von O2(sn).";
+
+translate "Your husband has passed the Test of O1 within the discipline of O2. His title is now K1"
+	to german "Dein Ehemann hat die Aufgabe 'O1(sn)' in der Disziplin O2(sn) gemeistert. Sein Titel ist nun K1";
+
+translate "Your wife has passed the Test of O1 within the discipline of O2. Her title is now K1"
+	to german "Deine Ehefrau hat die Aufgabe 'O1(sn)' in der Disziplin 'O2(sn)' gemeistert. Ihr Titel ist nun K1";
+
+translate "You feel the power of the gods flow through you, but your metals don't seem to fuse. Pay for the account and try again."
+	to german "Du fühlst die Macht der Götter durch dich hindurch fließen, aber deine Metalle scheinen nicht zu schmelzen. Bezahle deinen Account und versuche es erneut.";
+
+translate "Well done! Your title is now K1."
+	to german "Gut gemacht! Dein Titel ist nun K1.";
+
+translate "You have successfully been initiated into the discipline of O1! Many new goals have opened to you."
+	to german "Du bist erfolgreich in die Disziplin O1(sn) eingeführt worden! Viele neue Ziele haben sich dir eröffnet.";
+
+translate "You feel dizzy. Something is wrong."
+to german "Du fühlst dich benommen. Irgendwas ist falsch.";
+
+translate "You jostled the explosives too much, and they exploded! You're disoriented for a few moments."
+	to german "Du hast den Sprengstoff zu sehr weggeschubst und er ist explodiert! Du bist für einige Momente orientierungslos.";
+
+translate "Legal System Information"
+	to german "Rechtssystem";
+
+translate "Bounty Bug on O1!"
+	to german "Prämienbug in O1(sn)!";
+
+translate "Now you've got to reproduce it. If you can get this consistantly, report to eGenesis for a fun prize."
+	to german "Du hast es geschafft, etwas zu reproduzieren. Schaffst du das dauerhaft, dann berichte eGenesis davon, damit du einen tollen Preis erhältst.";
+
+translate "You are carrying more than you can manage. You need to drop some goods."
+	to german "Du trägst mehr, als du bewältigen kannst. Du musst ein paar Güter fallenlassen.";
+
+translate "Computed weight was N1 and recorded weight was N2."
+	to german "Errechnetes Gewicht war N1 und aufgezeichnetes Gewicht N2.";
+
+translate "Computed bulk was N1 and recorded bulk was N2."
+	to german "Errechnete Masse war N1 und aufgezeichnete Masse N2.";
+
+translate "Consume error."
+	to german "Verbrauchsfehler.";
+
+translate "Beginner"
+	to german "Anfänger";
+
+translate "Enthusiast"
+	to german "Liebhaber";
+
+translate "Oenophile"
+	to german "Weinkenner";
+
+translate "Sommalier"
+	to german "Somalier";
+
+translate "Mondial"
+	to german "Weltenkenner";
+
+translate "Fumeology: K1 U1"
+	to german "Rauchkunde: K1 U1(name)";
+
+translate "Emote"
+	to german "Gefühlsausdruck";
+
+translate "Gesture"
+	to german "Gestikulieren";
+
+translate "Laugh"
+	to german "Lachen";
+
+translate "Shake Head"
+	to german "Kopfschütteln";
+
+translate "Bow"
+	to german "Verbeugen";
+
+translate "Bless"
+	to german "Segnen";
+
+translate "Backflip"
+	to german "Rückwärtssalto";
+
+translate "Hambone"
+	to german "Tanzen";
+
+translate "Wave"
+	to german "Winken";
+
+translate "Attitude"
+	to german "Verhalten";
+
+translate "Celebrate"
+	to german "Feiern";
+
+translate "Gait: Walking"
+	to german "Bewegung: Gehen";
+
+translate "Gait: Running"
+	to german "Bewegung: Rennen";
+
+translate "Gait: Swimming"
+	to german "Bewegung: Schwimmen";
+
+translate "Edit my Info Text"
+	to german "Ändere meinen Infotext";
+
+translate "Text to be displayed on the /info screen:"
+	to german "Text, der bei /info angezeigt werden soll:";

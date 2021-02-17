@@ -1,0 +1,542 @@
+module fwvote_fre;
+
+translate Pyrotechnics to french feminine
+{
+ns "L'épreuve de Pyrotechnie"; np "L'épreuve de Pyrotechnie";
+}
+
+translate pyrodesk to french masculine
+{
+ns "Centre de pyrotechnie"; np "Centres de pyrotechnie";
+}
+
+translate pyrodeskdarkenedsky to french masculine
+{
+ns "Centre de pyrotechnie"; np "Centres de pyrotechnie";
+}
+
+translate "Pyrotechnics show times that you commit to..."
+to french "Heures de spectacle de pyrotechnie où vous vous êtes engagé";
+
+translate "K1, K2 K3, N2:N3 K4"
+to french "K1, K2 K3, N2:N3 K4";
+
+translate "Learn the skill of Pyrotechnic Mortar Construction from any University of Art & Music"
+to french "Apprenez la compétence Construction de mortier de Pyrotechnie à n'importe quelle Université des Arts & Musiques";
+
+translate "Glorious displays of color and pattern exist through the art of Pyrotechnics; to display these works of art to your fellow citizens you must decide upon a common time so that all may gather ahead of time."
+to french "Les superbes affichages de couleurs et de motifs se font au travers de l'art de la pyrotechnie. Afin d'exhiber ces oeuvres d'art à vos concitoyens, vous devez choisir un horaire commun afin que tous puissent se réunir à l'avance.";
+
+translate "Select times which are suitable for you at your local School or University of Art and Music, the most popular time will be used and all will be invited to join in demonstrate; However only the fortunate few will be selected to judge. This contest will be held at K1 N1 N2."
+to french "Choisissez un créneau horaire qui vous convient à votre école locale ou université des Arts et Musique. Le créneau le plus choisi sera sélectionné et tous seront invités à se joindre au feu d'artifice. Ceci dit, seulement les plus chanceux seront sélectionnés pour être juges. Ce concours se tiendra en K1 N1 N2.";
+
+
+translate "this Pyrotechnics Stadium Headquarters"
+to french "ce centre de Pyrotechnie";
+translate "Pyrotechnics"
+to french "Pyrotechnie";
+
+translate "Start the Test of Pyrotechnics"
+to french "Commencer l'épreuve de pyrotechnie";
+
+translate "This is an Exhibition Contest"
+to french "Ceci est un concours d'exhibition";
+
+translate "Contestants signed up: N1"
+to french "Participants inscrits : N1";
+
+translate "Judges Offered: N1, Accepted: N2 Rejected: N3"
+to french "Juges proposés: N1, Acceptés: N2 Refusés: N3";
+
+translate "Judge Threshold: N1"
+to french "Limite de juges : N1";
+
+translate "Contest is running. N1 of N2 contestants have fired."
+to french "Le concours est lancé. N1 participants ont tiré sur N2.";
+
+translate "Exhibition is running. N1 of N2 contestants have fired."
+to french "L'exhibition est lancée. N1 participants ont tiré sur N2.";
+
+translate "Judges so far: N1. Still need N2 judges to hold the contest."
+to french "Juges : N1. Il faut encore N2 juges pour lancer le concours.";
+
+translate "Judges so far: N1. Waiting to see if N2 additional offers are accepted."
+to french "Juges : N1. On attend N2 offres possibles. ";
+
+translate "This contest will have N1 Judges."
+to french "Ce concours sera évalué par N1 juges.";
+
+translate "Commit to Pyrotechnics Shows"
+to french "Engagez-vous pour le spectacle de Pyrotechnie";
+
+translate "Only found N1 judges, which is less than the N2 needed to hold a contest. Today's contest is cancelled due to lack of judges."
+to french "Seuls N1 juges sont inscrits, c'est moins que les N2 nécessaires. La compétition d'aujourd'hui est annulée faute de juges.";
+
+translate "Only found N1 judges, which is less than the N2 needed to hold a contest. You can try again in K3."
+to french "Seuls N1 juges sont inscrits, c'est moins que les N2 nécessaires. Vous pourrez de nouveau essayer dans K3.";
+
+translate "Only found N1 judges, which is less than the N2 needed to hold a contest. You can try again in N3."
+to french "Seuls N1 juges sont inscrits, c'est moins que les N2 nécessaires. Vous pourrez de nouveau essayer dans N3.";
+
+translate "Legitimacy of this contest is N1 so far. To start, a Legitimacy of N2 must be reached."
+to french "Participants : N1. Il faut N2 participants inscrits pour que le concours ait lieu.";
+
+translate "Legitimacy of N1 reached. Contest will start in K1."
+to french "N1 participants inscrits. Le concours débutera dans K1.";
+
+translate "Legitimacy of only N1 reached. Contest is cancelled, but you can try again now."
+to french "N1 participants seulement se sont inscrits. Le concours est annulé, mais vous pouvez tenter de nouveau.";
+
+translate "The contest has a Legitimacy of N1. Searching for judges now."
+to french "Le nombre requis pour tenir le concours est atteint. On recherche des juges.";
+
+translate "Set Name"
+to french "Nommer";
+
+translate "Name of this Pyrotechnics Stadium Headquarters?"
+to french "Quel est le nom de ce stade de pyrotechnie ?";
+
+translate "Register as a future judge at this O1"
+to french "S'enregistrer en tant que futur juge à O1(cns) O1(ns)";
+
+translate "this Pyrotechnics Stadium Headquarters"
+to french "ce centre de Pyrotechnie";
+
+translate "Register as a future judge at this Pyrotechnics Stadium Headquarters"
+to french "S'enregistrer en tant que futur juge à ce Centre de Pyrotechnie";
+translate "Register as a future judge at K1"
+to french "S'inscrire en tant que futur juge à K1";
+translate "Register as a future judge at "
+to french "S'inscrire en tant que futur juge à ce ";
+
+translate "You may now be asked to judge contest at this O1"
+to french "Vous pouvez maintenant être demandé en tant que juge à O1(cns) O1(ns)";
+translate "You may now be asked to judge contest at this pyrotechnics Stadium Headquarters"
+to french "Vous pouvez maintenant être demandé en tant que juge à ce Centre de Pyrotechnie";
+
+translate "You are signed up to judge contests at this headquarters"
+to french "Vous êtes inscrit en tant que juge à ce centre de pyrotechnie.";
+
+translate "Resign as a judge at K1"
+to french "Annuler ma participation en tant que juge à K1";
+translate "Resign as a judge at O1"
+to french "Annuler ma participation en tant que juge à O1(cns) O1(ns)";
+translate "Resign as a judge at "
+to french "Annuler ma participation en tant que juge à ";
+translate "Resign as a judge at this Pyrotechnics Stadium Headquarters"
+to french "Annuler ma participation en tant que juge à ce Centre de Pyrotechnie";
+
+translate "You will no longer be asked to judge contests at this O1"
+to french "Votre nom a été retiré de la banque de juges à O1(cns) O1(ns)";
+translate "You will no longer be asked to judge contests at K1"
+to french "Votre nom a été retiré de la banque de juges à K1";
+
+translate "There is now a new destination in your Navigation menu. You have a new temporary waypoint."
+to french "Vous avez une nouvelle destination dans votre menu de navigation : un point de passage temporaire.";
+
+translate "Fireworks Contest"
+to french "Compétition de pyrotechnie";
+
+translate "Would you like to judge a fireworks contest at K1 which is about a K2 run away?"
+to french "Aimeriez vous évaluer le concours de pyrotechnie de K1, qui est à K2 ?";
+
+translate "Status: No Contest in Progress"
+to french "Statut : Aucune compétition en cours";
+
+translate "Status: Walk-in Signups"
+to french "Statut : Inscriptions en cours";
+
+translate "Status: Signups"
+to french "Statut : Inscriptions";
+
+translate "Status: Waiting for any contestant to arm"
+to french "Statut : En attente de lancement";
+
+translate "Status: Waiting for U1 to fire"
+to french "Statut : En attente de la démonstration de U1(name)";
+
+translate "Status: Voting on U1"
+to french "Statut : Vote pour U1(name)";
+
+translate "Status: Housekeeping"
+to french "Statut : Organisation";
+
+translate "Voting disabled for K1 since you are too far away."
+to french "Votes désactivés pour K1, puisque vous êtes trop loin.";
+translate "Voting disabled for U1 since you are too far away."
+to french "Votes désactivés pour U1(name), puisque vous êtes trop loin.";
+
+translate "You registered a Fraud vote for U1."
+to french "Vous avez dénoncé une fraude pour U1(name).";
+translate "You registered a Fraud vote for K1."
+to french "Vous avez dénoncé une fraude pour K1.";
+
+translate "You voted for K1: "
+to french "Vous avez voté pour K1 :";
+
+translate "Principles of Pyrotechnics will walk you through the steps needed to exhibit your first shell at a Pyrotechnics Competition. You may request a Star Lab to create more Star Recipes for the Test, but it is not necessary for passing the Test."
+to french "Les principes de pyrotechnie vont vous conduire dans les étapes nécessaires pour exposer votre première pièce pyrotechnique à une compétition. Vous pouvez demander un laboratoire d'étoiles portatif afin de créer de nouvelles étoiles, mais ce n'est pas indispensable pour passer l'épreuve.";
+
+translate "Request a Portable Star Lab"
+to french "Demander un laboratoire d'étoiles portatif";
+translate "Register as a Watcher at a Portable Star Lab"
+to french "S'inscrire comme spectateur à un laboratoire d'étoiles portatif";
+translate "@Watch 7 Stars launch from a Portable Star Lab"
+to french "@Observer 7 lancements à partir d'un laboratoire d'étoiles portatif";
+translate "Watch 7 Stars launch from a Portable Star Lab"
+to french "Observer 7 lancements à partir d'un laboratoire d'étoiles portatif";
+translate "Make Gunpowder"
+to french "Fabriquer de la poudre à canon";
+translate "Grind Aluminum into Powder"
+to french "Concasser de l'aluminium en poudre";
+translate "Learn the Neutralization Skill from a University of Thought"
+to french "Apprendre la compétence neutralisation dans une université de Pensée";
+translate "Learn any Star Recipe from the University of Art & Music"
+to french "Apprendre une recette d'étoile quelconque de l'université des Arts et Musiques";
+translate "Build an Acid Bath"
+to french "Construire un bac à acide";
+translate "Start a batch of Salts"
+to french "Lancer une recette de sels";
+translate "@Complete 21 Salts"
+to french "@Préparer 21 sels";
+translate "Complete 21 Salts"
+to french "Préparer 21 sels";
+translate "Build a Star Rack"
+to french "Construire un support à étoiles";
+translate "Make a Batch of Stars"
+to french "Faire un lot d'étoiles";
+translate "Build a Mortar"
+to french "Construire un mortier";
+translate "Arm and Test-Fire a Mortar"
+to french "Armer et tester un mortier";
+translate "Register as an Exhibitor for a Fireworks Show"
+to french "Vous inscrire en tant que participant à une compétition pyrotechnique.";
+translate "Exhibit your legitimate shell at a show"
+to french "Exhiber votre pièce dans un spectacle";
+
+translate "You have completed Principles of Pyrotechnics."
+to french "Vous avez terminé les Principes de la Pyrotechnie.";
+
+translate "You are now signed up for the Test of Pyrotechnics. To read about various aspects of pyrotechnics "
+to french "Vous êtes maintenant inscrit à l'épreuve de Pyrotechnie. Rendez-vous à n'importe quel ";
+translate "competitions, including exhibiting, judging, and scoring, visit any "
+to french "Centre de Pyrotechnie pour en apprendre davantage sur les compétitions, ";
+translate "Pyrotechnics Stadium Headquarters."
+to french "comment y participer, et y officier en tant que juge.";
+
+translate "You are now signed up for the Test of Pyrotechnics. To read about various aspects of pyrotechnics competitions, including exhibiting, judging, and scoring, visit any Pyrotechnics Stadium Headquarters."
+to french "Vous êtes maintenant inscrit à l'épreuve de Pyrotechnie. Rendez-vous à n'importe quel Centre de Pyrotechnie pour en apprendre davantage sur les compétitions, comment y participer, et y officier en tant que juge.";
+
+translate "Exhibiting"
+to french "Participer";
+translate "You can sign up to exhibit in two ways: By commiting to a contest during a polling period (shown on the Calendar), you will automatically be signed up, should one of your committed times be chosen. Alternatively, sign up at the Stadium Headquarters during the signup period right before a previously scheduled contest starts."
+to french "Il y a deux moyens de participer à un concours: En votant pour certaines dates pendant une période de sondage (consultez le calendrier), vous serez alors automatiquement inscrit si l'une des dates que vous aviez choisies est sélectionnée. Sinon, vous pouvez aller vous inscrire directement sur le Centre de Pyrotechnie juste avant le début d'un concours.";
+
+translate "Registering to Judge"
+to french "S'enregistrer comme juge";
+translate "If you would like to judge a Pyrotechnics competition, you must register as a judge at the Stadium Headquarters. You won't automatically be asked to judge every contest - there's a random element to who among the registered judges is asked. If you accept an offer to judge, a temporary waypoint will be added to your navigation options. Repeatedly agreeing to judge, but then failing to actually judge will cause you to be un-registered from that stadium."
+to french "Si vous désirez être juge dans un concours pyrotechnique, vous devez vous enregistrer au stand du concours. On ne vous demandera pas automatiquement de juger tous les concours existants : les juges sollicités sont aléatoires dans la liste générale des juges inscrits. Si vous vous proposez comme juge, un point de téléportation temporaire sera ajouté dans vos options de navigation. Si vous acceptez plusieurs fois d'être juge, mais si vous ne remplissez pas vos fonctions lorsqu'on vous le demande, vous serez retiré de la liste des juges inscrits.";
+
+translate "If you would like to judge a Pyrotechnics competition, you must register as a judge at the Stadium "
+to french "Si vous désirez être juge dans un concours pyrotechnique, vous devez vous enregistrer au stand du concours. ";
+translate "Headquarters. You won't automatically be asked to judge every contest - there's a random element "
+to french "On ne vous demandera pas automatiquement de juger tous les concours existants : les juges sollicités sont ";
+translate "to who among the registered judges is asked. If you accept an offer to judge, a temporary waypoint "
+to french "aléatoires dans la liste générale des juges inscrits. Si vous vous proposez comme juge, un point de ";
+translate "will be added to your navigation options. Repeatedly agreeing to judge, but then failing to actually judge "
+to french "téléportation temporaire sera ajouté dans vos options de navigation. Si vous acceptez plusieurs fois d'être juge, ";
+translate "will cause you to be un-registered from that stadium."
+to french "mais si vous ne remplissez pas vos fonctions lorsqu'on vous le demande, vous serez retiré de la liste des juges inscrits.";
+
+translate "Voting on Shells"
+to french "Évaluer les feux d'artifice";
+translate "After each shell is launched, a voting widget will appear in the lower-left of all judges' screens. Rate each shell from Poor to Monumental. Scores are normalized against past judging history, and weighted according to the number and makeup of contests previously judged. A judge's incluence is shown on the widget. Scores are on a scale from 100 to 700, with 400 being the average."
+to french "Après le lancement de chaque fusée, une option apparaît à l'écran de tous les juges. Notez chaque fusée lorsqu'on vous le demande. Les scores sont ajustés en fonction des jugements effectués par le passé, et pondérés selon le nombre de concours auxquels le juge a participés précédemment. L'influence d'un juge est affichée dans cette interface. Les scores sont sur une échelle allant de 100 à 700, la moyenne se situant à 400 points.";
+
+translate "After each shell is launched, a voting widget will appear in the lower-left of all judges' screens. "
+to french "Après le lancement de chaque fusée, une option apparaît à l'écran de tous les juges. Notez chaque fusée lorsqu'on ";
+translate "Rate each shell from Poor to Monumental. Scores are normalized against past judging history, and weighted "
+to french "vous le demande. Les scores sont ajustés en fonction des jugements effectués par le passé, et pondérés ";
+translate "according to the number and makeup of contests previously judged. A judge's influence is shown on the "
+to french "selon le nombre de concours auxquels le juge a participés précédemment. L'influence d'un juge est affichée ";
+translate "widget. Scores are on a scale from 100 to 700, with 400 being the average."
+to french "dans cette interface. Les scores sont sur une échelle allant de 100 à 700, la moyenne se situant à 400 points.";
+
+translate "register as a Walk-in Contestant"
+to french "S'inscrire en tant que participant";
+
+translate "You are already part of another contest. (DevCall if you think this is a bug.)"
+to french "Vous faites déjà parti d'un concours. (Appelez un developpeur si vous croyez être victime d'un bug.)";
+
+translate "You can't judge and compete."
+to french "Impossible d'être à la fois juge et participant.";
+
+translate "U1 joins as a Walk-In exhibitor."
+to french "U1(name) s'inscrit en tant que participant.";
+
+translate "You are a Pyrotechnics competitor at K1."
+to french "Vous participer à une compétition à K1.";
+
+translate "The Test of Pyrotechnics will start in K1 - be sure to get there in time to compete."
+to french "L'épreuve de Pyrotechnie va commencer dans K1 - Soyez là à temps pour participer.";
+
+translate "The Test of Pyrotechnics will start in K1 - be sure to get there in time to judge."
+to french "L'épreuve de pyrotechnie va commencer dans K1 - Soyez là à temps pour participer.";
+
+translate "The Test of Pyrotechnics is starting. Claim your spot by pressing the Arm button, when you are ready. The first contestant may start any time."
+to french "L'épreuve de Pyrotechnie commence. Réclamez votre place en armant votre mortier, dès que vous êtes prêt. Le premier participant peut commencer à tout moment.";
+
+translate "The Test of Pyrotechnics is starting. Watch the sky, and vote."
+to french "L'épreuve de Pyrotechnie commence. Observez le ciel et votez.";
+
+translate "U1 took too long to fire. Anyone may now claim the next spot."
+to french "U1(name) a mis trop de temps à tirer. La place suivante est maintenant libre.";
+
+translate "Warning: Nobody has armed their mortar in 60 seconds. If nobody arms in the next 60 seconds, the contest will end."
+to french "Attention : Personne n'a armé son mortier depuis 60 secondes. S'il ne se passe rien pendant les 60 prochaines secondes, le concours prendra fin.!";
+
+translate "Warning: Nobody has armed their mortar in 90 seconds. If nobody arms in the next 30 seconds, the contest will end."
+to french "Attention : Personne n'a armé son mortier depuis 90 secondes. S'il ne se passe rien pendant les 30 prochaines secondes, le concours prendra fin.!";
+
+translate "The following contestants were eliminated due to fraud votes: U1"
+to french "Les candidats suivants ont été éliminés à cause d'accusations de fraude : U1(name)";
+
+translate "Ground Fireworks are not being distri(buted now, because K1 already exists as a ground firework. A Developer may be able to help renaming the shell."
+to french "Les feux d'artifice ne peuvent être remis immédiatement parce que K1 existe déjà. Un développeur pourrait aider en renommant la fusée.";
+
+translate "Ground Fireworks are not being distri(buted now, because U1 already exists as a ground firework. A Developer may be able to help renaming the shell."
+to french "Les feux d'artifice ne peuvent être remis immédiatement parce que U1(name) existe déjà. Un développeur pourrait aider en renommant la fusée.";
+
+translate "You already fired your shell. Wait until the contest is over."
+to french "Vous avez déjà tiré. Attendez la fin du concours.";
+
+translate "About to launch: U1"
+to french "Sur le point de lancer: U1(name)";
+
+translate "Your turn - fire when ready. You have K1."
+to french "C'est à vous - Tirez quand vous êtes prêt. Vous avez K1.";
+
+translate "U1 is now firing. Wait until judging is over to claim your spot."
+to french "U1(name) tire. Attendez que les juges aient fini de noter pour demander à tirer.";
+
+translate "You have already said you want to go next. Fire when ready."
+to french "Vous avez déjà demandé à être le suivant. Tirez quand vous êtes prêt.";
+
+translate "It's still a voting period. Wait a bit."
+to french "Les juges décident encore. Veuillez patienter.";
+
+translate "K1 has been launched. Judges should now be voting."
+to french "K1 a été lancé. Les juges peuvent maintenant voter.";
+translate "U1 has been launched. Judges should now be voting."
+to french "U1(name) a été lancé. Les juges peuvent maintenant voter.";
+
+translate "Voted for K1 are all in. By the opinion of N1 judges, the shell was disqualified."
+to french "Les votes pour K1 ont été pris en compte. Selon l'opinion de N1 juges, la fusée a été disqualifiée.";
+translate "Voted for U1 are all in. By the opinion of N1 judges, the shell was disqualified."
+to french "Les votes pour U1(name) ont été pris en compte. Selon l'opinion de N1 juges, la fusée a été disqualifiée.";
+
+translate "Votes for K1 are all in. N1 judges voted. Score: N2"
+to french "Les votes pour K1 ont tous été donnés. N1 juges ont voté. Score: N2";
+translate "Votes for U1 are all in. N1 judges voted. Score: N2"
+to french "Les votes pour U1(name) ont tous été donnés. N1 juges ont voté. Score: N2";
+
+translate "Contestant N1 may now arm his mortar."
+to french "Le candidat N1 peut maintenant armer son mortier.";
+
+translate "Gather a group of exhibitors. A group's Legitimacy is measured by how many in the group are competing against others they have never competed against. Once the first person registers as an exhibitor, others have N1 to register. Next, judges will be asked to attend the contest."
+to french "Réunissez un groupe d'exposants. La légitimité d'un groupe est evalué selon le nombre de participants qui se mesurent à d'autres, contre lesquels ils n'ont jamais compétitionné. Une fois que la première personne s'inscrit en tant qu'exposant, les autres disposent de N1 pour s'inscrire à leur tour. Par la suite, des juges seront demandés pour assister au concours.";
+
+translate "Gather a group of exhibitors. A group's Legitimacy is measured by how many in the group are competing "
+to french "Réunissez un groupe d'exposants. La légitimité d'un groupe est evalué selon le nombre de participants ";
+
+translate "against others they have never competed against. "
+to french "qui se mesurent à d'autres, contre lesquels ils n'ont jamais compétitionné. Une fois que la première ";
+
+translate "Once the first person registers as an exhibitor, others have N1 "
+to french "personne s'inscrit en tant qu'exposant, les autres disposent de N1 pour s'inscrire à leur tour. ";
+
+translate "to register. Next, judges will be asked to attend the contest."
+to french "Par la suite, des juges seront demandés pour assister au concours.";
+
+translate "Legitimacy Now: N1, With you at least N2."
+to french "Legitimité actuelle: N1, Vous N2.";
+
+translate "Legitimacy Now: N1"
+to french "Legitimité actuelle: N1";
+
+translate "Register as an exhibitor"
+to french "S'enregistrer comme participant";
+
+translate "You can only register when a contest starts. Check the calendar."
+to french "Vous pouvez vous inscrire uniquement quand un concours commence. Vérifiez le calendrier";
+
+translate "You can't do this while a contest is running."
+to french "Vous ne pouvez faire ceci lors d'un concours";
+
+translate "You can't organize a new contest for K1."
+to french "Vous ne pouvez organiser un autre concours avant K1.";
+
+translate "You can't sign up while the test is going on."
+to french "Impossible de vous inscrire pendant la durée de l'épreuve.";
+
+translate "You are already signed up."
+to french "Vous êtes déjà inscrit";
+
+translate "You will receive credit for registering, once this competition's Legitimacy reaches N1 and the show starts."
+to french "Vous recevrez le crédit pour votre inscription, une fois que le nombre d'inscrits sera de N1 et que le spectacle commencera.";
+
+translate "You are signed up as contestant number N1"
+to french "Vous êtes le candidat N1.";
+
+translate "First contestant may now arm their mortar."
+to french "Le premier candidat peut armer son mortier.";
+
+translate "Calculating the winner and awarding points."
+to french "Détermination du gagnant et distribution des points.";
+
+translate "Score for K1: N1"
+to french "Pointage de K1: N1";
+
+translate "Score for K1: K2"
+to french "Pointage de K1: K2";
+
+translate "About to launch: U1"
+to french "Sur le point de lancer: U1(name)";
+
+translate "Votes for K1 are all in. N1 judges voted. "
+to french "Les votes pour K1 ont tous été donnés. N1 juges ont voté. ";
+
+translate "Score: N1"
+to french "Pointage: N1";
+
+translate "All contestants have launched."
+to french "Tous les candidats ont tiré.";
+
+translate "Vote: U1 K1"
+to french "Vote: U1(name) K1";
+
+translate "Influence: "
+to french "Influence: ";
+
+translate "View the Schedule"
+to french "Voir l'horaire";
+
+translate "Check progress in the Test of Pyrotechnics"
+to french "Vérifier ma progression en pyrotechnie";
+
+translate "Progress in the Test of Pyrotechnics:"
+to french "Progrès en pyrotechnie";
+
+translate "K1 ago"
+to french "Il y a K1";
+
+translate "    Top 1/K1: K2\n"
+to french "    Premier/K1: K2\n";
+
+translate "The next official Pyrotechnics Show is in K1 on K2."
+to french "La prochaine compétition pyrotechnique est programmée pour dans K1, K2.";
+
+translate "You have committed to exhibit at this show."
+to french "Vous vous êtes inscrit à ce spectacle.";
+
+translate "You did not commit to exhibit at this show, but may participate as a walk-in."
+to french "";
+
+translate "You have committed to the following possible contest times:"
+to french "Vous vous êtes inscrit aux dates de spectacle suivantes :";
+
+translate "Here are some other times that you may want to commit to:"
+to french "Voilà d'autres dates auxquelles vous aimeriez peut-être vous inscrire :";
+
+translate "You may commit to times at a School or University of Art and Music:"
+to french "Vous pouvez vous inscrire aux dates de spectacles via les écoles et universités des Arts & Musiques :";
+
+translate "Each Pyrotechnics Stadium Headquarters will display the time of the next competition. Sign up for as many as you'd like - you'll be called when the time comes."
+to french "Chaque centre de Pyrotechnie affichera la date du concours à venir. Inscrivez-vous autant que vous le voulez. ";
+
+translate "Gather a group of N1 exhibitors. This threshold may be different at each Pyrotechnics Stadium. Once the first person registers as an exhibitor, others have N2 to register. Next, judges will be asked to attend the contest."
+to french "Rassemblez N1 participants. Ce nombre peut être différent dans chaque stade de pyrotechnie. Lorsque le premier participant s'enregistre, il en faut encore N2. Ensuite, on demande à des juges d'assister aux démonstrations";
+
+translate "Ranks"
+to french "Niveaux";
+
+translate "At the end of a pyrotechnics competition, contestants' ranks change according to how they placed. The top scoring exhibitors will tend to gain rank fast, and lower scoring exhibitors will gain more slowly. A very experienced exhibitor who places low will tend to lose rank. Acheive rank N1 to pass the Test of Pyrotechnics."
+to french "A la fin d'un concours pyrotechnique, le niveau des participants est modifié selon leur classement. Les meilleurs gagnent des niveaux plus rapidement, les moins bons les gagnent plus lentement. Un exposant très expérimenté qui accomplit une contre-performance aura tendance à perdre des niveaux. Il faut atteindre le niveau N1 pour remporter l'épreuve."; 
+
+translate "Reset this desk"
+to french "Réinitiatliser";
+
+translate "Contestants signed up: N1 of N2"
+to french "Candidats : N1 sur N2";
+
+translate "Would you like to judge a fireworks contest at K1 which is about a N1 run away?"
+to french "Voulez-vous être juge dans un concours de feux d'artifices à K1, qui va commencer dans N1 ?";
+
+translate "The preferred count can not be less than the threshold."
+to french "Le nombre de juges attendus ne peut pas être inférieur au seuil spécifié.";
+
+translate "Judge preferred count for K1 is now N1"
+to french "Le nombre optimal de juges pour K1 est maintenant de N1";
+
+translate "Set the Judge Threshold N1"
+to french "Mettre le seuil du nombre de juges à N1";
+
+translate "The threshold can not be less than the preferred count."
+to french "Le nombre optimal de juges ne peut pas être inférieur au nombre minimal.";
+
+translate "Judge threshold for K1 is now N1"
+to french "Le seuil de juges pour K1 est maintenant de N1";
+
+translate "Set the Contestant Threshold N1"
+to french "Seuil du nombre de participants N1";
+
+translate "Contestant threshold for K1 is now N1"
+to french "Le seuil de participants pour K1 est maintenant de N1";
+
+translate "You must learn the skill of Mortar Construction first."
+to french "Vous devez d'abord apprendre la construction de mortiers.";
+
+translate "K1 is up next."
+to french "Ensuite c'est au tour de K1.";
+
+translate "Score: N1"
+to french "Points : N1";
+
+translate "Pyro Me!"
+to french "Du matériel !";
+
+translate "K1 has given you a bunch of fireworks material."
+to french "K1 vous a donné des accessoires de pyrotechnie.";
+
+translate "Rank in Pyrotechnics: "
+to french "Niveau en pyrotechnie : ";
+
+translate "FWJudge: K1 at N1"
+to french "Juge : N1 à N1";
+
+translate "Instructions"
+to french "Instructions";
+
+translate "Changed score for U1 from N1 to N2"
+to french "Le score de U1(name) est passé de N1 à N2";
+
+translate "U1 has advanced in the discipline of Art and Music"
+to french "U1(name) a progressé dans la discipline d'Art et Musique";
+
+translate "Silence"
+to french "Silence de mort";
+
+translate "Polite Clapping"
+to french "Applaudissements polis";
+
+translate "Wild Applause"
+to french "Tonnerre d'applaudissements";
+
+translate "Would you like to judge a fireworks contest at this Pyrotechnics Stadium Headquarters which is about K1 run away?"
+to french "Voulez-vous juger un concours de feux d'artifice dont le stadium de trouve à environ K1 de marche?";
+
+translate "After each shell is launched, a voting widget will appear in the lower left of all judges' screens. Rate each shell from Poor to Monumental. Scores are normalized against past judging history, and weighted according to the number and makeup of contests previously judged. A judge's influence is shown on the widget. Scores are on a scale from 100 to 700, with 400 being the average."
+to french "Après chaque lancement, un bulletin de vote apparait dans le coin inférieur gauche de l'écran chaque juge. Evaluez alors chaque feu, de Mauvais à Monumental. Les scores sont normalisés selon l'expérience des juges et leur assiduité lors des précédents concours. L'influence d'un juge est visible sur le bulletin. Les scores s'étalent sur une échelle de 100 à 700, 400 étant la moyenne.";
+
+translate "If you would like to judge a Pyrotechnics competition, you must register as a judge at the Stadium Headquarters. You won't automatically be asked to judge every contest, there's a random element to who among the registered judges is asked. If you accept an offer to judge, a temporary waypoint will be added to your navigation options. Repeatedly agreeing to judge, but then failing to actually judge will cause you to be unregistered from that stadium."
+to french "Si vous souhaitez juger une compétition, vous devez vous inscrire en tant que juge à un Centre de Pyrotechnie. Vous ne serez pas toujours appelé à juger un concours, une sélecion aléatoire s'opère entre tous les juges inscrits. Si vous acceptez de venir juger un concours lorsque vous êtes appelé, un point de passage supplémentaire et temporaire vous sera fourni pour vous y rendre. Si vous acceptez plusieurs fois de venir juger mais que vous n'y aller en fait pas, votre inscription sur ce Stadium sera annulée.";

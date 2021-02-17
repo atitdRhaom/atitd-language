@@ -1,0 +1,176 @@
+module setsladder_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Games **
+//**             (C)opyright 2002,2003 by MDO Games 			           **
+//**                                                                       **
+//***************************************************************************
+
+
+
+translate SetsLadderMechanics to german feminine
+{
+swa "Seths Leitermechanik"; sn "Seths Leitermechanik"; pn "Seths Leitermechanik";
+}
+
+translate "You must first remove all O1 from the pyramid."
+to german "Du mußt erst alle O1(pn) von der Pyramide entfernen.";
+
+translate "Set's Ladder"
+to german "Seths Leiter";
+
+translate "Ante type"
+to german "Wetteinsatz";
+
+translate "tokens"
+to german "Spielmarken";
+
+translate "Hide the Bank Balance"
+to german "Blende die Bank Balance";
+
+translate "Ladder's Bank contains N1 O1"
+to german "Leiter Bank enthält N1 O1(N1?sn:pn)";
+
+translate "Ladder's Bank contains N1"
+to german "Leiter Bank enthält N1";
+
+translate "This ladder was designed by U1"
+to german "Diese wurde entworfen von U1(name)";
+
+translate "Playing for N1"
+to german "Spiele für N1";
+
+translate "Claim your rights as an Initiate of Thought!"
+to german "Übernehme die Rechte als ein 'Eingeweihter der Gedanken'!";
+
+translate "Reset this Pyramid's Configuration"
+to german "Setze die Pyramidenkonfiguration zurück";
+
+--translate "Stash O1 for paying jackpots"
+--to german "Verstaue O1(sn) für den Jackpot";
+--
+--translate "Configure"
+--to german "Konfiguriere";
+--
+--translate "Reconfiguring the ladder will reset all statistics and/or test progress. Proceed?"
+--to german "Rekonfigurieren der Leiter wird alle Statistiken und/oder Testprozesse zurücksetzen?";
+
+translate "You can't play while the owner is configuring the game."
+to german "Du kannst nicht spielen da der Eigentümer das Spiel konfiguriert.";
+
+translate "There is not enough O1 to cover a win."
+to german "Es ist nicht genug O1(sn) vorhanden um einen Sieg zu erlangen.";
+
+translate "Ante of N1 O1 required."
+to german "Wetteinsatz von N1 O1(N1?sn:pn) benötigt.";
+
+translate "Edit Instructions"
+to german "Modifiziere die Anleitung";
+
+translate "Describe your Set's Ladder"
+to german "Beschreibe Deine Leiter für Seth";
+
+translate "Who is playing?"
+to german "Wer spielt?";
+
+translate "Pyramid isn't playing you!"
+to german "Pyramide spielt nicht mit Dir!";
+
+translate "You are not playing!"
+to german "Du spielst nicht!";
+
+translate "You don't have any of those Arks left!"
+to german "Du hast keine Arks übrig!";
+
+translate "You are near N1 N2"
+to german "Du bist nahe N1 N2";
+
+translate "You are not positioned right."
+to german "Du bist nicht richtig positioniert.";
+
+translate "Zero length pyramid list. Call a developer."
+to german "Nulllänge in der Pyramidenliste. Rufe einen GM.";
+
+translate "You have climbed Set's Ladder - Jackpot is K1"
+to german "Du hast die Leiter des Seth erklommen - Jackpot ist K1";
+
+translate "You have cleared the first set of rungs! Jackpot is K1"
+to german "Du hast die 1. Stufe der Leiter hinter Dir gelassen! Jackpot ist K1";
+
+translate "You have cleared the second set of rungs! Jackpot is K1"
+to german "Du hast die 2. Stufe der Leiter hinter Dir gelassen! Jackpot ist K1";
+
+translate "You have cleared the third set of rungs! Jackpot is K1"
+to german "Du hast die 3. Stufe der Leiter hinter Dir gelassen! Jackpot ist K1";
+
+translate "You have cleared the entire ladder! Jackpot is K1"
+to german "Du hast die 4. Stufe der Leiter hinter Dir gelassen. Jackpot ist K1";
+
+translate "Game over!"
+to german "Spielende!";
+
+translate "Keep playing..."
+to german "Weiterspielen...";
+
+translate "initiation"
+to german "Eingeführt";
+
+translate "Start the Initiation into Thought"
+to german "Beginne den Test der Einführung in die Gedanken";
+
+translate "To prove your potential in the discipline of Thought, "
+to german "Um Dein Potenzial in der Disziplin der Gedanken zu beweisen, ";
+
+translate "you must know the pulse of the Egyptian people. You "
+to german "mußt Du die Stimme der Ägypter kennen. Du ";
+
+translate "will create a Set's Ladder, a mechanical gambling "
+to german "wirst eine Leiter des Seth entwerfen, ein mechanisches Spielgerät, ";
+
+translate "device, and invent a set of rules for it that others want to play."
+to german "und ein Regelwerk für die Spieler erstellen.";
+
+translate "You will first need ownership of a pyramid, although it is not necessary to have "
+to german "Du mußt erst in den Besitz einer Pyramide kommen, jedoch ist es nicht notwendig bei der Konstruktion ";
+
+translate "had a hand in it's construction. You'll then need to build a set of Arks at the "
+to german "dieser zu helfen. Du mußt dann eine Reihe von Arks an der ";
+
+translate "pyramid, or have someone else do that for you, and you'll have to fund the Ladder "
+to german "Pyramide bauen, oder mußt jemanden finden, der das für Dich erledigt. Die Kosten und das ";
+
+translate "and configure it."
+to german "Konfigurieren sind aber Deine Sache.";
+
+translate "When one of your Ladders acheives popularity 100, you will initiate into the Discipline of Thought."
+to german "Wenn eine Deiner Leitern eine Popularität von 100 erhält, wird Du in die Diziplin der Gedanken eingeführt.";
+
+translate "Set's Ladder: U1"
+to german "Seths Leiter : U1(name)";
+
+translate "Rig this O1 for Set's Ladder"
+to german "Rüste O1(tsd) O1(sd) für Seths Leiter aus.";
+
+translate "To rig this Pyramid for Set's Ladder, you need:"
+to german "Um diese Pyramide für Seths Leiter auszurüsten  benötigst Du:";
+
+translate "N1 O1"
+to german "N1 O1(N1?sn:pn)";
+
+translate "You may now configure Set's Ladder."
+to german "Du kannst nun Seths Leiter konfigurieren.";
+
+translate "Open Set's Ladder for players"
+to german "Eröffne Seths Leiter für Spieler";
+
+translate "Players must have at least one Ark to play with."
+to german "Spieler müßen einen Ark haben mit dem sie spielen können.";
+
+translate "You must pay out some sort of jackpot."
+to german "Du mußt einen Jackpot haben.";
+
+translate "Test of the Set's Ladder"
+to german "Test der Seths Leiter";
+

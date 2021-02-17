@@ -1,0 +1,194 @@
+module beacons_fre;
+
+translate BeaconAltar to french masculine
+{
+  ns "Autel de balise"; np "Autels de balises";
+}
+
+translate Beacons to french masculine
+{
+  ns "L'épreuve des Balises"; np "L'épreuve des Balises";
+}
+
+translate leftfocus to french masculine
+{
+  ns "Plateau gauche"; np "Plateau gauche";
+}
+
+translate rightfocus to french masculine
+{
+  ns "Plateau droite"; np "Plateau droite";
+}
+
+translate leftpillar to french masculine
+{
+  ns "Pilier gauche"; np "Piliers gauche";
+}
+
+translate rightpillar to french masculine
+{
+  ns "Pilier droit"; np "Piliers droit";
+}
+
+translate "Perform the Anchoring Meditation"
+to french "Accomplir le rituel de conservation";
+
+translate "The Test of Beacons may be opened by any Level N1 initiate of Worship, but must be done so in a week when at least N2 of the Gods' favored activities have taken place somewhere in Egypt. This week, only N3 have so far been done."
+to french "L'épreuve des balises peut être ouverte par n'importe quel niveau N1 initié en Vénération, mais ce doit être fait pendant une semaine où au moins N2 activités favorites des diex ont eu lieu. Cette semaine, seules N3 activités ont été réalisées pour le moment";
+translate "Complete a single Beacon Ritual"
+to french "Accomplir un rituel des balises";
+
+translate "You have completed Principles of Beacons."
+to french "Vous avez réussi les principes des Balises.";
+
+translate "Please wait..."
+to french "Veuillez patienter...";
+
+translate "Start the Test of Beacons"
+to french "Commencer l'épreuve des Balises";
+
+translate "Test of Beacons"
+to french "Épreuve des Balises";
+
+translate "Instructions"
+to french "Instructions";
+
+translate "Status Report"
+to french "Compte-rendu";
+
+translate "Clear Anchor and Ritual"
+to french "Annuler la Conservation et le Rituel";
+
+translate "Public"
+to french "Public";
+
+translate "You have completed the beacon ritual N1 times. You must do it seven times to pass."
+to french "Vous avez accompli le rituel des Balises N1 fois. Vous devez l'accomplir sept fois pour le réussir complètement.";
+
+translate "The Test of Beacons"
+to french "L'Epreuve des Balises";
+
+translate "Periodically, the gods will conjure a divine altar with a shining beacon above it.  These altars vanish very quickly, if you see one, you should immediately perform the anchoring meditation:"
+to french "Périodiquement, les dieux envoient un autel divin surmonté d'une lumière. Ces autels disparaissent très rapidement, si vous en voyez un, vous devrez accomplir immédiatement le rituel de conservation:";
+
+translate "  Priest One meditates."
+to french "  Le prêtre 1 médite.";
+
+translate "  Priest Two meditates."
+to french "  Le prêtre 2 médite.";
+
+translate "  Priest Three meditates."
+to french "  Le prêtre 3 médite.";
+
+translate "The three priests who perform the anchoring meditation will each receive a vision.  These visions will tell you the steps of the 	beacon ritual (it is different each time).  Sometimes the visions are vague, and you will have to experiment to discover the specifics of the ritual."
+to french "Les trois prêtres qui accomplissent le rituel de conservation recevront chacun une vision. Ces visions vous indiqueront les étapes du rituel des valises (il est différent à chaque fois). Parfois les visions sont vagues, et vous devrez faire des essais pour découvrir les détails du rituel.";
+
+translate "This will anchor the divine altar to our world for about 30 minutes. You will know that the altar has been anchored because the glowing light will vanish, leaving just the altar. "
+to french "Cela conservera l'autel divin dans notre monde pendant environ 30 minutes. Vous saurez que le rituel a fonctionné car la lumière le surplombant s'évanouit, laissant juste l'autel.";
+
+translate "During the altar's stay on earth, it can only be used for one purpose: the beacon ritual.  The beacon ritual must be performed by the same three priests who did the anchoring meditation."
+to french "Pendant la courte vie de l'autel sur Terre, celui-ci ne peut être utilisé que pour une seule chose: le rituel des Balises. Le rituel des balises doit être accompli par les trois mêmes prêtres qui ont fait le rituel de conservation.";
+
+translate "The altars seem to be attracted to individuals who meet certain conditions:"
+to french "Les autels semblent être attirés par les personnes dans certaines conditions:";
+
+translate "  1. Are signed up for the test of beacons."
+to french "  1. Etre inscrit à l'épreuve des Balises.";
+
+translate "  2. Have not attracted a beacon altar in a week."
+to french "  2. Ne pas avoir attriré de balise pendant une semaine.";
+
+translate "  3. Are in viewing range of two or three other people."
+to french "  3. Etre dans le champ de vision de deux autres personnes.";
+
+translate "  4. Are away from their own camp."
+to french "  4. Etre à bonne distance de son propre camp.";
+
+translate "  5. Have done the 'favored' activity in the last hour."
+to french "  5. Avoir fait l'activité 'favorite' des dieux durant l'heure précédente.";
+
+translate "The last condition, the 'favored' activity, is particularly befuddling.  About once a week, the gods choose some activity as favored.  Their choice of activity seems to be oddly arbitrary.  If you want to attract beacon altars, you will need to figure out the favored activity that week. Occasionally, somebody will get a sense that they did the favored activity."
+to french "La dernière condition, l'activité 'favorite', est particulièrement subtile. Une fois par semaine, les dieux déterminent leur activité favorite. Leurs choix semblent être étonnement arbitraires. Si vous désirez attirer des autels de balise, vous devrez trouver quelle est cette activité. Occasionnellement, certains sauront s'ils ont fait l'activité favorite.";
+
+translate "To encourage the altar to appear, you need to first figure out the favored activity.  Perform it once per hour whenever you are traveling, or out fishing, or visiting a school, or are away from your camp for any other reason.  Chances are, this will trigger an appearance."
+to french "Pour faire apparaitre un autel, vous devez d'abord trouver la nature de l'activité favorite. Accomplissez-la une fois par heure, que vous voyagiez, pêchiez, ou visitiez une école, ou bien que vous soyiez loin de votre camp pour toutes autres raisons. Il y a des chances que cela entraîne une apparition.";
+
+translate "If you live in a very underpopulated region, you may have to travel to a place where there are more people in order to succeed. Such is the nature of the discipline of worship."
+to french "Si vous vivez dans une zone sous peuplée, vous devrez peut-être voyager dans une région où il y a plus de monde, afin de réussir. Telle est la vocation de la discipline de la Vénération.";
+
+translate "Of course, when the altar does appear, you'll have to convince whomever is around you to help you.  Be prepared.  Have a speech ready to talk them into helping.  If necessary, have something to pay them with.  Finally, carry medium gems, as these are inevitably used in the ritual."
+to french "Bien sur, quand l'autel apparaït, vous devrez convaincre les gens autour de vous de venir vous aider. Soyez prêt. Préparez un texte à l'avance. Si nécessaire, payez-les. Enfin, portez toujours des gemmes moyens, ils sont toujours nécessaires.";
+
+translate "Beacon Rule set to: K1"
+to french "Règle des Balises paramétrée sur K1";
+
+translate "BEACON SYSTEM: U1 has N1 points"
+to french "Système des Balises : U1(name) possède N1 points";
+
+translate "Where is altar 0?"
+to french "Où est l'autel 0?";
+
+translate "Altar 0 is at K1 N1 N2"
+to french "L'autel 0 se trouve en K1 aux coordonnées N1 N2";
+
+translate "Show me my Vision Again"
+to french "Repenser à ma Vision";
+
+translate "Generate a new Ritual"
+to french "Générer un nouveau rituel";
+
+translate "Show the true steps"
+to french "Voir les étapes";
+
+translate "Show Vision "
+to french "Voir la vision ";
+
+translate "Show Recent Steps"
+to french "Voir les actions récentes";
+
+translate "You did the beacon ritual correctly, assisting everyone else."
+to french "Vous avez accompli le rituel des Balises correctement, en assistant toutes les autres personnes.";
+
+translate "You have gained favor with the gods!  To pass, do the ritual N1 more times."
+to french "Vous avez gagné la faveur des dieux ! Pour réussir cette épreuve, vous devez accomplir ce rituel encore N1 fois.";
+
+translate "You cannot pass the test of beacons unless you sign up first. Sign up, then perform the ritual again."
+to french "Vous ne pouvez passer cette épreuve que si vous y êtes inscrit. Inscrivez-vous, puis recommencez le rituel.";
+
+translate "You have gained favor with the gods!  To pass, you must sign up, and then do the ritual N1 more times.  Do not forget to sign up!"
+to french "Vous avez gagné la faveur des dieux ! Pour réussir cette épreuve, vous devez vous inscrire et faire le rituel encore N1 fois. N'oubliez pas de vous inscrire !";
+
+translate "The beacon ritual must be performed by the people who anchored the altar."
+to french "Le rituel des Balises doit être accompli par les personnes qui ont participé à la cérémonie de conservation.";
+
+translate "K1 meditated"
+to french "K1 médite";
+translate "U1 meditated"
+to french "U1(name) médite";
+
+translate "A beacon altar was almost attracted to you, because you did the favored activity in the last hour. However, there are not enough people nearby."
+to french "Vous sentez qu'un autel a failli apparaître auprès de vous, parce que vous avez accompli l'activité préférée des dieux au cours de la dernière heure. Malheureusement, il n'y avait pas assez de monde à côté de vous.";
+
+translate "A beacon altar was almost attracted to you, because you did the favored activity in the last hour. However, there are too many people nearby."
+to french "Vous sentez qu'un autel a failli apparaître auprès de vous, parce que vous avez accompli l'activité préférée des dieux au cours de la dernière heure. Malheureusement, il y a trop de monde à côté de vous.";
+
+translate "A beacon altar was almost attracted to you, because you did the favored activity in the last hour. However, you own too many of the buildings here - you are at home."
+to french "Vous sentez qu'un autel a failli apparaître auprès de vous, parce que vous avez accompli l'activité préférée des dieux au cours de la dernière heure. Malheureusement, vous possédez trop de bâtiments dans les environs - vous êtes chez vous.";
+
+translate "You have done everything you need to attract a beacon altar.  If you are lucky, one will appear."
+to french "Vous avez rempli toutes les conditions pour faire apparaître un autel. Si vous avez de la chance, vous en verrez un bientôt.";
+
+translate "Some of the steps are:"
+to french "Voici les étapes à suivre:";
+
+translate "Priest N1 puts the first item on the K1"
+to french "Le prêtre N1 dépose le premier item sur le K1";
+translate "Priest N1 puts the second item on the K1"
+to french "Le prêtre N1 dépose le second item sur le K1";
+translate "Priest N1 takes the first item from the K1"
+to french "Le prêtre N1 prend le premier item du K1";
+translate "Priest N1 takes the second item from the K1"
+to french "Le prêtre N1 prend le second item du K1";
+
+translate "The favored beacon activity has changed."
+to french "L'activité favorite des dieux pour les balises a changé.";

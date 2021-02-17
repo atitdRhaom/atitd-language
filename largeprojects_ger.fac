@@ -1,0 +1,108 @@
+module largeprojects_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**            German Version: Astrid "Infinyti" Werner                   **
+//**                            2012                                       **
+//**                                                                       **
+//***************************************************************************
+
+
+translate IndoorConstructionSite to german feminine
+{
+  swa "Innenbaustelle";
+  sn "Innenbaustelle"; sg "Innenbaustelle"; sd "Innenbaustelle"; sa "Innenbaustelle";
+  pn "Innenbaustellen"; pg "Innenbaustellen"; pd "Innenbaustellen"; pa "Innenbaustellen";
+}
+
+translate DedicatedConstructionSite to german feminine
+{
+  swa "Beschäftigte Baustelle";
+  sn "Beschäftigte Baustelle"; sg "Beschäftigten Baustelle"; sd "Beschäftigten Baustelle"; sa "Beschäftigte Baustelle";
+  pn "Beschäftigten Baustellen"; pg "Beschäftigten Baustellen"; pd "Beschäftigten Baustellen"; pa "Beschäftigten Baustellen";
+}
+translate SmallConstructionSite to german feminine
+{
+  swa "kleine Baustelle";
+  sn "kleine Baustelle"; sg "kleinen Baustelle"; sd "kleinen Baustelle"; sa "kleinen Baustelle";
+  pn "kleinen Baustellen"; pg "kleinen Baustellen"; pd "kleinen Baustellen"; pa "kleinen Baustellen";
+}
+translate MediumConstructionSite to german feminine
+{
+  swa "mittlere Baustelle";
+  sn "mittlere Baustelle"; sg "mittleren Baustelle"; sd "mittlere Baustelle"; sa "mittleren Baustelle";
+  pn "mittleren Baustellen"; pg "mittleren Baustellen"; pd "mittleren Baustellen"; pa "mittleren Baustellen";
+}
+translate AqueductConstructionSite to german feminine
+{
+  swa "Aquäduktbaustelle";
+  sn "Aquäduktbaustelle"; sg "Aquäduktbaustelle"; sd "Aquäduktbaustelle"; sa "Aquäduktbaustelle";
+  pn "Aquäduktbaustellen"; pg "Aquäduktbaustellen"; pd "Aquäduktbaustellen"; pa "Aquäduktbaustellen";
+}
+translate AqueductPumpConstructionSite to german feminine
+{
+  swa "Pumpstationsbaustelle";
+  sn "Pumpstationsbaustelle"; sg "Pumpstationsbaustelle"; sd "Pumpstationsbaustelle"; sa "Pumpstationsbaustelle";
+  pn "Pumpstationsbaustellen"; pg "Pumpstationsbaustellen"; pd "Pumpstationsbaustellen"; pa "Pumpstationsbaustellen";
+}
+translate MonumentConstructionSite to german feminine
+{
+  swa "Monumentbauplatz";
+  sn "Monumentbauplatz"; sg "Monumentbauplatzes"; sd "Monumentbauplatz"; sa "Monumentbauplatz";
+  pn "Monumentbauplätze"; pg "Monumentbauplätze"; pd "Monumentbauplätzen"; pa "Monumentbauplätze";
+}
+
+translate "Disassemble"
+	to german "Zerlegen";
+
+translate "Construction"
+	to german "Konstruktion";
+
+translate "Small Construction Site"
+	to german "Kleine Baustelle";
+
+translate "To start a small construction site you need:"
+	to german "Um eine kleine Baustelle zu beginnen, benötigst du:";
+
+translate "Warning: this construction site will vanish in two hours!"
+	to german "Achtung: Diese Baustelle wird in 2 Stunden zerfallen!";
+
+translate "Loading an item will reset the timer."
+	to german "Der Timer wird zurückgesetzt, sobald Gegenstände geladen werden.";
+
+translate "You can disassemble the site at no cost."
+	to german "Du kannst diese Baustelle ohne Kosten demontieren.";
+
+translate "Medium Construction Site"
+	to german "Mittlere Baustelle";
+
+translate "To start a medium construction site you need:"
+	to german "Um eine mittlere Baustelle zu beginnen, benötigst du:";
+
+translate "Self-destruct in K1"
+	to german "Selbstzerstörung in K1";
+
+translate "Building a O1"
+	to german "Aktuelles Projekt: O1(^asn) O1(swa)";
+
+translate "Disassemble this Site"
+	to german "Demontiere diese Baustelle";
+
+translate "You do not have authority to terminate construction."
+	to german "Du hast nicht die Erlaubnis, diese Konstruktion zu zerstören.";
+
+translate "Are you sure you want to disassemble this construction site?"
+	to german "Bist du sicher, dass Du diese Baustelle demontieren willst?";
+
+translate "Load Materials"
+	to german "Lade Material";
+
+translate "This construction site has already been dedicated to building a O1. You must disassemble it and gather the materials if you wish to abandon this project."
+	to german "Diese Baustelle wurde bereits beauftragt, O1(asn)O1(swa) zu bauen. Du musst die Baustelle abreißen und das Material bergen, wenn du das Projekt stornieren willst.";
+
+translate "This construction site already contains materials. You must disassemble it and gather the materials if you wish to abandon this project."
+	to german "Diese Baustelle enthält bereits Material. Du musst sie zerstören und das Material bergen, wenn du das Projekt stornieren willst.";
+
+translate "Clear Current Project"
+	to german "Lösche aktuelles Projekt";

@@ -1,0 +1,312 @@
+Module Anvil_spa;
+
+translate "This is a O1"
+to spanish "O1(ens) es O1(uns) O1(ns)";
+
+translate Anvil to spanish masculine
+{
+  ns "Yunque"; np "Yunques";
+}
+
+translate Shovel to spanish feminine
+{
+  ns "Pala"; np "Palas";
+  }
+
+translate CScythe to spanish feminine
+{
+  ns "Guadaña"; np "Guadañas";
+}
+
+translate ScytheTemplate to spanish masculine
+{
+  ns "Modelo de Guadaña"; np "Modelos de Guadaña";
+}
+
+translate CarpentryBlade to spanish feminine
+{
+  ns "Lámina de Carpinteria"; np "Láminas de Carpintería";
+  }
+translate Hatchet to spanish feminine
+{
+  ns "Hacha"; np "Hachas";
+  }
+
+translate Blacksmithing to spanish masculine
+{
+  ns "Herrería"; np "Herrería";
+  }
+
+translate RitualBlade to spanish feminine
+{
+  ns "Lámina Ritual"; np "Láminas Rituales";
+  }
+
+translate DiamondTippedSteelBlade to spanish feminine
+{
+  ns "Lámina de Acero Punta de Diamante"; np "Láminas de Acero Punta de Diamante";
+  }
+
+translate RasHammer to spanish masculine
+{
+  ns "Martillo de Ra"; np "Martillos de Ra";
+  }
+
+translate ArchaeologistsShovel to spanish feminine
+{
+  ns "Pala del Arqueólogo"; np "Palas de Arqueólogo";
+  }
+
+translate ResinWedge to spanish masculine
+{
+  ns "Recolector de Resina"; np "Recolectores de Resina";
+  }
+
+translate Spring to spanish masculine
+{
+  ns "Resorte"; np "Resortes";
+  }
+
+translate RoundHammer to spanish masculine
+{
+  ns "Martillo Redondo"; np "Martillos Redondos";
+  }
+
+translate BallPeenHammer to spanish masculine
+{
+  ns "Martillo Punta en Bola"; np "Martillos Punta en Bola";
+  }
+
+translate ShapingMallet to spanish masculine
+{
+  ns "Mazo"; np "Mazos";
+  }
+
+translate WideTungstenChisel to spanish masculine
+{
+  ns "Cincel de Tungsteno"; np "Cinceles de Tungsteno";
+  }
+
+translate TitaniumBlade to spanish feminine
+{
+  ns "Lámina de Titanio"; np "Láminas de Titanio";
+  }
+  
+translate SteelKnifeBlade to spanish feminine
+{
+  ns "Lámina de Acero"; np "Láminas de Acero";
+  }
+
+translate DiamondTippedHatchet to spanish feminine
+{
+  ns "Hacha Punta de Diamante"; np "Hachas Punta de Diamante";
+}
+
+translate Carving to spanish masculine
+{
+  ns "Labrar"; np "Labrar";
+  }
+  
+translate EighteenPendant to spanish masculine
+{
+  ns "Cadena de Dieciocho"; np "Cadenas de Dieciocho";
+  }
+
+translate "Allows one to forge various blades"
+to spanish "Permite Trabajar diferentes tipos de Láminas";
+
+translate "You must unload the finished product first"
+to spanish "Necesitas descargar el producto terminado antes de empezar un nuevo proyecto";
+
+translate "Allows creation of Diamond Tipped Hatchets, which cut"
+to spanish "Permite la fabricación de un Hacha de punta de diamante, el cual ";
+
+translate "more cleanly, allowing trees to recover faster"
+to spanish "hace cortes más finos, permitiendole a los árboles recuperarse más rápido.";
+
+translate "To build an Anvil, you need:"
+to spanish "Para construir un yunque, necesitas:";
+
+translate "You must unload the finished product first"
+to spanish "Necesitas primero descargar el proyecto terminado";
+
+translate "To make a O1 requires:"
+to spanish "Para fabricar O1(uns) O1(ns), necesitas:";
+
+translate "N1 O1"
+to spanish "N1 O1(N1?ns:np)";
+
+translate "Tools/Force Level/Force"
+to spanish "Herramienta/Firmeza/Firmeza";
+
+translate "You must start work on a piece first."
+to spanish "Es necesario empezar un proyecto primero.";
+  
+translate "Template Quality Unknown"
+to spanish "Calidad de Plantilla Desconocida";
+
+translate "Template Quality: "
+to spanish "Calidad de Plantilla: ";
+
+translate "Piece is not symmetrical"
+to spanish "La pieza no es simétrica";
+
+//translate "Blademaker/Mirror Left->Right"
+//to spanish "";
+
+//translate "Blademaker/Thickness Decrease"
+//to spanish "";
+
+//translate "Blademaker/Thickness Increase"
+//to spanish "";
+
+//translate "Blademaker/Straighten Rows"
+//to spanish "";
+
+translate "Inspect Famous Blades"
+to spanish "Examine Lámina Famosa";
+
+translate "Complete Project"
+to spanish "Termina el Proyecto";
+
+translate "Discard Project for Scrap"
+to spanish "Descarta el Proyecto como Desecho";
+ 
+translate "Really scrap the O1?"
+to spanish "Desechar O1(lns) O1(ns)?";
+ 
+translate "Ready to Unload?"
+to spanish "Listo para descargar el proyecto?";
+ 
+translate "A famously good blade! You should name it:"
+to spanish "Una Lámina Excepcional! Deberías darle nombre:";
+ 
+translate "Nice try."
+to spanish "Buen intento.";
+ 
+translate "You need to be holding Ra's Hammer to work on a Ritual Blade."
+to spanish "Es necesario tener un Martillo de Ra para trabajar en una Lámina Ritual.";
+ 
+translate "The piece has become too fragile."
+to spanish "Esta pieza se ha vuelto demasiado frágil.";
+
+translate "(Hint: Use 'Chat Appears Above Players Heads', while using an anvil. Utility/Options:Chat-Related)"
+to spanish "(Sugerencia: Usa 'Conversaciones que Aparecen Sobre el Nombre del Jugador', mientras usas el yunque.)";
+ 
+translate "Quality: "
+to spanish "Calidad: ";
+
+translate "N1 (N2/N3 blows)"
+to spanish "N1 (N2/N3 golpes)";
+
+translate "Load Anvil"
+to spanish "Carga el Yunque";
+
+translate "Start Making: "
+to spanish "Empieza a Fabricar: ";
+
+translate "Start Making: O1"
+to spanish "Empieza a Fabricar: O1(ns)";
+
+translate "Tools"
+to spanish "Herramienta";
+
+translate "Force Level"
+to spanish "Nivel de Firmeza";
+
+translate "Force"
+to spanish "Firmeza";
+
+translate "Quality Check"
+to spanish "Revisión de Calidad";
+
+translate "Goal Display"
+to spanish "Mostrar la Meta";
+
+
+translate "Hammer: Round"
+to spanish "Martillo: Redondo";
+
+translate "Hammer: Ra's Hammer"
+to spanish "Martillo: Martillo de Ra";
+
+translate "Hammer: Ball Peen"
+to spanish "Martillo: Punta Redonda";
+
+translate "Hammer: Shaping Mallet"
+to spanish "Martillo: Mazo";
+
+translate "Hammer: Wide Chisel"
+to spanish "Martillo: Cincel de Tungsteno";
+
+translate "To complete a O1 you need:"
+to spanish "Para terminar O1(lns) necesitas:";
+
+translate "Not a tool"
+to spanish "No es una Herramiento útil";
+
+translate "You can't work on the piece while displaying the goal."
+to spanish "No puedes trabajar en el proyecto mientras se muestra la meta.";
+
+translate "Build an Anvil"
+to spanish "Construye un Yunque";
+
+//translate "Blademaker/Print State"
+//to spanish "";
+
+translate "Resin Wedge"
+to spanish "Recolector de Resina";
+
+translate " is a O1 of quality N1"
+to spanish " es O1(uns) O1(ns) de calidad N1";
+
+translate "Your Artistic touch enhanced the quality N1 blade by N2 points."
+to spanish "Votre doigté artistique a permis de faire passer la qualité de cette lame de N1 à N2.";
+
+translate "O1:Quality N1 blade"
+to spanish "O1(ns): Lámina de Calidad N1";
+
+translate "Assembly"
+to spanish "Ensamblaje";
+
+translate "Carving"
+to spanish "Labrar";
+
+translate "N1 (K2/K3 blows)"
+to spanish "N1 (K2/K3 golpes)";
+
+translate "Quality: N1 (N2/N3 blows)"
+to spanish "Calidad: N1 (N2/N3 golpes)";
+
+translate "Quality: "
+to spanish "Calidad: ";
+
+translate "K1"
+to spanish "K1";
+
+translate "Your fists are not strong enough to punch iron, please select a tool to use."
+to spanish "Tus puños no son suficiente fuertes para golpear hierro, por favor selecciona la herramienta adecuada.";
+
+translate "Iron Shovel"
+to spanish "Pala de Hierro";
+
+translate "You cannot use the character '\' in the name of the object."
+to spanish "No puedes usar el caractér '\' en el nombre del objeto.";
+
+translate "Spring"
+to spanish "Resorte";
+
+translate "Sharp Edged Blade"
+to spanish "Lámina de Punta Fina";
+
+translate "Jagged Blade"
+to spanish "Lámina Dentada";
+
+translate "Twice Folded Blade"
+to spanish "Lámina de Doble Pliegue";
+
+translate "Load Anvil from Template"
+to spanish "Carga el Yunque con Plantilla";
+
+translate "Pendant of Eighteen"
+to spanish "Cadena de Dieciocho";

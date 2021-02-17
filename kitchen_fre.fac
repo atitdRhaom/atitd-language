@@ -1,0 +1,810 @@
+module kitchen_fre;
+
+translate Kitchen to french feminine
+{
+  ns "Cuisine"; np "Cuisines";
+}
+
+translate SheepSuppliment to french masculine
+{
+  ns "Complément alimentaire pour les moutons"; np "Compléments alimentaires pour les moutons";
+}
+
+translate Gastronomy to french feminine
+{
+  ns "Gastronomie"; np "Gastronomie";
+}
+
+translate Chicken to french masculine
+{
+  ns "Poulet"; np "Poulet";
+}
+translate Beef to french masculine
+{
+  ns "Boeuf"; np "Boeufs";
+}
+translate Trout to french feminine
+{
+  ns "Truite"; np "Truites";
+}
+translate Bacon to french masculine
+{
+  ns "Bacon"; np "Bacons";
+}
+translate Orange to french feminine
+{
+  ns "Orange"; np "Oranges";
+}
+translate Lemon to french masculine
+{
+  ns "Citron"; np "Citrons";
+}
+translate HeavyCream to french feminine
+{
+  ns "Crème épaisse"; np "Crèmes épaisses";
+}
+translate RedWine to french masculine
+{
+  ns "Vin rouge"; np "Vins rouges";
+}
+
+translate ChickenMeat to french feminine
+{
+  ns "Viande de poulet"; np "Viandes de poulet";
+}
+
+translate Salt to french masculine
+{
+  ns "Sel"; np "Sels";
+}
+
+translate TonicOfClarity to french masculine
+{
+  ns "Tonic de clarté"; np "Tonics de clarté";
+}
+translate Ink to french feminine
+{
+  ns "Encre"; np "Encres";
+}
+translate SheepPoxSalve to french masculine
+{
+  ns "Onguent anti-vérole du mouton"; np"Onguents anti-vérole du mouton";
+}
+translate EssentialExtract to french masculine
+{
+  ns "Extrait essentiel"; np "Extraits essentiels";
+}
+translate Cookpots to french masculine
+{
+  ns "Pot de cuisson en fer"; np "Pots de cuisson en fer";
+}
+
+translate Coconuts to french feminine
+{
+  ns "Noix de coco"; np "Noix de coco";
+}
+translate CoconutMeat to french feminine
+{
+  ns "Pulpe de noix de coco"; np "Pulpes de noix de coco";
+}
+translate TonicBrewing to french masculine
+{
+  ns "concoction de tonics"; np "concoction de tonics";
+}
+
+translate Preservation to french feminine
+{
+  ns "Préservation"; np "Préservation";
+}
+
+translate bagLlunch to french masculine
+{
+  ns "Sachet repas"; np "Sachets repas";
+}
+
+translate boxlunch to french feminine
+{
+  ns "Ration repas"; np "Rations repas";
+}
+translate wheatflour to french feminine
+{
+  ns "Farine de blé"; np "Farines de blé";
+}
+
+translate "Kitchen"
+to french "Cuisine";
+
+translate "Cooking"
+to french "Cuisines";
+
+translate "To build a Kitchen, you need: "
+to french "Pour construire une cuisine, il vous faut : ";
+
+translate "Tonic of Clarity"
+to french "Tonic de Clarté"; 
+
+translate "Recipes"
+to french "Recettes";
+
+translate "How many doses?"
+to french "Combien de doses ?";
+
+translate "Tonics"
+to french "Tonics";
+
+translate "Consume"
+to french "Consommer";
+
+translate "Sheep Supplement"
+to french "Complément alimentaire pour les moutons";
+
+translate "Learn to make Tonic of Clarity"
+to french "Apprendre à faire un tonic de Clarté";
+
+translate "Ink"
+to french "Encre";
+
+translate "Sheep Pox Salve"
+to french "Onguent anti-vérole du mouton";
+
+translate "Sheep Pox Salve, 3x dose"
+to french "Onguent anti-vérole du mouton triple dose";
+
+translate "Essential Extract"
+to french "Extrait essentiel";
+
+translate "Add Garlic to the Oil"
+to french "Ajouter de l'ail à l'huile";
+
+translate "Crush many Cabbages at once for Juice"
+to french "Ecraser beaucoup de choux en une seule fois pour obtenir du jus";
+
+translate "Grind Wheat into Flour"
+to french "Moudre du Blé en Farine";
+
+translate "Mix flour and bake the bread"
+to french "Pétrir la farine et cuire le pain";
+
+translate "Mix flour and bake underweight bread"
+to french "Pétrir la farine et cuire un pain de poids insuffisant";
+
+translate "How much wheat to grind?"
+to french "Moudre quelle quantité de blé ?";
+Translate "Stop the crusher"
+to french "Arrêter le concasseur";
+
+translate "Grate Carrots for Carrot Juice"
+to french "Gratter les carottes pour obtenir du jus de carottes";
+translate "Grate many Carrots at once for Juice"
+to french "Gratter beaucoup de carottes pour obtenir du jus de carottes";
+translate "Upgrade Kitchen with a Coconut Crusher"
+to french "Améliorer la cuisine avec un concasseur de noix de coco";
+translate "To upgrade this kitchen you need:"
+to french "Pour améliorer cette cuisine il vous faut:";
+translate "Crusher"
+to french "Concasseur";
+translate "Load the crusher with Coconuts"
+to french "Mettre des noix de coco dans le concasseur";
+translate "Start crushing coconuts"
+to french "Concassez les noix de coco";
+translate "Load how many coconuts? (Max 1000)"
+to french "Mettre combien de noix de coco ? (Max 1000)";
+translate "You must first load the crusher with coconuts."
+to french "Vous devez d'abbord mettre des noix de coco dans le concasseur";
+translate "The crusher is running"
+to french "Le concasseur est en marche";
+
+translate "Mix a batch of how many O1? (Max N1)"
+to french "Mélanger un lot de combien de O1(ns) (Max N1)";
+
+translate "To make Sheep Supplement, you need:"
+to french "Pour faire un complément alimentaire pour mouton il faut:\n";
+
+translate "Mix a cocktail for Speed of the Serpent"
+to french "Mélanger un cocktail de 'Vitesse du Serpent'";
+translate "To make a Speed of the Serpent Cocktail, you need:"
+to french "Pour fabriquer un cocktail de 'Vitesse du serpent' il vous faut:";
+
+translate "You need 10 garlic."
+to french "Il vous faut 10 ails";
+
+
+translate "Mixing..."
+to french "Mélange...";
+translate "There is nothing in the pot"
+to french "La marmite est vide";
+translate "There is not enough food in the pot for a serving"
+to french "Il n'y a pas assez dans la marmite pour un repas";
+translate "There is enough food in the pot for one serving"
+to french "Il y a assez dans la marmite pour un seul repas";
+translate "There is food in the pot for N1 servings"
+to french "Il y a assez dans la marmite pour N1 repas";
+
+translate "Mix"
+to french "Mélanger";
+
+translate "Add O1"
+to french "Ajouter O1(np)";
+
+translate "Grain Mortar"
+to french "Mortier à grains";
+
+translate "Separate oil from flax seeds"
+to french "Extraire l'huile des graines de lin";
+
+translate "Crush cabbage for juice"
+to french "Extraire le jus des choux";
+
+translate "Make a candle"
+to french "Fabriquer une chandelle";
+
+translate "Crush Egg Shells"
+to french "Casser des oeufs";
+
+translate "You don't have that many."
+to french "Vous n'en avez pas assez.";
+
+translate "Rename the Recipe"
+to french "Renommer cette recette";
+
+translate "Are you sure you want to rename the recipe?"
+to french " Etes-vous certain de vouloir renommer la recette ?";
+
+translate "How many ? O1?"
+to french "Combien de O1(ns) ?";
+
+translate "bitter"
+to french "amer";
+
+translate "salty"
+to french "salé";
+
+translate "sweet"
+to french "sucré";
+
+translate "spicy"
+to french "épicé";
+
+translate "utename"
+to french "riche";
+
+translate "fragrant"
+to french "odorant";
+
+translate "creamy"
+to french "crémeux";
+
+translate "crunchy"
+to french "croustillant";
+
+translate "watery"
+to french "aqueux";
+
+translate "soft"
+to french "doux";
+
+translate "greasy"
+to french "gras";
+
+translate "chewy"
+to french "caoutchouteux";
+
+translate "bland"
+to french "fade";
+
+translate "pungent"
+to french "âcre";
+
+translate "How many eggs to crush?"
+to french "Casser combien d'oeufs ?";
+
+translate "You need:"
+to french "Il vous faut :";
+
+translate "The tonic will be ready in ten minutes."
+to french "Le tonic sera prêt dans 10 minutes";
+
+translate "If you need to cure poison that affects your mind, a Tonic of clarity can be made at a kitchen by combining one iron knot mushroom and one dead tongue mushroom."
+to french "Si vous voulez vous débarrasser des effets nocifs du poison, vous pouvez préparer dans votre cuisine un tonic de Clarté en mélangeant un champignon Noeud de Fer et un champignon Langue Morte";
+
+translate "The tonic has no effect."
+to french "Le tonic n'a aucun effet..";
+
+translate "Your poison level is now N1"
+to french "Votre niveau de poison est maintenant de N1";
+
+translate "U1 has poison level N1"
+to french "U1(name) a un niveau de poison de N1";
+
+translate "To make a batch of ink, you need:"
+to french "Pour faire de l'encre, il vous faut :";
+
+translate "The ink will be ready in one minute."
+to french "L'encre sera prête dans une minute.";
+
+translate "To make a salve for Sheep Pox, you need:"
+to french "Pour préparer un onguent contre la vérole du mouton, il vous faut :";
+ 
+translate "The salve will be ready in ten minutes."
+to french "L'onguent sera prêt dans dix minutes.";
+
+translate "To make a 3x dose of Sheep Pox Salve, you need:"
+to french "Pour préparer un onguent contre la vérole du mouton triple dose, il vous faut :";
+
+translate "The salve will be ready in ten minutes."
+to french "L'onguent sera prêt dans dix minutes.";
+
+translate "To make a batch of Essential Extract, used to increase an apiary's wax output, you need:"
+to french "Pour fabriquer de l'extrait essentiel, utilisé pour accroître le rendement de cire d'un rucher, il vous faut :\n";
+
+translate "The Extract will be ready in three minutes."
+to french "L'extrait sera prêt dans trois minutes.";
+
+translate "Upgrade this kitchen with a cook pot"
+to french "Ajouter à votre cuisine un pot à cuisson";
+
+translate "You don't have a cook pot. Talk to someone with a forge."
+to french "Vous n'avez pas de pot à cuisson. Contactez quelqu'un possédant une forge.";
+
+translate "You don't have the Cooking skill."
+to french "Vous ne savez pas cuisiner.";
+
+translate "Mix how much O1?"
+to french "Mélanger quelle quantité de O1(ns) ?";
+
+translate "Clean out the cook pot"
+to french "Nettoyer le pot à cuisson";
+
+translate "Cook"
+to french "Cuire";
+
+translate "You can't do this during a development or demo session."
+to french "Impossible durant une session de développement ou de démonstration.";
+
+translate "Name of Recipe?"
+to french "Nom de la recette ?";
+translate "K1"
+to french "K1";
+
+translate "Cooking..."
+to french "Cuisson...";
+
+translate "O1-O2"
+to french "O1(ns)-O2(ns)";
+
+translate "Bitterness"
+to french "Amertume";
+
+translate "Sourness"
+to french "Acidité";
+
+translate "Saltiness"
+to french "Salinité";
+
+translate "Sweetness"
+to french "Saveur sucrée";
+
+translate "Spiciness"
+to french "Epices";
+
+translate "Richness"
+to french "Richesse";
+
+translate "Fragrance"
+to french "Odeur";
+
+translate "Vegetal Taste"
+to french "Goût de plantes";
+
+translate "Fruitiness"
+to french "Goût de fruits";
+
+translate "Fish Flavor"
+to french "Goût de poisson";
+
+translate "Creaminess"
+to french "Onctuosité";
+
+translate "Crunchyness"
+to french "Croustillant";
+
+translate "Watery Nature"
+to french "Abondance d'eau";
+
+translate "Softness"
+to french "Douceur";
+
+translate "Greasiness"
+to french "Saveur grasse";
+
+translate "Chewiness"
+to french "Saveur caoutchouteuse";
+
+translate "Blandness"
+to french "Fadeur";
+
+translate "Pungence"
+to french "Apreté";
+
+translate "You didn't make anything filling enough to be worth eating."
+to french "Vous n'avez pas réussi à faire un repas assez nourrissant pour qu'il vaille la peine d'être mangé.";
+
+translate "The N1 in the N2 complimented the N3 in the N4."
+to french "Le N1 du N2 a bien relevé le N3 du N4.";
+
+translate "But, the N1 in the N2 clashed with the N3 in the N4."
+to french "Mais le N1 du N2 a gâché le N3 du N4.";
+
+translate "You made enough for N1 servings."
+to french "Vous avez assez pour N1 repas.";
+
+translate "Nutrition is N1"
+to french "Qualités nutritives : N1";
+
+translate "Eat some K1"
+to french "Manger du K1";
+
+translate "Eating some K1."
+to french "Manger du K1.";
+
+translate "The K1 had no effect on you."
+to french "K1 n'a pas d'effet sur vous.";
+
+translate "The K1 had the following effect:"
+to french "K1 entraîne sur vous les effets suivants :";
+
+translate "The effect will last N1 minutes N2 seconds."
+to french "Les effets dureront N1 minutes N2 secondes.";
+translate "The effect will last N1 minutes."
+to french "Les effets dureront N1 minutes.";
+translate "The effect will last N1 seconds."
+to french "Les effets dureront N1 secondes.";
+
+translate "Recipe: K1 affected U1:"
+to french "Recette : K1 a affecté U1(name) :";
+
+translate "Your Gastronomy skill of N1 isn't high enough to evaluate the dish."
+to french "Vos connaissances gastronomiques de N1 ne sont pas assez élevées pour évaluer ce plat.";
+
+translate "With your Gastronomy skill of N1, you rate the flavor O1."
+to french "Avez vos connaissances en gastronomie, vous notez l'aspect O1(ns) dans ce plat";
+
+translate "Nothing special about the dish."
+to french "Ce plat ne dégage rien de particulier.";
+
+translate "You have tasted other dishes like this. Your Gastronomy skill is unchanged."
+to french "Vous avez déjà goûté ce genre de cuisine. Vous n'apprenez rien.";
+
+translate "Your Gastronomy skill went up to N1."
+to french "Vous progressez en gastronomie et passez à N1.";
+
+translate "Cook!"
+to french "Au travail !";
+
+translate "You need 10 flax seeds."
+to french "Il vous faut 10 graines de lin.";
+
+translate "You don't have any cabbage."
+to french "Vous n'avez pas de chou.";
+
+translate "You need 2 lumps of beeswax."
+to french "Il vous faut 2 mesures de cire d'abeilles.";
+
+translate "O1(+N1)"
+to french "O1(ns)(+N1)";
+translate "O1(-N1)"
+to french "O1(ns)(-N1)";
+
+translate "strength(+N1)"
+to french "Force(+N1)"; 
+translate "dexterity(+N1)"
+to french "Dextérité(+N1)"; 
+translate "endurance(+N1)"
+to french "Endurance(+N1)";
+translate "speed(+N1)"
+to french "Vitesse(+N1)";
+translate "constitution(+N1)"
+to french "Constitution(+N1)";
+translate "focus(+N1)"
+to french "Concentration(+N1)"; 
+translate "perception(+N1)"
+to french "Perception(+N1)"; 
+translate "strength(-N1)"
+to french "Force(-N1)"; 
+translate "dexterity(-N1)"
+to french "Dextérité(-N1)"; 
+translate "endurance(-N1)"
+to french "Endurance(-N1)";
+translate "speed(-N1)"
+to french "Vitesse(-N1)";
+translate "constitution(-N1)"
+to french "Constitution(-N1)";
+translate "focus(-N1)"
+to french "Concentration(-N1)"; 
+translate "perception(-N1)"
+to french "Perception(-N1)"; 
+
+translate "K1 N1 Servings remain"
+to french "K1 N1 repas restant";
+
+translate "Make the cookpot private"
+to french "Restreindre l'usage du pot à cuisson";
+
+translate "Make the cookpot public"
+to french "Autoriser l'usage du pot à cuisson";
+
+translate HarvestElixer to french masculine
+{
+	ns "Elixir-engrais"; np "Elixir-engrais";
+	}
+
+translate "Harvest Elixer"
+to french "Elixir-engrais";
+
+translate "To make a batch of Harvest Elixer, you need:"
+to french "Pour faire de l'élixir-engrais, il vous faut :";
+
+translate "The Harvest Elixer will be ready in five minutes."
+to french "L'élixir-engrais sera prêt dans cinq minutes.";
+
+translate "Ownership/Cookpot can be emptied by"
+to french "Propriété/Le pot à cuisson peut être utilisé par";
+
+translate "Ownership/Permission for Emptying/"
+to french "Propriété/Permission de vider/";
+
+translate "Cookpot can be emptied by"
+to french "Le pot à cuisson peut être vidé par";
+
+translate "Permission for Emptying"
+to french "Permission de vider";
+
+translate "Show the recipe"
+to french "Afficher la recette";
+
+translate "Are you sure you want to clean this cookpot?"
+to french "Voulez-vous vraiment nettoyer ce récipient ?";
+
+translate "You don't have permission to empty the cookpot. Elders may change this level."
+to french "Vous n'avez pas la permission de vider ce récipient. Les Sages peuvent modifier cela.";
+
+translate "Recipe is:"
+to french "Recette :";
+
+translate "N1 K1. " to french "N1 K1. ";
+translate "N1 O1. " to french "N1 O1(ns). ";
+translate "O1. N1 " to french "N1 O1(ns). ";
+
+
+translate "Record Recipe"
+to french "Enregistrer la recette";
+
+translate "Recipe stored in slot N1"
+to french "Recette enregistrée à la page N1";
+
+translate "Stored Recipes"
+to french "Livre de recettes";
+
+translate "Slot N1 (previously: K1)"
+to french "Page N1 (anciennement : K1)";
+
+translate "You cannot use a stored recipe unless the cookpot is empty."
+to french "Vous ne pouvez pas utiliser une recette si le récipient n'est pas vide.";
+
+translate "Eat some Grilled Fish"
+to french "Manger du poisson grillé";
+
+translate "You cannot clean a locked pot unless it's empty or you cooked it yourself."
+to french "Vous ne pouvez nettoyer un récipient barré moins qu'il ne soit vide, ou que vous ayez cuit la recette vous-même.";
+
+translate "Your dish is a Masterpiece! Invite those pursuing gastronomy to sample the extraordinary flavor."
+to french "Votre plat est un chef-d'oeuvre ! Invitez des adeptes de gastronomie à goûter cette saveur extraordinaire .";
+
+translate "The combination of o1 and o2 in this recipe is particularly delicious."
+to french "La combinaison de o1(ns) and o2(ns) dans cette recette est particulièrement délicieuse .";
+
+translate ", but for some reason the  o1 and o2 didn't go together that well."
+to french ", mais pour une raison quelconque, o1(ns) et o2(ns) n'allaient pas très bien ensemble.";
+
+translate "Food will remain fresh for about K1 (N1 Servings)"
+to french "La nourriture sera encore fraîche pendant K1 (N1 portions)";
+
+translate "The food looks a bit iffy, and has an odd smell."
+to french "La nourriture semble un peu bizarre, et a une drôle d'odeur";
+
+translate "The food is spoiled."
+to french "La nourriture est avariée";
+
+translate "This dish is a masterpiece"
+to french "Ce plat est un chef-d'oeuvre";
+
+translate "Enjoy the food"
+to french "Manger de ce plat";
+
+translate "Yuck! It's spoiled!"
+to french "Beurk ! C'est infect !";
+
+translate "Uhhh... You don't feel so good!"
+to french "Oh oh... Vous ne vous sentez pas bien !";
+
+translate "You eat a bit, but the food doesn't really do anything for you."
+to french "Vous goûtez, mais ce plat ne vous fait aucun effet";
+
+translate "You sample the expertly prepared cuisine, but alas, your palate is familiar with these flavors. Your gastronomy skill remains at N1"
+to french "Vous goûtez cette cuisine de maître, mais malheureusement, votre palais est familier à ces parfums. Votre gastronomie reste à N1";
+
+translate "Magnificent! The flavors do a dance on your palate, a waltz if you are not mistaken. Your Gastronomy skill is now N1"
+to french "Magnifique ! Les saveurs dansent dans votre palais, une valse si vous devinez juste. Votre compétence en gastronomie est maintenant de N1";
+
+translate "What a delicious pairing of flavors! Your Gastronomy skill is now N1"
+to french "Quel délicieux mélange de saveurs ! Votre gastronomie est maintenant de N1";
+
+translate "Huh, that food is pretty good. Your Gastronomy skill is now N1"
+to french "Ce plat est assez bon. Vos connaissances en gastronomie sont maintenant de N1";
+
+translate "Hmm, fancy grub ain't bad. Your Gastronomy skill is now N1"
+to french "Hmm, pas trop mal. Votre compétence en gastronomie est maintenant de N1";
+
+translate "You eat some K1"
+to french "Vous mangez K1";
+
+translate "You complete the dish."
+to french "Vous cuisinez le plat";
+
+translate "Special Mix"
+to french "Mélange spécial";
+
+translate "Separate Coconut Meat and Coconut Water"
+to french "Séparer le lait de noix de coco et la pulpe";
+
+translate "You need at least 7 pieces of food in the pot to make a serving."
+to french "Vous avez besoin d'au moins 7 items dans la cuisine pour pouvoir faire une plat.";
+
+translate "Recipe names longer than 60 characters are not permitted.  Please try a shorter name"
+to french "Maximum de 60 caractères. Choisissez un nom plus court.";
+
+translate "Critically evaluate this dish"
+to french "Évaluer ce plat";
+
+translate "O1(+N1)"
+to french "O1(ns)(+N1)";
+translate "O1(-N1)"
+to french "O1(ns)(-N1)";
+translate "strength(+N1)"
+to french "Force(+N1)"; 
+translate "dexterity(+N1)"
+to french "Dextérité(+N1)"; 
+translate "endurance(+N1)"
+to french "Endurance(+N1)";
+translate "speed(+N1)"
+to french "Vitesse(+N1)";
+translate "constitution(+N1)"
+to french "Constitution(+N1)";
+translate "focus(+N1)"
+to french "Concentration(+N1)"; 
+translate "perception(+N1)"
+to french "Perception(+N1)"; 
+translate "strength(-N1)"
+to french "Force(-N1)"; 
+translate "dexterity(-N1)"
+to french "Dextérité(-N1)"; 
+translate "endurance(-N1)"
+to french "Endurance(-N1)";
+translate "speed(-N1)"
+to french "Vitesse(-N1)";
+translate "constitution(-N1)"
+to french "Constitution(-N1)";
+translate "focus(-N1)"
+to french "Concentration(-N1)"; 
+translate "perception(-N1)"
+to french "Perception(-N1)"; 
+
+translate "O1: N1"
+to french "O1(ns) N1";
+translate "O1: -N1"
+to french "O1(ns): -N1";
+translate "Strength: N1"
+to french "Force: N1"; 
+translate "Dexterity: N1"
+to french "Dextérité: N1"; 
+translate "Endurance: N1"
+to french "Endurance: N1";
+translate "Speed: N1"
+to french "Vitesse: N1";
+translate "Constitution: N1"
+to french "Constitution: N1";
+translate "Focus: N1"
+to french "Concentration: N1"; 
+translate "Perception: N1"
+to french "Perception: N1"; 
+translate "Strength: -N1"
+to french "Force: -N1"; 
+translate "Dexterity: -N1"
+to french "Dextérité: -N1"; 
+translate "Endurance: -N1"
+to french "Endurance: -N1";
+translate "Speed: -N1"
+to french "Vitesse: -N1";
+translate "Constitution: -N1"
+to french "Constitution: -N1";
+translate "Focus: -N1"
+to french "Concentration: -N1"; 
+translate "Perception: -N1"
+to french "Perception: -N1"; 
+
+translate "Effect: K1"
+to french "Durée: K1";
+
+translate "Cook (Iron Pot)"
+to french "Cuire (Pot de cuisson en fer)";
+
+translate "Cook (Copper Pot)"
+to french "Cuire (Pot de cuisson en cuivre)";
+
+translate "Upgrade this Kitchen with an Iron Cookpot"
+to french "Doter cette cuisine d'un pot de cuisson en fer";
+
+translate "You need an Iron Cookpot to upgrade the Kitchen."
+to french "Il vous faut un pot de cuisson en fer pour améliorer cette cuisine.";
+
+translate "Upgrade this Kitchen with a Copper Cookpot"
+to french "Doter cette cuisine d'un pot de cuisson en cuivre";
+
+translate "You need a Copper Cookpot to upgrade the Kitchen."
+to french "Il vous faut un pot de cuisson en cuivre pour améliorer cette cuisine.";
+
+translate "You sample the expertly prepared cuisine, but alas, your palate is familiar with these flavors. Your gastronomy skill remains at N1"
+to french "Vous goûtez le met délicat, mais hélas, votre palais est familier avec ces saveurs. Votre compétence gastronomique reste à N1";
+
+translate "What a delicious pairing of flavors! Your Gastronomy skill is now N1."
+to french "Quelle combinaison astucieuse de saveurs ! Votre compétence gastronomique est désormais de N1.";
+
+translate "Coconuts"
+to french "Noix de coco";
+
+translate "Crush Cabbage for Cabbage juice"
+to french "Broyer des choux pour produire du jus de choux";
+
+translate "You don't have any Cabbage."
+to french "Vous n'avez pas de choux.";
+
+translate "The humble flavors of this dish touch you on an emotional level. A tear, a gasp! Delightful! Your Gastronomy skill is now N1."
+to french "Les saveurs humbles de ce met éveillent vos sens émotionnels. Une larme, un halètement ! Délicieux ! Votre compétence gastronomique est maintenant de N1.";
+
+translate "Critical evaluation would not be in the spirit of the festival!"
+to french "Evaluer le plat ne serait pas dans l'esprit de ce festival !";
+
+translate "Prevent people from eating multiple meals quickly"
+to french "Empêcher les gourmands de manger plusieurs plats trop rapidement";
+
+translate "Hide Recipes to Non Guild Members"
+to french "Cacher les recettes aux non membres de la guilde";
+
+// Portable Food //
+
+translate "To Go"
+to french "A emporter";
+
+translate "Bag Lunch"
+to french "Sachet repas";
+
+translate "Box Lunch"
+to french "Ration repas";
+
+translate "Make some Bag Lunches"
+to french "Préparer des sachets repas";
+
+translate "Make some Box Lunches"
+to french "Préparer des rations repas";
+
+translate "You must first name your recipe."
+to french "Vous devez d'abord nommer votre recette.";
+
+translate "How many K1 O1?"
+to french "Combien de O1(np) de K1 ?";
+
+translate "Eww, the food was spoiled!"
+to french "Beurk, la nourriture est avariée !";
+
+translate "You enjoy the dish greatly. Your Gastronomy skill is now N1."
+to french "Vous appréciez grandement ce plat. Votre compétence gatronomique est maintenant de N1";

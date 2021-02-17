@@ -1,0 +1,21 @@
+Module MiscPortables_fre;
+
+translate MilkyElixirOfTravel to french masculine
+{ ns "Elixir laiteux du voyage"; np "Elixir laiteux du voyage"; }
+
+translate ClearElixirOfTravel to french masculine
+{ ns "Elixir clair du voyage"; np "Elixir clair du voyage"; }
+
+translate GlassElixirOfTravel to french masculine
+{ ns "Elixir translucide du voyage"; np "Elixir translucide du voyage"; }
+
+translate CrystalElixirOfTravel to french masculine
+{ ns "Elixir cristalin du voyage"; np "Elixir crystalin du voyage"; }
+
+translate DiamondElixirOfTravel to french masculine
+{ ns "Elixir diamant du voyage"; np "Elixir diamant du voyage"; }
+
+translate "You consumed an O1 and have gained K1 travel time."
+to french "Vous avez consommé O1(ns) et avez gagné K1 temps de voyage.";
+
+

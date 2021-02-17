@@ -1,0 +1,908 @@
+module forge_fre;
+
+translate SilverNails to french masculine { ns "Clous en argent"; np "Clous en argent";}
+
+translate foils to french feminine { ns "Feuille(s)"; np "Feuilles";}
+translate platinumfoil to french feminine { ns "Feuille(s) en platine"; np "Feuilles en platine";}
+
+translate Platinium to french masculine { ns "Platine"; np "Platines";}
+
+translate tungsten to french masculine { ns "Tungstène"; np "Tungstène";}
+
+translate TungstenBars to french feminine { ns "Barre de Tungstène"; np "Barres de Tungstène";}
+
+translate titanium to french masculine { ns "Titane"; np "Titane";}
+
+translate "Rusty Small Gear" to french "Petit pignon rouillé";
+
+translate Magnesium to french masculine {  ns "Magnésium"; np "Magnésium";}
+
+translate MagnesiumOre to french masculine {  ns "Minerai de magnésium"; np "Minerai de magnésium";}
+
+translate leadpipe to french masculine {  ns "Tuyau(x) de plomb"; np "Tuyaux de plomb";}
+
+translate Bars to french masculine { ns "Barre"; np "Barres";}
+
+translate copperbars to french feminine { ns "Barre(s) de cuivre"; np "barres de cuivre";}
+translate steelbars to french feminine { ns "Barre(s) d'acier"; np "Barres d'aciers";}
+
+translate AluminumBars to french feminine { ns "Barre(s) d'aluminium"; np "Barres d'aluminium";}
+translate AntimonyBars to french feminine { ns "Barre(s) d'antimoine"; np "Barres d'antimoine";}
+translate BrassBars to french feminine { ns "Barre(s) de laiton"; np "Barres de laiton";}
+translate BronzeBars to french feminine { ns "Barre(s) de bronze"; np "Barres de bronze";}
+translate CopperBars to french feminine { ns "Barre(s) de cuivre"; np "Barres de cuivre";}
+translate GoldBars to french feminine { ns "Barre(s) d'or"; np "Barres d'or";}
+translate IronBars to french feminine { ns "Barre(s) de fer"; np "Barres de fer";}
+translate LeadBars to french feminine { ns "Barre(s) de plomb"; np "Barres de plomb";}
+translate LithiumBars to french feminine { ns "Barre(s) de lithium"; np "Barres de lithium";}
+translate MagnesiumBars to french feminine { ns "Barre(s) de magnésium"; np "Barres de magnésium";}
+translate MetalBlueBars to french feminine { ns "Barre(s) de métal bleu"; np "Barres de métal bleu";}
+translate MoonSteelBars to french feminine { ns "Barre(s) d'acier lunaire"; np "Barres d'acier lunaire";}
+translate OctecsAlloyBars to french feminine { ns "Barre(s) de métal d'Octec"; np "Barres de métal d'Octec";}
+translate PewterBars to french feminine { ns "Barre(s) de fer blanc"; np "Barres de fer blanc";}
+translate PlatinumBars to french feminine { ns "Barre(s) de platine"; np "Barres de platine";}
+translate SilverBars to french feminine { ns "Barre(s) d'argent"; np "Barres d'argent";}
+translate SteelBars to french feminine { ns "Barre(s) d'acier"; np "Barres d'acier";}
+translate SunSteelBars to french feminine { ns "Barre(s) d'acier solaire"; np "Barres d'acier solaire";}
+translate ThothsMetalBars to french feminine { ns "Barre(s) de métal de Thoth"; np "Barres de métal de Thoth";}
+translate TinBars to french feminine { ns "Barre(s) d'étain"; np "Barres d'étain";}
+translate TitaniumBars to french feminine { ns "Barre(s) de titane"; np "Barres de titane";}
+
+translate watermetalbars to french feminine { ns "Barre(s) de métal aqueux"; np "Barres de métal aqueux";}
+
+translate ZincBars to french feminine { ns "Barre(s) de zinc"; np "Barres de zinc";}
+
+translate Gear to french masculine { ns "Pignon"; np "Pignons"; }
+
+translate SmallGear to french masculine { ns "Petit pignon"; np "Petits pignons"; }
+
+translate "Small Gear" to french "Petits Pignons";
+translate "Make 1 set of O1" to french "Fabriquer 1 paquet de O1(ns)";
+translate "Make 10 O1" to french "Fabriquer 10 O1(np)";
+translate "Make 5 sets of O1" to french "Faire un batch de 5 paquets de O1(ns)";
+
+translate AluminumSmallGear to french masculine { ns "Petit pignon en Aluminium"; np "Petits pignons en Aluminium"; }
+translate AntimonySmallGear to french masculine { ns "Petit pignon en Antimoine"; np "Petits pignons en Antimoine"; }
+translate BrassSmallGear to french masculine { ns "Petit pignon en Laiton"; np "Petits pignons en Laiton"; }
+translate BronzeSmallGear to french masculine { ns "Petit pignon en Bronze"; np "Petits pignons en Bronze"; }
+translate CopperSmallGear to french masculine { ns "Petit pignon en Cuivre"; np "Petits pignons en Cuivre"; }
+translate GoldSmallGear to french masculine { ns "Petit pignon en Or"; np "Petits pignons en Or"; }
+translate IronSmallGear to french masculine { ns "Petit pignon en Fer"; np "Petits pignons en Fer"; }
+translate LeadSmallGear to french masculine { ns "Petit pignon en Plomb"; np "Petits pignons en Plomb"; }
+translate LithiumSmallGear to french masculine { ns "Petit pignon en Lithium"; np "Petits pignons en Lithium"; }
+translate MagnesiumSmallGear to french masculine { ns "Petit pignon en Magnésium"; np "Petits pignons en Magnésium"; }
+translate MoonSteelSmallGear to french masculine { ns "Petit pignon en Métal Lunaire"; np "Petits pignons en Métal Lunaire"; }
+translate PewterSmallGear to french masculine { ns "Petit pignon en Fer blanc"; np "Petits pignons en Fer blanc"; }
+translate PlatinumSmallGear to french masculine { ns "Petit pignon en Platine"; np "Petits pignons en Platine"; }
+translate SilverSmallGear to french masculine { ns "Petit pignon en Argent"; np "Petits pignons en Argent"; }
+translate SteelSmallGear to french masculine { ns "Petit pignon en Acier"; np "Petits pignons en Acier"; }
+translate SunSteelSmallGear to french masculine { ns "Petit pignon en Métal solaire"; np "Petits pignons en Métal solaire"; }
+translate ThothsMetalSmallGear to french masculine { ns "Petit pignon en métal de Thoth"; np "Petits pignons en métal de Thoth"; }  
+translate TinSmallGear to french masculine { ns "Petit pignon en étain"; np "Petits pignons en étain"; }
+translate TungstenSmallGear to french masculine { ns "Petit pignon en Tungstène"; np "Petits pignons en Tungstène"; }
+translate WaterMetalSmallGear to french masculine { ns "Petit pignon en Métal aqueux"; np "Petits pignons en Métal aqueux"; }
+translate ZincSmallGear to french masculine { ns "Petit pignon en Zinc"; np "Petits pignons en Zinc"; }
+
+translate AluminumMediumGear to french masculine { ns "Pignon moyen en Aluminium"; np "Pignons moyens en Aluminium"; }
+translate AntimonyMediumGear to french masculine { ns "Pignon moyen en Antimoine"; np "Pignons moyens en Antimoine"; }
+translate BrassMediumGear to french masculine { ns "Pignon moyen en Laiton"; np "Pignons moyens en Laiton"; }
+translate BronzeMediumGear to french masculine { ns "Pignon moyen en Bronze"; np "Pignons moyens en Bronze"; }
+translate CopperMediumGear to french masculine { ns "Pignon moyen en Cuivre"; np "Pignons moyens en Cuivre"; }
+translate GoldMediumGear to french masculine { ns "Pignon moyen en Or"; np "Pignons moyens en Or"; }
+translate IronMediumGear to french masculine { ns "Pignon moyen en Fer"; np "Pignons moyens en Fer"; }
+translate LeadMediumGear to french masculine { ns "Pignon moyen en Plomb"; np "Pignons moyens en Plomb"; }
+translate LithiumMediumGear to french masculine { ns "Pignon moyen en Lithium"; np "Pignons moyens en Lithium"; }
+translate MagnesiumMediumGear to french masculine { ns "Pignon moyen en Magnésium"; np "Pignons moyens en Magnésium"; }
+translate MoonSteelMediumGear to french masculine { ns "Pignon moyen en Métal Lunaire"; np "Pignons moyens en Métal Lunaire"; }
+translate OctecsAlloyMediumGear to french masculine { ns "Pignon moyen en Métal d'Octec"; np "Pignons moyens en Métal d'Octec"; }
+translate PewterMediumGear to french masculine { ns "Pignon moyen en Fer blanc"; np "Pignons moyens en Fer blanc"; }
+translate PlatinumMediumGear to french masculine { ns "Pignon moyen en Platine"; np "Pignons moyens en Platine"; }
+translate SilverMediumGear to french masculine { ns "Pignon moyen en Argent"; np "Pignons moyens en Argent"; }
+translate SteelMediumGear to french masculine { ns "Pignon moyen en Acier"; np "Pignons moyens en Acier"; }
+translate SunSteelMediumGear to french masculine { ns "Pignon moyen en Métal solaire"; np "Pignons moyens en Métal solaire"; }
+translate ThothsMetalMediumGear to french masculine { ns "Pignon moyen en métal de Thoth"; np "Pignons moyens en métal de Thoth"; }  
+translate TinMediumGear to french masculine { ns "Pignon moyen en étain"; np "Pignons moyens en étain"; }
+translate TitaniumMediumGear to french masculine { ns "Pignon moyen en Titane"; np "Pignons moyens en Titane"; }
+translate TungstenMediumGear to french masculine { ns "Pignon moyen en Tungstène"; np "Pignons moyens en Tungstène"; }
+translate WaterMetalMediumGear to french masculine { ns "Pignon moyen en Métal aqueux"; np "Pignons moyens en Métal aqueux"; }
+translate ZincMediumGear to french masculine { ns "Pignon moyen en Zinc"; np "Pignons moyens en Zinc"; }
+
+translate AluminumLargeGear to french masculine { ns "Grand Pignon en Aluminium"; np "Grands Pignons en Aluminium"; }
+translate AntimonyLargeGear to french masculine { ns "Grand Pignon en Antimoine"; np "Grands Pignons en Antimoine"; }
+translate BrassLargeGear to french masculine { ns "Grand Pignon en Laiton"; np "Grands Pignons en Laiton"; }
+translate BronzeLargeGear to french masculine { ns "Grand Pignon en Bronze"; np "Grands Pignons en Bronze"; }
+translate CopperLargeGear to french masculine { ns "Grand Pignon en Cuivre"; np "Grands Pignons en Cuivre"; }
+translate GoldLargeGear to french masculine { ns "Grand Pignon en Or"; np "Grands Pignons en Or"; }
+translate IronLargeGear to french masculine { ns "Grand Pignon en Fer"; np "Grands Pignons en Fer"; }
+translate LeadLargeGear to french masculine { ns "Grand Pignon en Plomb"; np "Grands Pignons en Plomb"; }
+translate LithiumLargeGear to french masculine { ns "Grand Pignon en Lithium"; np "Grands Pignons en Lithium"; }
+translate MagnesiumLargeGear to french masculine { ns "Grand Pignon en Magnésium"; np "Grands Pignons en Magnésium"; }
+translate MetalBlueLargeGear to french masculine { ns "Grand Pignon en Métal Bleu"; np "Grands Pignons en Métal Bleu"; }
+translate MoonSteelLargeGear to french masculine { ns "Grand Pignon en Métal Lunaire"; np "Grands Pignons en Métal Lunaire"; }
+translate OctecsAlloyLargeGear to french masculine { ns "Grand Pignon en Métal d'Octec"; np "Grands Pignons en Métal d'Octec"; }
+translate PewterLargeGear to french masculine { ns "Grand Pignon en Fer blanc"; np "Grands Pignons en Fer blanc"; }
+translate PlatinumLargeGear to french masculine { ns "Grand Pignon en Platine"; np "Grands Pignons en Platine"; }
+translate SilverLargeGear to french masculine { ns "Grand Pignon en Argent"; np "Grands Pignons en Argent"; }
+translate SteelLargeGear to french masculine { ns "Grand Pignon en Acier"; np "Grands Pignons en Acier"; }
+translate ThothsMetalLargeGear to french masculine { ns "Grand Pignon en métal de Thoth"; np "Grands Pignons en métal de Thoth"; }  
+translate TinLargeGear to french masculine { ns "Grand Pignon en étain"; np "Grands Pignons en étain"; }
+translate TitaniumLargeGear to french masculine { ns "Grand Pignon en Titane"; np "Grands Pignons en Titane"; }
+translate TungstenLargeGear to french masculine { ns "Grand Pignon en Tungstène"; np "Grands Pignons en Tungstène"; }
+translate WaterMetalLargeGear to french masculine { ns "Grand Pignon en Métal aqueux"; np "Grands Pignons en Métal aqueux"; }
+translate ZincLargeGear to french masculine { ns "Grand Pignon en Zinc"; np "Grands Pignons en Zinc"; }
+
+translate Flywheel to french { ns "Roue"; np "Roues"; }
+translate SmallFlywheel to french { ns "Petite Roue"; np "Petites Roues"; }
+translate MediumFlywheel to french { ns "Moyenne Roue"; np "Moyennes Roues"; }
+translate LargeFlywheel to french { ns "Grande Roue"; np "Grandes Roues"; }
+
+translate AntimonySheeting to french masculine { ns "Revêtement(s) d'antimoine"; np "Revêtements d'antimoine"; }
+translate thothsmetalsheeting to french masculine { ns "Revêtement(s) de métal de Thoth"; np "Revêtements de métal de Thoth"; }
+translate steelsheeting to french masculine { ns "Revêtement(s) d'acier"; np "Revêtements d'acier"; }
+translate LithiumSheeting to french masculine { ns "Revêtement(s) de lithium"; np "Revêtements de lithium"; }
+translate platinumsheeting to french masculine { ns "Revêtement(s) de platine"; np "Revêtements de platine"; }
+translate AluminumSheeting to french masculine { ns "Revêtement(s) d'aluminium"; np "Revêtements d'aluminium"; }
+translate brasssheeting to french masculine { ns "Revêtement(s) de laiton"; np "Revêtements de laiton";}
+translate bronzesheeting to french masculine { ns "Revêtement(s) en bronze"; np "Revêtements en bronze";}
+translate ironsheeting to french masculine { ns "Revêtement(s) en fer"; np "Revêtement(s) en fer";}
+translate magnesiumsheeting to french masculine { ns "Revêtement(s) en magnésium"; np "Revêtements en magnésium";}
+translate pewtersheeting to french masculine { ns "Revêtement(s) en fer blanc"; np "Revêtements en fer blanc";}
+translate sunsteelsheeting to french masculine { ns "Revêtement(s) en acier solaire"; np "Revêtements en acier solaire";}
+translate titaniumsheeting to french masculine { ns "Revêtement(s) en titane"; np "Revêtements en titane";}
+translate watermetalsheeting to french masculine { ns "Revêtement(s) en métal aqueux"; np "Revêtements en métal aqueux";}
+translate zincsheeting to french masculine { ns "Revêtement(s) en zinc"; np "Revêtements en Zinc";}
+translate moonsteelsheeting to french masculine { ns "Revêtement(s) d'acier lunaire"; np "Revêtements d'acier lunaire"; }
+
+translate AntimonyFoil to french feminine { ns "Feuille(s) d'antimoine"; np "Feuilles d'antimoine"; }
+translate AluminumFoil to french feminine { ns "Feuille(s) en aluminium"; np "Feuilles en aluminium"; }
+translate brassfoil to french feminine { ns "Feuille(s) de Laiton"; np "Feuilles de Laiton";}
+translate bronzefoil to french feminine { ns "Feuille(s) de Bronze"; np "Feuilles de Bronze";}
+translate ironfoil to french feminine { ns "Feuille(s) de Fer"; np "Feuilles de Fer";}
+translate lithiumfoil to french feminine { ns "Feuille(s) de Lithium"; np "Feuilles de Lithium";}
+translate magnesiumfoil to french feminine { ns "Feuille(s) de Magnésium"; np "Feuilles de Magnésium";}
+translate metalbluefoil to french feminine { ns "Feuille(s) de métal bleu"; np "Feuilles de métal bleu";}
+translate moonsteelfoil to french feminine { ns "Feuille(s) d'Acier Lunaire"; np "Feuilles d'Acier Lunaire";}
+translate octecsalloyfoil to french feminine { ns "Feuille(s) d'alliage d'Octec"; np "Feuilles d'alliage d'Octec";}
+translate pewterfoil to french feminine { ns "Feuille(s) de Fer blanc"; np "Feuilles de Fer blanc";}
+translate steelfoil to french feminine { ns "Feuille(s) d'Acier"; np "Feuilles d'Acier";}
+translate sunsteelfoil to french feminine { ns "Feuille(s) d'Acier solaire"; np "Feuilles d'Acier solaire";}
+translate thothsmetalfoil to french feminine { ns "Feuille(s) de métal de Thoth"; np "Feuilles de métal de Thoth";}
+translate Tinfoil to french feminine { ns "Feuille(s) d'Etain"; np "Feuilles d'Etain";}
+translate Titaniumfoil to french feminine { ns "Feuille(s) de Titane"; np "Feuilles de Titane";}
+translate Watermetalfoil to french feminine { ns "Feuille(s) de Métal aqueux"; np "Feuilles de Métal aqueux";}
+translate Zincfoil to french feminine { ns "Feuille(s) de Zinc"; np "Feuilles de Zinc";}
+
+translate leadsheeting to french masculine { ns "Revêtement(s) de plomb"; np "Revêtements de plomb"; }
+
+translate leadfoil to french feminine { ns "Feuille(s) en plomb"; np "Feuilles en plomb"; }
+
+translate MediumGear to french masculine { ns "Pignon moyen"; np "Pignons moyens"; }
+
+translate LargeGear to french masculine { ns "Grand pignon"; np "Grands pignons"; }
+
+translate PinchRoller to french masculine { ns "Rouleau à pression"; np "Rouleaux à pression"; }
+
+translate Sheeting to french masculine { ns "Revêtement(s)"; np "Revêtements"; }
+translate CopperSheeting to french masculine { ns "Revêtement(s) de cuivre"; np "Revêtements de cuivre"; }
+translate TinSheeting to french masculine { ns "Revêtement(s) d'étain"; np "Revêtements d'étain"; }
+translate GoldSheeting to french masculine { ns "Revêtement(s) d'or"; np "Revêtements d'or"; }
+translate SilverSheeting to french masculine { ns "Revêtement(s) d'argent"; np "Revêtements d'argent"; }
+translate MetalBlueSheeting to french masculine { ns "Revêtement(s) de métal bleu"; np "Revêtements de métal bleu"; }
+translate OctecsAlloySheeting to french masculine { ns "Revêtement(s) d'alliage d'Octec"; np "Revêtements d'alliage d'Octec"; }
+
+translate ExtrusionPlate to french feminine { ns "Plaque d'extrusion"; np "Plaques d'extrusion"; }
+
+translate CopperPipe to french masculine { ns "Tuyau(x) de cuivre"; np "Tuyaux de cuivre"; }
+
+translate Straps to french masculine { ns "Bande(s)"; np "Bandes"; }
+Translate AluminumStrap to french feminine { ns "Bande(s) d'aluminium"; np "Bandes d'aluminium"; }
+Translate AntimonyStrap to french feminine { ns "Bande(s) d'Antimoine"; np "Bandes d'Antimoine"; }
+Translate BrassStrap to french feminine { ns "Bande(s) de laiton"; np "Bandes de laiton"; }
+Translate BronzeStrap to french feminine { ns "Bande(s) de bronze"; np "Bandes de bronze"; }
+Translate CopperStrap to french feminine { ns "Bande(s) de cuivre"; np "Bandes de cuivre"; }
+Translate GoldStrap to french feminine { ns "Bande(s) d'Or"; np "Bandes d'Or"; }
+Translate IronStrap to french feminine { ns "Bande(s) de fer"; np "Bandes de fer"; }
+Translate LeadStrap to french feminine { ns "Bande(s) de plomb"; np "Bandes de plomb"; }
+Translate LithiumStrap to french feminine { ns "Bande(s) de lithium"; np "Bandes de lithium"; }
+Translate MagnesiumStrap to french feminine { ns "Bande(s) de magnésium"; np "Bandes de magnésium"; }
+Translate MetalBlueStrap to french feminine { ns "Bande(s) de métal bleu"; np "Bandes de métal bleu"; }
+Translate MoonSteelStrap to french feminine { ns "Bande(s) de métal lunaire"; np "Bandes de métail lunaire"; }
+Translate OctecsAlloyStrap to french feminine { ns "Bande(s) de métal d'Octec"; np "Bandes de métal d'Octec"; }
+Translate PewterStrap to french feminine { ns "Bande(s) de fer blanc"; np "Bandes de fer blanc"; }
+Translate PlatinumStrap to french feminine { ns "Bande(s) de platine"; np "Bandes de platine"; }
+Translate SilverStrap to french feminine { ns "Bande(s) d'argent"; np "Bandes d'argent"; }
+Translate SteelStrap to french feminine { ns "Bande(s) d'acier"; np "Bandes d'acier"; }
+Translate SunSteelStrap to french feminine { ns "Bande(s) d'acier solaire"; np "Bandes d'acier solaire"; }
+Translate ThothsMetalStrap to french feminine { ns "Bande(s) de métal de Thoth"; np "Bandes de métal de Thoth"; }
+Translate TinStrap to french feminine { ns "Bande(s) d'étain"; np "Bandes d'étain"; }
+Translate TitaniumStrap to french feminine { ns "Bande(s) de titane"; np "Bandes de titane"; }
+Translate WaterMetalStrap to french feminine { ns "Bande(s) de métal aqueux"; np "Bandes de métal aqueux"; }
+Translate ZincStrap to french feminine { ns "Bande(s) de zinc"; np "Bandes de zinc"; }
+
+translate Copperwire to french masculine { ns "Fils(s) de cuivre"; np "Fils de cuivre"; }
+Translate Aluminumwire to french masculine { ns "Fils(s) d'aluminium"; np "Fils d'aluminium"; }
+translate AluminumWire to french masculine { ns "Fil(s)d'aluminium"; np "Fils d'aluminium"; }
+Translate Antimonywire to french masculine { ns "Fils(s) d'Antimoine"; np "Fils d'Antimoine"; }
+Translate Brasswire to french masculine { ns "Fils(s) de laiton"; np "Fils de laiton"; }
+Translate Bronzewire to french masculine { ns "Fils(s) de bronze"; np "Fils de bronze"; }
+Translate Goldwire to french masculine { ns "Fils(s) d'Or"; np "Fils d'Or"; }
+Translate Ironwire to french masculine { ns "Fils(s) de fer"; np "Fils de fer"; }
+Translate Leadwire to french masculine { ns "Fils(s) de plomb"; np "Fils de plomb"; }
+Translate Lithiumwire to french masculine { ns "Fils(s) de lithium"; np "Fils de lithium"; }
+Translate Magnesiumwire to french masculine { ns "Fils(s) de magnésium"; np "Fils de magnésium"; }
+Translate MetalBluewire to french masculine { ns "Fils(s) de métal bleu"; np "Fils de métal bleu"; }
+Translate MoonSteelwire to french masculine { ns "Fils(s) de métal lunaire"; np "Fils de métail lunaire"; }
+Translate OctecsAlloywire to french masculine { ns "Fils(s) de métal d'Octec"; np "Fils de métal d'Octec"; }
+Translate Pewterwire to french masculine { ns "Fils(s) de fer blanc"; np "Fils de fer blanc"; }
+Translate Platinumwire to french masculine { ns "Fils(s) de platine"; np "Fils de platine"; }
+Translate Silverwire to french masculine { ns "Fils(s) d'argent"; np "Fils d'argent"; }
+Translate Steelwire to french masculine { ns "Fils(s) d'acier"; np "Fils d'acier"; }
+Translate SunSteelwire to french masculine { ns "Fils(s) d'acier solaire"; np "Fils d'acier solaire"; }
+Translate ThothsMetalwire to french masculine { ns "Fils(s) de métal de Thoth"; np "Fils de métal de Thoth"; }
+Translate Tinwire to french masculine { ns "Fils(s) d'étain"; np "Fils d'étain"; }
+Translate Titaniumwire to french masculine { ns "Fils(s) de titane"; np "Fils de titane"; }
+Translate WaterMetalwire to french masculine { ns "Fils(s) de métal aqueux"; np "Fils de métal aqueux"; }
+Translate Zincwire to french masculine { ns "Fils(s) de zinc"; np "Fils de zinc"; }
+translate Wire to french masculine { ns "Fils(s) "; np "Fils"; }
+translate "Wire" to french "Fils métalliques";
+translate SteelWire to french masculine { ns "Fils(s) d'acier"; np "Fils d'acier"; }
+translate CopperWire to french masculine { ns "Fils(s) de cuivre"; np "Fils de cuivre"; }
+translate SilverWire to french masculine { ns "Fils(s) d'argent"; np "Fils d'argent"; }
+translate MagWire to french masculine { ns "Fils(s) de magnésium"; np "Fils de magnésium"; }
+translate MetalBlueWire to french masculine { ns "Fils(s) de métal bleu"; np "Fils de métal bleu"; }
+translate OctecsAlloyWire to french masculine { ns "Fils(s) d'alliage d'Octec"; np "Fils d'alliage d'Octec"; }
+translate ThothsMetalWire to french masculine { ns "Fils(s) de métal de Thoth"; np "Fils de métal de Thoth"; }
+
+translate LeadChisel to french masculine { ns "Ciseau de plomb"; np "Ciseaux de plomb"; }
+
+translate Forge to french feminine { ns "Forge"; np "Forges"; }
+translate StudentsForge to french feminine { ns "forge d'étudiant"; np "forge d'étudiant"; }
+translate MastersForge to french feminine { ns "forge de maître"; np "forge de maître"; }
+translate StudentsCastingBox to french masculine { ns "moule d'étudiant"; np "moules d'étudiant"; }
+translate masterscastingbox to french masculine { ns "moule de maître"; np "moules de maître"; }
+
+translate IronBlade to french feminine { ns "Lame de fer"; np "Lames de fer"; }
+translate SteelBlade to french feminine { ns "Lame d'acier"; np "Lames d'acier"; }
+
+translate GoldFoil to french feminine { ns "Feuille(s) d'or"; np "Feuilles d'or"; }
+
+translate Nails to french masculine {  ns "Clous"; np "Clous"; }
+
+translate Bearings to french masculine { ns "Roulement(s)"; np "Roulements"; }
+
+translate BrassPlate to french feminine { ns "Plaque de laiton"; np "Plaques de laiton"; }
+
+translate AluminumPlate to french feminine { ns "Plaque d'aluminium"; np "Plaques d'aluminium"; }
+
+translate LeadMallet to french masculine { ns "Maillet de plomb"; np "Maillets de plomb"; }
+
+translate IronPot to french masculine { ns "Pot de fer"; np "Pots de fer"; }
+
+translate ScrewGears to french masculine { ns "Engrenage à vis"; np "Engrenages à vis"; }
+
+translate AncientForge to french feminine { ns "Vieille forge"; np "Vieilles forges"; }
+
+translate PincherClaw to french feminin { ns "Pinces"; np "Pinces"; }
+
+translate GoldPanning to french feminine { ns "Recherche d'or"; np "Recherche d'or"; }
+
+translate PincherAxle to french masculine { ns "Essieu de pinces"; np "Essieu de pinces"; }
+
+translate HeavyMalletHead to french masculine { ns "Tête lourde de maillet"; np "Tête lourde de maillet"; }
+
+translate IncenseProng to french masculine { ns "Pic à encens"; np "Pics à encens"; }
+
+translate Washer to french masculine { ns "Rondelle"; np "Rondelles"; }
+
+translate Bolt to french masculine { ns "Boulon"; np "Boulons"; }
+
+translate AnvilBed to french masculine { ns "Socle d'enclume"; np "Socles d'enclume"; }
+
+translate BrassPot to french masculine { ns "Pot de laiton"; np "Pots de laiton"; }
+translate steelpot to french masculine { ns "Pot en acier"; np "Pots en acier"; }
+
+translate HeavyLeadBowl to french masculine { ns "Récipient de plomb"; np "Récipient de plomb"; }
+
+translate coppercookpots to french masculine { ns "Pot de cuisson en cuivre"; np "Pots de cuisson en cuivre"; }
+
+translate SilverBowl to french masculine { ns "Récipient d'argent"; np "Récipients d'argent"; }
+
+translate shearingchisel to french masculine { ns "Ciseau de coupe pour joyaux"; np "Ciseaux de coupe pour joyaux";}
+
+translate copperfoil to french feminine { ns "Feuille(s) de cuivre"; np "Feuilles de cuivre"; }
+translate silverfoil to french feminine { ns "Feuille(s) d'argent"; np "Feuilles d'argent"; }
+
+translate Tongs to french feminine { ns "Pincette"; np "Pincettes"; }
+
+translate MWrench to french feminine { ns "Clef à molette"; np "Clefs à molette"; }
+
+translate OriPellet to french feminine { ns "Boulette d'Orichalcum"; np "Boulettes d'Orichalcum"; }
+
+translate pipes to french masculine { ns "Tuyaux"; np "tuyaux"; }
+
+translate "This O1 is lit. It has N1 O2 in the chamber." to french "Le feu de O1(cns) O1(ns) est allumé. O1(^pns) contient N1 O2(N1?np:ns).";
+translate "This O1 is lit." to french "Le feu de O1(cns) O1(ns) est allumé.";
+translate "This O1's fire is out. There is  N1 O2 in the chamber." to french "Le feu de O1(cns) O1(ns) est éteint, et contient N1 O2(N1?np:ns).";
+translate "This O1's fire is out." to french "Le feu de O1(cns) O1(ns) est éteint";
+translate "There is N1 O1 in the chamber." to french "Il y a N1 O1(N1?np:ns) dans le foyer";
+
+translate "Your project is cooling." to french "Votre projet se refroidit.";
+
+translate "Fill this O1 with O2" to french "Remplir O1(cns) O1(ns) de O2(ns)";
+
+translate "Forges" to french "Forges";
+translate "Sheeting" to french "Revêtements";
+translate "Cogs" to french "Rouages";
+translate "Fountain Nozzles" to french "Gicleurs pour fontaine";
+translate "Fuel" to french "Carburants";
+translate "Foils" to french "Feuilles";
+translate "Straps" to french "Bandes";
+translate "Pipes" to french "Tuyaux";
+translate "Plates" to french "Plaques";
+translate "Make Iron Cookpot" to french "Forger un pot de cuisson en fer";
+translate "Make Stainless Steel Pot" to french "Forger un pot en acier inoxydable";
+translate "Make Brass Pot" to french "Forger un pot en laiton";
+translate "Make Iron Pot" to french "Forger un pot en fer";
+
+translate "Gem Shearing Chisel" to french "Ciseaux de coupe pour joyaux";
+
+translate "Make a Gem Shearing Chisel" to french "Forger un ciseaux de coupe pour joyaux";
+
+translate "Nails" to french "Clous";
+
+//translate "A Gem Shearing Chisel requires 7 Moonsteel,\n(Stainless),\n(Hard)\n of Purity 4 or higher"
+//to french "Nécessite 7 acier lunaire, \ninoxydable, \nDur \n avec une pureté de 4 ou plus";
+
+translate "A Gem Shearing Chisel requires 7 Moonsteel," to french "Nécessite 7 acier lunaire, ";
+translate "(Stainless)," to french "inoxydable,";
+translate "(Hard)" to french "Dur,";
+translate " of Purity 4 or higher" to french " de pureté 4 ou plus";
+
+translate "You need 30 deben of Iron to make a Pinch Roller." to french "Vous avez besoin de 30 deben de Fer pour Forger un rouleau à pression";
+
+translate "Your forge needs 40 deben on Copper to make an Extrusion Plate" to french "Votre forge a besoin de 40 deben de Cuivre pour Forger une plaque d'extrusion";
+
+translate "You need fifteen deben of Gold to forge a Gold Bar." to french "Vous avez besoin de 15 deben d'Or pour forger une Barre(s) en Or";
+
+translate "(Stainless, Insulative, and Non Toxic)," to french "(inoxydable, Isolant, et non toxique,";
+
+translate "Student's Forge" to french "Forge d'étudiant";
+translate "Master's Forge" to french "Forge de maître";
+translate "Student's Casting Box" to french "Moule d'étudiant";
+translate "Master's Casting Box" to french "Moule de maître";
+
+translate "Put out this forge's fire. (Ruins any project in progress.)" to french "Eteindre le feu de cette forge (détruit la progression du travail en cours)";
+
+translate "Start this forge's fire" to french "Lancer le feu dans la forge";
+
+translate "Start fire in this O1" to french "Allumer O1(cns) O1(ns)";
+
+translate "Upgrade" to french "Perfectionner";
+translate "Upgrade this forge with a Nail Mould" to french "Perfectionner cette forge avec un moule à clous";
+translate "Upgrade this forge with a pair of Pinch Rollers" to french "Perfectionner cette forge avec deux rouleaux à pression";
+
+translate "Add how much O1?" to french "Ajouter combien de O1(np) ?";
+
+translate "To build a Students Forge, you need: " to french "Pour construire une forge d'étudiant, il vous faut :";
+translate "To build a Masters Forge, you need: " to french "Pour construire une forge de maître, il vous faut :";
+translate "To build a Student's Casting Box, you need: " to french "Pour construire un moule d'étudiant, il vous faut :";
+translate "To build a Master's Casting Box, you need: " to french "Pour construire un moule de maître, il vous faut :";
+
+translate "Are you sure you want to put out the fire? Doing so will ruin any project that is in progress." to french "Voulez-vous vraiment éteindre le feu ? Si vous le faites, ce que vous étiez en train de Forger sera perdu.";
+
+translate "The fire chamber must have at least N1 deben of O1 to start. N2 deben will be consumed immediately, and N3 additional deben will be consumed per minute." to french "La chambre de combustion doit comporter au moins N1 mesures de O1(ns) pour commencer. ";
+
+translate "The fire on your forge went out." to french "Le feu de votre forge s'est éteint..";
+
+//Missing "Make an Iron blade" entry ?
+translate "You need one deben of iron to make a blade." to french "Il vous faut une mesure de fer pour Forger une lame.";
+translate "You have fashioned an iron blade. The blade will take two minutes to cool." to french "Vous avez fabriqué une lame de fer. Attendez deux minutes qu'elle se refroidisse.";
+translate "Your blade has cooled." to french "Votre lame s'est refroidie";
+
+translate "Make a set of 4 iron blades" to french "Forger une série de 4 lames de fer";
+translate "You need 4 debens of iron to make a set of blades." to french "Il vous faut 4 mesures de fer pour forger une série de lames";
+translate "You have fashioned some O1. They will take K1 to cool." to french "Vous avez fabriqué quelques O1(ns). Cela prendra K1 pour refroidir";
+translate "You have fashioned a set of 4 iron blades. They will take two minutes to cool." to french "Vous avez fabriqué 4 lames de fer. Attendez deux minutes qu'elles se refroidissent.";
+translate "You have fashioned a set of 4 iron blades. They will take six minutes to cool." to french "Vous avez forgé une série de 4 lames de fer. Attendez six minutes qu'elles refroidissent.";
+//Which of the 3 above is correct ?
+translate "Your blades have cooled." to french "Vos lames se sont refroidies";
+
+translate "Iron Pot" to french "Pot en fer";
+translate "Stainless steel Pot" to french "Pot en acier inoxydable";
+translate "Brass pot" to french "Pot en laiton";
+
+translate "Make a steel blade" to french "Forger une lame d'acier.";
+translate "You need five deben of steel to forge a steel blade." to french "Il vous faut cinq debens d'acier pour forger une lame d'acier.";
+translate "You have fashioned a Steel Blade. It will take ten minutes to cool." to french "Vous avez créé une lame d'acier. Elle sera prête dans dix minutes.";
+translate "Your steel blade has cooled." to french "Votre lame d'acier est prête.";
+
+translate "Make a set of 4 steel blades" to french "Forger une série de 4 lames d'acier";
+translate "You need 4 debens of steel to make a set of blades." to french "Il vous faut 4 mesures d'acier pour forger une série de lames";
+translate "Your blades have cooled." to french "Vos lames se sont refroidies.";
+// Need in-game confirmation for both solo and 4-set of everything
+
+translate "Make O1" to french "Forger O1(uns)/O1(unp) O1(ns)";
+
+translate "To make a Brass Plate you need:" to french "Pour Forger des plaques de laiton, vous avez besoin de:";
+
+translate "You need five deben of steel to forge a Steel Bar." to french "Il vous faut cinq mesures d'acier pour forger une Barre(s) d'acier.";
+
+translate "You need two deben of iron to forge an Iron Bar." to french "Il vous faut deux mesures de fer pour forger une Barre(s) de fer.";
+translate "You have fashioned an Iron Bar. It will take fifteen minutes to cool." to french "Vous avez forgé une Barre(s) de fer. Attendez quinze minutes qu'elle refroidisse.";
+translate "Your Iron Bar has cooled." to french "Votre Barre(s) de fer est refroidie.";
+
+translate "You need twenty deben of Gold to forge an Gold Bar." to french "Il vous faut vingt mesures d'or pour forger une Barre(s) d'or.";
+translate "Making an Gold Bar" to french "Fabrication d'une Barre(s) d'or";
+translate "You have fashioned an Gold Bar. It will take five minutes to cool." to french "Vous avez forgé une Barre(s) d'or. Attendez cinq minutes qu'elle refroidisse.";
+translate "Your Gold Bar has cooled." to french "Votre Barre(s) d'or est refroidie.";
+
+translate "You need twenty deben of Silver to forge an Silver Bar." to french "Il vous faut vingt mesures d'argent pour forger une Barre(s) d'argent.";
+translate "Making an Silver Bar" to french "Fabrication d'une Barre(s) d'argent";
+translate "You have fashioned an Silver Bar. It will take ten minutes to cool." to french "Vous avez forgé une Barre(s) d'argent. Attendez dix minutes qu'elle refroidisse.";
+translate "Your silver bar has cooled." to french "Votre Barre(s) d'argent est refroidie.";
+
+translate "You'll need a Nail Mould." to french "Vous avez besoin d'un moule à clous. Trouvez un tailleur de pierres pour vous aider.";
+
+translate "You'll need two Pinch Rollers. These can be made at a master's forge." to french "Il vous faut deux rouleaux à pression. Ils peuvent être fabriqués dans une forge de maître.";
+
+translate "Make some Copper Sheeting" to french "Forger des revêtements de cuivre";
+translate "You'll need six deben of Copper." to french "Il vous faut six mesures de cuivre.";
+translate "You have made some Copper Sheeting. It will take one minute to cool." to french "Vous avez forgé un Revêtement(s) de cuivre. Attendez une minute qu'il refroidisse.";
+translate "Your Copper Sheeting is ready." to french "Votre Revêtement(s) de cuivre est prêt.";
+
+translate "Make a set of copper straps" to french "Forger une série de bandes de cuivre";
+translate "Make a Copper Strap" to french "Forger une Bande(s) de cuivre";
+translate "Your forge needs 3 deben of copper to make a set of copper straps." to french "Votre forge nécessite 3 mesure de cuivre pour donner une série de bandes de cuivre.";
+// 2 "set of copper straps here", need- in-game confirmation but sounds wrong
+translate "Your forge needs 3 deben of Copper to make a Copper Strap." to french "Votre forge nécessite 3 mesure de cuivre pour donner une Bande(s) de cuivre.";
+translate "You have made a Copper Strap. It will take two minutes to cool." to french "Vous avez forgé une Bande(s) de cuivre. Attendez deux minutes qu'elle refroidisse.";
+translate "Your Copper Strap is ready." to french "Votre Bande(s) de cuivre est prête.";
+
+translate "Make an Iron Strap" to french "Forger une Bande(s) de fer";
+translate "Your forge needs 2 deben of Iron to make a Iron Strap." to french "Votre forge nécessite 2 mesure de fer pour donner une Bande(s) de fer.";
+translate "You have made a Iron Strap. It will take three minutes to cool." to french "Vous avez forgé une Bande(s) de fer. Attendez trois minutes qu'elle refroidisse.";
+translate "Your Iron Strap is ready." to french "Votre Bande(s) de fer est prête.";
+
+translate "Make an Aluminum Strap" to french "Forger une Bande(s) d'aluminium";
+translate "Your forge needs 5 deben of Aluminum to make a Aluminum Strap." to french "Votre forge nécessite 5 mesure d'aluminium pour donner une Bande(s) de fer.";
+translate "You have made a Aluminum Strap. It will take one minute to cool." to french "Vous avez forgé une Bande(s) d'aluminium. Attendez une minutes qu'elle refroidisse.";
+translate "Your Aluminum Strap is ready." to french "Votre Bande(s) d'aluminium est prête.";
+
+translate "Steam Mechanics" to french "Mécaniques à vapeur";
+translate "Make some Lead Pipe" to french "Fabriquez des tuyeaux de plomb";
+translate "Make some Lead Sheeting" to french "Fabriquez des revêtements en plomb";
+translate "Make a Large Flywheel" to french "Fabriquez un grand volant";
+translate "Make a Medium Flywheel" to french "Fabriquez un volant moyen";
+translate "Make a small Flywheel" to french "Fabriquez un petit volant";
+
+translate "To make a Medium Flywheel you need:" to french "Pour Forger un volant moyen, vous avez besoin de:";
+
+translate "To make a Small Flywheel you need:" to french "Pour Forger un petit volant, vous avez besoin de:";
+
+translate "Make a Water Metal Strap" to french "Forger une Bande(s) de métal aqueux";
+translate "Your forge needs 5 deben of Water Metal to make a Water Metal Strap." to french "Votre forge nécessite 5 mesure de métal aqueux pour donner une Bande(s) de fer.";
+translate "You have made a Water Metal Strap. It will take one minute to cool." to french "Vous avez forgé une Bande(s) de métal aqueux. Attendez une minutes qu'elle refroidisse.";
+translate "Your Water Metal Strap is ready." to french "Votre Bande(s) de métal aqueux est prête.";
+
+translate "Bars" to french "Barres";
+
+translate "Make some Steel Wire" to french "Forger du Fil(s)d'acier";
+translate "Your forge needs 2 deben of steel to make Steel Wire." to french "Votre forge a besoin de deux mesures d'acier pour donner du Fil(s)d'acier";
+translate "You have made some Steel Wire. It will take five minutes to cool." to french "Vous avez forgé du Fil(s)d'acier. Attendez cinq minutes qu'il refroidisse.";
+translate "Your Steel Wire is ready." to french "Votre Fil(s)d'acier est prêt.";
+
+translate "Make some Copper Wire" to french "Forger du Fil(s)de cuivre";
+translate "Your forge needs 2 deben of copper to make Copper Wire." to french "Votre forge a besoin de 2 mesures de cuivre pour donner du Fil(s)de cuivre.";
+translate "You have made some Copper Wire. It will take five minutes to cool." to french "Vous avez forgé du Fil(s)de cuivre. Attendez cinq minutes qu'il refroidisse.";
+translate "Your Copper Wire is ready." to french "Votre Fil(s)de cuivre est prêt.";
+
+translate "Make some Gold Wire" to french "Forger du Fil(s)d'or";
+translate "Your forge needs 1 deben of Gold to make Gold Wire." to french "Votre forge a besoin d'1 mesure d'or pour donner du Fil(s)d'or";
+translate "You have made some Gold Wire. It will take ten minutes to cool." to french "Vous avez forgé du Fil(s)d'or. Attendez dix minutes qu'il refroidisse.";
+translate "Your Gold Wire is ready." to french "Votre Fil(s)d'or est prêt";
+
+translate "N1 minutes to cool." to french "N1 minutes pour refroidir";
+
+//translate "You have made some Gold Sheeting. It will take 10 minutes to cool." 
+//to french "Vous avez fait des revêtements d'or. Cela prendra 10 minutes pour refroidir";
+
+translate "You have made some O1. It will take K1 to cool." to french "Vous avez fabriqué du O1(ns)). Cela prendra K1 ";
+
+translate "Make a Pinch Roller" to french "Forger un rouleau à pression";
+translate "You need 40 deben of Iron to make a Pinch Roller." to french "Il vous faut 40 mesures de fer pour Forger un rouleau à pression";
+translate "Pinch rollers are massive 80 deben iron cylinders. Since your forge is not close enough to water to use that as a cooling source, cooling them will take 12 hours. Proceed anyway?" to french "Les rouleaux à pression sont de gros cylindres de 80 mesures de fer. Comme votre forge n'est pas assez proche de l'eau pour l'utiliser comme source de refroidissement, il faudra 12 heures pour les refroidir. Voulez-vous quand même lancer le processus ?";
+translate "Pinch Roller will be done in N1" to french "Le rouleau à pression sera fabriqué dans N1.";
+// Is this correct ? looks like it would say "Pinch roller will be done in 15".
+translate "Your Pinch Roller is ready." to french "Votre rouleau à pression est prêt.";
+
+translate "Make a batch of Nails" to french "Forger une série de clous";
+translate "Make a batch of O1" to french "Forger une série de O1(ns)";
+translate "You need one deben of Iron to make a batch of O1." to french "Il vous faut une mesure de fer pour forger une série de O1(ns).";
+translate "You need one deben of silver to make a batch of O1." to french "Il vous faut une mesure de fer pour forger une série de O1(ns).";
+translate "You have made a batch of Nails. They will be cool in K1" to french "Vous avez forgé une série de clous. Attendez K1 qu'ils refroidissent.";
+translate "Your Nails are ready." to french "Vos clous sont prêts.";
+
+translate "Make a Bearing" to french "Forger un roulement";
+translate "To make a Bearing you need:" to french "Pour Forger un roulement, il vous faut :";
+translate "N1 O1" to french "N1 O1(N1?np:ns)";
+
+translate "You'll need the following to make O1:" to french "Pour forger des O1(np) vous avez besoin de:";
+translate "You'll need the following to make N1 O1:" to french "Pour forger N1 O1(np) vous avez besoin de:";
+
+translate "Make a set of 10 Bearings" to french "Forger une série de 10 roulements";
+translate "To make a set of 10 Bearings you need:" to french "Pour Forger une série de 10 roulements, il vous faut :";
+translate "Your Bearings will be done in K1" to french "Les roulements seront prêts dans K1";
+translate "Bearing will be done in K1" to french "Le roulement sera prêt dans K1";
+translate "Your Bearings are ready." to french "Vos roulements sont prêts.";
+translate "Your Bearing is ready." to french "Votre roulement est prêt.";
+
+translate "Make a Set of 10 Small Gears" to french "Forger une série de 10 petits pignons";
+
+translate "Make a Shovel Blade" to french "Forger une lame de pelle";
+translate "Make a Shovel Blade (poor quality)" to french "Forger une lame de pelle (basse qualité)";
+translate "To make a shovel blade you need:" to french "Pour Forger une lame de pelle, il vous faut :";
+translate "To make a Shovel Blade (poor quality) you need:" to french "Pour Forger une lame de pelle (basse qualité), il vous faut :";
+translate "Shovel Blade will be done in K1" to french "Votre lame de pelle sera prête dans K1";
+translate "Shovel Blade will be done in K1. It will be poor quality because it was not forged at an anvil, but it will get you started." to french "Votre lame de pelle sera prête dans K1. Elle sera de basse qualité parce qu'elle n'a pas été forgée dans une enclume, mais elle vous aidera à commencer.";
+translate "Your shovel blade is ready." to french "Votre lame de pelle est prête.";
+
+translate "Make a Lead Mallet" to french "Forger un maillet de plomb";
+translate "This mallet can be used to tap glass rods into the ground to search for Limestone Tooth blocks, to be assembled into a pyramid." to french "Ce maillet peut être utilisé pour faire entrer des tiges de verre dans le sol pour chercher des blocs de calcaire, qui seront utilisés pour construire une pyramide.";
+translate "Make a Brass Mallet" to french "Forger un maillet de laiton";
+translate "To make a Lead Mallet you need:" to french "Pour Forger un maillet de plomb, il vous faut :";
+translate "To make a Brass mallet you need:" to french "Pour Forger un maillet de laiton, vous faut :";
+translate "Lead Mallet will be done in K1" to french "Votre maillet de plomb sera prêt dans K1";
+translate "Brass Mallet will be done in K1" to french "Votre maillet de laiton sera prêt dans K1";
+translate "Your Lead Mallet is ready." to french "Votre maillet de plomb est prêt.";
+translate "Your Brass mallet is ready." to french "Votre maillet de laiton est prêt.";
+
+translate "Make a Cookpot" to french "Forger un pot à cuisson";
+translate "To make a Cookpot you need:" to french "Pour Forger un pot à cuisson, il vous faut :";
+translate "A stainless Steel Pot requires 20 Steel," to french "Un pot en acier inoxydable nécessite 20 aciers,";
+translate "Cookpot will be done in K1" to french "Le pot à cuisson sera prêt dans K1";
+translate "Your Cookpot is ready." to french "Votre pot à cuisson est prêt.";
+
+translate "Make a Small Gear" to french "Forger un petit pignon";
+translate "To make a Small Gear you need:" to french "Pour Forger un petit pignon, il vous faut :";
+translate "Your Small Gear will be done in K1" to french "Votre petit pignon sera prêt dans K1";
+translate "Your Small Gear is ready." to french "Votre petit pignon est prêt.";
+
+translate "Make a Medium Gear" to french "Forger un pignon moyen";
+translate "Large Gear" to french "Engrenage de grande taille";
+translate "To make a Medium Gear you need:" to french "Pour Forger un pignon moyen, il vous faut :";
+translate "Your Medium Gear will be done in K1" to french "Votre pignon moyen sera prêt dans K1";
+translate "Your Medium Gear is ready." to french "Votre pignon moyen est prêt.";
+translate ironlargegear to french masculine {ns "Grand(s) engrenage(s) en fer"; np "Grands engrenages en fer";}
+translate "Make a large Gear" to french "Forger un grand pignon";
+translate "To make a Large Gear you need:" to french "Pour faire un grand pignon, il vous faut :";
+translate "Your Large Gear will be done in K1" to french "Votre grand pignon sera prêt dans K1";
+translate "Your Large Gear is ready." to french "Votre grand pignon est prêt.";
+
+translate "Make an Iron Pot" to french "Forger un pot de fer";
+translate "To make an Iron Pot you need:" to french "Pour Forger un pot de fer, il vous faut :";
+translate "Your Iron Pot will be done in K1" to french "Votre pot de fer sera prêt dans K1";
+translate "Your ironpot is ready." to french "Votre pot de fer est prêt..";
+
+translate "Make a Brass Plate" to french "Forger une plaque de laiton";
+translate "To make an Brass Plate you need:" to french "Pour Forger une plaque de laiton, il vous faut :";
+translate "Your Brass Plate will be done in K1" to french "Votre plaque de laiton sera prête dans K1";
+translate "Your Brass Plate is ready." to french "Votre plaque de laiton est prête.";
+
+translate "Make a Screw Gear" to french "Forger un engrenage à vis";
+translate "To make a Screw Gear you must stash:" to french "Pour Forger un engrenage à vis, il vous faut :";
+translate "Your Screw Gear will be done in K1" to french "Votre engrenage à vis sera prêt dans K1";
+translate "Your Screw Gear is ready." to french "Votre engrenage à vis est prêt.";
+
+translate "Stash (For large Projects)" to french "Déposer (Pour grands projets)";
+
+translate "By the Public Buildings Enabling Act, passed into law by FaceAnkh on 3/28/2003, Public Forges and Casting Boxes may only be extinguished by the person who lit them." to french "Selon la Loi sur l'accès aux Bâtiments Publics, passée par FaceAnkh le 28/03/2003, les forges publiques ne peuvent être éteintes que par la personne qui les a activées.";
+
+translate "Make some Steel Sheeting" to french "Forger des revêtements en acier";
+translate "You'll need two deben of Steel." to french "Il vous faut deux mesures d'acier.";
+translate "You have made some Steel Sheeting. It will take ten minutes to cool." to french "Vous avez fabriqué un Revêtement(s) en acier. Il lui faut dix minutes pour refroidir.";
+translate "Your Steel Sheeting is ready." to french "Votre Revêtement(s) en acier est prêt.";
+
+translate "Make a pair of Pincher Claw" to french "Forger une paire pinces";
+translate "Pincher Claw Require 50 Aluminum Plated Metal Blue," to french "Pour faire des pinces, il vous faut : 50 unités d'aluminium plaqué de métal bleu,";
+translate "(Stainless, Toxic, and Hard), of Purity 6 or higher," to french "(Inxoydable, toxique, dur), d'une pureté supérieure ou égale à 6";
+translate "and 50 Beeswax" to french "et 50 cires d'abeille";
+translate "You have made a Pincher Claw. It will be cool in K1" to french "Vous avez forgé une paire de pinces. Elle sera prête dans K1";
+translate "Your Pincher Claw is ready." to french "Votre paire de pinces est prête.";
+translate "To make a Pincher Claw you need:" to french "Pour Forger des pinces, il vous faut :";
+translate "Your Pincher Claw will be done in K1" to french "Vos pinces seront prêtes dans K1";
+translate "Your Pincher Claw is ready." to french "Vos pinces sont prêtes.";
+// 2 blocks of contradicting stuff here
+translate "Make a Pincher Axle" to french "Forger un essieu de pinces";
+translate "To make a Pincher Axle you need:" to french "Pour Forger un essieu de pinces, il vous faut :";
+translate "Your Pincher Axle will be done in K1" to french "Votre essieu de pinces sera prêt dans K1";
+translate "Your Pincher Axle is ready." to french "Votre essieu de pinces est prêt.";
+
+translate "Blacksmith Tools" to french "Outils de forgeron";
+translate "You need the Blacksmithing skill to do this." to french "Vous devez connaître Travail du métal pour faire ceci.";
+translate "Upgrade this forge with an Extrusion Plate" to french "Perfectionner cette forge en y ajoutant une plaque d'extrusion";
+translate "You'll need an Extrusion Plate. This can be made at a master's forge." to french "Il vous faut une plaque d'extrusion. Elle peut être fabriquée dans une forge de maître.";
+
+translate "Make some Copper Pipe" to french "Forger un tuyau de cuivre";
+translate "You'll need 10 deben of Copper." to french "Vous aurez besoin de 10 mesures de cuivre.";
+translate "You have made some Copper Pipe. It will take five minutes to cool." to french "Vous avez forgé un tuyau de cuivre. Attendez cinq minutes qu'il refroidisse.";
+translate "Your Copper Pipe is ready." to french "Votre tuyau de cuivre est prêt.";
+
+translate "Make an Iron Poker" to french "Forger un tisonnier";
+translate "You need five deben of iron to forge an iron poker." to french "Il vous faut cinq mesures de fer pour forger un tisonnier.";
+translate "You have fashioned an Iron Poker. It will take twenty minutes to cool." to french "Vous avex fabriqué un tisonnier. Il sera refroidi dans vingt minutes.";
+translate "Your iron poker has cooled." to french "Votre tisonnier est refroidi.";
+
+translate "Make a Lead Chisel" to french "Forger un ciseau de plomb"; 
+translate "To make a Lead Chisel you need:" to french "Pour Forger un ciseau de plomb, vous avec besoin de:";
+translate "Lead Chisel will be done in K1." to french "Le ciseau de plomb sera prêt dans K1.";
+translate "Your Lead Chisel is ready." to french "Votre ciseau de plomb est prêt.";
+
+translate "Make an Extrusion Plate" to french "Forger une plaque d'extrusion";
+translate "Your forge needs 60 deben of Copper to make an Extrusion Plate." to french "Votre forge nécessite 60 mesures de cuivre pour forger une plaque d'extrusion.";
+translate "You have made an Extrusion Plate. It will take thirty minutes to cool." to french "Vous avez fabriqué une plaque d'extrusion. Elle sera refroidie dans trente minutes.";
+translate "Your Extrusion Plate is ready." to french "Votre plaque d'extrusion est prête.";
+
+translate "Make some Tin Sheeting" to french "Forger des revêtements d'étain";
+translate "You'll need eight deben of Tin." to french "Vous aurez besoin de huit mesures d'étain";
+translate "You have made some Tin Sheeting. It will take five minutes to cool." to french "Vous avez fabriqué un Revêtement(s) d'étain. Il sera refroidi dans cinq minutes.";
+translate "Your Tin Sheeting is ready." to french "Votre Revêtement(s) d'étain est prêt.";
+
+translate "Gold Sheeting" to french "Revêtement(s) en or";
+translate "Make some Gold Sheeting" to french "Forger des revêtements en or";
+translate "You'll need one deben of Gold." to french "Vous aurez besoin d'une mesure d'or";
+translate "You have made some Gold Sheeting. It will take ten minutes to cool." to french "Vous avez fabriqué un Revêtement(s) en or. Il sera refroidi dans dix minutes.";
+translate "Your Gold Sheeting is ready." to french "Votre Revêtement(s) en or est prêt.";
+
+translate "Make some Gold Foil" to french "Forger des Feuilles d'or";
+translate "You'll need one Gold Sheeting to further refine into Gold Foil." to french "Vous avez besoin d'un Revêtement(s) en or pour le raffiner en Feuille(s) d'or.";
+translate "You have made some Gold Foil. It will take five minutes to cool." to french "Vous avez fait une Feuille(s) d'or. Elle sera refroidie dans cinq minutes.";
+translate "Your Gold Foil is ready." to french "Votre Feuille(s) d'or est prête.";
+
+translate "Your O1 is ready." to french "Votre O1(ns) est prête.";
+
+translate "Make some Silver Sheeting" to french "Forger des revêtements d'argent";
+translate "You'll need three deben of silver." to french "Vous aurez besoin de trois mesures d'argent.";
+translate "You have made some Silver Sheeting. It will take two minutes to cool." to french "Vous avez fabriqué un Revêtement(s) d'argent. Il sera refroidi dans deux minutes.";
+translate "Your Silver Sheeting is ready." to french "votre Revêtement(s) d'argent est prêt.";
+
+translate "Make some Silver Wire" to french "Forger du Fil(s)d'argent";
+translate "Your forge needs 1 deben of Silver to make Silver Wire." to french "Votre forge nécessite une mesure d'argent pour faire du Fil(s)d'argent.";
+translate "You have made some Silver Wire. It will take five minutes to cool." to french "Vous avez fabriqué du Fil(s)d'argent. Il sera refroidi dans cinq minutes.";
+translate "Your Silver Wire is ready." to french "Votre Fil(s)d'argent est prêt.";
+
+translate "Make some Metal Blue Sheeting" to french "Forger des revêtements de métal bleu";
+translate "You'll need ten deben of Metal Blue." to french "Il vous faut dix debens de métal bleu.";
+translate "You have made some Metal Blue Sheeting. It will take fifteen minutes to cool." to french "Vous avez fabriqué un Revêtement(s) de métal bleu. Il sera refroidi dans quinze minutes.";
+translate "Your Metal Blue Sheeting is ready." to french "Votre Revêtement(s) de métal bleu est prêt.";
+
+translate "Make some Magnesium Wire" to french "Forger du fils de magnésium";
+translate "Your forge needs 1 deben of Magnesium to make Magnesium Wire." to french "Votre forge nécessite une mesure de magnésium pour faire du Fil(s)de magnésium.";
+translate "You have made some Magnesium Wire. It will take one minute to cool." to french "Vous avez fabriqué du Fil(s)de magnésium. Il sera refroidi dans une minute.";
+translate "Your Magnesium Wire is ready." to french "Votre Fil(s)de magnésium est prêt.";
+
+translate "Make some Metal Blue Wire" to french "Forger du Fil(s)de métal bleu";
+translate "Your forge needs 5 deben of Metal Blue to make Metal Blue Wire." to french "Votre forge nécessite cinq mesures de métal bleu pour faire du Fil(s)de métal bleu.";
+translate "You have made some Metal Blue Wire. It will take five minutes to cool." to french "Vous avez fabriqué du Fil(s)de métal bleu. Il sera refroidi dans cinq minutes.";
+translate "Your Metal Blue Wire is ready." to french "Votre Fil(s)de métal bleu est prêt.";
+
+translate "Make a Heavy Lead Bowl" to french "Forger un récipient de plomb";
+translate "You need 20 debens of Lead and Wax to make a Heavy Lead Bowl." to french "Il vous faut 20 mesures de plomb et de cire pour Forger un récipient de plomb.";
+translate "You have fashioned a Heavy Lead Bowl. The Bowl will take ten minutes to cool." to french "Vous avez fabriqué un récipient de plomb. Le récipient sera refroidi dans 10 minutes.";
+translate "Your Bowl has cooled." to french "Votre récipient est prêt.";
+
+translate "Make a Heavy Mallet Head" to french "Forger une tête lourde de maillet";
+translate "To make a Heavy Mallet Head you need:" to french "Pour Forger une tête lourde de maillet, vous avez besoin de:";
+translate "Heavy Mallet Head will be done in N1." to french "La tête lourde de maillet sera prête dans N1.";
+// Same as Pinch roller, K1 instead ?
+translate "Your Heavy Mallet Head is ready." to french "Votre tête lourde de maillet est prête.";
+
+translate "Make a Nozzle" to french "Forger un gicleur";
+translate "You need N1 debens of O1 and Wax to make a O2." to french "Il vous faut N1 debens de O1(ns) et de cire d'abeille pour forger O1(uns) O1(ns).";
+// See line 728
+translate "You have fashioned a O1. It will take N1 minutes to cool." to french "Vous avez forgé O1(uns) O1(ns). Attendez N1 minutes le temps qu'il refroidisse.";
+// See line 729 - is this one correct ?
+translate "10 minutes to cool." to french "10 minutes pour refroidir"; 
+translate "You have fashioned some O1. They will take N1 minutes to cool." to french "Vous avez fabriqué des O1(np). Cela va prendre N1 minutes pour refroidir";
+//Same note
+translate "Your O1 has cooled." to french "Votre O1(ns) est prêt.";
+
+translate "Make a O1" to french "Forger O1(uns) O1(ns)";
+translate "You need N1 deben of O1 and Wax to make a O2." to french "Vous avez besoin de N1 mesures de O1(ns) et de cire pour Forger O2(uns) O2(ns).";
+translate "You have fashioned a O1. It will take N1 to cool." to french "Vous avez fabriqué O1(uns) O1(ns). Il sera refroidi dans N1.";
+translate "Your project has cooled." to french "Votre projet est refroidi.";
+
+translate "Make a Pewter Incense Prong" to french "Forger un pic à encens en fer blanc";
+translate "You need one deben of Pewter and Wax to make an Incense Prong." to french "Il vous faut une mesure de fer blanc et de cire pour Forger un pic à encens.";
+translate "You have fashioned a Pewter Incense Prong. It will take three minutes to cool." to french "Vous avez fabriqué un pic à encens en fer blanc. Il sera refroidi dans trois minutes.";
+translate "Your Incense Prong has cooled." to french "Votre pic à encens est refroidi.";
+
+translate "Make some Octec's Alloy Sheeting" to french "Forger des revêtements en alliage d'Octec";
+translate "You'll need two deben of Octec's Alloy." to french "Il vous faut deux debens d'alliage d'Octec.";
+translate "You have made some Octec's Alloy Sheeting. It will take twenty minutes to cool." to french "Vous avez forgé des revêtements en alliage d'Octec. Ils seront prêts dans vingt minutes.";
+translate "Your Octec's Alloy Sheeting is ready." to french "Vos revêtements en alliage d'Octec sont prêts.";
+
+translate "Make some Octec's Alloy Wire" to french "Forger du Fil(s)en alliage d'Octec";
+translate "Your forge needs 3 deben of Octec's Alloy to make Octec's Alloy Wire." to french "Il vous faut 3 debens d'alliage d'Octec pour forger du Fil(s)en alliage d'Octec.";
+translate "You have made some Octec's Alloy Wire. It will take ten minutes to cool." to french "Vous avez forgé du Fil(s)en alliage d'Octec. Attendez dix minutes qu'il refroidisse.";
+translate "Your Octec's Alloy Wire is ready." to french "Votre Fil(s)en alliage d'Octec est prêt.";
+
+translate "Make some Thoth's Metal Wire" to french "Forger du Fil(s)en métal de thoth";
+translate "Your forge needs 4 deben of Thoth's Metal to make Thoth's Metal Wire." to french "Il vous faut 4 debens de métal de Thoth pour forger du Fil(s)de métal de Thoth.";
+translate "You have made some Thoth's Metal Wire. It will take five minutes to cool." to french "Vous avez forgé du Fil(s)en métal de Thoth. Attendez cinq minutes qu'il refroidisse.";
+translate "Your Thoth's Metal Wire is ready." to french "Votre Fil(s)en métal de Thoth est prêt.";
+
+translate "Hardware" to french "Matériel";
+
+translate "Make a set of 12 Washers" to french "Forger un ensemble de 12 rondelles";
+translate "To make a small set of Washers, you need:" to french "Pour faire un petit ensemble de rondelles, vous avez besoin de:";
+translate "Washers will be done in K1" to french "Les rondelles seront prêtes dans K1.";
+translate "Your set of washers are ready." to french "Votre ensemble de rondelles est prêt.";
+translate "Make a set of 60 Washers" to french "Forger un ensemble de 60 rondelles";
+translate "To make a large set of Washers, you need:" to french "Pour Forger un important ensemble de rondelles, vous avez besoin de:";
+// Missing entries for "Your washers are ready ?
+
+translate "Make a Crude Reel" to french "Forger un moulinet rudimentaire";
+translate "To make a crude reel you need:" to french "Pour Forger un moulinet rudimentaire, vous avez besoin de:";
+translate "Crude reel will be done in K1" to french "Le moulinet rudimentaire sera prêt dans K1";
+translate "Your crude reel is ready." to french "Votre moulinet rudimentaire est prêt.";
+
+translate "Make a Fine Reel" to french "Forger un moulinet de précision";
+translate "To make a fine reel you need:" to french "Pour Forger un moulinet de précision, vous avez besoin de:";
+translate "Fine reel will be done in K1" to french "Le moulinet de précision sera prêt dans K1";
+translate "Your fine reel is ready." to french "Votre moulinet de précision est prêt.";
+
+translate "Make a set of 4 Bolt" to french "Forger un ensemble de 4 boulons";
+translate "Make a set of 4 Bolts" to french "Forger une série de 4 boulons";
+// Which is correct ?
+translate "To make a Bolt you need:" to french "Pour Forger un boulon, vous avez besoin de:";
+translate "Your Bolt will be done in K1" to french "Votre boulon sera prêt dans K1";
+translate "Your BoltS is ready." to french "Vos boulons sont prêts.";
+// useless S here
+
+translate "Make a set of 40 Bolts" to french "Forger un ensemble de 40 boulons";
+translate "To make a set of 40 bolts you need:" to french "Pour Forger un ensemble de 40 boulons, vous avez besoin de:";
+translate "Your Bolts will be done in K1" to french "Les boulons seront prêts dans K1";
+translate "Your bolts are ready." to french "Vos boulons est prêt.";
+
+translate "Make an Anvil Bed" to french "Forger un socle d'enclume";
+translate "To make an Anvil Bed you need:" to french "Pour Forger un socle d'enclume, vous avez besoin de:";
+translate "Your Anvil Bed will be done in K1" to french "Le socle d'enclume sera prête dans K1";
+
+translate "Gearwork" to french "Fabrication de pignons";
+
+translate "To make a set of 10 Small Gears you need:" to french "Pour Forger un ensemble de 10 pignons, vous avez besoin de:";
+translate "Your Small Gears will be done in K1" to french "Les petits pignons seront prêts dans K1";
+translate "Your Small Gears are ready." to french "Vos petits pignons sont prêts.";
+
+translate "Your iron pot is ready." to french "Votre pot de fer est prêt.";
+
+translate "Make a Brass Pot" to french "Forger un pot de laiton";
+translate "To make a Brass Pot you need:" to french "Pour Forger un pot de laiton, vous avez besoin de:";
+translate "Your Brass Pot will be done in K1" to french "Le pot de laiton sera prêt dans K1";
+translate "Your Brass Pot is ready." to french "Votre pot de laiton est prêt.";
+
+translate "Make a Silver Bowl" to french "Forger un récipient d'argent";
+translate "To make a Silver Bowl you need:" to french "Pour Forger un récipient d'argent, vous avez besoin de:";
+translate "Silver Bowl will be done in K1" to french "Le récipient en argent sera prêt dans K1";
+translate "You've completed the Silver Bowl used in a Sacrificial Bonfire." to french "Vous avez complété le récipient d'argent utilisé dans un feu sacrifical.";
+translate "Your Silver Bowl is ready." to french "Votre récipient d'argent est prêt.";
+
+translate "Make some Thoth's Metal Sheeting" to french "Forger des revêtements en métal de Thoth";
+translate "You'll need six deben of Thoth's Metal." to french "Il vous faut six débens de métal de Thoth.";
+translate "Making Thoth's Metal sheeting" to french "Fabrication de revêtements de métal de Thoth";
+translate "You have made some Thoth's Metal Sheeting. It will take ten minutes to cool." to french "Vous avez forgé des revêtements de métal de Thoth. Attendez dix minutes qu'ils refroidissent.";
+translate "Your Thoth's Metal sheeting is ready." to french "Votre Revêtement(s) de métal de Thoth est prêt.";
+
+translate "Make some Moon Steel Sheeting" to french "Forger des revêtements en acier lunaire";
+translate "Your Moon Steel Sheeting is ready." to french "Votre Revêtement(s) d'acier lunaire est prêt.";
+
+translate "Make some Treated Metal Sheeting" to french "Forger un Revêtement(s) de métal traité";
+translate "Treated Metal Sheeting requires" to french "Forger un Revêtement(s) nécessite";
+translate "2 debens of Treated Metal" to french "2 debens de métal traité";
+translate "That item is not Treated Metal." to french "Ce n'est pas du métal traité.";
+translate "You do not have enough Treated Metal." to french "Vous n'avez pas assez de métal traité.";
+translate "You have made some Treated Metal Sheeting. It will be cool in K1" to french "Vous avez forgé un Revêtement(s) de métal traité. Il sera refroidi dans K1";
+translate "Your Treated Metal Sheeting is ready." to french "Votre Revêtement(s) de métal traité est prêt.";
+
+translate "Make a Copper Cookpot" to french "Forger un pot à cuisson en cuivre";
+translate "Copper Cookpot will be done in K1" to french "Le pot à cuisson en cuivre sera prêt dans K1";
+translate "Make an Iron Cookpot" to french "Forger un pot à cuisson en fer";
+translate "Iron Cookpot will be done in K1" to french "Le pot à cuisson en fer sera prêt dans K1";
+
+translate "Make a pair of Tongs" to french "Forger une paire de pincettes";
+translate "That item does not have the correct requirements." to french "Cet élément ne possède pas les attributs requis.";
+translate "You have made a pair of Tongs. They will be cool in K1" to french "Vous avez forgé une paire de pincette. Elles seront prêtes dans K1";
+translate "Your Tongs are ready." to french "Vos pincettes sont prêtes.";
+
+translate "Make a Monkey Wrench" to french "Forger une clef à molette";
+translate "To make a Monkey Wrench you need:" to french "Pour forger une clef à molette, il vous faut :";
+translate "Your Monkey Wrench will be done in K1" to french "Votre clef à molette sera refroidie dans K1";
+translate "Your Monkey Wrench is ready." to french "Votre clef à molette est prête.";
+
+translate "Make an Aluminum Plate" to french "Forger une plaque en aluminium";
+translate "To make an Aluminum Plate you need:" to french "Pour forger une plaque en aluminium, il vous faut :";
+translate "Your Aluminum Plate will be done in K1" to french "Votre plaque en aluminium sera prête dans K1";
+translate "Your Aluminum Plate is ready." to french "Votre plaque en aluminium est prête.";
+
+translate "Make 4 Orichalcum Pellets" to french "Forger 4 boulettes d'Orichalcum";
+translate "To make a small batch of Orichalcum Pellets, you need:" to french "Pour forger un petit nombre de boulettes d'Orichalcum, il vous faut :";
+translate "Orichalcum Pellets will be done in K1" to french "Les boulettes d'Orichalcum seront prêtes dans K1";
+translate "Your small batch of Orichalcum Pellets are ready." to french "Vos boulettes d'Orichalcum sont prêtes.";
+
+translate "Make 40 Orichalcum Pellets" to french "Forger 40 boulettes d'Orichalcum";
+translate "To make a large batch of Orichalcum Pellets, you need:" to french "Pour forger un grand nombre de boulettes d'Orichalcum, il vous faut :";
+//translate "Orichalcum Pellets will be done in K1" to french "Les boulettes d'Orichalcum seront prêtes dans K1";
+translate "Your large batch of Orichalcum Pellets are ready." to french "Vos boulettes d'Orichalcum sont prêtes.";
+
+translate "This O1 is Making a O2" to french "O1(cns) O1(ns) fabrique O2(uns) O2(ns)";
+translate "This O1 is Making O2" to french "O1(cns) O1(ns) fabrique O2(uns) O2(ns)";
+
+translate "This O1 is Making a Lead Chisel" to french "01(cns) O1(ns) fabrique un ciseau de plomb";
+translate "This O1 is Making a Knife Blade" to french "O1(cns) O1(ns) fabrique une lame de couteau";
+translate "This O1 is Making an Extrusion Plate" to french "O1(cns) O1(ns) fabrique une plaque d'extrusion";
+translate "This O1 is Making an Iron Blade" to french "O1(^cns) O1(ns) fabrique une lame de fer";
+translate "This O1 is Making Iron Blades" to french "O1(^cns) O1(ns) fabrique des lames de fer";
+translate "This O1 is Making Steel Blades" to french "O1(^cns) O1(ns) fabrique des lames d'acier";
+translate "This O1 is Making an Iron Bar" to french "O1(^cns) O1(ns) fabrique une Barre(s) de fer";
+translate "This O1 is Making a Copper Strap" to french "O1(^cns) O1(ns) fabrique des bandes de cuivre";
+translate "This O1 is Making a Iron Strap" to french "O1(^cns) O1(ns) fabrique des bandes de fer";
+translate "This O1 is Making a Aluminum Strap" to french "O1(^cns) O1(ns) fabrique des bandes d'aluminium";
+translate "This O1 is Making a Water Metal Strap" to french "O1(^cns) O1(ns) fabrique des bandes de métal aqueux";
+translate "This O1 is Making Steel Wire" to french "O1(^cns) O1(ns) fabrique du Fil(s)d'acier";
+translate "This O1 is Making Copper Wire" to french "O1(^cns) O1(ns) fabrique du Fil(s)de cuivre";
+translate "This O1 is Making Gold Wire" to french "O1(^cns) O1(ns) fabrique du Fil(s)d'or";
+translate "This O1 is Making a Pinch Roller" to french "O1(^cns) O1(ns) fabrique un rouleau à pression";
+translate "This O1 is Making nails" to french "O1(^cns) O1(ns) fabrique de clous";
+translate "This O1 is Making a Bearing" to french "O1(^cns) O1(ns) fabrique un roulement";
+translate "This O1 is Making a set of 10 Bearings" to french "O1(^cns) O1(ns) fabrique une série de 10 roulements";
+translate "This O1 is Making a Shovel Blade" to french "O1(^cns) O1(ns) fabrique une lame de pelle";
+translate "This O1 is Making a Lead Mallet" to french "O1(^cns) O1(ns) fabrique un maillet de plomb";
+translate "This O1 is Making a Brass Mallet" to french "O1(^cns) O1(ns) fabrique un maillet de laiton";
+translate "This O1 is Making a Cookpot" to french "O1(^cns) O1(ns) fabrique un pot à cuisson";
+translate "This O1 is Making a Copper Cookpot" to french "O1(^cns) O1(ns) fabrique un pot à cuisson en cuivre";
+translate "This O1 is Making an Iron Cookpot" to french "O1(^cns) O1(ns) fabrique un pot à cuisson en fer";
+translate "This O1 is Making a Small Gear" to french "O1(^cns) O1(ns) fabrique un petit pignon";
+translate "This O1 is Making a Medium Gear" to french "O1(^cns) O1(ns) fabrique un pignon moyen";
+translate "This O1 is Making a Large gear" to french "O1(^cns) O1(ns) fabrique un grand pignon";
+translate "This O1 is Making an Iron Pot" to french "O1(^cns) O1(ns) fabrique un pot de fer";
+translate "This O1 is Making an Brass Plate" to french "O1(^cns) O1(ns) fabrique une plaque de laiton";
+translate "This O1 is Making a Screw gear" to french "O1(^cns) O1(ns) fabrique un engrenage à vis";
+translate "This O1 is Making a Pincher Claw" to french "O1(^cns) O1(ns) fabrique des pinces";
+translate "This O1 is Making a Pincher Axle" to french "O1(^cns) O1(ns) fabrique un essieu de pinces";
+translate "This O1 is Making copper pipe" to french "O1(^cns) O1(ns) fabrique un tuyau de cuivre";
+translate "This O1 is Making an Iron Poker" to french "O1(^cns) O1(ns) fabrique un tisonnier";
+translate "This O1 is Making extrusion plate" to french "O1(^cns) O1(ns) fabrique une plaque d'extrusion";
+translate "This O1 is Making Tin Sheeting" to french "O1(^cns) O1(ns) fabrique un Revêtement(s) d'étain";
+translate "This O1 is Making Steel Sheeting" to french "O1(^cns) O1(ns) fabrique un Revêtement(s) d'acier";
+translate "This O1 is Making Moon Steel Sheeting" to french "O1(^cns) O1(ns) fabrique un Revêtement(s) d'acier lunaire";
+translate "This O1 is Making gold foil" to french "O1(^cns) O1(ns) fabrique une Feuille(s) d'or";
+translate "This O1 is Making Silver Sheeting" to french "O1(^cns) O1(ns) fabrique un Revêtement(s) d'argent";
+translate "This O1 is Making Metal Blue Sheeting" to french "O1(^cns) O1(ns) fabrique un Revêtement(s) de métal bleu";
+translate "This O1 is Making Treated Metal Sheeting" to french "O1(^cns) O1(ns) fabrique un Revêtement(s) de métal traité";
+translate "This O1 is Making Silver Wire" to french "O1(^cns) O1(ns) fabrique un Fil(s)d'argent";
+translate "This O1 is Making Magnesium Wire" to french "O1(^cns) O1(ns) fabrique un Fil(s)de magnésium";
+translate "This O1 is Making Metal Blue Wire" to french "O1(^cns) O1(ns) fabrique un Fil(s)de métal bleu";
+translate "This O1 is Making a Heavy Lead Bowl" to french "O1(^cns) O1(ns) fabrique un récipient de plomb";
+translate "This O1 is Making Pincher Claw" to french "O1(^cns) O1(ns) fabrique une paire de pince";
+translate "This O1 is Making a Heavy Mallet Head" to french "O1(^cns) O1(ns) fabrique une tête lourde de maillet";
+translate "This O1 is Making an Incense Prong" to french "O1(^cns) O1(ns) fabrique un pic à encens";
+translate "This O1 is Making a small set of Washers" to french "O1(^cns) O1(ns) fabrique quelques rondelles";
+translate "This O1 is Making a crude reel" to french "O1(^cns) O1(ns) fabrique un moulinet rudimentaire";
+translate "This O1 is Making a fine reel" to french "O1(^cns) O1(ns) fabrique un moulinet de précision";
+translate "This O1 is Making 4 Bolt" to french "O1(^cns) O1(ns) fabrique 4 boulons";
+translate "This O1 is Making a set of 40 Bolts" to french "O1(^cns) O1(ns) fabrique un ensemble de 40 boulons";
+translate "This O1 is Making an Anvil Bed" to french "O1(^cns) O1(ns) fabrique une socle d'enclume";
+translate "This O1 is Making a Set of 10 Small Gears" to french "O1(^cns) O1(ns) fabrique un ensemble de 10 petits pignons";
+translate "This O1 is Making a Brass Pot" to french "O1(^cns) O1(ns) fabrique un pot de laiton";
+translate "This O1 is Making a Silver Bowl" to french "O1(^cns) O1(ns) fabrique un récipient d'argent";
+translate "This O1 is Making Tongs" to french "O1(^cns) O1(ns) fabrique des pincettes";
+translate "This O1 is Making a Monkey Wrench" to french "O1(^cns) O1(ns) fabrique une clef à molette";
+translate "This O1 is Making a Steel Blade" to french "O1(^cns) O1(ns) fabrique une lame d'acier";
+translate "This O1 is Making Octec's Alloy Sheeting" to french "O1(^cns) O1(ns) fabrique des Revêtement(s) en alliage d'Octec";
+translate "This O1 is Making Octec's Alloy Wire" to french "O1(^cns) O1(ns) fabrique du Fil(s)en alliage d'Octec";
+translate "This O1 is Making Thoth's Metal Wire" to french "O1(^cns) O1(ns) fabrique du Fil(s)en métal de Thoth";
+translate "This O1 is Making a small batch of Orichalcum Pellets" to french "O1(^cns) O1(ns) forge un petit nombre de boulettes en Orichalcum";
+translate "This O1 is Making a large batch of Orichalcum Pellets" to french "O1(^cns) O1(ns) forge un grand nombre de boulettes en Orichalcum";
+translate "Construct the Forge of Geb and Nut from the Plans" to french "Assembler la forge de Geb et Nut selon les plans";
+translate "Are you sure? You will not be able to tear this down and get your plans back!" to french "Vous êtes sûr ? Vous ne pourrez pas détruire cet édifice pour récupérer vos plans !";
+translate "To build a Forge of Geb and Nut, you need:" to french "Pour construire une forge de Geb et Nut, il vous faut :";

@@ -1,0 +1,196 @@
+module distill_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2007 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+//menues
+
+translate Distillation to german feminine
+{
+  swa "Destillation";
+  sn "Destillation"; sg "Destillation"; sd "Destillation"; sa "Destillation";
+  pn "Destillation"; pg "Destillation"; pd "Destillation"; pa "Destillation";
+}
+translate Alembic to german feminine
+{
+  swa "Destillerie";
+  sn "Destillerie"; sg "Destillerie"; sd "Destillerie"; sa "Destillerie";
+  pn "Destillerien"; pg "Destillerien"; pd "Destillerien"; pa "Destillerien";
+}
+translate DistillationExperiments1 to german feminine
+{
+swa "Destillations-Experimente 1";
+sn "Destillations-Experimente 1"; pn "Destillations-Experimente 1";
+}
+
+translate "Allows one to carefully separate volitile compounds from liquid."
+to german "Erlaubt die Destillation von flüssigen, alkoholischen Komponenten.";
+
+translate "Copper Sheeting (Flame Shield)"
+to german "Kupferblech (Hitzeschild)";
+
+translate "Thermometers"
+to german "Thermometer";
+
+translate "Distillation Coil, 5000+ Quality"
+to german "Destillationspirale, Qualität 5000+";
+
+translate "Distillation Coil, 4000+ Quality"
+to german "Destillationspirale, Qualität 4000+";
+
+translate "Distillation Coil, 3000+ Quality"
+to german "Destillationspirale, Qualität 3000+";
+
+translate "Gold Wire (Safety Valve Mechanism)"
+to german "Golddraht (Sicherer Ventilmechanismus)";
+
+translate "Glass Jars (Base, Pot, Sink)"
+to german "Glasflaschen (Basis, Tops, Sinkrohr)";
+
+translate "Gunpowder (Theory Research)"
+to german "Schießpulver (Theoretische Forschung)";
+
+translate "Beer of any type (Temperature Research)"
+to german "Bier jeglicher Sorte (Temperaturforschung)";
+
+translate "Dry Beer of any type (Temperature Research)"
+to german "Trockenes Bier jeglicher Sorte (Temperaturforschung)";
+
+translate "Potent Beer (Temperature Research)"
+to german "Starkbier (Temperaturforschung)";
+
+translate "Dry, Potent Beer (Temperature Research)"
+to german "Trockenes Starkbier (Temperaturforschung)";
+
+translate "Very Potent Beer (Temperature Research)"
+to german "Kräftiges Starkbier (Temperaturforschung)";
+
+translate "Dry, Very Potent Beer (Temperature Research)"
+to german "Trockenes, kräftiges Starkbier (Temperaturforschung)";
+
+translate "Wine with any alcohol (T. Research)"
+to german "Wein mit jeglichem Alkohol (T. Forschung)";
+
+translate "Wine with at least 6% alcohol (T. Research)"
+to german "Wein mit mind. 6% Alkohol (T. Forschung)";
+
+translate "Wine with at least 12% alcohol (T. Research)"
+to german "Wein mit mind. 12% Alkohol (T. Forschung)";
+
+translate "Scientists will assist with research on use of Alembics. (Information only)"
+to german "Die Forscher werden bei der Erforschung der Alchemie helfen. (Nur mit Informationen)";
+
+translate "Alchemie"
+to german "Alchemie";
+
+translate "Alembic"
+to german "Destillerie";
+
+translate "Distillation"
+to german "Destillation";
+
+translate "Distillation (Completed)"
+to german "Destillation (Komplett)";
+
+translate "You learn to build and operate an Alembic."
+to german "Du lernst eine Destillerie zu bauen und zu betreiben.";
+
+translate "Add Beer"
+to german "Bier hinzugeben";
+
+translate "Add Wine"
+to german "Wein hinzugeben";
+
+translate "Load the Alembic with Charcoal"
+to german "Belade die Destillerie mit Holzkohle";
+
+translate "Load how much Charcoal? (Max N1)"
+to german "Wieviel Holzkohle (Max N1)";
+
+translate "The fuel supply ran out, causing the mixture to quickly cool, and empty through the safety valve."
+to german "Der Brennstoff ging aus, dadurch kühlte die Mixtur zu schnell aus und wurde durch das Sicherheitsventil abgelassen.";
+
+translate "Clean the Alembic"
+to german "Reinige die Destillerie";
+
+translate "Clean the Alembic - are you sure?"
+to german "Destillerie reinigen - bist du sicher?";
+
+translate "Reverse the flow and bottle the Distillate"
+to german "Verschließe den Abfluss und fülle das Destillat ab";
+
+translate "There is no distillate in the sink."
+to german "Es ist kein Destillat im Sinkrohr";
+
+translate "Dump just the Distillate"
+to german "Verwerfe das Destillat";
+
+translate "Pot: N1"
+to german "Topf: N1";
+
+translate "Sink: N1"
+to german "Sinkrohr: N1";
+
+translate "Read Scientists Notes on O1"
+to german "Lese die Wissenschaftsberichte über O1(sn)";
+
+translate "After much research we concluded that there are in fact nine different chemical components that make up Spirits. Each has a different boiling point, and due to the valve mechanism on an alembic, it is possible to boil off just those spirits with a boiling point equal to the solution temperature (rather than those equal or above.)"
+to german "Nach intensiven Forschungen sind wir zu dem Ergebnis gekommen, dass es tatsächlich neun unterschiedliche chemische Bestandteile zur Herstellung von Weingeist gibt.Jedes für sich hat unterschiedliche Siedepunkte. Die Ventilmechanik einer Destillerie ermöglicht das Verdampfen nur der Weingeistarten, deren Siedepunkt ebenso hoch ist, wie die Lösungstemperatur.";
+
+translate "The nine types of spirits, from lowest boiling point to highest are: Rock, Wood, Worm, Grain, Grass, Fruit, Vegetable, Mineral, Fish. Spirits are then further categorized by purity level, with the most pure referred to as Spirits of Ra, followed by Spirits of Life, Air, Fire, Water, Earth. The term Grey Spirits indicates that either the spirit is even less pure than Earth spirits, *or* contains compounds with an average boiling point above Fish Spirits."
+to german "Die neun Weingeistarten, vom niedrigsten bis zum höchsten Siedepunkt sind: Felsen-, Holz-, Wurm-, Getreide-, Gras-, Frucht-, Gemüse-, Mineralien- und Fischweingeist. Weingeist wird zudem noch in verschiedene Reinheitsgrade unterteilt. Die größte Reinheit hat der Weingeist des Ra, gefolgt vom Weingeist des Lebens, der Luft, des Feuers, des Wassers und der Erde. Der Bereich Grauer Weingeist zeigt an, dass der Weingeist entweder weniger rein ist, als der Weingeist der Erde *oder* dass er Verbindungen enthält mit einem durchschnittlichen Siedepunkt über dem Weingeist des Fisches.";
+
+translate "Not all distillable materials contain all spirit types. Beer, for example contains Wood, Worm, Grain, and Grass spirits. Beers with the 'Dry' flavor also contain small amounts of Fruit and Vegetable Spirits. Potent beers contain 25% more spirits total than normal beers. Very Potent Beers contain 50% more."
+to german "Nicht alle destillierbaren Materialien beinhalten alle Weingeistarten. Bier zum Beispiel beinhaltet Holz-, Wurm-, Getreide- und Grasweingeist. Bier mit einem 'trockenen' Aroma enthält auch geringe Teile von Frucht und Gemüseweingeist. Starkbier enthält 25% mehr Weingeist insgesamt als einfache Biere. Kräftiges Starkbier sogar 50%.";
+
+translate "The pressure and heat of an alembic cause a chemical reaction in wine whereby tanins are converted into Wood, Worm, Grain, and Grass spirits. Residual sugar further increases the spirits' weight, providing vegetable, mineral, and fish spirits. Since the condensing stage of an Alembic tends to average the weights of the circulating components, it is theoretically possible to distill intermediate types of spirits by distilling a high boiling point spirit such as Vegetable, and then a bit of a low boiling point spirit like Grass. When this is done, the result would be Fruit Spirits. It is unknown whether these can be made with enough purity to prevent classification as Grey Spirits."
+to german "Der Druck und die Hitze einer Destillerie ruft eine chemische Reaktion im Wein hervor, wobei die Tanine umgewandelt werden in Holz, Wurm, Getreide und Grasweingeist. Der Restzuckergehalt intensiviert die Dichte des Weingeistes und liefert Gemüse-, Mineralien- und Fischweingeister. Während der Kondensationsphase einer Destillerie wird darauf abgezielt die Gewichte der zu verteilten Bestandteile zu mitteln, dabei ist es theoretisch möglich, Weingeistzwischenarten zu destillieren, indem man einen Weingeist mit einem hohen Siedepunkt, wie z. B Gemüseweingeist herstellt und dann einen Weingeist mit niedrigem Siedepunkt, wie z. B. Grasweingeist. Würde dies getan werden, käme als Resultat Fruchtweingeist heraus. Es ist nicht bekannt, ob dies mit einem genügend hohen Reinheitsgrad erwirkt werden kann, um eine Klassifizierung als Grauer Weingeist zu erreichen.";
+
+translate "Spirit of Ra"
+to german "Weingeist des Ra";
+translate "Spirit of Life"
+to german "Weingeist des Lebens";
+translate "Spirit of Air"
+to german "Weingeist der Luft";
+translate "Spirit of Fire"
+to german "Weingeist des Feuers";
+translate "Spirit of Water"
+to german "Weingeist des Wasser";
+translate "Spirit of Earth"
+to german "Weingeist der Erde";
+translate "Spirit of Grey"
+to german "Grauer Weingeist";
+translate "Rock"
+to german "Felsen";
+translate "Wood"
+to german "Holz";
+translate "Worm"
+to german "Wurm";
+translate "Grain"
+to german "Saat";
+translate "Grass"
+to german "Gras";
+translate "Fruit"
+to german "Frucht";
+translate "Vegetable"
+to german "Pflanzlich";
+translate "Mineral"
+to german "Mineralisch";
+translate "Fish"
+to german "Fisch";
+translate "Grey"
+to german "Grau";
+translate "Grey Spirits"
+to german "Grauer Weingeist";
+
+translate "K1 Spirits"
+to german "K1 Weingeist";
+
+translate "K1 is not one of the spirit types."
+to german "K1 ist keine Weingeistart.";
+translate "K1 is not one of the spirit quality levels."
+to german "K1 ist keine geforderte Weingeistqualität.";

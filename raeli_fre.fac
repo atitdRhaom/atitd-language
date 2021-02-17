@@ -1,0 +1,245 @@
+module raeli_fre;
+
+translate raelioven to french masculine
+{
+	ns "Four Raeli"; np "Fours raeli";
+	}
+
+translate raelitiles to french feminine
+{
+	ns "Tuile Raeli"; np "Tuiles Raeli";
+	}
+
+translate RaeliPottery to french feminine
+{
+	ns "Poterie Raeli"; np "Poteries Raeli";
+	}
+
+translate "Enable the Clay Dredge"
+to french "Permettre l'extraction d'argile";
+translate "Disable the Clay Dredge"
+to french "Désactiver l'extraction d'argile";
+
+translate "Rediscovery of the lost art of Raeli Tiles: fine, traditional tiles in dramatic colors."
+to french "Redécouvrez l'art perdu des tuiles Raeli, et de leurs associations de couleurs.";
+
+translate "You must learn how to make structures stronger first"
+to french "Vous devez d'abord apprendre comment renforcer la structure";
+
+translate "Clay Bricks for Main Chamber"
+to french "Briques en argile pour le foyer principal";
+
+translate "Strengthen the Mechanism"
+to french "Renforcer le mécanisme";
+
+translate "Harvest the Clay" to french "Recueillir l'argile";
+
+translate "Copper Wire for Mechanism Tensioner"
+to french "Cables d'acier pour le tendeur de mécanismes";
+translate "Moonsteel Sheeting - Heat Reflector Research"
+to french "Revêtement d'acier lunaire - Recherche sur les réflecteurs de chaleur";
+translate "Sunsteel Sheeting - Heat Reflector Research"
+to french "Revêtement d'acier solaire - Recherche sur les réflecteurs de chaleur";
+translate "Concrete for Platform and Housing"
+to french "Béton pour la plateforme et le logement";
+translate "Clay Steep Wool for Insulation"
+to french "Vêtement de laine raidi à l'argile pour l'isolation";
+translate "Iron Bars for Base Housing (Housing Experiments)"
+to french "Barres de fer pour les fondations";
+translate "Lithium Bars for Base Housing (Housing Experiments)"
+to french "Barres de Lithium pour les fondations";
+translate "Copper Bars for Base Housing (Housing Experiments)"
+to french "Barres de cuivre pour les fondations";
+translate "Tin Bars for Base Housing (Housing Experiments)"
+to french "Barres d'étain pour les fondations";
+
+translate "Zinc Bars for Base Housing (Housing Experiments)"
+to french "Barres de Zinc pour les fondations";
+
+translate "Silver Small Gears for Drivetrain (Drivetrain Experiments)"
+to french "Petits pignons en argent pour l'entrainement";
+translate "Titanium Small Gears for Drivetrain (Drivetrain Experiments)"
+to french "Petits pignons en titane pour l'entrainement";
+translate "Gold Small Gears for Drivetrain (Drivetrain Experiments)"
+to french "Petits pignons en or pour l'entrainement";
+translate "Platinum Small Gears for Drivetrain (Drivetrain Experiments)"
+to french "Petits pignons en platine pour l'entrainement";
+translate "Antimony Small Gears for Drivetrain (Drivetrain Experiments)"
+to french "Petits pignons en antimoine pour l'entrainement";
+translate "Iron Medium Gears for Drivetrain (Drivetrain Experiments)"
+to french "pignons moyens en fer pour l'entrainement";
+translate "Tungsten Medium Gears for Drivetrain (Drivetrain Experiments)"
+to french "pignons moyens en tungsten pour l'entrainement";
+translate "Lead Medium Gears for Drivetrain (Drivetrain Experiments)"
+to french "pignons moyens en plomb pour l'entrainement";
+translate "Magnesium Medium Gears for Drivetrain (Drivetrain Experiments)"
+to french "pignons moyens en magnésium pour l'entrainement";
+translate "Aluminum Medium Gears for Drivetrain (Drivetrain Experiments)"
+to french "pignons moyens en alluminium pour l'entrainement";
+
+
+translate "Small Gears for Drivetrain"
+to french "Petits pignons pour l'entrainement";
+translate "Bearings for Driveshaft"
+to french "pignons pour arbre de transmission";
+translate "Cement for Platform"
+to french "Ciment pour la plateforme";
+translate "Cut Stone for Counterweight"
+to french "Pierre coupée pour le contrepoids";
+translate "Rope for Countertensioner"
+to french "Cordes pour contre tendeur";
+translate "Crucibles for Collection Oven"
+to french "Creuset pour le four";
+translate "Glass Pipes for Thermostatic Regulator"
+to french "Tubes en verre pour le régulateur thermostatique";
+translate "Medium Gears for Drivetrain Attachment Point"
+to french "Pignons moyens pour point d'attache des entrainements";
+translate "Iron Bars for Base Housing"
+to french "Barre de fer pour boîtier de base";
+translate "Shovel Blades for Collector"
+to french "Lames de pelle pour collecteur ";
+translate "Pinch Roller for Crushing Mechanism"
+to french "Rouleau à pression pour concassage mécanique";
+
+translate "2000+ Quality Carpentry Blade"
+to french "Lame de menuiserie qualité 2000+ ";
+translate "3000+ Quality Carpentry Blade"
+to french "Lame de menuiserie qualité 3000+";
+translate "4000+ Quality Carpentry Blade"
+to french "Lame de menuiserie qualité 4000+";
+translate "5000+ Quality Carpentry Blade"
+to french "Lame de menuiserie qualité 5000+";
+translate "6000+ Quality Carpentry Blade"
+to french "Lame de menuiserie qualité 6000+";
+
+translate "Royal Palm Resin (Main Shaft Encasement Experiments)"
+to french "Résine de Palmier Royal";
+translate "Mini Palmetto Resin (Main Shaft Encasement Experiments)"
+to french "Résine de Mini Palmier";
+translate "Miniature Fern Palm Resin (Main Shaft Encasement Experiments)"
+to french "Résine de Fougère miniature";
+translate "Bottle Tree Resin (Main Shaft Encasement Experiments)"
+to french "Résine d'Arbre gourde";
+translate "Umbrella Palm Resin (Main Shaft Encasement Experiments)"
+to french "Résine d'arbre parasol";
+translate "Hawthorn Resin (Main Shaft Encasement Experiments)"
+to french "Résine d'Aubépine ";
+translate "Folded Birch Resin (Main Shaft Encasement Experiments)"
+to french "Résine de Folded Birch";
+translate "Pratyeka Tree Resin (Main Shaft Encasement Experiments)"
+to french "Résine de Pratyeka";
+translate "Spindle Tree Resin (Main Shaft Encasement Experiments)"
+to french "Résine d'arbre fusain";
+translate "Locust Palm Resin (Main Shaft Encasement Experiments)"
+to french "Résine de Locust";
+translate "Coconut Palm Resin (Main Shaft Encasement Experiments)"
+to french "Résine de Cocotier";
+translate "Butterleaf Tree Resin (Main Shaft Encasement Experiments)"
+to french "Résine d'arbre tartine";
+translate "Kaeshra Resin (Main Shaft Encasement Experiments)"
+to french "Résine de Kaeshra";
+translate "Giant Cricklewood Resin (Main Shaft Encasement Experiments)"
+to french "Résine de bois fendu géant";
+translate "Ranyahn Resin (Main Shaft Encasement Experiments)"
+to french "Résine de Ranyahn";
+translate "Cinnar Resin (Main Shaft Encasement Experiments)"
+to french "Résine de Cinnar";
+translate "Delta Palm Resin (Main Shaft Encasement Experiments)"
+to french "Résine de Palmier du Delta";
+translate "Cerulean Blue Resin (Main Shaft Encasement Experiments)"
+to french "Résine de Cerulean Blue";
+translate "Towering Palm Resin (Main Shaft Encasement Experiments)"
+to french "Résine de Grands Palmiers";
+translate "Monkey Palm Resin (Main Shaft Encasement Experiments)"
+to french "Résine d'arbre singe";
+translate "Cricklewood Resin (Main Shaft Encasement Experiments)"
+to french "Résine de bois fendu";
+
+//----
+translate "Steel Sheeting for heat reflector"
+to french "Revêtement d'acier pour réfléchir la chaleur";
+
+translate "Sheet glass for the oven chamber"
+to french "Revêtement de verre pour le foyer du four";
+
+translate "Fire bricks for the internal kiln"
+to french "Briques réfractaires pour l'intérieur du four";
+
+translate "Large gear for the drive mechanism"
+to french "Gros pignons pour le mécanisme de convoyage";
+
+translate "Thermometers to monitor the kiln"
+to french "Thermomètres pour surveiller le four";
+
+translate "You learn to make Raeli Ovens using O1 Resin to encase the main shaft. Other Regions may hold the secret to using different types of resins."
+to french "Vous avez appris à construire des fours Raeli en utilisant la résine O1(ns) pour enduire le rouleau primaire";
+
+translate "You already know how to make Raeli Ovens using O1 Resin! Other Regions may hold the secret to using different types of resins."
+to french "Vous savez déjà comment construire des fours Raeli en utilisant la résine O1(ns)! D'autres régions détiennent peut-être le secret de l'utilisation d'autres résines.";
+
+translate "You learn to build and operate Raeli Ovens to make the so-called 'lost art' Raeli Tiles."
+to french "Vous apprenez à construire et à utiliser des fours Raeli pour fabriquer ce qu'on désigne comme l'art perdu des tuiles raeli.";
+
+translate "Raeli Oven"
+to french "Four Raeli";
+
+translate "Upgrade Oven with Clay Dredge"
+to french "Améliorez ce four avec une drague en argile";
+
+translate "Raeli ovens closer than 800 feet will interfere with each other."
+to french "Les fours Raeli fonctionnent mal s'ils sont à moins de 800 pieds les uns des autres.";
+
+translate "To build a Raeli Oven, you need: "
+to french "Pour construire un four Raeli, il vous faut :";
+
+translate "Begin the Baking Process"
+to french "Lancer le processus de cuisson";
+
+translate "Nearby ovens are interfering with this one."
+to french "Les fours du voisinage empêchent celui-ci de bien fonctionner.";
+
+translate "No tiles were produced. Watch the dredging phase more carefully."
+to french "Aucune tuile produite. Surveillez l'étape finale plus attentivement.";
+
+translate "It takes 100 petroleum to begin the baking process."
+to french "Il faut 100 mesures de pétrole pour commencer la cuisson.";
+
+translate "Interrupt the Baking Process"
+to french "Interrompre le processus de cuisson";
+
+translate "Start dredging"
+to french "Commencer l'extraction";
+
+translate "Show Raeli Color"
+to french "Couleurs Raeli";
+
+translate "Non-owners may not use Oven"
+to french "Seuls les propriétaires peuvent utiliser ce four";
+
+translate "Only Owners may bake tiles in this Oven"
+to french "Seuls les propriétaires peuvent cuire des tuiles dans ce four";
+
+translate "For this Oven, Owner keeps N1%"
+to french "Les propriétaires gardent N1%";
+
+translate "You do not have permission to bake tiles in this Oven."
+to french "Vous n'avez pas la permission de cuire des tuiles dans ce four.";
+
+translate "You do not have permission to interrupt the baking process in this Oven."
+to french "Vous n'avez pas la permission d'interrompre le processus de cuisson de ce four.";
+
+translate "You do not have permission to start dredging with this Oven."
+to french "Vous n'avez pas la permission de lancer le processus de cuisson de ce four.";
+
+translate "It takes 25 Charcoal to begin the baking process."
+to french "Il faut 25 charbons pour lancer la cuisson.";
+
+translate "To upgrade the Raeli Oven you need: "
+to french "Pour améliorer le four Raeli, il vous faut: ";
+
+// passing the test - System messages
+
+translate "Egypt recognizes K1 for passing the Test of the Funerary Temple."
+to french "L'égypte reconnait K1 pour avoir passé l'épreuve du Temple funéraire";
+translate "Egypt recognizes K1 for passing the Test of the Funerary Temple. Retaining K2 passes."
+to french "L'égypte reconnait K1 pour avoir passé l'épreuve du Temple funéraire. K2 passages retenus";

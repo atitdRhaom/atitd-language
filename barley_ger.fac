@@ -1,0 +1,123 @@
+module barley_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Games **
+//**    (C)opyright 2002,2003 by MDO Games			           **
+//**                                                                       **
+//***************************************************************************
+//menues
+
+//objects
+
+translate WeedKiller to german neuter
+{
+  swa "Unkrautmittel";
+  sn "Unkrautmittel"; sg "Unkrautmittels"; sd "Unkrautmittel"; sa "Unkrautmittel";
+  pn "Unkrautmittel"; pg "Unkrautmittel"; pd "Unkrautmitteln"; pa "Unkrautmittel";
+}
+
+translate GrainFertilizer to german masculine
+{
+  swa "Getreidedünger";
+  sn "Getreidedünger"; sg "Getreidedüngers"; sd "Getreidedünger"; sa "Getreidedünger";
+  pn "Getreidedünger"; pg "Getreidedünger"; pd "Getreidedüngern"; pa "Getreidedünger";
+}
+
+translate BarleyBed to german feminine
+{
+  swa "Gerstenpflanze";
+  sn "Gerstenpflanze"; sg "Gerstenpflanze"; sd "Gerstenpflanze"; sa "Gerstenpflanze";
+  pn "Gerstenpflanzen"; pg "Gerstenpflanzen"; pd "Gerstenpflanzen"; pa "Gerstenpflanzen";
+}
+
+translate Barley to german feminine
+{
+  swa "Gerste";
+  sn "Gerste"; sg "Gerste"; sd "Gerste"; sa "Gerste";
+  pn "Gerste"; pg "Gerste"; pd "Gerste"; pa "Gerste";
+}
+
+//translate GreenThumb to german masculinecollective
+//{
+//  swa "Grüner Daumen";
+//  sn "Grüne Daumen"; sg "Grünen Daumens"; sd "Grünen Daumen"; sa "Grünen Daumen";
+//  pn "Grünen Daumen"; pg "Grünen Daumen"; pd "Grünen Daumen"; pa "Grünen Daumen";
+//}
+
+translate MaltingTray to german masculinecollective
+{
+  swa "Malztisch";
+  sn "Malztisch"; sg "Maltisches"; sd "Malztisch"; sa "Malztisch";
+  pn "Malztische"; pg "Malztische"; sd "Malztischen"; pa "Malztische";
+  }
+  
+translate "Request a packet of Barley"
+to german "Erbitte ein Päckchen Gerste";
+
+translate "You already got a packet of barley."
+to german "Du hast bereits ein Päckchen Gerste bekommen.";
+
+translate "We can only give barley to people with paid accounts."
+to german "Wir können Gerste nur an Einwohner mit Zahlaccounts ausgeben.";
+
+translate "You don't have any grain fertilizer."
+to german "Du hast keinen Getreidedünger.";
+
+translate "You don't have any water."
+to german "Du hast kein Wasser.";
+
+translate "You don't have any weed killer."
+to german "Du hast kein Unkrautmittel.";
+
+translate "Barley"
+to german "Gerste";
+
+translate "To plant barley, you need: "
+to german "Um Gerste anzupflanzen benötigst Du; ";
+
+translate "Build a Malting Tray"
+to german "Baue einen Malztisch";
+
+translate "To build a Malting Tray, you need: "
+to german "Um einen Malztisch zu bauen brauchst Du: ";
+
+translate "Malt Barley"
+to german "Malze Gerste";
+
+translate "To malt barley, you need: "
+to german "Um Gerste zu malzen benötigst Du: ";
+
+translate "The Malt"
+to german "Das Malz";
+
+translate "The barley is germinating..."
+to german "Die Gerste keimt...";
+
+translate "Barley: in Danger"
+to german "Gerste: In Gefahr";
+
+translate "Barley: Growing"
+to german "Gerste: Wächst";
+
+translate "Barley: Ready to Harvest"
+to german "Gerste: Fertig zur Ernte";
+
+translate "Fertilizer:"
+to german "Dünger:";
+
+translate "Weed Killer:"
+to german "Unkrautmittel:";
+
+translate "Water:"
+to german "Wasser:";
+
+translate "Harvest"
+to german "Ernte";
+
+translate "Supplies"
+to german "Hilfsgüter";
+
+translate "Farming"
+to german "Landwirtschaft";

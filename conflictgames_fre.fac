@@ -1,0 +1,69 @@
+module ConflictGames_fre;
+
+translate CGTug to french feminine
+{ ns "Télépathie"; np "Télépathie";}
+
+translate CGReflection to french feminine
+{ns "Réflexion"; np "Rélfexion";}
+
+translate CGCommand to french feminine
+{ns "Rite du commandement"; np "Rite du commandement";}
+
+translate CGHeket to french feminine
+{ns "Rateau de Heket"; np "Rateau de Heket";}
+
+translate CGSeven to french feminine
+{ ns "Sept lames"; np "Sept lames";}
+
+translate CGZhadu to french feminine
+{ns "Zhadu"; np "Zhadu";}
+
+translate CGKanivan to french feminine 
+{ns "Kanivan Tak"; np "Kanivan Tak";}
+
+translate CGYokir to french feminine 
+{ ns "Yokir"; np "Yokir";}
+
+translate CGConvoy to french feminine
+{ ns "Convoi du roi"; np "Convoi du roi";}
+
+translate CGWitagog to french feminine 
+{ ns "Witagog"; np "Witagog";}
+
+translate "You are no longer signed up for the next Conflict Seasons O1 event."
+to french "Vous n'êtes plus enregistré pour la prochaine saison du jeu de O1(ns)";
+
+translate "You are now signed up for the next Conflict Seasons O1 event."
+to french "Vous êtes enregistré pour la prochaine saison du jeu de O1(ns)";
+
+translate "Meditate on conflict"
+to french "Méditez sur les conflits";
+
+translate "Conflict Seasons"
+to french "Saison des Conflits";
+
+translate "You gained no insight from your meditation."
+to french "Vous n'avez rien obtenu de votre méditation";
+
+translate "Scoreboard"
+to french "Tableau des scores";
+
+translate "Gathering scores..."
+to french "Récupération des scores...";
+
+translate "This is a friendly game."
+to french "C'est un jeu amical";
+
+translate "Send my spirit to Wepawet's"
+to french "Envoyer mon esprit vers les arènes Wepawet";
+translate "Player"
+to french "Joueur";
+translate "Draws"
+to french "Abandon";
+translate "How do I play O1?"
+to french "Comment jouer à O1(ns)";
+translate "How to play:"
+to french "Comment jouer:";
+translate "Start a game of Yokir"
+to french "Commencer un jeu de Yokir";
+

@@ -1,0 +1,77 @@
+module watermining_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Games **
+//**    (C)opyright 2002,2003 by MDO Games			           **
+//**                                                                       **
+//***************************************************************************
+//menues
+
+
+translate WaterMining to german femininecollective
+{
+  swa "Wassermine";
+  sn "Wassermine"; sg "Wassermine"; sd "Wassermine"; sa "Wassermine";
+  pn "Wassermine"; pg "Wassermine"; pd "Wassermine"; pa "Wassermine";
+}
+
+translate "A novel method of extracting gems from the mud near shorelines."
+to german "Eine überarbeitete Methode, um Edelsteine aus dem Schlamm nahe eines Ufers zu filtern.";
+
+translate "WaterMining (Completed)"
+to german "Wassermine (Komplett)";
+
+translate "You study a method for shaping glass tubes into a giant spring-loaded glass helix to churn the mud, and look for gems."
+to german "Du studierst eine Methode, Glasrohre in eine Federgeladene Helix zu verwandeln, um damit Schlamm nach Edelsteinen zu durchsuchen.";
+
+translate WaterMine to german femininecollective
+{
+  swa "Wassermine";
+  sn "Wassermine"; sg "Wassermine"; sd "Wassermine"; sa "Wassermine";
+  pn "Wassermine"; pg "Wassermine"; pd "Wassermine"; pa "Wassermine";
+}
+
+translate "Water Mine"
+to german "Wassermine";
+
+translate "To build a Water Mine, you need: "
+to german "Um eine Wassermine zu bauen brauchst du: ";
+
+translate "Water Mines must be built directly adjacent to water."
+to german "Wasserminen müssen in direkter Nähe zum Wasser gebaut werden.";
+
+translate "No good place to build."
+to german "Kein guter Platz zum Bauen.";
+
+translate "You're close enough to another water mine that they may interfere with each other. Build here anyway?"
+to german "Du bist nahe einer anderen Wassermine, sie könnten sich gegenseitig stören. Dennoch hier bauen?";
+
+translate "Wind the collar spring"
+to german "Ziehe die Manschettenfeder auf";
+
+translate "Pitch Angle is N1"
+to german "Der Neigungswinkel beträgt N1°";
+
+translate "Listen to the Pipe"
+to german "Lausche der Pfeife";
+
+translate "It sounds like the seashore. Wind the spring, and then listen."
+to german "Es klingt nach Meeresrauschen. Ziehe die Feder auf und lausche dann.";
+
+translate "You hear the telltale tinkling of gems striking the glass."
+to german "Du hörst das verräterische Klimpern von Edelsteinen, die an das Glas schlagen.";
+
+translate "Aside from the unwinding of the spring in the collar, you hear nothing."
+to german "Abgesehen vom Nachlassen der Feder hörst du gar nichts.";
+
+translate "Set the Pitch"
+to german "Bestimme die Neigung";
+
+translate "Angle of N1"
+to german "Winkel von N1°";
+
+translate "Pitch is now set to N1"
+to german "Die Neigung beträgt nun N1°";
+

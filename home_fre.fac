@@ -1,0 +1,132 @@
+module home_fre;
+
+translate "Build a tent"
+to french "Monter une tente";
+
+translate "To build a Tent, you need: "
+to french "Pour monter une tente, il vous faut : ";
+
+translate "Homes are special, you may not build more than one. If you wish to move you must first tear down current home, located at N1 N2"
+to french "Les habitations sont spéciales, vous ne pouvez en construire plus d'une. Si vous voulez déménager, vous devez d'abord détruire votre habitation actuelle, située en N1 N2";
+
+translate "Small House"
+to french "Petite maison";
+
+translate "Termite-resistant boards for Structure"
+to french "Planches traitées résistantes aux termites pour la structure";
+
+translate "Rotproof boards for Structure"
+to french "Planches traitées imputrescibles pour la structure";
+
+translate "Fireproof boards for Structure"
+to french "Planches traitées résistantes au feu pour la structure";
+
+translate "Nails for structure"
+to french "Clous pour la structure";
+
+translate "Oyster Shell Marble for Accents"
+to french "Marbres Coquille d'Huître pour les ornements";
+
+translate "Linen for Interior"
+to french "Tissus pour l'intérieur";
+
+translate "Rope for Framing"
+to french "Cordes pour le bardage";
+
+translate "Concrete for Foundation"
+to french "Bétons pour les fondations";
+translate "Concrete for Foundataion"
+to french "Bétons pour les fondations";
+
+translate "Ivory Paint for Interiors"
+to french "Peintures Ivoires pour l'intérieur";
+
+translate "To build a Small House you need:"
+to french "Pour bâtir une petite maison, il vous faut :";
+
+translate "Medium House"
+to french "Maison moyenne";
+
+translate "Rigid Rotproof Boards for structure"
+to french "Planches traitées rigides imputrescibles pour la structure";
+
+translate "Glossy White Boards for decor"
+to french "Planches traitées brillantes blanches pour le décor";
+
+translate "Glossy Blonde Boards for decor"
+to french "Planches traitées brillantes blondes pour le décor";
+
+translate "Glossy Black Boards for decor"
+to french "Planches traitées brillantes noires pour le décor";
+
+translate "White Travertine for foyer"
+to french "Travertins blancs pour le foyer";
+
+translate "Canary Granite for accents"
+to french "Granits Canari pour les ornements";
+
+translate "To build a Medium House you need:"
+to french "Pour bâtir une maison moyenne, il vous faut :";
+
+translate "Large House"
+to french "Grande maison";
+
+translate "Rigid Rotproof Boards for upper structure"
+to french "Planches traitées rigides imputrescibles pour les structures supérieures";
+
+translate "Rigid Fireproof Boards for living area structure"
+to french "Planches traitées rigides résistantes au feu pour la structure de la pièce à vivre";
+
+translate "Rigid Termite Resistant Boards for lower structure"
+to french "Planches traitées rigides et résistantes aux termites pour les structures inférieures";
+
+translate "Hard Glossy White Boards for decor"
+to french "Planches traitées dures, brillantes et blanches pour le décor";
+
+translate "Hard Glossy Blonde Boards for decor"
+to french "Planches traitées dures, brillantes et blondes pour le décor";
+
+translate "Hard Glossy Black Boards for decor"
+to french "Planches traitées dures, brillantes et boires pour le décor";
+
+translate "Soft Nontoxic boards for living area finish"
+to french "Planches traitées tendres non toxiques pour les finissions de la pièces à vivre";
+
+translate "White Travertine for foyer"
+to french "Travertins blancs pour le foyer";
+
+translate "Blue Pearl Marble for trim"
+to french "Marbre Perle Bleue pour les ornements";
+
+translate "Hornet's Wing Granite for window hilights"
+to french "Granits Ailes-de-Frelon pour l'embelissement des fenêtres";
+
+translate "Mountain Marble for hallways"
+to french "Marbres des montagnes pour les couloirs";
+
+translate "Island Blue Marble, just to show off"
+to french "Marbre Bleu d'Islande, juste pour frimer";
+
+translate "Cornflower Blue Raeli Tiles"
+to french "Tuiles raeli : bleuet";
+
+translate "Dark Slate Grey Raeli Tiles"
+to french "Tuiles raeli : gris ardoise foncé";
+
+translate "Gainsboro Raeli Tiles"
+to french "Tuiles raeli : gainsboro";
+
+translate "Linen Raeli Tiles"
+to french "Tuiles raeli : tissu";
+
+translate "Royal Blue Raeli Tiles"
+to french "Tuiles raeli : bleu roi";
+
+translate "Ivory Raeli Tiles"
+to french "Tuiles raeli : ivoire";
+
+translate "Black Raeli Tiles"
+to french "Tuiles raeli : noir";
+
+translate "To build a Large House you need:"
+to french "Pour bâtir une grande maison, il vous faut :";

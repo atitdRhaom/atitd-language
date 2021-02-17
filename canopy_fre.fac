@@ -1,0 +1,693 @@
+module canopy_fre;
+
+translate Canopy to french masculinecollective
+{
+	ns "Atelier"; np "Ateliers";
+	}
+
+translate CompoundConstruction to french feminine
+{
+	ns "Construction d'ateliers"; np "Construction d'ateliers";
+	}
+
+	
+translate BreezewayBlueprint to french masculine
+{
+	ns "Plan : Coursive"; np "Plans : Coursive";
+	}
+
+translate buildingpermit to french masculine
+{ ns "Permis de construire"; np "Permis deconstruire"; }
+
+translate "To edit the blueprints you need a: O1"
+to french "Pour modifier les plans il vous faut:\n\n un O1(ns)";
+
+translate "This compound belongs to The Meshwesh" to french "Cet atelier appartient aux Meshwesh";
+translate "This compound belongs to The Kush" to french "Cet atelier appartient aux Kush";
+translate "This compound belongs to The Hyksos" to french "Cet atelier appartient aux Hyksos";
+
+
+translate "Compound"
+to french "Atelier";
+
+translate "Compound Construction"
+to french "Construction d'ateliers";
+
+translate "Town House" to french "Maison de ville";
+translate "Breezeway" to french "Maison sur Plan";
+
+translate "Carpentry"
+to french "Menuiserie";
+
+translate "To build a Compound you need:"
+to french "Pour construire un atelier, il vous faut :";
+
+translate "Repairable by Anyone"
+to french "Réparable par tous";
+
+translate "Help Text"
+to french "Aide";
+
+translate "Basic"
+to french "Basique";
+translate "Plain Wall"
+to french "Mur simple";
+translate "Plain Door"
+to french "Porte simple";
+translate "Post-Lintel Door"
+to french "Porte à linteau";
+
+translate "Cylinder Column"
+to french "Colonne cylindrique";
+translate "Cylinder Column Pair"
+to french "Colonnes jumelles cylindriques";
+translate "Obelisk Column"
+to french "Colonne obélisque";
+translate "Obelisk Column Pair"
+to french "Colonnes d'obélisques jumeaux";
+
+translate "Ceiling Faces North"
+to french "Grenier au nord";
+translate "Ceiling Faces South"
+to french "Grenier au sud";
+translate "Ceiling Faces East"
+to french "Grenier à l'est";
+translate "Ceiling Faces West"
+to french "Grenier à l'ouest";
+
+translate "Building Shape"
+to french "Construction";
+translate "Add a Sector"
+to french "Ajouter un secteur";
+translate "All values must be non-zero."
+to french "Aucune valeur ne doit être à zéro";
+translate "Remove a Sector"
+to french "Retirer un secteur";
+translate "Discard Blueprints"
+to french "Jeter les plans";
+
+translate "Paint/Texture"
+to french "Peinture/Texture";
+translate "Wall Texture"
+to french "Texture murale";
+translate "Trim Texture"
+to french "Texture d'ornement";
+translate "Wall Color"
+to french "Couleur murale";
+translate "Trim Color"
+to french "Couleur d'ornement";
+
+translate "Bricks for Floor"
+to french "Briques pour le sol";
+
+translate "Choose a style and orientation for your compound"
+to french "Choisissez un style et une orientation pour votre atelier";
+
+translate "Although it will appear that the building is changing shape, you are actually just editing the blueprints.  Some tools may not be used in certain situations.  Check the main chat console for feedback concerning your design.  After you are done, you may supply the materials to alter the building."
+to french "Même si vous avez l'impression que le bâtiment change de forme, vous ne faites que modifier les plans. Certains outils ne pourront pas être utilisés dans toutes les situations. Réferrez-vous au canal Général pour des remarques concernant votre réalisation. Une fois que vous avez terminé, vous pouvez ajouter les matériaux nécessaires à la modification réelle.";
+
+translate "The blueprints are being used to upgrade the building.  You cannot edit the blueprints until the building upgrade is finished or abandoned."
+to french "Les plans sont utilisés pour l'amélioration du bâtiment. Vous ne pouvez pas modifier un plan tant que l'amélioration est en cours, ou qu'elle n'est pas abandonnée.";
+
+translate "Blueprints"
+to french "Plans";
+
+translate "You can edit the blueprints for"
+to french "Vous pouvez modifier les plans de";
+
+translate "this building, then use the"
+to french "ce bâtiment, puis les utiliser";
+
+translate "blueprints to alter the building."
+to french "pour modifier le bâtiment.";
+
+translate "Edit Blueprints"
+to french "Modifier les plans";
+
+translate "Cannot edit blueprints while construction in progress."
+to french "Impossible de modifier les plans : construction en cours.";
+
+translate "The blueprints were stored. You may now load the materials to alter the building."
+to french "Les plans ont été enregistrés. Vous pouvez maintenant ajouter les matériaux pour modifier le bâtiment.";
+
+translate "Discard Blueprints Entirely?"
+to french "Jeter tous les plans ?";
+
+translate "Choose Color"
+to french "Choix de couleur";
+
+translate "Abandon Building Alterations"
+to french "Abandonner les modifications";
+
+translate "Are you sure you want to abandon the upgrade?"
+to french "Voulez-vous vraiment abandonner les modifications ?";
+
+translate "Upgrade is still in progress."
+to french "Les modifications se poursuivent.";
+
+translate "Load Materials for Blueprints"
+to french "Ajouter les matériaux requis";
+
+translate "To alter this building, you need:"
+to french "Pour modifier ce bâtiment, il vous faut :";
+
+translate "Load Materials"
+to french "Ajouter les matériaux";
+
+translate "Construction is already in progress."
+to french "Construction déjà en cours";
+
+translate "You must abandon existing construction"
+to french "Cessez la construction en cours";
+
+translate "before you can start new construction."
+to french "avant d'en lancer une nouvelle.";
+
+translate "Abandon Construction on O1"
+to french "Abandonner la construction de O1(ns)";
+
+translate "The construction seems to have stopped.  This is a bug.  Please contact eGenesis."
+to french "La construction s'est arrêtée. C'est un bug. Veuillez contacter eGenesis.";
+
+translate "The Canopy already contains a construction site. You must finish the existing construction before starting something new."
+to french "Il existe déjà un site de construction. Vous devez achever la construction en cours avant d'en lancer une nouvelle.";
+
+translate "The Canopy blueprints are being edited. You cannot install a construction site while the blueprints are in flux."
+to french "Les plans sont en cours de modification. Vous ne pouvez pas créer de site de construction lorsque les plans sont en révision.";
+
+translate "The shape of the canopy has been altered.  You will have to restart construction."
+to french "Plans modifiés. Vous devez recommencer la construction.";
+
+translate "The new O1 is overlapping an already-existing O2"
+to french "Le nouveau O1(ns) empiète sur O2(uns) O2(ns) qui existe déjà.";
+
+translate "Walls up"
+to french "Lever les murs";
+
+translate "Walls down"
+to french "Baisser les murs";
+
+translate "Choose an initial style for your"
+to french "Choisissez un modèle de départ pour";
+
+translate "compound. After you build it, you"
+to french "votre atelier. Par la suite, vous";
+
+translate "can completely change the style."
+to french "pourrez le modifier à votre guise.";
+
+translate "Initial Style: Octagon Vault"
+to french "Modèle initial : Voûte octogonale";
+
+translate "Initial Style: Gem Facets"
+to french "Modèle initial : Facettes de pierre";
+
+translate "Initial Style: Three Watchtowers"
+to french "Modèle initial : Les trois tours";
+
+translate "Initial Style: Classical Columns"
+to french "Modèle initial : Colonnes classiques";
+
+translate "Initial Style: Step Pyramids"
+to french "Modèle initial : Pyramides à étages";
+
+translate "Initial Style: Octec's Wheel"
+to french "Modèle initial : Roue d'Octec";
+
+translate "Initial Style: Sunburst"
+to french "Modèle initial : Éclat de soleil";
+
+translate "Initial Style: Falcon"
+to french "Modèle initial : Faucon";
+
+translate "Initial Style: Temple"
+to french "Modèle initial : Temple";
+
+translate "Initial Style: Luxor Temple"
+to french "Modèle initial : Temple de Louxor";
+
+translate "Initial Style: Djoser Complex"
+to french "Modèle initial : Complexe de Djéser";
+
+translate "Initial Style: Hathor Requiem"
+to french "Modèle initial : Requiem à Hathor";
+
+translate "Initial Style: Town House  (N1 Cells Maximum Size)"
+to french "Modèle initial : Maison de ville (N1 sections maximum)";
+
+translate "Initial Style: Breezeway: (84 Cells Maximum Size)"
+to french "Modèle initial : Coursive : (84 sections maximum)";
+
+translate "To edit blueprints you need: "
+to french "Pour modifier les plans, il vous faut : ";
+
+translate "To load materials, you need: "
+to french "Pour mettre des matériaux, il vous faut : ";
+
+translate "Facing North"
+to french "Orienté au nord";
+
+translate "Facing South"
+to french "Orienté au sud";
+
+translate "Facing East"
+to french "Orienté à l'est";
+
+translate "Facing West"
+to french "Orienté à l'ouest";
+
+translate "Choose an initial style"
+to french "Choisissez un modèle initial";
+translate "and cardinal orientation"
+to french "et une orientation";
+translate "for your compound."
+to french "pour votre atelier";
+
+translate "Caution: You may not change the cardinal orientation or initial style once the compound has been built.  In addition, the land near a compound must be flat in order to expand the compound, and not too close to a road. In this location, N1 out of 49 nearby cells are usable. Commit?"
+to french "Attention : Vous ne pourrez plus modifier l'orientation ou le modèle de l'atelier une fois construit. De plus, le terrain autour de l'atelier doit être plat et éloigné d'une route afin de pouvoir agrandir l'atelier. A cet endroit, N1 sections sur les 49 à proximité sont constructibles.";
+
+translate "By order of the Compound Placement Law, by Lewbis, it is illegal to build here."
+to french "Selon la loi de disposition des ateliers, par Lewbis, il est illégal de construire ici.";
+
+translate "By order of the Compound Placement Law, by Lewbis, building near somebody's Home Marker is illegal."
+to french "Par ordre le la loi de disposition des ateliers, construire aussi près d'un atelier est illégal";
+
+translate "You can't build this close to a chariot stop."
+to french "Vous ne pouvez construire aussi près d'un chariot";
+
+translate "This style of compound does not fit at this location, the land is not flat enough, or it is too close to a road."
+to french "Ce type d'atelier ne convient pas pour l'emplacement, le terrain n'est pas assez plat, ou trop près d'une route";
+
+translate "Caution: the land near a compound must be flat in order to expand the compound, and not too close to a road. In this location, N1 out of 49 nearby cells are usable. Continue?"
+to french "Attention: Le terrain près d'un atelier doit être plat pour en permettre l'expansion, et pas trop près d'une route. À cet endroit, N1 de 49 cellules sont disponibles. Continuer ? ";
+
+translate "Sloped"
+to french "Pente";
+translate "Sloped, Simple"
+to french "En pente, simple";
+translate "Sloped, Wide Left"
+to french "En pente, large à gauche";
+translate "Sloped, Wide Right"
+to french "En pente, large a droite";
+translate "Sloped, Wide Both"
+to french "En pente, large des deux côtés";
+
+translate "Sloped Special"
+to french "Pentes spéciales";
+translate "Sloped, No Trim"
+to french "En pente, sans ornement";
+translate "Sloped, Roof Unit"
+to french "En pente, élévation du toît";
+translate "Sloped, Alcove"
+to french "En pente, avec chambrette";
+
+translate "Stairstep"
+to french "Escaliers";
+translate "Stairstep, Simple"
+to french "En escaliers, simple";
+translate "Stairstep, Wide Left"
+to french "En escaliers, large à gauche";
+translate "Stairstep, Wide Right"
+to french "En escaliers, large à droite";
+translate "Stairstep, Wide Both"
+to french "En escaliers, large des deux côtés";
+
+translate "Extruded Wall"
+to french "Mur ressorti";
+
+translate "Wide Left"
+to french "Large à gauche";
+
+translate "Wide Right"
+to french "Large à droite";
+
+translate "Wide Both"
+to french "Large des deux côtés";
+
+translate "Columns"
+to french "Colonnes";
+
+translate "Wedges"
+to french "Cales";
+translate "Extruded Left"
+to french "Ressorties à gauche";
+translate "Extruded Right"
+to french "Ressorties à droite";
+translate "Extruded Center"
+to french "Ressorties au centre";
+translate "Extruded Edges"
+to french "Ressorties sur les cotés";
+
+translate "Blueprint Editor"
+to french "Éditeur de plan";
+
+translate "Plaster Floors"
+to french "Sol de plâtre";
+translate "Medium Yellow"
+to french "Jaune moyen";
+translate "Medium Red"
+to french "Rouge moyen";
+translate "Dark Blue"
+to french "Bleu foncé";
+translate "Dark Grey"
+to french "Gris foncé";
+
+translate "Floors"
+to french "Sol";
+translate "Oyster Shell Marble"
+to french "Marbre coquille d'huître";
+translate "Canary Granite"
+to french "Granit canari";
+translate "Cherry Travertine"
+to french "Travertin cerise";
+translate "Blue Pearl Marble"
+to french "Marbre perle bleue";
+translate "Granite"
+to french "Granit";
+translate "Sandstone"
+to french "Grès";
+translate "Blue Marble"
+to french "Marbre bleu";
+translate "Slate"
+to french "Ardoise";
+
+translate "Ceiling Type"
+to french "Types de toît";
+translate "Flat Ceiling"
+to french "Toît plat";
+translate "Stud Ceiling"
+to french "Toît sur-élevé";
+translate "Small Pyramid"
+to french "Petite pyramide";
+translate "Ribbed Ceiling"
+to french "Toît canelé";
+translate "Open Ceiling"
+to french "A ciel ouvert";
+translate "Some Ceiling"
+to french "Toît partiel";
+translate "Raised Ceiling"
+to french "Toît surélevé";
+
+translate "Facade Type"
+to french "Type de facade";
+translate "Column (default)"
+to french "Colonnes (défaut)";
+translate "Obelisk"
+to french "Obélisque";
+translate "Statue"
+to french "Statue";
+translate "Entrance"
+to french "Entrée";
+translate "Wall"
+to french "Mur";
+translate "Flag"
+to french "Drapeau";
+translate "Open"
+to french "Ouvert";
+translate "Corner"
+to french "Angle";
+translate "Decor N1"
+to french "Décor N1";
+
+translate "Paint/Texture"
+to french "Peinture/Texture";
+
+translate "Abandon Compound Alterations"
+to french "Abandonner les modifications";
+
+translate "Color N1"
+to french "Coulour N1";
+
+translate "Earthtone Light (free)"
+to french "terre pâle (gratuit)";
+translate "Earthtone Yellow (free)"
+to french "terre jaune (gratuit)";
+translate "Earthtone Red (free)"
+to french "terre rouge (gratuit)";
+translate "Earthtone Grey (free)"
+to french "terre grise (gratuit)";
+translate "Earthtone Brown (free)"
+to french "terre brune (gratuit)";
+translate "Earthtone Black (free)"
+to french "terre noire (gratuit)";
+
+translate "Red (free)"
+to french "Rouge (gratuit)";
+translate "Yellow (free)"
+to french "Jaune (gratuit)";
+translate "Blue (free)"
+to french "Bleu (gratuit)";
+
+translate "Light Sky Blue (Special Free)"
+to french "Bleu ciel clair (gratuit spécial)";
+translate "Indian Red (Special Free)"
+to french "Rouge indigo (gratuit spécial)";
+translate "Forest Green (Special Free)"
+to french "Vert forêt (gratuit spécial)";
+
+translate "Yellow Brick"
+to french "Briques jaunes";
+translate "Orange Brick"
+to french "Briques oranges";
+translate "White Brick"
+to french "Briques blanches";
+
+translate "Brick"
+to french "Brique";
+translate "Blocks"
+to french "Blocs";
+translate "Arcs"
+to french "Arches";
+translate "Stripes"
+to french "Bandes";
+
+translate "There is an indoor construction site inside the compound.  You must finish all indoor construction before you can alter the blueprints."
+to french "Il y a une construction en cours dans l'atelier. Vous devez terminer toutes les constructions en cours avant de pouvoir modifier les plans";
+
+translate "There is an indoor construction site inside"
+to french "Il y a une construction en cours dans l'atelier.";
+translate "the compound. You must finish the existing"
+to french "Vous devez terminer toutes les constructions en";
+translate "construction before starting something new."
+to french "cours avant de pouvoir modifier les plans";
+
+translate "There is an indoor construction site inside the compound.  You must finish all indoor construction before you can alter the blueprints."
+to french "Il y a une construction en cours dans l'atelier. Vous devez terminer toutes les constructions en cours avant de pouvoir modifier les plans";
+
+translate "Materials have already been loaded. You must finish or abandon the upgrade before you can edit the blueprints further."
+to french "Des matériaux ont été ajoutés. Vous devez terminer ou abandonner l'expansion avant de pouvoir modifier les plans à nouveau";
+
+translate "You can't edit blueprints while performing maintenance."
+to french "Vous ne pouvez modifier un atelier pendant un entretien";
+
+translate "The blueprints have been altered. You can now load materials to alter the compound itself."
+to french "Les plans ont été modifiés. Vous pouvez maintenant ajouter les matériaux pour modifier l'atelier";
+
+translate "No Paint in your Inventory"
+to french "Pas de peinture dans votre inventaire";
+
+translate "Sector is part of the structural core and cannot be changed!"
+to french "La section fait partie du coeur structurel est ne peut être modifié.";
+
+translate "Sector is part of the structural core and may not be changed!"
+to french "La section fait partie du coeur structurel est ne peut être modifié !";
+
+translate "Cannot add additional cells, maximum reached for this structure type!"
+to french "Impossible d'ajouter plus de sections, vous avez atteint la limite pour ce type de structure !";
+
+translate "That facade won't fit there!"
+to french "Cette facade ne convient pas ici !";
+
+translate "That facade won't fit there!  Obelisks or statues placed across or catty corner from each other will intersect."
+to french "Cette façade ne convient pas ! Vous ne pouvez pas placer plusieurs statues ou obélisques dans un même angle.";
+
+translate "Cannot place a raised ceiling on the outer edge!"
+to french "Impossible de surélever le toît sur une bordure extérieure !";
+
+translate "Corner facades cannot be altered!"
+to french "Les façades d'angle ne peuvent pas être altérées !";
+
+translate "Cannot place a raised ceiling on the outer edge!"
+to french "Impossible de placer un toit surélevé sur une bordure extérieure !";
+
+translate "Sector cannot be removed: not empty."
+to french "La section ne peut être enlevée: elle n'est pas vide. ";
+
+translate "Sector cannot be added: K1."
+to french "La section ne peut être ajoutée: K1.";
+ 
+translate "You can't alter a Compound that is being judged."
+to french "Vous ne pouvez modifier un atelier qui est soumis au jugement.";
+ 
+translate "Sector cannot be added: terrain not flat, or too close to a road."
+to french "La section ne peut être ajoutée: le terrain n'est pas plat, ou trop près d'une route";
+ 
+translate "Are you sure you want to abandon the compound alterations entirely?"
+to french "Vous êtes sûr de vouloir abandonner les modifications ? ";
+ 
+translate "Alterations completed without any material cost."
+to french "Les modifications n'ont rien coûté.";
+ 
+translate "upgrade"
+to french "Améliorer";
+ 
+translate "To alter this building, you need:"
+to french "Pour modifier cet édifice, vous avez besoin de : ";
+ 
+translate "Edit the blueprints for this compound,"
+to french "Modifiez les plans de cet atelier,";
+ 
+translate "then use the blueprints to make changes."
+to french "et utilisez les plans pour faire les changements";
+ 
+translate "The blueprints are unaltered."
+to french "Les plans sont inchangés";
+
+translate "Tear down this Compound"
+to french "Détruire cet atelier";
+
+translate "This Compound belongs to the Public"
+to french "Cet atelier appartient au public";
+
+translate "This Compound belongs to U1"
+to french "Cet atelier appartient à U1(name)";
+
+translate "Built K1 ago."
+to french "Construit il y a K1.";
+
+translate "Too close to growing plants"
+to french "Vous êtes trop près des plantes.";
+
+translate "By order of the trial account compound law, introduced by Taral, those with unpaid account may only build one "
+to french "En conformité avec la loi sur les ateliers de joueurs en compte d'essai, promue par Taral, les joueurs ne souscrivant pas peuvent avoir un seul ";
+
+translate "compound. Tear down the compound at K1 before building another."
+to french "atelier. Détruisez votre atelier en K1";
+
+translate "Reposition this O1"
+to french "Déplacer O1(cns) O1(ns)";
+
+translate "Reposition this O1"
+to french "Déplacer O1(cns) O1(ns)";
+
+translate "O1: K1"
+to french "O1(ns): K1";
+
+translate "The O1 would overlap a O2"
+to french "O1(^lns) O1(ns) empiéterait sur O2(uns) O2(ns)";
+
+translate "Compound is too large."
+to french "L'atelier est trop grand.";
+
+translate "You did not successfully position the building inside the compound."
+to french "Vous n'avez pas réussi à déplacer cet objet dans l'atelier.";
+
+translate "The Canopy contains a construction site. "
+to french "Cet atelier a un site de construction en cours. ";
+
+translate "You must finish the existing construction before moving anything around."
+to french "Vous devez terminer la construction existante avant de bouger quoique ce soit dans l'atelier.";
+
+translate "The shape of the compound has been altered.  You will have to restart construction."
+to french "L'état de l'atelier a changé. Vous devrez recommencer la construction en cours.";
+
+translate "The compound is undergoing a blueprint upgrade. You must finish or abandon the upgrade before you can install equipment."
+to french "Cet atelier est en cours d'amélioration. Vous devez terminer ou annuler les modifications avant de pouvoir construire autre chose.";
+
+translate "The compound is undergoing a blueprint "
+to french "Cet atelier est en cours d'amélioration. ";
+translate "upgrade. You must finish or abandon the "
+to french "Vous devez terminer ou annuler les modifications ";
+translate "upgrade before you can install equipment."
+to french "avant de pouvoir construire autre chose.";
+
+translate "Too close to a Road or Path"
+to french "Trop près d'une route.";
+
+translate "Are you sure you want to tear down this compound?"
+to french "Voulez-vous vraiment détruire cet atelier ?";
+
+translate "Tearing down the Compound..."
+to french "Destruction de l'atelier...";
+
+translate "(N1 K2 facade)"
+to french "(N1 K2 façade)";
+
+translate "(N1 K2 floor)"
+to french "(N1 K2 plancher)";
+
+translate "K1 (N1 K2 floor)"
+to french "K1 (N1 K2 plancher)";
+
+translate "(N1 K2 ceiling)"
+to french "(N1 K2 plafond)";
+
+translate "Flax (for roof overthatching)"
+to french "Lin (pour la couverture)";
+
+translate "Straw (for roof underthatching)"
+to french "Paille (isolation de couverture)";
+
+translate "You must first tear down everything inside the compound."
+to french "Vous devez d'abord détruire tout ce qui est à l'intérieur de l'atelier.";
+
+translate "You must first clear any projects that are in progress."
+to french "Vous devez d'abord annuler tout projet en cours";
+
+translate "The compound was so well used that you were not able to recover any useable materials from it."
+to french "L'atelier était tellement bien utilisé que vous n'avez pu en récupérer aucun matériel utilisable.";
+
+translate "(building trim)"
+to french "(décoration de la bâtisse)";
+
+translate "(wall surfaces)"
+to french "(surfaces murales)";
+
+translate "Bricks for Walls"
+to french "Briques pour les murs";
+
+translate "Boards for Walls"
+to french "Planches pour les murs";
+
+translate "Tow for Insulation"
+to french "Etoupes pour l'isolation";
+
+translate "Mud for Sealing"
+to french "Boues pour combler";
+
+translate "Rotten Flax for Underflooring"
+to french "Lin roui pour le sous-sol";
+
+translate "Cut Stone for the Floor"
+to french "Pierres taillées pour le sol";
+
+translate "Oyster Shell Marble for the deluxe Floor"
+to french "Marbres coquille d'huître pour le sol luxueux";
+
+translate "Slate for the Floor"
+to french "Ardoises pour le sol";
+
+translate "This is a bug. Place a DevCall."
+to french "C'est un bug, merci d'apeller un développeur.";
+
+translate "Permission for Repair"
+to french "Permission de réparer";
+
+translate "Sector is part of the foundation and cannot be removed!"
+to french "Ce secteur fait partie des fondations et ne peut pas être supprimé !";
+
+translate "Compound cannot be expanded in that direction!"
+to french "L'atelier ne peut pas être agrandi dans cette direction !";
+
+translate "Red      (free)"
+to french "Rouge    (gratuit)";
+translate "Yellow  (free)"
+to french "Jaune    (gratuit)";
+translate "Blue     (free)"
+to french "Bleu     (gratuit)";
+translate "Green   (free)"
+to french "Vert     (gratuit)";
+translate "Purple  (free)"
+to french "Violet   (gratuit)";
+translate "Orange (free)"
+to french "Orange   (gratuit)";

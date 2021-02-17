@@ -1,0 +1,391 @@
+Module emptyhand_fre;
+
+translate EmptyHandController to french masculine
+{
+ns "Contrôleur de la main Vide"; np "Contrôleur de la Main Vide";
+}
+
+translate EmptyHandTower to french masculine
+{
+ns "Jeu de la Main Vide"; np "Jeux de la Main Vide";
+}
+
+translate "Tear down your Empty Hand Puzzle, OR do the following:"
+to french "Détruisez votre puzzle de la main vide OU faites ce qui suit:";
+
+translate "Have 7 Judges solve and rate your Empty Hand"
+to french "Obteniez que 7 juges résolvent et évaluent votre Main Vide";
+
+translate "Build an Empty Hand Puzzle and have 7 people solve and rate it."
+to french "Construisez un jeu de la Main Vide, et faites-le évaluer par 7 personnes.";
+
+translate "All of the above, OR solve three recent winning Empty Hand Puzzles"
+to french "Tout ce qui est ci-dessus, OU résolvez 3 mains vides gagnantes récemment récompensées";
+
+translate "Build an Empty Hand Puzzle"
+to french "Construire un jeu de la Main Vide";
+translate "Design an Empty Hand Puzzle and Solve it"
+to french "Concevoir un jeu de la Main Vide et le soumettre à l'évaluation";
+translate "Dig Limestone"
+to french "Extraire du calcaire";
+translate "Have 7 Judges solve and rate your Empty Hand Puzzle, at least Good"
+to french "Que 7 juges résolvent et évaluent votre Main Vide, au moins Bon";
+translate "Design rated Good by most judges"
+to french "Obtenir des votes positifs de la pluspart des juges"; 
+translate "Dry Flax"
+to french "Sécher du lin";
+translate "Grate Carrots for Juice"
+to french "Râper les carottes pour obtenir du jus";
+translate "All of the above, OR solve three recently recognized Empty Hand"
+to french "Etape alternative : résoudre trois Mains Vides récemment reconnues";
+translate "Claim your rights as Initiate of Thought"
+to french "Revendiquer vos droits en tant qu'Initié de Pensée";
+
+translate "You have completed the Principles of Thought."
+to french "Vous avez réussi les Principes de Pensée.";
+
+translate "Claim Principles Advancement"
+to french "Réclamer vos droits d'initié";
+
+translate "One or more tasks have not been completed."
+to french "Une ou plusieurs tâches n'ont pas été accomplies.";
+
+translate "Bug!"
+to french "Bug!";
+
+translate "Swap"
+to french "échanger";
+
+translate "You have completed the Principles of Empty Hand."
+to french "Vous avez terminé les Principes de la Main Vide.";
+
+translate "Shift Left"
+to french "Décaler vers la gauche";
+
+translate "Shift Right"
+to french "Décaler vers la droite";
+
+translate "You have reached the maximum size of 55 blocks."
+to french "Vous avez atteint la taille limite de 55 blocs.";
+
+translate "To modify with an additional block:"
+to french "Pour ajouter un bloc supplémentaire :";
+
+translate "Designer: U1"
+to french "Concepteur : U1(name)";
+
+translate "Canvas for cushioning"
+to french "Tissage pour le rembourrage";
+
+translate "Start the Test of Empty Hand"
+to french "Commencer l'épreuve de la Main Vide";
+
+translate "Design an Empty Hand Puzzle, and invite others to solve your creation. They will rate your puzzle on how clever and satisfying the solution is. Remember that only people who actually solve it will qualify as judges."
+to french "Concevez un casse-tête sur un jeu de la Main Vide, et invitez les autres à résoudre votre création. Ils noteront votre jeu sur la difficulté de la résolution, mais seules les personnes qui perceront votre secret pourront vraiment être prises en compte.";
+
+translate "You have moved all blocks from your hand to the tower. You may now rate the design of this puzzle. You are rating it based on how hard and clever a puzzle it was. You should give a very clever puzzle a high score, and an easy or tedious puzzle a low score."
+to french "Vous avez à présent utilisé tous les blocs en votre possession. Vous pouvez noter la conception de ce puzzle. Notez-le selon la difficulté et l'intelligence dont il fait preuve. Donnez une bonne note à un puzzle très complexe et bien pensé, et une mauvaise note à un puzzle ennuyeux et enfantin.";
+
+translate "Are you sure you want to do re-roll the gearbox? Don't do this unless Pluribus says it's OK."
+to french "Voulez-vous réinitialiser cette boîte à pignons ? Ne le faites pas sauf si Pluribus vous donne son accord.";
+
+translate "Play Empty Hand"
+to french "Jouer à la Main Vide";
+
+translate "By order of the Prevent Unsolveable Empty Hand Towers Law, by Aidenn, Puzzle designer U1 must solve this Empty Hand Tower before others can play it."
+to french "En vertu de la loi sur la Prévention des Mains Vides Insolubles, promulguée par Aidenn, le concepteur du casse-tête U1(name) doit résoudre cette Tour de la Main Vide avant que d'autres puissent y jouer.";
+
+translate "Modify with an additional block"
+to french "Modifier en ajoutant un bloc";
+
+translate "Empty Hand Tower"
+to french "Tour de la Main Vide";
+
+translate "You are out of blocks."
+to french "Vous n'avez plus de blocs.";
+
+translate "N1 does not match N2."
+to french "N1 ne correspond pas à N2.";
+
+translate "The warehouse is out of blocks."
+to french "L'entrepôt n'a plus de blocs.";
+
+translate "Warehouse is out of blocks - this should have been caught above."
+to french "L'entrepôt n'a plus de blocs - Ceci aurait dû être mentionné ci-dessus.";
+
+translate "Hotlist: "
+to french "Liste :";
+
+translate "Full Reset"
+to french "Réinitialisation totale";
+
+translate "Edit the Rules"
+to french "Modifier les règles";
+
+translate "This will reset all judging information. Are you sure you want to proceed?"
+to french "Ceci réinitialisera toutes les informations relatives au jugement. Voulez-vous vraiment continuer ?";
+
+translate "Learning Mode"
+to french "Mode Apprentissage";
+
+translate "Warehouse has N1/N2 blocks."
+to french "L'entrepôt possède N1/N2 blocs.";
+
+translate "Claim Win!"
+to french "Revendiquer la victoire !";
+
+translate "Flip"
+to french "Tourner";
+
+translate "Warehouse: N1 (max N2)"
+to french "Entrepôt : N1 (max N2)";
+
+translate "Save"
+to french "Sauvegarder";
+
+translate "Save puzzle as..."
+to french "Sauvegarder sous...";
+
+translate "Saved configuration under K1"
+to french "Configuration sauvegardée sous K1";
+
+translate "Save"
+to french "Sauvegarder";
+
+translate "Load"
+to french "Charger";
+
+translate "Delete"
+to french "Effacer";
+
+translate "Delete K1?"
+to french "Effacer K1 ?";
+
+translate "Puzzle K1 deleted."
+to french "Puzzle K1 effacé.";
+
+translate "Reset the game in progress"
+to french "Réinitialiser la partie en cours";
+
+translate "Papyrus Paper for bookkeeping"
+to french "Feuilles de papyrus pour l'entretien des livres";
+translate "Ink for bookkeeping"
+to french "Encres pour l'entretien des livres";
+translate "Concrete for foundation"
+to french "Bétons pour les fondations";
+translate "Heavy Lead Bowls to hold oil lights"
+to french "Récipients de plomb pour les lampes à huile";
+translate "Cut Stone for structure"
+to french "Pierres taillées pour la structure";
+translate "Copper Sheeting for Roof"
+to french "Revêtements de cuivre pour le toit";
+translate "Pliable Rotproof boards for entry truss"
+to french "Planches flexibles imputrescibles pour l'entrée";
+translate "Rigid Rotproof boards for storage truss"
+to french "Planches rigides imputrescibles pour l'entrepôt";
+translate "Hard but pliable boards for impact frame"
+to french "Planches dures mais flexibles pour le cadre";
+translate "Pliable Termite Resistant boards for base"
+to french "Planches flexibles résistantes aux termites pour la base";
+translate "Steel Cable for the Crane"
+to french "Câbles d'acier pour la grue";
+translate "Oil for lubrication reservoir"
+to french "Huiles pour le réservoir de lubrifiant";
+translate "Leather for cable tracks"
+to french "Cuirs pour les guides du câble";
+translate "Rope for secondary mechanics"
+to french "Cordes pour les mécanismes secondaires";
+translate "Iron bars for superstructure"
+to french "Barres de fer pour la structure inférieure";
+translate "Pure Zinc as protective coating"
+to french "Zinc purs pour le revêtement de protection";
+translate "Clay Lamps to hold oil lights"
+to french "Lampes d'argile pour l'éclairage";
+translate "Eyelet gem, any type"
+to french "Pierre Oeil-de-pie, n'importe quel type";
+translate "Eyelet"
+to french "Oeil-de-pie";
+translate "Bolts to secure the Eyelets"
+to french "Boulons pour stabilisé les Oeil-de-pie";
+translate "Washers to protect the Eyelets"
+to french "Rondelles pour protéger les Oeil-de-pie";
+
+translate "Set the Designer (Single)"
+to french "Définir le concepteur (unique)";
+
+translate "EmptyHand: Advancing U1 for Empty Hand Tower at N1 judges N2 score N3"
+to french "Main Vide : Progression de U1(name) dans la Tour de la Main Vide décidée par N2 juges avec un score de N3";
+
+translate "In the opinion of N1 judges, and with a score of N2, Egypt recognizes U1, for passing the Test of Empty Hand for his design at N3. "
+to french "Selon l'avis de N1 juges, avec un score de N2, l'égypte reconnaît à U1(name) la réussite de l'épreuve de la Main Vide pour sa conception, que vous pouvez admirer en N3.";
+
+translate "Error: Could not find Empty Hand designer at N1"
+to french "Erreur : Concepteur de la Main Vide absent de N1";
+
+translate "This is my design"
+to french "Voici ma conception";
+
+translate "Are you really the designer of this Empty Hand Tower?"
+to french "Avez-vous vraiment construit cette Tour de la Main Vide ?";
+
+translate "Set the Designer (Single)"
+to french "Définir le concepteur (unique)";
+
+translate "Name of Designer?"
+to french "Qui est le concepteur ?";
+
+translate "The Tower's designer must first solve the challenge. They have not yet done so."
+to french "Le concepteur de la tour doit d'abord résoudre le casse-tête. Ce qui n'est pas encore fait.";
+
+translate "Jiggle the Mechanism"
+to french "Activer le mécanisme";
+
+translate "Empty Hand: No winner"
+to french "Main vide: Pas de gagnant";
+
+translate "Pliable Rotproof boards"
+to french "Planches flexibles imputrescibles";
+
+translate "Rigid Rotproof boards"
+to french "Planches rigides imputrescibles";
+
+translate "Hard but pliable boards"
+to french "Planches dures mais flexibles";
+
+translate "Pliable Termite Resistant boards"
+to french "Planches flexibles résistantes aux termites";
+
+translate "Build an Empty Hand tower (or borrow one)"
+to french "Construire une main vide (ou empruntez-en une)";
+
+translate "Design an Empty Hand Puzzle and open it for Judging"
+to french "Concevez une énigme de la main vide et soumettez-la pour jugement";
+
+translate "Have N1 Judges solve and rate your Empty Hand Puzzle"
+to french "Obtenez que N1 juge résolvent et jugent votre énigme de la main vide";
+
+translate "So far: N1"
+to french "Jusqu'à présent: N1";
+
+translate "Design rated N1 by most judges"
+to french "Conception évaluée à N1 par la plupart des juges";
+
+translate "Claim Principles Advancement"
+to french "Revendiquer vos progrès";
+
+translate "Empty Hand towers are huge and complicated structures that should be built with a team of people. Since most people will never build a tower of their own, the first step below is optional."
+to french "Les mains vides sont des structures émormes et complexes qui devraient être bâties en équipe. Étant donné que la plupart ne bâtiront pas la leur seuls, la première étape ci-dessous est facultative.";
+
+translate "No judges have yet rated your design."
+to french "Aucun juge n'a noté votre conception pour l'instant.";
+
+translate "To claim advancement in Principles of Empty Hand, N1 people must judge your creation, and most must rate it at least Good."
+to french "Pour revendiquer vos progrès des principes de la main vide, N1 personnes doivent noter votre création, et la plupart des votes doivent au minimum être favorables.";
+
+translate "So far, N2 judges have tended to rated it K1."
+to french "Jusqu'à présent, N2 juges ont tendance à l'évaluer K1.";
+
+translate "so"
+to french "ainsi";
+
+translate "lower than that"
+to french "plus bas que cela";
+
+translate "One or more tasks have not been completed."
+to french "Les tâches n'ont pas toutes été achevées.";
+
+translate "You have completed Principles of Empty Hand."
+to french "Vous avez terminé les principes de la main vide.";
+
+translate "Picked K1 from K2"
+to french "Vous avez pris K1 de K2";
+
+translate "You solve your design, proving it is solveable, and thereby opening it for others to play and judge."
+to french "Vous résolvez votre puzzle, prouvant qu'il est faisable, et en ouvrez ainsi l'accès aux autres joueurs qui pourront y jouer et le juger.";
+
+translate "You again solve your Empty Hand."
+to french "Vous résolvez votre main vide de nouveau.";
+
+translate "To begin building an Empty Hand Tower you need:"
+to french "Pour commencer la construction d'une tour de la Main Vide, il vous faut :";
+
+translate "The Empty Hand Tower must possess at minimum four blocks to be played."
+to french "La Tour de la Main Vide doit posséder au minimum quatre blocs pour être jouée.";
+
+translate "The Empty Hand Puzzle must have at least three rules."
+to french "Le jeu de la Main Vide doit au minimum avoir trois rêgles.";
+
+translate "Randomize the Rule Order"
+to french "Randomiser l'ordre des rêgles";
+
+translate "The Empty Hand Puzzle cannot start with all blocks in its warehouse. Please rework the rules."
+to french "Le jeu de la Main Vide ne peut être lancée avec tous les blocs dans l'entrepot. Veuillez modifier les rêgles.";
+
+translate "Modify with an additional block"
+to french "Ajouter un bloc de plus";
+
+translate "Coloring Block Faces"
+to french "Pour colorer les blocs";
+
+translate "You have reached the maximum size of 12 blocks."
+to french "Vous avez atteint la taille maximum de 12 blocs.";
+
+translate "Canvas for cushioning"
+to french "Tissages pour le rembourage";
+
+translate "Empty Hand Puzzle"
+to french "Jeu de la Main Vide";
+
+translate "Dried Flax for stuffing Blocks"
+to french "Lins sechés pour rembourrer les blocs";
+
+translate "Thorns for Block Separation"
+to french "Epines pour séparer les blocs";
+
+translate "Clay for base"
+to french "Argiles pour la base";
+
+translate "Boards for Holding Area"
+to french "Planches pour la structure de soutien";
+
+translate "Limestone for extra Block weight"
+to french "Calcaire pour allourdir les blocs";
+
+translate "Rope for Mechanism"
+to french "Cordes pour le méchanisme";
+
+translate "To begin building an Empty Hand Puzzle you need:"
+to french "Pour construire un Jeu de la Main Vide, il vous faut :";
+
+translate "The Empty Hand Puzzle must possess at minimum three blocks to be played."
+to french "Le Jeu de la Main Vide doit contenir au moins trois blocs pour être jouable.";
+
+translate "Warehouse has N1 blocks."
+to french "Il y a N1 blocs dans l'entrepôt.";
+
+translate "Warehouse: N1 (max N2)"
+to french "Entrepôt : N1 (max N2)";
+
+translate "Claim Advancement in Principles of Thought"
+to french "Revendiquer ma progression dans les Principes de la Pensée";
+
+translate "Dirt (Coloring Brown Face)"
+to french "Terreaux (pour colorer la face marron)";
+
+translate "Limestone (Coloring Light Face)"
+to french "Calcaires (pour colorer la face claire)";
+
+translate "Clay (Coloring Red Face)"
+to french "Argiles (pour colorer la face rouge)";
+
+translate "Carrot Juice (Coloring Orange Face)"
+to french "Jus de carotte (pour colorer la face orange)";
+
+translate "Grass (Coloring Green Face)"
+to french "Herbes (pour colorer la face verte)";
+
+translate "Cabbage Juice (Coloring Purple Face)"
+to french "Jus de chou (pour colorer la face violette)";
+
+translate "Canvas (Cushioning)"
+to french "Tissages (pour le rembourage)";

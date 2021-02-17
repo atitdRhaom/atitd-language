@@ -1,0 +1,469 @@
+module whittling_fre;
+
+
+translate Knife to french masculine
+{
+ns "Couteau"; np "Couteaux";
+}
+translate sharpknife to french masculine
+{ ns "Couteau cranté"; np "Couteaux crantés";}
+
+translate KnifeBlade to french feminine
+{
+ns "Lame de couteau"; np "Lames de couteau";
+}
+
+translate IronKnife to french masculine
+{
+ns "Couteau de fer"; np "Couteaux de fer";
+}
+
+translate GlassKnife to french masculine
+{
+ns "Couteau de verre"; np "Couteaux de verre";
+}
+
+translate TitaniumKnife to french masculine
+{
+ns "couteau de titane"; np "couteaux de titane";
+}
+
+translate SteelKnife to french masculine
+{
+ns "Couteau d'acier"; np "Couteaux d'acier";
+}
+
+translate DiamondSteelKnife to french masculine
+{
+ns "Couteau d'acier orné de diamants"; np "Couteaux d'acier ornés de diamants";
+}
+
+translate Rawhide to french feminine
+{
+ns "Lanière de cuir brut"; np "Lanières de cuir brut";
+}
+
+translate Quill to french feminine
+{
+ns "Plume"; np "Plumes";
+}
+
+translate CotterPin to french feminine
+{
+ns "Clavette"; np "Clavettes";
+}
+
+translate WoodenPeg to french feminine
+{
+ns "Cheville de bois"; np "Chevilles de bois";
+}
+
+translate CrudeHandle to french masculine
+{
+ns "Manche rudimentaire"; np "Manches rudimentaires";
+}
+
+translate Chit to french feminine
+{
+ns "Sceau personnel"; np "Sceaux personnels";
+}
+
+translate BarrelTap to french masculine
+{
+ns "Robinet de tonneau "; np "Robinet de tonneau ";
+}
+
+translate Pestle to french masculine
+{
+ns "Pilon en bois"; np "Pilons en bois";
+}
+
+translate Cog to french feminine
+{
+ns "Rouage en bois"; np "Rouages en bois";
+}
+
+translate EBlock to french masculine
+{
+ns "Bloc de bois"; np "Bloc de bois";
+}
+
+translate IntricateHandle to french masculine
+{
+ns "Manche courbé"; np "Manches courbés";
+}
+
+translate LargeCrudeHandle to french feminine
+{
+ns "Gros manche rudimentaire"; np "Gros manches rudimentaires";
+}
+
+translate DowsingRod to french feminine
+{
+ns "Tige de sourcier"; np "Tiges de sourcier";
+}
+
+translate GlassBlade to french feminine
+{
+ns "Lame de verre"; np "Lames de verre";
+}
+
+translate StoneKnife to french masculine
+{
+ns "Couteau de pierre"; np "Couteaux de pierre";
+}
+
+translate FlintHammer to french masculine
+{
+ns "Marteau de pierre"; np "Marteaux de pierre";
+}
+
+translate bottlestop to french masculine
+{
+ns "Bouchon de bouteille"; np "Bouchons de bouteille";
+}
+
+translate claymortars to french masculine
+{
+ns "Mortier en argile"; np "Mortiers en argile";
+}
+
+translate wetclaymortars to french masculine
+{
+ns "Mortier en argile humide"; np "Mortiers en argile humide";
+}
+
+translate "Carving"
+to french "Façonnage";
+
+translate "Knives"
+to french "Couteaux";
+
+translate "Assembly"
+to french "Assemblage";
+
+translate "Mould a Clay Mortar"
+to french "Façonner un mortier en argile";
+
+translate "You need 4 clay to mould a Clay Mortar"
+to french "Il vous faut 4 debens d'argile pour façonner un mortier en argile";
+
+translate "Carving/Knives"
+to french "Couteaux";
+
+translate "Assemble a Knife"
+to french "Assembler un couteau";
+
+translate "Fashion a crude Flint Knife"
+to french "Assembler un couteau de pierre rudimentaire";
+
+translate "Assemble a Iron Knife"
+to french "Assembler un couteau de fer";
+
+translate "Assemble a Titanium Knife"
+to french "Assembler un couteau de titane";
+
+translate "Assemble a Sharp Edged Knife"
+to french "Assembler un couteau à bord aiguisé";
+
+translate "Assemble a Jagged Knife"
+to french "Assembler un couteau cranté";
+
+translate "Wrap Rawhide around a Glass Knife Blade"
+to french "Enrouler une lanière de cuir autour d'une lame de verre";
+
+translate "From Titanium Blade K1"
+to french "D'une lame en titane K1";
+
+translate "Whittle a Sharpened Stick"
+to french "Tailler un bâton effilé";
+
+translate "Shred Wood into Tinder"
+to french "Réduire du bois en copeaux";
+
+translate "Cut Leather into Rawhide Strips"
+to french "Couper du cuir en lanières de cuir brut";
+
+translate "Whittle a small Cotter Pin"
+to french "Sculpter une petite clavette";
+
+translate "Whittle a small Wooden Peg"
+to french "Sculpter une petite cheville de bois";
+
+translate "Whittle a Crudely Carved Handle"
+to french "Sculpter un manche rudimentaire";
+
+translate "Whittle a personal Chit"
+to french "Sculpter un sceau personnel ";
+
+translate "Whittle a Barrel Tap"
+to french "Sculpter un robinet de tonneau ";
+
+translate "Whittle a Wooden Pestle"
+to french "Sculpter un pilon de bois ";
+
+translate "Whittle a Wooden Cog" 
+to french "Sculpter un rouage de bois";
+
+translate "Whittle an empty Tackle Block"
+to french "Sculpter un bloc de bois vide";
+
+translate "Whittle an Intricately Carved Handle" 	
+to french "Sculpter un manche courbé ";
+
+translate "Whittle a Bottle Stopper"
+to french "Sculpter un bouchon de bouteille";
+
+translate "Cut a Quill"
+to french "Aiguiser une plume";
+
+translate "Carve a Large Crude Handle"
+to french "Sculpter un gros manche rudimentaire";
+
+translate "Put together a Tackle Block"
+to french "Assembler un bloc de bois";
+
+translate "Put together a Basic Reel"
+to french "Assembler un moulinet rudimentaire";
+
+translate "Put together a Complex Reel"
+to french "BAssembler un moulinet complexe";
+
+translate "Put together a Advanced Reel"
+to french "Assembler un moulinet perfectionné";
+
+translate "Put together a Basic Fishing Pole"
+to french "Assembler une canne à pêche rudimentaire";
+
+translate "Put together a Craftsman's Fishing Pole"
+to french "Assembler une canne à pêche avancée";
+
+translate "Put together a Fine Fishing Pole"
+to french "Assembler une canne à pêche qualité";
+
+translate "Put together a Dowsing Rod"
+to french "Assembler une tige de sourcier";
+
+translate "Put together a Royal Fishing Pole"
+to french "Assembler une canne à pêche royale";
+
+translate "Anoint a Dowsing Rod"
+to french "Oindre une tige de sourcier";
+
+translate "Make a Clay Lamp"
+to french "Fabriquer une lampe d'argile";
+
+translate "Make a Flint Chisel"
+to french "Fabriquer un ciseau de pierre";
+
+translate "Make a Flint Hammer"
+to french "Fabriquer un marteau de pierre";
+
+translate "Amongst other things, this allows you to sharpen sticks, and shave wood into tinder."
+to french "Entre autres choses, ceci permet d'effiler des bâtons, et transformer du bois en copeaux.";
+
+translate "You now have the ability to make slightly more intricate objects, such as personal chits and pegs."
+to french "Vous savez maintenant fabriquer des objets un peu plus complexes, tel les sceaux personnels et les chevilles.";
+
+translate "You can use an iron knife to carve quills and pestles, along with other items."
+to french "Vous pouvez utiliser un couteau de fer pour sculpter les plumes et les pilons, entre autres.";
+
+translate "You can construct cotter pins and cogs, using a Titanium Knife."
+to french "Vous pouvez fabriquer des clavettes et des rouages, en utilisant un couteau de titane.";
+
+translate "Using a Steel Knife, you can build Tackle Blocks and other useful items."
+to french "À l'aide d'un couteau d'acier, vous pouvez construire des blocs et autres items utiles.";
+
+translate "You require two pieces of flint to sharpen against each other, a piece of wood as the handle, and a piece of twine to hold it together."
+to french "Vous avez besoin de deux morceaux de silex pour les affûter l'un contre l'autre, un morceau de bois pour le manche, et un bout de ficelle pour les maintenir ensemble.";
+
+translate "To fashion a Knife, you need a Knife Blade, a Crudely Carved Handle to place the tang in, and a pair of Wooden Pegs to secure it."
+to french "Pour fabriquer un couteau, vous avez besoin d'une lame de pierre, un manche rudimentaire pour y fixer la lame, et deux chevilles de bois pour solidifier le tout.";
+
+translate "You have fashioned a Knife. Very sturdy, but will dull with time. You can use this for Carving."
+to french "Vous avez fabriqué un couteau très résistant, mais qui s'émoussera avec le temps. Vous pouvez l'utiliser pour sculpter.";
+
+translate "You have fashioned a crude Flint Knife. You can use this for Carving."
+to french "Vous avez fabriqué un couteau de pierre rudimentaire. Vous pouvez l'utiliser pour sculpter.";
+
+translate "To fashion a Glass Knife, you require a Glass Blade, and four strips of Rawhide to wrap around it."
+to french "Pour fabriquer un couteau de verre, vous avec besoin d'une lame de verre, et quatre lanières de cuir brut pour l'envelopper.";
+
+translate "You have fashioned a Glass Knife. It's fragile, but better than a Flint Knife. You can use this for Carving."
+to french "Vous avez fabriqué un couteau de verre. C'est fragile, mais mieux qu'un couteau de pierre. Vous pouvez l'utiliser pour sculpter.";
+
+translate "Make a Glass Blade (120 sec)"
+to french "Fabriquer une lame de verre (120 sec)";
+
+translate "Make an Iron Knife Blade"
+to french "Fabriquer un couteau de fer";
+
+translate "To make an iron knife blade you need:"
+to french "Pour fabriquer un couteau de fer, vous avez besoin de:";
+
+translate "Making an Iron Knife Blade"
+to french "Fabrication d'une lame de couteau de fer en cours";
+
+translate "Iron Knife Blade will be done in N1"
+to french "La lame de couteau de fer sera prête dans N1";
+
+translate "Your knife blade is ready."
+to french "Votre lame de couteau est prête";
+
+translate "Using a Knife, you can build tackle blocks, wooden cogs, and other useful items."
+to french "En utilisant un couteau, vous pouvez fabriquer des blocs de bois, des rouages en bois et d'autres objets utiles";
+
+translate "Whittle wood into chips"
+to french "Sculpter du bois en copeaux";
+
+translate "Assemble a Twice Folded Knife"
+to french "Assembler un couteau en verre feuilleté";
+
+translate "To fashion a Twice Folded Knife, you need an Twice Folded Knife Blade of at least N1 quality, an Intricately Carved Handle to place the tang in, a pair of Bolts to secure it, 4 pieces of Rawhide to wrap around the handle, and two gold wire to secure the Rawhide."
+to french "Pour fabriquer un couteau en verre feuilleté, il vous faut une lame de couteau en verre feuilleté de qualité d'au moins N1, un manche courbé, une paire de boulons pour sécuriser le tout, 4 lanières de cuir pour enrouler autour du manche et 2 fils d'or pour lier le cuir";
+
+translate "To fashion a Iron Knife, you need a Knife Blade, a Crudely Carved Handle to place the tang in, and a pair of Wooden Pegs to secure it."
+to french "Pour fabriquer un couteau de fer, vous avez besoin d'une lame de couteau, un manche rudimentaire pour y fixer la lame, et deux chevilles de bois pour solidifier le tout.";
+
+translate "You carve the piece of wood into a cone, and cut the tip off, so that it can fit easily into a glass jar."
+to french "Vous avez taillé le morceau de bois en forme de cône et coupé le bout pour qu'il rentre facilement dans un vase en verre.";
+
+
+translate "You have fashioned an Iron Knife. Very sturdy, but will dull with time. You can use this for Carving."
+to french "Vous avez fabriqué un couteau de fer très résistant, mais qui s'émoussera avec le temps. Vous pouvez l'utiliser pour sculpter.";
+
+translate "To fashion a Titanium Knife, you need an Titanium Knife Blade of at least N1 quality, a Crudely Carved Handle to place the tang in, a pair of Wooden Pegs to secure it, and 4 pieces of Rawhide to wrap around the handle."
+to french "Pour fabriquer un couteau de titane, vous avez besoin d'une lame de couteau en titane ayant une qualité d'au moins N1, un manche rudimentaire pour y mettre la soie, deux chevilles de bois pour solidifier le tout, et 4 lanières de cuir brut pour envelopper la poignée.";
+
+translate "Your Titanium Blade is only N1. You must use a Titanium Blade of at least N2 quality!"
+to french "Votre lame en titane est seulement de qualité N1. Vous devez utiliser une lame en titane ayant une qualité d'au moins N2 !";
+
+translate "You have fashioned an Titanium Knife. Extremely sturdy, but will dull with use. You can use this for Carving."
+to french "Vous avez fabriqué un couteau de titane. Extrêmement résistant, mais qui s'émoussera à l'usage. Vous pouvez l'utiliser pour sculpter.";
+
+translate "To fashion a Titanium Knife, you need an Titanium Knife Blade of at least N1 quality, a Crudely Carved Handle to place the tang in, a pair of Wooden Pegs to secure it, and 4 pieces of Rawhide to wrap around the handle."
+to french "Pour fabriquer un couteau de titane, vous avez besoin d'une lame de couteau en titane d'une qualité d'au moins N1, une manche rudimentaire pour y fixer la lame, deux chevilles de bois pour solidifier le tout, et 4 lanières de cuir brut pour envelopper le manche.";
+
+translate "To fashion a Sharp Edged Knife, you need an Sharp Edged Knife Blade of at least 8500 quality, a Crudely Carved Handle to place the tang in, a pair of Wooden Pegs to secure it, and 4 pieces of Rawhide to wrap around the handle."
+to french "Pour fabriquer un couteau à bord aiguisé, il vous faut une lame de couteau à bord bien aiguisé d'au moins 8500 de qualité, un manche rudimentaire pour y fixer la lame, deux chevilles de bois pour solidifier le tout, et 4 lanières de cuir brut pour enrouler le manche.";
+
+translate "To fashion a Jagged Knife, you need an Jagged Knife Blade of at least 9000 quality, an Intricately Carved Handle to place the tang in, a pair of Bolts  to secure it, and 4 pieces of Rawhide to wrap around the handle."
+to french "Pour fabriquer un couteau cranté, il vous faut une lame de couteau cranté d'au moins 9000 de qualité, un manche courbé pour y fixer la lame, deux pilons pour solidifier le tout, et 4 lanières de cuir brut pour enrouler le manche.";
+
+translate "You need at least a Quality N1 knife."
+to french "Vous devez utiliser un couteau d'une qualité d'au moins N1.";
+
+translate "You need a piece of wood to carve!"
+to french "Vous avez besoin d'un morceau de bois pour sculpter!";
+
+translate "You carefully carve the wood until it is sharpened at one end."
+to french "Vous sculptez délicatement le bois jusqu'à ce qu'il soit effilé à une extrémité.";
+
+translate "You carefully shave the wood until all that is left is a pile of tinder."
+to french "Vous déchiquetez le bois jusqu'à ce qu'il n'en reste qu'un amas de copeaux.";
+
+translate "You need leather to cut up!"
+to french "Vous avez besoin de cuir!";
+
+translate "You slice the piece of leather into strips."
+to french "Vous coupez le morceau de cuir en lanières.";
+
+translate "You carve a cotter pin, used to hold objects together."
+to french "Vous sculptez une clavette, utilisée pour retenir les pièces ensemble.";
+
+translate "You carve the wood into a small peg, used to hold objects together."
+to french "Vous sculptez une petite cheville, utilisée pour retenir les objets ensemble.";
+
+translate "Carving the handle takes little time - but it doesn't look that good, either."
+to french "Sculpter le manche nécessite un peu de temps - mais en plus, il n'est pas très élégant.";
+
+translate "You carefully carve your name into a small square of wood."
+to french "Vous sculptez méticuleusement votre nom dans une petite pièce de bois";
+
+translate "You carve and hollow a rounded tap, to place on barrels for wine and beer."
+to french "Vous sculptez et évidez un robinet arrondi, utilisé sur les barils de bière et de vin.";
+
+translate "You quickly carve the wood into a thick, sturdy pestle."
+to french "À partir du morceau de bois, vous sculptez rapidement un gros pilon résistant.";
+
+translate "It takes a while, but you are able to carve each of the small teeth of the cog."
+to french "Vous y mettez du temps, mais vous arrivez à sculpter chacune des petites dents du rouage.";
+
+translate "You hollow out a piece of wood to serve as the base of a Tackle Block."
+to french "Vous évidez un morceau de bois, qui servira de base pour un bloc de bois.";
+
+translate "You work long and hard, and eventually create an Intricately Carved Handle."
+to french "Vous travaillez longtemps, avec acharnement, et réussissez à fabriquer un manche courbé.";
+
+translate "You need a feather to cut into a quill!"
+to french "Vous avez besoin d'une plume à tailler!";
+
+translate "You deftly slice the point of the feather, and turn it into a serviceable Quill."
+to french "Vous coupez la pointe du plumage avec facilité, et le transformez en une plume, pratique pour écrire.";
+
+translate "You create a large handle. It looks a bit awkward, but servicable."
+to french "Vous fabriquez un gros manche. Il a l'air un peu ridicule, mais pratique.";
+
+translate "Your O1 Knife has worn out. You will need to find another one."
+to french "Votre O1(ns) est usé. Vous devrez en trouver un autre.";
+
+translate "To make a Basic Fishing Pole, you need:"
+to french "Pour fabriquer une canne à pêche rudimentaire, vous avez besoin de :";
+
+translate "To make an Clay Lamp you need:"
+to french "Pour fabriquer une lampe d'argile, vous avez besoin de :";
+
+translate "To make a Flint Chisel you need:"
+to french "Pour fabriquer un ciseau de pierre, vous avez besoin de :";
+
+translate "You strike the pieces of flint together until you have one very sharp piece with a wide cutting surface."
+to french "Vous tapez les pierres l'une contre l'autre jusqu'à obtenir une pièce très aiguisée avec un bord tranchant";
+
+translate "To make a Flint Hammer you need:"
+to french "Pour fabriquer un ciseau de pierre, vous avez besoin de :";
+
+translate "Poke U1 with a Sharpened Stick"
+to french "Piquer U1(name) avec un bâton effilé.";
+
+translate "U1 poked you with a sharpened stick!"
+to french "U1(name) vous a piqué avec un bâton effilé!";
+
+translate "You poke U1 with a sharpened stick... your stick breaks."
+to french "Vous piquez U1(name) avec un bâton effilé... votre bâton se casse.";
+
+translate "To make a Dowsing Rod, you need:"
+to french "Pour fabriquer une tige de sourcier, vous avez besoin de :";
+
+translate "You fasten the flint to the wood, fashioning something that may be used as a hammer."
+to french "Vous attachez la pierre au bois, fabriquant quelque chose qui peut être utilisé comme un marteau.";
+
+translate "Make a Knife Blade"
+to french "Forger une lame de couteau";
+
+translate "Medium Gear"
+to french "Engrenages de taille moyenne";
+
+translate ironmediumgear to french masculine
+{ ns "Engrenage(s) moyen en fer"; np "engrenages moyens en fer";}
+
+translate "To make a knife blade you need:"
+to french "Pour fabriquer une lame de couteau, vous avez besoin de :";
+
+translate "Making a Knife Blade"
+to french "Fabrication d'une lame de couteau en cours";
+
+translate "Knife Blade will be done in K1"
+to french "La lame de couteau sera prête dans K1";
+
+translate "Your knife blade is ready."
+to french "Votre lame de couteau est prête.";
+
+translate "Get Knife"
+to french "Prendre le couteau";
+
+translate "TEST: "
+to french "TEST: ";
+
+translate "To make a Flint Hammer you need:"
+to french "Pour fabriquer un marteau de pierre, vous avez besoin de :";
+

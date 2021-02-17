@@ -1,0 +1,561 @@
+module experts_fre;
+
+translate "Options: Interface"
+to french "Options : Interface";
+
+translate "chat-names"
+to french "Discussions-noms";
+
+translate "see-mentor"
+to french "Voir-mentor";
+
+translate "widgets-minimize"
+to french "Minimiser les conseils";
+
+translate "chat-minimize"
+to french "Minimiser la discussion";
+
+translate "chat-minsmall"
+to french "Minimiser discussion - Extra";
+
+translate "chat-immigrant"
+to french "Discussion Immigrants";
+
+translate "action-minimize"
+to french "Minimiser l'action";
+
+translate "open-to-immigrants"
+to french "Ouverts aux immigrants";
+
+translate "active-mentor"
+to french "Mentor actif";
+
+translate "chat-newbies"
+to french "Discussion débutants";
+
+translate "prio-high"
+to french "Haute priorité";
+
+translate "prio-low"
+to french "Basse priorité";
+
+translate "Don't use WASD or arrow keys for movement"
+to french "Ne pas utiliser les touches WASD pour les déplacements";
+
+translate "Use the chat bubble display over anvils rather than fly aways"
+to french "Afficher les messages de l'enclûme dans le chat au lieu des messages 'volants'";
+
+translate "Automatically go AFK if idle for 10 minutes (experimental)"
+to french "Se mettre AFK automatiquement sans activités pendant 10mn. (expérimental)";
+
+translate "Automatically swim when you walk into water"
+to french "Nagez automatiquement lorsque vous rentrez dans l'eau";
+
+translate "offline-travel"
+to french "Déplacement hors ligne";
+
+translate "Verify When:"
+to french "Vérifier si on:";
+
+translate "Priority:"
+to french "Priorités:";
+translate "Other:"
+to french "Autres:";
+
+translate "Names:"
+to french "Noms:";
+
+translate "Position Menus to the right of mouse"
+to french "Positionner les menus à droite de la souris";
+
+translate "Show guild affiliations in a Menu"
+to french "Afficher les affiliations des guildes dans un Menu";
+
+translate "Display available fishing lures in submenus"
+to french "Afficher les appâts de pêche disponibles dans un sous-menu";
+
+translate "Right-Click opens a Menu as Pinned"
+to french "Click droit ouvre un menu punaisé";
+
+translate "Harvesting grapes"
+to french "Récolte les grappes";
+
+translate "Using Wings of Horus"
+to french "Utilise les ailes d'Horus";
+
+translate "Hiding the interface"
+to french "Cache l'interface";
+
+translate "Taking all the contents of many buildings and chests"
+to french "Prend tout le contenu de nombreux bâtiments et coffres";
+
+translate "Transferring buildings to Guilds"
+to french "Transfère des bâtiments à des guildes";
+
+translate "Console Messages are indented" to french "Les messages de la console sont indentés";
+
+translate "fluent-english"
+to french "Anglais courant";
+
+translate "fluent-german"
+to french "Allemand courant";
+
+translate "fluent-french"
+to french "Français courant";
+
+translate "camera-fast"
+to french "Caméra rapide";
+
+translate "camera-veryfast"
+to french "Caméra très rapide";
+
+translate "Options: Chat-Related"
+to french "Options : Discussion";
+
+translate "Totally hide the Action Icons"
+to french "Cacher totalement les icônes d'action";
+
+translate "Action Icons:"
+to french "Icones:";
+
+translate "Hide Action Icons"
+to french "Dissimuler les icônes d'action";
+
+translate "Show Action Icons"
+to french "Afficher les icônes d'action";
+
+translate "Move to Right side of the screen"
+to french "Déplacer à droite de l'écran";
+
+translate "Smaller icons"
+to french "Icones plus petites";
+
+translate "No icons"
+to french "Aucune icone";
+
+translate "Show warning when taking Dates, Resin and Cactus Sap"
+to french "Afficher une alerte pour Prendre les dates, la résine et la sève de cactus";
+
+translate "Suppress Hour of Towers Notifications"
+to french "Supprimer les notif. des heures des tours";
+
+translate "Use Flyaway Messages for some things"
+to french "Afficher des messages éphémères pour certaines choses";
+
+translate "Suppress the console message for flyaways. Use with caution"
+to french "Non affichage des messages éphémères dans la console. Faire Attention";
+translate "Names appear above players' heads"
+to french "Les noms des joueurs apparaissent au-dessus de leur tête";
+
+translate "My name appears above my head"
+to french "Mon nom apparait au-dessus de ma tête";
+
+translate "Normal speed"
+to french "Vitesse normale";
+
+translate "Quite fast"
+to french "Relativement rapide";
+
+translate "Unreasonably fast"
+to french "Déraisonnablement rapide";
+
+translate "Names appear above players' heads"
+to french "Les noms des joueurs apparaissent au-dessus de leur tête";
+
+translate "Control panel widgets can be minimized"
+to french "Les informations de commandes peuvent être minimisées";
+
+translate "Action icons can be minimized using A key"
+to french "Les icônes d'action peuvent être minimisées avec la touche A";
+
+translate "Allow immigrants to join the game at my location"
+to french "Permettre à des immmigrants de joindre le monde là où je suis";
+
+translate "Camera moves quite fast"
+to french "La caméra est rapide";
+
+translate "Camera moves unreasonably fast"
+to french "La caméra est très rapide";
+
+translate "When I'm stuck, notify me in the chat area"
+to french "Lorsque je suis bloqué, me le dire dans la fenêtre de discussion";
+
+translate "Run in high-priority mode"
+to french "Exécuter en mode haute priorité";
+
+translate "Run in low-priority mode"
+to french "Exécuter en mode basse priorité";
+
+translate "I'm willing to mentor immigrants right now."
+to french "Je veux guider de nouveaux arrivants.";
+
+translate "Show menu items for venery configuration."
+to french "Afficher les options de configuration de chasse.";
+
+translate "Show menu items for Falcon Roosts"
+to french "Montrer les options de menu pour les nids de faucons";
+
+translate "Ask about mounting record-breaking fish"
+to french "Demander pour monter en trophée les meilleures prises de pêche";
+
+translate "Interface Options"
+to french "Options d'interface";
+
+translate "You cannot be in high and low priority mode at the same time. You have been placed in normal mode."
+to french "Vous ne pouvez pas être en mode haute et basse priorité en même temps. Vous avez été placé en mode normal.";
+
+translate "Action icons appear in smaller size"
+to french "Les icônes d'action sont plus petites.";
+
+translate "Use larger font in the chat window"
+to french "Utiliser une plus grosses police de caractère pour la discussion";
+
+translate "Use the chat area instead of popups for many messages"
+to french "Utilisez l'onglet Principal au lieu de pop-up pour beaucoup de messages";
+
+translate "Chat appears above heads"
+to french "Les paroles des joueurs apparaissent au-dessus des têtes.";
+
+translate "Remove the borders on chat bubbles"
+to french "Retirer les bordures des fenêtres de discussion";
+
+translate "Chat appears in main channel"
+to french "Les discussions apparaissent dans l'onglet Général";
+
+translate "Chat and Inventory can be minimized"
+to french "La discussion et l'inventaire peuvent être minimisés";
+
+translate "Scan for username"
+to french "Repérer le nom du joueur";
+
+translate "Parse for links"
+to french "Souligner les liens";
+
+translate "Time tags are in 12h time"
+to french "Les heures apparaissent au format 12h";
+
+translate "Usernames are clickable"
+to french "Vous pouvez cliquer sur le nom des joueurs";
+
+translate "Left Click does Nothing"
+to french "Aucune action sur un click gauche";
+
+translate "Left Click Opens a Private Chat"
+to french "Le click gauche ouvre un chat privé";
+
+translate "Left Click Sends a /tell"
+to french "Le click gauche envoie la commande 'murmurer' /tell";
+
+translate "Left Click shows user info"
+to french "Le click gauche affiche les informations du joueur";
+
+translate "Immigrants channel is visible"
+to french "Le canal de discussion 'Immigrants' est visible";
+
+translate "Usernames"
+to french "Nom du joueur";
+
+translate "Message Alert"
+to french "Message d'alerte";
+
+translate "Tells"
+to french "Murmurer";
+
+translate "Symbols"
+to french "Symboles";
+
+translate "Tab Highlight"
+to french "Surligner l'onglet";
+
+translate "Minimized chat-channels are still visible"
+to french "Les canaux de discussion minimisés restent visibles";
+
+translate "Chat channels can be minimized"
+to french "Les canaux de discussion peuvent être réduits.";
+
+translate "Minimized chat channels are still visible"
+to french "Les canaux de discussions réduits sont encore visibles.";
+
+translate "Broadcast message 'chat channel' is visible"
+to french "Le canal des Annonces est visible.";
+
+translate "Immigrants 'chat channel' is visible"
+to french "Le canal de discussion des immigrants est visible.";
+
+translate "Use large chat window"
+to french "Utiliser une grande fenêtre de discussion";
+
+translate "Use very large chat window"
+to french "Utiliser une très grande fenêtre de discussion";
+
+translate "I'm interested in talking to newbies right now."
+to french "J'ai envie de m'occuper de nouveaux venus.";
+
+translate "Opened the System Channel."
+to french "Ouvrir le canal système.";
+
+translate "One-Click and Related"
+to french "Actions un-clic et raccourcis";
+
+translate "One-Click Options"
+to french "Options un-clic";
+
+translate "Fast gather wood from trees"
+to french "Prendre du bois des arbres";
+
+translate "Auto-take piles of up to 50 portable items"
+to french "Prendre automatiquement des groupes de 50 objets";
+
+translate "Make TAB work like the mouse button"
+to french "Utiliser TAB comme un bouton de souris";
+
+translate "Plant all crops where you stand"
+to french "Planter toutes les graines là où vous êtes";
+
+translate "Options: More Interface"
+to french "Option : Plus d'interface";
+
+translate "Use invisible highlighting (no flashing effect)"
+to french "Utiliser le surlignage invisible (pas d'effet flash)";
+
+translate "Try to warn me when I'm experiencing lag"
+to french "Tentez de m'avertir lors des ralentissements";
+
+translate "Automatically go AFK if idle for 10 minutes"
+to french "Se mettre AFK automatiquement après 10mn d'inactivité";
+
+translate "Drop All Cats, if possible, when logging in"
+to french "Poser tous les chats, si possible, lors de la connexion";
+
+translate "Verify before lighting a bonfire"
+to french "Confirmer avant d'allumer un feu";
+
+translate "Flyaway Speed N1%" to french "Vitesse des messages éphémères N1%";
+
+translate "Ignore ALL incoming chats except from GMs"
+to french "Ignorer toutes les discussions, à part celles des animateurs";
+
+translate "When menu appears, position mouse to left of menu"
+to french "Lorsqu'un menu apparaît, positionner ma souris à droite de ce menu.";
+
+translate "In buddy list, replace Chat button (C) with Tell button (T)"
+to french "Dans votre liste d'amis, remplacer Chat (C) par Dire (T)";
+
+translate "Use console instead of popups for many messages"
+to french "Utiliser la console au lieu de fenêtres popup";
+
+translate "When I build, automatically grant public access"
+to french "Mettre tout ce que je construis en accès public";
+
+translate "When I build, automatically give ownership to primary guild"
+to french "Donner tout ce que je construis à ma guilde principale";
+
+translate "Show guild affiliations in a submenu"
+to french "Montrer les affiliations de guildes dans un sous-menu";
+
+translate "When using names-above-head, also show my own"
+to french "Toujours afficher mon nom lorsque l'option est activée";
+
+translate "Use huge font in the chat window"
+to french "Taille gigantesque pour les caractères";
+
+translate "Max Chat Windows:"
+to french "Fenêtres de discussion";
+
+translate "Displayed when AFK:"
+to french "Message en absence :";
+
+translate "Remove the \"What should I do now\" menu"
+to french "Retirer le menu \"Que dois-je faire maintenant?\".";
+
+translate "Audio Settings"
+to french "Réglages audio";
+
+translate "Wildlife Sounds:"
+to french "Sons de la nature:";
+
+translate "Building Sounds:"
+to french "Sons des constructions:";
+
+translate "Interface Sounds:"
+to french "Sons d'interface:";
+
+translate "Music:"
+to french "Musique:";
+
+translate "Chat Options"
+to french "Options de discussions";
+
+translate "Normal Bubbles"
+to french "Bandeau normal";
+
+translate "Mentor Bubbles"
+to french "Bandeau des mentors";
+
+translate "Special Chat Bubbles"
+to french "Bandeau spécial";
+
+translate "eGenesis Chat Bubbles"
+to french "Bandeau de eGenesis";
+
+translate "Sport Chat Bubbles"
+to french "Bandeau sportif";
+
+translate "Confirm before closing a chat tab" to french "Confirmer avant de fermer un chat";
+translate "eGenesis Bubbles" to french "Bandeau eGenesis";
+translate "Prepay Bubbles" to french "Bandeau prépayé";
+translate "Use the chat bubble display over glory holes rather than fly aways"
+to french "Afficher les messages du four de réchaud dans le chat au lieu des messages volants";
+translate "Verify before putting anything into an offering vault" to french "Vérifier avant de mettre quoi que ce soit dans la chapelle à offrande";
+translate "Discard any tadpoles you find when gathering water"
+to french "Jeter tous les tétards trouvés en prenant de l'eau";
+
+translate "Discard any Insects you find"
+to french "Jeter tous les insectes trouvés";
+
+translate "Confirm when pruning grape vines"
+to french "Confirmer quand vous taillez des vignes";
+
+translate "Confirm when harvesting grapes?"
+to french "Confirmer quand vous récoltez les raisins?";
+
+translate "Confirm when using Wings of Horus"
+to french "Confirmer quand vous utilisez les ailes d'Horus";
+
+translate "Hitting enter sends Max instead of OK."
+to french "Taper Entrée équivaut à Max au lieu de OK";
+
+translate "Display popup when hiding interface."
+to french "Demander confirmation avant de masquer l'interface";
+
+translate "Offline Options"
+to french "Actions hors-ligne";
+
+translate "Enable hotkeys on flax"
+to french "Activer le un-clic pour le lin";
+
+translate "Enable hotkeys on brickracks"
+to french "Activer le un-clic pour les moules à briques";
+
+translate "Options: Parameters"
+to french "Options : Paramètres";
+
+translate "Video Settings"
+to french "Réglages vidéo";
+
+translate "Terrain Horizon:"
+to french "Horizon :";
+
+translate "Time-of-Day Lighting:"
+to french "Éclairage selon l'heure du jour";
+
+translate "Light Intensity:"
+to french "Intensité d'éclairage";
+
+translate "Advanced Terrain:"
+to french "Vue élaborée du terrain";
+
+translate "Fountain Detail:"
+to french "Détails des fontaines";
+
+translate "Options: One-Click and Related"
+to french "Options : Actions un-clic et raccourcis";
+
+translate "Place bonfires where you stand"
+to french "Déposer les feux de camp  où vous êtes";
+
+translate "Use arrow keys for movement (Experimental)"
+to french "Utiliser les flèches pour se déplacer (expérimental)";
+
+translate "Right-Click Pins/Unpins a Menu"
+to french "Clic-Droit pour punaiser un menu";
+
+translate "Right-Click opens Pinned Menu"
+to french "Clic-Droit pour ouvrir un menu punaisé";
+
+translate "Default to MAX for 'How Many?'"
+to french "MAX est l'option par défaut pour 'Combien ?'";
+
+translate "Display popup when hiding interface."
+to french "Afficher un message avant de masquer l'interface";
+
+translate "Hide Microphone Callboards when empty."
+to french "Masquer la modération de micro lorsqu'elle est vide";
+
+translate "Use Colorblind mode for Mining"
+to french "Utiliser le mode daltonien pour le minage";
+
+translate "Automatically make all planted crops guild-owned"
+to french "Guilder les plants (lin, légumes...) automatiquement";
+
+translate "Action icons on right of screen"
+to french "Icônes d'action à droite de l'écran";
+
+translate "Use small font in the chat windows"
+to french "Petite police pour les caractères";
+
+translate "Use medium font in the chat window"
+to french "Moyenne police pour les caractères";
+
+translate "Use large font in the chat window"
+to french "Grande police pour les caractères";
+
+translate "Show warning when taking Dates, Resin, Cactus Sap"
+to french "Avertir avant de prendre des dates, de la résine, ou de la sève de cactus";
+
+translate "Verify taking all the contents of many buildings and chests"
+to french "Demander confirmation avant de vider le contenu des bâtiments, outils, et coffres";
+
+translate "Verify transferring buildings to guilds"
+to french "Demander confirmation avant de transférer des bâtiments à des guildes";
+
+translate "HUD transparency N1%"
+to french "Transparence des Affichages superposés N1%";
+translate "Popup transparency N1%"
+to french "Transparence des Pop-Up N1%";
+translate "Menu transparency N1%"
+to french "Transparence des Menus N1%";
+
+translate "Interface is Tiny"
+to french "Interface minuscule";
+translate "Interface is Small"
+to french "Interface petite";
+translate "Interface is Medium sized"
+to french "Interface de taille moyenne";
+translate "Interface is Large"
+to french "Grande interface";
+translate "Interface is Huge"
+to french "Interface extra-large";
+
+translate "Interface Size:"
+to french "Taille de l'interface";
+
+translate "Transparency:"
+to french "Transparence:";
+
+Translate "Main Chat:"
+to french "Général: ";
+translate "Minimize:"
+to french "Réduire:";
+translate "Show:"
+to french "Montrer:";
+translate "Display:"
+to french "Affichage:";
+translate "Clicking:"
+to french "Cliquer:";
+translate "Colors:"
+to french "Couleurs:";
+translate "Movement:"
+to french "Mouvement:";
+
+translate "Use WASD keys for movement - Overrides WASD hotkeys on buildings"
+to french "Utiliser les touches WASD pour se déplacer.(Annule WASD sur les bâtiments)";
+
+translate "Use arrow keys for movement"
+to french "Utiliser les flêches pour se déplacer";
+
+translate "Don't user keys for movement"
+to french "Ne pas utiliser les flêches pour se déplacer";
+
+
+

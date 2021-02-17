@@ -1,0 +1,167 @@
+module firepit_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment        	           **
+//**                                                                       **
+//***************************************************************************
+
+
+translate Firepit to german feminine
+{
+  swa "Feuergrube";
+  sn "Feuergrube"; sg "Feuergrube"; sd "Feuergrube"; sa "Feuergrube";
+  pn "Feuergruben"; pg "Feuergruben"; pd "Feuergruben"; pa "Feuergruben";
+}
+translate GrilledFish to german masculine
+{
+  swa "Grillfisch";
+  sn "Grillfisch"; sg "Grillfischs"; sd "Grillfisch"; sa "Grillfisch";
+  pn "Grillfische"; pg "Grillfische"; pd "Grillfischen"; pa "Grillfische";
+}
+translate GrilledCabbage to german masculine
+{
+  swa "gegrillter Kohl";
+  sn "gegrillte Kohl"; sg "gegrillten Kohls"; sd "gegrillten Kohl"; sa "gegrillten Kohl";
+  pn "gegrillten Kohl"; pg "gegrillten Kohl"; pd "gegrillten Kohl"; pa "gegrillten Kohl";
+}
+translate GrilledCarrot to german feminine
+{
+  swa "gegrillte Karotte";
+  sn "gegrillte Karotte"; sg "gegrillten Karotte"; sd "gegrillten Karotte"; sa "gegrillte Karotte";
+  pn "gegrillten Karotten"; pg "gegrillten Karotten"; pd "gegrillten Karotten"; pa "gegrillten Karotten";
+}
+translate GrilledCucumber to german feminine
+{
+  swa "gegrillte Gurke";
+  sn "gegrillte Gurke"; sg "gegrillten Gurke"; sd "gegrilleten Gurke"; sa "gegrillte Gurke";
+  pn "gegrillten Gurken"; pg "gegrillten Gurken"; pd "gegrillten Gurken"; pa "gegrillten Gurken";
+}
+translate GrilledEggplant to german feminine
+{
+  swa "gegrillte Aubergine";
+  sn "gegrillte Aubergine"; sg "gegrillten Aubergine"; sd "gegrillten Aubergine"; sa "gegrillte Aubergine";
+  pn "gebrillten Auberginen"; pg "gebrillten Auberginen"; pd "gebrillten Auberginen"; pa "gebrillten Auberginen";
+}
+translate GrilledGarlic to german masculine
+{
+  swa "gegrillter Knoblauch";
+  sn "gegrillte Knoblauch"; sg "gegrillten Knoblauchs"; sd "gegrillten Knoblauch"; sa "gegrillten Knoblauch";
+  pn "gegrillten Knoblauch"; pg "gegrillten Knoblauch"; pd "gegrillten Knoblauch"; pa "gegrillten Knoblauch";
+}
+translate GrilledLeek to german masculine
+{
+  swa "gegrillter Lauch";
+  sn "gegrillte Lauch"; sg "gegrillten Lauchs"; sd "gegrillten Lauch"; sa "gegrillten Lauch";
+  pn "gegrillten Lauch"; pg "gegrillten Lauch"; pd "gegrillten Lauch"; pa "gegrillten Lauch";
+}
+translate GrilledOnion to german feminine
+{
+  swa "gegrillte Zwiebel";
+  sn "gegrillte Zwiebel"; sg "gegrillte Zwiebel"; sd "gegrillten Zwiebel"; sa "gegrillte Zwiebel";
+  pn "gegrillten Zwiebeln"; pg "gegrillten Zwiebeln"; pd "gegrillten Zwiebeln"; pa "gegrillten Zwiebeln";
+}
+translate GrilledPepper to german masculine
+{
+  swa "gegrillter Pfeffer";
+  sn "gegrillter Pfeffer"; sg "gegrillten Pfeffers"; sd "gegrillten Pfeffer"; sa "gegrillte Pfeffer";
+  pn "gegrillten Pfeffer"; pg "gegrillten Pfeffer"; pd "gegrillten Pfeffer"; pa "gegrillten Pfeffer";
+}
+translate GrilledWatermelon to german feminine
+{
+  swa "gegrillte Wassermelone";
+  sn "gegrillte Wassermelone"; sg "gegrillten Wassermelone"; sd "gegrillten Wassermelone"; sa "gegrillte Wassermelone";
+  pn "gegrillten Wassermelonen"; pg "gegrillten Wassermelonen"; pd "gegrillten Wassermelonen"; pa "gegrillten Wassermelonen";
+}
+translate Firebuilding to german masculine
+{
+  swa "Bau von Feuern";
+  sn "Bau von Feuern"; sg "Bau von Feuern"; sd "Bau von Feuern"; sa "Bau von Feuern";
+  pn "Bau von Feuern"; pg "Bau von Feuern"; pd "Bau von Feuern"; pa "Bau von Feuern";
+}
+
+translate "Allows the ability to start fires where needed with flint and tinder."
+to german "Ermöglicht den Bau und das Anzünden von Feuern mittels Feuerstein und Zunder.";
+
+translate "Firepit"
+to german "Feuergrube";
+
+translate "To build a Firepit, you need: "
+to german "Um eine Feuergrube zu bauen benötigst du: ";
+
+translate "Place Wood in Firepit"
+to german "Lege Holz in die Feuergrube";
+
+translate "You must place N1 wood into the firepit to construct a proper fire."
+to german "Du musst N1 Holz in die Feuergrube legen um ein richtiges Feuer zu machen.";
+
+translate "Place Tinder in Firepit"
+to german "Lege Zunder in die Feuergrube";
+
+translate "You must place tinder into the firepit to construct a proper fire."
+to german "Du musst Zunder in die Feuergrube legen um ein richtiges Feuer zu machen.";
+
+translate "Strike flint into the tinder and blow to start fire"
+to german "Entzünde mit Feuersteinen den Zunder und fache das Feuer an";
+
+translate "You must have a piece of flint to light the fire."
+to german "Du musst ein Stück Feuerstein haben um das Feuer zu entzünden.";
+
+translate "The tinder catches the spark, and the fire flares into life."
+to german "Die Funken treffen den Zunder und das Feuer beginnt leise zu glimmen.";
+
+translate "The tinder catches the spark, and the fire flares into life. You learn a bit more about Firebuilding, as well."
+to german "Die Funken treffen den Zunder und das Feuer beginnt leise zu glimmen. Du lernst mehr über das Feuer machen, gut so.";
+
+translate "The tinder catches the spark and burns up, but the fire doesn't catch. You will have to replace the tinder."
+to german "Die Funken treffen den Zunder und er verbrennt, aber das Feuer springt nicht über. Du musst neuen Zunder dazulegen.";
+
+translate "The spark lands on the tinder and it smoulders, but does not light.."
+to german "Die Funken treffen den Zunder und er glimmt, aber entflammt nicht das Holz..";
+
+translate "Remove Wood from Firepit"
+to german "Entferne Holz aus der Feuergrube";
+
+translate "Remove Tinder from Firepit"
+to german "Entferne Zunder aus der Feuergrube";
+
+translate "Add some O1 to the fire."
+to german "Lege einige(n) O1(pn) in das Feuer."; 
+
+translate "Add how much O1 to the fire?"
+to german "Wieviel O1(pn) in das Feuer legen?";
+
+translate "You can't put more than N1 of any item into the firepit."
+to german "Du kannst nicht mehr als N1 jeder Sorte in die Feuergrube legen.";
+
+translate "You don't have N1 O1."
+to german "Du hast O1(kpn) N1 O1(pn).";
+
+translate "Stoke the Fire with your Sharpened Stick"
+to german "Stochere mit deinem spitzen Stock im Feuer herum";
+
+translate "Stoke the Fire with your Iron Poker"
+to german "Stochere mit deinem Schürhaken im Feuer herum";
+
+translate "You stoke the fire with your Sharpened Stick, but it catches fire and burns up."
+to german "Du stocherst mit deinem spitzen Stock im Feuer herum, aber er fängt Feuer und brennt ab.";
+
+translate "You stoke the fire at the wrong time, and you ruin the fire prematurely."
+to german "Du stocherst zum falschen Zeitpunkt im Feuer und ruinierst vorzeitig das Feuer.";
+
+translate "Your Firepit has smouldered out."
+to german "Deine Feuergrube schwelt aus.";
+
+translate "Grill O1 on the fire."
+to german "Grille O1(pn) im Feuer.";
+
+translate "Add how much O1 to the fire?"
+to german "Wieviel O1(pn) ins Feuer legen?";
+
+translate "You must place your food on a Sharpened Stick to cook it in the fire."
+to german "Du musst dein Essen auf einen spitzen Stock stecken um es im Feuer zu grillen.";
+
+translate "Eat some O1"
+to german "Esse einige O1(pn)";

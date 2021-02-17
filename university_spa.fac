@@ -1,0 +1,346 @@
+module university_spa;
+
+translate CityHall to spanish masculine 
+{ 
+ns "Ayuntamiento"; np "Ayuntamientos";
+}
+
+
+translate UThought to spanish masculine
+{ 
+ns "Pensamiento";
+}
+translate UWorship to spanish feminine 
+{ 
+ns "Adoración";
+}
+translate UTheHumanBody to spanish masculine 
+{ 
+ns "Cuerpo Humano";
+}
+translate UArchitecture to spanish feminine 
+{ 
+ns "Arquitectura";
+}
+translate UConflict to spanish masculine 
+{ 
+ns "Conflicto";
+}
+translate UArt to spanish feminine 
+{ 
+ns "Arte y Música";
+}
+translate SThought to spanish masculine
+{ 
+ns "Pensamiento";
+}
+translate SWorship to spanish feminine
+{ 
+ns "Adoración";
+}
+translate STheHumanBody to spanish masculine 
+{ 
+ns "Cuerpo Humano";
+}
+translate SArchitecture to spanish feminine 
+{ 
+ns "Arquitectura";
+}
+translate SConflict to spanish masculine 
+{ 
+ns "Conflicto";
+}
+translate SArt to spanish feminine 
+{ 
+ns "Arte y Música";
+}
+translate School to spanish feminine 
+{ 
+ns "Escuela"; np "Escuelas";
+}
+translate University to spanish feminine 
+{ 
+ns "Universidad"; np "Universidades";
+}
+translate schlu to spanish feminine 
+{ 
+ns "Escuela";
+}
+translate School to spanish feminine 
+{ 
+ns "Escuela"; np "escuelas";
+}
+translate University to spanish feminine 
+{ 
+ns "Universidad"; np "universidades";
+}
+translate schlu to spanish feminine 
+{ 
+ns "Escuela";
+}
+
+translate "Technologies Available:"
+to spanish "Tecnologías Disponibles:";
+
+translate "Verifying attributes."
+to spanish "Verificando Atributos.";
+
+translate "No skill is needed for:"
+to spanish "No se necesita ninguna habilidad para :";
+translate "You may be interested in:"
+to spanish "Usted puede estar interesado(a) en :";
+
+//translate "K1 Resin (Missing)"
+//to spanish "Resina K1 (Falta)";
+//translate "N1 K1"
+//to spanish "N1 K1";
+
+//translate "N1 K1 Resin (Missing)"
+//to spanish "N1 Resina de K1 (Falta)";
+
+translate "N1 K1 (Missing)"
+to spanish "N1 K1 (Falta)";
+
+translate "N1 K1 (Ok)"
+to spanish "N1 K1 (Ok)";
+
+
+translate "There is no cost to learn this skill."
+to spanish "No hay ningún costo para aprender esta habilidad.";
+
+translate "no skills are currently available here"
+to spanish "No hay habilidades disponsibles aqui corrientemente";
+
+translate "(You do not have the tuition)"
+to spanish "(Usted no tiene la matrícula)";
+
+translate "Raising skill in O1 from N1 to N2"
+to spanish "Aumentando de habilidad en N1 de N2 hasta O1(ns).";
+translate "Tuition:"
+to spanish "Matrícula :";
+
+translate "Note: this skill may cost less at other schools."
+to spanish "Nota: esta habilidad puede costar menos en otras escuelas.";
+
+translate "You already know the skill:"
+to spanish "Usted ya tiene esta habilidad :";
+
+translate "You may learn:"
+to spanish "Usted puede aprender :";
+
+translate "Tuition costs:"
+to spanish "Costos de matrícula :";
+
+translate "There is no charge."
+to spanish "Esto es gratis.";
+
+translate "O1 (missing)"
+to spanish "O1(np) (falta)";
+
+translate "You have already learned all you can about O1 from this type of school. Travel the land to expand your knowledge."
+to spanish "Usted ya ha aprendido todo lo que pueda acerca de O1(ns) de este tipo de escuela. Viaje la tierra para ampliar su conocimiento.";
+
+translate "You have already learned all you can about O1 from this type of university. Travel the land to expand your knowledge."
+to spanish "Usted ya ha aprendido todo lo que pueda acerca de O1(ns) de este tipo de universidad. Viaje la tierra para ampliar su conocimiento.";
+
+translate "You have already learned all you can about O1 from a O2 of O3. "
+to spanish "L'O2(ns) de O3(ns) Usted ya ha aprendido todo lo que pueda acerca de O1(ns).";
+
+translate "You have already learned all you can about O1 from a university of O2. Visit other kinds of schools to expand your knowledge."
+to spanish "La Universidad de O2(ns) Usted ya ha aprendido todo lo que pueda acerca de O1(ns). Visite otro tipo de escuelas para ampliar sus conocimientos.";
+
+translate "You have already learned all you can about O1 from a school of O2. Visit other kinds of schools to expand your knowledge."
+to spanish "La escuela de O2(ns) Usted ya ha aprendido todo lo que pueda acerca de O1(ns). Visite otro tipo de escuelas para ampliar sus conocimientos.";
+
+translate "You have been specially granted N1 free skills. Use one on O1?"
+to spanish "Se le ha otorgado especialmente N1 habilidades gratis. Use uno en O1(ns) ?";
+
+translate "To upgrade your skill, you need:"
+to spanish "Para actualizar su habilidad , se necesita:";
+
+translate "You have upgraded your skill in"
+to spanish "Ha actualizado su habilidad en";
+
+translate "from level N1 to N2"
+to spanish "de nivel N1 a N2";
+
+translate "You already know O1"
+to spanish "Usted ya sabe O1(ns)";
+
+translate "No skill is needed for O1"
+to spanish "No se necesita habilidad para O1(ns)";
+translate "You may be interested in O1"
+to spanish "Usted puede estar interesado(a) en O1(ns).";
+
+translate "You have learned O1(ns)."
+to spanish "Usted ha aprendido O1(ns).";
+
+translate "You have learned O1(ns):\n"
+to spanish "Usted ha aprendido O1(ns):\n";
+
+translate "You have N1 skill(s) available for free. Use a free skill on O1?"
+to spanish "Usted tiene N1 habilidad(es) gratuita(s). Utilise una habilidad gratuita para O1(ns) ?";
+
+translate "You have learned O1, and tuition has been waived."
+to spanish "Usted ha aprendido O1(ns). La matrícula ha sido eliminada.";
+
+translate "You do not have N1 O1"
+to spanish "Usted no tiene N1 O1(N1?np:ns)";
+
+translate "You already know O1."
+to spanish "Usted ya aprendio O1(ns).";
+
+translate "You do not have the materials to learn O1."
+to spanish "Usted no tiene los materiales para aprender O1(ns).";
+
+translate "The Great University of O1"
+to spanish "La Gran Universidad de O1(ns)";
+
+translate "The People's School of O1"
+to spanish "La Escuela del Pueblo de O1(ns)";
+
+translate "Show the university's research notes"
+to spanish "Muenstre notas de investigación de la universidad";
+
+translate "close"
+to spanish "cerrar";
+
+translate "Donations to technology research is off limits during development sessions."
+to spanish "Las donaciones a la investigación en tecnología estan fuera de los límites durante las sesiones de desarrollo.";
+
+translate "You must be closer to the university to make a donation."
+to spanish "Usted debe estar más cerca de la universidad para hacer una donación.";
+
+translate "You do not have any O1"
+to spanish "Usted no tiene ningun O1(ns).";
+
+translate "Donate how much O1? (Max N1)"
+to spanish "Donar cuánto de O1(ns) ? (Max N1)";
+
+translate "You don't have that quantity of O1"
+to spanish "Usted no tiene esa cantidad de O1(np)";
+
+translate "When a University says they need water for research, they also need the jugs. Universities now have a policy whereby they won't accept a person's last water jug."
+to spanish "Cuando una universidad dice que necesitan agua para la investigación , también necesitan las jarras . Las universidades ahora tienen una póliza por la cual no aceptarán última jarra de agua de una persona.";
+
+translate "Your donation has caused research to commence on O1"
+to spanish "Su donación ha causado que comienze la investigación en O1(ns).";
+
+translate " in <1 minute"
+to spanish " en <1 minuto";
+
+translate " in N1."
+to spanish " en N1.";
+
+translate "Showing N1 of N2"
+to spanish "N1 de N2";
+
+translate "Nothing to research."
+to spanish "Nada para investigar.";
+
+translate "You have learned Project Management"
+to spanish "Has aprendido Gestión de Proyectos.";
+
+translate "Project no longer needs donations."
+to spanish "Este proyecto a dejado de aceptar donaciones.";
+
+translate "Research Donate"
+to spanish "Donar a la Investigación";
+
+translate "Research Complete"
+to spanish "Investigación Finalizada";
+
+translate "Research has commenced on O1"
+to spanish "La investigación en O1(ns) a comenzado";
+
+translate UProgress to spanish masculine 
+{
+ns "Progreso"; np "Progresos";
+}
+
+translate "The Stranger's University of O1"
+to spanish "Universidad de El Extraño: O1(ns)";
+
+translate "Mentors cannot learn skills on Welcoming Island."
+to spanish "Los mentores no pueden aprender habilidades en la isla de Bienvenida.";
+
+translate "You have learned"
+to spanish "Usted ha aprendido";
+
+translate "You have learned "
+to spanish "Usted ha aprendido ";
+
+translate "Skills Available:"
+to spanish "Habilidades disponibles";
+
+translate "You already know more about O1 as this school does."
+to spanish "Usted ya sabe más sobre O1(ns) que esta escuela sabe.";
+
+translate "You already know as much about O1 as this school does."
+to spanish "Usted ya sabe lo mismo sobre O1(ns) que esta escuela sabe.";
+
+translate "You already know as much about O1 as the instructors at this school do."
+to spanish "Usted ya sabe lo mismo sobre O1(ns) que los instructores en esta escuela.";
+
+translate "To learn O1, you need:"
+to spanish "Para aprendrer O1(ns), usted necesita:";
+
+translate "To learn O1 from a school of O2, you need:"
+to spanish "Para aprendrer O1(ns) de una escuela de O2(ns), usted necesita:";
+
+translate "You will have use of O1 for the next "
+to spanish "Usted tendrá el uso de O1(ns) por el proximo ";
+
+translate "By the UoP Trial Accounts Law, passed by Taera, only those with paid accounts may learn from or donate to any University of Progress."
+to spanish " Por la Ley de UoP Trial Accounts, aprobada por Taera , sólo aquellos con cuentas pagadas puede aprender de o donar a cualquier Universidad de Progreso.";
+
+translate "Before you can learn O1 you must learn:"
+to spanish "Antes de poder aprender O1(ns), usted tiene que aprender ";
+
+translate "You have already learned all you can about O1 from a O2 of O3. Visit other kinds of schools to expand your knowledge."
+to spanish "Usted ya aprendio todo lo que puede de O1(ns) a O2(ns) de O3(ns). Visite otro tipo de escuelas para ampliar sus conocimientos.";
+
+translate "Pay Half Price"
+to spanish "Pagar la mitad del precio";
+
+translate "Cancel"
+to spanish "Anular";
+
+translate "Pay Tuition"
+to spanish "Pagar La Matrícula";
+
+translate "Use a Half Price"
+to spanish "Utilise a mitad del precio";
+
+translate "Use a Free Skill"
+to spanish "Utilise una habilidad gratuita";
+
+translate "Pay Full Price"
+to spanish "Pagar precio regular";
+
+translate "Your skill level has changed."
+to spanish "Su nivel de habilidad ha cambiado.";
+
+translate "You do not have unlimited half-price skills"
+to spanish "Usted no tiene habilidades a mitad de precio ilimitadas.";
+
+translate "You are out of half-price skills"
+to spanish "Usted no tiene más habilidades a mitad de precio";
+
+translate "You are out of free skills"
+to spanish "Usted no tiene más habilidades gratuitas.";
+
+translate "You no longer have the materials."
+to spanish "Ya no tiene los materiales requeridos.";
+
+translate "To learn this skill, you must achieve level N1 or above."
+to spanish "Para aprender esta habilidad , debe alcanzar el nivel N1 o mas alto.";
+
+translate "You will have use of O1 for the next K1"
+to spanish "Usted tendrá el uso de O1(ns) por el proximo K1.";
+
+translate "You must be a citizen to learn that skill."
+to spanish "Usted debe ser un ciudadano para aprender esa habilidad.";
+
+translate "O1 (tech level N1 of N2)"
+to spanish "O1(ns) (nivel N1 de N2)";

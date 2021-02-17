@@ -1,0 +1,79 @@
+module EventObesity_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2007 by MDO-Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+
+
+translate "Chefs"
+to german "Chefs";
+
+translate "Gourmands"
+to german "Feinschmecker";
+
+translate "Food Type"
+to german "Speiseart";
+
+//translate "Hash On"
+//to german ""
+
+translate "Kitchens Stack"
+to german "K�chenabzug";
+
+translate "You didn't specify a valid food type."
+to german "Du hast keine zul�ssige Speiseart ausgew�hlt.";
+
+//translate "Hash On must be either Chef, Kitchen, or Dish."
+//to german "Durcheinander muss entweder ein Chef, eine K�che oder ein Gericht sein."
+
+translate "Check my score in the K1 festival"
+to german "Pr�fe meine Bewertung im K1 Festival";
+
+translate "You haven't enjoyed any dishes yet."
+to german "Du hast noch keine Gerichte bislang probiert.";
+
+translate "You have enjoyed N1 dishes, and accumulated N2 points."
+to german "Du hast N1 Gericht zu dir genommen und N2 Punkte gesammelt.";
+
+translate "At least N1 different people have eaten here for the K1 festival"
+to german "Hier haben mindestens N1 verschiedene Leute w�hrend des K1 Festivals gegessen";
+
+translate "By changing chefs, you have reset the points on this kitchen."
+to german "Durch den Chefwechsel hast du an dieser K�che die Punkte auf Null zur�ckgesetzt.";
+
+translate "You made a dish for the K1 festival!"
+to german "Du hast ein Gericht f�r das K1 Festival gekocht!";
+
+translate "You gain N1 points in today's K1 festival! Your score is now N2."
+to german "Du hast N1 Punkte im heutigen K1 Festival angesammelt. Dein Punktestand ist nun N2";
+
+translate "Hmm, that dish really doesn't appeal to you that much. Hard to say why."
+to german "Hmm, dieses Gericht entspricht nicht wirklich deinem Geschmack. Schwer zu sagen, warum.";
+
+translate "That isn't quite what you're in the mood for right now. You let out a slight burp."
+to german "Das ist nicht wirklich etwas, wonach dir der Sinn steht. Dir entschl�pft ein kleines B�uerchen.";
+
+translate "You're getting too full to enjoy that dish. But perhaps something lighter would be nice."
+to german "Du f�hlst dich so langsam zu �berfressen, als dieses Essen noch genie�en zu k�nnen. Aber vielleicht w�re etwas Leichteres nun nach deinem Geschmack.";
+
+translate "Ugh, you *really* aren't in the mood to eat that. You loosen your pants a bit at the thought of it."
+to german "Urgs, du hast WIRKLICH keine Lust, dies zu essen. Du �ffnest deinen G�rtel ein wenig bei dem Gedanken daran.";
+
+translate "You're now so full it's hard to breathe. Too bad there's no place in Egypt to get a nice snifter of cognac. Maybe those some of those French players could hook you up."
+to german "Du hast dich derart �berfressen, da� es dir schwer f�llt zu atmen. Zu dumm, da� es keine Gegend in �gypten gibt, um einen kleinen Cognac zu genie�en. Vielleicht k�nnen dir einige der franz�sischen Spieler helfen.";
+
+translate "Man, you're stuffed. Walking is difficult. You notice that someone has slipped a Chaine des Rotisseurs membership card in your pocket. What the hell is that?"
+to german "Mann, bist du vollgestopft. Das Laufen ist schwierig. Du stellst fest, dass irgendwer eine Chaine des Rotisseurs Mitgliedskarte in deine Tasche gesteckt hat. Was zum Teufel ist das?";
+
+translate "If you eat any more you think something might rupture. Though, maybe just one wafer thin mint."
+to german "Wenn du nun noch etwas isst, f�rchtest du zu platzen. Obwohl, vielleicht noch ein kleines Pfefferminzbl�ttchen.";
+
+translate "Ok, you win. Visit www.ifoce.org to continue."
+to german "Ok, du hast gewonnen. Besuche www.iforce.org um weiterzumachen.";
+
+translate "Obesity Player: N1 dishes, N2 points. U1"
+to german "Fetter Spieler: N1 Gerichte, N2 Punkte. U1(name)";

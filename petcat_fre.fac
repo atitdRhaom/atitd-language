@@ -1,0 +1,54 @@
+Module petcat_fre;
+
+translate Cat to french masculine
+{
+  ns "Chat"; np "Chats";
+}
+translate Cathouse to french masculine
+{
+  ns "Elevage félin"; np "Elevages félins";
+}
+translate "Games"
+to french "Jeux";
+
+translate "Pull Cat's Tail"
+to french "Tirer la queue";
+
+translate "Hide and Seek"
+to french "Cache-cache";
+
+translate "Push Cat Over"
+to french "Bousculer";
+
+translate "Put Cat in Bag"
+to french "Mettre le chat dans un sac";
+
+translate "Pet"
+to french "Animal de compagnie";
+
+translate "Remove Cat from Bag"
+to french "Faire sortir le chat du sac";
+
+translate "Give Catnip"
+to french "Donner un champignon Cataire";
+
+translate "Initiate Stalk"
+to french "Initier à la poursuite";
+
+translate "Beg"
+to french "Supplier";
+
+translate "Meow"
+to french "Miaou";
+
+translate "Have Cat fetch item"
+to french "Faire inspecter l'objet par le chat";
+
+translate "This is not your cat"
+to french "Ce n'est pas votre chat";
+
+translate "Your cat is too far away"
+to french "Votre chat est trop loin";
+
+translate "You have no Cats in your inventory"
+to french "Vous n'avez pas de chat dans votre inventaire";

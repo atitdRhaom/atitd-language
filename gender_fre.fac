@@ -1,0 +1,29 @@
+module gender_fre;
+
+
+translate "he"
+to french "il";
+
+translate "she"
+to french "elle";
+
+translate "Man"
+to french "Homme";
+
+translate "Woman"
+to french "Femme";
+
+translate "Husband"
+to french "Epoux";
+
+translate "Wife"
+to french "Epouse";
+
+translate "him"
+to french "lui";
+
+translate "himself"
+to french "lui-même";
+
+translate "herself"
+to french "elle-même";

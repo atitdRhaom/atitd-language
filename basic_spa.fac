@@ -1,0 +1,197 @@
+Module basic_spa;
+
+translate masculine to spanish
+{
+	lns "el"; uns "un"; dns "de"; cns "este"; tns "todo el";
+	lnp "los"; unp "unos"; dnp "de"; cnp "estos"; tnp "todos los";
+	ens "Este";
+	}
+
+translate feminine to spanish
+{
+	lns "la"; uns "una"; dns "de la"; cns "esta"; tns "toda la";
+	lnp "las"; unp "unas"; dnp "de las"; cnp "estas"; tnp "todas las";
+	ens "Esta";
+	}
+	
+translate masculinecollective to spanish
+{
+	lns "los"; uns "unos"; dns "del"; cns ""; tns "todos los";
+	lnp "les"; unp "des"; dnp "de los"; cnp "ces"; tnp "tous les";
+	}
+	
+translate femininecollective to spanish
+{
+	lns "l'"; uns "une"; dns "de l'"; cns "cette"; tns "toute l'";
+	lnp "les"; unp "des"; dnp "des"; cnp "ces"; tnp "toutes les";
+	}	
+translate "Cancel"
+to spanish "Cancelar";
+
+translate "Main"
+to spanish "General";
+
+translate "Immigrants"
+to spanish "Inmigrantes";
+
+translate "Inventory"
+to spanish "Inventario";
+
+translate "Skills"
+to spanish "Habilidades";
+
+translate "System"
+to spanish "Sistema";
+
+translate "Weight: N1"
+to spanish "Peso: N1";
+
+translate "Bulk: N1"
+to spanish "Bulto: N1";
+
+translate "This is your O1"
+to spanish "O1(ens) es tu O1(ns)";
+
+translate "Do you really want to tear down the O1?"
+to spanish "Estás seguro que quieres destruir O1(cns) O1(ns) ?";
+
+translate "Are you sure you want to tear this O1?"
+to spanish "Estás seguro de que quieres destruir O1(cns) O1(ns)?";
+
+translate "Tear this down by order of the Special Salvage law."
+to spanish "Détruire cette construction par ordre de la loi sur le recyclage.";
+
+translate "U1 has left the channel."
+to spanish "U1(name) ah dejado el canal.";
+
+translate "take"
+to spanish "Toma";
+
+translate "Take/O1 (N1)"
+to spanish "Toma/O1(N1?ns:np) (N1)";
+
+translate "Stash/O1 (N1)"
+to spanish "Deja/O1(N1?ns:np) (N1)";
+
+translate "O1 (N1)"
+to spanish "O1(N1?ns:np) (N1)";
+
+translate "O1 N1"
+to spanish "O1(N1?ns:np) N1";
+
+translate "N1 O1"
+to spanish "N1 O1(N1?ns:np)";
+
+translate "N1 O1:K1"
+to spanish "N1 O1(N1?ns:np): K1";
+
+translate "U1: N1"
+to spanish "U1(name): N1";
+
+translate "U1-N1"
+to spanish "U1(name) - N1";
+
+translate "  * N1 O1"
+to spanish "  * N1 O1(N1?ns:np)";
+
+translate "O1:K1"
+to spanish "O1(ns): K1";
+
+translate "O1"
+to spanish "O1(np)";
+ 
+translate "O1 O2"
+to spanish "O1(np) O2(np)";
+ 
+translate "O1 O2 O3"
+to spanish "O1(np) O2(np) O3(np)";
+ 
+translate "O1 O2 O3 O4"
+to spanish "O1(np) O2(np) O3(np) O4(np)";
+ 
+translate "O1 O2 O3 O4 O5"
+to spanish "O1(np) O2(np) O3(np) O4(np) O5(np)";
+
+translate "U1"
+to spanish "U1(name)";
+
+translate "Downloading N1kb"
+to spanish "Descargando N1kb";
+
+translate "Downloading N1k"
+to spanish "Descargando N1k";
+
+translate "Patching N1 files"
+to spanish "Actualizando N1 archivos";
+
+translate "Processing..."
+to spanish "Procesando...";
+
+translate "stash"
+to spanish "Deja";
+
+translate "Pick up the O1"
+to spanish "Recoge O1(lns) O1(ns)";
+
+translate "Picked up N1 O1"
+to spanish "Recoges N1 O1(N1?ns:np)";
+
+translate "O1 (Completed)"
+to spanish "O1(np) (Completado)";
+
+translate "O1 (Current Level: N1)"
+to spanish "O1(np) (Nivel Actual: N1)";
+
+translate "O1 (Level N1)"
+to spanish "O1(np) (Nivel N1)";
+
+translate "O1 (Level: N1)"
+to spanish "O1(np) (Nivel: N1)";
+
+// Dates & Times
+
+translate "N1 days"
+to spanish "N1 días";
+
+translate "N1 hours"
+to spanish "N1 horas";
+
+translate "N1 minutes"
+to spanish "N1 minutos";
+
+translate "N1 seconds"
+to spanish "N1 segundos";
+
+translate "N1 days N2 hours N3 minutes"
+to spanish "N1 días N2 horas N3 minutos";
+
+translate "N1 days N2 hours"
+to spanish "N1 días N2 horas";
+
+translate "N1 hours N2 minutes"
+to spanish "N1 horas N2 minutos";
+
+translate "You are carrying too much."
+to spanish "Estas cargando demasiado.";
+
+translate "Set Size in Compound"
+to spanish "Define el Tamaño en la Vivienda";
+
+translate "Tear down this building"
+to spanish "Destruye esto";
+
+translate "Departed and Absent Player Cleanup"
+to spanish "Limpieza de Jugador Ausente o Marchado";
+
+translate "Builder Reposition this O1"
+to spanish "Reposicionar este O1(ns) Como Creador";
+
+translate "This O1 is N1% full (N2 of N3.)"
+to spanish "Este O1(ns) está al N1% de su capacidad (N2 de N3.)";
+
+translate "Your O1 is N1% full (N2 of N3.)"
+to spanish "Tu O1(ns) está al N1% de su capacidad (N2 de N3.)";
+
+translate "World Builder" to spanish "Creador";
+translate "World Builders" to spanish "Creadores";
+

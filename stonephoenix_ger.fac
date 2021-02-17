@@ -1,0 +1,119 @@
+module stonephoenix_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment		           **
+//**                                                                       **
+//***************************************************************************
+//menues
+
+translate StonePhoenix to german masculinecollective
+{
+  swa "Steinerner Phönix";
+  sn "Steinerne Phönix"; sg "Steinernen Phönix"; sd "Steinernen Phönix"; sa "Steinernen Phönix";
+  pn "Steinernen Phönix"; pg "Steinernen Phönix"; pd "Steinernen Phönix"; pa "Steinernen Phönix";
+}
+
+translate stonephoenixofperceptioncertificate to german neuter
+{
+  swa "Zertifikat des Steinernen Phönix der Empfindung";
+  sn "Steinerne Phönix"; sg "Steinernen Phönix"; sd "Steinernen Phönix"; sa "Steinernen Phönix";
+  pn "Steinernen Phönix"; pg "Steinernen Phönix"; pd "Steinernen Phönix"; pa "Steinernen Phönix";
+}
+
+translate "Polish the Stone Phoenix' Wings"
+to german "Poliere die Flügel des Phönix";
+
+translate "As you polish the wings, your step seems particularly light!"
+to german "Als du die Flügel poliert hast, scheinen deine Schritte besonders leicht zu werden!";
+
+translate "As you polish the wings, your load seems unusually light!"
+to german "Als du die Flügel poliert hast, scheint dein Gepäck besonders leicht zu tragen zu sein!";
+
+translate "As you polish the wings, your load seems especially easy to manage!"
+to german "Als du die Flügel poliert hast, scheint dein Gepäck besonders einfach zu handhaben zu sein!";
+
+translate "As you polish the wings, you feel full of energy!"
+to german "Als du die Flügel poliert hast, fühlst du Dich voller Energie!";
+
+translate "As you polish the wings, you feel particularly healthy!"
+to german "Als du die Flügel polierst hast, fühlst du Dich besonders gesund!";
+
+translate "As you polish the wings, your mind seems particularly sharp!"
+to german "Als du die Flügel poliert hast, scheinen sich deine Sinne zu schärfen!";
+
+translate "As you polish the wings, you feel particularly insightful!"
+to german "Als du die Flügel poliert hast, scheinst du besonders einfühlsam zu werden";
+
+translate "You polish the wings a bit. It continues to look nice."
+to german "Du polierst die Flügel ein wenig. Es sieht weiterhin schön aus.";
+
+
+
+//Vermutlich anderes File!
+
+//translate "Display Winners"
+//to german "Zeige die Gewinner";
+
+//translate "Not yet implemented."
+//to german "Noch nicht eingefügt";
+
+//translate "Change type to 2"
+//to german "Wechsel zu Typ 2";
+
+//translate "Chefs by Threshold"
+//to german "Chefs durch Grenzwert";
+
+//translate "Chefs by Proportion"
+//to german "Chefs durch Proportion";
+
+//translate "Gourmands by Threshold"
+//to german "Gourments durch Grenzwert";
+
+//translate "Gourmands by Proportion"
+//to german "Gourmets durch Proportion";
+
+//translate "Winners"
+//to german "Gewinner";
+
+//translate "Load Prize Hopper"
+//to german "Belade den Preisbehälter";
+
+//translate "Choose an item:"
+//to german "Wähle einen Gegenstand:";
+
+//translate "How many O1: "
+//to german "Wieviel O1(pn):";
+
+//translate "How many "
+//to german "Wieviel ";
+
+//translate "Sending N1 O1 to U1"
+//to german "Gebe N1 O1(pn) to U1(name)";
+
+//translate "Retaining "
+//to german "Einbehalten ";
+
+//translate "View Prize Hoppers"
+//to german "Betrachte den Preisbehälter";
+
+//translate "Prize Hoppers:\n"
+//to german "Preisbehälter:\n";
+
+//translate "Unload Prize Hopper"
+//to german "Leere den Preisbehälter";
+
+//translate "Award Prizes - Real"
+//to german "Verleihe Preise - Real";
+
+//translate "Award Prizes - Trial"
+//to german "Verleihe Preise - Test";
+
+//translate "Guild-Owned kitchen: K1 at N1"
+//to german "Gildeneigene Küche: K1 bei N1";
+
+//translate "Unknown Chef at N1"
+//to german "Unbekannter Chef bei N1";
+

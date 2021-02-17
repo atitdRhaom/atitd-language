@@ -1,0 +1,264 @@
+module alchemuses_fre;
+
+translate OddPapyrusSeeds to french feminine
+{
+ns "Graine de papyrus curieuse"; np "Graines de papyrus curieuses";
+}
+
+translate StrangePapyrusSeeds to french feminine
+{
+ns "Graine de papyrus étrange"; np "Graines de papyrus étranges";
+}
+
+translate Arsenic to french feminine
+{
+ns "Arsenic"; np "Arsenic";
+}
+
+translate WierdPapyrusSeeds to french feminine
+{
+ns "Graine de papyrus bizarre"; np "Graines de papyrus bizarres";
+}
+
+translate PharaohPapyrusSeeds to french feminine
+{
+ns "Graine de papyrus de Pharaoh"; np "Graines de papyrus de Pharhaoh";
+}
+
+translate "Use Tincture/"
+to french "Utiliser une teinture/";
+
+translate "There is no known use for Tincture K1. If you believe you have a novel invention, you should first scry the tincture before using it."
+to french "Il n'existe pour la teinture K1 aucune utilité connue. Si vous pensez que vous avez découvert quelque chose de nouveau, analysez-le avant de l'utiliser.";
+
+translate "You don't have N1 K1."
+to french "Vous n'avez pas N1 K1.";
+
+translate "Transmuting K1 into K2. How many copies? (max 100)"
+to french "Vous transmutez K1 en K2. Combien de fois ? (Max 100)";
+
+translate "Transmute Metal: Lead to Gold (1)"
+to french "Transmuter du métal : plomb en or (1)";
+
+translate "Transmute Metal: Gold to Lead (1)"
+to french "Transmuter : or en plomb (1)";
+
+translate "Transmute Glowers: Yellow to Green (90)"
+to french "Transmuter le jaune en vert (90)";
+
+translate "Transmute Glowers: Green to Yellow (100)"
+to french "Transmuter le vert en jaune (100)";
+
+translate "Transmute Glowers: Green to Red (60)"
+to french "Transmuter le vert en rouge (60)";
+
+translate "Transmute Glowers: Red to Blue (40)"
+to french "Transmuter le rouge en bleu (40)";
+
+translate "Transmute Glowers: Red to Orange (40)"
+to french "Transmuter le rouge en orange (40)";
+
+translate "Enrich Flower Fertilizer (100)"
+to french "Enrichir l'engrais à fleurs (100)";
+
+translate "Enrich Flower Fertilizer (300)"
+to french "Enrichir l'engrais à fleurs (300)";
+
+translate "Enrich Flower Fertilizer (500)"
+to french "Enrichir l'engrais à fleurs (500)";
+
+translate "Deep Enrich Flower Fertilizer (100)"
+to french "Enrichir l'engrais à fleur - poussé (100)";
+
+translate "Deep Enrich Flower Fertilizer (300)"
+to french "Enrichir l'engrais à fleur - poussé (300)";
+
+translate "Deep Enrich Flower Fertilizer (500)"
+to french "Enrichir l'engrais à fleur - poussé (500)";
+
+translate "Transmute Ash to Potash (1)"
+to french "Transmuter des cendres en potasse (1)";
+
+translate "Transmute Ash to Potash (2)"
+to french "Transmuter des cendres en potasse (2)";
+
+translate "Potash Catalyst"
+to french "Catalyseur de potasse";
+
+translate "Improved Potash Catalyst"
+to french "Catalyseur de potasse amélioré";
+
+translate "Odd Papyrus Seeds"
+to french "Graines de papyrus curieuses";
+
+translate "Strange Papyrus Seeds"
+to french "Graines de papyrus étranges";
+
+translate "Wierd Papyrus Seeds"
+to french "Graines de papyrus bizarres";
+
+translate "Sapphire Fracture"
+to french "Fragment de saphir";
+
+translate "Sapphire Glue"
+to french "Colle à saphir";
+
+translate "Quartz Fracture"
+to french "Fragment de quartz";
+
+translate "Quartz Glue"
+to french "Colle à quartz";
+
+translate "Diamond Fracture"
+to french "Fragment de diamant";
+
+translate "Diamond Glue"
+to french "Colle à dismant";
+
+translate "Ruby Fracture"
+to french "Fragment de rubis";
+
+translate "Ruby Glue"
+to french "Colle à rubis";
+
+translate "Topaz Fracture"
+to french "Fragment de topaze";
+
+translate "Topaz Glue"
+to french "Colle à topaze";
+
+translate "Emerald Fracture"
+to french "Fracture d'émeraude";
+
+translate "Emerald Glue"
+to french "Colle à émeraude";
+
+translate "Low Explosive, Standard Yield"
+to french "Explosif faible, rendement standard";
+
+translate "High Explosive, Standard Yield"
+to french "Explosif puissant, rendement standard";
+
+translate "Brimstone Catalyst, Left"
+to french "Catalyseur de souffre, gauche";
+
+translate "Brimstone Catalyst, Right"
+to french "Catalyseur de souffre, droite";
+
+translate "Too many parameters in Alchemical Function. Call a developer."
+to french "Cette fonction alchimique contient trop de paramètres. Contactez un développeur.";
+
+translate "Transmuting O1 into O2. How many recipes of O3? (max 100)"
+to french "Transmutation de O1(ns) en O2(ns). Combien de O3(ns) ? (Max 100)";
+
+translate "You don't have N1 O1."
+to french "Vous n'avez pas N1 O1(N1?np:ns).";
+
+translate "You don't have N1 vials of Tincture O1"
+to french "Vous n'avez pas N1 fioles de teinture O1(ns).";
+
+translate "Fracture Gems/Tincture O1: One O2 into five O3"
+to french "Fragmenter des pierres/Teinture O1(ns): Une O2(ns) en cinq O3(ns)";
+
+translate "Fuse Gems/Tincture O1: Nine O2 into one O3"
+to french "Fusionner des pierres/Teinture O1(ns) : Neuf O2(ns) en un O3(ns) ";
+
+translate "This tincture required a technology that you do not have."
+to french "Cette teinture nécessite une technologie que vous ne possédez pas.";
+
+translate "This tincture should be used at a Gem Cutting Table."
+to french "Cette teinture doit être utilisée sur une table de taille.";
+
+translate "This must be used in a Detonation Chamber, the technology for which which can be researched at all Universities of The Human Body."
+to french "Ceci doit être utilisé dans une chambre de détonation. Cette technologie peut être recherchée à toutes les universités du Corps Humain.";
+
+translate "This must be used in a Detonation Chamber, the technology for which can be researched at all Universities of The Human Body."
+to french "Ceci doit être utilisé dans une chambre de détonation. Cette technologie peut être recherchée à toutes les universités du Corps Humain.";
+
+translate "This must be dribbled into a kettle before starting a recipe."
+to french "Vous devez égoutter le produit dans un chaudron avant de commencer la recette.";
+
+translate "Titrate Tincture/"
+to french "Concentration de la teinture/";
+
+translate "Transmute Coal to Angel's Stone"
+to french "Transmuter du charbon en pierre d'ange";
+
+translate "Transmute Lead into Arsenic"
+to french "Transmuter du plomb en arsenic";
+
+translate "..."
+to french "...";
+
+translate "..."
+to french "...";
+
+translate "..."
+to french "...";
+
+translate "..."
+to french "...";
+
+translate "..."
+to french "...";
+
+translate "..."
+to french "...";
+
+translate "..."
+to french "...";
+
+translate "..."
+to french "...";
+
+translate "..."
+to french "...";
+
+translate "..."
+to french "...";
+
+translate "..."
+to french "...";
+
+translate "..."
+to french "...";
+
+translate "..."
+to french "...";
+
+translate "..."
+to french "...";
+
+translate "..."
+to french "...";
+
+translate "..."
+to french "...";
+
+translate "..."
+to french "...";
+
+translate "..."
+to french "...";
+
+translate "..."
+to french "...";
+
+translate "..."
+to french "...";
+
+translate "..."
+to french "...";
+
+translate "..."
+to french "...";
+
+translate "..."
+to french "...";
+
+translate "..."
+to french "...";
+
+translate "..."
+to french "...";
+

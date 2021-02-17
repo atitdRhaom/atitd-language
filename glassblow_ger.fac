@@ -1,0 +1,244 @@
+module glassblow_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2007 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+
+
+
+translate TheArtOfThePipe to german feminine
+{
+  swa "Die Kunst des Glasformens";
+  sn "Die Kunst des Glasformens"; 
+  pn "Die Kunst des Glasformens"; 
+}
+
+translate GloryHole to german feminine
+{
+  swa "Glasbläserei";
+  sn "Glasbläserei"; sg "Glasbläserei"; sd "Glasbläserei"; sa "Glasbläserei";
+  pn "Glasbläsereien"; pg "Glasbläsereien"; pd "Glasbläsereien"; pa "Glasbläsereien";
+}
+translate WineGlass to german neuter
+{
+  swa "Weinglas";
+  sn "Weinglas"; sg "Weinglases"; sd "Weinglas"; sa "Weinglas";
+  pn "Weingläser"; pg "Weingläser"; pd "Weingläsern"; pa "Weingläser";
+}
+translate DistillationCoil to german feminine
+{
+  swa "Destillationsspirale";
+  sn "Destillationsspirale"; sg "Destillationsspirale"; sd "Destillationsspirale"; sa "Destillationsspirale";
+  pn "Destillationsspiralen"; pg "Destillationsspiralen"; pd "Destillationsspiralen"; pa "Destillationsspiralen";
+}
+translate HookahBowl to german masculine
+{
+  swa "Wasserpfeifenkopf";
+  sn "Wasserpfeifenkopf"; sg "Wasserpfeifenkopfes"; sd "Wasserpfeifenkopf"; sa "Wasserpfeifenkopf";
+  pn "Wasserpfeifenköpfe"; pg "Wasserpfeifenköpfe"; pd "Wasserpfeifenköpfen"; pa "Wasserpfeifenköpfe";
+}
+translate BarometricSphere to german neuter
+{
+  swa "Barometrisches Druckglas";
+  sn "Barometrische Druckglas"; sg "Barometrischen Druckglases"; sd "Barometrischen Druckglas"; sa "Barometrische Druckglas";
+  pn "Barometrischen Druckgläser"; pg "Barometrischen Druckgläser"; pd "Barometrischen Druckgläsern"; pa "Barometrischen Druckgläser";
+}
+translate TestTube to german neuter
+{
+  swa "Siederohr";
+  sn "Siederohr"; sg "Siederohrs"; sd "Siederohr"; sa "Siederohr";
+  pn "Siederohre"; pg "Siederohre"; pd "Siederohren"; pa "Siederohre";
+}
+translate Florence to german masculinecollective
+{
+  swa "Erlenmeyerkolben";
+  sn "Erlenmeyerkolben"; sg "Erlenmeyerkolbens"; sd "Erlenmeyerkolben"; sa "Erlenmeyerkolben";
+  pn "Erlenmeyerkolben"; pg "Erlenmeyerkolben"; pd "Erlenmeyerkolben"; pa "Erlenmeyerkolben";
+}
+translate Beaker to german masculine
+{
+  swa "Becher";
+  sn "Becher"; sg "Bechers"; sd "Becher"; sa "Becher";
+  pn "Becher"; pg "Becher"; pd "Becher"; pa "Becher";
+}
+translate ThistleTube to german neuter
+{
+  swa "Glockentrichter";
+  sn "Glockentrichter"; sg "Glockentrichters"; sd "Glockentrichter"; sa "Glockentrichter";
+  pn "Glockentrichter"; pg "Glockentrichter"; pd "Glockentrichtern"; pa "Glockentrichter";
+}
+translate Standard to german neuter
+{
+  swa "Standard";
+  sn "Standard"; sg "Standard"; sd "Standard"; sa "Standard";
+  pn "Standard"; pg "Standard"; pd "Standard"; pa "Standard";
+}
+translate Pinpoint to german neuter
+{
+  swa "Punktgenau";
+  sn "Punktgenau"; sg "Punktgenau"; sd "Punktgenau"; sa "Punktgenau";
+  pn "Punktgenau"; pg "Punktgenau"; pd "Punktgenau"; pa "Punktgenau";
+}
+
+translate Gradual to german neuter
+{
+  swa "Stufenweise";
+  sn "Stufenweise"; sg "Stufenweise"; sd "Stufenweise"; sa "Stufenweise";
+  pn "Stufenweise"; pg "Stufenweise"; pd "Stufenweise"; pa "Stufenweise";
+}
+
+translate FrontHeavy to german neuter
+{
+  swa "Hitze vorne";
+  sn "Hitze vorne"; sg "Hitze vorne"; sd "Hitze vorne"; sa "Hitze vorne";
+  pn "Hitze vorne"; pg "Hitze vorne"; pd "Hitze vorne"; pa "Hitze vorne";
+}
+
+translate BackHeavy to german neuter
+{
+  swa "Hitze hinten";
+  sn "Hitze hinten"; sg "Hitze hinten"; sd "Hitze hinten"; sa "Hitze hinten";
+  pn "Hitze hinten"; pg "Hitze hinten"; pd "Hitze hinten"; pa "Hitze hinten";
+}
+
+translate "Advanced Glassblowing"
+to german "Erweitertes Glasblasen";
+
+translate "Allows construction and use of Glory Holes"
+to german "Erlaubt den Bau und die Benutzung einer Glasbläserei";
+
+translate "Glass"
+to german "Glas";
+
+translate "Glory Hole"
+to german "Glasbläserei";
+
+translate "To build a Glory Hole, you need: "
+to german "Um eine Glasbläserei zu bauen benötigst du: ";
+
+translate "The piece shattered!"
+to german "Das Werkstück ist zerbrochen!";
+
+translate "Are you sure you want to discard it?"
+to german "Bist du sicher, dass du dies verwerfen möchtest?";
+
+translate "Tools"
+to german "Werkzeuge";
+
+translate "Unload Piece"
+to german "Werkstück entnehmen";
+
+translate "The O1 was not of acceptable quality. Try to reach a quality level of at least N1."
+to german "O1(^tsn) O1(sn) hatte keine brauchbare Qualität. Versuche ein Qualitätslevel von N1 zu erreichen.";
+
+translate "You produced a quality N1 O1"
+to german "Du hast O1(dsn) O1(sn) mit einer Qualität von N1 hergestellt";
+
+translate "You produced a O1 of acceptable quality."
+to german "Du hast O1(dsn) O1(sn) von akzeptabler Qualität hergestellt.";
+
+translate "Generate Disstillation Coil"
+to german "Erstelle eine Destillationsspirale";
+
+translate "heat"
+to german "Hitze";
+
+translate "cool"
+to german "Kühlung";
+
+translate "jiggle"
+to german "rütteln";
+
+translate "rotate"
+to german "drehen";
+
+translate "Rotate Left"
+to german "Links drehen";
+
+translate "Rotate Right"
+to german "Rechts drehen";
+
+translate "Heater is ON"
+to german "Hitze ist AN";
+
+translate "Heater is OFF"
+to german "Hitze ist AUS";
+
+translate "Blow into tube"
+to german "Blase in das Rohr";
+
+translate "Let it cool"
+to german "Abkühlen";
+
+translate "Goal Display"
+to german "Endstückvorlage";
+
+translate "Quality Check"
+to german "Qualitätsprüfung";
+
+translate "Quality: N1"
+to german "Qualität: N1";
+
+translate "Start Making"
+to german "Herstellen";
+
+translate "Wine Glass"
+to german "Weinglas";
+
+translate "Chemistry"
+to german "Chemie";
+
+translate "Test Tube"
+to german "Siederohr";
+
+translate "Florence Flask"
+to german "Erlenmeyerkolben";
+
+translate "Beaker"
+to german "Becher";
+
+translate "Thistle Tube"
+to german "Glockentrichter";
+
+translate "Hookah Bowl"
+to german "Wasserpfeifenkopf";
+
+translate "Thermometer (Requires Quality 3500)"
+to german "Thermometer (Benötigte Qualität 3500)";
+
+translate "Barometric Sphere"
+to german "Barometrisches Druckglas";
+
+translate "Distillation Coil"
+to german "Destillationsspirale";
+
+translate "You need: "
+to german "Du benötigst: ";
+
+translate "Push the blowpipe"
+to german "Schiebe das Blasrohr hinein";
+
+translate "Pull the blowpipe"
+to german "Ziehe das Blasrohr heraus";
+
+translate "Heater Set To: Standard"
+to german "Hitze eingestellt auf: Standard";
+translate "Heater Set To: Pinpoint"
+to german "Hitze eingestellt auf: Punktgenau";
+translate "Heater Set To: Gradual"
+to german "Hitze eingestellt auf: Stufenweise";
+translate "Heater Set To: Front Heavy"
+to german "Hitze eingestellt auf: Vorderhitze";
+translate "Heater Set To: Back Heavy"
+to german "Hitze eingestellt auf: Hinterhitze";
+
+
+translate "Heater Control"
+to german "Hitzekontrolle";
+
+translate "Set to O1"
+to german "Auf O1(sn) gesetzt";

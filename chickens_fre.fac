@@ -1,0 +1,214 @@
+module chickens_fre;
+
+translate ChickenCoop to french masculine
+{
+ns "Poulailler"; np "Poulaillers";
+}
+
+translate Chicken to french masculine
+{
+ns "Poulet"; np "Poulets";
+}
+translate Chickenfeed to french feminine
+{
+ns "alimentation pour poulet"; np "alimentation pour poulet";
+}
+
+translate Hen to french feminine
+{
+ns "Poule"; np "Poules";
+}
+
+translate Rooster to french masculine
+{
+ns "Coq"; np "Coqs";
+}
+
+translate Egg to french masculine
+{
+ns "Oeuf"; np "Oeufs";
+}
+
+translate chickenbone to french masculine
+{ ns "Os de poulet"; np "Os de poulet"; }
+
+translate AvianSelection to french femininecollective
+{
+ns "Sélection de volailles"; np "Sélection de volailles";
+}
+
+translate "Avian Selection"
+to french "Sélection de volailles";
+
+translate "AvianSelection"
+to french "Sélection de volailles";
+
+translate "Allows breeding of domesticated birds."
+to french "Permet l'élevage d'oiseaux domestiqués.";
+
+translate "Chicken Coop"
+to french "Poulailler";
+
+translate "Turn insect into feed"
+to french "Réduire les insectes en nourriture";
+
+translate "Turn how many O1 into Chicken Feed?"
+to french "Réduire combien de O1(ns) en nourriture ?";
+
+translate "The coop contains N1 feed"
+to french "La mangeoire contient N1 nourriture";
+
+translate "Place chicken feed in the hopper"
+to french "Mettre de la nourriture à volaille dans la mangeoire";
+
+translate "The coop contains N1 barley"
+to french "La mangeoire contient N1 orge(s)";
+
+translate "Chickens will only prosper in grassy areas."
+to french "Les poulets ne grandissent bien que dans des zones herbeuses.";
+
+translate "To build a chicken coop, you need:"
+to french "Pour fabriquer un poulailler, il vous faut :";
+
+
+translate "Feed"
+to french "Nourrir";
+
+translate "Flock"
+to french "Gérer les volailles";
+
+translate "Set slats"
+to french "Mettre les ouvertures en position";
+
+translate "to closed"
+to french "fermée";
+
+translate "to slightly open"
+to french "légèrement ouverte";
+
+translate "to half open"
+to french "moitié ouverte";
+
+translate "to mostly open"
+to french "presque totalement ouverte";
+
+translate "to fully open"
+to french "totalement ouverte";
+
+translate "Place eggs in the hatching boxes"
+to french "Placer des oeufs dans les éclosoirs";
+
+translate "Load how many eggs? (Max N1)"
+to french "Mettre combien d'oeufs ? (Max N1)";
+
+translate "Place barley in the feed hopper"
+to french "Mettre de l'orge dans la mangeoire";
+
+translate "Load how many barley? (Max N1)"
+to french "Quelle quantité d'orge ? (Max N1)";
+
+translate "quite cool"
+to french "très frais";
+
+translate "cool"
+to french "frais";
+
+translate "hot"
+to french "chaud";
+
+translate "warm"
+to french "très chaud";
+
+translate "Chicken Temperature is N1 "
+to french "La température du poulailler est de N1";
+
+translate "It is quite cool for this time of day."
+to french "Il fait très froid pour cette heure.";
+
+translate "It is cool for this time of day."
+to french "Il fait froid pour cette heure.";
+
+translate "It is warm for this time of day."
+to french "Il fait chaud pour cette heure.";
+
+translate "It is hot for this time of day."
+to french "Il fait très chaud pour cette heure.";
+
+translate "Outdoor Temperature is N1"
+to french "la température extérieure est de N1";
+
+translate "Slats are closed. At night, this retains warmth."
+to french "Les aérations sont fermées. La nuit, cela conserve la chaleur.";
+
+translate "Slats are closed. During the day, this cools the chickens."
+to french "Les aérations sont fermées. En journée, cela conserve la fraîcheur.";
+
+translate "Slats are mostly closed"
+to french "Les aérations sont presque fermées.";
+
+translate "Slats are half open"
+to french "Les aérations sont à moitié ouvertes.";
+
+translate "Slats are mostly open"
+to french "Les aérations sont presque totalement ouvertes.";
+
+translate "Slats are fully open. At night, this lets in cool air."
+to french "Les aérations sont ouvertes en grand. La nuit, la température se rafraîchit.";
+
+translate "Slats are fully open. The daytime sun warms the chickens."
+to french "Les aérations sont ouvertes en grand. En journée, la température se réchauffe.";
+
+translate "Place Hens in the coop"
+to french "Mettre des poules dans le poulailler";
+
+translate "How many hens? (Max N1)"
+to french "Combien de poules ? (Max N1)";
+
+translate "Place Roosters in the coop"
+to french "Mettre des coqs dans le poulaillier";
+
+translate "How many roosters? (Max N1)"
+to french "Combien de coqs ? (Max N1)";
+
+translate "Slaughter"
+to french "Abattre";
+
+translate "Kill the last hen?"
+to french "Tuer la dernière poule ?";
+
+translate "hen"
+to french "Poule";
+
+translate "rooster"
+to french "Coq";
+
+translate "Kill the last rooster?"
+to french "Tuer le dernier coq ?";
+
+translate "Build a Chicken Coop"
+to french "Fabriquer un poulailler";
+
+translate "You don't have any hens."
+to french "Vous n'avez pas de poules.";
+
+translate "How strange! A rooster was pecking around in the grass."
+to french "Étrange! Un coq qui picore dans l'herbe...";
+
+translate "How strange! A hen was pecking around in the grass."
+to french "Étrange! Une poule qui picore dans l'herbe...";
+
+translate "You couldn't put any more hens in the O1."
+to french "Vous ne pouvez plus ajouter de poules dans O1(lns) O1(ns)";
+
+translate "You could only place N1 hens in the O1."
+to french "Vous pouvez mettre seulement N1 dans O1(lns) O1(ns).";
+
+translate "You couldn't put any more roosters in the O1."
+to french "Vous ne pouvez plus ajouter de poules dans O1(lns) O1(ns).";
+
+translate "You could only place N1 roosters in the O1."
+to french "Vous pouvez mettre seulement N1 dans O1(lns) O1(ns).";
+
+translate "With high dexterity, you are able to keep the bones of this chicken intact after slaughtering it."
+to french "Avec une grande dextérité, vous avez pu garder intacts les os de ce poulet après l'avoir abattu";
+

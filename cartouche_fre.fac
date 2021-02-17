@@ -1,0 +1,634 @@
+Module cartouche_fre;
+
+translate CoveredCartouche to french feminine
+{
+ns "L'épreuve du Cartouche Masqué"; np "L'épreuve du Cartouche Masqué";
+}
+
+translate "Test of the Covered Cartouche"
+to french "Epreuve du Cartouche masqué";
+
+translate "In Principles of the Covered Cartouche, you will try to make it through three Build rounds and three Vote Rounds. If you are eliminated early, any rounds that you do make it through carry over."
+to french "Dans les Principes du cartouche Masqué, vous essayerez de passer trois tour de construction et trois tours de vote. Si vous êtes éliminé avant, vous conservez votre progression.";
+
+translate "Sign up for a Contest"
+to french "S'inscrire à un concours";
+translate "Group: Build a Ceremonial Voting Booth"
+to french "Groupe: Construire un isoloir de vote cérémoniel";
+translate "Build a Covered Cartouche Project"
+to french "Construire un bâtiment de Cartouche";
+translate "Enhance the Project"
+to french "Améliorer ce bâtiment";
+translate "Make it through three Build Rounds"
+to french "Passer trois tours de construction";
+translate "Make it through three Voting Rounds"
+to french "Passer trois tours de vote";
+
+translate "You have completed Principles of the Covered Cartouche."
+to french "Vous avez achevé les Principes du Cartouche Masqué.";
+
+//objects
+
+translate CaressOfWind to french feminine
+{
+	ns "Caresse du vent"; np "Caresses du vent";
+	}
+translate CeremonialVotingBooth to french masculine
+{
+ns "Isoloir cérémoniel"; np "Isoloirs cérémoniel";
+}
+translate CharmOfFlight to french masculine
+{
+ns "Charme de l'envol"; np "Charmes de l'envol";
+}
+translate churnofearth to french feminine
+{
+ns "Trépidation de la Terre"; np "Trépidations de la Terre";
+}
+translate ColorOfWater to french feminine
+{
+ns "Couleur de l'eau"; np "Couleurs de l'eau";
+}
+translate distractofsky to french feminine
+{
+ns "Distraction Céleste"; np "Distractions Céleste";
+}
+translate FallOfBalance to french feminine
+{
+ns "Perte d'équilibre"; np "Pertes d'équilibre";
+}
+translate FlightOfStone to french masculine
+{
+ns "Vol de pierre"; np "Vols de pierre";
+}
+translate floatofghost to french masculine
+{
+ns "Flotteur fantôme"; np "Flotteurs fantôme";
+}
+translate GlazeOfLight to french masculine
+{
+ns "Vernis de lumière"; np "Vernis de lumière";
+}
+translate hatchofsteel to french feminine
+{
+ns "Couvée d'acier"; np "Couvées d'acier";
+}
+translate HauntOfBeast to french masculine
+{
+ns "Spectre de la Bête"; np "Spectres de la Bête";
+}
+translate LightOfForest to french feminine
+{
+	ns "Lumière de la forêt"; np "Lumières de la forêt";
+	}
+translate PointOfMind to french feminine
+{
+	ns "Pyramide de la pensée"; np "Pyramides de la pensée";
+	}
+translate Punctureofdark to french feminine
+{
+ns "Forage de l'obscur"; np "Forages de l'obscur";
+}
+translate InjectOfThought to french feminine
+{
+ns "Injection de pensée"; np "Injections de pensées";}
+
+translate ResignOfBorder to french masculine
+{ ns "Abandon des frontières"; np "Abandons des frontières"; }
+
+translate RevolveOfTime to french masculine
+{ ns "Révolution du temps"; np "Révolutions du temps"; }
+
+translate RetreatOfHypothesis to french feminine
+{ ns "Retraite des hypothèses"; np "Retraites des hypothèses"; }
+
+translate SequenceOfOrder to french feminine
+{ ns "Séquence de l'ordre"; np "Séquences de l'ordre"; }
+
+translate PierceOfHeaven to french masculine
+{ ns "Morceau de paradis"; np "Morceaux de paradis"; }
+
+translate PursuitOfSoul to french feminine
+{
+ns "Poursuite de l'âme"; np "Poursuites de l'âme";
+}
+translate reflectoforbit to french masculine
+{
+ns "Reflet d'orbite"; np "Reflets d'orbite";
+}
+translate RepairOfLife to french masculine
+{
+ns "Soins vitaux"; np "Soins vitaux";
+}
+translate ReturnOfPromise to french feminine
+{
+ns "Promesse de retour"; np "Promesses de retour";
+}
+translate SpireOfSun to french feminine
+{
+	ns "Flèche du soleil"; np "Flèches du soleil";
+	}
+translate suspendofgreen to french feminine
+{
+ns "Suspension verte"; np "Suspensions vertes";
+}
+translate TaleOfJourney to french feminine
+{
+ns "Histoire d'un voyage"; np "Histoires d'un voyage";
+}
+translate TwistOfStudy to french feminine
+{
+ns "Subtilité d'apprentissage"; np "Subtilités d'apprentissage";
+}
+
+translate CartoucheTicket to french masculine
+{
+ns "Ticket de cartouche"; np "Tickets de cartouche";
+}
+
+translate CartoucheCertificate to french masculine
+{
+ns "Certificat de cartouche"; np "Certificats de cartouche";
+}
+
+translate CartoucheController to french masculine
+{
+ns "Contrôle du Cartouche"; np "Contrôle du Cartouche";
+}
+
+translate "Cartouche Ticket"
+to french "Ticket de Cartouche";
+
+translate "You will compete against N1 others in a multi-round battle of political wits. In odd-numbered rounds, each leader will build a statue to Egypt, with their cartouche (name) hidden. The leader with the least significant statue shall be eliminated. In even-numbered rounds, elimination is by vote where nobody may vote to eliminate themselves."
+to french "Vous serez confronté à N1 autres personnes dans une lutte de subtilités politiques en plusieurs manches. Dans toutes les phases impaires, chaque dirigeant construira en égypte une statue, possédant leur cartouche (leur nom) masqué. Le chef politique qui construira la statue la moins grandiose sera éliminé. Dans toutes les phases paires, l'élimination s'effectue selon un vote, et personne ne peut voter sa propre élimination.";
+
+translate "Restart Daemon"
+to french "Relancer la routine";
+
+translate "Time Remaining in this round: K1"
+to french "Temps restant pour cette phase : K1";
+
+translate "You cannot build a ceremonial voting booth like that, because a cartouche group needs to be specified."
+to french "Vous ne pouvez pas construire un isoloir de vote cérémoniel comme cela, il faut spécifier un groupe de cartouche.";
+
+translate "The ritual voting booth is at N1 N2."
+to french "L'isoloir rituel se trouve en N1 N2.";
+
+translate "Ceremonial Voting Booth"
+to french "Isoloir cérémoniel";
+
+translate "A Ceremonial Voting Booth has already been built, and is at N1 N2."
+to french "Un isoloir de vote cérémoniel a déjà été construit, et se trouve en N1 N2.";
+
+translate "To build a Ceremonial Voting Booth, you need:"
+to french "Pour construire un isoloir de vote cérémoniel, il vous faut :";
+
+translate "Queen's Tomb Lapis"
+to french "Lapis: Tombe de la reine";
+translate "Queen's Tomb Garnet"
+to french "Grenat: Tombe de la reine";
+translate "Looking Glass Turquiose"
+to french "Turquoise: Lunette";
+translate "Looking Glass Garnet"
+to french "Grenat: Lunette";
+translate "Looking Glass Amethyst"
+to french "Améthyste: Lunette";
+
+translate "Any Greenish Paint"
+to french "Peinture verdâtre";
+translate "Any Yellowish Paint"
+to french "Peinture Jaunâtre";
+translate "Any Pinkish Paint"
+to french "Peinture Rosâtre";
+
+translate "Eyelet cut Amethyst"
+to french "Coupe d'améthyste Oeil-de-pie";
+
+translate "Lens cut Garnet"
+to french "Coupe de grenat Lentille";
+
+translate "Cut Garnet Lens"
+to french "Coupe de grenat Lentille";
+
+translate "Amanti cut Garnet"
+to french "Coupe de grenat Pierre des Amants";
+
+translate "Dalessi cut Garnet"
+to french "Coupe de grenat Dalessi";
+translate "Dalessi cut Turquoise"
+to french "Coupe de turquoise Dalessi";
+
+translate "Glossy Hard Boards"
+to french "Planches brillantes et dures";
+
+translate "Rigid Termite Resistant Boards"
+to french "Planches traitées rigides et résistantes aux termintes";
+
+translate "Pliable Blonde Boards"
+to french "Planches traitées flexibles et blondes";
+
+translate "Black Rigid Boards"
+to french "Planches traitées noires et rigides";
+
+translate "Pliable, Soft, Glossy Boards"
+to french "Planches traitées flexibles, tendres et brillantes";
+
+translate "Non-toxic, Termite-resistant Boards"
+to french "Planches traitées non toxiques, anti-termites";
+
+translate "Silver Sheeting: Shiny, Stainless Gold-plated"
+to french "Revêtements en argent: Brillants, inoxydable plaqué Or";
+
+translate "Blueish Raeli Tiles"
+to french "Tuiles Raeli bleuâtre";
+
+translate "Violetish Paint"
+to french "Peinture violacée";
+
+translate "Any Reddish Paint"
+to french "N'importe quelle peinture rougeâtre";
+translate "Any Rose of Ra Bulb"
+to french "N'importe quel bulbe de rose de Râ";
+translate "Any Sand Bloom Bulb"
+to french "N'importe quel bulbe Fleur des sables";
+translate "Any Sea Lily Bulb"
+to french "N'importe quel bulbe de nénuphar";
+translate "Any Orchid Bulb"
+to french "N'importe quel bulbe d'Orchidée";
+
+translate "Rotproof Treated Boards"
+to french "Planches traitées imputrescibles";
+
+translate "Covered Cartouche/Status Report"
+to french "Cartouche Masqué/Rapport de statut";
+
+translate "Covered Cartouche"
+to french "Cartouche masqué";
+
+translate "Covered Cartouche/"
+to french "Cartouche masqué/";
+
+translate "Status report"
+to french "Compte-rendu";
+
+translate "Display the Schedule"
+to french "Afficher la planification";
+
+translate "Voting Booth at "
+to french "L'isoloir cérémoniel se trouve à ";
+
+translate "Group Status: N1"
+to french "Status du groupe: N1";
+
+translate "Active: U1"
+to french "Actif : U1(name)";
+
+translate "Eliminated in round N1: U1"
+to french "Eliminé au tour N1 : U1(name)";
+
+translate "This round may end at any moment."
+to french "Ce tour peut s'achever d'un moment à l'autre.";
+
+translate "This round won't end for at least another K1."
+to french "Ce tour se poursuivra encore pendant K1.";
+
+translate "No voting booth built"
+to french "Aucun isoloir n'a été construit";
+
+translate "Your Ceremonial Voting Booth has been torn down. You must replace it."
+to french "Votre isoloir cérémoniel a été détruit. Vous devez en construire un nouveau.";
+
+translate "Your group's first task is to build a Ceremonial Voting Booth."
+to french "La première tâche de votre groupe est de construire un isoloir cérémoniel.";
+
+translate "Nobody remains. This should never happen. Report to a developer."
+to french "Il ne reste plus personne. Ce cas de figure ne devrait jamais se produire. Contactez un développeur.";
+
+translate "This window will close in K1"
+to french "Cette fenêtre se fermera dans K1";
+
+translate "Winner is: U1."
+to french "Le gagnant est : U1(name)";
+
+translate "You have displayed prowess as a leader, and come in first place! Well done - a certificate has been issued."
+to french "Vous avez fait vos preuves en tant que chef, et vous êtes arrivé premier ! Bon travail - Vous allez recevoir un certificat.";
+
+translate "Voting round, N1 remain."
+to french "C'est le vote ! N1 participants demeurent en lice.";
+
+translate "Voting deadlocked with N1 people receiving N2 votes each. Elimination will be by chance."
+to french "Le résultat du vote est nul, N1 personnes ont reçu N2 voix. L'élimination va être déterminée au hasard.";
+
+translate "Total of N1 deadlocks. Test ends with no winner."
+to french "Le nombre d'ex-aequo est de N1. L'épreuve s'achève sans vainqueur.";
+
+translate "If the group deadlocks N1 more times, the Test will end."
+to french "S'il se produit encore N1 ex-aequo, l'épreuve s'achève.";
+
+translate "With N1 votes, U1 is eliminated."
+to french "Avec un total de N1 voix, U1(name) est éliminé.";
+
+translate "Nobody voted. Test ends without a promotion."
+to french "Personne n'a voté. L'épreuve s'achève donc sans promotion.";
+
+
+translate "Building Round: K1, N1 remain."
+to french "Phase de construction : K1, N1 restant.";
+
+translate "Multiple people tied for last place. Loser will be chosen at random from that list. "
+to french "Plusieurs personne sont ex-aequo pour l'élimination. Le perdant sera déterminé au hasard.";
+
+translate "U1 is eliminated for not even *attempting* a Covered Cartouche."
+to french "U1(name) est éliminé pour n'avoir même pas participé à l'épreuve.";
+
+translate "U1 is eliminated for failing to build a Covered Cartouche."
+to french "U1(name) est éliminé pour ne pas avoir construit un Cartouche Masqué.";
+
+translate "U1 is eliminated for building the smallest Covered Cartouche, size N1."
+to french "U1(name) est éliminé pour avoir construit le plus petit Cartouche Masqué, de taille N1.";
+
+translate "The following people didn't *attempt* a Covered Cartouche, and are eliminated: "
+to french "Les personnes suivantes, n'ayant pas réellement participé à l'épreuve, sont éliminées : ";
+
+translate "Reset the Test of the Covered Cartouche"
+to french "Réinitialiser l'épreuve du Cartouche masqué";
+
+translate "Eliminate U1"
+to french "Eliminer U1(name)";
+
+translate "Covered Cartouche"
+to french "Cartouche Masqué";
+
+translate "You change your elimination vote from U1 to U2."
+to french "Vous votez pour l'élimination de U2(name) à la place de U1(name).";
+
+translate "U1 votes to eliminate U2."
+to french "U1(name) vote l'élimination de U2(name)";
+
+translate "You votes to eliminate U1."
+to french "Vous votez l'élimination de U1(name)";
+
+translate "Report Votes so Far"
+to french "Voir les votes jusqu'à présent";
+
+translate "--- Votes so far ---"
+to french "--- Votes effectués ---";
+
+translate "Status Report: U1 voted against U2"
+to french "Rapport : U1(name) a voté contre U2(name)";
+
+translate "This O1 is of size N1"
+to french "O1(^cns) O1(ns) est de taille N1";
+
+translate "The Cartouche is covered, you can't tell who owns it."
+to french "Le Cartouche est masqué, vous ne sauriez en donner le propriétaire.";
+
+translate "You cannot have two cartouche projects at once."
+to french "Vous ne pouvez avoir deux projets de cartouche lancés simultanément.";
+
+translate "You may only have a single Covered Cartouche. Disassemble the previous one at N1"
+to french "Vous ne pouvez avoir qu'un seul projet de cartouche à la fois. Démantelez le précédent en N1.";
+
+translate "To build a O1 with a covered cartouche, you need:"
+to french "Pour construire O1(uns) O1(ns) avec un cartouche masqué, il vous faut :";
+
+translate "To build a K1 with a covered cartouche, you need:"
+to french "Pour construire un K1 avec un cartouche masqué, il vous faut :";
+
+
+translate "Enhance this O1"
+to french "Améliorer O1(cns) O1(ns)";
+
+translate "DevEnhance this O1"
+to french "Dev-Améliorer O1(cns) O1(ns)";
+
+translate "This O1 is size N1. Enlarge to what size?"
+to french "O1(^cns) O1(ns) mesure N1. Quelle doit être sa nouvelle taille ?";
+
+translate "To enhance this O1 from size N1 to N2 requires:"
+to french "Pour agrandir O1(cns) O1(ns) de N1 à N2, il vous faut :";
+
+translate "This certificate allows you to enter a Level N1 Cartouche contest."
+to french "Ce certificat vous permet d'accéder à un concours de cartouche niveau N1.";
+
+translate "Read"
+to french "Lire";
+
+translate "Cartouche Certificate K1"
+to french "Certificat de cartouche K1";
+
+translate "Cartouche Certificate"
+to french "Certificat de cartouche";
+
+translate "The Test of the Covered Cartouche takes place at specific times, announced at Universities of Leadership.\n\nYou will be placed in a group with eleven others, and tasked with building a Ceremonial Voting Booth. From there, a series of rounds are played. The nature of each round depends on whether an odd or even number of participants remain in the group.\n\nWhen the group has an even number of participants, an individual project is assigned. The player who builds smallest is eliminated.\n\nWhen the group has an odd number of participants, elimination is by voting."
+to french "L'épreuve du Cartouche caché survient à intervalle de temps réguliers, annoncés dans les universités de commandement.\n\nVous serez placé dans un groupe avec onze autres personnes, qui devra construire un isoloir de vote cérémoniel. À ce moment débute une série de phases. La nature de chaque phase dépend du nombre de participants restants dans le groupe, pair ou impair.\n\nQuand le groupe a un nombre pair de participants, un projet individuel est assigné. Le joueur qui construit le plus petit est éliminé.\n\nLorsque le nombre a un nombre impair de participants, l'élimination se fait en votant.";
+
+translate "You will be placed in a group with eleven others, and tasked with building a Ceremonial Voting Booth. From there, a series of rounds are played. The nature of each round depends on whether an odd or even number of participants remain in the group."
+to french "Vous serez placé dans un groupe avec onze autres personnes, puis le groupe devra construire un isoloir cérémoniel. A présent, une série de tours se met en place. La nature de chaque tour dépend du nombre de participants restants (pair ou impair).";
+
+translate "When the group has an even number of participants, an individual project is assigned. The player who builds smallest is eliminated."
+to french "Dans le cas où il y a un nombre pair de participants, un projet individuel est attribué. Le joueur qui construit le plus petit bâtiment est éliminé.";
+
+translate "When the group has an odd number of participants, elimination is by voting."
+to french "Dans le cas où il y a un nombre impair de participants, l'élimination se fait par vote.";
+
+translate "Please note - if you are intending on signing up for a Covered Cartouche round, that is a separate option. Please click on the University of Leadership again in order to get the option to sign up for the current round, assuming that there are signups going on."
+to french "Remarque - Si vous souhaitez vous inscrire à une partie de Cartouche Masqué, cliquez sur l'Université de Commandement et vous verrez une option pour les inscriptions (à supposer que les inscriptions soient en cours).";
+
+translate "N1 Signed up"
+to french "N1 se sont inscrits";
+
+translate "Sign up for the next round"
+to french "S'inscrire à la prochaine phase";
+
+translate "You are already participating in a contest."
+to french "Vous êtes déjà inscrit dans un concours.";
+
+translate "You need a level N1 Cartouche certificate to participate in this contest."
+to french "Il vous faut un certificat de cartouche de niveau N1 pour participer à ce concours.";
+
+translate "You are already signed up."
+to french "Vous êtes déjà inscrit.";
+
+translate "You are now signed up for the next Test of the Covered Cartouche. You will be notified if a spot is available."
+to french "Vous êtes maintenant inscrit à la prochaine épreuve du Cartouche masqué. Vous serez prévenu lorsqu'une place sera disponible.";
+
+translate "Error: Cartouche Signups Conflict."
+to french "Erreur : Conflit dans les inscriptions au Cartouche.";
+
+translate "Signups for Level N1 Test of the Covered Cartouche at O1, N2, for the next N3. Build period N4, Vote period N5."
+to french "Inscriptions pour l'épreuve du Cartouche masqué niveau N1 à O1(ns), N2, pour encore N3. Période de construction N4, Période de vote N5.";
+
+translate "Welcome to the Test of the Covered Cartouche. This groups consists of: "
+to french "Bienvenue à l'épreuve du Cartouche masqué. Votre groupe est composé de : ";
+
+translate "Something must have happened to your certificate. Removing you from this round of the Test."
+to french "Il y a eu un problème avec votre certificat. Vous ne participerez pas à cette phase de l'épreuve.";
+
+translate "Sorry for the inconvenience, but just N1 people signed up, and at least N2 are needed"
+to french "N1 personnes sont inscrites, et il en fait au moins N2. Toutes nos excuses pour le désagrément.";
+
+translate "Sorry for the inconvenience, but N1 people signed up for N2 slots, and you were not selected."
+to french "Nous sommes désolés, mais N1 personnes se sont inscrites pour N2 places disponibles, et vous ne faites pas partie de la sélection.";
+
+translate "U1 has exited the channel."
+to french "U1(name) a quitté la discussion.";
+
+translate "Could not find player: K1"
+to french "K1 est introuvable.";
+translate "Could not find player: U1"
+to french "U1(name) est introuvable.";
+translate "Could not find player: "
+to french "Joueur instrouvable: ";
+
+translate "Could not find U1"
+to french "U1(name) est introuvable.";
+
+translate "Not a participant: U1"
+to french "U1(name) ne compte pas parmi les participants.";
+
+translate "U1 has joined the channel."
+to french "U1(name) vient de rejoindre la discussion.";
+
+translate "Clear and stop the Schedule"
+to french "Effacer et arrêter la planification";
+
+translate "[Extra]Note: Covered Cartouche signups are NOW, N1 remain. N2 have signed up."
+to french "[Extra]Note : Les inscriptions au Cartouche masqué se passent MAINTENANT, il reste N1. Déjà N2 inscrits.";
+
+translate "Note: Covered Cartouche signups are NOW, N1 remain. N2 have signed up."
+to french "Note : Les inscriptions au Cartouche masqué se passent MAINTENANT, il reste N1. Déjà N2 inscrits.";
+
+translate "Trigger Cartouche/Level N1"
+to french "Lancer le cartouche/Niveau N1";
+
+translate "Start the Test Trigger Daemon"
+to french "Lancer la routine de tests";
+
+translate "Start the Schedule Update Daemon"
+to french "Lancer la routine de mise à jour de planning";
+
+translate "Reset Cartouche Signups"
+to french "Réinitialiser les inscriptions au cartouche";
+
+translate "Start the Test of the Covered Cartouche"
+to french "Lancer l'épreuve du Cartouche masqué :";
+
+translate "Schedule for the Test of the Covered Cartouche:"
+to french "Planification de l'épreuve du Cartouche masqué :";
+
+//translate "Level N1 Signups IN PROGRESS for N2\n  Location: N3\n  Build Period: N4\n  Vote Period: N5\n\n"
+//to french "Inscriptions pour le niveau N1 EN COURS pour N2\n  Emplacement : N3\n  Période de construction : N4\n  Période de vote : N5\n\n";
+
+//translate "Level N1 Signups in K2 RT\n  Location: N3\n  Build Period: N4\n  Vote Period: N5\n\n"
+//to french "Inscriptions pour le niveau N1 dans K2 RT\n  Emplacement : N3\n  Période de construction : N4\n  Période de vote : N5\n\n";
+
+translate "Set Project Size"
+to french "Déterminer la taille du projet";
+
+translate "Cartouche Req: "
+to french "Req. du Cartouche : ";
+
+translate "Set Project Type"
+to french "Type de projet";
+
+translate "Person to swap OUT?"
+to french "Qui faire partir ?";
+
+translate "Not in a Cartouche Group: U1"
+to french "Absent d'un groupe de cartouche : U1(name)";
+
+translate "Person to swap IN?"
+to french "Qui faire entrer ?";
+
+translate "Already in a cartouche group: U1"
+to french "Déjà dans un groupe de cartouche : U1(name)";
+
+translate "Swapping OUT U1 and swapping IN U2."
+to french "U1(name) sort et U2(name) rentre.";
+
+translate "Welcome to the Test of the Covered Cartouche. This groups consists of: "
+to french "Bienvenue à l'épreuve du Cartouche Masqué. Ce groupe est composé de :";
+
+translate "Enhance this O1"
+to french "Améliorer O1(cns) O1(ns)";
+
+translate "This O1 is size N1. Enlarge to what size?"
+to french "O1(^cns) O1(ns) mesure N1. Agrandir à combien?";
+
+translate "Covered Cartouche: "
+to french "Cartouche Masqué: ";
+translate "Covered Cartouche: O1"
+to french "Cartouche Masqué: O1(ns)";
+
+translate "Covered Cartouche: Caress of Wind"
+to french "Cartouche Masqué: Caresse du vent";
+	
+translate "Covered Cartouche: Charm of Flight"
+to french "Cartouche Masqué: Charme de l'envol";
+
+translate "Covered Cartouche: Churn of Earth"
+to french "Cartouche Masqué: Trépidation de la Terre";
+
+translate "Covered Cartouche: Color of Water"
+to french "Cartouche Masqué: Couleur de l'eau";
+
+translate "Covered Cartouche: Distract of Sky"
+to french "Cartouche Masqué: Distraction Céleste";
+
+translate "Covered Cartouche: Fall of Balance to"
+to french "Cartouche Masqué: Perte d'équilibre";
+
+translate "Covered Cartouche: Flight of Stone"
+to french "Cartouche Masqué: Vol de pierre";
+
+translate "Covered Cartouche: Float of Ghost to"
+to french "Cartouche Masqué: Flotteur fantôme";
+
+translate "Covered Cartouche: Glaze of Light to"
+to french "Cartouche Masqué: Vernis de lumière";
+
+translate "Covered Cartouche: Hatch of Steel to"
+to french "Cartouche Masqué: Couvée d'acier";
+
+translate "Covered Cartouche: Haunt of Beast to"
+to french "Cartouche Masqué: Spectre de la Bête";
+
+translate "Covered Cartouche: Light of Forest"
+to french "Cartouche Masqué: Lumière de la forêt";
+	
+translate "Covered Cartouche: Point of Mind"
+to french "Cartouche Masqué: Pyramide de la pensée";
+	
+translate "Covered Cartouche: Puncture of Dark"
+to french "Cartouche Masqué: Forage de l'obscur";
+
+translate "Covered Cartouche: Pursuit of Soul"
+to french "Cartouche Masqué: Poursuite de l'âme";
+
+translate "Covered Cartouche: Reflect of Orbit"
+to french "Cartouche Masqué: Reflet d'orbite";
+
+translate "Covered Cartouche: Repair of Life"
+to french "Cartouche Masqué: Soins vitaux";
+
+translate "Covered Cartouche: Return of Promise"
+to french "Cartouche Masqué: Promesse de retour";
+
+translate "Covered Cartouche: Spire of Sun"
+to french "Cartouche Masqué: Flèche du soleil";
+	
+translate "Covered Cartouche: Suspend of Green"
+to french "Cartouche Masqué: Suspension verte";
+
+translate "Covered Cartouche: Tale of Journey"
+to french "Cartouche Masqué: Histoire d'un voyage";
+
+translate "Covered Cartouche: Twist of Study"
+to french "Cartouche Masqué: Subtilité d'apprentissage";
+
+translate "To enhance this O1 from size N1 to N2 requires:"
+to french "Agrandir O1(cns) O1(ns) de N1 à N2 nécessite:";
+
+translate "Level N1 Cartouche, N2 Signed Up"
+to french "Cartouche niveau N1, N2 inscrits";

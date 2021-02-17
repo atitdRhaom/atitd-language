@@ -1,0 +1,172 @@
+module wine_fre;
+
+translate VineCutting to french feminine
+{
+  ns "Bouture"; np "Boutures";
+}
+
+translate Grapes to french feminine
+{
+  ns "Grappe de Raisin"; np "Grappes de Raisin";
+}
+
+translate Vine to french feminine
+{
+  ns "Vigne"; np "Vignes";
+}
+translate Wine to french masculine
+{
+  ns "Vin"; np "Vins";
+}
+
+translate Vineyard to french masculine
+{
+  ns "Vignoble"; np "Vignobles";
+}
+
+translate Viticulture to french feminine
+{
+  ns "Viticulture"; np "Viticulture"; 
+}
+
+translate Winebarrel to french masculine
+{
+  ns "Tonneau à vin"; np "Tonneaux à vin";
+}
+
+translate smallbarrels to french masculine
+{
+  ns "Petit tonneau"; np "Petits tonneaux";
+}
+
+translate "Allows for the cultivation of grapes."
+to french "Permet la culture de vignes";
+
+translate "Vineyard"
+to french "Vignoble";
+
+translate "To build a vineyard, you need:"
+to french "Pour construire un vignoble, il vous faut :";
+
+translate "Build a Vineyard"
+to french "Construire une vignoble";
+
+translate "Ask for a grape vine cutting"
+to french "Demander une bouture de vigne";
+
+translate "We're still growing our first root stocks. We'll make an announcement when we're ready."
+to french "Nous sommes encore en train de constituer notre stock. Nous ferons une annonce quand nous serons prêt.";
+
+translate "We're very short on vine clippings right now. Here's what we're doing: Donate a Tilapia to the viticulture program. If we happen to have an extra vine cutting on hand, we will give you one. Does that seem ok?"
+to french "Nous avons peu de bouture en ce moment. Voilà ce que nous vous proposons : Donnez un Tilapia pour le programme de recherche viticole. Si nous avons une bouture disponible, nous vous la donnerons. Êtes-vous d'accord ?";
+
+translate "You don't have any Tilapia!"
+to french "Vous n'avez pas de Tilapia !";
+
+translate "We don't have any vine cuttings right now. It's best to ask another grower for a cutting. So long, and thanks for the fish."
+to french "Nous n'avons pas de bouture pour le moment. Vous devriez demander en demander une à un autre vigneron. Au revoir, et merci pour le poisson.";
+
+translate "Fertilize the vine"
+to french "Fertiliser la vigne";
+
+translate "Warning: Fertilizing a vine has a chance of burning the plant, killing it. You might want to first take a cutting of the vine. Proceed anyway? (This warning will go away once you've made your first Vine Cutting.)"
+to french "Attention : Fertiliser une vigne peut brûler la plante, la tuant. Vous devriez en prendre une bouture d'abord. Voulez-vous continuer ? (Cet avertissement disparaîtra après que vous ayez pris une première bouture.";
+
+translate "The ammonia in the fish burned the roots, ruining the crop!"
+to french "L'ammoniaque contenue dans le poisson a brûlé les racines, ruinant la récolte !";
+
+translate "The vine has died, and should be salvaged"
+to french "La vigne est morte, et devrait être recyclée";
+
+translate "We don't have any vine cuttings right now. It's best to ask another grower for a cutting. So long, and thanks for the fish."
+to french "Nous n'avons plus de boutures de vigne. Demandez à quelqu'un d'autre. Au revoir, et merci pour le poisson.";
+
+translate "We're very short on vine clippings right now. Here's what we're doing: Donate a catfish to the viticulture program. If we happen to have an extra vine cutting on hand, we will give you one. Does that seem ok?"
+to french "Nous manquons de boutures de vigne en ce momment. Voici ce que nous suggérons : donnez un poisson-chat à un programme de viticulture. Si nous avons une bouture à vous donner, vous l'aurez. Est-ce que vous êtes d'accord ?";
+ 
+translate "You don't have any catfish!"
+to french "Vous n'avez pas de poisson-chat !";
+
+translate "We don't have any vine cuttings right now. It's best to ask another grower for a cutting. So long, and thanks for the fish."
+to french "Nous n'avons plus de boutures de vigne. Demandez à quelqu'un d'autre. Au revoir, et merci pour le poisson.";
+
+//Text
+translate "three"
+to french "trois";
+translate "two"
+to french "deux";
+translate "one"
+to french "un";
+
+//texts
+translate "Taste Vintage "
+to french "Goûter la cuvée ";
+
+translate "Allows for the cultivation of grapes."
+to french "Permet de cultiver la vigne.";
+
+translate "Harvest the Grapes"
+to french "Vendanger";
+
+translate "Prune the vine"
+to french "Tailler la vigne";
+
+translate "Water the vine"
+to french "Arroser la vigne";
+
+translate "You don't have any water."
+to french "Vous n'avez pas d'eau.";
+
+translate "Spray the vine"
+to french "Asperger la vigne";
+
+translate "Fertilize the vine"
+to french "Mettre de l'engrais";
+
+translate "Growing: K1"
+to french "Croissance : K1";
+
+translate "Take a vine cutting"
+to french "Prendre une bouture de vigne";
+
+translate "Grapes: N1"
+to french "Raisin : N1";
+
+translate "Concentration: N1"
+to french "Concentration : N1";
+
+translate "Life: N1"
+to french "Cie : N1";
+
+translate "Insect Damage: N1"
+to french "Dommages des insectes: N1";
+
+translate "Build a Wine Barrel"
+to french "Tonneau à vin";
+
+translate "To build a Wine Barrel, you need: "
+to french "Pour fabriquer un tonneau à vin, il vous faut : ";
+
+translate "To re-label the wine, you need: "
+to french "Pour renommer ce vin, il vous faut : ";
+
+translate "How many O1?"
+to french "Combien de O1(np)?";
+
+translate "How many K1?"
+to french "Combien de K1?";
+
+translate "Grapes must be crushed N1 more times."
+to french "Ecrasez les raisins encore N1 fois.";
+
+translate "Barrel contains juice from N1 bunches of grapes."
+to french "Le tonneau contient le jus de N1 vignes.";
+
+translate "Create Special Wine"
+to french "Créer un vin spécial";
+
+translate "Are you sure you want to prune the vine?"
+to french "Etes-vous sûr de vouloir tailler la vigne?";
+
+translate "There are still drinks on the table. Pour everything out?"
+to french "Il reste des verres pleins sur la table. Tout jeter?";

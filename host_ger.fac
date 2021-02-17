@@ -1,0 +1,118 @@
+module host_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment      	           **
+//**                                                                       **
+//***************************************************************************
+
+
+
+translate HostDesk to german feminine
+{
+swa "Registratur";
+  sn "Registratur"; pn "Registratur";
+}
+translate HostChannel to german masculine
+{
+swa "Heerchat";
+  sn "Heerchat"; pn "Heerchat";
+}
+
+translate "Test of the Host"
+to german "Test der Heerschar";
+
+translate "You register for the Test of the Host. The citizens of Egypt will act as judges of your events and show their appreciation accordingly. You must amaze them with your creativity and delight them with recreation. Horus will frown upon any event that does not bring happiness and the gathering should judge the host in accordance with his will. "
+to german "Du meldest dich zum Test der Heerschar an. \n\nDie Bürger Ägyptens werden als Richter fungieren und deine Taten genau beobachten und bewerten.\nDu musst sie mit deiner Kreativität überraschen und mit Freizeit und Erholung entzücken. \nHorus wird über jedes missglückte Event, das keine Freude barg, die Stirn runzeln und die Versammlung sollte mit Horus Übereinstimmung den Heerführer bewerten.";
+
+translate "View progress on the Test of the Host"
+to german "Zeige meinen Fortschritt im Test der Heerschar.";
+
+translate "You have accumulated N1 points so far. (Completed events only.) Passing the Test requires N2 points."
+to german "Du hast bisher N1 Punkte angesammelt. (Nur abgeschlossene Events.) \nUm den Test zu bestehen benötigst du noch N2 Punkte.";
+
+translate "Display of the Host"
+to german "Registratur";
+
+translate "To build a Display of the Host you need:"
+to german "Um eine Registratur zu bauen benötigst du:";
+
+translate "Open the Event"
+to german "Eröffne das Event";
+
+translate "You must first enter a description for the event."
+to german "Du musst zuerst eine Beschreibung des Events eintragen";
+
+translate "Name of your Event:"
+to german "Name des Events:";
+
+translate "This event is:"
+to german "Dieses Event ist:";
+
+translate "Private - I will control who joins"
+to german "Privat - Ich bestimme, wer beitritt";
+
+translate "Public - Anyone can join"
+to german "Öffentlich - Jeder kann beitreten";
+
+translate "This event will end in about K1."
+to german "Dieses Event endet in etwa K1.";
+
+translate "Renew the Event"
+to german "Wiederhole das Event";
+
+translate "The event has been renewed, and will end in K1"
+to german "Das Event wurde wiederholt und wird in K1 enden.";
+
+translate "Describe the event"
+to german "Beschreibe das Event";
+
+translate "Description:K1"
+to german "Beschreibung:K1";
+
+translate "Read about the event"
+to german "Lese die Beschreibung des Events";
+
+translate "Rate K1:"
+to german "Bewerte K1:";
+
+translate "Peasantly (0 points)"
+to german "Ärmlich (0 Punkte)";
+
+translate "Scholarly (1 Point)"
+to german "Geglückt (1 Punkt)";
+
+translate "Oracular (3 points)"
+to german "Orakelhaft (3 Punkte)";
+
+translate "A total of N1 attended your event, giving a combind score of N2. Your score in the Test of the Host is N3."
+to german "Insgesamt N1 Personen haben dein Event besucht, mit einer Gesamtpunktzahl von N2. Deine Wertung im Test der Heerschar ist nun N3.";
+
+translate "Only N1 people attended your event, so no points are accumulated."
+to german "Nur N1 Personen haben dein Event besucht, daher wurden keine Punkte angesammelt.";
+
+translate "Participate in K1"
+to german "Trete K1 bei";
+
+translate "You are already participating."
+to german "Du bist bereits beigetreten.";
+
+translate "You are already attending an event."
+to german "Du besuchst bereits ein Event.";
+
+translate "You will be notified when the Host has made a decision."
+to german "Du wirst informiert werden, wenn die Heerschar eine Entscheidung getroffen hat.";
+
+translate "U1 is asking to join K1. Accept?"
+to german "U1(name) fragt dich, ob du K1 beitreten möchtest. Akzeptieren?";
+
+translate "An invitiation was not extended."
+to german "Eine Einladung wurde nicht verlängert.";
+
+translate "U1 welcomes you to K1."
+to german "U1(name) heißt dich zu K1 willkommen.";
+
+translate "U1 welcomes U2."
+to german "U1(name) heißt U2(name) willkommen.";

@@ -1,0 +1,24 @@
+module rpgdigevent_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**            German Version: Astrid "Infinyti" Werner                   **
+//**                            2012                                       **
+//**                                                                       **
+//***************************************************************************
+
+translate "Dig for Event Artifacts"
+	to german "Grabe nach Eventartefakten";
+
+translate "You need an Archaeologist's Shovel to dig"
+	to german "Du brauchst zum Graben eine Archäologenschaufel";
+
+translate "Digging..."
+	to german "Graben...";
+
+translate "You uncover a O1."
+	to german "Du hast O1(asa) O1(sa) entdeckt.";
+
+translate "You find traces of an artifact, but not the artifact itself"
+	to german "Du findest Teile eines Artefaktes, aber nicht das Artefakt selbst.";

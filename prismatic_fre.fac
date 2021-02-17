@@ -1,0 +1,339 @@
+module prismatic_fre;
+
+translate OpticonConstruction to french feminine
+{
+  ns "Construction d'opticons"; np "Construction d'opticons";
+}
+
+translate PrismaticOpticon to french feminine
+{
+  ns "L'épreuve de l'Opticon Prismatique"; np "L'épreuve de l'Opticon Prismatique";
+}
+
+translate PrismaticOpticonBuilding to french masculine
+{
+  ns "Opticon Prismatique"; np "Opticon Prismatique";
+}
+
+translate "Ra's Lantern cut Sunstone"
+to french "Héliolite taillée: Lanterne de Râ";
+translate "Hile's Chevrons cut Sunstone"
+to french "Héliolites taillées: Chevrons d'hilum";
+translate "Bastet cut Sunstone"
+to french "Héliolites taillées: Pierre de Bastet";
+translate "Amanti cut Jade"
+to french "Jades taillés: Pierre des amants";
+translate "Choronzon cut Jade"
+to french "Jades taillés: Choronzone";
+translate "Khufu's Ship cut Jade"
+to french "Jades taillés: Bateau de Khufu";
+translate "Appolonia cut Garnet"
+to french "Grenats taillés: Appolonia";
+translate "Full Eye cut Gem (any type)"
+to french "Gemme taillée (tout les types): Oeil";
+
+translate "Prismatic Opticons are moving sculptures of light. Color, motion, and design all play into your art."
+to french "Les Opticons Prismatiques sont des sculptures de lasers mobiles. Tant la couleur, le mouvement que la conception ont un rôle dans votre oeuvre. ";
+
+translate "Build a Prismatic Opticon"
+to french "Bâtir un Opticon Prismatique";
+translate "Create at least 3 Rays"
+to french "Ajouter au moins 3 rayons";
+translate "Create at least 3 Targets"
+to french "Ajouter au moins 3 cibles";
+translate "Create at least 3 Phases"
+to french "Ajouter au moins 3 phases";
+translate "Start the Opticon"
+to french "Lancer l'opticon";
+translate "Have Seven Judges rate your Prismatic Opticon"
+to french "Que sept juges évaluent votre Opticon Prismatique";
+translate "Tear down your Opticon, OR do the following:"
+to french "Détruire votre Opticon, OU suivez ces étapes :";
+
+translate "You have completed Principles of the Prismatic Opticon."
+to french "Vous avez terminé les Principes de l'Opticon Prismatique.";
+
+translate "You sign up for the Test of the Prismatic Opticon and learn the art of Opticon Construction.  You can build an opticon using a small construction site.  Caution: after you build the opticon, you will need a custom gearbox to activate it."
+to french "Vous vous lancez dans l'épreuve de l'Opticon Prismatique, et apprenez l'art de la construction d'opticons. Vous pouvez construire un opticon sur un petit site de construction. Attention : une fois l'opticon construit, il vous faut une boîte à pignons spéciale pour l'activer.";
+
+translate "Prismatic Opticon"
+to french "Opticon Prismatique";
+
+translate "To build a Prismatic Opticon, you need: "
+to french "Pour construire un Opticon Prismatique, il vous faut: ";
+
+translate "Title: "
+to french "Titre: ";
+
+translate "Title this Prismatic Opticon"
+to french "Nommer cet Opticon Prismatique";
+
+translate "Title..."
+to french "Titre...";
+
+translate "Install Gearbox"
+to french "Installer une boîte à pignons";
+
+translate "You took the gearbox model K1."
+to french "Vous avez utilisé la boîte à pignons modèle K1";
+
+translate "Select a gearbox:"
+to french "Choisissez une boîte à pignons :";
+
+translate "That is not a gearbox."
+to french "Ce n'est pas une boîte à pignons.";
+
+translate "Reconfigure"
+to french "Reconfigurer";
+
+translate "Note: total complexity is limited:"
+to french "Remarque : la complexité totale est limitée à :";
+
+translate "(Rays + Targets) * Phases <= N1"
+to french "(Rayons + Cibles) x Phases <= N1";
+
+translate "Clear the Opticon"
+to french "Réinitialiser l'opticon";
+
+translate "Add a Ray (max N1)"
+to french "Ajouter un rayon (max N1)";
+
+translate "Add a Target (max N1)"
+to french "Ajouter une cible (max N1)";
+
+translate "Add a Phase (max N1)"
+to french "Ajouter une phase (max N1)";
+
+translate "Delete last Ray"
+to french "Effacer le dernier rayon";
+
+translate "Delete last Target"
+to french "Effacer la dernière cible";
+
+translate "Delete last Phase"
+to french "Effacer la dernière phase";
+
+translate "Are you sure you want to discard all data?"
+to french "Voulez-vous vraiment détruire toutes les données ?";
+
+translate "You cannot delete the last ray."
+to french "Vous ne pouvez pas annuer le dernier rayon.";
+
+translate "You cannot delete the last target."
+to french "Vous ne pouvez pas annuler la dernière cible.";
+
+translate "You cannot delete the last phase"
+to french "Vous ne pouvez pas annuler la dernière phase.";
+
+translate "You can have at most N1 rays."
+to french "Vous pouvez utiliser au maximum N1 rayons";
+
+translate "That would exceed the total complexity limit"
+to french "Vous dépasseriez la limite de complexité globale.";
+
+translate "You can have at most N1 targets."
+to french "Vous pouvez utiliser au maximum N1 cibles.";
+
+translate "You can have at most N1 phases."
+to french "Vous pouvez utiliser au maximum N1 phases.";
+
+translate "This only has one phase.  It cannot be run."
+to french "L'opticon ne comporte qu'une seule phase. Il ne peut pas fonctionner.";
+
+translate "To activate an opticon with this configuration, you must install a gearbox K1."
+to french "Pour activer un opticon avec cette configuration, vous devez installer une boîte à pignons K1.";
+
+translate "At least one Judge has rated your Prismatic Opticon.  If you stop the Opticon, you will discard any votes.  Are you sure you want to start the voting over?"
+to french "Au moins un juge a évaluer votre Opticon Prismatique. Si vous arrêter l'Opticon, vous annulerez tous les votes. Êtes-vous certain de vouloir réinitialiser les votes?";
+
+translate "Select Phase"
+to french "Choisir une phase";
+
+translate "Phase N1"
+to french "Phase N1";
+
+translate "Copy Phase Full"
+to french "Copier la phase";
+
+translate "Copy Phase Rays"
+to french "Copier les rayons de la phase";
+
+translate "Copy Phase Targets"
+to french "Copier les cibles de la phase";
+
+translate "Phase N1 Full"
+to french "Phase N1 Complète";
+
+translate "Phase N1 Rays"
+to french "Phase N1 Rayons";
+
+translate "Phase N1 Targets"
+to french "Phase N1 Cibles";
+
+translate "Select Target"
+to french "Sélectionner une phase";
+
+translate "You can also click on"
+to french "Vous pouvez aussi cliquer";
+translate "the Target itself."
+to french "directement sur la cible.";
+
+translate "Target N1"
+to french "Cible N1";
+
+translate "Select Ray"
+to french "Sélectionner un rayon";
+
+translate "You can also click on"
+to french "Vous pouvez aussi cliquer";
+translate "the Ray Aperture itself."
+to french "directement sur le rayon.";
+
+translate "Ray N1"
+to french "Rayon N1";
+
+translate "Select Rod"
+to french "Sélectionner une tige";
+
+translate "You can also click on"
+to french "Vous pouvez aussi cliquer";
+translate "the Rod itself."
+to french "directement sur la tige.";
+
+translate "Rod N1"
+to french "Tige N1";
+
+translate "Note: Mouse must point at body to use hot-keys."
+to french "Remarque : la souris doit être sur la structure de l'opticon pour utiliser les raccourcis";
+
+translate "Piece signed by: U1"	
+to french "Oeuvre signée par U1(name)";
+
+translate "Target Movement"
+to french "Mouvement de la cible";
+
+translate "Speed: Fast"
+to french "Vitesse : Rapide";
+
+translate "Speed: Medium"
+to french "Vitesse : Moyenne";
+
+translate "Speed: Slow"
+to french "Vitesse : Lente";
+
+translate "Ray Color"
+to french "Couleur du rayon";
+
+translate "Ray N1"
+to french "Rayon N1";
+
+translate "Ray N1 White"
+to french "Rayon N1 blanc";
+
+translate "Ray N1 Green"
+to french "Rayon N1 vert";
+
+translate "Ray N1 Red"
+to french "Rayon N1 rouge";
+
+translate "Ray N1 Blue"
+to french "Rayon N1 bleu";
+
+translate "Ray N1 Yellow"
+to french "Rayon N1 jaune";
+
+translate "Ray N1 Purple"
+to french "Rayon N1 lilas";
+
+translate "Move up."
+to french "Lever.";
+
+translate "Move down."
+to french "Baisser.";
+
+translate "Move left."
+to french "A gauche.";
+
+translate "Move right."
+to french "A droite.";
+
+translate "Move in."
+to french "Vers l'intérieur.";
+
+translate "Move out."
+to french "Vers l'extérieur.";
+
+translate "OpticonConstruction (Completed)"
+to french "Construction d'opticon (Achevé)";
+
+translate "Opticons reflect a beam of light through moving prisms, a complex kinematic display"
+to french "Les opticons reflètent un rayon de lumière au travers de prismes en mouvement, dans un manège complexe.";
+
+translate "You learn the art of Opticon Construction.  You can build an opticon using a medium construction site.  Caution: after you build the opticon, you will need custom gearboxes and gems to activate it."
+to french "Vous pouvez apprendre l'art de la construction d'opticons. Vous pouvez construire un opticon sur un site de construction moyen. Attention : une fois que vous avez construit l'opticon, il vous faut des boîtes à pignons et des pierres précieuses pour l'activer.";
+
+translate "Test of the Prismatic Opticon"
+to french "Épreuve de l'Opticon Prismatique";
+
+translate "Aidenn-Mask-Cut Amethyst"
+to french "Masque d'Aidenn en améthyste";
+
+translate "Amanti-Cut Amethyst"
+to french "Pierre des Amants en améthyste";
+
+translate "Corner-Heart-Cut Amethyst"
+to french "Améthyst taillée en coeur";
+
+translate "Dalessi-Cut Amethyst"
+to french "Améthyste : Dalessi";
+
+translate "Full-Eye-Cut Amethyst"
+to french "Amethyste : Oeil";
+
+translate "King's-Tomb-Cut Amethyst"
+to french "Améthyste Tombeau du Roi";
+
+translate "You are truly bleeding edge, but Teppy wants to be here for the first Opticon."
+to french "Vous êtes quelqu'un de très doué, mais Teppy veut être présent pour la construction du premier opticon.";
+
+translate "You took the gearbox model K1."
+to french "Vous prenez le modèle de boîte à pignons K1.";
+
+translate "When you work on an opticon, even a little bit, it puts your signature on the opticon.  If you want credit in the opticon competition, the opticon must be signed by you alone.  You would be wise to keep your guildmate's signatures off your design."
+to french "Lorsque vous travaillez sur un opticon, ne serait-ce qu'un peu, ceci ajoute votre signature sur cet opticon. Si vous voulez que votre nom apparaisse dans le concours, l'opticon doit être signé par vous seul. Il est conseillé de ne pas impliquer les membres de votre guilde dans cette conception.";
+
+translate "Rate this Opticon"
+to french "Noter cet opticon";
+
+translate "Your Opticon has no Rating Yet"
+to french "Votre opticon n'a pas encore été noté";
+
+translate "Rating scale is 0 to 1000"
+to french "Les notes peuvent aller de 0 à 1000";
+
+translate "Rating: "
+to french "Note  ";
+
+translate "Judges so far: "
+to french "Nombre de juges jusqu'à maintenant : ";
+
+
+// Constructions
+
+translate "Gearbox"
+to french "Boîte à pignons";
+
+translate "Remove Gearbox K1"
+to french "Retirer la boîte à pignons K1";
+
+translate "Run"
+to french "Activer";
+
+translate "Select a gearbox:"
+to french "Choisissez une boîte à pignons:";
+
+translate "Start the test of the Prismatic Opticon"
+to french "Commencer l'épreuve de l'opticon prismatique";
+
+translate "You cannot sign up here because this university has not unlocked the technology of opticon construction."
+to french "Vous ne pouvez pas commencer cette épreuve ici car cette université ne connaît pas encore la technologie nécessaire à la construction des opticons.";

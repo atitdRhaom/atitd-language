@@ -1,0 +1,32 @@
+Module hydroponics_fre;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**            french Version: Astrid "Infinyti" Werner                   **
+//**                            2012                                       **
+//**                                                                       **
+//***************************************************************************
+
+translate hydroponics to french feminine
+{
+  ns "hydroponics"; np "aquacultures";
+}
+
+translate papyrustank to french masculine
+{
+  ns "Incubateur pour papyrus"; np "Incubateurs pour papyrus";
+}
+
+translate "Harvest the Sterile Papyrus"
+to french "Cueillez le Papyrus Stérile";
+
+translate "Counting the papyrus to see how many grew..."
+to french "En train de compter le papyrus pour voir quelle quantité a poussé...";
+
+translate "Your N1 papyrus seeds produced N2 O1."
+to french "Vos N1 graines de papyrus ont produit N2 O1(np)."; 
+
+translate "Techniques to allow growing Papyrus in tanks."
+to french "Techniques permettant de faire pousser du Papyrus dans des incubateurs.";
+

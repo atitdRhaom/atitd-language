@@ -1,0 +1,189 @@
+module tafl_fre;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** French Version: "Asnath - A Tale in the Desert" 		               **
+//**    (C)opyright 2002-2006 by MDO Entertainment	                     **
+//**                                                                       **
+//***************************************************************************
+
+translate TaflDesk to french masculine
+{
+  ns "Tableau du navire d'escorte royal"; np "Tableaux du navire d'escorte royal";
+}
+translate Tafl to french masculine
+{
+  ns "Navire d'escorte royale"; ns "Navires d'escorte royale";
+}
+
+translate RSTafl to french masculine
+{
+  ns "Convoi royal"; ns "Convois royaux";
+}
+
+translate trybeginconvoy to french feminine
+{ ns "Bases du Convoi du roi"; np "Bases du Convoi du Roi"; }
+
+translate "Learn how to play King's Convoy"
+to french "Apprendre à jouer au Convoi du Roi";
+
+translate "Read \"How do I play King's Convoy?\" at a King's Convoy Desk"
+to french "Lire \"Comment jouer au Convoi du Roi ? \" sur un tableau de convoi du Roi";
+
+translate "Play a game of King's Convoy as the Attacker"
+to french "Faire une partie de Convoi du Roi en tant qu'attaquant";
+
+translate "Play a game of King's Convoy as the Defender"
+to french "Faire une partie de Convoi du Roi en tant que défenseur";
+
+translate "Move one of your ships"
+to french "Déplacer un de vos bateaux";
+
+translate "Capture an enemy ship"
+to french "Capturer un bateau ennemi";
+
+translate "Finish a game of King's Convoy"
+to french "Terminer une partie de Convoi du Roi";
+
+translate "                                        The Rules of King's Convoy"
+to french "                                        Les règles du Convoi du Roi";
+translate "The arena is a 13x13 board underwater"
+to french "L'arène est un plateau de 13x13 sous l'eau";
+translate "The centre of the board is the Throne."
+to french "Au centre du plateau se trouve le Trône";
+translate "The four corners of the board are the escapes."
+to french "Les quatre coins du plateau sont les sorties.";
+translate "The attacking player controls the ships at the edges of the board."
+to french "Le joueur attaquant contrôle les bateaux sur les côtés du plateau.";
+translate "The defending player controls the ships in the centre of the board."
+to french "Le joueur défenseur contrôle les bateaux du centre du plateau.";
+translate "Only the King's ship can end a turn on the Throne or an escape."
+to french "Seul le bateau du Roi peut terminer sa course sur le Trône ou sur une Sortie";
+translate "You can move a ship any number of spaces in a vertical or horizontal line so long as it does not pass through another ship."
+to french "Vous pouvez déplacer un bateau d'autant de cases souhaitées sur une ligne horizontale ou verticale tant que vous ne traversez pas un autre bateau.";
+translate "You can take an enemy ship by positioning one of your ships on either side of it."
+to french "Vous pouvez prendre un bateau ennemi en positionnant 1 bateau de chaque côté du bateau ennemi.";
+translate "   (i.e. One ship on the starboard side and one ship on the port side OR one ship at the bow and one at the stern.)"
+to french "   (i.e. un bateau à tribord et un bateau à babord, OU un bateau à la proue et un bateau à la poupe)";
+translate "You can take multiple ships in one move, but there must be two friendly ships on either side of the enemy."
+to french "Vous pouvez capturer plusieurs bateaux en un seul mouvement, mais il faut pour cela 2 bateaux amis de chaque côté de l'ennemi";
+translate "The exception is the King's ship which be completely surrounded by enemy ships."
+to french "L'exception est le bateau du roi qui doit être entièrement entouré de bateaux ennemis";
+translate "  If the King's ship is in the middle of the board it must have 4 ships filling the adjacent squares to be captured."
+to french "  Si le bateau du Roi se trouve au centre du plateau il doit avoir 4 bateaux ennemis dans les cases adjacentes qui l'entourent";
+translate "  If the King's ship is at the edge of the board it only needs 3 ships filling the adjacent squares to be captured."
+to french "  Si le bateau du Roi se trouve sur l'un des bords du plateau il ne doit avoir que 3 bateaux ennemis dans les cases adjacentes qui l'entourent";
+translate "The attackers win the game by surrounding and taking the King's ship"
+to french "L'attaquant gagne le jeu en entourant et prenant le bateau du roi";
+translate "The defenders win the game by moving the King's ship to any of the 4 escape spaces."
+to french "Le défenseur gagne le jeu en déplaçant le bateau du Roi sur l'une des 4 sorties";
+
+translate "You won!"
+to french "Vous avez gagné !";
+
+translate "You lost!"
+to french "Vous avez perdu !";
+
+translate "Claim the move-limit win for Attacker"
+to french "Revendiquer la victore par mouvement limité pour l'attaquant";
+
+translate "Claim the time-out win for Attacker!"
+to french "Revendiquer la victore par temps expiré pour l'attaquant";
+
+translate "Claim the time-out win for Defender!"
+to french "Revendiquer la victore par temps expiré pour le défenseur";
+
+translate "You lost, but the game was practice-only."
+to french "Vous avez perdu, mais ce jeu n'était qu'un entrainement.";
+
+translate "You won, but the game was practice-only."
+to french "Vous avez gagné, mais ce jeu n'était qu'un entrainement.";
+
+translate "Are you sure you want to concede this match?"
+to french "Etes-vous certain de vouloir concéder ce match ?";
+
+translate "Practice Mode"
+to french "Entrainement";
+
+translate "Set to Tournament Mode"
+to french "Passer en mode tournoi";
+
+translate "Tournament Mode"
+to french "Mode tournoi";
+
+translate "Game over. Use the Utility menu to reset the board."
+to french "Fin du jeu. Utilisez le menu Outils pour réinitialiser le plateau";
+
+translate "Play King's Convoy (Attacker)"
+to french "Jouer au Convoi du Roi (Attaquant)";
+
+translate "Untimed Game"
+to french "Jeu non chronométré";
+
+translate "K1 per side"
+to french "K1 par côté";
+
+translate "You must first sign up for the Test of the King's Convoy at the Great University of Conflict."
+to french "Vous devez d'abord vous inscrire à l'épreuve du convoi du Roi à l'université des conflits";
+
+translate "Timed game of K1 per side"
+to french "Jeu chronométré de K1 par côté";
+
+translate "Play King's Convoy (Defenders) against U1"
+to french "Jouer au Convoi du roi (Défenseur) contre U1(name)";
+
+translate "You do not have enough O1."
+to french "Vous n'avez pas assez de O1(ns).";
+
+translate "Your opponent does not have enough O1 for an offering."
+to french "Votre opposant n'a pas assez de O1(ns) comme offrande.";
+
+translate "This game will not affect ranks because the court is in Practice Mode."
+to french "Ce jeu n'affectera pas les classements car le cour est en mode Entrainement.";
+
+translate "Reset Game"
+to french "Réinitialiser le jeu";
+
+translate "Move this piece"
+to french "Déplacez cette pièce";
+
+translate "Move"
+to french "Mouvement";
+
+translate "Destination..."
+to french "Destination...";
+
+translate "Game is over. Reset the board first."
+to french "Le jeu est terminé. Réinitialisez le plateau d'abord.";
+
+translate "Out of bounds."
+to french "Hors limite";
+
+translate "Diagonal moves not allowed."
+to french "Déplacement en diagonale interdit.";
+
+translate "Path is blocked: "
+to french "Chemin bloqué: ";
+
+translate "Only the king may occupy the throne."
+to french "Seul le roi peut occuper le trône.";
+
+translate "Only the king may occupy the escapes."
+to french "Seul le roi peut occuper les sorties";
+
+translate "Untimed Game (Both players ran out)"
+to french "Jeu non chronométré (Les 2 joueurs ont quitté)";
+
+translate "Attacker Time Left:N1"
+to french "Temps restant à l'attaquant: N1";
+
+translate "Defender Time Left:N1"
+to french "Temps restant au défenseur: N1";
+
+translate "Start the Test of the King's Convoy"
+to french "Démarrer l'épreuve du convoi du roi";
+
+translate "You are now registered for the Test of the King's Convoy."
+to french "Vous êtes enregistré pour l'épreuve du convoi du roi.";
+

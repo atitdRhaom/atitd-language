@@ -1,0 +1,149 @@
+module ritualobj_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Games **
+//**    (C)opyright 2002,2003 by Joerg Schoenfelder, jschoenf@gmx.de       **
+//**                                                                       **
+//***************************************************************************
+
+//menues
+translate "Ritual Items"
+to german "Rituelle Gegenstände";
+
+translate "Build a Ritual Torch"
+to german "Schaffe eine Ritusfackel";
+
+translate "Build a Ritual Pedestal"
+to german "Baue ein Rituspodest";
+
+translate "Recite an Incantation"
+to german "Murmele eine Beschwörungsformel";
+
+translate "Ritually Drop an Item into the Mine"
+to german "Werfe einen Ritualgegenstand in die Mine";
+
+translate "Item to Ritually Drop into Mine:"
+to german "Ritualgegenstand für die Mine:";
+
+translate "You don't have that item."
+to german "Du hast diesen Gegenstand nicht.";
+
+//objects
+translate RitualTorchLit to german feminine
+{
+swa "Ritualfackel (brennt)";
+  sn "Ritualfackel (brennt)"; sg "Ritualfackel (brennt)"; sd "Ritualfackel (brennt)"; sa "Ritualfackel (brennt)";
+  pn "Ritualfackel (brennen)"; pg "Ritualfackel (brennen)"; pd "Ritualfackel (brennen)"; pa "Ritualfackel (brennen)";
+}
+translate RitualTorch to german feminine
+{
+swa "Ritualfackel";
+  sn "Ritualfackel"; sg "Ritualfackel"; sd "Ritualfackel"; sa "Ritualfackel";
+  pn "Ritualfackeln"; pg "Ritualfackeln"; pd "Ritualfackeln"; pa "Ritualfackeln";
+}
+translate RitualPedestal to german neuter
+{
+swa "Ritualpodest";
+  sn "Ritualpodest"; sg "Ritualpodest"; sd "Ritualpodest"; sa "Ritualpodest";
+  pn "Ritualpodeste"; pg "Ritualpodeste"; pd "Ritualpodesten"; pa "Ritualpodeste";
+}
+translate SpiritBrasier to german masculine
+{
+swa "Spiritusbrenner";
+  sn "Spiritusbrenner"; sg "Spiritusbrenners"; sd "Spiritusbrenner"; sa "Spiritusbrenner";
+  pn "Spiritusbrenner"; pg "Spiritusbrenner"; pd "Spiritusbrenner"; pa "Spiritusbrenner";
+}
+//texts
+
+translate "To build a Ritual Torch, you need: "
+to german "Um eine Ritualfackel bauen zu können benötigst du: ";
+
+translate "Soak the Torch with Oil"
+to german "Tränke die Fackel mit Öl";
+
+translate "You do not have any Oil."
+to german "Du hast kein Öl.";
+
+translate "The Torch is ready to light."
+to german "Die Fackel ist bereit angezündet zu werden.";
+
+translate "Light the Torch"
+to german "Zünde die Fackel an";
+
+translate "Type in the Incantation:"
+to german "Schreibe die Formel:";
+
+translate "To build a Ritual Pedestal, you need: "
+to german "Um ein Ritualpodest bauen zu können benötigst du: ";
+
+translate "Paint the Pedestal White"
+to german "Streiche das Podest weiß";
+
+translate "Paint the Pedestal Red"
+to german "Streiche das Podest rot";
+
+translate "Paint the Pedestal Blue"
+to german "Streiche das Podest blau";
+
+translate "Paint the Pedestal Green"
+to german "Streiche das Podest grün";
+
+translate "You do not have the paint."
+to german "Diese Farbe hast Du nicht.";
+
+translate "Paint the Pedestal's Trim White"
+to german "Streiche die Zierleisten weiß";
+
+translate "Paint the Pedestal's Trim Red"
+to german "Streiche die Zierleisten rot";
+
+translate "Paint the Pedestal's Trim Blue"
+to german "Streiche die Zierleisten blau";
+
+translate "Paint the Pedestal's Trim Green"
+to german "Streiche die Zierleisten grün";
+
+translate "Place an Object on the Pedestal"
+to german "Platziere ein Objekt auf dem Podest";
+
+translate "Item to place on Pedestal:"
+to german "Gegenstand zum Platzieren:";
+
+translate "That is not one of the items you can place onto a ritual pedestal."
+to german "Das ist kein Gegenstand, den du auf einem Ritualpodest plazieren könntest.";
+
+translate "You do not have that item."
+to german "Du hast diesen Gegenstand nicht.";
+
+translate "Take the O1 from the Pedestal"
+to german "Nimm O1(dsa) O1(sa) vom Podest.";
+
+translate "Build a Spirit Brasier"
+to german "Baue einen Spiritusbrenner";
+
+translate "To build a Spirit Brasier, you need:"
+to german "Um einen Spiritusbrenner zu bauen benötigst du";
+
+translate "Light the brasier"
+to german "Entzünde den Brenner";
+
+translate "Select the spirit you wish to use for fuel:"
+to german "Wähle etwas Spiritus zum Einfüllen aus:";
+
+translate "You must select a spirit"
+to german "Du musst etwas Spiritus wählen";
+
+translate "Too late, somebody else already lit it."
+to german "Zu spät, jemand Anderes hat ihn schon entzündet.";
+
+translate "You need 5 K1."
+to german "Du benötigst 5 K1.";
+
+translate "The brasier is burning K1"
+to german "Der Brenner verbrennt K1";
+
+translate "It will burn out in N1 seconds."
+to german "Es wird in N1 Sekunden erlischen.";
+

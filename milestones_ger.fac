@@ -1,0 +1,168 @@
+Module MileStones_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**             German Version: Astrid "Infinyti" Werner                  **
+//**                             2011                                      **
+//**                                                                       **
+//***************************************************************************
+
+translate "Achievement Overload - this is a problem!"
+	to german "Vollendungsüberlastung - das ist ein Problem!";
+
+translate "Achievements"
+	to german "Vollendungen";
+
+translate "You have achieved: K1"
+	to german "Du hast vollendet: K1";
+
+translate "Compare Achievements"
+	to german "Vollendungen vergleichen";
+
+translate "U1 does not want to compare achievements with you."
+	to german "U1(name) möchte keine Vollendungen mit dir vergleichen.";
+
+translate "U1 wants to compare achievements with you, OK?"
+	to german "U1(name) möchte mit dir Vollendungen vergleichen, stimmst du zu";
+
+translate "Display Achievements"
+	to german "Zeige Vollendungen";
+
+translate "Show progress"
+	to german "Zeige Fortschritt";
+
+translate "Achieved Citizenship on U1"
+to german "Vollendete Bürgerschaft von U1(name)";
+
+translate "Beetles Mulched: N1\n"
+	to german "Käfer zerdrückt: N1";
+
+translate "Cabbage Harvested: N1\n"
+	to german "Kohl geerntet: N1";
+
+translate "Carrots Harvested: N1\n"
+	to german "Karotten geerntet: N1";
+
+translate "Cucumbers Harvested: N1\n"
+to german "Gurken geerntet: N1";
+
+translate "Eggplant Harvested: N1\n"
+	to german "Auberginen geerntet: N1";
+
+translate "Flax Harvested: N1\n"
+	to german "Flachs geerntet: N1";
+
+translate "Garlic Harvested: N1n"
+	to german "Knoblauch geerntet: N1";
+
+translate "Herbs Harvested: N1\n"
+	to german "Kräuter geerntet: N1";
+
+translate "Leeks Harvested: N1\n"
+to german "Lauch geerntet: N1";
+
+translate "Types of Mushrooms Gathered: K1\n"
+	to german "Pilzarten gesammelt: K1";
+
+translate "Number of Mushrooms Gathered: N1\n"
+	to german "Anzahl der gesammelten Pilze: N1";
+
+translate "Onions Harvested: N1\n"
+	to german "Zwiebeln geerntet";
+
+translate "Peppers Harvested: N1\n"
+	to german "Paprika geerntet: N1";
+
+translate "Papyrus Gathered: N1\n"
+	to german "Papyrus gesammelt: N1";
+
+translate "Watermelons Harvested: N1"
+	to german "Wassermelonen geerntet: N1";
+
+translate "No known achievements"
+to german "Keine bekannten Vollendungen";
+
+translate "Completed K1"
+	to german "Vollendet: K1";
+
+translate "Have heard of K1"
+	to german "Ist bekannt: K1";
+
+translate "You have not found any achievements yet."
+	to german "Du hast noch keine Vollendungen gefunden.";
+
+translate "Player is too far away"
+	to german "Spieler ist zu weit entfernt";
+
+translate "K1 known in all of Egypt."
+	to german "K1 sind in ganz Ägypten bekannt";
+
+translate "Just learned of "
+	to german "Eben gelernt: ";
+
+translate "Achieved "
+	to german "Vollendet: ";
+
+translate "Has heard of "
+	to german "Ich weiß von: ";
+
+translate "O1, Grew N1"
+	to german "N1 O1(pn) anbauen";
+
+translate "O1 Grew a Seed"
+	to german "eine anzubauende O1(sn)saat";
+
+translate "You have completed K1 out of the K2 achievements that you know of."
+	to german "Du hast K1 von K2 dir bekannte Vollendungen erfüllt.";
+
+translate "Found all 7 Ground Dwelling insects"
+	to german "'Finde alle 7 Bodeninsekten.'";
+
+translate "Found all 7 Tree Dwelling insects"
+	to german "'Finde alle 7 Bauminsekten.'";
+
+translate "Found all 7 Water Dwelling insects"
+	to german "'Finde alle 7 Wasserinsekten'";
+
+translate "Founded a Guild"
+	to german "Gründen einer Gilde";
+
+translate "Gathered 14 Different Fresh Mushrooms"
+	to german "14 verschiedene frische Pilze sammeln";
+
+translate "Gathered 8 Different Fresh Mushrooms"
+	to german "8 verschiedene frische Pilze sammeln";
+
+translate "Harvested 88 Herbs"
+	to german "88 Kräuter sammeln";
+
+translate "Harvested 888 Papyrus"
+	to german "888 Papyrii sammeln";
+
+translate "Lit a Firework"
+	to german "Entzünden eines Feuerwerks";
+
+translate "Met Malard"
+	to german "Treffen mit Malard";
+
+translate "Met Pharaoh"
+	to german "Treffen mit Pharaoh";
+
+translate "Met Pluribus"
+	to german "Treffen mit Pluribus";
+
+translate "Met Telanoc"
+	to german "Treffen mit Telanoc";
+
+translate "Met Zatarg"
+	to german "Treffen mit Zatarg";
+
+translate "Picked 77 Fresh Mushrooms"
+	to german "77 frische Pilze ernten";
+
+translate "Slaughtered a Wild Sheep"
+	to german "Ein wildes Schaf geschlachtet";
+
+translate "Current Progress"
+	to german "Aktueller Stand";

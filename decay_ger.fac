@@ -1,0 +1,310 @@
+Module decay_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Games **
+//**    (C)opyright 2002,2003 by MDO Games			           **
+//**                                                                       **
+//***************************************************************************
+
+translate "Maintain this building - New system"
+to german "Repariere das Gebäude - Neues System";
+
+translate "Add ten hours of decay"
+to german "Füge 10 Stunden Verfall hinzu";
+
+translate "Reinforce this building"
+to german "Verstärke dieses Gebäude";
+
+translate "Remove reinforcements from this building"
+to german "Entferne die Verstärkung dieses Gebäudes";
+
+translate "Remove all building reinforcements"
+to german "Entferne alle Gebäudeverstärkungen";
+
+translate "Decay and Crowding"
+to german "Verfall und Überfüllung";
+
+translate "Select System"
+to german "Wähle das System";
+
+translate "Learn about Decay and Crowding Systems"
+to german "Lerne über das Verfall- und Überfüllungs-System";
+
+//menues
+translate "Maintain this building"
+to german "Repariere das Gebäude";
+//objects
+
+//texts
+translate "This O1 is in like-new condition."
+to german "O1(^tsn) O1(sn) ist in einem neuwertigen Zustand.";
+
+translate "This O1 is starting to look a bit worn."
+to german "O1(^tsn) O1(sn) ist leicht beschädigt.";
+
+translate "This O1 could use some maintenance."
+to german "O1(^tsn) O1(sn) könnte eine Reparatur gebrauchen.";
+
+translate "This O1 is really starting to crumble."
+to german "O1(^tsn) O1(sn) fängt an, stark zu verschleißen.";
+
+translate "This O1 is about to fall apart."
+to german "O1(^tsn) O1(sn) fängt an, auseinanderzufallen.";
+
+translate "This O1 is unusable. Maintain it."
+to german "O1(^tsn) O1(sn) ist unbenutzbar. Bitte reparieren!";
+//now with numbers
+translate "This O1 is in like-new condition. (N1)"
+to german "O1(^tsn) O1(sn) ist in einem neuwertigen Zustand. (N1)";
+
+translate "This O1 is starting to look a bit worn. (N1)"
+to german "O1(^tsn) O1(sn) ist leicht beschädigt. (N1)";
+
+translate "This O1 could use some maintenance. (N1)"
+to german "O1(^tsn) O1(sn) könnte eine Reparatur gebrauchen. (N1)";
+
+translate "This O1 is really starting to crumble. (N1)"
+to german "O1(^tsn) O1(sn) fängt an, stark zu verschleissen. (N1)";
+
+translate "This O1 is about to fall apart. (N1)"
+to german "O1(^tsn) O1(sn) fängt an, auseinanderzufallen. (N1)";
+
+translate "This O1 is unusable. Maintain it. (N1)"
+to german "O1(^tsn) O1(sn) ist unbenutzbar. Bitte reparieren! (N1)";
+
+translate "This O1 is at N1% of new condition. You must perform Maintenance to continue using it."
+to german "O1(^tsn) O1(sn) ist in einem N1%igen Zustand. Du musst den Zustand verbessern, bevor du es weiter benutzt.";
+
+translate "This O1 is at N1% of new condition."
+to german "O1(^tsn) O1(sn) ist in einem N1%igen Zustand.";
+
+translate "To perform N1% of repairs requires:"
+to german "Die Verbesserung auf N1% benötigt:";
+translate "N1 O1 (missing)"
+to german "N1 O1(N1?pn:sn) (fehlt)";
+
+translate "There is no cost to maintain it."
+to german "Die Reparatur kostete nichts.";
+
+translate "Do what percentage of maintenance?"
+to german "Auf welchen Prozentsatz reparieren?";
+
+translate "This building is in like-new condition. It wouldn't have started to decay for over N1. Nevertheless, touching it up doesn't hurt - it's now in totally perfect condition."
+to german "Dieses Gebäude ist neuwertig. Für N1 hätte es nicht angefangen, zu verfallen. Alles in Allem schadet es nicht, nach Schäden zu schauen - es ist nun im perfekten Zustand.";
+
+translate "You maintain the O1 back to perfect condition. There is no cost."
+to german "Du bringst O1(tsa) O1(sa) zurück in den perfekten Zustand. Es hat nichts gekostet.";
+
+translate "To perform Maintenance, you need:"
+to german "Um den Zustand zu verbessern, brauchst du:";
+translate "N1 O1"
+to german "N1 O1(N1?pn:sn)";
+
+translate "Costs reflect a N1% Structure Maintenance reduction."
+to german "Kosten reflektieren eine N1% Gebäudezustands-Abnahme.";
+
+translate "The O1 is too far gone. It should be torn down."
+to german "O1(^dsn) O1(sn) ist zu zerfallen. Es sollte abgerissen werden.";
+
+translate "Someone else is already maintaining the building."
+to german "Jemand anderes hat bereits das Gebäude repariert.";
+
+translate "You touch up the O1. There is no cost."
+to german "Du besserst O1(dsa) O1(sa) ohne Kosten aus.";
+
+translate "You have already reinforced N1 buildings."
+to german "Du hast bereits N1 Gebäude verstärkt.";
+
+translate "You have specially reinforced the O1. You may reinforce a total of N1 buildings."
+to german "Du hast O1(dsa) O1(sa) speziell verstärkt. Du kannst N1 Gebäude verstärken.";
+
+translate "Are you sure you want to remove ALL of your building reinforcements?"
+to german "Bist du sicher, das du ALLE Gebäudeverstärkungen entfernen willst?";
+
+translate "It has been specially reinforced by you"
+to german "Das Gebäude wurde von dir speziell verstärkt.";
+
+translate "It has been specially reinforced by U1"
+to german "Das Gebäude wurde von U1(name) speziell verstärkt.";
+
+
+translate "You can choose whether your buildings are subject to decay, or to stricter crowding limits. "
+to german "Du kannst wählen, ob deine Gebäude verfallen oder an striktere Bebauungs-Limite gebunden sind.";
+translate "If you choose decay, then your buildings decay at about 1% per logged-in hour, and when decay reaches 50%, you'll have to maintain them by replacing some of the original building materials."
+to german "Wenn du Zerfall wählst, verfallen deine Gebäude um 1% pro eingeloggter Stunde. Und wenn der Zerfall 50% erreicht, musst du es mit einigen Original-Baumaterialien reparieren.";
+translate "If you choose to be subject to stricter crowding limits, your buildings are permanent and will never decay. You'll only be able to build when the number of physical objects within a 250 foot radius is 50 or less. (Normally you can build when the number of objects within a 500 foot radius is 250 or less.)"
+to german "Wenn du stattdessen auswählst, das Bauen an striktere Überfüllungslimite gebunden ist, bleiben deine Gebäude bestehen und werden nie zerfallen. Du wirst aber nur bauen können, wenn die Zahl der Objekte im 250 Fuss-Umkreis 50 oder weniger ist. (Normal können bis zu 250 Gebäude innerhalb von 500 Fuss gebaut werden.)";
+translate "You can switch between the two systems to see which you prefer."
+to german "Du kannst zwischen den beiden Systemen jederzeit wechseln, um zu sehen, welches du bevorzugst.";
+
+translate "Select Yes to use the stricter crowding system. Select No to use the Building Decay system."
+to german "Wähle JA, um das striktere Bebauungs-System zu wählen. NEIN, um das Zerfalls-System zu nutzen.";
+
+translate "You have reinforced some buildings. Reinforcements will be lost. Proceed?"
+to german "Du hast einige Gebäude verstärkt. Verstärkungen gehen verloren. Weitermachen?";
+
+translate "Now using the stricter crowding control system."
+to german "Du nutzt nun das strengere Bebauungs-Kontrollsystem.";
+
+translate "Buildings are now subject to decay."
+to german "Gebäude zerfallen nun.";
+
+translate "Strict Density: U1"
+to german "Strenge Dichte: U1(name)";
+
+
+
+
+translate "Remove my Cornerstone"
+to german "Entferne meinen Grundstein";
+
+translate "The O1 must be repaired first."
+to german "O1(sn) muss zuerst repariert werden.";
+
+translate "Structure repair is difficult work. Rest another K1."
+to german "Die Ausbesserung der Fassade ist eine schwierige Arbeit. Warte erneut K1.";
+
+translate "You were not able to make any needed repairs."
+to german "Du warst nicht in der Lage irgendwelche notwendigen Reparaturen durchzuführen.";
+
+translate "You repaired some of the damage."
+to german "Du konntest den Schaden teilweise beheben.";
+
+translate "Condition is: Perfect"
+to german "Beschaffenheit ist: Perfekt";
+
+translate "Condition is: Near-Perfect"
+to german "Beschaffenheit ist: Fast perfekt";
+
+translate "Condition is: Good"
+to german "Beschaffenheit ist: Gut";
+
+translate "Condition is: Serviceable"
+to german "Beschaffenheit ist: Funktionsfähig";
+
+translate "Condition is: Almost Useable"
+to german "Beschaffenheit ist: Fast funktionsfähig";
+
+translate "Condition is: Cracking"
+to german "Beschaffenheit ist: Schwer beschädigt";
+
+translate "Condition is: Crumbling"
+to german "Beschaffenheit ist: Brüchig";
+
+translate "Condition is: Rotting"
+to german "Beschaffenheit ist: Zerfallend";
+
+translate "Condition is: K1"
+to german "Beschaffenheit ist: K1";
+
+
+// sollte ohne die beiden Zeilen gehen:
+
+// translate " (No Cornerstones)"
+// to german " (Kein Grundstein)";
+
+// translate "(N1 Cornerstones)"
+// to german "(N1 Grundstein(e))";
+
+translate "This compound's protection level is N1%"
+to german "Das Sicherheitsniveau dieser Werkstatt ist N1%";
+
+translate "Install a Cornerstone"
+to german "Lege einen Grundstein";
+
+translate "You have already installed a cornerstone here."
+to german "Du hast hier bereits einen Grundstein gelegt";
+
+translate "You don't have any more cornerstones."
+to german "Du hast keine Grundsteine mehr";
+
+translate "Utility/Remove my Cornerstone"
+to german "Optionen/Entferne meinen Grundstein";
+
+translate "Show my Cornerstones"
+to german "Zeige meine Grundsteine";
+
+translate "You have N1 Cornerstones available."
+to german "Deine Grundsteine: N1";
+
+translate "Utility/Maintain this O1"
+to german "Optionen/Halte O1(sn) instand";
+
+translate "The compound is undergoing a blueprint upgrade. You must finish or abandon the upgrade before you can do maintenance."
+to german "Die Werkstatt ist mit einer Entwurfserweiterung beschäftigt. Du musst die Erweiterung beenden oder abbrechen, bevor du sie instand setzen kannst";
+
+translate "To maintain this Compound you need:"
+to german "Zur Instandsetzung dieser Werkstatt benötigst du:";
+
+translate "Utility/Abandon Maintenance"
+to german "Optionen/Instandsetzung abbrechen";
+
+translate "Checking..."
+to german "Prüfe...";
+
+translate "Ownership/Permission for Repair"
+to german "Eigentum/Erlaubnis zum Reparieren";
+
+translate "Repair level set to U1"
+to german "Reparaturlevel gesetzt auf U1(name)";
+
+translate "Canopy"
+to german "Atelier";
+
+translate "Are you sure you want to abandon the compound maintenance?"
+to german "Bist du sicher, dass du die Werkstattinstandsetzung abbrechen möchtest?";
+
+translate "Abandon Maintenance"
+to german "Abbruch Instandsetzung";
+
+translate "Maintain this Compound"
+to german "Repariere diese Werkstatt";
+
+translate "Game Master/Free Repair (Senior GM)"
+to german "Gamemaster/Kostenlose Reparatur (Senior GM)";
+
+translate StructureRepair to german feminine
+{
+swa "Fassadenausbesserung"; sn "Fassadenausbesserung"; pn "Fassadenausbesserung";
+}
+
+translate "Allows one to partially repair decayed workshops and buildings."
+to german "Erlaubt jemandem, teilweise Reparaturen an verfallenen Arbeitsstätten und Gebäuden durchzuführen.";
+
+translate "This Compounds protection level is N1% (No Cornerstones)"
+to german "Das Schutzniveau dieser Werkstatt beträgt nur noch N1% (Kein Grundstein)";
+
+translate "This Compounds protection level is N1% (N2 Cornerstones)"
+to german "Das Schutzniveau dieser Werkstatt beträgt nur noch N1% (Grundsteine: N2)";
+
+translate "This Compound is in perfect shape (N1 Cornerstones)"
+to german "Diese Werkstatt ist in einem perfekten Zustand (Grundsteine: N1)";
+
+translate "This Compound is in perfect shape"
+to german "Diese Werkstatt ist in einem perfekten Zustand";
+
+translate "This Compound is in perfect shape (No Cornerstones)"
+to german "Diese Werkstatt ist in einem perfekten Zustand (Kein Grundstein)";
+
+translate "This Compounds protection level has been at 0% for K1"
+to german "Das Schutzniveau dieser Werkstatt steht seit K1 auf 0%";
+
+translate "Free Repair"
+to german "Freie Reparatur";
+
+translate "This This Trade Center's protection level is N1% (No Cornerstones)"
+to german "Das Schutzniveau dieses Handelszentrums beträgt nur noch N1% (Kein Grundstein)";
+
+translate "This This Trade Center is in perfect shape. (N1 Cornerstones)"
+to german "Dieses Handelszentrum ist in einem perfekten Zustand. (Grundsteine: N1)";
+
+translate "This This Trade Center is in perfect shape. (No Cornerstones)"
+to german "Dieses Handelszentrum ist in einem perfekten Zustand. (Kein Grundstein)";
+
+translate "Permission for Repair"
+to german "Reparaturerlaubnis";
+
+translate "    One is installed in a O1 at egypt N1 N2"
+to german "    Einer liegt in einer O1(sn) in Ägypten N1 N2";

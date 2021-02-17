@@ -1,0 +1,108 @@
+module tug_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Games **
+//**    (C)opyright 2002,2003 by MDO Games			           **
+//**                                                                       **
+//***************************************************************************
+//menues
+
+translate TugDesk to german masculinecollective
+{
+  swa "Tugtisch";
+  sn "Tugtisch"; sg "Tugtisch"; sd "Tugtisch"; sa "Tugtisch";
+  pn "Tugtische"; pg "Tugtische"; pd "Tugtische"; pa "Tugtische";
+}
+
+translate "Allow All Ranks"
+to german "Erlaube alle Ränge";
+
+translate "Allow 0-64"
+to german "Erlaube 0-64";
+
+translate "Allow 65-129"
+to german "Erlaube 65-129";
+
+translate "Allow 130+"
+to german "Erlaube 130+";
+
+translate "Set DoingTestOfTelepathy"
+to german "Setze Test der Telepathie";
+
+translate "Reset this Tug court"
+to german "Setze den Tugtisch zurück";
+
+translate "Ranks N1 through N2 may play on this table."
+to german "Die Ränge N1 bis N2 können an diesem Tisch spielen.";
+
+translate "Your Telepathy rank is N1 of 256"
+to german "Dein Telepathierang ist N1 von 256";
+
+translate "Play Tug"
+to german "Spiele Tug";
+
+translate "Play Tug against U1(name)"
+to german "Spiele Tug gegen U1(name)";
+
+translate "Tug game between U1(name) and U2(name)."
+to german "Tugspiel zwischen U1(name) und U2(name).";
+
+translate "To start the Test of Telepathy, visit the Great University of Conflict."
+to german "Um den Test der Telepathie zu beginnen, besuche die große Universität des Konflikts.";
+
+translate "Your rank is not high enough to play here."
+to german "Dein Rang ist nicht hoch genug, um hier zu spielen.";
+
+translate "Your rank is too high to play here."
+to german "Dein Rang ist zu hoch, um hier zu spielen.";
+
+translate "It is traditional to honor Geb with a N1 O1(sn) for each game of Tug."
+to german "Es ist Tradition Geb mit N1 O1(sn) für ein Tugspiel zu ehren.";
+
+translate "You may only play one game at a time."
+to german "Du kannst nur ein Spiel spielen.";
+
+translate "You only have N1 points left."
+to german "Du hast nur N1 Punkte übrig.";
+
+translate "You failed to move within 5 minutes, forfeiting the Tug game."
+to german "Du hast nicht innerhalb von 5 Minuten Deinen Zug gemacht.";
+
+translate "Your opponent failed to move within 5 minutes, forfeiting the Tug game."
+to german "Dein Gegner hat nicht innerhalb von 5 Minuten seinen Zug gemacht.";
+
+translate "Start the Test of Telepathy"
+to german "Beginne den Test der Telepathie";
+
+translate "You are registered for the Test of Telepathy. Telepathic ability is measured in formal matches played on a Tug court. A cart of Ore sits in the middle of the court. You start with 50 points, as does your opponent. Each round, the two players simultaneously wager a number of their points. A higher wager shoves the cart toward the opponent's side. Pushing the cart off the end wins the match."
+to german "Du bist für den Test der Telepathie angemeldet. Telepatische Fähigkeiten werden in formellen Spielen am Tugtisch gemessen. Ein Karren Erz steht in der Mitte des Tugtisches. Du startest wie dein Gegner mit 50 Punkten. Jede Runde setzen beide Spieler ihre Zahl. Eine höhere Zahl verschiebt den Karren in Richtung des Gegners. Drückst du den Karren über das Ende hinaus, gewinnst du das Spiel.";
+
+translate "Your rank in Telepathy is shown when you click on a the court's podium. Achieve rank 140 to pass the Test of Telepathy."
+to german "Dein Rang in Telepathie wird angezeigt, wenn Du den Tugtisch anklickst. Erforderlicher Rang, um den Test zu bestehen, ist 140.";
+
+translate "Hints to maximize your rank:"
+to german "Tipps, um deinen Rang zu steigern:";
+
+translate "  1. Play many different people"
+to german "  1. Spiele gegen viele unterschiedliche Leute";
+
+translate "  2. Play people near your rank"
+to german "  2. Spiele gegen Leute mit einem ähnlichen Rang";
+
+translate "Enable test of telepathy"
+to german "Erlaube Test der Telepathie";
+
+translate "AnteO1(sn)/K1"
+to german "AnteO1(sn)/K1";
+
+translate "     Remaining"
+to german "     Verbleiben";
+
+translate "    Last Gamble"
+to german "    Letzter Zug";
+
+
+
+

@@ -1,0 +1,494 @@
+module command_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+
+translate "Exit the water first."
+to german "Verlasse zuerst das Wasser.";
+
+translate "No such object O1"
+to german "Kein solches Objekt O1(sn)";
+
+translate "Player not found."
+to german "Spieler nicht gefunden.";
+
+translate "Object unknown."
+to german "Objekt unbekannt.";
+
+translate "Quantity was 0."
+to german "Menge ist 0.";
+
+translate "U1 has sent you a gift of N1 O1."
+to german "U1(name) hat dir ein Geschenk von N1 O1(N1?pn:sn) überreicht.";
+
+translate "U1 does not have N1 O1"
+to german "U1(name) hat kein N1 O1(N1?pn:sn)";
+
+translate "U1 has removed N1 O1 from your inventory."
+to german "U1(name) N1 O1(N1?pn:sn) aus deinem Inventar genommen.";
+
+translate "Took N1 O1 from U1"
+to german "N1 O1(N1?pn:sn) von U1(name) genommen";
+
+translate "Player U1 created."
+to german "Spieler U1(name) erstellt.";
+
+translate "Could not create player U1. Name may be taken."
+to german "Konnte den Spieler U1(name) nicht erstellen. Name könnte vergeben sein.";
+
+translate "Total player-hours: N1"
+to german "Gesamte Spielerstunden: N1";
+
+translate "O1 is not an object type."
+to german "O1(sn) ist kein Objekttyp.";
+
+translate "Found approximately N1 O1 in the world."
+to german "Zirka N1 O1(N1?pn:sn) in der Welt gefunden.";
+
+translate "Player U1 not found."
+to german "Spieler U1(name) nicht gefunden.";
+
+translate "Banner code is N1"
+to german "Bannercode ist N1";
+translate "Banner code is O1"
+to german "Bannercode ist O1(sn)";
+translate "Banner code is U1"
+to german "Bannercode ist U1(name)";
+
+
+translate "U1 at N1 (connected) "
+to german "U1(name) bei N1 (eingeloggt) ";
+
+translate "U1 at N1 (disconnected) "
+to german "U1(name) bei N1 (ausgeloggt) ";
+
+
+//translate "Found O1 in ",GetType(Place)," at ",Plane(Place)," ",XPos(Place)/16," ",YPos(Place)/16," owned by ",Place.UserName
+
+
+///Teppy: All these commands arent translateble, U1 and U1(name) don't work
+translate "No such user U1."
+to german "Kein Spieler namens U1(name).";
+
+translate "Can't send a message - U1 has you squelched."
+to german "Kann Nachricht nicht senden - U1(name) ignoriert dich.";
+
+translate "U1 whispers: "
+to german "U1(name) flüstert: ";
+
+translate "No such player 'U1'"
+to german "Kein Spieler namens 'U1(name)'";
+
+translate "U1 is ignoring you."
+to german "U1(name) ignoriert dich.";
+
+translate "U1 is ignoring all incoming chats."
+to german "U1(name) ignoriert alle eingehenden Chats.";
+
+translate "U1 is not online. Chat anyway to leave a message?"
+to german "U1(name) ist nicht online. Trotzdem ein Chatfenster zum Hinterlassen einer Nachricht öffnen?";
+
+translate "U1  is AFK. Chat anyway?"
+to german "U1(name) ist AFK (away from keyboard). Trotzdem Chatfenster öffnen?";
+
+translate "You can't chat with yourself!"
+to german "Willst du Selbstgespräche führen? Das geht nicht!";
+
+translate "You can only conjure portables."
+to german "Du kannst 'conjure' nur auf transportable Gegenstände anwenden.";
+
+translate "You can only build physicals."
+to german "Du kannst 'build' nur auf Bauwerke anwenden.";
+
+translate "You can only build piles of portables."
+to german "Du kannst 'pile' nur auf transportable Gegenstände anwenden.";
+
+translate "Players: N1"
+to german "Spieler: N1";
+
+translate "U1"
+to german "U1(name)";
+
+translate "Search N1"
+to german "Suche N1";
+
+translate "Search O1"
+to german "Suche O1(sn)";
+
+translate "Search U1"
+to german "Suche U1(name)";
+
+translate "UnknownPlayer"
+to german "Unbekannter Spieler";
+
+translate "Last IP Adress of U1 was N1"
+to german "Letzte IP-Adresse von U1(name) war N1";
+
+translate "IP Adress of U1 is N1"
+to german "IP-Adresse von U1(name) ist N1";
+
+translate "IP of U1 is N1"
+to german "IP von U1(name) ist N1";
+
+translate "Found U1 at N1"
+to german "U1(name) bei N1 gefunden";
+
+translate "Warping not allowed in official sessions."
+to german "'Warpen' in offiziellen Sitzungen nicht erlaubt.";
+
+translate "Warp point not found."
+to german "Warppunkt nicht gefunden.";
+
+translate "Player U1 not found."
+to german "Spieler U1(name) nicht gefunden.";
+
+translate "You may not warp to eGenesis employees, since they may be testing new content."
+to german "Du kannst nicht zu eGenesis Administratoren warpen, sie könnten neue Inhalte testen.";
+
+translate "U1 is logged out right now. You have warped to his last location."
+to german "U1(name) ist momentan nicht im Spiel. Du bist zum letzten Standort gewarpt.";
+
+translate "Player is on the nowhere plane."
+to german "Spieler ist im Niemandsland.";
+
+translate "U1 last logged in N1 ago."
+to german "U1(name) hat zuletzt vor N1 eingeloggt.";
+
+translate "No such player"
+to german "Kein solcher Spieler";
+
+translate "Player U1$ ."
+to german "Spieler U1(name)$ ist eingeloggt.";
+
+translate "Player U1 is connected."
+to german "Spieler U1(name) ist eingeloggt.";
+
+translate "Time Online (approx): N1 in N2 logins."
+to german "Onlinezeit (zirka): N1 in N2 Anmeldungen.";
+
+translate "Logged in for: K1"
+to german "Eingeloggt seit: K1";
+
+translate "Player U1$ is disconnected."
+to german "Spieler U1(name)$ ist ausgeloggt.";
+
+translate "Player U1 is disconnected."
+to german "Spieler U1(name) ist ausgeloggt.";
+
+translate "Location: egypt N1 N2"
+to german "Standort: Ägypten N1 N2";
+
+translate "Location: builder N1 N2"
+to german "Standort: Builder N1 N2";
+
+translate "Time Online (approx): N1 in N2 logins."
+to german "Onlinezeit (zirka): N1 in N2 Anmeldungen.";
+
+translate "Last Online: N1 ago"
+to german "Letzte Onlinezeit: N1 her";
+
+translate "Last Online: long ago"
+to german "Letzte Onlinezeit: lange her";
+
+translate "Using the Strict Density system"
+to german "Nutzt das System der Überfüllung";
+translate "Using the decay system"
+to german "Nutzt das System der Abnutzung";
+
+translate "Set flags of U1 to N1"
+to german "Setze Flags von U1(name) auf N1";
+
+translate "U1 responded Yes to O1"
+to german "U1(name) antwortete Ja auf O1(sn)";
+
+translate "U1 responded No to O1"
+to german "U1(name) antwortete Nein auf O1(sn)";
+
+translate "O1 is not an object type."
+to german "O1(sn) ist kein Objekttyp.";
+
+translate "You must highlight an item from the list first"
+to german "Du musst erst einen Eintrag aus der Liste markieren";
+
+translate "Something went wrong."
+to german "Etwas ist falsch gelaufen.";
+
+translate "Found approximately N1 O1 in objects owned by U1."
+to german "Zirka N1 O1(N1?pn:sn) in von U1(name) in Besitz befindlichen Objekten gefunden.";
+translate "Found approximately N1 O1 in the world."
+to german "Zirka N1 O1(N1?pn:sn) in der Welt gefunden.";
+
+translate "O1 belonging to U1 at N1 N2 contains N3 O2"
+to german "U1(name)'s O1(sn) bei N1 N2 enthält N3 O2(N3?pn:sn)";
+
+translate "O1 belonging to U1 at N1 N2 contains O2"
+to german "U1(name)'s O1(sn) bei N1 N2 enthält O2(pn)";
+
+translate "U1 has passed O1 (N1)"
+to german "U1(name) hat O1(sn) (N1) erreicht";
+
+translate "Are you sure you want to bulldoze ALL O1?"
+to german "Bist du dir sicher, ALLE O1(pn) abzureißen?";
+
+translate "To change password, type:"
+to german "Um das Passwort zu ändern, schreibe:";
+
+translate "/password <newpassword> <newpassword>"
+to german  "/Passwort <neuespasswort> <neuespasswort>";
+
+translate "Blank passwords not allowed."
+to german "Passwort aus Leerzeichen nicht erlaubt.";
+
+translate "Passwords must match."
+to german "Passwörter müssen übereinstimmen.";
+
+translate "Password changed."
+to german "Passwort wurde geändert.";
+
+translate "U1 not found in player database."
+to german "U1(name) wurde nicht in der Spielerdatenbank gefunden.";
+
+translate "No such skill O1"
+to german "Keine solche Fertigkeit O1(sn)";
+
+translate "Illegal command"
+to german "Illegales Kommando";
+
+translate "Only 20 people allowed on a squelch list."
+to german "Nur 20 Spieler sind auf der Ignoreliste(squelch) erlaubt.";
+
+translate "U1 was already on your squelch list."
+to german "U1(name) war bereits auf deiner Ignoreliste(squelch)";
+
+translate "U1 added to your squelch list."
+to german "U1(name) wurde deiner Ignoreliste(squelch) hinzugefügt.";
+
+translate "U1 has squelched you."
+to german "U1(name) ignoriert(squelch) dich.";
+
+translate "Un-Squelched U1"
+to german "U1(name) von Ignoreliste genommen(un-squelch)";
+
+translate "Lead Mine at N1 N2"
+to german "Bleimine bei N1 N2";
+
+translate "U1$ has heartbearts=N1"
+to german "U1(name)$'s Herzschlag=N1";
+translate "U1$ has heartbearts=N1"
+to german "U1(name)'s Herzschlag=N1";
+
+translate "U1 has offered O1"
+to german "U1(name) spendete O1(pn)";
+
+translate "Crowding level is about N1%"
+to german "Bebauungsrate ist bei N1%";
+
+translate "The /jail command now requires the Senior GM flag."
+to german "Der /jail Befehl benötigt nun einen SrGM Flag.";
+
+
+translate "Date is Akhet I/N1. Time is K1"
+to german "Datum: Akhet N1/I. Zeit: K1";
+translate "Date is Akhet II/N1. Time is K1"
+to german "Datum: Akhet N1/II. Zeit ist K1";
+translate "Date is Akhet III/N1. Time is K1"
+to german "Datum: Akhet N1/III. Zeit ist K1";
+translate "Date is Akhet I/N1. Time is K1"
+to german "Datum: Akhet N1/I. Zeit ist K1";
+translate "Date is Akhet II/N1. Time is K1"
+to german "Datum: Akhet N1/II. Zeit ist K1";
+translate "Date is Akhet III/N1. Time is K1"
+to german "Datum: Akhet N1/III. Zeit ist K1";
+
+translate "Date is Peret I/N1. Time is K1"
+to german "Datum: Peret N1/I. Zeit ist K1";
+translate "Date is Peret II/N1. Time is K1"
+to german "Datum: Peret N1/II. Zeit ist K1";
+translate "Date is Peret III/N1. Time is K1"
+to german "Datum: Peret N1/III. Zeit ist K1";
+translate "Date is Peret I/N1. Time is K1"
+to german "Datum: Peret N1/I. Zeit ist K1";
+translate "Date is Peret II/N1. Time is K1"
+to german "Datum: Peret N1/II. Zeit ist K1";
+translate "Date is Peret III/N1. Time is K1"
+to german "Datum: Peret N1/III. Zeit ist K1";
+
+translate "Date is Shemu I/N1. Time is K1"
+to german "Datum: Shemu N1/I. Zeit ist K1";
+translate "Date is Shemu II/N1. Time is K1"
+to german "Datum: Shemu N1/II. Zeit ist K1";
+translate "Date is Shemu III/N1. Time is K1"
+to german "Datum: Shemu N1/III. Zeit ist K1";
+translate "Date is Shemu I/N1. Time is K1"
+to german "Datum: Shemu N1/I. Zeit ist K1";
+translate "Date is Shemu II/N1. Time is K1"
+to german "Datum: Shemu N1/II. Zeit ist K1";
+translate "Date is Shemu III/N1. Time is K1"
+to german "Datum: Shemu N1/III. Zeit ist K1";
+
+translate "You can only build entities."
+to german "Du kannst nur Gebäude erbauen.";
+
+translate "You are now invisible."
+to german "Du bist nun unsichtbar. HUIBUH! Spuk nicht zuviel rum.";
+
+translate "You are again visible."
+to german "Du bist wieder sichtbar.";
+
+//Josh: This doesn't work:
+translate "(Buildings have been removed)"
+to german "(Gebäude sind abgerissen worden)";
+translate "(trial account)"
+to german "(Testaccount)";
+translate "(paid account)"
+to german "(bezahlter Account)";
+
+translate "Calculate total hours"
+to german "Kalkuliere Gesamtstunden";
+
+translate "Total player-hours: N1"
+to german "Gesamte Spielstunden: N1";
+
+translate "Players who played at least 15 minutes: N2"
+to german "Spieler, die länger als 15 min. gespielt haben: N2";
+
+
+translate "Language: O1"
+to german "Sprache: O1(sn)";
+
+translate German to german feminine
+{
+swa "Deutsch";
+	sn "Deutsch"; pn "Deutsch";
+	}
+	
+	translate English to german feminine
+{
+swa "Englisch";
+	sn "Englisch"; pn "Englisch";
+	}
+	
+	translate Frensh to german feminine
+{
+swa "Französisch";
+	sn "Französisch"; pn "Französisch";
+	}
+	
+	
+	
+	
+	
+translate "First login K1 ago "
+to german "Erstmals eingeloggt vor K1 ";
+
+translate "Time Online (approx): K1 in N1 logins. "
+to german "Onlinezeit (ca.) : K1 in N1 Sitzungen. ";
+
+translate "Video Card: K1  "
+to german "Grafikkarte: K1  ";
+
+translate "Last Location: egypt N1 N2"
+to german "Letzter Standort: Ägypten N1 N2";
+
+translate "Last Location: builder N1 N2"
+to german "Letzter Standort: Builder N1 N2";
+
+translate "Last Online: K1 ago. "
+to german "Offline seit: K1. ";
+
+translate "No such player"
+to german "Kein solcher Spieler";
+
+translate "No such player or guild."
+to german "Kein solcher Spieler oder eine Gilde gefunden.";
+
+translate "Married to U1"
+to german "Verheiratet mit U1(name)";
+
+translate "Language"
+to german "Sprache";
+
+translate "Interface"
+to german "Interface";
+
+translate "Player is on the nowhere plane."
+to german "Spieler ist im Niemandsland";
+
+translate "You are not permitted to contact newbies from Jail. Contact a GM to get out."
+to german "Du hast keine Erlaubnis, neue Spieler vom Gefängnis aus zu kontaktieren. Rufe einen Gamemaster, um entlassen zu werden.";
+
+translate "No one has sent you a tell for you to repond to them."
+to german "Niemand hat dich angewhispert, dem du antworten müsstest.";
+
+translate "[Told to U1: ]"
+to german "[Du flüsterst zu U1(name): ]";
+
+translate "U1 tells U2: "
+to german "U1(name) flüstert U2(name) zu: ";
+
+translate "U1 already has too many chat windows."
+to german "U1(name) hat zu viele Chatfenster.";
+
+translate "Pharaoh gets a ton of chat messages. You may have to wait a week or more for a reply. DevCalls are a different "
+to german "Pharaoh hat eine Tonne von Chatnachrichten erhalten. Es könnte sein, dass du eine Woche oder mehr wirst warten müssen.";
+
+translate "story though - those get top priority, and are often answered in minutes. (With chat, you're putting yourself "
+to german "Entwickleranfragen sind etwas Anderes - sie haben höchste Priorität und werden oft in wenigen Minuten beantwortet";
+
+translate "at the back of the queue.) Are you sure you want to open a chat tab?"
+to german "(Per chat, den du selbst startest und in einer Warteschlange stehst. Bist du sicher, dass du einen Chat öffnen möchtest?";
+
+translate "Warp Points: "
+to german "Teleportationspunkte: ";
+
+translate "Hop only works in the welcoming lands."
+to german "Der Hop-Befehl funktioniert nur auf den Willkommensinseln.";
+
+translate "You must be a mentor to use Hop."
+to german "Du musst ein Mentor sein, um den Hop-Befehl nutzen zu können.";
+
+translate "Only 4 hop points allowed."
+to german "Nur 4 Hop-Punkte sind erlaubt.";
+
+translate "Hop point cleared: K1"
+to german "Hop-Punkt gelöscht: K1";
+
+translate "All hop points cleared."
+to german "Alle Hop-Punkte gelöscht.";
+
+translate "Hop Points: "
+to german "Hop-Punkte: ";
+
+translate "Hop point not found."
+to german "Hop-Punkt nicht gefunden.";
+
+translate "U1 has been rescued."
+to german "U1(name) wurde gerettet.";
+
+translate "Year K1, K2 K3 K4-K5, K6:K7 K8"
+to german "Jahr K1, K2 K3 K4-K5, K6:K7 K8";
+
+translate "Guild Location is Hidden."
+to german "Gildenstandort ist verborgen.";
+
+translate "Guild Roster is Secret."
+to german "Gildenmitgliedsliste ist geheim.";
+
+translate "Membership is full."
+to german "Die Gilde ist voll.";
+
+translate "Space for N1 more members."
+to german "Platz für weitere N1 Mitglieder.";
+
+translate "Discipline?"
+to german "Disziplin?";
+translate "Set Legacy for U1 to K1."
+to german "Folgenden Titel an U1(name) vergeben: K1.";
+/// WICHTIG///
+
+//Zeile 1060 - 1126 bearbeiten

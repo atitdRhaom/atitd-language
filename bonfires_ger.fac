@@ -1,0 +1,84 @@
+module Bonfires_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** 				German Version: Astrid "Infinyti" Werner 							**
+//**    								 2011                                        **
+//**                                                                       **
+//***************************************************************************
+
+translate Bonfire to german neutercollective
+{
+  swa "Freudenfeuer";
+  sn "Freudenfeuer"; sg "Freudenfeuers"; sd "Freudenfeuer"; sa "Freudenfeuer";
+  pn "Freudenfeuer"; pg "Freudenfeuer"; pd "Freudenfeuern"; pa "Freudenfeuer";
+}
+
+translate Charcoal to german femininecollective
+{
+  swa "Holzkohle";
+  sn "Holzkohle"; sg "Holzkohle"; sd "Holzkohle"; sa "Holzkohle";
+  pn "Holzkohle"; pg "Holzkohle"; pd "Holzkohle"; pa "Holzkohle";
+}
+translate lime to german masculinecollective
+{
+  swa "Kalk";
+  sn "Kalk"; sg "Kalks"; sd "Kalk"; sa "Kalk";
+  pn "Kalk"; pg "Kalk"; pd "Kalk"; pa "Kalk";
+}
+translate Ash to german femininecollective
+{
+  swa "Asche";
+  sn "Asche"; sg "Asche"; sd "Asche"; sa "Asche";
+  pn "Asche"; pg "Asche"; pd "Aschen"; pa "Asche";
+}
+
+translate GrilledFish to german masculine
+{
+  swa "gegrillter Fisch";
+  sn "gegrillte Fisch"; sg "gegrillten Fisches"; sd "gegrillter Fisch"; sa "gegrillter Fisch";
+  pn "gegrillten Fische"; pg "gegrillten Fische"; pd "gegrillten Fische"; pa "gegrillten Fische";
+}
+
+translate "Charcoal"
+to german "Holzkohle";
+
+translate "Bonfire"
+to german "Freudenfeuer";
+
+translate "How big a bonfire (# wood)?"
+to german "Höhe des Freudenfeuers (# Holz)?";
+
+translate "Bonfire contains N1 wood"
+to german "Das Freudenfeuer enthält N1 Holz";
+
+translate "To build that size Bonfire you need:"
+to german "Um ein Freudenfeuer dieser Größe zu bauen brauchst du:";
+
+translate "Add some O1 to the fire."
+to german "Füge O1(sn) dem Feuer hinzu.";
+
+translate "Add how much O1 to the fire?"
+to german "Wieviel O1(sn) ins Feuer geben?";
+
+translate "You don't have N1 O1."
+to german "Du hast keine N1 O1(N1?pn:sn).";
+
+translate "Light this Bonfire"
+to german "Zünde das Freudenfeuer an";
+
+translate "Flame is N1. Fuel is N2"
+to german "Flamme N1  Brennstoff N2";
+
+translate "This O1 is burning"
+to german "O1(^tsn) O1(sn) brennt";
+
+translate "Remove some wood"
+to german "Entnehme etwas Holz";
+
+translate "Remove how much wood? (Max N1)"
+to german "Wieviel Holz entnehmen? (Max N1)";
+
+translate "There isn't that much available."
+to german "Soviel steht nicht zur Verfügung";

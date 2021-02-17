@@ -1,0 +1,534 @@
+module canopy_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment	                   **
+//**                                                                       **
+//***************************************************************************
+
+translate Canopy to german feminine
+{
+swa "Werkstatt"; 
+sn "Werkstatt"; sd "Werkstatt"; sa "Werkstatt"; sg "Werkstatt";
+pn "Werkstätten"; pd "Werkstätten"; pa "Werkstätten"; pg "Werkstätten";
+}
+
+translate CompoundConstruction to german feminine
+{
+swa "Werkstattkonstruktion"; 
+sn "Werkstattkonstruktion"; sd "Werkstattkonstruktion"; sa "Werkstattkonstruktion"; sg "Werkstattkonstruktion";
+pn "Werkstattkonstruktionen"; pd "Werkstattkonstruktionen"; pa "Werkstattkonstruktionen"; pg "Werkstattkonstruktionen";
+}
+translate CompoundManagement to german feminine
+{
+swa "Werkstattverwaltung"; 
+sn "Werkstattverwaltung"; sd "Werkstattverwaltung"; sa "Werkstattverwaltung"; sg "Werkstattverwaltung";
+pn "Werkstattverwaltung"; pd "Werkstattverwaltung"; pa "Werkstattverwaltung"; pg "Werkstattverwaltung";
+}
+
+translate facade12 to german feminine
+{
+swa "Schräge, einfach"; 
+sn "Schräge, einfach"; sd "Schräge, einfach"; sa "Schräge, einfach"; sg "Schräge, einfach";
+pn "Schräge, einfach"; pd "Schräge, einfach"; pa "Schräge, einfach"; pg "Schräge, einfach";
+}
+translate facade13 to german feminine
+{
+swa "Schräge, Breite links"; 
+sn "Schräge, Breite links"; sd "Schräge, Breite links"; sa "Schräge, Breite links"; sg "Schräge, Breite links";
+pn "Schräge, Breite links"; pd "Schräge, Breite links"; pa "Schräge, Breite links"; pg "Schräge, Breite links";
+}
+translate facade14 to german feminine
+{
+swa "Schräge, Breite rechts"; 
+sn "Schräge, Breite rechts"; sd "Schräge, Breite rechts"; sa "Schräge, Breite rechts"; sg "Schräge, Breite rechts";
+pn "Schräge, Breite rechts"; pd "Schräge, Breite rechts"; pa "Schräge, Breite rechts"; pg "Schräge, Breite rechts";
+}
+translate facade15 to german feminine
+{
+swa "Schräge, beide Breiten"; 
+sn "Schräge, beide Breiten"; sd "Schräge, beide Breiten"; sa "Schräge, beide Breiten"; sg "Schräge, beide Breiten";
+pn "Schräge, beide Breiten"; pd "Schräge, beide Breiten"; pa "Schräge, beide Breiten"; pg "Schräge, beide Breiten";
+}
+
+
+
+translate "Compound"
+to german "Werkstatt";
+
+translate "Compound Construction"
+to german "Werkstattkonstruktion";
+
+translate "Recalculate Contents"
+to german "Inhalt neu berechnen";
+
+translate "Repair Jumbo Canopy"
+to german "Repariere Groß-Werkstatt";
+
+translate "To build a Compound you need:"
+to german "Um eine Werkstatt zu bauen benötigst du:";
+
+translate "Help Text"
+to german "Hilfetext";
+
+translate "Basic"
+to german "Fundament";
+
+translate "Plain Wall"
+to german "Wand";
+
+translate "Plain Door"
+to german "Tür";
+
+translate "Post-Lintel Door"
+to german "Stützpfosten (Türe)";
+
+translate "Cylinder Column"
+to german "Zylindersäule";
+
+translate "Obelisk Column"
+to german "Obelisksäule";
+
+translate "Ceiling Faces North"
+to german "Gebäudedecke Nord";
+
+translate "Ceiling Faces South"
+to german "Gebäudedecke Süd";
+
+translate "Ceiling Faces East"
+to german "Gebäudedecke Ost";
+
+translate "Ceiling Faces West"
+to german "Gebäudedecke West";
+
+translate "Building Shape"
+to german "Gebäude Plan";
+translate "Add a Sector"
+to german "Füge einen Sektor hinzu";
+translate "Remove a Sector"
+to german "Entferne einen Sektor";
+translate "Abandon Compound Alterations"
+to german "Breche Werkstattveränderungen ab";
+
+
+translate "All values must be non-zero."
+to german "Kein Wert darf auf Null stehen";
+
+translate "Discard Blueprints"
+to german "Verwerfe die Baupläne";
+
+translate "Paint/Texture"
+to german "Farbe/Muster";
+translate "Wall Texture"
+to german "Wandmuster";
+translate "Trim Texture"
+to german "Zierleistenmuster";
+translate "Wall Color"
+to german "Wandfarbe";
+translate "Trim Color"
+to german "Zierleistenfarbe";
+
+translate "Although it will appear that the building is changing shape, you are actually just editing the blueprints.  After you are done, you may supply the materials to alter the building."
+to german "Auch wenn es so aussieht als würde das Gebäude seine Form wechseln, bearbeitest du lediglich den Entwurf. Nachdem du damit fertig bist, kannst du das Material verstauen, um das Gebäude wirklich zu verändern.";
+
+translate "The blueprints are being used to upgrade the building. You cannot edit the blueprints until the building upgrade is finished or abandoned."
+to german "Der Bauplan wird benutzt, um das Gebäude auszubauen. Du kannst die Entwürfe nicht bearbeiten bis der Ausbau des Gebäudes abgeschlossen oder abgebrochen wurde.";
+
+translate "Blueprints"
+to german "Bauplan";
+
+translate "You can edit the blueprints for"
+to german "Du kannst den Bauplan für";
+
+translate "this building, then use the"
+to german "dieses Gebäude ändern. Danach benutze die";
+
+translate "blueprints to alter the building."
+to german "Entwürfe, um das Gebäude zu verändern.";
+
+translate "Edit Blueprints"
+to german "Bearbeite den Bauplan";
+
+translate "Cannot edit blueprints while construction in progress."
+to german "Man kann den Bauplan nicht ändern während der Bau in Arbeit ist.";
+
+translate "The blueprints were stored. You may now load the materials to alter the building."
+to german "Der Bauplan wurde erstellt. Du kannst nun damit beginnen das Material zur Veränderung zu deponieren.";
+
+translate "Discard Blueprints Entirely?"
+to german "Verwerfe den Bauplan vollständig?";
+
+translate "Choose Color"
+to german "Wähle eine Farbe";
+
+translate "Abandon Building Alterations"
+to german "Breche die Gebäudeveränderung ab";
+
+translate "Are you sure you want to abandon the upgrade?"
+to german "Bist du sicher, dass du den Gebäudeausbau abbrechen möchtest?";
+
+translate "Upgrade is still in progress."
+to german "Ausbau bereits in Arbeit.";
+
+translate "Load Materials for Blueprints"
+to german "Lade Material für den Bauplan";
+
+translate "To alter this building, you need:"
+to german "Um das Gebäude zu verändern benötigst du:";
+
+translate "Load Materials"
+to german "Lade Material";
+
+translate "Construction is already in progress."
+to german "Bau ist bereits in Arbeit.";
+
+translate "You must abandon existing construction"
+to german "Du musst den aktuellen Bau abbrechen,";
+
+translate "before you can start new construction."
+to german "bevor du einen neuen beginnen kannst.";
+
+translate "Abandon Construction on O1"
+to german "Breche den Bau von O1(sn) ab";
+
+translate "The construction seems to have stopped.  This is a bug.  Please contact eGenesis."
+to german "Es scheint, als wäre der Bau gestoppt worden. Dies ist ein Bug. Bitte kontaktiere einen Mitarbeiter von eGenesis.";
+
+translate "The Canopy already contains a construction site. You must finish the existing construction before starting something new."
+to german "Die Werkstatt enthält bereits eine Baustelle. Du musst erst die bestehende Konstruktion beenden, bevor du eine neue starten kannst.";
+
+translate "The Canopy blueprints are being edited. You cannot install a construction site while the blueprints are in flux."
+to german "Die Baupläne der Werkstatt werden bearbeitet. Du kannst keine Baustelle erstellen während die Entwürfe in Arbeit sind.";
+
+translate "The shape of the canopy has been altered.  You will have to restart construction."
+to german "Die Form der Werkstatt wurde verändert. Du musst den Bau neu beginnen.";
+
+translate "The new O1 is overlapping an already-existing O2"
+to german "Dieses neue O1(sn) liegt über einem anderen O2(sn)";
+
+translate "Walls up"
+to german "Wände anzeigen";
+
+translate "Walls down"
+to german "Wände ausblenden";
+
+translate "Choose an initial style for your"
+to german "Wähle eine Bauart für deine";
+
+translate "compound. After you build it, you"
+to german "Werkstatt. Sobald du sie gebaut hast,";
+
+translate "can completely change the style."
+to german "kannst du den Stil komplett verändern.";
+
+translate "Initial Style: Octagon Vault"
+to german "Bauart: Achteck-Gewölbe";
+
+translate "Initial Style: Gem Facets"
+to german "Bauart: Edelsteinfacetten";
+
+translate "Initial Style: Three Watchtowers"
+to german "Bauart: Die 3 Wachtürme";
+
+translate "Initial Style: Classical Columns"
+to german "Bauart: Klassische Säulen";
+
+translate "Initial Style: Step Pyramids"
+to german "Bauart: Stufenpyramiden";
+
+translate "Initial Style: Octec's Wheel"
+to german "Bauart: Octec's Rad";
+
+translate "Initial Style: Temple"
+to german "Bauart: Tempel";
+
+translate "Initial Style: Sunburst"
+to german "Bauart: Sonnenstrahl";
+
+translate "Initial Style: Falcon"
+to german "Bauart: Falke";
+
+translate "By order of the Compound Placement Law, by Lewbis, it is illegal to build here."
+to german "Per Werkstattplatzierungsgesetz, eingeführt von Lewbis, ist es nicht erlaubt hier zu bauen.";
+
+translate "By order of the Compound Placement Law, by Lewbis, building near somebody's Home Marker is illegal."
+to german "Per Werkstattplatzierungsgesetz, eingeführt von Lewbis, ist das Bauen in der Nähe von Jemandes Anderen Heimatpunkt nicht erlaubt.";
+
+translate "You can't build this close to a chariot stop."
+to german "Du kannst nicht so nahe an einer Streitwagenhaltebucht bauen";
+
+translate "This style of compound does not fit at this location, the land is not flat enough, or it is too close to a road."
+to german "Die Bauart der Werkstatt passt nicht an diese Stelle, das Land ist nicht flach genug oder es ist zu nahe an einer Strasse.";
+
+translate "Caution: the land near a compound must be flat in order to expand the compound, and not too close to a road. In this location, N1 out of 49 nearby cells are usable. Continue?"
+to german "Achtung: das Land um deine Werkstatt herum muss flach sein, damit du erweitern kannst und darf nicht zu nahe an einer Strasse liegen. An dieser Stelle, sind N1 Zellen von 49 nutzbar. Fortfahren? ";
+
+translate "Sloped"
+to german "Schräge";
+translate "Sloped, Simple"
+to german "Schräge, einfach";
+translate "Sloped, Wide Left"
+to german "Schräge, Breite links";
+translate "Sloped, Wide Right"
+to german "Schräge, Breite rechts";
+translate "Sloped, Wide Both"
+to german "Schräge, Breiten beidseitig";
+
+translate "Stairstep"
+to german "Treppenstufe";
+translate "Stairstep, Simple"
+to german "Treppenstufen, einfach";
+translate "Stairstep, Wide Left"
+to german "Treppenstufen, Breite links";
+translate "Stairstep, Wide Right"
+to german "Treppenstufen, Breite rechts";
+translate "Stairstep, Wide Both"
+to german "Treppenstufen, Breiten beidseitig";
+
+translate "Sloped Special"
+to german "Spezielle Schräge";
+translate "Sloped, No Trim"
+to german "Schräge, keine Kanten";
+translate "Sloped, Roof Unit"
+to german "Schräge, Erhöhung des Daches";
+translate "Sloped, Alcove"
+to german "Schräge, Laube";
+
+translate "Extruded Wall"
+to german "Hervorstehende Mauer";
+
+translate "Wide Left"
+to german "Breite links";
+
+translate "Wide Right"
+to german "Breite rechts";
+
+translate "Wide Both"
+to german "Breiten beidseitig";
+
+translate "Columns"
+to german "Säulen";
+translate "Cylinder Column"
+to german "Zylindersäule";
+translate "Cylinder Column Pair"
+to german "Zylindersäulenpaar";
+translate "Obelisk Column"
+to german "Obeliskensäule";
+translate "Obelisk Column Pair"
+to german "Obeliskensäulenpaar";
+
+translate "Wedges"
+to german "Keile";
+translate "Extruded Left"
+to german "Links hervorgehoben";
+translate "Extruded Right"
+to german "Rechts hervorgehoben";
+translate "Extruded Center"
+to german "Mitte hervorgehoben";
+translate "Extruded Edges"
+to german "Ecken hervorgehoben";
+
+translate "Blueprint Editor"
+to german "Bauplan verändern";
+
+translate "Plaster Floors"
+to german "Boden verlegen";
+translate "Medium Yellow"
+to german "Mittleres Gelb";
+translate "Medium Red"
+to german "Mittleres Rot";
+translate "Dark Blue"
+to german "Dunkles Blau";
+translate "Dark Grey"
+to german "Dunkles Grau";
+
+translate "Marble Floors"
+to german "Marmorboden";
+translate "Oyster Shell Marble"
+to german "Austermuschel-Marmor";
+translate "Canary Granite"
+to german "Kanarischer Granit";
+translate "Cherry Travertine"
+to german "Kirschroter Travertin";
+translate "Blue Pearl Marble"
+to german "Mattblauer Marmor";
+
+
+translate "Ceiling Type"
+to german "Art des Daches";
+translate "Flat Ceiling"
+to german "Ebenes Dach";
+translate "Stud Ceiling"
+to german "Hochliegendes Dach";
+translate "Small Pyramid"
+to german "Kleine Pyramide";
+
+
+translate "Earthtone Light (free)"
+to german "Erdfarbe Licht (umsonst)";
+translate "Earthtone Yellow (free)"
+to german "Erdfarbe Gelb (umsonst)";
+translate "Earthtone Red (free)"
+to german "Erdfarbe Rot (umsonst)";
+translate "Earthtone Grey (free)"
+to german "Erdfarbe Grau (umsonst)";
+translate "Earthtone Brown (free)"
+to german "Erdfarbe Braun (umsonst)";
+translate "Earthtone Black (free)"
+to german "Erdfarbe Schwarz (umsonst)";
+
+translate "Light Sky Blue (Special Free)"
+to german "Erdfarbe Himmelblau (Spezial umsonst)";
+translate "Indian Red (Special Free)"
+to german "Indigorot (Spezial umsonst)";
+translate "Forest Green (Special Free)"
+to german "Waldgrün (Spezial umsonst)";
+
+translate "Brick"
+to german "Ziegel";
+translate "Blocks"
+to german "Blöcke";
+
+translate "Arcs"
+to german "Bögen";
+translate "Stripes"
+to german "Streifen";
+
+translate "There is an indoor construction site inside"
+to german "Es befindet sich eine Baustelle in der Werkstatt.";
+translate "the compound.  You must finish the existing"
+to german "Du musst diese erst beenden oder abbrechen, bevor";
+translate "construction before starting something new."
+to german "du etwas Neues in die Werkstatt bauen kannst.";
+
+translate "Materials have already been loaded. You must finish or abandon the upgrade before you can edit the blueprints further."
+to german "Materialien wurden bereits geladen. Du musst die Erweiterung erst beenden oder abbrechen, bevor du den Bauplan bearbeiten kannst.";
+
+translate "You can't edit blueprints while performing maintenance."
+to german "Du kannst den Bauplan nicht während laufenden Wartungsarbeiten bearbeiten.";
+
+translate "The blueprints have been altered. You can now load materials to alter the compound itself."
+to german "Der Bauplan wurde verändert. Du kannst nun Materialien einladen um die Werkstatt selbst zu verändern";
+
+translate "No Paint in your Inventory"
+to german "Keine Farbe in deinem Inventar";
+
+translate "Sector cannot be removed: original sector."
+to german "Der Sektor kann nicht entfernt werden: Ursprungssektor.";
+
+translate "Sector cannot be removed: not empty."
+to german "Der Sektor kann nicht entfernt werden: Nicht leer.";
+
+translate "Sector cannot be added: terrain not flat, or too close to a road."
+to german "Der Sektor kann nicht hinzugefügt werden: Gebiet ist nicht flach oder zu nahe an einer Straße.";
+ 
+translate "Are you sure you want to abandon the compound alterations entirely?"
+to german "Bist du sicher, dass du die Werkstattänderungen dauerhaft abbrechen möchtest?";
+ 
+translate "Alterations completed without any material cost."
+to german "Die Änderungen wurden ohne Materialkosten vervollständigt.";
+ 
+translate "upgrade"
+to german "Erweiterung";
+ 
+translate "To alter this building, you need:"
+to german "Zum Abändern dieses Gebäudes brauchst du:";
+ 
+translate "Edit the blueprints for this compound,"
+to german "Bearbeite den Bauplan dieser Werkstatt";
+ 
+translate "then use the blueprints to make changes."
+to german "und nutze sie dann für Änderungen";
+ 
+translate "The blueprints are unaltered."
+to german "Der Bauplan ist unverändert";
+
+translate "Tear down this Compound"
+to german "Reisse diese Werkstatt ab";
+
+translate "This Compound belongs to the Public"
+to german "Diese Werkstatt gehört der Öffentlichkeit";
+
+translate "This Compound belongs to U1"
+to german "Diese Werkstatt gehört U1(name)";
+
+translate "This Compound belongs to Unknown"
+to german "Diese Werkstatt gehört niemandem";
+
+//translate "Built K1 ago by K2"
+//to german "Erbaut vor K1 von K2";
+
+//translate "You built it K1 ago. K2"
+//to german "Von Dir erbaut vor K1. K2";
+
+translate "Too close to growing plants"
+to german "Zu nahe an wachsenden Pflanzen.";
+
+translate "By order of the trial account compound law, introduced by Taral, those with unpaid account may only build one "
+to german "Nach dem 'trial account compound law', eingeführt von Taral, dürfen Trials nur eine Werkstatt bauen.";
+
+translate "compound. Tear down the compound at K1 before building another."
+to german "Werkstatt. Reisse die Werkstatt bei K1 ab, bevor du eine Andere baust.";
+
+translate "Utility/Reposition this O1"
+to german "Optionen/Versetze O1(tsd) O1(sd)";
+
+translate "You are already building"
+to german "Du baust bereits";
+
+translate "This can not be rotated."
+to german "Dies kann nicht gedreht werden.";
+
+translate "You did not successfully position the building inside the compound."
+to german "Du konntest das Gebäude innerhalb deiner Werkstatt nicht erfolgreich versetzen.";
+
+translate "The Canopy contains a construction site. "
+to german "Diese Werkstatt beinhaltet eine Baustelle. ";
+
+translate "You must finish the existing construction before moving anything around."
+to german "Du musst zuerst die bestehende Baustelle abschliessen, bevor du etwas verschieben kannst.";
+
+translate "The shape of the compound has been altered.  You will have to restart construction."
+to german "Die Form der Werkstatt hat sich verändert. Du musst den Bau neu beginnen.";
+
+translate "The compound is undergoing a blueprint "
+to german "Die Werkstatt ist mit einer Entwurfserweiterung ";
+translate "upgrade. You must finish or abandon the"
+to german "beschäftigt. Du musst diese vollenden oder ";
+translate "upgrade before you can install equipment."
+to german "abbrechen, bevor du neue Projekte beginnen kannst.";
+
+translate "The compound is undergoing a blueprint upgrade. You must finish or abandon the upgrade before you can install equipment."
+to german "Die Werkstatt ist mit einer Entwurfserweiterung beschäftigt. Du musst diese vollenden oder abbrechen, bevor du neue Projekte beginnen kannst.";
+
+translate "The new K1 is overlapping an already-existiting O1"
+to german "Das neu gebaute Gebäude K1 überlappt ein bereits existierendes Gebäude O1(sn)";
+
+translate "..."
+to german "...";
+
+translate "Are you sure you want to tear down this compound?"
+to german "Bist du sicher, dass du die Werkstatt abreißen möchtest?";
+translate "Tearing down the Compound..."
+to german "Werkstatt wird abgerissen...";
+translate "You must first tear down everything inside the compound."
+to german "Du musst zuerst alles innerhalb der Werkstatt abreißen.";
+translate "You must first clear any projects that are in progress."
+to german "Du musst zuerst alle angefangenen Projekte löschen.";
+translate "The compound was so well used that you were not able to recover any useable materials from it."
+to german "Die Werkstatt wurde so oft genutzt, dass du nicht in der Lage warst, irgendwelche brauchbaren Materialien zurück zu bekommen.";
+
+translate "Flax (for roof overthatching)"
+to german "Flachs (Dachabdeckung)";
+translate "Straw (for roof underthatching)"
+to german "Stroh (Dachisolierung)";
+
+translate "(N1 K1 facade)"
+to german "(N1 K1 Fassade)";
+translate "(N1 K1 floor)"
+to german "(N1 K1 Boden)";
+translate "(N1 K1 ceiling)"
+to german "(N1 K1 Decke)";
+

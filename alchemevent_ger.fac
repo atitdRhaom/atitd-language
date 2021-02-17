@@ -1,0 +1,102 @@
+module alchemevent_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//**            German Version: Astrid "Infinyti" Werner                   **
+//**                            2012                                       **
+//**                                                                       **
+//***************************************************************************
+
+translate PotteryShard to german feminine
+{
+  swa "Tonscherbe";
+    sn "Tonscherbe"; sg "Tonscherbe"; sd "Tonscherbe"; sa "Tonscherbe";
+    pn "Tonscherben"; pg "Tonscherben"; pg "Tonscherben"; pa "Tonscherben";
+}
+
+translate tincturerecipe to german neuter
+{
+  swa "Tinkturrezept";
+    sn "Tinkturrezept"; sg "Tinkturrezepts"; sd "Tinkturrezept"; sa "Tinkturrezept";
+    pn "Tinkturrezepte"; pg "Tinkturrezepte"; pg "Tinkturrezepten"; pa "Tinkturrezepte";
+}
+
+
+translate "Shard"
+to german "Scherbe";
+
+translate "Dig under the roots of the tree"
+  to german "Grabe unter den Wurzeln des Baumes";
+
+translate "You inspect the soil and roots and, while you do find evidence of digging, find no evidence of clay shards."
+  to german "Du untersuchst die Wurzeln und das Erdreich, aber du findest keine Anzeichen von Tonscherben.";
+
+translate "You inspect the virgin soil and see no sign of clay shards."
+  to german "Du untersuchst das unberührte Erdreich und findest keine Anzeichen von Tonscherben.";
+
+translate "Although there are signs of clay shards, you are quite sure that the root system has been thoroughly searched, and all shards retrieved."
+  to german "Auch wenn da Anzeichen von Tonscherben sind, bist du sicher, dass die Wurzeln bereits durchsucht und alle Tonscherben geborgen wurden.";
+
+translate "You look carefully, but can't find any shards. Perhaps others would have more luck?"
+  to german "Du schaust sorgfältig nach, aber findest keine Scherben. Vielleicht hätten andere mehr Glück?";
+
+translate "You find shard N1 of clay tablet number N2"
+  to german "Du findest Scherbe Nummer N1 der Tontafel N2";
+
+translate "Read Assembled Recipe"
+  to german "Lese das zusammengesetzte Rezept";
+
+translate "Can't read the recipe - call a developer."
+  to german "Kann das Rezept nicht lesen - rufe einen Entwickler.";
+
+translate "Recipe for Tincture K1:"
+  to german "Rezept für Tinktur K1:";
+
+translate "7 Grain Spirits of Water (or better)"
+  to german "7 Tropfen Branntwein (oder besser)";
+
+translate "N1 O1 (Component of Sun)"
+  to german "N1 O1(N1?pn:sn) (Komponente der Sonne)";
+
+translate "N1 O1 (Component of Moon)"
+  to german "N1 O1(N1?pn:sn) (Komponente des Mondes)";
+
+translate "N1 O1 (Component of Stars)"
+  to german "N1 O1(N1?pn:sn) (Komponente der Sterne)";
+
+translate "Assemble Tablet"
+  to german "Tafel zusammenbauen";
+
+translate "Number N1"
+  to german "Nummer N1";
+
+translate "You did it! You assembled tablet number N1 which gives detailed instructions for making Tincture K1:\n"
+  to german "Du hast es geschafft! Du hast die Tontafel Nr. N1 zusammengesetzt, welche dir detailierte Anweisungen zur Herstellung der folgender Tinktur verrät:";
+
+translate  "In an assimilation bath, place 7 drops of Water Spirits of Grain (or better), and add components as follows:  Sun: K1(K2)"
+  to german "Träufle 7 Tropfen Getreidebranntwein (oder besser) in ein Assimilationsbad und füge folgende Zutaten hinzu:  Sonne: K1(K2)";
+
+translate  "In an assimilation bath, place 7 drops of Water Spirits of Grain (or better), and add components as follows:  Stars: K1(K2)"
+  to german "Träufle 7 Tropfen Getreidebranntwein (oder besser) in ein Assimilationsbad und füge folgende Zutaten hinzu:  Sterne: K1(K2)";
+
+translate  "In an assimilation bath, place 7 drops of Water Spirits of Grain (or better), and add components as follows:  Moon: K1(K2)"
+  to german "Träufle 7 Tropfen Getreidebranntwein (oder besser) in ein Assimilationsbad und füge folgende Zutaten hinzu:  Mond: K1(K2)";
+
+translate "You don't have all N1 shards of tablet N2"
+  to german "Du hast nicht alle N1 Scherben der Tontafel N2";
+
+translate "Alchemic Alignment: K1"
+  to german "Alchemische Ausrichtung: K1";
+
+translate "The vision is unclear. Find a more solitary spot."
+  to german "Die Vision ist undeutlich. Suche nach einem einsameren Ort.";
+
+translate "The vision is confused, as if someone in the group doesn't belong."
+  to german "Die Vision ist verwirrend, als ob jemand in der Gruppe nicht hierher gehören würde.";
+
+translate "The vision is fleeting. Gather more alchemists."
+  to german "Die Vision verflüchtigt sich. Versammle mehr Alchemisten.";
+
+translate "Your group receives a vision. Each member is now able to perform the Alchemical Reaction: K1."
+  to german "Deine Gruppe empfängt eine Vision. Jedes Mitglied ist nun befähigt, folgende alchemische Verbindung herzustellen: K1.";

@@ -1,0 +1,53 @@
+module petrol_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002,2003,2004,2005 by MDO Entertainment               **
+//**                                                                       **
+//***************************************************************************
+//menues
+
+translate AlternativeFuels to german feminine
+{
+  swa "Alternative Energie";
+  sn "Alternative Energie"; sg "Alternative Energie"; sd "Alternative Energie"; sa "Alternative Energie";
+  pn "Alternative Energie"; pg "Alternative Energie"; pd "Alternative Energie"; pa "Alternative Energie";
+}
+
+translate TarPit to german masculine
+{
+  swa "Teerpfuhl";
+  sn "Teerpfuhl"; sg "Teerpfuhls"; sd "Teerpfuhl"; sa "Teerpfuhl";
+  pn "Teerpfuhle"; pg "Teerpfuhle"; pd "Teerpfuhlen"; pa "Teerpfuhle";
+}
+
+translate Tar to german masculinecollective
+{
+  swa "Teer";
+  sn "Teer"; sg "Teers"; sd "Teer"; sa "Teer";
+  pn "Teer"; pg "Teer"; pd "Teer"; pa "Teer";
+}
+
+
+translate "Basic tech (nothing new to build), opens other technology, quick research"
+to german "Basistechnologie (nichts Neues zu Bauen), eröffnet andere Technologien";
+
+translate "Advances Egypt from the Metal Age to the Cultural Age"
+to german "Befördert Kemet vom Metallzeitalter zum Kulturzeitalter";
+
+translate "TheScienceOfMetal (Completed)"
+to german "Wissenschaft des Metalls (Komplett)";
+
+translate "This is a Tar Pit"
+to german "Dies ist ein Teerpfuhl";
+
+translate "-"
+to german "-";
+
+translate "Gather some Tar"
+to german "Nimm etwas Teer";
+
+
+

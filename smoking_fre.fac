@@ -1,0 +1,313 @@
+module smoking_fre;
+
+
+translate HookahUpgradeCertificate to french masculine
+{
+  ns "Bon d'amélioration de narghilé"; np "Bons d'amélioration de narghilé";
+}
+
+translate HookahUpgradeCertificate2 to french masculine
+{
+  ns "Bon d'amélioration de narghilé"; np "Bons d'amélioration de narghilé";
+}
+translate "Fumeology"
+to french "Fumette";
+
+translate "Hookah"
+to french "Narghilé";
+
+translate "Build a Hookah"
+to french "Fabriquer un narghilé";
+
+translate "To build a Hookah, you need:"
+to french "Pour fabriquer un narghilé, il vous faut:";
+
+translate "Clean the Bowl"
+to french "Nettoyer le récipient";
+
+translate "You need a jug of water."
+to french "Il vous faut une cruche remplie d'eau";
+
+translate "You clean the hookah bowl."
+to french "Vous nettoyez le récipient du narghilé.";
+
+translate "Quality N1 belonging to U1 at N2 N3"
+to french "Qualité N1 détenu par U1(name) en N2 N3";
+
+translate "Add some Herbs"
+to french "Ajouter des herbes";
+
+translate "The Hookah now contains some O1."
+to french "Le narghilé contient de la O1(ns).";
+
+translate "The Hookah now contains a mixture of N1 herbs."
+to french "Le narghilé contient un mélange de N1 herbes";
+
+translate "Light the Hookah"
+to french "Allumer le narghilé";
+
+translate "You need 1 piece of charcoal."
+to french "Il vous faut un morceau de charbon de bois.";
+
+translate "This hookah contains: O1"
+to french "Ce narghilé contient : O1(ns)";
+
+translate "This hookah contains: O1, O2"
+to french "Ce narghilé contient : O1(ns), O2(ns)";
+
+translate "This hookah contains: O1, O2, O3"
+to french "Ce narghilé contient : O1(ns), O2(ns), O3(ns)";
+
+translate "This hookah contains: O1, O2, O3, O4"
+to french "Ce narghilé contient : O1(ns), O2(ns), O3(ns), O4(ns)";
+
+translate "This hookah contains: O1, O2, O3, O4, O5"
+to french "Ce narghilé contient : O1(ns), O2(ns), O3(ns), O4(ns),
+O5(ns)";
+
+translate "Clean"
+to french "Propre";
+
+translate "Interesting"
+to french "Intéressante";
+
+translate "Complex"
+to french "Complexe";
+
+translate "Muddled"
+to french "Embrouillée";
+
+translate "Smokey"
+to french "Enfumée";
+
+translate "Burnt"
+to french "Brûlée";
+
+translate "Woody"
+to french "Boisée";
+
+translate "Toasty"
+to french "Toastée";
+
+translate "Harsh"
+to french "Apre";
+
+translate "Mellow"
+to french "Douce";
+
+translate "Dry"
+to french "Sèche";
+
+translate "Bitter"
+to french "Amère";
+
+translate "Astringent"
+to french "Astringente";
+
+translate "Oily"
+to french "Huileuse";
+
+translate "Hot"
+to french "Chaude";
+
+translate "Spicy"
+to french "Epicée";
+
+translate "Sweet"
+to french "Sucrée";
+
+translate "Antiseptic"
+to french "Antiseptique";
+
+translate "Creamy"
+to french "Crémeuse";
+
+translate "Rough"
+to french "Rêche";
+
+translate "Dried Apples"
+to french "Pommes séchées";
+
+translate "Roasted Onions"
+to french "Oignons rôtis";
+
+translate "Exotic Spices"
+to french "Epices exotiques";
+
+translate "Candy"
+to french "Bonbons";
+
+translate "Chocolate"
+to french "Chocolat";
+
+translate "Stewed Vegetables"
+to french "Légumes mijotés";
+
+translate "Dried Cherries"
+to french "Cerises séchées";
+
+translate "Leather"
+to french "Cuir";
+
+translate "Pine"
+to french "Pin";
+
+translate "Cedar"
+to french "Cèdre";
+
+translate "Maple"
+to french "Erable";
+
+translate "Oak"
+to french "Chêne";
+
+translate "Earth"
+to french "Terre";
+
+translate "Moss"
+to french "Mousse";
+
+translate "Licorice"
+to french "Réglisse";
+
+translate "Lead Pencil"
+to french "Mine de plomb";
+
+translate "Berries"
+to french "Baies";
+
+translate "Pepper"
+to french "Poivre";
+
+translate "Minerals"
+to french "Minéraux";
+
+translate "Roasted Nuts"
+to french "Noix grillées";
+
+translate "Smoldering Paper"
+to french "Papier fumant";
+
+translate "Camel Dung"
+to french "Crottin de chameau";
+
+translate "Rotting Flesh"
+to french "Chair pourrissante";
+
+translate "Sulfur"
+to french "Soufre";
+
+translate "This hookah contains: "
+to french "Ce narghilé contient : ";
+
+translate "Smoke the Hookah"
+to french "Tirer une bouffée";
+
+translate "The smoke is K1 and K2 in your mouth, with an aroma of K3."
+to french "La fumée est K1 et K2 en bouche, avec un arôme de K3.";
+
+translate "The smoke was pure, but nothing new was revealed."
+to french "La fumée était pure, mais n'a pas donné de nouvelle révélation.";
+
+translate "You puff gently on the Hookah."
+to french "Vous crapautez gentiment sur le narghilé.";
+
+translate "You puff gently on the Hookah. The smoke is K1 and K2 in your mouth, with an aroma of K3. (Your fumeology score is now N1)"
+to french "Vous crapautez gentiment sur le narghilé. la fumée est K1 et K2 en bouche, avec un arôme de K3. (Votre score en fuméologie est maintenant de N1)";
+
+translate "You draw smoothly on the Hookah, and smile. The smoke is K1 and K2 in your mouth, with an aroma of K3. (Your Fumeology score is now N1)"
+to french "Vous tirez doucement sur le narghilé, et souriez. La fumée est K1 et K2 en bouche, avec un arôme de K3 (Votre score en Fumette est maintenant de N1).";
+
+translate "You draw smoothly on the Hookah, and smile."
+to french "Vous tirez doucement sur le narghilé, et souriez.";
+
+translate "You inhale the smoke of the Hookah, relax, and exhale to the sky."
+to french "Vous inhalez la fumée du narghilé, et exhalez vers le ciel.";
+
+translate "You drink in the smoke. You notice the simple beauty of the Hookah bowl, and marvel at its clarity."
+to french "Vous buvez la fumée. Vous remarquez la beauté simple du bol du narghilé, et vous vous émerveillez de sa transparence.";
+
+translate "The smoke meets your lips like a first kiss. You caress the Hookah back."
+to french "La fumée semble à vos lèvres comme un premier baiser. Vous caressez le narghilé en retour.";
+
+translate "A soft, white cat brushes against your leg. You pick it up to stroke it, but - what is this? - There is no cat, just the wisps of gentle smoke."
+to french "Un chat blanc et doux se frotte contre votre jambe. Vous le ramassez pour le caresser, mais - qu'est ce donc ? - Il n'y a pas de chat, seulement les volutes d'une douce fumée.";
+
+translate "The Hookah smoke fills your lungs. You notice the beauty of your surroundings, the soft sounds, the breeze."
+to french "La fumée du narghilé emplie vos poumons. Vous remarquez la beauté des environs, la douceur de vivre, la brise.";
+
+translate "You inhale the warm smoke. Peace, harmony."
+to french "Vous inhalez la chaude fumée. Paix, harmonie.";
+
+translate "You inhale the warm smoke. A fleeting glimpse of a farmer growing crops, while beetles scamper around. What could it mean?"
+to french "Vous inhalez la chaude fumée. Une brève vision d'un fermier s'occupant de ses récoltes, tandis que des scarabées s'affairent autour. Que pourrait signifier ceci ?";
+
+translate "A gentle wisdom comes over you as the smoke trails from your mouth."
+to french "Une douce sagesse s'installe en vous, tandis que la fumée s'échappe de votre bouche.";
+
+translate "As you sip the smoke, you are one with Egypt."
+to french "Alors que vous sirotez la fumée, vous ne faites qu'un avec l'Egypte";
+
+
+translate "You inhale the smoke of the Hookah, relax, and exhale to the sky. The smoke is K1 and K2 in your mouth, with an aroma of K3. (Your Fumeology score is now N1)"
+to french "Vous inhalez la fumée du narghilé, et exhalez vers le ciel. La fumée est K1 et K2 en bouche, avec un arôme de K3. (Votre score de Fumette est maintenant de N1)";
+
+translate "The Hookah smoke fills your lungs. You notice the beauty of your surroundings, the soft sounds, the breeze. The smoke is K1 and K2 in your mouth, with an aroma of K3. (Your Fumeology score is now N1)"
+to french "La fumée du narghilé emplit vos poumons. Vous remarquez la beauté du paysage, les bruits légers, la brise. La fumée est K1 et K2 en bouche, avec un arôme de K3. (Votre score de Fumette est maintenant de N1)";
+
+
+translate "K1 (Your Fumeology score is now N1)"
+to french "K1 (Votre score de Fumette est maintenant de N1)";
+
+translate "You smoke the last bit of herbs."
+to french "Vous fumez les derniers brins d'herbes.";
+
+translate "A wonderful bow of herbs, enjoyed with friends. Alas, no new friends partook of the mellow smoke with you."
+to french "Un merveilleux bol d'herbes, partagé entre amis. Hélas, aucun nouvel ami n'a participé à cette douce fumée avec vous.";
+
+translate "Nobody"
+to french "Personne";
+
+translate "Could not set quality - call Pharaoh"
+to french "Impossible d'attribuer une qualité - appelez Pharaon";
+
+translate "Great Egyptian Smoke-Out Prize"
+to french "Prix de la Grande Fumette égyptienne";
+
+translate "Upgrade an existing Hookah with Decorations"
+to french "Décorer un narghilé existant";
+
+translate "Which Hookah?"
+to french "Quel narghilé ?";
+
+translate "You must select a Hookah."
+to french "Vous devez sélectionner un narghilé.";
+
+translate "That Hookah was already decorated."
+to french "Ce narghilé a déjà été décoré.";
+
+translate "Are you sure you want to upgrade the Hookah? You can either upgrade a Hookah, or get a free Quality 3000 one, but not both."
+to french "Etes-vous sûr de vouloir améliorer ce narghilé ? Vous pouvez soit améliorer un narghilé, soit en obtenir gratuitement un de qualité 3000, mais pas les deux.";
+
+translate "Ask for a Quality-3000 Decorative Hookah"
+to french "Demander un narghilé décoratif de qualité 3000";
+
+translate "Are you sure you want to get a Hookah? You can either Decorate an existing Hookah, or get a free Quality 3000 one, but not both."
+to french "Etes-vous sûr de vouloir demander un narghilé ? Vous pouvez soit améliorer un narghilé, soit en obtenir gratuitement un de qualité 3000, mais pas les deux.";
+
+translate "Quality 3000"
+to french "Qualité 3000";
+
+translate "Check my Great Egyptian Smoke-Out Score"
+to french "Vérifier mon score dans la Grande Fumette égyptienne";
+
+translate "You have smoked with at least N1 friends."
+to french "Vous avez fumé avec au moins N1 amis.";
+
+translate "You have added N1 Fumeology Points during the Smoke-Out."
+to french "Vous avez gagné N1 points de Fumette durant la GrandeFumette.";
+
+translate "Quality N1 hookah owned by U1"
+to french "Narghilé de qualité N1 appartenant à U1(name)";
+
+

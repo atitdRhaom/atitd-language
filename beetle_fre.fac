@@ -1,0 +1,589 @@
+module beetle_fre;
+
+//objects
+
+translate Scarabs to french masculine
+{
+ns "L'épreuve des Enfants de Khefre"; np "L'épreuve des Enfants de Khefre";
+}
+
+translate Terrarium to french masculine
+{
+ns "Terrarium"; np "Terrariums";
+}
+
+translate Inventory to french masculine
+{
+ns "Inventaire"; np "Inventaires";
+}
+
+translate Entomology to french feminine
+{
+ns "Entomologie"; np "Entomologie"; 
+}
+
+translate Beetle to french masculine
+{
+ns "Scarabée"; np "Scarabées";
+}
+
+translate Limestone to french feminine
+{
+ns "Calcaire"; np "Calcaires";
+}
+
+translate ScarabAlcove to french feminine
+{
+ns "Alcôve à scarabées"; np "Alcôves à scarabées";
+}
+
+translate ScarabGarden to french masculine
+{
+ns "Jardin à scarabées"; np "Jardins à scarabées";
+}
+
+translate BeetleCert to french feminine
+{
+ns "Certificat de scarabée"; np "Certificats de scarabées";
+}
+
+translate BugWrangling to french feminine
+{
+ns "Elevage de scarabées"; np "Elevage de scarabées"; 
+}
+
+translate khefreslocker to french masculine
+{
+ns "Casier de Khefre"; np "Casiers de Khefre";
+}
+
+//menues
+
+Translate "mulch"
+to french "Ecraser";
+
+translate "You can only compete one beetle at a time.  "
+to french "Vous ne pouvez exposer qu'un seul scarabée à la fois.";
+
+translate "It contains K1 cabbage."
+to french "Il contient K1 choux.";
+
+translate "View Beetle"
+to french "Voir les scarabés";
+
+translate "In Terrarium"
+to french "Dans le terrarium";
+
+translate "In Inventory"
+to french "Dans votre inventaire";
+
+translate "Are you sure you wish to do this?"
+to french "Etes-vous certain de vouloir faire cela?";
+
+translate "You are not carrying a certificate that shows you are Rank N1.  You need to go get one."
+to french "Vous n'avez pas le certificat montrant que vous êtes de niveau N1. Vous en posséder un.";
+
+translate "Your beetle is a Rank-N1 beetle, but this is a Rank-N2 arena."
+to french "Votre scarabée est de niveau N1, mais cette arène est de niveau N2.";
+
+translate "The sculpture has been concealed with a white cover. It will be revealed when the judging starts."
+to french "La sculpture a été dissimulée sous un voile blanc. Elle sera dévoilée au début du jugement.";
+
+translate "The Scarab Garden has filled: judging has commenced! Your beetle will be on exhibit for N1 hours."
+to french "Le Jardin à Scarabées est complet, le jugement vient de commencer ! Votre scarabée sera exposé pendant N1 heures.";
+
+translate "Congratulations! You have demonstrated your ability at handling insects.  The school of the Human Body is willing to sell you some new bug-related skills."
+to french "Félicitations ! Vous pouvez maintenant exposer un scarabée à un Jardin de niveau supérieur.";
+
+translate "Your beetle K1 was not among the best.  It has been demoted back to rank 1."
+to french "Votre scarabée K1 n'était pas parmi les meilleurs. Il a été destitué au grade 1.";
+
+translate "Your beetle K1 was not among the best.  It did not progress."
+to french "Votre scarabée K1 n'était pas parmi les meilleurs. Il n'a pas progressé.";
+
+translate "Your beetle K1 was rated among the best!  It is now rank N1"
+to french "Votre scarabée était parmi les meilleurs ! Il est maintenant de grade N1";
+
+translate "Your beetle K1 was rated among the best!  You have received a certificate for your victory.  Examine it using your tests menu.  Do not lose it, and do not rename the beetle."
+to french "Votre scarabée K1 était parmi les meilleurs ! Vous avez reçu un certificat pour votre victoire. Examinez-le en utilisant le menu d'épreuves. Ne le perdez pas, et ne renommez pas votre scarabée.";
+
+translate "Examine Cert K1"
+to french "Examiner le certificat K1";
+
+translate "Examine Cert"
+to french "Examiner le certificat";
+
+translate "This certificate says that U1 reached rank N1 using beetle K1"
+to french "Ce certificat atteste que U1(name) a atteint le niveau N1 grâce au scarabée K1";
+
+translate "Strength of this win: N1"
+to french "Pointage: N1";
+
+translate "Drape this beetle"
+to french "Recouvrir ce scarabée";
+
+translate "Breed Now"
+to french "Reproduire";
+
+translate "Tear Down this Garden"
+to french "Détruire ce jardin";
+
+translate "Tear Down this Garden"
+to french "Détruire ce Jardin";
+
+translate "Name this Garden"
+to french "Baptiser ce jardin";
+
+translate "Name of Garden..."
+to french "Nom du jardin...";
+
+translate "Start the Test of Khefre's Children"
+to french "Commencez l'épreuve des Enfants de Khefre";
+
+translate "You must be signed up for the test of "
+to french "Vous devez vous inscrire à ";
+
+//texts
+
+translate "You must breed the most strange and beautiful scarab beetle that you can.  After encountering some beetles in the wild, you can capture them and raise them in a terrarium.  You must exhibit your beetle at a Scarab garden, and be judged."
+to french "Vous devez élever les plus étranges et les plus beaux des scarabées. Lorsque vous en trouvez dans la nature, vous pouvez les capturer et les élever dans un terrarium. Ensuite, vous pouvez les exposer dans un jardin aux Scarabées et être jugé par les autres.";
+
+translate "The Test of Khefre's Children requires you to breed and display beautiful beetles.  The Principles will guide you on exhibiting your first beetle at a Scarab Garden."
+to french "Dans l'épreuve des Enfants de Khefre, vous devez élever et exposer de magnifiques scarabées. Les principes vous guideront jusqu'à l'exposition de votre premier scarabée dans un Jardin.";
+
+translate "Catch a Wild Beetle"
+to french "Attrapper un scarabée sauvage";
+translate "Place a Male in a Terrarium"
+to french "Mettre un mâle dans un terrarium";
+translate "Place a Female in a Terrarium"
+to french "Mettre une femelle dans un terrarium";
+translate "Breed a Beetle to 0% 50% Ownership"
+to french "Obtenir un scarabée vous appartenant à 0-50%";
+translate "Breed a Beetle to 51% 75% Ownership"
+to french "Obtenir un scarabée vous appartenant à 51-75%";
+translate "Breed a Beetle to 76% 89% Ownership"
+to french "Obtenir un scarabée vous appartenant à 76-89%";
+translate "Breed a Beetle to 90% 99% Ownership"
+to french "Obtenir un scarabée vous appartenant à 90-99%";
+translate "Rename a bred beetle"
+to french "Renommer un scarabée né dans votre térrarium";
+translate "Vote on a Garden"
+to french "Voter à un jardin de scarabées";
+translate "Mix any Reddish Paint"
+to french "Faire une peinture rougeâtre";
+translate "Mix any Yellowish Paint"
+to french "Faire une peinture jaunâtre";
+translate "Exhibit a Beetle in a Garden"
+to french "Exposer un scarabée dans un Jardin";  
+
+translate "Allows breeding of beautiful Scarab Beetles"
+to french "Permet l'élevage de magnifiques scarabées";
+
+translate "Beetle Terrarium"
+to french "Terrarium à scarabées";
+
+translate "To build a Terrarium, you need:"
+to french "Pour construire un terrarium, vous avez besoin de:";
+
+translate "Sculpture Stuff"
+to french "Eléments pour sculptures";
+
+translate "To build a sculpture of this beetle, you will need:"
+to french "Pour créer une sculpture de ce scarabée, il vous faut :";
+
+translate "Load Cabbage into Terrarium"
+to french "Mettre du chou dans le terrarium";
+
+translate "Load how much Cabbage? "
+to french "Quelle quantité de choux ?";
+
+translate "Load how much Cabbage? (Max N1)"
+to french "Quelle quantité de choux ? (Max N1)";
+
+translate "Type in a name:"
+to french "Entrez un nom:";
+
+translate "The beetle is gone."
+to french "Le scarabée s'est échappé.";
+
+translate "Inventory"
+to french "Inventaire";
+
+translate "Take"
+to french "Prendre";
+
+translate "Put"
+to french "Mettre";
+
+translate "free"
+to french "Libérer";
+
+translate "N1% Yours"
+to french "N1% à vous";
+
+translate "No beetles in O1"
+to french "Pas de scarabée dans O1(lns) O1(ns)";
+
+translate "No beetles in Terrarium"
+to french "Pas de scarabée dans le terrarium";
+
+translate "No beetles in Inventory"
+to french "Pas de scarabée dans l'inventaire";
+
+translate "Beetle N1 of N2"
+to french "Scarabée N1 sur N2";
+
+translate "Not Owned"
+to french "Sans propriétaire";
+
+translate "Breed Now"
+to french "Reproduire";
+
+translate "Upgrade with a Thermometer"
+to french "Améliorer avec un thermomètre";
+
+translate "You don't have a Thermometer"
+to french "Vous n'avez pas de thermomètre";
+
+translate "Your Terrarium will now be more efficient (Beetles consume only 2/3 as much cabbage as normal.)"
+to french "Votre terrarium sera maintenant plus efficace (Les scarabées consomment maintenant 2/3 de la quantité régulière de choux.)";
+
+translate "This Alcove is full.  Judging will"
+to french "Cette alcôve est pleine. Le jugement commencera";
+
+translate "begin when all the alcoves are full."
+to french "lorsque les alcôves seront pleines.";
+
+translate "Show me the Front"
+to french "Voir la façade";
+
+translate "This Alcove is ready for Construction"
+to french "Cette alcôve est prête à être construite.";
+
+-- Unable to translate "This is a Rank-",place.Rank," Garden"
+-- tried splitting in parts... may need \k ....
+-- translate "This is a Rank-1" to french "C'est un jardin de niveau N1";
+
+
+translate "Build Statue of Beetle: O1"
+to french "Créer une statue de scarabée : O1(ns)";
+
+translate "You can only submit one beetle every N1 hours. You must wait another N2 hours."
+to french "Vous ne pouvez soumettre qu'un scarabée toutes les N1 heures. Attendez encore N2 heures.";
+
+translate "You may only submit beetles that you raised yourself.  The terrarium must declare the beetle '90% yours' or higher."
+to french "Vous ne pouvez proposer que des scarabées que vous avez élevés par vous-même. Le terrarium doit démontrer que le scarabée est au moins à 90% le vôtre.";
+
+translate "You can only compete one beetle at a time.  By submitting O1 for judging, you are abandoning O2. Are you sure you wish to do this?"
+to french "Vous ne pouvez proposer qu'un scarabée à la fois. Si vous soumettez O1(ns) au jugement des autres, vous abandonnez O2(ns). Voulez-vous vraiment continuer ?";
+
+translate "Beetle construction abandoned."
+to french "Création de scarabée abandonnée.";
+
+translate "Your beetle is a Rank-N1 beetle, but this is a Rank-N2 arena."
+to french "Votre scarabée est de niveau-N1, mais c'est une arène de niveau-N2.";
+
+translate "To build a sculpture of Beetle: K1 you need:"
+to french "Pour créer une sculpture de scarabée: K1 il vous faut :";
+
+translate "Would you like to Proceed?"
+to french "Voulez-vous continuer ?";
+
+translate "Scarab Garden Rank N1 with N2 unfilled."
+to french "Jardin aux Scarabées niveau N1, N2 places disponibles.";
+
+translate "The Scarab Garden has filled: judging has commenced! Your beetle will be on exhibit for N1 hours."
+to french "Le Jardin à Scarabées est complet, le jugement vient de commencer ! Votre scarabée sera exposé pendant N1 heures.";
+
+translate "Judging is in progress."
+to french "Le jugement est en cours.";
+
+translate "Declare this beetle the Best"
+to french "Voter pour ce scarabée";
+
+translate "Set Arena Rank"
+to french "Déterminer le niveau de l'Arène";
+
+translate "Exhibition will last N1 more hours."
+to french "L'exposition durera encore N1 heures.";
+
+translate "The exhibition is over, the statues must now be removed.-Salvage this Statue"
+to french "L'exposition est terminée, les statues doivent être retirées.-Retirer cette statue";
+
+translate "The exhibition is over, the statues must now be removed."
+to french "L'exposition est terminée, les statues doivent être retirées.";
+
+translate "The exhibition is over, the "
+to french "L'exposition est terminée, ";
+
+translate "statues must now be removed."
+to french "les statues doivent être retirées.";
+
+translate "For the first N1 after the exhibition, you can only salvage your own statue.  After that time, you can salvage anyone's. Wait another N2."
+to french "Pendant N1 après l'exposition, vous ne pouvez recycler que votre propre statue. Après, vous pouvez recycler les statues de tout le monde. Attendez encore N2.";
+
+translate "For the first K1 after the exhibition, you can only salvage your own statue.  After that time, you can salvage anyone's. Wait another K2."
+to french "Pendant K1 après l'exposition, vous ne pouvez recycler que votre propre statue. Après, vous pouvez recycler les statues de tout le monde. Attendez encore K2.";
+
+translate "Salvage this Statue"
+to french "Recycler cette statue";
+
+translate "You must wait until all the alcoves are clear before starting a new round of construction."
+to french "Vous devez attendre que toutes les alcôves aient été nettoyées avant de commencer une nouvelle série de constructions.";
+
+translate "You must wait until all the alcoves are clear"
+to french "Vous devez attendre que toutes les alcôves aient été";
+
+translate "before starting a new round of construction."
+to french "avant de commencer une nouvelle série de constructions.";
+
+translate "The scarab garden is filling."
+to french "Le jardin aux Scarabées se remplit.";
+
+translate "There are N1 slots left."
+to french "Il reste N1 places libres.";
+
+translate "Click on an alcove to build a scarab statue."
+to french "Cliquez sur une alcôve pour créer une statue de scarabée.";
+
+translate "The scarab garden is being judged. Click on a beetle to register a vote. So far, N1 judges have voted."
+to french "Le jardin aux Scarabées passe sous jugement en ce moment. Cliquez sur un scarabée pour voter pour lui. Jusqu'ici, N1 juges se sont prononcés.";
+
+translate "The scarab garden is being judged."
+to french "Le jardin aux Scarabées passe sous jugement en ce moment.";
+
+translate "Click on a beetle to register a vote."
+to french "Cliquez sur un scarabée pour voter pour lui.";
+
+translate "So far, N1 judges have voted."
+to french "Jusqu'ici, N1 juges se sont prononcés.";
+
+translate "The scarab garden is open for scavenging. Click on a statue to scavenge it."
+to french "Le jardin aux Scarabées peut être rasé. Cliquez sur une statue pour la détruire.";
+
+translate "You cannot vote: you are an exhibitor."
+to french "Vous ne pouvez pas voter : vous participez à l'exposition.";
+
+translate "Your vote is the last one: the judging is over!"
+to french "Votre vote est le dernier pris en compte. Le jugement est terminé !";
+
+translate "The voting is scheduled to last another K1."
+to french "Plus que K1 avant la fin du vote.";
+
+translate "The Scarab Garden needs about N1 more judges."
+to french "Le jardin aux Scarabées a besoin de N1 juges supplémentaires.";
+
+translate "Your vote has been recorded."
+to french "Votre choix a été pris en compte.";
+
+translate "A total of N1 judges have voted so far."
+to french "Jusqu'ici, N1 juges se sont prononcés.";
+
+translate "Force Judging to End"
+to french "Mettre un terme au jugement";
+
+translate "Are you sure you want to bypass the rules and end the judging early?"
+to french "Voulez-vous désobéir aux règles et mettre fin au jugement prématurément ?";
+
+//translate "Scoring"
+//to french "";
+
+//translate "Bits for Beetle O1:"
+//to french "";
+
+//translate "Audit Winners"
+//to french "";
+
+translate "Your beetle K1 was not among the best. It has been demoted back to rank 1."
+to french "Votre scarabée K1 n'a pas fait partie des meilleurs. Il a été dégradé au rang 1.";
+
+translate "Your beetle K1 was rated among the best! It is now rank N1"
+to french "Votre scarabée K1 faisait partie des meilleurs ! Il est maintenant de rang N1.";
+
+translate "Are you sure you want to tear out the garden?"
+to french "Voulez-vous vraiment détruire le jardin ?";
+
+translate "Reinit Beetle Graphics"
+to french "Réinitialiser les graphismes scarabée";
+
+translate "Fix alcove"
+to french "Réparer l'alcôve";
+
+translate "A beetle cert was created: "
+to french "Un certificat de scarabée a été émis: ";
+
+translate "Burrowing (M)"
+to french "Terrier (M)";
+translate "Burrowing (F)"
+to french "Terrier (F)";
+translate "Speckled (M)"
+to french "moucheté (M)";
+translate "Speckled (F)"
+to french "moucheté (F)";
+translate "Plains (M)"
+to french "plaines (M)";
+translate "Plains (F)"
+to french "plaines (F)";
+
+translate "N1 (F)"
+to french "N1 (F)";
+
+translate "(F)"
+to french "(F)";
+
+translate "N1 (M)"
+to french "N1 (M)";
+
+translate "(M)"
+to french "(M)";
+
+translate "Artist: U1"
+to french "Artiste: U1(name)";
+
+translate "Khefre's Children"
+to french "L'épreuve des Enfants de Khefre";
+
+translate "The scarab garden is exhibiting a winner."
+to french "Le jardin aux Scarabées expose le gagnant du concours.";
+
+translate "Please wait..."
+to french "Veuillez patienter...";
+
+translate "Breed Now x 10"
+to french "Reproduire x 10";
+
+translate "Spit out a beetle right now"
+to french "Expulser un scarabée maintenant";
+
+translate "Stop the daemon"
+to french "Mettre fin au processus";
+
+translate "Start the daemon"
+to french "Lancer le processus";
+
+translate "Warp me to a Beetle"
+to french "Me téléporter sur un scarabée";
+
+translate "The beetle daemon isn't running."
+to french "Le processus de routine n'est pas activé";
+
+translate "I cannot find one.  Try waiting one minute."
+to french "Impossible. Essayez dans une minute";
+
+translate "This Alcove is full.  Judging will begin when all the alcoves are full."
+to french "Cette alcôve est pleine. Le jugement commencera lorsque les alcôves seront pleines.";
+
+translate "Build Statue of Beetle: K1"
+to french "Créer une statue de scarabée : K1";
+
+translate "You must have a paid account to vote for beetles."
+to french "Vous devez posséder un compte payé pour voter pour un scarabée";
+
+translate "The scarab garden is exhibiting a winner. Exhibition will last N1 more hours."
+to french "Le jardin aux Scarabées expose le gagnant du concours. L'exposition durera encore N1 heures.";
+
+translate "Judging will last at least N1 more hours"
+to french "Le jugement durera encore au moins N1 heures";
+
+translate "Judging cannot end until there are N1 votes"
+to french "Le jugement ne peut être clôturé tant qu'il n'y a pas au moins N1 votes.";
+
+translate "The Scarab Garden is exhibiting the winner. Exhibition will last N1 more hours."
+to french "Le jardin de scarabées expose à présent le vainqueur. L'exposition durera encore N1 heures.";
+
+translate "Your vote has been recorded. A total of N1 judges have voted so far."
+to french "Votre choix a été pris en compte. Jusqu'ici, N1 juges se sont prononcés.";
+
+translate " The voting is sheduled to last anotherK1."
+to french "L'évaluation est prévue pour durer encore K1.";
+
+translate "% Yours"
+to french "% à vous";
+
+translate "Judging will last another K1"
+to french "Le jugement durera encore K1";
+
+translate "Judging requires at least 49 votes"
+to french "49 votes sont nécessaires";
+
+translate "Vibrant patterns and wonderful color make for some intriguing beetles; your fellow citizens have bred the known livestock from our land into new breeds that show off their skill at selective breeding. Journey to K1 N1 N2 and vote and decide who is the most talented of them all."
+to french "Les motifs vibrants et les merveilleuses couleurs font des scarabés très intrigants; vos concitoyens ont élevés les races connues sur notre terre pour créer de nouvelles races qui démontrent leur habileté à faire de l'élevage sélectif. Voyagez vers K1 N1 N2, votez et décidez de celui qui est le plus talentueux d'entre eux.";
+
+translate "Those who pass this final voting round will complete the Test of Khefre's Children!"
+to french "Ceux qui passeront ce vote final complèteront l'épreuve des Enfants de Khefre";
+
+translate "Test of Khefre's Children"
+to french "Epreuve des Enfants de Khefre";
+
+translate "Artist: U1"
+to french "Artiste: U1(name)";
+
+translate "khefreslocker"
+to french "Casier de Khefre";
+
+translate "Build Khefre's Locker"
+to french "Construire un Casier de Khefre";
+
+translate "Only paid accounts may own Khefre's Lockers."
+to french "Seuls les comptes payants peuvent posséder un Casier de Khefre.";
+
+translate "You can only have N1 Khefre's Locker."
+to french "Vous ne pouvez posséder que N1 Casier de Khefre.";
+
+translate "To build Khefre Locker you need:"
+to french "Pour construire un Casier de Khefre, il vous faut:";
+
+translate "Mulch Beetle into Khefre's Essence"
+to french "Ecrabouiller des scarabées pour faire de l'essence de Khefre";
+
+translate "Claim my right as the Builder of this Khefre's Locker"
+to french "Reclamer mes droits en tant que constructeur de ce Casier de Khefre";
+
+translate "To claim your right, you must build your own locker."
+to french "Pour reclamer vos droits, vous devez construire votre propre Casier.";
+
+translate "All Beetles"
+to french "Tous les Scarabées";
+
+translate "The O1 doesn't have enough room for all of the O2 in your inventory."
+to french "Le O1(ns) n'est pas assez grand pour contenir tous O2(lnp) O2(np) de votre inventaire.";
+
+translate "You mulch the beetles into N1 Khefre's Essence. A bit of the sticky essense remains in the O1 and will get added to the next group of beetles you mulch."
+to french "Vous produisez N1 Essence de Khefre. Il reste un peu de substance gluante dans O1(lns) O1(ns) qui sera ajoutée au prochain groupe de scarabées que vous écrabouillerez.";
+
+translate "You mulch the beetles into N1 Khefre's Essence."
+to french "Vous produisez N1 Essence de Khefre.";
+
+translate "The Scarab Garden is exhibiting the winner."
+to french "Le Jardin a Scarabée expose les gagnants.";
+
+translate "The scarab garden is open for scavenging."
+to french "Le jardin à scarabées est ouvert au recyclage.";
+
+translate "Click on a statue to scavenge it."
+to french "Cliquez sur une statue pour la recycler.";
+
+translate "Karnak Rank N1"
+to french "Karnak Niveau N1";
+translate "Seven Lakes Rank N1"
+to french "Sept Lacs Niveau N1";
+translate "Upper Egypt Rank N1"
+to french "Haute Egypte Niveau N1";
+translate "Lower Egypt Rank N1"
+to french "Basse Egypte Niveau N1";
+translate "Desert of Shades Rank N1"
+to french "Désert des Ombres Niveau N1";
+translate "Kush Rank N1"
+to french "Kush Niveau N1";
+translate "Khartoum Rank N1"
+to french "Khartoum Niveau N1";
+translate "Craddle of the Sun Rank N1"
+to french "Berceau du Soleil Niveau N1";
+translate "Tanis Rank N1"
+to french "Tanis Niveau N1";
+translate "Qatara Rank N1"
+to french "Qatara Niveau N1";
+translate "Fool's Paradise Rank N1"
+to french "Fool's Paradise Niveau N1";
+translate "Sinai Rank N1"
+to french "Sinaï Niveau N1";

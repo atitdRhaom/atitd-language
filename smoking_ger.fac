@@ -1,0 +1,314 @@
+module smoking_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+//menues
+
+translate HookahUpgradeCertificate to german neuter
+{
+swa "Pfeifenverbesserungszertifikat"; 
+sn "Pfeifenverbesserungszertifikat";
+  pn "Pfeifenverbesserungszertifikate"; 
+}
+translate Hookah to german feminine
+{
+swa "Wasserpfeife"; 
+sn "Wasserpfeife";
+  pn "Wasserpfeifen"; 
+}
+translate TheArtOfThePipe to german feminine
+{
+swa "Die Kunst des Glasformens";
+sn "Die Kunst des Glasformens"; pn "Die Kunst des Glasformens";
+}
+translate "Hookah"
+to german "Wasserpfeife";
+
+translate "Build a Hookah"
+to german "Stelle eine Wasserpfeife her";
+
+translate "To build a Hookah, you need:"
+to german "Um eine Wasserpfeife herzustellen benötigst du:";
+
+translate "Clean the Bowl"
+to german "Reinige den Pfeifenkopf";
+
+translate "You need a jug of water."
+to german "Du brauchst einen Krug mit Wasser";
+
+translate "You clean the hookah bowl."
+to german "Du reinigst den Pfeifenkopf.";
+
+translate "Quality N1 belonging to U1 at N2 N3"
+to german "Qualität N1 gehört U1(name) bei N2 N3";
+
+translate "Add some Herbs"
+to german "Befülle mit Kräutern";
+
+translate "The Hookah now contains some O1."
+to german "Die Wasserpfeife ist nun mit einigen O1(pn) gefüllt.";
+
+translate "The Hookah now contains a mixture of N1 herbs."
+to german "Die Wasserpfeife ist nun mit einer Mischung aus N1 Kräutern gefüllt.";
+
+translate "Light the Hookah"
+to german "Entzünde die Wasserpfeife";
+
+translate "You need 1 piece of charcoal."
+to german "Du brauchst 1 Stückchen Holzkohle.";
+
+translate "This hookah contains: O1"
+to german "Diese Wasserpfeife enthält: O1(pn)";
+
+translate "This hookah contains: O1, O2"
+to german "Diese Wasserpfeife enthält: O1(pn), O2(pn)";
+
+translate "This hookah contains: O1, O2, O3"
+to german "Diese Wasserpfeife enthält: O1(pn), O2(pn), O3(pn)";
+
+translate "This hookah contains: O1, O2, O3, O4"
+to german "Diese Wasserpfeife enthält: O1(pn), O2(pn), O3(pn), O4(pn)";
+
+translate "This hookah contains: O1, O2, O3, O4, O5"
+to german "Diese Wasserpfeife enthält: O1(pn), O2(pn), O3(pn), O4(pn), O5(pn)";
+
+translate "Clean"
+to german "rein";
+
+translate "Interesting"
+to german "interessant";
+
+translate "Complex"
+to german "vielschichtig";
+
+translate "Muddled"
+to german "verworren";
+
+translate "Smokey"
+to german "rauchig";
+
+translate "Burnt"
+to german "verbrannt";
+
+translate "Woody"
+to german "holzig";
+
+translate "Toasty"
+to german "warm";
+
+translate "Harsh"
+to german "rau";
+
+translate "Mellow"
+to german "lieblich";
+
+translate "Dry"
+to german "trocken";
+
+translate "Bitter"
+to german "bitter";
+
+translate "Astringent"
+to german "streng";
+
+translate "Oily"
+to german "ölig";
+
+translate "Hot"
+to german "heiß";
+
+translate "Spicy"
+to german "würzig";
+
+translate "Sweet"
+to german "süß";
+
+translate "Antiseptic"
+to german "antiseptisch";
+
+translate "Creamy"
+to german "cremig";
+
+translate "Rough"
+to german "grob";
+
+translate "Dried Apples"
+to german "getrockneten Äpfeln";
+
+translate "Roasted Onions"
+to german "Röstzwiebeln";
+
+translate "Exotic Spices"
+to german "exotischen Gewürzen";
+
+translate "Candy"
+to german "Kandis";
+
+translate "Chocolate"
+to german "Schokolade";
+
+translate "Stewed Vegetables"
+to german "Mus";
+
+translate "Dried Cherries"
+to german "getrocknete Kirschen";
+
+translate "Leather"
+to german "Leder";
+
+translate "Pine"
+to german "Kiefern";
+
+translate "Cedar"
+to german "Zedern";
+
+translate "Maple"
+to german "Ahorn";
+
+translate "Oak"
+to german "Eichen";
+
+translate "Earth"
+to german "Erde";
+
+translate "Moss"
+to german "Moos";
+
+translate "Licorice"
+to german "Lakritze";
+
+translate "Lead Pencil"
+to german "Bleistiften";
+
+translate "Berries"
+to german "Beeren";
+
+translate "Pepper"
+to german "Pfeffer";
+
+translate "Minerals"
+to german "Mineralien";
+
+translate "Roasted Nuts"
+to german "gerösteten Nüssen";
+
+translate "Smoldering Paper"
+to german "glimmendem Papier";
+
+translate "Camel Dung"
+to german "Kameldung";
+
+translate "Rotting Flesh"
+to german "verwesendem Fleisch";
+
+translate "Sulfur"
+to german "Schwefel";
+
+translate "This hookah contains: "
+to german "Diese Wasserpfeife beinhaltet: ";
+
+translate "Smoke the Hookah"
+to german "Rauche die Wasserpfeife";
+
+translate "The smoke is K1 and K2 in your mouth, with an aroma of K3."
+to german "Der Rauch schmeckt nach K1 und K2 in deinem Mund, mit einem Aroma von K3";
+
+translate "The smoke was pure, but nothing new was revealed."
+to german "Der Rauch war rein, aber es offenbarte sich nichts Neues."; 
+
+translate "You puff gently on the Hookah."
+to german "Du paffst genüsslich an der Wasserpfeife und lässt deinen Gedanken freien Lauf.";
+
+translate "You draw smoothly on the Hookah, and smile."
+to german "Du nimmst einen sanften Zug an der Wasserpfeife und lächelst verzückt.";
+
+translate "You inhale the smoke of the Hookah, relax, and exhale to the sky."
+to german "Du inhalierst den Rauch der Wasserpfeife, entspannst dich und zeichnest Rauchkringel gen Himmel.";
+
+translate "The Hookah smoke fills your lungs. You notice the beauty of your surroundings, the soft sounds, the breeze."
+to german "Der Rauch der Pfeife füllt deine Lungen. Du erfreust dich an der Schönheit der Welt, der leisen Klänge und der sanften Brise.";
+
+translate "You drink in the smoke. You notice the simple beauty of the Hookah bowl, and marvel at its clarity."
+to german "Du bist völlig vom Rauch umnebelt. Du bemerkst die einfache Schönheit des Pfeifenkopfes und bestaunst seine Reinheit.";
+
+translate "The smoke meets your lips like a first kiss. You caress the Hookah back."
+to german "Der Rauch trifft deine Lippen wie ein erster Kuss. Du streichelst die Wasserpfeife.";
+
+translate "A soft, white cat brushes against your leg. You pick it up to stroke it, but - what is this? - There is no cat, just the wisps of gentle smoke."
+to german "Eine weiche, weiße Katze streift dein Bein. Du hebst sie auf um sie zu streicheln, aber - was ist das? Dort ist keine Katze, nur Rauchschwaden.";
+
+translate "You inhale the warm smoke. Peace, harmony."
+to german "Du inhalierst den warmen Rauch. Friede und Harmonie.";
+
+translate "You inhale the warm smoke. A fleeting glimpse of a farmer growing crops, while beetles scamper around. What could it mean?"
+to german "Du inhalierst den warmen Rauch. Du erhaschst einen flüchtigen Blick auf einen erntenden Bauern, der von herumflitzenden Käfern umrundet wird. Was zur Hölle .....!";
+
+translate "A gentle wisdom comes over you as the smoke trails from your mouth."
+to german "Eine sanftmütige Weisheit überkommt dich, während der Rauch aus deinem Mund strömt.";
+
+translate "As you sip the smoke, you are one with Egypt."
+to german "Du bist eins mit Ägpyten, während du den Rauch gierig in deine Lungen saugst.";
+
+translate "K1 (Your Fumeology score is now N1)"
+to german "K1 (Deine Wertung in Rauchkunde ist nun N1)";
+
+translate "You smoke the last bit of herbs."
+to german "Du rauchst den letzten Rest der Kräuter.";
+
+/// ???
+///translate "Doing SmokedWith on U1"
+///to german "
+
+///translate "You have now smoked with at least N1 friends, including ",AndList(friends),"."
+///to german "
+//////////// No translation to german possible because of missing \k  (AndList) 
+
+translate "A wonderful bow of herbs, enjoyed with friends. Alas, no new friends partook of the mellow smoke with you."
+to german "Eine herrliche Pfeife voller Kräuter, zum Genuss mit Freunden gedacht. Bedauerlicherweise wollte kein neuer Freund den lieblichen Rauch mit dir teilen.";
+
+translate "Nobody"
+to german "Niemand";
+
+translate "Could not set quality - call Pharaoh"
+to german "Konnte keine Qualität setzen - rufe Pharaoh";
+
+translate "Great Egyptian Smoke-Out Prize"
+to german "Preis des Großen Ägyptischen Rauchens";
+
+translate "Upgrade an existing Hookah with Decorations"
+to german "Verbessere eine bestehende Wasserpfeife mit Verzierungen";
+
+translate "Which Hookah?"
+to german "Welche Wasserpfeife?";
+
+translate "You must select a Hookah."
+to german "Du musst eine Wasserpfeife auswählen.";
+
+translate "That Hookah was already decorated."
+to german "Diese Wasserpfeife wurde bereits verziert.";
+
+translate "Are you sure you want to upgrade the Hookah? You can either upgrade a Hookah, or get a free Quality 3000 one, but not both."
+to german "Bist du sicher, dass du die Wasserpfeife verbessern möchtest? Du kannst entweder eine Pfeife verbessern oder umsonst eine Pfeife der Qualität 3000 erhalten, aber nicht Beides."; 
+
+translate "Ask for a Quality-3000 Decorative Hookah"
+to german "Bitte um eine dekorative Qualität-3000 Wasserpfeife";
+
+translate "Are you sure you want to get a Hookah? You can either Decorate an existing Hookah, or get a free Quality 3000 one, but not both."
+to german "Bist du sicher, dass du eine Wasserpfeife haben möchtest? Du kannst entweder eine bestehende Pfeife verzieren oder umsonst eine Pfeife der Qualität 3000 erhalten, aber nicht Beides.";
+
+translate "Quality 3000"
+to german "Qualität 3000";
+
+translate "Check my Great Egyptian Smoke-Out Score"
+to german "Prüfe meine Wertung im Großen Ägyptischen Rauchen";
+
+translate "You have smoked with at least N1 friends."
+to german "Du hast mit mindestens N1 Freunden geraucht.";
+
+translate "You have added N1 Fumeology Points during the Smoke-Out."
+to german "Du hast N1 Rauchkundepunkte während des Großen Rauchens angesammelt.";

@@ -1,0 +1,304 @@
+module acrobat_spa;
+
+translate acrobat to spanish feminine
+{
+ns "Prueba del Acróbata"; np "Pruebas del Acróbata";
+}
+
+translate "Test of the Acrobat"
+to spanish "Prueba del Acróbata";
+
+translate "Start the O1"
+to spanish "Inicia la O1(ns)";
+
+translate "The Test of the Acrobat must be petitioned by one with Dexterity of at least Seven, even fleetingly."
+to spanish "La Prueba del Acróbata debe ser solicitada por uno con Destreza de al menos Siete, inclusive temporalmente.";
+
+translate "Show Moves"
+to spanish "Muestra tus Movimientos";
+
+translate "Push-Ups"
+to spanish "Lagartijas(PU)";
+
+translate "Clapping Push-Ups"
+to spanish "Lagartijas Aplaudiendo(CPU)";
+
+translate "Squats"
+to spanish "Sentadillas(SQ)";
+
+translate "Kick-Up"
+to spanish "Salto de Espalda(KU)";
+
+translate "Squat Thrust"
+to spanish "Agacha y Salta(ST)";
+
+translate "Lunge"
+to spanish "Estocada(LU)";
+
+translate "Side Bends"
+to spanish "Estiramientos Laterales(SB)";
+
+translate "Front Tuck"
+to spanish "Marometa hacia Enfrente(FT)";
+
+translate "Jumping Jacks"
+to spanish "Tijera (JJ)";
+
+translate "Toe Touches"
+to spanish "Toca tus Dedos(TT)";
+
+Translate "Crunches"
+to spanish "Abdominales(CR)";
+
+translate "Cartwheels"
+to spanish "Rueda(CW)";
+
+translate "Roundoff"
+to spanish "Rueda sin Manos(RO)";
+
+translate "Run in Place"
+to spanish "Corre en tu Lugar(RiP)";
+
+translate "Rear Squat"
+to spanish "Patadas Traseras(RS)";
+
+translate "Handstand"
+to spanish "Parada de Manos(HS)";
+
+Translate "jump split"
+to spanish "Tijera Saltante(JS)";
+
+translate "Pinwheel"
+to spanish "Circulo de Brazo";
+
+translate "Windmill"
+to spanish "Circulo de Hombro(WM)";
+
+translate "Handplant"
+to spanish "Parada de Una Mano(HP)";
+
+translate "Wide Squat"
+to spanish "Sentadillas Amplias(WS)";
+
+translate "Leg Stretch"
+to spanish "Flexión de Pierna(LS)";
+
+translate "Broad Jump"
+to spanish "Salto de Longitud(BJ)";
+
+translate "Inverted Pushups"
+to spanish "Lagartijas Invertidas(IP)";
+
+translate "Asian Influence"
+to spanish "Influencia Asiática(AI)";
+
+translate "Greek Bridge"
+to spanish "Puente Griego(GB)";
+
+translate "Cat Stretch"
+to spanish "Estiramiento de Gato(CS)";
+
+translate "Somersault"
+to spanish "Salto Mortal(SS)";
+
+translate "Bicycle Kick"
+to spanish "Patada de Bicicleta(BK)";
+
+translate "Spin Flip"
+to spanish "Salto (SF)";
+
+translate "Can of Whoop-ass"
+to spanish "Lata de Whoop-ass (CWA)";
+
+translate "Principles of the Acrobat will show you how to perform your acrobatic move, how to teach facets of that move to others, and how to learn facets of other moves."
+to spanish "Los Principios del Acróbata te mostrará como hacer una acrobacia, como enseñar facetas a otros ciudadanos, y como aprender facetas.";
+
+translate "Practice your move"
+to spanish "Practica tu Movimientos";
+
+translate "Practice your move with another Acrobat"
+to spanish "Practica tu Movimiento con otro Acróbata";
+
+translate "Watch another Acrobat practice"
+to spanish "Observa a otro Acróbata practicar";
+translate "Learn a Facet from another Acrobat"
+to spanish "Aprende una faceta de otro Acróbata";
+translate "Learn the 2nd facet of any move"
+to spanish "Aprende una segunda faceta de cualquier Movimiento";
+translate "Teach a Facet to another Acrobat"
+to spanish "Enseña una faceta a otro acróbata";
+translate "Teach seven facets"
+to spanish "Enseña siete facetas";
+
+translate "You have completed Principles of the Acrobat."
+to spanish "Haz completado los Principios del Acróbata";
+
+translate "Get out of the water first."
+to spanish "Sal del agua primero.";
+
+translate "Though you can demonstrate acrobatic moves here, to truly know a move a student must be in Egypt proper."
+to spanish "A pesar de que puedes mostrar tus Movimientos aquí, para poder hacerlo de manera productiva tienes que estar en Egipto.";
+
+translate "You perform your first Acrobatic move! You have just taken the first step toward mastering the Test of the Acrobat. Watch your progress on the Acrobat tab in the lower-left corner of the screen."
+to spanish "Haz realizado tu primer movimiento de acrobacia!  Haz tomado el primer paso para dominar la Prueba del Acróbata.  Vigila tu progreso en la pestaña de Acrobacia en la esquina inferior izquierda de tu pantalla.";
+
+translate "You pick up a new facet of: K1"
+to spanish "Haz aprendido una faceta nueva de K1";
+
+translate "An impressive display, but the master and student need seclusion."
+to spanish "Una muestra impresionante, pero el maestro y estudiante ocupan privacidad.";
+
+translate "Your technique is impeccable, but you need solitude to teach N1."
+to spanish "Tu técnica es impecable, pero ocupas privacidad para enseñar a N1.";
+
+translate "This is a good area, but the people in the distance are a distraction  (N1 in range)"
+to spanish "Ésta es un lugar bueno, pero hay gente en el area y son una distracción (N1 esa en el area)";
+
+translate "Impressive, but U1 has not started the Test of the Acrobat."
+to spanish "Impresionante, pero U1(name) no ha iniciado la Prueba del Acróbata.";
+
+translate "You're going too fast - your student can't keep up."
+to spanish "Vas demasiado rápido - el estudiante no puedo seguir tus pasos.";
+
+translate "U1 is going too fast - you can't follow the action!"
+to spanish "U1(name) va demasiado rápido - no puedes seguir los pasos!";
+
+translate "You are totally confused by the moves that U1 is showing you. You probably won't pick anything up."
+to spanish "Estas completamente confundido por los movimientos que U1(name) te está mostrando.  Probablemente no aprenderás nada nuevo.";
+
+translate "Although you don't pick anything up, U1 is your perfect teacher - a master. You soak in every nuance of what you see. You pick up nothing new, but should come back for other moves."
+to spanish "Aunque no aprendiste nada, U1(name) es un maestro perfecto! Absorbes todo lo que vez de manera completa.  A pesar de no aprender nada, deberías de regresar para aprender otros movimientos.";
+
+translate "Although you don't pick anything up, U1 seems to be a pretty good teacher for you. You should return."
+to spanish "Aunque no aprendes nada nuevo, U1(name) parece ser un buen maestro para ti.  Deberías de regresar.";
+
+translate "Although you don't pick anything up, U1 seems to be a great teacher for you. Come back often."
+to spanish "Aunque no aprendes nada nuevo, U1(name) parece ser un excelente maestro para ti.  Deberias de regresar seguido.";
+
+translate "You are having trouble following what you are seeing. Learn from U1 as a last resort."
+to spanish "Es dificil seguir los movimientos que vez.  Aprende de U1(name) como última alternativa.";
+
+translate "You follow a bit of what U1 is showing you, but it's mostly a blur. Find a better teacher."
+to spanish "Sigues poco lo que te está mostrando U1(name), los movimientos están borrosos.  Busca un mejor maestro.";
+
+translate "Your student follows your move, but doesn't pick up anything new."
+to spanish "Tu alumno sigue el movimiento, pero no aprende nada nuevo.";
+
+translate "Although you don't pick up anything new, you do follow the move: K1."
+to spanish "Aunque no aprendiste nada nuevo, sigues el movimiento K1.";
+
+translate "You pick up a new facet of the K1 move!"
+to spanish "Aprendes una nueva faceta de K1!";
+
+translate "You pick up a new facet of the move: K1"
+to spanish "Aprendes una nueva faceta del movimiento: K1";
+
+translate "You were successful at teaching! You have taught a total of N1 facets."
+to spanish "Haz sido exitoso en enseñar una nueva faceta!  Haz enseñado un total de N1 facetas."; 
+
+translate "Your student doesn't follow your move."
+to spanish "Tu alumno no sigue el movimiento.";
+
+translate "Test of the Acrobat"
+to spanish "Prueba del Acróbata";
+
+translate "known moves: (N1 facets taught)"
+to spanish "movimientos conocidos : (N1 facetas enseñadas)";
+
+translate "Partial Moves"
+to spanish "Movimientos Parciales";
+
+translate "Last Moves"
+to spanish "Últimos Movimientos";
+
+translate "Partially learned K1 (N1 of 7)"
+to spanish "K1 (N1 de 7)";
+
+translate "Show last 7 moves"
+to spanish "Muestra los ultimos 7 movimientos";
+
+translate "After careful instruction, you master:K1 Instruct students in total solitude - for best concentration, nobody else should be around."
+to spanish "Après des instructions minutieuses, vous maîtrisez enfin K1 : Enseignez à vos élèves dans la solitude, cela aide à la concentration. Personne d'autre ne soit se trouver autour de vous.";
+
+translate "After careful instruction, you master:"
+to spanish "Après des instructions minutieuses, vous maîtrisez :";
+translate "K1, K2, K3 and K4"
+to spanish "K1, K2, K3 y K4";
+
+translate "Instruct students in total solitude - for best concentration, nobody else should be around."
+to spanish "Enseignez à vos étudiants dans l'isolement complet - pour leur concentration, personne ne doit être dans les environs.";
+
+translate "Last 7 Moves"
+to spanish "7 Últimos Movimientos";
+
+translate "Demonstrate Masterful Dexterity"
+to spanish "Demuestra Dominación de la Destreza";
+
+translate "Let it be known that K1 shall now be known as Pharaoh's Acrobat, with N1 facets taught."
+to spanish "Anunciamos que K1 ha enseñado un total de N1 facetas, y se conocerá como el Acróbata del Faraón.";
+
+translate "U1 shall now be known as Pharaoh's Acrobat, with N1 facets taught."
+to spanish "U1(name) será reconocido como el Acróbata del Faraón, con N1 facetas enseñadas.";
+
+translate "Pharaoh's Acrobat"
+to spanish "Acróbata del Faraón";
+
+translate "That's it! Practicing acrobatic moves in seclusion - teacher and student alone - is the key to advancing in the Test of the Acrobat."
+to spanish "Eso es! Practicar acrobacias en privado - maestro y alumno a solas - es la clave para avanzar en la Prueba del Acróbata";
+
+translate "Yes, studying the moves of other Acrobats is the key to success. As you watch other Acrobats, you'll find that you can learn more easily from some. Watch your Main window for hints."
+to spanish "Si, estudiar los movimientos de otros acróbatas es la clave al éxito.  Al observar acrobacias, te darás cuenta que aprendes mas fácil de unos que de otros.  Observa tu ventana principal para indicios.";
+
+translate "You've learned your first facet! When you learn all 7 Facets of a move, you'll be able to perform the move and teach it to others."
+to spanish "Haz aprendido tu primera faceta!  Cuando aprendas las 7 facets de un movimiento, podras realizarlo y enseñarlo a otros.";
+
+translate "Your student is in fact a master of K1, and doesn't pick up anything new."
+to spanish "Tu alumno en realidad ya conoce K1, por la cual no aprende nada nuevo.";
+
+translate "Aha! You've now learned a second facet of O1. By learning, you also help your instructor: The more facets an instructor teaches, the more quickly they can pick up new moves."
+to spanish "Ajá! Haz aprendido una segunda faceta de O1(ns).  Al aprender también ayudas a tu maestro: Mientras mas facetas tu maestro enseña, más fácil será para tu maestro aprender nuevos movimientos.";
+
+translate "Aha! You've now learned a second facet of K1. By learning, you also help your instructor: The more facets an instructor teaches, the more quickly they can pick up new moves."
+to spanish "Ajá! Haz aprendido una segunda faceta de K1.  Al aprender también ayudas a tu maestro: Mientras mas facetas tu maestro enseña, más fácil será para tu maestro aprender nuevos movimientos.";
+
+translate "You've just taught your first facet! Next, see if you can teach a total of seven facets. Hint: teaching one student many facets of the same move is hard. It's easier to teach one or two facets to several students."
+to spanish "Haz enseñado tu primera faceta!  Ahora trata de enseñar un total de siete.  Pista: enseñar facetas de un movimiento al mismo alumno es dificil.  Es más fácil enseñar una o dos facetas a varios alumnos.";
+
+translate "You've taught your seventh facet! When you have taught fourteen facets, you'll find that it's twice as easy to learn."
+to spanish "Haz enseñado tu séptima faceta!  Cuando enseñes un total de catorce facetas, te darás cuenta que será más facil aprender.";
+
+translate "Your student doesn't seem to be paying attention."
+to spanish "Tu alumno no parece estar poniendo atención.";
+
+translate "Known Moves"
+to spanish "Movimientos Conocidos";
+
+translate "Emote/Demonstrate Strength Mastery"
+to spanish "Gestos/Muestra tu Dominación de Fuerza";
+
+translate "Acrobat: N1 facets learned, N2 facets taught, N3 moves started, N4 is the highest, N5 mastered."
+to spanish "Acróbata: N1 facetas aprendidas, N2 facetas enseñadas, N3 movimientos iniciados, N4 es el más alto, N5 aprendidos.";
+
+translate "Last moves"
+to spanish "Últimos Movimientos";
+
+translate "Acrobatics"
+to spanish "Acrobacias";
+
+translate "O1 facets taught"
+to spanish "O1(ns) facetas enseñadas";
+
+translate "K1 facets taught"
+to spanish "K1 facetas enseñadas";
+
+translate "N1 facets taught"
+to spanish "N1 facetas enseñadas";
+
+translate "Ask to acro"
+to spanish "Invitar a hacer acrobacias";
+
+
+
+
+
+

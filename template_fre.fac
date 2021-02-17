@@ -1,0 +1,198 @@
+module template_fre;
+
+translate Instruction to french feminine
+{
+ns "Instruction"; np "Instructions";
+}
+translate DeadInst to french feminine
+{
+ns "Feuille de papier tâchée"; np "Feuilles de papier tâchées";
+}
+translate CertPlate to french feminine
+{
+ns "Planche à certificats"; np "Planches à certificats";
+}
+translate SteelPlate to french feminine
+{
+ns "Planche"; np "Planches";
+}
+translate TitaniumPlate to french feminine
+{
+ns "Planche"; np "Planches";
+}
+translate IronPlate to french feminine
+{
+ns "Planche"; np "Planches";
+}
+translate LeadPlate to french feminine
+{
+ns "Planche"; np "Planches";
+}
+translate Template to french masculine
+{
+ns "Modèle"; np "Modèles";
+}
+translate Wrench to french feminine
+{
+ns "Clé plate"; np "Clés plates";
+}
+translate BasicInk to french feminine
+{
+ns "Encre rudimentaire"; np "Encres rudimentaires";
+}
+translate InstInk0 to french feminine
+{
+ns "Encre pour instructions basiques"; np "Encres pour instructions basiques";
+}
+translate InstInk1 to french feminine
+{
+ns "Encre pour instructions primaires"; np "Encres pour instructions primaires";
+}
+translate InstInk2 to french feminine
+{
+ns "Encre pour instructions de qualité"; np "Encres pour instructions de qualité";
+}
+translate InstInk3 to french feminine
+{
+ns "Encre pour instructions de Pharaon"; np "Encres pour instructions Pharaon";
+}
+translate MetalHorn to french feminine
+{
+ns "Corne de tungstène"; np "Cornes de tungstène";
+}
+
+translate Hopper to french feminine
+{
+ns "Trémie circulaire"; np "Trémies circulaires";
+}
+translate SecretDig to french masculine
+{
+ns "Tas de vase étrange"; np "Tas de vase étranges";
+}
+translate SecretDig1 to french masculine
+{
+ns "Tas de vase étrange"; np "Tas de vase étranges";
+}
+translate SecretDig2 to french masculine
+{
+ns "Tas de vase étrange"; np "Tas de vase étranges";
+}
+translate SecretDig3 to french masculine
+{
+ns "Tas de vase étrange"; np "Tas de vase étranges";
+}
+translate SecretDig4 to french masculine
+{
+ns "Tas de vase étrange"; np "Tas de vase étranges";
+}
+
+translate SecretCrate to french feminine
+{
+ns "Caisse rejetée sur le rivage"; np "Caisses rejetée sur le rivage";
+}
+translate SecretCrate1 to french feminine
+{
+ns "Caisse rejetée sur le rivage"; np "Caisses rejetée sur le rivage";
+}
+translate SecretCrate2 to french feminine
+{
+ns "Caisse rejetée sur le rivage"; np "Caisses rejetée sur le rivage";
+}
+translate SecretCrate3 to french feminine
+{
+ns "Caisse rejetée sur le rivage"; np "Caisses rejetée sur le rivage";
+}
+translate SecretCrate4 to french feminine
+{
+ns "Caisse rejetée sur le rivage"; np "Caisses rejetée sur le rivage";
+}
+
+translate "Allows the construction of printing presses with changeable plates."
+to french "Permet de construire des presses d'impremerie dotées de planches interchangeables.";
+
+translate "Recipe"
+to french "Recette";
+translate "Formula"
+to french "Formule";
+translate "Pattern"
+to french "Motif";
+translate "Template"
+to french "Modèle";
+translate "Blueprint"
+to french "Plan";
+
+//"Your ",ComplexType(secret),":",ComplexName(secret),"'s ink has become faded a bit with use."
+
+//"Your ",ComplexType(secret),":",ComplexName(secret),"'s ink fades out completely."
+
+translate "There are no bulbs left. Let a Dev know about this."
+to french "Il n'y a plus de bulbes. Faites le svaoir à un Dev.";
+
+translate "This Crate has been opened"
+to french "Cette caisse a été ouverte";
+
+translate "Examine this open crate"
+to french "Examiner la caisse ouverte";
+
+translate "This crate bears the mark of U1."
+to french "Cette caisse porte la marque de U1(name).";
+
+translate "Unseal this crate"
+to french "Desceller cette caisse";
+
+translate "Are you sure you wish to unseal this crate? If you do so, the action cannot be taken back, and you must mark your name upon the crate to let others know who did this."
+to french "Voulez-vous vraiment desceller cette caisse ? L'action est irreverible, et la caisse portera votre marque afin que les autres sachent qui l'a ouverte.";
+
+translate "It requires a Heavy Mallet and Wide Tungsten Chisel to break the seal on this crate."
+to french "Il vous faut un maillet lourd ainsi qu'un ciseau de tungstène pour briser le sceau.";
+
+translate "Trial Accounts cannot open chests."
+to french "Les comptes à l'essai ne sont pas autorisés à ouvrir les caisses.";
+
+translate "Dig into Pile"
+to french "Creuser dans le tas";
+
+translate "You must have an Archaeologist's Shovel to dig into this, in order not to disturb the contents."
+to french "Il vous faut une pelle archéologique pour faire ça, afin de ne pas abîmer ce qu'il pourrait y avoir caché dessous."; 
+
+translate "Template"
+to french "Modèle";
+
+translate "Make a Tungsten Horn"
+to french "Forger une corne de tungstène";
+
+translate "To make a Tungsten Horn you need:"
+to french "Pour forger une corne de tungstène, il vous faut :";
+
+translate "This project used: "
+to french "Ce projet a utilisé : ";
+
+translate "making a Tungsten Horn"
+to french "Fabrication d'une corne de tungstène";
+
+translate "Tungsten Horn will be done in K1"
+to french "La Corne a été forgée en K1";
+
+translate "Your Tungsten Horn is ready."
+to french "Votre corne de tungstène est prête.";
+
+translate "Make a Spanner Wrench"
+to french "Forger une clé plate";
+
+translate "To make a Spanner Wrench you need:"
+to french "Pour forger une clé plate, il vous faut:";
+
+translate "making a Spanner Wrench"
+to french "Fabrication d'une clé plate";
+
+translate "Spanner Wrench will be done in K1"
+to french "La clé plate sera prête dans K1";
+
+translate "Your Spanner Wrench is ready."
+to french "Votre clé plate est prête.";
+
+translate "This is a high quality tool - Name it"
+to french "Cette une pièce de grande qualité - Nommez-la";
+
+translate "Thoth's Pendant"
+to french "Pendentif de Thot";

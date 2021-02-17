@@ -1,0 +1,470 @@
+module command_fre;
+
+//translate "Year N1,Peret IV-N2,N3:N4PM"
+//to french "Année N1,Mois de Peret IV-N2, N3:N4 le soir";
+
+translate "Show the Command List"
+to french "Montrer la liste des commandes";
+
+translate "No such object O1"
+to french "O1(^lns) O1(ns) n'existe pas.";
+
+translate "Player not found."
+to french "Joueur introuvable.";
+
+translate "Object unknown."
+to french "Objet inconnu";
+
+translate "Quantity was 0."
+to french "La quantité était de 0";
+
+translate "U1 has sent you a gift of N1 O1."
+to french "U1(name) vous a envoyé un présent de N1 O1(N1?np:ns).";
+
+translate "Player U1 created."
+to french "Joueur U1(name) créé.";
+
+translate "Could not create player U1. Name may be taken."
+to french "Impossible de créer le joueur U1(name). Le nom est peut-être déjà pris.";
+
+translate "Total player-hours: N1"
+to french "Total d'heures jouées : N1";
+
+translate "O1 is not an object type."
+to french "O1(ns) n'est pas un objet.";
+
+translate "Found approximately N1 O1 in the world."
+to french "On trouve approximativement N1 O1(N1?np:ns) dans le monde.";
+
+translate "Player U1 not found."
+to french "Joueur U1(name) introuvable.";
+
+translate "Banner code is N1"
+to french "Le code de bannière est N1";
+translate "Banner code is O1"
+to french "Le code de bannière est O1(ns)";
+translate "Banner code is U1"
+to french "Le code de bannière est U1(name)";
+
+translate "U1 at N1 (connected) "
+to french "U1(name) à N1 (Connecté)";
+
+translate "U1 at N1 (disconnected) "
+to french "U1(name) à N1 (Déconnecté)";
+
+translate "Day is N1. Time is N2:N3 O1"
+to french "Nous sommes le N1. Il est N2:N3 O1(ns).";
+
+translate "No such user U1"
+to french "Le joueur U1(name) n'existe pas.";
+
+translate "No such user"
+to french "Le joueur suivant n'existe pas:";
+
+translate "Can't send a message - U1 has you squelched."
+to french "Impossible d'envoyer un message - U1(name) vous ignore.";
+
+translate "U1 whispers: "
+to french "U1(name) vous chuchote :";
+
+translate "No such player 'K1'"
+to french "Le joueur 'K1' n'existe pas";
+
+translate "No such player K1"
+to french "Le joueur K1 n'existe pas.";
+translate "No such player '"
+to french "Le joueur '";
+translate "K1'"
+to french "K1' n'existe pas";
+
+translate "U1 is ignoring you."
+to french "U1(name) vous ignore.";
+
+translate "U1 is not online. Chat anyway to leave a message?"
+to french "U1(name) n'est pas présent. Voulez-vous tout de même lui envoyer ce message ?";
+
+translate "U1  is AFK. Chat anyway?"
+to french "U1(name) est connecté, mais absent. Lui envoyer tout de même ce message ?";
+
+translate "You can't chat with yourself!"
+to french "Vous voulez vraiment vous parler à vous-même ?";
+
+translate "You can only conjure portables."
+to french "Vous ne pouvez utiliser que des objets transportables.";
+
+translate "You can only build physicals."
+to french "Vous ne pouvez construire que des objets physiques.";
+
+translate "You can only build piles of portables."
+to french "Vous ne pouvez construire que des piles d'objets transportables.";
+
+translate "Players: N1"
+to french "Joueurs : N1";
+
+translate "U1"
+to french "U1(name)";
+
+translate "Search N1"
+to french "Recherche de N1";
+
+translate "Search O1"
+to french "Recherche de O1(ns)";
+
+translate "Search U1"
+to french "Recherche de U1(name)";
+
+translate "UnknownPlayer"
+to french "Joueur inconnu";
+
+translate " (connected) "
+to french " (connecté) ";
+
+translate " (disconnected) "
+to french " (déconnecté) ";
+
+translate "Last IP Adress of U1 was N1"
+to french "La dernière adresse IP de U1(name) était N1";
+
+translate "IP Adress of U1 is N1"
+to french "L'adresse IP de U1(name) est N1";
+
+translate "IP of U1 is N1"
+to french "L'IP de U1(name) est N1";
+
+translate "Found U1 at N1"
+to french "Trouvé U1(name) à N1";
+
+translate "Warping not allowed in official sessions."
+to french "La téléportation n'est pas permise lors des session officielles.";
+
+translate "Warp point not found."
+to french "Point de téléportation introuvable.";
+
+translate "Player U1 not found."
+to french "Joueur U1(name) introuvable.";
+
+translate "You may not warp to eGenesis employees, since they may be testing new content."
+to french "Vous ne pouvez pas vous téléporter sur un employé d'eGenesis, car il est peut-être en train de tester une nouveauté.";
+
+translate "U1 is logged out right now. You have warped to his last location."
+to french "U1(name) est actuellement connecté. Vous vous êtes téléporté à son dernier emplacement.";
+
+translate "Player is on the nowhere plane."
+to french "Le joueur est dans un plan inexistant.";
+
+translate "U1 last logged in N1 ago."
+to french "U1(name) s'est connecté pour la dernière fois il y a N1.";
+
+translate "No such player"
+to french "Joueur inexistant";
+
+translate "Player U1$ is connected."
+to french "Le joueur U1(name)$ est connecté.";
+
+translate "Player U1 is connected."
+to french "Le joueur U1(name) est connecté.";
+
+translate "Location: N1 N2"
+to french "Emplacement  : N1 N2";
+
+translate "Time Online (approx): N1 in N2 logins."
+to french "Temps passé connecté (estimation) : N1 en N2 connexions.";
+
+translate "Logged in for: K1"
+to french "Connecté depuis : K1";
+
+translate "Player U1$ is disconnected."
+to french "Le joueur U1(name)$ est déconnecté.";
+
+translate "Player U1 is disconnected."
+to french "Le joueur U1(name) est déconnecté.";
+
+
+translate "Location: N1 N2"
+to french "Emplacement : N1 N2";
+translate "Location: egypt N1 N2"
+to french "Emplacement : égypte N1 N2";
+translate "Location: builder N1 N2"
+to french "Emplacement : Ile de Construction N1 N2";
+
+translate "Time Online (approx): N1 in N2 logins."
+to french "Temps passé connecté (estimation) : N1 en N2 connexions.";
+
+translate "Last Online: N1 ago"
+to french "Vu pour la dernière fois il y a N1.";
+
+translate "Last Online: long ago"
+to french "Dernière connexion : il y a longtemps.";
+
+translate "Using the Strict Density system"
+to french "Utiliser le système Stricte Densité.";
+
+translate "Using the decay system"
+to french "Utiliser le système de dégradation.";
+
+translate "Set flags of U1 to N1"
+to french "Paraméter les drapeaux de U1(name) en N1.";
+
+translate "U1 responded Yes to O1"
+to french "U1(name) a répondu Oui à O1(ns).";
+
+translate "U1 responded No to O1"
+to french "U1(name) a répondu Non à O1(ns).";
+
+translate "O1 is not an object type."
+to french "O1(ns) n'est pas un objet.";
+
+translate "You must highlight an item from the list first"
+to french "Vous devez d'abord sélectionner un objet dans la liste.";
+
+translate "Something went wrong."
+to french "Un problème s'est produit.";
+
+translate "Found approximately N1 O1 in objects owned by U1."
+to french "Environ N1 O1(N1?np:ns) possédé(s) par U1(name).";
+
+translate "Found approximately N1 O1 in the world."
+to french "Environ N1 O1(N1?np:ns) dans le monde.";
+
+translate "O1 belonging to U1 at N1 N2 contains N3 O2"
+to french "O1(ns) appartenant à U1(name) à N1 N2 contient N3 O2(np)";
+
+translate "O1 belonging to U1 at N1 N2 contains O2"
+to french "O1(ns) appartenant à U1(name) à N1 N2 contient O2(np)";
+
+translate "U1 has passed O1 (N1)"
+to french "U1(name) a transmis O1(np) (N1).";
+
+translate "Are you sure you want to bulldoze ALL O1?"
+to french "Voulez-vous vraiment raser tous les O1(np) ?";
+
+translate "To change password, type:"
+to french "Pour changer votre mot de passe, tapez :";
+
+translate "/password <oldpassword> <newpassword> <newpassword>"
+to french "/password <mot de passe actuel> <nouveau mot de passe> <nouveau mot de passe>";
+
+translate "Blank passwords not allowed."
+to french "Les mots de passe vides ne sont pas acceptés.";
+
+translate "Passwords must match."
+to french "Les deux mots de passe doivent correspondre.";
+
+translate "Password changed."
+to french "Mot de passe modifié.";
+
+translate "U1 not found in player database."
+to french "U1(name) n'existe pas dans la base de joueurs.";
+
+translate "No such skill O1"
+to french "La compétence O1(ns) n'existe pas.";
+
+translate "Illegal command"
+to french "Commande illégale";
+
+translate "Only 20 people allowed on a squelch list."
+to french "Seules 20 personnes peuvent être présentes dans votre liste d'ignorés.";
+
+translate "U1 was already on your squelch list."
+to french "U1(name) était déjà sur votre liste d'ignorés.";
+
+translate "U1 added to your squelch list."
+to french "U1(name) a été ajouté à votre liste d'ignorés.";
+
+translate "U1 has squelched you."
+to french "U1(name) vous ignore.";
+
+translate "Un-Squelched U1"
+to french "U1(name) a été retiré de votre liste d'ignorés.";
+
+translate "Lead Mine at N1 N2"
+to french "Diriger la mine de N1 N2";
+
+translate "U1$ has heartbearts=N1"
+to french "Battements de coeur de U1(name)$ = N1";
+translate "U1$ has heartbearts=N1"
+to french "Battements de coeur de U1(name) = N1";
+
+translate "U1 has offered O1"
+to french "U1(name) a offert O1(np)";
+
+translate "Crowding level (new) is about N1%"
+to french "Le niveau de peuplement (nouveau) est d'environ N1%";
+
+translate "Crowding level (old) is about N1%"
+to french "Le niveau de peuplement (ancien) est d'environ N1%";
+
+translate "Date is Akhet II/N1. Time is N2:N3AM"
+to french "Date : Akhet N1/I. Heure : N2:N3 du matin";
+translate "Date is Akhet II/N1. Time is N2:N3AM"
+to french "Date : Akhet N1/II. Heure : N2:N3 du matin";
+translate "Date is Akhet II/N1. Time is N2:N3AM"
+to french "Date : Akhet N1/III. Heure : N2:N3 du matin";
+translate "Date is Akhet II/N1. Time is N2:N3PM"
+to french "Date : Akhet N1/I. Heure : N2:N3 du soir";
+translate "Date is Akhet II/N1. Time is N2:N3PM"
+to french "Date : Akhet N1/II. Heure : N2:N3 du soir";
+translate "Date is Akhet II/N1. Time is N2:N3PM"
+to french "Date : Akhet N1/III. Heure : N2:N3 du soir";
+
+translate "Date is Peret II/N1. Time is N2:N3AM"
+to french "Date : Peret N1/I. Heure : N2:N3 du matin";
+translate "Date is Peret II/N1. Time is N2:N3AM"
+to french "Date : Peret N1/II. Heure : N2:N3 du matin";
+translate "Date is Peret II/N1. Time is N2:N3AM"
+to french "Date : Peret N1/III. Heure : N2:N3 du matin";
+translate "Date is Peret II/N1. Time is N2:N3PM"
+to french "Date : Peret N1/I. Heure : N2:N3 du soir";
+translate "Date is Peret II/N1. Time is N2:N3PM"
+to french "Date : Peret N1/II. Heure : N2:N3 du soir";
+translate "Date is Peret II/N1. Time is N2:N3PM"
+to french "Date : Peret N1/III. Heure : N2:N3 du soir";
+
+translate "Date is Shemu II/N1. Time is N2:N3AM"
+to french "Date : Shemu N1/I. Heure : N2:N3 du matin";
+translate "Date is Shemu II/N1. Time is N2:N3AM"
+to french "Date : Shemu N1/II. Heure : N2:N3 du matin";
+translate "Date is Shemu II/N1. Time is N2:N3AM"
+to french "Date : Shemu N1/III. Heure : N2:N3 du matin";
+translate "Date is Shemu II/N1. Time is N2:N3PM"
+to french "Date : Shemu N1/I. Heure : N2:N3 du soir";
+translate "Date is Shemu II/N1. Time is N2:N3PM"
+to french "Date : Shemu N1/II. Heure : N2:N3 du soir";
+translate "Date is Shemu II/N1. Time is N2:N3PM"
+to french "Date : Shemu N1/III. Heure : N2:N3 du soir";
+
+translate "You can only build entities."
+to french "Vous ne pouvez construire que des bâtiments.";
+
+translate "You are now invisible."
+to french "Vous êtes maintenant invisible.";
+
+translate "You are again visible."
+to french "Vous êtes de nouveau visible.";
+
+translate "(Buildings have been removed)"
+to french "(Les bâtiments ont été retirés)";
+translate "(trial account)"
+to french "(Compte test)";
+translate "(paid account)"
+to french "(Compte payé)";
+
+translate "Calculate total hours"
+to french "Nombre total d'heures";
+
+translate "Total player-hours: N1"
+to french "Total d'heures jouées: N1";
+
+translate "Players who played at least 15 minutes: N2"
+to french "Les personnes qui ont joué au moins 15 minutes : N2";
+
+translate "Last IP Address of U1 was N1"
+to french "La dernière adresse IP de U1(name) était N1";
+
+translate "No such player or guild."
+to french "Ce joueur ou cette guilde n'existe pas.";
+
+translate " (paid account)"
+to french " (compte payé)";
+
+translate " (expired or closed account)"
+to french " (compte expiré ou clôturé)";
+
+translate " (military leave)"
+to french " (militaire)";
+
+translate " (trial account)"
+to french " (compte d'essai)";
+
+translate " (Temporarily Exiled)"
+to french " (Exilé(e) temporairement)";
+
+translate "last location : N1 N2"
+to french "Dernier emplacement : N1 N2";
+
+translate "first login K1 ago"
+to french "Première connexion il y a K1 ";
+
+translate "Time online (approx): K1 in N2 logins"
+to french "Temps de connexion (approx) : K1 en N2 connexions";
+
+translate "married to U1"
+to french "Marié à U1(name)";
+
+translate "Video Card: K1  "
+to french "Carte vidéo : K1  ";
+
+translate "Last Location: N1 N2"
+to french "Dernières coordonnées : N1 N2";
+
+translate "Last Online: K1 ago. "
+to french "Dernière visite : K1. ";
+
+translate german to french masculine
+{
+	ns "Allemand"; np "Allemand";
+	}
+	
+translate English to french masculine
+{
+	ns "Anglais"; np "Anglais";
+	}
+translate French to french masculine
+{
+	ns "Français"; np "Français";
+        }
+		
+translate Spanish to french masculine
+{
+	ns "Espagnol"; np "Espagnol";
+        }
+
+translate " is connected"
+to french " est connecté";
+
+translate "K1 U1$ is connected."
+to french "K1 U1(name)$ est connecté.";
+
+translate "K1 U1$ is disconnected."
+to french "K1 U1(name)$ est déconnecté.";
+
+translate "You are not permitted to contact newbies from Jail.  Contact a GM to get out."
+to french "Il n'est pas permis de contacter les nouveaux joueurs à partir de la prison. Contactez un GM.";
+
+translate "You have been prohibited by law from contacting people who have been in Egypt for less than 10 days."
+to french "Suite à un jugement, vous n'êtes pas autorisé à contacter un joueur n'ayant pas passé au moins 10 jours en égypte.";
+
+translate Citizen to french neuter
+{
+  ns "Citoyen"; np "Citoyens";
+}
+
+translate "O1 U1 $ K1 is connected.\n"
+to french "O1(ns) U1(name) $ K1 est en ligne.\n";
+
+translate "Only 20 people allowed on a squelch list."
+to french "Maximum de 20 personnes sur la liste muette.";
+
+translate "U1 was already on your squelch list."
+to french "U1(name) fait déjà partie de la liste des muets.";
+
+translate "K1 is not an Entity."
+to french "K1 n'est pas une entité."; 
+
+translate "Name not found."
+to french "Nom introuvable.";
+
+translate "Channel not found: "
+to french "Canal introuvable:";
+
+translate "Could not find "
+to french "Impossible de trouver ";
+
+translate "U1 joins our Tale in the Desert"
+to french "U1(name) rejoint notre Conte dans le Desert";
+
+translate "[Told to U1: ]"
+to french "[Vous murmurez à U1(name): ]";
+
+translate "U1 was previously a guild. It has since been torn down."
+to french "U1(name) était une guilde. Elle a depuis été détruite.";

@@ -1,0 +1,340 @@
+Module banquet_ger;
+
+translate BanquetTableConstruction to german feminine
+{
+ swa "Banketttafelkonstruktion";
+  sn "Banketttafelkonstruktion"; pn "Banketttafelkonstruktionen";
+}
+translate BanquetTable to german feminine
+{
+swa "Banketttafel";
+  sn "Banketttafel"; pn "Banketttafeln";
+}
+translate Banquet to german masculine
+{
+ swa "Test des Banketts";
+  sn "Test des Banketts"; pn "Test des Banketts";
+}
+
+translate flavor to german neuter
+{
+swa "Aroma";
+  sn "Aroma"; pn "Aromen";
+}
+translate perception to german feminine
+{
+swa "Empfindung";
+  sn "Empfindung"; pn"Empfindungen";
+}
+
+translate "Principles of the Banquet will guide you through those things that advance your Perception character statistic."
+to german "Die Prinzipien des Banketts werden dich lehren, die Dinge zu tun, die deine Empfindungspunkte dauerhaft erhöhen.";
+translate "Enjoy a meal at a Kitchen"
+to german "Genieße ein Essen an einer Küche";
+translate "Enjoy a Masterpiece at a Kitchen"
+to german "Genieße ein Meisterwerk an einer Küche";
+translate "Smoke a simple bowl of herbs in a Hookah"
+to german "Rauche eine einfache Kräutermischung in einer Wasserpfeife";
+translate "Smoke a complex bowl of 2 or more herbs"
+to german "Rauche eine exklusivere Kräutermischung aus 2 oder mehr";
+translate "Enjoy a glass of Wine"
+to german "Genieße ein Glas Wein";
+translate "Enjoy a mug of Beer"
+to german "Genieße einen Krug Bier";
+
+translate "You have completed Principles of the Banquet."
+to german "Du hast die Prinzipien des Banketts gemeistert.";  
+  
+translate "This Test is only open to those with permanent Perception of at least 7."
+to german "Dieser Test ist nur verfügbar für Einwohner mit einem dauerhaften Empfindungswert von mindestens 7.";
+
+translate "Are you sure you want to clear your menu and have a new one written?"
+to german "Bist du sicher, dass du das Menü aufgeben und ein Neues zusammenstellen willst?";
+
+translate "Recipe"
+to german "Rezept";
+
+translate "Your Banquet Menu has been written. Review it under your Tests menu, or by clicking on a Banquet Table."
+to german "Dein Bankettmenü wurde erfasst. Lies es im Testmenü nach, oder klicke die Bankettttafel an.";
+
+translate "Glossy White Boards for Trim"
+to german "Bretter: glänzend, weiß als Dekoration";
+translate "Glossy Blonde Boards for Inlay"
+to german "Bretter: glänzend, hell für das Inlay";
+translate "Glossy Black Boards for Frame"
+to german "Bretter: glänzend, schwarz für den Rahmen";
+translate "Nails for structure"
+to german "Nägel für die Struktur";
+translate "White Travertine for Inlay"
+to german "Weißer Travertin für das Inlay";
+translate "Linen for Tablecloth"
+to german "Leinen für die Tischdecke";
+translate "Cook Pots, one for cooking, seven for serving"
+to german "Kochtöpfe, Einer zum Kochen, Sieben zum Servieren";
+translate "Cadet Blue Paint"
+to german "Farbe: Kadettenblau";
+translate "Forest Green Paint"
+to german "Farbe: Waldgrün";
+translate "Dark Red Paint"
+to german "Farbe: Dunkelrot";
+
+translate "To build a Banquet Table you need:"
+to german "Um eine Banketttafel zu bauen brauchst du:";
+
+translate "The Banquet"
+to german "Das Bankett";
+
+translate "Review Assigned Menu"
+to german "Kontrolliere das Menü";
+
+translate "Your Menu has been written:"
+to german "Dein aufgezeichnetes Menü:";
+
+translate "First course:"
+to german "Erster Gang:";
+
+translate "Second course:"
+to german "Zweiter Gang:";
+
+translate "Third course:"
+to german "Dritter Gang:";
+
+translate "Fourth course:"
+to german "Vierter Gang:";
+
+translate "Fifth course:"
+to german "Fünfter Gang:";
+
+translate "Sixth course:"
+to german "Sechster Gang:";
+
+translate "Seventh course:"
+to german "Siebter Gang:";
+
+translate "Dish with O1, at least one seventh by item, duration at least N1"
+to german "Ein Gericht mit O1(sn), mindestens ein Siebtel pro Zutat, Dauer mindestens N1";
+
+translate "Wine with: K1 K2 K3"
+to german "Wein mit: K1(sn) K2(sn) K3(sn)";
+
+translate "Beer that is: O1"
+to german "Bier mit: O1(sn)";
+
+translate "Course N1 - O1/Beer/Beer: K1"
+to german "Gang N1 - O1(sn)/Bier/Bier: K1";
+
+translate "That beer doesn't meet the requirements: O1 O2 O3"
+to german "Das Bier erfüllt nicht die Voraussetzungen: O1(sn) O2(sn) O3(sn)";
+
+translate "Course N1 - O1/Wine/Wine: K1"
+to german "Gang N1 - O1(sn)/Wein/Wein: K1";
+
+translate "That wine doesn't meet the requirements: O1"
+to german "Der Wein erfüllt nicht die Voraussetzungen: O1(sn)";
+
+translate "You need three identical bottles of wine for a banquet course."
+to german "Du brauchst dre identische Weinflaschen für einen Bankettgang.";
+
+translate "Recipe K1 flavor O1"
+to german "Rezept K1 Aroma O1(sn)";
+
+translate "Alcohol at least N1 percent. "
+to german "Alkohol N1% Minimum. ";
+
+translate "Alcohol at most N1 percent. "
+to german "Alkohol N1% Maximum. ";
+
+translate "Age at least N1 vintages. "
+to german "Alter mindestens N1 Jahre. ";
+
+translate "Age at most N1 vintages. "
+to german "Alter höchstens N1 Jahre. ";
+
+translate "Tannin at least N1. "
+to german "Tannin mindestens N1. ";
+
+translate "Tannin at most N1. "
+to german "Tannin höchstens N1. ";
+
+translate "Residual Sugar at least N1 percent. "
+to german "Restzucker mindestens N1%. ";
+
+translate "Residual Sugar at most N1 percent. "
+to german "Restzucker höchstens N1%. ";
+
+translate "Concentration at least N1. "
+to german "Konzentration mindestens N1. ";
+
+translate "Concentration at most N1. "
+to german "Konzentration höchstens N1. ";
+
+translate "Flavor of O1. "
+to german "Aroma von O1(sn)";
+
+translate "Course N1 - O1/Dish: K1"
+to german "Gang N1 - O1(sn)/Gericht: K1";
+
+translate "Course N1 - O1/You must cook a dish!"
+to german "Gang N1 - O1(sn)/Du musst ein Gericht kochen!";
+
+translate "Course N1 - O1/K1"
+to german "Gang N1 - O1(sn)/K1";
+
+translate "You need at least 21 servings of each dish."
+to german "Du brauchst mindestens 21 Portionen pro Gang.";
+
+translate "Checking flavors..."
+to german "Prüfe Geschmack...";
+
+translate "Only very fresh food can be served at a Banquet."
+to german "Nur sehr frisches Essen kann auf einem Bankett serviert werden.";
+
+translate "O1 must comrise one seventh of the servings in this dish. It only comprises N1 percent."
+to german "O1(sn) muss ein Siebtel der Portionen in diesem Gericht ausmachen. Es sind nur N1%";
+
+translate "O1 must comprise one fourth of the servings in this dish. It only comprises N1 percent."
+to german "O1(sn) muss ein Viertel der Portionen in diesem Gericht ausmachen. Es sind nur N1%.";
+
+translate "This dish must have an effect duration of at least N1, and must have some positive effect."
+to german "Dieses Gericht muss eine Wirkungsdauer von mindestens N1 und einige positive Effekte besitzen."; 
+
+translate "With an effect duration of N1, K1 is an acceptable dish for course O1."
+to german "Mit einer Wirkungsdauer von N1, ist K1 akzeptabel für Gang 01(sn).";
+
+translate "This dish must have flavor of at least N1. The flavor of the O1 is N2"
+to german "Dieses Gericht muss einen Geschmack von mindestens N1 haben. Der Geschmack von O1(sn) ist N2";
+
+translate "With a flavor of N1, K1 is an acceptable dish for course O1."
+to german "Mit einem Geschmack von N1, ist K1 akzeptabel für Gang O1(sn).";
+
+translate "Utility/Clear the Table"
+to german "Optionen/Reinige den Tisch";
+
+translate "Are you SURE you want to clear the table? Type CLEAR to clear it."
+to german "Bist du SICHER, dass du den Tisch reinigen willst? Tippe CLEAR, um ihn zu reinigen.";
+
+translate "Menu/Review Dishes Served, Open the banquet"
+to german "Menü/Prüfe servierte Gänge, eröffne das Bankett";
+
+translate "Table is set as follows:"
+to german "Die Tafel ist wie folgt eingestellt:";
+
+translate "Dish: None Served"
+to german "Gericht: Keines serviert";
+
+translate "Food: O1 (Ok) (Not Acceptable)"
+to german "Essen: O1(sn) (Ok) (Nicht akzeptabel)";
+
+translate "Wine: None Served"
+to german "Wein: Keiner serviert";
+
+translate "Wine: O1 (Ok)\n (Not Acceptable)\n"
+to german "Wein: O1(sn) (Ok)\n (Nicht akzeptabel)\n";
+
+translate "Beer: None Served\n"
+to german "Bier: Keines serviert\n";
+
+translate "Beer: O1 (Ok)\n (Not Acceptable)\n"
+to german "Bier: O1(sn) (Ok)\n (Nicht akzeptabel)\n";
+
+translate "Course N1 - Featuring O1: (Complete)"
+to german "Gang N1 - Mit O1(sn): (Komplett)";
+
+translate "The beer is acceptable for this course."
+to german "Das Bier ist für diesen Gang geeignet.";
+
+translate "The wine is acceptable for this course."
+to german "Dieser Wein ist für diesen Gang geeignet.";
+
+translate "The banquet is perfect! Open it for your friends? You'll have two hours for all the guests to eat."
+to german "Das Bankett ist perfekt! Willst du es für Freunde eröffnen? Deine Gäste haben zwei Stunden, um das Essen zu genießen.";
+
+translate "You must have at least 21 people on your guest list to open the banquet."
+to german "Du musst mindestens 21 Gäste auf der Liste haben, um das Bankett eröffnen zu können.";
+
+translate "You are truly bleeding edge, but Teppy wants to be here for this."
+to german "Wir wissen, dass ihr sehr ungeduldig wartet, aber Teppy möchte euch wirklich unterstützen.";
+
+translate "Guest List/Review the Guest List"
+to german "Lese die Gästeliste";
+
+translate "Add someone to the Guest List"
+to german "Lade jemanden als Gast ein";
+
+translate "Name to add to the list?"
+to german "Name des Gastes?";
+
+translate "Could not find U1"
+to german "Kann U1(name) nicht finden";
+
+translate "U1 is already on the guest list."
+to german "U1(name) ist bereits auf der Gästeliste.";
+
+translate "Remove someone from the Guest List"
+to german "Steiche jemanden von der Gästeliste";
+
+translate "Name to remove from the list?"
+to german "Names des Gaste, der gestrichen werden soll?";
+
+translate "U1 is not on the list."
+to german "U1(name) ist nicht auf der Liste.";
+
+translate "Could not find U1"
+to german "Kann U1(name) nicht finden";
+
+translate "Guest List"
+to german "Gästeliste";
+
+translate "Guest list is:"
+to german "Deine Gäste:";
+
+translate "U1 eats your generously offered banquet meal, and marvels at the selection of Egypt's finest foods."
+to german "U1(name) isst dein großzügig angebotenes Bankettmahl und staunt über die Auswahl Ägyptens feinsten Nahrungsmitteln";
+
+translate "You eat U1's generously offered banquet meal, and marvel at the selection of Egypt's finest foods."
+to german "Du isst das von U1(name) grosszügig angebotenem Bankettmahl und staunst über die Auswahl Ägyptens feinster Nahrumsmittel.";
+
+translate "Debug/Clear Eaten and servings"
+to german "Debug/Lösche Reste und Portionen";
+
+translate "Debug/Load the Souveneir Menus"
+to german "Debug/Lade die Souvenir-Menüs";
+
+translate "Debug/Clear Banquet Time"
+to german "Debug/Lösche die Bankettzeit";
+
+translate "Special/Read/Banquet Menu K1"
+to german "Spezial/Lese/Bankett Menü K1";
+
+translate "Debug/Set good flavor and duration"
+to german "Debug/Setze gutes Aroma und Dauer";
+
+translate "Special/Read/Banquet Menu:"
+to german "Spezial/Lese/Bankett Menü:";
+
+translate "Tests/The Banquet/Review Assigned Menu"
+to german "Tests/Das Bankett/Kontrolliere das Menü";
+
+translate "Menu/Review Assigned Menu"
+to german "Menü/Kontrolliere das Menü";
+
+translate "Commemorative Banquet Menu, K1, served on N1"
+to german "Erinnere dich an das Bankettmenü, K1, serviert am N1";
+
+translate "Table is set as follows: "
+to german "Tafel setzt sich folgendermaßen zusammen: ";
+
+translate "You must cook a dish!"
+to german "Du musst ein Gericht kochen";
+
+translate "Set the Table/Course O1"
+to german "Stelle die Tafel/den Gang auf O1(sn)";
+
+translate "Food: O1 (Spoiled)"
+to german "Essen: O1(sn) (verdorben)";
+
+translate "Course O1(sn) - Featuring O2: (Complete): "
+to german "Gang O1(sn) - Setzt sich zusammen aus O2(sn): (Komplett): ";
+
+translate "Course O1(sn) - Served with Wine O2(sn) and Beer O3(sn)"
+to german "Gang O1(sn) - Serviert mit Wein O2(sn) und Bier O3(sn)";

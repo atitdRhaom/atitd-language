@@ -1,0 +1,500 @@
+module mines_fre;
+
+translate SmallStone to french feminine
+{
+  ns "Petite pierre"; np "Petites pierres";
+}
+translate LargeStone to french feminine
+{
+  ns "Grosse pierre"; np "Grosses pierres";
+}
+translate Mineral to french masculine
+{
+  ns "Minéral"; np "Minéraux";
+}
+translate Metal to french masculine
+{
+  ns "Métal"; np "Métaux";
+}
+translate Ore to french masculine
+{
+  ns "Minerai"; np "Minerais";
+}
+translate Dirt to french feminine
+{
+  ns "Terreau"; np "Terreaux";
+}
+translate Limestone to french masculine
+{
+  ns "Calcaire"; np "Calcaires";
+}
+translate IronOre to french masculine
+{
+  ns "Minerai de fer"; np "Minerais de fer";
+}
+translate CopperOre to french masculine
+{
+  ns "Minerai de cuivre"; np "Minerais de cuivre";
+}
+translate LithiumOre to french masculine
+{
+  ns "Minerai de lithium"; np "Minerais de lithium";
+}
+translate TinOre to french masculine
+{
+  ns "Minerai d'étain"; np "Minerais d'étain";
+}
+translate AluminumOre to french masculine
+{
+  ns "Minerai d'aluminium"; np "Minerais d'aluminium";
+}
+translate GoldOre to french masculine
+{
+  ns "Minerai d'or"; np "Minerais d'or";
+}
+translate UraniumOre to french masculine
+{
+  ns "Minerai d'uranium"; np "Minerais d'uranium";
+}
+translate ZincOre to french masculine
+{
+  ns "Minerai de zinc"; np "Minerais de zinc";
+}
+translate AntimonyOre to french masculine
+{
+  ns "Minerai d'amtimoine"; np "Minerais d'antimoine";
+}
+translate LeadOre to french amsculine
+{
+  ns "Minerai de plomb"; np "Minerais de plomb";
+}
+translate Iron to french masculine
+{
+  ns "Fer"; np "Fer";
+}
+translate Copper to french masculine
+{
+  ns "Cuivre"; np "Cuivre";
+}
+translate Lithium to french masculine
+{
+  ns "Lithium"; np "Lithium";
+}
+translate Tin to french masculinecollective
+{
+  ns "Etain"; np "Etain";
+}
+translate Aluminum to french masculine
+{
+  ns "Aluminium"; np "Aluminium";
+}
+
+translate Uranium to french masculine
+{
+  ns "Uranium"; np "Uranium";
+}
+translate Zinc to french masculine
+{
+  ns "Zinc"; np "Zinc";
+}
+translate AntimonyOre to french masculine
+{
+  ns "Minerai d'antimoine"; np "Minerais d'antimoine";
+}
+translate Lead to french masculine
+{
+  ns "Plomb"; np "Plomb";
+}
+translate strontiumore to french masculine
+{
+  ns "Minerai de strontium"; np "Minerais de strontium";
+}
+translate Mine to french feminine
+{
+  ns "Mine"; np "Mines";
+}
+translate Diamond to french masculine
+{
+  ns "Diamant"; np "Diamants";
+}
+translate SmallDiamond to french masculine
+{
+  ns "Petit diamant"; np "Petits diamants";
+}
+translate MediumDiamond to french masculine
+{
+  ns "Moyen diamant"; np "Moyens diamants";
+}
+translate LargeDiamond to french masculine
+{
+  ns "Gros diamant"; np "Gros diamants";
+}
+translate HugeDiamond to french masculine
+{
+  ns "Enorme diamant"; np "Enormes diamants";
+}
+
+translate Ruby to french masculine
+{
+  ns "Rubis"; np "Rubis";
+}
+translate SmallRuby to french masculine
+{
+  ns "Petit rubis"; np "Petits rubis";
+}
+translate MediumRuby to french masculine
+{
+  ns "Moyen rubis"; np "Moyens rubis";
+}
+translate LargeRuby to french masculine
+{
+  ns "Gros rubis"; np "Gros rubis";
+}
+translate HugeRuby to french masculine
+{
+  ns "Enorme rubis"; np "Enormes rubis";
+}
+
+translate Emerald to french feminine
+{
+  np "Emeraude"; np "Emeraudes";
+}
+translate SmallEmerald to french feminine
+{
+  ns "Petite émeraude"; np "Petites émeraudes";
+}
+translate MediumEmerald to french feminine
+{
+  ns "Moyenne émeraude"; np "Moyennes émeraudes";
+}
+translate LargeEmerald to french feminine
+{
+  ns "Grosse émeraude"; np "Grosses émeraudes";
+}
+translate HugeEmerald to french feminine
+{
+  ns "Enorme émeraude"; np "Enormes émeraudes";
+}
+
+translate Sapphire to french masculine
+{
+  ns "Saphir"; np "Saphirs";
+}
+translate SmallSapphire to french masculine
+{
+  ns "Petit saphir"; np "Petits saphirs";
+}
+translate MediumSapphire to french masculine
+{
+  ns "Moyen saphir"; np "Moyens saphirs";
+}
+translate LargeSapphire to french masculine
+{
+  ns "Gros saphir"; np "Gros saphirs";
+}
+translate HugeSapphire to french masculine
+{
+  ns "Enorme saphir"; np "Enormes saphirs";
+}
+
+translate Quartz to french masculine
+{
+  ns "Quartz"; np "Quartz";
+}
+translate SmallQuartz to french masculine
+{
+  ns "Petit quartz"; np "Petits quartz";
+}
+translate MediumQuartz to french masculine
+{
+  ns "Moyen quartz"; np "Moyens quartz";
+}
+translate LargeQuartz to french masculine
+{
+  ns "Gros quartz"; np "Gros quartz";
+}
+translate HugeQuartz to french masculine
+{
+  ns "Enorme quartz"; np "Enormes quartz";
+}
+
+translate Topaz to french feminine
+{
+  ns "Topaze"; np "Topazes";
+}
+translate SmallTopaz to french feminine
+{
+  ns "Petite topaze"; np "Petites topazes";
+}
+translate MediumTopaz to french feminine
+{
+  ns "Moyenne topaze"; np "Moyennes topazes";
+}
+translate LargeTopaz to french feminine
+{
+  ns "Grosse topaze"; np "Grosses topazes";
+}
+translate HugeTopaz to french feminine
+{
+  ns "Enorme topaze"; np "Enormes topazes";
+}
+translate Coal to french masculine
+{
+  ns "charbon"; np "charbons";
+}
+
+translate Book to french masculine
+{
+  ns "livre"; np "livres";
+}
+
+translate OreAndMineralsVolume1 to french masculine
+{
+  ns "Minerais et Minéraux - Tome Un"; np "Minerais et Minéraux - Tome Un";
+}
+translate OreAndMineralsVolume2 to french masculine
+{
+  ns "Minerais et Minéraux - Tome Deux"; np "Minerais et Minéraux - Tome Deux";
+}
+
+translate UnusualMineralsVolume1 to french masculine
+{
+  ns "Minéraux rares - Tome Un"; ns "Minéraux rares - Tome Un";
+}
+
+translate UnusualMineralsVolume2 to french masculine
+{
+  ns "Minéraux rares - Tome Deux"; ns "Minéraux rares - Tome Deux";
+}
+
+
+translate FragileCompass to french feminine
+{
+  ns "Boussole fragile"; np "boussoles fragiles";
+}
+
+translate MagnesiumOre to french masculine
+{
+  ns "Minerai de magnésium"; np "Minerais de magnésium";
+}
+
+
+translate "Build a mine"
+to french "Creuser une mine";
+
+translate "To build a Mine, you need: "
+to french "Pour creuser une mine, il vous faut : ";
+
+translate "In this area, a Level-N1 mine is needed. It will require the following, including jugs along with the water: "
+to french "Dans cette zone, il faut une mine de niveau N1. Elle nécessite les éléments suivants, ainsi que des cruches d'eau : ";
+
+translate "Projects/Build a mine"
+to french "Projets/Creuser une mine";
+
+translate "Read Book"
+to french "Lire un livre";
+
+translate "Spin a Fragile Compass"
+to french "Faire tourner une boussole fragile";
+
+translate "Ore And Minerals, Volume One"
+to french "Minerais et Minéraux - Tome Un";
+
+translate "Ore And Minerals, Volume Two"
+to french "Minerais et Minéraux - Tome Deux";
+
+translate "Unusual Minerals, Volume One"
+to french "Minéraux rares - Tome Un";
+
+translate "Unusual Minerals, Volume Two"
+to french "Minéraux rares - Tome Deux";
+
+translate "Work this mine"
+to french "Travailler dans cette mine";
+
+translate "This Level N1 mine has accumulated N2 deben of O1"
+to french "Cette mine de niveau N1 a donné N2 mesures de O1(ns).";
+
+translate "Your mind swims from poison. You can't concentrate enough to dowse."
+to french "Votre esprit est encore sous l'effet du poison. Vous ne parvenez pas à vous concentrer pour sonder le sol.";
+
+translate "You concentrate on the earth below your feet..."
+to french "Vous vous concentrez sur le sol sous vos pieds...";
+
+translate "something you don't quite recognize"
+to french "quelque chose que vous ne connaissez pas";
+
+translate "Dowsing is not allowed during development sessions. If this is supposed to be an official session, please submit a bug report."
+to french "Sonder n'est pas permis pendant les sessions de développement. S'il s'agit d'une session officielle, veuillez soumettre un rapport de bug.";
+
+translate "You detect nothing but dirt below your feet."
+to french "Vous ne détectez rien d'intéressant sous vos pieds.";
+
+translate "You detect an underground vein of O1."
+to french "Vous venez de détecter une veine de O1(ns).";
+
+translate "Mining is not allowed during development sessions. If this is supposed to be an official session, please submit a bug report."
+to french "Creuser n'est pas permis pendant les sessions de développement. S'il s'agit d'une session officielle, veuillez soumettre un rapport de bug.";
+
+translate "The mine would be too close to another mine - that's dangerous."
+to french "Cette mine serait trop près d'une autre - C'est dangereux.";
+
+translate "In this area, a Level-N1 mine is needed. It will require the following, including jugs along with the water: "
+to french "Dans cette zone, il faut une mine de niveau N1. Elle nécessite les éléments suivants, ainsi que des cruches d'eau :";
+translate "N1 O1"
+to french "N1 O1(N1?np:ns)";
+
+translate "Your mine discovered nothing but dirt. The Dowsing skill may be useful."
+to french "Votre mine n'a rien remonté d'exploitable. La rhabdomancie pourrait se révéler fort utile.";
+
+translate "You have built a O1 mine. It is now ready to operate."
+to french "Vous avez creusé une mine de O1(ns). Elle est prête à fonctionner.";
+
+translate "Automate this mine"
+to french "Automatiser le fonctionnement";
+
+translate "To automate a mine, you need: "
+to french "Pour automatiser le fonctionnement de cette mine, il vous faut : ";
+translate "N1 O1"
+to french "N1 O1(N1?np:ns)";
+
+translate "The mine is working automatically."
+to french "La mine fonctionne automatiquement.";
+
+translate "The mine collapsed!"
+to french "La mine s'est effondrée !";
+
+translate "The mine has become unstable. Dig to deeper ground to continue work."
+to french "La mine est devenue instable. Vous devez creuser plus profondément pour continuer à travailler.";
+
+translate "While working the mine, you uncover several pieces of flint."
+to french "En travaillant dans la mine, vous découvrez plusieurs morceaux de silex.";
+
+translate "While working the mine, you uncover a nice round medium stone."
+to french "En travaillant dans la mine, vous découvrez une belle pierre ronde.";
+
+translate "While Working the mine, you discover a vein of Coal"
+to french "En travaillant dans la mine, vous découvrez une veine de charbon.";
+
+translate "You work to loosen material from the mine."
+to french "Vous travaillez à extraire du minerai de la mine.";
+
+translate "While working the mine, you discovered a O1!"
+to french "En travaillant dans la mine, vous découvrez O1(^uns) O1(ns) !";
+
+translate "Start producing O1"
+to french "Commencer la production de O1(ns)";
+
+translate "The mine's holding area is full."
+to french "La zone de stockage de la mine est pleine.";
+
+translate "Stop this mine"
+to french "Arrêter la mine";
+
+translate "Stash how many O1? (Max N1)"
+to french "Entreposer combien de O1(np) ? (Max N1)";
+
+translate "Repair and Expand this mine"
+to french "Réparer et étendre cette mine";
+
+translate "Expand this mine"
+to french "Etendre cette mine";
+
+translate "Normally you don't want to expand a mine unless it has collapsed. There may be exceptions, such as if you're trying to dig for coal, but you're usually wasting resources."
+to french "En temps normal, il est superflu d'étendre une mine qui ne s'est pas effondrée. Il y a cependant des exceptions, par exemple si vous recherchez du charbon, mais c'est en général un gaspillage de ressources.";
+
+translate "Examining the mine..."
+to french "Examiner la mine...";
+
+translate "To find more ore you must expand from level N1 to the vein at level N2. You must stash: "
+to french "Pour remonter plus de minerai, vous devez passer du niveau N1 au niveau N2. Vous devez entreposer : ";
+translate "N1 O1"
+to french "N1 O1(N1?np:ns)";
+
+translate "To expand this mine from level N1 to level N2, you must stash: "
+to french "Pour passer cette mine du niveau N1 au niveau N2, vous devez entreposer :";
+
+translate "This mine is now in good shape, and at depth N1"
+to french "Cette mine est à présent en bon état, et de profondeur N1.";
+
+translate "Mine at N1 N2 N3 is O1"
+to french "La mine de N1 N2 N3 est une mine de O1(ns)";
+
+translate "The compass spins violently, tearing the needle from the delicate filament."
+to french "Votre boussole tourne brusquement, arrachant l'aiguille du fragile filament.";
+
+translate "You notice no unusual motion to the compass."
+to french "Vous ne notez aucun mouvement inhabituel sur votre boussole";
+
+translate "Ore and Minerals, Volume 1, by King Octec"
+to french "Minerai et Minéraux - Tome 1 - Par le pharaon Octec";
+
+translate "Copper Ore, according to my calculations, occurs over roughly 3% of Egypt. Although nothing short of digging randomly for it has been found to work in an unexplored area, once a single mine has been located, other good locations are adjacent."
+to french "Le minerai de cuivre, selon mes calculs, se trouve sur environ 3% du territoire égyptien. Si creuser au hasard n'a jamais rien donné, il a été noté qu'une fois qu'une veine de cuivre est découverte, d'autres veines de cuivre se trouvent dans les environs.";
+
+translate "Iron Ore is easier, even though it only covers 1% of Egypt. (The book goes on to describe an involved procedure whereby huge amounts of silver and something referred to as heatmetal are refined into a 'fragile compass.')"
+to french "Le minerai de fer est plus facile, même si on ne le trouve que sur 1% du territoire égyptien. (Le livre décrit ensuite une procédure utilisant d'énormes quantités d'argent, et quelque chose appelé Métal Aimant qui sert à fabriquer une 'fragile boussole'.)";
+
+translate "Aluminum exists in the golden spine area of Egypt, but no reliable methods of discovery are known."
+to french "L'aluminium se trouve dans l'";
+
+translate "All copies of this book have a fragile compass inserted into their spine."
+to french "Tous les exemplaires de ce livre possèdent une fragile boussols insérée dans leur reliure.";
+
+translate "Ore and Minerals, Volume 2, by King Octec"
+to french "Minerai et Minéraux - Tome 2 - Par le pharaon Octec";
+
+translate "Copper Ore, according to my calculations, occurs over roughly 3% of Egypt. Although nothing short of digging randomly for it has been found to work in an unexplored area, once a single mine has been located, other good locations are adjacent."
+to french "Le minerai de cuivre, selon mes calculs, se trouve sur environ 3% du territoire égyptien. Si creuser au hasard n'a jamais rien donné, il a été noté qu'une fois qu'une veine de cuivre est découverte, d'autres veines de cuivre se trouvent dans les environs.";
+
+translate "Iron Ore is easier, even though it only covers 1% of Egypt. (The book goes on to describe an involved procedure whereby huge amounts of silver and something referred to as heatmetal are refined into a 'fragile compass.')"
+to french "Le minerai de fer est plus facile, même si on ne le trouve que sur 1% du territoire égyptien. (Le livre décrit ensuite une procédure utilisant d'énormes quantités d'argent, et quelque chose appelé Métal Aimant qui sert à fabriquer une 'fragile boussole'.)";
+
+translate "Iron and Copper run in long veins, roughly 500 feet wide. Aluminum exists, with 50% probability, where veins of iron and copper cross."
+to french "Le fer et le cuivre se présentent en veines d'environ 500 pieds de largeur. L'aluminium se trouve aussi près des veines de cuivre et de fer, à une probabilité de 50%.";
+
+translate "All copies of this book have a fragile compass inserted into their spine."
+to french "Tous les exemplaires de ce livre possèdent une fragile boussols insérée dans leur reliure.";
+
+
+translate "Unusual Minerals, Volume 1. A Special Report. While certain ores are found deep within the earth, only accessibly by mine, others can be found at more shallow depths. For instance, Gypsum and Bauxite deposits each cover more than ten percent of Egypt, and will turn up with increasing frequency when digging for cuttable stones, provided you select the right spot to dig. "
+to french "Minéraux rares - Tome 1. Rapport spécial. Si certains minerais se trouvent dans les profondeurs de la terre et ne peuvent être extraits que par des mines, d'autres se trouvent à des profondeurs moins importantes. C'est le cas des gisements de gypse et de bauxite, qui recouvrent 10% du territoire égyptien. Ces gisements sont souvent découverts alors que vous recherchez des pierres à tailler, à condition de choisir le bon endroit évidemment.";
+
+translate "Unusual Minerals, Volume 2. A Special Report. Gypsum and Bauxite, while being the most common minerals found just below ground are not the only ones. For instance, samples of a blood-red sand have occasionally turned up. Some of these minerals may have uses, while other are best considered novelties for eccentric collectors."
+to french "Minéraux rares - Tome 1. Rapport spécial. Le gypse et la bauxite, qui sont parmis les minéraux les plus courants, ne sont pas les seuls dans ce cas. Par exemple, on découvre de temps en temps des veines de sable rouge. Certains de ces minéraux sont utiles, d'autres sont plus considérés comme des curiosités pour collectionneurs excentriques.";
+
+translate "You can only do this every 5 minutes."
+to french "Vous ne pouvez le faire qu'une fois toutes les 5 minutes.";
+
+translate "Check this mine for instability"
+to french "Vérifier la stabilité de la mine";
+
+translate "The mine appears totally stable - no other mines are nearby."
+to french "Cette mine semble totalement stable - il n'y a aucune autre mine à proximité.";
+
+translate "This mine looks stable. It is N1 feet from the nearest mine."
+to french "Cette mine semble stable - la mine la plus sproche est à N1 pieds.";
+
+translate "This mine is unstabe and could be torn down. It is N1 feet from the nearest mine."
+to french "Cette mine est instable et peut être détruite. La mine la plus proche est à N1 pieds.";
+
+translate "Set Worker Keeps Ratio"
+to french "Déterminer la paie des travailleurs";
+
+translate "How many pulls, per 10, shall a non-owner of this mine keep?"
+to french "Combien d'extractions sur 10 une personne ne possédant pas cette mine peut-elle conserver ?";
+
+translate "Workers will keep N1 pulls per 10 of the mine's output."
+to french "Les mineurs conserveront pour eux N1 extractions sur 10 provenant de cette mine.";
+
+
+translate MineRecovery to french feminine
+{
+	ns "Récup. de mines"; np "Récup. de mines";
+	}
+
+translate "Allows complete recovery and replenishment of mines, when undisturbed."
+to french "Vous permet de pouvoir exploiter de nouveau une mine laissée à l'abandon";
+
+translate "MineRecovery (Completed)"
+to french "Récup. de mines (Achevé)";

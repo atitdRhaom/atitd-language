@@ -1,0 +1,57 @@
+Module TestOfTheBedouin_fre;
+
+translate "Train your body, by seeking distant altars."
+to french "Entrainez votre corps, en cherchant des autels lointains";
+
+translate "Injure a royal catus"
+to french "Blessez un cactus royal";
+
+translate "Collect Cactus Sap from a cactus"
+to french "Collectez de la sève de cactus";
+
+translate "Anoint 14 altars"
+to french "Oignez 14 autels";
+
+translate "You have completed Principles of Bedouin.  You may now continue your training to pass the Test of the Bedouin."
+to french "Vous avez complété les principes du bédouin. Vous pouvez continuer à vous entrainer pour passer le test";
+
+translate "The Test of the Bedouin is a special award given to those that prove themselves the best explorers of our land. When you visit an altar, anoint it with a drop of Cactus Sap. The longer that that altar remains unanointed by others, the better. Every 24 hours, the best explorers will receive an advancement in the Test of the Bedouin."
+to french "L'épreuve du bédouin est une récompense spéciale accordée à ceux qui se prouvent à eux-mêmes qu'ils sont les meilleurs explorateurs de notre pays. Lorsque vous visitez un autel, oignez le avec une goutte de sève de cactus. Plus longtemps l'autel restera non oint par d'autres, le mieux ce sera. Toutes les 24h, le meilleur explorateur recevra de l'avancement dans l'épreuve";
+
+translate "Anoint the altar with Cactus Sap"
+to french "Oignez cet autel avec de la sève de cactus";
+
+translate "You need a single drop of Cactus Sap to anoint this altar."
+to french "Vous avez besoin d'une seule goutte de sève de cactus pour oindre cet autel";
+
+translate "You have already anointed this altar."
+to french "Vous avez déjà oint cet autel";
+translate "You have anointed this altar."
+to french "Vous avez oint cet autel";
+
+translate "Injure a royal cactus"
+to french "Blesser un cactus royal";
+
+translate "Anoint 14 different altars"
+to french "Oindre 14 différents autels";
+
+translate "U1 has Bedouin score of N1"
+to french "U1(name) a obtenu un score de bédouin de N1";
+
+translate "Previous Bedouin Count: N1"
+to french "Scrore de bédouin précédent: N1";
+
+translate "Bedouin Score for U1 is N1"
+to french "Le score de bédouin pour U1(name) est N1";
+
+translate "You have placed in the top N1 Bedouin. You have done this N2 time(s)."
+to french "Vous vous placez dans les N1 meilleurs bédouins. Vous avez fait ceci N2 fois.";
+
+translate "Test of the Bedouin Info"
+to french "Informations sur l'épreuve du bédouin";
+
+translate "Bedouin Score for U1 is N1. Wins=N2"
+to french "Score de bédouin pour U1(name) est N1. Victoires=N2";
+
+translate "Speed of the Bedouin"
+to french "Vitesse du bédouin";

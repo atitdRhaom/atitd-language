@@ -1,0 +1,7 @@
+module mushrooms_fre;
+
+translate "This is a generator for O1"
+to french "Ceci est un générateur à O1(np)";
+
+translate "Mushrooms"
+to french "Champignons";

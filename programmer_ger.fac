@@ -1,0 +1,30 @@
+module programmer_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Games **
+//**    (C)opyright 2002,2003 by Joerg Schoenfelder, jschoenf@gmx.de       **
+//**                                                                       **
+//***************************************************************************
+//menues
+translate "Turn off Programmer menu (F10)"
+to german "Programmier-Menu ausschalten(F10)";
+
+translate "Turn on Programmer menu (F10)"
+to german "Programmier-Menu einschalten(F10)";
+
+translate "File not found"
+to german "Datei nicht gefunden";
+
+translate "Compiling..."
+to german "Kompiliere...";
+
+translate "Compilation in progress."
+to german "Kompilierung in Arbeit.";
+
+translate "Compilation Successful"
+to german "Kompilierung erfolgreich";
+
+translate "Compile local file..."
+to german "Kompiliere lokale Datei...";

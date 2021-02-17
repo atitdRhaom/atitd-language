@@ -1,0 +1,225 @@
+Module signs_fre;
+
+translate RoadSign to french masculine
+{
+	ns "panneau indicateur"; np "panneaux indicateurs";
+	}
+	
+translate RoadSign1 to french masculine
+{
+	ns "panneau indicateur 1"; np "panneaux indicateurs 1";
+	}
+
+translate RoadSign2 to french masculine
+{
+	ns "panneau indicateur 2"; np "panneaux indicateurs 2";
+	}
+
+translate RoadSign3 to french masculine
+{
+	ns "panneau indicateur 3"; np "panneaux indicateurs 3";
+	}
+
+translate RoadSignx to french masculine
+{
+	ns "panneau indicateur x"; np "panneaux indicateurs x";
+	}
+
+translate LocationBanner to french feminine
+{
+	ns "bannière de localisation"; np "bannières de localisation";
+	}
+
+translate "This is an official Road Sign"
+to french "Ceci est un panneau indicateur officiel";
+
+translate "-"
+to french "-";
+
+translate "Click a specific part of the sign"
+to french "Cliquez sur un indicateur";
+
+translate "This location is K1"
+to french "Cet endroit s'appelle K1";
+
+translate "This location is "
+to french "Cet endroit s'appelle ";
+
+translate "Names"
+to french "Noms";
+
+translate "Add an Official Location Name"
+to french "Ajouter un nom officiel";
+
+translate "Check spelling and watch capitalization:"
+to french "Attention à l'orthographe et aux majuscules";
+
+translate "Change an Official Location Name"
+to french "Modifier un nom officiel";
+
+translate "Are you sure you want to remove the official name: K1"
+to french "Voulez-vous vraiement effacer le nom officiel K1 ?";
+
+translate "Change K1 to: (Blank to remove)"
+to french "Changer K1 en : (laissez vide pour effacer)";
+
+translate "The name K1 is on a sign somewhere. Remove the name anyway?"
+to french "Le nom K1 se trouve sur un panneau quelque part. Voulez-vous effacer ce nom ?";
+
+translate "Set Destination"
+to french "Déterminer la destination";
+
+translate "Set Location"
+to french "Déterminer l'emplacement";
+
+translate "Set Time"
+to french "Déterminer le temps";
+
+
+translate UThoughtSign to french feminine
+{
+	ns "Université de Pensée"; np "Universités de Pensée";
+	}
+
+translate UWorshipSign to french feminine
+{
+	ns "Université de Vénération"; np "Universités de Vénération";
+	}
+
+translate UTheHumanBodySign to french feminine
+{
+	ns "Université du Corps Humain"; np "Universités du Corps Humain";
+	}
+
+translate UArchitectureSign to french feminine
+{
+	ns "Université d'Architecture"; np "Universités d'Architecture";
+	}
+
+translate UConflictSign to french feminine
+{
+	ns "Université de Conflit"; np "Universités de Conflit";
+	}
+
+translate UArtSign to french feminine
+{
+	ns "Université d'Art et Musique"; np "Universités d'Art et Musique";
+	}
+
+translate SThoughtSign to french feminine
+{
+	ns "Ecole de Pensée"; np "Ecoles de Pensée";
+	}
+
+translate SWorshipSign to french feminine
+{
+	ns "Ecole de Vénération"; np "Ecoles de Vénération";
+	}
+
+translate STheHumanBodySign to french feminine
+{
+	ns "Ecole du Corps Humain"; np "Ecoles du Corps Humain";
+	}
+
+translate SArchitectureSign to french feminine
+{
+	ns "Ecole d'Architecture"; np "Ecoles d'Architecture";
+	}
+
+translate SConflictSign to french feminine
+{
+	ns "Ecole de Conflit"; np "Ecoles de Conflit";
+	}
+
+translate SArtSign to french feminine
+{
+	ns "Ecole d'Art et Musique"; np "Ecoles d'Art et Musique";
+	}
+
+translate "School of Art & Music"
+to french "Ecole des Arts et de la Musique";
+
+translate "Slate"
+to french "Ardoise";
+
+translate "Sand"
+to french "Sable";
+
+translate "PYRO STADIUM"
+to french "Stadium de Pyrotechnie";
+
+translate "Art Gallery"
+to french "Gallerie d'Art";
+
+translate "CAUTION ! Speed Bump"
+to french "DANGER ! Terrain cahotique";
+
+translate "PHARAOH'S FIELD"
+to french "Terrain de Pharaon";
+
+translate "More Schools - 5 Minutes"
+to french "Ecoles - 5 minutes";
+
+
+translate StellaeConstruction to french feminine
+{
+  ns "Construction de stèles"; np "Construction de stèles";
+}
+
+translate Stella to french feminine
+{
+  ns "Stèle"; np "Stèles";
+}
+
+translate SignConstruction to french feminine
+{
+  ns "Construction de panneaux"; np "Construction de panneaux";
+}
+
+translate BasicSign1 to french masculine
+{
+  ns "Panneau"; np "Panneaux";
+}
+
+translate "Single Sign" to french "Panneau";
+
+translate "Rotproof Black Boards" to french "Planches Imputrescible noires";
+
+translate "Allows the creation and modification of Stellae, for use as signs and markers."
+to french "Permet la création et la modification de stelles, pouvant être utilisées en tant que panneaux indicateurs.";
+
+translate "Allows the creation of simple signs."
+to french "Permet la construction de panneaux.";
+
+translate "Label this Stella"
+to french "Intituler cette stèle";
+
+translate "Label, 60 characters:"
+to french "Titre, 60 caractères:";
+
+translate "Length of text is N1. Limit is N2."
+to french "La longueur de ce texte est de N1 caractère. La limite est fixée à N2.";
+
+translate "Edit the description"
+to french "Graver des inscriptions";
+
+translate "Description, 250 characters:"
+to french "Description, 250 caractères:";
+
+translate "Read the creator's notes"
+to french "Lire les inscriptions";
+
+translate "Stella"
+to french "Stèle";
+
+translate "To build a Stella, you need:"
+to french "Pour ériger une stèle, il vous faut:";
+
+translate "Signs"
+to french "Panneaux";
+
+translate "Basic Sign"
+to french "Panneau basique";
+
+translate "To build a Basic Sign, you need:"
+to french "Pour construire un panneau basique, il vous faut :";

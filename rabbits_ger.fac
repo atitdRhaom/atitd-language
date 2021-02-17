@@ -1,0 +1,113 @@
+module rabbits_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Games **
+//**    (C)opyright 2002,2003 by MDO Games 			           **
+//**                                                                       **
+//***************************************************************************
+
+//menues
+
+translate "Build a Rabbit Hutch"
+to german "Baue einen Hasenstall";
+
+translate "Projects/Farming/Build a Rabbit Hutch"
+to german "Projekte/Landwirtschaft/Baue einen Hasenstall";
+
+//objects
+
+translate RabbitHutch to german masculine
+{
+swa "Hasenstall";
+  sn "Hasenstall"; sg "Hasenstalles"; sd "Hasenstall"; sa "Hasenstall";
+  pn "Hasenställe"; pg "Hasenställe"; pd "Hasenställen"; pa "Hasenställe";
+}
+translate Rabbit to german masculine
+{
+swa "Hase";
+  sn "Hase"; sg "Hasen"; sd "Hasen"; sa "Hasen";
+  pn "Hasen"; pg "Hasen"; pd "Hasen"; pa "Hasen";
+}
+translate RabbitMale to german neuter
+{
+swa "Hasenmännchen";
+  sn "Hasenmännchen"; sg "Hasenmännchens"; sd "Hasenmännchen"; sa "Hasenmännchen";
+  pn "Hasenmännchen"; pg "Hasenmännchen"; pd "Hasenmännchen"; pa "Hasenmännchen";
+}
+translate RabbitFemale to german neuter
+{
+swa "Hasenweibchen";
+  sn "Hasenweibchen"; sg "Hasenweibchens"; sd "Hasenweibchen"; sa "Hasenweibchen";
+  pn "Hasenweibchen"; pg "Hasenweibchen"; pd "Hasenweibchen"; pa "Hasenweibchen";
+}
+translate RabbitPelt to german masculine
+{
+swa "Hasenpelz";
+  sn "Hasenpelz"; sg "Hasenpelzes"; sd "Hasenpelz"; sa "Hasenpelz";
+  pn "Hasenpelzen"; pg "Hasenpelzen"; pd "Hasenpelzen"; pa "Hasenpelzen";
+}
+translate RabbitMeat to german neutercollective
+{
+swa "Hasenfleisch";
+  sn "Hasenfleisch"; sg "Hasenfleisches"; sd "Hasenfleisch"; sa "Hasenfleisch";
+  pn "Hasenfleisch"; pg "Hasenfleisch"; pd "Hasenfleisch"; pa "Hasenfleisch";
+}
+
+//texts
+
+translate "To build a Rabbit Hutch you need:"
+to german "Um einen Hasenstall zu bauen, brauchst du:";
+
+translate "The hutch contains N1 male, and N2 female rabbits."
+to german "Im Hasenstall sind N1 männliche und N2 weibliche Hasen.";
+
+translate "There are N1 carrots in the feed bowls"
+to german "Es sind N1 Karotten in den Futterschüsseln";
+
+translate "The rabbits noticed that they were running out of food, and escaped!"
+to german "Die Hasen haben bemerkt, das das Futter ausgeht und sind geflüchtet!";
+
+translate "The hutch got overcrowded, and the rabbits all escaped!"
+to german "Der Stall war überfüllt und die Hasen sind alle geflüchtet!";
+
+translate "Baby rabbits! N1 male, and N2 female."
+to german "Hasennachwuchs! N1 männliche und N2 weibliche.";
+
+translate "The rabbits are doing fine, but are not breeding."
+to german "Den Hasen geht es gut, doch sie vermehren sich nicht.";
+
+translate "Put Male Rabbits in the hutch"
+to german "Setze männliche Hasen in den Stall";
+
+translate "How many Males?"
+to german "Wieviele Männchen?";
+
+translate "Put Female Rabbits in the hutch"
+to german "Setze weibliche Hasen in den Stall";
+
+translate "How many Females?"
+to german "Wieviele Weibchen?";
+
+translate "Feed the rabbits"
+to german "Füttere die Hasen";
+
+translate "How many Carrots?"
+to german "Wieviele Karotten?";
+
+translate "Slaughter a Male Rabbit"
+to german "Schlachte einen männlichen Hasen";
+
+translate "Slaughter a Female Rabbit"
+to german "Schlachte einen weiblichen Hasen";
+
+translate "Slaughter the last O1?"
+to german "Schlachte O1(dsn) letzte O1(sn)?";
+
+translate "With expert knifework you were able to preserve a perfect rabbit pelt."
+to german "Mit kundiger Messerarbeit war es dir möglich, einen perfekten Hasenpelz zu machen.";
+
+translate "RabbitCheck: N1 N2"
+to german "Hasenprüfung: N1 N2";
+

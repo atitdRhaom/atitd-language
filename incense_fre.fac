@@ -1,0 +1,285 @@
+module incense_fre;
+
+translate ScentLab to french masculine
+{
+  ns "Laboratoire à encens"; np "Laboratoires à encens";
+}
+translate ISHoney to french masculine
+{
+  ns "Miel"; np "Miel";
+}
+translate ISClover to french masculine
+{
+  ns "Trêfle"; np "Trêfle";
+}
+translate ISSandalwood to french masculine
+{
+  ns "Bois de Santal"; np "Bois de Santal";
+}
+translate ISMusk to french masculine
+{
+  ns "Musc"; np "Musc";
+}
+translate ISOpium to french masculine
+{
+  ns "Opium"; np "Opium";
+}
+translate ISOrientalSpices to french feminine
+{
+  ns "Epices orientales"; np "Epices orientales";
+}
+translate ISMyrrh to french feminine
+{
+  ns "Myrrhe"; np "Myrrhe";
+}
+translate ISCitrus to french masculine
+{
+  ns "Agrume"; np "Agrume";
+}
+translate ISPatchouli to french masculine
+{
+  ns "Patchouli"; np "Patchouli";
+}
+translate ISJasmine to french masculine
+{
+  ns "Jasmin"; np "Jasmin";
+}
+translate ISPine to french masculine
+{
+  ns "Pin"; np "Pin";
+}
+translate ISFlowers to french feminine
+{
+  ns "Fleurs"; np "Fleurs";
+}
+translate ISClove to french masculine
+{
+  ns "Clou de Girofle"; np "Clou de Girofle";
+}
+translate IncenseHolderOn to french masculine
+{
+  ns "Diffuseur d'encens"; np "Diffuseurs d'encens";
+}
+translate IncenseHolderOff to french masculine
+{
+  ns "Diffuseur d'encens"; np "Diffuseurs d'encens";
+}
+translate Incense to french masculine
+{
+  ns "Encens"; np "Encens";
+}
+translate Resin to french feminine
+{
+  ns "Résine"; np "Résines";
+}
+translate IncenseProng to french masculine
+{
+  ns "Pic à encens"; np "Pics à encens";
+}
+
+translate gentle to french feminine
+{
+  ns "douce"; np "douce";
+}
+
+translate hopeful to french feminine
+{
+  ns "confiante"; np "confiante";
+}
+
+translate joyous to french feminine
+{
+  ns "joyeuse"; np "joyeuse";
+}
+
+translate melancholious to french feminine
+{
+  ns "mélancolique"; np "mélancolique";
+}
+
+translate relaxed to french feminine
+{
+  ns "détendue"; np "détendue";
+}
+
+translate serene to french feminine
+{
+  ns "sereine"; np "sereine";
+}
+
+translate sorrowful to french feminine
+{
+  ns "triste"; np "triste";
+}
+
+translate vengeful to french feminine
+{ ns "vengeresse"; np "vengeresses";}
+
+translate "Delta Palm Resin"
+to french "Résine: Delta Palm";
+
+translate "Towering Palm Resin"
+to french "Résine: Towering Palm";
+
+translate "Monkey Palm Resin"
+to french "Résine: Monkey Palm";
+
+translate "Umbrella Palm Resin"
+to french "Résine: Umbrella Palm";
+
+translate "Pratyeka Tree Resin"
+to french "Résine: Pratyeka Palm";
+
+translate "Folded Birch Resin"
+to french "Résine: Folded Birch";
+
+translate "Spindle Tree Resin"
+to french "Résine: Spindle Tree";
+
+translate "Cerulean Blue Resin"
+to french "Résine: Cerulean Blue";
+
+translate "Cricklewood Resin"
+to french "Résine: Cricklewood";
+
+translate "Hawthorn Resin"
+to french "Résine: Hawthorn";
+
+translate "Allows one to expertly blend fragrant incense, using a Scent Lab and Incense Prong."
+to french "Permet d'assortir d'une main experte les arômes d'encens, grâce à un laboratoire et un pic à encens";
+
+translate "Scent Lab"
+to french "Laboratoire à encens";
+
+translate "Incense Burner"
+to french "Diffuseur d'encens";
+
+translate "Windproof Incense Burner (Normal)"
+to french "Diffuseur d'encens protégé du vent (Normal)";
+
+translate "Windproof Incense Burner (Long-Burning)"
+to french "Diffuseur d'encens protégé du vent (Durable)";
+
+translate "Build a Scent Lab"
+to french "Laboratoire à encens";
+
+translate "To build a Scent Lab you need:"
+to french "Pour construire un laboratoire à encens, il vous faut:";
+
+translate "To build a Incense Burner, you need:"
+to french "Pour construire un diffuseur d'encens, il vous faut:";
+
+translate "Resin Count: N1"
+to french "Quantité de résine: N1";
+
+translate "Resin oozes from the tree"
+to french "La résine suinte sur l'écorce de l'arbre";
+
+translate "Gather the resin"
+to french "Recueillir la résine";
+
+translate "Gather the resin and nick the O1"
+to french "Recueillir la résine et blesser ce O1(ns)";
+
+translate "Nick the O1 with your Resin Wedge"
+to french "Blesser cet arbre avec votre collecteur de résine";
+
+translate "You gathered N1 O1 resin."
+to french "Vous avez recueilli N1 résines O1(N1?np:ns).";
+
+translate "Re-nick the O1"
+to french "Blesser à nouveau cet arbre";
+
+translate "There isn't enough to gather."
+to french "Il n'y en a pas suffisament pour la récolter.";
+
+translate "weakness"
+to french "faiblesse";
+
+translate "clumsyness"
+to french "maladresse";
+
+translate "lethargy"
+to french "léthargie";
+
+translate "sluggishness"
+to french "langueur";
+
+translate "fragility"
+to french "fragilité";
+
+translate "forgettfulness"
+to french "oubli";
+
+translate "confusion"
+to french "confusion";
+
+translate "Start a batch of incense"
+to french "Lancer la fabrication d'encens";
+
+translate "To start a batch of incense requires:"
+to french "Pour lancer la fabrication d'encens, il vous faut:";
+
+translate "You'll need to cut the materials in with a Pewter Incense Prong."
+to french "Vous devez entamer les matériaux avec un pic à encens.";
+
+translate "Add Herb"
+to french "Ajouter une herbe";
+
+translate "Added some K1"
+to french "Vous avez ajouté de la K1";
+translate "Added some O1"
+to french "Vous avez ajouté de la O1(ns)";
+
+translate "Add Resin"
+to french "vous avez ajouter de la résine";
+
+translate "Added some K1 resin."
+to french "Vous avez ajouter de la résine K1.";
+translate "Added some O1 resin."
+to french "Vous avez ajouter de la résine O1(ns).";
+
+translate "Add Petals of Ra"
+to french "Ajouter des pétales de Râ";
+
+translate "Added some K1 petals."
+to french "Vous avez ajouter des pétales K1.";
+translate "Added some O1 petals."
+to french "Vous avez ajouter des pétales O1(ns).";
+
+translate "Take the Incense"
+to french "Prendre l'encens";
+
+translate "Name of Incense?"
+to french "Nom de l'encens?";
+
+translate "Burn a little pinch of the mixture"
+to french "Brûler une pincée du mélange";
+
+
+translate "You catch a whiff of quality N1 O1 scented incense. You are filled with a O2 K1, yet a bit of K2."
+to french "Vous attrapez une bouffée de qualité N1 O1(ns) d'encens parfumé. Vous êtes rempli de K1 O2(ns), et encore un peu de K2";
+translate "You catch a whiff of quality N1 O1 scented incense. You are filled with a O2 speed, yet a bit of weakness."
+to french "Vous attrapez une bouffée de qualité N1 O1(ns) d'encens parfumé. Vous êtes rempli de vitesse O2(ns), et encore un peu de faiblesse";
+translate "You catch a whiff of quality N1 O1 scented incense. You are filled with a O2 strength, yet a bit of lethargy."
+to french "Vous attrapez une bouffée de qualité N1 O1(ns) d'encens parfumé. Vous êtes rempli de force O2(ns), et encore un peu de léthargie";
+translate "Light some Incense"
+to french "Brûler de l'encens";
+
+translate "Snuff out the incense"
+to french "Eteindre l'encens";
+
+translate "Attribute to Increase:"
+to french "Attribut à augmenter:";
+
+translate "Attribute to Decrease:"
+to french "Attribut à diminuer:";
+
+translate "Feeling:"
+to french "Sensation:";
+
+translate "Scent:"
+to french "Odeur:";
+
+translate "You have taken the resin. The tree will produce more if you nick it with a Resin Wedge."
+to french "Vous avez récolté la résine. L'arbre en produira davantage si vous le blessez avec un collecteur à résine.";

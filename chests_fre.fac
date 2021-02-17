@@ -1,0 +1,322 @@
+module chests_fre;
+
+translate chest to french masculine
+{
+	ns "Petit coffre"; np "Petits coffres";
+	}
+
+translate largechest to french masculine
+{
+	ns "grand coffre"; np "grands coffres";
+	}
+translate megachest to french masculine
+{
+	ns "Méga coffre"; np "Méga coffres";
+	}
+
+translate hugechest to french masculine
+{
+	ns "gigantesque coffre"; np "gigantesques coffres";
+	}
+	
+translate Warehouse to french masculine
+{
+	ns "Entrepôt"; np "Entrepôts";
+	}
+	
+translate SmallWarehouse to french masculine
+{
+	ns "Petit entrepôt"; np "Petits entrepôts";
+	}
+translate MediumWarehouse to french masculine
+{
+	ns "Moyen entrepôt"; np "Moyens entrepôts";
+	}
+
+translate LargeWarehouse to french masculine
+{
+	ns "grand entrepôt"; np "grands entrepôts";
+	}
+
+translate FragileChest to french masculine
+{
+	ns "Coffre fragile"; np "Coffres fragiles";
+	}
+	
+translate StorageBasket to french masculine
+{
+	ns "Panier de stockage"; np "Paniers de stockage";
+	}
+
+
+translate "Chests"
+to french "Coffres";
+
+translate "Chest"
+to french "Coffre";
+
+translate "Build a chest"
+to french "Fabriquer un coffre";
+
+translate "Box" to french "Petit coffre";
+
+translate "Stash"
+to french "Déposer";
+
+translate "Large chest"
+to french "Grand coffre";
+
+translate "Browse Contents"
+to french "Voir le contenu";
+
+translate "Huge chest"
+to french "Coffre gigantesque";
+
+translate "You"
+to french "Vous";
+
+translate "The Public"
+to french "Tout le monde";
+
+translate "This chest belongs to U1"
+to french "Ce coffre appartient à U1(name)";
+
+translate "This chest belongs to You"
+to french "Ce coffre vous appartient";
+
+translate "This chest belongs to The Public"
+to french "Ce coffre appartient à tout le monde";
+
+translate "The O1 is N1% full (N2 of N3.)"
+to french "O1(^cns) O1(ns) est rempli à N1% (N2 de N3)";
+
+translate "Tear down this chest"
+to french "Détruire ce coffre";
+
+translate "To build a Chest you need:"
+to french "Pour fabriquer un grand coffre, il vous faut :";
+
+translate "To build a Box you need:"
+to french "Pour fabriquer un petit coffre, il vous faut :";
+
+translate "N1 O1"
+to french "N1 O1(N1?np:ns)";
+
+translate "To build a Large Chest you need:"
+to french "Pour construire un grand coffre, il vous faut :";
+
+translate "To build a huge chest you need:"
+to french "Pour construire un gigantesque coffre, il vous faut :";
+
+translate "It's locked."
+to french "C'est fermé.";
+
+translate "Cruelty! You can't put a sheep in a chest..."
+to french "Ne mettez pas un mouton dans un coffre, c'est cruel !";
+
+translate "Cruelty! You can't put a chicken in a chest..."
+to french "Ne mettez pas un poulet dans un coffre, c'est cruel !";
+
+translate "Cruelty! You can't put a rabbit in a chest..."
+to french "Ne mettez pas un lapin dans un coffre, c'est cruel !";
+
+translate "You can't fit any more O1 in the O2!"
+to french "Vous ne pouvez plus mettre de O1(ns) dans O2(^lns) O2(ns)";
+
+translate "Chest Label:"
+to french "Nom du coffre :";
+
+translate "Dump everything into the O1"
+to french "Tout mettre dans O1(^lns) O1(ns)";
+
+translate "Upgrade to a Large Chest"
+to french "Transformer en grand coffre";
+
+translate "To upgrade this to a Large Chest, you need:"
+to french "Pour le transformer en grand coffre, il vous faut :";
+
+translate "Upgrade to a Huge Chest"
+to french "Transformer en gigantesque coffre";
+
+translate "To upgrade this to a Huge Chest, you need:"
+to french "Pour le transformer en gigantesque coffre, il vous faut :";
+
+translate "Designate as a display chest"
+to french "En faire un coffre d'exposition";
+
+translate "clear the display chest designation"
+to french "Ne plus en faire un coffre d'exposition";
+
+translate "check for coverage under the departed persons reclamation act"
+to french "Consulter la loi concernant les propriétés des personnes disparues";
+
+translate "Weight"
+to french "Poids";
+
+translate "weight: N1 Bulk: N2"
+to french "Poids: N1 Encombrement N2";
+
+translate "Bulk"
+to french "Encombrement";
+
+translate "Copy Contents to Clipboard"
+to french "Copier le contenu.";
+
+translate "Dig a Basement in this Small Warehouse"
+to french "Construire un sous-sol dans ce petit entrepôt";
+
+translate "Upgrade to Large warehouse"
+to french "Améliorer vers un grand entrepôt";
+
+translate "To build shelves and create more storage space, you need:"
+to french "Pour construire des étagèes et créer ainsi plus d'espace de stockage, il vous faut : ";
+
+//translate "Built K1 ago by U1 (Year K2, K3 K4, K5am)"
+//to french "Construit il y a K1 par U1(name) (An K2, K3 K4, K5 le matin)";
+//translate "Built K1 ago by U2 (Year K2, K3 K4, K5am)"
+//to french "Construit il y a K1 par U2(name) (An K2, K3 K4, K5 le matin)";
+//translate "Built K1 ago by U1 (K2)"
+//to french "Construit il y a K1 par U1(name) (K2)";
+//translate "Built K1 ago by U1 (K3)"
+//to french "Construit il y a K1 par U1(name) (K3)";
+
+//translate "Built K1 ago by U2 (K2)"
+//to french "Construit il y a K1 par U2(name) (K2)";
+//translate "Built K1 ago by U2 (K3)"
+//to french "Construit il y a K1 par U2(name) (K3)";
+
+
+translate "O1: K1 N1"
+to french "O1(ns): K1 N1";
+
+translate "This O1 is N1% full (N2 of N3.)"
+to french "O1(^cns) O1(ns) est rempli à N1% (N2 de N3)";
+
+translate "Your O1 is N1% full (N2 of N3.)"
+to french "Votre O1(ns) est rempli à N1% (N2 de N3)";
+
+translate "O1 Label: "
+to french "Nom O1(dns) O1(ns)";
+
+translate "Are you sure you want to tear down this O1?"
+to french "Êtes-vous certain de vouloir détruire O1(cns) O1(ns)?";
+
+translate "Tear down"
+to french "Détruire";
+
+translate "All O1"
+to french "O1(^tnp) O1(np)";
+
+translate "O1 contains N1 O2:K1. Take how many?"
+to french "O1(cns) O1(ns) contient N1 O2(N1?np:ns):K1. Combien voulez-vous en prendre?";
+
+translate "Add Log"
+to french "Activer l'historique";
+
+translate "Add Log (Already N1)"
+to french "Activer l'historique (déjà activé par quelqu'un d'autre)";
+
+translate "Remove Log"
+to french "Désactiver l'historique";
+
+translate "View Log"
+to french "Voir l'historique";
+
+translate "   Log Started K1 ago."
+to french "   L'historique a été activé il y a K1.";
+
+translate "Log of O1 owned by U1 at Upper Egypt N1 N2"
+to french "Historique O1(dns) O1(ns) appartenant à U1(name), en Haute Egypte N1 N2";
+translate "Log of O1 owned by U1 at Lower Egypt N1 N2"
+to french "Historique O1(dns) O1(ns) appartenant à U1(name), en Basse Egypte N1 N2";
+translate "Log of O1 owned by U1 at Karnak N1 N2"
+to french "Historique O1(dns) O1(ns) appartenant à U1(name), à Karnak N1 N2";
+translate "Log of O1 owned by U1 at Seven Lakes N1 N2"
+to french "Historique O1(dns) O1(ns) appartenant à U1(name), aux Sept Lacs N1 N2";
+translate "Log of O1 owned by U1 at Fool's Paradise N1 N2"
+to french "Historique O1(dns) O1(ns) appartenant à U1(name), à Fool's Paradise N1 N2";
+translate "Log of O1 owned by U1 at Sinai N1 N2"
+to french "Historique O1(dns) O1(ns) appartenant à U1(name), à Sinaï N1 N2";
+translate "Log of O1 owned by U1 at Desert of Shades N1 N2"
+to french "Historique O1(dns) O1(ns) appartenant à U1(name), dans le Désert des Nomades N1 N2";
+translate "Log of O1 owned by U1 at Kush N1 N2"
+to french "Historique O1(dns) O1(ns) appartenant à U1(name), à Kush N1 N2";
+translate "Log of O1 owned by U1 at Khartoum N1 N2"
+to french "Historique O1(dns) O1(ns) appartenant à U1(name), à Khartoum N1 N2";
+translate "Log of O1 owned by U1 at Valleys of Kings N1 N2"
+to french "Historique O1(dns) O1(ns) appartenant à U1(name), dans la Vallée des Rois N1 N2";
+translate "Log of O1 owned by U1 at Qatara N1 N2"
+to french "Historique O1(dns) O1(ns) appartenant à U1(name), à Qatara N1 N2";
+translate "Log of O1 owned by U1 at Tanis N1 N2"
+to french "Historique O1(dns) O1(ns) appartenant à U1(name), à Tanis N1 N2";
+translate "Log of O1 owned by U1 at Craddle of the Sun N1 N2"
+to french "Historique O1(dns) O1(ns) appartenant à U1(name), dans le Berceau du SOleil N1 N2";
+
+
+translate "   U1 put N1 O1 K1 ago."
+to french "   U1(name) a entreposé N1 O1(N1?np:ns) il y a K1.";
+translate "   U1 put N1 O1: U2#N2 K1 ago."
+to french "   U1(name) a entreposé N1 O1(N1?np:ns): U2(name)#N2 il y a K1.";
+
+translate "   U1 took N1 O1 K1 ago."
+to french "   U1(name) a pris N1 O1(N1?np:ns) il y a K1.";
+translate "   U1 took N1 O1: U2#N2 K1 ago."
+to french "   U1(name) a pris N1 O1(N1?np:ns): U2(name)#N2 il y a K1.";
+
+translate "   U1 took everything K1 ago."
+to french "   U1(name) a tout pris il y a K1.";
+
+translate "You already have logs on N1 chests."
+to french "Vous avez déjà activé l'historique de N1 coffres.";
+
+translate "See which Chests are being logged"
+to french "Voir les coffres dont l'historique est activé";
+
+translate "Chests being logged:"
+to french "Coffres dont l'historique est activé:";
+
+translate "   O1 at Upper Egypt N1 N2."
+to french "   O1(ns) en Haute Egypte N1 N2.";
+translate "   O1 at Lower Egypt N1 N2."
+to french "   O1(ns) en Basse Egypte N1 N2.";
+translate "   O1 at Karnak N1 N2."
+to french "   O1(ns) à Karnak N1 N2.";
+translate "   O1 at Seven Lakes N1 N2."
+to french "   O1(ns) aux Sept Lacs N1 N2.";
+translate "   O1 at Desert of Shades N1 N2."
+to french "   O1(ns) dans le Désert des Nomades N1 N2.";
+translate "   O1 at Fool's Paradise N1 N2."
+to french "   O1(ns) à Fool's Paradise N1 N2.";
+translate "   O1 at Valley of Kings N1 N2."
+to french "   O1(ns) dans la Vallée des Rois N1 N2.";
+translate "   O1 at Kush N1 N2."
+to french "   O1(ns) à Kush N1 N2.";
+translate "   O1 at Khartoum N1 N2."
+to french "   O1(ns) à Khartoum N1 N2.";
+translate "   O1 at Craddle of the Sun N1 N2."
+to french "   O1(ns) au Berceau du Soleil N1 N2.";
+translate "   O1 at Tanis N1 N2."
+to french "   O1(ns) à Tanis N1 N2.";
+translate "   O1 at Qatara N1 N2."
+to french "   O1(ns) à Qatara N1 N2.";
+translate "   O1 at Sinai N1 N2."
+to french "   O1(ns) à Sinaï N1 N2.";
+
+translate "Storage"
+to french "Stockage";
+
+translate "Build a Small Warehouse"
+to french "Construire un petit entrepôt";
+
+translate "To build a Small Warehouse you need:"
+to french "Pour construire un petit entrepôt, il vous faut : ";
+
+translate "Build a Storage Basket"
+to french "Assembler un panier de stockage";
+
+translate "Warning: A Storage Basket is not meant for long term storage, as it is open to the elements, and decays. For permanent outdoor storage, please build a Warehouse."
+to french "Attention : Un panier de stockage n'est pas conçu pour du stockage à long terme, puisqu'il se déteriore. Vous devrez construire un entrepôt pour stoquer de façon permanente en dehors des ateliers.";
+
+translate "Warning: Contents may be too large to copy to the clipboard."
+to french "Attention: Le contenu est trop important pour que tout soit copié";
+

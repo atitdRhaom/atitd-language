@@ -1,0 +1,189 @@
+module Plantation_fre;
+
+translate Plantation to french feminine
+{
+  ns "L'épreuve de la Plantation"; np "L'épreuve de la Plantation";
+}
+
+translate PlantationHQ to french feminine
+{
+  ns "Plantation"; np "Plantations";
+}
+
+translate CocoaPlant to french masculine
+{
+  ns "Cacaoyer"; np "Cacaoyers";
+}
+
+translate CocoaSeed to french feminine
+{
+  ns "Graine de cacao"; np "Graine de cacao";
+}
+
+translate Cocoa to french masculine
+{
+  ns "Cacao"; np "Cacao";
+}
+
+translate "When you petition the University, you must arrive with U1, U2 and U3. You must arrive with 100 Silk Cloth and 100 Fuzzy Moss."
+to french "Quand vous pétitionnez l'Université, vous devez être en compagnie de U1(name), U2(name) et U3(name). Vous devez posséder 100 pièces de soie et 100 mousses velues.";
+
+translate "Test of the Plantation"
+to french "L'épreuve de la Plantation";
+
+translate "Principles of the Plantation require you to build and grow a small plantation."
+to french "Dans les principes de la Plantation, plantez et cultivez une petite plantation.";
+translate "Build a Plantation"
+to french "Initier une plantation";
+translate "Plant Three Cocoa"
+to french "Planter un cacaoyer";
+translate "Have Seven Cocoa Turned In"
+to french "Avoir sept pousses de cacao entreposées";
+translate "Earn a Seed"
+to french "Gagner une graine";
+
+translate "You have completed Principles of the Plantation. If you choose, you may continue growing your Plantation to become one of the most prosperous in Egypt, passing the Test of the Plantation."
+to french "Vous avez réussi les principes de la Plantation. Si vous le souhaitez, vous pouvez continuer à cultiver votre plantation afin de devenir le propriétaire le plus propsère de l'Egypte, et ainsi passer l'épreuve de la Plantation.";
+
+translate "You begin the Test of the Plantation."
+to french "Vous vous lancez dans l'épreuve de la Plantation.";
+
+translate "Find a spot for your Plantation that is remote, and sow up to three seeds. Cocoa plants will need to be harvested at least three times during each week, and may only be harvested by a designated tender. Each week, plantations tended perfectly with maximum diversity of tenders each get an additional seed, as do the top seven most nearly perfectly tended plantations."
+to french "Trouvez un emplacement reculé pour votre plantation, et plantez-y trois graines. Les cacaoyers devront être récoltés au moins trois par semaine, et ne pourront être entretenu que par un cultivateur désigné. Chaque semaine, les plantations cultivées parfaitement avec une diversité maximum de cultivateurs obtiendront chacune une graine additionnelle, tout comme les sept plantations suivantes.";
+
+translate "Each week, the seven plantations with the greatest turned-in harvest for that week are promoted, and the owner of any Plantation promoted three times advances in the Discipline of Leadership. Promotions need not be consecutive."
+to french "Chaque semaine, les plantations avec le plus de récoltes valides sont promues, et le propriétaire terrien dont les plantations ont été promues trois fois progresse dans la discipline du Commandement. Les promotions n'ont pas à être consécutives.";
+
+translate "Remember, for maximum chance to get additional seeds, make each plant's Tender unique."
+to french "Pour avoir plus de chance d'obtenir des graines, assignez un cultivateur par cacaoyer.";
+
+translate "Start a Plantation"
+to french "Initier une plantation";
+
+translate "You already have a Plantation at N1 N2"
+to french "Vous possédez déjà une plantation en N1 N2";
+
+translate "Bricks for Structure"
+to french "Briques pour la structure";
+
+translate "Fuzzy Moss for Drying Beds"
+to french "Mousses velues pour les tamis de sechage";
+
+translate "Silk cloth to line Drying Beds"
+to french "Pièces de soie pour couvrir les tamis de sechage";
+
+translate "Fuzzy Moss"
+to french "Mousse velue";
+
+translate "To start a Plantation requires:"
+to french "Pour initier une plantation, il vous faut :";
+
+translate "Planting..."
+to french "Plantation...";
+
+translate "Cocoa"
+to french "Cacaoyer";
+
+translate "Who is designated as Tender for this plant?"
+to french "Qui désignez-vous pour entretenir cet arbre ?";
+
+translate "You can't designate yourself as Tender."
+to french "Vous ne pouvez vous désigner vous-même comme cultivateur.";
+
+translate "You don't control this area."
+to french "Vous ne contrôlez pas cette zone.";
+
+translate "This plantation can't support any more cocoa plants."
+to french "Cette plantation ne peut contenir plus de cacaoyer.";
+
+translate "To plant Cocoa you need:"
+to french "Pour planter un cacaoyer, il vous faut :";
+
+translate "This University of Leadership is not popular enough to petition for the Test of the Plantation. Perhaps try another."
+to french "Cette université de Commandement n'est pas assez populaire pour y demander l'épreuve de la Plantation. Essayez-en peut-être une autre.";
+
+translate "When you petition the University, you must arrive with K1."
+to french "Quand vous pétionnez une université, vous devez y aller en compagnie de K1.";
+
+translate "Plantations must be far from Chariot Stops."
+to french "Les plantations doivent être situées loin des arrêts de chariots.";
+
+translate "Plantations must not be near each other."
+to french "Les plantations doivent être éloignées les unes des autres.";
+
+translate "Mulch this Cocoa Plant"
+to french "Couper ce cacaoyer";
+
+translate "Are you sure you want to remove the plant? You'll need to earn another seed to replant."
+to french "Êtes-vous certain de vouloir couper cet arbre ? Il vous faudra gagner une autre graine pour replanter.";
+
+translate "Cocoa, only U1 can harvest"
+to french "Cacao, seul U1(name) peut récolter";
+
+translate "U1 can harvest"
+to french "U1(name) peut récolter";
+
+translate "Harvest Cocoa"
+to french "Récolter le cacao";
+
+translate "This plant won't have more cocoa for another K1"
+to french "Cet arbre ne produira plus de cacao pendant K1";
+
+translate "You got some Cocoa Seed! Be sure to give it to the Plantation owner."
+to french "Vous avez obtenu une graine de cacao ! N'oubliez pas de la remettre au propriétaire.";
+
+translate "Turn in some Cocoa"
+to french "Entreposer du cacao";
+
+translate "Turning in Cocoa..."
+to french "Validation du cacao...";
+
+translate "The plantation is not expecting any Cocoa from you."
+to french "Vous n'êtes pas censé entreposer du cacao pour cette plantation.";
+
+translate "For active plantations, only the plantation owner can mulch plants."
+to french "Pour les plantations actives, seul le propriétaire de la plantation peut couper les arbres.";
+
+translate "View last week's Production Report"
+to french "Consulter les rapports de production de la semaine passée";
+
+translate "In Week N1:"
+to french "Durant la semaine N1 :";
+
+translate "    N1 Cocoa Plants in the Plantation"
+to french "    N1 cacaoyers dans la plantation";
+
+translate "    N1 Cocoa Harvested, of which N2 was turned in, and N3 was uncollected"
+to french "    N1 cacao récoltés, dont N2 entreposés, et N3 non récupérés";
+
+translate "    N1 of N2 Tenders turned in at least N3 Cocoa"
+to french "    N1 cultivateurs sur N2 ont entreposé au moins N3 cacao";
+
+translate "    N1 seeds went unplanted"
+to french "    N1 graines n'ont pas été plantées";
+
+translate "    N1.N2% of Cocoa was perfectly tended"
+to french "    N1,N2% du cacao a été parfaitement cultivé";
+
+translate "This Plantation has progressed N1 times."
+to french "Cette plantation a progressé N1 fois.";
+
+translate "No activity to report in the Test of the Plantation."
+to french "Aucune activité à reporter dans l'épreuve de la Plantation.";
+
+translate "Egypt recognizes K1 for passing the Test of the Plantation. "
+to french "L'Egypte reconnait K1 pour avoir passé l'épreuve de la Plantation. ";
+
+translate "Egypt recognizes K1 for progressing in the Test of the Plantation. "
+to french "L'Egypte reconnait K1 pour avoir progressé dans l'épreuve de la Plantation. ";
+
+translate "Retaining K1 progressions in the Test of the Plantation. "
+to french "Retenus K1 progressions dans l'épreuve de la Plantation. ";
+
+translate "Growth in large plantations owned by K1 was reported. "
+to french "Report : Croissance dans les grandes plantations possédées par K1. ";
+
+translate "Retaining K1 seed awards in the Test of the Plantation. "
+to french "Retenus : Récompense de K1 graines dans l'épreuve de la Plantation. ";
+
+

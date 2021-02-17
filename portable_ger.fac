@@ -1,0 +1,49 @@
+module portable_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Games **
+//**    (C)opyright 2002,2003 by Joerg Schoenfelder, jschoenf@gmx.de       **
+//**                                                                       **
+//***************************************************************************
+//menues
+
+//objects
+
+//texts
+
+translate "Mortar:N1"
+to german "Mörser:N1";
+
+translate "The area is getting too crowded. Try dropping the O1 somewhere else."
+to german "Die Gegend ist langsam überfüllt. Versuche, O1(sd) woanders abzulegen.";
+
+translate "You have N1 O1. Drop how many?"
+to german "Du hast N1 O1(N1?pn:sd). Wieviel davon ablegen?";
+
+translate "Building...N1 O1"
+to german "Baue...N1 O1(N1?pn:sn)";
+
+translate "Pick up the O1 quick ? "
+to german "O1(sn) schnell aufheben? ";
+
+translate "It is now illegal to pick up portable items less than two minutes after somebody else dropped them."
+to german "Es ist illegal, portable Güter aufzuheben, die vor weniger als 2 Minuten von jemand Anderem abgelegt wurden.";
+
+//inactive
+
+translate "This pile has N1 O1. Get how many?"
+to german "Der Stapel hat N1 O1(N1?pn:sn). Wieviel davon nehmen?";
+
+translate "Picked up N1 O1"
+to german "N1 O1(N1?pn:sn) genommen";
+
+//translate "Special/Dropped Items are owned by/U1"
+//to german "Spezial/Abgelegte Dinge gehören/U1(name)";
+
+translate "Dropped Items are owned by"
+to german "Abgelegte Gegenstände gehören";
+
+translate "O1, belonging to U1"
+to german "U1(name)s O1(swa)";

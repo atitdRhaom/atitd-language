@@ -1,0 +1,151 @@
+Module UserInfo_fre;
+
+translate "You may only have a maximum of 200 notes"
+to french "Vous ne pouvez écrire que 200 notes";
+
+translate "Note? (250 chars)"
+to french "Note ? (250 caractères)";
+
+translate "Really this note?"
+to french "En êtes-vous certain ?";
+
+translate "Really delete all your notes?"
+to french "Voulez-vous vraiment effacer toutes vos notes ?";
+
+translate "Are you 100% certain?"
+to french "En êtes-vous vraiment sûr ?";
+
+translate "General"
+to french "Général";
+
+translate "Guilds"
+to french "Guildes";
+
+translate "Notes"
+to french "Notes";
+
+translate "U1, Level N1 O1 of O2 (paid account)"
+to french "U1(name), niveau N1 O1(ns) en O2(ns) (compte payant)";
+
+translate "U1, Level N1 O1 of O2 (trial account)"
+to french "U1(name), niveau N1 O1(ns) en O2(ns) (compte essai)";
+
+translate "U1, Level N1 O1 of O2 (quit)"
+to french "U1(name), niveau N1 O1(ns) en O2(ns) (fermé)";
+
+translate "U1, Level N1 O1 of O2 (expired or closed)"
+to french "U1(name), niveau N1 O1(ns) en O2(ns) (expiré ou fermé)";
+
+translate "Peasant U1 (trial account)"
+to french "Paysan U1(name) (compte essai)";
+
+translate "Citizen U1, Level N1 (trial account)"
+to french "Citoyen U1(name), niveau N1 (compte essai)";
+
+translate "Citizen U1, Level N1 (paid account)"
+to french "Citoyen U1(name), niveau N1 (compte payant)";
+
+translate "Connected (AFK)"
+to french "Connecté(e) (absent)";
+
+translate "Connected"
+to french "Connecté(e)";
+
+translate "Disconnected"
+to french "Déconnecté(e)";
+
+translate "First Login: "
+to french "Première connexion : ";
+
+translate "Last Login: "
+to french "Dernière connexion : ";
+
+translate "Logged in for: "
+to french "Connecté(e) depuis : ";
+
+translate "Married to: "
+to french "Marrié(e) à : ";
+
+translate "Edit Note"
+to french "Modifier une note";
+
+translate "Add Note"
+to french "Ajouter une note";
+
+translate "Delete Note"
+to french "Supprimer une note";
+
+translate "Delete All Notes"
+to french "Supprimer toutes les notes";
+
+translate "Elder:"
+to french "Sage :";
+
+translate "Patriarch:"
+to french "Patriarche :";
+
+translate "Kinsman:"
+to french "Frêre :";
+
+translate "Fellow:"
+to french "Camarade :";
+
+translate "Member:"
+to french "Membre :";
+
+translate "Associate:"
+to french "Associé :";
+
+translate "Initiate:"
+to french "Initié :";
+
+translate "Looking up info..."
+to french "Traitement des données...";
+
+translate "Location: :"
+to french "Emplacement : ";
+
+translate "Guild U1 (N1/N2)"
+to french "Guilde U1(name) (N1/N2)";
+
+translate "Pyramid Lake N1 N2"
+to french "Lac de la Pyramide N1 N2";
+translate "Adn N1 N2"
+to french "Eden N1 N2";
+translate "Falcon Bay N1 N2"
+to french "Baie du Faucon N1 N2";
+translate "Cat Claw Ridge N1 N2"
+to french "Crête de la Griffe N1 N2";
+translate "Queen's Retreat N1 N2"
+to french "Retraite de la Reine N1 N2";
+translate "Heaven's Gate N1 N2"
+to french "Porte de l'au-delà N1 N2";
+translate "Nomads' Paradise N1 N2"
+to french "Paradis des Nomades N1 N2";
+
+translate "U1 is an otter at Adn N1 N2"
+to french "U1(name) est une loutre à Eden N1 N2";
+translate "U1 is an otter at Pyramid Lake N1 N2"
+to french "U1(name) est une loutre à Lac de la Pyramide N1 N2";
+translate "U1 is an otter at Falcon Bay N1 N2"
+to french "U1(name) est une loutre à Baie du Faucon N1 N2";
+translate "U1 is an otter at Cat Claw Ridge N1 N2"
+to french "U1(name) est une loutre à Crête de la Griffe N1 N2";
+translate "U1 is an otter at Queen's Retreat N1 N2"
+to french "U1(name) est une loutre à Retraite de la Reine N1 N2";
+translate "U1 is an otter at Nomads' Paradise N1 N2"
+to french "U1(name) est une loutre à Paradis des Nomades N1 N2";
+translate "U1 is an otter at Heaven's Gate N1 N2"
+to french "U1(name) est une loutre à Porte de l'au-delà N1 N2";
+
+translate "Guild Location is Hidden."
+to french "L'emplacement de la guilde est tenu secret.";
+
+translate "Guild Roster is Secret."
+to french "Les membres de cette guilde ne tiennent pas à être connus.";
+
+translate "Could not find: U1"
+to french "U1(name) est introuvable";
+
+translate "NB: Only the author can see their notes."
+to french "Remarque : Seul l'auteur peut voir ses notes.";

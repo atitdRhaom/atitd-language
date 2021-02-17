@@ -1,0 +1,147 @@
+module blockmover_fre;
+
+translate AncientMechanics to french feminine
+{
+ns "Mécanismes ancestraux"; np "Mécanismes ancestraux";
+}
+
+translate AncientAutomaton to french masculine
+{
+ns "Automate ancien"; np "Automates anciens";
+}
+
+translate PincherClaw to french feminine
+{
+ns "Pince"; np "Pinces";
+}
+
+translate PincherAxle to french masculine
+{
+ns "Essieux de pince"; np "Essieux de pince";
+}
+
+translate Oil to french feminine
+{
+ns "Huile"; np "Huiles";
+}
+
+translate LargeGear to french masculine
+{
+ns "Gros pignon"; np "Gros pignons";
+}
+
+translate MediumGear to french masculine
+{
+ns "Pignon moyen"; np "Pignons moyens";
+}
+
+translate IronBars to french feminine
+{
+ns "Barre de fer"; np "Barres de fer";
+}
+
+
+
+translate AngelsStone to french feminine
+{
+ns "Pierre d'ange"; np "Pierres d'anges";
+}
+
+translate "Allows construction Ancient Automatons."
+to french "Permet la construction d'automates anciens.";
+
+translate "Notify Scientists of the nearby Automaton"
+to french "Prévenir les scientifiques qu'un automate se trouve à proximité";
+
+translate "New Research has opened."
+to french "Une nouvelle recherche a commencé.";
+
+translate "Ancient Technology/Ancient Automaton"
+to french "Technologies anciennes/Automate ancien";
+
+translate "Ancient technology"
+to french "Technologies anciennes";
+
+translate "Ancient Automaton"
+to french "Automate ancien";
+
+translate "Pincher Claws"
+to french "Pinces articulées";
+
+translate "Pincher Axle"
+to french "Essieu";
+
+translate "Iron Bars"
+to french "Barre de fer";
+
+translate "Bearings"
+to french "Roulements";
+
+translate "Thoth's Metal: Stainless Hard"
+to french "Metal de Thot : inoxydable, dur";
+
+translate "Octec's Alloy Cable"
+to french "Cable en alliage d'Octec";
+
+translate "Water Metal Sheeting: Conductive Stainless"
+to french "Revêtements en métal aqueux : conducteur, inoxydable";
+
+translate "Orichalcum Pellets"
+to french "Boulettes d'Orichalcum";
+
+translate "Load how much Orichalcum Pellets?"
+to french "Mettre combien de boulettes d'Orichalcum ?";
+
+translate "To build a Pyramid Ancient Automaton, you need: "
+to french "Pour construire un automate ancien, il vous faut :";
+
+translate "Fuel the Ancient Automaton"
+to french "Alimenter l'automate ancien";
+
+translate "Load how much Angel's Stone?"
+to french "Quelle quantité de pierres d'ange ?";
+
+translate "Unload the Pyramid Block"
+to french "Décharger le bloc de pyramide";
+
+translate "Load a nearby block"
+to french "Charger un bloc à proximité";
+
+translate "Could not find a pyramid block with the same owner as the Ancient Automaton."
+to french "Aucun bloc à proximité possédé par le propriétaire de l'automate.";
+
+translate "Magnetic Bias"
+to french "Perturbation magnétique";
+
+translate "The Ancient Automaton is out of fuel."
+to french "L'automate ancien n'est plus alimenté.";
+
+translate "Studied Automaton: "
+to french "Automate perfectionné: ";
+
+translate "North"
+to french "Nord";
+
+translate "Northeast"
+to french "Nord-Est";
+
+translate "East"
+to french "Est";
+
+translate "Southeast"
+to french "Sud-Est";
+
+translate "South"
+to french "Sud";
+
+translate "Southwest"
+to french "Sud-Ouest";
+
+translate "West"
+to french "Ouest";
+
+translate "Northwest"
+to french "Nord-Ouest";
+
+translate "None"
+to french "Aucun";

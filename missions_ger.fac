@@ -1,0 +1,502 @@
+module missions_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2007 by MDO Entertainment                         **
+//**                                                                       **
+//***************************************************************************
+
+translate CulinarySchool to german femininecollective
+{
+  swa "Kochschule";
+  sn "Kochschule"; sg "Kochschule"; sd "Kochschule"; sa "Kochschule";
+  pn "Kochschulen"; pg "Kochschulen"; pd "Kochschulen"; pa "Kochschulen";
+}
+
+translate Citizenship to german femininecollective
+{
+  swa "Bürgerschaft";
+  sn "Bürgerschaft"; sg "Bürgerschaft"; sd "Bürgerschaft"; sa "Bürgerschaft";
+  pn "Bürgerschaften"; pg "Bürgerschaften"; pd "Bürgerschaften"; pa "Bürgerschaften";
+}
+
+translate RecreationalFishing to german neuter
+{
+  swa "Hobbyangeln";
+  sn "Hobbyangeln"; sg "Hobbyangelns"; sd "Hobbyangeln"; sa "Hobbyangeln";
+  pn "Hobbyangeln"; pg "Hobbyangeln"; pd "Hobbyangeln"; pa "Hobbyangeln";
+}
+
+translate MeetThePeople1 to german neuter
+{
+  swa "Leute treffen";
+  sn "Leute treffen I"; sg "Leute treffen I"; sd "Leute treffen I"; sa "Leute treffen I";
+  pn "Leute treffen I"; pg "Leute treffen I"; pd "Leute treffen I"; pa "Leute treffen I";
+}
+
+translate MinerMiner to german masculine
+{
+  swa "Bergarbeiter";
+  sn "Bergarbeiter"; sg "Berarbeiters"; sd "Bergarbeiter"; sa "Bergarbeiter";
+  pn "Bergarbeiter"; pg "Bergarbeiter"; pd "Bergarbeitern"; pa "Bergarbeiter";
+}
+
+translate Generations to german feminine
+{
+swa "Generationen"; sn "Generationen"; pn "Generationen";
+}
+
+translate Welcome to german neuter
+{
+swa "Willkommen in Ägypten"; sn "Willkommen in Ägypten"; pn "Willkommen in Ägypten";
+}
+
+translate WelcomeStartingInEgypt to german neuter
+{
+swa "Willkommen in Ägypten"; sn "Willkommen in Ägypten"; pn "Willkommen in Ägypten";
+}
+
+translate "Welcome to Egypt"
+to german "Willkommen in Ägypten";
+
+translate "Citizenship Items"
+to german "Bürgerschaftsobjekte";
+
+translate "Built a Wood Plane"
+to german "Säge gebaut";
+
+translate "Built a Flax Comb"
+to german "Flachskamm gebaut";
+
+translate "Built a Distaff"
+to german "Spinnrad gebaut";
+
+translate "Read Our Generation's Worship Challenge"
+to german "Lies die Generationsherausforderung der Verehrung";
+
+translate "Read Our Generation's Art and Music Challenge"
+to german "Lies die Generationsherausforderung der Kunst und Musik.";
+
+translate "Read Our Generation's Conflict Challenge"
+to german "Lies die Generationsherausforderung des Konfliktes.";
+
+translate "Read Our Generation's Thought Challenge"
+to german "Lies die Generationsherausforderung der Gedanken.";
+
+translate "Read Our Generation's Human Body Challenge"
+to german "Lies die Generationsherausforderung des Menschlichen Körpers.";
+
+translate "Read Our Generation's Architecture Challenge"
+to german "Lies die Generationsherausforderung der Architektur.";
+
+translate "Read Our Generation's Leadership Challenge"
+to german "Lies die Generationsherausforderung der Führung.";
+
+translate "Read Our Generation's Ancient Worship (Kemet) Challenge"
+to german "Lies die Generationsherausforderung der vergangenen Kemet-Generationen.";
+
+translate "Challenge completed."
+to german "Herausforderung bewältigt.";
+
+translate "You have completed the Challenge of Generations. Express your confidence from the Emote menu."
+to german "Du hast die Herausforderung der Generationen bewältigt. Zeige dein Wissen mit deinem Emotionenmenü.";
+
+translate "Not a mission."
+to german "Keine Mission";
+
+translate "Done"
+to german "Erledigt";
+
+translate "No"
+to german "Nein";
+
+translate "Unimplemented"
+to german "Nicht eingebaut";
+
+translate "Challenge Complete"
+to german "Herausforderung komplett";
+
+translate "Items"
+to german "Gegenstände";
+
+translate "Are you sure you want to close the \"K1\" challenge? You will lose all progress."
+to german "Bist du sicher, dass du die Herausforderung \"K1\" beenden möchtest? Du wirst sämtliche Fortschritte verlieren.";
+
+translate "Challenges"
+to german "Herausforderungen";
+
+translate "Award "
+to german "Verleihen ";
+
+translate "Start the Challenge of Generations"
+to german "Starte die Herausforderung der Generationen";
+
+translate "The Challenge of Generations:"
+to german "Die Herausforderung der Generationen:";
+
+translate "Visit all eight Monuments of previous ages. When complete, you will "
+to german "Besuche alle 8 Monumente vergangener Jahre. Hast du dies geschafft, wirst du";
+
+translate "be rewarded with a newfound sense of confidence, an attitude that can be expressed from your Emote menu."
+to german "mit einem neuartigen Gefühlsausdruck belohnt werden, den du in deinem Emote-Menü finden wirst.";
+
+translate "Mission O1: Complete (U1)"
+to german "Mission O1(sn): Komplett (U1(name))";
+
+translate "Mission O1 : Finished N1 of N2 (U1)"
+to german "Mission O1(sn) : Beendet N1 von N2 (U1(name))";
+
+translate "Start the K1 challenge"
+to german "Beginne die\"K1\" Herausforderung.";
+
+translate "Do you really want to start K1 over, losing any progress?"
+to german "Möchtest du wirklich mit \"K1\" wieder von vorne beginnen und jeden Fortschritt verlieren?";
+
+translate "You may only have N1 challenges active at once."
+to german "Du kannst nur N1 Herausforderungen auf einmal starten.";
+
+translate "Silly Mission"
+to german "Dumme Misson";
+
+translate "Bonk U1 on the head"
+to german "Haue U1(name) auf den Kopf.";
+
+translate "Bonk Pharaoh on the head"
+to german "Haue Pharaoh auf den Kopf.";
+
+translate "Bonk Gentry on the head"
+to german "Haue Gentry auf den Kopf.";
+
+translate "Bonk Kenhotep on the head"
+to german "Haue Kenhotep auf den Kopf.";
+
+translate "Bonk Pluribus on the head"
+to german "Haue Pluribus auf den Kopf.";
+
+translate "Bonk Bellah on the head"
+to german "Haue Bellah auf den Kopf.";
+
+translate "Bonk Otter on the head"
+to german "Haue Otter auf den Kopf.";
+
+translate "Bonk Tweetiti on the head"
+to german "Haue Tweetiti auf den Kopf.";
+
+translate "You completed the Silly Mission!"
+to german "Du hast diese dumme Mission bewältigt.";
+
+translate "U1 has bonked you on the head!"
+to german "U1(name) haut dir auf den Kopf!";
+
+translate "You bonk U1 on the head!"
+to german "Du haust U1(name) auf den Kopf!";
+
+translate "Recreational Fishing"
+to german "Hobby-Angeln";
+
+translate "Learn the Fishing skill at a School of the Human Body"
+to german "Lerne die Fähigkeit des Fischens an einer Schule des Menschlichen Körpers.";
+
+translate "Meet a local fisherman (talk to people, ask!)"
+to german "Treffe einen Fischer vor Ort (Sprich mit den Leuten, frage!)";
+
+translate "Catch a Carp"
+to german "Fange einen Karpfen";
+
+translate "Catch a Perch"
+to german "Fange einen Barsch";
+
+translate "Catch a Tilapia"
+to german "Fange einen Buntbarsch";
+
+translate "Catch a Chromis"
+to german "Fange einen Chromis";
+
+translate "Catch a Catfish"
+to german "Fange einen Katzenfisch";
+
+translate "Catch an Abdju"
+to german "Fange einen Abdju";
+
+translate "Catch an Oxyrynchus (Difficult! Ask the locals)"
+to german "Fange einen Stör (Schwierig! Frage die Leute um Dich herum)";
+
+translate "Catch an Phagrus (Difficult! Ask the locals)"
+to german "Fange einen Phagrus(Schwierig! Frage die Leute um Dich herum)";
+
+translate "Introduce yourself as a Fisherman"
+to german "Unterrichte selbst als Fischer.";
+
+translate "U1 introduces K1 as a fisherman."
+to german "U1(name) stellt sich als Fischer vor.";
+
+translate "You introduce yourself as a fisherman, helping U1 with K1 challenge."
+to german "Du stellst dich als Fischer vor und hilfst U1(name) bei seiner K1 Herausforderung.";
+
+translate "U1 has already met a fisherman, but the thought is appreciated."
+to german "U1(name) hat bereits einen Fischer getroffen, aber dein Wille wird hoch geschätzt.";
+
+translate "Culinary School"
+to german "Kochschule";
+
+translate "Grow some Cabbage"
+to german "Pflanze Kohl.";
+
+translate "Grow some Carrots"
+to german "Pflanze Karotten.";
+
+translate "Grow some Garlic"
+to german "Pflanze Knoblauch.";
+
+translate "Grow some Leeks"
+to german "Pflanze Lauch.";
+
+translate "Grow some Onions"
+to german "Pflanze Zwiebeln";
+
+translate "Collect a mushroom from the wild"
+to german "Sammle einen Pilz in der Wildnis.";
+
+translate "Harvest an Herb"
+to german "Ernte ein Kraut.";
+
+translate "Slaughter a Sheep"
+to german "Schlachte ein Schaf.";
+
+translate "Build a Kitchen"
+to german "Baue eine Küche.";
+
+translate "Cook a Meal"
+to german "Koche ein Gericht.";
+
+translate "Eat a meal from your kitchen"
+to german "Esse ein Gericht aus deiner Küche.";
+
+translate "Meet someone with Gastronomy experience"
+to german "Treffe Jemanden mit Gastronomie-Erfahrung.";
+
+translate "Catch a fish of any type"
+to german "Fange einen Fisch jeder Art.";
+
+translate "Use this kitchen to satisfy the Culinary School challenge"
+to german "Nutze diese Küche, um die Herausforderung der Kochschule zu erfüllen.";
+
+translate "Introduce yourself as a Gastronome"
+to german "Lehre selbst die Gastronomie.";
+
+translate "U1 introduces K1 as gastronome."
+to german "U1(name) stellt sich als Gastronom vor.";
+
+translate "You introduce yourself as a gastronome, helping U1 with K1 challenge."
+to german "Du lehrst Gastronomie und hilfst U1(name) in der K1 Herausforderung.";
+
+translate "U1 has already met a gastronome, but the thought is appreciated."
+to german "U1(name) hat bereits einen Koch getroffen, aber dein Wille wird hoch geschätzt.";
+
+translate "Plant Flax"
+to german "Pflanze Flachs.";
+
+translate "Reproduce Flax Seeds (Let the flax go wild)"
+to german "Vermehre Flachssaat (Lasse den Flachs verwildern)";
+
+translate "Weed a Flax Bed"
+to german "Jäte das Flachsbeet.";
+
+translate "Harvest Flax"
+to german "Ernte den Flachs.";
+
+translate "Learn Flax Processing (School of Art and Music)"
+to german "Lerne Flachsbearbeitung (Schule der Kunst und Musik).";
+
+translate "Rot Flax in a lake or river"
+to german "Lasse den Flachs im Wasser verrotten.";
+
+translate "Collect Rotten Flax from Water"
+to german "Sammle verrotteten Flachs aus dem Wasser.";
+
+translate "Build a Flax Comb or Hackling Rake"
+to german "Baue einen Flachskamm oder Flachshechel-Rechen.";
+
+translate "Separate Straw from Flax with a Flax Comb"
+to german "Trenne Stroh von Flachs mit einem Flachskamm.";
+
+translate "Separate Tow from Flax with Flax Comb"
+to german "Trenne Flachsfasern von Flachs mit einem Flachskamm.";
+
+translate "Refine Lint from Flax with a Flax Comb"
+to german "Trenne Fussel von Flachs in einem Flachskamm.";
+
+translate "Clean a Flax Comb"
+to german "Reinige den Flachskamm.";
+
+translate "Make Twine on a Distaff"
+to german "Spinne Zwirne in einem Spinnrad";
+
+translate "Make Thread on a Distaff"
+to german "Spinne Garne in einem Spinnrad";
+
+translate "Make Rope on a Distaff"
+to german "Spinne Seile in einem Spinnrad";
+
+translate "Build any kind of Loom (Student's Loom is easiest)"
+to german "Baue eine Art von Webstuhl (ein kleiner Webstuhl ist der Einfachste)";
+
+translate "Make Canvas on a Loom"
+to german "Webe Tuch in einem Webstuhl";
+
+translate "Make Linen on a Loom"
+to german "Webe Leinen in einem Webstuhl";
+
+
+//Bürgerschaft Willkommen in Ägypten
+
+translate "Citizenship"
+to german "Bürgerschaft";
+
+translate "Gather Slate near a shoreline"
+to german "Sammle Schiefer nahe eines Ufers";
+
+translate "Learn Stone Blade Fabrication"
+to german "Lerne Steinklingenkonstruktion (S Arch)";
+
+translate "Make a Stone Blade (Skills Menu)"
+to german "Mache eine Steinklinge (ESC drücken, \"Fertigkeiten\" Menü)";
+
+translate "Gather Wood from a Tree"
+to german "Sammle Holz von einem Baum";
+
+translate "Learn Carpentry (School of Architecture)"
+to german "Lerne Zimmerei (an einer S Arch = Schule der Architektur)";
+
+translate "Build a Wood Plane (Projects Menu)"
+to german "Baue eine Holzsäge (\"Projekt\" Menü)";
+
+translate "Make Boards using a Wood Plane"
+to german "Säge Bretter mit einer Holzsäge";
+
+translate "Learn Brick Rack Construction (School of Architecture)"
+to german "Lerne Ziegelformkonstruktion (S Arch)";
+
+translate "Build a Brick Rack (Projects Menu)"
+to german "Baue eine Ziegelform (\"Projekt\" Menü)";
+
+translate "Gather Mud near a Shoreline"
+to german "Sammle Schlamm nahe eines Ufers";
+
+translate "Gather Sand"
+to german "Sammle Sand";
+
+translate "Gather Grass"
+to german "Sammle Gras";
+
+translate "Dry Grass into Straw (Drop menu)"
+to german "Trockne Gras zu Stroh (\"Ablegen\" Menü)";
+
+translate "Make Bricks using a Brickrack"
+to german "Mache Ziegel in einer Ziegelform";
+
+translate "Get Flax Seeds from a School of Art and Music"
+to german "Hole Flachssaaten (S Art)";
+
+translate "Plant Flax Seeds"
+to german "Pflanze Flachssaaten";
+
+translate "Let the Flax Bed go wild, and harvest Seeds"
+to german "Lasse das Flachsbeet verwildern um Saaten zu ernten";
+
+translate "Weed a flax bed several times and harvest the Flax"
+to german "Jäte das Flachsbeet mehrere Male und ernte Flachs";
+
+translate "Learn Flax Processing"
+to german "Lerne Flachsverarbeitung (S Art)";
+
+translate "Rot Flax in the water"
+to german "Lasse den Flachs im Wasser verrotten (\"Fertigkeiten\" Menü)";
+
+translate "Take rotten flax from the water"
+to german "Nimm verrotteten Flachs aus dem Wasser";
+
+translate "Gather Thorns (click on plants to find a species that has thorns)"
+to german "Sammle Dornen (Klicke auf Pflanzen)";
+
+translate "Build a Flax Comb"
+to german "Baue einen Flachskamm";
+
+translate "Process flax on the flax comb until you get Tow"
+to german "Bearbeite Flachs am Flachskamm bis du Flachsfasern erhältst";
+
+translate "Build a Small Distaff"
+to german "Baue ein kleines Spinnrad";
+
+translate "Spin Tow into Twine"
+to german "Spinne Flachsfasern zu Zwirn";
+
+translate "Gather Tar from a Tar Pit"
+to german "Sammle Teer aus einem Teerpfuhl";
+
+translate "Clean up by tearing down your Wood Plane"
+to german "Räume auf, indem du deine Holzsäge abreißt";
+
+translate "Visit Egypt proper by boat!"
+to german "Reise mit deiner Fähre nach Ägypten!";
+
+translate "Restart the Welcome to Egypt Challenge"
+to german "Neustart der 'Willkommen in Ägypten' Herausforderung";
+
+translate "Found a bugged player!!!!!: U1"
+to german "Einen verbuggten Spieler gefunden!!!!!: U1(name)";
+
+translate "You have become a Citizen of Egypt."
+to german "Du bist nun ein Bürger Ägyptens.";
+
+translate "A O1 is a citizen."
+to german "O1(^tsn) O1(sn) ist ein Bürger.";
+
+translate "The O1 challenge is your path to Citzenship - it's the most important thing that you can do in the game, at this point."
+to german "Die O1(swa) Herausforderung ist dein Weg zur Bürgerschaft - sie ist das Wichtigste überhaupt, was du in diesem Augenblick in diesem Spiel tun kannst.";
+translate "The Welcome challenge is your path to Citzenship - it's the most important thing that you can do in the game, at this point."
+to german "Die \"Willkommen in Ägypten\" Herausforderung ist dein Weg zur Bürgerschaft - sie ist das Wichtigste überhaupt, was du in diesem Augenblick in diesem Spiel tun kannst.";
+
+translate "Your first goal is to become a Citizen. Become a Citizen by completing the checklist \"Welcome to Egypt\" in the lower-left of your screen."
+to german "Dein erstes Ziel ist es, ein Bürger zu werden. Für die Einbürgerung arbeite die Liste \"Willkommen in Ägypten\" links unten neben deinem Chatfenster ab.";
+
+translate "Citizen"
+to german "Bürger";
+
+translate "Now that you are a citizen, you have several new goals to choose from:\n\n"
+to german "Nun da du ein Bürger bist, hast du einige neue Ziele zur Auswahl:";
+
+translate "    You can start the Tests. These are difficult before you know\n"
+to german "    Du kannst diese Tests starten. Sie sind schwer zu bewältigen, bevor du";
+
+translate "    more people in Egypt.\n\n"
+to german "    mehr Leute in Ägypten kennengelernt hast.";
+
+translate "    You can get Challenges at any School. These teach you about other\n"
+to german "    Du kannst Herausforderungen an jeder Schule starten. Diese lehren dich in anderen";
+
+translate "    parts of the game, and help you meet people.\n\n"
+to german "    Gebieten dieses Spieles und helfen dir, Leute zu treffen.";
+
+translate "    You can try to find a good mentor. By doing this you will help that\n"
+to german "    Du solltest dir einen guten Mentor suchen. Hierbei hilfst du einem anderen";
+
+translate "    person advance in the Leadership discipline. Walking up to strangers\n"
+to german "    Spieler helfen, in der Disziplin der Führerschaft aufzusteigen. Geh auf Fremde zu";
+
+translate "    and asking if they know of a good mentor is something that is respected\n"
+to german "    zu und frage, ob sie einen guten Mentor kennen, der in Kemet";
+
+translate "    in ATITD, and is encouraged.\n\n"
+to german "    respektiert und geachtet ist.";
+
+translate "    You can build a compound of your own. Compounds are like a home. You can\n"
+to german "    Du kannst deine eigene Werkstatt bauen. Werkstätten sind wie Häuser. Du kannst";
+
+translate "    build hundreds of useful workshops inside a compound.\n\n"
+to german "    Hunderte von praktischen Arbeitsstätten in einer Werkstatt errichten.";
+
+translate "Claim My Rights As A Resident of Egypt"
+to german "Fordere mein Recht als Bewohner Ägyptens ein";

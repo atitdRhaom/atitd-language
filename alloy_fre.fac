@@ -1,0 +1,187 @@
+Module Alloy_fre;
+
+translate Brass to french masculine
+{
+  ns "Laiton"; np "Laitons";
+}
+
+translate Bronze to french masculine
+{
+  ns "Bronze"; np "Bronzes";
+}
+
+translate Steel to french masculinecollective
+{
+  ns "Acier"; np "Aciers";
+}
+
+translate MetalBlue to french masculine
+{
+  ns "Métal bleu";   np "Métaux bleus"; 
+}
+
+translate WaterMetal to french masculine
+{
+  ns "Métal aqueux"; np "Métaux aqueux";
+}
+
+translate Pewter to french masculine
+{
+  ns "Fer blanc"; np "Fer blanc";
+}
+
+translate sunsteel to french masculinecollective
+{
+  ns "Acier solaire"; np "Aciers solaires";
+}
+
+translate thothsmetal to french masculine
+{
+  ns "Métal de Thoth"; np "Métaux de Thoth";
+}
+
+translate moonsteel to french masculinecollective
+{
+  ns "Acier lunaire"; np "Aciers lunaires";
+}
+
+translate OctecsAlloy to french masculinecollective
+{
+  ns "Alliage d'Octec"; np "Alliages d'Octec";
+}
+
+translate Reactory to french masculine
+{
+  ns "Réacteur"; np "Réacteurs";
+}
+
+translate "Furnaces"
+to french "Fourneaux";
+
+translate "Reactory"
+to french "Réacteur";
+
+translate "To build a Reactory, you need: "
+to french "Pour construire un réacteur, vous avez besoin de: ";
+
+translate "You can't take any O1 from the O2 while it is K1."
+to french "Vous ne pouvez pas prendre O1(dns) O1(ns) O2(dns) O2(ns) pendant l'étape K1.";
+
+translate "Add 2x hopper"
+to french "Ajouter une trémie double capacité";
+translate "Adding a 2x production hopper"
+to french "Ajout d'une trémie double capacité";
+translate "Add 4x hopper"
+to french "Ajouter une trémie quadruple capacité";
+translate "Adding a 4x production hopper"
+to french "Ajout d'une trémie quadruple capacité";
+translate "Add 7x hopper"
+to french "Ajouter une trémie septuple capacité";
+translate "Adding a 7x production hopper"
+to french "Ajout d'une trémie septuple capacité";
+
+translate "Sun Steel Metal Sheeting: Hard Stainless Insulative"
+to french "Revêtement de métal en Acier solaire: Dure inoxydable Isolant";
+
+translate "Load/"
+to french "Charger/";
+
+translate "Load how much O1? (Max N1)"
+to french "Mettre combien de O1(np)? (Max N1)";
+
+translate "Load/O1"
+to french "Charger/O1(ns)";
+
+translate "Fuel the O1 with O2"
+to french "Alimenter O1(cns) O1(ns) avec de l'O2(ns)";
+
+translate "This O1 requires N1 O2 to fuel."
+to french "Alimenter O1(cns) O1(ns) nécessite N1 O2(N1?np:ns).";
+
+translate "Force Reactory to working"
+to french "Forcer le réacteur à fonctionner";
+
+translate "Fire the Reactory"
+to french "Lancer le réacteur";
+
+//translate "Fire the Reactory using Priming Residue"
+//to french "";
+
+//translate "Fire the Reactory using Debug Residue"
+//to french "";
+
+translate "You should place samples of at least two different metals in the reactory."
+to french "Vous devez mettre au moins deux métaux différents dans le réacteur.";
+
+translate "You'll need N1 O1 to fire the Reactory."
+to french "Vous aurez besoin de N1 O1(N1?np:ns) pour lancer le réacteur.";
+
+translate "warming up"
+to french "Préchauffage";
+
+translate "O1 has been working for K1"
+to french "O1(^cns) O1(ns) fonctionne depuis K1";
+
+translate "Dope the Mixture using Towering Palm Resin"
+to french "Stimuler le mélange en utilisant de la résine de towering palm";
+
+translate "You need 7 drops of Towering Palm Resin to dope the mixture."
+to french "Vous avez besoin de sept gouttes de résine de towering palm pour stimuler le mélange.";
+
+translate "Force open the Chamber"
+to french "Forcer l'ouverture de la chambre";
+
+translate "Open the Chamber"
+to french "Ouvrir le compartiment";
+
+translate "Doping: "
+to french "Stimulation: ";
+
+translate "Qty: "
+to french "Qté:";
+
+translate "Penalty: "
+to french "Pénalité: ";
+
+translate "Doping: K1 Qty: N1 Penalty: N2"
+to french "Stimulation: K1 Qté: N1 Pénalité: N2";
+
+translate "A successful reaction! You produced N1 O1."
+to french "Réaction réussie ! Vous avez produit N1 O1(N1?np:ns).";
+
+translate "An unsuccessful experiment. Only Clinker was produced, though the clinker does seem to contain specks of some unknown material."
+to french "Expérience échouée. Vous n'avez obtenu que du mâchefer, bien qu'il semble contenir des particules d'une substance inconnue.";
+
+translate "An unsuccessful experiment. Only Clinker was produced."
+to french "Expérience échouée. Vous n'avez obtenu que du mâchefer.";
+
+translate "This O1 is warming up"
+to french "O1(^cns) O1(ns) est en phase de préchauffage";
+
+translate "Automated Doping"
+to french "Stimulation planifiée";
+
+translate "Remove Doping Timer"
+to french "Annuler le compte à rebours";
+
+translate "There are no doping times in the matrix."
+to french "Il n'y a aucune date de stimulation dans la matrice.";
+
+translate "Remove Time:"
+to french "Annuler le compte à rebours :";
+
+translate "Add Doping Timer"
+to french "Ajouter un compte à rebours";
+
+translate "What time (in seconds) do you wish to dope the reactory?"
+to french "A quel moment souhaitez-vous stimuler la réaction ? (en secondes)";
+
+translate "Clear Doping Timers"
+to french "Annuler tous les temps de stimulation";
+
+translate "Are you sure you want to clear the timer list?"
+to french "Voulez-vous vraiment supprimer tous les temps de stimulation ?";
+
+translate "Are you sure you want to abandon the upgrade? You will lose all materials donated so far."
+to french "Etes-vous sûr de vouloir abandonner cette amélioration ? Vous allez perdre tous les matériaux déjà mis.";
+
