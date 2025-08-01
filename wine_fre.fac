@@ -1,4 +1,967 @@
-module wine_fre;
+Module Wine_fre;
+
+translate Wine to french masculine
+{
+  ns "Vin"; np "Vins";
+}
+
+translate Winebarrel to french masculine
+{
+  ns "Tonneau à vin"; np "Tonneaux à vin";
+}
+
+translate Grapes to french feminine
+{
+  ns "Grappe de Raisin"; np "Grappes de Raisin";
+}
+
+translate VineCutting to french feminine
+{
+  ns "Bouture"; np "Boutures";
+}
+
+translate "This barrel contains N1 bunches of grapes"
+to french "Le tonneau contient N1 grappes.";
+
+-- The following line is not translated correctly because of the label of the grapes
+-- translate "This barrel contains N1 bunches of grapes (K1)"
+-- to french "Le tonneau contient N1 grappes (K1).";
+
+-- If I put plain text instead of K1, it translates fine which is not acceptable since I can't guess what player will put as label
+translate "This barrel contains N1 bunches of grapes (D1, D2, D3 - Sugar)"
+to french "Le tonneau contient N1 grappes (D1, D2, D3 - Sugar).";
+
+translate "This barrel contains "
+to french "Le tonneau contient ";
+
+translate "This is your O1, Growing U1#N1"
+to french "C'est votre O1(ns), avec du U1(name) #N1";
+
+translate "This is a O1, Growing U1#N1"
+to french "C'est un O1(ns), avec du U1(name) #N1";
+
+translate "This Barrel is Empty"
+to french "Ce tonneau est vide.";
+
+
+translate "Re-label this wine"
+to french "Renommer ce vin";
+
+
+translate WAGrapefruit to french masculine
+{
+  ns "Pamplemousse"; np "Pamplemousses";
+}
+translate WALemon to french masculine
+{
+  ns "Limon"; np "Limons";
+}
+translate WABlackberry to french feminine
+{
+  ns "Mûre"; np "Mûres";
+}
+translate WARaspberry to french feminine
+{
+  ns "Framboise"; np "Framboises";
+}
+translate WAStrawberry to french feminine
+{
+  ns "Fraise"; np "Fraises";
+}
+translate WACassis to french masculine
+{
+  ns "Cassis"; np "Cassis";
+}
+translate WACherry to french feminine
+{
+  ns "Cerise"; np "Cerises";
+}
+translate WAApricot to french masculine
+{
+  ns "Abricot"; np "Abricots";
+}
+translate WAPeach to french feminine
+{
+  ns "Pêche"; np "Pêches";
+}
+translate WAApple to french feminine
+{
+  ns "Pomme"; np "Pommes";
+}
+translate WAPineapple to french masculine
+{
+  ns "Ananas"; np "Ananas";
+}
+translate WAMelon to french masculine
+{
+  ns "Melon"; np "Melons";
+}
+translate WABanana to french feminine
+{
+  ns "Banane"; np "Banane";
+}
+translate WAStrawberryJam to french feminine
+{
+  ns "Confiture de Fraise"; np "Confitures de Fraise";
+}
+translate WARaisin to french masculine
+{
+  ns "Raisin sec"; np "Raisins secs";
+}
+translate WAPrune to french feminine
+{
+  ns "Prune"; np "Prunes";
+}
+translate WAFig to french feminine
+{
+  ns "Figue"; np "Figues";
+}
+translate WAArtificialFruit to french masculine
+{
+  ns "Fruit de synthèse"; np "Fruits de synthèse";
+}
+translate WAMethylAnthranilate to french masculine
+{
+  ns "Anthranilate de méthyle"; np "Anthranilates de méthyle";
+}
+translate WAStemmy to french feminine
+{
+  ns "Tige"; np "Tiges";
+}
+translate WAGrass to french feminine
+{
+  ns "Herbe"; np "Herbes";
+}
+translate WABellPepper to french masculine
+{
+  ns "Poivron"; np "Poivrons";
+}
+translate WAEucalyptus to french masculine
+{
+  ns "Eucalyptus"; np "Eucalyptus";
+}
+translate WAMint to french feminine
+{
+  ns "Menthe"; np "Menthes";
+}
+translate WAGreenBeans to french masculine
+{
+  ns "Haricot vert"; np "Haricots verts";
+}
+translate WAAsparagus to french feminine
+{
+  ns "Asperge"; np "Asperges";
+}
+translate WAGreenOlive to french feminine
+{
+  ns "Olive verte"; np "Olives vertes";
+}
+translate WABlackOlive to french feminine
+{
+  ns "Olive noire"; np "Olives noires";
+}
+translate WAArtichoke to french masculine
+{
+  ns "Artichaut"; np "Artichauts";
+}
+translate WAStraw to french feminine
+{
+  ns "Paille"; np "Pailles";
+}
+translate WATea to french masculine
+{
+  ns "Thé"; np "Thés";
+}
+translate WATobacco to french masculine
+{
+  ns "Tabac"; np "Tabacs";
+}
+translate WAWalnut to french feminine
+{
+  ns "Noix"; np "Noix";
+}
+translate WAHazelnut to french feminine
+{
+  ns "Noisette"; np "Noisettes";
+}
+translate WAAlmond to french feminine
+{
+  ns "Amande"; np "Amandes";
+}
+translate WAHoney to french masculine
+{
+  ns "Miel"; np "Miels";
+}
+translate WAButterscotch to french masculine
+{
+  ns "Caramel dur"; np "Caramels durs";
+}
+translate WAButter to french masculine
+{
+  ns "Beurre"; np "Beurre";
+}
+translate WASoySauce to french feminine
+{
+  ns "Sauce soja"; np "Sauces soja";
+}
+translate WAChocolate to french masculine
+{
+  ns "Chocolat"; np "Chocolats";
+}
+translate WAMolasses to french feminine
+{
+  ns "Mélasse"; np "Mélasses";
+}
+translate WAPhenolic to french masculine
+{
+  ns "Résine de Phénol"; np "Résine de Phénols";
+}
+translate WAVanilla to french feminine
+{
+  ns "Vanille"; np "Vanilles";
+}
+translate WACedar to french masculine
+{
+  ns "Cèdre"; np "Cèdres";
+}
+translate WAOak to french masculine
+{
+  ns "Chêne"; np "Chênes";
+}
+translate WASmokey to french masculine
+{
+  ns "Fumé"; np "Fumés";
+}
+translate WABurntToast to french masculine
+{
+  ns "Toast brûlé"; np "Toasts brûlés";
+}
+translate WACoffee to french masculine
+{
+  ns "Café"; np "Cafés";
+}
+translate WADusty to french masculine
+{
+  ns "Poussiére"; np "Poussiéres";
+}
+translate WAMushroom to french masculine
+{
+  ns "Champignon"; np "Champignons";
+}
+translate WAMildew to french masculine
+{
+  ns "Mildiou"; np "Mildiou";
+}
+translate WAMoldyCork to french masculine
+{
+  ns "Liège Moisi"; np "Lièges Moisis";
+}
+translate WATar to french masculine
+{
+  ns "Goudron"; np "Goudrons";
+}
+translate WAPlastic to french masculine
+{
+  ns "Plastique"; np "Plastiques";
+}
+translate WAKerosene to french masculine
+{
+  ns "Kérosène"; np "Kérosènes";
+}
+translate WARubbery to french masculine
+{
+  ns "Caoutchou"; np "Caoutchou";
+}
+translate WAHydrogenSulfide to french masculine
+{
+  ns "Sulfure d'Hydrogène"; np "Sulfures d'Hydrogène";
+}
+translate WAMercaptan to french masculine
+{
+  ns "Mercaptan"; np "Mercaptans";
+}
+translate WAGarlic to french masculine
+{
+  ns "Ail"; np "Aulx";
+}
+translate WASkunk to french masculine
+{
+  ns "Putois"; np "Putois";
+}
+translate WACabbage to french masculine
+{
+  ns "Chou"; np "Choux";
+}
+translate WABurntMatch to french feminine
+{
+  ns "Allumette brûlée"; np "Allumettes brûlées";
+}
+translate WASulfur to french masculine
+{
+  ns "Soufre"; np "Soufre";
+}
+translate WAWetWool to french feminine
+{
+  ns "Laine mouillée"; np "Laines mouillées";
+}
+translate WAFilterPad to french masculine
+{
+  ns "Filtre"; np "Filtres";
+}
+translate WAWetCardboard to french masculine
+{
+  ns "Carton mouillé"; np "Cartons mouillés";
+}
+translate WAEthylAcetate to french masculine
+{
+  ns "Acétate éthylique"; np "Acétates éthylique";
+}
+translate WAAceticAcid to french masculine
+{
+  ns "Acide acétique"; np "Acides acétique";
+}
+translate WAEthanol to french masculine
+{
+  ns "Ethanol"; np "Ethanols";
+}
+translate WASharpSulfur to french masculine
+{
+  ns "Soufre pur"; np "Soufre pur";
+}
+translate WAFishy to french masculine
+{
+  ns "Poisson"; np "Poissons";
+}
+translate WASoapy to french masculine
+{
+  ns "Savon"; np "Savons";
+}
+translate WASorbate to french masculine
+{
+  ns "Sorbate"; np "Sorbates";
+}
+translate WAFuselAlcohol to french masculine
+{
+  ns "Alcool de patate"; np "Alcools de patate";
+}
+translate WAHotAlcohol to french masculine
+{
+  ns "Alcool fort"; np "Alcools forts";
+}
+translate WAAcetaldehyde to french masculine
+{
+  ns "Acétaldéhyde"; np "Acétaldéhydes";
+}
+translate WAFlorYeast to french feminine
+{
+  ns "Levure"; np "Levures";
+}
+translate WALeesy to french feminine
+{
+  ns "Dépot"; np "Dépots";
+}
+translate WASaurkraut to french feminine
+{
+  ns "Choucroute"; np "Choucroutes";
+}
+translate WAButericAcid to french masculine
+{
+  ns "Acide butyrique"; np "Acides butyriques";
+}
+translate WASweaty to french feminine
+{
+  ns "Sueur"; np "Sueurs";
+}
+translate WALacticAcid to french masculine
+{
+  ns "Acide lactique"; np "Acides lactiques";
+}
+translate WAHorsey to french masculine
+{
+  ns "Cheval"; np "Chevaux";
+}
+translate WAMousey to french feminine
+{
+  ns "Souris"; np "Souris";
+}
+translate WAOrangeBlossom to french feminine
+{
+  ns "Fleur d'Oranger"; np "Fleurs d'Oranger";
+}
+translate WAViolet to french feminine
+{
+  ns "Violette"; np "Violettes";
+}
+translate WAGeranium to french masculine
+{
+  ns "Géranium"; np "Géraniums";
+}
+translate WACloves to french masculine
+{
+  ns "Clou de Girofle"; np "Clous de Girofle";
+}
+translate WABlackPepper to french masculine
+{
+  ns "Poivre noir"; np "Poivre noir";
+}
+translate WALicorice to french masculine
+{
+  ns "Réglisse"; np "Réglisses";
+}
+translate WACitrus to french masculine
+{
+  ns "Agrume"; np "Agrumes";
+}
+translate WABerry to french feminine
+{
+  ns "Baie"; np "Baies";
+}
+translate WATreeFruit to french masculine
+{
+  ns "Fruit du verger"; np "Fruits du verger";
+}
+translate WATropicalFruit to french masculine
+{
+  ns "Fruit tropical"; np "Fruits tropicaux";
+}
+translate WADriedFruit to french masculine
+{
+  ns "Fruit sec"; np "Fruits secs";
+}
+translate WAOddFruit to french masculine
+{
+  ns "Fruit étrange"; np "Fruits étranges";
+}
+translate WAFresh to french masculine
+{
+  ns "Fraîcheur"; np "Fraîcheurs";
+}
+translate WACooked to french masculine
+{
+  ns "Cuisson"; np "Cuissons";
+}
+translate WADried to french masculine
+{
+  ns "Sécheresse"; np "Sécheresses";
+}
+translate WANutty to french feminine
+{
+  ns "Noix"; np "Noix";
+}
+translate WACarmelized to french masculine
+{
+  ns "Caramélisation"; np "Caramélisations";
+}
+translate WAResinous to french masculine
+{
+  ns "Résine"; np "Résines";
+}
+translate WABurned to french masculine
+{
+  ns "Brûlé"; np "Brûlés";
+}
+translate WAEarthy to french masculine
+{
+  ns "Terre"; np "Terres";
+}
+translate WAMoldy to french masculine
+{
+  ns "Moisi"; np "Moisis";
+}
+translate WAPapery to french masculine
+{
+  ns "Papier"; np "Papiers";
+}
+translate WAPungent to french masculine
+{
+  ns "Âcre"; np "Âcres";
+}
+translate WAOddChemical to french masculine
+{
+  ns "Produit chimique étrange"; np "Produits chimiques étranges";
+}
+translate WAHot to french masculine
+{
+  ns "Chaleur"; np "Chaleurs";
+}
+translate WACool to french masculine
+{
+  ns "Froid"; np "Froids";
+}
+translate WAOxidized to french masculine
+{
+  ns "Oxydation"; np "Oxydations";
+}
+translate WAYeasty to french feminine
+{
+  ns "Levure"; np "Levures";
+}
+translate WALactic to french masculine
+{
+  ns "Lait"; np "Laits";
+}
+translate WAAnimal to french masculine
+{
+  ns "Animal"; np "Animaux";
+}
+translate WAFloral to french masculine
+{
+  ns "Touche florale"; np "Touches florales";
+}
+translate WASpicey to french masculine
+{
+  ns "Épice"; np "Épices";
+}
+translate WAFruity to french masculine
+{
+  ns "Fruit"; np "Fruits";
+}
+translate WAVegetative to french masculine
+{
+  ns "Végétal"; np "Végétaux";
+}
+translate WAWoody to french masculine
+{
+  ns "Bois"; np "Bois";
+}
+translate WAChemical to french masculine
+{
+  ns "Produit chimique"; np "Produits chimiques";
+}
+translate WAMicrobiological to french masculine
+{
+  ns "Microbe"; np "Microbes";
+}
+
+translate WApetroleum to french masculine
+{
+  ns "Pétrole"; np "Pétroles";
+}
+
+translate WAdiesel to french masculine
+{
+  ns "Diesel"; np "Diesel";
+}
+ 
+translate WAmenthol to french masculine
+{
+  ns "Menthol"; np "Menthol";
+}
+ 
+translate WAlinalool to french masculine
+{
+  ns "Linalool"; np "Linalool";
+}
+ 
+translate WArose to french masculine
+{
+  ns "Rose"; np "Roses";
+}
+ 
+translate WAsulfur to french masculine
+{
+  ns "Soufre"; np "Soufres";
+}
+
+translate "Vigor: N1"
+to french "Vigueur : N1";
+translate "Grapes: N1"
+to french "Grappes : N1";
+translate "Quality: N1"
+to french "Qualité : N1";
+translate "Sugar: N1"
+to french "Sucre : N1";
+translate "Skin: N1"
+to french "Peau : N1";
+translate "Color: N1"
+to french "Couleur : N1";
+translate "Acid: N1"
+to french "Acidité : N1";
+translate "Hue: "
+to french "Teinte :";
+
+translate "Current vintage"
+to french "Millésime actuel";
+
+translate "You sniff the air, examine the soil, taste the water, and then you remember to look at the calendar. The current vintage is K1"
+to french "Vous reniflez l'air, examinez le sol, goûtez l'eau, puis vous vous souvenez de regarder le calendrier. Le millésime en cours est K1";
+
+translate "This is a O1, Growing K1"
+to french "Ceci est un O1(ns), chargée de K1";
+
+translate "This is a O1, Growing Balance"
+to french "Ceci est un O1(ns), chargée de Balance";
+translate "This is a O1, Growing Distraction"
+to french "Ceci est un O1(ns), chargée de Distraction";
+translate "This is a O1, Growing Amusement"
+to french "Ceci est un O1(ns), chargée d'Amusement";
+translate "This is a O1, Growing Contemplation"
+to french "Ceci est un O1(ns), chargée de Contemplation";
+translate "This is a O1, Growing Appreciation"
+to french "Ceci est un O1(ns), chargée d'Appréciation";
+translate "This is a O1, Growing Wisdom"
+to french "Ceci est un O1(ns), chargée de Sagesse";
+translate "This is a O1, Growing Frivolity"
+to french "Ceci est un O1(ns), chargée de Frivolité";
+
+translate "This is your O1, Growing K1"
+to french "Ceci est votre O1(ns), chargée de K1";
+
+translate "This is your O1, Growing Balance"
+to french "Ceci est votre O1(ns), chargée de Balance";
+translate "This is your O1, Growing Distraction"
+to french "Ceci est votre O1(ns), chargée de Distraction";
+translate "This is your O1, Growing Amusement"
+to french "Ceci est votre O1(ns), chargée d'Amusement";
+translate "This is your O1, Growing Contemplation"
+to french "Ceci est votre O1(ns), chargée de Contemplation";
+translate "This is your O1, Growing Appreciation"
+to french "Ceci est votre O1(ns), chargée d'Appreciation";
+translate "This is your O1, Growing Wisdom"
+to french "Ceci est votre O1(ns), chargée de Sagesse";
+translate "This is your O1, Growing Frivolity"
+to french "Ceci est votre O1(ns), chargée de Frivolité";
+
+translate ", Growing K1"
+to french ", chargée de K1";
+
+translate "Tear off the dead vines"
+to french "Arracher les vignes mortes (tear off)";
+
+translate "Grapes are starting to shrivel"
+to french "Les grappes commencent à se flétrir (shrivel)";
+
+translate "Leaves are wilting"
+to french "Les feuilles se raccornissent (wilting)";
+
+translate "Leaves shimmer with moisture"
+to french "Les feuilles brillent de rosée (shimmer)";
+
+translate "Stems look especially fat"
+to french "Les tiges sont très épaisses (fat)";
+
+translate "A musty smell can be detected"
+to french "Une odeur de moisi se fait sentir (musty smell)";
+
+translate "Vines are sagging a bit"
+to french "La vigne penche un peu (sagging)";
+
+translate "Leaves rustle in the breeze"
+to french "Les feuilles bruissent dans la brise (rustle)";
+
+translate "Tend: Aerate the Soil"
+to french "Entretenir : Aérer le sol (AS)";
+
+translate "Tend: Trim the Lower Leaves"
+to french "Entretenir : Tailler les feuilles basses (TL)";
+
+translate "Tend: Tie the Vines to the Trellis"
+to french "Entretenir : Attacher la vigne à la treille (TV)";
+
+translate "Tend: Pinch off the weakest stems"
+to french "Entretenir : Pincer les tiges les plus faibles (PO)";
+
+translate "Tend: Mist the Grapes"
+to french "Entretenir : Brumiser les grappes (MG)";
+
+translate "Tend: Shade the Leaves"
+to french "Entretenir : Mettre les feuilles à l'ombre (SL)";
+
+translate "Tend: Spread out the Vines"
+to french "Entretenir : Étaler la vigne (SV)";
+
+translate "This Vine can be Tended now"
+to french "Vous pouvez entretenir de cette vigne maintenant";
+
+translate "This Vine can be Tended in K1"
+to french "Vous pourrez entretenir de cette vigne dans K1";
+
+translate "Tend: "
+to french "Entretenir : ";
+
+translate "Tend"
+to french "Entretenir";
+translate "Cutting"
+to french "Bouture";
+
+translate "Warning: Tending a vine when you don't know what you're doing can kill it. You might want to first take a cutting of the vine. Proceed anyway? (This warning will go away once you've made your first Vine Cutting.)"
+to french "Attetion : Prendre soin d'une vigne si vous ne savez pas ce que vous faites peut la tuer. Vous devriez en prendre une bouture d'abord. Voulez-vous continuer ? (Cet avertissement disparaîtra après que vous ayez pris une première bouture.";
+
+translate "Take a Cutting of the Vine"
+to french "Prendre une Bouture de la Vigne";
+
+translate "The vine has no cuttings to take. Wait another K1."
+to french "Vous ne pouvez pas prendre de bouture. Attendez encore K1.";
+
+translate "Harvest the Grapes"
+to french "Récolter les Grappes de Raisin";
+
+translate "Are you sure you want to harvest these grapes?"
+to french "Êtes-vous certain de vouloir récolter ces grappes ?";
+
+translate "Examine Grapes"
+to french "Examiner les Grappes de Raisin";
+
+translate "White"
+to french "Blanc";
+translate "Rose"
+to french "Rosé";
+translate "Light Red"
+to french "Rouge clair";
+translate "Dark Red"
+to french "Rouge foncé";
+translate "Purple-Red"
+to french "Rouge-violet";
+translate "Purple"
+to french "Violet";
+translate "Deep Purple"
+to french "Violet foncé";
+
+translate "Wine Barrel"
+to french "Tonneau à vin";
+
+translate "To build a Wine Barrel, you need: "
+to french "Pour contruire un Tonneau à vin, il vous faut : ";
+
+translate "Barrel contains N1 bunches of grapes."
+to french "Le Tonneau contient N1 grappes de raisin.";
+
+translate "Crush the Grapes and Seal the Barrel"
+to french "Écraser les grappes et Sceller le Tonneau";
+
+translate "There are not enough grapes for even a single bottle of wine!"
+to french "Il n'y a pas assez de grappes même pour une seule bouteille de vin !";
+
+translate "You need a Barrel Tap. Ask someone with the Carving skill."
+to french "Il vous faut un Robinet de Tonneau. Demandez à quelqu'un ayant la compétence de Façonnage.";
+
+translate "There are some old grapes in the barrel which have spoiled."
+to french "Le tonneau contient de vielles grappes qui se sont gâtées.";
+
+translate "Label for this wine:"
+to french "Étiquette pour ce vin : ";
+
+translate "You cannot use the character '\' in the name of the wine."
+to french "Vous ne pouvez pas inclure de '\' dans les noms des vins.";
+
+translate "Wine barrel has been sealed, and fermentation has begun."
+to french "Le tonneau à vin a été scellé, et la fermentation a commencé.";
+
+translate "Add Grapes"
+to french "Ajouter des Grappes de Raisin";
+
+translate "The grapes have spoiled, and should be thrown away."
+to french "Les grappes se sont gâtées et devraient être jetées.";
+
+translate "Empty the contents of the barrel onto the ground."
+to french "Vider le contenu du tonneau par terre.";
+
+translate "Are you sure you want to empty the barrel onto the ground?"
+to french "Êtes-vous sûr de vouloir vider le tonneau par terre ?";
+
+translate "Open the Barrel and Bottle the Wine"
+to french "Ouvrir le tonneau et embouteiller le Vin";
+
+translate "You need N1 Wine Bottles."
+to french "Il vous faut N1 Bouteilles de Vin.";
+
+translate "Siphon a Barrel Sample"
+to french "Siphonner un échantillon du tonneau";
+
+translate "Future Barrel Sample"
+to french "Prochain échantillon du tonneau";
+
+translate "Siphon"
+to french "Siphonner";
+
+translate "Siphoning..."
+to french "Vous siphonnez...";
+
+translate "K1 Vintage"
+to french "Millésime K1";
+
+translate "This K1, Vintage N1 K2 Wine has:"
+to french "Ce K1, Vin K2 de Millésime N1, a :";
+
+translate "Dark Red"
+to french "Rouge foncé";
+translate "Purple-Red"
+to french "Rouge-violet";
+translate "Purple"
+to french "Violet";
+translate "Deep Purple"
+to french "Violet foncé";
+
+translate "Alcohol N1.N2%" 
+to french "Alcool N1,N2%";
+
+translate "Residual Sugar N1.N2"
+to french "Sucre résiduel N1,N2";
+
+translate "Tannin N1.N2"
+to french "Tanin N1,N2";
+
+translate "Acid N1.N2"
+to french "Acidité N1,N2";
+
+translate "Wine Barrel"
+to french "Tonneau à Vin";
+
+translate "Projects/Wine Barrel"
+to french "Projets/Tonneau à Vin";
+
+translate "Build a Vineyard"
+to french "Construire un Vignoble";
+
+translate "To build a vineyard, you need:"
+to french "Pour construire un vignoble, il vous faut :";
+
+translate "Ask for a grape vine cutting"
+to french "Demander une bouture de vigne";
+
+translate "Crush the grapes"
+to french "Écraser les grappes";
+
+translate "Siphon a taste of wine"
+to french "Siphonner un échantillon du vin";
+
+translate "Write a set of labels for this barrel"
+to french "Rédiger un jeu d'étiquettes pour ce tonneau";
+
+translate "To write a set of wine labels requires:"
+to french "Rédiger un jeu d'étiquettes nécessite :";
+
+translate "There is no wine left to taste."
+to french "Il ne reste plus de vin à goûter.";
+
+translate "Begin bottling the wine"
+to french "Commencer l'embouteillage";
+
+translate "Are you sure you want to begin bottling the wine?"
+to french "Étes-vous certain de vouloir commencer à embouteiller ?";
+
+translate "You don't see a good spot to take a cutting. Give it at least K1 to grow."
+to french "Vous ne voyez pas de bouture possible. Donnez-lui au moins K1 pour pousser.";
+
+translate "Name of the special bottling? (You can leave this blank)"
+to french "Nom de cet embouteillage spécial ? (Vous pouvez le laisser à blanc)";
+
+translate "Fill a glass jar with Wine"
+to french "Remplir une jarre de verre avec du Vin";
+
+translate "You need a glass jar to bottle the wine."
+to french "Il vous faut une jarre de verre pour embouteiller ce vin.";
+
+translate "There is not enough wine left to bottle."
+to french "Il n'y a plus assez de vin dans la bouteille.";
+
+translate "Grow"
+to french "Planter";
+
+translate "Are you sure you're ready to harvest? The cutting will be lost at the same time."
+to french "Voulez-vous vraiment commencer les vendanges ? La plante sera perdue.";
+
+translate "Seal the barrel and begin fermenting"
+to french "Sceller le tonneau pour commencer la fermentation";
+
+translate "Wine barrel has been sealed."
+to french "Le tonneau a été scellé.";
+
+translate "Empty the contents of the barrel onto the ground"
+to french "Vider le contenu du tonneau sur le sol";
+
+translate "Clean out the barrel"
+to french "Laver le tonneau";
+
+translate "Are you sure you want to empty the barrel onto the ground?"
+to french "Voulez-vous vraiment vider le contenu du tonneau au sol ?";
+
+translate "You empty the barrel onto the ground."
+to french "Vous videz le contenu du tonneau au sol.";
+
+translate "Grow K1"
+to french "Faire pousser K1";
+
+translate "Taste Vintage N1"
+to french "Gouter la cuvée N1";
+
+translate "Vintage"
+to french "Cuvée";
+
+translate "Add Grapes"
+to french "Ajouter du raisin";
+
+translate "Sampling the wine..."
+to french "Vous goûtez le vin...";
+
+translate "You detect: "
+to french "Vous détectez : ";
+
+translate "Vintage would be: N1"
+to french "Cette cuvée est : N1";
+
+translate "Tannin: N1"
+to french "Tannin : N1";
+
+translate "Sour: N1"
+to french "Amertume : N1";
+
+translate "Residual Sugar: N1"
+to french "Sucre résiduel: N1";
+
+translate "Fragrant:N1"
+to french "Arôme : N1";
+
+translate "Vegetal:N1"
+to french "Plantes : N1";
+
+translate "Fruit:N1"
+to french "Fruits : N1";
+
+translate "Concentration:N1"
+to french "Concentration : N1";
+
+translate "Alcohol: N1" 
+to french "Alcool : N1";
+
+translate "A bunch of N1 grapes, grown K1 ago at egypt N2 N3"
+to french "Un lot de N1 raisins, récoltés il y a K1 en Egypte N2 N3";
+
+translate "Hue: White"
+to french "Teinte: Blanc";
+translate "Hue: White Red"
+to french "Teinte: Rouge clair";
+translate "Hue: Dark Red"
+to french "Teinte: Rouge sombre";
+translate "Hue: Red"
+to french "Teinte: Rouge";
+translate "Hue: Rose"
+to french "Teinte: Rosé";
+translate "Hue: Purple"
+to french "Teinte: Violet";
+translate "Hue: Purple-Red"
+to french "Teinte: Rouge-violet";
+translate "Hue: Deep Purple"
+to french "Teinte: Violet sombre";
+
+translate "The grapes will remain fresh for K1"
+to french "Les raisins gâteront dans K1";
+
+translate "The grapes have spoiled"
+to french "Les raisins sont gâter";
+
+translate "Are you sure you want to throw out the wine?"
+to french "Voulez-vous vraiment vider le contenu du tonneau?";
+
+translate "Permission for Cutting"
+to french "Permission de prendre une bouture";
+
+translate "Permission for Tend"
+to french "Permission d'entretenir";
+
+translate "Vineyard"
+to french "Vignoble";
+
 
 translate VineCutting to french feminine
 {

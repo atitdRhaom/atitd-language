@@ -22,7 +22,7 @@ translate Slate to german masculinecollective
   pn "Schiefer"; pg "Schiefer"; pd "Schiefern"; pa "Schiefer";
 }
 
-translate StoneBlade to german femininecollective
+translate SlateBlade to german femininecollective
 {
     swa "Steinklinge";
   sn "Steinklinge"; sg "Steinklinge"; sd "Steinklinge"; sa "Steinklinge";

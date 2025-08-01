@@ -104,9 +104,6 @@ translate "Log Out"
 translate "Quit"
 	to german "Beenden";
 
-translate "Content Advisor"
-	to german "Spielberater";
-
 translate "Toggle Invisibility"
 	to german "Wechsel Unsichtbarkeit";
 

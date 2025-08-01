@@ -1,0 +1,159 @@
+module Visions_fre;
+
+translate Visions to french feminine
+{
+  ns "L'épreuve des Visions"; np "L'épreuve des Visions";
+}
+
+translate "Principles of Visions requires finding the components for Eye of God Serum, successfully brewing a batch, and ingesting the dangerous brew."
+to french "Le Principe des Visions vous guidera à travers la collecte des composés nécessaires à la fabrication du sérum Oeil divin, dans les étapes de sa préparation, et dans l'ingestion du dangereux brevage.";
+
+translate "Collect one Brain Mushroom"
+to french "Ramasser un champignon Cervelle";
+translate "Collect one Catnip Mushroom"
+to french "Ramasser un champignon Cataire";
+translate "Collect one Razor's Edge Mushroom"
+to french "Ramasser un champignon Lame de rasoir";
+translate "Brew Eye of God Serum in a Toxin Kitchen"
+to french "Préparer du sérum Oeil Divin dans un laboratoire à poison";
+translate "Ingest Eye of God Serum"
+to french "Ingérer du sérum Oeil Divin";
+
+translate "By carefully ingesting precise quantities of Eye of God Serum, it is possible to see visions of the Gods! Visions can be deceiving, however, and it is only by comparing your visions with those of fellow spiritualists, that you can truly know the Face of God. When you are sure you have identified the spot that the God is inhabiting, consume a final dose of the serum. This time, the vision will be clear."
+to french "En absorbant une quantité bien précise de sérum Oeil Divin, il est possible de recevoir des visions des Dieux ! Les visions peuvent être décevantes, et c'est seulement en les comparant avec celles des autres adeptes que le Visage Divin vous sera révélé. Lorsque vous êtes certain d'avoir localisé le Visage Divin, ingérez une dernière dose de sérum. Dès lors, votre vision sera limpide.";
+
+translate "You have completed the Principles of Visions. If you choose, you may continue to persue your visions, truly seeing faces of the Gods."
+to french "Vous avez terminé les principes des Visions. Si vous le souhaitez, vous pouvez continuer à suivre vos visions, et ainsi découvrir les véritables visages des Dieux.";
+
+translate "This is N1 feet above sea level."
+to french "C'est à N1 pieds au dessus du niveau de la mer.";
+
+translate "On even ground"
+to french "sur un sol plat";
+
+translate "On a Mountain"
+to french "sur une montagne";
+
+translate "In a Large Valley"
+to french "dans une grande vallée";
+
+translate "On a Medium Hill"
+to french "sur une colline de taille moyenne";
+
+translate "In a Medium Valley"
+to french "dans une vallée de taille moyenne";
+
+translate "On a Small Hill"
+to french "sur une petite colline";
+
+translate "In a Small Valley"
+to french "dans une petite vallée";
+
+translate "Locations Report"
+to french "Emplacement";
+
+translate "No vision appears."
+to french "Aucune vision ne vous apparait.";
+
+translate "No visions comes to you."
+to french "Aucune vision ne vous frappe.";
+
+translate "Your mind clears without a vision."
+to french "Votre esprit se vide mais aucune vision ne vient.";
+
+translate "No vision is seen."
+to french "Vous n'avez aucune vision.";
+
+translate "Min"
+to french "Min";
+
+translate statueofmontu to french feminine
+{ ns "Statue de Montu"; np "Statues de Montu";}
+
+
+//K1
+translate "You see the face of K1 in: "
+to french "Vous appercevez le visage de K1 : ";
+
+//K2
+translate "a K1"
+to french "un K1";
+translate "a O1"
+to french "O1(uns) O1(ns)";
+
+//K3
+translate " owned by K1"
+to french " appartenant à K1";
+translate ", built by the ancestors"
+to french ", construit par les ancêtres";
+
+//K4
+translate " on K1"
+to french " en K1";
+translate "Year K1, K2 K3, N1:N2K4"
+to french "l'An K1, K2 K3, N1:N2K4";
+
+//K5
+translate ", resting on O1"
+to french ", sur un O1(ns)";
+translate ", resting on K1"
+to french ", sur un K1";
+
+//K6
+translate ", N1 feet above sea level"
+to french ", N1 pieds au dessus du niveau de la mer";
+//K7
+translate ", on a vein of O1"
+to french ", sur une veine de O1(ns)";
+//K8
+translate ", N1 feet from water"
+to french ", à N1 pieds de l'eau";
+//K9
+translate ", K1"
+to french ", K1";
+
+translate "K1K2K3K4K5K6K7K8K9."
+to french "K1K2K3K4K5K6K7K8K9.";
+translate "K1K2K3K4K5K6K7K8K9"
+to french "K1K2K3K4K5K6K7K8K9";
+translate "K1K2."
+to french "K1K2.";
+
+translate "sandy terrain"
+to french "terrain sableux";
+
+translate "grass"
+to french "terrain herbeux";
+
+translate "a Patch of clay"
+to french "terrain argileux";
+
+translate "a patch of dirt"
+to french "terrain à terreau";
+
+translate "a path"
+to french "chemin";
+
+translate "an area of rock"
+to french "terrain rocheux";
+
+translate "You have already seen the face of God in a O1 at K1."
+to french "Vous avez déjà apperçu le visage divin dans O1(uns) O1(ns) en K1.";
+
+translate "You have found the face of God in a O1 at K1."
+to french "Vous avez découvert le visage divin dans O1(uns) O1(ns) en K1.";
+
+translate "You, like so many others, have seen the face of God."
+to french "Vous, comme tant d'autres, avez eu la chance de contemplé le Visage Divin.";
+
+translate "Faces of God Identified: N1"
+to french "Visages Divins identifiés : N1";
+
+translate "You may only do this once every 6 hours."
+to french "Vous ne pouvez faire cela qu'une fois toutes les six heures.";
+
+translate "You don't have any Eye of God Serum"
+to french "Vous n'avez pas de sérum Oeil Divin en votre possession.";
+
+translate "A vision may come to you within the next 20 minutes."
+to french "Vous aurez peut-être une vision dans les prochaines 20 minutes.";

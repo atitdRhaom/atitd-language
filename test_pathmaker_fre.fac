@@ -1,0 +1,139 @@
+module pearl_fre;
+
+translate Pathmaker to french feminine
+{
+  ns "L'épreuve du Canal"; np "L'épreuve du Canal";
+}
+translate PathmakerBuilding to french masculine
+{
+  ns "Planificateur de canaux"; np "Planificateurs de canaux";
+}
+
+translate "Principles of the Pathmaker will lead you through making one of each type of item needed to build a Pathmaker. Of course, you may trade for the materials, bypassing all of those steps."
+to french "Les Principes du Canal vous guideront dans la création des ressources nécéssaires à l'édification d'un planificateur de canaux. Vous pouvez cependant valider ces étapes en achetant les ressources et en construisant le planificateur.";
+
+translate "Dig a Cuttable Stone at a Hole"
+to french "Creuser le sol pour obtenir des pierres exploitables";
+translate "Cut a Stone on a Rock Saw"
+to french "Tailler une pierre sur une scie à pierre";
+translate "Cut a Hexas Plate Amethyst"
+to french "Tailler une améthyste Plaque Hexas";
+translate "Cut a Looking Glass Jade"
+to french "Tailler une jade Lunette";
+translate "Cut a Symmetry Turquoise"
+to french "Tailler une turquoise Symétrie";
+translate "Cut a Dragyn's Eye Citrine"
+to french "Tailler une citrine Oeil de Dragyn";
+translate "Mine a Huge Diamond"
+to french "Miner un diamant énorme";
+translate "Mine a Medium Topaz"
+to french "Miner une topaze moyenne";
+translate "Smelt Silver"
+to french "Fondre de l'argent";
+translate "Build a Pathmaker"
+to french "Construire un planificateur de canaux";
+translate "Open your design for Judging"
+to french "Soumettre votre plan à l'évaluation";
+translate "Tear down your Pathmaker, OR do the following:"
+to french "Détruire votre planificateur de canaux, ou suivez ces étapes :";
+translate "    Have 7 Judges solve and rate your Pathmaker"
+to french "    Que 7 juges résouent et évaluent votre planificateur";
+translate "All of the above, OR solve three recent winning Pathmakers"
+to french "OU résoudre trois planificateurs ayant récemment passés l'épreuve";
+
+translate "Have N1 Judges solve and rate your Pathmaker"
+to french "Que N1 juges résolvent et évaluent votre planificateur de canaux";
+
+translate "So far: N1"
+to french "Jusqu'à présent: N1";
+
+translate "Complete Principles of the Pathmaker by designing a Pathmaker puzzle that others find appropriately challenging."
+to french "Terminez les Principes du Canal en concevant un Planificateur de canaux que les autres trouveront intérréssant.";
+
+translate "You have completed Principles of the Pathmaker."
+to french "Vous avez terminé les Principes du Canal";
+
+translate "Well done! Now, use the Pathmaker to design a puzzle that you think others will find 'Pleasingly Challenging.' They will score you on how well you meet that criteria. Finally, open your Pathmaker for judging."
+to french "Bien joué! Concevez maintenant un plan de canal que les autres trouveront interessant. Ils évalueront sur la base de ce critère.";
+
+
+translate "Design a miniature system of aqueduct towers, and challenge others to connect them in a loop. Living mossy towers (green) require the pipe to pass straight through, but turn adjacent. Dead (black) towers require the pipe to turn in place, but extend straight."
+to french "Concevez un système de canaux miniature parsemé d'écluses, et défiez vos compatriotes de les reliers afin de reformer le canal. Les écluses vertes doivent être traversées par un segment rectiligne, mais qui tourne à l'une des extrémités. Les écluses noires doivent être traversées par un segment en coude, mais rectiligne aux deux extrémités.";
+
+translate "Pathmaker"
+to french "Planificateur de canaux";
+
+translate "Hexas Plate cut Amethyst"
+to french "Améthystes taillées: Plaque Hexas";
+
+translate "Looking Glass cut Jade"
+to french "Jades taillées: Lunette";
+
+translate "Symmetry cut Turquoise"
+to french "Turquoises taillées: Symétrie";
+
+translate "Dragyn's Eye cut Citrine"
+to french "Citrine taillée: Oeil de Dragyn";
+
+translate "To build a Pathmaker you need:"
+to french "Pour construire un planificateur de canaux, il vous faut:";
+
+translate "This Pathmaker is not yet open for play."
+to french "Ce planificateur de canaux n'est pas encore ouvert à l'évaluation.";
+
+translate "U1 was playing, but seems to have walked away. You can reset the Pathmaker."
+to french "U1(name) était en train de jouer, mais semble avoir abandonné. Vous pouvez réinitialiser le planificateur";
+
+translate "U1 is already playing."
+to french "U1(name) est en train de jouer.";
+
+translate "Change to Aqueduct-Linking Mode"
+to french "Passer en mode 'chenaux'";
+
+translate "Change to Tower-Placing Mode"
+to french "Passer en mode 'écluses'";
+
+translate "Claim a Win"
+to french "Revendiquer la victoire";
+
+translate "You have not completed the challenge: Not all towers are connected."
+to french "Vous n'avez pas terminé le défis, toutes les tours ne sont pas reliées.";
+
+translate "The path is complete! You may now judge this challenge."
+to french "Le canal est complet! vous pouvez évaluer ce puzzle.";
+
+translate "Attempt this Path"
+to french "Tenter de résoudre ce canal";
+
+translate "Reset this Pathmaker"
+to french "Réinitialiser ce planificateur de canaux";
+
+translate "You must show a solved system of Towers and Aqueducts before opening for judging: Not all towers are connected."
+to french "Vous devez concevoir un réseau d'écluses et de chenaux avant de soumettre à l'évaluation: Toutes les écluses ne sont pas connectées";
+
+translate "You must show a solved system of Towers and Aqueducts before opening for judging: A North-Facing pipe is disconnected."
+to french "Vous devez concevoir un réseau d'écluses et de chenaux avant de soumettre à l'évaluation: un chenal au nord est isolé.";
+
+translate "You must show a solved system of Towers and Aqueducts before opening for judging: A South-Facing pipe is disconnected."
+to french "Vous devez concevoir un réseau d'écluses et de chenaux avant de soumettre à l'évaluation: un chenal au sud est isolé.";
+
+translate "You must show a solved system of Towers and Aqueducts before opening for judging: A East-Facing pipe is disconnected."
+to french "Vous devez concevoir un réseau d'écluses et de chenaux avant de soumettre à l'évaluation: un chenal à l'est est isolé.";
+
+translate "You must show a solved system of Towers and Aqueducts before opening for judging: A West-Facing pipe is disconnected."
+to french "Vous devez concevoir un réseau d'écluses et de chenaux avant de soumettre à l'évaluation: un chenal à l'ouest est isolé.";
+
+translate "Open for Judging"
+to french "Soumettre à l'évaluation";
+
+translate "You must show a solved system of Towers and Aqueducts before opening for judging: The Aqueduct System has no pipes!"
+to french "Vous devez concevoir un réseau d'écluses et de chenaux avant de soumettre à l'évaluation: le système ne semble comporter aucun chenal!";
+
+translate "You must show a solved system of Towers and Aqueducts before opening for judging: Aqueducts must all be connected into a single system."
+to french "Vous devez concevoir un réseau d'écluses et de chenaux avant de soumettre à l'évaluation: les chenaux doivent former une seule boucle";
+
+translate "Return to Design Mode"
+to french "Retourner en mode conception";
+
+translate "Are you sure you want to return to design mode? Judges scores will be lost."
+to french "Voulez-vous vraiment retourner en mode conception? Le score sera perdu.";

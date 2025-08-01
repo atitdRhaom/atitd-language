@@ -369,11 +369,6 @@ translate HeavyLeadBowl to spanish masculine
   ns "Cuenco de Plomo"; np "Cuencos de Plomo";
 } 
 
-translate coppercookpots to spanish feminine
-{
-ns "Cacerola de Cobre"; np "Cacerolas de Cobre";
-}
-
 translate moonsteelsheeting to spanish feminine
 {
 ns "Lámina de Acero Lunar"; np "Láminas de Acero Lunar";

@@ -74,10 +74,6 @@ translate EssentialExtract to french masculine
 {
   ns "Extrait essentiel"; np "Extraits essentiels";
 }
-translate Cookpots to french masculine
-{
-  ns "Pot de cuisson en fer"; np "Pots de cuisson en fer";
-}
 
 translate Coconuts to french feminine
 {

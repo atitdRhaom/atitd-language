@@ -4,6 +4,12 @@ Module goals_fre;
 translate Leadership to french masculine
 { ns "Commandement"; np "Commandement";}
 
+translate ScienceNature to french feminine
+{ ns "Philosophie Naturelle"; np "Philosophie Naturelle";}
+
+translate "Natural Philosophy"
+to french "Philosophie Naturelle";
+
 translate ConflictInit to french masculine
 { ns "Principes du Conflit"; np "Principes du Conflit";}
 	
@@ -121,9 +127,6 @@ translate Festivals to french feminine
 translate Beacons to french feminine
 { ns "L'épreuve des Balises"; np "L'épreuve des Balises";}
 
-translate Critic to french feminine
-{ ns "L'épreuve du Critique"; np "L'épreuve du Critique";}
-
 translate Archaeology to french feminine
 { ns "Archéologie"; np "Archéologie";}
 
@@ -145,6 +148,8 @@ translate "The discipline of Thought"
 to french "La discipline de la Pensée";
 translate "The discipline of Worship"
 to french "La discipline de Vénération";
+translate "The discipline of Natural Philosophy"
+to french "La discipline de Philosophie Naturelle";
 
 translate "Overview"
 to french "Vue d'ensemble";
@@ -192,6 +197,9 @@ to french "Les disciples complètent des rituels complexes pour attirer la faveur
 
 translate "(You have passed N1 tests out of N2)"
 to french "(Vous avez passé N1 tests sur N2)";
+
+translate "(You have passed N1 tests out of N2 possible)"
+to french "(Vous avez passé N1 tests sur les N2 possibles)";
 
 translate "Principles of Art and Music (Enabled)(Active)"
 to french "Principes d'Art et Musique (Ouvert)(Actif)";
@@ -335,6 +343,22 @@ translate "All petitions are created at the University of Leadership."
 to french "Toutes les pétitions sont créées à l'université de Commandement.";
 translate "To begin, visit a School or University of Leadership, and use the 'Tests' Menu."
 to french "Visitez une école ou université de Commandement, et utilisez le menu 'Epreuves'.";
+
+translate "Principles of Natural Philosophy"
+to french "Principes du Philosophie Naturelle";
+translate "The physical world around us is full of mysteries."
+to french "Le monde naturel qui nous entoure est plein de mystères.";
+translate "Observe and catalogue the natural world and unlock new challenges."
+to french "Observez et répertoriez le monde naturel et relevez de nouveaux défis.";
+
+
+
+
+
+translate "Natural Philosophy is the discipline of the world."
+to french "La philosophie naturelle est la discipline du monde.";
+translate "Disciples seek out new knowledge and new experiences of how the natural world works."
+to french "Les disciples recherchent de nouvelles connaissances et de nouvelles expériences sur le fonctionnement du monde naturel.";
 
 translate "Principles of Thought"
 to french "Principes de la Pensée";
@@ -859,22 +883,6 @@ translate "You will have use of each other's possessions, and can even log in as
 to french "possessions de l'autre personne, et pourrez même vous connecter sur son compte. L'avancement ";
 translate "Advance based on your spouse passing many Tests, and by having a long marriage."
 to french "dans cette épreuve est basé sur le nombre d'épreuves accomplies par l'autre et par la durée du mariage.";
-
-translate "The Test of Reason"
-to french "L'épreuve de Raison";
-translate "Solve and judge challenges created by Egypt's Scholars. Your score is"
-to french "Résolvez et évaluez les défis créés par les érudits de l'Egypte. Votre";
-translate "based on the number of judge peers that you have had."
-to french "score est basé sur le nombre de juges en harmonie avec vous.";
-
-translate "The Test of the Critic"
-to french "L'épreuve du Critique";
-translate "Evaluate art, judge Scarab exhibitions and Pyrotechnics shows."
-to french "Evaluez les oeuvres d'art, jugez des exhibitions de pyrotechnie.";
-translate "Your score is based on the number of judge peers that you have"
-to french "Votre score est basé sur le nombre d'autres juges en harmonie avec vous,";
-translate "had, as well as the number of exhibitions and shows that you judge."
-to french "ainsi que le nombre d'oeuvres et d'exhibitions que vous avez jugez.";
 
 translate "The Test of Dancing Waters"
 to french "L'épreuve des Eaux Dansantes";

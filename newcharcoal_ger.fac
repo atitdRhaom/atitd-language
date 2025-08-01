@@ -33,9 +33,6 @@ swa "Holzkohle";
 translate "This difficult class requires a students to have permanent Focus of at least 7."
 to german "Diese schwierige Klasse erwartet von einem Studenten einen dauerhaften Fokus von mindestens 7."; 
 
-translate "Projects"
-to german "Projekte";
-
 translate "Charcoal Brazier"
 to german "Holzkohle/Holzkohlebecken";
 

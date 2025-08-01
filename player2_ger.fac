@@ -89,9 +89,6 @@ to german "Spieleridentifikation: ";
 translate "You must type in a name for your player."
 to german "Du musst einen Namen für deine Spielfigur eingeben.";
 
-translate "Privileged users must use a password"
-to german "Priviligierte Spieler müssen ein PW benutzen";
-
 translate "No such player."
 	to german "Spieler unbekannt.";
 

@@ -34,10 +34,6 @@ translate Glass to german neuter
    pn "Gläser"; pg "Gläser"; pd "Gläsern"; pa "Gläser";
 }
 
-
-translate "Projects"
-to german "Projekte";
-
 translate "Ceremonial Tasting Table"
 to german "Zeremonieller Ausschank";
 

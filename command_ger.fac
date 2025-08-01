@@ -235,21 +235,6 @@ to german "U1(name) hat O1(sn) (N1) erreicht";
 translate "Are you sure you want to bulldoze ALL O1?"
 to german "Bist du dir sicher, ALLE O1(pn) abzureißen?";
 
-translate "To change password, type:"
-to german "Um das Passwort zu ändern, schreibe:";
-
-translate "/password <newpassword> <newpassword>"
-to german  "/Passwort <neuespasswort> <neuespasswort>";
-
-translate "Blank passwords not allowed."
-to german "Passwort aus Leerzeichen nicht erlaubt.";
-
-translate "Passwords must match."
-to german "Passwörter müssen übereinstimmen.";
-
-translate "Password changed."
-to german "Passwort wurde geändert.";
-
 translate "U1 not found in player database."
 to german "U1(name) wurde nicht in der Spielerdatenbank gefunden.";
 

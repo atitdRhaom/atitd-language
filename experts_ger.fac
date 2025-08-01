@@ -211,6 +211,9 @@ translate "Large"
 translate "Huge"
 	to german "Riesig";
 
+translate "Giant"
+	to german "Gigantisch";
+
 translate "Remove the borders on chat bubbles"
 	to german "Entferne den Rahmen bei Sprechblasen";
 
@@ -258,6 +261,12 @@ translate "Normal Bubbles"
 
 translate "Mentor Bubbles"
 	to german "Mentor-Chatblase";
+
+translate "Pre-Order Bubbles"
+	to german "Pre-Order Chatblase";
+
+translate "Developer Bubbles"
+	to german "Entwickler Chatblase";
 
 translate "eGenesis Bubbles"
 	to german "eGenesis-Chatblase";
@@ -408,3 +417,80 @@ translate "Hide Action Icons"
 
 translate "Show Action Icons"
 to german "Zeige Aktions-Icons";
+
+translate "Chat-Related Options"
+to german "Chat bezogene Optionen";
+
+translate "Change Log channel is visible"
+to german "Zeige Änderungsprotokoll Reiter";
+
+translate "Confirm before closing a chat tab"
+to german "Bestätige das Schließen von Chat Reiter";
+
+translate "Keep typing in chat after sending a message"
+to german "Nach dem Senden einer Nachricht weiter im Chat schreiben können";
+
+
+translate "HUD transparency"
+to german "Anzeige Durchsichtigkeit";
+
+translate "Popup transparency"
+to german "Popup Durchsichtigkeit";
+
+translate "Hide unusable Action Bar icons"
+to german "Verstecke nicht benutzbare Aktionsleisten Symbole";
+
+translate "Group basic inventory items"
+to german "Gruppiere das Hauptinventar";
+
+translate "Highlight favoured tools"
+to german "Bevorzugte Werkzeuge markieren";
+
+translate "Favoured tools colour"
+to german "Farbe bevorzugter Werkzeuge";
+
+translate "Show completed tasks"
+to german "Komplette Aufgaben anzeigen";
+
+translate "Show minimised tasks"
+to german "Verkleinerte Aufgaben anzeigen";
+
+translate "Show minimised tasks"
+to german "Verkleinerte Aufgaben anzeigen";
+
+translate "Camera Speed"
+to german "Kamera Geschwindigkeit";
+
+--translate "Taking all the contents of many buildings and chests"
+--to german "Einnahme aller Inhalte von mehreren Gebäuden und Truhen";
+translate "Verify before lighting a bonfire"
+to german "Bestätige das anzünden von Freudenfeuer";
+
+translate "Movement"
+to german "Bewegung";
+
+translate "Use WASD keys for movement - Overrides WASD hotkeys on buildings"
+to german "Benutze WASD Tasten für das bewegen - Überschreibt die WASD Tasten für Gebäude";
+translate "Use arrow keys for movement"
+to german "Benutze Pfeiltasten für das bewegen";
+translate "Don't use WASD or arrow keys for movement"
+to german "Abschalten der WASD Tasten und Pfeiltasten für das bewegen";
+
+translate "Flyaway Speed" to german "Anzeigegeschwindigkeit für fliegende Nachrichten";
+translate "Flyaway colour" to german "Farbe für fliegende Nachrichten";
+translate "Suppress the flyaway messages, only use console" to german "Unterdrücke fliegende Nachrichten, nur im Hauptkanal anzeigen";
+translate "Suppress the console message for flyaways. Use with caution" to german "Unterdrücke die fliegenden Nachrichten für den Hauptkanal. Nur mit Vorsicht zu benutzen.";
+translate "Hide Action Bar Tool Tips" to german "Tooltips der Aktionsleiste verbergen";
+translate "Automatically go AFK if idle for 10 minutes" to german "Setze dich Automatisch auf AFK wenn du 10 minuten nicht da warst";
+translate "Try to warn me when I'm experiencing lag" to german "Warn mich, wenn ich Lags erlebe";
+translate "Hotkeys are editable" to german "Tasteneinstellungen sind veränderbar";
+translate "Discard any tadpoles you find when gathering water" to german "Kaulquappen beim Wasserschöpfen zurücklassen";
+translate "Drop All Cats, if possible, when logging in" to german "Lass alle Katzen beim einloggen fallen, wenn möglich";
+translate "Show the base yield of Harvests when harvesting" to german "Zeige den Standardwert für das einsammeln beim einsammeln";
+translate "Discard any Insects you find" to german "Verwerfe jedes Insekt was man findet";
+translate "Try to build fragile chests for salvaged materials" to german "Versucht eine Kiste zu bauen für geborgene Materialien";
+translate "Automatically swim when you walk into water" to german "Automatisches schwimmen, wenn man Wasser betritt";
+
+translate "Allow new players to teleport to me" to german "Erlaube es neuen Spielern sich zu dir zu teleportieren";
+translate "Show menu items for Falcon Roosts" to german "Zeige Menü Gegenstände für Falken Schlafplätze";
+translate "Show Ultimate Challenges Task" to german "Zeige Ultimative Herausforderungsaufgabe";

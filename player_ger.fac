@@ -952,8 +952,7 @@ translate "Passwort2"
 to german "Passwort2";
 translate "You must select a gender"
 to german "Wähle ein Geschlecht aus";
-translate "Your passwords must match."
-to german "Deine Passwörter müssen übereinstimmen.";
+
 translate "The Username U1 is already taken."
 to german "Der Benutzername U1(name) ist bereits vergeben.";
 

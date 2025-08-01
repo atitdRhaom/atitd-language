@@ -9,9 +9,6 @@ Module Beer_ger;
 //***************************************************************************
 //menues
 
-translate "Projects"
-to german "Projekte";
-
 translate "Farming"
 to german "Landwirtschaft";
 

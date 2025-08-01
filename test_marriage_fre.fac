@@ -1,0 +1,448 @@
+module Yenta_fre;
+
+translate Marriage to french feminine
+{
+  ns "L'épreuve du Mariage"; np "L'épreuve du Mariage";
+}
+translate Marriageritual to french masculine
+{
+  ns "Rituel du mariage"; np "Rituels du mariage";
+}
+
+translate EssenceOfHarmony to french feminine
+{
+  ns "Essence de l'Harmonie"; np "Essences de l'Harmonie";
+}
+
+translate "The Test of Marriage is perhaps the easiest challenge you will have. Be forwarned, however: A spouse can use and dispose of your goods as they see fit, and can even log in as you!"
+to french "L'épreuve du mariage est peut-être le défi le plus simple que vous aurez. Soyez avisé à l'avance que: Votre conjoint(e) pourra disposer de vos biens à sa guise, et pourra même se brancher sur votre compte!";
+
+translate "Witness a Wedding"
+to french "Témoigner à un mariage";
+
+translate "Introduce yourself to a potential mate"
+to french "Vous présenter à un conjoint éventuel.";
+
+translate "Have a potential mate introduce themselves"
+to french "Permettre à un conjoint éventuel de se présenter.";
+
+translate "See my marriage score"
+to french "Voir mon score de Mariage";
+
+translate "Marriage in Egypt is a private affair. A man and woman, two women, or two men, each who has been in the land for at least 24 hours should find an altar. One spouse places a medium diamond on the left focus, the other places one on the right. Five close friends witness the marriage by meditating at the altar.Points for a marriage are the number of weeks of that marriage times the number of Tests that your spouse passed during the marriage. Your marriage score is the sum of points for such marriages."
+to french "En égypte, le mariage est une affaire privée. Un homme et une femme, deux femmes, ou deux hommes, qui ont vécu en Egypte depuis au moins 24 heures peuvent se rendre près d'un autel pour se marier. L'un place un diamant moyen sur le plateau de gauche, l'autre fait de même sur le plateau de droite. Cinq amis proches doivent alors approuver le mariage en méditant à l'autel. Le score d'un mariage est le produit du nombre de semaine qu'a duré le mariage fois le nombre d'épreuves passées par votre époux/épouse pendant le mariage. Le score pour l'épreuve du mariage est la somme des points obtenus lors de tous vos mariages.";
+
+translate "Couples are aware of each other's accomplishments, may use each other's possessions, AND MAY EVEN LOG IN AS ONE ANOTHER. Divorce in Egypt is quick and easy."
+to french "Chaque époux est au courant des accomplissements de l'autre, peut accéder aux biens de l'autre, ET PEUT MEME SE CONNECTER SUR LE COMPTE DE L'AUTRE. Le divorce en Egypte est rapide et facile.";
+
+translate "There is another way to pass the Test of Marriage: By being married many times, and having each spouse pass at least one Test for the Marriage to count. Passings using this method don't compete with those of the mainstream method."
+to french "Il y a un autre moyen de passer l'épreuve du Mariage: en se mariant plusieurs fois, et faire en sorte que chaque époux(se) passe au moins une épreuve pour que le mariage soit valide. Les deux méthodes n'entrent pas en compétition.";
+
+translate "Test of Marriage"
+to french "Epreuve du Mariage";
+
+translate "Add to your O1 list"
+to french "Ajouter à votre liste de O1(ns)";
+translate "Review your O1 list"
+to french "Revoir votre liste de O1(ns)";
+
+translate "Figure who of your fellow Egyptians will advance in tests."
+to french "Devinez qui de vos concitoyens avancera dans les épreuves.";
+translate "Make your first prediction"
+to french "Faites votre première prédiction";
+translate "Make a second prediction"
+to french "Faites une seconde prédiction";
+translate "Review your predictions at the Essence of Harmony"
+to french "Revoyez vos prédictions sur une Essence d'Harmonie";
+
+translate "Who do you see going on to gaining high rank in a discipline?"
+to french "Qui imaginez-vous atteindre un rang important dans une discipline?";
+
+translate "You can not add yourself"
+to french "Vous ne pouvez pas vous ajouter vous-même";
+
+translate "Total of: N1 points from N2 links, including N3 retained points."
+to french "Le total est de : N1 points via N2 liens, incluant N3 points retenus";
+
+translate "N1 days N2 hours N3 minutes N4 seconds"
+to french "N1 jours N2 heures N3 minutes N4 secondes";
+
+translate "N1 days" to french "N1 jours";
+translate "N1 hours" to french "N1 heures";
+translate "N1 minutes" to french "N1 minutes";
+translate "N1 seconds" to french "N1 secondes";
+
+translate "K1 K2 K3 K4" to french "K1 K2 K3 K4";
+
+translate "Please try again in: K1 K2 K3 K4."
+to french "Ré-essayez dans K1 K2 K3 K4.";
+
+translate "Please wait"
+to french "Merci de patienter";
+
+translate "Introduce yourself as a single K1"
+to french "Vous présenter en tant que K1 célibatire.";
+translate "Introduce yourself as a single man"
+to french "Vous présenter en tant qu'homme célibatire.";
+translate "Introduce yourself as a single woman"
+to french "Vous présenter en tant que femme célibatire.";
+translate "Introduce yourself as a single female"
+to french "Vous présenter en tant que femme célibatire.";
+
+translate "You may not introduce yourself to someone of the same sex."
+to french "Vous ne pouvez pas vous présenter à quelqu'un du même sexe.";
+
+translate "Egypt recognizes K1 for passing the O1."
+to french "L'Egypte reconnait K1 pour avoir passé O1(ns)";
+
+translate "Egypt recognizes K1 for passing the K2."
+to french "L'Egypte reconnait K1 pour avoir passé K2";
+
+translate "Egypt recognizes K1"
+to french "L'Egypte reconnait K1";
+translate "You are already married!"
+to french "Vous êtes déjà marié!";
+
+translate "Alas, U1 is already married."
+to french "Hélas, U1(name) est déjà une personne mariée.";
+
+translate "Your gesture was kind, but U1 is not pursuing the Test of Marriage."
+to french "Votre geste est apprécié, mais U1(name) ne participe pas au test du mariage.";
+
+translate "You introduce yourself to U1."
+to french "Vous vous présentez à U1(name).";
+
+translate "U1 introduces K1 as a single K2."
+to french "U1(name) se présente en tant que K2 seul.";
+translate "U1 introduces K1 as a single man."
+to french "U1(name) se présente en tant qu'homme seul.";
+translate "U1 introduces K1 as a single woman."
+to french "U1(name) se présente en tant que femme seul.";
+translate "U1 introduces K1 as a single female."
+to french "U1(name) se présente en tant que femme seul.";
+
+translate "Forecast which Marriages will endure. A Marriage is only valid when both parties are active in Egypt."
+to french "Prévoyez quels mariages vont durer. Un mariage n'est valide que lorsque les deux participants sont actifs en égypte.";
+
+translate "Make your First Forecast"
+to french "Faites votre première prédiction.";
+translate "Make a Second Forecast"
+to french "Faites une deuxième prédiction.";
+translate "Review your Forecasts at the Essence of Harmony"
+to french "Faites le point sur vos prédictions à l'essence d'harmonie";
+translate "Accumulate 7000 Soul Points"
+to french "Accumulez 7000 points pour l'épreuve des Ames";
+translate "Accumulate 2000 Soul Points"
+to french "Accumulez 2000 points pour l'épreuve des Ames";
+
+translate "Essence of Harmony"
+to french "Essence de l'Harmonie";
+
+translate "To build the Essence of Harmony you need:"
+to french "Pour construire une essence de l'Harmonie, il vous faut:";
+
+translate "Marriage: N1 Tests in N2 weeks, Score= N3 U1 & U2"
+to french "Mariage: N1 épreuves en N2 semainen Score= N3 U1(name) & U2(name)";
+
+translate "Review someone's Marriage(s)"
+to french "Voir l'historique du(des) mariage(s) de quelqu'un";
+
+translate "Who's Marriage History?"
+to french "L'historique du(des) mariage(s) de qui?";
+
+translate "Review my Marriage(s)"
+to french "Faire le point sur mon(mes) mariage(s)";
+
+translate "Marriage history for U1:"
+to french "Historique du(des) mariage(s) de U1(name):";
+
+translate "    Was married to U1 for N1 weeks. They passed N2 tests for N3 points."
+to french "    A été marié(e) à U1(name) pendant N1 semaines. Le couple a passé N2 épreuves, pour N3 points.";
+
+translate "    Was married to U1 for N1 weeks. The couple passed N2* tests for N3 points."
+to french "    A été marié(e) à U1(name) pendant N1 semaines. Le couple a passé N2* épreuves, pour N3 points.";
+
+translate "   Now married to U1 for N1 weeks. They passed N2 Tests, giving you N3 points."
+to french "   Actuellement marié(e) à U1(name) depuis N1 semaines. Ensemble ils ont passé N2 épreuves, pour N3 points.";
+
+translate "   Now married to U1 for N1 weeks. Together N2* Tests for N3 points."
+to french "   Actuellement marié(e) à U1(name) depuis N1 semaines. Ensemble ils ont passé N2* épreuves, pour N3 points.";
+
+translate "   Now married to U1 for N1 weeks. Together you have passed N2 Tests for N3 points."
+to french "   Actuellement marié(e) à U1(name) depuis N1 semaines. Ensemble vous avez passé N2 épreuves, pour N3 points.";
+
+translate "   Now married to U1 for N1 weeks. Together you have passed N2* Tests for N3 points."
+to french "   Actuellement marié(e) à U1(name) depuis N1 semaines. Ensemble vous avez passé N2* épreuves, pour N3 points.";
+
+translate "* indicates that U1's spouse failed to pass any Tests during the marriage."
+to french "* indique que l'époux(se) de U1(name) n'a passer aucune épreuve depuis la célébration du mariage.";
+
+translate "Total Marriage score for U1 is N1"
+to french "Score total pour U1(name): N1";
+
+translate "Get Divorced"
+to french "Divorcer";
+
+translate "Are you sure? To proceed, type DIVORCE"
+to french "Vous êtes sur le point de divorcer. Tapez DIVORCE pour confirmer.";
+
+translate "You are now divorced."
+to french "Vous êtes maintenant divorcé.";
+
+translate "U1 has divorced you."
+to french "U1(name) a divorcé.";
+
+translate "Make a Prophecy"
+to french "Faire une prophétie";
+
+translate "You have already made N1 Prophecies. Wait K1 to make your next."
+to french "Vous avez déjà fait N1 prophéties. Attendez K1 pour faire la prochaine.";
+
+translate "You have recently made a Prophecy. Wait K1 to make your next."
+to french "Vous avez récemment fait une prophétie. Attendez K1 pour faire la prochaine.";
+
+translate "Who do you see going on to pass many Tests?"
+to french "Qui selon vous va passer beaucoup d'épreuves?";
+
+translate "You have already Prophecied U1. Select another."
+to french "Vous avez déjà fait une prophétie sur U1(name). Choisissez quelqu'un d'autre.";
+
+translate "You can not Prophecy on yourself."
+to french "Vous ne pouvez pas parier sur vous-même.";
+
+translate "Review my Prophecies"
+to french "Faire le point sur mes prophéties.";
+
+translate "Prophecies:"
+to french "Prophéties:";
+
+translate "   U1 N1 weeks ago. He had passed N2 Tests, and has passed N3 more, giving N4 Prophecy Points"
+to french "   U1(name) il y a N1 semaines. Il avait passé N2 épreuves, et en a réussi N3 de plus, vous rapportant N4 points.";
+
+translate "   U1 N1 weeks ago. She had passed N2 Tests, and has passed N3 more, giving N4 Prophecy Points"
+to french "   U1(name) il y a N1 semaines. Elle avait passé N2 épreuves, et en a réussi N3 de plus, vous rapportant N4 points.";
+
+
+translate "    Prophecied U1 N1 weeks ago. She had passed N2 Tests, and has since passed N3 more, giving N4 Prophecy Points"
+to french "    Fait une prophétie à propos de U1(name) il y a N1 semaines. Elle avait passé N2 épreuves, et en a réussi N3 de plus, vous rapportant N4 points.";
+
+translate "Prophecied U1 N1 weeks ago. She had passed N2 Tests, and has since passed N3 more, giving N4 Prophecy Points"
+to french "Prophétie sur U1(name) il y a N1 semaines. Elle avait passé N2 épreuves, et en a réussi N3 de plus, vous rapportant N4 points.";
+
+
+translate "Total of N1 Prophecy Points."
+to french "Total de N1 points pour l'épreuve du Prophète.";
+
+translate "Review my Forecasts"
+to french "Faire le point sur mes prévisions.";
+
+translate "Compiling data..."
+to french "Traitement des données...";
+
+translate "Forecasts:"
+to french "Prévisions:";
+
+translate "In Egypt, only marriages between a man and a woman are considered holy."
+to french "En égypte, seuls les mariages entre un homme et une femme sont valides.";
+
+translate "Both must visit the Great University of Harmony to become familiar with the customs of marriage."
+to french "Les deux participants doivent visiter la grande université d'Harmonie pour devenir familier avec les rituels du mariage.";
+
+translate "U1 does not have a paid account."
+to french "U1(name) ne possède pas de compte payé.";
+
+translate "U1 is already married to U2. Divorces may be obtained at an Essence of Harmony."
+to french "U1(name) est déjà marié avec U2(name). Les divorces peuvent être obtenus à une essence de l'Harmonie.";
+
+translate "Egypt recognizes K1 for passing the Test of Marriage."
+to french "L'égypte reconnaît K1 pour la réussite de l'Épreuve du mariage.";
+
+translate "No passes in the O1. "
+to french "Aucun passage dans O1(ns).";
+
+translate "Retaining K1 passes."
+to french "Retenus K1.";
+
+translate "Forecast a Marriage"
+to french "Parier sur un mariage.";
+
+translate "Because scoring is paramutual (forecasts on a marriage dilute others' scores), Marriages may only be forecast when you have a paid account."
+to french "L'attribution des points se faisant selon la méthode 'paramutuelle' (parier sur un mariage affecte le score des autres), vous ne pouvez parier que si vous possédez un compte payant.";
+
+translate "Wait K1 to make another forecast."
+to french "Attendez K1 avant de faire une autre prévision.";
+
+translate "You have already forecast N1 marriages. You (and everyone else) can make the next forecast in K1."
+to french "Vous avez déjà parié sur N1 mariages. Vous (et tout le monde) devez attendre K1 pour faire un autre pari.";
+
+translate "Which Marriage do you forecast? (Either Spouse)"
+to french "De quel mariage voulez-vous voir le compte-rendu?(les deux époux)";
+
+translate "Sorry, but U1 is not married."
+to french "Désolé, mais U1(name) n'est pas marié.";
+
+translate "You can not forecast your own marriage."
+to french "Vous ne pouvez parier sur votre propre mariage.";
+
+translate "Forecast U1 & U2? Type FORECAST to confirm."
+to french "Parier sur U1(name) & U2(name)? Tapez FORECAST pour confirmer.";
+
+translate "Forecast Cancelled."
+to french "Prévision annulée.";
+
+translate "You have forecast U1 & U2 as a long-lasting marriage."
+to french "Vous avez parié sur U1(name) & U2(name).";
+
+translate " Retaining N1 passes."
+to french " N1 passages sont conservés.";
+
+translate "U1's account is not currently in a Paid state."
+to french "U1(name) ne possède pas de compte payant en ce moment.";
+
+translate "Travel to U1"
+to french "Se téléporter sur U1(name)";
+
+translate "Both you and your spouse must be on land."
+to french "Vous et votre époux(se) devez être sur la terre ferme.";
+
+translate "How strange - you are unsure how to get to U1."
+to french "Bizarre... Vous n'êtes pas très sûr de savoir comment rejoindre U1(name).";
+
+translate "River Plains" 
+to french "Plaines Fluviales";
+
+translate "Really warp to your spouse in K1 N1 N2?"
+to french "Voulez-vous vraiment vous téléporter à votre époux(se) en K1 N1 N2?";
+
+translate "Really warp to your spouse in Midland Valley N1 N2?"
+to french "Voulez-vous vraiment vous téléporter à votre époux(se) vers l'Egypte du Milieu en N1 N2?";
+
+translate "Really warp to your spouse in Lower Egypt N1 N2?"
+to french "Voulez-vous vraiment vous téléporter à votre époux(se) en Basse Egypte N1 N2?";
+
+translate "Really warp to your spouse in Sinai N1 N2?"
+to french "Voulez-vous vraiment vous téléporter à votre époux(se) au Sinaï N1 N2?";
+
+translate "Really warp to your spouse in Tanis N1 N2?"
+to french "Voulez-vous vraiment vous téléporter à votre époux(se) à Tanis N1 N2?";
+
+translate "Really warp to your spouse in Qatara N1 N2?"
+to french "Voulez-vous vraiment vous téléporter à votre époux(se) à Qatara N1 N2?";
+
+translate "Really warp to your spouse in Seven Lakes N1 N2?"
+to french "Voulez-vous vraiment vous téléporter à votre époux(se) dans les Sept Lacs N1 N2?";
+
+translate "Really warp to your spouse in Kush N1 N2?"
+to french "Voulez-vous vraiment vous téléporter à votre époux(se) à Kush N1 N2?";
+
+translate "Really warp to your spouse in Khartoum N1 N2?"
+to french "Voulez-vous vraiment vous téléporter à votre époux(se) à Khartoum N1 N2?";
+
+translate "Really warp to your spouse in Desert of Shades N1 N2?"
+to french "Voulez-vous vraiment vous téléporter à votre époux(se) dans le Desert des Ombres N1 N2?";
+
+translate "Really warp to your spouse in Fool's Paradise N1 N2?"
+to french "Voulez-vous vraiment vous téléporter à votre époux(se) à Fool's Paradise N1 N2?";
+
+translate "Really warp to your spouse in Craddle of the Sun N1 N2?"
+to french "Voulez-vous vraiment vous téléporter à votre époux(se) dans le Berceau du Soleil N1 N2?";
+
+translate "Really warp to your spouse in Karnak N1 N2?"
+to french "Voulez-vous vraiment vous téléporter à votre époux(se) à Karnak N1 N2?";
+
+translate "Points for a marriage are the number of weeks of that marriage times the number of Tests that your spouse passed during the marriage. Your marriage score is the sum of points for such marriages.\n\n"
+to french "Le score pour un mariage correspond au nombre de semaines qu'a duré ce mariage, multiplié par le nombre d'épreuves passées par votre conjoint durant le mariage. Votre score aditionne les points de chacun de vos mariages.";
+
+translate "Couples are aware of each other's accomplishments, may use each other's possessions, AND MAY EVEN LOG IN AS ONE ANOTHER. Divorce in Egypt is quick and easy."
+to french "Les couples sont conscients des faits et gestes de l'autre, peuvent utiliser les possessions de l'autre, et peuvent SE CONNECTER L'UN SUR L'AUTRE. Le divorce en Egypte est simple et rapide.";
+
+// Chaines 
+
+translate "The Test of Chains may only be petitioned after the Test of Marriage has been unlocked."
+to french "L'épreuves des Chaînes ne peut être débloquée qu'après l'épreuve du Mariage.";
+
+translate "The Test of Chains must be petitioned by one who is at least Level 7, yet has never been married."
+to french "L'épeuve des Chaînes doit être débloquée par quelqu'un qui est au moins de niveau 7 et qui n'a jamais été marié.";
+
+translate "In the Test of Chains you will try to predict which Marriages will endure and progress. For a marriage to progress in a given week, both parties must remain in Egypt, and each must either gain a level or pass a Test."
+to french "Dans l'épreuve des Chaînes, vous devez essayer de prédire quels mariages dureront le plus et seront les plus prospères. Pour qu'un mariage prospère, les deux époux doivent rester en Egypte, et chacun doit soit gagner un niveau, soit passer une épreuve.";
+
+translate "If some marriage in your chain fails to make progress for N1 Chains advances, then your chain breaks. You may rebuild your chain, but may not reuse a person that you previously used."
+to french "Si certains mariages dans votre chaîne échouent pendant N1 semaines, alors votre chaîne se brise. Vous pouvez reconstruire votre chaîne, mais sans utiliser une personne que vous aviez déjà utilisé.";
+
+translate "Each week you may add up to N1 marriages to your chain."
+to french "Chaque semaine, vous pouvez ajouter jusqu'à N1 mariages à votre chaîne.";
+
+translate "You accumulate points each week equal to the number of active marriages on your chain that have made progress since you added them."
+to french "Vous accumulez des points chaque semaine selon le nombre de mariages dans votre chaîne qui ont progressé depuis que vous les avez ajouté.";
+
+translate "Forecast which Marriages will endure and prosper. A Marriage prospers when each party makes progress (gains a level or passes a Test) at least every two weeks."
+to french "Prédisez quels mariages dureront et prospèreront le plus. Un mariage prospère lorsque chacun des époux progresse (gagne un niveau ou passe une épreuve) au moins chaque deux semaines.";
+
+translate "Add three links to your Chain"
+to french "Ajoutez trois mariages à votre chaîne";
+translate "Check your Chain Score"
+to french "Consultez votre score";
+translate "Accumulate 7 Chains Points"
+to french "Accumulez 7 points";
+
+translate "You have completed the Principles of Chains."
+to french "Vous avez terminé les Principes des Chaînes.";
+
+translate "Test of Chains, Week N1"
+to french "Epreuve des Chaînes, Semaine N1";
+
+translate "Add a Link - Forecast a Marriage"
+to french "Ajouter un maillon - prédire un mariage";
+
+translate "Total of: N1 points from N2 links"
+to french "Total de : N1 points pour N2 maillons";
+
+translate "Enter either spouse's name:"
+to french "Entrez le nom de l'un des deux époux :";
+
+translate "You now have N1 links in your chain."
+to french "Vous avez maintenant N1 maillons dans votre chaîne.";
+
+translate "N1 Marriage of U1 and U2, not yet active*. Chain break in N2 weeks."
+to french "N1 Mariage de U1(name) et U2(name), pas encore actif*. La chaîne se brisera dans N2 semaines.";
+
+translate "N1 Marriage of U1 and U2, not yet active,. Chain break in N2 weeks."
+to french "N1 Mariage de U1(name) et U2(name), pas encore actif. La chaîne se brisera dans N2 semaines.";
+
+translate "N1 Marriage of U1 and U2, not yet active. Chain break in N2 weeks."
+to french "N1 Mariage de U1(name) et U2(name), pas encore actif. La chaîne se brisera dans N2 semaines.";
+
+translate "Egypt recognizes K1 for passing the Test of Chains. Retaining N1 passes"
+to french "L'éqypte reconnait K1 pour avoir passé l'épreuve des Chaines. N1 passages retenus.";
+
+translate "* Forecast made after U1 advanced."
+to french "* Prédiction effectuée après que U1(name) ait progressé.";
+
+translate "N1 Marriage of U1 and U2, forecast N2 weeks ago, progress N3 weeks ago, chain break in N4 weeks."
+to french "N1 Mariage de U1(name) et U2(name), prédiction effectuée il y a N2 semaines, dernière progression il y a N3 semaines, la chaîne se brisera dans N4 semaines.";
+
+translate "U1 is not married."
+to french "U1(name) n'est pas marié(e).";
+
+translate "You have already added N1 links this week."
+to french "Vous avez déjà ajouté N1 maillons cette semaine.";
+
+translate "You have already included U1 or someone with a similar signature in a prior forecast."
+to french "Vous avez déjà ajouté U1(name) ou quelqu'un avec une signature similaire lors d'une précédente prophétie ";
+
+translate "You have already included U1's spouse U2 or someone with a similar signature in a prior forecast."
+to french "Vous avez déjà ajouté le conjoint U2(name) de U1(name) ou quelqu'un avec une signature similaire lors d'une précédente prophétie ";
+
+translate "Last Week: Chain Extended"
+to french "Semaine dernière : la chaîne s'est étendue.";
+
+//translate "K1. Retaining K2 passes"
+//to french "K1. Retenu K2 avancements";
+
+translate "No advances in the O1"
+to french "Aucun avancement dans le O1(ns)";
+
+translate "No advances in the K1"
+to french "Aucun avancement dans K1";
+

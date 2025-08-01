@@ -129,9 +129,6 @@ translate Festivals to spanish feminine
 translate Beacons to spanish feminine
 { ns "Prueba de Balizas"; np "Prueba de Balizas";}
 
-translate Critic to spanish feminine
-{ ns "Prueba de el Crítico"; np "Prueba de el Crítico";}
-
 translate Archaeology to spanish feminine
 { ns "Arqueología"; np "Arqueología";}
 
@@ -642,15 +639,6 @@ to spanish "La Universidad de El cuerpo Humano le dirá lo que venenos exóticos u
 translate "must seek out, and in what order, to toughen your body."
 to spanish "debe buscar, y en qué orden , para endurecer su cuerpo.";
 
-translate "The Test of Reason"
-to spanish "Prueba de la Razón";
-translate "Solve and judge challenges created by Egypt's Scholars. As you solve more,"
-to spanish "Resuelva y juzgue desafíos creados por estudiantes de Egipto. Al resolver más";
-translate "you will find your Focus score improving. Reach a permanant Focus of 7 to"
-to spanish "encontrará que mejora su puntaje de concentración. Llegara a una concentración permanente de 7 para";
-translate "pass the Test of Reason."
-to spanish "pasar la Prueba de la Razón.";
-
 translate "The Test of the Singing Cicada"
 to spanish "Prueba de la Cigarra Cantora";
 translate "Use your eyes and ears to locate elaborate and beautiful cicada cages"
@@ -855,15 +843,6 @@ translate "Solve and judge challenges created by Egypt's Scholars. Your score is
 to spanish "Resolva y evalue desafíos creadas por estudiantes de Egipto. Su puntuación es";
 translate "based on the number of judge peers that you have had."
 to spanish "basada en el número de jueces en armonía contigo.";
-
-translate "The Test of the Critic"
-to spanish "Prueba del Crítico";
-translate "Evaluate art, judge Scarab exhibitions and Pyrotechnics shows."
-to spanish "Evalue el arte, juzgue exposiciones de Escarabajos y espectáculos de Pirotecnia.";
-translate "Your score is based on the number of judge peers that you have"
-to spanish "Su puntuación se basa en el número de jueces en armonía con usted,";
-translate "had, as well as the number of exhibitions and shows that you judge."
-to spanish "que ha tenido , igual así como el número de exposiciones y espectáculos que juzga.";
 
 translate "The Test of Dancing Waters"
 to spanish "Prueba de las las Aguas que Bailan";

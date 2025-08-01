@@ -231,9 +231,6 @@ to german "Du kannst keinen Zeremoniellen Wahlstand dieser Art bauen, weil eine 
 translate "The ceremonial voting booth is at N1 N2."
 to german "Der Zeremonielle Wahlstand ist bei N1 N2.";
 
-translate "Projects"
-to german "Projekte";
-
 translate "Ceremonial Voting Booth"
 to german "Zeremonieller Wahlstand";
 

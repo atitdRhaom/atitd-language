@@ -20,61 +20,6 @@ translate Mortar to french masculine
   ns "Mortier"; np "Mortiers";
 }
 
-translate RedGlower to french feminine
-{
-  ns "Lumière rouge"; np "Lumières rouges";
-}
-
-translate OrangeGlower to french feminine
-{
-  ns "Lumière orange"; np "Lumières oranges";
-}
-
-translate YellowGlower to french feminine
-{
-  ns "Lumière jaune"; np "Lumières jaunes";
-}
-
-translate GreenGlower to french feminine
-{
-  ns "Lumière verte"; np "Lumières vertes";
-}
-
-translate BlueGlower to french feminine
-{
-  ns "Lumière bleue"; np "Lumières bleues";
-}
-
-translate VioletGlower to french feminine
-{
-  ns "Lumière violette"; np "Lumières violettes";
-}
-
-translate NightGlower to french feminine
-{
-  ns "Lumière noire"; np "Lumières noires";
-}
-
-translate WhiteGlower to french feminine
-{
-  ns "Lumière blanche"; np "Lumières blanches";
-}
-
-translate CyanGlower to french feminine
-{
-  ns "Lumière cyan"; np "Lumières cyan";
-}
-
-translate MagentaGlower to french feminine
-{
-  ns "Lumière magenta"; np "Lumières magenta";
-}
-
-translate StrangeGlower to french feminine
-{
-  ns "Lumière étrange"; np "Lumières étranges";
-}
-
 translate "None"
 to french "Aucun";
 translate "Stage-1" 

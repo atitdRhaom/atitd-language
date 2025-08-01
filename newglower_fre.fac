@@ -56,7 +56,7 @@ to french "Étoile favorite K1 observée par N1 personnes.";
 translate "Launch a new star (Shake the color box)"
 to french "Lancer une nouvelle étoile (secouer la boîte à couleurs)";
 
-translate "Launch Favorite Star: "
+translate "Launch Favourite Star: "
 to french "Lancer l'étoile favorite: ";
 
 translate "Launch the previous Star"
@@ -192,7 +192,7 @@ to french "Demander un assortiment d'étoiles pyrotechniques Planète sauvage.";
 translate "Shots Left: N1"
 to french "Tirs restants: N1";
 
-translate "Launch Favorite Star: O1"
+translate "Launch Favourite Star: O1"
 to french "Tirer l'étoile favorite: O1(ns)";
 
 translate "Favorite Star O1 watched by N1 watchers."

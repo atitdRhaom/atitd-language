@@ -35,19 +35,6 @@ translate CarrotJuice to german masculine
   pn "Karottensäfte"; pg "Karottensäfte"; pd "Karottensäften"; pa "Karottensäfte";
 }
 
-translate Cookpots to german masculine
-{
- swa "Eisenkochtopf";
-  sn "Eisenkochtopf"; sg "Eisenkochtopfes"; sd "Eisenkochtopf"; sa "Eisenkochtopf";
-  pn "Eisenkochtöpfe"; pg "Eisenkochtöpfe"; pd "Eisenkochtöpfen"; pa "Eisenkochtöpfe";
-}
-translate CopperCookpots to german masculine
-{
- swa "Kupferkochtopf";
-  sn "Kupferkochtopf"; sg "Kupferkochtopfes"; sd "Kupferkochtopf"; sa "Kupferkochtopf";
-  pn "Kupferkochtöpfe"; pg "Kupferkochtöpfe"; pd "Kupferkochtöpfen"; pa "Kupferkochtöpfe";
-}
-
 translate TonicOfClarity to german neuter
 {
  swa "Elixier der Reinheit";

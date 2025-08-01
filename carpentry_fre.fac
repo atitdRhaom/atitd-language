@@ -45,7 +45,7 @@ translate Slate to french femininecollective
   ns "Ardoise"; np "Ardoises";
 }
 
-translate StoneBlade to french feminine
+translate SlateBlade to french feminine
 {
   ns "Lame d'ardoise"; np "Lames d'ardoise";
 }

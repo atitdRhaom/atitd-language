@@ -26,8 +26,6 @@ to german "Zuerst mu�t Du Preise bestimmen.";
 translate "No Hoppers have been defined."
 to german "Keine Preise bestimmt.";
 
-translate "egenesis"
-to german "eGenesis";
 translate "Numer of Stadium"
 to german "Anzahl der Stadien";
 translate "Tags per Stadium"

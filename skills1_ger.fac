@@ -290,16 +290,6 @@ sn "Anspruchsvolle Kreuzkultur"; pn "Anspruchsvolle Kreuzkultur";
 translate "Two kinds of reproduceable mutations of some plants."
 to german "Zwei gesteuerte Mutationsmöglichkeiten mit einige Pflanzen.";
 
-//SEED REGISTRY
-
-translate SeedRegistry to german feminine
-{
-swa "Saatgutregistrierung"; 
-sn "Saatgutregistrierung"; pn "Saatgutregistrierung";
-}
-translate "Creates a global registry of seed types."
-to german "Schafft eine globale Registrierung von Saatguttypen";
-
 //ANIMAL HUSBANDRY
 
 translate AnimalHusbandry to german feminine
@@ -508,3 +498,5 @@ sn "Düngeelixierrezept"; pn "Düngeelixierrezepte";
 translate "You learn an ancient recipe for Harvest Elixer, a highly nourishing plant fertilizer. Harvest Elixer, while more costly to make than normal fertilizer, works for a longer period of time and therefore requires less frequent tending. A new option has appeared on kitchens."
 to german "Du lernst ein altes Rezept für ein Düngeelixier; ein hochwirksamer Pflanzendünger. Das Düngeelixier ist teurer in der Herstellung als normaler Dünger, die Wirkung hält aber länger an und benötigt weniger Arbeit. Eine Option ist in der Küche verfügbar.";
 
+translate "K1 - Level: N1/N2"
+to german "K1 - Level: N1/N2";

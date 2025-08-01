@@ -15,13 +15,6 @@ translate AlchemistsBench to german neuter
 	sn "Alchemistenlabor"; sg "Alchemistenlabors"; sd "Alchemistenlabor"; sa "Alchemistenlabor";
 	pn "Alchemistenlabore"; pg "Alchemistenlabore"; pd "Alchemistenlaboren"; pa "Alchemistenlabore";
 	}
-	
-translate CookPots to german masculine
-{
-	swa "Kochtopf";
-	sn "Kochtopf"; sg "Kochtopf"; sd "Kochtopf"; sa "Kochtopf";
-	pn "Kochtöpfe"; pg "Kochtöpfe"; pd "Kochtöpfe"; pa "Kochtöpfe";
-	}
 
 translate Thermometer to german neuter
 {

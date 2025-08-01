@@ -377,7 +377,7 @@ translate "Load how much grass? (Max 200)"
 translate "This O1 is drying Grass"
 	to german "O1(^tsn) O1(sn) trocknet Gras";
 
-translate "Dry Fertile Papyrus"
+translate "Dry Papyrus (Fertile)"
 	to german "Trockne fruchtbaren Papyrus";
 
 translate "Load how much papyrus? (Max 20)"

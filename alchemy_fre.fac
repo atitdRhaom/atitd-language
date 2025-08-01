@@ -1,14 +1,8 @@
-module alchemy_fre;
-
+Module alchemy_fre;
 
 translate AlchemistsBench to french feminine
 {
 	ns "Table d'alchimiste"; np "Tables d'alchimiste";
-	}
-
-translate CookPots to french masculine
-{
-	ns "Pot à cuisson"; np "Pots à cuisson";
 	}
 
 translate Tincture to french feminine

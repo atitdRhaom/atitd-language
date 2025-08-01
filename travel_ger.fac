@@ -125,31 +125,31 @@ translate "Waypoints disabled when in GM jail"
 	to german "Du willst aus dem Gefängnis heraus eine Reise unternehmen? Träume weiter...";
 
 translate "Offline Chores"
-	to german "Offlineeinstellungen";
+	to german "Offline-Aufgaben";
 
 translate "Offline Options"
-	to german "Offlineeinstellungen";
+	to german "Offline-Aufgaben";
 
 translate "Accumulate travel time, as if you were running"
 	to german "Sammle Reisezeit";
 
 translate "Grow onions - grow N1 more manually."
-	to german "Pflanze Zwiebeln - pflanze noch N1 selbst an.";
+	to german "Zwiebeln ernten - baue weitere N1 mit der Hand an.";
 
 translate "Grow onions"
-	to german "Pflanze Zwiebeln";
+	to german "Zwiebeln ernten";
 
 translate "Pick grass - pick N1 more manually."
-	to german "Sammle Gras - Sammle noch N1 selbst.";
+	to german "Gras sammeln - pflücke weitere N1 mit der Hand";
 
 translate "Pick grass"
-	to german "Sammle Gras";
+	to german "Gras sammeln";
 
 translate "Harvest wood - collect N1 more manually."
-	to german "Sammle Holz - Sammle noch N1 selbst.";
+	to german "Holz ernten - sammle weitere N1 mit der Hand ein.";
 
 translate "Harvest Wood"
-	to german "Sammle Holz";
+	to german "Holz ernten";
 
 translate "Grow Barley - grow N1 more manually."
 	to german "Pflanze Gerste - pflanze noch N1 selbst an.";
@@ -164,22 +164,40 @@ translate "Grow Cabbage"
 	to german "Pflanze Kohl";
 
 translate "Grow wheat - grow N1 more manually."
-	to german "Pflanze Weizen - pflanze noch N1 selbst an.";
+	to german "Weizen ernten - baue weitere N1 mit der Hand an.";
 
 translate "Grow Wheat"
-	to german "Pflanze Weizen";
+	to german "Weizen ernten";
 
-translate "Gather Slate - grow N1 more manually."
-	to german "Sammle Schiefer - pflanze noch N1 selbst an.";
+translate "Gather Slate - gather N1 more manually."
+	to german "Schiefer sammeln - sammle weitere N1 mit der Hand ein.";
 
 translate "Gather Slate"
-	to german  "Sammle Schiefer";
+	to german  "Schiefer sammeln";
 
-//translate "Grow carrots - grow N1 more manually."
-//to german "Pflanze Karotten - pflanze noch N1 selbst an.";
+translate "Grow Carrots - grow N1 more manually"
+to german "Karotten ernten - baue weitere N1 mit der Hand an.";
 
-//translate "Grow carrots"
-//to german "Pflanze Karotten";
+translate "Grow carrots"
+to german "Karotten ernten";
+
+translate "Grow Garlic - grow N1 more manually."
+to german "Knoblauch ernten - baue weitere N1 mit der Hand an.";
+
+translate "Grow Garlic"
+to german "Knoblauch ernten";
+
+translate "Grow Leeks - grow N1 more manually."
+to german "Lauch ernten - baue weitere N1 mit der Hand an.";
+
+translate "Grow Leeks"
+to german "Lauch ernten";
+
+translate "Gather Clay - gather N1 more manually." 
+to german "Ton sammeln - sammle weitere N1 mit der Hand ein.";
+
+translate "Gather Clay"
+to german "Ton sammeln";
 
 translate "Travel to Pandora"
 	to german "Reise nach Pandora";

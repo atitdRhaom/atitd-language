@@ -9,45 +9,11 @@ to french "Carressez ce poney";
 translate "Visit the Wiki"
 to french "Lire le Wiki";
 
-translate "Expiring Account Recovery Code for U1 "
-to french "Code de récupération pour compte expiré U1(name)";
-
-translate "I am sorry, but no record has been found for username U1"
-to french "Je suis désolée, mais aucun enregistrement n'a été trouvé pour le joueur U1(name)";
-
-translate "I am sorry, no verified email address has been recorded for player U1.  This will make it much harder to verify you against your account.  Please contact support at K1 or K2 and we will try to assist you."
-to french "Je suis désolé, aucune adresse email vérifiée n'a été enregistrée pour le joueur U1(name). Ceci va rendre beaucoup plus compliqué la vérification de votre compte. Merci de contacter le support au K1 ou K2 et nous essayerons de vous aider";
-
-translate "An attempt has been made to reset your password with K1"
-to french "Une tentative a été faite pour restaurer votre mot de passe sur K1";
-
-translate "You have been assigned a temporary code to regain access to your game account."
-to french "Un mot de passe temporaire vous a été assigné pour récupérer l'accès à votre compte.";
-
-translate "To recover your account, Click on the Forgot Password button on the login screen and"
-to french "Pour récupérer votre compte, cliquez sur le bouton Forgot Password, sur l'écran de login et";
-
-translate "Enter your Player name in the Character field.  Enter the Account Recovery Code from below"
-to french "Saisissez votre nom de joueur dans le champ Character. Saisissez ensuite le code de récupération ci -dessous";
-
-translate "in the field labelled for it and click the Have Code button.  If the code is correct, you will be sent a new password and If the code is correct, you will be sent a new password and"
-to french "dans le champ correspondant et cliquez sur le bouton 'Have the code' et si le code est correct, un nouveau mot de passe vous sera envoyé ainsi que";
-
-translate "directions to change your password.  NOTE: The code will expire in 2 hours from the time issued."
-to french "les instructions pour changer votre mot de passe. NOTE: ce code expire 2h après l'envoi.";
-
-translate "If you still have difficulty, please contact support at K1 or"
-to french "Si vous avez des difficultés, merci de contacter le suppor à K1 ou";
-
 translate "call at K1."
 to french "appelez le K1.";
 
-translate "Your Account Recovery Code is: K1"
-to french "Votre code de récupération est: K1";
-
 translate "Game: K1"
 to french "Jeu: K1";
-
 
 translate "You may not create a new character while the developers are working on the server."
 to french "Vous ne pouvez pas créer de personnage pendant que les développeurs travaillent sur le serveur. Essayez un peu plus tard .";
@@ -63,9 +29,6 @@ to french "nom d'usager";
 
 translate "You must select a gender"
 to french "Vous devez choisir un sexe .";
-
-translate "Your passwords must match."
-to french "Vos mots de passes doivent correspondre .";
 
 translate "That character name has been reserved. If you are the one that reserved it, there is no need to go through the character creation process - your character has already been created for you."
 to french "Ce nom est déjà réservé. Si vous avez réservé ce nom, vous n'avez pas à créer un compte, - il a déjà été créé pour vous .";
@@ -103,14 +66,6 @@ to french "Le nom U1(name) ou un nom très semblable, est déjà utilisé .";
 translate "You must type in a name for your player."
 to french "Vous devez entrer votre nom de joueur .";
 
-translate "Privileged users must use a password"
-to french "Vous devez entrer votre mot de passe";
-
-translate loginpleasewait to french neutral
-{
-  ns "branchement"; 
-  }
-  
 translate "That's the wrong password."
 to french "Ce n'est pas le bon mot de passe .";
 

@@ -209,9 +209,6 @@ translate "Stone Shape"
 translate "Stone Pattern"
 	to german "Steinmuster";
 
-translate "Content Advisor"
-	to german "Ratgeber";
-
 translate "Rerandomize the Mine"
 	to german "Mine erneut starten";
 

@@ -15,75 +15,110 @@ to german "Option: Kamera";
 translate "Options: Audio"
 to german "Option: Sound";
 
+translate "Video Options"
+to german "Videooptionen";
 
-translate "Terrain Horizon:"
-to german "Terrain-Horizont:";
+translate "Audio Options"
+to german "Audio Optionen";
 
-translate "Texture Detail:"
-to german "Texturendetails:";
+translate "Terrain Horizon"
+to german "Geländehorizont";
 
-translate "Number of Objects:"
-to german "Objektanzahl:";
+translate "Texture Detail"
+to german "Texturendetails";
 
-translate "Tufts of Grass:"
-to german "Grasdarstellung:";
+translate "Number of Objects"
+to german "Anzahl der Objekte";
 
-translate "Shadow Quality:"
-to german "Schattenqualität:";
+translate "Tufts of Grass"
+to german "Grasbüschel";
 
-translate "Time-of-Day Lighting:"
-to german "Tag/Nacht Anzeige:";
+translate "Shadow Quality"
+to german "Schattenqualität";
 
-translate "Light Intensity:"
-to german "Lichtintensität:";
+translate "Time-of-Day Lighting"
+to german "Tageszeitbeleuchtung";
 
-translate "Advanced Terrain:"
-to german "Erweiterte Darstellung:";
+translate "Light Intensity"
+to german "Lichtintensität";
 
-translate "Fountain Detail:"
-to german "Springbrunnendetails:";
+translate "Advanced Terrain"
+to german "Erweiterte Darstellung";
 
-translate "General Purpose Cam"
-to german "Mehrzweckkamera";
+translate "Fountain Detail"
+to german "Brunnendetails";
 
-translate "Explorer's Cam"
-to german "Entdeckerkamera";
+translate "General Purpose Cam [F5]"
+to german "Mehrzweckkamera [F5]";
+
+translate "Explorer's Cam [F6]"
+to german "Entdeckerkamera [F6]";
 
 translate "Cartographer's Cam"
 to german "Kartographiekamera";
 
-translate "Dueling Cam"
-to german "Duellkamera";
+translate "Dueling Cam [F8][F8][F8]"
+to german "Duellkamera [F8][F8][F8]";
 
 translate "Newbie Cam"
 to german "Einsteigerkamera";
 
-translate "Wheel-in-the-Sky Cam"
-to german "Götterkamera";
+translate "Wheel in the Sky Cam [F8]"
+to german "Fernaufnahme vom Himmel [F8]";
 
-translate "Builder's Cam"
-to german "Weltenschafferkamera";
+translate "Close Wheel in the Sky [F8][F8]"
+to german "Nahaufnahme vom Himmel [F8][F8]";
+
+translate "Builder's Cam [F7]"
+to german "Weltenschafferkamera [F7]";
+
+translate "Free Camera [F7][F7]"
+to german "Freie Kamera [F7][F7] - Rechtsklick halten benutzen";
 
 translate "Reloading graphics.  Please wait."
 to german "Lade Grafiken neu. Bitte warten.";
 
-translate "Wind and Water:"
-to german "Wind und Wasser:";
+translate "Master Volume"
+to german "Gesamtlautstärke";
 
-translate "Footsteps:"
-to german "Laufgeräusche:";
+translate "World (Unassigned sounds)"
+to german "Welt (nicht zugewiesene Klänge)";
 
-translate "Wildlife Sounds:"
-to german "Wildnisgeräusche:";
+translate "Footsteps"
+to german "Fußtritte";
 
-translate "Building Sounds:"
-to german "Gebäudegeräusche:";
+translate "Wildlife"
+to german "Tierwelt";
 
-translate "Interface Sounds:"
-to german "Umgebungsgeräusche:";
+translate "Buildings"
+to german "Gebäude";
 
-translate "Music:"
-to german "Musik:";
+translate "School / University Theme"
+to german "Schule / Universität Themen";
+
+translate "Regional Themes"
+to german "Regionale Themen";
+
+translate "Test Sounds"
+to german "Test Klänge";
+
+translate "Regional Theme Interval"
+to german "Regionale Themen Intervall";
+
+translate "Wind and Water"
+to german "Wind und Wasser";
+
+translate "Wildlife Sounds"
+to german "Wildnisgeräusche";
+
+translate "Building Sounds"
+to german "Gebäudegeräusche";
+
+translate "Interface Sounds"
+to german "Umgebungsgeräusche";
+
+translate "Music"
+to german "Musik";
 
 translate "Audio Settings"
 to german "Soundeinstellungen";

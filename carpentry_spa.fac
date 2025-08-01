@@ -15,7 +15,7 @@ translate Slate to spanish masculine
 ns "Pizarra"; np "Pizarra";
 }
 
-translate StoneBlade to spanish masculine
+translate SlateBlade to spanish masculine
 {
 ns "Cuchilla de Piedra"; np "Cuchillas de Piedra";
 }

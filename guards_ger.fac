@@ -29,7 +29,7 @@ to german "O1(^tsn) O1(sn) ist beschäftigt. Bitte warte.";
 translate "You are too tired to do difficult work. Rest another N1 seconds. Higher Endurance will help you recover faster."
 to german "Du bist zu müde, um schwere Arbeit zu verrichten. Raste weitere N1 Sekunden. Höhere Ausdauer würde dir helfen schneller zu regenerieren.";
 
-translate "You head is spinning. Rest another N1 seconds. Higher Focus skill will help you recover faster."
+translate "Your head is spinning. Rest another N1 seconds. Higher Focus skill will help you recover faster."
 to german "Dir ist schwindelig. Raste weitere N1 Sekunden. Eine höhere Fokus-Fertigkeit würde dir helfen schneller zu regenerieren.";
 
 translate "You're trying to go too fast. Rest another N1 seconds. A higher Speed skill will help you work faster."

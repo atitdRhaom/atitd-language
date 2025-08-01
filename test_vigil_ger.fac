@@ -1,0 +1,157 @@
+module Vigil_ger;
+//***************************************************************************
+//**                                                                       **
+//**               source-code for the translation of                      **
+//**               "A Tale in the Desert" by eGenesis                      **
+//** German Version: "Kemet - A Tale in the Desert" published by MDO Ent.  **
+//**    (C)opyright 2002-2006 by MDO Entertainment	                   **
+//**                                                                       **
+//***************************************************************************
+
+translate SacrificialBonfire to german neutercollective
+{
+swa "Opferfeuer"; 
+sn "Opferfeuer"; sg "Opferfeuer"; sd "Opferfeuer"; sa "Opferfeuer";
+pn "Opferfeuer"; pg "Opferfeuer"; pd "Opferfeuer"; pa "Opferfeuer";
+}
+translate Vigil to german masculine
+{
+swa "Test der Mahnwache"; 
+sn "Test der Mahnwache"; sg "Test der Mahnwache"; sd "Test der Mahnwache"; sa "Test der Mahnwache";
+pn "Test der Mahnwache"; pg "Test der Mahnwache"; pd "Test der Mahnwache"; pa "Test der Mahnwache";
+}
+
+translate "Principles of the Vigil will help you build a Sacrificial Bonfire. Several other skills and materials are required, however, all of that is optional: Team up with others to build the bonfire itself, and get credit for Principles of the Vigil after you have made your first Sacrifice."
+to german "Die Prinzipien der Mahnwache helfen dir beim Bau eines Operfeuers. Weitere verschiedene Fertigkeiten und Materialien sind notwendig, darum ist es wichtig, dich mit anderen Spielern zusammenzuschließen, mit ihnen gemeinsam das Opferfeuer zu bauen und so Punkte zu erhalten, nachdem du das erste Opfer dargebracht hast.";
+
+translate "Locate a Common Altar"
+to german "Suche einen gewöhnlichen Altar";
+translate "Gather wood from a tree"
+to german "Sammle Holz von einem Baum";
+translate "Make Firebricks using a Box Kiln"
+to german "Brenne Feuerziegel in einem Kastenofen";
+translate "Crush Flax Seeds for Oil at a Kitchen"
+to german "Zermahle in einer Küche Flachssaaten zu Öl";
+translate "Make a Silver bowl using a Casting Box"
+to german "Stelle in einer Gießerei eine Silberschale her";
+translate "Build a Sacrificial Bonfire"
+to german "Baue ein Opferfeuer";
+translate "Make a Sacrifice"
+to german "Bringe ein Opfer dar";
+
+translate "You have completed Principles of the Vigil. If you choose, complete additional sacrifices to pass the Test of The Vigil."
+to german "Du hast die Prinzipien der Mahnwache gemeistert. Wenn du möchtest, vollende weitere Opferfeuer, um den Test der Mahnwache zu bestehen.";
+
+translate "Verify this Altar for Principles of the Vigil"
+to german "Bestimme diesen Altar für die Prinzipien der Mahnwache";
+
+translate "Any spot within 96 feet of here would be an excellent spot to build a Sacrificial Bonfire for the Test of the Vigil."
+to german "Jeder Punkt innerhalb 96 Fuß würde ein idealer Platz für ein Opferfeuer für den Test der Mahnwache sein.";
+
+translate "Conduct a Vigil using a Sacrificial Bonfire built near an Altar. Visions will come to the participants describing required sacrifices. The visions will come faster as the Vigil increases in length. Scores are based on the number of sacrifices made, and of the length of the Vigil itself."
+to german "Führe eine Mahnwache an einem Opferfeuer in der Nähe eines Altares durch. Es werden dir Visionen der gewünschten Opfergaben erscheinen. Die Visionen werden schneller kommen, je länger die Mahnwache andauert. Die Wertung richtet sich nach der Anzahl der erbrachten Opfer und der Länge der Mahnwache selbst.";
+
+translate "Sacrificial Bonfire"
+to german "Opferfeuer";
+
+translate "Sacrificial Bonfires must be built near altars"
+to german "Opferfeuer müssen in der Nähe von Altären gebaut werden";
+
+translate "To build a Sacrificial Bonfire you need:"
+to german "Um ein Opferfeuer zu bauen benötigst du:";
+
+translate "Fantastic! Sacrificial Bonfires are very demanding projects. When you light one, you'll have only fifteen minutes to perform the first Sacrifice, or else it will go out. Sacrifices can be basic goods like flax, grass, and slate, or rare and exotic goods. Before lighting, be sure you have good connections that you can count on in a pinch."
+to german "Fantastisch! Opferfeuer gehören zu den komplizierten Projekten. Wenn du eines entzündest, hast du nur 15 Minuten Zeit, um dein erstes Opfer zu zelebrieren oder es wird erlöschen. Opfergaben können Grundstoffe wie Flachs, Gras oder Schiefer sein oder auch seltene und exotische Dinge. Bevor du das Feuer entzündest, stelle sicher, dass du auf die Hilfe Anderer zählen kannst.";
+
+translate "Wine at least 3 vintages old"
+to german "Wein mit mind. 3 Jahrgängen";
+
+translate "Wine with at least 4% alcohol"
+to german "Wein mit mind. 4% Alkohol";
+
+translate "Wine with a nutty flavor"
+to german "Wein mit Nußaroma";
+
+translate "Error in Requirement list - Call a Developer"
+to german "Fehler in der Anforderungsliste - Rufe einen Entwickler";
+
+translate "Remove the next sacrifice"
+to german "Lösche das nächste Opfer";
+
+translate "Sacrifices"
+to german "Opfergaben";
+
+translate "Within ONE MINUTE"
+to german "Innerhalb 1 MINUTE";
+
+translate "Within Five Minutes"
+to german "Innerhalb 5 MINUTEN";
+
+translate "Within Twenty Minutes"
+to german "Innerhalb 20 MINUTEN";
+
+translate "Within One Hour"
+to german "Innerhalb 1 STUNDE";
+
+translate "Longer than One Hour"
+to german "Mehr als 1 Stunde";
+
+translate "The bonfire has gone out."
+to german "Das Feuer ist erloschen";
+
+translate "Complete the sacrifice as a GM?"
+to german "Opfere als GM?";
+
+translate "You don't have "
+to german "Dir fehlt ";
+
+translate "Select an item for the sacrifice: "
+to german "Wähle ein Objekt als Opfergabe: ";
+
+translate "Checking..."
+to german "Prüfe...";
+
+translate "That does not match the description: "
+to german "Das entspricht nicht den Anforderungen: ";
+
+translate "Unknown requirement type. Call a developer."
+to german "Unbekannter Anforderungstyp. Rufe einen Entwickler.";
+
+translate "You have now completed N1 of this Sacrificial Bonfires's N2 sacrifices."
+to german "Du hast nun N1 der für das Opferfeuer erforderlichen N2 Opferungen durchgeführt.";
+
+translate "Making a Sacrifice allowed you to skip some steps in Principles of The Vigil - smart move!"
+to german "Eine Opferung erlaubt dir, ein paar Punkte in den Prinzipien der Mahnwache zu überspringen - cleverer Zug!";
+
+translate "offering"
+to german "opfern";
+
+translate "The Test of the Vigil"
+to german "Der Test der Mahnwache";
+
+translate "Check my score"
+to german "Prüfe meine Bewertung";
+
+translate "You have made N1 sacrifices, for a total of N2 points. Points for Vigils in progress are not included until each Vigil completes. "
+to german "Du hast N1 Opfer dargebracht mit insgesamt N2 Punkten. Punkte für noch laufende Mahnwachen werden nicht mitberechnet, solange nicht jede Wache abgeschlossen wurde.";
+
+translate "The Bonfire is almost out"
+to german "Das Feuer ist fast erloschen";
+
+translate "The Bonfire will burn for N1"
+to german "Das Feuer brennt für N1";
+
+translate "Could not find an extinguished bonfire near here."
+to german "Kann kein erloschenes Feuer ringsherum entdecken.";
+
+translate "Light this Sacrificial Bonfire"
+to german "Entzünde dieses Opferfeuer";
+
+translate "Egypt recognizes U1 for passing The Test of the Vigil."
+to german "Ägypten ehrt U1(name) mit dem Bestehen des Tests der Mahnwache.";
+
+translate "Retaining N1 advances."
+to german "N1 Erfahrungen zurückbehalten.";
+
+translate "You must let the bonfire burn out on it's own."
+to german "Du mußt das Feuer von alleine ausbrennen lassen.";

@@ -238,21 +238,6 @@ to french "U1(name) a transmis O1(np) (N1).";
 translate "Are you sure you want to bulldoze ALL O1?"
 to french "Voulez-vous vraiment raser tous les O1(np) ?";
 
-translate "To change password, type:"
-to french "Pour changer votre mot de passe, tapez :";
-
-translate "/password <oldpassword> <newpassword> <newpassword>"
-to french "/password <mot de passe actuel> <nouveau mot de passe> <nouveau mot de passe>";
-
-translate "Blank passwords not allowed."
-to french "Les mots de passe vides ne sont pas acceptés.";
-
-translate "Passwords must match."
-to french "Les deux mots de passe doivent correspondre.";
-
-translate "Password changed."
-to french "Mot de passe modifié.";
-
 translate "U1 not found in player database."
 to french "U1(name) n'existe pas dans la base de joueurs.";
 

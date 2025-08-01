@@ -59,12 +59,6 @@ to german "Baue";
 translate "Cancel"
 to german "Abbrechen";
 
-translate "ok"
-to german "Ok";
-
-translate "?"
-to german "?";
-
 translate "To build a O1 you need:"
 to german "Um O1(tsn) O1(sn) zu bauen benötigst Du:";
 

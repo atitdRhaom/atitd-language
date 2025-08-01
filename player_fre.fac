@@ -939,8 +939,7 @@ translate "Passwort2"
 to french "Mot de passe 2";
 translate "You must select a gender"
 to french "Choisissez un sexe";
-translate "Your passwords must match."
-to french "Les mots de passe doivent correspondre.";
+
 translate "The Username U1 is already taken."
 to french "Le nom U1(name) est déjà utilisé.";
 
@@ -968,9 +967,6 @@ to french "Identification du personnage : U1(name)";
 
 translate "You must type in a name for your player."
 to french "Vous devez entrer un nom pour votre personnage.";
-
-translate "Privileged users must use a password"
-to french "Les utilisateurs privilégiés doivent utiliser un mot de passe";
 
 translate "No such player."
 to french "Joueur inconnu.";
@@ -1098,12 +1094,6 @@ to french "Votre compte a été annulé. Pour le réactiver, contactez contact@alche
 
 translate "Warp to random starting spot"
 to french "Me téléporter à un point aléatoire";
-
-translate "enter email address for newsletter"
-to french "Entrer une adresse électronique pour le bulletin d'information";
-
-translate "Email address? Enter None to skip newsletter."
-to french "Adresse courrier ? Tapez None pour désactiver.";
 
 translate "Select a language"
 to french "Choix de la langue";

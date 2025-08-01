@@ -303,8 +303,6 @@ translate steelpot to french masculine { ns "Pot en acier"; np "Pots en acier"; 
 
 translate HeavyLeadBowl to french masculine { ns "Récipient de plomb"; np "Récipient de plomb"; }
 
-translate coppercookpots to french masculine { ns "Pot de cuisson en cuivre"; np "Pots de cuisson en cuivre"; }
-
 translate SilverBowl to french masculine { ns "Récipient d'argent"; np "Récipients d'argent"; }
 
 translate shearingchisel to french masculine { ns "Ciseau de coupe pour joyaux"; np "Ciseaux de coupe pour joyaux";}

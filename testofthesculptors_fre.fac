@@ -119,15 +119,6 @@ to french "Tour N1";
 translate "Welcome to the K1. This team consists of: K2"
 to french "Bienvenue dans l'K1. Cette Equipe est constituée par K2";
 
-// translate "Projects/Tests/O1/Build x Sculpture")
-// to french "Projets/Epreuves/O1(ns)/Construire x Sculptures";
-
-//  if (!actor->eHasList(req)) ReqFail(string("To build the ",x," Sculpture you néd: "),req);
-  
-//  Item("Utility/Tear down this ",teamSculpture);
-
-//  var text=actor->AskQuestionText(string("Are you sure you want to tear this sculpture down?\nAll loaded items will be lost and the ",teamsculpture," will have to be rebuilt. To procéd, type DESTORY"),"",0);
-  
 translate "U1 has torn down the sculpture."
 to french "U1(name) a détruit la scultpure";
 

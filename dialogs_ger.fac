@@ -14,9 +14,6 @@ translate "Max"
 translate "Cancel"
 	to german "Abbruch";
 
-translate "Ok"
-	to german "Ok";
-
 translate "close"
 	to german "schlieﬂen";
 

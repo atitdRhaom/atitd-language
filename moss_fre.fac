@@ -1,12 +1,8 @@
-module moss_fre;
+Module moss_fre;
 
 translate Moss to french feminine
 {
 	ns "Mousse"; np "Mousses";
-	}
-translate Herbiculture to french feminine
-{
-	ns "Herbiculture"; np "Herbiculture";
 	}
 
 //menues
@@ -243,9 +239,3 @@ to french "O1(ns), O2(ns), O3(ns), O4(ns), O5(ns), O6(ns)";
 
 translate "O1, O2, O3, O4, O5, O6, O7"
 to french "O1(ns), O2(ns), O3(ns), O4(ns), O5(ns), O6(ns), O7(ns)";
-
-
-
-//objects
-translate "Herbiculture"
-to french "Herbiculture";

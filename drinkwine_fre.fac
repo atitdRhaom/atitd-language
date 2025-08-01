@@ -275,12 +275,12 @@ to french "Demander un carnet d'oenologue";
 translate "Ask for a Sommalier Notebook"
 to french "Demander un carnet de sommelier";
 
-translate "You receive a Beginner Notebook. Review it from the Special menu."
-to french "Vous recevez un carnet de débutant. Consultez le via votre menu Spécial.";
-translate "You receive a Enthusiast Notebook. Review it from the Special menu."
-to french "Vous recevez un carnet de passioné. Consultez le via votre menu Spécial.";
-translate "You receive a Oenophile Notebook. Review it from the Special menu."
-to french "Vous recevez un carnet d'oenologue. Consultez le via votre menu Spécial.";
+translate "You receive a Beginner Notebook. Review it from the Player Information menu."
+to french "Vous recevez un carnet de débutant. Consultez le via votre menu Player Information.";
+translate "You receive a Enthusiast Notebook. Review it from the Player Information menu."
+to french "Vous recevez un carnet de passioné. Consultez le via votre menu Player Information.";
+translate "You receive a Oenophile Notebook. Review it from the Player Information menu."
+to french "Vous recevez un carnet d'oenologue. Consultez le via votre menu Player Information.";
 
 translate "Wine Notebooks"
 to french "Carnets de vins";

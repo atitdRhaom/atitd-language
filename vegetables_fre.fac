@@ -1,28 +1,27 @@
-module Vegetables_fre;
+Module Vegetables_fre;
 
-
-translate onionbed2 to french masculine
+translate onionbed to french masculine
 { ns "Plant d'oignon"; np "Plants d'oignons";}
 
-translate carrotbed2 to french masculine
+translate carrotbed to french masculine
 { ns "Plant de carotte"; np "Plants de carottes";}
 
-translate leekbed2 to french masculine
+translate leekbed to french masculine
 { ns "Plant de poireau"; np "Plants de poireaux";}
 
-translate cabbagebed2 to french masculine
+translate cabbagebed to french masculine
 { ns "Plant de choux"; np "Plants de choux";}
 
-translate garlicbed2 to french masculine
+translate garlicbed to french masculine
 { ns "Plant d'ail"; np "Plants d'ails";}
 
-translate watermelonbed2 to french masculine
+translate watermelonbed to french masculine
 { ns "Plant de pastèque"; np "Plants de pastèques";}
 
-translate Cucumberbed2 to french masculine
+translate Cucumberbed to french masculine
 { ns "Plant de concombre"; np "Plants de concombres";}
 
-translate eggplantbed2 to french masculine
+translate eggplantbed to french masculine
 { ns "Plant d'aubergine"; np "Plants d'aubergines";}
 
 translate ccabbageseeds to french feminine

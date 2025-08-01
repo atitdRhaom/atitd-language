@@ -1,4 +1,4 @@
-module Moss_ger;
+Module Moss_ger;
 //***************************************************************************
 //**                                                                       **
 //**               source-code for the translation of                      **
@@ -14,11 +14,6 @@ translate Moss to german neuter
 swa "Moos";
   sn "Moos"; sg "Mooses"; sd "Moos"; sa "Moos";
   pn "Moose"; pg "Moose"; pd "Moosen"; pa "Moose";
-}
-translate Herbiculture to german feminine
-{
-swa "Kräuterkunde";
-sn "Kräuterkunde"; pn "Kräuterkunde";
 }
 
 //menues
@@ -154,12 +149,3 @@ to german "Gesprenkelt";
 
 translate "Green"
 to german "Grün";
-
-
-
-
-
-
-//objects
-translate "Herbiculture"
-to german "Kräuterkunde";

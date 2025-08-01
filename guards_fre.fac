@@ -27,7 +27,7 @@ to french "O1(^cns) O1(ns) est utilisé. Veuillez patienter.";
 translate "You are too tired to do difficult work. Rest another N1 seconds. Higher Endurance will help you recover faster."
 to french "Vous êtes trop fatigué pour reprendre le travail. Reposez-vous encore N1 secondes. Une meilleure endurance vous permettra de récupérer plus rapidement.";
 
-translate "You head is spinning. Rest another N1 seconds. Higher Focus skill will help you recover faster."
+translate "Your head is spinning. Rest another N1 seconds. Higher Focus skill will help you recover faster."
 to french "Vous avez la tête qui tourne. Reposez-vous encore N1 secondes. Une meilleure Concentration vous permettra de retrouver vos esprits plus rapidement. .";
 
 translate "You're trying to go too fast. Rest another N1 seconds. A higher Speed skill will help you work faster."

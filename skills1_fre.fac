@@ -1,8 +1,5 @@
 module skills1_fre;
  
-translate "Projects"
-to french "Projets";
-
 translate "You have learned O1"
 to french "Vous avez appris O1(ns)";
 
@@ -399,15 +396,6 @@ ns "Greffes avancées"; np "Greffes avancées";
 translate "Allows interbreeding strains of some plants."
 to french "Permet la création de nouvelles variétés de plantes.";
 
-//SEED REGISTRY
-
-translate SeedRegistry to french feminine
-{
-ns "Nomenclature végétale"; np "Nomenclature végétale";
-}
-translate "Creates a global registry of seed types."
-to french "Permet la création d'un registre global de graines.";
-
 //ANIMAL HUSBANDRY
 
 translate AnimalHusbandry to french masculine
@@ -761,3 +749,6 @@ to french "Vous apprennez la compétence Force Rythmique. Pour l'utiliser, vous a
 
 translate "Allows you to retrieve some of the materials when you tear down obsolete buildings."
 to french "Permet de récupérer une partie du matériel lorsque vous détruisez un bâtiment obsolète";
+
+translate "K1 - Level: N1/N2"
+to french "K1 - Level: N1/N2";

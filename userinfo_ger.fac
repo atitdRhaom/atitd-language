@@ -152,12 +152,6 @@ translate "Last Location K1 K2 K3"
 translate "Travel Time K1"
   to german "Reisezeit K1";
 
-translate "Email K1 (Verified)"
-  to german "Email K1 (geprüft)";
-
-translate "Email K1 (Not Verified)"
-  to german "Email K1 (nicht geprüft)";
-
 translate "IP Adress"
   to german "IP Adresse";
 

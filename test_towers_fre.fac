@@ -393,9 +393,6 @@ to french "Vérifier le coût de construction/";
 translate "To build a O1:\n\n"
 to french "Pour construire O1(uns) O1(ns):\n\n";
 
-translate "Projects"
-to french "Projets";
-
 translate "Test of Towers: O1"
 to french "Épreuve des Tours: O1(ns)";
 
