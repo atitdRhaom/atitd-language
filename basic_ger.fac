@@ -3,22 +3,35 @@ Module Basic_Ger;
 //**                                                                       **
 //**               source-code for the translation of                      **
 //**               "A Tale in the Desert" by eGenesis                      **
-//** 				German Version: Astrid "Infinyti" Werner 							**
-//**    								 2011                                        **
+//**            German Version: Astrid "Infinyti" Werner                   **
+//**                               2011                                    **
 //**                                                                       **
 //***************************************************************************
 
-//Nominativ: wer oder was?
-//Genitiv: wessen?
-//Dativ: wem?
-//Akkusativ: wen oder was?
 
+// first letter
+// d = Bestimmter Artikel (der, die, das)
+// t = Demonstrativpronomen
+// a = Unbestimmter Artikel (kein plural)
+// k = Negativartikel (Negation)
+
+// second letter
+// s = Singular
+// p = Plural
+
+// third letter
+// n = Nominativ: wer oder was?
+// g = Genitiv: wessen?
+// d = Dativ: wem?
+// a = Akkusativ: wen oder was?
 
 // Entity masculine, feminine, neuter, masculinecollective, femininecollective, neutercollective;
 
+
+// adjective describing traits or qualities associated with men or a masculine presentation
 Translate masculine to German
 {
-  dsn "der"; dsg "des"; dsd "dem"; dsa "den"; 
+  dsn "der"; dsg "des"; dsd "dem"; dsa "den";
   dpn "die"; dpg "der"; dpd "den"; dpa "die";
 
   tsn "dieser"; tsg "dieses"; tsd "diesem"; tsa "diesen";
@@ -26,12 +39,14 @@ Translate masculine to German
 
   asn "ein"; asg "eines"; asd "einem"; asa "einen";
 
-  ksn "kein";   kpn "keine";
+  ksn "kein"; ksg "keines"; ksd "keinem"; ksa "keinen";
+  kpn "keine"; kpg "keiner"; kpd "keinen"; kpa "keine";
 }
 
+// adjective describing traits or qualities associated with female or a feminine presentation
 Translate feminine to German
 {
-  dsn "die"; dsg "der"; dsd "der"; dsa "die"; 
+  dsn "die"; dsg "der"; dsd "der"; dsa "die";
   dpn "die"; dpg "der"; dpd "den"; dpa "die";
 
   tsn "diese"; tsg "dieser"; tsd "dieser"; tsa "diese";
@@ -39,38 +54,43 @@ Translate feminine to German
 
   asn "eine"; asg "einer"; asd "einer"; asa "eine";
 
-  ksn "keine";  kpn "keine";
+  ksn "keine"; ksg "keiner"; ksd "keiner"; ksa "keine";
+  kpn "keine"; kpg "keiner"; kpd "keinen"; kpa "keine";
 }
 
 Translate neuter to German
 {
-  dsn "das"; dsg "des"; dsd "dem"; dsa "das"; 
+  dsn "das"; dsg "des"; dsd "dem"; dsa "das";
   dpn "die"; dpg "der"; dpd "den"; dpa "die";
 
-  tsn "dieses"; tsg "diesem"; tsd "diesem"; tsa "dieses";
+  tsn "dieses"; tsg "dieses"; tsd "diesem"; tsa "dieses";
   tpn "diese"; tpg "dieser"; tpd "diesen"; tpa "diese";
 
   asn "ein"; asg "eines"; asd "einem"; asa "ein";
 
-  ksn "kein"; kpn "keine";
+  ksn "kein"; ksg "keines"; ksd "keinem"; ksa "kein";
+  kpn "keine"; kpg "keiner"; kpd "keinen"; kpa "keine";
 }
 
-Translate masculinecollective to German // For words like 'clay'
+// For words like 'clay', something of a person but not the person himself
+Translate masculinecollective to German
 {
-  dsn "der"; dsg "des"; dsd "dem"; dsa "den"; 
+  dsn "der"; dsg "des"; dsd "dem"; dsa "den";
   dpn "die"; dpg "der"; dpd "den"; dpa "die";
 
   tsn "dieser"; tsg "dieses"; tsd "diesem"; tsa "diesen";
   tpn "diese"; tpg "dieser"; tpd "diesen"; tpa "diese";
 
   asn "ein"; asg "eines"; asd "einem"; asa "einen";
-  
-  ksn "kein"; kpn "keinen";
+
+  ksn "kein"; ksg "keines"; ksd "keinem"; ksa "keinen";
+  kpn "keine"; kpg "keiner"; kpd "keinen"; kpa "keine";
 }
 
-Translate femininecollective to German // For words like 'carrot'
+// For words like 'carrot', something of a person but not the person himself
+Translate femininecollective to German
 {
-  dsn "die"; dsg "der"; dsd "der"; dsa "die"; 
+  dsn "die"; dsg "der"; dsd "der"; dsa "die";
   dpn "die"; dpg "der"; dpd "den"; dpa "die";
 
   tsn "diese"; tsg "dieser"; tsd "dieser"; tsa "diese";
@@ -78,24 +98,27 @@ Translate femininecollective to German // For words like 'carrot'
 
   asn "eine"; asg "einer"; asd "einer"; asa "eine";
 
-  ksn "keine"; kpn "keine";
+  ksn "keine"; ksg "keiner"; ksd "keiner"; ksa "keine";
+  kpn "keine"; kpg "keiner"; kpd "keinen"; kpa "keine";
 }
 
-Translate neutercollective to German // For words like 'water'
+// For words like 'water'
+Translate neutercollective to German
 {
-  dsn "das"; dsg "des"; dsd "dem"; dsa "das"; 
+  dsn "das"; dsg "des"; dsd "dem"; dsa "das";
   dpn "die"; dpg "der"; dpd "den"; dpa "die";
 
-  tsn "dieses"; tsg "diesem"; tsd "diesem"; tsa "dieses";
+  tsn "dieses"; tsg "dieses"; tsd "diesem"; tsa "dieses";
   tpn "diese"; tpg "dieser"; tpd "diesen"; tpa "diese";
 
-  asn "ein"; asg "eines"; asd "einem"; asa "einem";
+  asn "ein"; asg "eines"; asd "einem"; asa "ein";
 
-  ksn "kein"; kpn "keine";
+  ksn "kein"; ksg "keines"; ksd "keinem"; ksa "kein";
+  kpn "keine"; kpg "keiner"; kpd "keinen"; kpa "keine";
 }
 
 translate "Cancel"
-to german "Abbruch";
+to german "Abbrechen";
 
 translate "Main"
 to german "Hauptkanal";
@@ -110,10 +133,10 @@ translate "This is your O1"
 to german "O1(^tsn) O1(sn) gehört dir.";
 
 translate "Do you really want to tear down the O1?"
-to german "Willst du O1(^tsn) O1(sn) wirklich abreißen?";
+to german "Willst du O1(^tsn) O1(sn) wirklich abreiÃŸen?";
 
 translate "Tear this down by order of the Special Salvage law."
-to german "Reiße dies aufgrund des speziellen Bergungsgesetzes ab.";
+to german "Reiï¿½e dies aufgrund des speziellen Bergungsgesetzes ab.";
 
 translate "U1 has left the channel."
 to german "U1(name) hat den Kanal verlassen!";

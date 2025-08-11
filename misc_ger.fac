@@ -47,9 +47,6 @@ to german "Bist du sicher, dass du O1(tsn) O1(sn) abreißen möchtest?";
 translate "Tear Down"
 to german "Reiße ab";
 
-translate "Cancel"
-to german "Abbruch";
-
 translate "Owner is U1"
 to german "Eigentümer ist U1(name)";
 

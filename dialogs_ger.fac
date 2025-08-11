@@ -11,9 +11,6 @@ module dialogs_ger;
 translate "Max"
 	to german "Max.";
 
-translate "Cancel"
-	to german "Abbruch";
-
 translate "close"
 	to german "schlieﬂen";
 

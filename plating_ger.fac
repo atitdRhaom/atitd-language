@@ -1,0 +1,8 @@
+Module Plating_ger;
+
+translate ChemBath to german neuter 
+{
+  swa "Chemisches Bad";
+  sn "chemisches Bad"; sg "chemisches Bades"; sd "chemischem Bad"; sa "chemischen Bad";
+  pn "chemische Bäder"; pg "chemische Bäder"; pd "chemischen Bädern"; pa "chemischer Bäder";
+}
