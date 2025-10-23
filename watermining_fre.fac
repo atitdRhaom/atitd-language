@@ -60,3 +60,26 @@ to french "Angle de N1";
 
 translate "Pitch is now set to N1"
 to french "L'angle est maintenant de N1";
+
+translate "Empty gem basket"
+to french "Panier de gemmes vide";
+
+translate "Wind the mechanism"
+to french "Remonte le mécanisme";
+
+translate "Basket"
+to french "Panier";
+
+translate "Replace basket"
+to french "Remplace le panier";
+
+translate "Health"
+to french "Santé";
+
+translate "To install a Basket, you need:"
+to french "Pour installer un panier, vous avez besoin de:";
+
+translate papyrusbasket to french masculine
+{
+  ns "Panier en papyrus"; np "Panier en papyrus";
+}
