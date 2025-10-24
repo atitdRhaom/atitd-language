@@ -97,13 +97,13 @@ translate "With high dexterity, you are able to keep the bones of this rabbit in
 to french "Avec une grande dextérité, vous avez pu préserver les os de ce lapin après l'avoir abbatu";
 
 translate "Add cabbage to turn into rabbit food"
-to french "Ajoutez du chou pour le transformer en nourriture pour lapins";
+to french "Ajoutez du chou pour en faire de la nourriture pour lapin";
 
 translate "Add carrots to turn into rabbit food"
-to french "Ajoutez des carottes pour en faire de la nourriture pour lapins";
+to french "Ajoutez des carottes pour en faire de la nourriture pour lapin";
 
 translate "Add rabbit food"
-to french "Ajouter de la nourriture pour lapins";
+to french "Ajoutez de la nourriture pour lapin";
 
 translate AnimalBones to french masculine
 {
